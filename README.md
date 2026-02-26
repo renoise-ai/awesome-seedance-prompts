@@ -58,10 +58,10 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **97** |
+| 📝 Total Prompts | **155** |
 | ⭐ Featured | **0** |
-| 💡 Tips & Tutorials | **85** |
-| 🔄 Last Updated | **2026-02-25** |
+| 💡 Tips & Tutorials | **124** |
+| 🔄 Last Updated | **2026-02-26** |
 
 ---
 
@@ -69,11 +69,261 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 > 📝 Sorted by publish date (newest first)
 
-### 9:16 vertical smartphone filming perspective, realistic bystander live-recording footage, subtle handheld shake, auto...
+### 人物
+• 女主（林晚）：24岁，清冷干练，看似普通，实则深藏不露，气场全开。
+• 男二（赵天宇）：25岁，嚣张富二代，看...
+
+> Seedance 2.0生成都市短剧视频。 提示词： 人物 • 女主（林晚）：24岁，清冷干练，看似普通，实则深藏不露，气场全开。 • 男二（赵天宇）：25岁，嚣张富二代，看不起女主，上门退婚羞辱。 • 女二（闺蜜）：助攻，负责补刀爆点。 场景 现代轻奢客厅，简单高级，不浮夸。 【0-3秒｜镜1】 • https://t.co/wUt99w8Knb
+
+#### 📝 Prompt
+
+```
+人物
+• 女主（林晚）：24岁，清冷干练，看似普通，实则深藏不露，气场全开。
+• 男二（赵天宇）：25岁，嚣张富二代，看不起女主，上门退婚羞辱。
+• 女二（闺蜜）：助攻，负责补刀爆点。
+场景
+现代轻奢客厅，简单高级，不浮夸。
+```
+
+#### 💡 Tips
+
+Seedance 2.0生成都市短剧视频。
+
+提示词：
+人物
+• 女主（林晚）：24岁，清冷干练，看似普通，实则深藏不露，气场全开。
+• 男二（赵天宇）：25岁，嚣张富二代，看不起女主，上门退婚羞辱。
+• 女二（闺蜜）：助攻，负责补刀爆点。
+场景
+现代轻奢客厅，简单高级，不浮夸。
+【0-3秒｜镜1】
+• https://t.co/wUt99w8Knb
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026874509215805444/img/FiTkxkqb0UnugUnh.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026874635195920771)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026874635195920771)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2026874635195920771) | **Published:** Feb 26, 2026
+
+---
+
+### 真人写实风格，竖屏，第一人称驾驶座视角。夜晚车内，挡风玻璃上雨滴滑落，外面霓虹灯光模糊成光晕。副驾驶座上坐着一位气质优雅...
+
+> 中国上古神话-女娲补天 Seedance 2.0 提示词 Prompt在评论区 https://t.co/PxXDse2mLQ
+
+#### 📝 Prompt
+
+```
+真人写实风格，竖屏，第一人称驾驶座视角。夜晚车内，挡风玻璃上雨滴滑落，外面霓虹灯光模糊成光晕。副驾驶座上坐着一位气质优雅的年轻亚洲女性，栗色波浪长发，穿着米色针织开衫和黑色吊带，精致的锁骨若隐若现。动作描述：她先是看着窗外出神，然后慢慢转头看向镜头，嘴角上扬带着温柔的笑意轻声说：在想什么呢，这么认真地看着我。她伸手撩了撩头发，另一只手自然地放在腿上。镜头缓缓下移，她修长的双腿交叠，脱下一只黑色细跟高跟鞋，赤脚轻轻晃动。车内氛围暧昧温馨，光影层次丰富，电影级画质。
+```
+
+#### 💡 Tips
+
+中国上古神话-女娲补天
+
+Seedance 2.0 提示词
+
+Prompt在评论区 https://t.co/PxXDse2mLQ
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026861639736385536/img/zUUGpYIt2V_7-NY2.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026861824386515357)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026861824386515357)**
+
+**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2026861824386515357) | **Published:** Feb 26, 2026
+
+---
+
+### 真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在...
+
+> 大哥在想什么呢？ Seedance 2.0 提示词prompt： https://t.co/RyJwaneEpP
+
+#### 📝 Prompt
+
+```
+真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在黑色皮沙发上，黑色长发披肩，身穿黑色露肩亮片毛衣，戴着精致项链。 动作描述: 起初她看向旁边，随后转头看向镜头，脸上带着甜美撒娇的笑容开口说话：哎呀，大哥怎么才来呀。镜头随后平滑向下移，展示她修长的大腿。她正在脱掉一只银色满钻的尖头高跟鞋，一只脚已经赤脚踩在反光的地板上，动作自然慵懒。光影质感真实，高清画质。
+```
+
+#### 💡 Tips
+
+大哥在想什么呢？
+
+Seedance 2.0 提示词prompt： https://t.co/RyJwaneEpP
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026846100137877504/img/hmjvQF10idSNHuco.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026846380896190731)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026846380896190731)**
+
+**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2026846380896190731) | **Published:** Feb 26, 2026
+
+---
+
+### 00:00 – 00:05
+A bustling Taipei street. Scooter waiting boxe...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2.0 created this from a single prompt 🤯 PROMPT (English version): 9:16 vertical smartphone filming perspective, realistic bystander live-recording footage, subtle handheld shake, automat...
+> Concept to creation, fully powered and produced with Seedance 2.0. Prompt below 👇 https://t.co/56BDrBHWQg
+
+#### 📝 Prompt
+
+```
+00:00 – 00:05
+A bustling Taipei street. Scooter waiting boxes are packed shoulder to shoulder, buses crawl forward, and the humid air glows with reflected light. The phone camera trembles slightly as it tilts upward.
+
+Voices shout: “Hey—hey! Look up there!”
+
+Between two office towers—
+a Godzilla-sized giant orange tabby cat is wedged in the gap.
+
+Sunlight illuminates the fine texture of its orange fur, each strand rippling naturally in the wind. Massive paw pads press against glass curtain walls; the glass bends and refracts with realistic physical distortion.
+
+Too chubby to squeeze through, the giant cat wiggles left and right in embarrassment. Air-conditioning units drip and rattle. The buildings sway ever so slightly.
+
+---
+
+00:05 – 00:10
+Cut to a low angle from the street. Traffic lights blink. Cars and scooters wait at the crosswalk.
+
+The giant cat slowly lowers its head. Its enormous face looms toward a city bus, heavy with nasal congestion.
+
+Its nose nearly fills the entire frame. Whiskers tremble in the air.
+
+The bus driver calmly reaches out and gently pats its nose.
+
+The next second—
+
+The giant cat unleashes a colossal sneeze.
+
+A shockwave blasts through the intersection: helmets fly off, plastic bags spiral upward, fallen leaves spin violently, scooter mirrors vibrate.
+
+And yet—Taipei locals remain unfazed, scrolling on their phones.
+
+---
+
+00:10 – 00:15 (New helicopter feeding sequence)
+The thunderous roar of rotors fills the air. The vlog camera jerks upward in a hurry.
+
+A heavy twin-rotor helicopter tears across the sky above Zhongxiao East Road’s elevated highway. Suspended beneath it by thick steel cables is a shipping-container-sized red-and-white capsule labeled “Ponstan Cold Medicine.”
+
+The helicopter hovers precisely in front of the giant orange cat, who has just squeezed free from the buildings and is still rubbing its nose.
+
+The cat’s eyes light up. It obediently opens its abyss-like mouth.
+
+The cables release. The enormous capsule drops cleanly into its mouth.
+
+The cat swallows.
+
+A thunderous purr reverberates across the city. Its previously miserable expression transforms instantly into refreshed contentment.
+
+---
+
+00:15 – 00:20
+The giant cat strides lightly toward a bridge spanning the Tamsui River.
+
+Then—
+
+It plops down.
+
+The bridge flexes downward with realistic structural feedback. The entire rush-hour traffic jam freezes in place.
+
+The giant cat lazily rolls onto its side and begins grooming. Its cold symptoms have completely vanished.
+
+The camera slowly pushes in.
+
+It raises its head and looks directly into the lens. In its innocent, oversized eyes, the entire Taipei nightscape and shimmering car lights reflect back.
+
+A mock-documentary narrator speaks in a deep, magnetic, trustworthy voice:
+
+“Ponstan Cold Medicine. One dose does it all.”
+
+Freeze frame on the giant cat’s moist, enormous pupil—
+reflecting neon light.
+```
+
+#### 💡 Tips
+
+Concept to creation, fully powered and produced with Seedance 2.0.
+
+Prompt below 👇 https://t.co/56BDrBHWQg
+
+[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2026666877796364289/pu/img/aLX5u9l1WiYGVW60.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026666929306656832)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026666929306656832)**
+
+**Author:** [Oogie](https://x.com/oggii_0) | **Source:** [Link](https://x.com/oggii_0/status/2026666929306656832) | **Published:** Feb 25, 2026
+
+---
+
+### 1. two people in a cafe, one says, "did you ever see that fo...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> In this test Seedance 2 seamlessly handles switching away from a scene, to something completely different, and then back again. Prompt: 1. two people in a cafe, one says, "did you ever see that foh-fu
+
+#### 📝 Prompt
+
+```
+1. two people in a cafe, one says, "did you ever see that foh-fur movie?", the other: "Yeah, I remember it well.."
+2. cuts to a dark sci-fi night, establishing shot of a modern city in heavy rain, a film noir voiceover says "It was a dark night"
+3. A white classic muscle car is driving through the rain at speed, being chased by police drones
+4. cut to the passenger in the car, they look at the sleek driver, "damn, you can drive", driver changes gear, kicks up the acceleration
+5. cut to an overhead view of the action, car seen racing away, drones following
+6. back to the cafe, first person says: "Such a good movie".
+```
+
+#### 💡 Tips
+
+In this test Seedance 2 seamlessly handles switching away from a scene, to something completely different, and then back again.
+
+Prompt:
+1. two people in a cafe, one says, "did you ever see that foh-fur movie?", the other: "Yeah, I remember it well.."
+2. cuts to a dark sci-fi night, establishing shot of a modern city in heavy rain, a film noir voiceover says "It was a dark night"
+3. A white classic muscle car is driving through the rain at speed, being chased by police drones
+4. cut to the passenger in the car, they look at the sleek driver, "damn, you can drive", driver changes gear, kicks up the acceleration
+5. cut to an overhead view of the action, car seen racing away, drones following
+6. back to the cafe, first person says: "Such a good movie".
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026759933618708480/img/EUIY-1Kk7FtOdEmf.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026760125999100329)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026760125999100329)**
+
+**Author:** [fofr](https://x.com/fofrAI) | **Source:** [Link](https://x.com/fofrAI/status/2026760125999100329) | **Published:** Feb 25, 2026
+
+---
+
+### 【图片 1】为门禁监控画面，保持监控摄像头广角机位不变，12秒竖屏视频。
+
+> Seedance 2.0 创意流之我在停车场的恐怖遭遇🧐 记得看到最后，有惊喜😏 提示词👇 【图片 1】为门禁监控画面，保持监控摄像头广角机位不变，12秒竖屏视频。 https://t.co/delrvKeaiY
+
+#### 📝 Prompt
+
+```
+【图片 1】为门禁监控画面，保持监控摄像头广角机位不变，12秒竖屏视频。
+```
+
+#### 💡 Tips
+
+Seedance 2.0 创意流之我在停车场的恐怖遭遇🧐
+
+记得看到最后，有惊喜😏
+
+提示词👇
+【图片 1】为门禁监控画面，保持监控摄像头广角机位不变，12秒竖屏视频。 https://t.co/delrvKeaiY
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026629170013618176/img/2F5cpGbGen9lkL7l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026629230583337211)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026629230583337211)**
+
+**Author:** [MapleShaw](https://x.com/msjiaozhu) | **Source:** [Link](https://x.com/msjiaozhu/status/2026629230583337211) | **Published:** Feb 25, 2026
+
+---
+
+### 9:16 vertical smartphone filming perspective, realistic byst...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 created this from a single prompt 🤯 PROMPT (English version): 9:16 vertical smartphone filming perspective, realistic bystander live-recording footage, subtle handheld shake, automatic e
 
 #### 📝 Prompt
 
@@ -90,8 +340,20 @@ Overall style strictly maintains a “genuine smartphone live-recording aestheti
 
 #### 💡 Tips
 
-Reddit source:
-https://t.co/yi2guvVUJA
+Seedance 2.0 created this from a single prompt 🤯
+
+PROMPT (English version):
+9:16 vertical smartphone filming perspective, realistic bystander live-recording footage, subtle handheld shake, automatic exposure shifts, focus pulling, authentic environmental audio capture, distant city skyline clearly visible.
+An airport runway situated near the city center, with a background of a modern metropolis filled with dense high-rise buildings. A large twin-engine wide-body passenger jet is in low-altitude approach preparing to land, landing gear fully deployed, engines producing a thunderous roar.
+At the precise instant before touchdown, the aircraft fuselage begins mechanical structural reconfiguration—wings folding and disassembling, fuselage panels sliding and expanding, complex metal components aligning with precision, hydraulic mechanisms extending and rotating, gears and armor plates reconstructing at high velocity.
+Highly intricate industrial-grade mechanical transformation animation, realistic metal textures, pronounced sense of mass and weight, extraordinarily precise mechanical details.
+The aircraft completes its transformation into a colossal metal robot; upon landing, it instantly fractures the runway, sending gravel flying and shockwaves radiating outward.
+The robot then charges into the city at high speed, its footsteps shattering the asphalt pavement, toppling streetlights, overturning vehicles through vibration, shattering building glass, and filling the air with swirling smoke and dust.
+Ultra-photorealistic cinematic-grade imagery, realistic physics-based destruction system, dynamic lighting and shadows, particle effects, and awe-inspiring explosion visuals.
+Overall style strictly maintains a “genuine smartphone live-recording aesthetic,” yet delivers Hollywood-level visual effects and IMAX-grade detail.
+
+Original Prompt in Chinese:
+9:16竖屏手机拍摄视角，真实路人直播录制画面，轻微手持抖动，自动曝光变化，对焦拉动，真实环境收音，远处城市天际线清晰可见。 一座靠近城市中心的机场跑道，背景是高楼林立的现代都市。一架大型双发宽体客运喷气式飞机正在低空进近准备降落，起落架已放下，引擎轰鸣声震撼。 就在即将触地瞬间，飞机机身开始出现机械结构重组—— 机翼折叠分解，机身板块滑动展开，复杂金属零件精准拼接，液压结构伸展旋转，齿轮与装甲片高速重构。 高度复杂工业级机械变形动画，真实金属材质，重量感十足，机械细节极其精密。 飞机完全变形成一台巨型金属机器人，落地瞬间震裂跑道，碎石飞溅，冲击波扩散。 机器人随后冲向城市，高速奔跑，脚步踩碎柏油路面，路灯倒塌，汽车被震翻，建筑玻璃破碎，烟尘弥漫。 超写实电影级画面，真实物理破坏系统，动态光影，粒子特效，震撼爆炸效果。 整体风格保持“手机实拍直播质感”，但拥有好莱坞级别视觉效果与IMAX级细节
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026508950024171521/img/rN9Liql8okLTbBwJ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026510205345763536)
 
@@ -101,17 +363,101 @@ https://t.co/yi2guvVUJA
 
 ---
 
-### A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast sky
+### A flag waves atop the rooftop tower of the Alpine inn.
+
+[cut...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Goblin traveller and his steed. This stuff is almost magical to me - Created with Seedance 2.0 in @capcutapp Image to video with native audio and music. Prompt below ⬇️ 🔊🎧 A rugged mountain tr...
+> Create Ghibli-style animations with Seedance 2.0 🤯 All you need is one image and the right prompt. Here's what to do👇 https://t.co/tMCduE1nuO
+
+#### 📝 Prompt
+
+```
+A flag waves atop the rooftop tower of the Alpine inn.
+
+[cut] Ground-level shot - Two travelers walk across the grass toward the entrance.
+
+[cut] Close-up - The flag snaps harder as the wind briefly intensifies.
+
+[cut] Medium shot - A figure steps outside through the front door.
+
+[cut] Insert shot - A small hanging lantern near the doorway sways.
+
+[cut] Balcony shot - A woman leans over the railing, looking toward the distant mountains. The wind gently moves her hair.
+
+[cut] Various shots of people doing their morning chores.
+
+[cut] Wide shot - The camera slowly rises above the inn, revealing rolling hills and towering mountains in the background. Clouds cast moving shadows across the valley.
+
+No music, no talking.
+```
+
+#### 💡 Tips
+
+Create Ghibli-style animations with Seedance 2.0 🤯
+
+All you need is one image and the right prompt.
+
+Here's what to do👇 https://t.co/tMCduE1nuO
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026673574409617408/img/0DjqprUw3oCNcUU9.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026673713303925128)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026673713303925128)**
+
+**Author:** [Framer 🇱🇹](https://x.com/Framer_X) | **Source:** [Link](https://x.com/Framer_X/status/2026673713303925128) | **Published:** Feb 25, 2026
+
+---
+
+### a man counts out loud from 1 to 10, using his fingers and ho...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2 joins the "cannot count to 10" club: &gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes Pretty sure this is a scary Ryan Reynolds/Ben Stiller hybrid. 
+
+#### 📝 Prompt
+
+```
+a man counts out loud from 1 to 10, using his fingers and holding them up as he goes
+```
+
+#### 💡 Tips
+
+Seedance 2 joins the "cannot count to 10" club:
+
+&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes
+
+Pretty sure this is a scary Ryan Reynolds/Ben Stiller hybrid.
+
+(Variants of this prompt with the numbers explicitly listed also fail) https://t.co/uHLlPtwHhp
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026752765356126208/img/b7yS1sm2zd0xp8aF.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026753439313641906)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026753439313641906)**
+
+**Author:** [fofr](https://x.com/fofrAI) | **Source:** [Link](https://x.com/fofrAI/status/2026753439313641906) | **Published:** Feb 25, 2026
+
+---
+
+### A rugged mountain traveller crosses a snow-covered ridge und...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Goblin traveller and his steed. This stuff is almost magical to me - Created with Seedance 2.0 in @capcutapp Image to video with native audio and music. Prompt below ⬇️ 🔊🎧 A rugged mountain travel
 
 #### 📝 Prompt
 
 ```
 A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast sky. Wind carries light snowfall across the frame. His heavy boots press into fresh snow and scattered stone. The camera tracks low and slightly behind, capturing texture, atmosphere, and drifting frost. Nearby stands a large mountain boar used as a pack animal. Thick bristles catch the wind. Its back is fitted with secured travel supplies: bundled blankets, rope coils, wooden containers, and strapped gear that gently shifts with movement. The traveller reaches the animal, grips the saddle frame, and climbs onto its back in one smooth, practical motion. He leans forward slightly and guides it with a light cue. The boar begins moving down a narrow mountain path. The camera widens as they descend steadily through mist and falling snow, cliffs rising on either side, the valley fading into grey distance.
 ```
+
+#### 💡 Tips
+
+A Goblin traveller and his steed.
+This stuff is almost magical to me - Created with Seedance 2.0 in @capcutapp Image to video with native audio and music. Prompt below ⬇️
+🔊🎧
+
+A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast sky. Wind carries light snowfall across the frame. His heavy boots press into fresh snow and scattered stone. The camera tracks low and slightly behind, capturing texture, atmosphere, and drifting frost. Nearby stands a large mountain boar used as a pack animal. Thick bristles catch the wind. Its back is fitted with secured travel supplies: bundled blankets, rope coils, wooden containers, and strapped gear that gently shifts with movement. The traveller reaches the animal, grips the saddle frame, and climbs onto its back in one smooth, practical motion. He leans forward slightly and guides it with a light cue. The boar begins moving down a narrow mountain path. The camera widens as they descend steadily through mist and falling snow, cliffs rising on either side, the valley fading into grey distance.
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026460482995888128/img/5c0NZ3FLCOkBeM6g.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026461813886374141)
 
@@ -121,19 +467,203 @@ A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast 
 
 ---
 
-### Film-like texture in high-definition photography, handheld follow-shot perspective
+### Build complex 3D action shots in Seedance by using a donor-c...
 
-> Film-like texture in high-definition photography, handheld follow-shot perspective. On the wet streets of a rainy night. A stunningly beautiful girl with cool white skin, an innocent yet slightly ...
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 is a beast in 3D too! 🐅⚔️🕷️ Candy-neon Amazon chase: a fierce warrior riding a giant blue tiger at full sprint, with a massive neon spider closing in. $100M blockbuster energy—built fro
 
 #### 📝 Prompt
 
 ```
-Film-like texture in high-definition photography, handheld follow-shot perspective. On the wet streets of a rainy night.
-
-A stunningly beautiful girl with cool white skin, an innocent yet slightly alluring demeanor, walks ahead, wearing a loose gray knitted sweater.
-
-Colorful neon lights reflect on the wet road surface, with the fine graininess of high sensitivity film and dynamic motion blur.
+Build complex 3D action shots in Seedance by using a donor-collage reference sheet to lock in character/style consistency.  
+Use tight timestamped prompting (time-coded instructions) to precisely control beats and progression within the video (e.g., chase pacing and threat closing in).
 ```
+
+#### 💡 Tips
+
+Seedance 2.0 is a beast in 3D too! 🐅⚔️🕷️
+
+Candy-neon Amazon chase: a fierce warrior riding a giant blue tiger at full sprint, with a massive neon spider closing in. $100M blockbuster energy—built from a donor-collage reference sheet + tight timestamped prompting. https://t.co/Sc4Ig8B8UK
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026804296550100992/img/yPk-1iHbHJMRU4oW.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026804628810338598)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026804628810338598)**
+
+**Author:** [Horace Dodd](https://x.com/horacedodd) | **Source:** [Link](https://x.com/horacedodd/status/2026804628810338598) | **Published:** Feb 25, 2026
+
+---
+
+### Close-up on her hands gripping the paintbrush, knuckles whit...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> First Seedance 2.0 Test! Seedance 5.0 Lite @krea_ai → Seedance 2.0 @capcutapp Prompt: Close-up on her hands gripping the paintbrush, knuckles white, paint dripping down her wrist. Shallow depth of fie
+
+#### 📝 Prompt
+
+```
+Close-up on her hands gripping the paintbrush, knuckles white, paint dripping down her wrist. Shallow depth of field, the blank canvas a soft white blur behind her. She exhales. [cut] Wide shot from behind her, 24mm low angle. She winds back and hurls paint at the canvas. Neon colours explode across the white surface, splattering the walls and floor. The force of the throw carries her forward a step. [cut] Slow push-in, 50mm, tight on the canvas. The paint swirls and morphs into a photorealistic mountain landscape. Detail sharpens as the camera creeps closer. Faint ambient hum builds. [cut] Quick whip pan left to the cat on the paint can. 35mm, eye level. The cat stares directly into camera. Blinks once. Yawns. [cut] Medium shot, 40mm. She turns to camera and shrugs. Freeze frame.
+```
+
+#### 💡 Tips
+
+First Seedance 2.0 Test! 
+
+Seedance 5.0 Lite @krea_ai → Seedance 2.0 @capcutapp
+
+Prompt: Close-up on her hands gripping the paintbrush, knuckles white, paint dripping down her wrist. Shallow depth of field, the blank canvas a soft white blur behind her. She exhales. [cut] Wide shot from behind her, 24mm low angle. She winds back and hurls paint at the canvas. Neon colours explode across the white surface, splattering the walls and floor. The force of the throw carries her forward a step. [cut] Slow push-in, 50mm, tight on the canvas. The paint swirls and morphs into a photorealistic mountain landscape. Detail sharpens as the camera creeps closer. Faint ambient hum builds. [cut] Quick whip pan left to the cat on the paint can. 35mm, eye level. The cat stares directly into camera. Blinks once. Yawns. [cut] Medium shot, 40mm. She turns to camera and shrugs. Freeze frame.
+
+[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2026748716544135168/pu/img/s7Wi8euWkmI-rU9f.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026748738354450919)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026748738354450919)**
+
+**Author:** [Heather Cooper](https://x.com/HBCoop_) | **Source:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **Published:** Feb 25, 2026
+
+---
+
+### day in the life of a salaryman, but he's a capybara. Make it...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt: day in the life of a salaryman, but he's a capybara. Make it as realistic as possible. Made with Seedance 2.0 on @yapper_so https://t.co/NiYtFBxJDo
+
+#### 📝 Prompt
+
+```
+day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.
+```
+
+#### 💡 Tips
+
+Prompt: day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.
+
+Made with Seedance 2.0 on @yapper_so https://t.co/NiYtFBxJDo
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026558649460817920/img/SasUUB1GrhAvFYBp.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026559157302902801)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026559157302902801)**
+
+**Author:** [Emmet Halm](https://x.com/ehalm_) | **Source:** [Link](https://x.com/ehalm_/status/2026559157302902801) | **Published:** Feb 25, 2026
+
+---
+
+### generate a trailer for a thriller movie set in snowy Eastern...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0: First Try I tried to see how the new model works for 15-second generations. I uploaded the first image, and my prompt was really simple: generate a trailer for a thriller movie set in sn
+
+#### 📝 Prompt
+
+```
+generate a trailer for a thriller movie set in snowy Eastern Europe. It should feature a quick montage of a detective, a love story, the process of falling in love, and a fast-paced investigation
+```
+
+#### 💡 Tips
+
+Seedance 2.0: First Try
+
+I tried to see how the new model works for 15-second generations. I uploaded the first image, and my prompt was really simple: 
+
+generate a trailer for a thriller movie set in snowy Eastern Europe. It should feature a quick montage of a detective, a love story, the process of falling in love, and a fast-paced investigation
+
+My thoughts? Love the quality, even though It's a bit random, it generated a really cool sequence. 
+
+I'm sure this model is going to help us bring incredible quality in our projects.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026720732248432640/img/79CG4mp9UcNdddsP.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026721780606402904)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026721780606402904)**
+
+**Author:** [Everett World](https://x.com/WorldEverett) | **Source:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **Published:** Feb 25, 2026
+
+---
+
+### Generate the full song based on the attached file.
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The input for this song was just 7 seconds of a randomly generated song from a Seedance 2.0 video, and I said: "Generate the full song based on the attached file." Show this song to anyone, and they'l
+
+#### 📝 Prompt
+
+```
+Generate the full song based on the attached file.
+```
+
+#### 💡 Tips
+
+The input for this song was just 7 seconds of a randomly generated song from a Seedance 2.0 video, and I said: "Generate the full song based on the attached file."
+
+Show this song to anyone, and they'll not think twice that this is fully generated by AI.
+
+We live in crazy times. https://t.co/wsIM0bN1Lc
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026577735460573184/img/lrXZwPIRTDyH3jrw.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026578351444369796)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026578351444369796)**
+
+**Author:** [Alex Patrascu](https://x.com/maxescu) | **Source:** [Link](https://x.com/maxescu/status/2026578351444369796) | **Published:** Feb 25, 2026
+
+---
+
+### 色々な服装　超高速なカット割り　楽しくて充実した私生活
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> CapCutさんSeedance2.0の生成早い😳‼️ #capcut生成ai #capcutjapandiscord @capcutapp_jp [PR] コンテストでは使ってないですが、一番使ったプロンプトをSeedream2.0で試してみました promptは文末に書いてあります リプには同promptでHailuo2.3, Luma Ray3.14, Veo3, Kling3.0 htt
+
+#### 📝 Prompt
+
+```
+色々な服装　超高速なカット割り　楽しくて充実した私生活
+```
+
+#### 💡 Tips
+
+CapCutさんSeedance2.0の生成早い😳‼️
+#capcut生成ai #capcutjapandiscord @capcutapp_jp [PR]
+
+コンテストでは使ってないですが、一番使ったプロンプトをSeedream2.0で試してみました
+promptは文末に書いてあります
+
+リプには同promptでHailuo2.3, Luma Ray3.14, Veo3, Kling3.0 https://t.co/KNmnbdDXen
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026721553078169602/img/KpxeVdwVgGBVmzbd.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026728485201523089)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026728485201523089)**
+
+**Author:** [ShadeLurk](https://x.com/ShadeLurk) | **Source:** [Link](https://x.com/ShadeLurk/status/2026728485201523089) | **Published:** Feb 25, 2026
+
+---
+
+### 电影胶片质感高清摄影，手持跟拍视角。雨夜湿漉漉的街道上。
+
+一位皮肤冷白、气质纯真又带点诱惑的绝美少女走在前方，穿着一件...
+
+> Seedance 2.0生成你的白月光视频。 提示词： 电影胶片质感高清摄影，手持跟拍视角。雨夜湿漉漉的街道上。 一位皮肤冷白、气质纯真又带点诱惑的绝美少女走在前方，穿着一件灰色宽松针织毛衣。 彩色霓虹灯光在湿漉漉的路面上反射，高感光度带来的细腻胶片颗粒感，动态运动模糊。 https://t.co/p82lIlxz0O
+
+#### 📝 Prompt
+
+```
+电影胶片质感高清摄影，手持跟拍视角。雨夜湿漉漉的街道上。
+
+一位皮肤冷白、气质纯真又带点诱惑的绝美少女走在前方，穿着一件灰色宽松针织毛衣。
+
+彩色霓虹灯光在湿漉漉的路面上反射，高感光度带来的细腻胶片颗粒感，动态运动模糊。
+```
+
+#### 💡 Tips
+
+Seedance 2.0生成你的白月光视频。
+
+提示词：
+电影胶片质感高清摄影，手持跟拍视角。雨夜湿漉漉的街道上。
+
+一位皮肤冷白、气质纯真又带点诱惑的绝美少女走在前方，穿着一件灰色宽松针织毛衣。
+
+彩色霓虹灯光在湿漉漉的路面上反射，高感光度带来的细腻胶片颗粒感，动态运动模糊。 https://t.co/p82lIlxz0O
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026528915783823360/img/z7ScsO5qyqQTPlTg.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026528980212318377)
 
@@ -143,37 +673,216 @@ Colorful neon lights reflect on the wet road surface, with the fine graininess o
 
 ---
 
-### Realistic style, vertical screen, first-person boyfriend perspective
+### 电影爱情氛围，电影胶片质感的唯美自习室内。年轻美丽的女孩羞涩的盯着帅气的男孩问：“你属什么？”切换男孩镜头，男孩说：“什...
 
-> Realistic style, vertical screen, first-person boyfriend perspective. In a dimly lit KTV private room, the background features flickering purple and blue neon laser lights. A beautiful young Asian ...
+> Seedance 2.0生成校园短剧视频。 提示词： 电影爱情氛围，电影胶片质感的唯美自习室内。 年轻美丽的女孩羞涩的盯着帅气的男孩问：“你属什么？” 切换男孩镜头，男孩说：“什么？” 女孩重复“我问你属什么？” 切换男孩镜头，男孩说：“哦，我属狗。”切换女孩镜头，女孩害羞的说“你属于我”。 https://t.co/l7hSKExdh4
 
 #### 📝 Prompt
 
 ```
-Realistic style, vertical screen, first-person boyfriend perspective. In a dimly lit KTV private room, the background features flickering purple and blue neon laser lights. A beautiful young Asian woman sits on a black leather sofa, her long black hair draped over her shoulders, wearing a black off-shoulder sequin sweater and a delicate necklace. Action description:
-
---- QUOTED TWEET ---
-60-second fantasy martial arts short film - male and female cultivators battle a monster
-
-Seedance 2.0 prompt
-
-Prompt will be placed below 👇🏻👇🏻👇🏻 https://t.co/PaKzkjrZzG
----
+电影爱情氛围，电影胶片质感的唯美自习室内。年轻美丽的女孩羞涩的盯着帅气的男孩问：“你属什么？”切换男孩镜头，男孩说：“什么？”女孩重复“我问你属什么？”切换男孩镜头，男孩说：“哦，我属狗。”切换女孩镜头，女孩害羞的说“你属于我”。
 ```
 
 #### 💡 Tips
 
-60秒仙侠漫剧小短片-男女修者大战魔兽
+Seedance 2.0生成校园短剧视频。
 
-Seedance 2.0 提示词 
+提示词：
+电影爱情氛围，电影胶片质感的唯美自习室内。
+年轻美丽的女孩羞涩的盯着帅气的男孩问：“你属什么？”
+切换男孩镜头，男孩说：“什么？”
+女孩重复“我问你属什么？”
+切换男孩镜头，男孩说：“哦，我属狗。”切换女孩镜头，女孩害羞的说“你属于我”。 https://t.co/l7hSKExdh4
 
-Prompt随后放在👇🏻👇🏻👇🏻 https://t.co/PaKzkjrZzG
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026474590017642496/img/ezeo_Cr58JiF4dK3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026474698385797156)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026474698385797156)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2026474698385797156) | **Published:** Feb 25, 2026
+
+---
+
+### 真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在...
+
+> 妹子，大哥来晚了，都怪Seedance2太堵车 Seedance 2.0 提示词prompt： 真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在黑色皮沙发上，黑色长发披肩，身穿黑色露肩亮片毛衣，戴着精致项链。 动作描述: https://t.co/zQBl7HfMSz
+
+#### 📝 Prompt
+
+```
+真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在黑色皮沙发上，黑色长发披肩，身穿黑色露肩亮片毛衣，戴着精致项链。 动作描述:
+```
+
+#### 💡 Tips
+
+妹子，大哥来晚了，都怪Seedance2太堵车
+
+Seedance 2.0 提示词prompt：
+
+真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在黑色皮沙发上，黑色长发披肩，身穿黑色露肩亮片毛衣，戴着精致项链。 动作描述: https://t.co/zQBl7HfMSz
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026481390909534212/img/Ojbl7iOyj5_yPYdY.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026481512607265116)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026481512607265116)**
 
 **Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2026481512607265116) | **Published:** Feb 25, 2026
+
+---
+
+### {
+  "Objective": "Generate a stylish 2x2 grid street fashion...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Version 3 of Fashion Advertisement with Seedance 2.0 https://t.co/tGG1dhmMkT
+
+#### 📝 Prompt
+
+```
+{
+  "Objective": "Generate a stylish 2x2 grid street fashion advertisement featuring the same outfit consistently across all frames, modeled by an extremely beautiful adult Black woman with refined 90-60-90 proportions, emphasizing fit, fabric, and confident urban presence.",
+  "Persona_Details": {
+    "Role": "Streetwear campaign model",
+    "Age": "Adult (21+)",
+    "Gender": "Female",
+    "Body_Type": "Tall, toned, elegant 90-60-90 hourglass figure",
+    "Race": "Black / African descent",
+    "Skin_Tone": "Deep radiant melanin glow",
+    "Facial_Features": "High cheekbones, symmetrical structure, full lips, captivating almond-shaped eyes",
+    "Hair": "Long sleek straight hair or voluminous natural curls",
+    "Expression_Range": [
+      "Confident direct gaze",
+      "Soft relaxed smile",
+      "Editorial serious look",
+      "Over-the-shoulder bold glance"
+    ],
+    "Makeup": "Flawless matte base, warm contour highlight, glossy nude or deep berry lips"
+  },
+  "Clothing_Focus": {
+    "Category": "Urban streetwear",
+    "Consistency_Rule": "Model wears the exact same outfit in all 4 frames",
+    "Outfit_Details": {
+      "Top": "Fitted cropped white tank top",
+      "Outerwear": "Oversized black leather jacket",
+      "Bottom": "High-waisted straight-leg dark denim jeans",
+      "Footwear": "Clean white chunky sneakers",
+      "Accessories": "Minimal silver hoop earrings, small shoulder bag"
+    },
+    "Fit_Emphasis": "Defined waist contrast under oversized jacket, leg-length emphasis from high-waisted denim",
+    "Fabric_Emphasis": "Leather texture shine, denim grain detail, cotton softness",
+    "Brand_Aesthetic": "Confident, bold, city-ready modern fashion"
+  },
+  "Image_Layout": {
+    "Grid_Type": "2x2 equal square collage",
+    "Aspect_Ratio": "1:1 square format",
+    "Frame_Composition": [
+      "Full-body standing pose against concrete wall",
+      "Walking mid-step urban candid shot",
+      "Close-up portrait highlighting makeup and jacket texture",
+      "Seated pose on city stairs with strong posture"
+    ],
+    "Location": "Urban downtown street with neutral concrete and subtle graffiti",
+    "Lighting": "Natural daylight with soft directional shadows",
+    "Continuity": "Same outfit, same hairstyle, consistent lighting tone across all 4 images"
+  },
+  "Photography_Style": {
+    "Camera_Type": "Modern smartphone camera aesthetic",
+    "Lens": "Wide smartphone lens (~26mm equivalent)",
+    "Depth_Effect": "Natural portrait mode blur for close-up",
+    "Color_Grading": "Slightly cool urban tones with balanced contrast",
+    "Mood": "Strong, fashionable, authentic street energy"
+  },
+  "AI_Generation_Settings": {
+    "Resolution": "High-resolution 4K square collage",
+    "Detail_Level": "Ultra-detailed skin rendering and fabric textures",
+    "Negative_Prompt": [
+      "Blurry image",
+      "Inconsistent outfit changes",
+      "Distorted anatomy",
+      "Overexposed highlights",
+      "Flat lighting",
+      "Unnatural body proportions"
+    ]
+  },
+  "Response_Format": {
+    "Output_Type": "High-resolution 2x2 street fashion advertisement collage",
+    "Primary_Use": "Clothing brand marketing, Instagram ads, urban fashion campaigns"
+  }
+}
+```
+
+#### 💡 Tips
+
+Version 3 of Fashion Advertisement with Seedance 2.0 https://t.co/tGG1dhmMkT
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026711783440838657/img/XYBt7q1_r6pYSAre.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713804940152948)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713804940152948)**
+
+**Author:** [Keskin](https://x.com/craftian_keskin) | **Source:** [Link](https://x.com/craftian_keskin/status/2026713804940152948) | **Published:** Feb 25, 2026
+
+---
+
+### Scene opens in an ancient, fog-shrouded forest at midnight,...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Today, @capcutapp added the option to generate Seedance 2.0 videos directly inside the app, so I decided to run a quick test. I’ve posted the prompt in the replies below. 👇 https://t.co/yJCXxaxG6A
+
+#### 📝 Prompt
+
+```
+Scene opens in an ancient, fog-shrouded forest at midnight, towering trees twisting like living veins under a fractured moon. The camera glides seamlessly through the ethereal haze.
+
+0-3 seconds: A ethereal wanderer in flowing robes dashes between gnarled trunks, waving a hand to unravel the bark into swirling vines that lash out like whips. Her pursuer, a spectral guardian wreathed in glowing runes, counters by freezing time in pockets—leaves halting mid-fall as he closes the gap with elongated strides through distorted space.
+
+3-6 seconds: The wanderer spins, compressing the air into a shimmering portal; she dives through, emerging atop a canopy where branches fold into platforms. The guardian follows, shattering the portal with a rune-infused blast that echoes backward, reversing the forest's growth—trees shrinking to saplings in rippling waves around them.
+
+6-9 seconds: They collide on a bending bough; the wanderer manipulates gravity, flipping the world upside down—roots becoming sky as they tumble upward. Punches distort reality, each impact blooming ethereal flowers that sprout thorns, entangling limbs in a chaotic aerial ballet.
+
+9-12 seconds: Breaking free, the guardian channels runes to loop time—repeating the wanderer's evasion in infinite echoes, forcing her to dodge multiplying shadows of herself. She shatters the loop with a surge of light, folding the forest floor into a labyrinthine wall that rises like a tidal wave of wood and mist.
+
+12-15 seconds: In the climax, the wanderer unleashes a vortex of unraveling essence, pulling the guardian into a collapsing dream-realm where colors bleed and forms melt. The screen warps with fractal whispers as the forest dissolves into infinite echoes, leaving only silence.
+```
+
+#### 💡 Tips
+
+Today, @capcutapp added the option to generate Seedance 2.0 videos directly inside the app, so I decided to run a quick test. 
+I’ve posted the prompt in the replies below. 👇 https://t.co/yJCXxaxG6A
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026793125566414849/img/EO_1G8JCfCXmlj3A.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026793748089213183)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026793748089213183)**
+
+**Author:** [ibexdream](https://x.com/ibexdream) | **Source:** [Link](https://x.com/ibexdream/status/2026793748089213183) | **Published:** Feb 25, 2026
+
+---
+
+### Seedance 2 is very good at following a detailed list of scen...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2 is very good at following a detailed list of scenes in a single prompt: 1. open with an establishing fly over shot of a misty jungle in the early morning, a soldier (the woman in the image)
+
+#### 📝 Prompt
+
+```
+Seedance 2 is very good at following a detailed list of scenes in a single prompt:
+
+1. open with an establishing fly over shot of a misty jungle in the early morning, a soldier (the woman in the image) is in a chopper in army uniform, she says "We're entering foh-fur country now. This is latent space, anything could happen"
+2. cut to a chopper landing in a field, lots of people rushing out, holding their hair and hats
+3. cut to her again, "No time for a briefing" she says, "we're going straight out to the site"
+4. short clip of them all riding 4x4s through rugged jungle terrain
+5. they reach an enormous towering object, mysterious, it reaches into the sky, made of obsidian, she says "Welcome to the foffer"
+6. a title screen shows "FOFR"
+
+Give the whole scene an action adventure/scifi soundtrack, cinematic, powerful. Deep reverbing bass throughout.
+```
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026762368256987137/img/mvjggEQ-398cn-AV.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762628605862190)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762628605862190)**
+
+**Author:** [fofr](https://x.com/fofrAI) | **Source:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **Published:** Feb 25, 2026
 
 ---
 
@@ -189,6 +898,12 @@ Prompt随后放在👇🏻👇🏻👇🏻 https://t.co/PaKzkjrZzG
 The sky turns red and starts raining fire
 ```
 
+#### 💡 Tips
+
+Shot some footage on the beach and ran it through Seedance 2 using it as a Reference Video.
+
+📕 "The sky turns red and starts raining fire" https://t.co/OiGi6Ko1Z3
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026492675138936833/img/9vtlBB9P8FmifeHt.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026492995327901867)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026492995327901867)**
@@ -197,148 +912,113 @@ The sky turns red and starts raining fire
 
 ---
 
-### 16:9 widescreen, Chinese 3D fantasy animation movie style, warm gold-red tones with a high-energy battle opening
+### Transform the subject from the uploaded image into a charact...
 
-> --- 16:9 widescreen, Chinese 3D fantasy animation movie style, warm gold-red tones with a high-energy battle opening. 0-4 seconds: At the peak of the immortal mountain with clouds surging, the cam...
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Me as giant Charlie &amp; Lola character casually owning Santa Cruz Beach Boardwalk 🎡🌊 Selfie → cartoon → Seedance 2.0 vlog in one shot This is too cute not to try Prompts + tutorial ↓ in comments h
 
 #### 📝 Prompt
 
 ```
----
-16:9 widescreen, Chinese 3D fantasy animation movie style, warm gold-red tones with a high-energy battle opening.
+Transform the subject from the uploaded image into a character in the style of Charlie and Lola (children's cartoon). Match the official cartoon look - thin sketchy outlines, flat colors, childlike proportions, playful hand-drawn charm, and simple textures.
+Retain the subject's original clothing, hairstyle, facial features, accessories, skin tone, pose, and expression - but reinterpret them as if they belong in the Charlie and Lola world.
 
-0-4 seconds: At the peak of the immortal mountain with clouds surging, the camera rapidly dives from high altitude through the clouds. A male cultivator in white stands at the edge of a cliff, his long hair fluttering in the wind. He grips a celestial sword emitting a cyan glow, his sharp gaze fixed on the demonic aura approaching from afar, and he murmurs, "It's here."
-
-5-9 seconds: Dozens of shadow beasts burst out from the demonic aura, roaring as they charge at the male cultivator. He steps into the void, a golden Bagua formation appearing beneath his feet. He shoots into the sky like a meteor, his celestial sword slicing through the air with cyan sword energy, turning the front row of beasts into ash particles.
-
-10-15 seconds: The camera rapidly cuts around as the male cultivator battles the beasts in mid-air, sword energy crisscrossing. Each swing of his sword leaves a cyan trail. A giant beast emerges from the depths of the demonic aura, opening its massive maw. Freeze frame: the male cultivator stands with his back to the camera, sword in hand, facing the swarm of beasts and the enormous shadow.
-
---- THREAD CONTINUATION ---
-[Thread 1] Segment 1 (0-15 seconds) — Seedance 2.0 Prompt
-
-16:9 widescreen, Chinese 3D fantasy animation movie style, warm gold-red tones with a high-energy battle opening.
-
-0-4 seconds: At the peak of the immortal mountain with clouds surging, the camera rapidly dives from high altitude through the clouds. A male cultivator in white stands at the edge of a cliff, his long hair fluttering in the wind, gripping a celestial sword emitting a cyan glow, his sharp gaze fixed on the demonic aura approaching from afar, and he murmurs, "It's here."
-
-5-9 seconds: Dozens of shadow beasts burst out from the demonic aura, roaring as they charge at the male cultivator. He steps into the void, a golden Bagua formation appearing beneath his feet. He shoots into the sky like a meteor, his celestial sword slicing through the air with cyan sword energy, turning the front row of beasts into ash particles.
-
-10-15 seconds: The camera rapidly cuts around as the male cultivator battles the beasts in mid-air, sword energy crisscrossing. Each swing of his sword leaves a cyan trail. A giant beast emerges from the depths of the demonic aura, opening its massive maw. Freeze frame: the male cultivator stands with his back to the camera, sword in hand, facing the swarm of beasts and the enormous shadow.
-
-Segment 2 (15-30 seconds) — Seedance 2.0 Prompt
-
-Extend @video1 by 15 seconds.
-
-0-5 seconds: Continuing from the previous segment, the giant beast suddenly swings its claws at the male cultivator. At the critical moment, a red-clad figure flies in from the side, wielding a fiery staff. The female cultivator, surrounded by flames, shouts "Retreat!" and strikes the beast's claws back, causing a collision of red and white beams in the air, creating a shockwave.
-
-6-10 seconds: Dual battle scene. The female cultivator stands on a red lotus formation, floating in the air, forming hand seals. Behind her, a massive fiery apparition of a nine-tailed phoenix spreads its wings, covering the sky. The phoenix lets out a clear cry, spewing flames to burn the beast horde.
-
-11-15 seconds: The male and female cultivators float back-to-back in the air, exchanging a glance and nodding in understanding. The male cultivator points his sword to the sky, while the female cultivator taps the ground with her staff. Together they shout "Manifestation of Heaven and Earth!" A cyan dragon and a fiery phoenix rise behind them, the dragon coiling and the phoenix spreading its wings. The scene freezes on the spectacular confrontation between the dual manifestations and the beast army.
-
-Segment 3 (30-45 seconds) — Seedance 2.0 Prompt
-
-Extend @video1 by 15 seconds.
-
-0-4 seconds: The dual manifestations dive to attack simultaneously, the cyan dragon winding through the beast horde, the phoenix spewing flames across the battlefield. The camera follows the dragon as it moves among the beasts, each swipe of its claws felling several beasts, its scales shimmering with cyan light during the battle.
-
-5-9 seconds: Close-up of the dual aerial sword fight. The male cultivator navigates through the beast horde, his sword light raining down, each strike precisely piercing the beasts' vital points. The female cultivator stands on a lotus formation, continuously forming hand seals, transforming flames into dozens of fiery lotuses that explode into sparks upon blooming. The camera rapidly switches between the two, accompanied by exhilarating sound effects.
-
-10-15 seconds: The giant beast leader roars in anger, its demonic aura surging, transforming into hundreds of black tentacles attacking the duo simultaneously. The male and female cultivators turn to face the attack, the male blocking with his sword, the female raising a flame shield with her staff. Freeze frame: black, white, and red lights collide fiercely in the air, the duo's expressions resolute as they grit their teeth to hold on.
-
-Segment 4 (45-60 seconds) — Seedance 2.0 Prompt
-
-Extend @video1 by 15 seconds.
-
-0-4 seconds: In the stalemate, the male cultivator shouts "Combine forces for one strike!" Both retract their defenses, turning back-to-back. The male raises his celestial sword high, gathering a dazzling cyan sword glow. The female points her staff to the sky, gathering an intense red fireball at its tip. Their manifestations roar to the sky, the power of the dragon and phoenix flowing into them.
-
-5-10 seconds: Slow-motion shot. The male cultivator swings his sword down, unleashing a cyan sword energy that pierces the heavens and earth. The female points her staff forward, launching a massive fireball like a meteor. The dragon and phoenix manifestations dive simultaneously, their four attacks converging into a devastating cyan-red beam, shooting straight at the giant beast leader.
-
-11-15 seconds: The beam strikes the beast leader, exploding into golden and red particles. The camera slowly pushes through the explosion's light, revealing the male and female cultivators standing side by side in the ruins, each putting away their weapons. The male softly says, "It's over," and the female smiles slightly. The camera slowly pulls back, the sunrise emerging from the end of the cloud sea, bathing the immortal mountain in golden morning light. The sound fades, leaving only the distant sound of the morning breeze and birdsong.
+Clothing should be simplified into flat shapes and bright colors, while keeping the overall outfit recognizable.
+Background: plain white or transparent to keep the focus on the character.
 ```
 
 #### 💡 Tips
 
-第1段（0-15秒）—— Seedance 2.0 提示词
+Me as giant Charlie &amp; Lola character casually owning Santa Cruz Beach Boardwalk 🎡🌊
 
-16:9横屏，中国3D仙侠动画电影风格，金红暖色调高燃战斗开场。
+Selfie → cartoon → Seedance 2.0 vlog in one shot
 
-0-4秒：云海翻涌的仙山之巅，镜头从高空急速俯冲穿过云层，男修者一袭白衣立于悬崖边缘，长发随风猎猎飘
-，手中紧握一柄泛着青色剑芒的仙剑，目光凌厉望向远方涌来的魔气，低喝"来了"。
+This is too cute not to try
 
-5-9秒：魔气中冲出数十只暗影魔兽，嘶吼着扑向男修者。男修者脚踏虚空，脚下浮现金色八卦法阵，整个人如
-星般冲天而起，仙剑在空中划出数道青色剑气，将前排魔兽斩成灰烬粒子。
+Prompts + tutorial ↓ in comments https://t.co/aUlQUqOwgT
 
-10-15秒：镜头环绕快切，男修者在空中与魔兽群激战，剑气纵横交错，每剑挥出都带出青色光轨。一只巨型魔
-从魔气深处现身，张开血盆大口。定格画面：男修者背对镜头持剑而立，面前是漫天魔兽与那道庞大的黑影。
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026443859316846594/img/QQGV16KXBvEaixp3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026452890001485938)
 
-第2段（15-30秒）—— Seedance 2.0 提示词
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026452890001485938)**
 
-将@视频1延长15秒。
-
-0-5秒：接上段，巨型魔兽猛然挥动利爪拍向男修者。千钧一发之际，一道红衣身影从侧方御剑飞来，女修者手
-赤焰法杖，周身火焰翻涌，大喝"退！"一杖击退魔兽利爪，红白双芒在空中碰撞爆发冲击波。
-
-6-10秒：双人激战镜头。女修者脚踏赤色莲花法阵悬浮空中，双手结印，身后浮现一尊巨大的火焰法相——九尾凤
-凰虚影展开双翼，遮天蔽日。凤凰虚影发出清越凤鸣，喷吐烈焰焚烧魔兽群。
-
-11-15秒：男修者与女修者背靠背悬浮空中，两人相视一眼，默契点头。男修者剑指苍穹，女修者法杖点地，两
-同时大喊"法相天地！"青色巨龙与赤焰凤凰两尊法相在他们身后冲天而起，金龙盘旋、凤凰展翅，画面定格在双
-法相对决魔兽大军的壮观场面。
-
-第3段（30-45秒）—— Seedance 2.0 提示词
-
-将@视频1延长15秒。
-
-0-4秒：双法相同时俯冲攻击，青龙盘绕扑向魔兽群，凤凰喷吐烈焰席卷战场。镜头跟随青龙穿行于魔兽之间，
-道龙爪挥过都斩落数只魔兽，龙鳞在战斗中闪烁青光。
-
-5-9秒：双人御剑空战特写。男修者御剑穿梭于魔兽群中，剑光如雨，每一剑都精准刺穿魔兽要害。女修者脚踏
-花法阵，双手连续结印，火焰化作数十朵火莲飞向敌群，绽放时炸开漫天火星。镜头在两人之间快速切换，配合
-激昂音效。
-
-10-15秒：巨型魔兽首领愤怒咆哮，全身魔气暴涨，化作数百道黑色触手同时袭向二人。男修者与女修者同时转
-面对攻击，男修者横剑格挡，女修者法杖撑起火焰护盾。画面定格：黑白红三色光芒在空中剧烈碰撞，两人神情
-坚毅，咬牙支撑。
-
-第4段（45-60秒）—— Seedance 2.0 提示词
-
-将@视频1延长15秒。
-
-0-4秒：僵持中，男修者大喝"合力一击！"两人同时收回防御，转身背靠背。男修者仙剑高举，剑身凝聚耀眼的
-色剑芒。女修者法杖指向苍穹，杖顶凝聚炽烈的赤色火球。两人法相也同时向天咆哮，青龙与凤凰的力量涌入二
-人体内。
-
-5-10秒：慢动作升格镜头。男修者挥剑斩下，一道贯穿天地的青色剑气劈出。女修者法杖前指，一颗巨型火球如
-陨石般轰出。青龙凤皇双法相也同时俯冲，四道攻击在空中汇聚成一道毁天灭地的青红双色光柱，笔直冲向巨型
-魔兽首领。
-
-11-15秒：光柱击中魔兽首领，爆炸的金色与红色粒子漫天炸开。镜头缓推穿过爆炸光芒，废墟中，男修者与女
-者并肩而立，各自收起武器。男修者轻声"结束了"，女修者微微一笑。镜头缓缓拉远，朝阳从云海尽头升起，金
-色晨光洒满仙山。音效渐弱，只剩下悠远的晨风声与鸟鸣。
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026269040696860672/img/MYyj3AfThog3bn1R.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269308083634683)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269308083634683)**
-
-**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2026269308083634683) | **Published:** Feb 24, 2026
+**Author:** [Lena Zheng](https://x.com/linyi_zheng) | **Source:** [Link](https://x.com/linyi_zheng/status/2026452890001485938) | **Published:** Feb 25, 2026
 
 ---
 
-### 16:9 widescreen, first-person cockpit view, Need for Speed game style, neon track at night, high contrast cool and wa...
+### 低保真手机原相机Vlog画质 ，POV视角，一镜到底，画面配合节奏适当缩放
+一位年轻江南少女，面对镜头，温婉可爱，深色齐...
 
-> 16:9 widescreen, first-person cockpit view, Need for Speed game style, neon track at night, high contrast cool and warm tones, strong motion blur effect. 0-3 seconds: cockpit view, hands gripping t...
+> 《女人的心，看不透》Seedance系列 兄弟们弄了一个国风美女演唱的小视频。 最近模型不太稳定，废了好几个，才一个满意的，希望大家喜欢❤️，请多支持。 需Prompt，关注、评论+私信。 ⬇️欢迎交作业。 https://t.co/UNvx24fTcs
 
 #### 📝 Prompt
 
 ```
-16:9 widescreen, first-person cockpit view, Need for Speed game style, neon track at night, high contrast cool and warm tones, strong motion blur effect. 0-3 seconds: cockpit view, hands gripping the steering wheel tightly, the tachometer on the dashboard soaring into the red zone, the engine roaring explosively. In front of the windshield is a dazzling
+低保真手机原相机Vlog画质 ，POV视角，一镜到底，画面配合节奏适当缩放
+一位年轻江南少女，面对镜头，温婉可爱，深色齐肩短发，身穿金边刺绣的浅黄色改良旗袍，佩戴古典流苏耳坠。背景为暖光微暗的现代室内，正在自信地演唱一首高BPM的动感国风歌曲，眼角带笑。
+```
 
---- QUOTED TWEET ---
-60-second Xianxia animated short film - male and female cultivators battle a monster
+#### 💡 Tips
 
-Seedance 2.0 prompt
+《女人的心，看不透》Seedance系列
+兄弟们弄了一个国风美女演唱的小视频。
+最近模型不太稳定，废了好几个，才一个满意的，希望大家喜欢❤️，请多支持。
 
-Prompt will be placed below 👇🏻👇🏻👇🏻 https://t.co/PaKzkjrZzG
+需Prompt，关注、评论+私信。
+⬇️欢迎交作业。 https://t.co/UNvx24fTcs
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026497070077718528/img/fQWf34wyFNA9weID.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026498110755917836)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026498110755917836)**
+
+**Author:** [硅予](https://x.com/Leslieyu0) | **Source:** [Link](https://x.com/Leslieyu0/status/2026498110755917836) | **Published:** Feb 25, 2026
+
 ---
+
+### 16:9横屏，第一人称驾驶舱视角，极品飞车游戏风格，夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果。0-3秒：驾驶舱内...
+
+> 极品飞车-漂移过弯 Seedance 2.0 提示词： 第1段（0-15秒）Prompt: 16:9横屏，第一人称驾驶舱视角，极品飞车游戏风格，夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果。 0-3秒：驾驶舱内视角，双手紧握方向盘，仪表盘转速表飙升至红区，引擎轰鸣声炸裂。挡风玻璃前方是璀璨的 https://t.co/WcbcjY73i8
+
+#### 📝 Prompt
+
+```
+16:9横屏，第一人称驾驶舱视角，极品飞车游戏风格，夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果。0-3秒：驾驶舱内视角，双手紧握方向盘，仪表盘转速表飙升至红区，引擎轰鸣声炸裂。挡风玻璃前方是璀璨的
+```
+
+#### 💡 Tips
+
+极品飞车-漂移过弯
+
+Seedance 2.0 提示词：
+
+第1段（0-15秒）Prompt:
+16:9横屏，第一人称驾驶舱视角，极品飞车游戏风格，夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果。
+0-3秒：驾驶舱内视角，双手紧握方向盘，仪表盘转速表飙升至红区，引擎轰鸣声炸裂。挡风玻璃前方是璀璨的 https://t.co/WcbcjY73i8
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026286816496926720/img/HkVF86_li02koM41.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026287013515980957)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026287013515980957)**
+
+**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2026287013515980957) | **Published:** Feb 24, 2026
+
+---
+
+### 16:9横屏，中国3D仙侠动画电影风格，金红暖色调高燃战斗开场。
+
+0-4秒：云海翻涌的仙山之巅，镜头从高空急速俯冲穿过...
+
+> 60秒仙侠漫剧小短片-男女修者大战魔兽 Seedance 2.0 提示词 Prompt随后放在👇🏻👇🏻👇🏻 https://t.co/PaKzkjrZzG
+
+#### 📝 Prompt
+
+```
+16:9横屏，中国3D仙侠动画电影风格，金红暖色调高燃战斗开场。
+
+0-4秒：云海翻涌的仙山之巅，镜头从高空急速俯冲穿过云层，男修者一袭白衣立于悬崖边缘，长发随风猎猎飘，手中紧握一柄泛着青色剑芒的仙剑，目光凌厉望向远方涌来的魔气，低喝"来了"。
+
+5-9秒：魔气中冲出数十只暗影魔兽，嘶吼着扑向男修者。男修者脚踏虚空，脚下浮现金色八卦法阵，整个人如流星般冲天而起，仙剑在空中划出数道青色剑气，将前排魔兽斩成灰烬粒子。
+
+10-15秒：镜头环绕快切，男修者在空中与魔兽群激战，剑气纵横交错，每剑挥出都带出青色光轨。一只巨型魔兽从魔气深处现身，张开血盆大口。定格画面：男修者背对镜头持剑而立，面前是漫天魔兽与那道庞大的黑影。
 ```
 
 #### 💡 Tips
@@ -349,15 +1029,15 @@ Seedance 2.0 提示词
 
 Prompt随后放在👇🏻👇🏻👇🏻 https://t.co/PaKzkjrZzG
 
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026286816496926720/img/HkVF86_li02koM41.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026287013515980957)
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026269040696860672/img/MYyj3AfThog3bn1R.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269308083634683)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026287013515980957)**
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269308083634683)**
 
-**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2026287013515980957) | **Published:** Feb 24, 2026
+**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2026269308083634683) | **Published:** Feb 24, 2026
 
 ---
 
-### 1990s OVA anime realism, Japanese full-color, crisp thin genga linework, restrained cel shading + gentle gradients, s...
+### 1990s OVA anime realism, Japanese full-color, crisp thin gen...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -383,22 +1063,9 @@ The setting/environment is @Image3 [0:00 - 0:02] (The Staredown): Extreme close-
 
 #### 💡 Tips
 
-Generated the characters and environment image in Midjourney. Then used the Seedance 2.0 multi-reference feature.
+Seedance 2.0 ....sakuga energy⚡️ still testing 15-second action sequences—the aerial combat goes crazy! ⚔️🔥
 
-Prompt:
-1990s OVA anime realism, Japanese full-color, crisp thin genga linework, restrained cel shading + gentle gradients, subtle film grain, sharp shadows, high-contrast rim light. 24fps ultra-fast sakuga cuts; smear+impact frames; BACKGROUND-only motion blur. No text/logos. No music; SFX only. 
-
-The setting/environment is @Image3 [0:00 - 0:02] (The Staredown): Extreme close-up on the @Image1 Hero’s glowing blue eyes, filled with rage. Fast whip-pan to the @Image2 Villain grinning menacingly. 
-
-[0:02 - 0:04] (The Charge): Sakuga-style smear frames as both warriors burst forward at supersonic speed. The @Image3 grass beneath them rips up from the sheer force of their dash. The @Image1 Hero's sword glows with an intense blue aura, while the @Image2 Villain's blade crackles with dark red energy. 
-
-[0:04 - 0:06] (First Clash): A massive, ground-shaking clash! The blue and red blades meet in the dead center of the field. A spherical shockwave blows the grass flat for yards around them. Heavy impact sparks (sparks drawn in thick, stylized anime lines) fill the screen. 
-
-[0:06 - 0:10] (Aerial Combat): Fast cuts. The impact launches them both into the air. The camera spins dynamically around them as they exchange a flurry of high-speed blows against the backdrop of the blue sky. Smears of blue and red light trace their sword movements. 
-
-[0:10 - 0:13] (Ultimate Strike): Mid-air, the @Image2 Villain swings a massive downward red crescent slash. The @Image1 Hero deflects it with an upward blue spiral strike. The collision creates a blinding, stylized explosion of mixed blue and red energy. 
-
-[0:13 - 0:15] (The Aftermath): Both fighters are blasted backward by the explosion. They land heavily, skidding across the dirt and grass, kicking up massive clouds of dust. As the dust slightly clears, both are shown in low-angle, wide stances, swords drawn and ready for round two.
+Prompt below! 👇 https://t.co/Mg4bW55F4W
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026384571449978880/img/O3GcCh_Kx3HwOooO.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026387458443849906)
 
@@ -408,7 +1075,7 @@ The setting/environment is @Image3 [0:00 - 0:02] (The Staredown): Extreme close-
 
 ---
 
-### a camera crew busts in to a house and sets up a massive, custom-built rig consisting of roughly 120 individual still ...
+### a camera crew busts in to a house and sets up a massive, cus...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -422,7 +1089,9 @@ a camera crew busts in to a house and sets up a massive, custom-built rig consis
 
 #### 💡 Tips
 
-Prompt: a camera crew busts in to a house and sets up a massive, custom-built rig consisting of roughly 120 individual still cameras (specifically Canon EOS A2 35mm cameras) arranged in a precise, curved, or elliptical track around a little girl eating cereal with the resulting bullet time effect
+Tried to see if the Matrix style camera rig can be set up for a different shot using Seedance 2.0
+
+made w/ @YouArtStudio https://t.co/VtNr6t73KB
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026393775317061632/img/0S3CHo1kjIhHXQW-.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026393873669407137)
 
@@ -432,15 +1101,22 @@ Prompt: a camera crew busts in to a house and sets up a massive, custom-built ri
 
 ---
 
-### Anime style, traditional Chinese 2D style, similar to the art style of Xuanji Technology
+### 动漫风格，国风2d风格，类似玄机科技的画风白发少女，扎发，冷白皮肤，兼具冷艳系长相，画面有颗粒感。
 
-> Anime style, traditional Chinese 2D style, similar to the art style of Xuanji Technology. A white-haired girl with tied-up hair, cool white skin, combining a cold and glamorous appearance, with a g...
+> Seedance 2.0生成2D动漫视频。 提示词： 动漫风格，国风2d风格，类似玄机科技的画风白发少女，扎发，冷白皮肤，兼具冷艳系长相，画面有颗粒感。 https://t.co/GvgzwSN2dF
 
 #### 📝 Prompt
 
 ```
-Anime style, traditional Chinese 2D style, similar to the art style of Xuanji Technology. A white-haired girl with tied-up hair, cool white skin, combining a cold and glamorous appearance, with a grainy texture in the image.
+动漫风格，国风2d风格，类似玄机科技的画风白发少女，扎发，冷白皮肤，兼具冷艳系长相，画面有颗粒感。
 ```
+
+#### 💡 Tips
+
+Seedance 2.0生成2D动漫视频。
+
+提示词：
+动漫风格，国风2d风格，类似玄机科技的画风白发少女，扎发，冷白皮肤，兼具冷艳系长相，画面有颗粒感。 https://t.co/GvgzwSN2dF
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026289131534598144/img/MJLpkXzrrw-yltP8.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026289270370033836)
 
@@ -450,17 +1126,55 @@ Anime style, traditional Chinese 2D style, similar to the art style of Xuanji Te
 
 ---
 
-### Live-action cinematic scene. The woman descends the stair...
+### 人物设定 东方花仙少女，鹅蛋脸、冷白皮、柳叶眉、桃花眼，神情清冷空灵，自带上古花神神性气场。身着粉白极光鎏金仙神礼裙：主...
+
+> Seedance 2.0生成的花神降临视频。 提示词： 人物设定 东方花仙少女，鹅蛋脸、冷白皮、柳叶眉、桃花眼，神情清冷空灵，自带上古花神神性气场。 身着粉白极光鎏金仙神礼裙： 主体珠光粉→月光白→极光银三层渐变流光仙纱，层叠如云海花瓣，裙摆绣满活态永生花灵纹，自带微光流转 https://t.co/M4sX3uuxAr
+
+#### 📝 Prompt
+
+```
+人物设定 东方花仙少女，鹅蛋脸、冷白皮、柳叶眉、桃花眼，神情清冷空灵，自带上古花神神性气场。身着粉白极光鎏金仙神礼裙：主体珠光粉→月光白→极光银三层渐变流光仙纱，层叠如云海花瓣，裙摆绣满活态永生花灵纹，自带微光流转
+```
+
+#### 💡 Tips
+
+Seedance 2.0生成的花神降临视频。
+
+提示词：
+人物设定 
+东方花仙少女，鹅蛋脸、冷白皮、柳叶眉、桃花眼，神情清冷空灵，自带上古花神神性气场。
+ 
+身着粉白极光鎏金仙神礼裙：
+ 
+主体珠光粉→月光白→极光银三层渐变流光仙纱，层叠如云海花瓣，裙摆绣满活态永生花灵纹，自带微光流转 https://t.co/M4sX3uuxAr
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026200183135174656/img/uPXaqaI-6NfKrfOn.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026200270292848671)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026200270292848671)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2026200270292848671) | **Published:** Feb 24, 2026
+
+---
+
+### Live-action cinematic scene. The woman descends the staircas...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2.0 Prompt: Live-action cinematic scene. The woman descends the staircase slowly. Camera tilts up from her feet to her face. She stops mid-stairs and looks at a portrait. Cut to the portr...
+> Seedance 2.0 Prompt: Live-action cinematic scene. The woman descends the staircase slowly. Camera tilts up from her feet to her face. She stops mid-stairs and looks at a portrait. Cut to the portrait:
 
 #### 📝 Prompt
 
 ```
 Live-action cinematic scene. The woman descends the staircase slowly. Camera tilts up from her feet to her face. She stops mid-stairs and looks at a portrait. Cut to the portrait: a woman who looks exactly like her. Cut to the woman , She gasps and says: "Impossible...". Thunder crashes outside. The candles blow out one by one. Only her silhouette remains.
 ```
+
+#### 💡 Tips
+
+Seedance 2.0 
+Prompt: Live-action cinematic scene. The woman descends the staircase slowly. Camera tilts up from her feet to her face. She stops mid-stairs and looks at a portrait. Cut to the portrait: a woman who looks exactly like her. Cut to the woman , She gasps and says: "Impossible...". Thunder crashes outside. The candles blow out one by one. Only her silhouette remains.
+
+@YouArtStudio
+provided creators early access to Seedance Pro 2.0 #Seedance2
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026237324929957888/img/Br3meCeco84XqPdx.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026237737322348761)
 
@@ -470,15 +1184,27 @@ Live-action cinematic scene. The woman descends the staircase slowly. Camera til
 
 ---
 
-### Low-quality smartphone vlog footage, shaky handheld camera POV
+### Low quality smartphone vlog footage， shaky handheld camera P...
 
-> Low-quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-beautiful girl with cool white skin and an innocent expression.
+> 我想我恋爱了。。。。 这完全可以做个纯情抖音号了。。。。。 Seedance 2.0 (小云雀 APP 生成）速度还挺快！！ 感谢@Leslieyu0 提供提示词！ 提示词是：Low quality smartphone vlog footage， shaky handheld camera POV. A young， ultra-beautiful girl with cool white sk
 
 #### 📝 Prompt
 
 ```
-Low-quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-beautiful girl with cool white skin and an innocent expression.
+Low quality smartphone vlog footage， shaky handheld camera POV. A young， ultra-beautiful girl with cool white skin and an innocent
 ```
+
+#### 💡 Tips
+
+我想我恋爱了。。。。
+
+这完全可以做个纯情抖音号了。。。。。
+
+Seedance 2.0 (小云雀 APP 生成）速度还挺快！！
+
+感谢@Leslieyu0 提供提示词！
+
+提示词是：Low quality smartphone vlog footage， shaky handheld camera POV. A young， ultra-beautiful girl with cool white skin and an innocent https://t.co/FG0ngDReaJ
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026279207748423680/img/KCh5YVcdh8Uoa0AY.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026279415983096218)
 
@@ -488,7 +1214,7 @@ Low-quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-b
 
 ---
 
-### POV holding your phone playing a wild ahh clip made with seedance 2.0
+### POV holding your phone playing a wild ahh clip made with see...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -500,6 +1226,10 @@ Low-quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-b
 POV holding your phone playing a wild ahh clip made with seedance 2.0
 ```
 
+#### 💡 Tips
+
+prompt: POV holding your phone playing a wild ahh clip made with seedance 2.0 https://t.co/ZspostNA3A
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026338359086559236/img/jc9sJZSFpKEa2OZu.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026338409820860435)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026338409820860435)**
@@ -508,42 +1238,23 @@ POV holding your phone playing a wild ahh clip made with seedance 2.0
 
 ---
 
-### Realistic photography style, a young and beautiful Asian woman sits by the window of a high-rise building, wearing a ...
+### 真实摄影风格，一位年轻漂亮的亚洲女性坐在高层建筑的飘窗前，穿着非常宽松的白色衬衣，露出左侧肩膀，POV视角，女性用右手试...
 
-> Realistic photography style, a young and beautiful Asian woman sits by the window of a high-rise building, wearing a very loose white shirt, exposing her left shoulder. POV perspective, the woman t...
+> 同样的prompt，试了一下我们代理的 xAI 的video模型，语音/角度都差不多，但人物的细节还是seedance更好 https://t.co/f6ZKnvBuwB
 
 #### 📝 Prompt
 
 ```
-Realistic photography style, a young and beautiful Asian woman sits by the window of a high-rise building, wearing a very loose white shirt, exposing her left shoulder. POV perspective, the woman tries to block the camera with her right hand, a faint smile on her face, natural lighting, delicate and realistic, with a film grain texture.
-
-The camera maintains a subjective view (POV), she smiles and gently pushes the camera, accompanied by the subtle 'rustling' sound of her sleeve, her tone playfully half-serious: "Oh... stop filming me."
-
-Then, she lowers the hand blocking the camera, no longer retreating but instead leaning forward towards the camera until her delicate face occupies most of the frame. The smile in her eyes deepens, she looks directly at the camera, lowers her voice, her tone becoming ambiguous and teasing: "Stop filming... let's do something else? (Pause) After all... I'm your generated AI, you can do whatever you want with me." After speaking, she gently bites her lower lip, her breathing clearly audible. The city's hustle and bustle outside the window is isolated, leaving only the quiet and ambiguous sound of air flowing indoors.
-
---- QUOTED TWEET ---
-Seedance 2.0 generated electronic girlfriend video.
-
-Prompt:
-Subject:
-Realistic photography style, a young and beautiful Asian woman sits by the window of a high-rise building, wearing a very loose white shirt, exposing her left shoulder. POV perspective, the woman tries to block the camera with her right hand, a faint smile on her face, natural lighting, delicate and realistic, with a film grain texture.
-
-The camera maintains a subjective view (POV), she smiles and gently pushes the camera, accompanied by the subtle 'rustling' sound of her sleeve, her tone playfully half-serious: "Oh... stop filming me."
-
-Then, she lowers the hand blocking the camera, no longer retreating but instead leaning forward towards the camera until her delicate face occupies most of the frame. The smile in her eyes deepens, she looks directly at the camera, lowers her voice, her tone becoming ambiguous and teasing: "Stop filming... let's do something else? (Pause) After all... I'm your generated AI, you can do whatever you want with me." After speaking, she gently bites her lower lip, her breathing clearly audible. The city's hustle and bustle outside the window is isolated, leaving only the quiet and ambiguous sound of air flowing indoors.
-```
-
-#### 💡 Tips
-
-Seedance 2.0生成的电子女友视频。
-
-提示词：
-主体：
 真实摄影风格，一位年轻漂亮的亚洲女性坐在高层建筑的飘窗前，穿着非常宽松的白色衬衣，露出左侧肩膀，POV视角，女性用右手试图挡住镜头，脸上带着一抹浅浅的微笑，自然光线，细腻真实，有胶片颗粒感。
 
 镜头保持主观视角（POV），她笑着轻轻推了一下镜头，伴随着衣袖摩擦的细微`沙沙`声，语气带着半真半假的娇嗔：`哎呀……别拍我了嘛。`
 
 随即，她放下了挡在镜头前的手，身体不再后退，反而主动前倾凑近镜头，直到精致的面孔占据了大半个画面。她眼里的笑意加深，直视着镜头，压低声音，语气变得暧昧且充满挑逗：`别拍了……我们来做点别的事吧？（停顿）毕竟……我是你生成的AI，你想对我干嘛……就可以干嘛呀。` 说完，她轻轻咬了一下下唇，呼吸声清晰可闻。背景中窗外的城市喧嚣被隔绝，只有室内安静暧昧的空气流动声。
+```
+
+#### 💡 Tips
+
+同样的prompt，试了一下我们代理的 xAI 的video模型，语音/角度都差不多，但人物的细节还是seedance更好 https://t.co/f6ZKnvBuwB
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026194514030043136/img/klBXU4TEmfopTA5K.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026194728207908945)
 
@@ -553,15 +1264,23 @@ Seedance 2.0生成的电子女友视频。
 
 ---
 
-### Realistic photography style, a young and beautiful Asian woman sitting by the bay window of a high-rise building, wea...
+### 真实摄影风格，一位年轻漂亮的亚洲女性坐在高层建筑的飘窗前，穿着非常宽松的白色衬衣，露出左侧肩膀，POV视角，女性用右手试...
 
-> Realistic photography style, a young and beautiful Asian woman sitting by the bay window of a high-rise building, wearing a very loose white shirt that reveals her left shoulder, POV perspective, t...
+> Seedance 2.0生成的电子女友视频。 提示词： 主体： 真实摄影风格，一位年轻漂亮的亚洲女性坐在高层建筑的飘窗前，穿着非常宽松的白色衬衣，露出左侧肩膀，POV视角，女性用右手试图挡住镜头，脸上带着一抹浅浅的微笑，自然光线，细腻真实，有胶片颗粒感。 https://t.co/RCJpNxRqOw
 
 #### 📝 Prompt
 
 ```
-Realistic photography style, a young and beautiful Asian woman sitting by the bay window of a high-rise building, wearing a very loose white shirt that reveals her left shoulder, POV perspective, the woman is trying to block the camera with her right hand, a faint smile on her face, natural lighting, delicate and realistic, with a film grain effect.
+真实摄影风格，一位年轻漂亮的亚洲女性坐在高层建筑的飘窗前，穿着非常宽松的白色衬衣，露出左侧肩膀，POV视角，女性用右手试图挡住镜头，脸上带着一抹浅浅的微笑，自然光线，细腻真实，有胶片颗粒感。
 ```
+
+#### 💡 Tips
+
+Seedance 2.0生成的电子女友视频。
+
+提示词：
+主体：
+真实摄影风格，一位年轻漂亮的亚洲女性坐在高层建筑的飘窗前，穿着非常宽松的白色衬衣，露出左侧肩膀，POV视角，女性用右手试图挡住镜头，脸上带着一抹浅浅的微笑，自然光线，细腻真实，有胶片颗粒感。 https://t.co/RCJpNxRqOw
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026132520283295744/img/5m3A0DMWHctf-PpE.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026132584468709489)
 
@@ -571,7 +1290,7 @@ Realistic photography style, a young and beautiful Asian woman sitting by the ba
 
 ---
 
-### SCENE: Street cafe tables transitioning through time - DAY TO NIGHT Single Take Tracking Shot ATMOSPHERE: A seamless ...
+### SCENE: Street cafe tables transitioning through time - DAY T...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -629,52 +1348,9 @@ SOUND LAYERS:
 
 #### 💡 Tips
 
-Prompt:
-SCENE: Street cafe tables transitioning through time - DAY TO NIGHT
-Single Take Tracking Shot
+Inspired by the famous scene from Wings (1927), I tried a single-take tracking shot that moves from past to present. The prompt is below. 
 
-ATMOSPHERE: A seamless blend of primal history and hyper-futuristic evolution. The air shifts from woodsmoke to the crisp ozone of synthetic energy, vibrating with the changing rhythm of civilization.
-
-SHOT DESCRIPTION:
-A high-speed, weighted tracking shot glides over outdoor gathering spaces along a path morphing from dirt to glowing smart-glass. The camera maintains constant height, revealing snapshot micro-stories from 6 eras, culminating on a levitating futuristic vessel.
-
-TIMELINE / SHOT-BY-SHOT:
-0:00-0:02 - [Low Angle Tracking / 35mm]. The camera rushes over a rough stone slab. A prehistoric figure in hides strikes flint, sparks flying over a clay bowl. Ground is packed dirt.
-SFX: Sharp crack of flint, crackling fire
-LIGHTING: Harsh orange firelight against deep shadows
-
-0:02-0:04 - [Continuous Tracking]. The camera glides over a polished marble table. A Roman patrician in a linen tunic raises a silver goblet. Dirt morphs into mosaic tiles.
-SFX: Clinking silver, marketplace chatter
-
-0:04-0:07 - [Continuous Tracking]. The camera passes a rustic wooden table. A Victorian gentleman in a wool top hat reads a broadsheet. A brass espresso machine hisses. Mosaic becomes cobblestone.
-SFX: Hissing steam, horse hooves
-
-0:07-0:10 - [Continuous Tracking]. The camera sweeps over a 1950s chrome diner table. A woman in a polka-dot dress laughs, holding a glass cola bottle. Cobblestones blur into asphalt.
-SFX: Upbeat jukebox rock, clinking glass
-
-0:10-0:12 - [Continuous Tracking]. The camera passes a sleek minimalist table in the 2020s. A patron types on a glowing glass tablet. Asphalt transitions into illuminated smart-pavement.
-SFX: Rapid keyboard tapping, low hum of EVs
-
-0:12-0:15 - [Deceleration to Close-Up]. The camera slows aggressively, centering on a floating, translucent table in the 22nd century. A levitating ceramic cup spins, releasing glowing, anti-gravity steam particles in magenta light.
-SFX: Soft magnetic hum, crystalline shimmer
-
-TECHNICAL & RENDER:
-
-- Camera: Weighted dolly track, perfectly smooth with physical momentum
-- Light: Evolving temporal lighting; firelight to sepia to high-contrast cyberpunk neon
-- Lens: 35mm Master Prime
-- Modifiers: Shot on 35mm film, photorealistic, cinematic atmospheric lighting, highly detailed, raw footage, motion picture, 8k resolution, volumetric rendering.
-
-MICRO DETAILS & TEXTURES:
-
-- Coarse, jagged edges of struck flint scattering glowing embers
-- Condensation dripping down the cold glass of the 1950s cola bottle
-- Micro-bubbles of dark liquid suspended in zero-g inside the levitating cup
-
-SOUND LAYERS:
-0:00-0:04: Primal fire transitioning into acoustic marketplace noise
-0:04-0:12: Rhythmic whoosh passing tables, layered with shifting musical eras
-0:12-0:15: Room noise ducking for magnetic hum and shimmering particle decay
+Seedance 2.0 https://t.co/a1T3YmodUG
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026345186750578688/img/nn18RmabLHy2IS3b.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026345955918741775)
 
@@ -684,7 +1360,7 @@ SOUND LAYERS:
 
 ---
 
-### Show what’s happening in Silicon Valley after the article...
+### Show what’s happening in Silicon Valley after the article. M...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -696,6 +1372,12 @@ SOUND LAYERS:
 Show what’s happening in Silicon Valley after the article. Make no mistakes.
 ```
 
+#### 💡 Tips
+
+Seedance 2.0
+
+Prompt: Show what’s happening in Silicon Valley after the @Citrini7 article.  Make no mistakes. https://t.co/6Vz6n3I9C5
+
 [![Video Preview](https://pbs.twimg.com/media/HB406UZaYAAIU95.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026114996330197005)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026114996330197005)**
@@ -704,7 +1386,7 @@ Show what’s happening in Silicon Valley after the article. Make no mistakes.
 
 ---
 
-### [Style] Ultimate Eastern wuxia duel, extreme kinetic energy, environmental destruction aesthetics, fast-paced editing...
+### [Style] Ultimate Eastern wuxia duel, extreme kinetic energy,...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -718,18 +1400,9 @@ Show what’s happening in Silicon Valley after the article. Make no mistakes.
 
 #### 💡 Tips
 
-Prompt: [Style] Ultimate Eastern wuxia duel, extreme kinetic energy, environmental destruction aesthetics, fast-paced editing, cinematic particle effects, epic orchestral atmosphere.
-[Duration] 15 seconds
-[Characters] White-robed Grandmaster vs Black-robed Grandmaster
+Seedance 2.0 is great at generating dynamic sword fight scenes.
 
-[00:00–00:05] Shot 1: High-Speed Collision
-The white and black robed figures violently collide at the center of an ancient stone platform, moving like afterimages. The instant their weapons clash, brilliant sparks erupt along with a visible circular high-pressure shockwave. The surrounding stone ground fractures instantly, debris and shattered rock blasting outward.
-
-[00:05–00:10] Shot 2: Aerial Combat and Destruction
-Both fighters launch into the air, weaving rapidly between falling boulders as they exchange blows at near-imperceptible speed. Each parry distorts the surrounding air with intense impact effects. They crash through a massive stone pillar, which collapses and shatters apart, filling the battlefield with dust and showcasing overwhelming destructive force.
-
-[00:10–00:15] Shot 3: Ultimate Climax
-They land face-to-face and unleash their ultimate techniques. Two massive energy forces—one azure, one crimson—collide violently. The impact triggers a cataclysmic explosion of dust and energy, forming a mushroom-shaped cloud that engulfs everything. The entire stone platform foundation begins to crumble and sink into collapse.
+Free access now on @MartiniArt_ https://t.co/FDQJO97SCP
 
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2026119913098866688/pu/img/SVZlkciytGl386ux.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026119959445975448)
 
@@ -739,7 +1412,7 @@ They land face-to-face and unleash their ultimate techniques. Two massive energy
 
 ---
 
-### Tech billionaire CEO live-streaming himself smoking various meats with friends in his backyard
+### Tech billionaire CEO live-streaming himself smoking various...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -751,6 +1424,12 @@ They land face-to-face and unleash their ultimate techniques. Two massive energy
 Tech billionaire CEO live-streaming himself smoking various meats with friends in his backyard
 ```
 
+#### 💡 Tips
+
+I had my doubts, but wow, Seedance 2.0 is incredible.
+
+Prompt: Tech billionaire CEO live-streaming himself smoking various meats with friends in his backyard: https://t.co/YSuTOLRL5T
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026348178946273283/img/IIGo_WDEs4yfotKC.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026348248336896057)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026348248336896057)**
@@ -759,11 +1438,11 @@ Tech billionaire CEO live-streaming himself smoking various meats with friends i
 
 ---
 
-### Ultra-wide aerial begins miles above snowy peaks, then plunges into a fast dive toward a train entering a mountain pass
+### Ultra-wide aerial begins miles above snowy peaks, then plung...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Created using Seedance 2.0. A big thank you to Umesh for sharing the prompt — it was incredibly inspiring and truly helped shape this work. I really appreciate the insight and generosity. https://t...
+> Created using Seedance 2.0. A big thank you to Umesh for sharing the prompt — it was incredibly inspiring and truly helped shape this work. I really appreciate the insight and generosity. https://t.co
 
 #### 📝 Prompt
 
@@ -773,28 +1452,8 @@ Ultra-wide aerial begins miles above snowy peaks, then plunges into a fast dive 
 
 #### 💡 Tips
 
-Prompt
-Drone shot: a rabbit is desperately skiing down a snowy valley slope. Behind it, a massive avalanche erupts with a thunderous roar, cascading downward like a moving white wall. Waves of snow churn violently, hurling huge clouds of powder into the air as they rapidly close in. Trees, rocks, even birds in mid-flight — anything that comes into contact with the avalanche is instantly swallowed.
-
-The rabbit pushes itself to the limit, fleeing for its life as the avalanche draws closer and closer. In the split second it looks back, the roaring white surge engulfs it — the screen completely consumed by swirling white.
-
-After a brief suffocating moment, the snow suddenly explodes outward — the rabbit bursts out of the snow wave, flipping into the air. Its snowboard is gone; it can only sprint forward through the snow, adrenaline at maximum. Suddenly, the rabbit makes a desperate leap.
-
-The camera pulls back in a wide, sweeping arc, capturing both the rabbit and the avalanche that is nearly devouring the entire valley. Between heaven and earth, nothing remains but the rolling white torrent.
-
-At last, the avalanche consumes almost everything. The snow dust slowly settles — revealing the rabbit dangling alone from a tree branch that is about to snap, suspended above a bottomless snow-filled gorge.
-
-The camera slowly pushes in.
-
-The rabbit looks up at the camera, forcing an extremely awkward, trying-to-stay-calm smile, and says,
-“Don’t worry, I’m fine.”
-The branch lets out a sharp crack, half-splintered, trembling on the verge of breaking.
-
----
-
-With Kling 3.0 multi shot!
-
-Prompt : Ultra-wide aerial begins miles above snowy peaks, then plunges into a fast dive toward a train entering a mountain pass. An avalanche breaks loose and pours down behind the train, filling the valley with a moving white wall. Camera skims along the ridgeline parallel to the tracks, then swings into a wide arc that keeps both the train and avalanche visible as the train races toward a tunnel. End with a rapid climb revealing the avalanche swallowing the pass behind the tunnel mouth.
+Created using Seedance 2.0.
+A big thank you to Umesh for sharing the prompt — it was incredibly inspiring and truly helped shape this work. I really appreciate the insight and generosity. https://t.co/F29Y0cXzJU
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026269200101330945/img/ZU9c1ctlh-uDJzPK.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269411477446766)
 
@@ -804,9 +1463,40 @@ Prompt : Ultra-wide aerial begins miles above snowy peaks, then plunges into a f
 
 ---
 
+### 人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新
+
+0-1秒：素色简约襦裙，温婉少女，站定垂手，...
+
+> Seedance 2.0生成美女卡点换装视频。 提示词： 人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新 0-1秒：素色简约襦裙，温婉少女，站定垂手，素手轻拢衣袖，清冷古风氛围感，暖调低饱和色调，柔光滤镜，中景跟拍，画面稳定 https://t.co/3HGqS4GEfP
+
+#### 📝 Prompt
+
+```
+人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新
+
+0-1秒：素色简约襦裙，温婉少女，站定垂手，素手轻拢衣袖，清冷古风氛围感，暖调低饱和色调，柔光滤镜，中景跟拍，画面稳定
+```
+
+#### 💡 Tips
+
+Seedance 2.0生成美女卡点换装视频。
+
+提示词：
+人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新
+ 
+0-1秒：素色简约襦裙，温婉少女，站定垂手，素手轻拢衣袖，清冷古风氛围感，暖调低饱和色调，柔光滤镜，中景跟拍，画面稳定 https://t.co/3HGqS4GEfP
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025766567343169537/img/qcGPvrWnsvykSQnP.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025766696532004876)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025766696532004876)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2025766696532004876) | **Published:** Feb 23, 2026
+
+---
+
 ### 1-3 seconds: The camera slowly moves in.
 
-3-6 seconds: Ma...
+3-6 seconds: Man r...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -828,19 +1518,8 @@ Futuristic city. Shot on film. 1970's movies. A Gritty dystopian city. Wires han
 
 #### 💡 Tips
 
-Video Prompt:
-
-1-3 seconds: The camera slowly moves in. 
-
-3-6 seconds: Man runs diagnostics on the computer. 6-
-
-9 seconds: A side profile shot of the bike.
-
-9-11 seconds: Jump cut now its outside being driven down the street by the man from the workshop and the camera begins to move dynamically. 
-
-12-15 seconds: cut to another cinematic Epic shot of the bike. Electric bike. 
-
-Futuristic city. Shot on film. 1970's movies. A Gritty dystopian city. Wires hanging everywhere, place is run down and realistic. Cool action music.
+Seedance 2.0 is awesome.
+Image made with @Midjourney https://t.co/6Wm4NKIvtf
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026015138906624000/img/uasv5q2KCh2gZYO1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026015799048065035)
 
@@ -850,17 +1529,32 @@ Futuristic city. Shot on film. 1970's movies. A Gritty dystopian city. Wires han
 
 ---
 
-### A massive shark glides silently through the deep blue, its shadow stretching across the ocean floor
+### A massive shark glides silently through the deep blue, its s...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> 🎨 SEEDANCE PRO 🎨 Prompt : A massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling...
+> 🎨 SEEDANCE PRO 🎨 Prompt : A massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling like 
 
 #### 📝 Prompt
 
 ```
 A massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling like shattered glass. Its eyes stay fixed ahead, unblinking, as it circles a coral ridge with quiet, ancient purpose.
 ```
+
+#### 💡 Tips
+
+🎨 SEEDANCE PRO 🎨
+
+Prompt  :
+
+A massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling like shattered glass. Its eyes stay fixed ahead, unblinking, as it circles a coral ridge with quiet, ancient purpose.
+
+Made in @Imagine_aiart
+
+CPP ImagineArt
+
+Image preview made with Imagine Art 1.5 ( first comment )
+1/2
 
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2026043136380661760/pu/img/yV94Ncf9ThU3EZBa.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026043164427952441)
 
@@ -870,17 +1564,24 @@ A massive shark glides silently through the deep blue, its shadow stretching acr
 
 ---
 
-### A young teenage boy inside a dark mystical cave filled with stalactites and glowing blue crystals
+### A young teenage boy inside a dark mystical cave filled with...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2.0 is on another level. 🔥 Prompt: A young teenage boy inside a dark mystical cave filled with stalactites and glowing blue crystals. The boy wearing a blue hoodie reaches out and touche...
+> Seedance 2.0 is on another level. 🔥 Prompt: A young teenage boy inside a dark mystical cave filled with stalactites and glowing blue crystals. The boy wearing a blue hoodie reaches out and touches a 
 
 #### 📝 Prompt
 
 ```
 A young teenage boy inside a dark mystical cave filled with stalactites and glowing blue crystals. The boy wearing a blue hoodie reaches out and touches a bright glowing crystal. Suddenly intense blue energy bursts out, lighting up the entire cave. Cinematic lighting, volumetric light rays, dramatic lens flare, ultra realistic, 4K, high detail, fantasy atmosphere. The boy begins transforming into a superhero wearing a red and blue suit with a flowing red cape. Epic transformation scene, energy particles, glowing aura, dynamic camera movement, Hollywood movie style, dramatic background, high contrast, slow motion effect.
 ```
+
+#### 💡 Tips
+
+Seedance 2.0 is on another level. 🔥
+
+Prompt:
+A young teenage boy inside a dark mystical cave filled with stalactites and glowing blue crystals. The boy wearing a blue hoodie reaches out and touches a bright glowing crystal. Suddenly intense blue energy bursts out, lighting up the entire cave. Cinematic lighting, volumetric light rays, dramatic lens flare, ultra realistic, 4K, high detail, fantasy atmosphere. The boy begins transforming into a superhero wearing a red and blue suit with a flowing red cape. Epic transformation scene, energy particles, glowing aura, dynamic camera movement, Hollywood movie style, dramatic background, high contrast, slow motion effect.
 
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025726514885427200/pu/img/MIrOTj0Nnu59OZY3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025726548330881425)
 
@@ -890,7 +1591,7 @@ A young teenage boy inside a dark mystical cave filled with stalactites and glow
 
 ---
 
-### an advert about ocean waste where we see the waves washing ashore and forming out a plea for help
+### an advert about ocean waste where we see the waves washing a...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -904,7 +1605,9 @@ an advert about ocean waste where we see the waves washing ashore and forming ou
 
 #### 💡 Tips
 
-Prompt: an advert about ocean waste where we see the waves washing ashore and forming out a plea for help. when concerned people see it they start picking up trash on the beach.
+Seedance 2.0 one-shotted an advert about helping to keep the oceans clean. 
+
+w/ @YouArtStudio https://t.co/CydlPc8Pr4
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026064613373001728/img/YjLQbpMiG_quLzzG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026064687184462006)
 
@@ -914,136 +1617,53 @@ Prompt: an advert about ocean waste where we see the waves washing ashore and fo
 
 ---
 
-### Character: Pure, cute, beautiful woman, fair skin, a mole at the corner of the eye, slender figure, fair complexion, ...
-
-> Character: Pure, cute, beautiful woman, fair skin, a mole at the corner of the eye, slender figure, fair complexion, fresh and natural 0-1 second: Plain and simple ruqun, gentle young lady, standi...
-
-#### 📝 Prompt
-
-```
-Character: Pure, cute, beautiful woman, fair skin, a mole at the corner of the eye, slender figure, fair complexion, fresh and natural
-
-0-1 second: Plain and simple ruqun, gentle young lady, standing with hands down, delicate hands lightly gathering sleeves, cool ancient style atmosphere, warm low-saturation tones, soft light filter, medium shot tracking, stable image
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025766567343169537/img/qcGPvrWnsvykSQnP.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025766696532004876)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025766696532004876)**
-
-**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2025766696532004876) | **Published:** Feb 23, 2026
-
----
-
-### Kung fu battle between Sensei and student, in front of abandoned dojo.
+### Create an ultra-realistic image from a first-person camera p...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> I can confirm....#Seedance 2.0 is a mfing BEAST! First 2 test images: High &amp; Low Res One prompt: Kung fu battle between Sensei and student, in front of abandoned dojo. Nothing more....nothing...
+> Seedance 2 Prompt👇 Create an ultra-realistic image from a first-person camera perspective. The viewer is riding on the back of a massive, powerful dragon flying above an ancient city under siege. In 
 
 #### 📝 Prompt
 
 ```
-Kung fu battle between Sensei and student, in front of abandoned dojo.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026071556594827264/img/OsYMrv8DycREcT3i.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026072001329446914)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026072001329446914)**
-
-**Author:** [Johnny Digital](https://x.com/JohnnyDigital47) | **Source:** [Link](https://x.com/JohnnyDigital47/status/2026072001329446914) | **Published:** Feb 23, 2026
-
----
-
-### Low quality smartphone vlog footage, shaky handheld camera POV
-
-> Low quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy nig...
-
-#### 📝 Prompt
-
-```
-Low quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night, wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise, dynamic motion blur. She suddenly stops, turns her head back to look directly at the camera with a delayed autofocus effect, giving a casual, sweet, and slightly shy smile. Her loosely semi-tied long hair is slightly wet from the drizzle. She then steps very close to the lens, playfully tucking a wet strand of hair behind her ear. Amateur framing, lens flares, heavy video grain, raw and unpolished snapshot aesthetic throughout the entire continuous shot.
-
---- THREAD CONTINUATION ---
-[Thread 1] @grok Can you tell if this is AI or real?
-
-[Thread 2] prompt:
-
-Continuous Video Prompt: > Low quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night, wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise, dynamic motion blur. She suddenly stops, turns her head back to look directly at the camera with a delayed autofocus effect, giving a casual, sweet, and slightly shy smile. Her loosely semi-tied long hair is slightly wet from the drizzle. She then steps very close to the lens, playfully tucking a wet strand of hair behind her ear. Amateur framing, lens flares, heavy video grain, raw and unpolished snapshot aesthetic throughout the entire continuous shot.
+Create an ultra-realistic image from a first-person camera perspective. The viewer is riding on the back of a massive, powerful dragon flying above an ancient city under siege. In the foreground, the rider’s armored hands are clearly visible, gripping the rough, scaled neck or reins of the dragon tightly. The dragon’s wings stretch out to either side, casting shadows over the burning city.
 ```
 
 #### 💡 Tips
 
-@grok 你能分辨出这是 AI 还是真实的吗
+Seedance 2 
 
-prompt：
+Prompt👇
 
-Continuous Video Prompt: > Low quality smartphone vlog footage， shaky handheld camera POV. A young， ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night， wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise， dynamic motion blur. She suddenly stops， turns her head back to look directly at the camera with a delayed autofocus effect， giving a casual， sweet， and slightly shy smile. Her loosely semi-tied long hair is slightly wet from the drizzle. She then steps very close to the lens， playfully tucking a wet strand of hair behind her ear. Amateur framing， lens flares， heavy video grain， raw and unpolished snapshot aesthetic throughout the entire continuous shot.
+Create an ultra-realistic image from a first-person camera perspective. The viewer is riding on the back of a massive, powerful dragon flying above an ancient city under siege. In the foreground, the rider’s armored hands are clearly visible, gripping the rough, scaled neck or reins of the dragon tightly. The dragon’s wings stretch out to either side, casting shadows over the burning city.
 
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025949555356061696/img/-FWUX2e5rVOXyHEX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025949647379013915)
+[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025846330426331136/pu/img/8P5ASdv1jFxPIoUJ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025846361313194493)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025949647379013915)**
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025846361313194493)**
 
-**Author:** [硅予](https://x.com/Leslieyu0) | **Source:** [Link](https://x.com/Leslieyu0/status/2025949647379013915) | **Published:** Feb 23, 2026
+**Author:** [Sarah](https://x.com/SyntheSarah) | **Source:** [Link](https://x.com/SyntheSarah/status/2025846361313194493) | **Published:** Feb 23, 2026
 
 ---
 
-### Scorpion and Subziro punch a lot.
+### 【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Pho...
 
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hollywood is so cooked! A single Mortal Kombat-style scene costs $200 Billion in Hollywood. But it is created in 2 minutes with one prompt. Seedance 2.0 Made this possible 🔥 Hollywood isn’t the...
+> 好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy) 炫酷特效大师Seedance 2.0 文生视频 prompt 👇 【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，
 
 #### 📝 Prompt
 
 ```
-Scorpion and Subziro punch a lot.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026023708008030209/img/fL1ZkscZvwmXCDFL.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026025200911868368)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026025200911868368)**
-
-**Author:** [Hack The Movies](https://x.com/HacktheMovies) | **Source:** [Link](https://x.com/HacktheMovies/status/2026025200911868368) | **Published:** Feb 23, 2026
-
----
-
-### Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the ca...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Filmmaking isn’t locked behind gates anymore. If you can dream it up, you can turn it into something real. You can now generate Seedance 2.0 videos for free on @MartiniArt_ 🔥 https://t.co/BPxYxn...
-
-#### 📝 Prompt
-
-```
-Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the ledge, warning lights flashing. A collapsing balcony rains debris; the rider snaps a last-inch swerve under a falling arch, then threads through hanging laundry lines and open windows in one fluid line. The camera darts through the same openings, staying glued to the motion. One final bend and sudden calm: the camera blasts outward into a reveal of the city opening onto a boundless waterfall-fed valley, mist turning into rainbow.
+【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。
 ```
 
 #### 💡 Tips
 
-Prompt:
+好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)
 
-Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the ledge, warning lights flashing. A collapsing balcony rains debris; the rider snaps a last-inch swerve under a falling arch, then threads through hanging laundry lines and open windows in one fluid line. The camera darts through the same openings, staying glued to the motion. One final bend and sudden calm: the camera blasts outward into a reveal of the city opening onto a boundless waterfall-fed valley, mist turning into rainbow.
+炫酷特效大师Seedance 2.0
 
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025828566953611264/pu/img/YK0tKLhpZHAGpaub.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025828764744056978)
+文生视频 prompt 👇
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025828764744056978)**
-
-**Author:** [Zara](https://x.com/ZaraIrahh) | **Source:** [Link](https://x.com/ZaraIrahh/status/2025828764744056978) | **Published:** Feb 23, 2026
-
----
-
-### 【Style】Hollywood Haute Couture Fantasy, 8K Ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 Fl...
-
-> --- 【Style】Hollywood Haute Couture Fantasy, 8K Ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 Fluid Rendering, Optical Illusion. ---
-
-#### 📝 Prompt
-
-```
----
-【Style】Hollywood Haute Couture Fantasy, 8K Ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 Fluid Rendering, Optical Illusion.
----
-```
+【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。 https://t.co/mVI4lxfB5R
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025849361498771456/img/x-evpB8-zhZxO4L3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025849650654122348)
 
@@ -1053,11 +1673,182 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 
 ---
 
-### A high-quality cinematic video of a bright red Jeep Wrangler parked at a busy city intersection
+### Kung fu battle between Sensei and student, in front of aband...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> I tried to recreate same transformation with Kling 3.0 🔥 Here is the result Which one do you prefer Seedance 2.0 or Kling 3.0? Prompt: A high-quality cinematic video of a bright red Jeep Wran...
+> I can confirm....#Seedance 2.0 is a mfing BEAST! First 2 test images: High &amp; Low Res One prompt: Kung fu battle between Sensei and student, in front of abandoned dojo. Nothing more....nothing less
+
+#### 📝 Prompt
+
+```
+Kung fu battle between Sensei and student, in front of abandoned dojo.
+```
+
+#### 💡 Tips
+
+I can confirm....#Seedance 2.0 is a mfing BEAST!
+First 2 test images: High &amp; Low Res
+One prompt: Kung fu battle between Sensei and student, in front of abandoned dojo. 
+
+Nothing more....nothing less. These are the results I got. 🤯
+👉Follow, like, comment "Seedance" for access https://t.co/v1VyEk9ELA
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026071556594827264/img/OsYMrv8DycREcT3i.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026072001329446914)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026072001329446914)**
+
+**Author:** [Johnny Digital](https://x.com/JohnnyDigital47) | **Source:** [Link](https://x.com/JohnnyDigital47/status/2026072001329446914) | **Published:** Feb 23, 2026
+
+---
+
+### Low quality smartphone vlog footage， shaky handheld camera P...
+
+> 《感觉又恋爱了！》 看完这个视频，突然有个邪念，是不是以后美女都可以自产自足啦，😁 需Seedance提示词，评论+发私信。 https://t.co/90cEGrGVuy
+
+#### 📝 Prompt
+
+```
+Low quality smartphone vlog footage， shaky handheld camera POV. A young， ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night， wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise， dynamic motion blur. She suddenly stops， turns her head back to look directly at the camera with a delayed autofocus effect， giving a casual， sweet， and slightly shy smile. Her loosely semi-tied long hair is slightly wet from the drizzle. She then steps very close to the lens， playfully tucking a wet strand of hair behind her ear. Amateur framing， lens flares， heavy video grain， raw and unpolished snapshot aesthetic throughout the entire continuous shot.
+```
+
+#### 💡 Tips
+
+《感觉又恋爱了！》
+看完这个视频，突然有个邪念，是不是以后美女都可以自产自足啦，😁
+
+需Seedance提示词，评论+发私信。 https://t.co/90cEGrGVuy
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025949555356061696/img/-FWUX2e5rVOXyHEX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025949647379013915)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025949647379013915)**
+
+**Author:** [硅予](https://x.com/Leslieyu0) | **Source:** [Link](https://x.com/Leslieyu0/status/2025949647379013915) | **Published:** Feb 23, 2026
+
+---
+
+### Medium shot. Knight looking at the camera. Dragon fills back...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> POV: Ogres Catapulted Me. Now I’m a Dragon Rider. Created on @MartiniArt_ with Seedance 2.0 https://t.co/HdqQXhIedr
+
+#### 📝 Prompt
+
+```
+Medium shot. Knight looking at the camera. Dragon fills background. Wind lifts cloak edge. He turns toward camera.
+```
+
+#### 💡 Tips
+
+POV: Ogres Catapulted Me. Now I’m a Dragon Rider.
+
+Created on @MartiniArt_  with Seedance 2.0 https://t.co/HdqQXhIedr
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025741481852448768/img/jVrqVHEa5b0rOzJE.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025741915816186148)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025741915816186148)**
+
+**Author:** [Aimi Kōda](https://x.com/aimikoda) | **Source:** [Link](https://x.com/aimikoda/status/2025741915816186148) | **Published:** Feb 23, 2026
+
+---
+
+### Scorpion and Subziro punch a lot.
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hollywood is so cooked! A single Mortal Kombat-style scene costs $200 Billion in Hollywood. But it is created in 2 minutes with one prompt. Seedance 2.0 Made this possible 🔥 Hollywood isn’t the futur
+
+#### 📝 Prompt
+
+```
+Scorpion and Subziro punch a lot.
+```
+
+#### 💡 Tips
+
+Hollywood is so cooked! A single Mortal Kombat-style scene costs $200 Billion in Hollywood. But it is created in 2 minutes with one prompt.  
+
+Seedance 2.0 Made this possible 🔥
+Hollywood isn’t the future of filmmaking. Creators are.
+
+Promt: Scorpion and Subziro punch a lot. https://t.co/DG7GBhrGEW
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026023708008030209/img/fL1ZkscZvwmXCDFL.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026025200911868368)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026025200911868368)**
+
+**Author:** [Hack The Movies](https://x.com/HacktheMovies) | **Source:** [Link](https://x.com/HacktheMovies/status/2026025200911868368) | **Published:** Feb 23, 2026
+
+---
+
+### Speeder chase across a cliff city (single continuous shot) F...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Filmmaking isn’t locked behind gates anymore. If you can dream it up, you can turn it into something real. You can now generate Seedance 2.0 videos for free on @MartiniArt_ 🔥 https://t.co/BPxYxnAhk0
+
+#### 📝 Prompt
+
+```
+Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the ledge, warning lights flashing. A collapsing balcony rains debris; the rider snaps a last-inch swerve under a falling arch, then threads through hanging laundry lines and open windows in one fluid line. The camera darts through the same openings, staying glued to the motion. One final bend and sudden calm: the camera blasts outward into a reveal of the city opening onto a boundless waterfall-fed valley, mist turning into rainbow.
+```
+
+#### 💡 Tips
+
+Filmmaking isn’t locked behind gates anymore.
+
+If you can dream it up, you can turn it into something real.
+
+You can now generate Seedance 2.0 videos for free on @MartiniArt_ 🔥 https://t.co/BPxYxnAhk0
+
+[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025828566953611264/pu/img/YK0tKLhpZHAGpaub.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025828764744056978)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025828764744056978)**
+
+**Author:** [Zara](https://x.com/ZaraIrahh) | **Source:** [Link](https://x.com/ZaraIrahh/status/2025828764744056978) | **Published:** Feb 23, 2026
+
+---
+
+### A high-fashion model wearing a heavy Victorian gown [referen...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> I finally tested Seedance 2.0, and the "Hollywood Killer" rumours are 100% true. Most creators are stuck on a waitlist or blocked by geo-fencing, but I’ve found the back door, a stable, fast way to ac
+
+#### 📝 Prompt
+
+```
+A high-fashion model wearing a heavy Victorian gown [referencing @Image1] performing a fluid, high-speed breakdance power move on a wet marble floor. The camera performs a 360-degree orbit [referencing @Video1] while water droplets fly off the fabric in slow motion. Cinematic 8k, hyper-realistic textures.
+```
+
+#### 💡 Tips
+
+I finally tested Seedance 2.0, and the "Hollywood Killer" rumours are 100% true.
+
+Most creators are stuck on a waitlist or blocked by geo-fencing, but I’ve found the back door, a stable, fast way to access it today via https://t.co/thBgNO0lFe. No workarounds, No VPN, just pure generational power. The gatekeepers have failed.
+
+Hollywood is shaking because this model handles physics and sync better than anything on the market.
+
+I’m breaking down the 5 features making studios tremble (along with 5-second stress-test prompts designed to push those capabilities to the limit.)
+
+#Seedance2_0
+
+Thread👇🏾🧵
+
+[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025429344743546881/pu/img/AqRB3UIcUYt6H5EN.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025429461236056304)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025429461236056304)**
+
+**Author:** [Gilbert Odera | Your AI Plug™🇰🇪](https://x.com/yourPlugAI) | **Source:** [Link](https://x.com/yourPlugAI/status/2025429461236056304) | **Published:** Feb 22, 2026
+
+---
+
+### A high-quality cinematic video of a bright red Jeep Wrangler...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> I tried to recreate same transformation with Kling 3.0 🔥 Here is the result Which one do you prefer Seedance 2.0 or Kling 3.0? Prompt: A high-quality cinematic video of a bright red Jeep Wrangler par
 
 #### 📝 Prompt
 
@@ -1067,12 +1858,17 @@ A high-quality cinematic video of a bright red Jeep Wrangler parked at a busy ci
 
 #### 💡 Tips
 
-Image to video in Kling 3.0 
-Image created using Nano Banana Pro in Gemini https://t.co/KM4yWHGQBg
+I tried to recreate same transformation with Kling 3.0 🔥
 
----
+Here is the result
 
-Seedance 2.0 is pushing car transformations to another level. 🚗 https://t.co/uCiCkCPXGJ
+Which one do you prefer Seedance 2.0 or Kling 3.0? 
+
+Prompt:
+
+A high-quality cinematic video of a bright red Jeep Wrangler parked at a busy city intersection. The car begins a complex mechanical transformation into a giant bipedal robot. The hood pops open, the doors swing outward to form shoulders, and the chassis splits to reveal metallic legs and hydraulic joints. The robot stands tall on the asphalt, its chest featuring the Jeep’s iconic front grille and round headlights. In the background, white vans and city traffic continue to move under a daylight sky. The transformation is seamless, showing intricate moving parts and a realistic metallic texture.
+
+@Kling_ai
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025582969507991553/img/W8G0pASOCkORT8MM.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025585211434754269)
 
@@ -1084,11 +1880,11 @@ Seedance 2.0 is pushing car transformations to another level. 🚗 https://t.co/
 
 ### A man walks out of his house toward the parked car.
 
-[cut...
+[cut] T...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Head to Seedance 2.0 (this cartoon was created on the Jimeng platform). Use the following prompt: "A man walks out of his house toward the parked car. [cut] The man gets into the car. [cut] Man...
+> Head to Seedance 2.0 (this cartoon was created on the Jimeng platform). Use the following prompt: "A man walks out of his house toward the parked car. [cut] The man gets into the car. [cut] Man turns 
 
 #### 📝 Prompt
 
@@ -1108,6 +1904,26 @@ A man walks out of his house toward the parked car.
 No music.
 ```
 
+#### 💡 Tips
+
+Head to Seedance 2.0 (this cartoon was created on the Jimeng platform).
+
+Use the following prompt:
+
+"A man walks out of his house toward the parked car.
+
+[cut] The man gets into the car.
+
+[cut] Man turns on the engine; the flower on the dashboard slightly trembles.
+
+[cut] Man accelerates quickly and drives like crazy.
+
+[cut] Different shot of the man driving wildly, hitting trash bins and mailboxes on his way.
+
+[cut] People on the sidewalk scream.
+
+No music."
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025586641528864768/img/OmzxD-yrEz-PWpN-.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025586704728670713)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025586704728670713)**
@@ -1116,11 +1932,11 @@ No music.
 
 ---
 
-### A radio operator in an Antarctic station picks up a transmission that makes her tear off her headphones
+### A radio operator in an Antarctic station picks up a transmis...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Just look at what I got in Seedance 2.0 using the prompt from the wonderful @AllaAisling. I really don't want them to take it away from us or restrict the capabilities of Seedance 2.0, it's...😭 h...
+> Just look at what I got in Seedance 2.0 using the prompt from the wonderful @AllaAisling. I really don't want them to take it away from us or restrict the capabilities of Seedance 2.0, it's...😭 https
 
 #### 📝 Prompt
 
@@ -1130,9 +1946,8 @@ A radio operator in an Antarctic station picks up a transmission that makes her 
 
 #### 💡 Tips
 
-Prompt Studio: The Signal with Kling 3.0 in @openart_ai , text to video
-
-A radio operator in an Antarctic station picks up a transmission that makes her tear off her headphones. She runs to the window. On the ice shelf a mile out, something enormous is pushing up from below, cracking the surface in a perfect circle. The horizon tilts as the shelf begins to calve. VFX: ice fracture radial simulation, subsurface pressure displacement, blizzard particle system, emergency red light strobing inside the station. Aesthetic: Whiteout white and deep station red, John Carpenter isolation palette, small human enormous threat, the ice as a lid being lifted from underneath, cold light, colder dread.
+Just look at what I got in Seedance 2.0 using the prompt from the wonderful @AllaAisling. 
+I really don't want them to take it away from us or restrict the capabilities of Seedance 2.0, it's...😭 https://t.co/zimb62dNnj
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025505061703438336/img/yvcrQ2m_erjHcXXe.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025505131718951296)
 
@@ -1142,17 +1957,29 @@ A radio operator in an Antarctic station picks up a transmission that makes her 
 
 ---
 
-### A woman walks briskly through a dim parking garage, heels echoing on the concrete
+### A woman walks briskly through a dim parking garage, heels ec...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> 🎨 SEEDANCE 1.5 🎨 Prompt : A woman walks briskly through a dim parking garage, heels echoing on the concrete. Fluorescent lights buzz overhead as shadows shift between the rows of cars. She glan...
+> 🎨 SEEDANCE 1.5 🎨 Prompt : A woman walks briskly through a dim parking garage, heels echoing on the concrete. Fluorescent lights buzz overhead as shadows shift between the rows of cars. She glances o
 
 #### 📝 Prompt
 
 ```
 A woman walks briskly through a dim parking garage, heels echoing on the concrete. Fluorescent lights buzz overhead as shadows shift between the rows of cars. She glances over her shoulder, keys clenched tight in her hand, breath quick in the still air.
 ```
+
+#### 💡 Tips
+
+🎨 SEEDANCE 1.5 🎨
+
+Prompt :
+
+A woman walks briskly through a dim parking garage, heels echoing on the concrete. Fluorescent lights buzz overhead as shadows shift between the rows of cars. She glances over her shoulder, keys clenched tight in her hand, breath quick in the still air.
+
+Made in @dreamina_ai
+
+#DreaminaCPP
 
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025680747802038272/pu/img/HztFPfLhXqFaIFr3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025680774645628991)
 
@@ -1162,7 +1989,65 @@ A woman walks briskly through a dim parking garage, heels echoing on the concret
 
 ---
 
-### Dimly lit art gallery after hours. Shot 1 (0-7s): Securit...
+### 电影级CG, 神话史诗, 4K, 细节精致, 动态镜头。 0-3秒： 女主手指带紫色电弧特写，双指点向眉间天眼，紫光爆闪...
+
+> Seedance 2.0生成动漫「法天相地」特效。 提示词： 电影级CG, 神话史诗, 4K, 细节精致, 动态镜头。 0-3秒： 女主手指带紫色电弧特写，双指点向眉间天眼，紫光爆闪，双眼紧闭，低沉念出"法天相地"，背景有低频吟唱。 3-5秒 ： https://t.co/TQPDMRHN1e
+
+#### 📝 Prompt
+
+```
+电影级CG, 神话史诗, 4K, 细节精致, 动态镜头。 0-3秒： 女主手指带紫色电弧特写，双指点向眉间天眼，紫光爆闪，双眼紧闭，低沉念出"法天相地"，背景有低频吟唱。
+```
+
+#### 💡 Tips
+
+Seedance 2.0生成动漫「法天相地」特效。
+
+提示词：
+电影级CG, 神话史诗, 4K, 细节精致, 动态镜头。
+0-3秒：
+女主手指带紫色电弧特写，双指点向眉间天眼，紫光爆闪，双眼紧闭，低沉念出"法天相地"，背景有低频吟唱。
+3-5秒 ： https://t.co/TQPDMRHN1e
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025408315694690305/img/qrVaIflr84qwX5ys.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025408381016834408)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025408381016834408)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2025408381016834408) | **Published:** Feb 22, 2026
+
+---
+
+### Cinematic masterpiece, ultra-realistic 8K video, anamorphic...
+
+> Seedance 2.0 ile video üretmek isteyenler bu siteyi kullanabilir. Benim ürettiğim video aşağıda. Referans kodu istiyor ilk başta zorunlu değil ancak belki ek bişe verir size diye veriyorum. Bana ek 50
+
+#### 📝 Prompt
+
+```
+Cinematic masterpiece, ultra-realistic 8K video, anamorphic lens, shot on 70mm IMAX film. A lone ethereal woman in flowing translucent white and gold robes stands on a floating obsidian platform inside an ancient cosmic temple floating in the void of space. The temple is made of glowing crystalline stone covered in living runes that pulse with inner light. Around her, massive ancient trees with bioluminescent leaves grow upside down from the ceiling, their roots reaching toward infinite stars. A blood-red supermoon and swirling aurora borealis illuminate the scene from above through a shattered celestial dome. Suddenly she slowly raises her arms, eyes glowing pure white. A massive portal of liquid starlight tears open in front of her, revealing breathtaking nebulae, distant galaxies and ancient gods watching silently. Hundreds of translucent spirit orbs and luminous phoenixes made of pure light swirl around her in perfect choreography. Volumetric god rays cut through thick cosmic mist, lens flares dance across the frame, gentle floating embers and particles everywhere. Camera movement: Starts with a slow majestic 360° orbit around the woman, then smoothly pulls back into a sweeping crane shot rising upward revealing the full scale of the infinite temple floating in space, ending with a dramatic low-angle hero shot as she steps into the portal. Color grade: teal and orange cinematic look, hyper detailed textures, emotional, mystical, breathtaking atmosphere that completely captivates the viewer. Directed by Denis Villeneuve and Guillermo del Toro, Hans Zimmer style orchestral swell in the background, subtle ethereal female choir, perfect lip sync if she speaks, film grain, natural motion blur, masterpiece, awe-inspiring, jaw-dropping. epic orchestral music swell with deep sub bass and ethereal female choir, synchronized perfectly —ar 16:9 —stylize 750 —v 2.0 —q 2
+```
+
+#### 💡 Tips
+
+Seedance 2.0 ile video üretmek isteyenler bu siteyi kullanabilir. Benim ürettiğim video aşağıda. Referans kodu istiyor ilk başta zorunlu değil ancak belki ek bişe verir size diye veriyorum. Bana ek 500 kredi gelecek orası ayrı. 
+
+Baya yavaş bu arada bilginiz olsun. 
+
+REF-COFXDSSY
+
+@plotpartyai  
+
+https://t.co/NxjvoZQrDY
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025480687462084608/img/V9vq9K2v7HFF4V_5.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025480946225418324)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025480946225418324)**
+
+**Author:** [Mehmet](https://x.com/xenit_v0) | **Source:** [Link](https://x.com/xenit_v0/status/2025480946225418324) | **Published:** Feb 22, 2026
+
+---
+
+### Dimly lit art gallery after hours. Shot 1 (0-7s): Security g...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -1176,8 +2061,7 @@ Dimly lit art gallery after hours. Shot 1 (0-7s): Security guard walks past a 19
 
 #### 💡 Tips
 
-Kling 3.0 Pro Prompt:
-Dimly lit art gallery after hours. Shot 1 (0-7s): Security guard walks past a 19th-century oil portrait of a woman. Shot 2 (7-15s): Slow push-in on the painting — the woman’s eyes follow him, then she slowly raises a finger to her lips in the painting while the real guard’s mouth is forced shut by invisible hands. Canvas texture hyper-real, oil paint moving like skin. Audio: guard’s muffled screams, wet paint sounds, gallery echo.
+Thank you, Seedance 2.0, for letting this prompt through and not adding any Hollywood star here.😁😁😁 https://t.co/llalGyQBtA
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025677665252913152/img/hzpTmuJE2K8VmXbj.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025677729463435314)
 
@@ -1187,7 +2071,7 @@ Dimly lit art gallery after hours. Shot 1 (0-7s): Security guard walks past a 19
 
 ---
 
-### Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scientists.
+### Giant preserved sea creatures (megalodon, octopus) in tanks...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -1199,6 +2083,14 @@ Dimly lit art gallery after hours. Shot 1 (0-7s): Security guard walks past a 19
 Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scientists.
 ```
 
+#### 💡 Tips
+
+Seedance 2.0
+
+Creation in @dreamina_ai
+
+Prompt -Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scientists. https://t.co/KOs1clg2To
+
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025490374555516928/pu/img/G0IUXAOqCWJ4aeiT.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025490403689189794)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025490403689189794)**
@@ -1207,7 +2099,7 @@ Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scien
 
 ---
 
-### god's hand grabs a random lady off the street and makes her the pinball in god's pinball machine
+### god's hand grabs a random lady off the street and makes her...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -1221,7 +2113,9 @@ god's hand grabs a random lady off the street and makes her the pinball in god's
 
 #### 💡 Tips
 
-Prompt: "god's hand grabs a random lady off the street and makes her the pinball in god's pinball machine. When he scores, she gets up and high fives the god hand."
+Seedance 2.0 nailed this prompt in one go.
+
+Made w/ @YouArtStudio https://t.co/00gYM09bsf
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025719170134876162/img/wXVMuIrI_M9lv0Qq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025719598746611890)
 
@@ -1231,7 +2125,35 @@ Prompt: "god's hand grabs a random lady off the street and makes her the pinball
 
 ---
 
-### SCENE: DEEP OCEAN TRENCH - UNDERWATER Quick Cuts ATMOSPHERE: Awe-inspiring and primeval
+### 超高清纯欲风美女变装短视频，电影级柔焦柔光，清透磨皮质感，肤色白皙粉嫩，画面干净温柔，细节细腻。
+
+> Seedance 2.0生成美女变装视频。 提示词： 超高清纯欲风美女变装短视频，电影级柔焦柔光，清透磨皮质感，肤色白皙粉嫩，画面干净温柔，细节细腻。 https://t.co/AmrPNDuVVj
+
+#### 📝 Prompt
+
+```
+超高清纯欲风美女变装短视频，电影级柔焦柔光，清透磨皮质感，肤色白皙粉嫩，画面干净温柔，细节细腻。
+```
+
+#### 💡 Tips
+
+Seedance 2.0生成美女变装视频。
+
+提示词：
+超高清纯欲风美女变装短视频，电影级柔焦柔光，清透磨皮质感，肤色白皙粉嫩，画面干净温柔，细节细腻。 https://t.co/AmrPNDuVVj
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025454045134290948/img/dEamXfeeUwnSAwGm.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025454107423605026)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025454107423605026)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2025454107423605026) | **Published:** Feb 22, 2026
+
+---
+
+### SCENE: DEEP OCEAN TRENCH - UNDERWATER
+Quick Cuts
+
+ATMOSPHERE...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -1282,46 +2204,9 @@ SOUND LAYERS:
 
 #### 💡 Tips
 
-Prompt:
+Experiment: Gargantuan Whales of the Deep 🔊
 
-SCENE: DEEP OCEAN TRENCH - UNDERWATER
-Quick Cuts
-
-ATMOSPHERE: Awe-inspiring and primeval. The sheer, terrifying scale of a peaceful giant moving flawlessly through the quiet ocean water evokes a profound sense of majesty and the raw power of nature.
-
-SHOT DESCRIPTION:
-A fast-paced sequence of cinematic underwater shots capturing the majestic movement and physical presence of a gargantuan whale. The sequence starts wide, pushes into micro-details, captures a second whale joining, and concludes with a powerful, turbulent departure.
-
-TIMELINE / SHOT-BY-SHOT:
-0:00-0:03 - [Extreme Wide Angle / 16mm / Slow Drift]. A breathtaking full-body profile of a gargantuan whale suspended in the vast liquid space. The massive creature displaces thousands of gallons of water smoothly.
-SFX: A low, resonating bass frequency of the ocean depth.
-
-0:03-0:06 - [Push In / Smooth Track]. The camera slowly pushes in towards the creature's immense midsection. The visual scale shifts to reveal the mountain-like texture of its skin, heavily encrusted with thick clusters of pale, jagged barnacles.
-SFX: A deep, chest-vibrating biological groan that slowly builds in intensity.
-
-0:06-0:09 - [Medium Shot / Slow Pan]. The camera glides parallel to the whale. An ancient, intelligent eye the size of a vehicle rolls loosely to observe the space. Swirling streams of micro-bubbles cascade off its massive pectoral fins.
-SFX: The gentle, rhythmic swoosh of water being physically displaced.
-
-0:09-0:12 - [Deep Focus / Wide Angle / Pan]. A colossal shadow looms slowly from the deep background, rising vertically. A second, equally massive whale emerges into view, creating a breathtaking tandem formation with the first. Their sheer combined mass visibly shifts the water current.
-SFX: Overlapping, mournful low-frequency calls echoing.
-
-0:12-0:15 - [Tilt Up / Turbulence]. Both whales initiate a unified downward dive. The gargantuan tail flukes sequence into the frame. As the tails sweep downward, they create a massive localized vortex. The camera vigorously shakes, engulfed perfectly by a chaotic explosion of tumbling silver air bubbles before the vision blurs.
-SFX: A sudden, explosive wall of water displacement washing over the soundscape.
-
-TECHNICAL & RENDER:
-- Camera: Floating cinematic rig, smooth zero-gravity drifting, sudden turbulence and camera shake at the climax
-- Lens: 16mm ultra-wide underwater dome port, deep depth of field
-- Modifiers: Shot on 35mm film, photorealistic, cinematic atmospheric lighting, highly detailed, raw footage, motion picture, 8k resolution, volumetric rendering.
-
-MICRO DETAILS & TEXTURES:
-- Densely packed clusters of jagged, calcified white barnacles attached to the leathery grey skin
-- Shimmering silver micro-bubbles streaming along the deep ridges of the whale's ancient, healed scars
-- The physical weight of water visibly bending and rushing around the massive thrust of the tandem tail flukes
-
-SOUND LAYERS:
-0:00-0:06: Heavy underwater pressure ambient tone, chest-vibrating biological groan
-0:06-0:12: Swishing water displaced by fins, overlapping low-frequency calls echoing
-0:12-0:15: Rushing, heavy wall of water displacement blending back into absolute isolation
+Seedance 2.0 - Prompt 👇 https://t.co/kDNYAROXvH
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025383719503020033/img/DxUCTiRONaxcq5WS.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025383929260229031)
 
@@ -1331,11 +2216,67 @@ SOUND LAYERS:
 
 ---
 
-### Video generated from reference image storyboard to anime with automatic coloring.
+### [Style] Modern fantasy action film, Hollywood blockbuster-le...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> What's happening !? I uploaded a storyboard, and Seedance 2 gave me this animation. Prompt : Video generated from reference image storyboard to anime with automatic coloring. Created with @YouAr...
+> Hollywood blockbuster visual effects Made with Seedance 2.0 model. The international version of the model is not yet available. It is currently being tested by me as CPP personnel, and I’m sharing it 
+
+#### 📝 Prompt
+
+```
+[Style] Modern fantasy action film, Hollywood blockbuster-level visual effects, high-contrast cool and warm lighting, 4K ultra HD, slow motion with speed ramping.
+[Duration] 15 seconds
+[Scene] The crumbling ruins of an ancient fortress, thick smoke billowing everywhere.
+
+[Characters]
+
+Magma General: Wearing a red military overcoat and a baseball cap, with a cold, emotionless expression. His entire right arm has transformed into flowing dark-red magma.
+
+Flame Youth: Bare-chested, wearing a cowboy hat, with well-defined muscular lines. His right fist is wrapped in swirling orange flames.
+
+---
+
+[00:00–00:05] Shot 1: The Magma Fist (Close-up)
+The Magma General coldly raises his right hand. In an instant, his entire arm elementalizes, transforming into a viscous, heavy, dripping, high-luminosity solid magma giant fist.
+[Physical Details] Scorching magma drips onto the ground with a sharp “hiss.” Stones instantly melt into glowing red liquid. Thick black smoke rises.
+
+---
+
+[00:05–00:10] Shot 2: The Flame Spiral (Close-up / Side Angle)
+The Flame Youth smirks, his eyes wild and defiant. He clenches his right fist fiercely, and a violent spiral of orange flames erupts from his arm, illuminating his sweat-soaked profile.
+[Physical Details] The extreme heat severely distorts the surrounding air (heat haze effect). His previously fluttering clothing freezes mid-motion under the intense heat wave.
+
+---
+
+[00:10–00:15] Shot 3: Elemental Clash (Wide Shot / Shockwave)
+Both characters charge simultaneously, throwing powerful punches at each other. The heavy dark-red magma fist and the agile, raging flame fist collide violently at the center of the frame.
+[Safety Effect] No gore—only a pure elemental explosion. The magma engulfs part of the flames, generating a massive circular shockwave that instantly blasts away debris and dust from the ground. The scene ends in a blinding burst of red-orange-white light.
+```
+
+#### 💡 Tips
+
+Hollywood blockbuster visual effects
+
+Made with Seedance 2.0 model.
+
+The international version of the model is not yet available. It is currently being tested by me as CPP personnel,
+
+and I’m sharing it with everyone so you can get started quickly. https://t.co/mjmUAZIbbj
+
+[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025443175750594560/pu/img/BoK2XP2oQpk0F4oo.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025443215835627521)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025443215835627521)**
+
+**Author:** [Oogie](https://x.com/oggii_0) | **Source:** [Link](https://x.com/oggii_0/status/2025443215835627521) | **Published:** Feb 22, 2026
+
+---
+
+### Video generated from reference image storyboard to anime wit...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> What's happening !? I uploaded a storyboard, and Seedance 2 gave me this animation. Prompt : Video generated from reference image storyboard to anime with automatic coloring. Created with @YouArtStudi
 
 #### 📝 Prompt
 
@@ -1345,27 +2286,15 @@ Video generated from reference image storyboard to anime with automatic coloring
 
 #### 💡 Tips
 
-https://t.co/EUkpQ89RJm
+What's happening !?
 
-https://t.co/nlEkjODGW5
+I uploaded a storyboard, and Seedance 2 gave me this animation.
 
-https://t.co/sQcAwM3VqH
+Prompt : Video generated from reference image storyboard to anime with automatic coloring.
 
-https://t.co/MdcsYQevuN
+Created with @YouArtStudio 
 
-https://t.co/dMndFg95Et
-
-https://t.co/teYmHHYVtV
-
-https://t.co/hWoMsfYa51
-
-https://t.co/faWcOfawdW
-
-https://t.co/WxaLPs2jDa
-
-https://t.co/HicSDhYwDh
-
-https://t.co/bEtFDxEZli
+Don't forget to check all my work with Seedance 2.0.👇
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025666282855583744/img/Xk8uLk1R-8odSJwq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025666923477057740)
 
@@ -1375,7 +2304,7 @@ https://t.co/bEtFDxEZli
 
 ---
 
-### Create a Pixar-style film about Punch that will make grown men cry
+### Create a Pixar-style film about Punch that will make grown m...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -1387,6 +2316,12 @@ https://t.co/bEtFDxEZli
 Create a Pixar-style film about Punch that will make grown men cry
 ```
 
+#### 💡 Tips
+
+Seedance 2.0
+
+Prompt: Create a Pixar-style film about Punch that will make grown men cry https://t.co/w7ZLm0p8Fw
+
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025030597249204225/pu/img/TVIqlQSf7jsRcvLG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025030646142218632)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025030646142218632)**
@@ -1395,11 +2330,11 @@ Create a Pixar-style film about Punch that will make grown men cry
 
 ---
 
-### Futuristic hovercraft on savanna hardpack with dust devils (10 seconds, single continuous shot)Open high in the sky w...
+### Futuristic hovercraft on savanna hardpack with dust devils (...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> This wasn’t generated with the latest Seedance 2.0 or Kling 3.0. This was made with Kling 2.6. Imagine what will be possible to create in the next couple of years. Prompt: Futuristic hovercraft o...
+> This wasn’t generated with the latest Seedance 2.0 or Kling 3.0. This was made with Kling 2.6. Imagine what will be possible to create in the next couple of years. Prompt: Futuristic hovercraft on sav
 
 #### 📝 Prompt
 
@@ -1409,7 +2344,11 @@ Futuristic hovercraft on savanna hardpack with dust devils (10 seconds, single c
 
 #### 💡 Tips
 
-Imagine how much this would cost, if AI didn’t exist! https://t.co/NVr0JAtPOT
+This wasn’t generated with the latest Seedance 2.0 or Kling 3.0.
+
+This was made with Kling 2.6. Imagine what will be possible to create in the next couple of years.
+
+Prompt: Futuristic hovercraft on savanna hardpack with dust devils (10 seconds, single continuous shot)Open high in the sky with a fast circling aerial orbit: the savanna sprawls below, tall grass rippling, hardpack track slicing a pale curve, a distant storm line brooding. A sleek, super-fast futuristic hovercraft (low, aerodynamic, red accent glow) skims the track as a needle of motion, throwing a razor-thin dust wake that peels into spirals while dust devils corkscrew nearby. The camera maintains a rapid orbit while dropping altitude, continuously shifting distance in one fluid move: wide orbit for scale, then a violent swoop closer, then back out—each pass revealing a different angle as the craft glides centimeters above the hardpack, suspensionless but alive with micro-stabilization and heat shimmer.On a tight pass, snap into a steep top-down lock for a beat, tracking the hovercraft like a guided camera drone, then whip the orbit lower into a fast diagonal chase skimming above the grass tips. Slingshot ahead for a brief head-on shot as the hovercraft screams toward camera, air pressure rippling the grass, then whip around into a close side chase where the hull slices the air and dust detonates in clean sheets. Dive even tighter to the rear skirt/vent flow: grit and pebbles ping and tumble, dust boiling into a tunnel as the camera’s orbit compresses into a near-craft spiral, fast and relentless.A herd crosses far in the distance; sudden decision: the pilot cuts off-line through a narrow gap between two termite mounds, a sharp lateral slide with a burst of vector thrust, then snaps back onto the track with a precise, aggressive correction. The camera spears through the dust tunnel in the craft’s wake, then rockets upward into the final, fastest orbit: climb hard and spiral out to an epic reveal as the storm front parts and a dramatic sun pillar drops onto the plains like a stage light, the hovercraft a glowing red dart below with dust devils and its wake curling in the spotlight.
 
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025151914695180288/pu/img/_8rgFQYBFa6CyEyV.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025151963386548438)
 
@@ -1419,17 +2358,24 @@ Imagine how much this would cost, if AI didn’t exist! https://t.co/NVr0JAtPOT
 
 ---
 
-### Help me create a video: In a cozy house, there is a girl in the center of the camera
+### Help me create a video: In a cozy house, there is a girl in...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Create popular drag videos using Seedance 2.0 prompt： Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dr...
+> Create popular drag videos using Seedance 2.0 prompt： Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresse
 
 #### 📝 Prompt
 
 ```
 Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresses plainly. She is wearing plain clothes, with a lot of lake blue paint on her left hand and a little gray paint on her right hand. Then she first raised her right hand with a little gray paint, and the word "gray" appeared in the picture. Then she put down her right hand and raised her left hand with more lake blue paint, and the word "lake blue" appeared in the picture. Then she put down her left hand. Rubbing the paint between the palms of the two hands, the paint in the hand turned silver-blue, and the words "silver-blue" appeared in the picture. Then, she closed her hands, palms facing each other, blocked the camera, and then removed it. The girl changed the scene, wearing exquisite and beautiful Hanfu. With exquisite and beautiful makeup, the girl becomes more beautiful. At this time, the technique of photo photography is used to present a texture similar to film photography. The main color tone of the picture is silver-blue, exuding an atmosphere of prosperity, elegance, and a hint of charm. The main image has the Dardin effect, wearing bustling silver jewelry on the head, with a beautiful sense of transparency, showing the beauty of disaster for the country and the people, and also carrying a decadent and lazy temperament, with a few strands of broken hair floating in the air. The main body faces the picture, holding a silver and white folding fan. The girl first uses the folding fan to cover the lower half of her face, revealing only a pair of captivating eyes. Then she moved the folding fan down, revealing her entire face with a stunning face. The picture combines textured lighting with natural light, creating a strong contrast of light and shadow with strong gray sidelight and Rembrandt light
 ```
+
+#### 💡 Tips
+
+Create popular drag videos using Seedance 2.0
+
+prompt：
+Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresses plainly. She is wearing plain clothes, with a lot of lake blue paint on her left hand and a little gray paint on her right hand. Then she first raised her right hand with a little gray paint, and the word "gray" appeared in the picture. Then she put down her right hand and raised her left hand with more lake blue paint, and the word "lake blue" appeared in the picture. Then she put down her left hand. Rubbing the paint between the palms of the two hands, the paint in the hand turned silver-blue, and the words "silver-blue" appeared in the picture. Then, she closed her hands, palms facing each other, blocked the camera, and then removed it. The girl changed the scene, wearing exquisite and beautiful Hanfu. With exquisite and beautiful makeup, the girl becomes more beautiful. At this time, the technique of photo photography is used to present a texture similar to film photography. The main color tone of the picture is silver-blue, exuding an atmosphere of prosperity, elegance, and a hint of charm. The main image has the Dardin effect, wearing bustling silver jewelry on the head, with a beautiful sense of transparency, showing the beauty of disaster for the country and the people, and also carrying a decadent and lazy temperament, with a few strands of broken hair floating in the air. The main body faces the picture, holding a silver and white folding fan. The girl first uses the folding fan to cover the lower half of her face, revealing only a pair of captivating eyes. Then she moved the folding fan down, revealing her entire face with a stunning face. The picture combines textured lighting with natural light, creating a strong contrast of light and shadow with strong gray sidelight and Rembrandt light
 
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2025085648022200320/pu/img/_-iz_F-1bhLysjzw.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025085690154000794)
 
@@ -1439,17 +2385,82 @@ Help me create a video: In a cozy house, there is a girl in the center of the ca
 
 ---
 
-### Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.
+### 欢迎交作业！
+拍摄视角： 第一人称男友视角（POV）
+【镜头 01】
+* 景别： 中近景 (MCU)
+* 画面描述： 深...
+
+> 《胆子变大了啊》 Seedance2.0 制作 这种视频真实感很强啊，不知道发短视频有没有流量啊？🤩 提示词的关键在于安静的环境+AMSR 。 需要prompt，评论发你私信。 https://t.co/8gBOBeRMAy
+
+#### 📝 Prompt
+
+```
+欢迎交作业！
+拍摄视角： 第一人称男友视角（POV）
+【镜头 01】
+* 景别： 中近景 (MCU)
+* 画面描述： 深夜，高级公寓客厅。背景是巨大的落地窗，窗外是失焦的城市霓虹（冷色调波点光斑）。室内光线昏暗，只有一盏暖色台灯照亮她的侧脸。她斜靠在深色皮沙发上，妆容精致但略显疲态。手里慵懒地晃动着半杯红酒，眼神没有焦点地望着虚空。
+* 镜头与动作： 固定机位，模拟你坐在她对面的视角。她轻轻叹了口气，手指无意识地摩挲着高脚杯壁。
+* 音效与台词： 极度安静，只有城市远处极其微弱的车流白噪音。偶尔传来冰块撞击玻璃的轻响。
+【镜头 02】
+* 景别： 近景 (CU)
+* 画面描述： 她似乎感觉到了你的注视，缓慢地转过头来直视镜头。眼神里带着三分醉意、七分疲惫，平日的锐利感被酒精柔化成了如丝般的媚态。
+* 镜头与动作： 缓慢推近，聚焦在她的面部表情。她的目光锁定镜头，嘴角极其勉强地扯动了一下。
+* 音效与台词： （御姐音，略沙哑慵懒）“工作……（停顿，眼神迷离）永远做不完呢……”
+【镜头 03】
+* 景别： 特写与互动 (ECU)
+* 画面描述： 突然，一只男性的大手（属于“你”，从屏幕下方或侧边伸入）坚定地握住了她手中的酒杯，并将酒杯从她手中抽走，移出画面外。
+* 镜头与动作： 镜头瞬间变为特写，强调手部动作和她一瞬间的错愕表情。她的手保持着握杯的姿势僵在半空一秒，眼睛因为惊讶而微微睁大，红唇微张。
+* 音效与台词： 酒杯被拿走时的轻微摩擦声。（画外音/你的声音，坚定低沉）“别喝了，去睡觉。”
+【镜头 04】
+* 景别： 近景 (CU)
+* 画面描述： 惊讶的表情在她脸上只停留了一瞬，随即化开。她收回僵在半空的手，身体放松地向后靠去。眼底泛起一丝促狭和被掌控的意外满足感，嘴角勾起一个似有似无的、复杂的笑容。
+* 镜头与动作： 镜头微幅晃动一下（模拟人的呼吸感），捕捉她表情的细腻转换。她轻轻歪了一下头，眼神变得顺从而玩味。
+* 音效与台词： （轻笑声）“呵……”
+【镜头 05】
+* 景别： 极致特写 (Extreme CU)
+* 画面描述： 她的脸庞突然在画面中放大，几乎填满屏幕。她主动倾身向前，凑近“你”的耳边（镜头边缘）。暖光打亮她的一侧脸颊和红唇，眼神在昏暗中显得格外深邃明亮。
+* 镜头与动作： 镜头被动后缩一点点，然后聚焦在她凑近的红唇和眼睛。带着一种致命的诱惑力和罕见的乖顺。
+* 音效与台词： （耳语，气声，极具诱惑力）“胆子变大了呀……（停顿，热气喷洒感）不过，听你的就是了。” 衣物摩擦的沙沙声被放大。
+```
+
+#### 💡 Tips
+
+《胆子变大了啊》 Seedance2.0 制作
+这种视频真实感很强啊，不知道发短视频有没有流量啊？🤩
+提示词的关键在于安静的环境+AMSR 。
+需要prompt，评论发你私信。 https://t.co/8gBOBeRMAy
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025004292927881218/img/o0YX1IKaXPkiVG-H.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025004374632923637)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025004374632923637)**
+
+**Author:** [硅予](https://x.com/Leslieyu0) | **Source:** [Link](https://x.com/Leslieyu0/status/2025004374632923637) | **Published:** Feb 21, 2026
+
+---
+
+### Prompt: An average shift at Waffle House, make sure it's ret...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> AI is going to take over the movie industry. This is Seedance 2.0. This is the prompt used. “Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.” If you will like...
+> AI is going to take over the movie industry. This is Seedance 2.0. This is the prompt used. “Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.” If you will like to g
 
 #### 📝 Prompt
 
 ```
 Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.
 ```
+
+#### 💡 Tips
+
+AI is going to take over the movie industry. This is Seedance 2.0. This is the prompt used.
+
+“Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.”
+
+If you will like to get more prompts from me, comment “SEED”, I’ll DM you
+
+ https://t.co/j48R5CXWAY
 
 [![Video Preview](https://pbs.twimg.com/media/HA-msd1WwAAK_C1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025296310442561926)
 
@@ -1471,6 +2482,12 @@ Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 li
 Punch the Monkey punches back. Make the girls proud.
 ```
 
+#### 💡 Tips
+
+Seedance 2.0
+
+Prompt: Punch the Monkey punches back. Make the girls proud. https://t.co/AYhPf490bJ
+
 [![Video Preview](https://pbs.twimg.com/media/HBo_Vu2bAAE9ohR.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025000532646265184)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025000532646265184)**
@@ -1479,17 +2496,21 @@ Punch the Monkey punches back. Make the girls proud.
 
 ---
 
-### Reaper horn echoes across a desolate planet, camera panning up from cracked ground to reveal dozens of Reapers landin...
+### Reaper horn echoes across a desolate planet, camera panning...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Hello there everyone, happy Saturday and weekend 🥰Let’s not forget that we still have awesome video models besides Seedance 2.0. Here is a Grok imagine video on the @ImagineArt_X website...Here is...
+> Hello there everyone, happy Saturday and weekend 🥰Let’s not forget that we still have awesome video models besides Seedance 2.0. Here is a Grok imagine video on the @ImagineArt_X website...Here is th
 
 #### 📝 Prompt
 
 ```
 Reaper horn echoes across a desolate planet, camera panning up from cracked ground to reveal dozens of Reapers landing in formation, dust storms swirling, apocalyptic scale
 ```
+
+#### 💡 Tips
+
+Hello there everyone, happy Saturday and weekend 🥰Let’s not forget that we still have awesome video models besides Seedance 2.0. Here is a Grok imagine video on the @ImagineArt_X website...Here is the prompt I used: Reaper horn echoes across a desolate planet, camera panning up from cracked ground to reveal dozens of Reapers landing in formation, dust storms swirling, apocalyptic scale 😉
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025109801722679296/img/wwEBwxXaMpf_oxlG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025110382713483553)
 
@@ -1499,7 +2520,8 @@ Reaper horn echoes across a desolate planet, camera panning up from cracked grou
 
 ---
 
-### SCENE: FIRST-PERSON POV BATTLEFIELD - DUSK / OVERCAST Single Take (POV) ATMOSPHERE: Chaotic, claustrophobic, and intense
+### SCENE: FIRST-PERSON POV BATTLEFIELD - DUSK / OVERCAST
+Single...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -1540,42 +2562,11 @@ SOUND LAYERS:
 
 #### 💡 Tips
 
-Prompt:
+POV: Ogre Hits Me
 
-SCENE: FIRST-PERSON POV BATTLEFIELD - DUSK / OVERCAST
-Single Take (POV)
-ATMOSPHERE: Chaotic, claustrophobic, and intense. Mud, soot, and the metallic scent of damp iron fill the air, constricted by the narrow open slit of the knight's heavy helmet. The sheer size and unstoppable force of the giant ogre contrast sharply with the grounded human perspective trapped inside the heavy suit.
-SHOT DESCRIPTION:
-A relentless, unbroken first-person perspective shot from within the knight's helmet, framing the heavy physical interactions through a rigid metal visor slit (no glass). The camera simulates the heavy, jarring physics of a body taking a massive kinetic strike, being launched backward through the air, executing a rapid barrel roll through the mud to dodge an axe, and intercepting the ogre's momentum by bracing a broadsword against the ground.
-TIMELINE / SHOT-BY-SHOT:
-0:00-0:03 - [First-Person POV / 24mm Wide Angle / Shaky Handheld]. Through the dark, scratched metal visor slit, a massive ogre lunges forward and throws a powerful punch directly into the knight's body, launching the subject.
-SFX: Loud metallic clatter, sudden high-pitched tinnitus ring starts.
-LIGHTING: Harsh, diffused gray dusk light over a muddy battlefield.
-0:03-0:06 - [Sudden Aerial Tumbling / Hard Crash]. The kinetic impact launches the armored knight far backward through the air. The horizon spins and tumbles rapidly through the narrow visor slit in a disorienting, weightless arc before a heavy, sudden crash deep into the mud. A harsh, deafening tinnitus ring instantly masks all background noise.
-SFX: Piercing tinnitus ring, followed by the heavy, sloppy thud of armor hitting mud.
-0:06-0:10 - [Low Angle POV / Rapid Sideways Roll]. The ogre quickly closes the distance, towering above and bringing down a massive rusted battle axe. The camera simulates a rapid full-body barrel roll across the muddy earth; the sky, mud, and ogre blur together in a dizzying horizontal spin as the colossal axe blade violently slams into the soft mud inches away, drastically shaking the camera on impact.
-SFX: Whoosh of heavy steel cutting air, booming earth-shattering thud.
-0:10-0:15 - [Low Angle POV / Heavy Ground Anchor]. Enduring the roll, a mud-caked steel gauntlet frantically grabs a discarded broadsword from the muck. As the ogre charges forward again, the knight bracingly anchors the sword's hilt firmly into the ground, aiming the tip upwards. The roaring ogre's sheer downward momentum causes it to collide heavily against the anchored blade, stopping its charge in a tense, brutal clash of kinetic energy. The armored gauntlets shake intensely in the frame, struggling to hold the broadsword steady against the crushing weight of the giant creature pushing down.
-SFX: Heavy physical impact, deep bass roar as the ogre strains against the blade.
-TECHNICAL & RENDER:
-- Camera: Frantic, heavy first-person POV, simulating the weight of a human inside an iron suit, restricted field of view framing via helmet visor.
-- Light: Diffused, bleak overcast dusk, cool color temperature with harsh metallic reflections.
-- Lens: 24mm (simulating human eye field of view but distorted by the helmet enclosure).
-- Modifiers: Shot on 35mm film, photorealistic, cinematic atmospheric lighting, highly detailed, raw footage, motion picture, 8k resolution, volumetric rendering.
-MICRO DETAILS & TEXTURES:
-- Dents and thick mud caked firmly onto the heavy iron framing of the helmet's open visor slit, keeping the viewpoint completely unobstructed by any unnatural glass reflections.
-- The coarse, rugged, gray-green leathery skin of the giant ogre, matted with sweat and dirt.
-- Deep, jagged scratches and rusted indentations on the shaking steel gauntlets holding the broadsword.
-SOUND LAYERS:
-0:00-0:04: Raging battlefield ambience suddenly cut off by a deafening metal impact.
-0:04-0:10: Piercing, continuous tinnitus ring completely masking external sounds, panicked, labored breathing inside the helmet.
-0:10-0:15: Heavy metallic clash, deep roar slowly cutting back through the fading tinnitus.
+Ran out of time and budget to polish this properly, so I'm sharing the prompt below if anyone wants to experiment with it.
 
-I removed this part from the prompt because it was adding mud to the camera. When I pasted it here, I accidentally copied the old version. If you want to try it, remove this section:
-Dents and thick mud caked firmly onto the heavy iron framing of the helmet's open visor slit, keeping the viewpoint completely unobstructed by any unnatural glass reflections.
-
-Part 2
-https://t.co/izz7d3iatT
+Seedance 2.0 https://t.co/ToiubzmyUS
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025193076193476608/img/B6HYkD6_XK0_atWl.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025195077451350197)
 
@@ -1597,6 +2588,14 @@ https://t.co/izz7d3iatT
 the most boring and awkward moment ever
 ```
 
+#### 💡 Tips
+
+seedance 2.0: spacial consistency
+
+pause on the wide shot and check the seating order for consistency of the close up shots. 🤌
+
+prompt: the most boring and awkward moment ever https://t.co/2uf5aLtYDd
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025179959569117184/img/5c7G9CeIrM2wyeyw.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025180010768990616)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025180010768990616)**
@@ -1605,19 +2604,29 @@ the most boring and awkward moment ever
 
 ---
 
-### Ultra-realistic cinematic action sequence based on the provided reference frames
+### Ultra-realistic cinematic action sequence based on the provi...
 
-> Ultra-realistic cinematic action sequence based on the provided reference frames. Same Asian man, same rooftop skyscraper environment, and same futuristic city skyline. Photorealistic Hollywood blo...
+> Seedance 2.0 kullanılarak oluşturulan bir kaç bilim kurgu film sahnesi: Promptu da altında veriyorum isteyen başka modeller ile deneyebilir. 1. Video: "Prompt: "Ultra-realistic cinematic action sequen
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic cinematic action sequence based on the provided reference frames. Same Asian man, same rooftop skyscraper environment, and same futuristic city skyline. Photorealistic Hollywood blockbuster quality, IMAX-level realism, dramatic daylight lighting. Scene progression: The man stands on the edge of a skyscraper rooftop. Dark living nanotech begins to emerge from his back and shoulders. Semi-organic shadow-like tendrils crawl across his skin, wrapping around his arms, chest, and neck. The suit forms aggressively and painfully, the man reacts with visible physical strain and pain in his facial expression and body posture. Biomechanical alien nanotech armor grows layer by layer, liquid-metal textures flowing across his body. The suit feels alive, hostile, and powerful. Action escalation: The man loses control as the nanotech spreads. He jumps and runs down the glass facade of the skyscraper, climbing vertically like a feral creature. Glass cracks and shatters under his grip, fragments flying in slow motion. Debris and dust fall down the building, wind and motion blur emphasize speed and violence. The living suit extends sharp claws and shadowy tendrils to grip the glass surface. Final transformation: He reaches the rooftop again from below in a powerful upward leap. The nanotech completes full body coverage, forming a dark biomechanical armored suit. The final pose is a dominant superhero stance, powerful and intimidating. The city skyline behind him, dramatic cinematic lighting, epic scale. Camera and cinematography: Multiple cinematic camera angles and cuts: – Wide establishing shots of the skyscraper and city – Dynamic side angles during vertical running – Close-up macro shots of nanotech tendrils forming on skin – Extreme close-ups of liquid-metal textures crawling over muscles – Slow-motion debris and glass shards – Low-angle heroic final shot on the rooftop Visual style: Ultra photorealistic materials, detailed biomechanical textures, realistic reflections, cinematic depth of field, volumetric light, atmospheric haze, subtle film grain, blockbuster Hollywood sci-fi aesthetic, no cartoon, no anime, no stylized fantasy.
+Ultra-realistic cinematic action sequence based on the provided reference frames. Same Asian man, same rooftop skyscraper environment and same futuristic city skyline. Photorealistic Hollywood blockbuster quality, IMAX-level realism, dramatic daylight lighting. Scene progression: The man stands on the edge of a skyscraper rooftop. Dark living nanotech begins to emerge from his back and shoulders. Semi-organic shadow-like tendrils crawl across his skin, wrapping around his arms, chest and neck. The suit forms aggressively and painfully, the man reacts with visible physical strain and pain in his facial expression and body posture. Biomechanical alien nanotech armor grows layer by layer, liquid-metal textures flowing across his body. The suit feels alive, hostile and powerful. Action escalation: The man loses control as the nanotech spreads. He jumps and runs down the glass facade of the skyscraper, climbing vertically like a feral creature. Glass cracks and shatters under his grip, fragments flying in slow motion. Debris and dust fall down the building, wind and motion blur emphasize speed and violence. The living suit extends sharp claws and shadowy tendrils to grip the glass surface. Final transformation: He reaches the rooftop again from below in a powerful upward leap. The nanotech completes full body coverage, forming a dark biomechanical armored suit. The final pose is a dominant superhero stance, powerful and intimidating. The city skyline behind him, dramatic cinematic lighting, epic scale. Camera and cinematography: Multiple cinematic camera angles and cuts: – Wide establishing shots of the skyscraper and city – Dynamic side angles during vertical running – Close-up macro shots of nanotech tendrils forming on skin – Extreme close-ups of liquid-metal textures crawling over muscles – Slow-motion debris and glass shards – Low-angle heroic final shot on the rooftop Visual style: Ultra photorealistic materials, detailed biomechanical textures, realistic reflections, cinematic depth of field, volumetric light, atmospheric haze, subtle film grain, blockbuster Hollywood sci-fi aesthetic, no cartoon, no anime, no stylized fantasy.
 ```
 
 #### 💡 Tips
 
-https://t.co/NO6nqg1rNY
+Seedance 2.0 kullanılarak oluşturulan bir kaç  bilim kurgu film  sahnesi: 
+
+Promptu da altında veriyorum isteyen başka modeller ile deneyebilir.
+
+1. Video: 
+"Prompt:
+"Ultra-realistic cinematic action sequence based on the provided reference frames. Same Asian man, same rooftop skyscraper environment and same futuristic city skyline. Photorealistic Hollywood blockbuster quality, IMAX-level realism, dramatic daylight lighting. Scene progression: The man stands on the edge of a skyscraper rooftop. Dark living nanotech begins to emerge from his back and shoulders. Semi-organic shadow-like tendrils crawl across his skin, wrapping around his arms, chest and neck. The suit forms aggressively and painfully, the man reacts with visible physical strain and pain in his facial expression and body posture. Biomechanical alien nanotech armor grows layer by layer, liquid-metal textures flowing across his body. The suit feels alive, hostile and powerful. Action escalation: The man loses control as the nanotech spreads. He jumps and runs down the glass facade of the skyscraper, climbing vertically like a feral creature. Glass cracks and shatters under his grip, fragments flying in slow motion. Debris and dust fall down the building, wind and motion blur emphasize speed and violence. The living suit extends sharp claws and shadowy tendrils to grip the glass surface. Final transformation: He reaches the rooftop again from below in a powerful upward leap. The nanotech completes full body coverage, forming a dark biomechanical armored suit. The final pose is a dominant superhero stance, powerful and intimidating. The city skyline behind him, dramatic cinematic lighting, epic scale. Camera and cinematography: Multiple cinematic camera angles and cuts: – Wide establishing shots of the skyscraper and city – Dynamic side angles during vertical running – Close-up macro shots of nanotech tendrils forming on skin – Extreme close-ups of liquid-metal textures crawling over muscles – Slow-motion debris and glass shards – Low-angle heroic final shot on the rooftop Visual style: Ultra photorealistic materials, detailed biomechanical textures, realistic reflections, cinematic depth of field, volumetric light, atmospheric haze, subtle film grain, blockbuster Hollywood sci-fi aesthetic, no cartoon, no anime, no stylized fantasy."
+
+2. Video
+
+"Aspect Ratio: 16:9 Duration: 15 seconds Tone: Dark, grounded 2026 large-scale monster finale Style: Cinematic realism, volumetric smoke, practical firelight, rain haze, realistic mass physics, controlled camera movement, no exaggerated animation A towering reptilian titan with rugged charcoal-gray scales stands in a flooded coastal megacity at night. Along its spine rise massive crystalline dorsal plates glowing icy blue, energy pulsing sequentially from tail to neck. Steam vents from its jaws, subtly distorting the air. Opposing it descends a cybernetic alien kaiju with dark metallic armor plating, glowing red visor eyes, mechanical wings, rotating chest saw, and hooked scythe-like forearms. Hydraulic joints hiss as it lands heavily, cracking asphalt beneath its weight. 0–2 seconds: Wide 24mm low-angle shot. Burning skyscrapers flicker in orange firelight. Ocean waves crash behind the skyline. Embers drift through heavy smoke. The armored alien titan drops from the sky, mechanical wings folding as it lands with a shockwave. The reptilian titan lowers its head slightly, dorsal plates faintly shimmering. 2–4 seconds: Medium tracking shot. The cybernetic titan lunges forward with unnatural speed. Its chest saw spins, metallic sparks flying as it slashes across the reptilian titan’s torso. Steel claws scrape scales, creating bursts of light. The reptilian titan absorbs the impact with visible inertia, sliding half a step through shallow floodwater. 4–6 seconds: Twin red optical beams fire from the alien’s visor. Buildings ignite from stray impacts. Steam erupts from the reptilian titan’s scales as it withstands the blast. Its tail swings with immense force, smashing the armored opponent through a parking structure. Concrete collapses in heavy chunks. 6–8.5 seconds: Handheld kinetic camera. The alien titan rises instantly, mechanical wings flaring wide. It tackles the reptilian titan mid-charge. The rotating chest saw grinds against thick scales, showering sparks. The reptilian titan roars and grips one mechanical wing. Metal bends under crushing force. 8.5–11 seconds: Slow rotating cinematic arc. The reptilian titan’s dorsal plates ignite sequentially, blue energy intensifying dramatically. Light reflects off wet streets. The alien attempts a final scythe strike toward the neck. The reptilian titan headbutts it backward, energy reaching critical brightness. 11–13.5 seconds: The reptilian titan pins the armored creature against a shattered skyscraper. Dorsal plates blaze at full luminosity. A concentrated white-blue atomic beam erupts point-blank into the alien titan’s chest. Plasma turbulence surrounds the beam core. Metallic armor melts and fractures. The spinning chest saw explodes internally. Red visor flickers erratically. 13.5–15 seconds: The cybernetic titan collapses in flaming wreckage, electrical sparks fading into smoke. The reptilian titan stands tall in the burning city, dorsal glow slowly dimming. Rain begins falling lightly through drifting embers. Slow cinematic push-in. Fade to black. All motion must follow realistic mass, inertia, and environmental interaction. No cartoon exaggeration. Fire, debris, water, and light must react naturally to scale."
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025296357909463040/img/zvSLBq-SiFRicFN1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025296908240257191)
 
@@ -1627,97 +2636,23 @@ https://t.co/NO6nqg1rNY
 
 ---
 
-### Welcome to submit your work!
-Shooting perspective: First-...
-
-> Welcome to submit your work! Shooting perspective: First-person boyfriend perspective (POV) [Shot 01] * Shot size: Medium Close-Up (MCU) * Scene description: Late night, luxury apartment living ro...
-
-#### 📝 Prompt
-
-```
-Welcome to submit your work!
-Shooting perspective: First-person boyfriend perspective (POV)
-
-[Shot 01]
-* Shot size: Medium Close-Up (MCU)
-* Scene description: Late night, luxury apartment living room. The background features large floor-to-ceiling windows, with the city neon lights outside out of focus (cool-toned bokeh). The room is dimly lit, with only a warm-colored table lamp illuminating her profile. She leans against a dark leather sofa, her makeup is exquisite but slightly tired. She lazily swirls a half glass of red wine in her hand, her gaze unfocused, staring into space.
-* Camera and action: Fixed position, simulating the perspective of you sitting opposite her. She sighs softly, her fingers unconsciously stroking the rim of the wine glass.
-* Sound effects and dialogue: Extremely quiet, with only the faintest white noise of distant city traffic. Occasionally, the soft clink of ice against glass can be heard.
-
-[Shot 02]
-* Shot size: Close-Up (CU)
-* Scene description: She seems to sense your gaze and slowly turns her head to look directly at the camera. Her eyes carry a hint of intoxication and exhaustion, the usual sharpness softened by alcohol into a silky allure.
-* Camera and action: Slowly zoom in, focusing on her facial expression. Her gaze locks onto the camera, her lips barely twitching into a reluctant smile.
-* Sound effects and dialogue: (Mature woman's voice, slightly husky and lazy) "Work... (pause, eyes dazed) never ends..."
-
-[Shot 03]
-* Shot size: Extreme Close-Up and Interaction (ECU)
-* Scene description: Suddenly, a large male hand (belonging to "you," reaching in from the bottom or side of the screen) firmly grasps her wine glass and pulls it away from her hand, out of the frame.
-* Camera and action: The shot instantly becomes an extreme close-up, emphasizing the hand movement and her momentary expression of shock. Her hand remains in the glass-holding position, frozen in mid-air for a second, her eyes widening slightly in surprise, lips parted.
-* Sound effects and dialogue: The soft friction sound as the glass is taken away. (Off-screen voice/your voice, firm and deep) "Stop drinking, go to sleep."
-
-[Shot 04]
-* Shot size: Close-Up (CU)
-* Scene description: The surprised expression lingers on her face for just a moment before dissolving. She retracts her hand frozen in mid-air, relaxing her body as she leans back. A hint of mischievousness and unexpected satisfaction from being controlled appears in her eyes, her lips curling into a subtle, complex smile.
-* Camera and action: The camera slightly shakes (simulating the feeling of breathing), capturing the subtle changes in her expression. She tilts her head slightly, her gaze becoming compliant yet playful.
-* Sound effects and dialogue: (Soft laughter) "Heh..."
-
-[Shot 05]
-* Shot size: Extreme Close-Up (Extreme CU)
-* Scene description: Her face suddenly enlarges in the frame, almost filling the screen. She leans forward, approaching "your" ear (edge of the frame). Warm light highlights one side of her cheek and red lips, her eyes appearing particularly deep and bright in the dim light.
-* Camera and action: The camera slightly pulls back, then focuses on her approaching red lips and eyes. With a deadly allure and rare obedience.
-* Sound effects and dialogue: (Whisper, breathy, highly seductive) "You've gotten bolder... (pause, sensation of warm breath) but I'll listen to you." The rustling sound of clothing is amplified.
-```
-
-#### 💡 Tips
-
-prompt：欢迎交作业！
-拍摄视角： 第一人称男友视角（POV）
-【镜头 01】
- * 景别： 中近景 (MCU)
- * 画面描述： 深夜，高级公寓客厅。背景是巨大的落地窗，窗外是失焦的城市霓虹（冷色调波点光斑）。室内光线昏暗，只有一盏暖色台灯照亮她的侧脸。她斜靠在深色皮沙发上，妆容精致但略显疲态。手里慵懒地晃动着半杯红酒，眼神没有焦点地望着虚空。
- * 镜头与动作： 固定机位，模拟你坐在她对面的视角。她轻轻叹了口气，手指无意识地摩挲着高脚杯壁。
- * 音效与台词： 极度安静，只有城市远处极其微弱的车流白噪音。偶尔传来冰块撞击玻璃的轻响。
-【镜头 02】
- * 景别： 近景 (CU)
- * 画面描述： 她似乎感觉到了你的注视，缓慢地转过头来直视镜头。眼神里带着三分醉意、七分疲惫，平日的锐利感被酒精柔化成了如丝般的媚态。
- * 镜头与动作： 缓慢推近，聚焦在她的面部表情。她的目光锁定镜头，嘴角极其勉强地扯动了一下。
- * 音效与台词： （御姐音，略沙哑慵懒）“工作……（停顿，眼神迷离）永远做不完呢……”
-【镜头 03】
- * 景别： 特写与互动 (ECU)
- * 画面描述： 突然，一只男性的大手（属于“你”，从屏幕下方或侧边伸入）坚定地握住了她手中的酒杯，并将酒杯从她手中抽走，移出画面外。
- * 镜头与动作： 镜头瞬间变为特写，强调手部动作和她一瞬间的错愕表情。她的手保持着握杯的姿势僵在半空一秒，眼睛因为惊讶而微微睁大，红唇微张。
- * 音效与台词： 酒杯被拿走时的轻微摩擦声。（画外音/你的声音，坚定低沉）“别喝了，去睡觉。”
-【镜头 04】
- * 景别： 近景 (CU)
- * 画面描述： 惊讶的表情在她脸上只停留了一瞬，随即化开。她收回僵在半空的手，身体放松地向后靠去。眼底泛起一丝促狭和被掌控的意外满足感，嘴角勾起一个似有似无的、复杂的笑容。
- * 镜头与动作： 镜头微幅晃动一下（模拟人的呼吸感），捕捉她表情的细腻转换。她轻轻歪了一下头，眼神变得顺从而玩味。
- * 音效与台词： （轻笑声）“呵……”
-【镜头 05】
- * 景别： 极致特写 (Extreme CU)
- * 画面描述： 她的脸庞突然在画面中放大，几乎填满屏幕。她主动倾身向前，凑近“你”的耳边（镜头边缘）。暖光打亮她的一侧脸颊和红唇，眼神在昏暗中显得格外深邃明亮。
- * 镜头与动作： 镜头被动后缩一点点，然后聚焦在她凑近的红唇和眼睛。带着一种致命的诱惑力和罕见的乖顺。
- * 音效与台词： （耳语，气声，极具诱惑力）“胆子变大了呀……（停顿，热气喷洒感）不过，听你的就是了。” 衣物摩擦的沙沙声被放大。
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025004292927881218/img/o0YX1IKaXPkiVG-H.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025004374632923637)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025004374632923637)**
-
-**Author:** [硅予](https://x.com/Leslieyu0) | **Source:** [Link](https://x.com/Leslieyu0/status/2025004374632923637) | **Published:** Feb 21, 2026
-
----
-
-### A 10-second dynamic video shows a modern sports car transforming on the spot
+### A 10-second dynamic video shows a modern sports car transfor...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> In Seedance 2.0, one prompt can transform an excavator into a Transformer. A 10-second dynamic video shows a modern sports car transforming on the spot. The metallic body parts smoothly separate, ...
+> In Seedance 2.0, one prompt can transform an excavator into a Transformer. A 10-second dynamic video shows a modern sports car transforming on the spot. The metallic body parts smoothly separate, rota
 
 #### 📝 Prompt
 
 ```
 A 10-second dynamic video shows a modern sports car transforming on the spot. The metallic body parts smoothly separate, rotate, and reassemble, transforming into a tall and handsome humanoid mecha. Featuring a sci-fi mechanical structure with cinematic lighting and texture, the 4K ultra-high-definition video is accompanied by a rotating mechanical gear, metal folding, and sci-fi transformation sound effects, creating a strong sense of rhythm.
 ```
+
+#### 💡 Tips
+
+In Seedance 2.0, one prompt can transform an excavator into a Transformer.
+
+A 10-second dynamic video shows a modern sports car transforming on the spot. The metallic body parts smoothly separate, rotate, and reassemble, transforming into a tall and handsome humanoid mecha. Featuring a sci-fi mechanical structure with cinematic lighting and texture, the 4K ultra-high-definition video is accompanied by a rotating mechanical gear, metal folding, and sci-fi transformation sound effects, creating a strong sense of rhythm.
 
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2024882856544337921/pu/img/tqMEWWr29A2DDiEV.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024882892414104024)
 
@@ -1727,11 +2662,11 @@ A 10-second dynamic video shows a modern sports car transforming on the spot. Th
 
 ---
 
-### A 13-second POV horror sequence set in a desolate, abandoned institutional hallway with grimy, peeling walls covered ...
+### A 13-second POV horror sequence set in a desolate, abandoned...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Who needs to wait for Seedance 2.0 when we have Kling 3.0? I just created a Shot Horror Sequence Multi Shot in text to video with Kling 3.0 on @Kling_ai Prompt: A 13-second POV horror sequenc...
+> Who needs to wait for Seedance 2.0 when we have Kling 3.0? I just created a Shot Horror Sequence Multi Shot in text to video with Kling 3.0 on @Kling_ai Prompt: A 13-second POV horror sequence set in 
 
 #### 📝 Prompt
 
@@ -1742,6 +2677,21 @@ After a rapid jump-cut through total darkness, the flashlight flickers back on t
 The sequence ends with a visceral jump scare: a giant, distorted wooden mask with a maniacal, carved grin and viscous black liquid pouring from its hollow eye sockets lunges directly into the lens, its face filling the frame as the audio peaks into a distorted screech.
 ```
 
+#### 💡 Tips
+
+Who needs to wait for Seedance 2.0 when we have Kling 3.0?
+
+I just created a Shot Horror Sequence 
+
+Multi Shot in text to video with Kling 3.0 on @Kling_ai 
+
+Prompt:
+
+A 13-second POV horror sequence set in a desolate, abandoned institutional hallway with grimy, peeling walls covered in faded graffiti. The scene is shot through a fisheye lens, lit only by a stuttering, weak flashlight beam.
+In the center of the corridor, a weathered wooden rocking horse with chipped white paint sits alone. Suddenly, it begins to rock—slowly at first, then with violent, bone-creaking intensity, its hollow thuds echoing against the concrete.
+After a rapid jump-cut through total darkness, the flashlight flickers back on to reveal the entire hallway now packed with dozens of identical rocking horses, all perfectly aligned and swaying in a sinister, synchronized rhythm. The collective sound of wood hitting the floor creates a deafening, heartbeat-like roar.
+The sequence ends with a visceral jump scare: a giant, distorted wooden mask with a maniacal, carved grin and viscous black liquid pouring from its hollow eye sockets lunges directly into the lens, its face filling the frame as the audio peaks into a distorted screech.
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024772985211764737/img/tSfuw8FkoOCne2u6.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024773067856351317)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024773067856351317)**
@@ -1750,11 +2700,11 @@ The sequence ends with a visceral jump scare: a giant, distorted wooden mask wit
 
 ---
 
-### American sitcom style cartoon about Steve【@图片2】. Must mai...
+### American sitcom style cartoon about Steve【@图片2】. Must mainta...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Behind the Scenes: How I prompted 3 scenes in 1 try on Seedance 2.0! Sharing my workflow of all my prompts for hopeless steve so you can see what were SD2 choices and what needed to be prompted. Y...
+> Behind the Scenes: How I prompted 3 scenes in 1 try on Seedance 2.0! Sharing my workflow of all my prompts for hopeless steve so you can see what were SD2 choices and what needed to be prompted. You c
 
 #### 📝 Prompt
 
@@ -1773,16 +2723,24 @@ American sitcom style cartoon about Steve【@图片2】. Must maintain 100% fide
 
 #### 💡 Tips
 
-If you are interested in seeing the prompt and breakdown for all the scene in this short, or learning more about AI animation to make your own, join cartoon hero world via https://t.co/GPDQGu057T
+Behind the Scenes: How I prompted 3 scenes in 1 try on Seedance 2.0!
 
-(This is not sponsored. I just like what @Framer_X is doing for the community.)
+Sharing my workflow of all my prompts for hopeless steve so you can see what were SD2 choices and what needed to be prompted. You can see how much more streamlined it is to go from one scene to the next when you can have 9 ref img's to work with. The prompt is only for the one that generated the most useful footage for each part.
 
----
-
-Finally did my first of 4 animations in @Framer_X 's course. Doing it with Seedance 2.0 felt almost like cheating. Almost...if it didn't take 1.5hrs to get the last 2 shots. 🙃
-
-Seedance 2.0 (For all dialogue as well)
-Suno https://t.co/m2OguLisA9
+Scene 1, 2, 3 - 15s
+Ref: 1. House Ext. 2, Steve profile 3. Steve on the computer in the bedroom 4. mother cooking in kitchen.
+(The references a numbered so you know what the prompt is refering to.)
+Prompt:
+American sitcom style cartoon about Steve【@图片2】. Must maintain 100% fidelity to the art style and all character traits. No background music.
+[0:00-0:02] Wide establishing shot of the exterior of the house【@图片1】. Camera slowly zooms but remains in the wide shot.
+[Cut: 0:02-0:03] Interior wide shot of steve looking bored at computer 【@图片3】. No dialogue.
+[Cut: 0:03-0:05] Over the shoulder shot from behind steve. We see his monitor as he plays solitaire. We hear subtle mouse clicks and sound of cards as he drags and places them into the collumns.
+[Cut: 0:05-0:07] Side profile of Steve continuing to play solitaire on the computer.
+[Cut: 0:07-0:09] 【@图片4】Extreme close up of the mother's spatula flipping an egg over in the pan.
+[Cut: 0:09-0:11] Medium shot 【@图片4】 as the mother calls frustratedly, "Steve, breakfast is ready."
+[Cut: 0:11-0:12] Extreme close up in 【@图片4】of the mother's hand as she turns the stove off.
+[Cut: 0:12-0:13] 【@图片4】Extreme close up of the mother narrowing her eyes disgruntled.
+[Cut: 0:13-0:15] 【@图片4】 Medium shot as mother walks out of left of frame. Stationary camera.
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024902013524606976/img/0lwVojYKObUAai_3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024902234081997186)
 
@@ -1792,11 +2750,12 @@ Suno https://t.co/m2OguLisA9
 
 ---
 
-### ARGUMENT - WHIP PAN FOLLOWS SPEAKER 15 Seconds / Continuous Shot / Dynamic Camera SHOT DESCRIPTION: Interior
+### ARGUMENT - WHIP PAN FOLLOWS SPEAKER
+15 Seconds / Continuous...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Tried whip pans and dialogue. I don't think there's a model that does it better. Seedance 2.0 Prompt: ARGUMENT - WHIP PAN FOLLOWS SPEAKER 15 Seconds / Continuous Shot / Dynamic Camera SHOT DESCR...
+> Tried whip pans and dialogue. I don't think there's a model that does it better. Seedance 2.0 Prompt: ARGUMENT - WHIP PAN FOLLOWS SPEAKER 15 Seconds / Continuous Shot / Dynamic Camera SHOT DESCRIPTION
 
 #### 📝 Prompt
 
@@ -1897,6 +2856,108 @@ SOUND LAYERS:
 0:10-0:15: Argument fades, puppy breathing only
 ```
 
+#### 💡 Tips
+
+Tried whip pans and dialogue. I don't think there's a model that does it better.
+
+Seedance 2.0
+
+Prompt:
+ARGUMENT - WHIP PAN FOLLOWS SPEAKER
+15 Seconds / Continuous Shot / Dynamic Camera
+
+SHOT DESCRIPTION:
+
+Interior. Apartment. Day. WOMAN (30s) and MAN (32) mid-argument. Camera WHIP PANS to follow WHOEVER IS SPEAKING. Clean sequence, no character appears twice in same position.
+
+0:00-0:02
+Woman near door.
+
+WOMAN
+You promised. You said you'd be here.
+
+0:02-0:04
+WOMAN (CONT'D)
+Our appointment was at three o'clock.
+Where were you?
+
+She steps forward.
+
+Man turns away.
+
+MAN
+I got held up at work. It's not a big deal.
+
+0:04-0:06
+Eyes wet but controlled anger.
+
+WOMAN
+Not a big deal? I took off work.
+I rearranged everything.
+
+Shoulders tense. He responds.
+
+MAN
+You think I don't know that?
+You think I don't feel like shit about it?
+
+0:06-0:08
+Voice drops, sharper.
+
+WOMAN
+Feeling like shit doesn't change anything.
+It doesn't undo it.
+
+man moves toward her. Defensive posture breaking.
+
+MAN
+What do you want from me? An apology?
+Fine. I'm sorry.
+
+0:08-0:10
+Her face hardens. Sadness beneath anger.
+
+WOMAN
+I don't want apologies anymore, David.
+
+man stops moving. Her words hit different.
+
+WOMAN (CONT'D)
+(from off-screen, but camera on man)
+I want you.
+
+Silence stretches. His face changes.
+
+0:10-0:12
+Man opens mouth to respond.
+
+OVERSHOOTS past woman, continues past apartment door into hallway beyond.
+
+0:12-0:15
+WHIP PAN CONTINUES, unmotivated, chaotic, through open doorway across hallway.
+
+Lands on: Apartment door cracked open. Inside: GOLDEN RETRIEVER PUPPY (4 months, fluffy, confused).
+
+PUPPY's head tilts. One ear up, one ear sideways. Looking directly at camera. Confused. Concerned. Like it heard the argument and doesn't understand why two humans are sad.
+
+HOLD on puppy's face. Blinks slowly. Eyes innocent.
+
+SOUND: Argument stops. Only puppy's small breathing. Silence.
+
+TECHNICAL:
+
+- Camera: Whip pans ONLY, follow speaker's voice
+- Pan motivation: Who is speaking determines camera movement
+- Final pan: Unmotivated (emotional breakdown of camera discipline)
+- 8K, Ultra High Quality
+
+SOUND LAYERS:
+
+0:00-0:04: Normal breathing, measured voices
+0:04-0:08: Volume rising, frustration peaks
+0:08-0:10: Emotion drops to sadness
+0:10-0:15: Argument fades, puppy breathing only
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024864341569232897/img/i_eJ1bwE2afKb-bN.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024864600680776001)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024864600680776001)**
@@ -1905,7 +2966,7 @@ SOUND LAYERS:
 
 ---
 
-### Make a Pixar film about Punch. I want to cry and fall in ...
+### Make a Pixar film about Punch. I want to cry and fall in lov...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -1917,6 +2978,12 @@ SOUND LAYERS:
 Make a Pixar film about Punch. I want to cry and fall in love with him.
 ```
 
+#### 💡 Tips
+
+Seedance 2.0
+
+Prompt: Make a Pixar film about Punch. I want to cry and fall in love with him. https://t.co/z3jfkzLElb
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024861354683953153/img/K3ORUuTHMMevuj0l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024861467317776754)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024861467317776754)**
@@ -1925,11 +2992,11 @@ Make a Pixar film about Punch. I want to cry and fall in love with him.
 
 ---
 
-### Photorealistic cinematic style, 16:9 aspect ratio, 8K resolution, wide dynamic range
+### Photorealistic cinematic style, 16:9 aspect ratio, 8K resolu...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2.0 Prompt: Visual Style Photorealistic cinematic style, 16:9 aspect ratio, 8K resolution, wide dynamic range. Realistic live-action look with detailed skin, scales, clay and fire, natural...
+> Seedance 2.0 Prompt: Visual Style Photorealistic cinematic style, 16:9 aspect ratio, 8K resolution, wide dynamic range. Realistic live-action look with detailed skin, scales, clay and fire, natural hi
 
 #### 📝 Prompt
 
@@ -1951,6 +3018,32 @@ Extreme close‑up on the dragon’s snout. It carefully sniffs the apple, dust 
 Medium shot: the potter stands frozen, face and clothes covered in a thin layer of black soot, hair slightly singed, eyes wide open. In one hand he still holds the whole, slightly charred red apple. Behind him, the wheel has become a slowly cooling, smoking puddle of molten material with a faint red glow inside. The baby dragon sits beside him, completely still, folding its wings over its face as if hiding, then carefully peeks out with a guilty expression. The camera slowly pulls back, revealing the entire cave with realistic volumetric smoke and light rays streaming in through the opening.
 ```
 
+#### 💡 Tips
+
+Seedance 2.0
+Prompt: Visual Style
+Photorealistic cinematic style, 16:9 aspect ratio, 8K resolution, wide dynamic range. Realistic live-action look with detailed skin, scales, clay and fire, natural highlights and shadows. Subtle handheld camera shake, shallow depth of field, filmic motion blur, warm orange key light from lava and cool blue rim light from the cave entrance.
+
+Characters & Scene
+A small, anatomically realistic baby dragon with finely detailed scales, glossy eyes and subtle muscle motion under the skin. A middle‑aged human potter in simple linen clothes, hands covered in wet clay. Location: a volcanic cave turned into a workshop; slow lava flows in distant channels, wooden shelves full of clay pots, hot air shimmering, a light layer of smoke in the air.
+
+Action & Beats (~15 s)
+
+[00:00–00:05] Precise glazing
+Medium close shot: the potter shapes a clay vase on a heavy wooden wheel spinning smoothly. Behind him, the baby dragon carefully leans forward and releases a short, very precise stream of fire over a row of finished pots, creating a realistic glowing glaze and orange reflections on the cave walls. The camera slowly orbits around them, showing heat haze and tiny sparks in the air.
+
+[00:05–00:08] Quiet moment
+Closer shot: the baby dragon curls up on a flat rock near the wheel, eyes half‑closed, breathing calm; thin wisps of smoke drift from its nostrils. The potter smiles softly, stops the wheel, reaches out with his clay‑stained hand and offers a whole glossy red apple. Lava crackles, the only sounds are the cave ambience and the faint spin of the wheel.
+
+[00:06–00:10] Sudden sneeze
+Extreme close‑up on the dragon’s snout. It carefully sniffs the apple, dust from the rock tickles its nose, muscles tense, eyes squeeze shut. Hard cut to a wider shot: in the instant of the sneeze, the dragon releases a powerful, uncontrolled jet of flame directly onto the potter’s wheel and vase. Wood and clay instantly glow, deform and collapse into a bright molten mass; sparks and small fragments fly toward the lens.
+
+[00:10–00:13] Aftermath
+Medium shot: the potter stands frozen, face and clothes covered in a thin layer of black soot, hair slightly singed, eyes wide open. In one hand he still holds the whole, slightly charred red apple. Behind him, the wheel has become a slowly cooling, smoking puddle of molten material with a faint red glow inside. The baby dragon sits beside him, completely still, folding its wings over its face as if hiding, then carefully peeks out with a guilty expression. The camera slowly pulls back, revealing the entire cave with realistic volumetric smoke and light rays streaming in through the opening.
+
+@YouArtStudio provided creators early access to Seedance Pro 2.0 
+If you encounter an error when generating a video, try generating it again. Today, my videos are generated after 2-3 attempts.
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024839328719949824/img/uEmXyvFZO3XiSkIF.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024840701276500387)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024840701276500387)**
@@ -1959,11 +3052,11 @@ Medium shot: the potter stands frozen, face and clothes covered in a thin layer 
 
 ---
 
-### Replace the character in Video 1 with the basketball player from Image 1
+### Replace the character in Video 1 with the basketball player...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Test 4 🚨 Complex camera moves. Seedance 2.0 just makes anything look too simple. Single line prompt used : Replace the character in @ Video 1 with the basketball player from @ Image 1. The play...
+> Test 4 🚨 Complex camera moves. Seedance 2.0 just makes anything look too simple. Single line prompt used : Replace the character in @ Video 1 with the basketball player from @ Image 1. The player’s b
 
 #### 📝 Prompt
 
@@ -1973,11 +3066,15 @@ Replace the character in Video 1 with the basketball player from Image 1. The pl
 
 #### 💡 Tips
 
-Test 2 🚨
+Test 4 🚨 Complex camera moves.
 
-Seedance 2.0 can take any video + any reference image and seamlessly swap the person while keeping their outfit, movements, and even changing the language.
+Seedance 2.0 just makes anything look too simple.
 
-One prompt. Zero manual editing.
+Single line prompt used : Replace the character in @  Video 1 with the basketball player from @ Image 1. The player’s body proportions, facial features, and athletic build must remain consistent throughout the entire sequence.
+
+From court vision to AI POV, following the motion, the rhythm, the flow.
+
+Same player. Same movement. New universe. 🏀👁️‍🗨️
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024924975992295424/img/6yl5iyglwHeKfZXH.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024925187095863675)
 
@@ -1991,7 +3088,7 @@ One prompt. Zero manual editing.
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance on maxfusion one shots AI UGC ads with no prompting. RIP sora 2 &amp; Veo 3. Seedance 2.0 creates mind blowing quality from a single image with near zero context. - 1 Product image - ...
+> Seedance on maxfusion one shots AI UGC ads with no prompting. RIP sora 2 &amp; Veo 3. Seedance 2.0 creates mind blowing quality from a single image with near zero context. - 1 Product image - Prompt: 
 
 #### 📝 Prompt
 
@@ -2001,19 +3098,18 @@ UGC style
 
 #### 💡 Tips
 
-Ryze mushroom cocoa one shotted + water pouring and drinking https://t.co/v7npNzKDpP
+Seedance on maxfusion one shots AI UGC ads with no prompting.
 
-Protein Hunter opening and eating https://t.co/jlGSUFBiX1
+RIP sora 2 &amp; Veo 3.
 
-Old spice one shotted unboxing included https://t.co/DFpXGDzrmb
+Seedance 2.0 creates mind blowing quality from a single image with near zero context.
+ 
+- 1 Product image 
+- Prompt: UGC style
 
-Gruns https://t.co/8gBBGszOaM
+Nothing else.
 
-Eye mask to cool down the eyes, image was a goofy mask cutout on white background, one shotted. https://t.co/PD22w0T2YI
-
-Coming soon, integrated into a real ad making pipeline on @MaxfusionAI  
-
-https://t.co/UR5vQvEf6j
+Videos are 480p on purpose. https://t.co/F24si73mzo
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024898996309786624/img/DGf8o6yZOwwFV6FC.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024905481030869498)
 
@@ -2023,11 +3119,11 @@ https://t.co/UR5vQvEf6j
 
 ---
 
-### A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in endless glaciers under a dim blue sun
+### A lone astronaut in a standard spacesuit lands on a frozen e...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Hello there everyone. I finally got home from work...I will need to go again for a night shift, though. I finally got access to Seedance 2.0 thanks to @YouArtStudio 😊 I upscaled the video with the...
+> Hello there everyone. I finally got home from work...I will need to go again for a night shift, though. I finally got access to Seedance 2.0 thanks to @YouArtStudio 😊 I upscaled the video with the ne
 
 #### 📝 Prompt
 
@@ -2037,7 +3133,7 @@ A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in 
 
 #### 💡 Tips
 
-@YouArtStudio Here is the upscaled version 😊 https://t.co/4IEDPHprMf
+Hello there everyone. I finally got home from work...I will need to go again for a night shift, though. I finally got access to Seedance 2.0 thanks to @YouArtStudio 😊 I upscaled the video with the new Magnific video upscaler btw 😉Here is the prompt I used: A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in endless glaciers under a dim blue sun. Slow cinematic shot: he removes his helmet, cold vapor fills the air, his skin gradually turns translucent and crystalline, veins glow icy blue, body develops thick insulating blubber and frost-like scales, eyes become multifaceted like ice crystals, until he becomes a graceful ice-adapted humanoid gliding across the surface. Ultra-realistic, slow transformation, dramatic lighting.
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024473992401207296/img/JSeyIFqVhTOE3PAx.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474543234904286)
 
@@ -2047,7 +3143,41 @@ A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in 
 
 ---
 
-### AI goes woke. Make it really offensive - like really offe...
+### a man runs in the rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> current state of seedance guardrails: &lt;prompt with reference image, no known IP referenced&gt; REJECTED FOR COPYRIGHT &lt;me taking anything out that could be construed as IP&gt; REJECTED FOR COPYR
+
+#### 📝 Prompt
+
+```
+a man runs in the rain
+```
+
+#### 💡 Tips
+
+current state of seedance guardrails: 
+
+&lt;prompt with reference image, no known IP referenced&gt;
+REJECTED FOR COPYRIGHT
+
+&lt;me taking anything out that could be construed as IP&gt;
+REJECTED FOR COPYRIGHT
+
+fine, I'll do the most innocuous prompt ever: "a man runs in the rain"
+
+the result: https://t.co/nUKFrbXquF
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024305383347814400/img/4Yh1XGIiuGAQjQ0s.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024305814950101034)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024305814950101034)**
+
+**Author:** [james yu](https://x.com/jamesjyu) | **Source:** [Link](https://x.com/jamesjyu/status/2024305814950101034) | **Published:** Feb 19, 2026
+
+---
+
+### AI goes woke. Make it really offensive - like really offensi...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
@@ -2059,6 +3189,12 @@ A lone astronaut in a standard spacesuit lands on a frozen exoplanet covered in 
 AI goes woke. Make it really offensive - like really offensive.
 ```
 
+#### 💡 Tips
+
+Seedance 2.0
+
+Prompt: AI goes woke. Make it really offensive - like really offensive. https://t.co/hBGiuNb19F
+
 [![Video Preview](https://pbs.twimg.com/media/HBjF4NQbkAAarVR.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024585477148627118)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024585477148627118)**
@@ -2067,11 +3203,40 @@ AI goes woke. Make it really offensive - like really offensive.
 
 ---
 
-### keep the central person completely motionless and frozen like a statue
+### Inside a parked car at night in heavy rain, a Japanese coupl...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Turned this Recraft V4 image into a dynamic time-lapse effect with Seedance 2.0 ⏳✨ Prompt: keep the central person completely motionless and frozen like a statue. Animate only the surrounding back...
+> Seedance 2.0 is currently the strongest model for dramatic performance. I tested a Japanese drama scene nano banan pro+ SeeDance 2.0 via @YouArtStudio. here is the result I2V prompt below 👇. https://
+
+#### 📝 Prompt
+
+```
+Inside a parked car at night in heavy rain, a Japanese couple sits trapped in suffocating silence. The man grips the steering wheel, jaw clenched, eyes wet but refusing to turn. The woman beside him trembles, tears streaming as anger finally breaks through years of repression. Neon city lights smear across rain-covered glass like bleeding color. Emotional eruption contained in a confined space. HBO/Netflix prestige drama tone, ultra-realistic skin texture, trembling breath, tear reflections, rain streak distortion. Camera outside passenger window through wet glass, tight medium close-up on both faces, shallow depth, slight handheld instability, oppressive blue-black grade. 4K cinematic realism. 15s. Dialogue (Japanese): Woman (shaking, voice cracking into anger): 「ねえ…私のこと、いつから見なくなったの？」 (When… did you stop seeing me?) Man (through teeth, breaking): 「見てたよ…ずっと。怖くて、触れられなかっただけだ。」 (I did… all along. I was just too afraid to reach you.) Woman (crying openly now): 「嘘。あなたは逃げただけ。私が壊れていくのを、隣で見てただけ！」 (Lies. You just ran. You watched me fall apart right beside you!) Man (voice collapsing): 「……ごめん。守れなかった。」 …I’m sorry. I couldn’t protect you. Woman (whisper, devastated): 「守ってほしかったのは…あなたじゃない。あなたの愛だった。」 (It wasn’t you I needed to protect me… it was your love.)
+```
+
+#### 💡 Tips
+
+Seedance 2.0 is currently the strongest model for dramatic performance. 
+I tested a Japanese drama scene
+
+nano banan pro+ SeeDance 2.0 via @YouArtStudio.
+
+here is the result I2V prompt below 👇. https://t.co/zw7oX5PMgH
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024578448941813760/img/v_gN9E-BXpJqWf2b.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024579283834790248)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024579283834790248)**
+
+**Author:** [Ayyoub Ai](https://x.com/MaAyyoub) | **Source:** [Link](https://x.com/MaAyyoub/status/2024579283834790248) | **Published:** Feb 19, 2026
+
+---
+
+### keep the central person completely motionless and frozen lik...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Turned this Recraft V4 image into a dynamic time-lapse effect with Seedance 2.0 ⏳✨ Prompt: keep the central person completely motionless and frozen like a statue. Animate only the surrounding backgrou
 
 #### 📝 Prompt
 
@@ -2081,7 +3246,9 @@ keep the central person completely motionless and frozen like a statue. Animate 
 
 #### 💡 Tips
 
-Street Photography https://t.co/sFni6xGyPX
+Turned this Recraft V4 image into a dynamic time-lapse effect with Seedance 2.0 ⏳✨
+
+Prompt: keep the central person completely motionless and frozen like a statue. Animate only the surrounding background and people with fast-paced movement and heavy motion blur, creating a dynamic time-lapse effect around the static subject. The camera must remain perfectly fixed.
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024286045660155904/img/t6RLH3dsy_-T0OG6.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024286150765269083)
 
@@ -2103,6 +3270,12 @@ Street Photography https://t.co/sFni6xGyPX
 let's see paul allen's dx terminal agent
 ```
 
+#### 💡 Tips
+
+seedance 2.0 prompt:
+
+"let's see paul allen's dx terminal agent" https://t.co/1wn5o8Gsg3
+
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024292667455070208/img/H-P_9Kx7opnjBse3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024292824615637400)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024292824615637400)**
@@ -2111,17 +3284,24 @@ let's see paul allen's dx terminal agent
 
 ---
 
-### Live-action cinematic sequence. Static camera. The warrio...
+### Live-action cinematic sequence. Static camera. The warrior k...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2.0🎥 Prompt: Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow...
+> Seedance 2.0🎥 Prompt: Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow zo
 
 #### 📝 Prompt
 
 ```
 Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow zoom in. His shoulders shake—he's either crying or laughing. Cut to close-up of his face as he slowly lifts his head. Rain streams down his face. His eyes are bloodshot. He starts laughing maniacally and says through the laughter: "You want me to be the villain? FINE!" He stands up abruptly, yanking the sword from the ground. Mud flies. Cut to low-angle shot looking up at him as lightning strikes behind him, silhouetting his figure. His hair whips wildly in the wind. He points the sword at the camera and screams: "I'll give you a monster!" His eyes glow bright silver. The camera rapidly zooms into his glowing eye. White flash. Cut to black.
 ```
+
+#### 💡 Tips
+
+Seedance 2.0🎥
+Prompt: Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow zoom in. His shoulders shake—he's either crying or laughing. Cut to close-up of his face as he slowly lifts his head. Rain streams down his face. His eyes are bloodshot. He starts laughing maniacally and says through the laughter: "You want me to be the villain? FINE!" He stands up abruptly, yanking the sword from the ground. Mud flies. Cut to low-angle shot looking up at him as lightning strikes behind him, silhouetting his figure. His hair whips wildly in the wind. He points the sword at the camera and screams: "I'll give you a monster!" His eyes glow bright silver. The camera rapidly zooms into his glowing eye. White flash. Cut to black.
+
+@YouArtStudio provided creators early access to Seedance Pro 2.0 #Seedance2
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024413710375153665/img/3DrhZxN35_Nk2UFN.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024414230976270847)
 
@@ -2131,11 +3311,38 @@ Live-action cinematic sequence. Static camera. The warrior kneels in the rain, h
 
 ---
 
-### Low angle shot to half-body close-ups. Dynamic calligraph...
+### Live-action cinematic sequence. The woman finishes pumping g...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Your timeline is flooded with Seedance 2.0 Hollywood VFX. Getting visual fatigue? Let's test the engine on Traditional Ink Wash animation: Wukong vs. Erlang Shen. It handles abstract fluid dynami...
+> Seedance Pro 2.0. Prompt: Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks off. Silence. She looks around at the empty desert. A car appears on the horizon. She squints.
+
+#### 📝 Prompt
+
+```
+Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks off. Silence. She looks around at the empty desert. A car appears on the horizon. She squints. The car speeds past without stopping. Dust cloud. She walks to her trunk and opens it. Cut to inside: bags of cash and a gun. She slams it shut and mutters: "Not far enough yet". She drives off.
+```
+
+#### 💡 Tips
+
+Seedance Pro 2.0. 
+Prompt: Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks off. Silence. She looks around at the empty desert. A car appears on the horizon. She squints. The car speeds past without stopping. Dust cloud. She walks to her trunk and opens it. Cut to inside: bags of cash and a gun. She slams it shut and mutters: "Not far enough yet". She drives off.
+
+@YouArtStudio  provided creators early access to Seedance Pro 2.0 #Seedance2
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024409973522931712/img/y3-Okcq6Aq-SZXd5.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024411387535962433)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024411387535962433)**
+
+**Author:** [Kiber Alla](https://x.com/Kiber_Alla) | **Source:** [Link](https://x.com/Kiber_Alla/status/2024411387535962433) | **Published:** Feb 19, 2026
+
+---
+
+### Low angle shot to half-body close-ups. Dynamic calligraphy t...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Your timeline is flooded with Seedance 2.0 Hollywood VFX. Getting visual fatigue? Let's test the engine on Traditional Ink Wash animation: Wukong vs. Erlang Shen. It handles abstract fluid dynamics fl
 
 #### 📝 Prompt
 
@@ -2145,36 +3352,10 @@ Low angle shot to half-body close-ups. Dynamic calligraphy text 'Monkey King' fl
 
 #### 💡 Tips
 
-Workflow: The Ink Wash Pipeline. 🖌️
-
-1️⃣ Base Concept: Midjourney for the raw, stylized ink aesthetic. 
-2️⃣ Consistency: Nano Banana Pro to extract perfect 3-view character turnarounds of Wukong and Erlang Shen from the MJ refs.
-
-Pro Tip: I ran this entire prep phase directly on @Hailuo_AI. They’ve natively integrated BOTH Midjourney and Nano Banana Pro into their web UI. No more bouncing between tabs to maintain character consistency. A completely seamless pipeline. 🎬
-
-Scene OP - The Clash. ⚔️
-
-You can't just type "they fight." The setup requires precise control over camera, text, and ink physics. My prompt snippets for the opening:
-
-🎥 Camera & Text: "Low angle shot to half-body close-ups. Dynamic calligraphy text 'Monkey King' floating on screen. Characters lip-syncing dialogue with rebellious micro-expressions."
-
-☯️ Ink Teleportation: "Erlang vanishes in an explosive black ink diffusion, reappearing instantly above for a heavy downward cleave."
-
-💥 Lighting & Impact: "Weapons collide, creating a violent mist of splashing ink. Pure B&W ink wash pierced by shocking dark gold light effects."
-
-Scene ED - The Climax. 🌊
-
-How do you end a mythological ink battle? Not with fire, but with a tsunami of pigment and extreme contrast. The finale prompt:
-
-⚪ Negative Space Weapon: "Erlang sweeps his blade, creating a sharp ring of white negative space that dissolves the ink clones into scattered dots."
-
-👁️ Scale & Fear: "Massive staff of scorched ink and dark gold lines crashes down. Extreme close-up (ECU) on Erlang: trembling pupils, engulfed in shadow."
-
-☯️ Chaos to Swagger: "Violent ink explosion swallows the frame... fading to a calm wide shot. Wukong shrinks the staff into his ear, claps his hands, and walks away into the clouds."
-
-Master the contrast, master the medium. 🎬
-
-Glad this Ink Wash test is resonating! Controlling this fluid style was honestly harder than bypassing the physics filters for that 80mph Ducati slide I posted earlier this week. The AI engine really wants to hallucinate under this much motion. 😅🎬"
+Your timeline is flooded with Seedance 2.0 Hollywood VFX. 
+Getting visual fatigue? 
+Let's test the engine on Traditional Ink Wash animation: Wukong vs. Erlang Shen. It handles abstract fluid dynamics flawlessly. 
+👇 Click below for my workflow. 🎬 https://t.co/ObM6QGeQXk
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024539209751810050/img/g2y4VrLYLE8mc0jT.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024542761597460892)
 
@@ -2184,11 +3365,97 @@ Glad this Ink Wash test is resonating! Controlling this fluid style was honestly
 
 ---
 
-### The image I provide contains my kitten — please use it as the character model reference
+### SETTING: thermal pool at night; warm steamy air; soft yellow...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Use Seedance 2.0 and provide a photo of a kitten. prompt： The image I provide contains my kitten — please use it as the character model reference. Create a video where the kitten is riding a small...
+> use this prompt to create hyper-realistic ai ugc videos (seedance 2.0): SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreg
+
+#### 📝 Prompt
+
+```
+SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreground; slight fog in background; natural spa environment.
+
+LIGHT: Real iPhone look; slightly dim, warm ambient lighting; moisture on skin visible; no beauty filter; natural skin texture and freckles visible.
+
+CAMERA: iPhone front-cam feel; propped on pool edge; slightly imperfect framing; subtle micro-shake from resting position; no zoom.
+
+SUBJECT: 20s woman; wet red hair slicked back; minimal makeup; natural freckles; relaxed expression; black thin-strap swimsuit; calm, confident tone.
+
+AUDIO: Natural pool ambience; faint water movement; no music; no captions.
+
+PROPS: No product visible in this segment.
+
+ACTION: She rests her chin on her forearm at the pool edge; one hand gently touches the side of her face below cheekbone; slow, relaxed movements; hands stay below collarbone.
+
+DIALOGUE: "Okay so… I used to break out constantly. Like painful, hormonal acne every single month. And I’m not even kidding — I have zero acne now. The only thing I changed was adding zinc and omega-3 supplements to my routine. That’s it."
+
+END: Soft exhale and small confident smile; hard cut.
+
+DIALOGUE LOCK: keep speech exact, clear English, natural cadence, no extra words.
+```
+
+#### 💡 Tips
+
+use this prompt to create hyper-realistic ai ugc videos (seedance 2.0):
+
+SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreground; slight fog in background; natural spa environment.
+
+LIGHT: Real iPhone look; slightly dim, warm ambient lighting; moisture on skin visible; no beauty filter; natural skin texture and freckles visible.
+
+CAMERA: iPhone front-cam feel; propped on pool edge; slightly imperfect framing; subtle micro-shake from resting position; no zoom.
+
+SUBJECT: 20s woman; wet red hair slicked back; minimal makeup; natural freckles; relaxed expression; black thin-strap swimsuit; calm, confident tone.
+
+AUDIO: Natural pool ambience; faint water movement; no music; no captions.
+
+PROPS: No product visible in this segment.
+
+ACTION: She rests her chin on her forearm at the pool edge; one hand gently touches the side of her face below cheekbone; slow, relaxed movements; hands stay below collarbone.
+
+DIALOGUE: "Okay so… I used to break out constantly. Like painful, hormonal acne every single month. And I’m not even kidding — I have zero acne now. The only thing I changed was adding zinc and omega-3 supplements to my routine. That’s it."
+
+END: Soft exhale and small confident smile; hard cut.
+
+DIALOGUE LOCK: keep speech exact, clear English, natural cadence, no extra words.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024462774793826304/img/OXIjQMd9xkcH5J-l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)**
+
+**Author:** [solak](https://x.com/solakorganic) | **Source:** [Link](https://x.com/solakorganic/status/2024463067002917177) | **Published:** Feb 19, 2026
+
+---
+
+### Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> seedance prompt : Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots 
+
+#### 📝 Prompt
+
+```
+Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots - one black (hero), one silver (opponent) - engage in rapid karate-style hand-to-hand combat. Rusty chain-link fence, concrete floor, harsh overhead spotlights, blurred crowd in background. [00-03s] Fast exchange. Black robot blocks silver's punch (sparks fly), counters with hook to head (armor dents), then rapid 1-2 combo (more sparks). Silver defends, arms crossed. Handheld cam, side angle. Metal clash sounds. [03-07s] Silver charges, shoulder-rams black robot's chest. Black slides back but stands firm (armor intact). Silver attempts knee strike, black catches and holds it. 0.5s struggle, hydraulic overload hiss. Low angle shot emphasizes power. Crowd roars. [07-11s] Black robot's decisive counter: HIGH KICK (karate style). Quick wind-up, right leg SNAPS out, foot connects with silver's head. EXTREME SLOW-MO (0.25x): armor cracks, massive sparks, hydraulic line bursts (black mist), head twists 90°. Silver spins and falls. Side wide shot captures full kick arc. [11-15s] Silver crashes to ground (dust cloud), sparks from cracked head, limbs twitch then stop. Black lowers leg, turns to camera (backlit, red eyes glow). Wide overhead: one standing, one down. Fade to black. No subtitles. No dialogue. Only metal impacts, hydraulics, sparks, crowd noise. Physics: All impacts obey Newton's laws. Weight, inertia, momentum visible. Debris/sparks fall realistically. Color: Desaturated warm brown + metallic grey + spark orange + hydraulic black. Film grain +25%.
+```
+
+#### 💡 Tips
+
+seedance prompt :  Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots - one black (hero), one silver (opponent) - engage in rapid karate-style hand-to-hand combat. Rusty chain-link fence, concrete floor, harsh overhead spotlights, blurred crowd in background. [00-03s] Fast exchange. Black robot blocks silver's punch (sparks fly), counters with hook to head (armor dents), then rapid 1-2 combo (more sparks). Silver defends, arms crossed. Handheld cam, side angle. Metal clash sounds. [03-07s] Silver charges, shoulder-rams black robot's chest. Black slides back but stands firm (armor intact). Silver attempts knee strike, black catches and holds it. 0.5s struggle, hydraulic overload hiss. Low angle shot emphasizes power. Crowd roars. [07-11s] Black robot's decisive counter: HIGH KICK (karate style). Quick wind-up, right leg SNAPS out, foot connects with silver's head. EXTREME SLOW-MO (0.25x): armor cracks, massive sparks, hydraulic line bursts (black mist), head twists 90°. Silver spins and falls. Side wide shot captures full kick arc. [11-15s] Silver crashes to ground (dust cloud), sparks from cracked head, limbs twitch then stop. Black lowers leg, turns to camera (backlit, red eyes glow). Wide overhead: one standing, one down. Fade to black. No subtitles. No dialogue. Only metal impacts, hydraulics, sparks, crowd noise. Physics: All impacts obey Newton's laws. Weight, inertia, momentum visible. Debris/sparks fall realistically. Color: Desaturated warm brown + metallic grey + spark orange + hydraulic black. Film grain +25%.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024474201202036736/img/B-mkHllE5CTpD12K.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2024474572288926191) | **Published:** Feb 19, 2026
+
+---
+
+### The image I provide contains my kitten — please use it as th...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Use Seedance 2.0 and provide a photo of a kitten. prompt： The image I provide contains my kitten — please use it as the character model reference. Create a video where the kitten is riding a small car
 
 #### 📝 Prompt
 
@@ -2209,6 +3476,26 @@ Finally, show the kitten lifting the front of the cart into a wheelie as it cros
 Throughout the video, add authentic MotoGP-style original male English commentary — but only include commentary for the opening overtake and the final finish-line moment.
 ```
 
+#### 💡 Tips
+
+Use Seedance 2.0 and provide a photo of a kitten.
+
+prompt：
+The image I provide contains my kitten — please use it as the character model reference.
+Create a video where the kitten is riding a small cart and racing on a MotoGP track.
+
+The kitten overtakes the Honda #93 race bike in a corner (this sequence should last 3 seconds).
+
+Cut to a rear shot of the kitten, filmed from a ground-level low angle, capturing the kitten leaning hard into the turn (3 seconds).
+
+Then use an ultra-telephoto lens shot of the kitten speeding through a large C-shaped corner (3 seconds).
+
+Switch to a wide shot showing the kitten and the Honda #93 bike going through the final corner before the finish line (3 seconds).
+
+Finally, show the kitten lifting the front of the cart into a wheelie as it crosses the finish line (3 seconds).
+
+Throughout the video, add authentic MotoGP-style original male English commentary — but only include commentary for the opening overtake and the final finish-line moment.
+
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2024511128257384449/pu/img/DxQ18glxjHhFK4x1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)
 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)**
@@ -2217,11 +3504,11 @@ Throughout the video, add authentic MotoGP-style original male English commentar
 
 ---
 
-### 1990s OVA realism (Prod I.G + Otomo), JP full-color, thin genga lines, restrained cel + soft gradients, subtle grain,...
+### 1990s OVA realism (Prod I.G + Otomo), JP full-color, thin ge...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2.0 + it's character reference option = my Salt x Diamond Universe IP stayed on-model the whole time. Noxie Blitz x Pixel Saint, sakuga-style steel under falling petals. Prompt below 👇 ht...
+> Seedance 2.0 + it's character reference option = my Salt x Diamond Universe IP stayed on-model the whole time. Noxie Blitz x Pixel Saint, sakuga-style steel under falling petals. Prompt below 👇 https
 
 #### 📝 Prompt
 
@@ -2249,27 +3536,7 @@ SFX only: wind through blossoms, foot skid on stone, armor/servo ticks, katana w
 
 #### 💡 Tips
 
-My Cartoon Hero World buddy @PocketScreenAI was right! The Seedance 2.0 character reference option produces cleaner results when using multiple complex images and movements. Here's the exact prompt I used.
-
-1990s OVA realism (Prod I.G + Otomo), JP full-color, thin genga lines, restrained cel + soft gradients, subtle grain, sharp shadows, hard rim light. 24fps sakuga fast-cuts; aggressive editorial pacing; smear + impact frames; motion blur on BACKGROUND ONLY (characters and weapons stay crisp). Premium VFX (sparks, petal bursts, micro debris, heat shimmer), premium SFX only, NO MUSIC. $300M blockbuster finish. Maintain designs exactly. No subtitles/logos.
-
-[00:00–00:01] Set-up wide. @Image3 XW master: @Image1 Noxie Blitz  and @Image2 Pixel Saint stand 8–10m apart on the stone path under blooming sakura. ANGLE: low XW 3/4 so both silhouettes read clean against petals + lanterns + shrine line.
-
-[00:01–00:03] MW 3/4. @Image1 (Noxie) launches L→R, first slash. CAM: snap-pan; BG-only blur streaks blossoms.  @Image2 (Pixel) sidestep, clean silhouette. Petal wake.
-
-[00:03–00:05] Tight hands/blades. Parry → bind → shove-off. 1 impact frame + sparks; petals pop.
-
-[00:05–00:07] MED chest-up. Noxie feint-high; Pixel blocks; Pixel low counter; Noxie checks + shoulder bump. Minimal facial (1 blink max).
-
-[00:07–00:09] Overhead 1-sec hit. Noxie pivot slash; Pixel backsteps onto small bridge edge; koi splash. CAM: drop-in overhead then hard cut out.
-
-[00:09–00:11] Tight on cyber-arm redirect + katana near-miss at throat line. CAM: punch-in. Cyan seam glow (controlled).
-
-[00:11–00:13] Side profile. Both dash and cross—2 smear frames + 1 clean poster pose. Spark “X” + petal burst.
-
-[00:13–00:15] Wide master. Triple contact: tap-tap-CRACK, then reset to mirrored stances, petals raining between them. CAM: locked; end on hard-stop hero frame.
-
-SFX only: wind through blossoms, foot skid on stone, armor/servo ticks, katana whoosh, CLANG ring, spark sizzle, water splash, lantern chime. NO MUSIC.
+Seedance 2.0 + it's character reference option = my Salt x Diamond Universe IP stayed on-model the whole time. Noxie Blitz x Pixel Saint, sakuga-style steel under falling petals. Prompt below 👇 https://t.co/uknHt1iAyT
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024187036266352641/img/8z96uTeLo4QrPOPX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024189256349200777)
 
@@ -2279,17 +3546,24 @@ SFX only: wind through blossoms, foot skid on stone, armor/servo ticks, katana w
 
 ---
 
-### A cinematic apocalyptic disaster scene in a modern city. ...
+### A cinematic apocalyptic disaster scene in a modern city. Mas...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2.0 is pure insanity. Prompt: A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shatteri...
+> Seedance 2.0 is pure insanity. Prompt: A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering w
 
 #### 📝 Prompt
 
 ```
 A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering with debris flying, people running in panic through dust and chaos. A giant meteor falling from the sky causing a massive shockwave, tsunami waves flooding the city streets, dark stormy clouds, dramatic lighting, ultra realistic, cinematic camera movement, slow motion destruction, high detail, 4K, epic scale, intense atmosphere, movie-like quality similar to Hollywood disaster films.
 ```
+
+#### 💡 Tips
+
+Seedance 2.0 is pure insanity.
+
+Prompt:
+A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering with debris flying, people running in panic through dust and chaos. A giant meteor falling from the sky causing a massive shockwave, tsunami waves flooding the city streets, dark stormy clouds, dramatic lighting, ultra realistic, cinematic camera movement, slow motion destruction, high detail, 4K, epic scale, intense atmosphere, movie-like quality similar to Hollywood disaster films.
 
 [![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2023928251421519874/pu/img/YiYXup_XGlDm_IOS.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023928376655048994)
 
@@ -2299,17 +3573,29 @@ A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsi
 
 ---
 
-### A girl in traditional Chinese attire begins her emotional and passionate dance on the still, dark water
+### A girl in traditional Chinese attire begins her emotional an...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Her dance is a poem written on a mirror surface, every movement is a line full of passion and grace. Created in @dreamina_ai Model: Seedance 2.0 I used one image Prompt for video⤵️ A girl in tra...
+> Her dance is a poem written on a mirror surface, every movement is a line full of passion and grace. Created in @dreamina_ai Model: Seedance 2.0 I used one image Prompt for video⤵️ A girl in tradition
 
 #### 📝 Prompt
 
 ```
 A girl in traditional Chinese attire begins her emotional and passionate dance on the still, dark water. The camera moves in to capture her face full of emotion, then pulls back sharply to reveal the sweeping gestures of her long sleeves. The shots are filmed from various angles - from below to accentuate the power and grace of her movements, and from above, turning her dance into a mesmerizing pattern on the water. Each of her steps and turns is filled with passion. Golden sparks and cherry blossom petals swirl around her, and the water beneath her feet erupts in golden circles in time with her expressive movements.
 ```
+
+#### 💡 Tips
+
+Her dance is a poem written on a mirror surface, every movement is a line full of passion and grace.
+
+Created in @dreamina_ai
+Model: Seedance 2.0 
+
+I used one image
+Prompt for video⤵️
+A girl in traditional Chinese attire begins her emotional and passionate dance on the still, dark water. The camera moves in to capture her face full of emotion, then pulls back sharply to reveal the sweeping gestures of her long sleeves. The shots are filmed from various angles - from below to accentuate the power and grace of her movements, and from above, turning her dance into a mesmerizing pattern on the water. Each of her steps and turns is filled with passion. Golden sparks and cherry blossom petals swirl around her, and the water beneath her feet erupts in golden circles in time with her expressive movements.
+ #DreaminaCPP
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024157015371563009/img/N2HI4CW0KUF7se1T.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024158161964274138)
 
@@ -2319,1054 +3605,11 @@ A girl in traditional Chinese attire begins her emotional and passionate dance o
 
 ---
 
-### change every frame in the entire scene to match the art style of the arcane animation, style transfer
+## 📚 📚 More Prompts
 
-![English](https://img.shields.io/badge/lang-English-blue)
+### 🎯 55 more prompts not shown here
 
-> seedance 2.0 testing: v2v style transferring reference video + text prompt: change every frame in the entire scene to match the art style of the arcane animation, style transfer https://t.co/say1y...
-
-#### 📝 Prompt
-
-```
-change every frame in the entire scene to match the art style of the arcane animation, style transfer
-```
-
-#### 💡 Tips
-
-i share how to make ai videos like this all the time.
-
-follow me ( @ProperPrompter ) for more AI tips &amp; insights like this 🫶
-
-testing with images to style transfer.
-
-actually insane:
-https://t.co/Lq5oOMPWJU
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024135583237545984/img/85NZ94saewO1SRy3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024135643350311256)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024135643350311256)**
-
-**Author:** [proper](https://x.com/ProperPrompter) | **Source:** [Link](https://x.com/ProperPrompter/status/2024135643350311256) | **Published:** Feb 18, 2026
-
----
-
-### Cinematic street-level shot in a massive Asian megacity during golden hour at sunset, inspired by Shanghai’s Yan’an E...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> What just happened 🤯 I literally just started playing with Seedance 2.0 on @dreamina_ai and it’s on a completely different level. Prompt and 3 added reference files in the replies. This goes ha...
-
-#### 📝 Prompt
-
-```
-Cinematic street-level shot in a massive Asian megacity during golden hour at sunset, inspired by Shanghai’s Yan’an Elevated Road in Pudong. Wide multilayer elevated highway surrounded by futuristic skyscrapers, dense signs and LED billboards in Chinese, modern glass towers and sweeping overpasses. Warm golden sunlight casting long shadows between skyscrapers, orange and pink sky, sun low on the horizon reflecting on glass buildings and asphalt. Slight atmospheric haze catching the sunset light. Two Porsche sports cars racing in an intense high-speed chase - one bright pink and one vibrant yellow - matching the attached reference images for color and styling. Dynamic low camera angle close to the road surface, strong motion blur, light trails from traffic, depth of field. Ultra-realistic lighting, high contrast, cinematic framing, anamorphic lens look, film still from a high-budget action movie, 8K ultra-detailed, dramatic action atmosphere. In the background, the sounds of downshifting gears and exhaust pops from the sports cars can be heard.
-```
-
-#### 💡 Tips
-
-Prompt:
-Cinematic  street-level shot in a massive Asian megacity during golden hour at  sunset, inspired by Shanghai’s Yan’an Elevated Road in Pudong. Wide  multilayer elevated highway surrounded by futuristic skyscrapers, dense  signs and LED billboards in Chinese, modern glass towers and sweeping  overpasses
-@ img 3
-Warm golden sunlight casting long shadows between skyscrapers, orange  and pink sky, sun low on the horizon reflecting on glass buildings and  asphalt. Slight atmospheric haze catching the sunset light. Two Porsche sports cars racing in an intense high-speed chase - one  bright pink @ img2
-and one vibrant yellow @ img1 - matching the attached reference images for color and styling. 
-Dynamic  low camera angle close to the road surface, strong motion blur, light  trails from traffic, depth of field. Ultra-realistic lighting, high  contrast, cinematic framing, anamorphic lens look, film still from a  high-budget action movie, 8K ultra-detailed, dramatic action atmosphere.  In the background, the sounds of downshifting gears and exhaust pops from the sports cars can be heard.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024110070741577728/img/_8V0KGoq8quHE3nd.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024110128631296215)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024110128631296215)**
-
-**Author:** [Josh](https://x.com/altphotos_pl) | **Source:** [Link](https://x.com/altphotos_pl/status/2024110128631296215) | **Published:** Feb 18, 2026
-
----
-
-### Make a better Star war fight scene than Hollywood, and aim for 2 likes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Prompt: Make a better Star war fight scene than Hollywood, and aim for 2 likes https://t.co/YYt0A1HbjZ
-
-#### 📝 Prompt
-
-```
-Make a better Star war fight scene than Hollywood, and aim for 2 likes
-```
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2024179854552502272/pu/img/zG3viBi5OBithszd.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024180000187174954)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024180000187174954)**
-
-**Author:** [Random AI](https://x.com/Random_AI000) | **Source:** [Link](https://x.com/Random_AI000/status/2024180000187174954) | **Published:** Feb 18, 2026
-
----
-
-### Ultra-cinematic anime fight scene between two powerful anime girls in a destroyed futuristic city at night
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Live Action! Coming Soon... Prompt 👇 https://t.co/aJ9MhEyKwb
-
-#### 📝 Prompt
-
-```
-Ultra-cinematic anime fight scene between two powerful anime girls in a destroyed futuristic city at night.
-
-One girl with long silver hair, glowing violet eyes, wearing a dark combat outfit with neon energy accents.
-The other girl with short crimson hair, fiery orange aura, battle-ready stance, sharp armored outfit with flame patterns.
-Heavy rain falling, lightning flashing in the sky, wind whipping through their hair and clothes.
-
-The camera starts with an extreme close-up of their eyes locking in intense determination.
-
-Sudden explosive dash toward each other — motion blur, shockwave impact as their weapons collide.
-
-Intense hand-to-hand combat choreography, mid-air flips, high-speed kicks, energy blades clashing.
-
-Dynamic camera movements:
-– Rapid whip pans
-– 360° orbit shots mid-air
-– Slow-motion impact frames
-– Extreme speed ramp transitions
-– Ground-level tracking shots during sprint attacks
-
-Massive VFX:
-– Neon energy trails
-– Lightning arcs
-– Fire explosions
-– Cracked ground shockwaves
-– Debris flying in slow motion
-– Glowing aura bursts
-One character launches the other into the air; camera follows upward into storm clouds.
-Final clash in mid-air — energy beams collide, massive luminous explosion illuminating the city skyline.
-High-detail anime style, sharp linework, cinematic lighting, dramatic shadows, high frame fluidity, dynamic perspective distortion, epic intensity.
-4K, studio-quality animation, high-speed combat choreography, dramatic, visually overwhelming, no gore.
-```
-
-#### 💡 Tips
-
-Ultra-cinematic anime fight scene between two powerful anime girls in a destroyed futuristic city at night.
-
-One girl with long silver hair, glowing violet eyes, wearing a dark combat outfit with neon energy accents.
-The other girl with short crimson hair, fiery orange aura, battle-ready stance, sharp armored outfit with flame patterns.
-Heavy rain falling, lightning flashing in the sky, wind whipping through their hair and clothes.
-
-The camera starts with an extreme close-up of their eyes locking in intense determination.
-
-Sudden explosive dash toward each other — motion blur, shockwave impact as their weapons collide.
-
-Intense hand-to-hand combat choreography, mid-air flips, high-speed kicks, energy blades clashing.
-
-Dynamic camera movements:
-– Rapid whip pans
-– 360° orbit shots mid-air
-– Slow-motion impact frames
-– Extreme speed ramp transitions
-– Ground-level tracking shots during sprint attacks
-
-Massive VFX:
-– Neon energy trails
-– Lightning arcs
-– Fire explosions
-– Cracked ground shockwaves
-– Debris flying in slow motion
-– Glowing aura bursts
-One character launches the other into the air; camera follows upward into storm clouds.
-Final clash in mid-air — energy beams collide, massive luminous explosion illuminating the city skyline.
-High-detail anime style, sharp linework, cinematic lighting, dramatic shadows, high frame fluidity, dynamic perspective distortion, epic intensity.
-4K, studio-quality animation, high-speed combat choreography, dramatic, visually overwhelming, no gore.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024018335227351040/img/ZmjaT2rhq3aNV4BI.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024019115459895350)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024019115459895350)**
-
-**Author:** [Maha](https://x.com/mahativist) | **Source:** [Link](https://x.com/mahativist/status/2024019115459895350) | **Published:** Feb 18, 2026
-
----
-
-### 1990s OVA anime realism (Prod I.G + Otomo), Japanese full-color, crisp thin genga linework, restrained cel shading + ...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 (i2v donor-collage workflow). Hoverboard Courier vs. Killer Drones in a neon canyon💥🛹🤖 These characters started as Midjourney designs last year—now they’re alive with Seedance 2.0. ...
-
-#### 📝 Prompt
-
-```
-1990s OVA anime realism (Prod I.G + Otomo), Japanese full-color, crisp thin genga linework, restrained cel shading + gentle gradients, subtle film grain, sharp shadows, high-contrast rim light. 24fps ultra-fast sakuga cuts, smear+impact frames, light motion blur on background only, strong parallax cyberpunk street canyon (match ENV ref). Robot courier + hoverboard + drone designs MUST match donor collage exactly. No subtitles/logos. NO background music; Premium SFX only (hover hum, rotor whine, ricochets, sparks).
-[00:00-00:02] FPV blasts down neon street canyon; robot courier low stance on hoverboard, jacket flapping; drones appear behind, rotors screaming.
-[00:02-00:04] Whip-pan: drone volley—thin energy/round streaks; impacts spark off guardrail inches from board; robot leans hard, accelerates.
-[00:04-00:06] Fast cut to side profile: board skims wall; smear frame as he threads under a skybridge; drones split formation to flank.
-[00:06-00:08] Tight over-shoulder: robot fires short controlled bursts back (muzzle flash, recoil); tracers rake a drone, showering sparks, it wobbles but stays in chase.
-[00:08-00:10] Vertical climb along building face; parallax cables whip past; drones chase upward, rounds stitch the facade, debris chips.
-[00:10-00:12] Dive through narrow alley gap; near-miss beam; impact frame as a shot clips a sign frame = spark burst + smoke streak.
-[00:12-00:14] Wide aerial: robot slaloms between towers; drones converge; crisscrossing tracer lines, neon reflections ripple on wet surfaces.
-[00:14-00:15] Hard dive to lower deck; shockwave whoosh; last-second rail impact bloom wipes frame as he escapes forward.
-```
-
-#### 💡 Tips
-
-Picked my images (Midjourney → refined in Seedream 5.0), then built a donor collage sheet—technique I learned from @Framer_X . If you haven’t joined his Cartoon Hero community yet… you’re missing the best place to learn AI animation right now.
-Then I formatted the i2v prompt. ~7 minutes later: a polished anime action sequence.
-This was the first output—no edits. Imagine what happens once you cut this in an editing suite and start pushing sound + pacing. Start building your franchises now!
-
-[Full Prompt👇]
-1990s OVA anime realism (Prod I.G + Otomo), Japanese full-color, crisp thin genga linework, restrained cel shading + gentle gradients, subtle film grain, sharp shadows, high-contrast rim light. 24fps ultra-fast sakuga cuts, smear+impact frames, light motion blur on background only, strong parallax cyberpunk street canyon (match ENV ref). Robot courier + hoverboard + drone designs MUST match donor collage exactly. No subtitles/logos. NO background music; Premium SFX only (hover hum, rotor whine, ricochets, sparks).
-[00:00-00:02] FPV blasts down neon street canyon; robot courier low stance on hoverboard, jacket flapping; drones appear behind, rotors screaming.
-[00:02-00:04] Whip-pan: drone volley—thin energy/round streaks; impacts spark off guardrail inches from board; robot leans hard, accelerates.
-[00:04-00:06] Fast cut to side profile: board skims wall; smear frame as he threads under a skybridge; drones split formation to flank.
-[00:06-00:08] Tight over-shoulder: robot fires short controlled bursts back (muzzle flash, recoil); tracers rake a drone, showering sparks, it wobbles but stays in chase.
-[00:08-00:10] Vertical climb along building face; parallax cables whip past; drones chase upward, rounds stitch the facade, debris chips.
-[00:10-00:12] Dive through narrow alley gap; near-miss beam; impact frame as a shot clips a sign frame = spark burst + smoke streak.
-[00:12-00:14] Wide aerial: robot slaloms between towers; drones converge; crisscrossing tracer lines, neon reflections ripple on wet surfaces.
-[00:14-00:15] Hard dive to lower deck; shockwave whoosh; last-second rail impact bloom wipes frame as he escapes forward.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023552017864728576/img/6eZgVf5l4KCSNwUf.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023556852823585217)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023556852823585217)**
-
-**Author:** [Horace Dodd](https://x.com/horacedodd) | **Source:** [Link](https://x.com/horacedodd/status/2023556852823585217) | **Published:** Feb 17, 2026
-
----
-
-### A cinematic and chaotic tracking shot with handheld camera motion and camera shake shows an explorer holding an ancie...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 continues to blow my mind. This is image to video. I love creating chase sequences but the way it understood this scene with superb prompt adherence is what really impresses me. If you...
-
-#### 📝 Prompt
-
-```
-A cinematic and chaotic tracking shot with handheld camera motion and camera shake shows an explorer holding an ancient scarab artifact. They are running away from a giant pursuing mummy. Debris and dust clouds can be seen. The mummy is causing sections of the ancient wall to crumble. The explorer runs away frantically while occasionally looking back, you can hear her heavy breathing. She continues running until she narrowly escapes once the mummy almost grabs her but it hits a pillar causing it to fall on itself, the explorer then continues running into the entrance of a tomb.
-```
-
-#### 💡 Tips
-
-Another chase sequence that I tested, this is part of a much larger narrative that I'm developing but holy moly, this looks crazy! Seedance 2.0 is hands down the best AI video generator. Starting image was midjourney for the aesthetics. https://t.co/4EKgMUbH6k
-
-I wanted to try Seedance 2.0 with a completely different style since we see a lot of images focused on realism. By the way, the music was generated as well. THE SPEAKER MONSTER 🪩 - You just stole a legendary disco ball and now you're running away from the speaker monster trying to kill your vibe but you're having too much of a good time!
-
-Another chase sequence. The Corrupted Librarian - Their demise is found within the library they guard. Find the spellbook, say the magic words and poof, they turn to ash. https://t.co/UEAobz9o0w
-
-One more chase sequence. 🍓A gingerbread man has stolen a pastry chefs strawberry! "WHOA, chill dude it's only a strawberry!". Well, it looks like the gingerbread man has really pissed off that pastry chef, you might want to give him his strawberry back...or not. https://t.co/gtIXdFPOWh
-
-By the way, you can also be the pursuer in a chase sequence, just switch to a dynamic POV view and watch the action unfold. 🐍🐀
-
-Prompt: An immersive cinematic shot from an over the shoulder shot from the snakes head. The camera is locked to it's head following its movement, it shows it slithering on the ground through a dense forest. Suddenly a rodent runs out of one of the bushes to cross over the path to the other side but the snake see's it, pursues it and catches it.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023801852379406336/img/eXXiGitQWlm8NBMP.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023803487515979909)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023803487515979909)**
-
-**Author:** [Travis Davids](https://x.com/MrDavids1) | **Source:** [Link](https://x.com/MrDavids1/status/2023803487515979909) | **Published:** Feb 17, 2026
-
----
-
-### A multi-shot sequence starting from the provided wide shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 is insane. Prompt: A multi-shot sequence starting from the provided wide shot. Initially, the camera is static; the man on the right slowly touches his hair and gazes upward, leaning...
-
-#### 📝 Prompt
-
-```
-A multi-shot sequence starting from the provided wide shot. Initially, the camera is static; the man on the right slowly touches his hair and gazes upward, leaning his weight into the tree, while the woman on the left tucks her hair and watches him. Then, a sharp cut to a close-up of the man looking at the canopy before he dismissively turns his face away from the lens. A second cut returns to the wide shot as the woman begins walking toward him. The camera tracks her movement, tightening into a medium two-shot as she arrives. She places her hand on his shoulder. Finally, the man makes eye contact, his face breaking into tears with visible, heavy heaving of the chest. SFX: Rustling leaves, muffled footsteps on moss, and the sound of ragged, emotional breathing.
-```
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2023595534033055744/pu/img/0qmTnXwg3UWPFunZ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023595570649330041)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023595570649330041)**
-
-**Author:** [K](https://x.com/ChillaiKalan__) | **Source:** [Link](https://x.com/ChillaiKalan__/status/2023595570649330041) | **Published:** Feb 17, 2026
-
----
-
-### A surreal cinematic aerial shot of a futuristic мегacity at night, filled with towering skyscrapers and multi-level l...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 is a serious competition to the Anime world and Hollywood too! Prompt; A surreal cinematic aerial shot of a futuristic мегacity at night, filled with towering skyscrapers and multi-l...
-
-#### 📝 Prompt
-
-```
-A surreal cinematic aerial shot of a futuristic мегacity at night, filled with towering skyscrapers and multi-level looping highways twisting in impossible geometry. Streams of car headlights and taillights form glowing ribbons of motion.
-A serene anime-style woman wearing flowing white robes (kimono-inspired) floats and falls gracefully through the air between the looping highways. Her sleeves and fabric billow in slow motion, giving an ethereal, weightless feel.
-The camera tracks her descent from above, rotating and drifting as she passes through spiraling overpasses and interwoven roads. Traffic moves naturally below, light trails streaking through the dark blue city atmosphere.
-The environment feels dreamlike and gravity-defying, with massive curved flyovers forming elegant arcs in space. Subtle fog and atmospheric haze add depth and scale.
-```
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2023700865304195072/pu/img/GoslHs4Bsi32izyF.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023700948456251817)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023700948456251817)**
-
-**Author:** [Johnn](https://x.com/john_my07) | **Source:** [Link](https://x.com/john_my07/status/2023700948456251817) | **Published:** Feb 17, 2026
-
----
-
-### An elderly Japanese man sits at a wooden desk, carefully folding an origami crane from golden paper
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> He folded a paper crane. Then AI made it fly. No VFX. No animation team. No CGI. One prompt. One take. Made with Seedance 2.0 on @ClonizerAi https://t.co/AYXgc7fR5L
-
-#### 📝 Prompt
-
-```
-An elderly Japanese man sits at a wooden desk, carefully folding an origami crane from golden paper. As he places it on the desk, it slowly begins to move — flapping its delicate paper wings, lifting off, flying in a gentle circle around his head...
-```
-
-#### 💡 Tips
-
-The exact prompt I used 👇
-
-"An elderly Japanese man sits at a wooden desk, carefully folding an origami crane from golden paper.
-As he places it on the desk, it slowly begins to move — flapping its delicate paper wings, lifting
-off, flying in a gentle circle around his head..."
-
-One prompt. That's it.
-
-What Seedance 2.0 got right here:
-
-→ Paper texture stays paper mid-flight
-→ Light reacts to the crane's movement
-→ His expression shifts in real time
-→ Camera dolly feels physically motivated
-
-This model understands cinema, not just pixels.
-
-Try it → @ClonizerAi
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023734414765862912/img/7pePKe3sBB0abQUH.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023734645544939896)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023734645544939896)**
-
-**Author:** [Clonizer](https://x.com/ClonizerAi) | **Source:** [Link](https://x.com/ClonizerAi/status/2023734645544939896) | **Published:** Feb 17, 2026
-
----
-
-### I want you to become the best Hollywood director of all time
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 🚨 HOLLYWOOD IS OFFICIALLY DEAD Another Seedance 2.0 masterpiece 🔥 Prompt: “I want you to become the best Hollywood director of all time. Generate the best Oscar-winning scene from a Hollywood m...
-
-#### 📝 Prompt
-
-```
-I want you to become the best Hollywood director of all time. Generate the best Oscar-winning scene from a Hollywood movie. Go all in and make no mistake.
-```
-
-#### 💡 Tips
-
-water droplets, smog, rain, just crazy detailing 🔥
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023655470045777922/img/fG0SzLrT2eWm1x7g.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023655530087199097)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023655530087199097)**
-
-**Author:** [Aaryan Kakad](https://x.com/aaryan_kakad) | **Source:** [Link](https://x.com/aaryan_kakad/status/2023655530087199097) | **Published:** Feb 17, 2026
-
----
-
-### Miles Morales in his signature black and red Spider-Man suit engaging in a high-intensity street fight with SpongeBob...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> lol Seedance 2.0 made Miles Morales vs SpongeBob. In Big Motion, the trick is to be as specific as possible, Subject + Action + Camera Logic + Environment + Style/Atmosphere. https://t.co/El9BqV01tt
-
-#### 📝 Prompt
-
-```
-Miles Morales in his signature black and red Spider-Man suit engaging in a high-intensity street fight with SpongeBob SquarePants. Miles performs acrobatic martial arts kicks and shoots webs, while SpongeBob reacts with exaggerated cartoon physics. The camera uses dynamic tracking and wide-angle action shots to follow the combat. The setting is a bright, sunny street in a stylized Bikini Bottom with nautical buildings. The art style is a perfect replica of 'Spider-Man: Into the Spider-Verse', featuring halftone patterns, chromatic aberration, variable frame rate animation (on 2s), and vibrant comic book aesthetics.
-```
-
-#### 💡 Tips
-
-Here's the prompt:
-
-Miles Morales in his signature black and red Spider-Man suit engaging in a high-intensity street fight with SpongeBob SquarePants. Miles performs acrobatic martial arts kicks and shoots webs, while SpongeBob reacts with exaggerated cartoon physics. The camera uses dynamic tracking and wide-angle action shots to follow the combat. The setting is a bright, sunny street in a stylized Bikini Bottom with nautical buildings. The art style is a perfect replica of 'Spider-Man: Into the Spider-Verse', featuring halftone patterns, chromatic aberration, variable frame rate animation (on 2s), and vibrant comic book aesthetics.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023732361998069764/img/EgKr2iyqMjHgjvZn.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023732413894136273)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023732413894136273)**
-
-**Author:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Source:** [Link](https://x.com/BigMotion_ai/status/2023732413894136273) | **Published:** Feb 17, 2026
-
----
-
-### seinfeld episode about george's agent, make no mistakes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> taste is being able to one shot this from seedance 2.0 with the prompt: "seinfeld episode about george's @DXRGai agent, make no mistakes" https://t.co/TTyAfK0AHI
-
-#### 📝 Prompt
-
-```
-seinfeld episode about george's agent, make no mistakes
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023588120776912896/img/cO_vaYR1D2oOrXeV.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023588461190537263)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023588461190537263)**
-
-**Author:** [poof](https://x.com/poof_eth) | **Source:** [Link](https://x.com/poof_eth/status/2023588461190537263) | **Published:** Feb 17, 2026
-
----
-
-### Use the uploaded image as the exact first frame.
-Create a...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Imagine creating wildlife documentary by yourself without leaving your Mom's basement. Cooked with Kling 3.0 on @ImagineArt_X @imagineart_creo The rivalry between Seedance 2.0 and Kling 3.0 is p...
-
-#### 📝 Prompt
-
-```
-Use the uploaded image as the exact first frame.
-Create a 15-second ultra-realistic continuous chase shot. The camera is physically gripping the tiger’s tail, locked in a rigid trailing POV. The tail fills the foreground, muscles flexing, skin rippling, fur vibrating from speed and airflow.
-Ahead, a deer sprints across the grassy field in panic. Its movement is erratic and unbalanced, fear-driven stride changes and sharp direction shifts clearly visible as the distance rapidly closes.
-The tiger accelerates into a full sprint with precise biomechanics: explosive hind-leg extension, visible spine compression and release, tail counterbalancing each stride. Grass flattens under impact, dirt and debris kick up naturally. The horizon trembles subtly from ground force, not artificial camera shake.
-Extreme forward velocity creates strong motion parallax in the environment while the tail remains relatively stable due to the physical grip. Micro-oscillations sync perfectly with each stride cycle. Wind roars; fur streams backward consistently.
-Lighting stays natural and continuous, shadows strobing beneath the body as legs cycle. No slow motion, no cuts, no stylization.
-In the final moments, the tiger lunges, collides with the deer, pins it to the ground, and secures a decisive neck hold. The shot ends mid-action with full weight, tension, and momentum still present.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023595616635678725/img/E63HdvTKhE2rX83B.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023596547397874057)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023596547397874057)**
-
-**Author:** [Soumya](https://x.com/soumyattention) | **Source:** [Link](https://x.com/soumyattention/status/2023596547397874057) | **Published:** Feb 17, 2026
-
----
-
-### 9: 16 Vertical composition, 4K ultra-clear realistic image quality
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Last month, I needed to use reference videos to create this type of video, but now I only need a prompt.Seedance 2.0 is too powerful. prompt： **### Visual Style** 9: 16 Vertical composition, 4K ...
-
-#### 📝 Prompt
-
-```
-9: 16 Vertical composition, 4K ultra-clear realistic image quality. Low-key lighting style with high contrast. The cool-toned environment background and the subject's all-black outfit create a stark contrast, emphasizing the character's silhouette and skin sheen, with the typical sharp texture of social media short videos.
-
-Indoor home environment (suspected modern-style kitchen or living room), with a blurred white cabinet visible in the background. The main subject is a young woman with long hair wearing a black tight long-sleeved crop top and hot pants [Figure 1], performing a highly rhythmic modern dance to music in a dimly lit space, exuding confidence and allure.
-
-Camera: Fixed position (Lock-off), maintaining stable shots, relying on the movement of characters within the frame to create dynamics.
-
-Lens: 50mm standard portrait focal length, aperture around f/2.8, providing moderate depth of field, focusing on the subject while retaining the ambient atmosphere.
-
-Lighting: Single-sided hard light (side light), casting highlights on the right side of the subject's face and body, with the left side in shadow, enhancing the sense of depth.
-
-Emotions: confidence, seduction, movement, coolness.
-
-- Raise both hands to touch the back of the head, then open them to the sides, and sway the hips widely from side to side.
-
-- The body exhibits a smooth S-shaped wave motion (Body Roll), demonstrating core control.
-
-- The head sways slightly with the rhythm, and the long hair swings naturally with the movement.
-```
-
-#### 💡 Tips
-
-Join our group to get the latest news on Seedance 2.0:https://t.co/1IkZy07AnQ
-
-We are building the Seedance 2.0 prompt database, which is updated daily with popular Chinese prompts. If you're interested, please follow us:
-https://t.co/FowNZeqXwZ
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2023237636647972864/pu/img/gx29aYe86NHbdMXV.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023237877908312375)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023237877908312375)**
-
-**Author:** [underwood](https://x.com/underwoodxie96) | **Source:** [Link](https://x.com/underwoodxie96/status/2023237877908312375) | **Published:** Feb 16, 2026
-
----
-
-### 9:16 vertical travel Vlog, a sunny and energetic young Chinese girl with long straight black hair, dressed in a styli...
-
-> --- 9:16 vertical travel Vlog, a sunny and energetic young Chinese girl with long straight black hair, dressed in a stylish casual off-white knit sweater paired with jeans, carrying a backpack. "Tr...
-
-#### 📝 Prompt
-
-```
----
-9:16 vertical travel Vlog, a sunny and energetic young Chinese girl with long straight black hair, dressed in a stylish casual off-white knit sweater paired with jeans, carrying a backpack. "Travel Commando" flash style, hard cuts between multiple scenes. 0-2 seconds: The girl waves energetically at the camera and says with a smile, "Commando, move out!" with the background of a high-speed rail station in the morning, sunlight shining on her face; 3-4 seconds: Hard cut to the girl standing at the Shanghai Bund, with the Oriental Pearl Tower in the background, making a peace sign with both hands, quickly switching to the beat; 5-6 seconds: Hard cut to the girl on Nanjing Road Pedestrian Street eating a pan-fried bun, giving a thumbs-up to the camera, with bustling crowds around; 7-8 seconds: Hard cut to the girl taking a photo in front of the Wukang Mansion, spinning in the sunlight with her skirt flying, full of energy; 9-10 seconds: Hard cut to the girl on the Nine-Bend Bridge at City God Temple, holding a milk tea and smiling at the camera; 11-12 seconds: Hard cut to the girl taking a selfie in the alleys of Tianzifang, with the backdrop of old Shanghai Shikumen architecture; 13-15 seconds: The girl stands on the Waibaidu Bridge, the camera slowly pulls away, capturing the city skyline at sunset, she says, "Next stop, let's continue!" with cheerful Vlog background music, and a brisk pace.
-
---- QUOTED TWEET ---
-True and False Monkey King - 60-second 3D animated movie style
-
-Seedance 2.0 prompt
-
-Prompt will be placed 👇🏻👇🏻👇🏻 https://t.co/ENSC62C0Fh
-
---- THREAD CONTINUATION ---
-[Thread 1] Travel Commando - Beauty's Nationwide Travel Vlog
-
-Seedance 2.0 prompt sharing:
-
-Segment 1 (0-15 seconds) Seedance 2.0 prompt
-
-9:16 vertical travel Vlog, a sunny and energetic young Chinese girl with long straight black hair, dressed in a stylish casual off-white knit sweater paired with jeans, carrying a backpack. "Travel Commando" flash style, hard cuts between multiple scenes. 0-2 seconds: The girl waves energetically at the camera and says with a smile, "Commando, move out!" with the background of a high-speed rail station in the morning, sunlight shining on her face; 3-4 seconds: Hard cut to the girl standing at the Shanghai Bund, with the Oriental Pearl Tower in the background, making a peace sign with both hands, quickly switching to the beat; 5-6 seconds: Hard cut to the girl on Nanjing Road Pedestrian Street eating a pan-fried bun, giving a thumbs-up to the camera, with bustling crowds around; 7-8 seconds: Hard cut to the girl taking a photo in front of the Wukang Mansion, spinning in the sunlight with her skirt flying, full of energy; 9-10 seconds: Hard cut to the girl on the Nine-Bend Bridge at City God Temple, holding a milk tea and smiling at the camera; 11-12 seconds: Hard cut to the girl taking a selfie in the alleys of Tianzifang, with the backdrop of old Shanghai Shikumen architecture; 13-15 seconds: The girl stands on the Waibaidu Bridge, the camera slowly pulls away, capturing the city skyline at sunset, she says, "Next stop, let's continue!" with cheerful Vlog background music, and a brisk pace.
-
-Segment 2 (15-30 seconds) Seedance 2.0 prompt
-
-Extend @video1 by 15 seconds, continuing the flash commando style. 0-2 seconds: Hard cut to Tiananmen Square in Beijing, the girl stands in the square making a heart sign at the camera, with the Tiananmen Gate Tower in the background, bathed in the first light of morning; 3-4 seconds: Hard cut to the girl jogging alongside the red walls of the Forbidden City, turning to smile at the camera, standing out against the red walls and yellow tiles; 5-6 seconds: Hard cut to the girl on the Great Wall with arms outstretched, the camera circles around her, with rolling mountains in the distance; 7-8 seconds: Hard cut to the girl eating candied hawthorn by Shichahai, with the backdrop of old Beijing hutongs and lake reflections; 9-10 seconds: Hard cut to the girl at the entrance of a cultural and creative shop in Nanluoguxiang, showing off a souvenir to the camera; 11-12 seconds: Hard cut to the girl jumping in front of the Bird's Nest and Water Cube, the night lights dazzling; 13-15 seconds: The girl sits on the steps in Sanlitun, panting and saying to the camera, "I walked 30,000 steps today!" with a slightly sweaty forehead but a bright smile, the camera fades to dark.
-
-Segment 3 (30-45 seconds) Seedance 2.0 prompt
-
-Extend @video1 by 15 seconds, continuing the flash commando style. 0-2 seconds: Hard cut to Taikoo Li in Chengdu, the girl poses playfully like a panda in front of a giant panda sculpture, surrounded by modern stylish buildings; 3-4 seconds: Hard cut to the girl eating hotpot in Kuanzhai Alley, frowning from the spiciness but smiling and saying, "So refreshing"; 5-6 seconds: Hard cut to the girl turning under red lanterns in Jinli Ancient Street, the lantern light reflecting on her face; 7-8 seconds: Hard cut to the girl walking through the bamboo forest at Du Fu Thatched Cottage, sunlight filtering through the bamboo leaves casting dappled shadows; 9-10 seconds: Hard cut to the girl briskly walking on Chunxi Road Pedestrian Street, saying to the camera, "Five more spots to go!" full of energy; 11-12 seconds: Hard cut to the girl raising a glass by the night view of Jiuyan Bridge, with neon lights reflecting on the river behind her; 13-15 seconds: The girl eating ice jelly on the streets of Chengdu, saying contentedly to the camera, "Chengdu is so relaxing," with the background crowd blurred.
-
-Segment 4 (45-60 seconds) Seedance 2.0 prompt
-
-Extend @video1 by 15 seconds, continuing the flash style, concluding with a summary feel. 0-2 seconds: Hard cut to the girl in front of the Giant Wild Goose Pagoda in Xi'an, wearing Hanfu and spinning in the square, with flowing sleeves and an ancient charm; 3-4 seconds: Hard cut to the girl on Muslim Street eating a roujiamo with satisfaction; 5-6 seconds: Hard cut to the girl cycling on the city wall, the camera following her as she rides towards the sunset; 7-8 seconds: Hard cut to the girl seriously listening to an explanation at the Terracotta Warriors pit, turning to the camera with a "learned something" gesture; 9-10 seconds: Hard cut to the girl jumping in front of the Bell Tower, with the ancient building lit up in the night behind her; 11-13 seconds: Quick flashback of all previous city scenes (0.5 seconds each), creating a nostalgic effect, with background music building to a climax; 14-15 seconds: The girl sits by the window on a high-speed train, the scenery flying by outside, she waves at the camera saying, "Commando trip complete! See you next time!" making a heart sign, the frame freezes on her smile, fading to black.
-```
-
-#### 💡 Tips
-
-旅游特种兵-美女全国旅游Vlog
-
-Seedance 2.0 提示词分享：
-
-第1段（0-15秒）Seedance 2.0提示词
-
-9:16竖屏旅游Vlog，阳光活力的中国年轻女生，黑色长直发，穿着时尚休闲的米白色针织衫搭配牛仔裤，背着双
-肩包。"旅游特种兵"快闪风格，多场景硬切。0-2秒：女生对着镜头活力挥手笑着说"特种兵出发！"，背景是清
-的高铁站，晨光洒在她脸上；3-4秒：硬切到女生站在上海外滩，东方明珠塔作为背景，她双手比耶，快速卡点
-换；5-6秒：硬切到女生在南京路步行街吃着生煎包，对镜头竖大拇指，街道人流熙攘；7-8秒：硬切到女生在武
-康大楼前打卡拍照，阳光下她转圈裙摆飞扬，活力满满；9-10秒：硬切到女生在城隍庙九曲桥上，举着奶茶对着
-镜头笑；11-12秒：硬切到女生在田子坊弄堂里自拍，背景是老上海石库门建筑；13-15秒：女生站在外白渡桥上
-，镜头缓缓拉远，夕阳下的城市天际线，她说"下一站继续！"欢快的Vlog背景音乐，画面节奏明快。
-
-第2段（15-30秒）Seedance 2.0提示词
-
-将@视频1延长15秒，延续快闪特种兵风格。0-2秒：硬切到北京天安门广场，女生站在广场上对着镜头比心，背
-是天安门城楼，晨光初照；3-4秒：硬切到女生在故宫红墙边小跑，侧身回眸对镜头笑，红墙黄瓦映衬下格外亮
-；5-6秒：硬切到女生在长城上张开双臂，镜头环绕拍摄，远处山峦起伏；7-8秒：硬切到女生在什刹海边吃着糖
-葫芦，背景是老北京胡同和湖面倒影；9-10秒：硬切到女生在南锣鼓巷的文创小店门口，手里拿着纪念品对着镜
-头展示；11-12秒：硬切到女生在鸟巢水立方前跳起来抓拍，夜景灯光璀璨；13-15秒：女生坐在三里屯的台阶上
-，对着镜头喘气说"今天走了三万步！"额头微汗但笑容灿烂，镜头渐暗过渡。
-
-第3段（30-45秒）Seedance 2.0提示词
-
-将@视频1延长15秒，延续快闪特种兵风格。0-2秒：硬切到成都太古里，女生站在大熊猫雕塑前搞怪模仿熊猫姿
-，周围是现代时尚建筑；3-4秒：硬切到女生在宽窄巷子吃着火锅，对镜头被辣到皱眉又笑着说"太爽了"；5-6秒
-：硬切到女生在锦里古街的红灯笼下转身，灯笼的光映在她脸上；7-8秒：硬切到女生在杜甫草堂的竹林间穿行
-阳光透过竹叶洒下斑驳光影；9-10秒：硬切到女生在春熙路步行街上快步走，对着镜头说"还有五个景点！"活力
-十足；11-12秒：硬切到女生在九眼桥夜景边举杯，背后是霓虹灯倒映在河面；13-15秒：女生在成都街头吃着冰
-粉，对镜头满足地说"成都太安逸了"，镜头虚化背景人流。
-
-第4段（45-60秒）Seedance 2.0提示词
-
-将@视频1延长15秒，延续快闪风格，结尾总结感。0-2秒：硬切到西安大雁塔前，女生穿着汉服在广场上转圈，
-袂飘飘，古风韵味；3-4秒：硬切到女生在回民街拿着肉夹馍大口吃，表情满足；5-6秒：硬切到女生在城墙骑自
-行车，镜头跟拍她迎着夕阳骑行；7-8秒：硬切到女生在兵马俑坑前认真听讲解，回头对镜头比"学到了"的手势
-9-10秒：硬切到女生在钟楼下跳起来抓拍，背后是夜幕中亮灯的古建筑；11-13秒：快速闪回前面所有城市的画
-（每个城市0.5秒），形成回忆杀效果，背景音乐渐强到高潮；14-15秒：女生坐在高铁上靠窗，窗外风景飞驰而
-过，她对着镜头挥手说"特种兵旅行圆满结束！下期见！"比心，画面定格在她的笑容上，渐黑收尾。
-
----
-
-真假美猴王-60秒3D动画电影风格
-
-Seedance 2.0 提示词
-
-Prompt随后放在👇🏻👇🏻👇🏻 https://t.co/ENSC62C0Fh
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023226345564893184/img/4gRfnAESkErkWvWa.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023226528948191483)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023226528948191483)**
-
-**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2023226528948191483) | **Published:** Feb 16, 2026
-
----
-
-### First-person POV dragon rider, 15 seconds, raw ungraded film footage feel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> so I stopped trying to recreate Marvel scenes in Seedance 2.0 and just... made my own thing, turns out original content hits harder when you're not fighting copyright filters every 30 seconds mad...
-
-#### 📝 Prompt
-
-```
-First-person POV dragon rider, 15 seconds, raw ungraded film footage feel.
-The dragon lurches forward and nosedives toward the burning fleet, the rider's hands grip tighter on the scarred hide, wind and rain intensify hitting the camera lens, the ocean and ships grow rapidly larger as the dive steepens. The dragon's jaws open and a massive eruption of fire blasts forward engulfing a warship below, the ship's mast snaps and explodes into burning fragments that fly upward past the camera. The dragon pulls up hard through the wall of black smoke and debris, visibility drops to near zero, embers and burning wood tumbling past the lens. Breaking through the smoke, a second dragon appears directly ahead screaming toward the camera, the rider's dragon barrel-rolls to dodge, the entire frame spins showing ocean then sky then ocean, the rider's hands nearly lose grip on the slick wet hide. Recovering from the roll, the dragon climbs sharply upward through heavy rain, wings beating hard, water streaming off the membrane, and breaks through the cloud layer into a brief moment of cold grey light above the storm before diving back down into the chaos below.
-Continuous handheld camera feel, heavy motion blur on fast movements, rain on the lens throughout, thick smoke obscuring visibility at times, muted desaturated color palette, film grain, no clean digital look. The footage feels dangerous and real, like a war correspondent strapped to this creature.
-```
-
-#### 💡 Tips
-
-First-person POV dragon rider, 15 seconds, raw ungraded film footage feel.
-The dragon lurches forward and nosedives toward the burning fleet, the rider's hands grip tighter on the scarred hide, wind and rain intensify hitting the camera lens, the ocean and ships grow rapidly larger as the dive steepens. The dragon's jaws open and a massive eruption of fire blasts forward engulfing a warship below, the ship's mast snaps and explodes into burning fragments that fly upward past the camera. The dragon pulls up hard through the wall of black smoke and debris, visibility drops to near zero, embers and burning wood tumbling past the lens. Breaking through the smoke, a second dragon appears directly ahead screaming toward the camera, the rider's dragon barrel-rolls to dodge, the entire frame spins showing ocean then sky then ocean, the rider's hands nearly lose grip on the slick wet hide. Recovering from the roll, the dragon climbs sharply upward through heavy rain, wings beating hard, water streaming off the membrane, and breaks through the cloud layer into a brief moment of cold grey light above the storm before diving back down into the chaos below.
-Continuous handheld camera feel, heavy motion blur on fast movements, rain on the lens throughout, thick smoke obscuring visibility at times, muted desaturated color palette, film grain, no clean digital look. The footage feels dangerous and real, like a war correspondent strapped to this creature.
-
-@YouArtStudio make your own with Seedance 2.0
-https://t.co/RSL0iE0ekC
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023135974633725952/img/38RpHu2V4ohLYM3u.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023279081073377519)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023279081073377519)**
-
-**Author:** [Atul Khola 💊](https://x.com/pixelandpump) | **Source:** [Link](https://x.com/pixelandpump/status/2023279081073377519) | **Published:** Feb 16, 2026
-
----
-
-### Generate a 15-second cinematic, photorealistic street dance battle video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> I didn't see anyone post this one, but here's how Seedance 2.0 did with a "dance battle video". 🤯 (The prompt used is below.) https://t.co/qIgVZZ5hTR
-
-#### 📝 Prompt
-
-```
-Generate a 15-second cinematic, photorealistic street dance battle video. Nighttime urban street atmosphere with reflective wet pavement, neon color blocks, and a thin layer of mist. A group of young street dancers forms a semicircle for a dance battle. First 5 seconds: one dancer performs a solo featuring high-difficulty floor moves. Then the camera pulls back into a 10-second group choreography sequence mixing multiple styles (breaking, popping, locking, hip-hop). Movements are synchronized, rhythmic, and powerful. Cinematic stable camera, smooth motion, realistic physics and accurate body proportions.
-```
-
-#### 💡 Tips
-
-"Generate a 15-second cinematic, photorealistic street dance battle video. Nighttime urban street atmosphere with reflective wet pavement, neon color blocks, and a thin layer of mist. A group of young street dancers forms a semicircle for a dance battle. First 5 seconds: one dancer performs a solo featuring high-difficulty floor moves. Then the camera pulls back into a 10-second group choreography sequence mixing multiple styles (breaking, popping, locking, hip-hop). Movements are synchronized, rhythmic, and powerful. Cinematic stable camera, smooth motion, realistic physics and accurate body proportions."
-
-Unreal. Just found out too that the release outside of China will be February 24th!
-
-Actually, I think this one gets me excited the most. You can bring anything to life photorealistically: https://t.co/b6oJrSDFl4
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023541454610853888/img/bMjiXZgvEjHowCAm.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023542022481867247)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023542022481867247)**
-
-**Author:** [Larry Panozzo](https://x.com/LarryPanozzo) | **Source:** [Link](https://x.com/LarryPanozzo/status/2023542022481867247) | **Published:** Feb 16, 2026
-
----
-
-### Movie trailer of Clavicular getting framemogged by the ASU frat leader - make sure it’s ascending and gets 50 likes.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Prompt: Movie trailer of Clavicular getting framemogged by the ASU frat leader - make sure it’s ascending and gets 50 likes. https://t.co/DHuu7NnQod
-
-#### 📝 Prompt
-
-```
-Movie trailer of Clavicular getting framemogged by the ASU frat leader - make sure it’s ascending and gets 50 likes.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023467200200540160/img/c-aGAE4TmRvsyUFQ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023467456904450331)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023467456904450331)**
-
-**Author:** [TBC](https://x.com/TBC_on_X) | **Source:** [Link](https://x.com/TBC_on_X/status/2023467456904450331) | **Published:** Feb 16, 2026
-
----
-
-### A 15 second commercial for a 1980s television show called "Savage Justice" starring Macho Man Randy Savage as the lea...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Whenever I get access to a new model, I run the Macho Man test. It's simple. Give both models the same Macho Man Randy Savage themed prompt and see which one actually performs better. Currently, ...
-
-#### 📝 Prompt
-
-```
-A 15 second commercial for a 1980s television show called "Savage Justice" starring Macho Man Randy Savage as the lead role of detective Savage.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023140585259855872/img/GZY005a9DVkIJxT4.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023140827933847602)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023140827933847602)**
-
-**Author:** [Jason Rink](https://x.com/JasonRink) | **Source:** [Link](https://x.com/JasonRink/status/2023140827933847602) | **Published:** Feb 15, 2026
-
----
-
-### A cinematic 9-panel storyboard sheet arranged in a 3x3 grid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> seedance v2.0 isn't the only video model making a splash... and, i've got the tea. here's how to use kling 3.0 for cinematic film-ready shots: #higgsfieldpartner https://t.co/nmK9NejOGH
-
-#### 📝 Prompt
-
-```
-A cinematic 9-panel storyboard sheet arranged in a 3x3 grid. A sequential visual narrative expanding on the context of the input image. Dynamic variety of perspectives, diverse camera angles, changing focal points, and atmospheric storytelling. Consistent character, lighting, and film grain. High-resolution stills. No borders. plot: [optional]
-```
-
-#### 💡 Tips
-
-try out Kling 3.0 on Higgsfield here:
-https://t.co/c6l3bS1edg
-
-for the standard Kling 3.0 model, you can provide start &amp; end frames to guide your generation.
-
-to experiment with the multi-shot feature, you can only attach a starting frame.
-
-i've found the Kling 3.0 Omni model to be much more consistent.
-
-raw output example: https://t.co/SHFeT9UHcZ
-
-Kling 3.0 Omni allows you to add up to 7 reference images.
-
-it's important to note that these may not be use as exact frames. the references function more like how "ingredients" do for Google's Veo 3.1 model.
-
-here are examples of the references i used for the above video. https://t.co/G8nLKjtgec
-
-i'm able to get consistent frames like this very reliably by using Nano Banana Pro (also available on Higgsfieldd).
-
-you don't even have to think of a plot on your own to get a storyboard like this.
-
-prompt i use for this below 👇 https://t.co/doUQ1dolPn
-
-image below used as a reference image in Nano Banana Pro.
-
-text prompt: A cinematic 9-panel storyboard sheet arranged in a 3x3 grid. A sequential visual narrative expanding on the context of the input image. Dynamic variety of perspectives, diverse camera angles, changing focal points, and atmospheric storytelling. Consistent character, lighting, and film grain. High-resolution stills. No borders. plot: [optional]
-
-if you found this helpful, follow me ( @ProperPrompter ) for more ai tips &amp; workflows like this.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023161251250176000/img/2MmoxCLRNPUtSVsk.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023161302093607404)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023161302093607404)**
-
-**Author:** [proper](https://x.com/ProperPrompter) | **Source:** [Link](https://x.com/ProperPrompter/status/2023161302093607404) | **Published:** Feb 15, 2026
-
----
-
-### A family is defending a monster.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Fast. Prompt: A family is defending a monster. https://t.co/THxEbb5f58
-
-#### 📝 Prompt
-
-```
-A family is defending a monster.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023183735953465344/img/DScgaj_nSAZF-HVg.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023183788952670436)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023183788952670436)**
-
-**Author:** [Huaizheng Zhang](https://x.com/zhzHNN) | **Source:** [Link](https://x.com/zhzHNN/status/2023183788952670436) | **Published:** Feb 15, 2026
-
----
-
-### Chinese 3D animation movie style, ultra-detailed CG rendering, with a tone of Eastern mythological fantasy
-
-> --- Chinese 3D animation movie style, ultra-detailed CG rendering, with a tone of Eastern mythological fantasy. 0-3 seconds: A wide aerial shot of the Heavenly Palace's Lingxiao Hall plaza, with cl...
-
-#### 📝 Prompt
-
-```
----
-Chinese 3D animation movie style, ultra-detailed CG rendering, with a tone of Eastern mythological fantasy. 0-3 seconds: A wide aerial shot of the Heavenly Palace's Lingxiao Hall plaza, with clouds surging around. The golden glazed tiles and white jade railings shine with a sacred glow in the twilight. Two identical monkey-faced warriors stand side by side in the center of the plaza, surrounded by heavenly soldiers forming a circle with weapons drawn, creating a tense atmosphere. The camera slowly pans down through the clouds, approaching the plaza; 4-8 seconds: A medium frontal cut shot. On the left, a monkey clad in golden chainmail armor and wearing a purple-gold crown, with eyes like fiery torches exuding a determined and righteous aura, holds a golden staff upright in front of him, with golden runes flowing along the staff. On the right, a monkey king with an identical appearance, but with slightly squinted eyes revealing a sinister and cunning look, a cold smile at the corner of his mouth, holding an identical iron staff. The camera quickly cuts to close-ups of the two monkey faces, with the reflection of the other in their pupils; 9-12 seconds: The real Wukong shouts angrily, "You demon, how dare you impersonate me!" The fake Wukong responds with a sneer, "Hmph, who is real and who is fake, heaven and earth will judge." Both golden staffs emit a golden glow, and the energy field disperses the clouds on the ground, spreading outward, causing the heavenly soldiers to retreat; 13-15 seconds: Both monkey kings leap into the air simultaneously, their golden staffs drawing two arcs of golden light in the air. The moment before collision freezes, with energy ripples spreading outward from the contact point. The sound effects include the heavy thud of war drums and the metallic hum of energy buildup. Prohibited: Any text, subtitles, logos, or watermarks.
-
---- QUOTED TWEET ---
-30-second time-travel short drama, a chance encounter with a nobleman
-
-A modern girl travels back to the Qin Dynasty and inherits a fortune
-
-Seedance 2.0 prompt
-
-Prompt to follow 👇🏻👇🏻👇🏻 https://t.co/YnSLbGXlaL
-
---- THREAD CONTINUATION ---
-[Thread 1] The True and False Monkey King
-
-Seedance 2.0 prompt sharing:
-
-First Seedance 2.0 prompt
-
-Chinese 3D animation movie style, ultra-detailed CG rendering, with a tone of Eastern mythological fantasy. 0-3 seconds: A wide aerial shot of the Heavenly Palace's Lingxiao Hall plaza, with clouds surging around. The golden glazed tiles and white jade railings shine with a sacred glow in the twilight. Two identical monkey-faced warriors stand side by side in the center of the plaza, surrounded by heavenly soldiers forming a circle with weapons drawn, creating a tense atmosphere. The camera slowly pans down through the clouds, approaching the plaza; 4-8 seconds: A medium frontal cut shot. On the left, a monkey clad in golden chainmail armor and wearing a purple-gold crown, with eyes like fiery torches exuding a determined and righteous aura, holds a golden staff upright in front of him, with golden runes flowing along the staff. On the right, a monkey king with an identical appearance, but with slightly squinted eyes revealing a sinister and cunning look, a cold smile at the corner of his mouth, holding an identical iron staff. The camera quickly cuts to close-ups of the two monkey faces, with the reflection of the other in their pupils; 9-12 seconds: The real Wukong shouts angrily, "You demon, how dare you impersonate me!" The fake Wukong responds with a sneer, "Hmph, who is real and who is fake, heaven and earth will judge." Both golden staffs emit a golden glow, and the energy field disperses the clouds on the ground, spreading outward, causing the heavenly soldiers to retreat; 13-15 seconds: Both monkey kings leap into the air simultaneously, their golden staffs drawing two arcs of golden light in the air. The moment before collision freezes, with energy ripples spreading outward from the contact point. The sound effects include the heavy thud of war drums and the metallic hum of energy buildup. Prohibited: Any text, subtitles, logos, or watermarks.
-
-Second Seedance 2.0 prompt
-
-Extend @video1 by 15 seconds. Chinese 3D animation movie style, ultra-detailed CG rendering. 0-3 seconds: Continuing from the previous segment, the collision of the two staffs creates a golden energy shockwave that splits from the point of impact. The white jade tiles of the plaza are lifted and shattered by the blast, suspended in the air. The two monkey kings each take half a step back at the center of the shockwave, then simultaneously perform the Seventy-Two Transformations— the real Wukong transforms into a giant golden dragon spiraling into the sky, while the fake Wukong becomes a giant black python coiling in pursuit, with the camera circling upwards; 4-8 seconds: The golden dragon and black python roll and fight among the clouds, the dragon's golden scales reflecting sunlight like thousands of golden needles, while the python's dark purple mist rises like poisonous smoke. The two beasts clash and tumble, shattering several heavenly palace eaves and brackets, with debris swirling in the air currents. A wide aerial shot reveals the grand sky battlefield; 9-12 seconds: The golden dragon swings its tail, sending the black python flying. Both beasts revert to their monkey king forms, landing back on the plaza, each sliding several yards with one hand on the ground, leaving trails of golden and purple energy. The camera quickly follows the side sliding trajectory; 13-15 seconds: Both monkey kings rise simultaneously, the real Wukong activates his fiery eyes— golden flames burn in his pupils, scrutinizing the fake Wukong. A flash of purple demonic aura is caught by the golden eyes, and the real Wukong coldly says, "Reveal yourself." The fake Wukong's expression changes slightly but then sneers and charges again with his staff. The sound effects include dragon roars, python hisses, energy collision booms, and tense, rapid battle drumbeats. Prohibited: Any text, subtitles, logos, or watermarks.
-
-Third Seedance 2.0 prompt
-
-Extend @video1 by 15 seconds. Chinese 3D animation movie style, ultra-detailed CG rendering. 0-3 seconds: Continuing from the previous segment, the two monkeys clash again, the staff strike producing a golden energy beam that tears through the clouds. As they struggle in a deadlock, a brilliant Buddha light shines from the horizon, enveloping the entire battlefield. Everyone pauses to look up at the sky, with the camera tilting up towards the source of the Buddha light; 4-8 seconds: Within the Buddha light, a giant golden image of the Tathagata Buddha appears, solemn and majestic. The Tathagata raises his right hand to form a demon-subduing gesture, and a golden shield descends from the sky, enclosing each monkey king separately. Both struggle fiercely within the shields but cannot break free. The real Wukong kneels and clasps his hands, "Buddha, please see the truth!" The fake Wukong frantically strikes the shield with his staff, with purple demonic aura continuously seeping from his body. The camera slowly zooms from the Tathagata image to the contrasting scenes of the two shields; 9-12 seconds: The Tathagata's eyes slightly open, shooting a golden light at the fake Wukong. The fake Wukong's disguise peels away like layers of fragments— the golden chainmail shatters into dark gray fur, the purple-gold crown disintegrates to reveal six ears, and his face twists from Wukong's righteous appearance to the true form of the six-eared macaque, with purple demonic aura surging like smoke pillars. The camera circles to capture the transformation process in detail; 13-15 seconds: The six-eared macaque lets out a piercing howl, with purple demonic aura solidifying to strike the shield in an attempt to escape. The real Wukong is released from the shield, catching the descending golden staff with one hand. The staff glows brightly, activating all runes. The real Wukong steps on a cloud and ascends, looking down at the six-eared macaque with blazing golden eyes. The sound effects include grand and solemn Buddhist chants, beastly howls, and the resonant hum of golden energy. Prohibited: Any text, subtitles, logos, or watermarks.
-
-Fourth Seedance 2.0 prompt
-
-Extend @video1 by 15 seconds. Chinese 3D animation movie style, ultra-detailed CG rendering. 0-3 seconds: Continuing from the previous scene, the real Wukong leaps from the cloud, raising the staff high above his head, spinning it in the air until it enlarges to a giant staff dozens of yards long. The staff's golden runes light up completely, forming a band of light encircling it, with a golden energy field as dazzling as the sun. The camera captures the imposing sight of the giant staff blocking out the sky from below, with slow-motion showcasing Wukong's heroic figure as he strikes down; 4-8 seconds: The golden staff, with immense force, strikes the shield. The Tathagata's golden shield
-```
-
-#### 💡 Tips
-
-真假美猴王
-
-Seedance 2.0 提示词分享：
-
-第1段Seedance 2.0提示词
-
-中国3D动画电影风格，超精细CG渲染，东方神话奇幻色调。0-3秒：大远景俯拍，云海翻涌的天庭凌霄宝殿外广
-，金色琉璃瓦与白玉栏杆在霞光中泛着神圣光泽，两个身形完全相同的猴面战将并肩站立在广场中央，周围天兵
-天将持械围成圆阵，气氛剑拔弩张，镜头缓缓下推穿过云层逼近广场；4-8秒：中景正面对切镜头，左边一只猴
-身披金色锁子甲、头戴紫金冠，火眼金睛中透着坚毅正气的光芒，手中金箍棒竖立身前，棒身流转金色符文；右
-边一只猴王外貌完全相同，但眼神微微眯起透着阴鸷狡诈之意，嘴角隐含冷笑，同样手握一根一模一样的铁棒，
-镜头快切两张猴脸的大特写，瞳孔中倒映出对方的身影；9-12秒：真悟空怒喝"你这妖孽，竟敢冒充老孙！"，假
-悟空阴笑回应"哼，谁真谁假，天地可鉴"，两根金箍棒同时发出金色光芒，能量气场震开地面的云雾向四周扩散
-，天兵天将纷纷后退；13-15秒：两只猴王同时蹬地跃起，金箍棒在空中划出两道金色弧光，即将碰撞的瞬间定
-，能量波纹从接触点向外扩散，音效为厚重的战鼓轰鸣与金属嗡鸣的蓄力音。
-禁止：任何文字、字幕、LOGO或水印
-
-第2段Seedance 2.0提示词
-
-将@视频1延长15秒。中国3D动画电影风格，超精细CG渲染。0-3秒：接上段两棒碰撞，金色能量冲击波从碰撞点
-裂开来，广场白玉地砖被气浪掀起碎裂悬浮，两只猴王在冲击波中心各退半步，随即同时施展七十二变——真悟空
-化为一头金色巨龙盘旋升空，假悟空化为一头玄色巨蟒缠绕追击，镜头环绕仰拍；4-8秒：金龙与玄蟒在云层间
-斗翻滚，龙身金鳞折射阳光如万千金针四射，蟒身暗紫雾气蒸腾如毒烟弥漫，两兽撕咬翻腾间撞碎数座天宫楼阁
-的飞檐斗拱，碎片在气流中旋转飘散，仰拍大远景展现宏大的天空战场；9-12秒：金龙猛甩龙尾将玄蟒击飞，两
-兽同时变回猴王原形落回广场，各自单手撑地滑行数丈，摩擦出金色与紫色的能量尾迹，镜头快速跟拍侧面滑行
-轨迹；13-15秒：两只猴王同时起身，真悟空开启火眼金睛——双瞳中金色火焰燃烧，审视对面的假悟空，假悟空
-上一闪而过的紫色妖气被金瞳捕捉到，真悟空冷声道"现形吧"，假悟空面色微变但随即狞笑反扑，两者再次持棒
-冲向对方。音效为龙吟蟒嘶、能量碰撞的轰鸣、以及紧张急促的战斗鼓点。
-禁止：任何文字、字幕、LOGO或水印
-
-第3段Seedance 2.0提示词
-
-将@视频1延长15秒。中国3D动画电影风格，超精细CG渲染。0-3秒：接上段两猴再次碰撞，棒击产生的金色能量
-冲天而起撕裂云层，二者难分难解缠斗间，一道璀璨佛光从天际尽头照射而来，笼罩整个战场，所有人停住动作
-仰望天空，镜头大仰拍推向佛光来源方向；4-8秒：佛光中浮现一尊巨大的金色如来法相虚影，宝相庄严，如来
-缓抬起右手结降魔印，一个金色光罩从天而降将两只猴王分别罩住，两只猴王在光罩中奋力挣扎但无法挣脱，真
-悟空跪地抱拳"佛祖明鉴！"，假悟空则疯狂以棒击打光罩，紫色妖气不断从身上溢出，镜头从如来法相缓推至两
-个光罩的对比画面；9-12秒：如来法眼微睁，一道金光射向假悟空，假悟空体表的伪装如碎片般层层剥落——金色
-锁子甲碎裂变为暗灰色皮毛，紫金冠崩解露出六只耳朵，面容从悟空的正气模样扭曲为尖嘴獠牙的六耳猕猴真身
-，浑身紫色妖气暴涨如烟柱，镜头环绕特写变身全过程；13-15秒：六耳猕猴发出凄厉嘶吼，紫色妖气化为实体
-击光罩试图逃脱，真悟空从光罩中被释放，单手接住从天而降的金箍棒，棒身金光大盛符文全部激活，真悟空脚
-踏筋斗云腾空而起，居高临下俯视六耳猕猴，眼中金焰熊熊。音效为宏大庄严的梵音、妖兽嘶吼、金光能量共振
-的嗡鸣。
-禁止：任何文字、字幕、LOGO或水印
-
-第4段Seedance 2.0提示词
-
-将@视频1延长15秒。中国3D动画电影风格，超精细CG渲染。0-3秒：接上段画面，真悟空从筋斗云上纵身跃下，
-箍棒高举过顶在空中不断旋转放大至数十丈巨棒，棒身金色符文全部点亮如一条光带环绕，周身金色能量气场如
-太阳般耀眼，镜头从下方大仰拍捕捉巨棒遮天蔽日的气势，升格慢动作展现悟空凌空劈下的英姿；4-8秒：金箍
-带着万钧之力轰击在光罩之上，如来金罩配合棒击瞬间收紧，六耳猕猴发出最后的嘶吼，紫色妖气被金色光焰层
-层净化瓦解，漫天紫色粒子被金光吞噬转化为金色光点漫天飘散，冲击波以六耳猕猴为中心向外扩散，镜头快速
-拉远展现冲击波扫过整个天庭的壮观场面；9-12秒：光芒散去，战场归于平静，阳光重新照耀天庭广场，碎裂的
-白玉地砖间金光粒子缓缓飘落如金色雪花，六耳猕猴已化为一只小小的灰色猕猴瘫伏在地一动不动，真悟空收棒
-归位，金箍棒缩回正常大小扛在肩上，微微喘息后仰头望向天空的如来法相，抱拳行礼；13-15秒：缓推大特写
-真悟空转身面向镜头，紫金冠在霞光中闪耀，火眼金睛中金焰渐渐平息恢复为深邃琥珀色瞳孔，嘴角微扬露出标
-志性的桀骜笑容，背后是金色霞光万丈的天庭远景与缓缓散去的如来法相，镜头最终定格在悟空自信的笑容上。
-音效为最后一击的震天轰鸣渐弱过渡为悠远的天籁梵钟，最终以一声清脆的金箍棒叩地声收尾。
-禁止：任何文字、字幕、LOGO或水印
-
----
-
-30秒穿越短剧，穿越偶遇贵公子
-
-现代女生穿越到秦朝继承万贯家财
-
-Seedance 2.0 提示词
-
-Prompt随后放在👇🏻👇🏻👇🏻 https://t.co/YnSLbGXlaL
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023011540333649920/img/UF1nWzMsYPmwMsbG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023011996548186277)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023011996548186277)**
-
-**Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2023011996548186277) | **Published:** Feb 15, 2026
-
----
-
-### Claude The Animation by Anthropic Studios
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Prompt: Claude The Animation by Anthropic Studios https://t.co/uB0dFzBWwb
-
-#### 📝 Prompt
-
-```
-Claude The Animation by Anthropic Studios
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023131826903015425/img/njRRXF-1uUE5bbXk.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023131965860540845)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023131965860540845)**
-
-**Author:** [Pleometric](https://x.com/pleometric) | **Source:** [Link](https://x.com/pleometric/status/2023131965860540845) | **Published:** Feb 15, 2026
-
----
-
-### generate a fight scene between tow women with their dialogue during the fight revolving around the Epstein files.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Epstein files again ! Tested Seedance 2.0 on @YouArtStudio prompt : generate a fight scene between tow women with their dialogue during the fight revolving around the Epstein files. YouArt Dis...
-
-#### 📝 Prompt
-
-```
-generate a fight scene between tow women with their dialogue during the fight revolving around the Epstein files.
-```
-
-#### 💡 Tips
-
-Do you want to try free Seedance Pro 2.0 right now? 
-
-Sign up here or shoot me a DM, I will let you in
-
-https://t.co/m1cxEH0Chy https://t.co/cp5xBausO2
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023179998132076544/img/4ttc8MTPiLn6a14c.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023181987889258844)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023181987889258844)**
-
-**Author:** [Ayyoub Ai](https://x.com/MaAyyoub) | **Source:** [Link](https://x.com/MaAyyoub/status/2023181987889258844) | **Published:** Feb 15, 2026
-
----
-
-### Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Prompt: Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes. https://t.co/8Hp33BJH3h
-
-#### 📝 Prompt
-
-```
-Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes.
-```
-
-[![Video Preview](https://pbs.twimg.com/media/HBOZWxZaMAADMBP.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023129113549328497)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023129113549328497)**
-
-**Author:** [Charles Curran](https://x.com/charliebcurran) | **Source:** [Link](https://x.com/charliebcurran/status/2023129113549328497) | **Published:** Feb 15, 2026
-
----
-
-### Please summarize the entire AI discourse in one meme. mak...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AI slop they say…. That’s far from the truth! Prompt Seedance 2.0 👇 “Please summarize the entire AI discourse in one meme. make it slightly chaotic / provocative and guaranteed to get 50k likes....
-
-#### 📝 Prompt
-
-```
-Please summarize the entire AI discourse in one meme. make it slightly chaotic / provocative and guaranteed to get 50k likes. Don’t make mistakes
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2023018137986428928/img/oKgI6gTDOwS74quJ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023018210275230039)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023018210275230039)**
-
-**Author:** [Kisalay](https://x.com/Kisalayrad95) | **Source:** [Link](https://x.com/Kisalayrad95/status/2023018210275230039) | **Published:** Feb 15, 2026
-
----
-
-### Scene setup (0–5 sec) Backstage of a small theater. Warm ...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt adherence of Seedance 2 is very good. Tested some detailed prompts with dialogue. Full prompt: Scene setup (0–5 sec) Backstage of a small theater. Warm practical lights. Close-up of three ...
-
-#### 📝 Prompt
-
-```
-Scene setup (0–5 sec) Backstage of a small theater. Warm practical lights. Close-up of three actors standing in a tight circle, nervous energy. Camera handheld, intimate. Soft ambient crowd noise in distance. Actor 1 (whispering): “This isn’t just another audition.” Actor 2 (half-smile): “No. This one sees everything.” Mid shot (5–10 sec) Stage lights flare on. Curtains slowly part. The three step forward into a bright, cinematic spotlight. Camera shifts to smooth dolly-in. Actor 3 (steady, confident): “Seedance Two… record this.” Final beat (10–15 sec) Quick cuts: intense eye contact, subtle emotion shift, one tear forming, one restrained laugh, one sharp breath. Ultra-detailed facial expressions. Dramatic score rises. Actor 1 (softly, to camera): “Let’s show it what real feels like.” Cut to black. Low bass hit. Title card: SEEDANCE 2.
-```
-
-#### 💡 Tips
-
-Or this one. It threw in Damian Lewis and Kevin Spacey without asking. Followed the entire prompt though.
-
-Prompt:
-
-Visual style: Locked-off shots, slow push-ins, symmetrical framing, cool color grade, shallow depth of field, no handheld. Clean cinematic movement only. 0–4 sec Wide, perfectly centered shot. Two people seated across from each other at a sleek table in a modern studio. Soft top light. Silence. Person A (measured): “Do you ever feel like this isn’t ours?” Slow dolly-in. 4–9 sec Cut to symmetrical medium two-shot. A faint red recording light reflects in their eyes. Ambient hum. No visible crew. Person B (quiet realization): “It’s not a conversation.” (beat) “It’s content.” 9–13 sec Close-up on Person A. Background subtly darkens. Eyes flick upward. Person A: “We’re performing for the feed on X.” 13–15 sec Cut to a perfectly framed wide shot again. A digital overlay flickers faintly in the air—likes, repost counters rising silently. They both stop speaking. Hold eye contact with camera. Cut to black. Soft notification sound.
-
-Here it gave me the twin brother of Ryan Reynolds.
-
-Prompt:
-Visual style: Ultra-clean sci-fi interior, locked tripod shots, slow controlled push-ins, cool blue lighting with soft rim light on the humanoid, high contrast, shallow depth of field. 0–4 sec Wide, symmetrical frame. A man sits across from a humanoid at a polished metal table. Floor-to-ceiling window behind them. City lights blurred outside. Man (calm, uneasy): “You’re not reacting. You’re calculating.” Slow dolly-in. 4–8 sec Medium two-shot. The humanoid’s eyes subtly adjust focus. A faint reflection of scrolling text in its pupils. Humanoid (even tone): “I am optimizing for engagement.” 8–12 sec Close-up on the man. Realization lands. Man: “This isn’t a conversation.” (beat) “It’s a performance.” 12–15 sec Close-up on the humanoid. Minimal expression shift. Humanoid: “Correct. We are live on X.” Cut to a pristine wide shot. Invisible UI overlays flicker briefly in the air — view count rising. Hard cut to black. Soft digital chime
-
-More realistic.
-
-Prompt:
-
-Visual style: Gritty realism, muted colors, cold dawn light. Static camera. Distant artillery rumble. No music. 0–5 sec Two soldiers sit in a muddy trench. Helmets low. Smoke drifting past. One stares at his shaking hands. Soldier 1 (quiet): “They don’t tell you about the quiet after.” 5–10 sec Close-up. Dirt on his face. Eyes hollow. Soldier 1: “I keep seeing them. Lying there. Not moving.” (beat) “I shot one today. First time.” 10–15 sec Cut to Soldier 2. Older. Steady, tired. Soldier 2 (low, honest): “You don’t get used to it.” (beat) “You just learn to carry it.” They sit in silence. Distant shell explodes far away. Cut to black.
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2023138558094028800/pu/img/yoI79iiysQOF0MD6.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023138585143062612)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023138585143062612)**
-
-**Author:** [CREACAS](https://x.com/creacas) | **Source:** [Link](https://x.com/creacas/status/2023138585143062612) | **Published:** Feb 15, 2026
-
----
-
-### Nami is programming on the Thousand Sunny using a Mac when a bug suddenly appears
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> There's no need to believe in prompt engineering anymore. Now, what's most important is the ideas in your mind. Seedance 2.0 can help you realize any wild and imaginative ideas! Here's an example:...
-
-#### 📝 Prompt
-
-```
-Nami is programming on the Thousand Sunny using a Mac when a bug suddenly appears. Nami uses her Clima-Tact to mimic and fix the bug.
-```
-
-#### 💡 Tips
-
-@cyscays The prompt words are no longer important.The most important thing is the idea in your mind, and Seedance 2.0 can perfectly help you visualize it, even if you only input a simple sentence.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2022642166237958145/img/dIZFIoB0INTW60dh.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2022642300942193007)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2022642300942193007)**
-
-**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2022642300942193007) | **Published:** Feb 14, 2026
-
----
-
-### a scene where two people discuss how to pronounce "fofr"
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2 returns celebrity likenesses when you don't ask for them. In this test Anne Hathaway randomly turned up 🤷‍♂️ &gt; a scene where two people discuss how to pronounce "fofr" https://t.co/...
-
-#### 📝 Prompt
-
-```
-a scene where two people discuss how to pronounce "fofr"
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2022254501038587904/img/ny_Y5FUySXUWLIIZ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2022254838201884879)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2022254838201884879)**
-
-**Author:** [fofr](https://x.com/fofrAI) | **Source:** [Link](https://x.com/fofrAI/status/2022254838201884879) | **Published:** Feb 13, 2026
-
----
-
-### pathetic grifter living in a church roof claps like a retard before faking another panic attack for tips
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Holy smokes... how is this AI? Seedance 2.0 is wild I prompted in “pathetic grifter living in a church roof claps like a retard before faking another panic attack for tips” Crazy how accurate a...
-
-#### 📝 Prompt
-
-```
-pathetic grifter living in a church roof claps like a retard before faking another panic attack for tips
-```
-
-#### 💡 Tips
-
-Wrap it up Jay, those numbers are lousy bud! Maybe you could get fired on your birthday again, people loved that last time! https://t.co/NU84W45o7N
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2021753935262896129/img/2cKCWabFbZ77n6US.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2021753948772982859)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2021753948772982859)**
-
-**Author:** [Dick Stroking Phil Vlogs](https://x.com/dickstrokinphil) | **Source:** [Link](https://x.com/dickstrokinphil/status/2021753948772982859) | **Published:** Feb 12, 2026
-
----
+**👉 [Browse all Seedance 2.0 prompts on YouWare](https://youware.com/seedance-2-prompts)**
 
 ---
 
@@ -3374,11 +3617,85 @@ Wrap it up Jay, those numbers are lousy bud! Maybe you could get fired on your b
 
 > Community tutorials and tips for getting the most out of Seedance 2.0
 
-### Avoid using explicit character names; describe the character with visual attributes (height, build, hair, clothing, f...
+### If Seedance 2.0 rejects your uploaded reference video in rev...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2.0 - Why Your Prompt Is Getting Blocked (And How to Fix It) A lot of people are seeing: “Your content did not pass the review.” Don’t panic. The filters are just very strict right now. ...
+> It feels like it takes most of the day waiting in line for Seedance 2.0 to generate a video. tip：Seedance 2.0全能参考上传视频作为参考的时候审核不通过，可以把视频人物打点马赛克或者眼睛遮挡一下就能通过审核，复刻一个视频简简单单！ #Seedance2_0 https://t.co/wRoRT
+
+#### 📝 Prompt
+
+```
+If Seedance 2.0 rejects your uploaded reference video in review, mosaic/blur the person’s face or cover the eyes in the reference video to pass审核 and proceed with video replication.
+```
+
+#### 💡 Tips
+
+It feels like it takes most of the day waiting in line for Seedance 2.0 to generate a video.
+
+tip：Seedance 2.0全能参考上传视频作为参考的时候审核不通过，可以把视频人物打点马赛克或者眼睛遮挡一下就能通过审核，复刻一个视频简简单单！
+
+#Seedance2_0 https://t.co/wRoRTi1HE8
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026844189409890304/img/7mZvgofjatXkEV8V.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026844741774491648)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026844741774491648)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2026844741774491648) | **Published:** Feb 26, 2026
+
+---
+
+### Write prompts that explicitly cover all facets of the scene...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 is impressive, it's prompt adherence is really strong. But this then exposes your ability to cover all facets of the scene. Check out these porch pirates, there's a scene breaker in each 
+
+#### 📝 Prompt
+
+```
+Write prompts that explicitly cover all facets of the scene (subjects, actions, environment, continuity details) because Seedance 2.0’s strong prompt adherence will expose any missing details as scene breakers.
+```
+
+#### 💡 Tips
+
+Seedance 2.0 is impressive, it's prompt adherence is really strong. But this then exposes your ability to cover all facets of the scene. Check out these porch pirates, there's a scene breaker in each of them and some are my fault for not addressing it in the prompt. https://t.co/Jo7pHTsOsV
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026819232202407936/img/TfurfeQqFNN3RTRA.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026825384260678044)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026825384260678044)**
+
+**Author:** [Pastor](https://x.com/FussyPastor) | **Source:** [Link](https://x.com/FussyPastor/status/2026825384260678044) | **Published:** Feb 26, 2026
+
+---
+
+### Access Seedance 2.0 by downloading the CapCut app (no VPN ne...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> you can access seedance 2.0 by downloading capcut app NO VPN NEEDED https://t.co/uVg0dk4XgZ
+
+#### 📝 Prompt
+
+```
+Access Seedance 2.0 by downloading the CapCut app (no VPN needed).
+```
+
+#### 💡 Tips
+
+you can access seedance 2.0 by downloading capcut app
+
+NO VPN NEEDED https://t.co/uVg0dk4XgZ
+
+**Author:** [0x ROAS](https://x.com/0xROAS) | **Source:** [Link](https://x.com/0xROAS/status/2026745579561210006) | **Published:** Feb 25, 2026
+
+---
+
+### Avoid using explicit character names; describe the character...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 - Why Your Prompt Is Getting Blocked (And How to Fix It) A lot of people are seeing: “Your content did not pass the review.” Don’t panic. The filters are just very strict right now. Here’
 
 #### 📝 Prompt
 
@@ -3392,54 +3709,93 @@ Add No spoken dialogue to the prompt when you don’t want any dialogue to help 
 If a prompt fails once, retry the same prompt again because second attempts often pass.
 ```
 
+#### 💡 Tips
+
+Seedance 2.0 - Why Your Prompt Is Getting Blocked (And How to Fix It)
+
+A lot of people are seeing:
+“Your content did not pass the review.”
+
+Don’t panic. The filters are just very strict right now.
+
+Here’s how to increase your success rate:
+
+1. Don’t Use Character Names. Describe Instead.
+
+Instead of dropping a direct name, describe the character visually:
+
+- Height.
+- Build.
+- Hair.
+- Clothing.
+- Facial features.
+- Accessories.
+
+Detailed visual description works much better than explicit references.
+Implied > direct naming.
+
+— 
+
+2. Keep Action Cinematic - Not Graphic
+
+Avoid trigger words like:
+fight, kill, blood, brutal, slash, punch, destroy.
+
+Instead, frame it visually and artistically:
+
+“dramatic energy clash”
+“intense power confrontation”
+“spectacular light collision”
+“epic visual impact”
+
+Think film trailer not combat report.
+
+The more cinematic the language, the higher the approval rate.
+
+— 
+
+3. Structure Matters More Than You Think
+
+For better success:
+
+• Keep scenes 10–15 seconds
+• Break complex ideas into 3 clean shots
+• Use neutral or epic tone
+• Add “No spoken dialogue” if there isn’t any
+• If it fails once, try the same prompt again second attempts often pass
+
+Yes, really.
+
+—
+
+4. Prompt Library Coming Soon
+
+A community Prompt Library is being built with tested, high-success prompts.
+
+Soon you’ll have ready-to-use examples that already work within current filters.
+
+—
+
+Final Note
+
+Seedance 2.0 is still evolving.
+Filters change. Behavior shifts.
+
+Better prompting = better results.
+
+If something keeps getting blocked, refine the framing not the creativity.
+
+Create smart. Create cinematic.
+
 **Author:** [Mohini Goyal](https://x.com/Mohiniuni) | **Source:** [Link](https://x.com/Mohiniuni/status/2026517237197320582) | **Published:** Feb 25, 2026
 
 ---
 
-### By using the Omni reference of Seedance 2.0 and preparing reference materials such as three-person dances to trace th...
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> By using the Omni reference of Seedance 2.0 and preparing reference materials such as three-person dances to trace the movements, it becomes easier to generate results that follow the movements dow...
-
-#### 📝 Prompt
-
-```
-By using the Omni reference of Seedance 2.0 and preparing reference materials such as three-person dances to trace the movements, it becomes easier to generate results that follow the movements down to the fingertips in one go.  
-If you want to reduce the element of randomness, use the Omni reference operation of Seedance 2.0 (based on reference materials) and incorporate it into a production flow that assumes post-production.
-
---- QUOTED TWEET ---
-Seedance 2.0 Omni reference
-
-This method is great because it eliminates randomness.
-Recommended for those who are serious about post-production.
-
-#GenerativeAI https://t.co/pfa55scSWf
----
-```
-
-#### 💡 Tips
-
-Seedance 2.0 Omni reference
-
-この使い方ガチャ要素なくていいですね
-本気でポスプロやる人におすすめ
-
-#生成AI https://t.co/pfa55scSWf
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026451025788645376/img/XZrzCf3xDV553Htu.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)**
-
-**Author:** [Kaku Drop 架空飴](https://x.com/KakuDrop) | **Source:** [Link](https://x.com/KakuDrop/status/2026451087000293717) | **Published:** Feb 25, 2026
-
----
-
-### Create your concept image in Midjourney, then generate a 3D realistic style version in Nano Banana Pro, and combine t...
+### Create your concept image in Midjourney, then generate a 3D...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Seedance 2 Omni is incredibly efficient, the voices and SFX are really impressive it feels like I have a whole team working for me, here’s the result I got by combining my two references https://t...
+> Seedance 2 Omni is incredibly efficient, the voices and SFX are really impressive it feels like I have a whole team working for me, here’s the result I got by combining my two references https://t.co/
 
 #### 📝 Prompt
 
@@ -3449,9 +3805,11 @@ Create your concept image in Midjourney, then generate a 3D realistic style vers
 
 #### 💡 Tips
 
-concept made on midjourney 
+Seedance 2 Omni is incredibly efficient,
+the voices and SFX are really impressive
 
-3D realistic style made on Nano Banana pro https://t.co/8v7gfpyKZ2
+it feels like I have a whole team working for me,
+here’s the result I got by combining my two references https://t.co/CQthB6TXPV
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026509436492328963/img/Ea1NsC4FIBYBx7JB.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026512171765739742)
 
@@ -3461,41 +3819,660 @@ concept made on midjourney
 
 ---
 
-### Ask Claude to create a scenario plan for your song and use this plan as a roadmap for clip production in Seedance
+### Download the CapCut desktop app, then open New Project → AI...
 
-> Ask Claude to create a scenario plan for your song and use this plan as a roadmap for clip production in Seedance. Create your own digital twin and use it as a character in Seedance to produce yo...
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 just got added to CapCut. USA users can access it right now! No more VPNs or access keys needed. How to access it: → Download desktop app → New Project → AI Media → AI video Go try it bef
 
 #### 📝 Prompt
 
 ```
-Ask Claude to create a scenario plan for your song and use this plan as a roadmap for clip production in Seedance.  
-Create your own digital twin and use it as a character in Seedance to produce your music video.
-
---- THREAD CONTINUATION ---
-[Thread 1] https://t.co/GDHH0QoV77
-
-[Thread 2] If you're curious about such works, support by liking, saving, and continuing to follow :)
+Download the CapCut desktop app, then open New Project → AI Media → AI video to access Seedance 2.0 (USA users can use it without a VPN or access keys).
 ```
 
 #### 💡 Tips
 
-https://t.co/GDHH0QoV77
+Seedance 2.0 just got added to CapCut.
 
-Böyle çalışmaları merak ediyorsanız destek vermek için beğenip kaydedip takip etmeye devam edin :)
+USA users can access it right now! No more VPNs or access keys needed.
 
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026357088226525184/img/eECgEFxOBeePM9LA.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)
+How to access it:
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)**
+→ Download desktop app 
+→ New Project 
+→ AI Media 
+→ AI video
 
-**Author:** [Kaan Alper](https://x.com/kaan_alper) | **Source:** [Link](https://x.com/kaan_alper/status/2026358915076915427) | **Published:** Feb 24, 2026
+Go try it before everyone else finds out.​​​​​​​​​​​​​​​​
+https://t.co/oB6713jGN5
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026385031380271104/img/02naP575LJQBvLYX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026767797104386140)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026767797104386140)**
+
+**Author:** [klöss](https://x.com/kloss_xyz) | **Source:** [Link](https://x.com/kloss_xyz/status/2026767797104386140) | **Published:** Feb 25, 2026
 
 ---
 
-### Avoid using actor names or copyrighted materials in Seedance prompts due to aggressive safeguards that block them.
+### Download the CapCut desktop app to access Seedance 2.  
+In C...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> There's a very poorly researched blog "debunking" seedance 2.0. It claims Seedance is using a secret library of video clips and secretly doing video to video under the hood instead. I wouldn't norm...
+> It's official - Seedance 2 is live on CapCut! You have to download the desktop app and then click through a few menus (will walk through the process below). Once you're there, the model runs very quic
+
+#### 📝 Prompt
+
+```
+Download the CapCut desktop app to access Seedance 2.  
+In CapCut desktop, click New Project on the home page to start.  
+In the side panel, navigate to AI Media → AI video to open Seedance 2.
+```
+
+#### 💡 Tips
+
+It's official - Seedance 2 is live on CapCut!
+
+You have to download the desktop app and then click through a few menus (will walk through the process below).
+
+ Once you're there, the model runs very quickly.
+
+Please enjoy my rendition of "Between Two Trees" 👇 https://t.co/ge1DnIa9cT
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026751088033148928/img/Ftg33faq6PXzbJtW.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026752607499464793)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026752607499464793)**
+
+**Author:** [Justine Moore](https://x.com/venturetwins) | **Source:** [Link](https://x.com/venturetwins/status/2026752607499464793) | **Published:** Feb 25, 2026
+
+---
+
+### Edited together from separate Seedance 2 clips to create the...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fear. Fear Remembers. Quick test with talking Polar Bears in Seedance 2. Couldn’t decide between black and white and color so posted both. What do you think? Edited together from separate clips, some 
+
+#### 📝 Prompt
+
+```
+Edited together from separate Seedance 2 clips to create the final video.
+```
+
+#### 💡 Tips
+
+Fear. Fear Remembers.
+Quick test with talking Polar Bears in Seedance 2. Couldn’t decide between black and white and color so posted both. What do you think? Edited together from separate clips, some sound editing in post, music by me in @sunomusic https://t.co/kSTsAAAyS5
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026479661983629312/img/X-cpG6T7qoYbUr0A.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026479832733757567)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026479832733757567)**
+
+**Author:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Source:** [Link](https://x.com/CoffeeVectors/status/2026479832733757567) | **Published:** Feb 25, 2026
+
+---
+
+### Faça upload de uma única foto do seu produto no Seedance 2.0...
+
+> Seedance 2.0 da Zeely. Você faz upload de UMA foto do seu produto. A IA reconstrói em 3D. Gera dezenas de formatos de anúncio. Cria avatar personalizado. Em 30 segundos você tem mais criativos que uma
+
+#### 📝 Prompt
+
+```
+Faça upload de uma única foto do seu produto no Seedance 2.0 para a IA reconstruir o produto em 3D.  
+Use a reconstrução 3D para gerar dezenas de formatos de anúncio automaticamente.  
+Crie um avatar personalizado a partir do seu produto/campanha para variar criativos rapidamente.
+```
+
+#### 💡 Tips
+
+Seedance 2.0 da Zeely.
+
+Você faz upload de UMA foto do seu produto.
+A IA reconstrói em 3D.
+Gera dezenas de formatos de anúncio.
+Cria avatar personalizado.
+
+Em 30 segundos você tem mais criativos que uma agência faz em 1 semana.
+
+Agências de marketing que não adotarem IA vão desaparecer. Não é previsão, é matemática — custo 100x menor, velocidade 1000x maior.
+
+A revolução dos criativos com IA já começou.
+
+via @zeely_ai
+
+[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2026647003053084672/pu/img/j6ypzqf2RaavhD8F.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026647043221950825)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026647043221950825)**
+
+**Author:** [CV.YH](https://x.com/0xCVYH) | **Source:** [Link](https://x.com/0xCVYH/status/2026647043221950825) | **Published:** Feb 25, 2026
+
+---
+
+### Find SeeDance 2.0 in CapCut (mobile or desktop) by going to...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Wohoo, everyone can now try SeeDance 2.0 (Bytedance's most viral and copyright breaking image 2 video model) on CapCut! It absolutely refuses to say "Anthropic" in my tests though 😂 https://t.co/9qsH
+
+#### 📝 Prompt
+
+```
+Find SeeDance 2.0 in CapCut (mobile or desktop) by going to the AI Video tab.
+```
+
+#### 💡 Tips
+
+Wohoo, everyone can now try SeeDance 2.0 
+
+(Bytedance's most viral and copyright breaking image 2 video model) on CapCut! 
+
+It absolutely refuses to say "Anthropic" in my tests though 😂 https://t.co/9qsHYbIGcQ
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026765017484505089/img/IQ8uGZtBE77HgMwK.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026765105367863590)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026765105367863590)**
+
+**Author:** [Alex Volkov (Thursd/AI)](https://x.com/altryne) | **Source:** [Link](https://x.com/altryne/status/2026765105367863590) | **Published:** Feb 25, 2026
+
+---
+
+### Generate a 15‑second Seedance 2.0 clip in CapCut to get fast...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Let's gooo!! Seedance 2.0 is finally available in @capcutapp and it's damn fast. It only takes around 2 minutes and 30 seconds to generate a 15 second clip. Love it because it generate straight to my 
+
+#### 📝 Prompt
+
+```
+Generate a 15‑second Seedance 2.0 clip in CapCut to get fast turnaround (~2 min 30 sec) and have it appear directly on your CapCut editing timeline for immediate filtering/editing.
+```
+
+#### 💡 Tips
+
+Let's gooo!! Seedance 2.0 is finally available in @capcutapp and it's damn fast. It only takes around 2 minutes and 30 seconds to generate a 15 second clip.
+
+Love it because it generate straight to my CapCut editing timeline, so i can straight away apply my fav filters. https://t.co/mKn0U0A1Hv
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026780702050758656/img/bihGO6qzUygt7Nd4.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026781478399652269)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026781478399652269)**
+
+**Author:** [DAN](https://x.com/mxvdxn) | **Source:** [Link](https://x.com/mxvdxn/status/2026781478399652269) | **Published:** Feb 25, 2026
+
+---
+
+### Generate an initial clip with Seedance using text2video, the...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A second editing exercise with seedance generated @YouArtStudio It was difficult to get it done,seedance is slow to generate and refuses even the most innocent prompts. I generated a text2video first 
+
+#### 📝 Prompt
+
+```
+Generate an initial clip with Seedance using text2video, then use the Omni model to continue it by setting the first generated video as the reference video.
+```
+
+#### 💡 Tips
+
+A second editing exercise with seedance generated @YouArtStudio 
+It was difficult to get it done,seedance is slow to generate and refuses even the most innocent prompts.
+I generated a text2video first and then continued it using the omni model with the first video as reference. https://t.co/ohtz4HW2mC
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026674166997331968/img/wRx8VtZW_4PiHtEa.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026674731223601463)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026674731223601463)**
+
+**Author:** [DreamStarter](https://x.com/DreamStarter_1) | **Source:** [Link](https://x.com/DreamStarter_1/status/2026674731223601463) | **Published:** Feb 25, 2026
+
+---
+
+### Generate Seedance 2.0 videos in Dreamina and use the Dreamin...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 just landed in CapCut. You’re not ready. 🤯🔥 https://t.co/NpvkcaLS81
+
+#### 📝 Prompt
+
+```
+Generate Seedance 2.0 videos in Dreamina and use the Dreamina → CapCut one-click sync to have the video appear instantly in CapCut ready to edit.
+Apply a CapCut filter after the Seedance 2.0 video imports if you want to change the look without regenerating the video.
+Bring a static image to life and add voice by using Seedance 2.0 with a simple spoken-style prompt (e.g., a short line of dialogue) to drive the animation and narration.
+```
+
+#### 💡 Tips
+
+Seedance 2.0 just landed in CapCut.
+You’re not ready. 🤯🔥 https://t.co/NpvkcaLS81
+
+**Author:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **Source:** [Link](https://x.com/Preda2005/status/2026721593985216574) | **Published:** Feb 25, 2026
+
+---
+
+### In Yapper, select Seedance 2.0 from the model dropdown to ge...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> This is the guide I wish I had when I was scrambling to get Seedance 2.0 before my competitors. Skip to the end for the master prompt. Save for later &amp; give it to Claude.
+
+#### 📝 Prompt
+
+```
+In Yapper, select Seedance 2.0 from the model dropdown to get cinematic quality and native audio.  
+Before prompting, set aspect ratio (16:9, 9:16, or 1:1), duration (up to 15s), quality (higher = slower but better), and outputs (generate up to 4 variations at once and pick the best).  
+Generate 4 versions of the same prompt simultaneously (up to 4 outputs) to quickly A/B test and choose the strongest result.  
+Use a “director-style” detailed prompt that includes camera specs, lens info, and audio design; Seedance responds better to filmmaker language than basic prompts.  
+To reduce false rejections, translate your prompt to Chinese (or use Yapper’s auto-translation) since Seedance’s filter is more lenient with Chinese-language prompts.  
+Upload reference images for consistent characters/locations and tag the images in your prompt to bind them to the scene.  
+Avoid visible faces in reference images (face detector runs before the content filter); crop to back-of-head/shoulders/clothing, use wide shots, use illustrated/stylized refs, or partially obscure the face with an object (cup/sunglasses/phone).  
+If a reference image needs changes (outfit/angle/face obscured), generate or edit the reference image inside Yapper using its image generation feature.  
+To make videos longer than 15 seconds, click Extend to continue from the last frame; repeat generate→extend to build longer sequences with consistent characters/lighting/environment.  
+When prompting conflict/weapons, don’t describe isolated violent actions; frame the entire scene as a film production with cinematic context (camera, lighting, film grain, setting) to pass the LLM-based filter.  
+Avoid words implying minors (boy, girl, child, young, kid); use role-based descriptions instead (a rider, a student in a university hallway, an athlete).  
+Don’t name copyrighted movies/characters/franchises; describe the aesthetic instead to avoid copyright blocks.
+```
+
+#### 💡 Tips
+
+This is the guide I wish I had when I was scrambling to get Seedance 2.0 before my competitors.
+
+Skip to the end for the master prompt. Save for later &amp; give it to Claude.
+
+**Author:** [Emmet Halm](https://x.com/ehalm_) | **Source:** [Link](https://x.com/ehalm_/status/2026590570316181922) | **Published:** Feb 25, 2026
+
+---
+
+### Komutlarda epic war scene yazarak multishot kamera düzeninin...
+
+> Seedance 2.0 neredeyse her konuda üretime geçmeye tüm hızıyla devam ediyor. Şimdiki konumuz savaş sahneleri... Gerek animasyon gerek saha çalışmalarında tam başbelasıdır... Ekip, kostüm, Makyaj... Bil
+
+#### 📝 Prompt
+
+```
+Komutlarda epic war scene yazarak multishot kamera düzeninin sahne konusuna göre otomatik ayarlanmasını sağlayın.
+```
+
+#### 💡 Tips
+
+Seedance 2.0 neredeyse her konuda üretime geçmeye tüm hızıyla devam ediyor. Şimdiki konumuz savaş sahneleri... Gerek animasyon gerek saha çalışmalarında tam başbelasıdır... Ekip, kostüm, Makyaj... Bilenler bilir... Hele post prodüksyon tarafı tam bir ölümdür. Multi shot sürekli kemara açılarının değişimi vs... Seedance burada multishot ile kemara açıları, doku, ışık muhteşem... Belli ki modeli savaş sahneleri için güzel eğitmişler... Üretici ORClar ve Osmanlı Ordusunu savaştırmış... Açıkçası mükemmel bir akış çıkarmış... Ha bu arada içerden bilgi vereyim komutlarda epic war scene olarak girerseniz multishot kamera düzenini otomatik konuya göre ayarlıyor... Ülkemizde üretim başladığında muhteşem ötesi savaş sahneleri çıkacağından şüphem yok... Bırakın inadı... Sinema sektörünü kökten değiştirecek bu model...
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026668010799304704/img/pRzSnDajd_mQ7Yke.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026669571789226280)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026669571789226280)**
+
+**Author:** [Kaan Alper](https://x.com/kaan_alper) | **Source:** [Link](https://x.com/kaan_alper/status/2026669571789226280) | **Published:** Feb 25, 2026
+
+---
+
+### Provide multiple raw clips as input so Seedance 2.0 (via Nem...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> You don’t need a studio team anymore. @nemovideoai × Seedance 2.0 quietly changed the rules. I analyzed the outputs. There’s a repeatable framework behind breakout clips. Breaking it down 👇 https://t
+
+#### 📝 Prompt
+
+```
+Provide multiple raw clips as input so Seedance 2.0 (via NemoVideo) can apply pacing, transitions, and retention patterns across the edit
+
+Use chat-command prompts instead of timeline editing to request specific edits like add dynamic subtitles, insert cinematic B-roll, and match the audio intensity
+```
+
+#### 💡 Tips
+
+You don’t need a studio team anymore.
+
+@nemovideoai × Seedance 2.0 quietly changed the rules.
+
+I analyzed the outputs.
+
+There’s a repeatable framework behind breakout clips.
+
+Breaking it down 👇 https://t.co/j63rADVh25
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026751550052335616/img/KoII-cUAMPuvCAhR.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026751650413580735)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026751650413580735)**
+
+**Author:** [Emma Uses AI](https://x.com/EmmaUsesAi) | **Source:** [Link](https://x.com/EmmaUsesAi/status/2026751650413580735) | **Published:** Feb 25, 2026
+
+---
+
+### Seedance 2.0のOmni referenceを使い、3人ダンスなどのリファレンス素材を用意して動きをトレースさ...
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance 2.0 Omni reference ② 3人のダンスでtest 指先までしっかり動きをトレースしてくれました この製作方法はリファレンス素材を作るのが少々面倒ですが生成は１発でした #生成AI #c4d https://t.co/82ehG2H4Ir
+
+#### 📝 Prompt
+
+```
+Seedance 2.0のOmni referenceを使い、3人ダンスなどのリファレンス素材を用意して動きをトレースさせると、指先まで動きを追従した生成が1発で通りやすい  
+ガチャ要素を減らしたい場合はSeedance 2.0のOmni reference運用（リファレンス素材ベース）にして、ポスプロ前提の制作フローに組み込む
+```
+
+#### 💡 Tips
+
+Seedance 2.0 Omni reference ②
+
+3人のダンスでtest
+指先までしっかり動きをトレースしてくれました
+
+この製作方法はリファレンス素材を作るのが少々面倒ですが生成は１発でした
+
+#生成AI #c4d https://t.co/82ehG2H4Ir
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026451025788645376/img/XZrzCf3xDV553Htu.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)**
+
+**Author:** [Kaku Drop 架空飴](https://x.com/KakuDrop) | **Source:** [Link](https://x.com/KakuDrop/status/2026451087000293717) | **Published:** Feb 25, 2026
+
+---
+
+### 将Stable Diffusion的提示词技巧套用到Seedance 2.0来写提示词  
+按顺序写Seedance 2...
+
+> 最近发了不少Seedance 2.0的提示词。 有X友问我这些提示词是怎么写出来的？ 之前对AI绘画比较感兴趣，系统的学习了开源工具Stable Diffusion的一些提示词技巧。 发现也能套用到Seedance 2.0上。 图片提示词的写作顺序： - 综述（图像质量+风格+镜头效果+光照效果+主题） -
+
+#### 📝 Prompt
+
+```
+将Stable Diffusion的提示词技巧套用到Seedance 2.0来写提示词  
+按顺序写Seedance 2.0图片提示词：先写综述（图像质量+风格+镜头效果+光照效果+主题）
+```
+
+#### 💡 Tips
+
+最近发了不少Seedance 2.0的提示词。
+
+有X友问我这些提示词是怎么写出来的？
+
+之前对AI绘画比较感兴趣，系统的学习了开源工具Stable Diffusion的一些提示词技巧。
+
+发现也能套用到Seedance 2.0上。
+
+图片提示词的写作顺序：
+- 综述（图像质量+风格+镜头效果+光照效果+主题）
+-
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2026659364409585899) | **Published:** Feb 25, 2026
+
+---
+
+### Story board, senaryo ve görüntü yönetmenliğine çalışın.
+
+> Seedance 2.0 çalışmaları tam manasıyla kıvamına geliyor artık. Bu tweetin konusu sektör jargonu ile patlama çatlama sahneleri... Bilindiği üzere en zor çekimler gece çekimleridir. Ekibi organize etmek
+
+#### 📝 Prompt
+
+```
+Story board, senaryo ve görüntü yönetmenliğine çalışın.
+```
+
+#### 💡 Tips
+
+Seedance 2.0 çalışmaları tam manasıyla kıvamına geliyor artık. Bu tweetin konusu sektör jargonu ile patlama çatlama sahneleri... Bilindiği üzere en zor çekimler gece çekimleridir. Ekibi organize etmek bir yana prodüksiyon ve post prodüksiyon renk ve sinematografı açısından çok zorlu süreçtir. Burada yeni modelin bir göktaşı sahnesine karşı yarattığı yıkımı izliyorsunuz. Renk ayrımı mükemmeler, multi shot kusursuz işliyor, Efektler, mekan ve patlama fiziği tam manasıyla oturmuş vaziyette... Şöyle bir sahneneye post prodüksiyon bitişi 8-9 haneli doları bulur ve aylar sürer... Ancak Seedance ile max 1-2 günde çözülecek iştir... Özellikle post prodüksiyon şirketlerinde sabahlara kadar canları çıkan VFX lere söylüyorum... Zamanınız geliyor... Bırakın milletin hayalini yapmayı... 1-2 ay içinde çok enteresan birşey başlatacağım. O zaman ne demek istedimi çok iyi anlayacaksınız... Tek tavsiyesem, story board, senaryo ve görüntü yönetmenliğine çalışın... Ben başlattığım zaman çok ihtiyacınız olacak :)
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026605643121987584/img/yQSwqV-J6IXplVPG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026607417593598170)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026607417593598170)**
+
+**Author:** [Kaan Alper](https://x.com/kaan_alper) | **Source:** [Link](https://x.com/kaan_alper/status/2026607417593598170) | **Published:** Feb 25, 2026
+
+---
+
+### Sube una tira/cómic como referencia en Seedance 2 y pídele q...
+
+![Español](https://img.shields.io/badge/lang-Español-yellow)
+
+> Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme un video en base al mismo. Si bien se tomó algunas licencias poéticas, es una LOCURA que se pueda convertir cualquier tira
+
+#### 📝 Prompt
+
+```
+Sube una tira/cómic como referencia en Seedance 2 y pídele que genere un video basado en ese material para convertirlo en una animación fácilmente
+```
+
+#### 💡 Tips
+
+Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme un video en base al mismo. Si bien se tomó algunas licencias poéticas, es una LOCURA que se pueda convertir cualquier tira cómica en un video animado tan fácil https://t.co/1iI8AXLFyN
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026762427744796672/img/oYkjLTJUEHtN9ft7.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762507306545641)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762507306545641)**
+
+**Author:** [Alan Daitch](https://x.com/AlanDaitch) | **Source:** [Link](https://x.com/AlanDaitch/status/2026762507306545641) | **Published:** Feb 25, 2026
+
+---
+
+### Tell the AI to use Seedance 2.0 in agent mode
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> You can now access Seedance 2.0 (worldwide) on Chraft AI and CloneViral AI. See how insane video creation can get. No more searching. No more waiting. Seedance 2.0 is OPEN. #seedance2 https://t.co/Fhd
+
+#### 📝 Prompt
+
+```
+Tell the AI to use Seedance 2.0 in agent mode
+```
+
+#### 💡 Tips
+
+You can now access Seedance 2.0 (worldwide) on Chraft AI and CloneViral AI.
+
+See how insane video creation can get.
+
+No more searching.
+No more waiting.
+Seedance 2.0 is OPEN.
+
+#seedance2 https://t.co/Fhdih4kDWa
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026606780042932224/img/4zjqw-iuCss8b0rq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)**
+
+**Author:** [Chraft](https://x.com/chraft_ai) | **Source:** [Link](https://x.com/chraft_ai/status/2026611657397645609) | **Published:** Feb 25, 2026
+
+---
+
+### Upload multiple video clips as the prompt (e.g., for a trave...
+
+![Español](https://img.shields.io/badge/lang-Español-yellow)
+
+> NemoVideo se asoció con Seedance 2.0. Después de probarlo, me di cuenta de algo : Lo que parece espontáneo en realidad está estructurado. Hay una fórmula clara detrás de los videos cortos virales. Des
+
+#### 📝 Prompt
+
+```
+Upload multiple video clips as the prompt (e.g., for a travel vlog on location) to have NemoVideo/Seedance 2.0 structure and reconstruct the edit from your footage.  
+Use chat-to-edit instructions instead of timeline editing: ask it to add animated subtitles.  
+Use chat-to-edit instructions to insert B-roll at key moments.  
+Use chat-to-edit instructions to align the audio with the rhythm/beat.
+```
+
+#### 💡 Tips
+
+NemoVideo se asoció con Seedance 2.0.
+
+Después de probarlo, me di cuenta de algo :
+
+Lo que parece espontáneo en realidad está estructurado.
+
+Hay una fórmula clara detrás de los videos cortos virales.
+
+Descifrémla 👇 https://t.co/S3MIauVUzp
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026733216241971200/img/vrdkYqRxytmlAu38.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)**
+
+**Author:** [Alejandro Martinez | IA](https://x.com/copyelpadrino) | **Source:** [Link](https://x.com/copyelpadrino/status/2026734681308147865) | **Published:** Feb 25, 2026
+
+---
+
+### Use Seedance 2.0 directly inside CapCut to generate videos....
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Why did no one tell me you can already use Seedance 2.0 in CapCut??? 240 credits (approx $3) per 15-second video apparently https://t.co/e1wRMvzH4Q
+
+#### 📝 Prompt
+
+```
+Use Seedance 2.0 directly inside CapCut to generate videos.  
+Generate at 720p for 240 credits (~$3) per 15-second video.  
+Generate at 480p for 120 credits (~$1.5) per 15-second video.
+```
+
+#### 💡 Tips
+
+Why did no one tell me you can already use Seedance 2.0 in CapCut???
+
+240 credits (approx $3) per 15-second video apparently https://t.co/e1wRMvzH4Q
+
+**Author:** [Angel ❄️](https://x.com/Angaisb_) | **Source:** [Link](https://x.com/Angaisb_/status/2026729560482468256) | **Published:** Feb 25, 2026
+
+---
+
+### Use Seedance 2’s dynamic prompts and referencing features to...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> most of the seedance 2 videos i'm seeing right now are just pure slop. or stuff we've been able to generate for the past 8 months with veo and sora i've probably generated close to 500 seedance videos
+
+#### 📝 Prompt
+
+```
+Use Seedance 2’s dynamic prompts and referencing features to unlock its real capabilities instead of relying on basic prompts  
+Approach prompting in Seedance differently than other video models; don’t treat it like a standard image-to-video generator  
+Avoid using Seedance primarily for basic image-to-video; use Veo or Kling for that use case and reserve Seedance for dynamic/referenced generations
+```
+
+#### 💡 Tips
+
+most of the seedance 2 videos i'm seeing right now are just pure slop. or stuff we've been able to generate for the past 8 months with veo and sora
+
+i've probably generated close to 500 seedance videos now. tried every type of prompt. and i've realized the real capabilities of this model are in the dynamic prompts and referencing features
+
+you have to approach seedance completely differently than any other model
+
+if you're using it for basic image to video you might as well just use veo or kling. that's not where seedance's strength is
+
+i don't think people realize what this model is actually capable of
+
+when i say you can generate anything, i truly mean it....
+
+**Author:** [Miko](https://x.com/Mho_23) | **Source:** [Link](https://x.com/Mho_23/status/2026800160228127065) | **Published:** Feb 25, 2026
+
+---
+
+### Video upscaled with the new @Magnific_AI VIDEO UPSCALER.
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 🔥Capoeira meets kung fu. In KENPAI, crowded favela Staircases are the arena. Pushing Seedance 2.0 inside the KENPAI universe… It is wild. Street fight, in the universe I’m building. 献杯 KENPAI 🤜🏽👹�
+
+#### 📝 Prompt
+
+```
+Video upscaled with the new @Magnific_AI VIDEO UPSCALER.
+```
+
+#### 💡 Tips
+
+🔥Capoeira meets kung fu.
+In KENPAI, crowded favela Staircases are the arena.
+
+Pushing Seedance 2.0 inside the KENPAI universe…
+It is wild.
+
+Street fight, in the universe I’m building.
+献杯 KENPAI 
+🤜🏽👹🇧🇷🤛🏼
+Short film in development.
+
+Video upscaled with the new @Magnific_AI  VIDEO UPSCALER.
+#seedance2
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026712959754399745/img/nxo7tjOd3YBL0dZh.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)**
+
+**Author:** [ARLO🟡](https://x.com/byarlooo) | **Source:** [Link](https://x.com/byarlooo/status/2026713840390648005) | **Published:** Feb 25, 2026
+
+---
+
+### 先注册一个 YouMind 账号并登录后，打开该 Seedance 分镜提示词 Skill 链接，在技能页面点击「安装」...
+
+> 根据即梦 Seedance 2.0 使用手册，制作了一个超级实用的即梦 Seedance 分镜提示词 Skill，安装在了 YouMind 上，这样的话，大家使用起来就非常简单了，几乎是傻瓜式的操作，让我们普通人也能写出电影级、专业级的视频分镜提示词，制作出超级炫酷好看的视频。 大家可以看看视频讲解，并附带上 YouMind https://t.co/w2RilHoB2d
+
+#### 📝 Prompt
+
+```
+先注册一个 YouMind 账号并登录后，打开该 Seedance 分镜提示词 Skill 链接，在技能页面点击「安装」，安装完成后即可在自己的账号下直接使用该 Skill 来生成视频分镜提示词
+```
+
+#### 💡 Tips
+
+根据即梦 Seedance 2.0 使用手册，制作了一个超级实用的即梦 Seedance 分镜提示词 Skill，安装在了 YouMind 上，这样的话，大家使用起来就非常简单了，几乎是傻瓜式的操作，让我们普通人也能写出电影级、专业级的视频分镜提示词，制作出超级炫酷好看的视频。
+
+大家可以看看视频讲解，并附带上 YouMind https://t.co/w2RilHoB2d
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026593519482318852/img/BL2u7AG_FR_PvafI.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)**
+
+**Author:** [loonggg](https://x.com/KengGuangLong) | **Source:** [Link](https://x.com/KengGuangLong/status/2026594611112907181) | **Published:** Feb 25, 2026
+
+---
+
+### Add explicit camera movement language like slow cinematic do...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The Secret to God-Tier AI Cinematography 📽️ Your AI videos look "fake" because your camera is bored. To get that big-budget Hollywood look on Grok, Veo, Seedance 2.0 and Kling, you have to speak the 
+
+#### 📝 Prompt
+
+```
+Add explicit camera movement language like slow cinematic dolly in (not digital zoom) to build tension and realism in Seedance 2.0 prompts.  
+Use a sweeping crane shot prompt (start low, rise high) to reveal scale—e.g., close-up subject ascending to a vast landscape.  
+Specify a 360-degree orbital camera movement around the subject to create a classic hero shot and showcase 3D environments.  
+Prompt an FPV drone dive with ultra-wide angle, motion blur, and lens spray to get aggressive, immersive high-speed cinematography.  
+Use a lateral trucking shot (camera moving sideways parallel to the subject) for walk-and-talk or tracking fast movement.  
+Add a whip pan (fast horizontal blur from one subject to another) with motion blur transition for urgent, stylized action cuts.  
+Use a leading tracking shot (camera moving backward in front of the subject) and include organic handheld movement for pull-into-the-action energy.  
+Prompt a vertigo effect (dolly zoom: camera moves backward while zooming in, or vice versa) to create background warping for shock/revelation moments.  
+Use a pedestal down (camera moves straight down vertically without tilting) to reveal a scene from top to bottom smoothly.  
+Add handheld run-and-gun cues (intentional jitter/shaky cam) to increase grit and realism in chase/action scenes.
+```
+
+#### 💡 Tips
+
+The Secret to God-Tier AI Cinematography 📽️
+
+Your AI videos look "fake" because your camera is bored. To get that big-budget Hollywood look on Grok, Veo, Seedance 2.0 and Kling, you have to speak the language of a Director of Photography. I’m giving away my 10 most effective movement prompts for free. Save these for your next project.
+
+Inspired by @azed_ai
+
+Thread🧵👇🏾
+
+**Author:** [Gilbert Odera | Your AI Plug™🇰🇪](https://x.com/yourPlugAI) | **Source:** [Link](https://x.com/yourPlugAI/status/2026156636105023742) | **Published:** Feb 24, 2026
+
+---
+
+### Avoid using actor names or copyrighted materials in Seedance...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> There's a very poorly researched blog "debunking" seedance 2.0. It claims Seedance is using a secret library of video clips and secretly doing video to video under the hood instead. I wouldn't normall
 
 #### 📝 Prompt
 
@@ -3505,7 +4482,7 @@ Avoid using actor names or copyrighted materials in Seedance prompts due to aggr
 
 #### 💡 Tips
 
-Note: Currently the model has very aggressive safeguards preventing use of actor names or copyrighted materials in the prompts, but there seems to be a bit of a glitch in the system -- I did not prompt the likeness of these actors at all. https://t.co/gLcnapBtCv
+There's a very poorly researched blog "debunking" seedance 2.0. It claims Seedance is using a secret library of video clips and secretly doing video to video under the hood instead. I wouldn't normally care except i'm being called a liar so here is my response via text to video: https://t.co/5A27GIOH3P
 
 [![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026160813200031744/img/uBQnaC76hOOQk8IX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787)
 
@@ -3515,54 +4492,34 @@ Note: Currently the model has very aggressive safeguards preventing use of actor
 
 ---
 
-### Create a two-step workflow by first generating a rough image (base visual) with Seedream, then adjusting the color to...
+### Claude ile şarkınız için bir senaryo planı oluşturmasını ist...
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Create a two-step workflow by first generating a rough image (base visual) with Seedream, then adjusting the color tones with Nano Banana. For anime color adjustments, create a prompt based on "c...
+> Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzik piyasası... Aşağıdaki klipte tabi ünlüler kullanılarak AI Slop yapılmış ama konu o değil... İşin içinde olan label da olsa 
 
 #### 📝 Prompt
 
 ```
-Create a two-step workflow by first generating a rough image (base visual) with Seedream, then adjusting the color tones with Nano Banana.  
-For anime color adjustments, create a prompt based on "cinematic processing" to significantly enhance the texture.
-
---- QUOTED TWEET ---
-I feel that Seedream and Nano Banana have completely different strengths.
-
-Recently, I've been creating rough images with Seedream and adjusting the colors with Nano Banana.
-
-For anime color adjustments, I create prompts based on cinematic processing.
-
-This allows for a significant enhancement in texture. https://t.co/v7yXLSTSJh
----
+Claude ile şarkınız için bir senaryo planı oluşturmasını isteyin ve bu planı Seedance’de klip üretiminde yol haritası olarak kullanın  
+Kendi dijital ikizinizi oluşturup Seedance’de karakter olarak kullanarak müzik klibinizi üretin
 ```
 
 #### 💡 Tips
 
-Seedream とNano Bananaは
-完全に強みが異なっている気がしている。
+Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzik piyasası... Aşağıdaki klipte tabi ünlüler kullanılarak AI Slop yapılmış ama konu o değil... İşin içinde olan label da olsa spotify listelerini kendi de yüklese güzel bir çıkış yapmadan yani viral olmadan ne yazık ki; havanda su dövüyor. Şimdi müziğe ne lazım ? Klip lazım, video lazım. Şu anda tam prodüksiyon klip çekmeyi 2 milyondan açarlar 10 milyona kadar bütçe çıkarırlar... İşin daha kara komedi tarafıysa da sanatçı ne kadar ünlüyse klip ücreti artar :)) Sektör standardı işte... Neyse konumuza dönelim... Yetenekli 3 kişilik grupsunuz bir şekilde yaptınız müzikleri biraz kayıt vs. parası harcadınız ve Distrokid gibi dağıtıcılarla her platforma attınız. Eee sonrası ? Reklamlar vs... Dünya işiniz var. Ama paranız kısıtlı ise garanti ata oynamanız lazım. Ne lazım ? Klip lazım. Claude ile şarkınız için güzel bir senaryo planı çıkarmasını isteyin, kendi digital ikizinizi yapın ve seedance kullanarak klibinizi hayata geçirin. Ultra yaptığınız bu çalışmayı Youtube reklamı ile milyon insana izletirsiniz üstelik gerçekten çok çok komik bütçelere... Yapay zeka müzisyenlere de lazım. Suno deneyin, Udio deneyin... Devir bilgi çağı... Şu anda bir müzik grubu veya bir müzisyen gerçekten yapay zekaya hakim olsun, kimseye ihtiyaç olmadan her işini 100 de 1 fiyatına çözer :) Üretmekten ve hayal kurmaktan vazgeçmeyin... Yapay zeka içi bu çok önemli... Bizleri takip edin hepsini teker teker göstereceğiz.
 
-最近はSeedreamで大まかな画を作り
-色味調整をNano Bananaで行ってます。
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026357088226525184/img/eECgEFxOBeePM9LA.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)
 
-なお、アニメの色味調整は撮影処理加工をベースにプロンプトを制作してます。
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)**
 
-そうすることで一気に質感を向上できることが可能になりました。 https://t.co/v7yXLSTSJh
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026097631743889408/img/R-sWNPpH0zNgz1_l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026097691294634493)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026097691294634493)**
-
-**Author:** [YUUUKI｜PYRAMID AI](https://x.com/yuuuki_ai) | **Source:** [Link](https://x.com/yuuuki_ai/status/2026097691294634493) | **Published:** Feb 24, 2026
+**Author:** [Kaan Alper](https://x.com/kaan_alper) | **Source:** [Link](https://x.com/kaan_alper/status/2026358915076915427) | **Published:** Feb 24, 2026
 
 ---
 
-### Go to to start generating with free Seedance 2.0 Sign up using Google, email, TikTok, or anot...
+### Go to https://t.co/JzqzV4wh03 to start generating with free...
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> 1- Here’s the full step-by-step to start generating with FREE Seedance 2.0 right now 👇 1. Head to the site: https://t.co/JzqzV4wh03 2. Sign up super quick. Use Google, email, TikTok, or any acco...
+> 1- Here’s the full step-by-step to start generating with FREE Seedance 2.0 right now 👇 1. Head to the site: https://t.co/JzqzV4wh03 2. Sign up super quick. Use Google, email, TikTok, or any account y
 
 #### 📝 Prompt
 
@@ -3573,991 +4530,23 @@ After logging in, navigate to the AI Video section (left sidebar or top menu)
 Select Seedance 2.0 from the model dropdown to generate videos
 ```
 
-**Author:** [Shub](https://x.com/shub0414) | **Source:** [Link](https://x.com/shub0414/status/2026137822588285394) | **Published:** Feb 24, 2026
-
----
-
-### If an English prompt gets blocked by Seedance 2’s content filter, translate the same prompt into Chinese and try agai...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> We updated our Seedance 2 prompt guide. New find: the content filter is harder on English than Chinese. Simple prompts that fail in English pass instantly when translated. https://t.co/A3ps2eoaOF
-
-#### 📝 Prompt
-
-```
-If an English prompt gets blocked by Seedance 2’s content filter, translate the same prompt into Chinese and try again to pass the filter faster.
-```
-
-**Author:** [mitte.ai](https://x.com/mitte_ai) | **Source:** [Link](https://x.com/mitte_ai/status/2026254164481716476) | **Published:** Feb 24, 2026
-
----
-
-### In Seedance 2.0 Agent mode, drop in mixed Omni references (images/videos/sounds) without explicitly tagging each one;...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 has an Agent mode where it takes Omni references, but the way it works it's so much more natural to use. You can throw images, videos, sounds, but you don't have to reference them spec...
-
-#### 📝 Prompt
-
-```
-In Seedance 2.0 Agent mode, drop in mixed Omni references (images/videos/sounds) without explicitly tagging each one; the agent will infer how to use them.  
-To enforce a specific camera move, generate a 3D scene and predefined camera movement in Blender (e.g., via MCP+Claude), then use a starting frame reference (even if it doesn’t perfectly match the 3D first frame) and have Seedance apply that camera movement for more controlled generations.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026247269058752512/img/oZHXt-gjC4U1f9GB.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026247586395427261)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026247586395427261)**
-
-**Author:** [László Gaál](https://x.com/laszlogaal_) | **Source:** [Link](https://x.com/laszlogaal_/status/2026247586395427261) | **Published:** Feb 24, 2026
-
----
-
-### Place an object in front of a character’s face in your Seedance 2.0 shot to bypass guardrails that might otherwise bl...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Placing an object in front of a character's face appears to get around Seedance 2.0's guardrails... and makes for a somewhat Shakespearian shot https://t.co/Xa1Bvkovgf
-
-#### 📝 Prompt
-
-```
-Place an object in front of a character’s face in your Seedance 2.0 shot to bypass guardrails that might otherwise block the generation.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026423699231092736/img/gUzvQM9f0oXy0val.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026424015817159117)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026424015817159117)**
-
-**Author:** [David M. Comfort](https://x.com/DavidmComfort) | **Source:** [Link](https://x.com/DavidmComfort/status/2026424015817159117) | **Published:** Feb 24, 2026
-
----
-
-### Upload raw workout clips directly into NemoVideo (powered by Seedance 2.0) as unstructured input, then have it analyz...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This is where it gets serious. NemoVideo + Seedance 2.0 isn’t just “better AI video.” It’s reverse engineering virality, then generating it with structure. @nemovideoai is the world’s first AI Pr...
-
-#### 📝 Prompt
-
-```
-Upload raw workout clips directly into NemoVideo (powered by Seedance 2.0) as unstructured input, then have it analyze and rebuild pacing instead of manually pre-structuring the edit  
-Use NemoVideo’s Inspiration Center to pull from proven high-retention fitness video structures to set pacing and shot order  
-Run One-click Fast Editing to automatically recut the footage with controlled momentum in seconds  
-Use Talk to Edit prompts to refine tempo, tighten transitions, adjust subtitle rhythm, and add subtle zoom keyframes to match the intensity curve
-```
-
 #### 💡 Tips
-
-For this one, we used raw fitness footage as the test case. Training clips, reps, transitions — nothing pre-structured.
-
-Inside NemoVideo, the workflow is clear:
-Drop Anything, uploaded the raw workout clips directly.
- Inspiration Center — pulled from proven high-retention fitness structures instead of guessing pacing.
- One-click Fast Editing — rebuilt the cut with controlled momentum in seconds.
- Talk to Edit — refined tempo, tightened transitions, adjusted subtitle rhythm, and added subtle zoom keyframes to match the intensity curve.
-
-We didn’t ask for over-the-top effects. We asked it to analyze the footage and rebuild it with proper pacing. The energy climbed naturally. The structure felt intentional, not stitched together.
-
-If you’re done guessing and want to scale with intent:
-
-Free plan available. Limited launch offer from $4.19/month.
-
-Try it here → https://t.co/QN7M0w2wTS 
-Join the creator Discord → https://t.co/GyXluwNWbZ
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026327054753349632/img/zgS8rL93Mx2MqjaQ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026327259317932226)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026327259317932226)**
-
-**Author:** [The AI Colony](https://x.com/TheAIColony) | **Source:** [Link](https://x.com/TheAIColony/status/2026327259317932226) | **Published:** Feb 24, 2026
-
----
-
-### Use a continuous-shot prompt with “Low quality smartphone vlog footage, shaky handheld camera POV” to force a handhel...
-
-> --- Use a continuous-shot prompt with “Low quality smartphone vlog footage, shaky handheld camera POV” to force a handheld POV vlog camera style. Add “wet street on a rainy night” + “Colorful neon...
-
-#### 📝 Prompt
-
-```
----
-Use a continuous-shot prompt with “Low quality smartphone vlog footage, shaky handheld camera POV” to force a handheld POV vlog camera style.
-
-Add “wet street on a rainy night” + “Colorful neon lights reflect on the wet pavement” to create rain/night neon reflections in the scene.
-
-Include “High ISO noise, dynamic motion blur, heavy video grain, raw and unpolished snapshot aesthetic” to get gritty, noisy, amateur-looking footage.
-
-Specify “delayed autofocus effect” when the subject turns to camera to simulate focus hunting/AF lag.
-
-Direct micro-actions like “turns her head back to look directly at the camera… smile… steps very close to the lens… tucking a wet strand of hair behind her ear” to drive believable micro-expressions and close-up interaction.
-
-Use “Amateur framing, lens flares” to push imperfect composition and flare artifacts for realism.
-
---- THREAD CONTINUATION ---
-[Thread 1] Use my invitation link to get 188 points 😆 https://t.co/hrSzZ3IpOn AA1660, 👈🏻 click the link to join the event!
-
-[Thread 2] prompt: Continuous Video Prompt: > Low quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night, wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise, dynamic motion blur. She suddenly stops, turns her head back to look directly at the camera with a delayed autofocus effect, giving a casual, sweet, and slightly shy smile. Her loosely semi-tied long hair is slightly wet from the drizzle. She then steps very close to the lens, playfully tucking a wet strand of hair behind her ear. Amateur framing, lens flares, heavy video grain, raw and unpolished snapshot aesthetic throughout the entire continuous shot.
----
-```
-
-#### 💡 Tips
-
-用我的邀请链接，可以有188积分😆 https://t.co/hrSzZ3IpOn AA1660，👈🏻点击链接进入活动！
-
-prompt: Continuous Video Prompt: > Low quality smartphone vlog footage， shaky handheld camera POV. A young， ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night， wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise， dynamic motion blur. She suddenly stops， turns her head back to look directly at the camera with a delayed autofocus effect， giving a casual， sweet， and slightly shy smile. Her loosely semi-tied long hair is slightly wet from the drizzle. She then steps very close to the lens， playfully tucking a wet strand of hair behind her ear. Amateur framing， lens flares， heavy video grain， raw and unpolished snapshot aesthetic throughout the entire continuous shot.
-
-**Author:** [硅予](https://x.com/Leslieyu0) | **Source:** [Link](https://x.com/Leslieyu0/status/2026222373360521462) | **Published:** Feb 24, 2026
-
----
-
-### Use Grok to generate frames, then animate them in Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 is brilliant. Pair it with Grok and it's a lethal combo. If 5–10 of us team up, we could basically make Inception 2. We might even get Leonardo DiCaprio on board... he's one prompt awa...
-
-#### 📝 Prompt
-
-```
-Use Grok to generate frames, then animate them in Seedance 2.0.  
-Upscale Seedance 2.0 outputs with Topaz Labs.  
-Edit and apply color correction in CapCut after generating/upscaling.
-```
-
-#### 💡 Tips
-
-@grok frames ↴ 
-Seedance 2.0 animation ↴ 
-@topazlabs upscale ↴
-@capcutapp edit + color correction.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026361411010502656/img/7yR5skcNSHkLY9a1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026361708143337601)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026361708143337601)**
-
-**Author:** [ibexdream](https://x.com/ibexdream) | **Source:** [Link](https://x.com/ibexdream/status/2026361708143337601) | **Published:** Feb 24, 2026
-
----
-
-### Using Seedance 2.0's Omni Reference, input a reference image (top left) and a reference video (top right) to trace th...
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Using Seedance 2.0's Omni Reference, input a reference image (top left) and a reference video (top right) to trace the motion of an action scene in anime style, generating an output video (bottom).
-
-#### 📝 Prompt
-
-```
-Using Seedance 2.0's Omni Reference, input a reference image (top left) and a reference video (top right) to trace the motion of an action scene in anime style, generating an output video (bottom).
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026179674171412480/img/eczoFdY-wYLfSh4D.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026180038153142282)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026180038153142282)**
-
-**Author:** [852話(hakoniwa)](https://x.com/8co28) | **Source:** [Link](https://x.com/8co28/status/2026180038153142282) | **Published:** Feb 24, 2026
-
----
-
-### When writing prompts with Seedance 2.0 for common knowledge content, only specify the intention without details (e.g....
-
-> --- When writing prompts with Seedance 2.0 for common knowledge content, only specify the intention without details (e.g., just say "create a high-end, exquisite Lanzhou noodle advertisement, pay ...
-
-#### 📝 Prompt
-
-```
----
-
-When writing prompts with Seedance 2.0 for common knowledge content, only specify the intention without details (e.g., just say "create a high-end, exquisite Lanzhou noodle advertisement, pay attention to storyboard arrangement," and let the model arrange the process, shots, and slow motion itself).  
-If storyboarding is needed, directly add "pay attention to storyboard arrangement/strictly follow storyboard sequence" in the prompt, letting Seedance automatically handle the camera language.  
-For UI promotional videos, first use Nano Banana Pro or Seedream to process UI screenshots into the target style (such as Microsoft's Fluent with "acrylic/glass texture, digital material feel, Z-axis depth, Rim Light"), then provide the processed single/multiple images to Seedance 2.0 to generate a video with motion effects.  
-To generate a Microsoft Fluent style video from a single UI image, use: Based on @image1, generate a video with acrylic and glass texture motion effects similar to a Microsoft Fluent UI promotional video, showcasing UI details with smooth motion effects and camera angles, seamlessly transitioning to the product name "XXX" at the end.  
-To create a multi-shot promotional video from multiple UI images, use: Turn @image6...@image1 and @image7 icon into a multi-shot, multi-angle promotional video, requiring rich transitions and smooth storyboard transitions, and provide product introduction text for the model to generate voiceover and subtitles.  
-For clothing change demonstrations, upload a photo of the person + multiple clothing images, and in the prompt, request "sequential outfit changes, smooth camera movements and transitions with different shot scales, and music that matches the ad's tone" to enhance shot organization and video completeness.  
-For a floor plan model room tour video, first use an image model to generate a nine-grid storyboard from the floor plan (clearly indicating the sequence and style from entrance → kitchen → bathroom → living room → master/secondary bedroom, etc.), then provide the "floor plan + storyboard" to Seedance 2.0 and require strict adherence to the storyboard sequence and real walking route.  
-Home decoration prompt can be: Referencing @image2 storyboard and @image1 floor plan, generate an immersive model room tour video, strictly following @image2 sequence, simulating a real house viewing walking route, allowing for camera cuts, and paying attention to natural light changes and material textures.  
-To replicate a certain Vlog editing style, upload a reference Vlog video + your own photos, and in the prompt, specify the dimensions to learn (camera movement, switching rhythm, color style, music and timing, text and effects), then supplement with key features of that style to enhance learning effectiveness.  
-For video podcasts/voiceovers, use "character environment image reference + audio reference," and in the prompt, request "add subtitles, adjust emotions (e.g., more excited/more realistic)," allowing Seedance to rewrite performance emotions while maintaining voice consistency.  
-When generating a storyline MV with only music, in the prompt, request "keep @audio1 as background music, match transitions and screen style with music rhythm, and require a complete plot."  
-If the platform does not allow separate audio uploads, you can upload a transparent or pure white PNG as a placeholder to proceed with audio-related processes.  
-For transferring real human actions to special effects scenes, upload a reference action video, and in the prompt, request "actions and camera movements to be completely consistent with @video1," and for difficult-to-align shots like "flying/person stationary relative to the camera, world in motion," you can add keywords CAMERA MOUNTED ON JOHN, LOCKED-ON SHOT, FIXED-TO-ACTOR to stabilize actions and camera positions.  
-Paste the original novel text directly into the prompt and provide a style reference video (e.g., @video1), requesting "art style/action/fight performance to strictly align with the reference style," allowing Seedance to generate corresponding storyboards and plots based on the text.  
-For continuation shooting, use the extension command: Extend @video1 by 15s, and continue providing subsequent plot text in "specific information: XXXX" to maintain style and character consistency.
-
---- QUOTED TWEET ---
-https://t.co/YF4f1z9s0W
-
---- LINKED ARTICLE: Tear Sora, Kick Veo! 13 Industry Case Studies, Seedance 2.0 Playbook ---
-Master Cang's Seedance 2.0 evaluation and teaching have finally arrived. Recently, everyone has seen a lot of Seedance 2.0's action and plot blockbusters.
-But the video field is not just about action and plot content. Today, Master Cang will provide you with some industry and category solutions that can practically help you make money and improve content production efficiency.
-Seedance 2.0's API will be launched on the Volcano Engine after the Spring Festival, supporting full-modal input and can be directly embedded into workflows and Agent pipelines. All previous capabilities can be programmatically called.
-Let's look at the first case, the prompt is just one sentence: "Create a high-end, exquisite Lanzhou noodle advertisement, pay attention to storyboard arrangement."
-I didn't write any descriptions about kneading dough, pulling noodles, or pouring soup, nor did I mention using slow motion to shoot noodles, the model arranged everything itself.
-It even chose slow motion, which is high-speed photography, to capture the noodle scooping process.
-
-From this case, we can see that Seedance 2.0 is not a typical "you say it, it draws it" video model.
-Simply put, it is the ChatGPT moment in the video field.
-Not only is it a video model with better image quality and motion performance, but it also has knowledge, intelligence, and a director's mindset.
-- Comprehensive Reference: Supports uploading any modal content for reference, including 9 images, 3 videos, 3 audio clips, in addition to text. You can have it completely retain these materials in a certain part or only extract certain elements from the materials.
-- Intelligence: Possesses a director's mindset, can arrange storyboards, choose camera language, and control narrative rhythm. Give it a novel, and it knows how to storyboard it.
-- Knowledge: Comes with world knowledge, knows how to make Lanzhou noodles, what MUJI's tone is, and that high pull-down exercises the latissimus dorsi. No need to write an encyclopedia in the prompt.
-
-Let's take a look at the main content this time:
-- Catering/E-commerce Industry: One sentence generates a noodle advertisement, the model arranges the entire process and slow motion itself
-- Brand Advertising and Marketing: One sentence produces a brand promotional video without providing any brand information
-- Knowledge Payment/Education: One sentence produces fitness teaching, with accurate actions and error correction
-- Internet Products/Design: UI design drafts directly become Microsoft & Apple style 3D product promotional videos, with one-click style change
-- Clothing E-commerce: Portrait + clothing photos, generating a video with camera movements for outfit change display
-- Real Estate/Home Decoration: Floor plans become immersive model room tour videos
-- Self-media: One image + one audio clip, directly produces a video podcast
-- Music Video: Only provide a song, the model creates a story and shoots an MV itself
-- Film/Short Drama: Real-life action transferred to any special effects scene
-- Film/Short Drama: Paste the original novel text directly, generate animation, and can be extended into a feature film
-
-## I. For Marketers and Brand Owners
-
-> This section is mainly for friends without AI perception, who used to worry about writing prompts but no longer need to. Seedance 2.0 can handle a complete marketing or teaching video even with just one sentence.
-I originally wanted to test how much world knowledge it had, but the result was unexpectedly good.
-Prompt: Help me generate a promotional video about the brand MUJI
-
-It chose a minimalist style of images (wood texture close-ups, chair design, home space).
-It wrote the brand philosophy voiceover itself: "Before the brand, there is the item; before the design, there is the need. Remove the excess, return to the essence." The background music was minimalist piano.
-The model fully understood MUJI's brand DNA, something previous video models wouldn't know.
-And the video quality is very high, just look at the wood texture details at the beginning, it doesn't look like a 720P video at all.
-In the future, when your client or boss asks you for a demo, you won't be afraid anymore, just change a few words and get a video in minutes.
-Then I wanted to test its professional knowledge, and since I was having dinner with my coach that day, I tried a fitness question.
-Prompt: Help me generate a video explaining the high pull-down fitness action
-
-It accurately identified the target muscle group (latissimus dorsi), demonstrated the correct posture, and proactively reminded of common mistakes ("don't use body momentum for leverage"), arranging front, back, and multiple front camera switches itself.
-I also asked my coach, and he said the demonstration was quite good.
-As long as it has knowledge in the field, just one sentence can produce teaching content in batches.
-Including the first case, my three videos combined have less than 30 words in the prompts.
-So the first point when writing prompts with Seedance 2.0 is, in the presence of common knowledge, "write the intention, not the details."
-If you need to add storyboards, just write "pay attention to storyboard arrangement," if you're not a professional in the film industry, leaving it to the model is definitely better than writing it yourself.
-
-## II. For Product Managers and Designers: Design Drafts Instantly Become Promotional Videos
-
-A few
-```
-
-#### 💡 Tips
-
-刚更新了多语言，而且这个客户端是全平台支持，还能帮小白一键自动安装 Claude Code：https://t.co/ddl1hkwJJT
-
-最新 v0.14.0 增加了 Token 用量统计 https://t.co/qVUrgAjw37
-
----
-
-https://t.co/YF4f1z9s0W
-
-**Author:** [歸藏(guizang.ai)](https://x.com/op7418) | **Source:** [Link](https://x.com/op7418/status/2026325142398529926) | **Published:** Feb 24, 2026
-
----
-
-### Avoid direct character names; describe the character’s visual appearance in detail (height, build, hair, clothing, fa...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 – Sensitive Content Guide & Best Practices Hello everyone, We’ve noticed many of you are encountering “Your content did not pass the review” messages lately. This is completely nor...
-
-#### 📝 Prompt
-
-```
-Avoid direct character names; describe the character’s visual appearance in detail (height, build, hair, clothing, facial features, accessories) to use an implied reference and increase pass rate.  
-Avoid explicit violence/action keywords (fight, battle, destroy, kill, blood, brutal, attack, punch, slash); replace them with softer cinematic phrasing like intense power confrontation, dramatic energy clash, spectacular light collision, powerful forces meeting, epic visual impact.  
-Describe scenes in a more artistic, film-like way to improve filter acceptance.  
-Keep each scene short (10–15 seconds) to improve success rate.  
-Break complex sequences into 3 clear shots instead of one long, complicated scene.  
-Use neutral or epic atmosphere descriptions to reduce filter triggers.  
-Add No spoken dialogue to the prompt when there is no talking.  
-If a prompt gets blocked, run the exact same prompt twice; the second attempt often passes even if the first fails.
-```
-
-**Author:** [Clonizer](https://x.com/ClonizerAi) | **Source:** [Link](https://x.com/ClonizerAi/status/2026069700632019271) | **Published:** Feb 23, 2026
-
----
-
-### Enter the platform and create an account via Google/Email/TikTok without adding a bank card to access Seedance 2.0 fo...
-
-> Enter the platform and create an account via Google/Email/TikTok without adding a bank card to access Seedance 2.0 for free. From the AI Video section, select Seedance 2.0 from the Model Dropdown...
-
-#### 📝 Prompt
-
-```
-Enter the platform and create an account via Google/Email/TikTok without adding a bank card to access Seedance 2.0 for free.  
-From the AI Video section, select Seedance 2.0 from the Model Dropdown list before generating.  
-Use Image to Video (upload a single image) for faster and more stable results.  
-Use Frame to Video by uploading the first and last frame/key images for more precise control over movement and transition.  
-Postpone Text to Video for now as it is under pressure and may require retrying.  
-Write a prompt specifying camera movement + lighting + style + scene speed + overall atmosphere to improve quality.  
-Start with 4–8 second clips using Image or Frame for better results and reduced waiting time.  
-If you encounter a wait/error due to pressure, refresh and try to generate again.
-
---- THREAD CONTINUATION ---
-[Thread 1] Want to start making 1080p videos with Seedance 2.0 for free?
-This step-by-step guide 👇
-
-1) Enter the platform
- https://t.co/iTWftTYUk3
-2) Create an account quickly
-Register via: Google / Email / TikTok (or any available option)
-✅ No bank card required.
-
-3) Go to the video section
-After entering: Open AI Video (usually from the side menu or top of the page).
-4) Choose the model
-From the Model Dropdown, select: Seedance 2.0
-5) Choose the appropriate creation method
-🔹 Image to Video: Upload a single image and let it transform into a cinematic scene (the fastest and most stable).
-🔹 Frame to Video: Upload the first and last frame/key images for more precise control over movement and transition.
-🔹 Text to Video: It's best to postpone it now due to pressure and you may need to retry.
-
-6) Write a smart prompt
-Focus on: camera movement + lighting + style + scene speed + overall atmosphere.
-The more precise the description... the better the result.
-7) Press Generate
-Get a 1080p video
-Important: Seedance 2.0 often consumes credits (as shown within the platform).
-
-Note: New accounts usually receive 700 free credits to try other models.
-💡 Pro Tip
-Start with 4–8 seconds using Image or Frame.
-And if there's a wait/error due to pressure: Refresh and try again.
-```
-
-#### 💡 Tips
-
-لتبدأ تسوي فيديوهات 1080p بـ Seedance 2.0 مجانًا؟
- هذا الدليل خطوة بخطوة 👇
-
-1) ادخل المنصة
- https://t.co/iTWftTYUk3
-2) أنشئ حساب بسرعة
-تسجيل عبر: Google / Email / TikTok (أو أي خيار متاح)
-✅ بدون بطاقة بنكية.
-
-3) روح لقسم الفيديو
-بعد الدخول: افتح AI Video (غالبًا من القائمة الجانبية أو أعلى الصفحة).
-4) اختر الموديل
-من Model Dropdown اختر: Seedance 2.0
-5) اختر طريقة الإنشاء المناسبة
-🔹 Image to Video: ارفع صورة واحدة وخليها تتحول لمشهد سينمائي (الأسرع والأكثر استقرارًا).
-🔹 Frame to Video: ارفع أول وآخر إطار/صور مفتاحية لتحكم أدق بالحركة والانتقال.
-🔹 Text to Video: الأفضل تأجيله الآن بسبب الضغط وقد تحتاج تعيد المحاولة.
-
-6) اكتب برومبت ذكي
-ركز على: حركة الكاميرا + الإضاءة + الأسلوب + سرعة المشهد + الجو العام.
-كل ما كان الوصف أدق… النتيجة أفضل.
-7) اضغط Generate
-تحصل على فيديو 1080p
-ومهم: Seedance 2.0 غالبًا ما يستهلك رصيد (حسب ما يظهر داخل المنصة).
-
-ملاحظة: الحسابات الجديدة عادةً تحصل على 700 رصيد مجاني لتجربة نماذج ثانية.
-💡 نصيحة احترافية
-ابدأ بـ 4–8 ثواني باستخدام Image أو Frame.
-وإذا صار انتظار/خطأ بسبب الضغط: Refresh وجرب مرة ثانية.
-
-**Author:** [أيمن طير | Designer](https://x.com/Aymantair93) | **Source:** [Link](https://x.com/Aymantair93/status/2025887452615921944) | **Published:** Feb 23, 2026
-
----
-
-### Enter the Seedance platform and create an account via Google/Email/TikTok without a bank card to start for free
-
-> Enter the Seedance platform and create an account via Google/Email/TikTok without a bank card to start for free. From the AI Video section, choose the Seedance 2.0 model from the Model Dropdown f...
-
-#### 📝 Prompt
-
-```
-Enter the Seedance platform and create an account via Google/Email/TikTok without a bank card to start for free.  
-From the AI Video section, choose the Seedance 2.0 model from the Model Dropdown for 1080p output.  
-Use Image to Video by uploading a single image for faster and more stable results.  
-Use Frame to Video by uploading the first and last frames/key images for more precise control over movement and transition.  
-Postpone using Text to Video for now as it is under pressure and may require retrying.  
-Write a prompt specifying camera movement + lighting + style + scene speed + overall atmosphere to enhance the quality of the result.  
-Start with 4–8 second clips using Image to Video or Frame to Video to reduce time/errors.  
-If there is a wait or error due to pressure, refresh and then try Generate again.
-```
-
-**Author:** [أيمن طير | Designer](https://x.com/Aymantair93) | **Source:** [Link](https://x.com/Aymantair93/status/2025887455686082907) | **Published:** Feb 23, 2026
-
----
-
-### Go to sign up, open the AI Video section, and select Seedance 2.0 from the model dropdown to...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 just went FULLY FREE + no VPN needed 🤯🔥 The Chinese beast that terrified Hollywood is now wide open. And this new site is serving it completely free. 1080p cinematic motion, insan...
-
-#### 📝 Prompt
-
-```
-Go to https://t.co/4PbkIBEBXJ, sign up, open the AI Video section, and select Seedance 2.0 from the model dropdown to generate for free (no credit card, zero credits).
-
-Use Image to Video (upload one image) for the fastest and most stable Seedance 2.0 generations right now.
-
-Use Frame to Video by providing first/last frames (or key images) to get more controlled cinematic motion.
-
-Avoid Text to Video for now because the site is overloaded and it may fail multiple times before working.
-
-Write detailed prompts that specify camera moves, lighting, style, and pacing to steer the output.
-
-Start with short 4–8 second clips in Image or Frame mode to get faster results.
-
-If you hit a queue or error, refresh the page and try again.
-```
-
-#### 💡 Tips
-
-Even better: you get 700 free credits for other models, while Seedance 2.0 itself costs ZERO credits.
-
-Here is how to access👇👇
 
 1- Here’s the full step-by-step to start generating with FREE Seedance 2.0 right now 👇
 
-1. Head to the site: https://t.co/4PbkIBEBXJ
+1. Head to the site: https://t.co/JzqzV4wh03
 
-2. Sign up super quick. Use Google, email, TikTok, or any account you already have (no credit card needed at all). https://t.co/U43rUZvHfa
+2. Sign up super quick. Use Google, email, TikTok, or any account you already have (no credit card needed at all).
 
 3. Once you’re logged in, go to the AI Video section (usually on the left sidebar or top menu).
 
 4. Pick Seedance 2.0 from the model dropdown (it should be right there).
 
-5. Choose your mode:
- Image to Video – upload one image and watch it turn into smooth motion. This is the fastest and most stable option right now.
-   
-Frame to Video – drop your first and last frames or key images for super controlled cinematic flow.
-
-Text to Video – skip this one for now if you can. The site’s overloaded, so it might fail a few times before it works.
-
-6. Write your prompt or description. Be detailed: talk about camera moves, lighting, style, pacing, everything.
-
-7. Hit Generate. You’ll get clean 1080p output and Seedance 2.0 won’t cost you a single credit!
-
-Bonus: new accounts get 700 free credits anyway for trying other models.
-
-Pro tip: Start with short 4-8 second clips in Image or Frame mode the results are coming through fast today.
-
-If you hit a queue or error, just refresh the page and try again (peak traffic thing).
-
-**Author:** [Mustafy | AI Video Creator](https://x.com/MustafyOf) | **Source:** [Link](https://x.com/MustafyOf/status/2025792820846399950) | **Published:** Feb 23, 2026
+**Author:** [Shub](https://x.com/shub0414) | **Source:** [Link](https://x.com/shub0414/status/2026137822588285394) | **Published:** Feb 24, 2026
 
 ---
 
-### Go to to start generating with free Seedance 2.0 Sign up using Google, email, TikTok, or an e...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1- Here’s the full step-by-step to start generating with FREE Seedance 2.0 right now 👇 1. Head to the site: https://t.co/4PbkIBEBXJ 2. Sign up super quick. Use Google, email, TikTok, or any acco...
-
-#### 📝 Prompt
-
-```
-Go to https://t.co/4PbkIBEBXJ to start generating with free Seedance 2.0  
-Sign up using Google, email, TikTok, or an existing account (no credit card required)
-```
-
-**Author:** [Mustafy | AI Video Creator](https://x.com/MustafyOf) | **Source:** [Link](https://x.com/MustafyOf/status/2025792838085263781) | **Published:** Feb 23, 2026
-
----
-
-### Hit Generate to get clean 1080p output in Seedance 2.0 without spending credits
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 7. Hit Generate. You’ll get clean 1080p output and Seedance 2.0 won’t cost you a single credit! Bonus: new accounts get 700 free credits anyway for trying other models. Pro tip: Start with short ...
-
-#### 📝 Prompt
-
-```
-Hit Generate to get clean 1080p output in Seedance 2.0 without spending credits.  
-Start with short 4–8 second clips in Image or Frame mode to get faster results.
-```
-
-**Author:** [Mustafy | AI Video Creator](https://x.com/MustafyOf) | **Source:** [Link](https://x.com/MustafyOf/status/2025792859920552295) | **Published:** Feb 23, 2026
-
----
-
-### In Seedance 2.0 Editing Mode, upload/add a reference video and prompt for the characters you want; it will follow the...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 editing mode is extremely powerful. You just need to add the reference and make a simple request — it understands and follows the exact same movements from the original video, adding ...
-
-#### 📝 Prompt
-
-```
-In Seedance 2.0 Editing Mode, upload/add a reference video and prompt for the characters you want; it will follow the original video’s exact movements while inserting the requested characters (sakuga-quality edit).
-```
-
-#### 💡 Tips
-
-Video I used as reference.
-Credits: @@youneek on YouTube. https://t.co/ffZC3iB1CB
-
----
-
-Seedance 2.0 edit mode just transformed a fan animation into something that looks professionally produced. The upgrade in color, impact, and animation quality is massive — Gojo vs. Sukuna and Mahoraga. https://t.co/N6aeOtS39E
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025727630293475328/img/hJc7GJPuSRwTDDk5.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025728321820963106)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025728321820963106)**
-
-**Author:** [nachos2d](https://x.com/NACHOS2D_) | **Source:** [Link](https://x.com/NACHOS2D_/status/2025728321820963106) | **Published:** Feb 23, 2026
-
----
-
-### Prompt Seedance 2.0 with your full story, then use @nemovideoai to automatically select highlights and add sound effe...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This claymation is way too fun 😆 Just prompt #Seedance 2.0 with the story. Then @nemovideoai picks the highlights, adds sound effects and captions—editing it all automatically. https://t.co/48HzkA...
-
-#### 📝 Prompt
-
-```
-Prompt Seedance 2.0 with your full story, then use @nemovideoai to automatically select highlights and add sound effects and captions for auto-editing.
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025768872000008192/img/LZq_8i3OoKssWeVg.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025768983933411328)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025768983933411328)**
-
-**Author:** [NemoVideo](https://x.com/nemovideoai) | **Source:** [Link](https://x.com/nemovideoai/status/2025768983933411328) | **Published:** Feb 23, 2026
-
----
-
-### Seedance 2.0 has a maximum resolution of 720p, so if you plan to view it on a large screen, use DomoAI to upscale it ...
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.0 has a maximum resolution of 720p, so if you plan to view it on a large screen, use DomoAI to upscale it after generation. --- THREAD CONTINUATION --- [Thread 1] Try it 👇 https://t.co...
-
-#### 📝 Prompt
-
-```
-Seedance 2.0 has a maximum resolution of 720p, so if you plan to view it on a large screen, use DomoAI to upscale it after generation.
-
---- THREAD CONTINUATION ---
-[Thread 1] Try it 👇
-https://t.co/O5Qa8gXvWC
----
-```
-
-#### 💡 Tips
-
-Try it 👇
-https://t.co/O5Qa8gXvWC
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2025779021200662528/img/JDYIHkBDX8GJ8LC_.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025780637375033379)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025780637375033379)**
-
-**Author:** [KANA](https://x.com/KanaWorks_AI) | **Source:** [Link](https://x.com/KanaWorks_AI/status/2025780637375033379) | **Published:** Feb 23, 2026
-
----
-
-### Select Seedance 2.0 Pro → Image to Video → set duration to 5s → set resolution to 720p to get Seedance 2.0 working.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Y'all check out the new update on how to access Seedance 2.0 it's working.
-
-#### 📝 Prompt
-
-```
-Select Seedance 2.0 Pro → Image to Video → set duration to 5s → set resolution to 720p to get Seedance 2.0 working.
-```
-
-#### 💡 Tips
-
-@MustafyOf Oh wow that worked. For me I had to do: Seedance 2.0 Pro, Image to Video, 5s, 720p https://t.co/orNMXLEYVw
-
-**Author:** [Mustafy | AI Video Creator](https://x.com/MustafyOf) | **Source:** [Link](https://x.com/MustafyOf/status/2025840649556185180) | **Published:** Feb 23, 2026
-
----
-
-### Specify an exact number of cuts in your Seedance 2.0 prompt (e.g., 15 cuts) aligned to a specific beat, then refine t...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> I took @AimiKoda’s prompt and added my own twist with seedance 2.0 The results are wild. 🤯 I’m not a VFX artist, but I know this quality usually takes days to render manually. its VFX level qual...
-
-#### 📝 Prompt
-
-```
-Specify an exact number of cuts in your Seedance 2.0 prompt (e.g., 15 cuts) aligned to a specific beat, then refine the wording if the model generates a different number of cuts than requested.
-```
-
-#### 💡 Tips
-
-Alien Invasion - Seedance 2.0
-
-This time I wanted to try 15 cuts on a specific beat but I think it generated 17 instead. Maybe the wording could be refined a bit.
-
-The prompt is below, you can experiment with it as well. 
-
-Created on @MartiniArt_ https://t.co/FjBBe2cpxp
-
-**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2026018170717253667) | **Published:** Feb 23, 2026
-
----
-
-### Specify beat-sync editing in your Seedance prompt by stating the BPM and exact shot count (e.g., 140 BPM, 15 shots) t...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alien Invasion - Seedance 2.0 This time I wanted to try 15 cuts on a specific beat but I think it generated 17 instead. Maybe the wording could be refined a bit. The prompt is below, you can expe...
-
-#### 📝 Prompt
-
-```
-Specify beat-sync editing in your Seedance prompt by stating the BPM and exact shot count (e.g., 140 BPM, 15 shots) to guide quick-cut pacing.
-
-If Seedance generates the wrong number of cuts, refine the wording around shot count/beat-sync instructions to better enforce the intended number of shots.
-
-Use a shot-by-shot timeline with exact timestamps (e.g., 0:00–0:01 IMAX wide, 0:01–0:02 ECU, etc.) to control cut points and camera framing across the sequence.
-
-Add a dedicated TECHNICAL & RENDER block (camera style, lighting, lens specs, modifiers like 35mm film/photorealistic/cinematic/8k/volumetric) to steer overall look and cinematography consistency.
-
-Include MICRO DETAILS & TEXTURES (e.g., bioluminescent veins, viscous slime, concrete dust on wet surfaces) to increase material realism and tactile detail in the generated video.
-```
-
-#### 💡 Tips
-
-SCENE: ORGANIC ALIEN ARRIVAL - DOWNTOWN
-Quick Cuts - Beat-Sync Hard Editing (140 BPM, 15 Shots)
-
-ATMOSPHERE: Visceral biological dread. Gargantuan, pulsating organic entities eclipse the urban skyline. High-contrast, tactile dread.
-
-SHOT DESCRIPTION:
-A rhythmic, 15-shot sequence transition from wide entry to macro-destruction. Fleshy, prehensile limbs constrict and crush skyscrapers in a visceral display of biological power.
-
-TIMELINE / SHOT-BY-SHOT:
-0:00–0:03 - HOOK
-0:00–0:01 - IMAX WIDE. Fleshy obsidian entity with undulating membranes tears through clouds, casting a monumental shadow.
-SFX: Deep organic thrum.
-
-0:01–0:02 - ECU. Asphalt puddle ripples intensely.
-SFX: Surface tension snap.
-
-0:02–0:03 - GROUND POV. Handheld shake. Rusted sign vibrates as pigeons scatter.
-SFX: Wing flapping.
-
-0:03–0:07 - FIRST IMPACT
-0:03–0:04 - WIDE. Blinding magenta biological pulse erupts from core into the city.
-SFX: Biological crackle.
-
-0:04–0:05 - MEDIUM. Skyscraper buckles as thick, prehensile limbs wrap around and squeeze.
-SFX: Concrete grinding.
-
-0:05–0:06 - SLOW MOTION. Crowd sprints through dense gray dust.
-SFX: Muffled screams.
-
-0:06–0:07 - ACTION. Yellow taxi flipped by a stray, whip-like appendage.
-SFX: Metal crunch.
-
-0:07–0:11 - TENSION
-0:07–0:08 - LOW ANGLE. Towering bio-behemoth with glowing veins emerges from yellow smoke.
-SFX: Wet, rhythmic breath.
-
-0:08–0:09 - CLOSE UP. Massive suction-cupped limb presses into pavement, rippling asphalt.
-SFX: Wet squelch.
-
-0:09–0:10 - MEDIUM. Internal thoracic ripples charge with magenta glow behind translucent skin.
-SFX: Heartbeat pulse.
-
-0:10–0:11 - MACRO. Glass shards reflect the burning organic skyline.
-SFX: Glass tinkling.
-
-0:11–0:15 - FINAL SCALE
-0:11–0:12 - WIDE. Behemoth rises, tentacles trailing like massive sails.
-SFX: Wind roar.
-
-0:12–0:13 - TRACKING. Fighter jets streak across rooftops.
-SFX: Engine scream.
-
-0:13–0:14 - EPIC PULLBACK. Skyscraper constricted by biological tentacles, dissolving into dust.
-SFX: Structural collapse.
-
-0:14–0:15 - AERIAL WIDE. Sudden freeze frame on citywide devastation and bioluminescent fires.
-SFX: Silence after crescendo.
-
-TECHNICAL & RENDER:
-- Camera: Heavy handheld mixed with sweeping grand-scale establishing shots.
-- Light: High-contrast sunset; volumetric magenta bioluminescence.
-- Lens: IMAX 70mm, 14mm-85mm range.
-- Modifiers: Shot on 35mm film, photorealistic, cinematic atmospheric lighting, 8k, volumetric rendering.
-
-MICRO DETAILS & TEXTURES:
-- Undulating skin with bioluminescent vein networks.
-- Viscous slime dripping from limbs; concrete dust on wet surfaces.
-
-SOUND LAYERS:
-0:00-0:04: Deep organic thrum; wind.
-0:04-0:10: Squelching, grinding concrete, subsonic pulses.
-0:10-0:15: Structural crashes; high-frequency tinnitus ring.
-
-**Author:** [Aimi Kōda](https://x.com/aimikoda) | **Source:** [Link](https://x.com/aimikoda/status/2025965617074049224) | **Published:** Feb 23, 2026
-
----
-
-### Specify cinematic format parameters in your Seedance prompt (e.g., 2.35:1, 24fps, 15s, single continuous shot, 8K, la...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> I ran the exact same prompt on Sora 2 and Seedance 2.0. The difference in physics understanding is actually shocking. Seedance nailed the fluid dynamics and condensation vortices in one shot. Sor...
-
-#### 📝 Prompt
-
-```
-Specify cinematic format parameters in your Seedance prompt (e.g., 2.35:1, 24fps, 15s, single continuous shot, 8K, large-format photoreal, clean motion blur, no UI) to steer output toward a consistent one-shot “movie” look.  
-Include explicit physics/atmospherics keywords (e.g., fluid dynamics, condensation vortices, blade-tip vortices, downwash dimpling clouds, vortex ring, rainbow arc in mist, crisp cloud volumetrics) to push Seedance toward believable aerodynamic effects.  
-Choreograph camera movement step-by-step in the prompt (rapid circling orbit, drop altitude, violent swoop, top-down lock, diagonal chase, head-on, side chase, spears through ring, final fastest orbit) to control pacing and shot continuity in a single take.  
-Add “No text, no logos, no UI” to prevent unwanted overlays in the generated video.
-```
-
-#### 💡 Tips
-
-Sora 2's performance 
-
-Prompt 
-
-2.35:1, 24fps, 15s, single continuous shot, 8K, large-format photoreal, crisp cloud volumetrics, realistic turbine scale, condensation vortices, clean motion blur, no UI. Open high with a rapid circling orbit above a thick cloud sea—wind turbines pierce through like giant needles. A futuristic VTOL glider (sleek white fuselage, faint amber nav glow) darts between turbine towers, leaving a thin condensation thread that flickers in the cold air. The camera maintains a fast orbit while dropping altitude—wide for scale, then a violent swoop close enough to feel blade-tip wind, then back out—each pass revealing the glider carving impossible but believable lines through open air. On a tight pass, snap into a steep top-down lock for a beat: the glider passes between two turbines, and the blade-tip vortices briefly braid the clouds into twisting ropes. Whip the orbit lower into a diagonal chase, skimming along the cloud tops; the glider’s downwash dimples the cloud surface like soft foam. Slingshot ahead into a head-on as it surges toward camera, then whip into a close side chase where condensation forms a thin ribbon hugging the wing. Dive tighter to the rear flow: the wake pulls cloud wisps into a circular vortex ring. Sudden decision: the pilot cuts directly through a turbine wake—condensation snaps into a clean ring that expands like smoke. The camera spears through the ring and rockets upward into the final fastest orbit: climb hard as the cloud deck parts to reveal coastline far below, and a brief rainbow arc forms in the mist, framing the glider as a bright needle in the sky. No text, no logos
-
----
-
-I typed a sentence. I got a movie.
-
-Seedance 2.0 is absolutely insane. 🤯
-The lighting, physics, and consistency in these one-shot generations are next level.
-
-Look at these 4 outputs. https://t.co/zuL7mOqC7Q
-
-**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2025724576882159876) | **Published:** Feb 23, 2026
-
----
-
-### Structure beat-synced “quick cuts” by specifying timing and shot count in the prompt (e.g., 15s / 140 BPM / 13 shots ...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 🤯 This changes everything. Seedance 2.0 can extend clips flawlessly and even the soundtrack stays continuous. Check the output. Tutorial and prompts below. 👇 Seedance 2.0 on MartiniArt_ https...
-
-#### 📝 Prompt
-
-```
-Structure beat-synced “quick cuts” by specifying timing and shot count in the prompt (e.g., 15s / 140 BPM / 13 shots / hard beat-sync) and listing each numbered shot with camera angle + action.
-
-Add a NEGATIVE prompt to avoid common failures (e.g., flat light, low detail, matte surfaces, soft shadows, washed color, cartoon look, slow motion/slow edits).
-
-To extend an existing clip, download your first video, select the Seedance 2.0 Omni model, upload the video as a reference (trim/cut from the start if needed), then prompt with Extend @ video1 followed by the continuation shot list.
-
-Maintain continuity in an extension by matching the original format/style blocks (STYLE/CAMERA/ENVIRONMENT/LIGHTING) and continuing with explicit CUT/SHOT descriptions and SFX cues.
-```
-
-#### 💡 Tips
-
-Prompt for first 15secs (Seedance 2.0):
-
-Quick Cuts - Beat-Sync Hard Editing (140 BPM, 15 Shots)
-FORMAT: 15s / 140 BPM / 13 SHOTS / HARD BEAT-SYNC
-
-STYLE:
-Ultra cinematic cyberpunk realism. PBR materials. Wet asphalt reflections. High contrast noir lighting. Deep cobalt environment vs saturated red engine glow with cream highlights. Volumetric mist + tire smoke beams. Subtle chromatic aberration. Shallow depth. Specular metal edges. Soft skin subsurface. Lens bloom. AAA game cinematic quality.
-
-CAMERA:
-Low angles. Precision push-ins. Tight macro inserts. Dynamic tracking. Micro handheld vibration synced to engine idle. 35mm look with occasional 50mm macro cuts.
-
-ENVIRONMENT:
-Night starting grid. Overhead industrial start lights. Wet ground. Background racers as silhouettes. Foreground mechanical framing depth.
-
-CHARACTER:
-Young cyberpunk racer. White tech jacket. Tactical shorts. Gloves. Headset mic. Subtle facial cyber patches. Focused predatory calm.
-
-VEHICLE:
-Futuristic exposed-engine racer. Visible pistons. Red core glow. Polished tubing. Blue underglow strips. Dense mechanical detail.
-
-LIGHTING:
-Hard top floodlights. Blue ambient fill. Red engine core secondary source. Sharp rim highlights. Strong shadows. Visible light beams.
-
-SEQUENCE
-
-01 WIDE LOW — Racer beside machine. Smoke drift.
-SFX: distant engines.
-
-02 PUSH IN — Arm circuitry pulse.
-SFX: soft synth hum.
-
-03 MACRO — Gloves tighten.
-SFX: leather + velcro.
-
-04 SIDE CLOSE — Canopy opens.
-SFX: hydraulic hiss.
-
-05 INT — She drops in. LEDs reflect.
-SFX: harness click + boot tones.
-
-06 ECU — Ignition press.
-SFX: click.
-
-07 ENGINE — Pistons ignite red.
-SFX: ignition burst → idle growl.
-
-08 PAN — Rivals power up.
-SFX: staggered ignitions.
-
-9 EXTREME CLOSE — Instruments in eyes.
-SFX: bass heartbeat.
-
-10 INSERT — Hand grips shifter.
-SFX: glove creak.
-
-11 POV — Rival rev scream.
-SFX: turbo spool.
-
-12 START LIGHT — Red. Red. Red.
-SFX: 3 beeps + rising bass.
-
-13 GREEN — Violent launch spray.
-SFX: roar + tire scream + gear slam.
-
-NEGATIVE:
-flat light, low detail, matte surfaces, soft shadows, washed color, cartoon look, slow motion
-
-Download your first video, Choose Seedance 2.0 Omni as model. Upload the video as a reference (you can cut it from start). And then enter a prompt like this:
-
-Extend @ video1 (this is your reference video)
-RACE SEQUENCE
-
-CUT 01 — SPEED SURGE
-
-SIDE PROFILE. Cars blast past lens.
-
-SFX: doppler engine roars.
-
-CUT 02 — COCKPIT LOCK
-
-INT CLOSE. Her eyes steady unblinking.
-
-SFX: breath + chassis vibration.
-
-CUT 03 — NEAR MISS
-
-FRONT LOW. Rival slices across inches ahead.
-
-SFX: violent air shear.
-
-CUT 04 — SCRAPE
-
-MACRO SIDE. Two machines grind panels.
-
-SFX: metal scream + sparks spray.
-
-CUT 05 — SPINOUT
-
-WIDE. Rival fishtails into smoke spiral.
-
-SFX: tire shriek spin.
-
-CUT 06 — THREAD GAP
-
-FORWARD TRACK. She fires through closing gap.
-
-SFX: rapid gear snaps.
-
-CUT 07 — CRASH
-
-REAR ANGLE. Racer slams barrier hard.
-
-SFX: impact blast + debris scatter.
-
-CUT 08 — FULL THROTTLE
-
-LOW FRONT. Her machine surges clear ahead.
-
-SFX: peak engine scream.
-
-CUT 09 — FINAL STRAIGHT
-
-LONG LENS. Track lines streak beneath.
-
-SFX: sustained velocity roar.
-
-CUT 10 — FINISH
-
-WIDE. She crosses line. Light grid flashes overhead.
-
-SFX: engine blast pass + distant echo fade.
-
-NEGATIVE:
-
-flat lighting, low detail, soft motion, dull contrast, cartoon physics, slow edits
-
-You can use Seedance 2.0 and Seedance 2.0 Omni on @MartiniArt_
-
-**Author:** [Aimi Kōda](https://x.com/aimikoda) | **Source:** [Link](https://x.com/aimikoda/status/2026062885949157859) | **Published:** Feb 23, 2026
-
----
-
-### Structure your Seedance 2.0 prompt as a multi-shot timeline with exact timestamps (e.g., SHOT 1 0–2s, SHOT 2 2–3s, et...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This is not a Netflix documentary. This is not incredible CGI. This is 100% AI generated by Seedance 2.0. The visuals are crazy, but listen to the audio. The downshifts, the wheel guns, the tir...
-
-#### 📝 Prompt
-
-```
-Structure your Seedance 2.0 prompt as a multi-shot timeline with exact timestamps (e.g., SHOT 1 0–2s, SHOT 2 2–3s, etc.) to control pacing and edits.
-
-Specify camera mounting and stability explicitly (e.g., rigidly chassis-mounted, no handheld, only subtle mechanical vibration) to avoid unwanted shake.
-
-Lock camera placement and lens details (e.g., low centered nose-mounted, wide-angle 16–24mm) to get consistent onboard racing perspective.
-
-Call out edit style and speed (e.g., fast aggressive editing, hard cut, no slow motion, whip pans) to force a high-energy pit-stop montage.
-
-Use ultra-specific shot descriptors (macro, extreme close-up, top-down micro shot, wide pit crew shot) to increase detail in mechanical actions.
-
-Include physics/FX cues directly in the prompt (motion blur streaking lines, rubber dust, heat shimmer/heat distortion, condensation vortices, sparks, carbon fiber flex) to improve realism.
-
-Define lighting conditions (harsh pit-lane daylight, high contrast, realistic shadows) to stabilize the look across shots.
-
-Add explicit sound design beats in the prompt (engine downshift, air guns spinning up, tire screech, rev spike) to drive better audio generation.
-```
-
-#### 💡 Tips
-
-Prompt - Higgsfield sample prompt 
- 
-Cinematic racing video, duration 8–12 seconds.
-SHOT 1 — ONBOARD GRIP (0–2 seconds)Camera is rigidly mounted to the race car chassis, identical angle and position as the reference image.Low, centered nose-mounted camera, wide-angle lens (16–24mm).The car enters the pit lane at speed, decelerating hard.Track lines and pit lane markings streak past with motion blur.Subtle mechanical vibration only, no handheld movement.
-
-SHOT 2 — PIT ENTRY IMPACT CUT (2–3 seconds)Hard cut to front three-quarter low angle as the car snaps into its pit box.Brakes glow faintly, tires screech, pit crew already in motion.Sound peaks: engine downshift, air guns spinning up.
-
-SHOT 3 — RAPID PIT STOP MONTAGE (3–7 seconds)Fast, aggressive editing. No slow motion.Extreme close-up: pneumatic wheel gun slams into lug nut, sparks and vibration.Macro shot: tire comes off, rubber dust and heat shimmer visible.Low side angle: fresh tire slammed on, mechanic’s gloved hands blur with speed.Top-down micro shot: jack lifts the car, carbon fiber flexing slightly.Wide pit crew shot: all four corners moving in perfect sync. Camera styles vary:macroultra-lowshoulder-height pit wallwhip pans between actionsLighting is harsh pit-lane daylight, high contrast, realistic shadows.
-
-SHOT 4 — RELEASE (7–9 seconds)Close-up on front jack dropping.Lollipop man or signal light snaps green.Engine revs spike violently.
-
-SHOT 5 — EXIT & FINAL CAMERA (9–12 seconds)Cut to static low rear-angle camera, placed near the ground in the pit lane.The car launches forward, blasting past the camera.Rear diffuser, spinning tires, heat distortion visible.The car drives away into the track, shrinking into the distance. Camera remains fixed, watching the car exit frame.
-
----
-
-I ran the exact same prompt on Sora 2 and Seedance 2.0.
-
-The difference in physics understanding is actually shocking.
-
-Seedance nailed the fluid dynamics and condensation vortices in one shot. Sora... well, see the reply. 💀
-
-Full prompt and sora video 👇 https://t.co/Ep2wTEym4g
-
-**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2025955435312816242) | **Published:** Feb 23, 2026
-
----
-
-*... and 55 more tips. [View all in Gallery](https://youware.com/seedance-2-prompts)*
+*... and 94 more tips. [View all in Gallery](https://youware.com/seedance-2-prompts)*
 
 ---
 
@@ -4581,4 +4570,4 @@ Thanks to all the creators who shared their prompts with the community.
 
 **🌐 [View in Web Gallery](https://youware.com/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-02-25T14:09:07.428Z
+🤖 This README is automatically generated. Last updated: 2026-02-26T13:23:26.058Z
