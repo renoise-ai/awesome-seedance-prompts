@@ -1,0 +1,50 @@
+{
+  "id": "generate-multiple-short-clips-with-separate-prompts-eg",
+  "title": "Generate multiple short clips with separate prompts (e.g., 3...",
+  "content": "Generate multiple short clips with separate prompts (e.g., 3 prompts) and then chain/stitch the outputs together to build a longer video in Seedance 2.0.",
+  "description": "Ok this was pretty janky, but I am getting a bit better at Seedance 2.0, I can now chain some stuff together. Its not perfect, and tbh I kinda suck at editing videos. \n\nBut this could be really sick for making fan based Animes. \n\nIt even did the music and everything. I didn't do anything other than 3 prompts then sticking it together.  I didn't even get fancy and have it like reference the other videos. \n\nIts so addicting. I hope they don't nerf this because some amazing stuff will be made.",
+  "language": "en",
+  "author": {
+    "name": "Skely",
+    "link": "https://x.com/123skely"
+  },
+  "sourceLink": "https://x.com/123skely/status/2025383173564367303",
+  "sourcePublishedAt": "2026-02-22",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025382128847118337/img/Nf5tlrKoBlE3OEDC.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025383173564367303",
+  "featured": false,
+  "tags": [],
+  "tips": "Ok this was pretty janky, but I am getting a bit better at Seedance 2.0, I can now chain some stuff together. Its not perfect, and tbh I kinda suck at editing videos. \n\nBut this could be really sick for making fan based Animes. \n\nIt even did the music and everything. I didn't do anything other than 3 prompts then sticking it together.  I didn't even get fancy and have it like reference the other videos. \n\nIts so addicting. I hope they don't nerf this because some amazing stuff will be made.",
+  "translations": {
+    "es": {
+      "title": "Genera varios clips cortos con prompts separados (por ejempl",
+      "content": "Genera varios clips cortos con prompts separados (por ejemplo, 3 prompts) y luego encadena/une los resultados para construir un video más largo en Seedance 2.0.",
+      "description": "Genera varios clips cortos con prompts separados (por ejemplo, 3 prompts) y luego encadena/une los resultados para construir un video más largo en Seedance 2.0."
+    },
+    "fr": {
+      "title": "Générez plusieurs courts clips avec des prompts séparés (par",
+      "content": "Générez plusieurs courts clips avec des prompts séparés (par exemple, 3 prompts) puis enchaînez/assemblez les sorties pour créer une vidéo plus longue dans Seedance 2.0.",
+      "description": "Générez plusieurs courts clips avec des prompts séparés (par exemple, 3 prompts) puis enchaînez/assemblez les sorties pour créer une vidéo plus longue dans Seedance 2.0."
+    },
+    "ja": {
+      "title": "Seedance 2.0で、複数の短いクリップを生成し、それぞれに別々のプロンプト（例：3つのプロンプト）を使用して出力",
+      "content": "Seedance 2.0で、複数の短いクリップを生成し、それぞれに別々のプロンプト（例：3つのプロンプト）を使用して出力を連結/結合し、より長いビデオを作成します。",
+      "description": "Seedance 2.0で、複数の短いクリップを生成し、それぞれに別々のプロンプト（例：3つのプロンプト）を使用して出力を連結/結合し、より長いビデオを作成します。"
+    },
+    "ko": {
+      "title": "Seedance 2.0에서 더 긴 비디오를 만들기 위해 여러 개의 짧은 클립을 생성하고, 각각의 클립을 별도",
+      "content": "Seedance 2.0에서 더 긴 비디오를 만들기 위해 여러 개의 짧은 클립을 생성하고, 각각의 클립을 별도의 프롬프트(예: 3개의 프롬프트)로 생성한 후, 그 결과물을 연결/결합하세요.",
+      "description": "Seedance 2.0에서 더 긴 비디오를 만들기 위해 여러 개의 짧은 클립을 생성하고, 각각의 클립을 별도의 프롬프트(예: 3개의 프롬프트)로 생성한 후, 그 결과물을 연결/결합하세요."
+    },
+    "pt-BR": {
+      "title": "Gere vários clipes curtos com prompts separados (por exemplo",
+      "content": "Gere vários clipes curtos com prompts separados (por exemplo, 3 prompts) e depois encadeie/una os resultados para construir um vídeo mais longo no Seedance 2.0.",
+      "description": "Gere vários clipes curtos com prompts separados (por exemplo, 3 prompts) e depois encadeie/una os resultados para construir um vídeo mais longo no Seedance 2.0."
+    },
+    "zh-CN": {
+      "title": "在Seedance 2.0中，生成多个短片，每个短片使用不同的prompt（例如，3个prompts），然后将输出串联/",
+      "content": "在Seedance 2.0中，生成多个短片，每个短片使用不同的prompt（例如，3个prompts），然后将输出串联/拼接在一起以制作更长的视频。",
+      "description": "在Seedance 2.0中，生成多个短片，每个短片使用不同的prompt（例如，3个prompts），然后将输出串联/拼接在一起以制作更长的视频。"
+    }
+  }
+}

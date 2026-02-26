@@ -1,0 +1,50 @@
+{
+  "id": "use-a-single-image-plus-a-detailed-directors-prompt-in",
+  "title": "Use a single image plus a detailed director’s prompt in Seed...",
+  "content": "Use a single image plus a detailed director’s prompt in Seedance 2.0 to generate the video.",
+  "description": "A single image and a detailed director's prompt with Seedance 2.0. It's still not perfect but it's a lot of fun. https://t.co/dbl5GkS1oI",
+  "language": "en",
+  "author": {
+    "name": "Matt - BMFVR",
+    "link": "https://x.com/bmfshow"
+  },
+  "sourceLink": "https://x.com/bmfshow/status/2023016039286734973",
+  "sourcePublishedAt": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023016010346110976/pu/img/OyWDBPpYLCsWWGIm.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023016039286734973",
+  "featured": false,
+  "tags": [],
+  "tips": "A single image and a detailed director's prompt with Seedance 2.0. It's still not perfect but it's a lot of fun. https://t.co/dbl5GkS1oI",
+  "translations": {
+    "es": {
+      "title": "Usa una sola imagen más un prompt detallado del director en ",
+      "content": "Usa una sola imagen más un prompt detallado del director en Seedance 2.0 para generar el video.",
+      "description": "Usa una sola imagen más un prompt detallado del director en Seedance 2.0 para generar el video."
+    },
+    "fr": {
+      "title": "Utilisez une seule image plus un prompt détaillé de réalisat",
+      "content": "Utilisez une seule image plus un prompt détaillé de réalisateur dans Seedance 2.0 pour générer la vidéo.",
+      "description": "Utilisez une seule image plus un prompt détaillé de réalisateur dans Seedance 2.0 pour générer la vidéo."
+    },
+    "ja": {
+      "title": "Seedance 2.0で、1枚の画像と詳細なディレクターのプロンプトを使用してビデオを生成します。",
+      "content": "Seedance 2.0で、1枚の画像と詳細なディレクターのプロンプトを使用してビデオを生成します。",
+      "description": "Seedance 2.0で、1枚の画像と詳細なディレクターのプロンプトを使用してビデオを生成します。"
+    },
+    "ko": {
+      "title": "Seedance 2.0에서 단일 이미지와 상세한 감독의 프롬프트를 사용하여 비디오를 생성하세요.",
+      "content": "Seedance 2.0에서 단일 이미지와 상세한 감독의 프롬프트를 사용하여 비디오를 생성하세요.",
+      "description": "Seedance 2.0에서 단일 이미지와 상세한 감독의 프롬프트를 사용하여 비디오를 생성하세요."
+    },
+    "pt-BR": {
+      "title": "Use uma única imagem mais um prompt detalhado de diretor no ",
+      "content": "Use uma única imagem mais um prompt detalhado de diretor no Seedance 2.0 para gerar o vídeo.",
+      "description": "Use uma única imagem mais um prompt detalhado de diretor no Seedance 2.0 para gerar o vídeo."
+    },
+    "zh-CN": {
+      "title": "使用一张图片加上Seedance 2.0中的详细导演提示来生成视频。",
+      "content": "使用一张图片加上Seedance 2.0中的详细导演提示来生成视频。",
+      "description": "使用一张图片加上Seedance 2.0中的详细导演提示来生成视频。"
+    }
+  }
+}

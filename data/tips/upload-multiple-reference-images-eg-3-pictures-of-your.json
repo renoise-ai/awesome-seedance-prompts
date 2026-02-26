@@ -1,0 +1,50 @@
+{
+  "id": "upload-multiple-reference-images-eg-3-pictures-of-your",
+  "title": "Upload multiple reference images (e.g., 3 pictures of your c...",
+  "content": "Upload multiple reference images (e.g., 3 pictures of your characters) into Seedance 2.0 and prompt it to animate them performing a specific action together (e.g., playing in a rock band).",
+  "description": "Uploaded 3 pictures to Seedance 2.0, I took of Eve, Adam and Kaya, use these as reference and make them play in a rock band #StellarBlade #Seedance2_0 #StellarBladePC #ステラーブレイド #Seedance2  #Seedance https://t.co/ScLWsBUv85",
+  "language": "en",
+  "author": {
+    "name": "fpsprince",
+    "link": "https://x.com/realfpsprince"
+  },
+  "sourceLink": "https://x.com/realfpsprince/status/2025879977414087022",
+  "sourcePublishedAt": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025879952957001728/pu/img/UyKeddDkXj6y6sTd.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025879977414087022",
+  "featured": false,
+  "tags": [],
+  "tips": "Uploaded 3 pictures to Seedance 2.0, I took of Eve, Adam and Kaya, use these as reference and make them play in a rock band #StellarBlade #Seedance2_0 #StellarBladePC #ステラーブレイド #Seedance2  #Seedance https://t.co/ScLWsBUv85",
+  "translations": {
+    "es": {
+      "title": "Sube múltiples imágenes de referencia (por ejemplo, 3 fotos ",
+      "content": "Sube múltiples imágenes de referencia (por ejemplo, 3 fotos de tus personajes) a Seedance 2.0 y prompt it to animate them performing a specific action together (e.g., playing in a rock band).",
+      "description": "Sube múltiples imágenes de referencia (por ejemplo, 3 fotos de tus personajes) a Seedance 2.0 y prompt it to animate them performing a specific action together (e.g., playing in a rock band)."
+    },
+    "fr": {
+      "title": "Téléchargez plusieurs images de référence (par exemple, 3 ph",
+      "content": "Téléchargez plusieurs images de référence (par exemple, 3 photos de vos personnages) dans Seedance 2.0 et prompt it to animate them performing a specific action together (e.g., playing in a rock band).",
+      "description": "Téléchargez plusieurs images de référence (par exemple, 3 photos de vos personnages) dans Seedance 2.0 et prompt it to animate them performing a specific action together (e.g., playing in a rock band)..."
+    },
+    "ja": {
+      "title": "複数の参照画像（例：キャラクターの3枚の写真）をSeedance 2.0にアップロードし、特定のアクションを一緒に行うア",
+      "content": "複数の参照画像（例：キャラクターの3枚の写真）をSeedance 2.0にアップロードし、特定のアクションを一緒に行うアニメーションを作成するようにプロンプトを設定します（例：ロックバンドで演奏する）。",
+      "description": "複数の参照画像（例：キャラクターの3枚の写真）をSeedance 2.0にアップロードし、特定のアクションを一緒に行うアニメーションを作成するようにプロンプトを設定します（例：ロックバンドで演奏する）。"
+    },
+    "ko": {
+      "title": "여러 개의 참조 이미지를 업로드하세요 (예: 캐릭터의 사진 3장) Seedance 2.0에 업로드하고 특정 ",
+      "content": "여러 개의 참조 이미지를 업로드하세요 (예: 캐릭터의 사진 3장) Seedance 2.0에 업로드하고 특정 동작을 함께 수행하는 애니메이션을 만들도록 프롬프트하세요 (예: 록 밴드에서 연주하기).",
+      "description": "여러 개의 참조 이미지를 업로드하세요 (예: 캐릭터의 사진 3장) Seedance 2.0에 업로드하고 특정 동작을 함께 수행하는 애니메이션을 만들도록 프롬프트하세요 (예: 록 밴드에서 연주하기)."
+    },
+    "pt-BR": {
+      "title": "Carregue várias imagens de referência (por exemplo, 3 fotos ",
+      "content": "Carregue várias imagens de referência (por exemplo, 3 fotos dos seus personagens) no Seedance 2.0 e prompt para animá-los realizando uma ação específica juntos (por exemplo, tocando em uma banda de rock).",
+      "description": "Carregue várias imagens de referência (por exemplo, 3 fotos dos seus personagens) no Seedance 2.0 e prompt para animá-los realizando uma ação específica juntos (por exemplo, tocando em uma banda de ro..."
+    },
+    "zh-CN": {
+      "title": "将多张参考图像（例如，3张角色的图片）上传到Seedance 2.0，并prompt它们一起执行特定动作的动画（例如，在",
+      "content": "将多张参考图像（例如，3张角色的图片）上传到Seedance 2.0，并prompt它们一起执行特定动作的动画（例如，在摇滚乐队中演奏）。",
+      "description": "将多张参考图像（例如，3张角色的图片）上传到Seedance 2.0，并prompt它们一起执行特定动作的动画（例如，在摇滚乐队中演奏）。"
+    }
+  }
+}

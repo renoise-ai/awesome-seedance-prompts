@@ -1,0 +1,48 @@
+{
+  "id": "use-seedance-20s-prompt-detector-to-analyze-generation",
+  "title": "Use Seedance 2.0’s Prompt Detector to analyze generation err...",
+  "content": "Use Seedance 2.0’s Prompt Detector to analyze generation errors and apply its suggested prompt improvements to reduce failed outputs.",
+  "description": "The Ultimate Guide to Seedance 2.0\nhttps://t.co/EQuQjSBcA7\n\n添付画像はエラーの嵐とエラーを分析して改善提案しくれる「Prompt Detector」の使用画面です。\n\n専用ツールが用意されているくらい生成失敗するともいえます😇 https://t.co/nYYiZc3kgs",
+  "language": "ja",
+  "author": {
+    "name": "絵空事テレビ / AIカワウソ",
+    "link": "https://x.com/boke_ai"
+  },
+  "sourceLink": "https://x.com/boke_ai/status/2025552650092290087",
+  "sourcePublishedAt": "2026-02-22",
+  "featured": false,
+  "tags": [],
+  "tips": "The Ultimate Guide to Seedance 2.0\nhttps://t.co/EQuQjSBcA7\n\n添付画像はエラーの嵐とエラーを分析して改善提案しくれる「Prompt Detector」の使用画面です。\n\n専用ツールが用意されているくらい生成失敗するともいえます😇 https://t.co/nYYiZc3kgs",
+  "translations": {
+    "en": {
+      "title": "Utilize el Detector de Prompts de Seedance 2.0 para analizar",
+      "content": "Utilize el Detector de Prompts de Seedance 2.0 para analizar errores de generación y aplicar sus mejoras sugeridas en los prompts para reducir los resultados fallidos.",
+      "description": "Utilize el Detector de Prompts de Seedance 2.0 para analizar errores de generación y aplicar sus mejoras sugeridas en los prompts para reducir los resultados fallidos."
+    },
+    "es": {
+      "title": "Utiliza el Detector de Prompts de Seedance 2.0 para analizar",
+      "content": "Utiliza el Detector de Prompts de Seedance 2.0 para analizar errores de generación y aplicar las mejoras de prompts sugeridas para reducir los resultados fallidos.",
+      "description": "Utiliza el Detector de Prompts de Seedance 2.0 para analizar errores de generación y aplicar las mejoras de prompts sugeridas para reducir los resultados fallidos."
+    },
+    "fr": {
+      "title": "Utilisez le détecteur de prompt de Seedance 2.0 pour analyse",
+      "content": "Utilisez le détecteur de prompt de Seedance 2.0 pour analyser les erreurs de génération et appliquez ses améliorations de prompt suggérées afin de réduire les sorties échouées.",
+      "description": "Utilisez le détecteur de prompt de Seedance 2.0 pour analyser les erreurs de génération et appliquez ses améliorations de prompt suggérées afin de réduire les sorties échouées."
+    },
+    "ko": {
+      "title": "Seedance 2.0의 Prompt Detector를 사용하여 생성 오류를 분석하고, 실패한 출력물을 줄이",
+      "content": "Seedance 2.0의 Prompt Detector를 사용하여 생성 오류를 분석하고, 실패한 출력물을 줄이기 위해 제안된 프롬프트 개선 사항을 적용하세요.",
+      "description": "Seedance 2.0의 Prompt Detector를 사용하여 생성 오류를 분석하고, 실패한 출력물을 줄이기 위해 제안된 프롬프트 개선 사항을 적용하세요."
+    },
+    "pt-BR": {
+      "title": "Use o Prompt Detector do Seedance 2.0 para analisar erros de",
+      "content": "Use o Prompt Detector do Seedance 2.0 para analisar erros de geração e aplicar suas sugestões de melhorias de prompt para reduzir saídas com falhas.",
+      "description": "Use o Prompt Detector do Seedance 2.0 para analisar erros de geração e aplicar suas sugestões de melhorias de prompt para reduzir saídas com falhas."
+    },
+    "zh-CN": {
+      "title": "使用Seedance 2.0的Prompt Detector分析生成错误，并应用其建议的提示改进以减少失败的输出。",
+      "content": "使用Seedance 2.0的Prompt Detector分析生成错误，并应用其建议的提示改进以减少失败的输出。",
+      "description": "使用Seedance 2.0的Prompt Detector分析生成错误，并应用其建议的提示改进以减少失败的输出。"
+    }
+  }
+}

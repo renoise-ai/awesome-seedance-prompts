@@ -1,0 +1,50 @@
+{
+  "id": "day-in-the-life-of-a-salaryman-but-hes-a-capybara-make",
+  "title": "day in the life of a salaryman, but he's a capybara. Make it...",
+  "content": "day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.",
+  "description": "Prompt: day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.\n\nMade with Seedance 2.0 on @yapper_so https://t.co/NiYtFBxJDo",
+  "language": "en",
+  "author": {
+    "name": "Emmet Halm",
+    "link": "https://x.com/ehalm_"
+  },
+  "sourceLink": "https://x.com/ehalm_/status/2026559157302902801",
+  "sourcePublishedAt": "2026-02-25",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026558649460817920/img/SasUUB1GrhAvFYBp.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026559157302902801",
+  "featured": false,
+  "tags": [],
+  "tips": "Prompt: day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.\n\nMade with Seedance 2.0 on @yapper_so https://t.co/NiYtFBxJDo",
+  "translations": {
+    "es": {
+      "title": "Un día en la vida de un asalariado, pero es un carpincho. Ha",
+      "content": "Un día en la vida de un asalariado, pero es un carpincho. Hazlo lo más realista posible.",
+      "description": "Un día en la vida de un asalariado, pero es un carpincho. Hazlo lo más realista posible."
+    },
+    "fr": {
+      "title": "journée dans la vie d'un salarié, mais c'est un capybara. Re",
+      "content": "journée dans la vie d'un salarié, mais c'est un capybara. Rendez-le aussi réaliste que possible.",
+      "description": "journée dans la vie d'un salarié, mais c'est un capybara. Rendez-le aussi réaliste que possible."
+    },
+    "ja": {
+      "title": "サラリーマンの日常生活、ただし彼はカピバラです。できるだけリアルに描写してください。",
+      "content": "サラリーマンの日常生活、ただし彼はカピバラです。できるだけリアルに描写してください。",
+      "description": "サラリーマンの日常生活、ただし彼はカピバラです。できるだけリアルに描写してください。"
+    },
+    "ko": {
+      "title": "샐러리맨의 하루, 하지만 그는 카피바라입니다. 가능한 한 현실적으로 만들어 주세요.",
+      "content": "샐러리맨의 하루, 하지만 그는 카피바라입니다. 가능한 한 현실적으로 만들어 주세요.",
+      "description": "샐러리맨의 하루, 하지만 그는 카피바라입니다. 가능한 한 현실적으로 만들어 주세요."
+    },
+    "pt-BR": {
+      "title": "dia na vida de um assalariado, mas ele é uma capivara. Faça ",
+      "content": "dia na vida de um assalariado, mas ele é uma capivara. Faça o mais realista possível.",
+      "description": "dia na vida de um assalariado, mas ele é uma capivara. Faça o mais realista possível."
+    },
+    "zh-CN": {
+      "title": "一只水豚的上班族生活，尽量做到真实。",
+      "content": "一只水豚的上班族生活，尽量做到真实。",
+      "description": "一只水豚的上班族生活，尽量做到真实。"
+    }
+  }
+}

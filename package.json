@@ -1,0 +1,22 @@
+{
+  "name": "awesome-seedance-2-prompts",
+  "version": "1.0.0",
+  "description": "Curated collection of Seedance 2.0 video generation prompts",
+  "type": "module",
+  "scripts": {
+    "sync": "tsx scripts/sync-data.ts",
+    "generate": "tsx scripts/generate-readme.ts",
+    "translate": "tsx scripts/translate.ts",
+    "validate": "tsx scripts/validate.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "glob": "^11.0.0"
+  },
+  "packageManager": "pnpm@9.15.9"
+}

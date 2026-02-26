@@ -1,0 +1,50 @@
+{
+  "id": "avoid-using-actor-names-or-copyrighted-materials-in",
+  "title": "Avoid using actor names or copyrighted materials in Seedance...",
+  "content": "Avoid using actor names or copyrighted materials in Seedance prompts due to aggressive safeguards that block them.",
+  "description": "There's a very poorly researched blog \"debunking\" seedance 2.0. It claims Seedance is using a secret library of video clips and secretly doing video to video under the hood instead. I wouldn't normally care except i'm being called a liar so here is my response via text to video: https://t.co/5A27GIOH3P",
+  "language": "en",
+  "author": {
+    "name": "Ruairi Robinson",
+    "link": "https://x.com/RuairiRobinson"
+  },
+  "sourceLink": "https://x.com/RuairiRobinson/status/2026164263547793787",
+  "sourcePublishedAt": "2026-02-24",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026160813200031744/img/uBQnaC76hOOQk8IX.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787",
+  "featured": false,
+  "tags": [],
+  "tips": "There's a very poorly researched blog \"debunking\" seedance 2.0. It claims Seedance is using a secret library of video clips and secretly doing video to video under the hood instead. I wouldn't normally care except i'm being called a liar so here is my response via text to video: https://t.co/5A27GIOH3P",
+  "translations": {
+    "es": {
+      "title": "Evita usar nombres de actores o materiales con derechos de a",
+      "content": "Evita usar nombres de actores o materiales con derechos de autor en los prompts de Seedance debido a las estrictas salvaguardias que los bloquean.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Nota: Actualmente, el modelo tiene salvaguardias muy estrictas que impiden el uso de nombres de actores o materiales con derechos de autor en los prompts, pero parece haber un pequeño fallo en el sistema -- no hice un prompt con la semejanza de estos actores en absoluto. https://t.co/gLcnapBtCv\n---",
+      "description": "Evita usar nombres de actores o materiales con derechos de autor en los prompts de Seedance debido a las estrictas salvaguardias que los bloquean.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Nota: Actualm..."
+    },
+    "fr": {
+      "title": "Évitez d'utiliser des noms d'acteurs ou des matériaux protég",
+      "content": "Évitez d'utiliser des noms d'acteurs ou des matériaux protégés par des droits d'auteur dans les prompts Seedance en raison de mesures de protection agressives qui les bloquent.\n\n--- SUITE DU FIL ---\n[Fil 1] Remarque : Actuellement, le modèle dispose de mesures de protection très agressives empêchant l'utilisation de noms d'acteurs ou de matériaux protégés par des droits d'auteur dans les prompts, mais il semble y avoir un petit bug dans le système -- je n'ai pas du tout demandé la ressemblance de ces acteurs. https://t.co/gLcnapBtCv",
+      "description": "Évitez d'utiliser des noms d'acteurs ou des matériaux protégés par des droits d'auteur dans les prompts Seedance en raison de mesures de protection agressives qui les bloquent.\n\n--- SUITE DU FIL ---\n[..."
+    },
+    "ja": {
+      "title": "Seedanceのプロンプトでは、俳優の名前や著作権で保護された素材の使用を避けてください。厳しいセーフガードがそれらを",
+      "content": "Seedanceのプロンプトでは、俳優の名前や著作権で保護された素材の使用を避けてください。厳しいセーフガードがそれらをブロックします。\n\n--- スレッドの続き ---\n[スレッド1] 注意: 現在、モデルにはプロンプトで俳優の名前や著作権で保護された素材の使用を防ぐ非常に厳しいセーフガードがありますが、システムに少し不具合があるようです -- 私はこれらの俳優の肖像をプロンプトにしていません。 https://t.co/gLcnapBtCv",
+      "description": "Seedanceのプロンプトでは、俳優の名前や著作権で保護された素材の使用を避けてください。厳しいセーフガードがそれらをブロックします。\n\n--- スレッドの続き ---\n[スレッド1] 注意: 現在、モデルにはプロンプトで俳優の名前や著作権で保護された素材の使用を防ぐ非常に厳しいセーフガードがありますが、システムに少し不具合があるようです -- 私はこれらの俳優の肖像をプロンプトにしていません。..."
+    },
+    "ko": {
+      "title": "Seedance 프롬프트에서는 배우 이름이나 저작권이 있는 자료를 사용하지 마세요. 매우 강력한 안전장치가 ",
+      "content": "Seedance 프롬프트에서는 배우 이름이나 저작권이 있는 자료를 사용하지 마세요. 매우 강력한 안전장치가 이를 차단합니다.\n\n--- 스레드 계속 ---\n[스레드 1] 참고: 현재 모델은 프롬프트에서 배우 이름이나 저작권이 있는 자료의 사용을 매우 강력하게 차단하는 안전장치를 가지고 있지만, 시스템에 약간의 오류가 있는 것 같습니다 -- 저는 이 배우들의 유사성을 전혀 프롬프트하지 않았습니다. https://t.co/gLcnapBtCv",
+      "description": "Seedance 프롬프트에서는 배우 이름이나 저작권이 있는 자료를 사용하지 마세요. 매우 강력한 안전장치가 이를 차단합니다.\n\n--- 스레드 계속 ---\n[스레드 1] 참고: 현재 모델은 프롬프트에서 배우 이름이나 저작권이 있는 자료의 사용을 매우 강력하게 차단하는 안전장치를 가지고 있지만, 시스템에 약간의 오류가 있는 것 같습니다 -- 저는 이 배우들의 ..."
+    },
+    "pt-BR": {
+      "title": "Evite usar nomes de atores ou materiais protegidos por direi",
+      "content": "Evite usar nomes de atores ou materiais protegidos por direitos autorais em prompts do Seedance devido a proteções agressivas que os bloqueiam.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Nota: Atualmente, o modelo possui proteções muito agressivas que impedem o uso de nomes de atores ou materiais protegidos por direitos autorais nos prompts, mas parece haver um pequeno problema no sistema -- eu não solicitei a semelhança desses atores de forma alguma. https://t.co/gLcnapBtCv",
+      "description": "Evite usar nomes de atores ou materiais protegidos por direitos autorais em prompts do Seedance devido a proteções agressivas que os bloqueiam.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Nota: Atualmen..."
+    },
+    "zh-CN": {
+      "title": "避免在Seedance提示中使用演员姓名或受版权保护的材料，因为有严格的防护措施会阻止这些内容。",
+      "content": "避免在Seedance提示中使用演员姓名或受版权保护的材料，因为有严格的防护措施会阻止这些内容。\n\n--- 线程继续 ---\n[线程 1] 注意：目前模型有非常严格的防护措施，防止在提示中使用演员姓名或受版权保护的材料，但系统似乎有点小故障——我根本没有提示这些演员的肖像。https://t.co/gLcnapBtCv",
+      "description": "避免在Seedance提示中使用演员姓名或受版权保护的材料，因为有严格的防护措施会阻止这些内容。\n\n--- 线程继续 ---\n[线程 1] 注意：目前模型有非常严格的防护措施，防止在提示中使用演员姓名或受版权保护的材料，但系统似乎有点小故障——我根本没有提示这些演员的肖像。https://t.co/gLcnapBtCv"
+    }
+  }
+}

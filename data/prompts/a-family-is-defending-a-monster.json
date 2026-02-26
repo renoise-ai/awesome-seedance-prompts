@@ -1,0 +1,50 @@
+{
+  "id": "a-family-is-defending-a-monster",
+  "title": "A family is defending a monster.",
+  "content": "A family is defending a monster.",
+  "description": "Seedance 2.0 Fast. Prompt: A family is defending a monster. https://t.co/THxEbb5f58",
+  "language": "en",
+  "author": {
+    "name": "Huaizheng Zhang",
+    "link": "https://x.com/zhzHNN"
+  },
+  "sourceLink": "https://x.com/zhzHNN/status/2023183788952670436",
+  "sourcePublishedAt": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023183735953465344/img/DScgaj_nSAZF-HVg.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023183788952670436",
+  "featured": false,
+  "tags": [],
+  "tips": "Seedance 2.0 Fast. Prompt: A family is defending a monster. https://t.co/THxEbb5f58",
+  "translations": {
+    "es": {
+      "title": "Una familia está defendiendo a un monstruo.",
+      "content": "Una familia está defendiendo a un monstruo.",
+      "description": "Una familia está defendiendo a un monstruo."
+    },
+    "fr": {
+      "title": "Une famille défend un monstre.",
+      "content": "Une famille défend un monstre.",
+      "description": "Une famille défend un monstre."
+    },
+    "ja": {
+      "title": "家族がモンスターを守っている。",
+      "content": "家族がモンスターを守っている。",
+      "description": "家族がモンスターを守っている。"
+    },
+    "ko": {
+      "title": "가족이 괴물을 방어하고 있다.",
+      "content": "가족이 괴물을 방어하고 있다.",
+      "description": "가족이 괴물을 방어하고 있다."
+    },
+    "pt-BR": {
+      "title": "Uma família está defendendo um monstro.",
+      "content": "Uma família está defendendo um monstro.",
+      "description": "Uma família está defendendo um monstro."
+    },
+    "zh-CN": {
+      "title": "一家人在保护一只怪物。",
+      "content": "一家人在保护一只怪物。",
+      "description": "一家人在保护一只怪物。"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "sube-una-tiracmic-como-referencia-en-seedance-2-y",
+  "title": "Sube una tira/cómic como referencia en Seedance 2 y pídele q...",
+  "content": "Sube una tira/cómic como referencia en Seedance 2 y pídele que genere un video basado en ese material para convertirlo en una animación fácilmente",
+  "description": "Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme un video en base al mismo. Si bien se tomó algunas licencias poéticas, es una LOCURA que se pueda convertir cualquier tira cómica en un video animado tan fácil https://t.co/1iI8AXLFyN",
+  "language": "es",
+  "author": {
+    "name": "Alan Daitch",
+    "link": "https://x.com/AlanDaitch"
+  },
+  "sourceLink": "https://x.com/AlanDaitch/status/2026762507306545641",
+  "sourcePublishedAt": "2026-02-25",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026762427744796672/img/oYkjLTJUEHtN9ft7.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762507306545641",
+  "featured": false,
+  "tags": [],
+  "tips": "Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme un video en base al mismo. Si bien se tomó algunas licencias poéticas, es una LOCURA que se pueda convertir cualquier tira cómica en un video animado tan fácil https://t.co/1iI8AXLFyN",
+  "translations": {
+    "en": {
+      "title": "Upload a strip/comic as a reference in Seedance 2 and ask it",
+      "content": "Upload a strip/comic as a reference in Seedance 2 and ask it to generate a video based on that material to easily turn it into an animation.",
+      "description": "Upload a strip/comic as a reference in Seedance 2 and ask it to generate a video based on that material to easily turn it into an animation."
+    },
+    "fr": {
+      "title": "Télécharge une bande dessinée comme référence dans Seedance ",
+      "content": "Télécharge une bande dessinée comme référence dans Seedance 2 et demande-lui de générer une vidéo basée sur ce matériel pour le transformer facilement en animation.",
+      "description": "Télécharge une bande dessinée comme référence dans Seedance 2 et demande-lui de générer une vidéo basée sur ce matériel pour le transformer facilement en animation."
+    },
+    "ja": {
+      "title": "Seedance 2にリファレンスとしてストリップ/コミックをアップロードし、それを基にしたビデオを生成して簡単にアニメ",
+      "content": "Seedance 2にリファレンスとしてストリップ/コミックをアップロードし、それを基にしたビデオを生成して簡単にアニメーションに変換するように依頼してください。",
+      "description": "Seedance 2にリファレンスとしてストリップ/コミックをアップロードし、それを基にしたビデオを生成して簡単にアニメーションに変換するように依頼してください。"
+    },
+    "ko": {
+      "title": "Seedance 2에 참조용으로 만화/코믹을 업로드하고, 그 자료를 기반으로 비디오를 생성하여 쉽게 애니메이",
+      "content": "Seedance 2에 참조용으로 만화/코믹을 업로드하고, 그 자료를 기반으로 비디오를 생성하여 쉽게 애니메이션으로 변환하도록 요청하세요.",
+      "description": "Seedance 2에 참조용으로 만화/코믹을 업로드하고, 그 자료를 기반으로 비디오를 생성하여 쉽게 애니메이션으로 변환하도록 요청하세요."
+    },
+    "pt-BR": {
+      "title": "Suba uma tira/quadrinho como referência no Seedance 2 e peça",
+      "content": "Suba uma tira/quadrinho como referência no Seedance 2 e peça para gerar um vídeo baseado nesse material para transformá-lo em uma animação facilmente.",
+      "description": "Suba uma tira/quadrinho como referência no Seedance 2 e peça para gerar um vídeo baseado nesse material para transformá-lo em uma animação facilmente."
+    },
+    "zh-CN": {
+      "title": "在 Seedance 2 中上传一条漫画作为参考，并请求它基于该材料生成一个视频，以便轻松将其转换为动画。",
+      "content": "在 Seedance 2 中上传一条漫画作为参考，并请求它基于该材料生成一个视频，以便轻松将其转换为动画。",
+      "description": "在 Seedance 2 中上传一条漫画作为参考，并请求它基于该材料生成一个视频，以便轻松将其转换为动画。"
+    }
+  }
+}

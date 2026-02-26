@@ -1,0 +1,48 @@
+{
+  "id": "if-an-english-prompt-gets-blocked-by-seedance-2-s-content",
+  "title": "If an English prompt gets blocked by Seedance 2’s content filter, translate the same prompt into Chinese and try agai...",
+  "content": "If an English prompt gets blocked by Seedance 2’s content filter, translate the same prompt into Chinese and try again to pass the filter faster.",
+  "description": "We updated our Seedance 2 prompt guide. \n\nNew find: the content filter is harder on English than Chinese. \n\nSimple prompts that fail in English pass instantly when translated.\n\nhttps://t.co/A3ps2eoaOF",
+  "language": "en",
+  "author": {
+    "name": "mitte.ai",
+    "link": "https://x.com/mitte_ai"
+  },
+  "sourceLink": "https://x.com/mitte_ai/status/2026254164481716476",
+  "sourcePublishedAt": "2026-02-24",
+  "thumbnail": "",
+  "featured": false,
+  "tags": [],
+  "translations": {
+    "es": {
+      "title": "Si un prompt en inglés es bloqueado por el filtro de contenido de Seedance 2, traduce el mismo prompt al chino e inte...",
+      "content": "Si un prompt en inglés es bloqueado por el filtro de contenido de Seedance 2, traduce el mismo prompt al chino e intenta nuevamente para pasar el filtro más rápido.",
+      "description": "Si un prompt en inglés es bloqueado por el filtro de contenido de Seedance 2, traduce el mismo prompt al chino e intenta nuevamente para pasar el filtro más rápido."
+    },
+    "fr": {
+      "title": "Si une prompt en anglais est bloquée par le filtre de contenu de Seedance 2, traduisez la même prompt en chinois et r...",
+      "content": "Si une prompt en anglais est bloquée par le filtre de contenu de Seedance 2, traduisez la même prompt en chinois et réessayez pour passer le filtre plus rapidement.",
+      "description": "Si une prompt en anglais est bloquée par le filtre de contenu de Seedance 2, traduisez la même prompt en chinois et réessayez pour passer le filtre plus rapidement."
+    },
+    "ja": {
+      "title": "英語のプロンプトがSeedance 2のコンテンツフィルターでブロックされた場合、同じプロンプトを中国語に翻訳して、フィルターをより早く通過できるか試してみてください。",
+      "content": "---\n英語のプロンプトがSeedance 2のコンテンツフィルターでブロックされた場合、同じプロンプトを中国語に翻訳して、フィルターをより早く通過できるか試してみてください。",
+      "description": "---\n英語のプロンプトがSeedance 2のコンテンツフィルターでブロックされた場合、同じプロンプトを中国語に翻訳して、フィルターをより早く通過できるか試してみてください。"
+    },
+    "ko": {
+      "title": "영어 프롬프트가 Seedance 2의 콘텐츠 필터에 의해 차단되면, 동일한 프롬프트를 중국어로 번역하여 필터를 더 빨리 통과하도록 시도하세요.",
+      "content": "영어 프롬프트가 Seedance 2의 콘텐츠 필터에 의해 차단되면, 동일한 프롬프트를 중국어로 번역하여 필터를 더 빨리 통과하도록 시도하세요.",
+      "description": "영어 프롬프트가 Seedance 2의 콘텐츠 필터에 의해 차단되면, 동일한 프롬프트를 중국어로 번역하여 필터를 더 빨리 통과하도록 시도하세요."
+    },
+    "pt-BR": {
+      "title": "Se um prompt em inglês for bloqueado pelo filtro de conteúdo do Seedance 2, traduza o mesmo prompt para chinês e tent...",
+      "content": "Se um prompt em inglês for bloqueado pelo filtro de conteúdo do Seedance 2, traduza o mesmo prompt para chinês e tente novamente para passar pelo filtro mais rapidamente.",
+      "description": "Se um prompt em inglês for bloqueado pelo filtro de conteúdo do Seedance 2, traduza o mesmo prompt para chinês e tente novamente para passar pelo filtro mais rapidamente."
+    },
+    "zh-CN": {
+      "title": "如果一个英文prompt被Seedance 2的内容过滤器屏蔽，将同一个prompt翻译成中文，再尝试通过过滤器，以加快通过速度。",
+      "content": "如果一个英文prompt被Seedance 2的内容过滤器屏蔽，将同一个prompt翻译成中文，再尝试通过过滤器，以加快通过速度。",
+      "description": "如果一个英文prompt被Seedance 2的内容过滤器屏蔽，将同一个prompt翻译成中文，再尝试通过过滤器，以加快通过速度。"
+    }
+  }
+}

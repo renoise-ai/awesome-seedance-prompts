@@ -1,0 +1,48 @@
+{
+  "id": "create-a-few-initial-frames-with-nbp-then-use-them-as-fi",
+  "title": "Create a few initial frames with NBP, then use them as first frames to generate videos in Seedance 2",
+  "content": "Create a few initial frames with NBP, then use them as first frames to generate videos in Seedance 2.  \nExtract frames from the Seedance 2 output, then edit and upscale those frames with NBP before regenerating.  \nGenerate additional Seedance 2 clips by supplying more first/last frames to extend or refine the sequence.",
+  "description": "my workflow was:\n\n&gt; create a few initial frames with NBP\n&gt; generate videos first frames with Seedance 2\n&gt; extract frames + edit + upscale with NBP\n&gt; generate more with more first / last...",
+  "language": "en",
+  "author": {
+    "name": "Azer Koçulu",
+    "link": "https://x.com/azerkoculu"
+  },
+  "sourceLink": "https://x.com/azerkoculu/status/2025569876148990096",
+  "sourcePublishedAt": "2026-02-22",
+  "thumbnail": "",
+  "featured": false,
+  "tags": [],
+  "translations": {
+    "es": {
+      "title": "Crea algunos fotogramas iniciales con NBP, luego úsalos como primeros fotogramas para generar videos en Seedance 2",
+      "content": "Crea algunos fotogramas iniciales con NBP, luego úsalos como primeros fotogramas para generar videos en Seedance 2.  \nExtrae fotogramas del resultado de Seedance 2, luego edita y mejora esos fotogramas con NBP antes de regenerar.  \nGenera clips adicionales de Seedance 2 proporcionando más fotogramas iniciales/finales para extender o refinar la secuencia.",
+      "description": "Crea algunos fotogramas iniciales con NBP, luego úsalos como primeros fotogramas para generar videos en Seedance 2.  \nExtrae fotogramas del resultado de Seedance 2, luego edita y mejora esos fotogr..."
+    },
+    "fr": {
+      "title": "Créez quelques images initiales avec NBP, puis utilisez-les comme premières images pour générer des vidéos dans Seeda...",
+      "content": "Créez quelques images initiales avec NBP, puis utilisez-les comme premières images pour générer des vidéos dans Seedance 2.  \nExtrayez des images de la sortie de Seedance 2, puis éditez et améliorez ces images avec NBP avant de régénérer.  \nGénérez des clips Seedance 2 supplémentaires en fournissant plus d'images de début/fin pour étendre ou affiner la séquence.",
+      "description": "Créez quelques images initiales avec NBP, puis utilisez-les comme premières images pour générer des vidéos dans Seedance 2.  \nExtrayez des images de la sortie de Seedance 2, puis éditez et améliore..."
+    },
+    "ja": {
+      "title": "NBPでいくつかの初期フレームを作成し、それを最初のフレームとしてSeedance 2でビデオを生成します",
+      "content": "---\nNBPでいくつかの初期フレームを作成し、それを最初のフレームとしてSeedance 2でビデオを生成します。  \nSeedance 2の出力からフレームを抽出し、それらのフレームをNBPで編集およびアップスケールしてから再生成します。  \nシーケンスを拡張または洗練するために、より多くの最初/最後のフレームを提供して追加のSeedance 2クリップを生成します。  \n---",
+      "description": "---\nNBPでいくつかの初期フレームを作成し、それを最初のフレームとしてSeedance 2でビデオを生成します。  \nSeedance 2の出力からフレームを抽出し、それらのフレームをNBPで編集およびアップスケールしてから再生成します。  \nシーケンスを拡張または洗練するために、より多くの最初/最後のフレームを提供して追加のSeedance 2クリップを生成します。  \n---"
+    },
+    "ko": {
+      "title": "NBP로 몇 개의 초기 프레임을 생성한 후, 이를 Seedance 2에서 비디오를 생성하는 첫 프레임으로 사용합니다",
+      "content": "NBP로 몇 개의 초기 프레임을 생성한 후, 이를 Seedance 2에서 비디오를 생성하는 첫 프레임으로 사용합니다.  \nSeedance 2 출력에서 프레임을 추출한 다음, NBP로 해당 프레임을 편집하고 업스케일한 후 재생성합니다.  \n추가적인 Seedance 2 클립을 생성하기 위해 더 많은 첫/마지막 프레임을 제공하여 시퀀스를 확장하거나 정제합니다.",
+      "description": "NBP로 몇 개의 초기 프레임을 생성한 후, 이를 Seedance 2에서 비디오를 생성하는 첫 프레임으로 사용합니다.  \nSeedance 2 출력에서 프레임을 추출한 다음, NBP로 해당 프레임을 편집하고 업스케일한 후 재생성합니다.  \n추가적인 Seedance 2 클립을 생성하기 위해 더 많은 첫/마지막 프레임을 제공하여 시퀀스를 확장하거나 정제합니다."
+    },
+    "pt-BR": {
+      "title": "Crie alguns quadros iniciais com NBP, depois use-os como primeiros quadros para gerar vídeos no Seedance 2",
+      "content": "Crie alguns quadros iniciais com NBP, depois use-os como primeiros quadros para gerar vídeos no Seedance 2.  \nExtraia quadros da saída do Seedance 2, depois edite e aumente a resolução desses quadros com NBP antes de regenerar.  \nGere clipes adicionais do Seedance 2 fornecendo mais quadros iniciais/finais para estender ou refinar a sequência.",
+      "description": "Crie alguns quadros iniciais com NBP, depois use-os como primeiros quadros para gerar vídeos no Seedance 2.  \nExtraia quadros da saída do Seedance 2, depois edite e aumente a resolução desses quadr..."
+    },
+    "zh-CN": {
+      "title": "使用NBP创建几个初始帧，然后将它们用作Seedance 2中生成视频的首帧",
+      "content": "使用NBP创建几个初始帧，然后将它们用作Seedance 2中生成视频的首帧。  \n从Seedance 2输出中提取帧，然后使用NBP编辑和放大这些帧，然后再重新生成。  \n通过提供更多的首/尾帧来生成额外的Seedance 2片段，以扩展或优化序列。",
+      "description": "使用NBP创建几个初始帧，然后将它们用作Seedance 2中生成视频的首帧。  \n从Seedance 2输出中提取帧，然后使用NBP编辑和放大这些帧，然后再重新生成。  \n通过提供更多的首/尾帧来生成额外的Seedance 2片段，以扩展或优化序列。"
+    }
+  }
+}

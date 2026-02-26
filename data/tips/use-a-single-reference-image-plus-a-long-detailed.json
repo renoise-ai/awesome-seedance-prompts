@@ -1,0 +1,50 @@
+{
+  "id": "use-a-single-reference-image-plus-a-long-detailed",
+  "title": "Use a single reference image plus a long, detailed prompt to...",
+  "content": "Use a single reference image plus a long, detailed prompt to generate a full sequence in Seedance 2.0 (including transitions, sound effects, editing, and text) without additional editing  \nRender the same Seedance sequence twice and pick the better ending from the alternate render in post",
+  "description": "99% of this came out of Seedance 2.0 without any altering or editing: transitions, sound effects, editing, text, etc. Input was one image for reference and a pretty long prompt. The only thing I've changed in post is that I've rendered the sequence twice and chose the ending from the other render. This model really puts the \"intelligence\" in the AI. I will deliberately not put comparisons of how much would have this cost, or how much time would this have been with traditional methods, but let's face it: content will change forever if this is the new baseline. #Seedance2",
+  "language": "en",
+  "author": {
+    "name": "László Gaál",
+    "link": "https://x.com/laszlogaal_"
+  },
+  "sourceLink": "https://x.com/laszlogaal_/status/2024472480573010180",
+  "sourcePublishedAt": "2026-02-19",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024472244358180864/img/K1SZDA14eD3_WwSJ.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024472480573010180",
+  "featured": false,
+  "tags": [],
+  "tips": "99% of this came out of Seedance 2.0 without any altering or editing: transitions, sound effects, editing, text, etc. Input was one image for reference and a pretty long prompt. The only thing I've changed in post is that I've rendered the sequence twice and chose the ending from the other render. This model really puts the \"intelligence\" in the AI. I will deliberately not put comparisons of how much would have this cost, or how much time would this have been with traditional methods, but let's face it: content will change forever if this is the new baseline. #Seedance2",
+  "translations": {
+    "es": {
+      "title": "Usa una sola imagen de referencia más un prompt largo y deta",
+      "content": "Usa una sola imagen de referencia más un prompt largo y detallado para generar una secuencia completa en Seedance 2.0 (incluyendo transiciones, efectos de sonido, edición y texto) sin edición adicional  \nRenderiza la misma secuencia de Seedance dos veces y elige el mejor final de la renderización alternativa en postproducción",
+      "description": "Usa una sola imagen de referencia más un prompt largo y detallado para generar una secuencia completa en Seedance 2.0 (incluyendo transiciones, efectos de sonido, edición y texto) sin edición adiciona..."
+    },
+    "fr": {
+      "title": "Utilisez une seule image de référence ainsi qu'un prompt lon",
+      "content": "Utilisez une seule image de référence ainsi qu'un prompt long et détaillé pour générer une séquence complète dans Seedance 2.0 (y compris les transitions, les effets sonores, le montage et le texte) sans édition supplémentaire.  \nRendez la même séquence Seedance deux fois et choisissez la meilleure fin parmi le rendu alternatif en post-production.",
+      "description": "Utilisez une seule image de référence ainsi qu'un prompt long et détaillé pour générer une séquence complète dans Seedance 2.0 (y compris les transitions, les effets sonores, le montage et le texte) s..."
+    },
+    "ja": {
+      "title": "1枚の参照画像と長く詳細なプロンプトを使用して、Seedance 2.0でフルシーケンスを生成します（トランジション、効",
+      "content": "1枚の参照画像と長く詳細なプロンプトを使用して、Seedance 2.0でフルシーケンスを生成します（トランジション、効果音、編集、テキストを含む）追加編集なしで  \n同じSeedanceシーケンスを2回レンダリングし、ポストで別のレンダーからより良いエンディングを選びます  \n---",
+      "description": "1枚の参照画像と長く詳細なプロンプトを使用して、Seedance 2.0でフルシーケンスを生成します（トランジション、効果音、編集、テキストを含む）追加編集なしで  \n同じSeedanceシーケンスを2回レンダリングし、ポストで別のレンダーからより良いエンディングを選びます  \n---"
+    },
+    "ko": {
+      "title": "Seedance 2.0에서 단일 참조 이미지와 긴 상세 프롬프트를 사용하여 추가 편집 없이 전체 시퀀스를 생",
+      "content": "Seedance 2.0에서 단일 참조 이미지와 긴 상세 프롬프트를 사용하여 추가 편집 없이 전체 시퀀스를 생성하세요 (전환, 음향 효과, 편집 및 텍스트 포함)  \n동일한 Seedance 시퀀스를 두 번 렌더링하고, 후반 작업에서 대체 렌더링 중 더 나은 엔딩을 선택하세요  \n---",
+      "description": "Seedance 2.0에서 단일 참조 이미지와 긴 상세 프롬프트를 사용하여 추가 편집 없이 전체 시퀀스를 생성하세요 (전환, 음향 효과, 편집 및 텍스트 포함)  \n동일한 Seedance 시퀀스를 두 번 렌더링하고, 후반 작업에서 대체 렌더링 중 더 나은 엔딩을 선택하세요  \n---"
+    },
+    "pt-BR": {
+      "title": "Use uma única imagem de referência mais um prompt longo e de",
+      "content": "Use uma única imagem de referência mais um prompt longo e detalhado para gerar uma sequência completa no Seedance 2.0 (incluindo transições, efeitos sonoros, edição e texto) sem edição adicional  \nRenderize a mesma sequência do Seedance duas vezes e escolha o melhor final da renderização alternativa na pós-produção",
+      "description": "Use uma única imagem de referência mais um prompt longo e detalhado para gerar uma sequência completa no Seedance 2.0 (incluindo transições, efeitos sonoros, edição e texto) sem edição adicional  \nRen..."
+    },
+    "zh-CN": {
+      "title": "使用一张参考图像加上一个长而详细的prompt，在Seedance 2.0中生成完整的序列（包括过渡、音效、编辑和文本）",
+      "content": "使用一张参考图像加上一个长而详细的prompt，在Seedance 2.0中生成完整的序列（包括过渡、音效、编辑和文本），无需额外编辑  \n将同一个Seedance序列渲染两次，并在后期从备用渲染中选择更好的结尾",
+      "description": "使用一张参考图像加上一个长而详细的prompt，在Seedance 2.0中生成完整的序列（包括过渡、音效、编辑和文本），无需额外编辑  \n将同一个Seedance序列渲染两次，并在后期从备用渲染中选择更好的结尾"
+    }
+  }
+}

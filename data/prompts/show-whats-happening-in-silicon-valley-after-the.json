@@ -1,0 +1,55 @@
+{
+  "id": "show-whats-happening-in-silicon-valley-after-the",
+  "title": "Show what’s happening in Silicon Valley after the article. M...",
+  "content": "Show what’s happening in Silicon Valley after the article. Make no mistakes.",
+  "description": "Seedance 2.0\n\nPrompt: Show what’s happening in Silicon Valley after the @Citrini7 article.  Make no mistakes. https://t.co/6Vz6n3I9C5",
+  "language": "en",
+  "author": {
+    "name": "Charles Curran",
+    "link": "https://x.com/charliebcurran"
+  },
+  "sourceLink": "https://x.com/charliebcurran/status/2026114996330197005",
+  "sourcePublishedAt": "2026-02-24",
+  "thumbnail": "https://pbs.twimg.com/media/HB406UZaYAAIU95.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026114996330197005",
+  "featured": false,
+  "tags": [],
+  "tips": "Seedance 2.0\n\nPrompt: Show what’s happening in Silicon Valley after the @Citrini7 article.  Make no mistakes. https://t.co/6Vz6n3I9C5",
+  "translations": {
+    "en": {
+      "title": "Show what’s happening in Silicon Valley after the article. M",
+      "content": "Show what’s happening in Silicon Valley after the article. Make no mistakes.",
+      "description": "Show what’s happening in Silicon Valley after the article. Make no mistakes."
+    },
+    "es": {
+      "title": "Muestra lo que está sucediendo en Silicon Valley después del",
+      "content": "Muestra lo que está sucediendo en Silicon Valley después del artículo. No cometas errores.",
+      "description": "Muestra lo que está sucediendo en Silicon Valley después del artículo. No cometas errores."
+    },
+    "fr": {
+      "title": "Montrez ce qui se passe à Silicon Valley après l'article. Ne",
+      "content": "Montrez ce qui se passe à Silicon Valley après l'article. Ne faites aucune erreur.",
+      "description": "Montrez ce qui se passe à Silicon Valley après l'article. Ne faites aucune erreur."
+    },
+    "ja": {
+      "title": "記事の後にシリコンバレーで何が起こっているかを示してください。ミスをしないように。",
+      "content": "記事の後にシリコンバレーで何が起こっているかを示してください。ミスをしないように。",
+      "description": "記事の後にシリコンバレーで何が起こっているかを示してください。ミスをしないように。"
+    },
+    "ko": {
+      "title": "기사 이후 실리콘 밸리에서 무슨 일이 일어나고 있는지 보여주세요. 실수 없이.",
+      "content": "기사 이후 실리콘 밸리에서 무슨 일이 일어나고 있는지 보여주세요. 실수 없이.",
+      "description": "기사 이후 실리콘 밸리에서 무슨 일이 일어나고 있는지 보여주세요. 실수 없이."
+    },
+    "pt-BR": {
+      "title": "Mostre o que está acontecendo no Vale do Silício após o arti",
+      "content": "Mostre o que está acontecendo no Vale do Silício após o artigo. Não cometa erros.",
+      "description": "Mostre o que está acontecendo no Vale do Silício após o artigo. Não cometa erros."
+    },
+    "zh-CN": {
+      "title": "展示文章发布后硅谷发生的事情。不要出错。",
+      "content": "展示文章发布后硅谷发生的事情。不要出错。",
+      "description": "展示文章发布后硅谷发生的事情。不要出错。"
+    }
+  }
+}
