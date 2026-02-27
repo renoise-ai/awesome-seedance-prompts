@@ -5743,4 +5743,4 @@ Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://youware.com/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-02-27T17:03:43.578Z
+🤖 この README は自動生成されています。最終更新： 2026-02-27T20:25:33.403Z
