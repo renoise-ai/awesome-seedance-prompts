@@ -1,9 +1,9 @@
 import type { ProcessedPrompt } from './data-loader.js';
 import { getLocalized } from './data-loader.js';
-import { t } from './i18n.js';
+import { t, formatDateLocalized } from './i18n.js';
 
 const MAX_PROMPTS_TO_DISPLAY = 100;
-const GALLERY_BASE_URL = 'https://youware.com'; // TODO: update when frontend is ready
+const GALLERY_BASE_URL = 'https://youware.com';
 const REPO_OWNER = 'youware-ai';
 const REPO_NAME = 'awesome-seedance-2-prompts';
 
@@ -38,13 +38,6 @@ function slugify(text: string): string {
     .trim();
 }
 
-function formatDate(iso?: string): string {
-  if (!iso) return 'N/A';
-  return new Date(iso).toLocaleDateString('en-US', {
-    year: 'numeric', month: 'short', day: 'numeric',
-  });
-}
-
 function getLocalePrefix(locale: string): string {
   if (locale === 'en') return '';
   return `/${locale}`;
@@ -67,11 +60,9 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, isFeatured: boo
   const localDesc = getLocalized(p, 'description', locale);
   const localTips = getLocalized(p, 'tips', locale);
 
-  // Title
   lines.push(`### ${localTitle}`);
   lines.push('');
 
-  // Badges
   const badges: string[] = [];
   if (isFeatured) badges.push(`\`${t('featured', locale)}\``);
   const langBadge = LANG_BADGES[p.language];
@@ -81,7 +72,6 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, isFeatured: boo
     lines.push('');
   }
 
-  // Description
   if (localDesc) {
     const cleanDesc = localDesc
       .replace(/\n+/g, ' ')
@@ -92,7 +82,6 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, isFeatured: boo
     lines.push('');
   }
 
-  // Prompt text
   lines.push(`#### 📝 ${t('prompt', locale)}`);
   lines.push('');
   lines.push('```');
@@ -100,7 +89,6 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, isFeatured: boo
   lines.push('```');
   lines.push('');
 
-  // Tips (YouWare exclusive)
   if (localTips) {
     lines.push(`#### 💡 ${t('tips', locale)}`);
     lines.push('');
@@ -108,7 +96,6 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, isFeatured: boo
     lines.push('');
   }
 
-  // Video thumbnail / preview
   if (p.thumbnail) {
     if (p.videoUrl) {
       lines.push(`[![${t('videoPreview', locale)}](${p.thumbnail})](${p.videoUrl})`);
@@ -117,12 +104,11 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, isFeatured: boo
     }
     lines.push('');
     if (p.videoUrl) {
-      lines.push(`📥 *Click image to watch video* | **[🎬 Watch Video →](${p.videoUrl})**`);
+      lines.push(`📥 *${t('clickToWatch', locale)}* | **[🎬 ${t('watchVideo', locale)} →](${p.videoUrl})**`);
       lines.push('');
     }
   }
 
-  // Reference images
   if (p.referenceImages && p.referenceImages.length > 0) {
     lines.push(`**${t('referenceImage', locale)}:**`);
     for (const img of p.referenceImages) {
@@ -131,7 +117,6 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, isFeatured: boo
     lines.push('');
   }
 
-  // Metadata
   const meta: string[] = [];
   if (p.author) {
     const authorStr = p.author.link
@@ -143,14 +128,13 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, isFeatured: boo
     meta.push(`**${t('source', locale)}:** [Link](${p.sourceLink})`);
   }
   if (p.sourcePublishedAt) {
-    meta.push(`**${t('published', locale)}:** ${formatDate(p.sourcePublishedAt)}`);
+    meta.push(`**${t('published', locale)}:** ${formatDateLocalized(p.sourcePublishedAt, locale)}`);
   }
   if (meta.length) {
     lines.push(meta.join(' | '));
     lines.push('');
   }
 
-  // Tags
   if (p.tags && p.tags.length > 0) {
     lines.push(p.tags.map(tag => `\`${tag}\``).join(' '));
     lines.push('');
@@ -169,6 +153,7 @@ export function generateReadme(
 ): string {
   const lines: string[] = [];
   const galleryUrl = `${GALLERY_BASE_URL}${getLocalePrefix(locale)}/seedance-2-prompts`;
+  const langCount = SUPPORTED_LANGUAGES.length;
 
   const featured = prompts.filter(p => p.featured);
   const regular = prompts.filter(p => !p.featured);
@@ -185,13 +170,6 @@ export function generateReadme(
   // Header
   lines.push(`# 🎬 ${t('title', locale)}`);
   lines.push('');
-
-  const badgeLabels = [
-    'Awesome',
-    `GitHub stars`,
-    `License: CC BY 4.0`,
-    `PRs Welcome`,
-  ];
   lines.push(`[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/${REPO_OWNER}/${REPO_NAME}?style=social)](https://github.com/${REPO_OWNER}/${REPO_NAME}) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/${REPO_OWNER}/${REPO_NAME}/pulls)`);
   lines.push('');
   lines.push(`${t('subtitle', locale)}`);
@@ -227,12 +205,12 @@ export function generateReadme(
   lines.push('');
   lines.push(`**👉 [${t('browseGallery', locale)}](${galleryUrl})**`);
   lines.push('');
-  lines.push(`| Feature | GitHub README | Gallery |`);
+  lines.push(`| ${t('featureCol', locale)} | ${t('githubReadmeCol', locale)} | ${t('galleryCol', locale)} |`);
   lines.push(`|---------|-------------|---------|`);
-  lines.push(`| 🎬 Video Playback | ❌ Static thumbnails | ✅ Full video playback |`);
-  lines.push(`| 🔍 Search | Ctrl+F only | Multi-field fuzzy search |`);
-  lines.push(`| 📱 Mobile | Basic | Fully responsive |`);
-  lines.push(`| 🌍 Languages | ${SUPPORTED_LANGUAGES.length} | ${SUPPORTED_LANGUAGES.length}+ |`);
+  lines.push(`| 🎬 ${t('videoPlayback', locale)} | ❌ ${t('staticThumbnails', locale)} | ✅ ${t('fullVideoPlayback', locale)} |`);
+  lines.push(`| 🔍 ${t('searchFeature', locale)} | ${t('ctrlFOnly', locale)} | ${t('fuzzySearch', locale)} |`);
+  lines.push(`| 📱 ${t('mobileFeature', locale)} | ${t('mobileBasic', locale)} | ${t('mobileResponsive', locale)} |`);
+  lines.push(`| 🌍 ${t('languagesFeature', locale)} | ${langCount} | ${langCount}+ |`);
   lines.push('');
 
   // What is Seedance 2.0
@@ -248,11 +226,11 @@ export function generateReadme(
   lines.push('');
   lines.push(`## 📊 ${t('statistics', locale).replace('📊 ', '')}`);
   lines.push('');
-  lines.push(`| Metric | Count |`);
+  lines.push(`| ${t('metricCol', locale)} | ${t('countCol', locale)} |`);
   lines.push(`|--------|-------|`);
   lines.push(`| 📝 ${t('totalPrompts', locale)} | **${totalCount}** |`);
   lines.push(`| ⭐ ${t('featuredPrompts', locale)} | **${featured.length}** |`);
-  lines.push(`| 💡 Tips & Tutorials | **${tips.length}** |`);
+  lines.push(`| 💡 ${t('tipsAndTutorials', locale)} | **${tips.length}** |`);
   lines.push(`| 🔄 ${t('lastUpdated', locale)} | **${today}** |`);
   lines.push('');
 
@@ -272,7 +250,7 @@ export function generateReadme(
   lines.push('');
   lines.push(`## ${t('allPrompts', locale)}`);
   lines.push('');
-  lines.push(`> 📝 Sorted by publish date (newest first)`);
+  lines.push(`> 📝 ${t('sortedByDate', locale)}`);
   lines.push('');
   for (const p of displayPrompts) {
     lines.push(generatePromptBlock(p, locale, false));
@@ -280,9 +258,10 @@ export function generateReadme(
 
   // More prompts notice
   if (regular.length > MAX_PROMPTS_TO_DISPLAY) {
+    const remaining = regular.length - MAX_PROMPTS_TO_DISPLAY;
     lines.push(`## 📚 ${t('morePrompts', locale)}`);
     lines.push('');
-    lines.push(`### 🎯 ${regular.length - MAX_PROMPTS_TO_DISPLAY} more prompts not shown here`);
+    lines.push(`### 🎯 ${remaining} ${t('moreNotShown', locale)}`);
     lines.push('');
     lines.push(`**👉 [${t('browseGallery', locale)}](${galleryUrl})**`);
     lines.push('');
@@ -294,14 +273,15 @@ export function generateReadme(
     lines.push('');
     lines.push(`## ${t('tipsSection', locale)}`);
     lines.push('');
-    lines.push(`> Community tutorials and tips for getting the most out of Seedance 2.0`);
+    lines.push(`> ${t('tipsSubtitle', locale)}`);
     lines.push('');
     const displayTips = tips.slice(0, 30);
     for (const tip of displayTips) {
       lines.push(generatePromptBlock(tip, locale, false));
     }
     if (tips.length > 30) {
-      lines.push(`*... and ${tips.length - 30} more tips. [View all in Gallery](${galleryUrl})*`);
+      const remaining = tips.length - 30;
+      lines.push(`*... ${t('andMoreTips', locale).replace('{n}', String(remaining))} [${t('viewAllInGallery', locale)}](${galleryUrl})*`);
       lines.push('');
     }
   }
@@ -335,9 +315,9 @@ export function generateReadme(
   // Footer
   lines.push('---');
   lines.push('');
-  lines.push(`**🌐 [${t('viewInGallery', locale)}](${galleryUrl})** • **📝 Submit a Prompt** • **⭐ Star this repo**`);
+  lines.push(`**🌐 [${t('viewInGallery', locale)}](${galleryUrl})** • **📝 ${t('submitPrompt', locale)}** • **⭐ ${t('starRepo', locale)}**`);
   lines.push('');
-  lines.push(`🤖 This README is automatically generated. Last updated: ${new Date().toISOString()}`);
+  lines.push(`🤖 ${t('autoGenerated', locale)} ${new Date().toISOString()}`);
   lines.push('');
 
   return lines.join('\n');

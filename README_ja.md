@@ -8,57 +8,66 @@
 
 Seedance 2.0 の厳選ビデオ生成プロンプト集
 
-> ⚠️ **Copyright Notice: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please open an issue and we will remove it promptly.**
+> ⚠️ **著作権に関するお知らせ：すべてのプロンプトは教育目的でコミュニティから収集されています。権利侵害に該当するコンテンツがある場合は、Issue を作成してください。速やかに対応いたします。**
 
 ---
 
 ## 📖 目次
 
-* [🌐 View in Web Gallery](#-view-in-web-gallery)
+* [🌐 🎬 ウェブギャラリーで閲覧](#--)
 * [🤔 Seedance 2.0 とは？](#-seedance-20-)
 * [📊 統計](#-)
 * [🎬 全プロンプト](#-all-prompts)
 * [💡 使い方のコツ](#-usage-tips)
 * [🤝 コントリビュート](#-contributing)
 * [📄 ライセンス](#-license)
-* [🙏 Acknowledgements](#-acknowledgements)
-* [⭐ Star History](#-star-history)
+* [🙏 謝辞](#-acknowledgements)
+* [⭐ Star 履歴](#-star-history)
 
 ---
 
-## 🌐 View in Web Gallery
+## 🌐 🎬 ウェブギャラリーで閲覧
 
-**👉 [Browse all Seedance 2.0 prompts on YouWare](https://youware.com/ja/seedance-2-prompts)**
+**👉 [YouWare でプロンプトを閲覧](https://youware.com/ja/seedance-2-prompts)**
 
-| Feature | GitHub README | Gallery |
+| 機能 | GitHub README | ギャラリー |
 |---------|-------------|---------|
-| 🎬 Video Playback | ❌ Static thumbnails | ✅ Full video playback |
-| 🔍 Search | Ctrl+F only | Multi-field fuzzy search |
-| 📱 Mobile | Basic | Fully responsive |
-| 🌍 Languages | 5 | 5+ |
+| 🎬 動画再生 | ❌ 静止サムネイル | ✅ 完全な動画再生 |
+| 🔍 検索 | Ctrl+F のみ | 複数フィールドのあいまい検索 |
+| 📱 モバイル | 基本対応 | 完全レスポンシブ |
+| 🌍 言語 | 5 | 5+ |
 
 ---
 
 ## 🤔 Seedance 2.0 とは？
 
-Seedance 2.0 は、テキストプロンプトから高品質な動画を生成する最先端の AI モデルです。映画的なショット、キャラクターアニメーション、クリエイティブな視覚効果に優れています。
+**Seedance 2.0** は **ByteDance** が開発した動画生成モデルで、業界初の **画像・動画・音声・テキストの4モーダル同時入力** に対応しています。
+
+**主な特徴：**
+
+* 🎥 **テキストから動画** — テキスト記述から動画を生成
+* 🖼️ **画像から動画** — 静止画をアニメーション化
+* 📹 **動画変換** — 既存動画の変換・拡張
+* 🎵 **音声駆動** — 音声入力による動画生成
+* 📐 **最大1080p解像度**、4〜15秒
+* 🔊 **自動吹替・BGM** — 自動ナレーション・BGM生成
 
 ---
 
 ## 📊 統計
 
-| Metric | Count |
+| 指標 | 数 |
 |--------|-------|
 | 📝 プロンプト総数 | **155** |
 | ⭐ 注目 | **0** |
-| 💡 Tips & Tutorials | **124** |
+| 💡 ヒント & チュートリアル | **124** |
 | 🔄 最終更新 | **2026-02-27** |
 
 ---
 
 ## 🎬 全プロンプト
 
-> 📝 Sorted by publish date (newest first)
+> 📝 公開日順（新しい順）
 
 ### 人物
 
@@ -93,9 +102,9 @@ Seedance 2.0生成都市短剧视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026874509215805444/img/FiTkxkqb0UnugUnh.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026874635195920771)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026874635195920771)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026874635195920771)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026874635195920771) | **公開日:** Feb 26, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026874635195920771) | **公開日:** 2026年2月26日
 
 ---
 
@@ -136,9 +145,9 @@ Prompt在评论区 https://t.co/PxXDse2mLQ
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026861639736385536/img/zUUGpYIt2V_7-NY2.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026861824386515357)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026861824386515357)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026861824386515357)**
 
-**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026861824386515357) | **公開日:** Feb 26, 2026
+**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026861824386515357) | **公開日:** 2026年2月26日
 
 ---
 
@@ -168,9 +177,9 @@ Seedance 2.0 提示词prompt： https://t.co/RyJwaneEpP
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026846100137877504/img/hmjvQF10idSNHuco.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026846380896190731)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026846380896190731)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026846380896190731)**
 
-**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026846380896190731) | **公開日:** Feb 26, 2026
+**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026846380896190731) | **公開日:** 2026年2月26日
 
 ---
 
@@ -332,9 +341,9 @@ Prompt below 👇 https://t.co/56BDrBHWQg
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2026666877796364289/pu/img/aLX5u9l1WiYGVW60.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026666929306656832)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026666929306656832)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026666929306656832)**
 
-**作者:** [Oogie](https://x.com/oggii_0) | **ソース:** [Link](https://x.com/oggii_0/status/2026666929306656832) | **公開日:** Feb 25, 2026
+**作者:** [Oogie](https://x.com/oggii_0) | **ソース:** [Link](https://x.com/oggii_0/status/2026666929306656832) | **公開日:** 2026年2月25日
 
 ---
 
@@ -370,9 +379,9 @@ Prompt:
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026759933618708480/img/EUIY-1Kk7FtOdEmf.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026760125999100329)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026760125999100329)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026760125999100329)**
 
-**作者:** [fofr](https://x.com/fofrAI) | **ソース:** [Link](https://x.com/fofrAI/status/2026760125999100329) | **公開日:** Feb 25, 2026
+**作者:** [fofr](https://x.com/fofrAI) | **ソース:** [Link](https://x.com/fofrAI/status/2026760125999100329) | **公開日:** 2026年2月25日
 
 ---
 
@@ -398,9 +407,9 @@ Seedance 2.0 创意流之我在停车场的恐怖遭遇🧐
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026629170013618176/img/2F5cpGbGen9lkL7l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026629230583337211)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026629230583337211)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026629230583337211)**
 
-**作者:** [MapleShaw](https://x.com/msjiaozhu) | **ソース:** [Link](https://x.com/msjiaozhu/status/2026629230583337211) | **公開日:** Feb 25, 2026
+**作者:** [MapleShaw](https://x.com/msjiaozhu) | **ソース:** [Link](https://x.com/msjiaozhu/status/2026629230583337211) | **公開日:** 2026年2月25日
 
 ---
 
@@ -447,9 +456,9 @@ Original Prompt in Chinese:
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026508950024171521/img/rN9Liql8okLTbBwJ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026510205345763536)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026510205345763536)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026510205345763536)**
 
-**作者:** [Min Choi](https://x.com/minchoi) | **ソース:** [Link](https://x.com/minchoi/status/2026510205345763536) | **公開日:** Feb 25, 2026
+**作者:** [Min Choi](https://x.com/minchoi) | **ソース:** [Link](https://x.com/minchoi/status/2026510205345763536) | **公開日:** 2026年2月25日
 
 ---
 
@@ -548,9 +557,9 @@ Here's what to do👇 https://t.co/tMCduE1nuO
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026673574409617408/img/0DjqprUw3oCNcUU9.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026673713303925128)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026673713303925128)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026673713303925128)**
 
-**作者:** [Framer 🇱🇹](https://x.com/Framer_X) | **ソース:** [Link](https://x.com/Framer_X/status/2026673713303925128) | **公開日:** Feb 25, 2026
+**作者:** [Framer 🇱🇹](https://x.com/Framer_X) | **ソース:** [Link](https://x.com/Framer_X/status/2026673713303925128) | **公開日:** 2026年2月25日
 
 ---
 
@@ -584,9 +593,9 @@ Pretty sure this is a scary Ryan Reynolds/Ben Stiller hybrid.
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026752765356126208/img/b7yS1sm2zd0xp8aF.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026753439313641906)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026753439313641906)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026753439313641906)**
 
-**作者:** [fofr](https://x.com/fofrAI) | **ソース:** [Link](https://x.com/fofrAI/status/2026753439313641906) | **公開日:** Feb 25, 2026
+**作者:** [fofr](https://x.com/fofrAI) | **ソース:** [Link](https://x.com/fofrAI/status/2026753439313641906) | **公開日:** 2026年2月25日
 
 ---
 
@@ -612,9 +621,9 @@ A rugged mountain traveller crosses a snow-covered ridge under a cold, overcast 
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026460482995888128/img/5c0NZ3FLCOkBeM6g.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026461813886374141)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026461813886374141)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026461813886374141)**
 
-**作者:** [Stevie Mac](https://x.com/StevieMac03) | **ソース:** [Link](https://x.com/StevieMac03/status/2026461813886374141) | **公開日:** Feb 25, 2026
+**作者:** [Stevie Mac](https://x.com/StevieMac03) | **ソース:** [Link](https://x.com/StevieMac03/status/2026461813886374141) | **公開日:** 2026年2月25日
 
 ---
 
@@ -640,9 +649,9 @@ Candy-neon Amazon chase: a fierce warrior riding a giant blue tiger at full spri
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026804296550100992/img/yPk-1iHbHJMRU4oW.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026804628810338598)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026804628810338598)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026804628810338598)**
 
-**作者:** [Horace Dodd](https://x.com/horacedodd) | **ソース:** [Link](https://x.com/horacedodd/status/2026804628810338598) | **公開日:** Feb 25, 2026
+**作者:** [Horace Dodd](https://x.com/horacedodd) | **ソース:** [Link](https://x.com/horacedodd/status/2026804628810338598) | **公開日:** 2026年2月25日
 
 ---
 
@@ -668,9 +677,9 @@ Prompt: Close-up on her hands gripping the paintbrush, knuckles white, paint dri
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2026748716544135168/pu/img/s7Wi8euWkmI-rU9f.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026748738354450919)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026748738354450919)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026748738354450919)**
 
-**作者:** [Heather Cooper](https://x.com/HBCoop_) | **ソース:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **公開日:** Feb 25, 2026
+**作者:** [Heather Cooper](https://x.com/HBCoop_) | **ソース:** [Link](https://x.com/HBCoop_/status/2026748738354450919) | **公開日:** 2026年2月25日
 
 ---
 
@@ -694,9 +703,9 @@ Made with Seedance 2.0 on @yapper_so https://t.co/NiYtFBxJDo
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026558649460817920/img/SasUUB1GrhAvFYBp.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026559157302902801)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026559157302902801)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026559157302902801)**
 
-**作者:** [Emmet Halm](https://x.com/ehalm_) | **ソース:** [Link](https://x.com/ehalm_/status/2026559157302902801) | **公開日:** Feb 25, 2026
+**作者:** [Emmet Halm](https://x.com/ehalm_) | **ソース:** [Link](https://x.com/ehalm_/status/2026559157302902801) | **公開日:** 2026年2月25日
 
 ---
 
@@ -726,9 +735,9 @@ I'm sure this model is going to help us bring incredible quality in our projects
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026720732248432640/img/79CG4mp9UcNdddsP.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026721780606402904)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026721780606402904)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026721780606402904)**
 
-**作者:** [Everett World](https://x.com/WorldEverett) | **ソース:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **公開日:** Feb 25, 2026
+**作者:** [Everett World](https://x.com/WorldEverett) | **ソース:** [Link](https://x.com/WorldEverett/status/2026721780606402904) | **公開日:** 2026年2月25日
 
 ---
 
@@ -766,9 +775,9 @@ We live in crazy times. https://t.co/wsIM0bN1Lc
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026577735460573184/img/lrXZwPIRTDyH3jrw.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026578351444369796)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026578351444369796)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026578351444369796)**
 
-**作者:** [Alex Patrascu](https://x.com/maxescu) | **ソース:** [Link](https://x.com/maxescu/status/2026578351444369796) | **公開日:** Feb 25, 2026
+**作者:** [Alex Patrascu](https://x.com/maxescu) | **ソース:** [Link](https://x.com/maxescu/status/2026578351444369796) | **公開日:** 2026年2月25日
 
 ---
 
@@ -796,9 +805,9 @@ promptは文末に書いてあります
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026721553078169602/img/KpxeVdwVgGBVmzbd.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026728485201523089)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026728485201523089)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026728485201523089)**
 
-**作者:** [ShadeLurk](https://x.com/ShadeLurk) | **ソース:** [Link](https://x.com/ShadeLurk/status/2026728485201523089) | **公開日:** Feb 25, 2026
+**作者:** [ShadeLurk](https://x.com/ShadeLurk) | **ソース:** [Link](https://x.com/ShadeLurk/status/2026728485201523089) | **公開日:** 2026年2月25日
 
 ---
 
@@ -830,9 +839,9 @@ Seedance 2.0生成你的白月光视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026528915783823360/img/z7ScsO5qyqQTPlTg.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026528980212318377)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026528980212318377)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026528980212318377)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026528980212318377) | **公開日:** Feb 25, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026528980212318377) | **公開日:** 2026年2月25日
 
 ---
 
@@ -859,9 +868,9 @@ Seedance 2.0生成校园短剧视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026474590017642496/img/ezeo_Cr58JiF4dK3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026474698385797156)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026474698385797156)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026474698385797156)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026474698385797156) | **公開日:** Feb 25, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026474698385797156) | **公開日:** 2026年2月25日
 
 ---
 
@@ -893,9 +902,9 @@ Seedance 2.0 提示词prompt：
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026481390909534212/img/Ojbl7iOyj5_yPYdY.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026481512607265116)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026481512607265116)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026481512607265116)**
 
-**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026481512607265116) | **公開日:** Feb 25, 2026
+**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026481512607265116) | **公開日:** 2026年2月25日
 
 ---
 
@@ -1070,9 +1079,9 @@ Version 3 of Fashion Advertisement with Seedance 2.0 https://t.co/tGG1dhmMkT
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026711783440838657/img/XYBt7q1_r6pYSAre.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713804940152948)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713804940152948)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713804940152948)**
 
-**作者:** [Keskin](https://x.com/craftian_keskin) | **ソース:** [Link](https://x.com/craftian_keskin/status/2026713804940152948) | **公開日:** Feb 25, 2026
+**作者:** [Keskin](https://x.com/craftian_keskin) | **ソース:** [Link](https://x.com/craftian_keskin/status/2026713804940152948) | **公開日:** 2026年2月25日
 
 ---
 
@@ -1118,9 +1127,9 @@ I’ve posted the prompt in the replies below. 👇 https://t.co/yJCXxaxG6A
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026793125566414849/img/EO_1G8JCfCXmlj3A.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026793748089213183)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026793748089213183)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026793748089213183)**
 
-**作者:** [ibexdream](https://x.com/ibexdream) | **ソース:** [Link](https://x.com/ibexdream/status/2026793748089213183) | **公開日:** Feb 25, 2026
+**作者:** [ibexdream](https://x.com/ibexdream) | **ソース:** [Link](https://x.com/ibexdream/status/2026793748089213183) | **公開日:** 2026年2月25日
 
 ---
 
@@ -1147,9 +1156,9 @@ Seedance 2は、単一のプロンプトで詳細なシーンリストに従う�
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026762368256987137/img/mvjggEQ-398cn-AV.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762628605862190)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762628605862190)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762628605862190)**
 
-**作者:** [fofr](https://x.com/fofrAI) | **ソース:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **公開日:** Feb 25, 2026
+**作者:** [fofr](https://x.com/fofrAI) | **ソース:** [Link](https://x.com/fofrAI/status/2026762628605862190) | **公開日:** 2026年2月25日
 
 ---
 
@@ -1173,9 +1182,9 @@ Shot some footage on the beach and ran it through Seedance 2 using it as a Refer
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026492675138936833/img/9vtlBB9P8FmifeHt.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026492995327901867)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026492995327901867)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026492995327901867)**
 
-**作者:** [Purz.ai](https://x.com/PurzBeats) | **ソース:** [Link](https://x.com/PurzBeats/status/2026492995327901867) | **公開日:** Feb 25, 2026
+**作者:** [Purz.ai](https://x.com/PurzBeats) | **ソース:** [Link](https://x.com/PurzBeats/status/2026492995327901867) | **公開日:** 2026年2月25日
 
 ---
 
@@ -1244,9 +1253,9 @@ Prompts + tutorial ↓ in comments https://t.co/aUlQUqOwgT
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026443859316846594/img/QQGV16KXBvEaixp3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026452890001485938)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026452890001485938)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026452890001485938)**
 
-**作者:** [Lena Zheng](https://x.com/linyi_zheng) | **ソース:** [Link](https://x.com/linyi_zheng/status/2026452890001485938) | **公開日:** Feb 25, 2026
+**作者:** [Lena Zheng](https://x.com/linyi_zheng) | **ソース:** [Link](https://x.com/linyi_zheng/status/2026452890001485938) | **公開日:** 2026年2月25日
 
 ---
 
@@ -1276,9 +1285,9 @@ Prompts + tutorial ↓ in comments https://t.co/aUlQUqOwgT
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026497070077718528/img/fQWf34wyFNA9weID.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026498110755917836)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026498110755917836)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026498110755917836)**
 
-**作者:** [硅予](https://x.com/Leslieyu0) | **ソース:** [Link](https://x.com/Leslieyu0/status/2026498110755917836) | **公開日:** Feb 25, 2026
+**作者:** [硅予](https://x.com/Leslieyu0) | **ソース:** [Link](https://x.com/Leslieyu0/status/2026498110755917836) | **公開日:** 2026年2月25日
 
 ---
 
@@ -1312,9 +1321,9 @@ Seedance 2.0 提示词：
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026286816496926720/img/HkVF86_li02koM41.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026287013515980957)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026287013515980957)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026287013515980957)**
 
-**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026287013515980957) | **公開日:** Feb 24, 2026
+**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026287013515980957) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1383,9 +1392,9 @@ Prompt随后放在👇🏻👇🏻👇🏻 https://t.co/PaKzkjrZzG
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026269040696860672/img/MYyj3AfThog3bn1R.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269308083634683)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269308083634683)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269308083634683)**
 
-**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026269308083634683) | **公開日:** Feb 24, 2026
+**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2026269308083634683) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1439,9 +1448,9 @@ Prompt below! 👇 https://t.co/Mg4bW55F4W
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026384571449978880/img/O3GcCh_Kx3HwOooO.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026387458443849906)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026387458443849906)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026387458443849906)**
 
-**作者:** [Horace Dodd](https://x.com/horacedodd) | **ソース:** [Link](https://x.com/horacedodd/status/2026387458443849906) | **公開日:** Feb 24, 2026
+**作者:** [Horace Dodd](https://x.com/horacedodd) | **ソース:** [Link](https://x.com/horacedodd/status/2026387458443849906) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1469,9 +1478,9 @@ made w/ @YouArtStudio https://t.co/VtNr6t73KB
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026393775317061632/img/0S3CHo1kjIhHXQW-.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026393873669407137)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026393873669407137)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026393873669407137)**
 
-**作者:** [Morph](https://x.com/Morph_VGart) | **ソース:** [Link](https://x.com/Morph_VGart/status/2026393873669407137) | **公開日:** Feb 24, 2026
+**作者:** [Morph](https://x.com/Morph_VGart) | **ソース:** [Link](https://x.com/Morph_VGart/status/2026393873669407137) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1494,9 +1503,9 @@ Seedance 2.0生成2D动漫视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026289131534598144/img/MJLpkXzrrw-yltP8.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026289270370033836)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026289270370033836)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026289270370033836)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026289270370033836) | **公開日:** Feb 24, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026289270370033836) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1524,9 +1533,9 @@ Seedance 2.0生成的花神降临视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026200183135174656/img/uPXaqaI-6NfKrfOn.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026200270292848671)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026200270292848671)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026200270292848671)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026200270292848671) | **公開日:** Feb 24, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026200270292848671) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1552,9 +1561,9 @@ provided creators early access to Seedance Pro 2.0 #Seedance2
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026237324929957888/img/Br3meCeco84XqPdx.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026237737322348761)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026237737322348761)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026237737322348761)**
 
-**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2026237737322348761) | **公開日:** Feb 24, 2026
+**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2026237737322348761) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1582,9 +1591,9 @@ Seedance 2.0 (小云雀 APP 生成）速度还挺快！！
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026279207748423680/img/KCh5YVcdh8Uoa0AY.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026279415983096218)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026279415983096218)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026279415983096218)**
 
-**作者:** [冰河](https://x.com/binghe) | **ソース:** [Link](https://x.com/binghe/status/2026279415983096218) | **公開日:** Feb 24, 2026
+**作者:** [冰河](https://x.com/binghe) | **ソース:** [Link](https://x.com/binghe/status/2026279415983096218) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1606,9 +1615,9 @@ prompt: POV holding your phone playing a wild ahh clip made with seedance 2.0 ht
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026338359086559236/img/jc9sJZSFpKEa2OZu.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026338409820860435)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026338409820860435)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026338409820860435)**
 
-**作者:** [proper](https://x.com/ProperPrompter) | **ソース:** [Link](https://x.com/ProperPrompter/status/2026338409820860435) | **公開日:** Feb 24, 2026
+**作者:** [proper](https://x.com/ProperPrompter) | **ソース:** [Link](https://x.com/ProperPrompter/status/2026338409820860435) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1644,9 +1653,9 @@ Seedance 2.0生成の電子女友视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026194514030043136/img/klBXU4TEmfopTA5K.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026194728207908945)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026194728207908945)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026194728207908945)**
 
-**作者:** [Panda](https://x.com/Jiaxi_Cui) | **ソース:** [Link](https://x.com/Jiaxi_Cui/status/2026194728207908945) | **公開日:** Feb 24, 2026
+**作者:** [Panda](https://x.com/Jiaxi_Cui) | **ソース:** [Link](https://x.com/Jiaxi_Cui/status/2026194728207908945) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1670,9 +1679,9 @@ Seedance 2.0生成的电子女友视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026132520283295744/img/5m3A0DMWHctf-PpE.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026132584468709489)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026132584468709489)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026132584468709489)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026132584468709489) | **公開日:** Feb 24, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026132584468709489) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1789,9 +1798,9 @@ Seedance 2.0 https://t.co/a1T3YmodUG
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026345186750578688/img/nn18RmabLHy2IS3b.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026345955918741775)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026345955918741775)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026345955918741775)**
 
-**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2026345955918741775) | **公開日:** Feb 24, 2026
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2026345955918741775) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1815,9 +1824,9 @@ Prompt: Show what’s happening in Silicon Valley after the @Citrini7 article.  
 
 [![動画プレビュー](https://pbs.twimg.com/media/HB406UZaYAAIU95.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026114996330197005)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026114996330197005)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026114996330197005)**
 
-**作者:** [Charles Curran](https://x.com/charliebcurran) | **ソース:** [Link](https://x.com/charliebcurran/status/2026114996330197005) | **公開日:** Feb 24, 2026
+**作者:** [Charles Curran](https://x.com/charliebcurran) | **ソース:** [Link](https://x.com/charliebcurran/status/2026114996330197005) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1856,9 +1865,9 @@ Free access now on @MartiniArt_ https://t.co/FDQJO97SCP
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2026119913098866688/pu/img/SVZlkciytGl386ux.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026119959445975448)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026119959445975448)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026119959445975448)**
 
-**作者:** [Oogie](https://x.com/oggii_0) | **ソース:** [Link](https://x.com/oggii_0/status/2026119959445975448) | **公開日:** Feb 24, 2026
+**作者:** [Oogie](https://x.com/oggii_0) | **ソース:** [Link](https://x.com/oggii_0/status/2026119959445975448) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1882,9 +1891,9 @@ Prompt: Tech billionaire CEO live-streaming himself smoking various meats with f
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026348178946273283/img/IIGo_WDEs4yfotKC.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026348248336896057)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026348248336896057)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026348248336896057)**
 
-**作者:** [Jawwwn](https://x.com/jawwwn_) | **ソース:** [Link](https://x.com/jawwwn_/status/2026348248336896057) | **公開日:** Feb 24, 2026
+**作者:** [Jawwwn](https://x.com/jawwwn_) | **ソース:** [Link](https://x.com/jawwwn_/status/2026348248336896057) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1929,9 +1938,9 @@ A big thank you to Umesh for sharing the prompt — it was incredibly inspiring 
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026269200101330945/img/ZU9c1ctlh-uDJzPK.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269411477446766)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269411477446766)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026269411477446766)**
 
-**作者:** [KANA](https://x.com/KanaWorks_AI) | **ソース:** [Link](https://x.com/KanaWorks_AI/status/2026269411477446766) | **公開日:** Feb 24, 2026
+**作者:** [KANA](https://x.com/KanaWorks_AI) | **ソース:** [Link](https://x.com/KanaWorks_AI/status/2026269411477446766) | **公開日:** 2026年2月24日
 
 ---
 
@@ -1959,9 +1968,9 @@ Seedance 2.0生成美女卡点换装视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025766567343169537/img/qcGPvrWnsvykSQnP.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025766696532004876)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025766696532004876)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025766696532004876)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2025766696532004876) | **公開日:** Feb 23, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2025766696532004876) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2008,9 +2017,9 @@ Image made with @Midjourney https://t.co/6Wm4NKIvtf
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026015138906624000/img/uasv5q2KCh2gZYO1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026015799048065035)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026015799048065035)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026015799048065035)**
 
-**作者:** [CHRIS FIRST](https://x.com/chrisfirst) | **ソース:** [Link](https://x.com/chrisfirst/status/2026015799048065035) | **公開日:** Feb 23, 2026
+**作者:** [CHRIS FIRST](https://x.com/chrisfirst) | **ソース:** [Link](https://x.com/chrisfirst/status/2026015799048065035) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2044,9 +2053,9 @@ Image preview made with Imagine Art 1.5 ( first comment )
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2026043136380661760/pu/img/yV94Ncf9ThU3EZBa.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026043164427952441)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026043164427952441)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026043164427952441)**
 
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2026043164427952441) | **公開日:** Feb 23, 2026
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2026043164427952441) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2071,9 +2080,9 @@ A young teenage boy inside a dark mystical cave filled with stalactites and glow
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025726514885427200/pu/img/MIrOTj0Nnu59OZY3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025726548330881425)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025726548330881425)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025726548330881425)**
 
-**作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **ソース:** [Link](https://x.com/saniaspeaks_/status/2025726548330881425) | **公開日:** Feb 23, 2026
+**作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **ソース:** [Link](https://x.com/saniaspeaks_/status/2025726548330881425) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2101,9 +2110,9 @@ w/ @YouArtStudio https://t.co/CydlPc8Pr4
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026064613373001728/img/YjLQbpMiG_quLzzG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026064687184462006)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026064687184462006)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026064687184462006)**
 
-**作者:** [Morph](https://x.com/Morph_VGart) | **ソース:** [Link](https://x.com/Morph_VGart/status/2026064687184462006) | **公開日:** Feb 23, 2026
+**作者:** [Morph](https://x.com/Morph_VGart) | **ソース:** [Link](https://x.com/Morph_VGart/status/2026064687184462006) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2130,9 +2139,9 @@ Create an ultra-realistic image from a first-person camera perspective. The view
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025846330426331136/pu/img/8P5ASdv1jFxPIoUJ.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025846361313194493)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025846361313194493)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025846361313194493)**
 
-**作者:** [Sarah](https://x.com/SyntheSarah) | **ソース:** [Link](https://x.com/SyntheSarah/status/2025846361313194493) | **公開日:** Feb 23, 2026
+**作者:** [Sarah](https://x.com/SyntheSarah) | **ソース:** [Link](https://x.com/SyntheSarah/status/2025846361313194493) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2159,9 +2168,9 @@ Create an ultra-realistic image from a first-person camera perspective. The view
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025849361498771456/img/x-evpB8-zhZxO4L3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025849650654122348)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025849650654122348)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025849650654122348)**
 
-**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2025849650654122348) | **公開日:** Feb 23, 2026
+**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2025849650654122348) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2188,9 +2197,9 @@ Nothing more....nothing less. These are the results I got. 🤯
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026071556594827264/img/OsYMrv8DycREcT3i.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026072001329446914)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026072001329446914)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026072001329446914)**
 
-**作者:** [Johnny Digital](https://x.com/JohnnyDigital47) | **ソース:** [Link](https://x.com/JohnnyDigital47/status/2026072001329446914) | **公開日:** Feb 23, 2026
+**作者:** [Johnny Digital](https://x.com/JohnnyDigital47) | **ソース:** [Link](https://x.com/JohnnyDigital47/status/2026072001329446914) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2221,9 +2230,9 @@ Continuous Video Prompt: > Low quality smartphone vlog footage， shaky handheld
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025949555356061696/img/-FWUX2e5rVOXyHEX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025949647379013915)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025949647379013915)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025949647379013915)**
 
-**作者:** [硅予](https://x.com/Leslieyu0) | **ソース:** [Link](https://x.com/Leslieyu0/status/2025949647379013915) | **公開日:** Feb 23, 2026
+**作者:** [硅予](https://x.com/Leslieyu0) | **ソース:** [Link](https://x.com/Leslieyu0/status/2025949647379013915) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2277,9 +2286,9 @@ Created on @MartiniArt_  with Seedance 2.0 https://t.co/HdqQXhIedr
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025741481852448768/img/jVrqVHEa5b0rOzJE.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025741915816186148)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025741915816186148)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025741915816186148)**
 
-**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2025741915816186148) | **公開日:** Feb 23, 2026
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2025741915816186148) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2306,9 +2315,9 @@ Promt: Scorpion and Subziro punch a lot. https://t.co/DG7GBhrGEW
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026023708008030209/img/fL1ZkscZvwmXCDFL.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026025200911868368)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026025200911868368)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026025200911868368)**
 
-**作者:** [Hack The Movies](https://x.com/HacktheMovies) | **ソース:** [Link](https://x.com/HacktheMovies/status/2026025200911868368) | **公開日:** Feb 23, 2026
+**作者:** [Hack The Movies](https://x.com/HacktheMovies) | **ソース:** [Link](https://x.com/HacktheMovies/status/2026025200911868368) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2340,9 +2349,9 @@ You can now generate Seedance 2.0 videos for free on @MartiniArt_ 🔥 https://t
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025828566953611264/pu/img/YK0tKLhpZHAGpaub.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025828764744056978)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025828764744056978)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025828764744056978)**
 
-**作者:** [Zara](https://x.com/ZaraIrahh) | **ソース:** [Link](https://x.com/ZaraIrahh/status/2025828764744056978) | **公開日:** Feb 23, 2026
+**作者:** [Zara](https://x.com/ZaraIrahh) | **ソース:** [Link](https://x.com/ZaraIrahh/status/2025828764744056978) | **公開日:** 2026年2月23日
 
 ---
 
@@ -2426,9 +2435,9 @@ Thread👇🏾🧵
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025429344743546881/pu/img/AqRB3UIcUYt6H5EN.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025429461236056304)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025429461236056304)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025429461236056304)**
 
-**作者:** [Gilbert Odera | Your AI Plug™🇰🇪](https://x.com/yourPlugAI) | **ソース:** [Link](https://x.com/yourPlugAI/status/2025429461236056304) | **公開日:** Feb 22, 2026
+**作者:** [Gilbert Odera | Your AI Plug™🇰🇪](https://x.com/yourPlugAI) | **ソース:** [Link](https://x.com/yourPlugAI/status/2025429461236056304) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2468,9 +2477,9 @@ A high-quality cinematic video of a bright red Jeep Wrangler parked at a busy ci
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025582969507991553/img/W8G0pASOCkORT8MM.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025585211434754269)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025585211434754269)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025585211434754269)**
 
-**作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **ソース:** [Link](https://x.com/IqraSaifiii/status/2025585211434754269) | **公開日:** Feb 22, 2026
+**作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **ソース:** [Link](https://x.com/IqraSaifiii/status/2025585211434754269) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2521,9 +2530,9 @@ No music."
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025586641528864768/img/OmzxD-yrEz-PWpN-.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025586704728670713)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025586704728670713)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025586704728670713)**
 
-**作者:** [Framer 🇱🇹](https://x.com/Framer_X) | **ソース:** [Link](https://x.com/Framer_X/status/2025586704728670713) | **公開日:** Feb 22, 2026
+**作者:** [Framer 🇱🇹](https://x.com/Framer_X) | **ソース:** [Link](https://x.com/Framer_X/status/2025586704728670713) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2551,9 +2560,9 @@ I really don't want them to take it away from us or restrict the capabilities of
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025505061703438336/img/yvcrQ2m_erjHcXXe.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025505131718951296)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025505131718951296)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025505131718951296)**
 
-**作者:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **ソース:** [Link](https://x.com/ivanka_humeniuk/status/2025505131718951296) | **公開日:** Feb 22, 2026
+**作者:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **ソース:** [Link](https://x.com/ivanka_humeniuk/status/2025505131718951296) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2584,9 +2593,9 @@ Made in @dreamina_ai
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025680747802038272/pu/img/HztFPfLhXqFaIFr3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025680774645628991)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025680774645628991)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025680774645628991)**
 
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2025680774645628991) | **公開日:** Feb 22, 2026
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2025680774645628991) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2613,9 +2622,9 @@ Seedance 2.0生成动漫「法天相地」特效。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025408315694690305/img/qrVaIflr84qwX5ys.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025408381016834408)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025408381016834408)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025408381016834408)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2025408381016834408) | **公開日:** Feb 22, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2025408381016834408) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2651,9 +2660,9 @@ https://t.co/NxjvoZQrDY
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025480687462084608/img/V9vq9K2v7HFF4V_5.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025480946225418324)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025480946225418324)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025480946225418324)**
 
-**作者:** [Mehmet](https://x.com/xenit_v0) | **ソース:** [Link](https://x.com/xenit_v0/status/2025480946225418324) | **公開日:** Feb 22, 2026
+**作者:** [Mehmet](https://x.com/xenit_v0) | **ソース:** [Link](https://x.com/xenit_v0/status/2025480946225418324) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2680,9 +2689,9 @@ Thank you, Seedance 2.0, for letting this prompt through and not adding any Holl
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025677665252913152/img/hzpTmuJE2K8VmXbj.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025677729463435314)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025677729463435314)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025677729463435314)**
 
-**作者:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **ソース:** [Link](https://x.com/ivanka_humeniuk/status/2025677729463435314) | **公開日:** Feb 22, 2026
+**作者:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **ソース:** [Link](https://x.com/ivanka_humeniuk/status/2025677729463435314) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2708,9 +2717,9 @@ Prompt -Giant preserved sea creatures (megalodon, octopus) in tanks viewed by ti
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025490374555516928/pu/img/G0IUXAOqCWJ4aeiT.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025490403689189794)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025490403689189794)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025490403689189794)**
 
-**作者:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211) | **ソース:** [Link](https://x.com/Ankit_patel211/status/2025490403689189794) | **公開日:** Feb 22, 2026
+**作者:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211) | **ソース:** [Link](https://x.com/Ankit_patel211/status/2025490403689189794) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2738,9 +2747,9 @@ Made w/ @YouArtStudio https://t.co/00gYM09bsf
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025719170134876162/img/wXVMuIrI_M9lv0Qq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025719598746611890)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025719598746611890)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025719598746611890)**
 
-**作者:** [Morph](https://x.com/Morph_VGart) | **ソース:** [Link](https://x.com/Morph_VGart/status/2025719598746611890) | **公開日:** Feb 22, 2026
+**作者:** [Morph](https://x.com/Morph_VGart) | **ソース:** [Link](https://x.com/Morph_VGart/status/2025719598746611890) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2763,9 +2772,9 @@ Seedance 2.0生成美女变装视频。
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025454045134290948/img/dEamXfeeUwnSAwGm.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025454107423605026)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025454107423605026)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025454107423605026)**
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2025454107423605026) | **公開日:** Feb 22, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2025454107423605026) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2869,9 +2878,9 @@ Seedance 2.0 - Prompt 👇 https://t.co/kDNYAROXvH
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025383719503020033/img/DxUCTiRONaxcq5WS.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025383929260229031)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025383929260229031)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025383929260229031)**
 
-**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2025383929260229031) | **公開日:** Feb 22, 2026
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2025383929260229031) | **公開日:** 2026年2月22日
 
 ---
 
@@ -2955,9 +2964,9 @@ and I’m sharing it with everyone so you can get started quickly. https://t.co/
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025443175750594560/pu/img/BoK2XP2oQpk0F4oo.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025443215835627521)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025443215835627521)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025443215835627521)**
 
-**作者:** [Oogie](https://x.com/oggii_0) | **ソース:** [Link](https://x.com/oggii_0/status/2025443215835627521) | **公開日:** Feb 22, 2026
+**作者:** [Oogie](https://x.com/oggii_0) | **ソース:** [Link](https://x.com/oggii_0/status/2025443215835627521) | **公開日:** 2026年2月22日
 
 ---
 
@@ -3011,9 +3020,9 @@ Don't forget to check all my work with Seedance 2.0.👇
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025666282855583744/img/Xk8uLk1R-8odSJwq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025666923477057740)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025666923477057740)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025666923477057740)**
 
-**作者:** [Ayyoub Ai](https://x.com/MaAyyoub) | **ソース:** [Link](https://x.com/MaAyyoub/status/2025666923477057740) | **公開日:** Feb 22, 2026
+**作者:** [Ayyoub Ai](https://x.com/MaAyyoub) | **ソース:** [Link](https://x.com/MaAyyoub/status/2025666923477057740) | **公開日:** 2026年2月22日
 
 ---
 
@@ -3037,9 +3046,9 @@ Prompt: Create a Pixar-style film about Punch that will make grown men cry https
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025030597249204225/pu/img/TVIqlQSf7jsRcvLG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025030646142218632)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025030646142218632)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025030646142218632)**
 
-**作者:** [Hanif | AI For Productivity](https://x.com/hanifproduktif) | **ソース:** [Link](https://x.com/hanifproduktif/status/2025030646142218632) | **公開日:** Feb 21, 2026
+**作者:** [Hanif | AI For Productivity](https://x.com/hanifproduktif) | **ソース:** [Link](https://x.com/hanifproduktif/status/2025030646142218632) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3069,9 +3078,9 @@ Prompt: Futuristic hovercraft on savanna hardpack with dust devils (10 seconds, 
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025151914695180288/pu/img/_8rgFQYBFa6CyEyV.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025151963386548438)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025151963386548438)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025151963386548438)**
 
-**作者:** [Umesh](https://x.com/umesh_ai) | **ソース:** [Link](https://x.com/umesh_ai/status/2025151963386548438) | **公開日:** Feb 21, 2026
+**作者:** [Umesh](https://x.com/umesh_ai) | **ソース:** [Link](https://x.com/umesh_ai/status/2025151963386548438) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3096,9 +3105,9 @@ Help me create a video: In a cozy house, there is a girl in the center of the ca
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2025085648022200320/pu/img/_-iz_F-1bhLysjzw.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025085690154000794)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025085690154000794)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025085690154000794)**
 
-**作者:** [underwood](https://x.com/underwoodxie96) | **ソース:** [Link](https://x.com/underwoodxie96/status/2025085690154000794) | **公開日:** Feb 21, 2026
+**作者:** [underwood](https://x.com/underwoodxie96) | **ソース:** [Link](https://x.com/underwoodxie96/status/2025085690154000794) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3166,9 +3175,9 @@ Help me create a video: In a cozy house, there is a girl in the center of the ca
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025004292927881218/img/o0YX1IKaXPkiVG-H.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025004374632923637)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025004374632923637)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025004374632923637)**
 
-**作者:** [硅予](https://x.com/Leslieyu0) | **ソース:** [Link](https://x.com/Leslieyu0/status/2025004374632923637) | **公開日:** Feb 21, 2026
+**作者:** [硅予](https://x.com/Leslieyu0) | **ソース:** [Link](https://x.com/Leslieyu0/status/2025004374632923637) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3197,9 +3206,9 @@ If you will like to get more prompts from me, comment “SEED”, I’ll DM you
 
 [![動画プレビュー](https://pbs.twimg.com/media/HA-msd1WwAAK_C1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025296310442561926)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025296310442561926)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025296310442561926)**
 
-**作者:** [Ọládélé 🇳🇬👑](https://x.com/Theoladeledada) | **ソース:** [Link](https://x.com/Theoladeledada/status/2025296310442561926) | **公開日:** Feb 21, 2026
+**作者:** [Ọládélé 🇳🇬👑](https://x.com/Theoladeledada) | **ソース:** [Link](https://x.com/Theoladeledada/status/2025296310442561926) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3223,9 +3232,9 @@ Prompt: Punch the Monkey punches back. Make the girls proud. https://t.co/AYhPf4
 
 [![動画プレビュー](https://pbs.twimg.com/media/HBo_Vu2bAAE9ohR.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025000532646265184)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025000532646265184)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025000532646265184)**
 
-**作者:** [Charles Curran](https://x.com/charliebcurran) | **ソース:** [Link](https://x.com/charliebcurran/status/2025000532646265184) | **公開日:** Feb 21, 2026
+**作者:** [Charles Curran](https://x.com/charliebcurran) | **ソース:** [Link](https://x.com/charliebcurran/status/2025000532646265184) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3247,9 +3256,9 @@ Hello there everyone, happy Saturday and weekend 🥰Let’s not forget that we 
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025109801722679296/img/wwEBwxXaMpf_oxlG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025110382713483553)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025110382713483553)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025110382713483553)**
 
-**作者:** [Alin](https://x.com/Alin_Reaper05) | **ソース:** [Link](https://x.com/Alin_Reaper05/status/2025110382713483553) | **公開日:** Feb 21, 2026
+**作者:** [Alin](https://x.com/Alin_Reaper05) | **ソース:** [Link](https://x.com/Alin_Reaper05/status/2025110382713483553) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3318,9 +3327,9 @@ Seedance 2.0 https://t.co/ToiubzmyUS
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025193076193476608/img/B6HYkD6_XK0_atWl.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025195077451350197)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025195077451350197)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025195077451350197)**
 
-**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2025195077451350197) | **公開日:** Feb 21, 2026
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2025195077451350197) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3346,9 +3355,9 @@ prompt: the most boring and awkward moment ever https://t.co/2uf5aLtYDd
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025179959569117184/img/5c7G9CeIrM2wyeyw.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025180010768990616)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025180010768990616)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025180010768990616)**
 
-**作者:** [proper](https://x.com/ProperPrompter) | **ソース:** [Link](https://x.com/ProperPrompter/status/2025180010768990616) | **公開日:** Feb 21, 2026
+**作者:** [proper](https://x.com/ProperPrompter) | **ソース:** [Link](https://x.com/ProperPrompter/status/2025180010768990616) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3382,9 +3391,9 @@ Promptu da altında veriyorum isteyen başka modeller ile deneyebilir.
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2025296357909463040/img/zvSLBq-SiFRicFN1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025296908240257191)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025296908240257191)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2025296908240257191)**
 
-**作者:** [Mehmet](https://x.com/xenit_v0) | **ソース:** [Link](https://x.com/xenit_v0/status/2025296908240257191) | **公開日:** Feb 21, 2026
+**作者:** [Mehmet](https://x.com/xenit_v0) | **ソース:** [Link](https://x.com/xenit_v0/status/2025296908240257191) | **公開日:** 2026年2月21日
 
 ---
 
@@ -3408,9 +3417,9 @@ A 10-second dynamic video shows a modern sports car transforming on the spot. Th
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2024882856544337921/pu/img/tqMEWWr29A2DDiEV.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024882892414104024)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024882892414104024)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024882892414104024)**
 
-**作者:** [underwood](https://x.com/underwoodxie96) | **ソース:** [Link](https://x.com/underwoodxie96/status/2024882892414104024) | **公開日:** Feb 20, 2026
+**作者:** [underwood](https://x.com/underwoodxie96) | **ソース:** [Link](https://x.com/underwoodxie96/status/2024882892414104024) | **公開日:** 2026年2月20日
 
 ---
 
@@ -3449,9 +3458,9 @@ The sequence ends with a visceral jump scare: a giant, distorted wooden mask wit
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024772985211764737/img/tSfuw8FkoOCne2u6.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024773067856351317)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024773067856351317)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024773067856351317)**
 
-**作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **ソース:** [Link](https://x.com/IqraSaifiii/status/2024773067856351317) | **公開日:** Feb 20, 2026
+**作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **ソース:** [Link](https://x.com/IqraSaifiii/status/2024773067856351317) | **公開日:** 2026年2月20日
 
 ---
 
@@ -3510,9 +3519,9 @@ American sitcom style cartoon about Steve【@图片2】. Must maintain 100% fide
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024902013524606976/img/0lwVojYKObUAai_3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024902234081997186)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024902234081997186)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024902234081997186)**
 
-**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **ソース:** [Link](https://x.com/PocketScreenAI/status/2024902234081997186) | **公開日:** Feb 20, 2026
+**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **ソース:** [Link](https://x.com/PocketScreenAI/status/2024902234081997186) | **公開日:** 2026年2月20日
 
 ---
 
@@ -3726,9 +3735,9 @@ SOUND LAYERS:
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024864341569232897/img/i_eJ1bwE2afKb-bN.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024864600680776001)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024864600680776001)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024864600680776001)**
 
-**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2024864600680776001) | **公開日:** Feb 20, 2026
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2024864600680776001) | **公開日:** 2026年2月20日
 
 ---
 
@@ -3752,9 +3761,9 @@ Prompt: Make a Pixar film about Punch. I want to cry and fall in love with him. 
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024861354683953153/img/K3ORUuTHMMevuj0l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024861467317776754)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024861467317776754)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024861467317776754)**
 
-**作者:** [TBC](https://x.com/TBC_on_X) | **ソース:** [Link](https://x.com/TBC_on_X/status/2024861467317776754) | **公開日:** Feb 20, 2026
+**作者:** [TBC](https://x.com/TBC_on_X) | **ソース:** [Link](https://x.com/TBC_on_X/status/2024861467317776754) | **公開日:** 2026年2月20日
 
 ---
 
@@ -3812,9 +3821,9 @@ If you encounter an error when generating a video, try generating it again. Toda
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024839328719949824/img/uEmXyvFZO3XiSkIF.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024840701276500387)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024840701276500387)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024840701276500387)**
 
-**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2024840701276500387) | **公開日:** Feb 20, 2026
+**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2024840701276500387) | **公開日:** 2026年2月20日
 
 ---
 
@@ -3852,9 +3861,9 @@ Same player. Same movement. New universe. 🏀👁️‍🗨️
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024924975992295424/img/6yl5iyglwHeKfZXH.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024925187095863675)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024925187095863675)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024925187095863675)**
 
-**作者:** [SD | AI Animation Storyteller](https://x.com/SDxArt) | **ソース:** [Link](https://x.com/SDxArt/status/2024925187095863675) | **公開日:** Feb 20, 2026
+**作者:** [SD | AI Animation Storyteller](https://x.com/SDxArt) | **ソース:** [Link](https://x.com/SDxArt/status/2024925187095863675) | **公開日:** 2026年2月20日
 
 ---
 
@@ -3902,9 +3911,9 @@ Videos are 480p on purpose. https://t.co/F24si73mzo
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024898996309786624/img/DGf8o6yZOwwFV6FC.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024905481030869498)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024905481030869498)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024905481030869498)**
 
-**作者:** [Ori Silver](https://x.com/OriSilver) | **ソース:** [Link](https://x.com/OriSilver/status/2024905481030869498) | **公開日:** Feb 20, 2026
+**作者:** [Ori Silver](https://x.com/OriSilver) | **ソース:** [Link](https://x.com/OriSilver/status/2024905481030869498) | **公開日:** 2026年2月20日
 
 ---
 
@@ -3930,9 +3939,9 @@ Hello there everyone. I finally got home from work...I will need to go again for
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024473992401207296/img/JSeyIFqVhTOE3PAx.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474543234904286)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474543234904286)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474543234904286)**
 
-**作者:** [Alin](https://x.com/Alin_Reaper05) | **ソース:** [Link](https://x.com/Alin_Reaper05/status/2024474543234904286) | **公開日:** Feb 19, 2026
+**作者:** [Alin](https://x.com/Alin_Reaper05) | **ソース:** [Link](https://x.com/Alin_Reaper05/status/2024474543234904286) | **公開日:** 2026年2月19日
 
 ---
 
@@ -3964,9 +3973,9 @@ the result: https://t.co/nUKFrbXquF
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024305383347814400/img/4Yh1XGIiuGAQjQ0s.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024305814950101034)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024305814950101034)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024305814950101034)**
 
-**作者:** [james yu](https://x.com/jamesjyu) | **ソース:** [Link](https://x.com/jamesjyu/status/2024305814950101034) | **公開日:** Feb 19, 2026
+**作者:** [james yu](https://x.com/jamesjyu) | **ソース:** [Link](https://x.com/jamesjyu/status/2024305814950101034) | **公開日:** 2026年2月19日
 
 ---
 
@@ -3990,9 +3999,9 @@ Prompt: AI goes woke. Make it really offensive - like really offensive. https://
 
 [![動画プレビュー](https://pbs.twimg.com/media/HBjF4NQbkAAarVR.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024585477148627118)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024585477148627118)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024585477148627118)**
 
-**作者:** [Charles Curran](https://x.com/charliebcurran) | **ソース:** [Link](https://x.com/charliebcurran/status/2024585477148627118) | **公開日:** Feb 19, 2026
+**作者:** [Charles Curran](https://x.com/charliebcurran) | **ソース:** [Link](https://x.com/charliebcurran/status/2024585477148627118) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4026,9 +4035,9 @@ here is the result I2V prompt below 👇. https://t.co/zw7oX5PMgH
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024578448941813760/img/v_gN9E-BXpJqWf2b.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024579283834790248)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024579283834790248)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024579283834790248)**
 
-**作者:** [Ayyoub Ai](https://x.com/MaAyyoub) | **ソース:** [Link](https://x.com/MaAyyoub/status/2024579283834790248) | **公開日:** Feb 19, 2026
+**作者:** [Ayyoub Ai](https://x.com/MaAyyoub) | **ソース:** [Link](https://x.com/MaAyyoub/status/2024579283834790248) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4056,9 +4065,9 @@ Prompt: keep the central person completely motionless and frozen like a statue. 
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024286045660155904/img/t6RLH3dsy_-T0OG6.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024286150765269083)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024286150765269083)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024286150765269083)**
 
-**作者:** [Lena Zheng](https://x.com/linyi_zheng) | **ソース:** [Link](https://x.com/linyi_zheng/status/2024286150765269083) | **公開日:** Feb 19, 2026
+**作者:** [Lena Zheng](https://x.com/linyi_zheng) | **ソース:** [Link](https://x.com/linyi_zheng/status/2024286150765269083) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4082,9 +4091,9 @@ seedance 2.0 prompt:
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024292667455070208/img/H-P_9Kx7opnjBse3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024292824615637400)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024292824615637400)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024292824615637400)**
 
-**作者:** [poof](https://x.com/poof_eth) | **ソース:** [Link](https://x.com/poof_eth/status/2024292824615637400) | **公開日:** Feb 19, 2026
+**作者:** [poof](https://x.com/poof_eth) | **ソース:** [Link](https://x.com/poof_eth/status/2024292824615637400) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4109,9 +4118,9 @@ Prompt: Live-action cinematic sequence. Static camera. The warrior kneels in the
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024413710375153665/img/3DrhZxN35_Nk2UFN.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024414230976270847)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024414230976270847)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024414230976270847)**
 
-**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2024414230976270847) | **公開日:** Feb 19, 2026
+**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2024414230976270847) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4137,9 +4146,9 @@ Prompt: Live-action cinematic sequence. The woman finishes pumping gas. The pump
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024409973522931712/img/y3-Okcq6Aq-SZXd5.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024411387535962433)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024411387535962433)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024411387535962433)**
 
-**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2024411387535962433) | **公開日:** Feb 19, 2026
+**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2024411387535962433) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4197,9 +4206,9 @@ Let's test the engine on Traditional Ink Wash animation: Wukong vs. Erlang Shen.
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024539209751810050/img/g2y4VrLYLE8mc0jT.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024542761597460892)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024542761597460892)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024542761597460892)**
 
-**作者:** [Mr.Iancu](https://x.com/Iancu_ai) | **ソース:** [Link](https://x.com/Iancu_ai/status/2024542761597460892) | **公開日:** Feb 19, 2026
+**作者:** [Mr.Iancu](https://x.com/Iancu_ai) | **ソース:** [Link](https://x.com/Iancu_ai/status/2024542761597460892) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4259,9 +4268,9 @@ DIALOGUE LOCK: keep speech exact, clear English, natural cadence, no extra words
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024462774793826304/img/OXIjQMd9xkcH5J-l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)**
 
-**作者:** [solak](https://x.com/solakorganic) | **ソース:** [Link](https://x.com/solakorganic/status/2024463067002917177) | **公開日:** Feb 19, 2026
+**作者:** [solak](https://x.com/solakorganic) | **ソース:** [Link](https://x.com/solakorganic/status/2024463067002917177) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4283,9 +4292,9 @@ seedance prompt :  Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic,
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024474201202036736/img/B-mkHllE5CTpD12K.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)**
 
-**作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2024474572288926191) | **公開日:** Feb 19, 2026
+**作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2024474572288926191) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4336,9 +4345,9 @@ Throughout the video, add authentic MotoGP-style original male English commentar
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2024511128257384449/pu/img/DxQ18glxjHhFK4x1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)**
 
-**作者:** [underwood](https://x.com/underwoodxie96) | **ソース:** [Link](https://x.com/underwoodxie96/status/2024511160503132494) | **公開日:** Feb 19, 2026
+**作者:** [underwood](https://x.com/underwoodxie96) | **ソース:** [Link](https://x.com/underwoodxie96/status/2024511160503132494) | **公開日:** 2026年2月19日
 
 ---
 
@@ -4401,9 +4410,9 @@ Seedance 2.0 + it's character reference option = my Salt x Diamond Universe IP s
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024187036266352641/img/8z96uTeLo4QrPOPX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024189256349200777)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024189256349200777)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024189256349200777)**
 
-**作者:** [Horace Dodd](https://x.com/horacedodd) | **ソース:** [Link](https://x.com/horacedodd/status/2024189256349200777) | **公開日:** Feb 18, 2026
+**作者:** [Horace Dodd](https://x.com/horacedodd) | **ソース:** [Link](https://x.com/horacedodd/status/2024189256349200777) | **公開日:** 2026年2月18日
 
 ---
 
@@ -4428,9 +4437,9 @@ A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsi
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2023928251421519874/pu/img/YiYXup_XGlDm_IOS.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023928376655048994)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023928376655048994)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023928376655048994)**
 
-**作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **ソース:** [Link](https://x.com/saniaspeaks_/status/2023928376655048994) | **公開日:** Feb 18, 2026
+**作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **ソース:** [Link](https://x.com/saniaspeaks_/status/2023928376655048994) | **公開日:** 2026年2月18日
 
 ---
 
@@ -4460,23 +4469,23 @@ A girl in traditional Chinese attire begins her emotional and passionate dance o
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024157015371563009/img/N2HI4CW0KUF7se1T.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024158161964274138)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024158161964274138)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024158161964274138)**
 
-**作者:** [Viki](https://x.com/churvikv) | **ソース:** [Link](https://x.com/churvikv/status/2024158161964274138) | **公開日:** Feb 18, 2026
+**作者:** [Viki](https://x.com/churvikv) | **ソース:** [Link](https://x.com/churvikv/status/2024158161964274138) | **公開日:** 2026年2月18日
 
 ---
 
-## 📚 📚 More Prompts
+## 📚 📚 さらに多くのプロンプト
 
-### 🎯 55 more prompts not shown here
+### 🎯 55 件のプロンプトが非表示
 
-**👉 [Browse all Seedance 2.0 prompts on YouWare](https://youware.com/ja/seedance-2-prompts)**
+**👉 [YouWare でプロンプトを閲覧](https://youware.com/ja/seedance-2-prompts)**
 
 ---
 
 ## 💡 使い方のコツ
 
-> Community tutorials and tips for getting the most out of Seedance 2.0
+> Seedance 2.0 を最大限に活用するためのコミュニティのヒントとチュートリアル
 
 ### Seedance 2.0がアップロードした参照ビデオをレビューで拒否した場合、参照ビデオ内の人物の顔をモザイクまたはぼか
 
@@ -4500,9 +4509,9 @@ tip：Seedance 2.0全能参考上传视频作为参考的时候审核不通过�
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026844189409890304/img/7mZvgofjatXkEV8V.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026844741774491648)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026844741774491648)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026844741774491648)**
 
-**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2026844741774491648) | **公開日:** Feb 26, 2026
+**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2026844741774491648) | **公開日:** 2026年2月26日
 
 ---
 
@@ -4524,9 +4533,9 @@ Seedance 2.0 is impressive, it's prompt adherence is really strong. But this the
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026819232202407936/img/TfurfeQqFNN3RTRA.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026825384260678044)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026825384260678044)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026825384260678044)**
 
-**作者:** [Pastor](https://x.com/FussyPastor) | **ソース:** [Link](https://x.com/FussyPastor/status/2026825384260678044) | **公開日:** Feb 26, 2026
+**作者:** [Pastor](https://x.com/FussyPastor) | **ソース:** [Link](https://x.com/FussyPastor/status/2026825384260678044) | **公開日:** 2026年2月26日
 
 ---
 
@@ -4552,7 +4561,7 @@ you can access seedance 2.0 by downloading capcut app
 
 NO VPN NEEDED https://t.co/uVg0dk4XgZ
 
-**作者:** [0x ROAS](https://x.com/0xROAS) | **ソース:** [Link](https://x.com/0xROAS/status/2026745579561210006) | **公開日:** Feb 25, 2026
+**作者:** [0x ROAS](https://x.com/0xROAS) | **ソース:** [Link](https://x.com/0xROAS/status/2026745579561210006) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4653,7 +4662,7 @@ If something keeps getting blocked, refine the framing not the creativity.
 
 Create smart. Create cinematic.
 
-**作者:** [Mohini Goyal](https://x.com/Mohiniuni) | **ソース:** [Link](https://x.com/Mohiniuni/status/2026517237197320582) | **公開日:** Feb 25, 2026
+**作者:** [Mohini Goyal](https://x.com/Mohiniuni) | **ソース:** [Link](https://x.com/Mohiniuni/status/2026517237197320582) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4685,9 +4694,9 @@ here’s the result I got by combining my two references https://t.co/CQthB6TXPV
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026509436492328963/img/Ea1NsC4FIBYBx7JB.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026512171765739742)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026512171765739742)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026512171765739742)**
 
-**作者:** [INK](https://x.com/0xInk_) | **ソース:** [Link](https://x.com/0xInk_/status/2026512171765739742) | **公開日:** Feb 25, 2026
+**作者:** [INK](https://x.com/0xInk_) | **ソース:** [Link](https://x.com/0xInk_/status/2026512171765739742) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4721,9 +4730,9 @@ https://t.co/oB6713jGN5
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026385031380271104/img/02naP575LJQBvLYX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026767797104386140)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026767797104386140)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026767797104386140)**
 
-**作者:** [klöss](https://x.com/kloss_xyz) | **ソース:** [Link](https://x.com/kloss_xyz/status/2026767797104386140) | **公開日:** Feb 25, 2026
+**作者:** [klöss](https://x.com/kloss_xyz) | **ソース:** [Link](https://x.com/kloss_xyz/status/2026767797104386140) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4761,9 +4770,9 @@ Please enjoy my rendition of "Between Two Trees" 👇 https://t.co/ge1DnIa9cT
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026751088033148928/img/Ftg33faq6PXzbJtW.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026752607499464793)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026752607499464793)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026752607499464793)**
 
-**作者:** [Justine Moore](https://x.com/venturetwins) | **ソース:** [Link](https://x.com/venturetwins/status/2026752607499464793) | **公開日:** Feb 25, 2026
+**作者:** [Justine Moore](https://x.com/venturetwins) | **ソース:** [Link](https://x.com/venturetwins/status/2026752607499464793) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4786,9 +4795,9 @@ Quick test with talking Polar Bears in Seedance 2. Couldn’t decide between bla
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026479661983629312/img/X-cpG6T7qoYbUr0A.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026479832733757567)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026479832733757567)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026479832733757567)**
 
-**作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **ソース:** [Link](https://x.com/CoffeeVectors/status/2026479832733757567) | **公開日:** Feb 25, 2026
+**作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **ソース:** [Link](https://x.com/CoffeeVectors/status/2026479832733757567) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4824,9 +4833,9 @@ via @zeely_ai
 
 [![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2026647003053084672/pu/img/j6ypzqf2RaavhD8F.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026647043221950825)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026647043221950825)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026647043221950825)**
 
-**作者:** [CV.YH](https://x.com/0xCVYH) | **ソース:** [Link](https://x.com/0xCVYH/status/2026647043221950825) | **公開日:** Feb 25, 2026
+**作者:** [CV.YH](https://x.com/0xCVYH) | **ソース:** [Link](https://x.com/0xCVYH/status/2026647043221950825) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4858,9 +4867,9 @@ It absolutely refuses to say "Anthropic" in my tests though 😂 https://t.co/9q
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026765017484505089/img/IQ8uGZtBE77HgMwK.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026765105367863590)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026765105367863590)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026765105367863590)**
 
-**作者:** [Alex Volkov (Thursd/AI)](https://x.com/altryne) | **ソース:** [Link](https://x.com/altryne/status/2026765105367863590) | **公開日:** Feb 25, 2026
+**作者:** [Alex Volkov (Thursd/AI)](https://x.com/altryne) | **ソース:** [Link](https://x.com/altryne/status/2026765105367863590) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4884,9 +4893,9 @@ Love it because it generate straight to my CapCut editing timeline, so i can str
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026780702050758656/img/bihGO6qzUygt7Nd4.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026781478399652269)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026781478399652269)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026781478399652269)**
 
-**作者:** [DAN](https://x.com/mxvdxn) | **ソース:** [Link](https://x.com/mxvdxn/status/2026781478399652269) | **公開日:** Feb 25, 2026
+**作者:** [DAN](https://x.com/mxvdxn) | **ソース:** [Link](https://x.com/mxvdxn/status/2026781478399652269) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4916,9 +4925,9 @@ I generated a text2video first and then continued it using the omni model with t
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026674166997331968/img/wRx8VtZW_4PiHtEa.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026674731223601463)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026674731223601463)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026674731223601463)**
 
-**作者:** [DreamStarter](https://x.com/DreamStarter_1) | **ソース:** [Link](https://x.com/DreamStarter_1/status/2026674731223601463) | **公開日:** Feb 25, 2026
+**作者:** [DreamStarter](https://x.com/DreamStarter_1) | **ソース:** [Link](https://x.com/DreamStarter_1/status/2026674731223601463) | **公開日:** 2026年2月25日
 
 ---
 
@@ -4980,7 +4989,7 @@ I’m obsessed.” https://t.co/wyl5a3l0dE
 Seedance 2.0 just landed in CapCut.
 You’re not ready. 🤯🔥 https://t.co/NpvkcaLS81
 
-**作者:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **ソース:** [Link](https://x.com/Preda2005/status/2026721593985216574) | **公開日:** Feb 25, 2026
+**作者:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **ソース:** [Link](https://x.com/Preda2005/status/2026721593985216574) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5092,7 +5101,7 @@ This is the guide I wish I had when I was scrambling to get Seedance 2.0 before 
 
 Skip to the end for the master prompt. Save for later &amp; give it to Claude.
 
-**作者:** [Emmet Halm](https://x.com/ehalm_) | **ソース:** [Link](https://x.com/ehalm_/status/2026590570316181922) | **公開日:** Feb 25, 2026
+**作者:** [Emmet Halm](https://x.com/ehalm_) | **ソース:** [Link](https://x.com/ehalm_/status/2026590570316181922) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5116,9 +5125,9 @@ Seedance 2.0 neredeyse her konuda üretime geçmeye tüm hızıyla devam ediyor.
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026668010799304704/img/pRzSnDajd_mQ7Yke.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026669571789226280)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026669571789226280)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026669571789226280)**
 
-**作者:** [Kaan Alper](https://x.com/kaan_alper) | **ソース:** [Link](https://x.com/kaan_alper/status/2026669571789226280) | **公開日:** Feb 25, 2026
+**作者:** [Kaan Alper](https://x.com/kaan_alper) | **ソース:** [Link](https://x.com/kaan_alper/status/2026669571789226280) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5199,9 +5208,9 @@ Breaking it down 👇 https://t.co/j63rADVh25
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026751550052335616/img/KoII-cUAMPuvCAhR.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026751650413580735)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026751650413580735)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026751650413580735)**
 
-**作者:** [Emma Uses AI](https://x.com/EmmaUsesAi) | **ソース:** [Link](https://x.com/EmmaUsesAi/status/2026751650413580735) | **公開日:** Feb 25, 2026
+**作者:** [Emma Uses AI](https://x.com/EmmaUsesAi) | **ソース:** [Link](https://x.com/EmmaUsesAi/status/2026751650413580735) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5231,9 +5240,9 @@ Seedance 2.0 Omni reference ②
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026451025788645376/img/XZrzCf3xDV553Htu.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)**
 
-**作者:** [Kaku Drop 架空飴](https://x.com/KakuDrop) | **ソース:** [Link](https://x.com/KakuDrop/status/2026451087000293717) | **公開日:** Feb 25, 2026
+**作者:** [Kaku Drop 架空飴](https://x.com/KakuDrop) | **ソース:** [Link](https://x.com/KakuDrop/status/2026451087000293717) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5262,7 +5271,7 @@ Seedance 2.0の画像プロンプトを順番に書く：まずは概要を書�
 - 综述（图像质量+风格+镜头效果+光照效果+主题）
 -
 
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026659364409585899) | **公開日:** Feb 25, 2026
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026659364409585899) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5288,9 +5297,9 @@ Seedance 2.0 çalışmaları tam manasıyla kıvamına geliyor artık. Bu tweeti
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026605643121987584/img/yQSwqV-J6IXplVPG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026607417593598170)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026607417593598170)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026607417593598170)**
 
-**作者:** [Kaan Alper](https://x.com/kaan_alper) | **ソース:** [Link](https://x.com/kaan_alper/status/2026607417593598170) | **公開日:** Feb 25, 2026
+**作者:** [Kaan Alper](https://x.com/kaan_alper) | **ソース:** [Link](https://x.com/kaan_alper/status/2026607417593598170) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5312,9 +5321,9 @@ Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026762427744796672/img/oYkjLTJUEHtN9ft7.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762507306545641)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762507306545641)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762507306545641)**
 
-**作者:** [Alan Daitch](https://x.com/AlanDaitch) | **ソース:** [Link](https://x.com/AlanDaitch/status/2026762507306545641) | **公開日:** Feb 25, 2026
+**作者:** [Alan Daitch](https://x.com/AlanDaitch) | **ソース:** [Link](https://x.com/AlanDaitch/status/2026762507306545641) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5348,9 +5357,9 @@ Seedance 2.0 is OPEN.
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026606780042932224/img/4zjqw-iuCss8b0rq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)**
 
-**作者:** [Chraft](https://x.com/chraft_ai) | **ソース:** [Link](https://x.com/chraft_ai/status/2026611657397645609) | **公開日:** Feb 25, 2026
+**作者:** [Chraft](https://x.com/chraft_ai) | **ソース:** [Link](https://x.com/chraft_ai/status/2026611657397645609) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5435,9 +5444,9 @@ Descifrémla 👇 https://t.co/S3MIauVUzp
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026733216241971200/img/vrdkYqRxytmlAu38.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)**
 
-**作者:** [Alejandro Martinez | IA](https://x.com/copyelpadrino) | **ソース:** [Link](https://x.com/copyelpadrino/status/2026734681308147865) | **公開日:** Feb 25, 2026
+**作者:** [Alejandro Martinez | IA](https://x.com/copyelpadrino) | **ソース:** [Link](https://x.com/copyelpadrino/status/2026734681308147865) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5472,7 +5481,7 @@ Why did no one tell me you can already use Seedance 2.0 in CapCut???
 
 240 credits (approx $3) per 15-second video apparently https://t.co/e1wRMvzH4Q
 
-**作者:** [Angel ❄️](https://x.com/Angaisb_) | **ソース:** [Link](https://x.com/Angaisb_/status/2026729560482468256) | **公開日:** Feb 25, 2026
+**作者:** [Angel ❄️](https://x.com/Angaisb_) | **ソース:** [Link](https://x.com/Angaisb_/status/2026729560482468256) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5502,7 +5511,7 @@ i don't think people realize what this model is actually capable of
 
 when i say you can generate anything, i truly mean it....
 
-**作者:** [Miko](https://x.com/Mho_23) | **ソース:** [Link](https://x.com/Mho_23/status/2026800160228127065) | **公開日:** Feb 25, 2026
+**作者:** [Miko](https://x.com/Mho_23) | **ソース:** [Link](https://x.com/Mho_23/status/2026800160228127065) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5539,9 +5548,9 @@ Video upscaled with the new @Magnific_AI  VIDEO UPSCALER.
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026712959754399745/img/nxo7tjOd3YBL0dZh.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)**
 
-**作者:** [ARLO🟡](https://x.com/byarlooo) | **ソース:** [Link](https://x.com/byarlooo/status/2026713840390648005) | **公開日:** Feb 25, 2026
+**作者:** [ARLO🟡](https://x.com/byarlooo) | **ソース:** [Link](https://x.com/byarlooo/status/2026713840390648005) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5569,9 +5578,9 @@ YouMindアカウントを登録してログインした後、Seedance分鏡提�
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026593519482318852/img/BL2u7AG_FR_PvafI.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)**
 
-**作者:** [loonggg](https://x.com/KengGuangLong) | **ソース:** [Link](https://x.com/KengGuangLong/status/2026594611112907181) | **公開日:** Feb 25, 2026
+**作者:** [loonggg](https://x.com/KengGuangLong) | **ソース:** [Link](https://x.com/KengGuangLong/status/2026594611112907181) | **公開日:** 2026年2月25日
 
 ---
 
@@ -5681,7 +5690,7 @@ Inspired by @azed_ai
 
 Thread🧵👇🏾
 
-**作者:** [Gilbert Odera | Your AI Plug™🇰🇪](https://x.com/yourPlugAI) | **ソース:** [Link](https://x.com/yourPlugAI/status/2026156636105023742) | **公開日:** Feb 24, 2026
+**作者:** [Gilbert Odera | Your AI Plug™🇰🇪](https://x.com/yourPlugAI) | **ソース:** [Link](https://x.com/yourPlugAI/status/2026156636105023742) | **公開日:** 2026年2月24日
 
 ---
 
@@ -5706,9 +5715,9 @@ There's a very poorly researched blog "debunking" seedance 2.0. It claims Seedan
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026160813200031744/img/uBQnaC76hOOQk8IX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787)**
 
-**作者:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **ソース:** [Link](https://x.com/RuairiRobinson/status/2026164263547793787) | **公開日:** Feb 24, 2026
+**作者:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **ソース:** [Link](https://x.com/RuairiRobinson/status/2026164263547793787) | **公開日:** 2026年2月24日
 
 ---
 
@@ -5735,9 +5744,9 @@ Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzi
 
 [![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026357088226525184/img/eECgEFxOBeePM9LA.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)**
 
-**作者:** [Kaan Alper](https://x.com/kaan_alper) | **ソース:** [Link](https://x.com/kaan_alper/status/2026358915076915427) | **公開日:** Feb 24, 2026
+**作者:** [Kaan Alper](https://x.com/kaan_alper) | **ソース:** [Link](https://x.com/kaan_alper/status/2026358915076915427) | **公開日:** 2026年2月24日
 
 ---
 
@@ -5769,32 +5778,32 @@ Google、メール、TikTok、または他の既存のアカウントでサイ�
 
 4. Pick Seedance 2.0 from the model dropdown (it should be right there).
 
-**作者:** [Shub](https://x.com/shub0414) | **ソース:** [Link](https://x.com/shub0414/status/2026137822588285394) | **公開日:** Feb 24, 2026
+**作者:** [Shub](https://x.com/shub0414) | **ソース:** [Link](https://x.com/shub0414/status/2026137822588285394) | **公開日:** 2026年2月24日
 
 ---
 
-*... and 94 more tips. [View all in Gallery](https://youware.com/ja/seedance-2-prompts)*
+*... その他 94 件のヒント。 [ギャラリーですべて表示](https://youware.com/ja/seedance-2-prompts)*
 
 ---
 
 ## 🤝 コントリビュート
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to submit prompts.
+コントリビュートを歓迎します！プロンプトの提出方法は[コントリビュートガイド](CONTRIBUTING.md)をご覧ください。
 
 ## 📄 ライセンス
 
-This collection is licensed under [CC BY 4.0](LICENSE). You are free to share and adapt the prompts with attribution.
+このコレクションは [CC BY 4.0](LICENSE) ライセンスの下で公開されています。帰属表示のもと、自由に共有・改変できます。
 
-## 🙏 Acknowledgements
+## 🙏 謝辞
 
-Thanks to all the creators who shared their prompts with the community.
+コミュニティでプロンプトを共有してくださったすべてのクリエイターに感謝します。
 
-## ⭐ Star History
+## ⭐ Star 履歴
 
 [![Star History Chart](https://api.star-history.com/svg?repos=youware-ai/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#youware-ai/awesome-seedance-2-prompts&Date)
 
 ---
 
-**🌐 [View in Web Gallery](https://youware.com/ja/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
+**🌐 [🎬 ウェブギャラリーで閲覧](https://youware.com/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 This README is automatically generated. Last updated: 2026-02-27T01:52:55.607Z
+🤖 この README は自動生成されています。最終更新： 2026-02-27T05:15:45.859Z

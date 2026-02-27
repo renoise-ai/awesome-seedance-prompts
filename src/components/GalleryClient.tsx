@@ -38,14 +38,23 @@ export default function GalleryClient({ prompts, tips }: GalleryClientProps) {
   }, []);
 
   const items = section === "prompts" ? prompts : tips;
+  const isTips = section === "tips";
   const tags = useMemo(() => getAllTags(items), [items]);
 
   const filtered = useMemo(() => {
-    return items.filter((p) => {
+    const result = items.filter((p) => {
       if (activeTag && !p.tags.includes(activeTag)) return false;
       return true;
     });
-  }, [items, activeTag]);
+    if (isTips) {
+      result.sort((a, b) => {
+        const aHasVisual = a.thumbnail || a.videoUrl ? 1 : 0;
+        const bHasVisual = b.thumbnail || b.videoUrl ? 1 : 0;
+        return bHasVisual - aHasVisual;
+      });
+    }
+    return result;
+  }, [items, activeTag, isTips]);
 
   function switchSection(s: Section) {
     setSection(s);
@@ -53,7 +62,6 @@ export default function GalleryClient({ prompts, tips }: GalleryClientProps) {
   }
 
   const totalCount = prompts.length + tips.length;
-  const isTips = section === "tips";
 
   const uniqueAuthors = useMemo(() => {
     const all = [...prompts, ...tips];
@@ -148,21 +156,22 @@ export default function GalleryClient({ prompts, tips }: GalleryClientProps) {
             </button>
           </div>
 
-          {/* Divider */}
-          <div className="h-5 w-px bg-black/10" />
-
-          {/* Tag filters */}
-          <div className="flex-1 overflow-x-auto">
-            <TagFilter
-              tags={tags}
-              activeTag={activeTag}
-              onTagChange={setActiveTag}
-              locale={locale}
-              showFeatured={false}
-              featuredActive={false}
-              onFeaturedToggle={() => {}}
-            />
-          </div>
+          {tags.length > 0 && (
+            <>
+              <div className="h-5 w-px bg-black/10" />
+              <div className="flex-1 overflow-x-auto">
+                <TagFilter
+                  tags={tags}
+                  activeTag={activeTag}
+                  onTagChange={setActiveTag}
+                  locale={locale}
+                  showFeatured={false}
+                  featuredActive={false}
+                  onFeaturedToggle={() => {}}
+                />
+              </div>
+            </>
+          )}
         </div>
       </div>
 

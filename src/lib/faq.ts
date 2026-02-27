@@ -42,11 +42,6 @@ const faqData: Record<Locale, FaqItem[]> = {
       answer:
         "Yes — browsing, searching, and copying every prompt in this gallery is 100% free with no account required. To generate videos, YouWare offers free credits to get started, with Pro and Ultra plans for heavy usage. The prompts here work with any platform that supports Seedance 2.0.",
     },
-    {
-      question: "Can I contribute my own prompts?",
-      answer:
-        "Absolutely. Submit via our GitHub repository at github.com/youware-ai/awesome-seedance-2-prompts. We review submissions for quality, add video previews, translate them into 5 languages, and credit you with your name and profile link. Top contributors get featured on the gallery.",
-    },
   ],
   "zh-CN": [
     {
@@ -83,11 +78,6 @@ const faqData: Record<Locale, FaqItem[]> = {
       question: "免费吗？",
       answer:
         "是的 —— 浏览、搜索和复制本库所有提示词完全免费，无需注册。生成视频方面，YouWare 提供免费额度供新用户体验，重度用户可升级 Pro 或 Ultra 套餐。这些提示词适用于任何支持 Seedance 2.0 的平台。",
-    },
-    {
-      question: "我可以贡献自己的提示词吗？",
-      answer:
-        "当然可以。通过 GitHub 仓库 github.com/youware-ai/awesome-seedance-2-prompts 提交即可。我们会审核质量、添加视频预览、翻译成 5 种语言，并署上你的名字和主页链接。优秀贡献者会在画廊中获得精选推荐。",
     },
   ],
   ja: [
@@ -126,11 +116,6 @@ const faqData: Record<Locale, FaqItem[]> = {
       answer:
         "はい — このギャラリーのすべてのプロンプトの閲覧、検索、コピーはアカウント不要で100%無料です。動画生成にはYouWareの無料クレジットで始められ、ヘビーユーザー向けにProとUltraプランがあります。ここのプロンプトはSeedance 2.0をサポートするどのプラットフォームでも使えます。",
     },
-    {
-      question: "プロンプトを投稿できますか？",
-      answer:
-        "もちろん。GitHubリポジトリ github.com/youware-ai/awesome-seedance-2-prompts から提出できます。品質レビュー後、動画プレビューを追加し、5言語に翻訳して、お名前とプロフィールリンクをクレジットします。トップコントリビューターはギャラリーで注目されます。",
-    },
   ],
   "pt-BR": [
     {
@@ -168,11 +153,6 @@ const faqData: Record<Locale, FaqItem[]> = {
       answer:
         "Sim — navegar, buscar e copiar todos os prompts desta galeria é 100% gratuito, sem necessidade de conta. Para gerar vídeos, o YouWare oferece créditos gratuitos para começar, com planos Pro e Ultra para uso intenso. Os prompts aqui funcionam com qualquer plataforma que suporte o Seedance 2.0.",
     },
-    {
-      question: "Posso contribuir com meus próprios prompts?",
-      answer:
-        "Com certeza. Envie pelo nosso repositório GitHub em github.com/youware-ai/awesome-seedance-2-prompts. Revisamos a qualidade, adicionamos previews de vídeo, traduzimos para 5 idiomas e creditamos você com nome e link do perfil. Os melhores contribuidores ganham destaque na galeria.",
-    },
   ],
   es: [
     {
@@ -209,11 +189,6 @@ const faqData: Record<Locale, FaqItem[]> = {
       question: "¿Es gratis?",
       answer:
         "Sí — navegar, buscar y copiar todos los prompts de esta galería es 100% gratis sin necesidad de cuenta. Para generar videos, YouWare ofrece créditos gratuitos para comenzar, con planes Pro y Ultra para uso intenso. Los prompts aquí funcionan con cualquier plataforma que soporte Seedance 2.0.",
-    },
-    {
-      question: "¿Puedo contribuir con mis propios prompts?",
-      answer:
-        "¡Por supuesto! Envía a través de nuestro repositorio GitHub en github.com/youware-ai/awesome-seedance-2-prompts. Revisamos la calidad, añadimos previsualizaciones de video, traducimos a 5 idiomas y te acreditamos con tu nombre y enlace de perfil. Los mejores contribuidores aparecen destacados en la galería.",
     },
   ],
 };
