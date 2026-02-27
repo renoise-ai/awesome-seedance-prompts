@@ -52,7 +52,7 @@ Seedance 2.0 は、テキストプロンプトから高品質な動画を生成�
 | 📝 プロンプト総数 | **155** |
 | ⭐ 注目 | **0** |
 | 💡 Tips & Tutorials | **124** |
-| 🔄 最終更新 | **2026-02-26** |
+| 🔄 最終更新 | **2026-02-27** |
 
 ---
 
@@ -5797,4 +5797,4 @@ Thanks to all the creators who shared their prompts with the community.
 
 **🌐 [View in Web Gallery](https://youware.com/ja/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-02-26T21:02:13.499Z
+🤖 This README is automatically generated. Last updated: 2026-02-27T01:52:55.607Z

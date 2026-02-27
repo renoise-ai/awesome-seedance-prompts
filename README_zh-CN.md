@@ -52,7 +52,7 @@ Seedance 2.0 是一款前沿的 AI 视频生成模型，能够根据文字提示
 | 📝 提示词总数 | **155** |
 | ⭐ 精选 | **0** |
 | 💡 Tips & Tutorials | **124** |
-| 🔄 最后更新 | **2026-02-26** |
+| 🔄 最后更新 | **2026-02-27** |
 
 ---
 
@@ -5741,4 +5741,4 @@ Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzi
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-02-26T21:02:13.488Z
+🤖 This README is automatically generated. Last updated: 2026-02-27T01:52:55.594Z
