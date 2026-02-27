@@ -5750,4 +5750,4 @@ Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzi
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-02-27T05:15:45.847Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-02-27T05:16:34.667Z
