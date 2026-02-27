@@ -58,9 +58,9 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **155** |
+| 📝 提示词总数 | **161** |
 | ⭐ 精选 | **0** |
-| 💡 技巧 & 教程 | **124** |
+| 💡 技巧 & 教程 | **132** |
 | 🔄 最后更新 | **2026-02-27** |
 
 ---
@@ -68,6 +68,43 @@
 ## 🎬 所有提示词
 
 > 📝 按发布日期排序（最新优先）
+
+### |镜号|景别|时长|画面|音效|台词/旁白|
+|-|-|-|-|-|-|
+|1|全景|5s|暖黄色复古画室，阳光斜洒在挂...
+
+> 《忍不住了啦，偷偷来一口😋》 当戴珍珠耳环的少女遇到为了美味汽水，太可爱啦。 用谷歌 Veo模型生成，质感很好，但是自然度还是比不了Seedance 2.0。好在每天有 3 次免费生成的机会。喜欢的可以试一下。 提示词，评论区。⬇️ https://t.co/wPBFwWBzoL
+
+#### 📝 提示词
+
+```
+|镜号|景别|时长|画面|音效|台词/旁白|
+|-|-|-|-|-|-|
+|1|全景|5s|暖黄色复古画室，阳光斜洒在挂满油画的墙面，镜头缓缓推进正中央一幅装裱精致的古典人物肖像画|轻快俏皮的古典弦乐开场|无|
+|2|中近景|8s|画中人物原本端庄的神情突然松动，眼珠滴溜溜左右转动，悄悄从画框边缘探出半张脸，眼神瞟向画外桌角的罐装可乐|轻微的“窸窸窣窣”画框摩擦声，弦乐节奏变活泼|无|
+|3|特写|7s|人物的手猛地从画框里伸出来，指尖精准勾住可乐罐拉环，“嘭”的一声拉开，仰头大口灌下|拉环开启的“咔哒”声，液体涌入喉咙的“咕嘟”声|无|
+|4|近景|6s|人物抹了抹嘴角，眉眼弯起露出满足到眯起眼睛的表情，还打了个带着气泡感的小嗝|惬意的打嗝声，弦乐升调|无|
+|5|全景|5s|走廊方向传来清晰的皮鞋踏地声，画中人物瞬间慌了手脚，手忙脚乱把可乐塞回原位，光速缩回画框恢复端庄坐姿|急促的脚步声，弦乐节奏骤然变紧张|无|
+|6|中景|8s|穿牛仔靴、戴宽檐帽的西部牛仔推门走进画室，扫过桌面后拿起可乐罐，转身吹着口哨离开|牛仔靴的“哒哒”声，轻快的口哨声盖过弦乐|无|
+|7|特写|10s|镜头紧紧跟随着牛仔手中的可乐罐，直至牛仔走出画面，镜头缓缓前推，背景逐渐褪成纯黑，只剩一束冷调顶光打在可乐罐上，罐身水珠清晰可见，气泡在液体里缓缓上升|环境音消失，只剩气泡“滋滋”声|无|
+|8|黑屏+字幕|7s|纯黑背景中，罐装可乐悬浮在光里，画面下方浮现烫金艺术字：“宜口可乐”，随后一行小字跳出：“不可不尝！”|气泡声渐弱，温暖的钢琴音响起|【旁白（磁性低沉）】：“宜口可乐，藏在画里的快乐，不可不尝！”|
+```
+
+#### 💡 使用技巧
+
+《忍不住了啦，偷偷来一口😋》
+当戴珍珠耳环的少女遇到为了美味汽水，太可爱啦。
+用谷歌 Veo模型生成，质感很好，但是自然度还是比不了Seedance 2.0。好在每天有 3 次免费生成的机会。喜欢的可以试一下。
+
+提示词，评论区。⬇️ https://t.co/wPBFwWBzoL
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026868777942675456/img/osmWzzTXrtxJz-rv.jpg)](https://video.twimg.com/amplify_video/2026868777942675456/vid/avc1/718x848/gs0f47nvzYj1a53G.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2026868777942675456/vid/avc1/718x848/gs0f47nvzYj1a53G.mp4)**
+
+**作者:** [硅予](https://x.com/Leslieyu0) | **来源:** [Link](https://x.com/Leslieyu0/status/2026869086924451855) | **发布日期:** 2026年2月26日
+
+---
 
 ### 人物
 • 女主（林晚）：24岁，清冷干练，看似普通，实则深藏不露，气场全开。
@@ -105,6 +142,34 @@ Seedance 2.0生成都市短剧视频。
 📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026874635195920771)**
 
 **作者:** [李岳](https://x.com/liyue_ai) | **来源:** [Link](https://x.com/liyue_ai/status/2026874635195920771) | **发布日期:** 2026年2月26日
+
+---
+
+### 高速FPV电影风格飞行穿越超现实的、舒适的树屋，位于密林中，在金色时刻，掠过桥梁、楼梯、带有温暖灯光的室内，并通过天窗飞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 高速FPV电影风格飞行穿越超现实的、舒适的树屋，位于密林中，在金色时刻，掠过桥梁、楼梯、带有温暖灯光的室内，并通过天窗飞出，伴随戏剧性的镜头运动。
+
+#### 📝 提示词
+
+```
+高速FPV电影风格飞行穿越超现实的、舒适的树屋，位于密林中，在金色时刻，掠过桥梁、楼梯、带有温暖灯光的室内，并通过天窗飞出，伴随戏剧性的镜头运动。
+```
+
+#### 💡 使用技巧
+
+FPV AI video of a treehouse
+
+Created with Seedance 2.0 on @yapper_so 
+
+Prompt: Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a dense forest at golden hour, sweeping through bridges, staircases, interiors with warm lights, and exiting through a skylight, with dramatic camera motion
+
+[![视频预览](https://pbs.twimg.com/ext_tw_video_thumb/2026983792125325312/pu/img/fo-N87flC4IGzO5t.jpg)](https://video.twimg.com/ext_tw_video/2026983792125325312/pu/vid/avc1/1920x1080/waa65FxyE68aJwTX.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/ext_tw_video/2026983792125325312/pu/vid/avc1/1920x1080/waa65FxyE68aJwTX.mp4)**
+
+**作者:** [Zara](https://x.com/ZaraIrahh) | **来源:** [Link](https://x.com/ZaraIrahh/status/2026983864401625354) | **发布日期:** 2026年2月26日
 
 ---
 
@@ -155,6 +220,144 @@ Seedance 2.0 提示词prompt： https://t.co/RyJwaneEpP
 📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026846380896190731)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2026846380896190731) | **发布日期:** 2026年2月26日
+
+---
+
+### Seedance 2.0生成3D动漫美学舞蹈视频。
+
+主体：女主暗紫长发渐变粉，精致长飘带头饰，冷白皮，脸型瘦小修长，小...
+
+> Seedance 2.0生成3D动漫美学舞蹈视频。 主体：女主暗紫长发渐变粉，精致长飘带头饰，冷白皮，脸型瘦小修长，小巧鼻玲珑妆容，面部光影明暗交错，粉蝶千羽纱衣，繁复千羽飘逸披肩飘带纱，繁复多层千羽紫粉纱蝶舞飞仙纱裙渐变蓝，多层粉蓝交织衣袂超长飘带漫天飞舞。 https://t.co/NgEILEffXB
+
+#### 📝 提示词
+
+```
+Seedance 2.0生成3D动漫美学舞蹈视频。
+
+主体：女主暗紫长发渐变粉，精致长飘带头饰，冷白皮，脸型瘦小修长，小巧鼻玲珑妆容，面部光影明暗交错，粉蝶千羽纱衣，繁复千羽飘逸披肩飘带纱，繁复多层千羽紫粉纱蝶舞飞仙纱裙渐变蓝，多层粉蓝交织衣袂超长飘带漫天飞舞。
+```
+
+#### 💡 使用技巧
+
+Seedance 2.0生成3D动漫美学舞蹈视频。
+
+主体：女主暗紫长发渐变粉，精致长飘带头饰，冷白皮，脸型瘦小修长，小巧鼻玲珑妆容，面部光影明暗交错，粉蝶千羽纱衣，繁复千羽飘逸披肩飘带纱，繁复多层千羽紫粉纱蝶舞飞仙纱裙渐变蓝，多层粉蓝交织衣袂超长飘带漫天飞舞。 https://t.co/NgEILEffXB
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026888801889693697/img/2CGRJfX5spnAi9GN.jpg)](https://video.twimg.com/amplify_video/2026888801889693697/vid/avc1/720x1280/hW1X2cfQagcaqMxk.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2026888801889693697/vid/avc1/720x1280/hW1X2cfQagcaqMxk.mp4)**
+
+**作者:** [李岳](https://x.com/liyue_ai) | **来源:** [Link](https://x.com/liyue_ai/status/2026888888137167025) | **发布日期:** 2026年2月26日
+
+---
+
+### 镜头1：恶魔一边说话一边转头，给出侧眼。
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 镜头1：恶魔一边说话一边转头，给出侧眼。 镜头2：极近距离特写恶魔的眼睛。他眨眼。 镜头3：极近距离特写嘴巴，他变得愤怒。 镜头4：极近距离特写他的耳朵。小毛发显现。 镜头5：恶魔伸出舌头，发出舔舐的声音。 镜头6：镜头拉远，显示恶魔站在地狱中。只有一个轮廓可见。 --- 线程继续 --- [线程1] 空间链接: https://t.co/z4rWwX6Efi ---
+
+#### 📝 提示词
+
+```
+镜头1：恶魔一边说话一边转头，给出侧眼。
+镜头2：极近距离特写恶魔的眼睛。他眨眼。
+镜头3：极近距离特写嘴巴，他变得愤怒。
+镜头4：极近距离特写他的耳朵。小毛发显现。
+镜头5：恶魔伸出舌头，发出舔舐的声音。
+镜头6：镜头拉远，显示恶魔站在地狱中。只有一个轮廓可见。
+
+--- 线程继续 ---
+[线程1] 空间链接: https://t.co/z4rWwX6Efi
+---
+```
+
+#### 💡 使用技巧
+
+😈 While we are waiting for Seedance 2.0, Kling 3.0 is still an amazing option.
+
+Especially Omni mode when working with character. Just generate multiple facial expressions and provide them as reference images.
+
+Then make a multi-shot prompt and you will have amazing character consistency.
+
+Prompt:
+
+shot 1: the devil talking while turning his head giving a side eye.
+shot 2: extreme close up of the devils eye. he winks.
+shot 3: extreme close up of the mouth while he turns agry.
+shot 4: extreme close up of his ear. small hairs are showing.
+shot 5. the devil sticks out his tongue while saying a licking sound
+shot 6: zoom out and show the devil standing in hell. Only a silhuette is visible.
+
+Link to Spaces below
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2027021349139644417/img/CZoKiu0H0o5C6uyh.jpg)](https://video.twimg.com/amplify_video/2027021349139644417/vid/avc1/2160x2700/pOqv5KORW9eQtVS-.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2027021349139644417/vid/avc1/2160x2700/pOqv5KORW9eQtVS-.mp4)**
+
+**作者:** [Martin LeBlanc](https://x.com/martinleblanc) | **来源:** [Link](https://x.com/martinleblanc/status/2027021917530599913) | **发布日期:** 2026年2月26日
+
+---
+
+### 自由女神像的母亲长得很像她，过来聊天，说终于想要一个孙子。自由女神像对谈论生孩子感到非常烦恼，但她们之间仍然有一些母女之
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 自由女神像的母亲长得很像她，过来聊天，说终于想要一个孙子。自由女神像对谈论生孩子感到非常烦恼，但她们之间仍然有一些母女之爱。温馨。 --- THREAD CONTINUATION --- [Thread 1] Prompt: the statue of liberty's similarly looking mother comes by and chats about wanting to g.
+
+#### 📝 提示词
+
+```
+自由女神像的母亲长得很像她，过来聊天，说终于想要一个孙子。自由女神像对谈论生孩子感到非常烦恼，但她们之间仍然有一些母女之爱。温馨。
+
+--- THREAD CONTINUATION ---
+[Thread 1] Prompt:
+the statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.
+---
+```
+
+#### 💡 使用技巧
+
+One prompt made this wholesome clip in Seedance 2.0 
+
+made w/ @YouArtStudio https://t.co/aPASxlpxv5
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026820805284294657/img/IvluSUS-HQBQ_1U6.jpg)](https://video.twimg.com/amplify_video/2026820805284294657/vid/avc1/1280x720/UPLUUkaJMGCIKTDF.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2026820805284294657/vid/avc1/1280x720/UPLUUkaJMGCIKTDF.mp4)**
+
+**作者:** [Morph](https://x.com/Morph_VGart) | **来源:** [Link](https://x.com/Morph_VGart/status/2026820905326825942) | **发布日期:** 2026年2月26日
+
+---
+
+### 在夜樱飘落的背景下，少女跳着Tiktok舞蹈。
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 在夜樱飘落的背景下，少女跳着Tiktok舞蹈。
+
+#### 📝 提示词
+
+```
+在夜樱飘落的背景下，少女跳着Tiktok舞蹈。
+```
+
+#### 💡 使用技巧
+
+💖🧡💚 Seedance 2.0 触ってみたっ❣️ 💚🧡💖
+#capcut生成ai #capcutjapandiscord #seedance2
+
+みんなおつ萌奈🌙💕夜桜に提灯の灯り・・・🌸✨
+この雰囲気、たったワンプロンプトで生成されたって信じられる？
+
+プロンプトは・・・👇
+「夜桜舞い散る背景に少女はTiktokダンスを踊る。」 https://t.co/S2dGdzOAUi
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2027029566993354753/img/H1zwJjnzL5Y8kZZN.jpg)](https://video.twimg.com/amplify_video/2027029566993354753/vid/avc1/1080x1920/11F0oQwE6gTlIAZW.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2027029566993354753/vid/avc1/1080x1920/11F0oQwE6gTlIAZW.mp4)**
+
+**作者:** [萌奈のおすそわけ♥️AI動画クリエイター🩷AI & Web3 KOL🧡💛💚](https://x.com/xc5_) | **来源:** [Link](https://x.com/xc5_/status/2027032333354684622) | **发布日期:** 2026年2月26日
 
 ---
 
@@ -4132,274 +4335,9 @@ Let's test the engine on Traditional Ink Wash animation: Wukong vs. Erlang Shen.
 
 ---
 
-### 设置：夜晚的温泉池；温暖的蒸汽弥漫在空气中；柔和的黄色墙灯反射在绿松石色的水面上；石制池边在前景中；背景有轻微的雾气；自
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 设置：夜晚的温泉池；温暖的蒸汽弥漫在空气中；柔和的黄色墙灯反射在绿松石色的水面上；石制池边在前景中；背景有轻微的雾气；自然的温泉环境。 光线：真实的iPhone效果；略微昏暗，温暖的环境光；皮肤上的水分可见；无美颜滤镜；自然的皮肤纹理和雀斑可见。 摄像机：iPhone前置摄像头的感觉；支撑在池边；略显不完美的构图；因静止位置而产生的微妙抖动；无缩放。 主体：20多岁的女性；湿润的红色头发向后...
-
-#### 📝 提示词
-
-```
-设置：夜晚的温泉池；温暖的蒸汽弥漫在空气中；柔和的黄色墙灯反射在绿松石色的水面上；石制池边在前景中；背景有轻微的雾气；自然的温泉环境。
-
-光线：真实的iPhone效果；略微昏暗，温暖的环境光；皮肤上的水分可见；无美颜滤镜；自然的皮肤纹理和雀斑可见。
-
-摄像机：iPhone前置摄像头的感觉；支撑在池边；略显不完美的构图；因静止位置而产生的微妙抖动；无缩放。
-
-主体：20多岁的女性；湿润的红色头发向后梳；淡妆；自然的雀斑；放松的表情；黑色细带泳衣；平静、自信的语气。
-
-音频：自然的泳池环境声；轻微的水流声；无音乐；无字幕。
-
-道具：此段中无产品可见。
-
-动作：她将下巴靠在池边的前臂上；一只手轻轻触碰脸颊下方；动作缓慢而放松；双手保持在锁骨以下。
-
-对话："Okay so… I used to break out constantly. Like painful, hormonal acne every single month. And I’m not even kidding — I have zero acne now. The only thing I changed was adding zinc and omega-3 supplements to my routine. That’s it."
-
-结束：轻轻呼气，露出自信的微笑；硬切。
-
-对话锁定：保持讲话内容准确，清晰的英语，自然的节奏，无多余词汇。
----
-```
-
-#### 💡 使用技巧
-
-use this prompt to create hyper-realistic ai ugc videos (seedance 2.0):
-
-SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreground; slight fog in background; natural spa environment.
-
-LIGHT: Real iPhone look; slightly dim, warm ambient lighting; moisture on skin visible; no beauty filter; natural skin texture and freckles visible.
-
-CAMERA: iPhone front-cam feel; propped on pool edge; slightly imperfect framing; subtle micro-shake from resting position; no zoom.
-
-SUBJECT: 20s woman; wet red hair slicked back; minimal makeup; natural freckles; relaxed expression; black thin-strap swimsuit; calm, confident tone.
-
-AUDIO: Natural pool ambience; faint water movement; no music; no captions.
-
-PROPS: No product visible in this segment.
-
-ACTION: She rests her chin on her forearm at the pool edge; one hand gently touches the side of her face below cheekbone; slow, relaxed movements; hands stay below collarbone.
-
-DIALOGUE: "Okay so… I used to break out constantly. Like painful, hormonal acne every single month. And I’m not even kidding — I have zero acne now. The only thing I changed was adding zinc and omega-3 supplements to my routine. That’s it."
-
-END: Soft exhale and small confident smile; hard cut.
-
-DIALOGUE LOCK: keep speech exact, clear English, natural cadence, no extra words.
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2024462774793826304/img/OXIjQMd9xkcH5J-l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)**
-
-**作者:** [solak](https://x.com/solakorganic) | **来源:** [Link](https://x.com/solakorganic/status/2024463067002917177) | **发布日期:** 2026年2月19日
-
----
-
-### 风格：1970年代粗犷科幻体育电影，《铁甲钢拳》美学，去饱和的35mm胶片，实拍机器人战斗场景：地下机器人搏击笼。两台2
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 风格：1970年代粗犷科幻体育电影，《铁甲钢拳》美学，去饱和的35mm胶片，实拍机器人战斗场景：地下机器人搏击笼。两台2.5米高的战斗机器人——一个黑色（英雄），一个银色（对手）——进行快速空手道风格的徒手搏斗。生锈的铁丝网围栏，混凝土地面，刺眼的顶灯，背景中模糊的人群。[00-03秒] 快速交锋。黑色机器人挡住银色的拳头（火花四溅），反击头部勾拳（装甲凹陷），然后快速1-2组合拳（更多火花）。银
-
-#### 📝 提示词
-
-```
-风格：1970年代粗犷科幻体育电影，《铁甲钢拳》美学，去饱和的35mm胶片，实拍机器人战斗场景：地下机器人搏击笼。两台2.5米高的战斗机器人——一个黑色（英雄），一个银色（对手）——进行快速空手道风格的徒手搏斗。生锈的铁丝网围栏，混凝土地面，刺眼的顶灯，背景中模糊的人群。[00-03秒] 快速交锋。黑色机器人挡住银色的拳头（火花四溅），反击头部勾拳（装甲凹陷），然后快速1-2组合拳（更多火花）。银色防御，双臂交叉。手持摄像机，侧面角度。金属碰撞声。[03-07秒] 银色机器人冲锋，用肩膀撞击黑色机器人的胸部。黑色滑退但站稳（装甲完好）。银色尝试膝击，黑色抓住并固定。0.5秒的挣扎，液压过载的嘶嘶声。低角度镜头强调力量。人群欢呼。[07-11秒] 黑色机器人的决定性反击：高踢（空手道风格）。快速蓄力，右腿猛然踢出，脚连接到银色的头部。极慢动作（0.25倍）：装甲破裂，巨大的火花，液压管爆裂（黑色雾气），头部扭转90°。银色旋转并倒下。侧面广角镜头捕捉完整的踢腿弧线。[11-15秒] 银色摔倒在地（尘土飞扬），头部裂缝处冒出火花，四肢抽搐然后停止。黑色放下腿，转向摄像机（背光，红眼闪烁）。广角俯拍：一个站立，一个倒下。淡出至黑。无字幕。无对白。只有金属撞击声、液压声、火花声、人群噪音。物理：所有撞击遵循牛顿定律。重量、惯性、动量可见。碎片/火花真实下落。色彩：去饱和的暖棕色+金属灰+火花橙+液压黑。胶片颗粒+25%。
-```
-
-#### 💡 使用技巧
-
-seedance prompt :  Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots - one black (hero), one silver (opponent) - engage in rapid karate-style hand-to-hand combat. Rusty chain-link fence, concrete floor, harsh overhead spotlights, blurred crowd in background. [00-03s] Fast exchange. Black robot blocks silver's punch (sparks fly), counters with hook to head (armor dents), then rapid 1-2 combo (more sparks). Silver defends, arms crossed. Handheld cam, side angle. Metal clash sounds. [03-07s] Silver charges, shoulder-rams black robot's chest. Black slides back but stands firm (armor intact). Silver attempts knee strike, black catches and holds it. 0.5s struggle, hydraulic overload hiss. Low angle shot emphasizes power. Crowd roars. [07-11s] Black robot's decisive counter: HIGH KICK (karate style). Quick wind-up, right leg SNAPS out, foot connects with silver's head. EXTREME SLOW-MO (0.25x): armor cracks, massive sparks, hydraulic line bursts (black mist), head twists 90°. Silver spins and falls. Side wide shot captures full kick arc. [11-15s] Silver crashes to ground (dust cloud), sparks from cracked head, limbs twitch then stop. Black lowers leg, turns to camera (backlit, red eyes glow). Wide overhead: one standing, one down. Fade to black. No subtitles. No dialogue. Only metal impacts, hydraulics, sparks, crowd noise. Physics: All impacts obey Newton's laws. Weight, inertia, momentum visible. Debris/sparks fall realistically. Color: Desaturated warm brown + metallic grey + spark orange + hydraulic black. Film grain +25%.
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2024474201202036736/img/B-mkHllE5CTpD12K.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)**
-
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2024474572288926191) | **发布日期:** 2026年2月19日
-
----
-
-### 我提供的图像包含我的小猫——请将其用作角色模型参考。  
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 我提供的图像包含我的小猫——请将其用作角色模型参考。 制作一个视频，展示小猫驾驶一辆小车在MotoGP赛道上比赛。 小猫在一个弯道中超越了本田#93赛车（这个片段应持续3秒）。 切换到一个从地面低角度拍摄的小猫背面镜头，捕捉小猫在弯道中大幅倾斜的姿态（3秒）。 然后使用超远摄镜头拍摄小猫快速穿过一个大型C形弯道（3秒）。 切换到一个广角镜头，展示小猫和本田#93赛车在终点线前的最后一个...
-
-#### 📝 提示词
-
-```
-我提供的图像包含我的小猫——请将其用作角色模型参考。  
-制作一个视频，展示小猫驾驶一辆小车在MotoGP赛道上比赛。
-
-小猫在一个弯道中超越了本田#93赛车（这个片段应持续3秒）。
-
-切换到一个从地面低角度拍摄的小猫背面镜头，捕捉小猫在弯道中大幅倾斜的姿态（3秒）。
-
-然后使用超远摄镜头拍摄小猫快速穿过一个大型C形弯道（3秒）。
-
-切换到一个广角镜头，展示小猫和本田#93赛车在终点线前的最后一个弯道中行驶（3秒）。
-
-最后，展示小猫在过终点线时将小车前部抬起，做出翘头动作（3秒）。
-
-在整个视频中，添加真实的MotoGP风格的原创男性英语解说——但仅在开场超车和最后的终点线时刻包含解说。
-```
-
-#### 💡 使用技巧
-
-Use Seedance 2.0 and provide a photo of a kitten.
-
-prompt：
-The image I provide contains my kitten — please use it as the character model reference.
-Create a video where the kitten is riding a small cart and racing on a MotoGP track.
-
-The kitten overtakes the Honda #93 race bike in a corner (this sequence should last 3 seconds).
-
-Cut to a rear shot of the kitten, filmed from a ground-level low angle, capturing the kitten leaning hard into the turn (3 seconds).
-
-Then use an ultra-telephoto lens shot of the kitten speeding through a large C-shaped corner (3 seconds).
-
-Switch to a wide shot showing the kitten and the Honda #93 bike going through the final corner before the finish line (3 seconds).
-
-Finally, show the kitten lifting the front of the cart into a wheelie as it crosses the finish line (3 seconds).
-
-Throughout the video, add authentic MotoGP-style original male English commentary — but only include commentary for the opening overtake and the final finish-line moment.
-
-[![视频预览](https://pbs.twimg.com/ext_tw_video_thumb/2024511128257384449/pu/img/DxQ18glxjHhFK4x1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)**
-
-**作者:** [underwood](https://x.com/underwoodxie96) | **来源:** [Link](https://x.com/underwoodxie96/status/2024511160503132494) | **发布日期:** 2026年2月19日
-
----
-
-### 1990年代OVA现实主义（Prod I.G + Otomo），日本全彩，细致原画线条，克制的赛璐珞+柔和渐变，细微颗粒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1990年代OVA现实主义（Prod I.G + Otomo），日本全彩，细致原画线条，克制的赛璐珞+柔和渐变，细微颗粒，锐利阴影，强烈的轮廓光。24fps作画快切；激进的编辑节奏；涂抹+冲击帧；仅背景运动模糊（角色和武器保持清晰）。高级视觉特效（火花、花瓣爆发、微小碎片、热波纹），仅高级音效，无音乐。3亿美元大片效果。保持设计完全不变。无字幕/标志。 [00:00–00:01] 广角设置。@I.
-
-#### 📝 提示词
-
-```
-1990年代OVA现实主义（Prod I.G + Otomo），日本全彩，细致原画线条，克制的赛璐珞+柔和渐变，细微颗粒，锐利阴影，强烈的轮廓光。24fps作画快切；激进的编辑节奏；涂抹+冲击帧；仅背景运动模糊（角色和武器保持清晰）。高级视觉特效（火花、花瓣爆发、微小碎片、热波纹），仅高级音效，无音乐。3亿美元大片效果。保持设计完全不变。无字幕/标志。
-
-[00:00–00:01] 广角设置。@Image3 XW 主镜头：@Image1 Noxie Blitz 和 @Image2 Pixel Saint 在盛开的樱花下的石径上相距8-10米。角度：低XW 3/4，使两个剪影在花瓣+灯笼+神社线条前清晰可见。
-
-[00:01–00:03] 中宽3/4。@Image1（Noxie）从左向右发起第一次斩击。摄像机：快速平移；仅背景模糊，花瓣模糊成条纹。@Image2（Pixel）侧步，剪影清晰。花瓣尾迹。
-
-[00:03–00:05] 紧拍手/刀刃。格挡→缠住→推开。1个冲击帧+火花；花瓣爆裂。
-
-[00:05–00:07] 中景胸部以上。Noxie假动作高攻；Pixel格挡；Pixel低位反击；Noxie检查+肩膀撞击。面部表情最小化（最多1次眨眼）。
-
-[00:07–00:09] 俯视1秒击打。Noxie旋转斩击；Pixel后退至小桥边缘；锦鲤溅水。摄像机：俯视下降然后硬切出。
-
-[00:09–00:11] 紧拍赛博手臂重定向+刀锋在喉线附近险些擦过。摄像机：推近。青色接缝光（可控）。
-
-[00:11–00:13] 侧面轮廓。两人冲刺交叉——2个涂抹帧+1个清晰海报姿势。火花“X”+花瓣爆发。
-
-[00:13–00:15] 广角主镜头。三重接触：轻击-轻击-重击，然后重置为镜像姿势，花瓣在他们之间飘落。摄像机：锁定；以硬停英雄帧结束。
-
-仅音效：风穿过花瓣，脚在石头上滑动，盔甲/伺服器滴答声，刀锋呼啸，金属撞击声，火花滋滋声，水花溅起声，灯笼叮当声。无音乐。
-
---- 线程继续 ---
-[线程1] 我的卡通英雄世界伙伴@PocketScreenAI说得对！使用Seedance 2.0角色参考选项在处理多个复杂图像和动作时效果更佳。以下是我使用的确切提示。
-
-1990年代OVA现实主义（Prod I.G + Otomo），日本全彩，细致原画线条，克制的赛璐珞+柔和渐变，细微颗粒，锐利阴影，强烈的轮廓光。24fps作画快切；激进的编辑节奏；涂抹+冲击帧；仅背景运动模糊（角色和武器保持清晰）。高级视觉特效（火花、花瓣爆发、微小碎片、热波纹），仅高级音效，无音乐。3亿美元大片效果。保持设计完全不变。无字幕/标志。
-
-[00:00–00:01] 广角设置。@Image3 XW 主镜头：@Image1 Noxie Blitz 和 @Image2 Pixel Saint 在盛开的樱花下的石径上相距8-10米。角度：低XW 3/4，使两个剪影在花瓣+灯笼+神社线条前清晰可见。
-
-[00:01–00:03] 中宽3/4。@Image1（Noxie）从左向右发起第一次斩击。摄像机：快速平移；仅背景模糊，花瓣模糊成条纹。@Image2（Pixel）侧步，剪影清晰。花瓣尾迹。
-
-[00:03–00:05] 紧拍手/刀刃。格挡→缠住→推开。1个冲击帧+火花；花瓣爆裂。
-
-[00:05–00:07] 中景胸部以上。Noxie假动作高攻；Pixel格挡；Pixel低位反击；Noxie检查+肩膀撞击。面部表情最小化（最多1次眨眼）。
-
-[00:07–00:09] 俯视1秒击打。Noxie旋转斩击；Pixel后退至小桥边缘；锦鲤溅水。摄像机：俯视下降然后硬切出。
-
-[00:09–00:11] 紧拍赛博手臂重定向+刀锋在喉线附近险些擦过。摄像机：推近。青色接缝光（可控）。
-
-[00:11–00:13] 侧面轮廓。两人冲刺交叉——2个涂抹帧+1个清晰海报姿势。火花“X”+花瓣爆发。
-
-[00:13–00:15] 广角主镜头。三重接触：轻击-轻击-重击，然后重置为镜像姿势，花瓣在他们之间飘落。摄像机：锁定；以硬停英雄帧结束。
-
-仅音效：风穿过花瓣，脚在石头上滑动，盔甲/伺服器滴答声，刀锋呼啸，金属撞击声，火花滋滋声，水花溅起声，灯笼叮当声。无音乐。
-```
-
-#### 💡 使用技巧
-
-Seedance 2.0 + it's character reference option = my Salt x Diamond Universe IP stayed on-model the whole time. Noxie Blitz x Pixel Saint, sakuga-style steel under falling petals. Prompt below 👇 https://t.co/uknHt1iAyT
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2024187036266352641/img/8z96uTeLo4QrPOPX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024189256349200777)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024189256349200777)**
-
-**作者:** [Horace Dodd](https://x.com/horacedodd) | **来源:** [Link](https://x.com/horacedodd/status/2024189256349200777) | **发布日期:** 2026年2月18日
-
----
-
-### 在现代城市中上演一场电影般的末日灾难场景。巨大的桥梁坍塌入河，巨大的爆炸摧毁摩天大楼，建筑物破碎，碎片飞舞，人们在尘土和
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 在现代城市中上演一场电影般的末日灾难场景。巨大的桥梁坍塌入河，巨大的爆炸摧毁摩天大楼，建筑物破碎，碎片飞舞，人们在尘土和混乱中惊慌奔跑。一颗巨大的陨石从天而降，引发巨大的冲击波，海啸般的巨浪淹没城市街道，乌云密布，戏剧性的灯光，超现实主义，电影镜头运动，慢动作破坏，高细节，4K，史诗般的规模，紧张的氛围，类似好莱坞灾难电影的电影质感。 ---
-
-#### 📝 提示词
-
-```
-在现代城市中上演一场电影般的末日灾难场景。巨大的桥梁坍塌入河，巨大的爆炸摧毁摩天大楼，建筑物破碎，碎片飞舞，人们在尘土和混乱中惊慌奔跑。一颗巨大的陨石从天而降，引发巨大的冲击波，海啸般的巨浪淹没城市街道，乌云密布，戏剧性的灯光，超现实主义，电影镜头运动，慢动作破坏，高细节，4K，史诗般的规模，紧张的氛围，类似好莱坞灾难电影的电影质感。
----
-```
-
-#### 💡 使用技巧
-
-Seedance 2.0 is pure insanity.
-
-Prompt:
-A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering with debris flying, people running in panic through dust and chaos. A giant meteor falling from the sky causing a massive shockwave, tsunami waves flooding the city streets, dark stormy clouds, dramatic lighting, ultra realistic, cinematic camera movement, slow motion destruction, high detail, 4K, epic scale, intense atmosphere, movie-like quality similar to Hollywood disaster films.
-
-[![视频预览](https://pbs.twimg.com/ext_tw_video_thumb/2023928251421519874/pu/img/YiYXup_XGlDm_IOS.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023928376655048994)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023928376655048994)**
-
-**作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **来源:** [Link](https://x.com/saniaspeaks_/status/2023928376655048994) | **发布日期:** 2026年2月18日
-
----
-
-### 一个身穿中国传统服饰的女孩在静谧的黑色水面上开始了她充满情感和激情的舞蹈。镜头移近捕捉她满含情感的面容，然后迅速拉远，展
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个身穿中国传统服饰的女孩在静谧的黑色水面上开始了她充满情感和激情的舞蹈。镜头移近捕捉她满含情感的面容，然后迅速拉远，展现她长袖挥舞的壮丽姿态。镜头从不同角度拍摄——从下方拍摄以突出她动作的力量和优雅，从上方拍摄将她的舞蹈变成水面上的迷人图案。她的每一步和每一个转身都充满激情。金色的火花和樱花花瓣在她周围旋转，她脚下的水面随着她富有表现力的动作迸发出金色的圆圈。
-
-#### 📝 提示词
-
-```
-一个身穿中国传统服饰的女孩在静谧的黑色水面上开始了她充满情感和激情的舞蹈。镜头移近捕捉她满含情感的面容，然后迅速拉远，展现她长袖挥舞的壮丽姿态。镜头从不同角度拍摄——从下方拍摄以突出她动作的力量和优雅，从上方拍摄将她的舞蹈变成水面上的迷人图案。她的每一步和每一个转身都充满激情。金色的火花和樱花花瓣在她周围旋转，她脚下的水面随着她富有表现力的动作迸发出金色的圆圈。
-```
-
-#### 💡 使用技巧
-
-Her dance is a poem written on a mirror surface, every movement is a line full of passion and grace.
-
-Created in @dreamina_ai
-Model: Seedance 2.0 
-
-I used one image
-Prompt for video⤵️
-A girl in traditional Chinese attire begins her emotional and passionate dance on the still, dark water. The camera moves in to capture her face full of emotion, then pulls back sharply to reveal the sweeping gestures of her long sleeves. The shots are filmed from various angles - from below to accentuate the power and grace of her movements, and from above, turning her dance into a mesmerizing pattern on the water. Each of her steps and turns is filled with passion. Golden sparks and cherry blossom petals swirl around her, and the water beneath her feet erupts in golden circles in time with her expressive movements.
- #DreaminaCPP
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2024157015371563009/img/N2HI4CW0KUF7se1T.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024158161964274138)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024158161964274138)**
-
-**作者:** [Viki](https://x.com/churvikv) | **来源:** [Link](https://x.com/churvikv/status/2024158161964274138) | **发布日期:** 2026年2月18日
-
----
-
 ## 📚 📚 更多提示词
 
-### 🎯 55 条提示词未在此显示
+### 🎯 61 条提示词未在此显示
 
 **👉 [浏览画廊](https://youware.com/zh-CN/seedance-2-prompts)**
 
@@ -4408,6 +4346,95 @@ A girl in traditional Chinese attire begins her emotional and passionate dance o
 ## 💡 使用技巧
 
 > 社区分享的 Seedance 2.0 使用技巧和教程
+
+### 在Seedance 2.0中重复使用一个经过验证的Sora 2 prompt，不仅生成视觉效果，还生成音乐、音效以及直接
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 在Seedance 2.0中重复使用一个经过验证的Sora 2 prompt，不仅生成视觉效果，还生成音乐、音效以及直接从模型中获得剪辑/编辑/镜头操作，然后仅在CapCut中应用最终视频滤镜进行后期处理。
+
+#### 📝 提示词
+
+```
+在Seedance 2.0中重复使用一个经过验证的Sora 2 prompt，不仅生成视觉效果，还生成音乐、音效以及直接从模型中获得剪辑/编辑/镜头操作，然后仅在CapCut中应用最终视频滤镜进行后期处理。
+```
+
+#### 💡 使用技巧
+
+Seedance 2.0 via @yapper_so 
+
+Using my previous Sora 2 prompt, all the audio, including music, sound effects, and cut, edit, and camera work, comes directly from the model. I only applied filters to the video using CapCut. https://t.co/q4OabNT3II
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2027187855119028224/img/BQbZ_e6qtNAX2Vth.jpg)](https://video.twimg.com/amplify_video/2027187855119028224/vid/avc1/2560x1440/cU-V_iGOZB50cT3J.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2027187855119028224/vid/avc1/2560x1440/cU-V_iGOZB50cT3J.mp4)**
+
+**作者:** [DAN](https://x.com/mxvdxn) | **来源:** [Link](https://x.com/mxvdxn/status/2027189035622654311) | **发布日期:** 2026年2月27日
+
+---
+
+### 通过访问网站、注册并在模型菜单中选择视频 AI → Seedance 2.0，免费使用 Seedance 2.0。  
+
+![Español](https://img.shields.io/badge/lang-Español-yellow)
+
+> 通过访问网站、注册并在模型菜单中选择视频 AI → Seedance 2.0，免费使用 Seedance 2.0。 选择“Imagen a video”将图像转换为流畅的运动；这是目前最快且最稳定的选项。 使用“Cuadro a video”放置首尾帧（或关键帧）以获得更具控制感的电影流。 如果可以，暂时避免使用“Texto a vídeo”；由于网站负载过重，可能多次失败后才能成功。...
+
+#### 📝 提示词
+
+```
+通过访问网站、注册并在模型菜单中选择视频 AI → Seedance 2.0，免费使用 Seedance 2.0。  
+选择“Imagen a video”将图像转换为流畅的运动；这是目前最快且最稳定的选项。  
+使用“Cuadro a video”放置首尾帧（或关键帧）以获得更具控制感的电影流。  
+如果可以，暂时避免使用“Texto a vídeo”；由于网站负载过重，可能多次失败后才能成功。  
+撰写详细的prompts，指定摄像机运动、照明、风格和节奏以改善结果。  
+在“Imagen”或“Cuadro”模式下从4–8秒的短片开始，以更快获得结果。
+
+--- 线程继续 ---
+[线程 1] 更好的是：您可以获得700个免费积分用于其他模型，而 Seedance 2.0 不花费任何积分。
+
+以下是如何访问的说明👇👇
+
+[线程 2] 1- 这是完整的步骤，立即开始免费使用 Seedance 2.0 👇
+
+1. 前往网站：
+ https://t.co/3eLnVkVclQ
+
+2. 快速注册。使用 Google、电子邮件、TikTok 或任何已有账户（无需信用卡）。
+
+[线程 3] 3. 登录后，进入视频 AI 部分（通常在左侧边栏或顶部菜单中）。
+
+4. 在下拉菜单中选择 Seedance 2.0 模型（应该在那里）。
+
+[线程 4] 5. 选择您的模式：
+ Imagen a video：上传图像，观察其如何转换为流畅的运动。这是目前最快且最稳定的选项。
+
+Cuadro a video：放置首尾帧或关键帧以获得超级控制的电影流。
+
+[线程 5] Texto a vídeo：如果可以，暂时跳过此项。网站负载过重，因此可能多次失败后才能成功。
+
+6. 输入您的消息或描述。要详细：谈论摄像机运动、照明、风格、节奏等。
+
+[线程 6] 7. 按下生成。您将获得干净的1080p输出，而 Seedance 2.0 不会花费您任何积分！
+
+奖励：新账户无论如何都会获得700个免费积分以试用其他模型。
+
+专业提示：在“Imagen”或“Cuadro”模式下从4到8秒的短片开始；今天可以快速获得结果。
+---
+```
+
+#### 💡 使用技巧
+
+Seedance 2.0 acaba de ser TOTALMENTE GRATIS + no se necesita VPN 🤯🔥
+
+La bestia china que aterrorizó a Hollywood ahora está abierta de par en par.
+
+Y este nuevo sitio lo ofrece completamente gratis.
+
+Movimiento cinematográfico de 1080p, calidad increíble... sin costo, sin tarjeta de crédito, sin tonterías.
+
+**作者:** [Filipe | IA](https://x.com/filicroval) | **来源:** [Link](https://x.com/filicroval/status/2027004006690685083) | **发布日期:** 2026年2月26日
+
+---
 
 ### 如果Seedance 2.0在审核中拒绝了您上传的参考视频，可以对视频中人物的脸部进行马赛克处理或模糊处理，或者遮盖眼睛
 
@@ -4434,6 +4461,195 @@ tip：Seedance 2.0全能参考上传视频作为参考的时候审核不通过�
 📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026844741774491648)**
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2026844741774491648) | **发布日期:** 2026年2月26日
+
+---
+
+### 在进行最终调色之前，通过Topaz Labs对您的Seedance 2.0输出进行“beauty pass”增强  
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 在进行最终调色之前，通过Topaz Labs对您的Seedance 2.0输出进行“beauty pass”增强 使用CapCut在放大/增强后应用肤色校正 --- 线程继续 --- [线程 1] 如果还有人声称AI生成的视频质量不高，那他们就错过了重点：我们才刚刚开始。再给它六个月的时间。 @topazlabs @capcutapp https://t.co/8EeQuWocNQ
+
+#### 📝 提示词
+
+```
+在进行最终调色之前，通过Topaz Labs对您的Seedance 2.0输出进行“beauty pass”增强  
+使用CapCut在放大/增强后应用肤色校正
+
+--- 线程继续 ---
+[线程 1] 如果还有人声称AI生成的视频质量不高，那他们就错过了重点：我们才刚刚开始。再给它六个月的时间。
+@topazlabs @capcutapp https://t.co/8EeQuWocNQ
+```
+
+#### 💡 使用技巧
+
+A giant ant escaped from the Seedance 2.0 lab and started wrecking the city. Before the chaos, it went through Topaz Labs for a little "beauty pass", then hit CapCut for a skin tone color correction. 🐜 https://t.co/bzjcXj2rWh
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2027074116650500097/img/Zjlx4Vcn0L3cCCDH.jpg)](https://video.twimg.com/amplify_video/2027074116650500097/vid/avc1/2560x1440/WiKaTzOHU90mryVQ.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2027074116650500097/vid/avc1/2560x1440/WiKaTzOHU90mryVQ.mp4)**
+
+**作者:** [ibexdream](https://x.com/ibexdream) | **来源:** [Link](https://x.com/ibexdream/status/2027078023225184435) | **发布日期:** 2026年2月26日
+
+---
+
+### Seedance 2.0 在 CapCut 中可以在大约 2 分钟 30 秒内生成一个 15 秒的剪辑，因此请根据该运行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 在 CapCut 中可以在大约 2 分钟 30 秒内生成一个 15 秒的剪辑，因此请根据该运行时间规划您的迭代周期 直接在 CapCut 编辑时间线上生成 Seedance 剪辑，这样您可以立即应用滤镜并继续编辑，无需导出/导入 避免为声称提供 Seedance 2.0 的第三方平台付费，直到有官方发布/公告确认其合法性 --- 引用推文 --- Let's g...
+
+#### 📝 提示词
+
+```
+Seedance 2.0 在 CapCut 中可以在大约 2 分钟 30 秒内生成一个 15 秒的剪辑，因此请根据该运行时间规划您的迭代周期  
+直接在 CapCut 编辑时间线上生成 Seedance 剪辑，这样您可以立即应用滤镜并继续编辑，无需导出/导入  
+避免为声称提供 Seedance 2.0 的第三方平台付费，直到有官方发布/公告确认其合法性
+
+--- 引用推文 ---
+Let's gooo!! Seedance 2.0 终于在 @capcutapp 上可用了，而且速度非常快。生成一个 15 秒的剪辑只需大约 2 分钟 30 秒。
+
+我喜欢它，因为它直接生成到我的 CapCut 编辑时间线上，所以我可以立即应用我喜欢的滤镜。https://t.co/mKn0U0A1Hv
+---
+```
+
+#### 💡 使用技巧
+
+UPDATE! Seedance 2.0 has been removed from @capcutapp LMAO 😂😂😂 
+
+Maybe it wasn’t supposed to be released yet, but some people accidentally saw the model, tested it, and shared it on X. There hasn’t been any official announcement from CapCut.
+
+Well, looks like we just have to wait for the official release now. At least I managed to generate these clips. 😆
+
+But be careful, there are so many platforms claiming to have Seedance 2.0. I’m not sure about their credibility or whether they got it from somewhere unofficial, so I suggest waiting and not throwing your money at those platforms.
+
+**作者:** [DAN](https://x.com/mxvdxn) | **来源:** [Link](https://x.com/mxvdxn/status/2026852715872297256) | **发布日期:** 2026年2月26日
+
+---
+
+### 使用Seedance 2.0的多帧功能输入7张图像，以生成故障效果的影像。
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 使用Seedance 2.0的多帧功能输入7张图像，以生成故障效果的影像。
+
+#### 📝 提示词
+
+```
+使用Seedance 2.0的多帧功能输入7张图像，以生成故障效果的影像。
+```
+
+#### 💡 使用技巧
+
+Seedance 2.0のマルチフレーム（7枚の画像）を使用してグリッチ映像を制作。マルチフレームがお気に入り。曲はSuno AIで作詞は僕です #capcut生成ai #capcutjapandiscord
+@capcutapp_jp https://t.co/mDNLGwjPFg
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026850297843429380/img/5D9jIr8sMS3hoqAR.jpg)](https://video.twimg.com/amplify_video/2026850297843429380/vid/avc1/1920x1080/mCCZV-cuVoRAYdbL.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2026850297843429380/vid/avc1/1920x1080/mCCZV-cuVoRAYdbL.mp4)**
+
+**作者:** [Hideyuki Ashizawa](https://x.com/h_ashizawaJP) | **来源:** [Link](https://x.com/h_ashizawaJP/status/2026850980764238142) | **发布日期:** 2026年2月26日
+
+---
+
+### 由于Seedance 2.0在不同工具（如CapCut等）上的使用体验差异很大，因此建议比较价格、生成时间和操作性，选择
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 由于Seedance 2.0在不同工具（如CapCut等）上的使用体验差异很大，因此建议比较价格、生成时间和操作性，选择适合自己的工具。 Seedance 2.0对prompt的忠实度很高，因此需要具体写明镜头运作和灯光，以免显得敷衍。 --- THREAD CONTINUATION --- [Thread 1] ← 详细写prompt派 大致写prompt派 → Seedance 2.0...
+
+#### 📝 提示词
+
+```
+由于Seedance 2.0在不同工具（如CapCut等）上的使用体验差异很大，因此建议比较价格、生成时间和操作性，选择适合自己的工具。  
+Seedance 2.0对prompt的忠实度很高，因此需要具体写明镜头运作和灯光，以免显得敷衍。
+
+--- THREAD CONTINUATION ---
+[Thread 1] ← 详细写prompt派
+大致写prompt派 →
+
+Seedance 2.0对prompt的忠实度超乎寻常，所以如果有人仔细看的话，镜头运作和灯光偷懒的地方可能会被发现哦，哈哈  
+#Seedance2 #AI视频 #AI动画 https://t.co/p8tMTUpyrp
+---
+```
+
+#### 💡 使用技巧
+
+【Seedance 2.0】"capcut" で開放 !?
+Seedance2.0を４社で試していますが、使い心地はツールによってまったく違います。
+どのツールが使いやすいか、値段や生成時間なども比べると良いかもしれません。 https://t.co/IDUbk3G875
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026923322227961857/img/5n75wxwqhnMfTSdD.jpg)](https://video.twimg.com/amplify_video/2026923322227961857/vid/avc1/1280x720/pLOGkPSaH4aBCPXa.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2026923322227961857/vid/avc1/1280x720/pLOGkPSaH4aBCPXa.mp4)**
+
+**作者:** [SEIIIRU😈動画生成AIを使う映像クリエイター](https://x.com/seiiiiiiiiiiru) | **来源:** [Link](https://x.com/seiiiiiiiiiiru/status/2026929513645617230) | **发布日期:** 2026年2月26日
+
+---
+
+### 漫画toアニメ是通过将整篇漫画数据和分镜头脚本转换为YAML格式，然后导入Seedance 2.0生成的。
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 漫画toアニメ是通过将整篇漫画数据和分镜头脚本转换为YAML格式，然后导入Seedance 2.0生成的。 --- THREAD CONTINUATION --- [Thread 1] 漫画在这里。这是我们让它读取的内容。 https://t.co/KZhRLM2LPN ---
+
+#### 📝 提示词
+
+```
+漫画toアニメ是通过将整篇漫画数据和分镜头脚本转换为YAML格式，然后导入Seedance 2.0生成的。
+
+--- THREAD CONTINUATION ---
+[Thread 1] 漫画在这里。这是我们让它读取的内容。
+https://t.co/KZhRLM2LPN
+---
+```
+
+#### 💡 使用技巧
+
+Seedance 2.0 漫画toアニメ
+サイコパス勇者と社会不適合な仲間たち
+第一話 「石化すれば」
+
+---
+今年のテーマは漫画をつくってそれをアニメにする漫画toアニメ
+
+これも全編漫画とその絵コンテのYAMLを読ませるだけでつくりました。声の一貫性は出してませんが、これはVidu https://t.co/ETSqWccTa7
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2027145944400265216/img/QjUjJpgxypAwS3zd.jpg)](https://video.twimg.com/amplify_video/2027145944400265216/vid/avc1/1920x1080/euWLlCe0MpdpCUQs.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2027145944400265216/vid/avc1/1920x1080/euWLlCe0MpdpCUQs.mp4)**
+
+**作者:** [yachimat - AI Short Anime](https://x.com/yachimat_manga) | **来源:** [Link](https://x.com/yachimat_manga/status/2027148112624746500) | **发布日期:** 2026年2月26日
+
+---
+
+### Use Seedance 2.0 to generate the needed scene images first,...
+
+> 當變形金剛去了101，寶島機甲－覺醒 概念預告片. The Next TRANSFORMERS? - "MECHA AWAKENING" Official Trailer (2026) 做這部影片花了三天，越做越上癮. 工具（即夢 Seedance 2.0 + 剪映） 如果不是即夢生成要排隊，不然應該可以更快. 總花費 15 USD 做法是. 1.生成你要的畫面圖片. https://t.co/I
+
+#### 📝 提示词
+
+```
+Use Seedance 2.0 to generate the needed scene images first, then edit them into a trailer using 剪映 (CapCut).
+```
+
+#### 💡 使用技巧
+
+當變形金剛去了101，寶島機甲－覺醒 概念預告片.
+The Next TRANSFORMERS? - "MECHA AWAKENING" Official Trailer (2026)
+做這部影片花了三天，越做越上癮.
+工具（即夢 Seedance 2.0 + 剪映）
+如果不是即夢生成要排隊，不然應該可以更快.
+總花費 15 USD
+
+做法是.
+1.生成你要的畫面圖片. https://t.co/ILsp1q1dNq
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2027004582023553024/img/dOdbn-VuTh1Lxdzt.jpg)](https://video.twimg.com/amplify_video/2027004582023553024/vid/avc1/1920x1080/v7zQh7cHEOcLeHxq.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2027004582023553024/vid/avc1/1920x1080/v7zQh7cHEOcLeHxq.mp4)**
+
+**作者:** [wong ｜🔋](https://x.com/FBoldwang) | **来源:** [Link](https://x.com/FBoldwang/status/2027004722163458320) | **发布日期:** 2026年2月26日
 
 ---
 
@@ -5400,333 +5616,7 @@ Descifrémla 👇 https://t.co/S3MIauVUzp
 
 ---
 
-### 在CapCut中直接使用Seedance 2.0生成视频。  
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 在CapCut中直接使用Seedance 2.0生成视频。 以720p生成每15秒视频需240积分（约$3）。 以480p生成每15秒视频需120积分（约$1.5）。 --- 引用推文 --- @Angaisb_ 这些是价格 https://t.co/y0CxW3I76r --- 线程继续 --- [线程1] 以720p 480p需120积分（约$1.5） [线程2] 约$3 = ...
-
-#### 📝 提示词
-
-```
-在CapCut中直接使用Seedance 2.0生成视频。  
-以720p生成每15秒视频需240积分（约$3）。  
-以480p生成每15秒视频需120积分（约$1.5）。
-
---- 引用推文 ---
-@Angaisb_ 这些是价格 https://t.co/y0CxW3I76r
-
---- 线程继续 ---
-[线程1] 以720p
-
-480p需120积分（约$1.5）
-
-[线程2] 约$3 = 2.40€ = $2.83 精确来说
-```
-
-#### 💡 使用技巧
-
-Why did no one tell me you can already use Seedance 2.0 in CapCut???
-
-240 credits (approx $3) per 15-second video apparently https://t.co/e1wRMvzH4Q
-
-**作者:** [Angel ❄️](https://x.com/Angaisb_) | **来源:** [Link](https://x.com/Angaisb_/status/2026729560482468256) | **发布日期:** 2026年2月25日
-
----
-
-### 使用Seedance 2的动态prompt和引用功能来解锁其真正的能力，而不是依赖于基本prompt  
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用Seedance 2的动态prompt和引用功能来解锁其真正的能力，而不是依赖于基本prompt 在Seedance中使用prompt的方法与其他视频模型不同；不要将其视为标准的图像到视频生成器 避免主要将Seedance用于基本的图像到视频；对于这种用例，请使用Veo或Kling，并将Seedance保留用于动态/引用生成 ---
-
-#### 📝 提示词
-
-```
-使用Seedance 2的动态prompt和引用功能来解锁其真正的能力，而不是依赖于基本prompt  
-在Seedance中使用prompt的方法与其他视频模型不同；不要将其视为标准的图像到视频生成器  
-避免主要将Seedance用于基本的图像到视频；对于这种用例，请使用Veo或Kling，并将Seedance保留用于动态/引用生成  
----
-```
-
-#### 💡 使用技巧
-
-most of the seedance 2 videos i'm seeing right now are just pure slop. or stuff we've been able to generate for the past 8 months with veo and sora
-
-i've probably generated close to 500 seedance videos now. tried every type of prompt. and i've realized the real capabilities of this model are in the dynamic prompts and referencing features
-
-you have to approach seedance completely differently than any other model
-
-if you're using it for basic image to video you might as well just use veo or kling. that's not where seedance's strength is
-
-i don't think people realize what this model is actually capable of
-
-when i say you can generate anything, i truly mean it....
-
-**作者:** [Miko](https://x.com/Mho_23) | **来源:** [Link](https://x.com/Mho_23/status/2026800160228127065) | **发布日期:** 2026年2月25日
-
----
-
-### 视频使用新的 @Magnific_AI 视频升级器进行升级。
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 视频使用新的 @Magnific_AI 视频升级器进行升级。 --- 线程继续 --- [线程 1] @PJaccetturo @thedorbrothers @Diesol @NemPerez @javilopen
-
-#### 📝 提示词
-
-```
-视频使用新的 @Magnific_AI 视频升级器进行升级。
-
---- 线程继续 ---
-[线程 1] @PJaccetturo @thedorbrothers @Diesol @NemPerez @javilopen
-```
-
-#### 💡 使用技巧
-
-🔥Capoeira meets kung fu.
-In KENPAI, crowded favela Staircases are the arena.
-
-Pushing Seedance 2.0 inside the KENPAI universe…
-It is wild.
-
-Street fight, in the universe I’m building.
-献杯 KENPAI 
-🤜🏽👹🇧🇷🤛🏼
-Short film in development.
-
-Video upscaled with the new @Magnific_AI  VIDEO UPSCALER.
-#seedance2
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026712959754399745/img/nxo7tjOd3YBL0dZh.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)**
-
-**作者:** [ARLO🟡](https://x.com/byarlooo) | **来源:** [Link](https://x.com/byarlooo/status/2026713840390648005) | **发布日期:** 2026年2月25日
-
----
-
-### 先注册一个 YouMind 账号并登录后，打开该 Seedance 分镜提示词 Skill 链接，在技能页面点击「安装」...
-
-> 根据即梦 Seedance 2.0 使用手册，制作了一个超级实用的即梦 Seedance 分镜提示词 Skill，安装在了 YouMind 上，这样的话，大家使用起来就非常简单了，几乎是傻瓜式的操作，让我们普通人也能写出电影级、专业级的视频分镜提示词，制作出超级炫酷好看的视频。 大家可以看看视频讲解，并附带上 YouMind https://t.co/w2RilHoB2d
-
-#### 📝 提示词
-
-```
-先注册一个 YouMind 账号并登录后，打开该 Seedance 分镜提示词 Skill 链接，在技能页面点击「安装」，安装完成后即可在自己的账号下直接使用该 Skill 来生成视频分镜提示词
-```
-
-#### 💡 使用技巧
-
-根据即梦 Seedance 2.0 使用手册，制作了一个超级实用的即梦 Seedance 分镜提示词 Skill，安装在了 YouMind 上，这样的话，大家使用起来就非常简单了，几乎是傻瓜式的操作，让我们普通人也能写出电影级、专业级的视频分镜提示词，制作出超级炫酷好看的视频。
-
-大家可以看看视频讲解，并附带上 YouMind https://t.co/w2RilHoB2d
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026593519482318852/img/BL2u7AG_FR_PvafI.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)**
-
-**作者:** [loonggg](https://x.com/KengGuangLong) | **来源:** [Link](https://x.com/KengGuangLong/status/2026594611112907181) | **发布日期:** 2026年2月25日
-
----
-
-### 在Seedance 2.0的提示中添加明确的摄像机运动语言，如缓慢的电影推轨（而非数字变焦），以增强紧张感和现实感。  
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 在Seedance 2.0的提示中添加明确的摄像机运动语言，如缓慢的电影推轨（而非数字变焦），以增强紧张感和现实感。 使用横扫式升降镜头提示（从低处开始，升至高处）来揭示规模——例如，从特写主体上升到广阔的景观。 指定围绕主体进行360度轨道摄像机运动，以创造经典的英雄镜头并展示3D环境。 提示使用FPV无人机俯冲，配合超广角、运动模糊和镜头喷溅，以获得激烈、沉浸式的高速摄影效果。 ...
-
-#### 📝 提示词
-
-```
-在Seedance 2.0的提示中添加明确的摄像机运动语言，如缓慢的电影推轨（而非数字变焦），以增强紧张感和现实感。  
-使用横扫式升降镜头提示（从低处开始，升至高处）来揭示规模——例如，从特写主体上升到广阔的景观。  
-指定围绕主体进行360度轨道摄像机运动，以创造经典的英雄镜头并展示3D环境。  
-提示使用FPV无人机俯冲，配合超广角、运动模糊和镜头喷溅，以获得激烈、沉浸式的高速摄影效果。  
-使用横向移动镜头（摄像机与主体平行侧向移动）用于走谈场景或跟踪快速移动。  
-添加快速横摇（从一个主体到另一个主体的快速水平模糊）与运动模糊过渡，以实现紧迫、风格化的动作剪辑。  
-使用前导跟踪镜头（摄像机在主体前方向后移动）并加入有机手持运动，以增强拉入动作的能量。  
-提示使用眩晕效果（推轨变焦：摄像机向后移动同时放大，或反之）以在震惊/揭示时刻创造背景扭曲。  
-使用垂直下降（摄像机垂直向下移动而不倾斜）以平滑地从上到下揭示场景。  
-添加手持“跑枪”提示（有意的抖动/摇晃摄像机）以增加追逐/动作场景的粗糙感和现实感。
-
---- 引用推文 ---
-Seedance 2.0真的是现实主义之王吗？👑
-
-当大家都在痴迷于Seedance时，我让Grok Imagine 1.0经历了8个残酷的压力测试。从复杂的物理和3D文本叠加到其新的本地音频同步和I2V微表情，这次更新证明Grok不仅仅是在追赶，而是在重新定义导演的工作流程。
-
-以下是8个精确设计的10秒提示，旨在将每个特定更新推向极限：
-
-#Seedance2_0
-
-线程👇🏾🧵
-
---- 线程继续 ---
-[线程1] 1. 缓慢推轨
-
-特点：物理上将摄像机靠近主体。它在没有数字变焦的人工感的情况下，建立紧张感、亲密感和焦点。
-
-提示：Slow cinematic dolly in toward a lone warrior standing in the rain, focusing on their intense gaze, shallow depth of field, 4k, hyper-realistic, action movie aesthetic.
-
-[线程2] 2. 横扫式升降镜头
-
-特点：摄像机从低处开始升至空中。非常适合揭示宏大的景观或史诗场景的规模。
-
-提示：Dramatic crane shot starting from a close-up of a wildflower and ascending high to reveal a vast, misty mountain range at sunrise, cinematic lighting, epic scale.
-
-[线程3] 3. 360度轨道
-
-特点：摄像机围绕主体完美循环。这是经典的“英雄”镜头，用于使角色看起来强大或展示3D环境。
-
-提示：360-degree orbital camera movement around a high-tech sports car parked on a neon-lit city street at night, reflections on the body, fast-paced cinematic energy.
-
-[线程4] 4. FPV无人机俯冲
-
-特点：高速、激烈且沉浸式。它模仿赛车无人机俯冲下悬崖或穿过狭窄开口。
-
-提示：Fast FPV drone dive down a jagged waterfall into a tropical canyon, motion blur, spray on the lens, high-octane nature cinematography, ultra-wide angle.
-
-[线程5] 5. 横向移动镜头
-
-特点：摄像机侧向移动，与主体平行。非常适合“走谈”场景或跟随树林中移动的动物。
-
-提示：Cinematic trucking shot moving parallel to a snow leopard sprinting through deep snow, side-profile view,
-
-[线程6] 6. 快速横摇
-
-特点：从一个主体到另一个主体的非常快速水平模糊。它增加了紧迫感、速度感和风格化的“动作”编辑。
-
-提示：Fast whip pan from a ticking time bomb to a hero’s panicked expression, motion blur transition, gritty action film style, high contrast lighting.
-
-[线程7] 7. 前导跟踪镜头
-
-特点：摄像机在主体前方向后移动。它让观众感觉像是被拉入动作中。
-
-提示：Low-angle leading tracking shot of a hiker walking toward the camera through a dense, sun-drenched forest, golden hour light, organic handheld movement.
-
-[线程8] 8. 眩晕效果（推轨变焦）
-
-特点：摄像机向后移动同时放大（或反之）。这创造了一种“扭曲”的背景效果，标志着震惊或领悟的时刻。
-
-提示：Cinematic dolly zoom on a woman standing in a crowded train station as she realizes she is being followed, background warping, psychological thriller aesthetic.
-
-[线程9] 9. 垂直下降
-
-特点：摄像机垂直向下移动（如电梯）而不倾斜。这是一种从地面向上揭示主体的复杂方式。
-
-提示：Smooth pedestal down reveal from the canopy of a redwood forest to a small campfire burning on the forest floor, smoke rising, cinematic atmosphere.
-
-[线程10] 10. 手持“跑枪”
-
-特点：具有有意的、有机的“抖动”或摇晃。感觉像是一个真人在持摄像机，增加了追逐场景的粗糙感和现实感。
-
-提示：Gritty handheld camera following a parkour athlete jumping between rooftops, shaky cam, high energy, immersive first-person feel, cinematic action.
-
-[线程11] 我们使用的工具在改变，但一个伟大故事的核心依然如故，关键在于如何打动观众。你最期待在下一个项目中首先尝试哪种摄像机技术？👇🏾
-```
-
-#### 💡 使用技巧
-
-The Secret to God-Tier AI Cinematography 📽️
-
-Your AI videos look "fake" because your camera is bored. To get that big-budget Hollywood look on Grok, Veo, Seedance 2.0 and Kling, you have to speak the language of a Director of Photography. I’m giving away my 10 most effective movement prompts for free. Save these for your next project.
-
-Inspired by @azed_ai
-
-Thread🧵👇🏾
-
-**作者:** [Gilbert Odera | Your AI Plug™🇰🇪](https://x.com/yourPlugAI) | **来源:** [Link](https://x.com/yourPlugAI/status/2026156636105023742) | **发布日期:** 2026年2月24日
-
----
-
-### 避免在Seedance提示中使用演员姓名或受版权保护的材料，因为有严格的防护措施会阻止这些内容。
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 避免在Seedance提示中使用演员姓名或受版权保护的材料，因为有严格的防护措施会阻止这些内容。 --- 线程继续 --- [线程 1] 注意：目前模型有非常严格的防护措施，防止在提示中使用演员姓名或受版权保护的材料，但系统似乎有点小故障——我根本没有提示这些演员的肖像。https://t.co/gLcnapBtCv
-
-#### 📝 提示词
-
-```
-避免在Seedance提示中使用演员姓名或受版权保护的材料，因为有严格的防护措施会阻止这些内容。
-
---- 线程继续 ---
-[线程 1] 注意：目前模型有非常严格的防护措施，防止在提示中使用演员姓名或受版权保护的材料，但系统似乎有点小故障——我根本没有提示这些演员的肖像。https://t.co/gLcnapBtCv
-```
-
-#### 💡 使用技巧
-
-There's a very poorly researched blog "debunking" seedance 2.0. It claims Seedance is using a secret library of video clips and secretly doing video to video under the hood instead. I wouldn't normally care except i'm being called a liar so here is my response via text to video: https://t.co/5A27GIOH3P
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026160813200031744/img/uBQnaC76hOOQk8IX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787)**
-
-**作者:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **来源:** [Link](https://x.com/RuairiRobinson/status/2026164263547793787) | **发布日期:** 2026年2月24日
-
----
-
-### 请Claude为您的歌曲创建一个情节计划，并在Seedance中将其用作视频制作的路线图  
-
-> 请Claude为您的歌曲创建一个情节计划，并在Seedance中将其用作视频制作的路线图 创建您自己的数字双胞胎，并在Seedance中用作角色来制作您的音乐视频 --- THREAD CONTINUATION --- [Thread 1] https://t.co/GDHH0QoV77 [Thread 2] 如果您对这样的作品感兴趣，请点赞、收藏并继续关注以示支持 :)
-
-#### 📝 提示词
-
-```
-请Claude为您的歌曲创建一个情节计划，并在Seedance中将其用作视频制作的路线图  
-创建您自己的数字双胞胎，并在Seedance中用作角色来制作您的音乐视频
-
---- THREAD CONTINUATION ---
-[Thread 1] https://t.co/GDHH0QoV77
-
-[Thread 2] 如果您对这样的作品感兴趣，请点赞、收藏并继续关注以示支持 :)
-```
-
-#### 💡 使用技巧
-
-Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzik piyasası... Aşağıdaki klipte tabi ünlüler kullanılarak AI Slop yapılmış ama konu o değil... İşin içinde olan label da olsa spotify listelerini kendi de yüklese güzel bir çıkış yapmadan yani viral olmadan ne yazık ki; havanda su dövüyor. Şimdi müziğe ne lazım ? Klip lazım, video lazım. Şu anda tam prodüksiyon klip çekmeyi 2 milyondan açarlar 10 milyona kadar bütçe çıkarırlar... İşin daha kara komedi tarafıysa da sanatçı ne kadar ünlüyse klip ücreti artar :)) Sektör standardı işte... Neyse konumuza dönelim... Yetenekli 3 kişilik grupsunuz bir şekilde yaptınız müzikleri biraz kayıt vs. parası harcadınız ve Distrokid gibi dağıtıcılarla her platforma attınız. Eee sonrası ? Reklamlar vs... Dünya işiniz var. Ama paranız kısıtlı ise garanti ata oynamanız lazım. Ne lazım ? Klip lazım. Claude ile şarkınız için güzel bir senaryo planı çıkarmasını isteyin, kendi digital ikizinizi yapın ve seedance kullanarak klibinizi hayata geçirin. Ultra yaptığınız bu çalışmayı Youtube reklamı ile milyon insana izletirsiniz üstelik gerçekten çok çok komik bütçelere... Yapay zeka müzisyenlere de lazım. Suno deneyin, Udio deneyin... Devir bilgi çağı... Şu anda bir müzik grubu veya bir müzisyen gerçekten yapay zekaya hakim olsun, kimseye ihtiyaç olmadan her işini 100 de 1 fiyatına çözer :) Üretmekten ve hayal kurmaktan vazgeçmeyin... Yapay zeka içi bu çok önemli... Bizleri takip edin hepsini teker teker göstereceğiz.
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026357088226525184/img/eECgEFxOBeePM9LA.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)**
-
-**作者:** [Kaan Alper](https://x.com/kaan_alper) | **来源:** [Link](https://x.com/kaan_alper/status/2026358915076915427) | **发布日期:** 2026年2月24日
-
----
-
-### 访问 https://t.co/JzqzV4wh03 开始使用免费 Seedance 2.0 进行生成  
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 访问 https://t.co/JzqzV4wh03 开始使用免费 Seedance 2.0 进行生成 使用 Google、电子邮件、TikTok 或其他现有账户注册（无需信用卡） 登录后，导航到 AI 视频部分（左侧边栏或顶部菜单） 从模型下拉菜单中选择 Seedance 2.0 以生成视频 ---
-
-#### 📝 提示词
-
-```
-访问 https://t.co/JzqzV4wh03 开始使用免费 Seedance 2.0 进行生成  
-使用 Google、电子邮件、TikTok 或其他现有账户注册（无需信用卡）  
-登录后，导航到 AI 视频部分（左侧边栏或顶部菜单）  
-从模型下拉菜单中选择 Seedance 2.0 以生成视频  
----
-```
-
-#### 💡 使用技巧
-
-1- Here’s the full step-by-step to start generating with FREE Seedance 2.0 right now 👇
-
-1. Head to the site: https://t.co/JzqzV4wh03
-
-2. Sign up super quick. Use Google, email, TikTok, or any account you already have (no credit card needed at all).
-
-3. Once you’re logged in, go to the AI Video section (usually on the left sidebar or top menu).
-
-4. Pick Seedance 2.0 from the model dropdown (it should be right there).
-
-**作者:** [Shub](https://x.com/shub0414) | **来源:** [Link](https://x.com/shub0414/status/2026137822588285394) | **发布日期:** 2026年2月24日
-
----
-
-*... 以及另外 94 条技巧。 [在画廊中查看全部](https://youware.com/zh-CN/seedance-2-prompts)*
+*... 以及另外 102 条技巧。 [在画廊中查看全部](https://youware.com/zh-CN/seedance-2-prompts)*
 
 ---
 
@@ -5750,4 +5640,4 @@ Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzi
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-02-27T05:16:34.667Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-02-27T05:35:20.414Z

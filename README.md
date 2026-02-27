@@ -58,9 +58,9 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **155** |
+| 📝 Total Prompts | **161** |
 | ⭐ Featured | **0** |
-| 💡 Tips & Tutorials | **124** |
+| 💡 Tips & Tutorials | **132** |
 | 🔄 Last Updated | **2026-02-27** |
 
 ---
@@ -68,6 +68,43 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 ## 🎬 All Prompts
 
 > 📝 Sorted by publish date (newest first)
+
+### |镜号|景别|时长|画面|音效|台词/旁白|
+|-|-|-|-|-|-|
+|1|全景|5s|暖黄色复古画室，阳光斜洒在挂...
+
+> 《忍不住了啦，偷偷来一口😋》 当戴珍珠耳环的少女遇到为了美味汽水，太可爱啦。 用谷歌 Veo模型生成，质感很好，但是自然度还是比不了Seedance 2.0。好在每天有 3 次免费生成的机会。喜欢的可以试一下。 提示词，评论区。⬇️ https://t.co/wPBFwWBzoL
+
+#### 📝 Prompt
+
+```
+|镜号|景别|时长|画面|音效|台词/旁白|
+|-|-|-|-|-|-|
+|1|全景|5s|暖黄色复古画室，阳光斜洒在挂满油画的墙面，镜头缓缓推进正中央一幅装裱精致的古典人物肖像画|轻快俏皮的古典弦乐开场|无|
+|2|中近景|8s|画中人物原本端庄的神情突然松动，眼珠滴溜溜左右转动，悄悄从画框边缘探出半张脸，眼神瞟向画外桌角的罐装可乐|轻微的“窸窸窣窣”画框摩擦声，弦乐节奏变活泼|无|
+|3|特写|7s|人物的手猛地从画框里伸出来，指尖精准勾住可乐罐拉环，“嘭”的一声拉开，仰头大口灌下|拉环开启的“咔哒”声，液体涌入喉咙的“咕嘟”声|无|
+|4|近景|6s|人物抹了抹嘴角，眉眼弯起露出满足到眯起眼睛的表情，还打了个带着气泡感的小嗝|惬意的打嗝声，弦乐升调|无|
+|5|全景|5s|走廊方向传来清晰的皮鞋踏地声，画中人物瞬间慌了手脚，手忙脚乱把可乐塞回原位，光速缩回画框恢复端庄坐姿|急促的脚步声，弦乐节奏骤然变紧张|无|
+|6|中景|8s|穿牛仔靴、戴宽檐帽的西部牛仔推门走进画室，扫过桌面后拿起可乐罐，转身吹着口哨离开|牛仔靴的“哒哒”声，轻快的口哨声盖过弦乐|无|
+|7|特写|10s|镜头紧紧跟随着牛仔手中的可乐罐，直至牛仔走出画面，镜头缓缓前推，背景逐渐褪成纯黑，只剩一束冷调顶光打在可乐罐上，罐身水珠清晰可见，气泡在液体里缓缓上升|环境音消失，只剩气泡“滋滋”声|无|
+|8|黑屏+字幕|7s|纯黑背景中，罐装可乐悬浮在光里，画面下方浮现烫金艺术字：“宜口可乐”，随后一行小字跳出：“不可不尝！”|气泡声渐弱，温暖的钢琴音响起|【旁白（磁性低沉）】：“宜口可乐，藏在画里的快乐，不可不尝！”|
+```
+
+#### 💡 Tips
+
+《忍不住了啦，偷偷来一口😋》
+当戴珍珠耳环的少女遇到为了美味汽水，太可爱啦。
+用谷歌 Veo模型生成，质感很好，但是自然度还是比不了Seedance 2.0。好在每天有 3 次免费生成的机会。喜欢的可以试一下。
+
+提示词，评论区。⬇️ https://t.co/wPBFwWBzoL
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026868777942675456/img/osmWzzTXrtxJz-rv.jpg)](https://video.twimg.com/amplify_video/2026868777942675456/vid/avc1/718x848/gs0f47nvzYj1a53G.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2026868777942675456/vid/avc1/718x848/gs0f47nvzYj1a53G.mp4)**
+
+**Author:** [硅予](https://x.com/Leslieyu0) | **Source:** [Link](https://x.com/Leslieyu0/status/2026869086924451855) | **Published:** Feb 26, 2026
+
+---
 
 ### 人物
 • 女主（林晚）：24岁，清冷干练，看似普通，实则深藏不露，气场全开。
@@ -105,6 +142,34 @@ Seedance 2.0生成都市短剧视频。
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026874635195920771)**
 
 **Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2026874635195920771) | **Published:** Feb 26, 2026
+
+---
+
+### Fast-paced FPV cinematic flying through a hyper-realistic, c...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> FPV AI video of a treehouse Created with Seedance 2.0 on @yapper_so Prompt: Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a dense forest at golden hour, sweeping through
+
+#### 📝 Prompt
+
+```
+Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a dense forest at golden hour, sweeping through bridges, staircases, interiors with warm lights, and exiting through a skylight, with dramatic camera motion
+```
+
+#### 💡 Tips
+
+FPV AI video of a treehouse
+
+Created with Seedance 2.0 on @yapper_so 
+
+Prompt: Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a dense forest at golden hour, sweeping through bridges, staircases, interiors with warm lights, and exiting through a skylight, with dramatic camera motion
+
+[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2026983792125325312/pu/img/fo-N87flC4IGzO5t.jpg)](https://video.twimg.com/ext_tw_video/2026983792125325312/pu/vid/avc1/1920x1080/waa65FxyE68aJwTX.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/ext_tw_video/2026983792125325312/pu/vid/avc1/1920x1080/waa65FxyE68aJwTX.mp4)**
+
+**Author:** [Zara](https://x.com/ZaraIrahh) | **Source:** [Link](https://x.com/ZaraIrahh/status/2026983864401625354) | **Published:** Feb 26, 2026
 
 ---
 
@@ -155,6 +220,135 @@ Seedance 2.0 提示词prompt： https://t.co/RyJwaneEpP
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026846380896190731)**
 
 **Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2026846380896190731) | **Published:** Feb 26, 2026
+
+---
+
+### Seedance 2.0生成3D动漫美学舞蹈视频。
+
+主体：女主暗紫长发渐变粉，精致长飘带头饰，冷白皮，脸型瘦小修长，小...
+
+> Seedance 2.0生成3D动漫美学舞蹈视频。 主体：女主暗紫长发渐变粉，精致长飘带头饰，冷白皮，脸型瘦小修长，小巧鼻玲珑妆容，面部光影明暗交错，粉蝶千羽纱衣，繁复千羽飘逸披肩飘带纱，繁复多层千羽紫粉纱蝶舞飞仙纱裙渐变蓝，多层粉蓝交织衣袂超长飘带漫天飞舞。 https://t.co/NgEILEffXB
+
+#### 📝 Prompt
+
+```
+Seedance 2.0生成3D动漫美学舞蹈视频。
+
+主体：女主暗紫长发渐变粉，精致长飘带头饰，冷白皮，脸型瘦小修长，小巧鼻玲珑妆容，面部光影明暗交错，粉蝶千羽纱衣，繁复千羽飘逸披肩飘带纱，繁复多层千羽紫粉纱蝶舞飞仙纱裙渐变蓝，多层粉蓝交织衣袂超长飘带漫天飞舞。
+```
+
+#### 💡 Tips
+
+Seedance 2.0生成3D动漫美学舞蹈视频。
+
+主体：女主暗紫长发渐变粉，精致长飘带头饰，冷白皮，脸型瘦小修长，小巧鼻玲珑妆容，面部光影明暗交错，粉蝶千羽纱衣，繁复千羽飘逸披肩飘带纱，繁复多层千羽紫粉纱蝶舞飞仙纱裙渐变蓝，多层粉蓝交织衣袂超长飘带漫天飞舞。 https://t.co/NgEILEffXB
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026888801889693697/img/2CGRJfX5spnAi9GN.jpg)](https://video.twimg.com/amplify_video/2026888801889693697/vid/avc1/720x1280/hW1X2cfQagcaqMxk.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2026888801889693697/vid/avc1/720x1280/hW1X2cfQagcaqMxk.mp4)**
+
+**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2026888888137167025) | **Published:** Feb 26, 2026
+
+---
+
+### shot 1: the devil talking while turning his head giving a si...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 😈 While we are waiting for Seedance 2.0, Kling 3.0 is still an amazing option. Especially Omni mode when working with character. Just generate multiple facial expressions and provide them as referenc
+
+#### 📝 Prompt
+
+```
+shot 1: the devil talking while turning his head giving a side eye.
+shot 2: extreme close up of the devils eye. he winks.
+shot 3: extreme close up of the mouth while he turns agry.
+shot 4: extreme close up of his ear. small hairs are showing.
+shot 5. the devil sticks out his tongue while saying a licking sound
+shot 6: zoom out and show the devil standing in hell. Only a silhuette is visible.
+```
+
+#### 💡 Tips
+
+😈 While we are waiting for Seedance 2.0, Kling 3.0 is still an amazing option.
+
+Especially Omni mode when working with character. Just generate multiple facial expressions and provide them as reference images.
+
+Then make a multi-shot prompt and you will have amazing character consistency.
+
+Prompt:
+
+shot 1: the devil talking while turning his head giving a side eye.
+shot 2: extreme close up of the devils eye. he winks.
+shot 3: extreme close up of the mouth while he turns agry.
+shot 4: extreme close up of his ear. small hairs are showing.
+shot 5. the devil sticks out his tongue while saying a licking sound
+shot 6: zoom out and show the devil standing in hell. Only a silhuette is visible.
+
+Link to Spaces below
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2027021349139644417/img/CZoKiu0H0o5C6uyh.jpg)](https://video.twimg.com/amplify_video/2027021349139644417/vid/avc1/2160x2700/pOqv5KORW9eQtVS-.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2027021349139644417/vid/avc1/2160x2700/pOqv5KORW9eQtVS-.mp4)**
+
+**Author:** [Martin LeBlanc](https://x.com/martinleblanc) | **Source:** [Link](https://x.com/martinleblanc/status/2027021917530599913) | **Published:** Feb 26, 2026
+
+---
+
+### the statue of liberty's similarly looking mother comes by an...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> One prompt made this wholesome clip in Seedance 2.0 made w/ @YouArtStudio https://t.co/aPASxlpxv5
+
+#### 📝 Prompt
+
+```
+the statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.
+```
+
+#### 💡 Tips
+
+One prompt made this wholesome clip in Seedance 2.0 
+
+made w/ @YouArtStudio https://t.co/aPASxlpxv5
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026820805284294657/img/IvluSUS-HQBQ_1U6.jpg)](https://video.twimg.com/amplify_video/2026820805284294657/vid/avc1/1280x720/UPLUUkaJMGCIKTDF.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2026820805284294657/vid/avc1/1280x720/UPLUUkaJMGCIKTDF.mp4)**
+
+**Author:** [Morph](https://x.com/Morph_VGart) | **Source:** [Link](https://x.com/Morph_VGart/status/2026820905326825942) | **Published:** Feb 26, 2026
+
+---
+
+### 夜桜舞い散る背景に少女はTiktokダンスを踊る。
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 💖🧡💚 Seedance 2.0 触ってみたっ❣️ 💚🧡💖 #capcut生成ai #capcutjapandiscord #seedance2 みんなおつ萌奈🌙💕夜桜に提灯の灯り・・・🌸✨ この雰囲気、たったワンプロンプトで生成されたって信じられる？ プロンプトは・・・👇 「夜桜舞い散る背景に少女はTiktokダンスを踊る。」 https://t.co/S2dGdzOAUi
+
+#### 📝 Prompt
+
+```
+夜桜舞い散る背景に少女はTiktokダンスを踊る。
+```
+
+#### 💡 Tips
+
+💖🧡💚 Seedance 2.0 触ってみたっ❣️ 💚🧡💖
+#capcut生成ai #capcutjapandiscord #seedance2
+
+みんなおつ萌奈🌙💕夜桜に提灯の灯り・・・🌸✨
+この雰囲気、たったワンプロンプトで生成されたって信じられる？
+
+プロンプトは・・・👇
+「夜桜舞い散る背景に少女はTiktokダンスを踊る。」 https://t.co/S2dGdzOAUi
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2027029566993354753/img/H1zwJjnzL5Y8kZZN.jpg)](https://video.twimg.com/amplify_video/2027029566993354753/vid/avc1/1080x1920/11F0oQwE6gTlIAZW.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2027029566993354753/vid/avc1/1080x1920/11F0oQwE6gTlIAZW.mp4)**
+
+**Author:** [萌奈のおすそわけ♥️AI動画クリエイター🩷AI & Web3 KOL🧡💛💚](https://x.com/xc5_) | **Source:** [Link](https://x.com/xc5_/status/2027032333354684622) | **Published:** Feb 26, 2026
 
 ---
 
@@ -3365,249 +3559,9 @@ Let's test the engine on Traditional Ink Wash animation: Wukong vs. Erlang Shen.
 
 ---
 
-### SETTING: thermal pool at night; warm steamy air; soft yellow...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> use this prompt to create hyper-realistic ai ugc videos (seedance 2.0): SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreg
-
-#### 📝 Prompt
-
-```
-SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreground; slight fog in background; natural spa environment.
-
-LIGHT: Real iPhone look; slightly dim, warm ambient lighting; moisture on skin visible; no beauty filter; natural skin texture and freckles visible.
-
-CAMERA: iPhone front-cam feel; propped on pool edge; slightly imperfect framing; subtle micro-shake from resting position; no zoom.
-
-SUBJECT: 20s woman; wet red hair slicked back; minimal makeup; natural freckles; relaxed expression; black thin-strap swimsuit; calm, confident tone.
-
-AUDIO: Natural pool ambience; faint water movement; no music; no captions.
-
-PROPS: No product visible in this segment.
-
-ACTION: She rests her chin on her forearm at the pool edge; one hand gently touches the side of her face below cheekbone; slow, relaxed movements; hands stay below collarbone.
-
-DIALOGUE: "Okay so… I used to break out constantly. Like painful, hormonal acne every single month. And I’m not even kidding — I have zero acne now. The only thing I changed was adding zinc and omega-3 supplements to my routine. That’s it."
-
-END: Soft exhale and small confident smile; hard cut.
-
-DIALOGUE LOCK: keep speech exact, clear English, natural cadence, no extra words.
-```
-
-#### 💡 Tips
-
-use this prompt to create hyper-realistic ai ugc videos (seedance 2.0):
-
-SETTING: thermal pool at night; warm steamy air; soft yellow wall lights reflecting on turquoise water; stone pool edge in foreground; slight fog in background; natural spa environment.
-
-LIGHT: Real iPhone look; slightly dim, warm ambient lighting; moisture on skin visible; no beauty filter; natural skin texture and freckles visible.
-
-CAMERA: iPhone front-cam feel; propped on pool edge; slightly imperfect framing; subtle micro-shake from resting position; no zoom.
-
-SUBJECT: 20s woman; wet red hair slicked back; minimal makeup; natural freckles; relaxed expression; black thin-strap swimsuit; calm, confident tone.
-
-AUDIO: Natural pool ambience; faint water movement; no music; no captions.
-
-PROPS: No product visible in this segment.
-
-ACTION: She rests her chin on her forearm at the pool edge; one hand gently touches the side of her face below cheekbone; slow, relaxed movements; hands stay below collarbone.
-
-DIALOGUE: "Okay so… I used to break out constantly. Like painful, hormonal acne every single month. And I’m not even kidding — I have zero acne now. The only thing I changed was adding zinc and omega-3 supplements to my routine. That’s it."
-
-END: Soft exhale and small confident smile; hard cut.
-
-DIALOGUE LOCK: keep speech exact, clear English, natural cadence, no extra words.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024462774793826304/img/OXIjQMd9xkcH5J-l.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024463067002917177)**
-
-**Author:** [solak](https://x.com/solakorganic) | **Source:** [Link](https://x.com/solakorganic/status/2024463067002917177) | **Published:** Feb 19, 2026
-
----
-
-### Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> seedance prompt : Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots 
-
-#### 📝 Prompt
-
-```
-Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots - one black (hero), one silver (opponent) - engage in rapid karate-style hand-to-hand combat. Rusty chain-link fence, concrete floor, harsh overhead spotlights, blurred crowd in background. [00-03s] Fast exchange. Black robot blocks silver's punch (sparks fly), counters with hook to head (armor dents), then rapid 1-2 combo (more sparks). Silver defends, arms crossed. Handheld cam, side angle. Metal clash sounds. [03-07s] Silver charges, shoulder-rams black robot's chest. Black slides back but stands firm (armor intact). Silver attempts knee strike, black catches and holds it. 0.5s struggle, hydraulic overload hiss. Low angle shot emphasizes power. Crowd roars. [07-11s] Black robot's decisive counter: HIGH KICK (karate style). Quick wind-up, right leg SNAPS out, foot connects with silver's head. EXTREME SLOW-MO (0.25x): armor cracks, massive sparks, hydraulic line bursts (black mist), head twists 90°. Silver spins and falls. Side wide shot captures full kick arc. [11-15s] Silver crashes to ground (dust cloud), sparks from cracked head, limbs twitch then stop. Black lowers leg, turns to camera (backlit, red eyes glow). Wide overhead: one standing, one down. Fade to black. No subtitles. No dialogue. Only metal impacts, hydraulics, sparks, crowd noise. Physics: All impacts obey Newton's laws. Weight, inertia, momentum visible. Debris/sparks fall realistically. Color: Desaturated warm brown + metallic grey + spark orange + hydraulic black. Film grain +25%.
-```
-
-#### 💡 Tips
-
-seedance prompt :  Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots - one black (hero), one silver (opponent) - engage in rapid karate-style hand-to-hand combat. Rusty chain-link fence, concrete floor, harsh overhead spotlights, blurred crowd in background. [00-03s] Fast exchange. Black robot blocks silver's punch (sparks fly), counters with hook to head (armor dents), then rapid 1-2 combo (more sparks). Silver defends, arms crossed. Handheld cam, side angle. Metal clash sounds. [03-07s] Silver charges, shoulder-rams black robot's chest. Black slides back but stands firm (armor intact). Silver attempts knee strike, black catches and holds it. 0.5s struggle, hydraulic overload hiss. Low angle shot emphasizes power. Crowd roars. [07-11s] Black robot's decisive counter: HIGH KICK (karate style). Quick wind-up, right leg SNAPS out, foot connects with silver's head. EXTREME SLOW-MO (0.25x): armor cracks, massive sparks, hydraulic line bursts (black mist), head twists 90°. Silver spins and falls. Side wide shot captures full kick arc. [11-15s] Silver crashes to ground (dust cloud), sparks from cracked head, limbs twitch then stop. Black lowers leg, turns to camera (backlit, red eyes glow). Wide overhead: one standing, one down. Fade to black. No subtitles. No dialogue. Only metal impacts, hydraulics, sparks, crowd noise. Physics: All impacts obey Newton's laws. Weight, inertia, momentum visible. Debris/sparks fall realistically. Color: Desaturated warm brown + metallic grey + spark orange + hydraulic black. Film grain +25%.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024474201202036736/img/B-mkHllE5CTpD12K.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024474572288926191)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2024474572288926191) | **Published:** Feb 19, 2026
-
----
-
-### The image I provide contains my kitten — please use it as th...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Use Seedance 2.0 and provide a photo of a kitten. prompt： The image I provide contains my kitten — please use it as the character model reference. Create a video where the kitten is riding a small car
-
-#### 📝 Prompt
-
-```
-The image I provide contains my kitten — please use it as the character model reference.
-Create a video where the kitten is riding a small cart and racing on a MotoGP track.
-
-The kitten overtakes the Honda #93 race bike in a corner (this sequence should last 3 seconds).
-
-Cut to a rear shot of the kitten, filmed from a ground-level low angle, capturing the kitten leaning hard into the turn (3 seconds).
-
-Then use an ultra-telephoto lens shot of the kitten speeding through a large C-shaped corner (3 seconds).
-
-Switch to a wide shot showing the kitten and the Honda #93 bike going through the final corner before the finish line (3 seconds).
-
-Finally, show the kitten lifting the front of the cart into a wheelie as it crosses the finish line (3 seconds).
-
-Throughout the video, add authentic MotoGP-style original male English commentary — but only include commentary for the opening overtake and the final finish-line moment.
-```
-
-#### 💡 Tips
-
-Use Seedance 2.0 and provide a photo of a kitten.
-
-prompt：
-The image I provide contains my kitten — please use it as the character model reference.
-Create a video where the kitten is riding a small cart and racing on a MotoGP track.
-
-The kitten overtakes the Honda #93 race bike in a corner (this sequence should last 3 seconds).
-
-Cut to a rear shot of the kitten, filmed from a ground-level low angle, capturing the kitten leaning hard into the turn (3 seconds).
-
-Then use an ultra-telephoto lens shot of the kitten speeding through a large C-shaped corner (3 seconds).
-
-Switch to a wide shot showing the kitten and the Honda #93 bike going through the final corner before the finish line (3 seconds).
-
-Finally, show the kitten lifting the front of the cart into a wheelie as it crosses the finish line (3 seconds).
-
-Throughout the video, add authentic MotoGP-style original male English commentary — but only include commentary for the opening overtake and the final finish-line moment.
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2024511128257384449/pu/img/DxQ18glxjHhFK4x1.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024511160503132494)**
-
-**Author:** [underwood](https://x.com/underwoodxie96) | **Source:** [Link](https://x.com/underwoodxie96/status/2024511160503132494) | **Published:** Feb 19, 2026
-
----
-
-### 1990s OVA realism (Prod I.G + Otomo), JP full-color, thin ge...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 + it's character reference option = my Salt x Diamond Universe IP stayed on-model the whole time. Noxie Blitz x Pixel Saint, sakuga-style steel under falling petals. Prompt below 👇 https
-
-#### 📝 Prompt
-
-```
-1990s OVA realism (Prod I.G + Otomo), JP full-color, thin genga lines, restrained cel + soft gradients, subtle grain, sharp shadows, hard rim light. 24fps sakuga fast-cuts; aggressive editorial pacing; smear + impact frames; motion blur on BACKGROUND ONLY (characters and weapons stay crisp). Premium VFX (sparks, petal bursts, micro debris, heat shimmer), premium SFX only, NO MUSIC. $300M blockbuster finish. Maintain designs exactly. No subtitles/logos.
-
-[00:00–00:01] Set-up wide. @Image3 XW master: @Image1 Noxie Blitz  and @Image2 Pixel Saint stand 8–10m apart on the stone path under blooming sakura. ANGLE: low XW 3/4 so both silhouettes read clean against petals + lanterns + shrine line.
-
-[00:01–00:03] MW 3/4. @Image1 (Noxie) launches L→R, first slash. CAM: snap-pan; BG-only blur streaks blossoms.  @Image2 (Pixel) sidestep, clean silhouette. Petal wake.
-
-[00:03–00:05] Tight hands/blades. Parry → bind → shove-off. 1 impact frame + sparks; petals pop.
-
-[00:05–00:07] MED chest-up. Noxie feint-high; Pixel blocks; Pixel low counter; Noxie checks + shoulder bump. Minimal facial (1 blink max).
-
-[00:07–00:09] Overhead 1-sec hit. Noxie pivot slash; Pixel backsteps onto small bridge edge; koi splash. CAM: drop-in overhead then hard cut out.
-
-[00:09–00:11] Tight on cyber-arm redirect + katana near-miss at throat line. CAM: punch-in. Cyan seam glow (controlled).
-
-[00:11–00:13] Side profile. Both dash and cross—2 smear frames + 1 clean poster pose. Spark “X” + petal burst.
-
-[00:13–00:15] Wide master. Triple contact: tap-tap-CRACK, then reset to mirrored stances, petals raining between them. CAM: locked; end on hard-stop hero frame.
-
-SFX only: wind through blossoms, foot skid on stone, armor/servo ticks, katana whoosh, CLANG ring, spark sizzle, water splash, lantern chime. NO MUSIC.
-```
-
-#### 💡 Tips
-
-Seedance 2.0 + it's character reference option = my Salt x Diamond Universe IP stayed on-model the whole time. Noxie Blitz x Pixel Saint, sakuga-style steel under falling petals. Prompt below 👇 https://t.co/uknHt1iAyT
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024187036266352641/img/8z96uTeLo4QrPOPX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024189256349200777)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024189256349200777)**
-
-**Author:** [Horace Dodd](https://x.com/horacedodd) | **Source:** [Link](https://x.com/horacedodd/status/2024189256349200777) | **Published:** Feb 18, 2026
-
----
-
-### A cinematic apocalyptic disaster scene in a modern city. Mas...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 is pure insanity. Prompt: A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering w
-
-#### 📝 Prompt
-
-```
-A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering with debris flying, people running in panic through dust and chaos. A giant meteor falling from the sky causing a massive shockwave, tsunami waves flooding the city streets, dark stormy clouds, dramatic lighting, ultra realistic, cinematic camera movement, slow motion destruction, high detail, 4K, epic scale, intense atmosphere, movie-like quality similar to Hollywood disaster films.
-```
-
-#### 💡 Tips
-
-Seedance 2.0 is pure insanity.
-
-Prompt:
-A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering with debris flying, people running in panic through dust and chaos. A giant meteor falling from the sky causing a massive shockwave, tsunami waves flooding the city streets, dark stormy clouds, dramatic lighting, ultra realistic, cinematic camera movement, slow motion destruction, high detail, 4K, epic scale, intense atmosphere, movie-like quality similar to Hollywood disaster films.
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2023928251421519874/pu/img/YiYXup_XGlDm_IOS.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023928376655048994)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2023928376655048994)**
-
-**Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **Source:** [Link](https://x.com/saniaspeaks_/status/2023928376655048994) | **Published:** Feb 18, 2026
-
----
-
-### A girl in traditional Chinese attire begins her emotional an...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Her dance is a poem written on a mirror surface, every movement is a line full of passion and grace. Created in @dreamina_ai Model: Seedance 2.0 I used one image Prompt for video⤵️ A girl in tradition
-
-#### 📝 Prompt
-
-```
-A girl in traditional Chinese attire begins her emotional and passionate dance on the still, dark water. The camera moves in to capture her face full of emotion, then pulls back sharply to reveal the sweeping gestures of her long sleeves. The shots are filmed from various angles - from below to accentuate the power and grace of her movements, and from above, turning her dance into a mesmerizing pattern on the water. Each of her steps and turns is filled with passion. Golden sparks and cherry blossom petals swirl around her, and the water beneath her feet erupts in golden circles in time with her expressive movements.
-```
-
-#### 💡 Tips
-
-Her dance is a poem written on a mirror surface, every movement is a line full of passion and grace.
-
-Created in @dreamina_ai
-Model: Seedance 2.0 
-
-I used one image
-Prompt for video⤵️
-A girl in traditional Chinese attire begins her emotional and passionate dance on the still, dark water. The camera moves in to capture her face full of emotion, then pulls back sharply to reveal the sweeping gestures of her long sleeves. The shots are filmed from various angles - from below to accentuate the power and grace of her movements, and from above, turning her dance into a mesmerizing pattern on the water. Each of her steps and turns is filled with passion. Golden sparks and cherry blossom petals swirl around her, and the water beneath her feet erupts in golden circles in time with her expressive movements.
- #DreaminaCPP
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2024157015371563009/img/N2HI4CW0KUF7se1T.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024158161964274138)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024158161964274138)**
-
-**Author:** [Viki](https://x.com/churvikv) | **Source:** [Link](https://x.com/churvikv/status/2024158161964274138) | **Published:** Feb 18, 2026
-
----
-
 ## 📚 📚 More Prompts
 
-### 🎯 55 more prompts not shown here
+### 🎯 61 more prompts not shown here
 
 **👉 [Browse all Seedance 2.0 prompts on YouWare](https://youware.com/seedance-2-prompts)**
 
@@ -3616,6 +3570,63 @@ A girl in traditional Chinese attire begins her emotional and passionate dance o
 ## 💡 Usage Tips
 
 > Community tutorials and tips for getting the most out of Seedance 2.0
+
+### Reuse a proven Sora 2 prompt in Seedance 2.0 to generate not...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 via @yapper_so Using my previous Sora 2 prompt, all the audio, including music, sound effects, and cut, edit, and camera work, comes directly from the model. I only applied filters to the
+
+#### 📝 Prompt
+
+```
+Reuse a proven Sora 2 prompt in Seedance 2.0 to generate not just visuals but also music, sound effects, and the cut/edit/camera work directly from the model, then apply only final video filters in CapCut for post-processing.
+```
+
+#### 💡 Tips
+
+Seedance 2.0 via @yapper_so 
+
+Using my previous Sora 2 prompt, all the audio, including music, sound effects, and cut, edit, and camera work, comes directly from the model. I only applied filters to the video using CapCut. https://t.co/q4OabNT3II
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2027187855119028224/img/BQbZ_e6qtNAX2Vth.jpg)](https://video.twimg.com/amplify_video/2027187855119028224/vid/avc1/2560x1440/cU-V_iGOZB50cT3J.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2027187855119028224/vid/avc1/2560x1440/cU-V_iGOZB50cT3J.mp4)**
+
+**Author:** [DAN](https://x.com/mxvdxn) | **Source:** [Link](https://x.com/mxvdxn/status/2027189035622654311) | **Published:** Feb 27, 2026
+
+---
+
+### Accede a Seedance 2.0 gratis entrando al sitio, registrándot...
+
+![Español](https://img.shields.io/badge/lang-Español-yellow)
+
+> Seedance 2.0 acaba de ser TOTALMENTE GRATIS + no se necesita VPN 🤯🔥 La bestia china que aterrorizó a Hollywood ahora está abierta de par en par. Y este nuevo sitio lo ofrece completamente gratis. Mo
+
+#### 📝 Prompt
+
+```
+Accede a Seedance 2.0 gratis entrando al sitio, registrándote y seleccionando Vídeo AI → Seedance 2.0 en el menú de modelos.  
+Elige Imagen a video para convertir una imagen en movimiento suave; es la opción más rápida y estable ahora mismo.  
+Usa Cuadro a video soltando el primer y último cuadro (o imágenes clave) para un flujo cinematográfico más controlado.  
+Evita por ahora Texto a vídeo si puedes; con el sitio sobrecargado puede fallar varias veces antes de funcionar.  
+Redacta prompts detallados especificando movimientos de cámara, iluminación, estilo y ritmo para mejorar el resultado.  
+Empieza con clips cortos de 4–8 segundos en modo Imagen o Cuadro para obtener resultados más rápido.
+```
+
+#### 💡 Tips
+
+Seedance 2.0 acaba de ser TOTALMENTE GRATIS + no se necesita VPN 🤯🔥
+
+La bestia china que aterrorizó a Hollywood ahora está abierta de par en par.
+
+Y este nuevo sitio lo ofrece completamente gratis.
+
+Movimiento cinematográfico de 1080p, calidad increíble... sin costo, sin tarjeta de crédito, sin tonterías.
+
+**Author:** [Filipe | IA](https://x.com/filicroval) | **Source:** [Link](https://x.com/filicroval/status/2027004006690685083) | **Published:** Feb 26, 2026
+
+---
 
 ### If Seedance 2.0 rejects your uploaded reference video in rev...
 
@@ -3642,6 +3653,172 @@ tip：Seedance 2.0全能参考上传视频作为参考的时候审核不通过�
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026844741774491648)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2026844741774491648) | **Published:** Feb 26, 2026
+
+---
+
+### Run your Seedance 2.0 output through Topaz Labs for a “beaut...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A giant ant escaped from the Seedance 2.0 lab and started wrecking the city. Before the chaos, it went through Topaz Labs for a little "beauty pass", then hit CapCut for a skin tone color correction. 
+
+#### 📝 Prompt
+
+```
+Run your Seedance 2.0 output through Topaz Labs for a “beauty pass” enhancement before final grading  
+Use CapCut to apply a skin tone color correction pass after upscaling/enhancement
+```
+
+#### 💡 Tips
+
+A giant ant escaped from the Seedance 2.0 lab and started wrecking the city. Before the chaos, it went through Topaz Labs for a little "beauty pass", then hit CapCut for a skin tone color correction. 🐜 https://t.co/bzjcXj2rWh
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2027074116650500097/img/Zjlx4Vcn0L3cCCDH.jpg)](https://video.twimg.com/amplify_video/2027074116650500097/vid/avc1/2560x1440/WiKaTzOHU90mryVQ.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2027074116650500097/vid/avc1/2560x1440/WiKaTzOHU90mryVQ.mp4)**
+
+**Author:** [ibexdream](https://x.com/ibexdream) | **Source:** [Link](https://x.com/ibexdream/status/2027078023225184435) | **Published:** Feb 26, 2026
+
+---
+
+### Seedance 2.0 in CapCut can generate a 15-second clip in abou...
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> UPDATE! Seedance 2.0 has been removed from @capcutapp LMAO 😂😂😂 Maybe it wasn’t supposed to be released yet, but some people accidentally saw the model, tested it, and shared it on X. There hasn’t b
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 in CapCut can generate a 15-second clip in about 2 minutes 30 seconds, so plan your iteration cycle around that runtime  
+Generate Seedance clips directly into the CapCut editing timeline so you can immediately apply filters and continue editing without exporting/importing  
+Avoid paying for third-party platforms claiming to offer Seedance 2.0 until there’s an official release/announcement confirming legitimacy
+```
+
+#### 💡 Tips
+
+UPDATE! Seedance 2.0 has been removed from @capcutapp LMAO 😂😂😂 
+
+Maybe it wasn’t supposed to be released yet, but some people accidentally saw the model, tested it, and shared it on X. There hasn’t been any official announcement from CapCut.
+
+Well, looks like we just have to wait for the official release now. At least I managed to generate these clips. 😆
+
+But be careful, there are so many platforms claiming to have Seedance 2.0. I’m not sure about their credibility or whether they got it from somewhere unofficial, so I suggest waiting and not throwing your money at those platforms.
+
+**Author:** [DAN](https://x.com/mxvdxn) | **Source:** [Link](https://x.com/mxvdxn/status/2026852715872297256) | **Published:** Feb 26, 2026
+
+---
+
+### Seedance 2.0のマルチフレーム機能で7枚の画像を入力して、グリッチ映像を生成する
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance 2.0のマルチフレーム（7枚の画像）を使用してグリッチ映像を制作。マルチフレームがお気に入り。曲はSuno AIで作詞は僕です #capcut生成ai #capcutjapandiscord @capcutapp_jp https://t.co/mDNLGwjPFg
+
+#### 📝 Prompt
+
+```
+Seedance 2.0のマルチフレーム機能で7枚の画像を入力して、グリッチ映像を生成する
+```
+
+#### 💡 Tips
+
+Seedance 2.0のマルチフレーム（7枚の画像）を使用してグリッチ映像を制作。マルチフレームがお気に入り。曲はSuno AIで作詞は僕です #capcut生成ai #capcutjapandiscord
+@capcutapp_jp https://t.co/mDNLGwjPFg
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026850297843429380/img/5D9jIr8sMS3hoqAR.jpg)](https://video.twimg.com/amplify_video/2026850297843429380/vid/avc1/1920x1080/mCCZV-cuVoRAYdbL.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2026850297843429380/vid/avc1/1920x1080/mCCZV-cuVoRAYdbL.mp4)**
+
+**Author:** [Hideyuki Ashizawa](https://x.com/h_ashizawaJP) | **Source:** [Link](https://x.com/h_ashizawaJP/status/2026850980764238142) | **Published:** Feb 26, 2026
+
+---
+
+### Seedance 2.0はツール（CapCut等）によって使い心地が大きく違うので、価格・生成時間・操作性を比較して自分...
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 【Seedance 2.0】"capcut" で開放 !? Seedance2.0を４社で試していますが、使い心地はツールによってまったく違います。 どのツールが使いやすいか、値段や生成時間なども比べると良いかもしれません。 https://t.co/IDUbk3G875
+
+#### 📝 Prompt
+
+```
+Seedance 2.0はツール（CapCut等）によって使い心地が大きく違うので、価格・生成時間・操作性を比較して自分に合うツールを選ぶ  
+Seedance 2.0はプロンプトへの忠実度が高いので、カメラワークやライティングまで具体的に書き込んで手抜きに見えないようにする
+```
+
+#### 💡 Tips
+
+【Seedance 2.0】"capcut" で開放 !?
+Seedance2.0を４社で試していますが、使い心地はツールによってまったく違います。
+どのツールが使いやすいか、値段や生成時間なども比べると良いかもしれません。 https://t.co/IDUbk3G875
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026923322227961857/img/5n75wxwqhnMfTSdD.jpg)](https://video.twimg.com/amplify_video/2026923322227961857/vid/avc1/1280x720/pLOGkPSaH4aBCPXa.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2026923322227961857/vid/avc1/1280x720/pLOGkPSaH4aBCPXa.mp4)**
+
+**Author:** [SEIIIRU😈動画生成AIを使う映像クリエイター](https://x.com/seiiiiiiiiiiru) | **Source:** [Link](https://x.com/seiiiiiiiiiiru/status/2026929513645617230) | **Published:** Feb 26, 2026
+
+---
+
+### 漫画toアニメは、全編の漫画データと絵コンテをYAML化したものをSeedance 2.0に読み込ませて生成する
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance 2.0 漫画toアニメ サイコパス勇者と社会不適合な仲間たち 第一話 「石化すれば」 --- 今年のテーマは漫画をつくってそれをアニメにする漫画toアニメ これも全編漫画とその絵コンテのYAMLを読ませるだけでつくりました。声の一貫性は出してませんが、これはVidu https://t.co/ETSqWccTa7
+
+#### 📝 Prompt
+
+```
+漫画toアニメは、全編の漫画データと絵コンテをYAML化したものをSeedance 2.0に読み込ませて生成する
+```
+
+#### 💡 Tips
+
+Seedance 2.0 漫画toアニメ
+サイコパス勇者と社会不適合な仲間たち
+第一話 「石化すれば」
+
+---
+今年のテーマは漫画をつくってそれをアニメにする漫画toアニメ
+
+これも全編漫画とその絵コンテのYAMLを読ませるだけでつくりました。声の一貫性は出してませんが、これはVidu https://t.co/ETSqWccTa7
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2027145944400265216/img/QjUjJpgxypAwS3zd.jpg)](https://video.twimg.com/amplify_video/2027145944400265216/vid/avc1/1920x1080/euWLlCe0MpdpCUQs.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2027145944400265216/vid/avc1/1920x1080/euWLlCe0MpdpCUQs.mp4)**
+
+**Author:** [yachimat - AI Short Anime](https://x.com/yachimat_manga) | **Source:** [Link](https://x.com/yachimat_manga/status/2027148112624746500) | **Published:** Feb 26, 2026
+
+---
+
+### Use Seedance 2.0 to generate the needed scene images first,...
+
+> 當變形金剛去了101，寶島機甲－覺醒 概念預告片. The Next TRANSFORMERS? - "MECHA AWAKENING" Official Trailer (2026) 做這部影片花了三天，越做越上癮. 工具（即夢 Seedance 2.0 + 剪映） 如果不是即夢生成要排隊，不然應該可以更快. 總花費 15 USD 做法是. 1.生成你要的畫面圖片. https://t.co/I
+
+#### 📝 Prompt
+
+```
+Use Seedance 2.0 to generate the needed scene images first, then edit them into a trailer using 剪映 (CapCut).
+```
+
+#### 💡 Tips
+
+當變形金剛去了101，寶島機甲－覺醒 概念預告片.
+The Next TRANSFORMERS? - "MECHA AWAKENING" Official Trailer (2026)
+做這部影片花了三天，越做越上癮.
+工具（即夢 Seedance 2.0 + 剪映）
+如果不是即夢生成要排隊，不然應該可以更快.
+總花費 15 USD
+
+做法是.
+1.生成你要的畫面圖片. https://t.co/ILsp1q1dNq
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2027004582023553024/img/dOdbn-VuTh1Lxdzt.jpg)](https://video.twimg.com/amplify_video/2027004582023553024/vid/avc1/1920x1080/v7zQh7cHEOcLeHxq.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://video.twimg.com/amplify_video/2027004582023553024/vid/avc1/1920x1080/v7zQh7cHEOcLeHxq.mp4)**
+
+**Author:** [wong ｜🔋](https://x.com/FBoldwang) | **Source:** [Link](https://x.com/FBoldwang/status/2027004722163458320) | **Published:** Feb 26, 2026
 
 ---
 
@@ -4317,236 +4494,7 @@ Descifrémla 👇 https://t.co/S3MIauVUzp
 
 ---
 
-### Use Seedance 2.0 directly inside CapCut to generate videos....
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Why did no one tell me you can already use Seedance 2.0 in CapCut??? 240 credits (approx $3) per 15-second video apparently https://t.co/e1wRMvzH4Q
-
-#### 📝 Prompt
-
-```
-Use Seedance 2.0 directly inside CapCut to generate videos.  
-Generate at 720p for 240 credits (~$3) per 15-second video.  
-Generate at 480p for 120 credits (~$1.5) per 15-second video.
-```
-
-#### 💡 Tips
-
-Why did no one tell me you can already use Seedance 2.0 in CapCut???
-
-240 credits (approx $3) per 15-second video apparently https://t.co/e1wRMvzH4Q
-
-**Author:** [Angel ❄️](https://x.com/Angaisb_) | **Source:** [Link](https://x.com/Angaisb_/status/2026729560482468256) | **Published:** Feb 25, 2026
-
----
-
-### Use Seedance 2’s dynamic prompts and referencing features to...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> most of the seedance 2 videos i'm seeing right now are just pure slop. or stuff we've been able to generate for the past 8 months with veo and sora i've probably generated close to 500 seedance videos
-
-#### 📝 Prompt
-
-```
-Use Seedance 2’s dynamic prompts and referencing features to unlock its real capabilities instead of relying on basic prompts  
-Approach prompting in Seedance differently than other video models; don’t treat it like a standard image-to-video generator  
-Avoid using Seedance primarily for basic image-to-video; use Veo or Kling for that use case and reserve Seedance for dynamic/referenced generations
-```
-
-#### 💡 Tips
-
-most of the seedance 2 videos i'm seeing right now are just pure slop. or stuff we've been able to generate for the past 8 months with veo and sora
-
-i've probably generated close to 500 seedance videos now. tried every type of prompt. and i've realized the real capabilities of this model are in the dynamic prompts and referencing features
-
-you have to approach seedance completely differently than any other model
-
-if you're using it for basic image to video you might as well just use veo or kling. that's not where seedance's strength is
-
-i don't think people realize what this model is actually capable of
-
-when i say you can generate anything, i truly mean it....
-
-**Author:** [Miko](https://x.com/Mho_23) | **Source:** [Link](https://x.com/Mho_23/status/2026800160228127065) | **Published:** Feb 25, 2026
-
----
-
-### Video upscaled with the new @Magnific_AI VIDEO UPSCALER.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 🔥Capoeira meets kung fu. In KENPAI, crowded favela Staircases are the arena. Pushing Seedance 2.0 inside the KENPAI universe… It is wild. Street fight, in the universe I’m building. 献杯 KENPAI 🤜🏽👹�
-
-#### 📝 Prompt
-
-```
-Video upscaled with the new @Magnific_AI VIDEO UPSCALER.
-```
-
-#### 💡 Tips
-
-🔥Capoeira meets kung fu.
-In KENPAI, crowded favela Staircases are the arena.
-
-Pushing Seedance 2.0 inside the KENPAI universe…
-It is wild.
-
-Street fight, in the universe I’m building.
-献杯 KENPAI 
-🤜🏽👹🇧🇷🤛🏼
-Short film in development.
-
-Video upscaled with the new @Magnific_AI  VIDEO UPSCALER.
-#seedance2
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026712959754399745/img/nxo7tjOd3YBL0dZh.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026713840390648005)**
-
-**Author:** [ARLO🟡](https://x.com/byarlooo) | **Source:** [Link](https://x.com/byarlooo/status/2026713840390648005) | **Published:** Feb 25, 2026
-
----
-
-### 先注册一个 YouMind 账号并登录后，打开该 Seedance 分镜提示词 Skill 链接，在技能页面点击「安装」...
-
-> 根据即梦 Seedance 2.0 使用手册，制作了一个超级实用的即梦 Seedance 分镜提示词 Skill，安装在了 YouMind 上，这样的话，大家使用起来就非常简单了，几乎是傻瓜式的操作，让我们普通人也能写出电影级、专业级的视频分镜提示词，制作出超级炫酷好看的视频。 大家可以看看视频讲解，并附带上 YouMind https://t.co/w2RilHoB2d
-
-#### 📝 Prompt
-
-```
-先注册一个 YouMind 账号并登录后，打开该 Seedance 分镜提示词 Skill 链接，在技能页面点击「安装」，安装完成后即可在自己的账号下直接使用该 Skill 来生成视频分镜提示词
-```
-
-#### 💡 Tips
-
-根据即梦 Seedance 2.0 使用手册，制作了一个超级实用的即梦 Seedance 分镜提示词 Skill，安装在了 YouMind 上，这样的话，大家使用起来就非常简单了，几乎是傻瓜式的操作，让我们普通人也能写出电影级、专业级的视频分镜提示词，制作出超级炫酷好看的视频。
-
-大家可以看看视频讲解，并附带上 YouMind https://t.co/w2RilHoB2d
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026593519482318852/img/BL2u7AG_FR_PvafI.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026594611112907181)**
-
-**Author:** [loonggg](https://x.com/KengGuangLong) | **Source:** [Link](https://x.com/KengGuangLong/status/2026594611112907181) | **Published:** Feb 25, 2026
-
----
-
-### Add explicit camera movement language like slow cinematic do...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> The Secret to God-Tier AI Cinematography 📽️ Your AI videos look "fake" because your camera is bored. To get that big-budget Hollywood look on Grok, Veo, Seedance 2.0 and Kling, you have to speak the 
-
-#### 📝 Prompt
-
-```
-Add explicit camera movement language like slow cinematic dolly in (not digital zoom) to build tension and realism in Seedance 2.0 prompts.  
-Use a sweeping crane shot prompt (start low, rise high) to reveal scale—e.g., close-up subject ascending to a vast landscape.  
-Specify a 360-degree orbital camera movement around the subject to create a classic hero shot and showcase 3D environments.  
-Prompt an FPV drone dive with ultra-wide angle, motion blur, and lens spray to get aggressive, immersive high-speed cinematography.  
-Use a lateral trucking shot (camera moving sideways parallel to the subject) for walk-and-talk or tracking fast movement.  
-Add a whip pan (fast horizontal blur from one subject to another) with motion blur transition for urgent, stylized action cuts.  
-Use a leading tracking shot (camera moving backward in front of the subject) and include organic handheld movement for pull-into-the-action energy.  
-Prompt a vertigo effect (dolly zoom: camera moves backward while zooming in, or vice versa) to create background warping for shock/revelation moments.  
-Use a pedestal down (camera moves straight down vertically without tilting) to reveal a scene from top to bottom smoothly.  
-Add handheld run-and-gun cues (intentional jitter/shaky cam) to increase grit and realism in chase/action scenes.
-```
-
-#### 💡 Tips
-
-The Secret to God-Tier AI Cinematography 📽️
-
-Your AI videos look "fake" because your camera is bored. To get that big-budget Hollywood look on Grok, Veo, Seedance 2.0 and Kling, you have to speak the language of a Director of Photography. I’m giving away my 10 most effective movement prompts for free. Save these for your next project.
-
-Inspired by @azed_ai
-
-Thread🧵👇🏾
-
-**Author:** [Gilbert Odera | Your AI Plug™🇰🇪](https://x.com/yourPlugAI) | **Source:** [Link](https://x.com/yourPlugAI/status/2026156636105023742) | **Published:** Feb 24, 2026
-
----
-
-### Avoid using actor names or copyrighted materials in Seedance...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> There's a very poorly researched blog "debunking" seedance 2.0. It claims Seedance is using a secret library of video clips and secretly doing video to video under the hood instead. I wouldn't normall
-
-#### 📝 Prompt
-
-```
-Avoid using actor names or copyrighted materials in Seedance prompts due to aggressive safeguards that block them.
-```
-
-#### 💡 Tips
-
-There's a very poorly researched blog "debunking" seedance 2.0. It claims Seedance is using a secret library of video clips and secretly doing video to video under the hood instead. I wouldn't normally care except i'm being called a liar so here is my response via text to video: https://t.co/5A27GIOH3P
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026160813200031744/img/uBQnaC76hOOQk8IX.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026164263547793787)**
-
-**Author:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **Source:** [Link](https://x.com/RuairiRobinson/status/2026164263547793787) | **Published:** Feb 24, 2026
-
----
-
-### Claude ile şarkınız için bir senaryo planı oluşturmasını ist...
-
-> Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzik piyasası... Aşağıdaki klipte tabi ünlüler kullanılarak AI Slop yapılmış ama konu o değil... İşin içinde olan label da olsa 
-
-#### 📝 Prompt
-
-```
-Claude ile şarkınız için bir senaryo planı oluşturmasını isteyin ve bu planı Seedance’de klip üretiminde yol haritası olarak kullanın  
-Kendi dijital ikizinizi oluşturup Seedance’de karakter olarak kullanarak müzik klibinizi üretin
-```
-
-#### 💡 Tips
-
-Seedance 2.0 modeli her sektörü sallamaya devam ediyor. Akşamın konusu müzik piyasası... Aşağıdaki klipte tabi ünlüler kullanılarak AI Slop yapılmış ama konu o değil... İşin içinde olan label da olsa spotify listelerini kendi de yüklese güzel bir çıkış yapmadan yani viral olmadan ne yazık ki; havanda su dövüyor. Şimdi müziğe ne lazım ? Klip lazım, video lazım. Şu anda tam prodüksiyon klip çekmeyi 2 milyondan açarlar 10 milyona kadar bütçe çıkarırlar... İşin daha kara komedi tarafıysa da sanatçı ne kadar ünlüyse klip ücreti artar :)) Sektör standardı işte... Neyse konumuza dönelim... Yetenekli 3 kişilik grupsunuz bir şekilde yaptınız müzikleri biraz kayıt vs. parası harcadınız ve Distrokid gibi dağıtıcılarla her platforma attınız. Eee sonrası ? Reklamlar vs... Dünya işiniz var. Ama paranız kısıtlı ise garanti ata oynamanız lazım. Ne lazım ? Klip lazım. Claude ile şarkınız için güzel bir senaryo planı çıkarmasını isteyin, kendi digital ikizinizi yapın ve seedance kullanarak klibinizi hayata geçirin. Ultra yaptığınız bu çalışmayı Youtube reklamı ile milyon insana izletirsiniz üstelik gerçekten çok çok komik bütçelere... Yapay zeka müzisyenlere de lazım. Suno deneyin, Udio deneyin... Devir bilgi çağı... Şu anda bir müzik grubu veya bir müzisyen gerçekten yapay zekaya hakim olsun, kimseye ihtiyaç olmadan her işini 100 de 1 fiyatına çözer :) Üretmekten ve hayal kurmaktan vazgeçmeyin... Yapay zeka içi bu çok önemli... Bizleri takip edin hepsini teker teker göstereceğiz.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2026357088226525184/img/eECgEFxOBeePM9LA.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026358915076915427)**
-
-**Author:** [Kaan Alper](https://x.com/kaan_alper) | **Source:** [Link](https://x.com/kaan_alper/status/2026358915076915427) | **Published:** Feb 24, 2026
-
----
-
-### Go to https://t.co/JzqzV4wh03 to start generating with free...
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1- Here’s the full step-by-step to start generating with FREE Seedance 2.0 right now 👇 1. Head to the site: https://t.co/JzqzV4wh03 2. Sign up super quick. Use Google, email, TikTok, or any account y
-
-#### 📝 Prompt
-
-```
-Go to https://t.co/JzqzV4wh03 to start generating with free Seedance 2.0  
-Sign up using Google, email, TikTok, or another existing account (no credit card required)  
-After logging in, navigate to the AI Video section (left sidebar or top menu)  
-Select Seedance 2.0 from the model dropdown to generate videos
-```
-
-#### 💡 Tips
-
-1- Here’s the full step-by-step to start generating with FREE Seedance 2.0 right now 👇
-
-1. Head to the site: https://t.co/JzqzV4wh03
-
-2. Sign up super quick. Use Google, email, TikTok, or any account you already have (no credit card needed at all).
-
-3. Once you’re logged in, go to the AI Video section (usually on the left sidebar or top menu).
-
-4. Pick Seedance 2.0 from the model dropdown (it should be right there).
-
-**Author:** [Shub](https://x.com/shub0414) | **Source:** [Link](https://x.com/shub0414/status/2026137822588285394) | **Published:** Feb 24, 2026
-
----
-
-*... and 94 more tips. [View all in Gallery](https://youware.com/seedance-2-prompts)*
+*... and 102 more tips. [View all in Gallery](https://youware.com/seedance-2-prompts)*
 
 ---
 
@@ -4570,4 +4518,4 @@ Thanks to all the creators who shared their prompts with the community.
 
 **🌐 [View in Web Gallery](https://youware.com/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-02-27T05:16:34.651Z
+🤖 This README is automatically generated. Last updated: 2026-02-27T05:35:20.399Z
