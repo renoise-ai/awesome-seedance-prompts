@@ -60,7 +60,7 @@
 |--------|-------|
 | 📝 提示词总数 | **161** |
 | ⭐ 精选 | **0** |
-| 💡 技巧 & 教程 | **132** |
+| 💡 技巧 & 教程 | **134** |
 | 🔄 最后更新 | **2026-02-27** |
 
 ---
@@ -4373,6 +4373,169 @@ Using my previous Sora 2 prompt, all the audio, including music, sound effects, 
 
 ---
 
+### 不要只写电影感；改用 UnrealEngine5渲染+工业光魔级VFX 这类具体渲染/特效关键词来提升效果  
+不要笼统...
+
+> 即梦 Seedance 2.0 的提示词，我踩了一整个春节的坑。 ❌写"电影感"没用，写"UnrealEngine5渲染+工业光魔级VFX"才有用。 ❌写"光线好"没用，光源→光行为→色调三层分开写才有用。 ❌写"氛围统一"没用，"每帧都有薄雾弥散效果"这种大气连贯声明才有用。 全部整理成了一个开源 https://t.co/8iUF8r8kLp
+
+#### 📝 提示词
+
+```
+不要只写电影感；改用 UnrealEngine5渲染+工业光魔级VFX 这类具体渲染/特效关键词来提升效果  
+不要笼统写光线好；把光照描述拆成三层分别写：光源→光行为→色调  
+不要只写氛围统一；用每帧都有薄雾弥散效果 这类跨帧一致的大气连贯声明来保证氛围一致
+```
+
+#### 💡 使用技巧
+
+即梦 Seedance 2.0 的提示词，我踩了一整个春节的坑。
+
+❌写"电影感"没用，写"UnrealEngine5渲染+工业光魔级VFX"才有用。
+❌写"光线好"没用，光源→光行为→色调三层分开写才有用。
+❌写"氛围统一"没用，"每帧都有薄雾弥散效果"这种大气连贯声明才有用。
+
+全部整理成了一个开源 https://t.co/8iUF8r8kLp
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2027203525613416448/img/_y_PUaOzyyW1htnE.jpg)](https://video.twimg.com/amplify_video/2027203525613416448/vid/avc1/1604x1080/aFumGsPfRxxmKsvL.mp4)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2027203525613416448/vid/avc1/1604x1080/aFumGsPfRxxmKsvL.mp4)**
+
+**作者:** [MapleShaw](https://x.com/msjiaozhu) | **来源:** [Link](https://x.com/msjiaozhu/status/2027203653493457272) | **发布日期:** 2026年2月27日
+
+---
+
+### 使用NemoVideo的灵感中心来研究高表现视频，提取其结构逻辑，并将这些框架作为Seedance 2.0编辑的模板  
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用NemoVideo的灵感中心来研究高表现视频，提取其结构逻辑，并将这些框架作为Seedance 2.0编辑的模板 将病毒式传播的参考分解为组件（引子、节奏、字幕、视觉引导），并基于该结构构建您的Seedance 2.0编辑，而不是从头开始 通过对话命令进行编辑（例如，Punch up the intro; Make it tighter; Stronger subtitles），让Ne...
+
+#### 📝 提示词
+
+```
+使用NemoVideo的灵感中心来研究高表现视频，提取其结构逻辑，并将这些框架作为Seedance 2.0编辑的模板  
+将病毒式传播的参考分解为组件（引子、节奏、字幕、视觉引导），并基于该结构构建您的Seedance 2.0编辑，而不是从头开始  
+通过对话命令进行编辑（例如，Punch up the intro; Make it tighter; Stronger subtitles），让NemoVideo即时重新生成剪辑，而不是手动调整时间线  
+如果您有杂乱的素材，上传所有剪辑，让NemoVideo识别突出时刻，重建流程，自动同步声音，应用动态字幕，并在通过Seedance 2.0分发之前进行润色
+
+--- 线程继续 ---
+[线程1] 介绍 @nemovideoai
+
+首个为创作者打造的专业级AI视频编辑代理。
+
+您无需与时间线搏斗。
+您指挥它。
+它构建。
+
+从这里开始 → https://t.co/kztkbt0iMN
+
+官方Seedance 2.0合作伙伴。https://t.co/G2hC0fVaMi
+
+[线程2] 这里是实质性的转变：
+
+不再无休止地滚动寻找“灵感”，
+
+NemoVideo研究已经表现出色的内容。
+
+其灵感中心：
+
+→ 展示高表现格式
+→ 提取其结构逻辑
+→ 将其转化为可重复使用的系统
+
+您不再追逐趋势。
+
+您开始应用框架。
+
+[线程3] 然后它更进一步。
+
+它将病毒视频解码为组件：
+
+→ 引子如何吸引注意
+→ 节奏如何保持留存
+→ 字幕如何强化情感
+→ 视觉如何引导视线
+
+您不再对内容做出反应。
+
+您从结构中构建。https://t.co/afOuJgEn1T
+
+[线程4] 那编辑呢？
+
+这是一场对话。
+
+您输入：
+
+“Punch up the intro.”
+“Make it tighter.”
+“Stronger subtitles.”
+
+Nemo即时更新整个剪辑。
+
+无需拖动剪辑。
+无需微调。
+无疲劳。https://t.co/CKq6GC5YE4
+
+[线程5] 即使是混乱的素材也能工作。
+
+投入随机剪辑。
+
+Nemo：
+
+→ 识别突出时刻
+→ 重建流程
+→ 自动同步声音
+→ 应用干净的动态字幕
+→ 增加专业润色
+
+从零散文件到有意图的叙事。https://t.co/j9H5zbD0XX
+
+[线程6] 如果您的目标是在不雇佣$3,000编辑的情况下实现规模化：
+
+从这里开始 → https://t.co/ToneIgl9z5
+
+→ 免费计划可用
+→ 每月仅需$4.19起
+→ 通过Discord进行联盟合作
+
+现在结合Seedance 2.0的分发势头。
+
+结构与覆盖相结合。
+
+病毒式传播不是魔法。
+
+它是经过设计的。
+
+#NemoVideo #Seedance2 #AIWorkflow
+
+[线程7] 就这样结束了！
+
+如果您喜欢这个线程：
+
+1. 关注我 @JaynitMakwana 以获取更多内容
+
+2. 转发下面的推文与您的观众分享这个线程
+---
+```
+
+#### 💡 使用技巧
+
+🚨BREAKING: The $5,000 video editor is now obsolete
+
+NemoVideo + Seedance 2.0 quietly unleashed the structured editing engine of 2026.
+
+Study winning formats, extract their DNA, then edit by simple conversation in minutes.
+
+Here’s the breakdown: 🧵 https://t.co/QV3qvn6LoT
+
+[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2027296865126133761/img/wjN1Dot0jc7iOCA-.jpg)](https://video.twimg.com/amplify_video/2027296865126133761/vid/avc1/1280x720/4jJplsm67JQBebKd.mp4?tag=14)
+
+📥 *点击图片观看视频* | **[🎬 观看视频 →](https://video.twimg.com/amplify_video/2027296865126133761/vid/avc1/1280x720/4jJplsm67JQBebKd.mp4?tag=14)**
+
+**作者:** [Jaynit Makwana](https://x.com/JaynitMakwana) | **来源:** [Link](https://x.com/JaynitMakwana/status/2027296939063263399) | **发布日期:** 2026年2月27日
+
+---
+
 ### 通过访问网站、注册并在模型菜单中选择视频 AI → Seedance 2.0，免费使用 Seedance 2.0。  
 
 ![Español](https://img.shields.io/badge/lang-Español-yellow)
@@ -5493,130 +5656,7 @@ Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme
 
 ---
 
-### 告诉AI使用Seedance 2.0的代理模式
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 告诉AI使用Seedance 2.0的代理模式 --- 线程继续 --- [线程1] 这就是方法！或者你可以简单地告诉AI使用seedance 2.0的代理模式。https://t.co/UJu9w3BqG3 ---
-
-#### 📝 提示词
-
-```
-告诉AI使用Seedance 2.0的代理模式
-
---- 线程继续 ---
-[线程1] 这就是方法！或者你可以简单地告诉AI使用seedance 2.0的代理模式。https://t.co/UJu9w3BqG3
----
-```
-
-#### 💡 使用技巧
-
-You can now access Seedance 2.0 (worldwide) on Chraft AI and CloneViral AI.
-
-See how insane video creation can get.
-
-No more searching.
-No more waiting.
-Seedance 2.0 is OPEN.
-
-#seedance2 https://t.co/Fhdih4kDWa
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026606780042932224/img/4zjqw-iuCss8b0rq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)**
-
-**作者:** [Chraft](https://x.com/chraft_ai) | **来源:** [Link](https://x.com/chraft_ai/status/2026611657397645609) | **发布日期:** 2026年2月25日
-
----
-
-### 上传多个视频片段作为prompt（例如，用于旅行vlog）以便NemoVideo/Seedance 2.0从你的素材中构
-
-![Español](https://img.shields.io/badge/lang-Español-yellow)
-
-> 上传多个视频片段作为prompt（例如，用于旅行vlog）以便NemoVideo/Seedance 2.0从你的素材中构建和重构编辑。 使用聊天编辑指令而不是时间线编辑：让它添加动画字幕。 使用聊天编辑指令在关键时刻插入B-roll。 使用聊天编辑指令将音频与节奏/节拍对齐。 --- 线程继续 --- [线程1] 我们介绍 @nemovideoai 这不仅仅是另一个剪辑生成器，而是...
-
-#### 📝 提示词
-
-```
-上传多个视频片段作为prompt（例如，用于旅行vlog）以便NemoVideo/Seedance 2.0从你的素材中构建和重构编辑。  
-使用聊天编辑指令而不是时间线编辑：让它添加动画字幕。  
-使用聊天编辑指令在关键时刻插入B-roll。  
-使用聊天编辑指令将音频与节奏/节拍对齐。
-
---- 线程继续 ---
-[线程1] 我们介绍 @nemovideoai
-
-这不仅仅是另一个剪辑生成器，而是一个理解视频为何有效的AI编辑代理。
-
-逐帧分解病毒式成功
-并用结构重建。
-
-从随机性到可重复的系统。
-
-使用案例：旅行vlog在现场
-Prompt：upload multiple video clips
-
-[线程2] 大更新：
-
-NemoVideo现在是Seedance 2.0的官方合作伙伴。
-
-Seedance因其由AI创建的高强度电影视觉效果而在X上流行。
-现在这种力量融入了Nemo的工作流程。
-
-1️⃣ Hunt — 即时发现病毒灵感
-2️⃣ Analyze — 解码顶级创作者的做法
-3️⃣ Recreate — 从想法到最终剪辑在一个流程中完成
-
-然后直接在聊天中精炼一切。
-
-[线程3] Chat-to-Edit改变了工作流程。
-
-不再点击时间线，而是给出指令。
-
-- 添加动画字幕。
-- 在关键时刻插入B-roll。
-- 将声音与节奏对齐。
-
-一切通过对话完成。
-
-结合短格式平台的速度与AI驱动的统一执行于一个系统中。
-
-[线程4] 你认真考虑在短格式中成长吗？
-
-进行自己的测试。
-
-从这里开始：
-https://t.co/1MbvriKTdV
-
-- 与Seedance 2.0的官方集成。
-- 趋势级视觉效果。
-- 系统化创作。
-
-#AIEditing #VideoMarketing #NemoVideo #Seedance
----
-```
-
-#### 💡 使用技巧
-
-NemoVideo se asoció con Seedance 2.0.
-
-Después de probarlo, me di cuenta de algo :
-
-Lo que parece espontáneo en realidad está estructurado.
-
-Hay una fórmula clara detrás de los videos cortos virales.
-
-Descifrémla 👇 https://t.co/S3MIauVUzp
-
-[![视频预览](https://pbs.twimg.com/amplify_video_thumb/2026733216241971200/img/vrdkYqRxytmlAu38.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)
-
-📥 *点击图片观看视频* | **[🎬 观看视频 →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)**
-
-**作者:** [Alejandro Martinez | IA](https://x.com/copyelpadrino) | **来源:** [Link](https://x.com/copyelpadrino/status/2026734681308147865) | **发布日期:** 2026年2月25日
-
----
-
-*... 以及另外 102 条技巧。 [在画廊中查看全部](https://youware.com/zh-CN/seedance-2-prompts)*
+*... 以及另外 104 条技巧。 [在画廊中查看全部](https://youware.com/zh-CN/seedance-2-prompts)*
 
 ---
 
@@ -5640,4 +5680,4 @@ Descifrémla 👇 https://t.co/S3MIauVUzp
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-02-27T12:54:41.363Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-02-27T13:37:57.296Z

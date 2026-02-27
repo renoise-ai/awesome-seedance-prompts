@@ -60,7 +60,7 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 |--------|-------|
 | 📝 Total de Prompts | **161** |
 | ⭐ Destacados | **0** |
-| 💡 Consejos & Tutoriales | **132** |
+| 💡 Consejos & Tutoriales | **134** |
 | 🔄 Última Actualización | **2026-02-27** |
 
 ---
@@ -4489,6 +4489,178 @@ Using my previous Sora 2 prompt, all the audio, including music, sound effects, 
 
 ---
 
+### No solo escribas "cinemático"; utiliza palabras clave especí
+
+> No solo escribas "cinemático"; utiliza palabras clave específicas de renderizado/efectos especiales como UnrealEngine5 rendering + VFX de nivel Industrial Light & Magic para mejorar el efecto. No es..
+
+#### 📝 Prompt
+
+```
+No solo escribas "cinemático"; utiliza palabras clave específicas de renderizado/efectos especiales como UnrealEngine5 rendering + VFX de nivel Industrial Light & Magic para mejorar el efecto.  
+No escribas de manera general "buena iluminación"; descompón la descripción de la iluminación en tres capas: fuente de luz → comportamiento de la luz → tonalidad.  
+No solo escribas "atmósfera unificada"; utiliza declaraciones de coherencia atmosférica como "cada fotograma tiene un efecto de niebla dispersa" para asegurar la consistencia atmosférica.
+
+--- CONTINUACIÓN DEL HILO ---
+[Hilo 1] Almacén de habilidades: https://t.co/Cs8tQKx7wc
+
+Exploré el manual de uso oficial de Seedance 2.0:  
+https://t.co/tGouSYfRz9
+
+Leí atentamente las habilidades de calidad de @songguoxiansen:  
+https://t.co/uZ9Exwk4Od
+---
+```
+
+#### 💡 Consejos
+
+即梦 Seedance 2.0 的提示词，我踩了一整个春节的坑。
+
+❌写"电影感"没用，写"UnrealEngine5渲染+工业光魔级VFX"才有用。
+❌写"光线好"没用，光源→光行为→色调三层分开写才有用。
+❌写"氛围统一"没用，"每帧都有薄雾弥散效果"这种大气连贯声明才有用。
+
+全部整理成了一个开源 https://t.co/8iUF8r8kLp
+
+[![Vista Previa del Video](https://pbs.twimg.com/amplify_video_thumb/2027203525613416448/img/_y_PUaOzyyW1htnE.jpg)](https://video.twimg.com/amplify_video/2027203525613416448/vid/avc1/1604x1080/aFumGsPfRxxmKsvL.mp4)
+
+📥 *Haz clic en la imagen para ver el video* | **[🎬 Ver Video →](https://video.twimg.com/amplify_video/2027203525613416448/vid/avc1/1604x1080/aFumGsPfRxxmKsvL.mp4)**
+
+**Autor:** [MapleShaw](https://x.com/msjiaozhu) | **Fuente:** [Link](https://x.com/msjiaozhu/status/2027203653493457272) | **Publicado:** 27 feb 2026
+
+---
+
+### Utiliza el Centro de Inspiración de NemoVideo para estudiar 
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Utiliza el Centro de Inspiración de NemoVideo para estudiar videos de alto rendimiento, extraer su lógica estructural y reutilizar esos marcos como plantillas para tus ediciones de Seedance 2.0. Des..
+
+#### 📝 Prompt
+
+```
+Utiliza el Centro de Inspiración de NemoVideo para estudiar videos de alto rendimiento, extraer su lógica estructural y reutilizar esos marcos como plantillas para tus ediciones de Seedance 2.0.  
+Descompón referencias virales en componentes (gancho, ritmo, subtítulos, guía visual) y construye tu edición de Seedance 2.0 a partir de esa estructura en lugar de comenzar desde cero.  
+Edita mediante comandos conversacionales (por ejemplo, Punch up the intro; Make it tighter; Stronger subtitles) para que NemoVideo regenere el corte al instante en lugar de ajustar manualmente una línea de tiempo.  
+Si tienes metraje desordenado, sube todos los clips y deja que NemoVideo identifique los momentos destacados, reconstruya el flujo, sincronice automáticamente el sonido, aplique subtítulos en movimiento y añada pulido antes de distribuir a través de Seedance 2.0.
+
+--- CONTINUACIÓN DEL HILO ---
+[Hilo 1] Presentando @nemovideoai
+
+El primer Agente de Edición de Video con IA de Nivel Profesional creado para creadores.
+
+No luchas con líneas de tiempo.
+Lo diriges.
+Se construye.
+
+Comienza aquí → https://t.co/kztkbt0iMN
+
+Socio oficial de Seedance 2.0. https://t.co/G2hC0fVaMi
+
+[Hilo 2] Aquí está el verdadero cambio:
+
+En lugar de desplazarte sin fin tratando de "encontrar inspiración",
+
+NemoVideo estudia lo que ya ha funcionado.
+
+Su Centro de Inspiración:
+
+→ Destaca formatos de alto rendimiento
+→ Extrae su lógica estructural
+→ Los convierte en sistemas reutilizables
+
+Dejas de perseguir tendencias.
+
+Comienzas a aplicar marcos.
+
+[Hilo 3] Luego va más allá.
+
+Descifra videos virales en componentes:
+
+→ Cómo el gancho captura la atención
+→ Cómo el ritmo mantiene la retención
+→ Cómo los subtítulos refuerzan la emoción
+→ Cómo los visuales guían la mirada
+
+Ya no reaccionas al contenido.
+
+Estás construyendo desde la estructura. https://t.co/afOuJgEn1T
+
+[Hilo 4] ¿Y la edición?
+
+Es una conversación.
+
+Escribes:
+
+“Punch up the intro.”
+“Make it tighter.”
+“Stronger subtitles.”
+
+Nemo actualiza todo el corte al instante.
+
+No arrastrar clips.
+No microajustes.
+No agotamiento. https://t.co/CKq6GC5YE4
+
+[Hilo 5] Incluso el metraje caótico funciona.
+
+Lanza clips aleatorios.
+
+Nemo:
+
+→ Identifica momentos destacados
+→ Reconstruye el flujo
+→ Sincroniza el sonido automáticamente
+→ Aplica subtítulos en movimiento limpios
+→ Añade pulido profesional
+
+De archivos dispersos a narración intencionada. https://t.co/j9H5zbD0XX
+
+[Hilo 6] Si tu objetivo es escalar sin contratar a un editor de $3,000:
+
+Comienza aquí → https://t.co/ToneIgl9z5
+
+→ Plan gratuito disponible
+→ Desde $4.19/mes
+→ Colaboración de afiliados vía Discord
+
+Ahora combinado con el impulso de distribución de Seedance 2.0.
+
+La estructura se encuentra con el alcance.
+
+Viral no es magia.
+
+Es ingeniería.
+
+#NemoVideo #Seedance2 #AIWorkflow
+
+[Hilo 7] ¡Eso es todo!
+
+Si disfrutaste este hilo:
+
+1. Sígueme @JaynitMakwana para más de estos
+
+2. RT el tweet a continuación para compartir este hilo con tu audiencia
+---
+```
+
+#### 💡 Consejos
+
+🚨BREAKING: The $5,000 video editor is now obsolete
+
+NemoVideo + Seedance 2.0 quietly unleashed the structured editing engine of 2026.
+
+Study winning formats, extract their DNA, then edit by simple conversation in minutes.
+
+Here’s the breakdown: 🧵 https://t.co/QV3qvn6LoT
+
+[![Vista Previa del Video](https://pbs.twimg.com/amplify_video_thumb/2027296865126133761/img/wjN1Dot0jc7iOCA-.jpg)](https://video.twimg.com/amplify_video/2027296865126133761/vid/avc1/1280x720/4jJplsm67JQBebKd.mp4?tag=14)
+
+📥 *Haz clic en la imagen para ver el video* | **[🎬 Ver Video →](https://video.twimg.com/amplify_video/2027296865126133761/vid/avc1/1280x720/4jJplsm67JQBebKd.mp4?tag=14)**
+
+**Autor:** [Jaynit Makwana](https://x.com/JaynitMakwana) | **Fuente:** [Link](https://x.com/JaynitMakwana/status/2027296939063263399) | **Publicado:** 27 feb 2026
+
+---
+
 ### Accede a Seedance 2.0 gratis entrando al sitio, registrándot...
 
 ![Español](https://img.shields.io/badge/lang-Español-yellow)
@@ -5576,78 +5748,7 @@ Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme
 
 ---
 
-### Dile a la IA que use Seedance 2.0 en modo agente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dile a la IA que use Seedance 2.0 en modo agente --- CONTINUACIÓN DEL HILO --- [Hilo 1] ¡Aquí está cómo! O simplemente puedes decirle a la IA que use seedance 2.0 en modo agente. https://t.co/UJu9w3B.
-
-#### 📝 Prompt
-
-```
-Dile a la IA que use Seedance 2.0 en modo agente
-
---- CONTINUACIÓN DEL HILO ---
-[Hilo 1] ¡Aquí está cómo! O simplemente puedes decirle a la IA que use seedance 2.0 en modo agente. https://t.co/UJu9w3BqG3
----
-```
-
-#### 💡 Consejos
-
-You can now access Seedance 2.0 (worldwide) on Chraft AI and CloneViral AI.
-
-See how insane video creation can get.
-
-No more searching.
-No more waiting.
-Seedance 2.0 is OPEN.
-
-#seedance2 https://t.co/Fhdih4kDWa
-
-[![Vista Previa del Video](https://pbs.twimg.com/amplify_video_thumb/2026606780042932224/img/4zjqw-iuCss8b0rq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)
-
-📥 *Haz clic en la imagen para ver el video* | **[🎬 Ver Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)**
-
-**Autor:** [Chraft](https://x.com/chraft_ai) | **Fuente:** [Link](https://x.com/chraft_ai/status/2026611657397645609) | **Publicado:** 25 feb 2026
-
----
-
-### Upload multiple video clips as the prompt (e.g., for a trave...
-
-![Español](https://img.shields.io/badge/lang-Español-yellow)
-
-> NemoVideo se asoció con Seedance 2.0. Después de probarlo, me di cuenta de algo : Lo que parece espontáneo en realidad está estructurado. Hay una fórmula clara detrás de los videos cortos virales. Des
-
-#### 📝 Prompt
-
-```
-Upload multiple video clips as the prompt (e.g., for a travel vlog on location) to have NemoVideo/Seedance 2.0 structure and reconstruct the edit from your footage.  
-Use chat-to-edit instructions instead of timeline editing: ask it to add animated subtitles.  
-Use chat-to-edit instructions to insert B-roll at key moments.  
-Use chat-to-edit instructions to align the audio with the rhythm/beat.
-```
-
-#### 💡 Consejos
-
-NemoVideo se asoció con Seedance 2.0.
-
-Después de probarlo, me di cuenta de algo :
-
-Lo que parece espontáneo en realidad está estructurado.
-
-Hay una fórmula clara detrás de los videos cortos virales.
-
-Descifrémla 👇 https://t.co/S3MIauVUzp
-
-[![Vista Previa del Video](https://pbs.twimg.com/amplify_video_thumb/2026733216241971200/img/vrdkYqRxytmlAu38.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)
-
-📥 *Haz clic en la imagen para ver el video* | **[🎬 Ver Video →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)**
-
-**Autor:** [Alejandro Martinez | IA](https://x.com/copyelpadrino) | **Fuente:** [Link](https://x.com/copyelpadrino/status/2026734681308147865) | **Publicado:** 25 feb 2026
-
----
-
-*... y 102 consejos más. [Ver todo en la Galería](https://youware.com/es/seedance-2-prompts)*
+*... y 104 consejos más. [Ver todo en la Galería](https://youware.com/es/seedance-2-prompts)*
 
 ---
 
@@ -5671,4 +5772,4 @@ Gracias a todos los creadores que compartieron sus prompts con la comunidad.
 
 **🌐 [🎬 Ver en la Galería Web](https://youware.com/es/seedance-2-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
 
-🤖 Este README se genera automáticamente. Última actualización: 2026-02-27T12:54:41.439Z
+🤖 Este README se genera automáticamente. Última actualización: 2026-02-27T13:37:57.357Z

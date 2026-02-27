@@ -60,7 +60,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 |--------|-------|
 | 📝 プロンプト総数 | **161** |
 | ⭐ 注目 | **0** |
-| 💡 ヒント & チュートリアル | **132** |
+| 💡 ヒント & チュートリアル | **134** |
 | 🔄 最終更新 | **2026-02-27** |
 
 ---
@@ -4467,6 +4467,178 @@ Using my previous Sora 2 prompt, all the audio, including music, sound effects, 
 
 ---
 
+### 不要只写映画的感覚；UnrealEngine5レンダリング+インダストリアル・ライト&マジック級のVFXといった具体的な
+
+> 不要只写映画的感覚；UnrealEngine5レンダリング+インダストリアル・ライト&マジック級のVFXといった具体的なレンダリング/特殊効果のキーワードを使って効果を高める 不要笼统写光线好；光の描写を三層に分けて書く：光源→光の動き→色調 不要只写氛围统一；各フレームに薄い霧の拡散効果があるといった、フレームを超えた一貫した大気の連続性を保証する声明を使って雰囲気を統一する --- ...
+
+#### 📝 プロンプト
+
+```
+不要只写映画的感覚；UnrealEngine5レンダリング+インダストリアル・ライト&マジック級のVFXといった具体的なレンダリング/特殊効果のキーワードを使って効果を高める  
+不要笼统写光线好；光の描写を三層に分けて書く：光源→光の動き→色調  
+不要只写氛围统一；各フレームに薄い霧の拡散効果があるといった、フレームを超えた一貫した大気の連続性を保証する声明を使って雰囲気を統一する
+
+--- THREAD CONTINUATION ---
+[Thread 1] スキル倉庫： https://t.co/Cs8tQKx7wc
+
+公式のSeedance 2.0使用マニュアルを遊び尽くした：
+https://t.co/tGouSYfRz9
+
+@songguoxiansenの優れたスキルを拝読：
+https://t.co/uZ9Exwk4Od
+---
+```
+
+#### 💡 使い方のコツ
+
+即梦 Seedance 2.0 的提示词，我踩了一整个春节的坑。
+
+❌写"电影感"没用，写"UnrealEngine5渲染+工业光魔级VFX"才有用。
+❌写"光线好"没用，光源→光行为→色调三层分开写才有用。
+❌写"氛围统一"没用，"每帧都有薄雾弥散效果"这种大气连贯声明才有用。
+
+全部整理成了一个开源 https://t.co/8iUF8r8kLp
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027203525613416448/img/_y_PUaOzyyW1htnE.jpg)](https://video.twimg.com/amplify_video/2027203525613416448/vid/avc1/1604x1080/aFumGsPfRxxmKsvL.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027203525613416448/vid/avc1/1604x1080/aFumGsPfRxxmKsvL.mp4)**
+
+**作者:** [MapleShaw](https://x.com/msjiaozhu) | **ソース:** [Link](https://x.com/msjiaozhu/status/2027203653493457272) | **公開日:** 2026年2月27日
+
+---
+
+### NemoVideoのインスピレーションセンターを利用して、パフォーマンスの高いビデオを研究し、その構造的ロジックを抽出し
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> NemoVideoのインスピレーションセンターを利用して、パフォーマンスの高いビデオを研究し、その構造的ロジックを抽出し、それらのフレームワークをSeedance 2.0編集のテンプレートとして再利用しましょう。 バイラルなリファレンスをコンポーネント（フック、ペーシング、キャプション、ビジュアルガイダンス）に分解し、その構造からSeedance 2.0編集を構築することで、ゼロから始める必要..
+
+#### 📝 プロンプト
+
+```
+NemoVideoのインスピレーションセンターを利用して、パフォーマンスの高いビデオを研究し、その構造的ロジックを抽出し、それらのフレームワークをSeedance 2.0編集のテンプレートとして再利用しましょう。  
+バイラルなリファレンスをコンポーネント（フック、ペーシング、キャプション、ビジュアルガイダンス）に分解し、その構造からSeedance 2.0編集を構築することで、ゼロから始める必要がなくなります。  
+会話型コマンド（例：Punch up the intro; Make it tighter; Stronger subtitles）を通じて編集し、NemoVideoがタイムラインを手動で調整することなくカットを即座に再生成します。  
+乱雑な映像がある場合は、すべてのクリップをアップロードし、NemoVideoに際立った瞬間を特定させ、フローを再構築し、音声を自動同期し、モーションキャプションを適用し、Seedance 2.0を通じて配信する前に仕上げを加えます。
+
+--- THREAD CONTINUATION ---
+[Thread 1] Introducing @nemovideoai
+
+クリエイターのために作られた初のプログレードAIビデオ編集エージェント。
+
+タイムラインと格闘する必要はありません。
+あなたが指示を出し、
+それが構築します。
+
+ここから始めましょう → https://t.co/kztkbt0iMN
+
+公式Seedance 2.0パートナー。https://t.co/G2hC0fVaMi
+
+[Thread 2] ここが本当の変化です：
+
+「インスピレーションを見つける」ために無限にスクロールする代わりに、
+
+NemoVideoはすでにパフォーマンスを発揮したものを研究します。
+
+そのインスピレーションセンター：
+
+→ パフォーマンスの高いフォーマットを浮き彫りにする
+→ その構造的ロジックを抽出する
+→ 再利用可能なシステムに変換する
+
+トレンドを追いかけるのをやめます。
+
+フレームワークを適用し始めます。
+
+[Thread 3] そしてさらに進みます。
+
+バイラルビデオをコンポーネントにデコードします：
+
+→ フックがどのように注意を引くか
+→ ペーシングがどのように保持を維持するか
+→ キャプションがどのように感情を強化するか
+→ ビジュアルがどのように目を導くか
+
+コンテンツに反応するのではなく、
+
+構造から構築します。https://t.co/afOuJgEn1T
+
+[Thread 4] そして編集は？
+
+それは会話です。
+
+あなたが入力します：
+
+“Punch up the intro.”
+“Make it tighter.”
+“Stronger subtitles.”
+
+Nemoが全体のカットを即座に更新します。
+
+クリップをドラッグする必要はありません。
+微調整も不要です。
+燃え尽きることもありません。https://t.co/CKq6GC5YE4
+
+[Thread 5] 混沌とした映像でも機能します。
+
+ランダムなクリップを投入します。
+
+Nemo：
+
+→ 際立った瞬間を特定する
+→ フローを再構築する
+→ 音声を自動で同期する
+→ クリーンなモーションキャプションを適用する
+→ プロフェッショナルな仕上げを加える
+
+散らばったファイルから意図的なストーリーテリングへ。https://t.co/j9H5zbD0XX
+
+[Thread 6] もしあなたの目標が、$3,000のエディターを雇わずにスケールすることなら：
+
+ここから始めましょう → https://t.co/ToneIgl9z5
+
+→ 無料プランあり
+→ 月額$4.19から
+→ Discordを通じたアフィリエイトコラボ
+
+Seedance 2.0の配信モメンタムと組み合わせました。
+
+構造がリーチに出会います。
+
+バイラルは魔法ではありません。
+
+それは設計されています。
+
+#NemoVideo #Seedance2 #AIWorkflow
+
+[Thread 7] これで終了です！
+
+このスレッドを楽しんでいただけたら：
+
+1. @JaynitMakwanaをフォローして、これらの情報をもっと受け取ってください
+
+2. 下のツイートをRTして、このスレッドをあなたのオーディエンスと共有してください
+---
+```
+
+#### 💡 使い方のコツ
+
+🚨BREAKING: The $5,000 video editor is now obsolete
+
+NemoVideo + Seedance 2.0 quietly unleashed the structured editing engine of 2026.
+
+Study winning formats, extract their DNA, then edit by simple conversation in minutes.
+
+Here’s the breakdown: 🧵 https://t.co/QV3qvn6LoT
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027296865126133761/img/wjN1Dot0jc7iOCA-.jpg)](https://video.twimg.com/amplify_video/2027296865126133761/vid/avc1/1280x720/4jJplsm67JQBebKd.mp4?tag=14)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027296865126133761/vid/avc1/1280x720/4jJplsm67JQBebKd.mp4?tag=14)**
+
+**作者:** [Jaynit Makwana](https://x.com/JaynitMakwana) | **ソース:** [Link](https://x.com/JaynitMakwana/status/2027296939063263399) | **公開日:** 2026年2月27日
+
+---
+
 ### Seedance 2.0に無料でアクセスするには、サイトにアクセスし、登録して、モデルメニューから「Vídeo AI →
 
 ![Español](https://img.shields.io/badge/lang-Español-yellow)
@@ -5547,130 +5719,7 @@ Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme
 
 ---
 
-### AIにSeedance 2.0をエージェントモードで使用するように指示してください
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AIにSeedance 2.0をエージェントモードで使用するように指示してください --- THREAD CONTINUATION --- [スレッド 1] こちらがその方法です！または、単にAIにSeedance 2.0をエージェントモードで使用するように指示することもできます。https://t.co/UJu9w3BqG3 ---
-
-#### 📝 プロンプト
-
-```
-AIにSeedance 2.0をエージェントモードで使用するように指示してください
-
---- THREAD CONTINUATION ---
-[スレッド 1] こちらがその方法です！または、単にAIにSeedance 2.0をエージェントモードで使用するように指示することもできます。https://t.co/UJu9w3BqG3
----
-```
-
-#### 💡 使い方のコツ
-
-You can now access Seedance 2.0 (worldwide) on Chraft AI and CloneViral AI.
-
-See how insane video creation can get.
-
-No more searching.
-No more waiting.
-Seedance 2.0 is OPEN.
-
-#seedance2 https://t.co/Fhdih4kDWa
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026606780042932224/img/4zjqw-iuCss8b0rq.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026611657397645609)**
-
-**作者:** [Chraft](https://x.com/chraft_ai) | **ソース:** [Link](https://x.com/chraft_ai/status/2026611657397645609) | **公開日:** 2026年2月25日
-
----
-
-### 複数のビデオクリップをプロンプトとしてアップロード（例：旅行ビデオブログのロケーション撮影）し、NemoVideo/Se
-
-![Español](https://img.shields.io/badge/lang-Español-yellow)
-
-> 複数のビデオクリップをプロンプトとしてアップロード（例：旅行ビデオブログのロケーション撮影）し、NemoVideo/Seedance 2.0があなたの映像から編集を構築し再構成します。 タイムライン編集の代わりにチャットで編集指示を使用：アニメーション字幕を追加するように指示します。 チャットで編集指示を使用して、重要な瞬間にBロールを挿入します。 チャットで編集指示を使用して、オーデ...
-
-#### 📝 プロンプト
-
-```
-複数のビデオクリップをプロンプトとしてアップロード（例：旅行ビデオブログのロケーション撮影）し、NemoVideo/Seedance 2.0があなたの映像から編集を構築し再構成します。  
-タイムライン編集の代わりにチャットで編集指示を使用：アニメーション字幕を追加するように指示します。  
-チャットで編集指示を使用して、重要な瞬間にBロールを挿入します。  
-チャットで編集指示を使用して、オーディオをリズム/ビートに合わせます。
-
---- スレッドの続き ---
-[スレッド1] @nemovideoaiを紹介します
-
-単なるクリップ生成ツールではなく、なぜビデオが効果的かを理解するAI編集エージェントです。
-
-バイラルヒットをフレームごとに分解し、
-構造を持って再構築します。
-
-ランダム性から繰り返し可能なシステムへ。
-
-使用例 : ロケーションでの旅行ビデオブログ
-プロンプト : upload multiple video clips
-
-[スレッド2] 大きなアップデート :
-
-NemoVideoはSeedance 2.0の公式パートナーになりました。
-
-Seedanceは、AIで作成された高強度のシネマティックビジュアルでXでトレンドになっています。
-その力がNemoのワークフローに組み込まれました。
-
-1️⃣ Hunt — バイラルなインスピレーションを瞬時に発見
-2️⃣ Analyze — トップクリエイターが何をしているかを解読
-3️⃣ Recreate — アイデアから最終カットまでを一つの流れで
-
-その後、すべてをチャットで直接洗練します。
-
-[スレッド3] Chat-to-Editがワークフローを変えます。
-
-タイムラインをクリックする代わりに、指示を出します。
-
--アニメーション字幕を追加。
--重要な瞬間にBロールを挿入。
--音をリズムに合わせる。
-
-すべて会話を通じて行います。
-
-短編フォーマットプラットフォームのスピードと、AI駆動の統一された実行を一つのシステムに組み合わせます。
-
-[スレッド4] 短編フォーマットでの成長を本気で考えていますか？
-
-自分で試してみてください。
-
-ここから始めましょう :
-https://t.co/1MbvriKTdV
-
--Seedance 2.0との公式統合。
--トレンドレベルのビジュアル。
--システム化された作成。
-
-#AIEditing #VideoMarketing #NemoVideo #Seedance
----
-```
-
-#### 💡 使い方のコツ
-
-NemoVideo se asoció con Seedance 2.0.
-
-Después de probarlo, me di cuenta de algo :
-
-Lo que parece espontáneo en realidad está estructurado.
-
-Hay una fórmula clara detrás de los videos cortos virales.
-
-Descifrémla 👇 https://t.co/S3MIauVUzp
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026733216241971200/img/vrdkYqRxytmlAu38.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026734681308147865)**
-
-**作者:** [Alejandro Martinez | IA](https://x.com/copyelpadrino) | **ソース:** [Link](https://x.com/copyelpadrino/status/2026734681308147865) | **公開日:** 2026年2月25日
-
----
-
-*... その他 102 件のヒント。 [ギャラリーですべて表示](https://youware.com/ja/seedance-2-prompts)*
+*... その他 104 件のヒント。 [ギャラリーですべて表示](https://youware.com/ja/seedance-2-prompts)*
 
 ---
 
@@ -5694,4 +5743,4 @@ Descifrémla 👇 https://t.co/S3MIauVUzp
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://youware.com/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-02-27T12:54:41.390Z
+🤖 この README は自動生成されています。最終更新： 2026-02-27T13:37:57.317Z
