@@ -61,7 +61,7 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 | 📝 Total de Prompts | **161** |
 | ⭐ Destacados | **0** |
 | 💡 Consejos & Tutoriales | **134** |
-| 🔄 Última Actualización | **2026-02-27** |
+| 🔄 Última Actualización | **2026-02-28** |
 
 ---
 
@@ -5772,4 +5772,4 @@ Gracias a todos los creadores que compartieron sus prompts con la comunidad.
 
 **🌐 [🎬 Ver en la Galería Web](https://youware.com/es/seedance-2-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
 
-🤖 Este README se genera automáticamente. Última actualización: 2026-02-27T20:52:44.954Z
+🤖 Este README se genera automáticamente. Última actualización: 2026-02-28T01:44:13.478Z

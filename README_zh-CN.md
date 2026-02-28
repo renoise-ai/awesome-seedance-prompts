@@ -61,7 +61,7 @@
 | 📝 提示词总数 | **161** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **134** |
-| 🔄 最后更新 | **2026-02-27** |
+| 🔄 最后更新 | **2026-02-28** |
 
 ---
 
@@ -5680,4 +5680,4 @@ Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-02-27T20:52:44.902Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-02-28T01:44:13.431Z
