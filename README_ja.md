@@ -58,9 +58,9 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **161** |
+| 📝 プロンプト総数 | **168** |
 | ⭐ 注目 | **0** |
-| 💡 ヒント & チュートリアル | **134** |
+| 💡 ヒント & チュートリアル | **143** |
 | 🔄 最終更新 | **2026-02-28** |
 
 ---
@@ -68,6 +68,298 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 ## 🎬 全プロンプト
 
 > 📝 公開日順（新しい順）
+
+### 18歳の少女が白い校服を着ており、軽微な粒子感＋冷白の柔らかいフォーカス、過度なスキン加工はなし。スナップショット風の自
+
+> 18歳の少女が白い校服を着ており、軽微な粒子感＋冷白の柔らかいフォーカス、過度なスキン加工はなし。スナップショット風の自然な撮影スタイルで、偶然の瞬間を捉えたような低画質の上半身クローズアップ。画質の粒子感が顕著で、高校生の日常Vlog。カメラの視点は男性主人公のセカンドパーソン視点で、全編BGMなし、字幕なし、環境音のみ。時間は夕方、場所は夜市で、周囲には学校帰りの学生や屋台がたくさんある。 .
+
+#### 📝 プロンプト
+
+```
+18歳の少女が白い校服を着ており、軽微な粒子感＋冷白の柔らかいフォーカス、過度なスキン加工はなし。スナップショット風の自然な撮影スタイルで、偶然の瞬間を捉えたような低画質の上半身クローズアップ。画質の粒子感が顕著で、高校生の日常Vlog。カメラの視点は男性主人公のセカンドパーソン視点で、全編BGMなし、字幕なし、環境音のみ。時間は夕方、場所は夜市で、周囲には学校帰りの学生や屋台がたくさんある。
+
+脚本：
+0-2秒：カメラの視点はセカンドパーソン視点。少女の顔立ちは清純で可愛らしく、高いポニーテールにリボンを結び、校服の襟を少し引き締め、ネクタイを急いで締めている。白いシャツと茶色のスカートを着て、リュックを背負いながら男性主人公と手をつないで夜市を歩いている。（台詞 + 音：夜市の雑音、足音）
+2-6秒：カメラの視点はセカンドパーソン視点。少女が揚げ臭豆腐の屋台を指さして興奮して言う：「高遠、これ食べたい！」
+カメラの視点が屋台に向かって進む。（台詞 + 音：少女（楽しそうに）：「高遠、これ食べたい！」揚げ物の音、人々の喧騒）
+6-15秒：カメラの視点はセカンドパーソン視点。男性主人公が竹串で臭豆腐を刺して少女に渡し、「熱いから気をつけて！」と言う。少女は待ちきれずに臭豆腐を口に入れ、口元に油がつく。少女は口を開けて苦しそうな顔をしながら不明瞭に叫ぶ：「熱い！熱い！熱い！」男性主人公は「早く、吹いてあげるよ。」と言う。少女は口を開けてカメラに近づき、口の中にはまだ臭豆腐がある。（吹く音）吹き終わった後、少女は噛みながら不明瞭に頷いて「本当に美味しい！」と言う。
+
+--- THREAD CONTINUATION ---
+[Thread 1] 提示詞：
+
+18歳の少女が白い校服を着ており、軽微な粒子感＋冷白の柔らかいフォーカス、過度なスキン加工はなし。スナップショット風の自然な撮影スタイルで、偶然の瞬間を捉えたような低画質の上半身クローズアップ。画質の粒子感が顕著で、高校生の日常Vlog。カメラの視点は男性主人公のセカンドパーソン視点で、全編BGMなし、字幕なし、環境音のみ。時間は夕方、場所は夜市で、周囲には学校帰りの学生や屋台がたくさんある。
+
+脚本：
+0-2秒：カメラの視点はセカンドパーソン視点。少女の顔立ちは清純で可愛らしく、高いポニーテールにリボンを結び、校服の襟を少し引き締め、ネクタイを急いで締めている。白いシャツと茶色のスカートを着て、リュックを背負いながら男性主人公と手をつないで夜市を歩いている。（台詞 + 音：夜市の雑音、足音）
+2-6秒：カメラの視点はセカンドパーソン視点。少女が揚げ臭豆腐の屋台を指さして興奮して言う：「高遠、これ食べたい！」
+カメラの視点が屋台に向かって進む。（台詞 + 音：少女（楽しそうに）：「高遠、これ食べたい！」揚げ物の音、人々の喧騒）
+6-15秒：カメラの視点はセカンドパーソン視点。男性主人公が竹串で臭豆腐を刺して少女に渡し、「熱いから気をつけて！」と言う。少女は待ちきれずに臭豆腐を口に入れ、口元に油がつく。少女は口を開けて苦しそうな顔をしながら不明瞭に叫ぶ：「熱い！熱い！熱い！」男性主人公は「早く、吹いてあげるよ。」と言う。少女は口を開けてカメラに近づき、口の中にはまだ臭豆腐がある。（吹く音）吹き終わった後、少女は噛みながら不明瞭に頷いて「本当に美味しい！」と言う。
+---
+```
+
+#### 💡 使い方のコツ
+
+《让你吹吹，咋都吃了捏》😂 Seedance女友系列。
+点评：越来越分不清是真是假了！
+
+提示词：评论区⬇️ https://t.co/N10rdgmDZC
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027350378325684224/img/sLN93LsoZaMmJK3g.jpg)](https://video.twimg.com/amplify_video/2027350378325684224/vid/avc1/720x1220/SanryABlV-uhMjwq.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027350378325684224/vid/avc1/720x1220/SanryABlV-uhMjwq.mp4)**
+
+**作者:** [硅予](https://x.com/Leslieyu0) | **ソース:** [Link](https://x.com/Leslieyu0/status/2027350447154237536) | **公開日:** 2026年2月27日
+
+---
+
+### 2人の美しいブロンド女性が登場するコカ・コーラの広告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2人の美しいブロンド女性が登場するコカ・コーラの広告
+
+#### 📝 プロンプト
+
+```
+2人の美しいブロンド女性が登場するコカ・コーラの広告
+```
+
+#### 💡 使い方のコツ
+
+Ad agencies are cooked.
+
+Seedance 2 prompt "A Coca Cola ad with 2 beautiful blonde women" https://t.co/KV61cdjRpO
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027182574469029889/img/4jVIsTunyj-m4T2X.jpg)](https://video.twimg.com/amplify_video/2027182574469029889/vid/avc1/1280x720/83jLI0kaXYohNpOs.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027182574469029889/vid/avc1/1280x720/83jLI0kaXYohNpOs.mp4)**
+
+**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **ソース:** [Link](https://x.com/markgadala/status/2027212591391469617) | **公開日:** 2026年2月27日
+
+---
+
+### 黒曜石でできた暗い地下の鍛冶場の洞窟。溶けた金属の川が石の床の溝を流れ、ギザギザの壁にオレンジ色の光を投げかける。天井か
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黒曜石でできた暗い地下の鍛冶場の洞窟。溶けた金属の川が石の床の溝を流れ、ギザギザの壁にオレンジ色の光を投げかける。天井から産業用チェーンが吊るされている。地面の亀裂から蒸気がシューシューと音を立てる。熱のかすみと金属の火の粉が空中を漂う。 35mmアナモルフィックレンズ、深いコントラスト、シネマティックな粒子。溶けたオレンジとガンメタルグレーのパレット。ボリュメトリックな蒸気と火の粉の粒子。溶け.
+
+#### 📝 プロンプト
+
+```
+黒曜石でできた暗い地下の鍛冶場の洞窟。溶けた金属の川が石の床の溝を流れ、ギザギザの壁にオレンジ色の光を投げかける。天井から産業用チェーンが吊るされている。地面の亀裂から蒸気がシューシューと音を立てる。熱のかすみと金属の火の粉が空中を漂う。
+
+35mmアナモルフィックレンズ、深いコントラスト、シネマティックな粒子。溶けたオレンジとガンメタルグレーのパレット。ボリュメトリックな蒸気と火の粉の粒子。溶けた溝からの劇的なアンダーライト。金属にリムライティング。エネルギーの爆発時にレンズフレア。
+
+中央の高い鉄のプラットフォームの上に、人がしゃがんだサイズの大きな機械の卵。六角形のチタンプレートが組み合わさり、接合部がかすかな琥珀色のエネルギーの脈動を示す。休止状態で重く、古代的でありながら工学的に設計されている。
+
+溶けた金属の流れの低い轟音。遠くから聞こえるリズミカルな金属音は、ゆっくりとした心臓の鼓動のよう。卵はサブソニックなハム音を発し、それが強まる。プレートの分離が油圧の音と蒸気の噴出を引き起こす。展開は機械的な研削音とサーボのうなりを生む。最終的な轟音は金属的な咆哮とタービンのスピンアップが混ざり合う。
+
+0:00-0:03: ワイドショット、低いアングル、プラットフォーム上の卵。後ろで溶けた川が輝く。カメラが前進する。卵の表面を琥珀色の脈動が加速する。サブソニックなハム音が高まる。基部周辺の蒸気ベントが強まる。
+
+0:03-0:06: 卵のクローズアップ。六角形のプレートが振動し、脈が明るく輝く。上部のプレートが油圧のスナップでロックを解除し、過熱された蒸気を放出する。さらに多くのプレートが順番に開き、装甲の花びらのように回転する。カメラが引いて、卵が亀裂線に沿って分裂し、内部の輝くメカニズム、ピストン、折りたたまれた金属の手足を露わにする。
+
+0:06-0:10: 上昇する軌道追跡ショット。手足が工学的な順序で展開する。2つの巨大な関節付きの翼が伸び、各セグメントが加圧されたスナップでロックし、チタンの翼骨の間に暗い合金メッシュが伸びる。分節された尾がほどけ、衝撃で火花が飛び散る。爪のある油圧の足がプラットフォームをしっかりと掴む。胴体が上に組み立てられ、胸部プレートが組み合わさり、タービンコアが深い輝きで回転を始める。カメラはスローモーションからリアルタイムに移行する。
+
+0:10-0:13: 下からのクローズアップ。装甲された頭蓋骨のプレートが前にスライドし、センサーアレイを囲むようにロックされる。角ばった顎が閉じる。2つの狭い光学スリットが鋭い琥珀色の光で点灯する。輝きが溶けた川に反射する。ドラゴンは頭を持ち上げ、洞窟をスキャンする。首の関節から蒸気が噴出する。
+
+0:13-0:15: ワイドショット、非常に低いアングル。完全に組み立てられた機械のドラゴンが全高でそびえ立ち、翼を広げる。タービンの胸部が琥珀色に脈動する。顎を開き、洞窟全体に響き渡る共鳴する金属の咆哮を放ち、チェーンを揺らし、火の粉を散らす。下から溶けた光がシルエットを描く。フェードアウト。
+
+シングル連続ショット、ハードカットなし。溶けたオレンジとガンメタルの一貫したライティング。リアルな重みを持つスムーズな機械的動き。頭部は最後に組み立てられる。完全に機械的な構造。テキストオーバーレイなし。
+
+--- THREAD CONTINUATION ---
+[Thread 1] @MartiniArt_でSeedance 2.0にアクセスできます。
+
+Prompt: 
+A dark underground forge-cavern of black obsidian. Rivers of molten metal flow through channels in the stone floor, casting orange-red light on jagged walls. Industrial chains hang from the ceiling. Steam hisses from ground cracks. Heat haze and metallic embers drift through the air.
+
+35mm anamorphic lens, deep contrast, cinematic grain. Molten orange and gunmetal gray palette. Volumetric steam and ember particles. Dramatic underlight from molten channels. Rim lighting on metal. Lens flares during energy bursts.
+
+On a raised iron platform at the center, a large mechanical egg the size of a crouching human. Interlocking hexagonal titanium plates, seams pulsing with faint amber energy veins. Dormant, heavy, ancient yet engineered.
+
+Low rumble of flowing molten metal. Distant rhythmic clanging like a slow heartbeat. The egg emits a subsonic hum that intensifies. Plate separations trigger hydraulic hisses and steam bursts. Unfolding produces mechanical grinding and servo whirring. Final roar is a metallic bellow mixed with turbine spin-up.
+
+0:00-0:03: Wide shot, low angle, egg on platform. Molten rivers glow behind. Camera dollies forward. Amber vein pulses accelerate across the egg surface. Subsonic hum rises. Steam vents intensify around the base.
+
+0:03-0:06: Close-up on egg. Hexagonal plates vibrate, veins flare bright. A top plate unlocks with a hydraulic snap, releasing superheated steam. More plates crack open in sequence, rotating outward like armored petals. Camera pulls back as the egg splits along fracture lines, revealing glowing mechanisms, pistons, and folded metallic limbs inside.
+
+0:06-0:10: Ascending orbit tracking shot. Limbs unfold in engineered sequence. Two massive articulated wings extend, each segment locking with a pressurized snap, dark alloy mesh stretching between titanium wing bones. Segmented tail uncurls, sparks cascade on impact. Clawed hydraulic feet grip the platform. Torso assembles upward, chest plates interlock, turbine core spins to life with a deep glow. Camera ramps slow-motion to real-time.
+
+0:10-0:13: Close-up from below. Armored skull plates slide forward, lock around a sensor array. Angular jaw hinges shut. Two narrow optical slits ignite with piercing amber light. Glow reflects off molten rivers. The dragon lifts its head, scanning the cavern. Steam vents from neck joints.
+
+0:13-0:15: Wide shot, extremely low angle. Fully assembled mechanical dragon at full towering height, wings spread wide. Turbine chest pulses amber. It opens its jaw, releases a resonant metallic bellow reverberating through the cavern, shaking chains and scattering embers. Molten light silhouettes from below. Fade to black.
+
+Single continuous shot, no hard cuts. Consistent molten-orange and gunmetal lighting. Smooth mechanical motion with realistic weight. Head assembles last. Entirely mechanical construct. No text overlays.
+---
+```
+
+#### 💡 使い方のコツ
+
+Mech Dragon Activation Sequence.
+
+Seedance 2.0 on MartiniArt_ - Prompt below 👇 https://t.co/fKcL1BoEbX
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027374749253328896/img/r4eMw0pkx0-j_Vnv.jpg)](https://video.twimg.com/amplify_video/2027374749253328896/vid/avc1/1280x720/gK0cpGg9lAimzGPV.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027374749253328896/vid/avc1/1280x720/gK0cpGg9lAimzGPV.mp4)**
+
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2027375519855968432) | **公開日:** 2026年2月27日
+
+---
+
+### KIRI Engine、モバイル3Dスキャンアプリの未来的なプロモーションビデオ。
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> KIRI Engine、モバイル3Dスキャンアプリの未来的なプロモーションビデオ。 スマートフォンを使って現実世界のオブジェクトをスキャンする人。 スキャンが完了すると、数千の輝く粒子が現れ、オブジェクトを詳細な3D Gaussian Splattingモデルに再構築する。 モデルは空間に浮かび、柔らかく輝いている。 それは異なるクリエイティブなワークフローに移行する： • ゲームの世界 •...
+
+#### 📝 プロンプト
+
+```
+KIRI Engine、モバイル3Dスキャンアプリの未来的なプロモーションビデオ。
+スマートフォンを使って現実世界のオブジェクトをスキャンする人。
+
+スキャンが完了すると、数千の輝く粒子が現れ、オブジェクトを詳細な3D Gaussian Splattingモデルに再構築する。
+
+モデルは空間に浮かび、柔らかく輝いている。
+
+それは異なるクリエイティブなワークフローに移行する：
+• ゲームの世界
+• 3Dソフトウェアのインターフェース
+• バーチャル展示
+
+最後のショット：KIRI Engineのロゴが現れる。
+画面のテキスト：「現実をデジタルに変える」
+
+cinematic, futuristic, high-tech, volumetric lighting, realistic
+---
+```
+
+#### 💡 使い方のコツ
+
+We used Seedance 2.0 to generate a KIRI Engine promo video🤯
+
+Here’s the exact prompt I used 👇
+
+A futuristic promotional video for KIRI Engine, a mobile 3D scanning app.
+A person scans a real-world object using their smartphone.
+
+As they finish, thousands of glowing particles emerge and reconstruct the object into a detailed 3D Gaussian Splatting model.
+
+The model floats in space, glowing softly.
+
+It transitions into different creative workflows:
+• a game world 🎮
+• a 3D software interface 🧊
+• a virtual exhibition 📷
+
+Final shot: KIRI Engine logo appears.
+Text on screen: “Turn reality into digital”
+
+cinematic, futuristic, high-tech, volumetric lighting, realistic
+
+Honestly… prompt-driven filmmaking is getting scary good✨
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027306006519386112/img/Fw-okgVb1wyHxRKB.jpg)](https://video.twimg.com/amplify_video/2027306006519386112/vid/avc1/1440x1920/RuQ3hApMjhoINXIB.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027306006519386112/vid/avc1/1440x1920/RuQ3hApMjhoINXIB.mp4)**
+
+**作者:** [KIRI Engine - 3D Scanner App](https://x.com/KIRI_Engine_App) | **ソース:** [Link](https://x.com/KIRI_Engine_App/status/2027306708482302436) | **公開日:** 2026年2月27日
+
+---
+
+### 銀髪の高齢女性がゆったりとしたリネンドレスを着て、夜明けの霧が立ち込める森の湖の縁に立ち、風化した手で紙のランタンを静か
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 銀髪の高齢女性がゆったりとしたリネンドレスを着て、夜明けの霧が立ち込める森の湖の縁に立ち、風化した手で紙のランタンを静かな水面に放つ。カメラは中距離からクローズアップまでゆっくりとレンズを押し、彼女の穏やかでありながら悲しげな表情を捉える。早朝の太陽からの柔らかなサイドライトが霧を通してフィルターをかけ、彼女のシルエットに暖かい輝きとリムライトを投げかける。シーンは中央構図で構成され、望遠レンズを
+
+#### 📝 プロンプト
+
+```
+銀髪の高齢女性がゆったりとしたリネンドレスを着て、夜明けの霧が立ち込める森の湖の縁に立ち、風化した手で紙のランタンを静かな水面に放つ。カメラは中距離からクローズアップまでゆっくりとレンズを押し、彼女の穏やかでありながら悲しげな表情を捉える。早朝の太陽からの柔らかなサイドライトが霧を通してフィルターをかけ、彼女のシルエットに暖かい輝きとリムライトを投げかける。シーンは中央構図で構成され、望遠レンズを使用して霧の森の奥行きを圧縮する。詩的で哀愁を帯びたトーンと自然主義的なビジュアルスタイルでスタイライズされている。
+```
+
+#### 💡 使い方のコツ
+
+🎨 SEEDANCE 1.5 🎨
+
+Prompt  :
+
+A silver-haired elderly woman in a loose linen dress stands at the edge of a misty forest lake at dawn, her weathered hands releasing a paper lantern onto the still water; the camera uses a slow lens push from medium close-up to close-up, capturing her peaceful yet mournful expression; soft side light from the early morning sun filters through the fog, casting a warm glow and rim light around her silhouette; the scene is composed with central framing and uses a telephoto lens to compress the depth of the misty forest; stylized with a poetic, melancholic tone and naturalistic visual style
+
+Made in @dreamina_ai
+
+#DreaminaCPP
+
+[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2027315268012101632/pu/img/gz4yRt3kXpHMZeCH.jpg)](https://video.twimg.com/ext_tw_video/2027315268012101632/pu/vid/avc1/1280x720/wXLiooXblgqWmMDJ.mp4?tag=12)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/ext_tw_video/2027315268012101632/pu/vid/avc1/1280x720/wXLiooXblgqWmMDJ.mp4?tag=12)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2027315285477241014) | **公開日:** 2026年2月27日
+
+---
+
+### 戦場で矢や爆発、弾丸をすべてかわしながらメッセージを送る兵士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 戦場で矢や爆発、弾丸をすべてかわしながらメッセージを送る兵士
+
+#### 📝 プロンプト
+
+```
+戦場で矢や爆発、弾丸をすべてかわしながらメッセージを送る兵士
+```
+
+#### 💡 使い方のコツ
+
+Seedance 2.0 vs Kling 3.0 With the prompt : A soldier in a battlefield texting and dodging all arrows, explosions and bullets Seedance 2 is a major step forward for AI movies, let’s see how Hollywood reacts. https://t.co/dGVFAv6jdl
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027209812518285312/img/u7dScwAodnZHVwbo.jpg)](https://video.twimg.com/amplify_video/2027209812518285312/vid/avc1/720x1280/U1s81Sf-9UKiWB2E.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027209812518285312/vid/avc1/720x1280/U1s81Sf-9UKiWB2E.mp4)**
+
+**作者:** [Chroma Flow ®](https://x.com/ChromaFlowx) | **ソース:** [Link](https://x.com/ChromaFlowx/status/2027217774162891134) | **公開日:** 2026年2月27日
+
+---
+
+### 音声: BGMなし、効果音とボイスのみ
+タイムライン:
+- 【一閃】純黒背景に対角から2本の紫白アーク光が出現（白芯＋紫...
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance2.0 by SJinn 同じpromptです 秒数も違えば作った日付も違うので比較にはならないんですが 特に剣閃がまっすぐ飛んでいく引用元の0:04あたりの物はSJinn版では見た事がないです https://t.co/L4nLn673r7
+
+#### 📝 プロンプト
+
+```
+音声: BGMなし、効果音とボイスのみ
+タイムライン:
+- 【一閃】純黒背景に対角から2本の紫白アーク光が出現（白芯＋紫グロー外縁の極太ストローク）
+- 【剣閃拡散】アーク光が巻貝状（ナウティラス螺旋）に巻き込む。太い紫白の曲線が螺旋中心に向かって収束
+- 【交錯】複数の楕円軌道曲線が螺旋の周囲を異なる角度で交差。原子の電子軌道のような構図
+- 【剣閃連射】各剣閃は真っ直ぐな一本線（白芯＋紫グロー）で、画面の端から端まで一瞬で走り抜ける。1本が走った直後に次の1本が別の角度で走る——間髪入れず連続で。本数がどんどん増え、画面が剣閃の残像で埋まっていく
+- 【敵崩壊】エクストラクローズアップに切り替わる。刀をゆっくりと鞘に収めていく赤髪女の顔が見える構図、その向こうに暗い人型シルエットの敵が剣閃に沿って断面ごとにずれる。刀が完全に収まった瞬間、鍔から紫白のフラッシュが一閃、人型シルエットの敵が細切れに崩壊・崩落。
+```
+
+#### 💡 使い方のコツ
+
+Seedance2.0 by SJinn
+
+同じpromptです
+秒数も違えば作った日付も違うので比較にはならないんですが
+
+特に剣閃がまっすぐ飛んでいく引用元の0:04あたりの物はSJinn版では見た事がないです https://t.co/L4nLn673r7
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027327757429186560/img/bJv_8aD9QZ8NlrSb.jpg)](https://video.twimg.com/amplify_video/2027327757429186560/vid/avc1/1280x720/fFubUsbQdLietzFn.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027327757429186560/vid/avc1/1280x720/fFubUsbQdLietzFn.mp4)**
+
+**作者:** [陰に隠れし者](https://x.com/LurkShade) | **ソース:** [Link](https://x.com/LurkShade/status/2027328440689701096) | **公開日:** 2026年2月27日
+
+---
 
 ### |鏡号|景別|時長|画面|音效|台詞/旁白|
 
@@ -4196,242 +4488,9 @@ the result: https://t.co/nUKFrbXquF
 
 ---
 
-### AIが目覚める。非常に攻撃的にする - 本当に攻撃的に。
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AIが目覚める。非常に攻撃的にする - 本当に攻撃的に。
-
-#### 📝 プロンプト
-
-```
-AIが目覚める。非常に攻撃的にする - 本当に攻撃的に。
-```
-
-#### 💡 使い方のコツ
-
-Seedance 2.0
-
-Prompt: AI goes woke. Make it really offensive - like really offensive. https://t.co/hBGiuNb19F
-
-[![動画プレビュー](https://pbs.twimg.com/media/HBjF4NQbkAAarVR.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024585477148627118)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024585477148627118)**
-
-**作者:** [Charles Curran](https://x.com/charliebcurran) | **ソース:** [Link](https://x.com/charliebcurran/status/2024585477148627118) | **公開日:** 2026年2月19日
-
----
-
-### 夜の大雨の中、駐車した車の中で、日本人のカップルが息苦しい沈黙の中に閉じ込められて座っている。男はハンドルを握りしめ、顎
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夜の大雨の中、駐車した車の中で、日本人のカップルが息苦しい沈黙の中に閉じ込められて座っている。男はハンドルを握りしめ、顎を引き締め、目は濡れているが振り向こうとはしない。隣の女性は震え、涙を流しながら、ついに怒りが長年の抑圧を破って噴出する。ネオンの街の灯りが雨に濡れたガラスに血のように色をにじませる。感情の爆発が閉じ込められた空間にある。HBO/Netflixの高級ドラマのトーン、超リアルな肌の
-
-#### 📝 プロンプト
-
-```
-夜の大雨の中、駐車した車の中で、日本人のカップルが息苦しい沈黙の中に閉じ込められて座っている。男はハンドルを握りしめ、顎を引き締め、目は濡れているが振り向こうとはしない。隣の女性は震え、涙を流しながら、ついに怒りが長年の抑圧を破って噴出する。ネオンの街の灯りが雨に濡れたガラスに血のように色をにじませる。感情の爆発が閉じ込められた空間にある。HBO/Netflixの高級ドラマのトーン、超リアルな肌の質感、震える息、涙の反射、雨の筋の歪み。カメラは濡れたガラス越しに助手席の窓の外から、両方の顔にタイトな中間クローズアップ、浅い深度、わずかな手持ちの不安定さ、抑圧的な青黒いグレード。4Kシネマティックリアリズム。15秒。 ダイアログ（日本語）： 女性（震え、声が怒りに割れる）： 「ねえ…私のこと、いつから見なくなったの？」 男（歯を食いしばり、崩れながら）： 「見てたよ…ずっと。怖くて、触れられなかっただけだ。」 女性（今や泣きながら）： 「嘘。あなたは逃げただけ。私が壊れていくのを、隣で見てただけ！」 男（声が崩れる）： 「……ごめん。守れなかった。」 女性（囁き、打ちひしがれて）： 「守ってほしかったのは…あなたじゃない。あなたの愛だった。」
-
---- THREAD CONTINUATION ---
-[Thread 1] 夜の大雨の中、駐車した車の中で、日本人のカップルが息苦しい沈黙の中に閉じ込められて座っている。男はハンドルを握りしめ、顎を引き締め、目は濡れているが振り向こうとはしない。隣の女性は震え、涙を流しながら、ついに怒りが長年の抑圧を破って噴出する。ネオンの街の灯りが雨に濡れたガラスに血のように色をにじませる。感情の爆発が閉じ込められた空間にある。HBO/Netflixの高級ドラマのトーン、超リアルな肌の質感、震える息、涙の反射、雨の筋の歪み。カメラは濡れたガラス越しに助手席の窓の外から、両方の顔にタイトな中間クローズアップ、浅い深度、わずかな手持ちの不安定さ、抑圧的な青黒いグレード。4Kシネマティックリアリズム。15秒。 ダイアログ（日本語）： 女性（震え、声が怒りに割れる）： 「ねえ…私のこと、いつから見なくなったの？」 男（歯を食いしばり、崩れながら）： 「見てたよ…ずっと。怖くて、触れられなかっただけだ。」 女性（今や泣きながら）： 「嘘。あなたは逃げただけ。私が壊れていくのを、隣で見てただけ！」 男（声が崩れる）： 「……ごめん。守れなかった。」 女性（囁き、打ちひしがれて）： 「守ってほしかったのは…あなたじゃない。あなたの愛だった。」
-
-[Thread 2] Try Seedance 2.0 right now
-https://t.co/Ikdl3zN7aE
----
-```
-
-#### 💡 使い方のコツ
-
-Seedance 2.0 is currently the strongest model for dramatic performance. 
-I tested a Japanese drama scene
-
-nano banan pro+ SeeDance 2.0 via @YouArtStudio.
-
-here is the result I2V prompt below 👇. https://t.co/zw7oX5PMgH
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024578448941813760/img/v_gN9E-BXpJqWf2b.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024579283834790248)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024579283834790248)**
-
-**作者:** [Ayyoub Ai](https://x.com/MaAyyoub) | **ソース:** [Link](https://x.com/MaAyyoub/status/2024579283834790248) | **公開日:** 2026年2月19日
-
----
-
-### 中心の人物を完全に静止させ、彫像のように凍結させます。周囲の背景や人々だけをアニメーション化し、速いペースの動きと強いモ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 中心の人物を完全に静止させ、彫像のように凍結させます。周囲の背景や人々だけをアニメーション化し、速いペースの動きと強いモーションブラーを加えて、静止した被写体の周りにダイナミックなタイムラプス効果を作り出します。カメラは完全に固定されたままでなければなりません。 --- QUOTED TWEET --- Street Photography https://t.co/sFni6xGyPX ---
-
-#### 📝 プロンプト
-
-```
-中心の人物を完全に静止させ、彫像のように凍結させます。周囲の背景や人々だけをアニメーション化し、速いペースの動きと強いモーションブラーを加えて、静止した被写体の周りにダイナミックなタイムラプス効果を作り出します。カメラは完全に固定されたままでなければなりません。
-
---- QUOTED TWEET ---
-Street Photography https://t.co/sFni6xGyPX
----
-```
-
-#### 💡 使い方のコツ
-
-Turned this Recraft V4 image into a dynamic time-lapse effect with Seedance 2.0 ⏳✨
-
-Prompt: keep the central person completely motionless and frozen like a statue. Animate only the surrounding background and people with fast-paced movement and heavy motion blur, creating a dynamic time-lapse effect around the static subject. The camera must remain perfectly fixed.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024286045660155904/img/t6RLH3dsy_-T0OG6.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024286150765269083)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024286150765269083)**
-
-**作者:** [Lena Zheng](https://x.com/linyi_zheng) | **ソース:** [Link](https://x.com/linyi_zheng/status/2024286150765269083) | **公開日:** 2026年2月19日
-
----
-
-### ポール・アレンのDXターミナルエージェントを見てみましょう。
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ポール・アレンのDXターミナルエージェントを見てみましょう。
-
-#### 📝 プロンプト
-
-```
-ポール・アレンのDXターミナルエージェントを見てみましょう。
-```
-
-#### 💡 使い方のコツ
-
-seedance 2.0 prompt:
-
-"let's see paul allen's dx terminal agent" https://t.co/1wn5o8Gsg3
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024292667455070208/img/H-P_9Kx7opnjBse3.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024292824615637400)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024292824615637400)**
-
-**作者:** [poof](https://x.com/poof_eth) | **ソース:** [Link](https://x.com/poof_eth/status/2024292824615637400) | **公開日:** 2026年2月19日
-
----
-
-### 実写のシネマティックシークエンス。静止カメラ。戦士が雨の中で跪き、頭を下げ、泥に刺さった剣を握りしめている。雨が激しく降
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 実写のシネマティックシークエンス。静止カメラ。戦士が雨の中で跪き、頭を下げ、泥に刺さった剣を握りしめている。雨が激しく降り注ぐ。雷が鳴り響く。スローズームイン。彼の肩が震えている—泣いているのか笑っているのか。彼がゆっくりと顔を上げるクローズアップにカット。雨が彼の顔を流れ落ちる。彼の目は充血している。彼は狂ったように笑い始め、笑いながら言う：「俺を悪役にしたいのか？いいだろう！」彼は突然立ち上が
-
-#### 📝 プロンプト
-
-```
-実写のシネマティックシークエンス。静止カメラ。戦士が雨の中で跪き、頭を下げ、泥に刺さった剣を握りしめている。雨が激しく降り注ぐ。雷が鳴り響く。スローズームイン。彼の肩が震えている—泣いているのか笑っているのか。彼がゆっくりと顔を上げるクローズアップにカット。雨が彼の顔を流れ落ちる。彼の目は充血している。彼は狂ったように笑い始め、笑いながら言う：「俺を悪役にしたいのか？いいだろう！」彼は突然立ち上がり、地面から剣を引き抜く。泥が飛び散る。彼を見上げるローアングルショットにカット、背後で稲妻が光り、彼の姿をシルエットにする。彼の髪は風に激しくなびく。彼は剣をカメラに向けて叫ぶ：「怪物を見せてやる！」彼の目は明るい銀色に輝く。カメラは彼の輝く目に急速にズームイン。白い閃光。ブラックアウトにカット。
-```
-
-#### 💡 使い方のコツ
-
-Seedance 2.0🎥
-Prompt: Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow zoom in. His shoulders shake—he's either crying or laughing. Cut to close-up of his face as he slowly lifts his head. Rain streams down his face. His eyes are bloodshot. He starts laughing maniacally and says through the laughter: "You want me to be the villain? FINE!" He stands up abruptly, yanking the sword from the ground. Mud flies. Cut to low-angle shot looking up at him as lightning strikes behind him, silhouetting his figure. His hair whips wildly in the wind. He points the sword at the camera and screams: "I'll give you a monster!" His eyes glow bright silver. The camera rapidly zooms into his glowing eye. White flash. Cut to black.
-
-@YouArtStudio provided creators early access to Seedance Pro 2.0 #Seedance2
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024413710375153665/img/3DrhZxN35_Nk2UFN.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024414230976270847)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024414230976270847)**
-
-**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2024414230976270847) | **公開日:** 2026年2月19日
-
----
-
-### 実写のシネマティックシークエンス。女性がガソリンを入れ終える。ポンプがカチッと止まる。静寂。彼女は周りの空っぽの砂漠を見
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 実写のシネマティックシークエンス。女性がガソリンを入れ終える。ポンプがカチッと止まる。静寂。彼女は周りの空っぽの砂漠を見渡す。地平線に車が現れる。彼女は目を細める。車は止まらずに猛スピードで通り過ぎる。砂埃が舞う。彼女はトランクに歩み寄り、それを開ける。中を映すと、現金の入ったバッグと銃がある。彼女はそれをバタンと閉めてつぶやく。「まだ十分遠くない」。彼女は車を走らせる。 ---
-
-#### 📝 プロンプト
-
-```
-実写のシネマティックシークエンス。女性がガソリンを入れ終える。ポンプがカチッと止まる。静寂。彼女は周りの空っぽの砂漠を見渡す。地平線に車が現れる。彼女は目を細める。車は止まらずに猛スピードで通り過ぎる。砂埃が舞う。彼女はトランクに歩み寄り、それを開ける。中を映すと、現金の入ったバッグと銃がある。彼女はそれをバタンと閉めてつぶやく。「まだ十分遠くない」。彼女は車を走らせる。
----
-```
-
-#### 💡 使い方のコツ
-
-Seedance Pro 2.0. 
-Prompt: Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks off. Silence. She looks around at the empty desert. A car appears on the horizon. She squints. The car speeds past without stopping. Dust cloud. She walks to her trunk and opens it. Cut to inside: bags of cash and a gun. She slams it shut and mutters: "Not far enough yet". She drives off.
-
-@YouArtStudio  provided creators early access to Seedance Pro 2.0 #Seedance2
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024409973522931712/img/y3-Okcq6Aq-SZXd5.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024411387535962433)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024411387535962433)**
-
-**作者:** [Kiber Alla](https://x.com/Kiber_Alla) | **ソース:** [Link](https://x.com/Kiber_Alla/status/2024411387535962433) | **公開日:** 2026年2月19日
-
----
-
-### ローアングルショットからハーフボディのクローズアップへ。画面上に浮かぶ動的な書道テキスト「Monkey King」。キャ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ローアングルショットからハーフボディのクローズアップへ。画面上に浮かぶ動的な書道テキスト「Monkey King」。キャラクターが反抗的な微表情でセリフをリップシンク。 --- スレッド継続 --- [スレッド1] ワークフロー: 墨絵パイプライン。🖌️ 1️⃣ ベースコンセプト: Midjourneyで生のスタイライズされた墨の美学を。 2️⃣ 一貫性: Nano Banana ProでM..
-
-#### 📝 プロンプト
-
-```
-ローアングルショットからハーフボディのクローズアップへ。画面上に浮かぶ動的な書道テキスト「Monkey King」。キャラクターが反抗的な微表情でセリフをリップシンク。
-
---- スレッド継続 ---
-[スレッド1] ワークフロー: 墨絵パイプライン。🖌️
-
-1️⃣ ベースコンセプト: Midjourneyで生のスタイライズされた墨の美学を。
-2️⃣ 一貫性: Nano Banana ProでMJの参照から悟空と二郎神の完璧な3ビューキャラクターターンアラウンドを抽出。
-
-プロのヒント: この準備段階全体を@Hailuo_AIで直接実行しました。彼らはMidjourneyとNano Banana Proの両方をネイティブにウェブUIに統合しています。キャラクターの一貫性を維持するためにタブを行き来する必要はありません。完全にシームレスなパイプラインです。🎬
-
-[スレッド2] シーンOP - 衝突。⚔️
-
-「彼らが戦う」とタイプするだけではいけません。セットアップにはカメラ、テキスト、インクの物理学に対する正確なコントロールが必要です。オープニングのための私のプロンプトスニペット:
-
-🎥 カメラとテキスト: "Low angle shot to half-body close-ups. Dynamic calligraphy text 'Monkey King' floating on screen. Characters lip-syncing dialogue with rebellious micro-expressions."
-
-☯️ インクテレポーテーション: "Erlang vanishes in an explosive black ink diffusion, reappearing instantly above for a heavy downward cleave."
-
-💥 照明とインパクト: "Weapons collide, creating a violent mist of splashing ink. Pure B&W ink wash pierced by shocking dark gold light effects."
-
-[スレッド3] シーンED - クライマックス。🌊
-
-神話的な墨の戦いをどう終わらせるか？火ではなく、顔料の津波と極端なコントラストで。フィナーレプロンプト:
-
-⚪ ネガティブスペースウェポン: "Erlang sweeps his blade, creating a sharp ring of white negative space that dissolves the ink clones into scattered dots."
-
-👁️ スケールと恐怖: "Massive staff of scorched ink and dark gold lines crashes down. Extreme close-up (ECU) on Erlang: trembling pupils, engulfed in shadow."
-
-☯️ 混沌からの威風: "Violent ink explosion swallows the frame... fading to a calm wide shot. Wukong shrinks the staff into his ear, claps his hands, and walks away into the clouds."
-
-コントラストを極め、媒体を極めよ。🎬
-
-[スレッド4] この墨絵テストが共鳴して嬉しいです！この流動的なスタイルを制御するのは、今週初めに投稿した80mphのドゥカティスライドの物理フィルターをバイパスするよりも正直に言って難しかったです。AIエンジンはこのような多くの動きの中で幻覚を起こしたがります。😅🎬
----
-```
-
-#### 💡 使い方のコツ
-
-Your timeline is flooded with Seedance 2.0 Hollywood VFX. 
-Getting visual fatigue? 
-Let's test the engine on Traditional Ink Wash animation: Wukong vs. Erlang Shen. It handles abstract fluid dynamics flawlessly. 
-👇 Click below for my workflow. 🎬 https://t.co/ObM6QGeQXk
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2024539209751810050/img/g2y4VrLYLE8mc0jT.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024542761597460892)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2024542761597460892)**
-
-**作者:** [Mr.Iancu](https://x.com/Iancu_ai) | **ソース:** [Link](https://x.com/Iancu_ai/status/2024542761597460892) | **公開日:** 2026年2月19日
-
----
-
 ## 📚 📚 さらに多くのプロンプト
 
-### 🎯 61 件のプロンプトが非表示
+### 🎯 68 件のプロンプトが非表示
 
 **👉 [YouWare でプロンプトを閲覧](https://youware.com/ja/seedance-2-prompts)**
 
@@ -4440,6 +4499,182 @@ Let's test the engine on Traditional Ink Wash animation: Wukong vs. Erlang Shen.
 ## 💡 使い方のコツ
 
 > Seedance 2.0 を最大限に活用するためのコミュニティのヒントとチュートリアル
+
+### 会話には明確な異なるカメラアングルを含めることを確認する（例：ショットの変更を指定する）ことで、単一アングルの対話エラー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 会話には明確な異なるカメラアングルを含めることを確認する（例：ショットの変更を指定する）ことで、単一アングルの対話エラーを避ける 初期のカットで問題を特定した後、次のエピソードでよりダイナミズムを追加する ショット間でのシーン/小道具の連続性を確認し、維持する（例：バーベキューのような重要なオブジェクトをフレーム間で一貫させる） --- スレッドの続き --- [スレッド1] (1/3)...
+
+#### 📝 プロンプト
+
+```
+会話には明確な異なるカメラアングルを含めることを確認する（例：ショットの変更を指定する）ことで、単一アングルの対話エラーを避ける  
+初期のカットで問題を特定した後、次のエピソードでよりダイナミズムを追加する  
+ショット間でのシーン/小道具の連続性を確認し、維持する（例：バーベキューのような重要なオブジェクトをフレーム間で一貫させる）
+
+--- スレッドの続き ---
+[スレッド1] (1/3) アイデアが浮かび、1時間でこの最初のエピソードを作成しました
+
+会話中に異なるカメラアングルを示さないというエラーがあります。
+
+そのエラーは次のエピソードで修正しました。
+
+元の投稿では、根拠のないヘイターから多くの侮辱を受けました。https://t.co/RIfDeuYp6q
+
+[スレッド2] (2/3) この第2エピソードでは、多くのエラーを修正し、ダイナミズムを追加しました。
+
+しかし、バーベキューが消えると設定が一致しないのは事実ですが、それは私を心配させるものではありません。バーベキューには車輪があります。
+
+改善が必要なナノバナナエラーであり、シナリオの対応です
+
+[スレッド3] (3/3) この第3エピソードは技術的に完璧で、AIヘイターの主張を説得力を持って反論します。
+
+彼らに対抗する良い議論を思いつくことができませんでした。彼らの推論は誤っており、簡単に論破できます。
+
+AIヘイターからのしっかりした議論を歓迎します。
+---
+```
+
+#### 💡 使い方のコツ
+
+Seedance is incredible. 🤯
+
+Cinema has changed forever.
+
+The emergence of a new culture in an independent online market will be unstoppable.
+
+I've created a miniseries where I explore the arguments of AI haters; I'll share the first three episodes in the comments: https://t.co/iXcMG6fDsj
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027380157435027456/img/lgmrNQpCZEQRrny0.jpg)](https://video.twimg.com/amplify_video/2027380157435027456/vid/avc1/1284x716/dCrnPGbCf4A3r3KB.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027380157435027456/vid/avc1/1284x716/dCrnPGbCf4A3r3KB.mp4)**
+
+**作者:** [hedoήist](https://x.com/hedo_ist) | **ソース:** [Link](https://x.com/hedo_ist/status/2027385771288621379) | **公開日:** 2026年2月27日
+
+---
+
+### 単一のキャラクター画像から戦闘シーンを生成し、その後、生成されたクリップを前方と後方に拡張し、最終的にすべての拡張クリッ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 単一のキャラクター画像から戦闘シーンを生成し、その後、生成されたクリップを前方と後方に拡張し、最終的にすべての拡張クリップを1つのビデオに結合します。 Use the prompt extend forward @ videoref to extend a video forward from a reference clip. Use the prompt extend @ videor...
+
+#### 📝 プロンプト
+
+```
+単一のキャラクター画像から戦闘シーンを生成し、その後、生成されたクリップを前方と後方に拡張し、最終的にすべての拡張クリップを1つのビデオに結合します。  
+Use the prompt extend forward @ videoref to extend a video forward from a reference clip.  
+Use the prompt extend @ videoref to extend a video (including backward extension) from a reference clip.
+
+--- THREAD CONTINUATION ---
+[Thread 1] このビデオは単一のキャラクター画像から作成しました。まず、戦闘シーンを生成しました。それから、前方と後方に拡張しました。その後、すべてのクリップを結合しました。「extend forward @ videoref」や「extend @ videoref」といったプロンプトを使用して、ビデオを拡張してみてください。
+
+Seedance 2.0 Omniを@MartiniArt_で試してみてください。
+---
+```
+
+#### 💡 使い方のコツ
+
+I tried extending a video forward with Seedance 2.0 Omni and it worked like a charm.
+
+You can check the result below. Simple process explained in the replies.
+
+Seedance 2.0 Omni on MartiniArt_ https://t.co/OwRWK0JFn4
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027489982911303680/img/n4RtnPTb05TaLr4P.jpg)](https://video.twimg.com/amplify_video/2027489982911303680/vid/avc1/1280x720/zMeuNXplYGdmIrnt.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027489982911303680/vid/avc1/1280x720/zMeuNXplYGdmIrnt.mp4)**
+
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2027490976936153220) | **公開日:** 2026年2月27日
+
+---
+
+### Seedance 2.0を使用してCapCut内でビデオを生成し、その後Runwayを使用して出力を4Kにアップスケール
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0を使用してCapCut内でビデオを生成し、その後Runwayを使用して出力を4Kにアップスケールします。
+
+#### 📝 プロンプト
+
+```
+Seedance 2.0を使用してCapCut内でビデオを生成し、その後Runwayを使用して出力を4Kにアップスケールします。
+```
+
+#### 💡 使い方のコツ
+
+Dinner Time
+
+Process:
+Seedance 2.0 in Capcut
+4k upscaled with Runway https://t.co/eR1oDVY5du
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027014251005784064/img/D7yxigWFT4PtmQ4Y.jpg)](https://video.twimg.com/amplify_video/2027014251005784064/vid/avc1/2160x2900/aRytfzXGjFY9VdFF.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027014251005784064/vid/avc1/2160x2900/aRytfzXGjFY9VdFF.mp4)**
+
+**作者:** [Ignatius AI](https://x.com/aiIgnatius) | **ソース:** [Link](https://x.com/aiIgnatius/status/2027307970846208129) | **公開日:** 2026年2月27日
+
+---
+
+### Seedance 2の設定でImprove promptオプションを有効にして、画像を停止させる誤った拒否（False 
+
+> Seedance 2の設定でImprove promptオプションを有効にして、画像を停止させる誤った拒否（False flags）の問題を軽減します。 Seedance 2の設定でChinese translationオプションを有効にして、プロンプトの誤った拒否（False flags）の問題を軽減し、画像の停止を回避します。
+
+#### 📝 プロンプト
+
+```
+Seedance 2の設定でImprove promptオプションを有効にして、画像を停止させる誤った拒否（False flags）の問題を軽減します。  
+Seedance 2の設定でChinese translationオプションを有効にして、プロンプトの誤った拒否（False flags）の問題を軽減し、画像の停止を回避します。
+```
+
+#### 💡 使い方のコツ
+
+لمستخدمي (Seedance 2) 🔥
+
+إذا كنت تعاني من مشكلة "الرفض الخاطئ" (False flags) للبرومبت حقك وتوقيف الصور، التحديث الجديد جاب لك الحل بإضافة ميزتين في الإعدادات:
+
+1️⃣ تحسين البرومبت (Improve prompt) 
+2️⃣ الترجمة الصينية (Chinese translation) 
+
+ https://t.co/9oQtD8gBv7
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027365269035737088/img/OASumVCWXPFfX9r8.jpg)](https://video.twimg.com/amplify_video/2027365269035737088/vid/avc1/1188x1080/iJKm8vbw9hdGHT-V.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027365269035737088/vid/avc1/1188x1080/iJKm8vbw9hdGHT-V.mp4)**
+
+**作者:** [ صياد تطبيقات](https://x.com/Hoxygo) | **ソース:** [Link](https://x.com/Hoxygo/status/2027462907529662779) | **公開日:** 2026年2月27日
+
+---
+
+### Seedance 2.0にAmazonの商品のリンクを渡して、その分野のバイラルなTikTokを調査し、コミュニケーショ
+
+![Español](https://img.shields.io/badge/lang-Español-yellow)
+
+> Seedance 2.0にAmazonの商品のリンクを渡して、その分野のバイラルなTikTokを調査し、コミュニケーションスタイルをコピーして、ビデオ、音楽、テキストを統合した商品のコンテンツを生成させてください。
+
+#### 📝 プロンプト
+
+```
+Seedance 2.0にAmazonの商品のリンクを渡して、その分野のバイラルなTikTokを調査し、コミュニケーションスタイルをコピーして、ビデオ、音楽、テキストを統合した商品のコンテンツを生成させてください。
+```
+
+#### 💡 使い方のコツ
+
+Le acabo de pasar un link de Amazon a esta IA, se puso a buscar tiktoks virales del rubro, copio la forma comunicacional e hizo contenido para ese producto usando Seedance 2.0 (altísima calidad).
+
+Video, música y texto.
+
+Pero consume muchos créditos IMO. https://t.co/YGmtut4Mpk
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027296952245993472/img/xGzRswOwiawrOPvO.jpg)](https://video.twimg.com/amplify_video/2027296952245993472/vid/avc1/1272x720/2ECYpjIeJ2Nhcv6B.mp4?tag=14)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027296952245993472/vid/avc1/1272x720/2ECYpjIeJ2Nhcv6B.mp4?tag=14)**
+
+**作者:** [Erick](https://x.com/ErickSky) | **ソース:** [Link](https://x.com/ErickSky/status/2027342445176840579) | **公開日:** 2026年2月27日
+
+---
 
 ### Seedance 2.0で実績のあるSora 2プロンプトを再利用し、モデルから直接ビジュアルだけでなく音楽、効果音、カ
 
@@ -4464,6 +4699,35 @@ Using my previous Sora 2 prompt, all the audio, including music, sound effects, 
 📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027187855119028224/vid/avc1/2560x1440/cU-V_iGOZB50cT3J.mp4)**
 
 **作者:** [DAN](https://x.com/mxvdxn) | **ソース:** [Link](https://x.com/mxvdxn/status/2027189035622654311) | **公開日:** 2026年2月27日
+
+---
+
+### VPNを使用せずにSeedanceにアクセスするには、https://t.co/F3WQpOjDHD を利用してください
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> VPNを使用せずにSeedanceにアクセスするには、https://t.co/F3WQpOjDHD を利用してください。
+
+#### 📝 プロンプト
+
+```
+VPNを使用せずにSeedanceにアクセスするには、https://t.co/F3WQpOjDHD を利用してください。
+```
+
+#### 💡 使い方のコツ
+
+Lol. Looks like Seedance 2.0 is trained on every Hollywood action movie. 
+.
+Would love to see @Tesla in the next Transformer movie...may be made by me only 🤣 @elonmusk 
+Video inspired by @chrisfirst 
+.
+To access Seedance without VPN try: https://t.co/F3WQpOjDHD https://t.co/EElYkSjHWP
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027396801704452097/img/eAWZ6jLhKb0mt067.jpg)](https://video.twimg.com/amplify_video/2027396801704452097/vid/avc1/1280x720/hEy8XoYLKyWI1n-E.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027396801704452097/vid/avc1/1280x720/hEy8XoYLKyWI1n-E.mp4)**
+
+**作者:** [Ankit Sharma](https://x.com/ankitsharmatv) | **ソース:** [Link](https://x.com/ankitsharmatv/status/2027398575894970811) | **公開日:** 2026年2月27日
 
 ---
 
@@ -4504,6 +4768,197 @@ https://t.co/uZ9Exwk4Od
 📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027203525613416448/vid/avc1/1604x1080/aFumGsPfRxxmKsvL.mp4)**
 
 **作者:** [MapleShaw](https://x.com/msjiaozhu) | **ソース:** [Link](https://x.com/msjiaozhu/status/2027203653493457272) | **公開日:** 2026年2月27日
+
+---
+
+### NemoVideoのインスピレーションセンターに写真の参照をアップロードして、Seedance 2.0クリップのビデオフ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> NemoVideoのインスピレーションセンターに写真の参照をアップロードして、Seedance 2.0クリップのビデオフォーマット、フック、ペーシング、スタイルを推測させましょう。 製品のURL（例：MacBookのページ）をNemoVideoに貼り付けて、広告を作成するようにプロンプトを出すと、キャプション/字幕、トランジション、サウンド、ペーシングを備えた投稿準備完了のビデオが自動的に構築..
+
+#### 📝 プロンプト
+
+```
+NemoVideoのインスピレーションセンターに写真の参照をアップロードして、Seedance 2.0クリップのビデオフォーマット、フック、ペーシング、スタイルを推測させましょう。  
+製品のURL（例：MacBookのページ）をNemoVideoに貼り付けて、広告を作成するようにプロンプトを出すと、キャプション/字幕、トランジション、サウンド、ペーシングを備えた投稿準備完了のビデオが自動的に構築されます。  
+NemoVideo + Seedance 2.0で単一のプレーンテキストプロンプトを使用して、タイムラインエディタを使用せずに字幕、ステッカー、ペーシング、サウンド、トランジションを含む完全なショートビデオを自動生成します。
+
+--- スレッドの続き ---
+[スレッド1] NemoVideoのインスピレーションセンターにランダムな写真の参照をドロップしました。
+
+それは瞬時に理解しました：
+• フォーマット
+• フック
+• ペーシング
+• スタイル
+
+まるで実際の編集者にアイデアを見せて、明確なフィードバックを得たような感じでした。 https://t.co/nTCsonp4Yw
+
+[スレッド2] 次に試したのは驚きの部分です。
+
+MacbookのURLをNemoに提供しました：
+「そして、Macbookのための素晴らしい広告を作成するように頼みました。」
+
+そしてNemoは自動的にビデオを再構築しました：
+→ キャプション
+→ トランジション
+→ サウンド
+→ ペーシング
+
+入力：テキスト
+出力：投稿準備完了のビデオ。 https://t.co/7FBIkWQAUR
+
+[スレッド3] ステップ3：シンプルなプロンプトを一つ与えます。
+Nemoは自動的に完全なビデオを再現します：
+→ 字幕
+→ ステッカー
+→ ペーシング
+→ サウンド
+→ トランジション
+
+入力：プレーンテキスト
+出力：投稿準備完了のバイラルビデオ。
+
+[スレッド4] バイラル成功はもはや魔法ではありません。
+それはワークフローです。
+
+🎬 NemoVideo + Seedance 2.0で作成（早期アクセス）
+公式。ネイティブ。無料。近日公開。🚀
+
+無料プラン利用可能 → https://t.co/1qKTmmQHim
+
+#NemoVideo #Seedance2 #AIWorkflow
+---
+```
+
+#### 💡 使い方のコツ
+
+I thought viral videos were about luck.
+Turns out… they’re a workflow.
+
+This 15s clip was made just by chatting with NemoVideo + Seedance 2.0.
+No timeline. No editing skills. 🎬 https://t.co/GLlRz6yKe4
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027433708257742849/img/m1cyjw7rRTCzDpD0.jpg)](https://video.twimg.com/amplify_video/2027433708257742849/vid/avc1/2880x1620/RbiNdF4y2-HH8QW_.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027433708257742849/vid/avc1/2880x1620/RbiNdF4y2-HH8QW_.mp4)**
+
+**作者:** [Krishna Agrawal](https://x.com/Krishnasagrawal) | **ソース:** [Link](https://x.com/Krishnasagrawal/status/2027435099353190879) | **公開日:** 2026年2月27日
+
+---
+
+### NemoVideoに映像をアップロードし、Inspiration Centerから実績のある高パフォーマンスのフォーマッ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> NemoVideoに映像をアップロードし、Inspiration Centerから実績のある高パフォーマンスのフォーマットを選択し、Talk to Edit（自然言語コマンド）を使用してペース、キャプション、構造を調整してからエクスポートします。 NemoVideoのSeedance 2.0 Pro統合を使用して、NemoVideo内でSeedance 2.0 Proモデルを選択し、プラットフォ.
+
+#### 📝 プロンプト
+
+```
+NemoVideoに映像をアップロードし、Inspiration Centerから実績のある高パフォーマンスのフォーマットを選択し、Talk to Edit（自然言語コマンド）を使用してペース、キャプション、構造を調整してからエクスポートします。
+
+NemoVideoのSeedance 2.0 Pro統合を使用して、NemoVideo内でSeedance 2.0 Proモデルを選択し、プラットフォームを切り替えることなく生成します。
+
+--- THREAD CONTINUATION ---
+[スレッド1] (2/) まず、NemoVideoは単なるAIエディターではありません。
+
+それは世界初のプロ仕様で、手間がかからず、コスト効果の高いビデオ編集エージェントです。
+
+2つの主要な差別化要因：
+
+Inspiration Center – 実績のある高パフォーマンスのビデオフォーマットにアクセスし、瞬時に適用。
+
+Talk to Edit – 自然言語コマンドを使用して、数秒でペース、キャプション、構造を調整。
+
+ワークフロー（Post 4参照）：
+→ アップロード
+→ フォーマット選択
+→ チャットで調整
+→ エクスポート。
+スピードとパフォーマンスのために構築された、AIネイティブの編集プロセス。
+
+[スレッド2] 3/ NemoVideoは現在、Seedance 2.0 Proとシームレスに統合されています。
+
+追加のステップなし。
+プラットフォームの切り替えなし。
+
+モデルを選択し、生成し、出荷。
+
+より高い出力品質。
+合理化されたワークフロー。
+プロフェッショナルグレードの結果。https://t.co/a1PrpNtJxs
+
+[スレッド3] 4/ 力？一人で数分で、複数のバイラル準備完了のビデオ。
+
+もうCapCutの混乱はありません、もう$3kの編集費用もありません。
+
+NemoVideo + Seedance 2.0 = 自動化 + コントロール。
+
+[スレッド4] 自分で試してみてください：
+
+💎 無料プラン: https://t.co/uPLlwSyOGG / X: @nemovideoai
+
+🎯 限定ローンチオファー: 月額$4.19から
+
+🤝 アフィリエイトコラボ & Discord: https://t.co/ZqaQztrcNB
+
+TL;DR: NemoVideo + Seedance 2.0 = アイデアをチャット → 完全にバイラルなビデオ。
+
+[スレッド5] これで終了
+
+このスレッドが役に立ったと思ったら：
+
+1. @details_with_aiをフォローして、同様のコンテンツをもっと見る。
+
+2. 下のツイートをリポストして、あなたのオーディエンスと共有してください。
+---
+```
+
+#### 💡 使い方のコツ
+
+How I Turned Simple Prompts Into Predictable Viral Videos With NemoVideo + Seedance 2.0
+
+1/ I used to think viral videos were about luck. 🍀
+Turns out… virality is a science, and NemoVideo just cracked the code.
+
+Here’s how I went from idea → final viral-ready video in minutes:👇
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027385870882598913/img/Q43ZRg7zuZPv-Tca.jpg)](https://video.twimg.com/amplify_video/2027385870882598913/vid/avc1/1280x720/gX2KUgR1uicZjErl.mp4?tag=14)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027385870882598913/vid/avc1/1280x720/gX2KUgR1uicZjErl.mp4?tag=14)**
+
+**作者:** [Rasel Hosen](https://x.com/details_with_ai) | **ソース:** [Link](https://x.com/details_with_ai/status/2027385961278210504) | **公開日:** 2026年2月27日
+
+---
+
+### Midjourney/即梦/Banana Proを使用してAIキャラクターやシーンを生成し、その後Seedance 2.
+
+> Midjourney/即梦/Banana Proを使用してAIキャラクターやシーンを生成し、その後Seedance 2.0で全てのビデオショットを生成します。 DeepSeekを使用して、Seedance 2.0でビデオを生成する前にストーリーボード/ショットスクリプトの作成を支援します。 --- THREAD CONTINUATION --- [Thread 1] 更新：未知の原因で、動画...
+
+#### 📝 プロンプト
+
+```
+Midjourney/即梦/Banana Proを使用してAIキャラクターやシーンを生成し、その後Seedance 2.0で全てのビデオショットを生成します。  
+DeepSeekを使用して、Seedance 2.0でビデオを生成する前にストーリーボード/ショットスクリプトの作成を支援します。
+
+--- THREAD CONTINUATION ---
+[Thread 1] 更新：未知の原因で、動画をXにアップロードすると後半部分で音声と映像が同期しなくなります。申し訳ありません。元の動画ではこの問題はありません。
+---
+```
+
+#### 💡 使い方のコツ
+
+《爱啦，武勇》 
+
+（AI：角色/场景使用 midjourney、即梦和banana pro生成。全部视频使用 seedance 2.0生成。分镜脚本使用deepseek辅助。） https://t.co/UlHzTVxYnd
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2027378866868690945/img/s0Q-TDGNEGILNUI0.jpg)](https://video.twimg.com/amplify_video/2027378866868690945/vid/avc1/1920x1080/P4Z3AWSqn1jBQFkf.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2027378866868690945/vid/avc1/1920x1080/P4Z3AWSqn1jBQFkf.mp4)**
+
+**作者:** [Ken W](https://x.com/kenw_2) | **ソース:** [Link](https://x.com/kenw_2/status/2027378996887912575) | **公開日:** 2026年2月27日
 
 ---
 
@@ -5291,435 +5746,7 @@ Love it because it generate straight to my CapCut editing timeline, so i can str
 
 ---
 
-### Seedanceを使用してtext2videoで最初のクリップを生成し、最初に生成されたビデオを参照ビデオとして設定して
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedanceを使用してtext2videoで最初のクリップを生成し、最初に生成されたビデオを参照ビデオとして設定してOmniモデルを使用して続行します。 --- THREAD CONTINUATION --- [Thread 1] 私が使用したプロンプトの構造は次のとおりです： https://t.co/d01CpuFYp0 ---
-
-#### 📝 プロンプト
-
-```
-Seedanceを使用してtext2videoで最初のクリップを生成し、最初に生成されたビデオを参照ビデオとして設定してOmniモデルを使用して続行します。
-
---- THREAD CONTINUATION ---
-[Thread 1] 私が使用したプロンプトの構造は次のとおりです：
-
-https://t.co/d01CpuFYp0
----
-```
-
-#### 💡 使い方のコツ
-
-A second editing exercise with seedance generated @YouArtStudio 
-It was difficult to get it done,seedance is slow to generate and refuses even the most innocent prompts.
-I generated a text2video first and then continued it using the omni model with the first video as reference. https://t.co/ohtz4HW2mC
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026674166997331968/img/wRx8VtZW_4PiHtEa.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026674731223601463)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026674731223601463)**
-
-**作者:** [DreamStarter](https://x.com/DreamStarter_1) | **ソース:** [Link](https://x.com/DreamStarter_1/status/2026674731223601463) | **公開日:** 2026年2月25日
-
----
-
-### DreaminaでSeedance 2.0ビデオを生成し、Dreamina → CapCutのワンクリック同期を使用して
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> DreaminaでSeedance 2.0ビデオを生成し、Dreamina → CapCutのワンクリック同期を使用して、ビデオをすぐにCapCutで編集可能な状態にします。 Seedance 2.0ビデオをインポートした後、ビデオを再生成せずに見た目を変更したい場合は、CapCutフィルターを適用してください。 静止画像を動かし、Seedance 2.0を使用して簡単な話し言葉のプロンプ...
-
-#### 📝 プロンプト
-
-```
-DreaminaでSeedance 2.0ビデオを生成し、Dreamina → CapCutのワンクリック同期を使用して、ビデオをすぐにCapCutで編集可能な状態にします。  
-Seedance 2.0ビデオをインポートした後、ビデオを再生成せずに見た目を変更したい場合は、CapCutフィルターを適用してください。  
-静止画像を動かし、Seedance 2.0を使用して簡単な話し言葉のプロンプト（例：短いセリフ）でアニメーションとナレーションを駆動し、声を追加します。
-
---- THREAD CONTINUATION ---
-[スレッド1] 完全なDreamina同期…  
-数秒で完了。⚡🤯 https://t.co/cNLsgFgXf8
-
-[スレッド2] Dreamina → CapCut。🤯  
-ワンクリック。  
-完全に同期。⚡ https://t.co/Py6lOdCr7q
-
-[スレッド3] Seedance 2.0ビデオテスト using @Dreamina ✨
-
-ビデオは@capcutappにすぐに表示され、編集可能な状態になりました。  
-フィルターを適用しただけで、この結果でした。
-
-気に入ったらプロンプトが欲しいとコメントで教えてください👀  
-多くの方が求めるなら、明日共有します🎯 https://t.co/ri6d8JBP4M
-
-[スレッド4] 🆕 SORA 2, VEO 3, Runway Gen4... 🤯 https://t.co/Q1sDMjThUg
-
-[スレッド5] セカンドテスト ⚡️  
-エイリアン侵略のエンジンをもう少し強く押しましょう👽🔥  
-フィルターなし。 https://t.co/p0GFCCZysL
-
-[スレッド6] 3⃣ サードエクスペリメント: 
-
-静止画像を動かし…  
-声を与える。🗣️🔊
-
-One simple prompt:
-
-“Wait… Seedance 2.0 works in CapCut now?!  
-I’m obsessed.” https://t.co/wyl5a3l0dE
-
-[スレッド7] 4⃣ フォースエクスペリメント… 📀✨👽
-
-地球の位置を漏らしたVoyagerに感謝。😅 https://t.co/o5cYuRwpn5
-
-[スレッド8] エピック！
----
-```
-
-#### 💡 使い方のコツ
-
-Seedance 2.0 just landed in CapCut.
-You’re not ready. 🤯🔥 https://t.co/NpvkcaLS81
-
-**作者:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **ソース:** [Link](https://x.com/Preda2005/status/2026721593985216574) | **公開日:** 2026年2月25日
-
----
-
-### Yapperで、モデルのドロップダウンからSeedance 2.0を選択すると、シネマティックな品質とネイティブオーディ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yapperで、モデルのドロップダウンからSeedance 2.0を選択すると、シネマティックな品質とネイティブオーディオが得られます。 プロンプトを入力する前に、アスペクト比（16:9、9:16、または1:1）、持続時間（最大15秒）、品質（高いほど遅くなるがより良い）、出力（最大4つのバリエーションを同時に生成し、最良のものを選択）を設定します。 同じプロンプトの4つのバージョンを同時...
-
-#### 📝 プロンプト
-
-```
-Yapperで、モデルのドロップダウンからSeedance 2.0を選択すると、シネマティックな品質とネイティブオーディオが得られます。  
-プロンプトを入力する前に、アスペクト比（16:9、9:16、または1:1）、持続時間（最大15秒）、品質（高いほど遅くなるがより良い）、出力（最大4つのバリエーションを同時に生成し、最良のものを選択）を設定します。  
-同じプロンプトの4つのバージョンを同時に生成（最大4つの出力）して、迅速にA/Bテストを行い、最も強力な結果を選びます。  
-カメラスペック、レンズ情報、オーディオデザインを含む「ディレクタースタイル」の詳細なプロンプトを使用してください。Seedanceは基本的なプロンプトよりも映画製作者の言語に反応します。  
-誤った拒否を減らすために、プロンプトを中国語に翻訳する（またはYapperの自動翻訳を使用する）と、Seedanceのフィルターは中国語のプロンプトに対してより寛容です。  
-一貫したキャラクターや場所のために参照画像をアップロードし、プロンプト内で画像にタグを付けてシーンに結びつけます。  
-参照画像に見える顔を避けてください（顔検出器はコンテンツフィルターの前に動作します）。頭の後ろや肩、服にクロップし、広角ショットを使用し、イラストやスタイライズされた参照を使用するか、物（カップ、サングラス、電話）で顔を部分的に隠します。  
-参照画像に変更が必要な場合（衣装/角度/顔が隠れている）、Yapperの画像生成機能を使用して参照画像を生成または編集します。  
-15秒以上の動画を作成するには、Extendをクリックして最後のフレームから続けます。生成→拡張を繰り返して、一貫したキャラクター/照明/環境で長いシーケンスを構築します。  
-対立/武器をプロンプトする際には、孤立した暴力行為を説明しないでください。シネマティックなコンテキスト（カメラ、照明、フィルムグレイン、設定）でシーン全体をフレーム化して、LLMベースのフィルターを通過させます。  
-未成年を示唆する言葉（boy, girl, child, young, kid）を避け、役割に基づく説明を使用してください（ライダー、大学の廊下の学生、アスリート）。  
-著作権のある映画/キャラクター/フランチャイズの名前を使用しないでください。代わりに美学を説明して、著作権ブロックを避けてください。
-
---- 引用ツイート ---
-https://t.co/wg36o4W4PO
-
---- リンクされた記事: Seedance 2.0へのアクセス方法（待機リストなし、VPN不要） ---
-Seedance 2.0は現在最も優れたAIビデオモデルです。  
-しかし、問題が一つあります。それは中国に地域制限されていることです。  
-そして、あなたは中国人ではありません。  
-それを回避する最速の方法はYapper.soです。VPN不要。待機リストなし。ただ動作します。  
-これがSeedance 2.0へのアクセス方法です。
-
-## ステップ1: Yapperアカウントを作成する
-
-yapper.soにアクセスしてサインアップします。28秒で完了します。
-
-## ステップ2: Seedance 2.0を選択する
-
-サイドバーのCreateをクリックします。  
-モデルのドロップダウンからSeedance 2.0を選びます。
-
-Yapperは複数のビデオモデルをサポートしていますが、シネマティックな品質とネイティブオーディオを求めるならSeedance 2.0が最適です。
-
-## ステップ3: 設定を構成する
-
-プロンプトを入力する前にパラメータを設定します:
-- アスペクト比: 16:9（横）、9:16（縦）、または1:1（正方形）
-- 持続時間: 1回の生成につき最大15秒
-- 品質: 高いほど生成が遅くなりますが、出力が明らかに良くなります
-- 出力数: 最大4つのビデオを同時に生成
-この最後の設定が重要です。同じプロンプトの4つのバージョンを同時に生成して、最良のものを選ぶことができます。そして、好きなだけ多くの生成をキューに入れることができます。
-
-Seedance 2.0はクレジット使用量の点で最も安価なモデルの一つでもあります。したがって、クレジットを消費せずに大量のコンテンツを生成できます。
-
-## ステップ4: プロンプトを書く（簡単な方法）
-
-これがショートカットです。ClaudeやChatGPTにこのシステムプロンプトをコピーしてから、ビデオを説明してください:
-
-今、あなたが望むものを伝えてください。  
-「Waffle Houseの戦闘シーンのためのSeedanceプロンプトを書いて」と言えば、モデルが実際に反応するものを提供してくれます。  
-なぜこれがうまくいくのか理解したい場合は読み続けてください。ビデオを生成したいだけなら、ステップ5に進んでください。
-
-## なぜ詳細なプロンプトが重要か
-
-基本的なプロンプトは機能します:
-
-詳細なプロンプトははるかに効果的です:
-
-違いはカメラスペック、レンズ情報、特定のオーディオデザインです。Seedanceは映画製作者の言語に反応します。ディレクターのように聞こえるほど、出力が良くなります。  
-Yapperはこれを自動的に行います。  
-Seedance 2.0のコンテンツフィルターは中国語のプロンプトに対してはるかに寛容です。英語のプロンプトの約30%が拒否され、そのほとんどが誤検出です。
-
-同じプロンプトを中国語に翻訳すれば、おそらく機能します。  
-Yapperは英語のプロンプトを自動的に中国語に翻訳してからモデルに送信します。あなたは英語で書きます。より高い通過率を得て、それについて考える必要はありません。  
-これだけで時間とクレジットを節約できます。
-
-## ステップ5: 参照画像を追加する（オプション）
-
-一貫したキャラクターや場所のために参照画像をアップロードします。  
-プロンプト内でこのようにタグを付けるだけです。
-
-知っておくべきこと: Seedanceの顔検出器はプロンプトを読む前に動作します。参照画像に見える顔は通常拒否されます。  
-回避策:
-- 頭の後ろ、肩、または服にクロップする
-- 顔の特徴が個別に見えない広角ショットを使用する
-- 写真の代わりにイラストやスタイライズされた参照を使用する
-- 顔の前に物を部分的に置く（コーヒーカップ、サングラス、電話など）
-それはプロフェッショナルではありませんでした。お詫びします。  
-クイックヒント: Yapper内で画像生成機能を使用して参照画像をデザインできます。  
-キャラクターの参照に調整が必要な場合（異なる衣装、異なる角度、顔が隠れている）、ただそれを求めてください。
-
-## ステップ6: 生成する
-
-Generateをクリックします。少し待ちます。彼女にテキストを返します。
-
-## ステップ7: ビデオを拡張する
-
-15秒を超えたいですか？  
-「extend」をクリックするだけです。ビデオの最後のフレームからストーリーを続けます。  
-モデルは視覚的一貫性を保ちます。同じキャラクター、同じ照明、同
-```
-
-#### 💡 使い方のコツ
-
-This is the guide I wish I had when I was scrambling to get Seedance 2.0 before my competitors.
-
-Skip to the end for the master prompt. Save for later &amp; give it to Claude.
-
-**作者:** [Emmet Halm](https://x.com/ehalm_) | **ソース:** [Link](https://x.com/ehalm_/status/2026590570316181922) | **公開日:** 2026年2月25日
-
----
-
-### Komutlarda「epic war scene」と入力することで、マルチショットカメラの配置がシーンの内容に応じて自
-
-> Komutlarda「epic war scene」と入力することで、マルチショットカメラの配置がシーンの内容に応じて自動的に調整されます。 --- THREAD CONTINUATION --- [Thread 1] https://t.co/NFB3FTfXQ1 ---
-
-#### 📝 プロンプト
-
-```
-Komutlarda「epic war scene」と入力することで、マルチショットカメラの配置がシーンの内容に応じて自動的に調整されます。
-
---- THREAD CONTINUATION ---
-[Thread 1] https://t.co/NFB3FTfXQ1
----
-```
-
-#### 💡 使い方のコツ
-
-Seedance 2.0 neredeyse her konuda üretime geçmeye tüm hızıyla devam ediyor. Şimdiki konumuz savaş sahneleri... Gerek animasyon gerek saha çalışmalarında tam başbelasıdır... Ekip, kostüm, Makyaj... Bilenler bilir... Hele post prodüksyon tarafı tam bir ölümdür. Multi shot sürekli kemara açılarının değişimi vs... Seedance burada multishot ile kemara açıları, doku, ışık muhteşem... Belli ki modeli savaş sahneleri için güzel eğitmişler... Üretici ORClar ve Osmanlı Ordusunu savaştırmış... Açıkçası mükemmel bir akış çıkarmış... Ha bu arada içerden bilgi vereyim komutlarda epic war scene olarak girerseniz multishot kamera düzenini otomatik konuya göre ayarlıyor... Ülkemizde üretim başladığında muhteşem ötesi savaş sahneleri çıkacağından şüphem yok... Bırakın inadı... Sinema sektörünü kökten değiştirecek bu model...
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026668010799304704/img/pRzSnDajd_mQ7Yke.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026669571789226280)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026669571789226280)**
-
-**作者:** [Kaan Alper](https://x.com/kaan_alper) | **ソース:** [Link](https://x.com/kaan_alper/status/2026669571789226280) | **公開日:** 2026年2月25日
-
----
-
-### 複数の生素材クリップを入力として提供し、Seedance 2.0（NemoVideo経由）が編集全体にわたってペーシング
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複数の生素材クリップを入力として提供し、Seedance 2.0（NemoVideo経由）が編集全体にわたってペーシング、トランジション、リテンションパターンを適用できるようにします。 タイムライン編集の代わりにチャットコマンドプロンプトを使用して、動的な字幕の追加、シネマティックなBロールの挿入、オーディオの強度の一致など、特定の編集をリクエストします。 --- THREAD CONTINU..
-
-#### 📝 プロンプト
-
-```
-複数の生素材クリップを入力として提供し、Seedance 2.0（NemoVideo経由）が編集全体にわたってペーシング、トランジション、リテンションパターンを適用できるようにします。
-
-タイムライン編集の代わりにチャットコマンドプロンプトを使用して、動的な字幕の追加、シネマティックなBロールの挿入、オーディオの強度の一致など、特定の編集をリクエストします。
-
---- THREAD CONTINUATION ---
-[スレッド1] NemoVideoはテンプレートツールではありません。
-
-これはバイラル構造で訓練されたAIビデオ編集エージェントです。
-
-他がシーンを生成する間に、
-NemoVideoはペーシング、トランジション、リテンションパターンを解読します。
-
-そしてそのロジックをあなたの生素材に適用します。
-
-戦略的に構築する
-
-入力: 複数の生素材クリップ https://t.co/XbzIgnaMKT
-
-[スレッド2] Seedance 2.0は、現在トレンドのシネマティックAIクリップの背後にあるモーションエンジンです。
-
-今やNemoVideoにネイティブに組み込まれています。
-
-あなたは以下を行うことができます：
-- 実証済みのフォーマットを特定
-- リテンションを駆動する要素を分析
-- アイデアを完成したビデオに変える
-
-すべてシンプルなチャットコマンドで。 https://t.co/qXSWsOPngB
-
-[スレッド3] 編集の感覚が変わりました。
-
-クリップをタイムライン上でドラッグすることはありません。
-結果を伝えるのです。
-
-動的な字幕を追加。シネマティックなBロールを挿入。オーディオの強度を一致させる。
-ただ言うだけです。
-
-UGCやアフィリエイトクリエイターにとって、これはワークフローの圧縮です。 https://t.co/v3NLq7VjF4
-
-[スレッド4] 編集にかかる時間が構造化されたプロンプトに短縮されました。
-
-入力の明確さ。出力のパフォーマンス
-
-[スレッド5] ショートフォームがリード、販売、または注目を生むなら、これは評価する価値があります。
-
-ここで試してみてください 👇
-https://t.co/towtQeCfRd
-
-Seedance 2.0搭載。
-シネマティックAI出力。
-スケーラブルなバイラリティに最適化。
----
-```
-
-#### 💡 使い方のコツ
-
-You don’t need a studio team anymore.
-
-@nemovideoai × Seedance 2.0 quietly changed the rules.
-
-I analyzed the outputs.
-
-There’s a repeatable framework behind breakout clips.
-
-Breaking it down 👇 https://t.co/j63rADVh25
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026751550052335616/img/KoII-cUAMPuvCAhR.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026751650413580735)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026751650413580735)**
-
-**作者:** [Emma Uses AI](https://x.com/EmmaUsesAi) | **ソース:** [Link](https://x.com/EmmaUsesAi/status/2026751650413580735) | **公開日:** 2026年2月25日
-
----
-
-### Seedance 2.0のOmni referenceを使い、3人ダンスなどのリファレンス素材を用意して動きをトレースさ...
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.0 Omni reference ② 3人のダンスでtest 指先までしっかり動きをトレースしてくれました この製作方法はリファレンス素材を作るのが少々面倒ですが生成は１発でした #生成AI #c4d https://t.co/82ehG2H4Ir
-
-#### 📝 プロンプト
-
-```
-Seedance 2.0のOmni referenceを使い、3人ダンスなどのリファレンス素材を用意して動きをトレースさせると、指先まで動きを追従した生成が1発で通りやすい  
-ガチャ要素を減らしたい場合はSeedance 2.0のOmni reference運用（リファレンス素材ベース）にして、ポスプロ前提の制作フローに組み込む
-```
-
-#### 💡 使い方のコツ
-
-Seedance 2.0 Omni reference ②
-
-3人のダンスでtest
-指先までしっかり動きをトレースしてくれました
-
-この製作方法はリファレンス素材を作るのが少々面倒ですが生成は１発でした
-
-#生成AI #c4d https://t.co/82ehG2H4Ir
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026451025788645376/img/XZrzCf3xDV553Htu.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026451087000293717)**
-
-**作者:** [Kaku Drop 架空飴](https://x.com/KakuDrop) | **ソース:** [Link](https://x.com/KakuDrop/status/2026451087000293717) | **公開日:** 2026年2月25日
-
----
-
-### Stable Diffusionのプロンプト技術をSeedance 2.0に応用してプロンプトを書く  
-
-> Stable Diffusionのプロンプト技術をSeedance 2.0に応用してプロンプトを書く Seedance 2.0の画像プロンプトを順番に書く：まずは概要を書く（画像の品質＋スタイル＋カメラ効果＋照明効果＋テーマ）
-
-#### 📝 プロンプト
-
-```
-Stable Diffusionのプロンプト技術をSeedance 2.0に応用してプロンプトを書く  
-Seedance 2.0の画像プロンプトを順番に書く：まずは概要を書く（画像の品質＋スタイル＋カメラ効果＋照明効果＋テーマ）
-```
-
-#### 💡 使い方のコツ
-
-最近发了不少Seedance 2.0的提示词。
-
-有X友问我这些提示词是怎么写出来的？
-
-之前对AI绘画比较感兴趣，系统的学习了开源工具Stable Diffusion的一些提示词技巧。
-
-发现也能套用到Seedance 2.0上。
-
-图片提示词的写作顺序：
-- 综述（图像质量+风格+镜头效果+光照效果+主题）
--
-
-**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2026659364409585899) | **公開日:** 2026年2月25日
-
----
-
-### ストーリーボード、シナリオ、映像監督に取り組む。
-
-> ストーリーボード、シナリオ、映像監督に取り組む。 --- THREAD CONTINUATION --- [Thread 1] https://t.co/914xd1t4ho [Thread 2] このような作品に興味がある場合は、サポートのために「いいね」や保存、フォローを続けてください :) ---
-
-#### 📝 プロンプト
-
-```
-ストーリーボード、シナリオ、映像監督に取り組む。
-
---- THREAD CONTINUATION ---
-[Thread 1] https://t.co/914xd1t4ho
-
-[Thread 2] このような作品に興味がある場合は、サポートのために「いいね」や保存、フォローを続けてください :)
----
-```
-
-#### 💡 使い方のコツ
-
-Seedance 2.0 çalışmaları tam manasıyla kıvamına geliyor artık. Bu tweetin konusu sektör jargonu ile patlama çatlama sahneleri... Bilindiği üzere en zor çekimler gece çekimleridir. Ekibi organize etmek bir yana prodüksiyon ve post prodüksiyon renk ve sinematografı açısından çok zorlu süreçtir. Burada yeni modelin bir göktaşı sahnesine karşı yarattığı yıkımı izliyorsunuz. Renk ayrımı mükemmeler, multi shot kusursuz işliyor, Efektler, mekan ve patlama fiziği tam manasıyla oturmuş vaziyette... Şöyle bir sahneneye post prodüksiyon bitişi 8-9 haneli doları bulur ve aylar sürer... Ancak Seedance ile max 1-2 günde çözülecek iştir... Özellikle post prodüksiyon şirketlerinde sabahlara kadar canları çıkan VFX lere söylüyorum... Zamanınız geliyor... Bırakın milletin hayalini yapmayı... 1-2 ay içinde çok enteresan birşey başlatacağım. O zaman ne demek istedimi çok iyi anlayacaksınız... Tek tavsiyesem, story board, senaryo ve görüntü yönetmenliğine çalışın... Ben başlattığım zaman çok ihtiyacınız olacak :)
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026605643121987584/img/yQSwqV-J6IXplVPG.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026607417593598170)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026607417593598170)**
-
-**作者:** [Kaan Alper](https://x.com/kaan_alper) | **ソース:** [Link](https://x.com/kaan_alper/status/2026607417593598170) | **公開日:** 2026年2月25日
-
----
-
-### Seedance 2にリファレンスとしてストリップ/コミックをアップロードし、それを基にしたビデオを生成して簡単にアニメ
-
-![Español](https://img.shields.io/badge/lang-Español-yellow)
-
-> Seedance 2にリファレンスとしてストリップ/コミックをアップロードし、それを基にしたビデオを生成して簡単にアニメーションに変換するように依頼してください。
-
-#### 📝 プロンプト
-
-```
-Seedance 2にリファレンスとしてストリップ/コミックをアップロードし、それを基にしたビデオを生成して簡単にアニメーションに変換するように依頼してください。
-```
-
-#### 💡 使い方のコツ
-
-Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme un video en base al mismo. Si bien se tomó algunas licencias poéticas, es una LOCURA que se pueda convertir cualquier tira cómica en un video animado tan fácil https://t.co/1iI8AXLFyN
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2026762427744796672/img/oYkjLTJUEHtN9ft7.jpg)](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762507306545641)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2026762507306545641)**
-
-**作者:** [Alan Daitch](https://x.com/AlanDaitch) | **ソース:** [Link](https://x.com/AlanDaitch/status/2026762507306545641) | **公開日:** 2026年2月25日
-
----
-
-*... その他 104 件のヒント。 [ギャラリーですべて表示](https://youware.com/ja/seedance-2-prompts)*
+*... その他 113 件のヒント。 [ギャラリーですべて表示](https://youware.com/ja/seedance-2-prompts)*
 
 ---
 
@@ -5743,4 +5770,4 @@ Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://youware.com/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-02-28T04:53:41.429Z
+🤖 この README は自動生成されています。最終更新： 2026-02-28T05:08:04.370Z
