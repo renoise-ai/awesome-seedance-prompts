@@ -5680,4 +5680,4 @@ Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-02-28T01:44:13.431Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-02-28T02:42:53.319Z
