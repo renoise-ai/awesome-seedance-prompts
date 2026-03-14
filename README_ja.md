@@ -61,7 +61,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **168** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **143** |
-| 🔄 最終更新 | **2026-03-13** |
+| 🔄 最終更新 | **2026-03-14** |
 
 ---
 
@@ -5770,4 +5770,4 @@ Love it because it generate straight to my CapCut editing timeline, so i can str
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://youware.com/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-03-13T21:00:21.655Z
+🤖 この README は自動生成されています。最終更新： 2026-03-14T01:51:29.377Z

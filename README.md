@@ -61,7 +61,7 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 | 📝 Total Prompts | **168** |
 | ⭐ Featured | **0** |
 | 💡 Tips & Tutorials | **143** |
-| 🔄 Last Updated | **2026-03-13** |
+| 🔄 Last Updated | **2026-03-14** |
 
 ---
 
@@ -4597,4 +4597,4 @@ Thanks to all the creators who shared their prompts with the community.
 
 **🌐 [View in Web Gallery](https://youware.com/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-03-13T21:00:21.630Z
+🤖 This README is automatically generated. Last updated: 2026-03-14T01:51:29.346Z
