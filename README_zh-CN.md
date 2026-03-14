@@ -5669,4 +5669,4 @@ Love it because it generate straight to my CapCut editing timeline, so i can str
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-03-14T03:11:14.664Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-03-14T05:09:19.771Z
