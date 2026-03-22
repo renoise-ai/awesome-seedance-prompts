@@ -5770,4 +5770,4 @@ Love it because it generate straight to my CapCut editing timeline, so i can str
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://youware.com/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-03-22T08:31:58.130Z
+🤖 この README は自動生成されています。最終更新： 2026-03-22T08:58:14.069Z
