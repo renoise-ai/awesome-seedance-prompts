@@ -61,7 +61,7 @@
 | 📝 提示词总数 | **168** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **143** |
-| 🔄 最后更新 | **2026-03-27** |
+| 🔄 最后更新 | **2026-03-28** |
 
 ---
 
@@ -5669,4 +5669,4 @@ Love it because it generate straight to my CapCut editing timeline, so i can str
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-03-27T21:03:24.820Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-03-28T01:58:51.139Z
