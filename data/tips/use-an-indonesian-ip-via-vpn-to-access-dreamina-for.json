@@ -1,0 +1,48 @@
+{
+  "id": "use-an-indonesian-ip-via-vpn-to-access-dreamina-for",
+  "title": "Use an Indonesian IP (via VPN) to access Dreamina for Seedan...",
+  "content": "Use an Indonesian IP (via VPN) to access Dreamina for Seedance.  \nSelect the Seedance 2.0 Fast model in Dreamina.  \nUpload a source image to guide the Seedance generation.  \nIf the max video length is 15s, use only the first half of your prompt to fit within the limit.",
+  "description": "Then I opened Dreamina using an Indonesian IP (via VPN)\n\nSelected the Seedance 2.0 Fast model\n\nUploaded the image, and used the first half of the prompt (since the max length is 15s). https://t.co/slRzpgq9Re",
+  "language": "en",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "link": "https://x.com/Framer_X"
+  },
+  "sourceLink": "https://x.com/Framer_X/status/2037531722674237770",
+  "sourcePublishedAt": "2026-03-27",
+  "featured": false,
+  "tags": [],
+  "tips": "Then I opened Dreamina using an Indonesian IP (via VPN)\n\nSelected the Seedance 2.0 Fast model\n\nUploaded the image, and used the first half of the prompt (since the max length is 15s). https://t.co/slRzpgq9Re",
+  "translations": {
+    "es": {
+      "title": "Usa una IP de Indonesia (a través de VPN) para acceder a Dre",
+      "content": "Usa una IP de Indonesia (a través de VPN) para acceder a Dreamina para Seedance.  \nSelecciona el modelo Seedance 2.0 Fast en Dreamina.  \nSube una imagen fuente para guiar la generación de Seedance.  \nSi la duración máxima del video es de 15 segundos, utiliza solo la primera mitad de tu prompt para ajustarte al límite.",
+      "description": "Usa una IP de Indonesia (a través de VPN) para acceder a Dreamina para Seedance.  \nSelecciona el modelo Seedance 2.0 Fast en Dreamina.  \nSube una imagen fuente para guiar la generación de Seedance.  \n..."
+    },
+    "fr": {
+      "title": "Utilisez une IP indonésienne (via VPN) pour accéder à Dreami",
+      "content": "Utilisez une IP indonésienne (via VPN) pour accéder à Dreamina pour Seedance.  \nSélectionnez le modèle Seedance 2.0 Fast dans Dreamina.  \nTéléchargez une image source pour guider la génération Seedance.  \nSi la durée maximale de la vidéo est de 15s, utilisez uniquement la première moitié de votre prompt pour respecter la limite.",
+      "description": "Utilisez une IP indonésienne (via VPN) pour accéder à Dreamina pour Seedance.  \nSélectionnez le modèle Seedance 2.0 Fast dans Dreamina.  \nTéléchargez une image source pour guider la génération Seedanc..."
+    },
+    "ja": {
+      "title": "Seedanceにアクセスするために、インドネシアのIP（VPN経由）を使用してください。  ",
+      "content": "Seedanceにアクセスするために、インドネシアのIP（VPN経由）を使用してください。  \nDreaminaでSeedance 2.0 Fastモデルを選択します。  \nSeedance生成をガイドするためにソース画像をアップロードします。  \n最大ビデオ長が15秒の場合、制限内に収めるためにプロンプトの前半のみを使用してください。\n---",
+      "description": "Seedanceにアクセスするために、インドネシアのIP（VPN経由）を使用してください。  \nDreaminaでSeedance 2.0 Fastモデルを選択します。  \nSeedance生成をガイドするためにソース画像をアップロードします。  \n最大ビデオ長が15秒の場合、制限内に収めるためにプロンプトの前半のみを使用してください。\n---"
+    },
+    "ko": {
+      "title": "Dreamina에서 Seedance에 접속하려면 인도네시아 IP(VPN 사용)를 이용하세요.  ",
+      "content": "Dreamina에서 Seedance에 접속하려면 인도네시아 IP(VPN 사용)를 이용하세요.  \nDreamina에서 Seedance 2.0 Fast 모델을 선택하세요.  \nSeedance 생성을 안내하기 위해 소스 이미지를 업로드하세요.  \n최대 비디오 길이가 15초인 경우, 제한에 맞추기 위해 프롬프트의 첫 번째 절반만 사용하세요.",
+      "description": "Dreamina에서 Seedance에 접속하려면 인도네시아 IP(VPN 사용)를 이용하세요.  \nDreamina에서 Seedance 2.0 Fast 모델을 선택하세요.  \nSeedance 생성을 안내하기 위해 소스 이미지를 업로드하세요.  \n최대 비디오 길이가 15초인 경우, 제한에 맞추기 위해 프롬프트의 첫 번째 절반만 사용하세요."
+    },
+    "pt-BR": {
+      "title": "Use um IP indonésio (via VPN) para acessar o Dreamina para S",
+      "content": "Use um IP indonésio (via VPN) para acessar o Dreamina para Seedance.  \nSelecione o modelo Seedance 2.0 Fast no Dreamina.  \nCarregue uma imagem de origem para guiar a geração do Seedance.  \nSe o comprimento máximo do vídeo for 15s, use apenas a primeira metade do seu prompt para se ajustar ao limite.",
+      "description": "Use um IP indonésio (via VPN) para acessar o Dreamina para Seedance.  \nSelecione o modelo Seedance 2.0 Fast no Dreamina.  \nCarregue uma imagem de origem para guiar a geração do Seedance.  \nSe o compri..."
+    },
+    "zh-CN": {
+      "title": "使用印尼IP（通过VPN）访问Dreamina以使用Seedance。  ",
+      "content": "使用印尼IP（通过VPN）访问Dreamina以使用Seedance。  \n在Dreamina中选择Seedance 2.0 Fast模型。  \n上传源图像以指导Seedance生成。  \n如果最大视频长度为15秒，仅使用提示的前半部分以适应限制。",
+      "description": "使用印尼IP（通过VPN）访问Dreamina以使用Seedance。  \n在Dreamina中选择Seedance 2.0 Fast模型。  \n上传源图像以指导Seedance生成。  \n如果最大视频长度为15秒，仅使用提示的前半部分以适应限制。"
+    }
+  }
+}

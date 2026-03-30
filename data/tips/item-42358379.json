@@ -1,0 +1,50 @@
+{
+  "id": "item-42358379",
+  "title": "リファレンス画像の精度を上げてから生成する  \nプロンプトをきちんと具体的に書いて生成する",
+  "content": "リファレンス画像の精度を上げてから生成する  \nプロンプトをきちんと具体的に書いて生成する",
+  "description": "Seedance 2.0 FL2V。この程度ならLTX-2.3でも出来る(笑) やっぱリファレンス画像の精度上げて+ちゃんとPrompt書かないとダメか(^^; とは言え一貫性はものすごいレベルで維持。しかしなぜ”へんさし”になる？w Geminiマークは一部編集したため。元々はZ-Image-Base https://t.co/dCiw8bwaMK",
+  "language": "ja",
+  "author": {
+    "name": "Photogenic Weekend",
+    "link": "https://x.com/PhotogenicWeekE"
+  },
+  "sourceLink": "https://x.com/PhotogenicWeekE/status/2038194146742358379",
+  "sourcePublishedAt": "2026-03-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038193495882842112/img/yGzXtqA7MeCZN4Yh.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2038194146742358379",
+  "featured": false,
+  "tags": [],
+  "tips": "Seedance 2.0 FL2V。この程度ならLTX-2.3でも出来る(笑) やっぱリファレンス画像の精度上げて+ちゃんとPrompt書かないとダメか(^^; とは言え一貫性はものすごいレベルで維持。しかしなぜ”へんさし”になる？w Geminiマークは一部編集したため。元々はZ-Image-Base https://t.co/dCiw8bwaMK",
+  "translations": {
+    "en": {
+      "title": "Increase the accuracy of the reference image before generati",
+      "content": "Increase the accuracy of the reference image before generating  \nWrite the prompt specifically and generate\n\n--- THREAD CONTINUATION ---\n[Thread 1] This is the FL2V version of LTX-2.3. It's not consistent at all, but this one looks more like it (lol) https://t.co/vhnwv1GwL5\n---",
+      "description": "Increase the accuracy of the reference image before generating  \nWrite the prompt specifically and generate\n\n--- THREAD CONTINUATION ---\n[Thread 1] This is the FL2V version of LTX-2.3. It's not consis..."
+    },
+    "es": {
+      "title": "Aumentar la precisión de la imagen de referencia antes de ge",
+      "content": "Aumentar la precisión de la imagen de referencia antes de generar  \nEscribir el prompt de manera concreta y generar\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Esto es la versión FL2V de LTX-2.3. No tiene consistencia para nada, pero w este parece más auténtico (jaja) https://t.co/vhnwv1GwL5\n---",
+      "description": "Aumentar la precisión de la imagen de referencia antes de generar  \nEscribir el prompt de manera concreta y generar\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Esto es la versión FL2V de LTX-2.3. No tiene..."
+    },
+    "fr": {
+      "title": "Améliorer la précision de l'image de référence avant de géné",
+      "content": "Améliorer la précision de l'image de référence avant de générer  \nÉcrire le prompt de manière précise et détaillée pour générer\n\n--- SUITE DU FIL ---\n[Fil 1] Ceci est la version FL2V de LTX-2.3. Pas du tout cohérent, mais c'est plus ressemblant (rire) https://t.co/vhnwv1GwL5\n---",
+      "description": "Améliorer la précision de l'image de référence avant de générer  \nÉcrire le prompt de manière précise et détaillée pour générer\n\n--- SUITE DU FIL ---\n[Fil 1] Ceci est la version FL2V de LTX-2.3. Pas d..."
+    },
+    "ko": {
+      "title": "참조 이미지의 정확도를 높인 후 생성  ",
+      "content": "참조 이미지의 정확도를 높인 후 생성  \n프롬프트를 구체적으로 작성하여 생성\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이건 LTX-2.3의 FL2V 버전. 일관성은 전혀 없지만, 이쪽이 더 그럴듯해요(笑) https://t.co/vhnwv1GwL5\n---",
+      "description": "참조 이미지의 정확도를 높인 후 생성  \n프롬프트를 구체적으로 작성하여 생성\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이건 LTX-2.3의 FL2V 버전. 일관성은 전혀 없지만, 이쪽이 더 그럴듯해요(笑) https://t.co/vhnwv1GwL5\n---"
+    },
+    "pt-BR": {
+      "title": "Melhore a precisão da imagem de referência antes de gerar  ",
+      "content": "Melhore a precisão da imagem de referência antes de gerar  \nEscreva o prompt de forma clara e específica para gerar\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Este é o LTX-2.3 versão FL2V. A consistência não é nada boa, mas este parece mais autêntico (risos) https://t.co/vhnwv1GwL5\n---",
+      "description": "Melhore a precisão da imagem de referência antes de gerar  \nEscreva o prompt de forma clara e específica para gerar\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Este é o LTX-2.3 versão FL2V. A consistênc..."
+    },
+    "zh-CN": {
+      "title": "在提高参考图像的精度后生成  ",
+      "content": "在提高参考图像的精度后生成  \n将prompt具体详细地书写后生成\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这是LTX-2.3的FL2V版。虽然完全没有一致性，但这个看起来更像（笑）https://t.co/vhnwv1GwL5\n---",
+      "description": "在提高参考图像的精度后生成  \n将prompt具体详细地书写后生成\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这是LTX-2.3的FL2V版。虽然完全没有一致性，但这个看起来更像（笑）https://t.co/vhnwv1GwL5\n---"
+    }
+  }
+}

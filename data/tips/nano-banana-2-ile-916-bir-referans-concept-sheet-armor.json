@@ -1,0 +1,55 @@
+{
+  "id": "nano-banana-2-ile-916-bir-referans-concept-sheet-armor",
+  "title": "Nano Banana 2 ile 9:16 bir referans concept sheet (armor des...",
+  "content": "Nano Banana 2 ile 9:16 bir referans concept sheet (armor design) üretip bunu Seedance 2.0’a image olarak yükleyerek 15 sn / 16:9 cinematic transformation videosu üret.  \nGörseli prompt içinde tarif etmek yerine Seedance 2.0’da reference image olarak ver; armor tutarlılığı ve renk doğruluğu belirgin şekilde artar.",
+  "description": "Seedance 2.0 + Nano Banana 2 ile 15 saniyelik cinematic transformation videosu ürettim ve workflow'u PDF'e döktüm.\n\nPipeline şöyle çalışıyor:\nNano Banana 2 → 9:16 referans concept sheet (armor design)\nSeedance 2.0 → image olarak yükle → 15 sn / 16:9 video\n\nKilit nokta: görseli sadece prompt'a bırakmak yerine reference image olarak vermek. Armor tutarlılığı ve renk doğruluğu ciddi artıyor.\n\nTutorial PDF'i thread'de 👇",
+  "language": "tr",
+  "author": {
+    "name": "Okan Can",
+    "link": "https://x.com/0kncn"
+  },
+  "sourceLink": "https://x.com/0kncn/status/2038286872556753052",
+  "sourcePublishedAt": "2026-03-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038286644084682752/img/iQJnb7c3hJRmnpJn.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2038286872556753052",
+  "featured": false,
+  "tags": [],
+  "tips": "Seedance 2.0 + Nano Banana 2 ile 15 saniyelik cinematic transformation videosu ürettim ve workflow'u PDF'e döktüm.\n\nPipeline şöyle çalışıyor:\nNano Banana 2 → 9:16 referans concept sheet (armor design)\nSeedance 2.0 → image olarak yükle → 15 sn / 16:9 video\n\nKilit nokta: görseli sadece prompt'a bırakmak yerine reference image olarak vermek. Armor tutarlılığı ve renk doğruluğu ciddi artıyor.\n\nTutorial PDF'i thread'de 👇",
+  "translations": {
+    "en": {
+      "title": "Produce a 9:16 reference concept sheet (armor design) with N",
+      "content": "Produce a 9:16 reference concept sheet (armor design) with Nano Banana 2 and upload it as an image to Seedance 2.0 to create a 15-second / 16:9 cinematic transformation video.  \nInstead of describing the visual in the prompt, provide it as a reference image in Seedance 2.0; the consistency of the armor and color accuracy will significantly improve.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/pNTRcFwfbH",
+      "description": "Produce a 9:16 reference concept sheet (armor design) with Nano Banana 2 and upload it as an image to Seedance 2.0 to create a 15-second / 16:9 cinematic transformation video.  \nInstead of describing ..."
+    },
+    "es": {
+      "title": "Produce un concept sheet de referencia (diseño de armadura) ",
+      "content": "Produce un concept sheet de referencia (diseño de armadura) en formato 9:16 con Nano Banana 2 y cárgalo como imagen en Seedance 2.0 para generar un video de transformación cinematográfica de 15 segundos en formato 16:9.  \nEn lugar de describir la imagen en el prompt, proporciónala como imagen de referencia en Seedance 2.0; la coherencia de la armadura y la precisión del color aumentarán notablemente.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/pNTRcFwfbH\n---",
+      "description": "Produce un concept sheet de referencia (diseño de armadura) en formato 9:16 con Nano Banana 2 y cárgalo como imagen en Seedance 2.0 para generar un video de transformación cinematográfica de 15 segund..."
+    },
+    "fr": {
+      "title": "Produisez une feuille de concept de référence (design d'armu",
+      "content": "Produisez une feuille de concept de référence (design d'armure) au format 9:16 avec Nano Banana 2, puis chargez-la comme image dans Seedance 2.0 pour générer une vidéo de transformation cinématique de 15 secondes en 16:9.  \nAu lieu de décrire l'image dans le prompt, fournissez-la comme image de référence dans Seedance 2.0 ; la cohérence de l'armure et la précision des couleurs s'amélioreront nettement.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] https://t.co/pNTRcFwfbH\n---",
+      "description": "Produisez une feuille de concept de référence (design d'armure) au format 9:16 avec Nano Banana 2, puis chargez-la comme image dans Seedance 2.0 pour générer une vidéo de transformation cinématique de..."
+    },
+    "ja": {
+      "title": "Nano Banana 2を使用して9:16のリファレンスコンセプトシート（アーマーデザイン）を作成し、それをSeeda",
+      "content": "Nano Banana 2を使用して9:16のリファレンスコンセプトシート（アーマーデザイン）を作成し、それをSeedance 2.0に画像としてアップロードして、15秒/16:9のシネマティックトランスフォーメーションビデオを生成します。  \n画像をプロンプト内で説明する代わりに、Seedance 2.0でリファレンスイメージとして提供すると、アーマーの一貫性と色の正確性が顕著に向上します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/pNTRcFwfbH\n---",
+      "description": "Nano Banana 2を使用して9:16のリファレンスコンセプトシート（アーマーデザイン）を作成し、それをSeedance 2.0に画像としてアップロードして、15秒/16:9のシネマティックトランスフォーメーションビデオを生成します。  \n画像をプロンプト内で説明する代わりに、Seedance 2.0でリファレンスイメージとして提供すると、アーマーの一貫性と色の正確性が顕著に向上します。\n\n..."
+    },
+    "ko": {
+      "title": "Nano Banana 2로 9:16 레퍼런스 컨셉 시트(갑옷 디자인)를 제작하고 이를 Seedance 2.0",
+      "content": "Nano Banana 2로 9:16 레퍼런스 컨셉 시트(갑옷 디자인)를 제작하고 이를 Seedance 2.0에 이미지로 업로드하여 15초 / 16:9 시네마틱 변환 비디오를 생성하세요.  \n이미지를 prompt 내에서 설명하는 대신 Seedance 2.0에서 레퍼런스 이미지로 제공하면, 갑옷의 일관성과 색상 정확성이 현저히 향상됩니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/pNTRcFwfbH\n---",
+      "description": "Nano Banana 2로 9:16 레퍼런스 컨셉 시트(갑옷 디자인)를 제작하고 이를 Seedance 2.0에 이미지로 업로드하여 15초 / 16:9 시네마틱 변환 비디오를 생성하세요.  \n이미지를 prompt 내에서 설명하는 대신 Seedance 2.0에서 레퍼런스 이미지로 제공하면, 갑옷의 일관성과 색상 정확성이 현저히 향상됩니다.\n\n--- THREAD..."
+    },
+    "pt-BR": {
+      "title": "Com o Nano Banana 2, produza uma folha de conceito de referê",
+      "content": "Com o Nano Banana 2, produza uma folha de conceito de referência 9:16 (design de armadura) e carregue-a como imagem no Seedance 2.0 para gerar um vídeo de transformação cinematográfica de 15 segundos / 16:9.  \nEm vez de descrever a imagem no prompt, forneça-a como imagem de referência no Seedance 2.0; a consistência da armadura e a precisão das cores aumentam significativamente.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/pNTRcFwfbH",
+      "description": "Com o Nano Banana 2, produza uma folha de conceito de referência 9:16 (design de armadura) e carregue-a como imagem no Seedance 2.0 para gerar um vídeo de transformação cinematográfica de 15 segundos ..."
+    },
+    "zh-CN": {
+      "title": "使用Nano Banana 2生成9:16的参考概念图（盔甲设计），然后将其作为图像上传到Seedance 2.0，生成",
+      "content": "使用Nano Banana 2生成9:16的参考概念图（盔甲设计），然后将其作为图像上传到Seedance 2.0，生成15秒/16:9的cinematic转换视频。  \n不要在prompt中描述图像，而是在Seedance 2.0中作为参考图像提供；这样盔甲的一致性和颜色准确性会显著提高。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/pNTRcFwfbH\n---",
+      "description": "使用Nano Banana 2生成9:16的参考概念图（盔甲设计），然后将其作为图像上传到Seedance 2.0，生成15秒/16:9的cinematic转换视频。  \n不要在prompt中描述图像，而是在Seedance 2.0中作为参考图像提供；这样盔甲的一致性和颜色准确性会显著提高。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/..."
+    }
+  }
+}

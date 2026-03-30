@@ -1,0 +1,48 @@
+{
+  "id": "create-a-character-sheet-for-your-character-add-it-to",
+  "title": "Create a character sheet for your character, add it to Seeda...",
+  "content": "Create a character sheet for your character, add it to Seedance 2.0 Omni, and reference it explicitly in your prompt to keep character consistency across shots/outfits.  \nAdd a REFERENCES section in your prompt and map each uploaded reference image to a specific look/outfit (e.g., Use [image_ref] as Character in morning outfit; Use [image_ref2] as Character’s running outfit; Use [image_ref3] as Character’s costume look).",
+  "description": "You can easily do this by using a character sheet. All you need to do is create a character sheet for your character, add it to the Seedance 2.0 Omni version and reference it properly within your prompt.\n\nI usually mention references under a section called REFERENCES. For example:\n\nREFERENCES:\nUse [image_ref] as Character in morning outfit.\nUse [image_ref2] as Character's running outfit.\nUse [image_ref3] as Character's costume look.\n\nI’m adding the prompt for creating a character sheet below.\n\n* Node based interface is from @MartiniArt_",
+  "language": "en",
+  "author": {
+    "name": "Aimi Kōda",
+    "link": "https://x.com/aimikoda"
+  },
+  "sourceLink": "https://x.com/aimikoda/status/2037802253478723970",
+  "sourcePublishedAt": "2026-03-28",
+  "featured": false,
+  "tags": [],
+  "tips": "You can easily do this by using a character sheet. All you need to do is create a character sheet for your character, add it to the Seedance 2.0 Omni version and reference it properly within your prompt.\n\nI usually mention references under a section called REFERENCES. For example:\n\nREFERENCES:\nUse [image_ref] as Character in morning outfit.\nUse [image_ref2] as Character's running outfit.\nUse [image_ref3] as Character's costume look.\n\nI’m adding the prompt for creating a character sheet below.\n\n* Node based interface is from @MartiniArt_",
+  "translations": {
+    "es": {
+      "title": "Crea una hoja de personaje para tu personaje, agrégala a See",
+      "content": "Crea una hoja de personaje para tu personaje, agrégala a Seedance 2.0 Omni y refiérete a ella explícitamente en tu prompt para mantener la consistencia del personaje a través de tomas/atuendos.  \nAñade una sección de REFERENCIAS en tu prompt y asigna cada imagen de referencia subida a un look/atuendo específico (por ejemplo, Usa [image_ref] como Personaje en atuendo de mañana; Usa [image_ref2] como atuendo de correr del Personaje; Usa [image_ref3] como look de disfraz del Personaje).",
+      "description": "Crea una hoja de personaje para tu personaje, agrégala a Seedance 2.0 Omni y refiérete a ella explícitamente en tu prompt para mantener la consistencia del personaje a través de tomas/atuendos.  \nAñad..."
+    },
+    "fr": {
+      "title": "Créez une fiche de personnage pour votre personnage, ajoutez",
+      "content": "Créez une fiche de personnage pour votre personnage, ajoutez-la à Seedance 2.0 Omni, et faites-y explicitement référence dans votre prompt pour maintenir la cohérence du personnage à travers les prises de vue/tenues.  \nAjoutez une section RÉFÉRENCES dans votre prompt et associez chaque image de référence téléchargée à un look/tenue spécifique (par exemple, Utilisez [image_ref] comme Personnage en tenue du matin ; Utilisez [image_ref2] comme tenue de course du Personnage ; Utilisez [image_ref3] comme look de costume du Personnage).",
+      "description": "Créez une fiche de personnage pour votre personnage, ajoutez-la à Seedance 2.0 Omni, et faites-y explicitement référence dans votre prompt pour maintenir la cohérence du personnage à travers les prise..."
+    },
+    "ja": {
+      "title": "キャラクターのキャラクターシートを作成し、Seedance 2.0 Omniに追加して、プロンプトで明示的に参照すること",
+      "content": "キャラクターのキャラクターシートを作成し、Seedance 2.0 Omniに追加して、プロンプトで明示的に参照することで、ショットや衣装全体でキャラクターの一貫性を保ちます。  \nプロンプトにREFERENCESセクションを追加し、アップロードした各参照画像を特定のルック/衣装にマッピングします（例：Use [image_ref] as Character in morning outfit; Use [image_ref2] as Character’s running outfit; Use [image_ref3] as Character’s costume look）。",
+      "description": "キャラクターのキャラクターシートを作成し、Seedance 2.0 Omniに追加して、プロンプトで明示的に参照することで、ショットや衣装全体でキャラクターの一貫性を保ちます。  \nプロンプトにREFERENCESセクションを追加し、アップロードした各参照画像を特定のルック/衣装にマッピングします（例：Use [image_ref] as Character in morning outfit; ..."
+    },
+    "ko": {
+      "title": "당신의 캐릭터에 대한 캐릭터 시트를 작성하고 Seedance 2.0 Omni에 추가한 후, 촬영/의상 전반에",
+      "content": "당신의 캐릭터에 대한 캐릭터 시트를 작성하고 Seedance 2.0 Omni에 추가한 후, 촬영/의상 전반에 걸쳐 캐릭터의 일관성을 유지하기 위해 프롬프트에서 명시적으로 참조하세요.  \n프롬프트에 REFERENCES 섹션을 추가하고 업로드된 각 참조 이미지를 특정 룩/의상에 매핑하세요 (예: [image_ref]를 아침 의상의 캐릭터로 사용; [image_ref2]를 캐릭터의 러닝 의상으로 사용; [image_ref3]를 캐릭터의 코스튬 룩으로 사용).  \n---",
+      "description": "당신의 캐릭터에 대한 캐릭터 시트를 작성하고 Seedance 2.0 Omni에 추가한 후, 촬영/의상 전반에 걸쳐 캐릭터의 일관성을 유지하기 위해 프롬프트에서 명시적으로 참조하세요.  \n프롬프트에 REFERENCES 섹션을 추가하고 업로드된 각 참조 이미지를 특정 룩/의상에 매핑하세요 (예: [image_ref]를 아침 의상의 캐릭터로 사용; [image_..."
+    },
+    "pt-BR": {
+      "title": "Crie uma ficha de personagem para o seu personagem, adicione",
+      "content": "Crie uma ficha de personagem para o seu personagem, adicione-a ao Seedance 2.0 Omni e faça referência explícita a ela no seu prompt para manter a consistência do personagem em diferentes cenas/roupas.  \nAdicione uma seção de REFERÊNCIAS no seu prompt e associe cada imagem de referência carregada a um visual/roupa específico (por exemplo, Use [image_ref] como Personagem em roupa da manhã; Use [image_ref2] como roupa de corrida do Personagem; Use [image_ref3] como visual de fantasia do Personagem).",
+      "description": "Crie uma ficha de personagem para o seu personagem, adicione-a ao Seedance 2.0 Omni e faça referência explícita a ela no seu prompt para manter a consistência do personagem em diferentes cenas/roupas...."
+    },
+    "zh-CN": {
+      "title": "为你的角色创建一个角色表，将其添加到Seedance 2.0 Omni中，并在你的prompt中明确引用，以保持角色在不",
+      "content": "为你的角色创建一个角色表，将其添加到Seedance 2.0 Omni中，并在你的prompt中明确引用，以保持角色在不同镜头/服装中的一致性。  \n在你的prompt中添加一个REFERENCES部分，并将每个上传的参考图像映射到特定的外观/服装（例如，Use [image_ref] as Character in morning outfit; Use [image_ref2] as Character’s running outfit; Use [image_ref3] as Character’s costume look）。",
+      "description": "为你的角色创建一个角色表，将其添加到Seedance 2.0 Omni中，并在你的prompt中明确引用，以保持角色在不同镜头/服装中的一致性。  \n在你的prompt中添加一个REFERENCES部分，并将每个上传的参考图像映射到特定的外观/服装（例如，Use [image_ref] as Character in morning outfit; Use [image_ref2] as Char..."
+    }
+  }
+}

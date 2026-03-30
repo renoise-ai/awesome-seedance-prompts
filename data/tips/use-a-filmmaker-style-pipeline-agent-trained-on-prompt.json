@@ -1,0 +1,50 @@
+{
+  "id": "use-a-filmmaker-style-pipeline-agent-trained-on-prompt",
+  "title": "Use a filmmaker-style pipeline agent (trained on prompt stru...",
+  "content": "Use a filmmaker-style pipeline agent (trained on prompt structure, cinematography, storyboarding, and scriptwriting) to generate Seedance 2.0 prompts instead of prompting manually  \nProvide the agent one core idea plus a few concrete example concepts, then ask it to output 5 Seedance 2.0 prompts in chronological order to form a short film sequence  \nBuild a 1 idea → 5 prompts → 5 shots → 1 film workflow by generating five separate Seedance shots and stitching them together into a complete video with no additional editing or iteration",
+  "description": "$4.50 and 1 prompt.\n\nThat's what this entire short film cost.\n\nA future where the most basic human things become extremely valuable.\n\nSeedance 2.0. Here's how ↓ https://t.co/j7tJtdwJiX",
+  "language": "en",
+  "author": {
+    "name": "Amir D",
+    "link": "https://x.com/starks_arq"
+  },
+  "sourceLink": "https://x.com/starks_arq/status/2037912641713184825",
+  "sourcePublishedAt": "2026-03-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037910089462648832/img/eKQNJWbXRR5PnwLE.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2037912641713184825",
+  "featured": false,
+  "tags": [],
+  "tips": "$4.50 and 1 prompt.\n\nThat's what this entire short film cost.\n\nA future where the most basic human things become extremely valuable.\n\nSeedance 2.0. Here's how ↓ https://t.co/j7tJtdwJiX",
+  "translations": {
+    "es": {
+      "title": "Utiliza un agente de pipeline estilo cineasta (entrenado en ",
+      "content": "Utiliza un agente de pipeline estilo cineasta (entrenado en estructura de prompt, cinematografía, creación de storyboards y escritura de guiones) para generar prompts de Seedance 2.0 en lugar de hacerlo manualmente.  \nProporciona al agente una idea central más algunos conceptos concretos de ejemplo, luego pídele que produzca 5 prompts de Seedance 2.0 en orden cronológico para formar una secuencia de cortometraje.  \nConstruye un flujo de trabajo de 1 idea → 5 prompts → 5 tomas → 1 película generando cinco tomas de Seedance por separado y uniéndolas en un video completo sin edición adicional o iteración.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] 2/\n\nConstruí un agente de pipeline entrenado en todo lo relacionado con el cine:\n\n– Estructura de prompt\n– Cinematografía\n– Storyboard visual\n– Escritura de guiones\n\nNo genera. Piensa como un cineasta.\n\n[Hilo 2] 3/\n\nLe di una idea y algunos ejemplos:\n\n– Museo exhibiendo dibujos de niños\n– Vendiendo risas\n– Vendiendo sueños\n\nPedí 5 prompts perfectos de Seedance 2 en orden cronológico.\n\n[Hilo 3] 4/\n\n20 minutos después, video completo ensamblado.\n\n1 idea → 5 prompts → 5 tomas → 1 película.\n\nSin edición. Sin idas y venidas. Un solo pipeline.\n\n[Hilo 4] 5/\n\nProfundizando en este pipeline en mi canal de Telegram.\n\nResponde \"acceso\" si quieres entrar.\n---",
+      "description": "Utiliza un agente de pipeline estilo cineasta (entrenado en estructura de prompt, cinematografía, creación de storyboards y escritura de guiones) para generar prompts de Seedance 2.0 en lugar de hacer..."
+    },
+    "fr": {
+      "title": "Utilisez un agent de pipeline de style cinéaste (entraîné su",
+      "content": "Utilisez un agent de pipeline de style cinéaste (entraîné sur la structure des prompts, la cinématographie, le storyboard et l'écriture de scénarios) pour générer des prompts Seedance 2.0 au lieu de les créer manuellement.  \nFournissez à l'agent une idée centrale plus quelques concepts concrets d'exemple, puis demandez-lui de produire 5 prompts Seedance 2.0 dans l'ordre chronologique pour former une séquence de court-métrage.  \nConstruisez un flux de travail 1 idée → 5 prompts → 5 plans → 1 film en générant cinq plans Seedance distincts et en les assemblant en une vidéo complète sans montage ou itération supplémentaire.\n\n--- SUITE DU FIL ---  \n[Fil 1] 2/\n\nJ'ai construit un agent de pipeline formé sur tout ce qui concerne le cinéma :\n\n– Structure des prompts  \n– Cinématographie  \n– Storyboard visuel  \n– Écriture de scénarios  \n\nIl ne génère pas. Il pense comme un cinéaste.\n\n[Fil 2] 3/\n\nJe lui ai donné une idée et quelques exemples :\n\n– Musée exposant des dessins d'enfants  \n– Vendre le rire  \n– Vendre des rêves  \n\nDemandé 5 prompts Seedance 2 parfaits dans l'ordre chronologique.\n\n[Fil 3] 4/\n\n20 minutes plus tard, vidéo complète assemblée.\n\n1 idée → 5 prompts → 5 plans → 1 film.\n\nPas de montage. Pas d'aller-retour. Un seul pipeline.\n\n[Fil 4] 5/\n\nApprofondissement de ce pipeline dans mon canal Telegram.\n\nRépondez \"accès\" si vous voulez en faire partie.",
+      "description": "Utilisez un agent de pipeline de style cinéaste (entraîné sur la structure des prompts, la cinématographie, le storyboard et l'écriture de scénarios) pour générer des prompts Seedance 2.0 au lieu de l..."
+    },
+    "ja": {
+      "title": "映画制作者スタイルのパイプラインエージェント（プロンプト構造、撮影技法、ストーリーボード、脚本執筆で訓練された）を使用し",
+      "content": "映画制作者スタイルのパイプラインエージェント（プロンプト構造、撮影技法、ストーリーボード、脚本執筆で訓練された）を使用して、手動でプロンプトを作成する代わりにSeedance 2.0プロンプトを生成します。  \nエージェントに1つのコアアイデアといくつかの具体的な例を提供し、短編映画のシーケンスを形成するために5つのSeedance 2.0プロンプトを時系列で出力するように依頼します。  \n1つのアイデア → 5つのプロンプト → 5つのショット → 1つの映画のワークフローを構築し、5つの個別のSeedanceショットを生成して、それらを追加の編集や反復なしで完全なビデオにまとめます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 2/\n\n私は映画に関するすべてで訓練されたパイプラインエージェントを構築しました：\n\n– プロンプト構造\n– 撮影技法\n– ビジュアルストーリーボード\n– 脚本執筆\n\nそれは生成しません。映画制作者のように考えます。\n\n[Thread 2] 3/\n\n1つのアイデアといくつかの例を与えました：\n\n– 子供の絵を展示する博物館\n– 笑いを売る\n– 夢を売る\n\n5つの完璧なSeedance 2プロンプトを時系列で求めました。\n\n[Thread 3] 4/\n\n20分後、完全なビデオがまとめられました。\n\n1つのアイデア → 5つのプロンプト → 5つのショット → 1つの映画。\n\n編集なし。やり取りなし。1つのパイプライン。\n\n[Thread 4] 5/\n\nこのパイプラインについてさらに深く掘り下げています。私のTelegramチャンネルで。\n\n「access」と返信すれば参加できます。\n---",
+      "description": "映画制作者スタイルのパイプラインエージェント（プロンプト構造、撮影技法、ストーリーボード、脚本執筆で訓練された）を使用して、手動でプロンプトを作成する代わりにSeedance 2.0プロンプトを生成します。  \nエージェントに1つのコアアイデアといくつかの具体的な例を提供し、短編映画のシーケンスを形成するために5つのSeedance 2.0プロンプトを時系列で出力するように依頼します。  \n1つの..."
+    },
+    "ko": {
+      "title": "영화 제작자 스타일의 파이프라인 에이전트(프롬프트 구조, 촬영 기법, 스토리보드, 대본 작성에 대해 훈련된)",
+      "content": "영화 제작자 스타일의 파이프라인 에이전트(프롬프트 구조, 촬영 기법, 스토리보드, 대본 작성에 대해 훈련된)를 사용하여 수동으로 프롬프트를 입력하는 대신 Seedance 2.0 프롬프트를 생성하십시오.  \n에이전트에게 핵심 아이디어 하나와 몇 가지 구체적인 예시 개념을 제공한 후, 짧은 영화 시퀀스를 형성하기 위해 5개의 Seedance 2.0 프롬프트를 시간 순서대로 출력하도록 요청하십시오.  \n1개의 아이디어 → 5개의 프롬프트 → 5개의 샷 → 1개의 영화 워크플로우를 구축하여 다섯 개의 개별 Seedance 샷을 생성하고 추가 편집이나 반복 없이 완전한 비디오로 연결하십시오.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 2/\n\n모든 영화 관련 사항에 대해 훈련된 파이프라인 에이전트를 만들었습니다:\n\n– 프롬프트 구조\n– 촬영 기법\n– 비주얼 스토리보드\n– 대본 작성\n\n생성하지 않습니다. 영화 제작자처럼 생각합니다.\n\n[Thread 2] 3/\n\n하나의 아이디어와 몇 가지 예시를 제공했습니다:\n\n– 어린이 그림을 전시하는 박물관\n– 웃음 판매\n– 꿈 판매\n\n시간 순서대로 완벽한 5개의 Seedance 2 프롬프트를 요청했습니다.\n\n[Thread 3] 4/\n\n20분 후, 완성된 비디오가 연결되었습니다.\n\n1개의 아이디어 → 5개의 프롬프트 → 5개의 샷 → 1개의 영화.\n\n편집 없음. 반복 없음. 하나의 파이프라인.\n\n[Thread 4] 5/\n\n이 파이프라인에 대해 더 깊이 탐구하고 있습니다. 제 텔레그램 채널에서.\n\n\"access\"라고 답장하면 참여할 수 있습니다.\n---",
+      "description": "영화 제작자 스타일의 파이프라인 에이전트(프롬프트 구조, 촬영 기법, 스토리보드, 대본 작성에 대해 훈련된)를 사용하여 수동으로 프롬프트를 입력하는 대신 Seedance 2.0 프롬프트를 생성하십시오.  \n에이전트에게 핵심 아이디어 하나와 몇 가지 구체적인 예시 개념을 제공한 후, 짧은 영화 시퀀스를 형성하기 위해 5개의 Seedance 2.0 프롬프트를 ..."
+    },
+    "pt-BR": {
+      "title": "Use um agente de pipeline no estilo cineasta (treinado em es",
+      "content": "Use um agente de pipeline no estilo cineasta (treinado em estrutura de prompt, cinematografia, storyboard e roteiro) para gerar prompts Seedance 2.0 em vez de solicitar manualmente  \nForneça ao agente uma ideia central mais alguns conceitos concretos de exemplo, depois peça para ele gerar 5 prompts Seedance 2.0 em ordem cronológica para formar uma sequência de curta-metragem  \nConstrua um fluxo de trabalho de 1 ideia → 5 prompts → 5 tomadas → 1 filme gerando cinco tomadas Seedance separadas e juntando-as em um vídeo completo sem edição ou iteração adicional\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] 2/\n\nEu construí um agente de pipeline treinado em tudo sobre cinema:\n\n– Estrutura de prompt\n– Cinematografia\n– Storyboard visual\n– Roteiro\n\nEle não gera. Ele pensa como um cineasta.\n\n[Thread 2] 3/\n\nDei a ele uma ideia e alguns exemplos:\n\n– Museu exibindo desenhos de crianças\n– Vendendo risadas\n– Vendendo sonhos\n\nPedi 5 prompts Seedance 2 perfeitos em ordem cronológica.\n\n[Thread 3] 4/\n\n20 minutos depois, vídeo completo montado.\n\n1 ideia → 5 prompts → 5 tomadas → 1 filme.\n\nSem edição. Sem idas e vindas. Um único pipeline.\n\n[Thread 4] 5/\n\nExplorando mais a fundo esse pipeline no meu canal do Telegram.\n\nResponda \"acesso\" se quiser entrar.\n---",
+      "description": "Use um agente de pipeline no estilo cineasta (treinado em estrutura de prompt, cinematografia, storyboard e roteiro) para gerar prompts Seedance 2.0 em vez de solicitar manualmente  \nForneça ao agente..."
+    },
+    "zh-CN": {
+      "title": "使用电影制片人风格的管道代理（经过提示结构、电影摄影、分镜和剧本写作训练）来生成Seedance 2.0提示，而不是手动",
+      "content": "使用电影制片人风格的管道代理（经过提示结构、电影摄影、分镜和剧本写作训练）来生成Seedance 2.0提示，而不是手动提示  \n为代理提供一个核心想法加上一些具体的示例概念，然后要求它按时间顺序输出5个Seedance 2.0提示，以形成一个短片序列  \n通过生成五个独立的Seedance镜头并将它们拼接成一个完整的视频，建立一个1个想法→5个提示→5个镜头→1个电影的工作流程，无需额外编辑或迭代\n\n--- 线程继续 ---\n[线程 1] 2/\n\n我建立了一个经过电影各方面训练的管道代理：\n\n– 提示结构\n– 电影摄影\n– 视觉分镜\n– 剧本写作\n\n它不生成。它像电影制片人一样思考。\n\n[线程 2] 3/\n\n给了它一个想法和一些例子：\n\n– 展示儿童画作的博物馆\n– 出售笑声\n– 出售梦想\n\n要求按时间顺序提供5个完美的Seedance 2提示。\n\n[线程 3] 4/\n\n20分钟后，完整视频拼接完成。\n\n1个想法→5个提示→5个镜头→1个电影。\n\n无编辑。无来回。一个管道。\n\n[线程 4] 5/\n\n在我的Telegram频道中深入探讨这个管道。\n\n如果你想加入，请回复“access”。",
+      "description": "使用电影制片人风格的管道代理（经过提示结构、电影摄影、分镜和剧本写作训练）来生成Seedance 2.0提示，而不是手动提示  \n为代理提供一个核心想法加上一些具体的示例概念，然后要求它按时间顺序输出5个Seedance 2.0提示，以形成一个短片序列  \n通过生成五个独立的Seedance镜头并将它们拼接成一个完整的视频，建立一个1个想法→5个提示→5个镜头→1个电影的工作流程，无需额外编辑或迭..."
+    }
+  }
+}

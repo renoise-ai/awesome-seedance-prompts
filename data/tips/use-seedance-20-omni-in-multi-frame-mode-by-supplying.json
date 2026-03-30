@@ -1,0 +1,50 @@
+{
+  "id": "use-seedance-20-omni-in-multi-frame-mode-by-supplying",
+  "title": "Use Seedance 2.0 Omni in multi-frame mode by supplying multi...",
+  "content": "Use Seedance 2.0 Omni in multi-frame mode by supplying multiple images as base keyframes to guide the video generation.",
+  "description": "Seedance 2.0 omni to act as a multi frame.\n\nUsing multiple images as base keyframe Generated on Dreamina \n\nPrompt 👇 https://t.co/XQ0bJLLe14",
+  "language": "en",
+  "author": {
+    "name": "Oogie",
+    "link": "https://x.com/oggii_0"
+  },
+  "sourceLink": "https://x.com/oggii_0/status/2037386283862122897",
+  "sourcePublishedAt": "2026-03-27",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2037386238462996480/pu/img/evOkIxhrw6Aob-IP.jpg",
+  "videoUrl": "https://uqal5g7jeb936mj8dzkj.youbase.cloud/api/public/videos/play/2037386283862122897",
+  "featured": false,
+  "tags": [],
+  "tips": "Seedance 2.0 omni to act as a multi frame.\n\nUsing multiple images as base keyframe Generated on Dreamina \n\nPrompt 👇 https://t.co/XQ0bJLLe14",
+  "translations": {
+    "es": {
+      "title": "Utiliza Seedance 2.0 Omni en modo multi-frame proporcionando",
+      "content": "Utiliza Seedance 2.0 Omni en modo multi-frame proporcionando múltiples imágenes como fotogramas clave base para guiar la generación de video.",
+      "description": "Utiliza Seedance 2.0 Omni en modo multi-frame proporcionando múltiples imágenes como fotogramas clave base para guiar la generación de video."
+    },
+    "fr": {
+      "title": "Utilisez Seedance 2.0 Omni en mode multi-frame en fournissan",
+      "content": "Utilisez Seedance 2.0 Omni en mode multi-frame en fournissant plusieurs images comme images clés de base pour guider la génération vidéo.",
+      "description": "Utilisez Seedance 2.0 Omni en mode multi-frame en fournissant plusieurs images comme images clés de base pour guider la génération vidéo."
+    },
+    "ja": {
+      "title": "Seedance 2.0 Omniをマルチフレームモードで使用し、複数の画像をベースキーフレームとして提供してビデオ生成",
+      "content": "Seedance 2.0 Omniをマルチフレームモードで使用し、複数の画像をベースキーフレームとして提供してビデオ生成をガイドします。",
+      "description": "Seedance 2.0 Omniをマルチフレームモードで使用し、複数の画像をベースキーフレームとして提供してビデオ生成をガイドします。"
+    },
+    "ko": {
+      "title": "Seedance 2.0 Omni를 멀티 프레임 모드에서 사용하여 여러 이미지를 기본 키프레임으로 제공하여 비",
+      "content": "Seedance 2.0 Omni를 멀티 프레임 모드에서 사용하여 여러 이미지를 기본 키프레임으로 제공하여 비디오 생성에 활용하세요.",
+      "description": "Seedance 2.0 Omni를 멀티 프레임 모드에서 사용하여 여러 이미지를 기본 키프레임으로 제공하여 비디오 생성에 활용하세요."
+    },
+    "pt-BR": {
+      "title": "Use o Seedance 2.0 Omni no modo multi-frame fornecendo vária",
+      "content": "Use o Seedance 2.0 Omni no modo multi-frame fornecendo várias imagens como keyframes base para guiar a geração de vídeo.",
+      "description": "Use o Seedance 2.0 Omni no modo multi-frame fornecendo várias imagens como keyframes base para guiar a geração de vídeo."
+    },
+    "zh-CN": {
+      "title": "通过提供多张图像作为基础关键帧来引导视频生成，使用 Seedance 2.0 Omni 的多帧模式。",
+      "content": "通过提供多张图像作为基础关键帧来引导视频生成，使用 Seedance 2.0 Omni 的多帧模式。",
+      "description": "通过提供多张图像作为基础关键帧来引导视频生成，使用 Seedance 2.0 Omni 的多帧模式。"
+    }
+  }
+}
