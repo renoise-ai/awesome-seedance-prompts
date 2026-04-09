@@ -7249,4 +7249,4 @@ Agradecemos a todos os criadores que compartilharam seus prompts com a comunidad
 
 **🌐 [🎬 Ver na Galeria Web](https://youware.com/pt-BR/seedance-2-prompts)** • **📝 Enviar um Prompt** • **⭐ Dar Star**
 
-🤖 Este README é gerado automaticamente. Última atualização: 2026-04-09T09:48:37.636Z
+🤖 Este README é gerado automaticamente. Última atualização: 2026-04-09T14:19:25.917Z
