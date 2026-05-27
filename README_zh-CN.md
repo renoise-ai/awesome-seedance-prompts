@@ -4,7 +4,7 @@
 
 # 🎬 Awesome Seedance 2.0 视频提示词
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/youware-ai/awesome-seedance-2-prompts?style=social)](https://github.com/youware-ai/awesome-seedance-2-prompts) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/youware-ai/awesome-seedance-2-prompts/pulls)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/renoise-ai/awesome-seedance-prompts?style=social)](https://github.com/renoise-ai/awesome-seedance-prompts) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/renoise-ai/awesome-seedance-prompts/pulls)
 
 精选 ByteDance Seedance 2.0 高质量视频生成提示词合集
 
@@ -61,7 +61,7 @@
 | 📝 提示词总数 | **292** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **214** |
-| 🔄 最后更新 | **2026-05-18** |
+| 🔄 最后更新 | **2026-05-27** |
 
 ---
 
@@ -7430,10 +7430,10 @@ https://t.co/bshmnmEXi5
 
 ## ⭐ Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=youware-ai/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#youware-ai/awesome-seedance-2-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=renoise-ai/awesome-seedance-prompts&type=Date)](https://star-history.com/#renoise-ai/awesome-seedance-prompts&Date)
 
 ---
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-05-18T21:45:45.873Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-05-27T08:16:09.735Z

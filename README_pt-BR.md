@@ -4,7 +4,7 @@
 
 # 🎬 Awesome Seedance 2.0 Prompts de Vídeo
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/youware-ai/awesome-seedance-2-prompts?style=social)](https://github.com/youware-ai/awesome-seedance-2-prompts) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/youware-ai/awesome-seedance-2-prompts/pulls)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/renoise-ai/awesome-seedance-prompts?style=social)](https://github.com/renoise-ai/awesome-seedance-prompts) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/renoise-ai/awesome-seedance-prompts/pulls)
 
 Coleção curada de prompts de geração de vídeo para o Seedance 2.0 da ByteDance
 
@@ -61,7 +61,7 @@ Coleção curada de prompts de geração de vídeo para o Seedance 2.0 da ByteDa
 | 📝 Total de Prompts | **292** |
 | ⭐ Destaques | **0** |
 | 💡 Dicas & Tutoriais | **214** |
-| 🔄 Última Atualização | **2026-05-18** |
+| 🔄 Última Atualização | **2026-05-27** |
 
 ---
 
@@ -7243,10 +7243,10 @@ Agradecemos a todos os criadores que compartilharam seus prompts com a comunidad
 
 ## ⭐ Histórico de Stars
 
-[![Star History Chart](https://api.star-history.com/svg?repos=youware-ai/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#youware-ai/awesome-seedance-2-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=renoise-ai/awesome-seedance-prompts&type=Date)](https://star-history.com/#renoise-ai/awesome-seedance-prompts&Date)
 
 ---
 
 **🌐 [🎬 Ver na Galeria Web](https://youware.com/pt-BR/seedance-2-prompts)** • **📝 Enviar um Prompt** • **⭐ Dar Star**
 
-🤖 Este README é gerado automaticamente. Última atualização: 2026-05-18T21:45:45.897Z
+🤖 Este README é gerado automaticamente. Última atualização: 2026-05-27T08:16:09.747Z

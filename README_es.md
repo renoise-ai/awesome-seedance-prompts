@@ -4,7 +4,7 @@
 
 # 🎬 Awesome Seedance 2.0 Prompts de Video
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/youware-ai/awesome-seedance-2-prompts?style=social)](https://github.com/youware-ai/awesome-seedance-2-prompts) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/youware-ai/awesome-seedance-2-prompts/pulls)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/renoise-ai/awesome-seedance-prompts?style=social)](https://github.com/renoise-ai/awesome-seedance-prompts) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/renoise-ai/awesome-seedance-prompts/pulls)
 
 Colección curada de prompts de generación de video para el Seedance 2.0 de ByteDance
 
@@ -61,7 +61,7 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 | 📝 Total de Prompts | **292** |
 | ⭐ Destacados | **0** |
 | 💡 Consejos & Tutoriales | **214** |
-| 🔄 Última Actualización | **2026-05-18** |
+| 🔄 Última Actualización | **2026-05-27** |
 
 ---
 
@@ -7380,10 +7380,10 @@ Gracias a todos los creadores que compartieron sus prompts con la comunidad.
 
 ## ⭐ Historial de Stars
 
-[![Star History Chart](https://api.star-history.com/svg?repos=youware-ai/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#youware-ai/awesome-seedance-2-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=renoise-ai/awesome-seedance-prompts&type=Date)](https://star-history.com/#renoise-ai/awesome-seedance-prompts&Date)
 
 ---
 
 **🌐 [🎬 Ver en la Galería Web](https://youware.com/es/seedance-2-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
 
-🤖 Este README se genera automáticamente. Última actualización: 2026-05-18T21:45:45.910Z
+🤖 Este README se genera automáticamente. Última actualización: 2026-05-27T08:16:09.752Z

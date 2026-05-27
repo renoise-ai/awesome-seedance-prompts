@@ -89,7 +89,7 @@ export default function Header({ locale, onLocaleChange, promptCount, countLabel
 
           {/* GitHub link */}
           <a
-            href="https://github.com/youware-ai/awesome-seedance-2-prompts"
+            href="https://github.com/renoise-ai/awesome-seedance-prompts"
             target="_blank"
             rel="noopener noreferrer"
             className="flex h-9 w-9 items-center justify-center rounded-[10px] transition-colors hover:bg-black/3"

@@ -4,8 +4,8 @@ import { t, formatDateLocalized } from './i18n.js';
 
 const MAX_PROMPTS_TO_DISPLAY = 100;
 const GALLERY_BASE_URL = 'https://youware.com';
-const REPO_OWNER = 'youware-ai';
-const REPO_NAME = 'awesome-seedance-2-prompts';
+const REPO_OWNER = 'renoise-ai';
+const REPO_NAME = 'awesome-seedance-prompts';
 
 export interface LanguageConfig {
   code: string;

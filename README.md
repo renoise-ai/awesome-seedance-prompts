@@ -4,7 +4,7 @@
 
 # 🎬 Awesome Seedance 2.0 Video Prompts
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/youware-ai/awesome-seedance-2-prompts?style=social)](https://github.com/youware-ai/awesome-seedance-2-prompts) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/youware-ai/awesome-seedance-2-prompts/pulls)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/renoise-ai/awesome-seedance-prompts?style=social)](https://github.com/renoise-ai/awesome-seedance-prompts) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/renoise-ai/awesome-seedance-prompts/pulls)
 
 A curated collection of high-quality video generation prompts for ByteDance's Seedance 2.0
 
@@ -61,7 +61,7 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 | 📝 Total Prompts | **292** |
 | ⭐ Featured | **0** |
 | 💡 Tips & Tutorials | **214** |
-| 🔄 Last Updated | **2026-05-18** |
+| 🔄 Last Updated | **2026-05-27** |
 
 ---
 
@@ -5350,10 +5350,10 @@ Thanks to all the creators who shared their prompts with the community.
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=youware-ai/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#youware-ai/awesome-seedance-2-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=renoise-ai/awesome-seedance-prompts&type=Date)](https://star-history.com/#renoise-ai/awesome-seedance-prompts&Date)
 
 ---
 
 **🌐 [View in Web Gallery](https://youware.com/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-05-18T21:45:45.861Z
+🤖 This README is automatically generated. Last updated: 2026-05-27T08:16:09.723Z

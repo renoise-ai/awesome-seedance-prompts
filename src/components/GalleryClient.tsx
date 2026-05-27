@@ -114,7 +114,7 @@ export default function GalleryClient({ prompts, tips }: GalleryClientProps) {
               </svg>
             </a>
             <a
-              href="https://github.com/youware-ai/awesome-seedance-2-prompts"
+              href="https://github.com/renoise-ai/awesome-seedance-prompts"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-black/10 px-5 py-2.5 typo-body transition-all hover:border-black/20 hover:shadow-sm"
