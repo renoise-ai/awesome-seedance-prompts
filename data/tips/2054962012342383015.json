@@ -1,0 +1,37 @@
+{
+  "id": "2054962012342383015",
+  "type": "tip",
+  "url": "https://x.com/AITOPIAai/status/2054962012342383015",
+  "language": "en",
+  "created_at": "2026-05-14",
+  "author": {
+    "name": "AITOPIA",
+    "username": "AITOPIAai",
+    "url": "https://x.com/AITOPIAai",
+    "followers": 2367
+  },
+  "text": "Now brands can create professional looking ad videos from product photos in minutes, without expensive production costs.  \n\n-Upload your product photo and create a poster with GPT Image\n-Keep the same visual direction with a simple prompt \n-Turn it into a cinematic ad video with Seedance 2.0 \n-Use it for social media and brand campaigns  \n\nCreate yours on AITOPIA. \nhttps://t.co/YBK68vPDr1\nhttps://t.co/1aGYaDLBMD",
+  "content": "Upload your product photo and generate a poster using GPT Image, then use that poster as the starting asset for Seedance 2.0 video generation.  \nKeep consistent visual direction across outputs by reusing a simple, consistent prompt when generating the poster and the Seedance 2.0 video.  \nTurn a static product poster into a cinematic ad video by feeding it into Seedance 2.0 as the source image.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 23,
+    "retweets": 3,
+    "replies": 5,
+    "quotes": 0,
+    "bookmarks": 2,
+    "views": 474
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054962012342383015.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054961717042462720/img/uf-VBn7AdhQiawLn.jpg"
+  },
+  "translations": {
+    "es": "Sube la foto de tu producto y genera un póster usando GPT Image, luego utiliza ese póster como el activo inicial para la generación de video con Seedance 2.0.  \nMantén una dirección visual coherente en todos los resultados reutilizando un prompt simple y consistente al generar el póster y el video de Seedance 2.0.  \nConvierte un póster de producto estático en un video publicitario cinematográfico introduciéndolo en Seedance 2.0 como la imagen fuente.",
+    "fr": "---\nTéléchargez la photo de votre produit et générez une affiche à l'aide de GPT Image, puis utilisez cette affiche comme élément de départ pour la génération de vidéo Seedance 2.0.  \nMaintenez une direction visuelle cohérente à travers les sorties en réutilisant un prompt simple et cohérent lors de la génération de l'affiche et de la vidéo Seedance 2.0.  \nTransformez une affiche de produit statique en une vidéo publicitaire cinématographique en l'intégrant dans Seedance 2.0 comme image source.",
+    "ja": "---\n製品写真をアップロードしてGPT Imageを使用してポスターを生成し、そのポスターをSeedance 2.0のビデオ生成の開始アセットとして使用します。  \nポスターとSeedance 2.0ビデオを生成する際に、シンプルで一貫したプロンプトを再利用することで、出力間のビジュアルディレクションを一貫させます。  \n静的な製品ポスターをSeedance 2.0にソース画像として入力することで、シネマティックな広告ビデオに変換します。  \n---",
+    "ko": "제품 사진을 업로드하고 GPT Image를 사용하여 포스터를 생성한 후, 그 포스터를 Seedance 2.0 비디오 생성의 시작 자산으로 사용하세요.  \n포스터와 Seedance 2.0 비디오를 생성할 때 간단하고 일관된 prompt를 재사용하여 출력물 간의 시각적 방향을 일관되게 유지하세요.  \n정적인 제품 포스터를 Seedance 2.0에 소스 이미지로 입력하여 시네마틱 광고 비디오로 변환하세요.",
+    "pt-BR": "Carregue a foto do seu produto e gere um pôster usando o GPT Image, depois use esse pôster como o ativo inicial para a geração de vídeo no Seedance 2.0.  \nMantenha uma direção visual consistente entre as saídas reutilizando um prompt simples e consistente ao gerar o pôster e o vídeo no Seedance 2.0.  \nTransforme um pôster de produto estático em um vídeo publicitário cinematográfico alimentando-o no Seedance 2.0 como a imagem fonte.",
+    "zh-CN": "上传您的产品照片并使用GPT Image生成海报，然后将该海报用作Seedance 2.0视频生成的起始素材。  \n通过在生成海报和Seedance 2.0视频时重复使用简单且一致的prompt，保持输出的一致视觉方向。  \n将静态产品海报转变为电影广告视频，通过将其作为源图像输入到Seedance 2.0中。"
+  }
+}

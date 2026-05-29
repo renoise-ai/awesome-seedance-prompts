@@ -1,0 +1,42 @@
+{
+  "id": "2056037449344901236",
+  "type": "prompt",
+  "url": "https://x.com/iamfakhrealam/status/2056037449344901236",
+  "language": "en",
+  "created_at": "2026-05-17",
+  "author": {
+    "name": "Fakhr",
+    "username": "iamfakhrealam",
+    "url": "https://x.com/iamfakhrealam",
+    "followers": 36657
+  },
+  "text": "Renoise Canvas is an easy new AI tool for making, fixing, editing, and upscaling your videos in one workspace.....\n\nBuilt this with GPT Image 2 + Seedance 2.0 on @renoiseai canvas.\n\nLink: https://t.co/IPklqgW0JD\n\nPrompt:\nFemale soccer player launches a powerful shot on a sunny training field. Camera tracks from behind her in a smooth arc, then whips around to a low front angle just as her boot connects with the ball. The ball rockets toward the camera and flies past. Energetic, Nike-style commercial cinematography.",
+  "content": "Female soccer player launches a powerful shot on a sunny training field. Camera tracks from behind her in a smooth arc, then whips around to a low front angle just as her boot connects with the ball. The ball rockets toward the camera and flies past. Energetic, Nike-style commercial cinematography.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 32,
+    "retweets": 7,
+    "replies": 14,
+    "quotes": 0,
+    "bookmarks": 8,
+    "views": 19057
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056037449344901236.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056037396660236288/img/JQ1UGy_RzUeK6VAi.jpg"
+  },
+  "extra_content": {
+    "thread_texts": [
+      "Here's the workflow\n1. upload image(s)\n2. Add prompt\n3. and let Renoise do the rest https://t.co/N9d3JbYbCd"
+    ]
+  },
+  "translations": {
+    "es": "---\nUna jugadora de fútbol lanza un potente disparo en un campo de entrenamiento soleado. La cámara la sigue desde atrás en un arco suave, luego gira rápidamente a un ángulo bajo frontal justo cuando su bota conecta con el balón. El balón se dirige velozmente hacia la cámara y pasa de largo. Cinematografía energética al estilo de un comercial de Nike.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí está el flujo de trabajo\n1. subir imagen(es)\n2. Añadir prompt\n3. y dejar que Renoise haga el resto https://t.co/N9d3JbYbCd\n---",
+    "fr": "---\nUne joueuse de football tire un puissant coup sur un terrain d'entraînement ensoleillé. La caméra suit son mouvement depuis l'arrière dans un arc fluide, puis passe rapidement à un angle bas à l'avant juste au moment où son pied entre en contact avec le ballon. Le ballon fuse vers la caméra et passe à toute vitesse. Cinématographie énergique de style Nike.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Voici le flux de travail\n1. téléchargez l'image(s)\n2. Ajoutez le prompt\n3. et laissez Renoise faire le reste https://t.co/N9d3JbYbCd\n---",
+    "ja": "---\n女性サッカー選手が晴れたトレーニングフィールドで力強いシュートを放つ。カメラは彼女の背後から滑らかな弧を描いて追い、彼女のブーツがボールに当たる瞬間に低い前方の角度に急旋回する。ボールはカメラに向かって飛び、通り過ぎる。エネルギッシュで、ナイキスタイルのコマーシャルシネマトグラフィー。\n\n--- THREAD CONTINUATION ---\n[Thread 1] こちらがワークフローです\n1. 画像をアップロード\n2. プロンプトを追加\n3. あとはRenoiseにお任せ https://t.co/N9d3JbYbCd\n---",
+    "ko": "여자 축구 선수가 햇볕이 내리쬐는 훈련장에서 강력한 슛을 날립니다. 카메라는 그녀의 뒤에서 부드러운 호를 그리며 따라가다가, 그녀의 발이 공과 연결되는 순간 낮은 앞쪽 각도로 빠르게 전환됩니다. 공은 카메라를 향해 날아가고 지나갑니다. 에너지가 넘치는 나이키 스타일의 상업적 시네마토그래피.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here's the workflow\n1. 이미지 업로드\n2. 프롬프트 추가\n3. 그리고 나머지는 Renoise에 맡기세요 https://t.co/N9d3JbYbCd\n---",
+    "pt-BR": "Jogadora de futebol feminina lança um chute poderoso em um campo de treinamento ensolarado. A câmera acompanha por trás dela em um arco suave, depois gira rapidamente para um ângulo baixo frontal no momento em que sua chuteira conecta com a bola. A bola dispara em direção à câmera e passa voando. Cinematografia energética, estilo comercial da Nike.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Aqui está o fluxo de trabalho\n1. carregar imagem(ns)\n2. Adicionar prompt\n3. e deixar o Renoise fazer o resto https://t.co/N9d3JbYbCd",
+    "zh-CN": "---\n女足球运动员在阳光明媚的训练场上发起一记有力的射门。镜头从她身后以平滑的弧线跟踪，然后迅速转到低位前角，正好在她的靴子与球接触时。球飞速朝镜头飞来并掠过。充满活力的耐克风格商业电影摄影。\n\n--- 线程继续 ---\n[线程 1] 这是工作流程\n1. 上传图片\n2. 添加 prompt\n3. 然后让 Renoise 完成剩下的工作 https://t.co/N9d3JbYbCd\n---"
+  }
+}

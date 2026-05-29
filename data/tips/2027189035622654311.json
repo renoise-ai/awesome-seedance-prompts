@@ -1,0 +1,37 @@
+{
+  "id": "2027189035622654311",
+  "type": "tip",
+  "url": "https://x.com/mxvdxn/status/2027189035622654311",
+  "language": "en",
+  "created_at": "2026-02-27",
+  "author": {
+    "name": "DAN",
+    "username": "mxvdxn",
+    "url": "https://x.com/mxvdxn",
+    "followers": 15346
+  },
+  "text": "Seedance 2.0 via @yapper_so \n\nUsing my previous Sora 2 prompt, all the audio, including music, sound effects, and cut, edit, and camera work, comes directly from the model. I only applied filters to the video using CapCut. https://t.co/q4OabNT3II",
+  "content": "Reuse a proven Sora 2 prompt in Seedance 2.0 to generate not just visuals but also music, sound effects, and the cut/edit/camera work directly from the model, then apply only final video filters in CapCut for post-processing.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 43,
+    "retweets": 4,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 7,
+    "views": 1012
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027189035622654311.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027187855119028224/img/BQbZ_e6qtNAX2Vth.jpg"
+  },
+  "translations": {
+    "es": "Reutiliza un prompt probado de Sora 2 en Seedance 2.0 para generar no solo imágenes, sino también música, efectos de sonido y el corte/edición/trabajo de cámara directamente desde el modelo, luego aplica solo los filtros finales de video en CapCut para el post-procesamiento.",
+    "fr": "Réutilisez un prompt Sora 2 éprouvé dans Seedance 2.0 pour générer non seulement des visuels, mais aussi de la musique, des effets sonores et le montage/coupure/travail de caméra directement à partir du modèle, puis appliquez uniquement les filtres vidéo finaux dans CapCut pour le post-traitement.",
+    "ja": "---\nSeedance 2.0で実績のあるSora 2プロンプトを再利用し、モデルから直接ビジュアルだけでなく音楽、効果音、カット/編集/カメラワークも生成し、最終的なビデオフィルターのみをCapCutでポストプロセッシングとして適用します。",
+    "ko": "Seedance 2.0에서 검증된 Sora 2 프롬프트를 재사용하여 시각적 요소뿐만 아니라 음악, 음향 효과, 컷/편집/카메라 작업을 모델에서 직접 생성한 후, 최종 비디오 필터만 CapCut에서 후처리로 적용합니다.",
+    "pt-BR": "Reutilize um prompt comprovado do Sora 2 no Seedance 2.0 para gerar não apenas visuais, mas também música, efeitos sonoros e o corte/edição/trabalho de câmera diretamente do modelo, aplicando apenas filtros finais de vídeo no CapCut para pós-processamento.",
+    "zh-CN": "在Seedance 2.0中重复使用一个经过验证的Sora 2 prompt，不仅生成视觉效果，还生成音乐、音效以及直接从模型中获得剪辑/编辑/镜头操作，然后仅在CapCut中应用最终视频滤镜进行后期处理。"
+  }
+}

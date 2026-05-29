@@ -1,0 +1,37 @@
+{
+  "id": "2056840097455014017",
+  "type": "tip",
+  "url": "https://x.com/aimikoda/status/2056840097455014017",
+  "language": "en",
+  "created_at": "2026-05-19",
+  "author": {
+    "name": "Kōda",
+    "username": "aimikoda",
+    "url": "https://x.com/aimikoda",
+    "followers": 15924
+  },
+  "text": "Seedance 2.0 vs Gemini Omni, tested under the same conditions 👀\n\nI was working on a new storyboard. After generating it with Seedance 2.0, I gave the exact same prompt + storyboard reference + character reference to Gemini Omni as well.\n\nResult: Gemini Omni surprised me with style quality and got closer than I expected in prompt adherence. But Seedance still feels ahead for storyboard execution, motion energy, camera language and environmental interaction. Gemini looks good. Seedance feels directed.\n\nYou can see them in the video and the storyboard sheet is shown at the end.\n\nWhich one do you think is more useful for this kind of work?",
+  "content": "Use the exact same prompt plus a storyboard reference and a character reference to compare Seedance 2.0 outputs against another model under identical conditions.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 402,
+    "retweets": 37,
+    "replies": 61,
+    "quotes": 7,
+    "bookmarks": 205,
+    "views": 32698
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056840097455014017.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056839124221341696/img/0v4awTx9SRn5erV3.jpg"
+  },
+  "translations": {
+    "es": "Utiliza el mismo prompt exacto más una referencia de storyboard y una referencia de personaje para comparar los resultados de Seedance 2.0 con otro modelo bajo condiciones idénticas.",
+    "fr": "Utilisez exactement le même prompt ainsi qu'une référence de storyboard et une référence de personnage pour comparer les résultats de Seedance 2.0 avec ceux d'un autre modèle dans des conditions identiques.",
+    "ja": "同じプロンプトに加えて、ストーリーボードの参照とキャラクターの参照を使用し、同一条件下でSeedance 2.0の出力を別のモデルと比較します。",
+    "ko": "동일한 조건에서 Seedance 2.0 출력과 다른 모델을 비교하기 위해 동일한 prompt에 스토리보드 참조와 캐릭터 참조를 추가하여 사용하세요.",
+    "pt-BR": "Use o mesmo prompt, além de uma referência de storyboard e uma referência de personagem, para comparar os resultados do Seedance 2.0 com outro modelo sob condições idênticas.",
+    "zh-CN": "使用完全相同的prompt，加上分镜参考和角色参考，在相同条件下比较Seedance 2.0的输出与另一个模型的输出。"
+  }
+}

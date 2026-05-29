@@ -1,0 +1,37 @@
+{
+  "id": "2038253972553896294",
+  "type": "prompt",
+  "url": "https://x.com/Damn_coder/status/2038253972553896294",
+  "language": "en",
+  "created_at": "2026-03-29",
+  "author": {
+    "name": "D-Coder",
+    "username": "Damn_coder",
+    "url": "https://x.com/Damn_coder",
+    "followers": 104530
+  },
+  "text": "🚨 Dreamina Seedance 2.0 is now live on Dreamina\n\nHonestly… this might be one of the most interesting AI video tools creators can experiment with right now.\n\nIf you make content online, keep reading.\n\nHere’s one prompt that surprised me 👇\n\nPrompt: Keep the movements, postures, body proportions, shooting angles, and road background of the girl in the white dress in the video unchanged, while precisely removing the passers-by from the frame.",
+  "content": "Keep the movements, postures, body proportions, shooting angles, and road background of the girl in the white dress in the video unchanged, while precisely removing the passers-by from the frame.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 78,
+    "retweets": 21,
+    "replies": 21,
+    "quotes": 0,
+    "bookmarks": 15,
+    "views": 4474
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038253972553896294.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038253919865106432/img/nN8mUUg99QcgrUs6.jpg"
+  },
+  "translations": {
+    "es": "Mantén los movimientos, posturas, proporciones del cuerpo, ángulos de cámara y el fondo de la carretera de la chica con el vestido blanco en el video sin cambios, mientras eliminas con precisión a los transeúntes del encuadre.",
+    "fr": "Conservez les mouvements, postures, proportions corporelles, angles de prise de vue et l'arrière-plan routier de la fille en robe blanche dans la vidéo inchangés, tout en supprimant précisément les passants du cadre.",
+    "ja": "ビデオ内の白いドレスを着た女の子の動き、姿勢、体の比率、撮影角度、道路の背景をそのままにしつつ、フレームから通行人を正確に取り除いてください。",
+    "ko": "비디오에서 흰 드레스를 입은 소녀의 움직임, 자세, 신체 비율, 촬영 각도, 도로 배경은 그대로 유지하면서, 프레임에서 지나가는 사람들을 정확히 제거하세요.",
+    "pt-BR": "Mantenha os movimentos, posturas, proporções corporais, ângulos de filmagem e o fundo da estrada da garota de vestido branco no vídeo inalterados, enquanto remove precisamente os transeuntes do quadro.",
+    "zh-CN": "保持视频中白裙女孩的动作、姿势、身体比例、拍摄角度和道路背景不变，同时精确地从画面中移除路人。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2037616401310212501",
+  "type": "tip",
+  "url": "https://x.com/PhotogenicWeekE/status/2037616401310212501",
+  "language": "ja",
+  "created_at": "2026-03-27",
+  "author": {
+    "name": "Photogenic Weekend",
+    "username": "PhotogenicWeekE",
+    "url": "https://x.com/PhotogenicWeekE",
+    "followers": 8516
+  },
+  "text": "この動画用のPrompt、Z-Image-Baseで出すとこうなった。なるほど感！(笑) Seedance 2.0、LTX-2.3、どちらも1シーン異なる感じか…。 https://t.co/WRgAeuSwu7",
+  "content": "Use the same prompt across Seedance 2.0, LTX-2.3, and Grok (API/720p) to directly compare output quality on an HD 15-second MV.  \nFor LTX-2.3, apply x2x2 upscale to increase resolution when generating the same prompt.  \nGenerate via Grok using the API at 720p resolution for the same-prompt comparison.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 6,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 1,
+    "views": 1274
+  },
+  "video": null,
+  "extra_content": {
+    "quoted_text": "深夜のSeedance 2.0、LTX-2.3(x2x2 upscale)、Grok(api/720p) 、同一PromptでのHD15秒MV対決♪(笑) Seedance 2.0は流石だけどLTX-2.3も負けてない。で、Grokは！？ https://t.co/a6osMdO1YT"
+  },
+  "translations": {
+    "en": "Use the same prompt across Seedance 2.0, LTX-2.3, and Grok (API/720p) to directly compare output quality on an HD 15-second MV.  \nFor LTX-2.3, apply x2x2 upscale to increase resolution when generating the same prompt.  \nGenerate via Grok using the API at 720p resolution for the same-prompt comparison.\n\n--- QUOTED TWEET ---\nLate-night Seedance 2.0, LTX-2.3 (x2x2 upscale), Grok (api/720p), HD 15-second MV showdown with the same prompt♪(lol) Seedance 2.0 is impressive as expected, but LTX-2.3 is holding its own. And Grok!? https://t.co/a6osMdO1YT\n---",
+    "es": "Usa el mismo prompt en Seedance 2.0, LTX-2.3 y Grok (API/720p) para comparar directamente la calidad de salida en un MV de 15 segundos en HD.  \nPara LTX-2.3, aplica x2x2 upscale para aumentar la resolución al generar el mismo prompt.  \nGenera a través de Grok usando la API a una resolución de 720p para la comparación del mismo prompt.\n\n--- TWEET CITADO ---\n深夜のSeedance 2.0、LTX-2.3(x2x2 upscale)、Grok(api/720p) 、同一PromptでのHD15秒MV対決♪(笑) Seedance 2.0は流石だけどLTX-2.3も負けてない。で、Grokは！？ https://t.co/a6osMdO1YT",
+    "fr": "Utilisez le même prompt sur Seedance 2.0, LTX-2.3 et Grok (API/720p) pour comparer directement la qualité de sortie sur un MV HD de 15 secondes.  \nPour LTX-2.3, appliquez un upscale x2x2 pour augmenter la résolution lors de la génération avec le même prompt.  \nGénérez via Grok en utilisant l'API à une résolution de 720p pour la comparaison avec le même prompt.\n\n--- TWEET CITÉ ---\n深夜のSeedance 2.0、LTX-2.3(x2x2 upscale)、Grok(api/720p) 、同一PromptでのHD15秒MV対決♪(笑) Seedance 2.0は流石だけどLTX-2.3も負けてない。で、Grokは！？ https://t.co/a6osMdO1YT",
+    "ko": "Seedance 2.0, LTX-2.3, Grok (API/720p)에서 동일한 prompt를 사용하여 HD 15초 MV의 출력 품질을 직접 비교하세요.  \nLTX-2.3의 경우, 동일한 prompt를 생성할 때 해상도를 높이기 위해 x2x2 업스케일을 적용하세요.  \nGrok을 통해 API에서 720p 해상도로 동일한 prompt 비교를 위해 생성하세요.\n\n--- 인용 트윗 ---\n深夜のSeedance 2.0、LTX-2.3(x2x2 upscale)、Grok(api/720p) 、同一PromptでのHD15秒MV対決♪(笑) Seedance 2.0は流石だけどLTX-2.3も負けてない。で、Grokは！？ https://t.co/a6osMdO1YT",
+    "pt-BR": "Use o mesmo prompt no Seedance 2.0, LTX-2.3 e Grok (API/720p) para comparar diretamente a qualidade de saída em um MV de 15 segundos em HD.  \nPara o LTX-2.3, aplique o upscale x2x2 para aumentar a resolução ao gerar o mesmo prompt.  \nGere via Grok usando a API em resolução 720p para a comparação com o mesmo prompt.\n\n--- TWEET CITADO ---\n深夜のSeedance 2.0、LTX-2.3(x2x2 upscale)、Grok(api/720p) 、同一PromptでのHD15秒MV対決♪(笑) Seedance 2.0は流石だけどLTX-2.3も負けてない。で、Grokは！？ https://t.co/a6osMdO1YT\n---",
+    "zh-CN": "使用相同的prompt在Seedance 2.0、LTX-2.3和Grok (API/720p)上直接比较HD 15秒MV的输出质量。  \n对于LTX-2.3，在生成相同prompt时应用x2x2 upscale以提高分辨率。  \n通过Grok使用API以720p分辨率生成以进行相同prompt的比较。\n\n--- 引用推文 ---\n深夜的Seedance 2.0、LTX-2.3(x2x2 upscale)、Grok(api/720p)，同一Prompt的HD15秒MV对决♪(笑) Seedance 2.0果然厉害，但LTX-2.3也不逊色。那么，Grok呢！？ https://t.co/a6osMdO1YT"
+  }
+}

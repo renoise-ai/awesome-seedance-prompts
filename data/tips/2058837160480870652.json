@@ -1,0 +1,37 @@
+{
+  "id": "2058837160480870652",
+  "type": "tip",
+  "url": "https://x.com/johnAGI168/status/2058837160480870652",
+  "language": "zh",
+  "created_at": "2026-05-25",
+  "author": {
+    "name": "John",
+    "username": "johnAGI168",
+    "url": "https://x.com/johnAGI168",
+    "followers": 8510
+  },
+  "text": "复刻热门短视频🎬\n\n真人➕动漫匹配剪辑，不过这个还是比较难复刻，虽然没有成功复刻，但是视频效果还是很酷炫😄\n\nSeedance 2.0 prompt 👇\n\n第一部分：开场引入\n- 时间段：00:00至00:01\n- 景别与镜头类型：中近景，固定镜头\n- 运镜轨迹与速度感：镜头无位移，画面极具爆发力，速度极快\n- https://t.co/NpE9dsd2uh",
+  "content": "在 Seedance 2.0 提示词中按时间段拆分镜头（如 00:00–00:01）分别描述每段画面与动作  \n为每个时间段明确景别与镜头类型（如中近景、固定镜头）以稳定构图  \n在提示词中具体写运镜轨迹与速度感（如镜头无位移、画面爆发力强、速度极快）来控制节奏与动感",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 48,
+    "retweets": 9,
+    "replies": 19,
+    "quotes": 1,
+    "bookmarks": 44,
+    "views": 4157
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058837160480870652.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058836403333525504/img/PGhaNqCosNI3T1du.jpg"
+  },
+  "translations": {
+    "en": "In Seedance 2.0 prompts, split the shots by time segments (e.g., 00:00–00:01) and describe each segment's visuals and actions separately.  \nSpecify the shot size and camera type for each time segment (e.g., medium close-up, static shot) to maintain stable composition.  \nIn the prompt, specifically write the camera movement trajectory and sense of speed (e.g., no camera displacement, strong visual impact, extremely fast) to control rhythm and dynamism.",
+    "es": "En los prompts de Seedance 2.0, divide las tomas por segmentos de tiempo (como 00:00–00:01) y describe cada segmento de imagen y acción por separado.  \nEspecifica claramente el tipo de plano y tipo de cámara para cada segmento de tiempo (como plano medio-corto, cámara fija) para mantener una composición estable.  \nEn el prompt, escribe específicamente la trayectoria y la sensación de velocidad de la cámara (como sin desplazamiento de cámara, imagen con gran explosividad, velocidad extremadamente rápida) para controlar el ritmo y la dinámica.",
+    "fr": "Dans les instructions de Seedance 2.0, divisez les plans par segments de temps (par exemple, 00:00–00:01) et décrivez chaque scène et action séparément.  \nPour chaque segment de temps, précisez le type de plan et de prise de vue (par exemple, plan moyen rapproché, caméra fixe) pour une composition stable.  \nDans les instructions, décrivez précisément la trajectoire et la sensation de vitesse de la caméra (par exemple, caméra sans déplacement, image avec une forte intensité, vitesse très rapide) pour contrôler le rythme et le dynamisme.",
+    "ja": "---\nSeedance 2.0 のプロンプトでは、時間帯ごとにショットを分割し（例: 00:00–00:01）、各シーンと動作をそれぞれ説明します。  \n各時間帯において、安定した構図を保つために、ショットの距離とタイプ（例: 中近景、固定カメラ）を明確にします。  \nプロンプト内で、カメラの動きの軌跡と速度感（例: カメラの移動なし、画面の爆発力が強い、速度が非常に速い）を具体的に記述し、リズムとダイナミズムをコントロールします。  \n---",
+    "ko": "Seedance 2.0 프롬프트에서 시간대별로 샷을 나누어 각 장면과 동작을 설명합니다 (예: 00:00–00:01).  \n각 시간대에 대해 명확한 샷 크기와 카메라 유형을 지정하여 (예: 중근경, 고정 샷) 구도를 안정화합니다.  \n프롬프트에서 카메라 이동 경로와 속도감을 구체적으로 작성하여 (예: 카메라 무이동, 화면 폭발력 강함, 속도 매우 빠름) 리듬과 역동성을 제어합니다.",
+    "pt-BR": "No Seedance 2.0, divida o prompt em segmentos de tempo (como 00:00–00:01) para descrever separadamente cada cena e ação.  \nPara cada segmento de tempo, especifique claramente o tipo de plano e o tipo de câmera (como plano médio, câmera fixa) para manter a composição estável.  \nNo prompt, descreva especificamente a trajetória e a sensação de velocidade da câmera (como sem deslocamento, forte impacto visual, velocidade extremamente rápida) para controlar o ritmo e a dinâmica."
+  }
+}

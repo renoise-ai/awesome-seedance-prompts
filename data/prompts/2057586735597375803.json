@@ -1,0 +1,37 @@
+{
+  "id": "2057586735597375803",
+  "type": "prompt",
+  "url": "https://x.com/migrok293703/status/2057586735597375803",
+  "language": "zh",
+  "created_at": "2026-05-21",
+  "author": {
+    "name": "migrok",
+    "username": "migrok293703",
+    "url": "https://x.com/migrok293703",
+    "followers": 3589
+  },
+  "text": "Part 1\n\nGenerated with Seedance 2.0\n\nPrompt:\n\n现代中国3D动画风格。 https://t.co/bVuLjhhHki",
+  "content": "现代中国3D动画风格。",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 3091,
+    "retweets": 121,
+    "replies": 13,
+    "quotes": 0,
+    "bookmarks": 1268,
+    "views": 172365
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057586735597375803.mp4",
+    "thumbnail": "https://pbs.twimg.com/media/HI4EYJoWcAAR0v7.jpg"
+  },
+  "translations": {
+    "en": "Modern Chinese 3D animation style.",
+    "es": "Estilo de animación 3D de China moderna.",
+    "fr": "Style d'animation 3D de la Chine moderne.",
+    "ja": "現代中国3Dアニメーションスタイル。",
+    "ko": "현대 중국 3D 애니메이션 스타일.",
+    "pt-BR": "Estilo de animação 3D da China moderna."
+  }
+}

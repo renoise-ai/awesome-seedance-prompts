@@ -1,0 +1,37 @@
+{
+  "id": "2023135990806904953",
+  "type": "prompt",
+  "url": "https://x.com/bulkedsol/status/2023135990806904953",
+  "language": "en",
+  "created_at": "2026-02-15",
+  "author": {
+    "name": "bulk",
+    "username": "bulkedsol",
+    "url": "https://x.com/bulkedsol",
+    "followers": 1936
+  },
+  "text": "@charliebcurran Seedance 2.0\n\nPrompt: Society progresses once the caveman discovers Perp Schmeg https://t.co/YdYWChQ1Wx",
+  "content": "Society progresses once the caveman discovers Perp Schmeg",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 117,
+    "retweets": 12,
+    "replies": 16,
+    "quotes": 0,
+    "bookmarks": 29,
+    "views": 16822
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023135990806904953.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023135927548145664/img/SdiIoB7UStE7VNhD.jpg"
+  },
+  "translations": {
+    "es": "La sociedad progresa una vez que el cavernícola descubre Perp Schmeg.",
+    "fr": "La société progresse une fois que l'homme des cavernes découvre Perp Schmeg.",
+    "ja": "社会は、洞窟人がPerp Schmegを発見したときに進歩する。",
+    "ko": "사회는 원시인이 Perp Schmeg을 발견할 때 진보한다.",
+    "pt-BR": "A sociedade progride quando o homem das cavernas descobre Perp Schmeg",
+    "zh-CN": "一旦穴居人发现Perp Schmeg，社会就会进步。"
+  }
+}

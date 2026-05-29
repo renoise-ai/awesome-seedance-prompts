@@ -1,0 +1,42 @@
+{
+  "id": "2057828797697642877",
+  "type": "prompt",
+  "url": "https://x.com/martinleblanc/status/2057828797697642877",
+  "language": "en",
+  "created_at": "2026-05-22",
+  "author": {
+    "name": "Martin LeBlanc",
+    "username": "martinleblanc",
+    "url": "https://x.com/martinleblanc",
+    "followers": 8783
+  },
+  "text": "🇸🇪 Inspired by a recent weekend trip to Sweden here's a video set in the Swedish woods.\n\nUsing GPT-2 for character sheets, Seedance 2 for videos. \n\nSeedance 2 prompt example:\n\na swedish boy walks home to his house. In the way he uses the new magic wand to transform different objects into different objects from the 80s.\n\n35 mm. keep color grading. no music. cinematic. masterful lighting. hand-held. depth of field.\n\nMusic was done on Magnific using Elevenlabs music generator.\n\nIn post production some RGB-shift + noise to add that retro look.\n\nLink to Spaces workflow below.",
+  "content": "a swedish boy walks home to his house. In the way he uses the new magic wand to transform different objects into different objects from the 80s.\n\n35 mm. keep color grading. no music. cinematic. masterful lighting. hand-held. depth of field.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 27,
+    "retweets": 2,
+    "replies": 3,
+    "quotes": 0,
+    "bookmarks": 14,
+    "views": 1079
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057828797697642877.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057828132174913536/img/WFbGP31JRGHXZ_8j.jpg"
+  },
+  "extra_content": {
+    "thread_texts": [
+      "Spaces workflow: https://t.co/VcDRZiqW0A"
+    ]
+  },
+  "translations": {
+    "es": "---\nun niño sueco camina a su casa. En el camino, usa la nueva varita mágica para transformar diferentes objetos en diferentes objetos de los años 80.\n\n35 mm. mantener la gradación de color. sin música. cinematográfico. iluminación magistral. cámara en mano. profundidad de campo.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Flujo de trabajo de Spaces: https://t.co/VcDRZiqW0A\n---",
+    "fr": "---\nun garçon suédois rentre chez lui. En chemin, il utilise la nouvelle baguette magique pour transformer différents objets en objets des années 80.\n\n35 mm. garder l'étalonnage des couleurs. pas de musique. cinématographique. éclairage magistral. caméra à l'épaule. profondeur de champ.\n\n--- SUITE DU FIL ---\n[Fil 1] Flux de travail Spaces : https://t.co/VcDRZiqW0A\n---",
+    "ja": "---\nスウェーデンの少年が家に帰る途中、新しい魔法の杖を使って様々な物を80年代の異なる物に変えます。\n\n35 mm. カラーグレーディングを維持。音楽なし。シネマティック。巧みな照明。ハンドヘルド。被写界深度。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Spaces workflow: https://t.co/VcDRZiqW0A\n---",
+    "ko": "---\n스웨덴 소년이 집으로 걸어가고 있습니다. 가는 길에 그는 새로운 마법 지팡이를 사용하여 다양한 물건들을 80년대의 다른 물건들로 변형시킵니다.\n\n35 mm. 색 보정 유지. 음악 없음. 시네마틱. 뛰어난 조명. 핸드헬드. 피사계 심도.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Spaces workflow: https://t.co/VcDRZiqW0A\n---",
+    "pt-BR": "---\num menino sueco caminha para casa. No caminho, ele usa a nova varinha mágica para transformar diferentes objetos em objetos dos anos 80.\n\n35 mm. manter a gradação de cores. sem música. cinematográfico. iluminação magistral. câmera na mão. profundidade de campo.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Fluxo de trabalho do Spaces: https://t.co/VcDRZiqW0A\n---",
+    "zh-CN": "---\n一个瑞典男孩走回家。在路上，他使用新的魔法棒将不同的物体变成80年代的不同物品。\n\n35 mm。保持色彩分级。无音乐。电影感。精湛的灯光。手持。景深。\n\n--- 线程继续 ---\n[线程 1] Spaces 工作流程：https://t.co/VcDRZiqW0A\n---"
+  }
+}

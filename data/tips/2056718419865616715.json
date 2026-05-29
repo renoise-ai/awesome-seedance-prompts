@@ -1,0 +1,37 @@
+{
+  "id": "2056718419865616715",
+  "type": "tip",
+  "url": "https://x.com/Wigglenatorr/status/2056718419865616715",
+  "language": "en",
+  "created_at": "2026-05-19",
+  "author": {
+    "name": "💫Wigglenator💫",
+    "username": "Wigglenatorr",
+    "url": "https://x.com/Wigglenatorr",
+    "followers": 370
+  },
+  "text": "This was from an old prompt I was trying out in Seedance 2. I love that the flow of the body and the prompt adherence are top notch, but I would prefer it not to try and default to something akin to Ghibli. That's likely my fault though as I didn't specify a face or other details in regards to the dancer.\n\nJust a new thing to learn from, especially now that I have a whole new prompt skeleton.",
+  "content": "Specify the dancer’s face and other character details in your Seedance 2 prompt to avoid the model defaulting to a Ghibli-like style.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 13,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 1,
+    "views": 249
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056718419865616715.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056717610465533952/img/nNgYgogAGMKYqanP.jpg"
+  },
+  "translations": {
+    "es": "Especifica el rostro del bailarín y otros detalles del personaje en tu prompt de Seedance 2 para evitar que el modelo adopte un estilo similar al de Ghibli.",
+    "fr": "Spécifiez le visage du danseur et d'autres détails de personnage dans votre prompt Seedance 2 pour éviter que le modèle ne prenne par défaut un style à la Ghibli.",
+    "ja": "Seedance 2のプロンプトでダンサーの顔や他のキャラクターの詳細を指定することで、モデルがジブリ風のスタイルにデフォルトするのを避けることができます。",
+    "ko": "Seedance 2 프롬프트에서 댄서의 얼굴과 다른 캐릭터 세부 사항을 지정하여 모델이 기본적으로 지브리 스타일로 설정되는 것을 방지하세요.",
+    "pt-BR": "Especifique o rosto do dançarino e outros detalhes do personagem no seu prompt do Seedance 2 para evitar que o modelo adote automaticamente um estilo semelhante ao Ghibli.",
+    "zh-CN": "在您的Seedance 2 prompt中指定舞者的面部和其他角色细节，以避免模型默认采用吉卜力风格。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2026479832733757567",
+  "type": "tip",
+  "url": "https://x.com/CoffeeVectors/status/2026479832733757567",
+  "language": "en",
+  "created_at": "2026-02-25",
+  "author": {
+    "name": "CoffeeVectors",
+    "username": "CoffeeVectors",
+    "url": "https://x.com/CoffeeVectors",
+    "followers": 41143
+  },
+  "text": "Fear. Fear Remembers.\nQuick test with talking Polar Bears in Seedance 2. Couldn’t decide between black and white and color so posted both. What do you think? Edited together from separate clips, some sound editing in post, music by me in @sunomusic https://t.co/kSTsAAAyS5",
+  "content": "Edited together from separate Seedance 2 clips to create the final video.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 34,
+    "retweets": 0,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 9,
+    "views": 1662
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026479832733757567.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026479661983629312/img/X-cpG6T7qoYbUr0A.jpg"
+  },
+  "translations": {
+    "es": "Editado a partir de clips separados de Seedance 2 para crear el video final.",
+    "fr": "Monté à partir de clips Seedance 2 séparés pour créer la vidéo finale.",
+    "ja": "別々のSeedance 2クリップを編集して最終ビデオを作成しました。",
+    "ko": "각각의 Seedance 2 클립을 편집하여 최종 비디오를 제작했습니다.",
+    "pt-BR": "Editado a partir de clipes separados do Seedance 2 para criar o vídeo final.",
+    "zh-CN": "从不同的Seedance 2片段编辑在一起，制作成最终视频。"
+  }
+}

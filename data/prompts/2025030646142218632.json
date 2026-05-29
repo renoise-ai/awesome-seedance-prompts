@@ -1,0 +1,37 @@
+{
+  "id": "2025030646142218632",
+  "type": "prompt",
+  "url": "https://x.com/hanifproduktif/status/2025030646142218632",
+  "language": "en",
+  "created_at": "2026-02-21",
+  "author": {
+    "name": "Hanif | AI For Productivity",
+    "username": "hanifproduktif",
+    "url": "https://x.com/hanifproduktif",
+    "followers": 17859
+  },
+  "text": "Seedance 2.0\n\nPrompt: Create a Pixar-style film about Punch that will make grown men cry https://t.co/w7ZLm0p8Fw",
+  "content": "Create a Pixar-style film about Punch that will make grown men cry",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 16,
+    "retweets": 2,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 9,
+    "views": 1703
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025030646142218632.mp4",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025030597249204225/pu/img/TVIqlQSf7jsRcvLG.jpg"
+  },
+  "translations": {
+    "es": "Crea una película al estilo Pixar sobre Punch que hará llorar a hombres adultos.",
+    "fr": "Créez un film de style Pixar sur Punch qui fera pleurer les hommes adultes.",
+    "ja": "パンチについてのピクサースタイルの映画を作成し、大人の男性を泣かせる",
+    "ko": "성인 남성도 눈물을 흘리게 할 픽사 스타일의 Punch에 관한 영화를 만들어보세요.",
+    "pt-BR": "Crie um filme no estilo Pixar sobre Punch que fará homens adultos chorarem",
+    "zh-CN": "制作一部皮克斯风格的关于Punch的电影，让成年男子感动落泪。"
+  }
+}

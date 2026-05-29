@@ -1,0 +1,38 @@
+{
+  "id": "2059593381391847656",
+  "type": "tip",
+  "url": "https://x.com/wildanlazuardi/status/2059593381391847656",
+  "language": "id",
+  "created_at": "2026-05-27",
+  "author": {
+    "name": "WLDN | AI for Creativity",
+    "username": "wildanlazuardi",
+    "url": "https://x.com/wildanlazuardi",
+    "followers": 1196
+  },
+  "text": "Sebenernya buat konten seedance 2.0 ituuu ga susah2 banget guys..\n\nCukup kasi detail tiap detiknya.. \n\nKita bisa bikin UGC kaya gini cuma pake prompt di seedance 2.0\n\nKalo rame aku spill promptnya 🫣 https://t.co/JqNB7FieS6",
+  "content": "Berikan detail per detik dalam prompt Seedance 2.0 untuk mempermudah pembuatan konten/UGC hanya dengan prompt",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 13,
+    "retweets": 2,
+    "replies": 1,
+    "quotes": 1,
+    "bookmarks": 6,
+    "views": 456
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059593381391847656.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059593314371002368/img/S27GTbzPh5rZKfzp.jpg"
+  },
+  "translations": {
+    "en": "Provide second-by-second details in the Seedance 2.0 prompt to facilitate content/UGC creation with just a prompt.",
+    "es": "Proporcione detalles por segundo en el prompt Seedance 2.0 para facilitar la creación de contenido/UGC solo con el prompt.",
+    "fr": "Donnez des détails par seconde dans le prompt Seedance 2.0 pour faciliter la création de contenu/UGC uniquement avec le prompt.",
+    "ja": "Seedance 2.0のプロンプトにおいて、コンテンツ/UGCの作成を簡単にするために、プロンプト内で毎秒の詳細を提供してください。",
+    "ko": "Seedance 2.0의 프롬프트에서 초당 세부 사항을 제공하여 프롬프트만으로 콘텐츠/UGC 제작을 용이하게 하십시오.",
+    "pt-BR": "Forneça detalhes por segundo no prompt Seedance 2.0 para facilitar a criação de conteúdo/UGC apenas com o prompt.",
+    "zh-CN": "在 Seedance 2.0 的 prompt 中提供每秒的详细信息，以便仅通过 prompt 简化内容/UGC 的制作。"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2055772967963910640",
+  "type": "tip",
+  "url": "https://x.com/0kncn/status/2055772967963910640",
+  "language": "tr",
+  "created_at": "2026-05-16",
+  "author": {
+    "name": "Okan Can",
+    "username": "0kncn",
+    "url": "https://x.com/0kncn",
+    "followers": 3208
+  },
+  "text": "GPT Image 2 ve Seedance 2.0 ile Night Edge anime denemesi.\n\nYağmurlu bir çatı, karanlık bir şehir ve tek bir kılıç darbesi.\n\nÖnce storyboard ile sahnenin ritmini kurdum, sonra aynı akışı video promptuna çevirdim.\n\nJaponca diyalogları ve İngilizce altyazı yönlendirmesini de direkt prompt içinde çözdüm.\n\nAnime tarafında en çok hoşuma giden şey şu oldu: küçük bir kadraj değişimi bile sahnenin bütün gerilimini değiştirebiliyor.",
+  "content": "Önce storyboard ile sahnenin ritmini/akışını planla, sonra aynı akışı Seedance video promptuna adım adım çevirerek kurguyu koru.  \nJaponca diyalogları ve İngilizce altyazı yönlendirmesini doğrudan prompt içine yazarak konuşma+altyazıyı tek promptta yönet.  \nAnime sahnelerinde gerilimi artırmak için promptta küçük kadraj değişimleri (hafif zoom/pan/çerçeve kaydırma) tanımlayarak duyguyu yeniden şekillendir.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 58,
+    "retweets": 8,
+    "replies": 6,
+    "quotes": 1,
+    "bookmarks": 40,
+    "views": 3282
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055772967963910640.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055772896044224513/img/_RVsYGfklhBJSuPQ.jpg"
+  },
+  "translations": {
+    "en": "First, plan the rhythm/flow of the scene with a storyboard, then translate the same flow step by step into a Seedance video prompt to maintain the editing.  \nManage the Japanese dialogues and English subtitle directions by writing them directly into the prompt to control both speech and subtitles in a single prompt.  \nTo increase tension in anime scenes, redefine the emotion by specifying small frame changes (slight zoom/pan/frame shift) in the prompt.",
+    "es": "Primero planifica el ritmo/flujo de la escena con un storyboard, luego traduce el mismo flujo paso a paso en el prompt de video de Seedance para mantener la edición.  \nEscribe directamente en el prompt los diálogos en japonés y la instrucción de subtítulos en inglés para gestionar el habla+subtítulos en un solo prompt.  \nPara aumentar la tensión en escenas de anime, redefine la emoción en el prompt describiendo pequeños cambios de encuadre (ligero zoom/pan/desplazamiento de marco).",
+    "fr": "Commence par planifier le rythme/le flux de la scène avec un storyboard, puis convertis le même flux en un prompt vidéo Seedance étape par étape pour préserver le montage.  \nIntègre directement les dialogues en japonais et les instructions de sous-titrage en anglais dans le prompt pour gérer le dialogue+sous-titres en un seul prompt.  \nPour augmenter la tension dans les scènes d'anime, définis de petits changements de cadrage dans le prompt (léger zoom/pan/déplacement du cadre) pour remodeler l'émotion.",
+    "ja": "---\nまず、ストーリーボードでシーンのリズム/流れを計画し、その後、同じ流れをSeedance video promptにステップバイステップで変換して編集を維持します。  \n日本語のダイアログと英語の字幕指示を直接プロンプトに書き込むことで、会話+字幕を一つのプロンプトで管理します。  \nアニメシーンで緊張感を高めるために、プロンプトで小さなフレーム変更（軽いズーム/パン/フレームシフト）を定義して感情を再構築します。\n---",
+    "ko": "---\n먼저 스토리보드로 장면의 리듬/흐름을 계획하고, 그런 다음 동일한 흐름을 Seedance video prompt에 단계별로 변환하여 편집을 유지하세요.  \n일본어 대화와 영어 자막 지시를 직접 prompt에 작성하여 대화+자막을 하나의 prompt로 관리하세요.  \n애니메이션 장면에서 긴장감을 높이기 위해 prompt에서 작은 프레임 변화(가벼운 zoom/pan/프레임 이동)를 정의하여 감정을 다시 형성하세요.\n---",
+    "pt-BR": "Primeiro, planeje o ritmo/fluxo da cena com o storyboard, depois converta o mesmo fluxo passo a passo no prompt de vídeo do Seedance para manter a edição.  \nEscreva os diálogos em japonês e as instruções de legenda em inglês diretamente no prompt para gerenciar fala+legenda em um único prompt.  \nPara aumentar a tensão em cenas de anime, defina pequenas mudanças de enquadramento no prompt (leve zoom/pan/deslocamento de quadro) para remodelar a emoção.",
+    "zh-CN": "首先使用分镜头剧本规划场景的节奏/流程，然后将相同的流程逐步转换为Seedance视频prompt，以保持剪辑的一致性。  \n将日语对话和英语字幕指示直接写入prompt中，以便在一个prompt中管理对话+字幕。  \n在动漫场景中，通过在prompt中定义小的画面变化（轻微的zoom/pan/框架移动）来增强紧张感，从而重新塑造情感。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2057596282173305004",
+  "type": "prompt",
+  "url": "https://x.com/john87445528/status/2057596282173305004",
+  "language": "zh",
+  "created_at": "2026-05-21",
+  "author": {
+    "name": "John",
+    "username": "john87445528",
+    "url": "https://x.com/john87445528",
+    "followers": 14363
+  },
+  "text": "感谢@iX00AI\nJoined February 2024 的支持 seedance prompt: 以未经处理的iPhone手持拍摄真实视频风格呈现，所有设置自动。画面剧烈手持抖动与呼吸感，自动对焦在高速目标间激烈搜索并频繁延迟失焦，自动白平衡随夕阳与爆炸闪光剧烈切换。保留镜头光晕、高光溢出、紫绿 https://t.co/xuGqFZaFii",
+  "content": "以未经处理的iPhone手持拍摄真实视频风格呈现，所有设置自动。画面剧烈手持抖动与呼吸感，自动对焦在高速目标间激烈搜索并频繁延迟失焦，自动白平衡随夕阳与爆炸闪光剧烈切换。保留镜头光晕、高光溢出、紫绿",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 57,
+    "retweets": 4,
+    "replies": 16,
+    "quotes": 0,
+    "bookmarks": 32,
+    "views": 6901
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057596282173305004.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057595935367331840/img/0_pQUMf4Q9zjjIXe.jpg"
+  },
+  "translations": {
+    "en": "Presented in the style of raw, handheld iPhone footage, with all settings on automatic. The image features intense handheld shaking and a breathing effect, with autofocus aggressively searching between high-speed targets and frequently losing focus. Automatic white balance shifts dramatically with the sunset and explosion flashes. Lens flares, highlight overflow, and purple-green fringing are retained.",
+    "es": "Presentado en un estilo de video real sin procesar, grabado a mano con un iPhone, con todos los ajustes en automático. La imagen muestra un movimiento de cámara en mano agitado y con sensación de respiración, el enfoque automático busca intensamente entre objetivos de alta velocidad y frecuentemente pierde el enfoque. El balance de blancos automático cambia drásticamente con el atardecer y los destellos de explosiones. Se conservan los destellos de lente, la sobreexposición de luces altas y los tonos púrpura y verde.",
+    "fr": "Présenté dans un style vidéo réaliste filmé à main levée avec un iPhone non traité, tous les réglages en mode automatique. L'image présente des secousses violentes et une sensation de respiration, l'autofocus effectue une recherche intense entre des cibles à grande vitesse et perd fréquemment la mise au point avec retard. La balance des blancs automatique change de manière drastique entre le coucher de soleil et les éclats d'explosion. Conservez les halos d'objectif, les débordements de hautes lumières, le pourpre et le vert.",
+    "ja": "---\n未処理のiPhone手持ち撮影のリアルなビデオスタイルで提示され、すべての設定は自動。画面は激しい手持ちの揺れと呼吸感があり、高速の対象間で自動フォーカスが激しく探し、頻繁にフォーカスが遅れて外れる。自動ホワイトバランスは夕焼けと爆発の閃光に応じて激しく切り替わる。レンズフレア、ハイライトのオーバーフロー、紫と緑を保持。",
+    "ko": "---\n처리되지 않은 iPhone 손으로 촬영한 실제 비디오 스타일로, 모든 설정은 자동입니다. 화면은 심한 손떨림과 호흡감을 가지고 있으며, 자동 초점은 고속 목표 사이에서 격렬하게 검색하고 자주 초점이 맞지 않습니다. 자동 화이트 밸런스는 석양과 폭발 섬광에 따라 급격히 전환됩니다. 렌즈 플레어, 하이라이트 오버플로우, 퍼플 프린지 현상을 유지합니다.\n---",
+    "pt-BR": "Apresentado no estilo de vídeo real capturado com iPhone sem tratamento, com todas as configurações automáticas. Imagem com tremores intensos de câmera na mão e sensação de respiração, foco automático buscando intensamente entre alvos em alta velocidade e frequentemente perdendo o foco. O balanço de branco automático alterna drasticamente entre o pôr do sol e os flashes de explosões. Preserva o flare da lente, estouro de altas luzes, púrpura e verde."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2057331160750113056",
+  "type": "tip",
+  "url": "https://x.com/TechByMarkandey/status/2057331160750113056",
+  "language": "en",
+  "created_at": "2026-05-21",
+  "author": {
+    "name": "Markandey Sharma",
+    "username": "TechByMarkandey",
+    "url": "https://x.com/TechByMarkandey",
+    "followers": 65543
+  },
+  "text": "Here is the workflow:\n\nGo to: https://t.co/QT6K06QRT3\n\nOpen Gen Space and select the Seedance 2.0 video model.\n\nEnter your prompt, choose the video length, resolution, and aspect ratio, then click Generate.\n\nIn seconds, your result is ready. https://t.co/iL3hI28JRh",
+  "content": "Open Gen Space and select the Seedance 2.0 video model to start generating videos.  \nEnter your prompt, set video length, resolution, and aspect ratio, then click Generate to produce the video.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 10,
+    "retweets": 0,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 0,
+    "views": 399
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057331160750113056.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057331041480937472/img/_dkhvyTsLZWmySWC.jpg"
+  },
+  "translations": {
+    "es": "Abre Gen Space y selecciona el modelo de video Seedance 2.0 para comenzar a generar videos.  \nIngresa tu prompt, establece la duración del video, la resolución y la relación de aspecto, luego haz clic en Generar para producir el video.",
+    "fr": "---\nOuvrez Gen Space et sélectionnez le modèle vidéo Seedance 2.0 pour commencer à générer des vidéos.  \nEntrez votre prompt, définissez la durée, la résolution et le format de la vidéo, puis cliquez sur Générer pour produire la vidéo.\n---",
+    "ja": "Gen Spaceを開き、Seedance 2.0ビデオモデルを選択してビデオの生成を開始します。  \nプロンプトを入力し、ビデオの長さ、解像度、アスペクト比を設定してから、Generateをクリックしてビデオを作成します。",
+    "ko": "Gen Space를 열고 Seedance 2.0 비디오 모델을 선택하여 비디오 생성을 시작하세요.  \n프롬프트를 입력하고, 비디오 길이, 해상도, 화면 비율을 설정한 후, Generate를 클릭하여 비디오를 생성하세요.",
+    "pt-BR": "Abra o Gen Space e selecione o modelo de vídeo Seedance 2.0 para começar a gerar vídeos.  \nInsira seu prompt, defina a duração do vídeo, resolução e proporção, depois clique em Generate para produzir o vídeo.",
+    "zh-CN": "打开 Gen Space 并选择 Seedance 2.0 视频模型开始生成视频。  \n输入你的 prompt，设置视频长度、分辨率和纵横比，然后点击 Generate 生成视频。"
+  }
+}

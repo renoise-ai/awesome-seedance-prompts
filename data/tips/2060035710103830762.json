@@ -1,0 +1,37 @@
+{
+  "id": "2060035710103830762",
+  "type": "tip",
+  "url": "https://x.com/Alex_Inspira/status/2060035710103830762",
+  "language": "es",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "Alexander Inspira IA",
+    "username": "Alex_Inspira",
+    "url": "https://x.com/Alex_Inspira",
+    "followers": 88406
+  },
+  "text": "Probé Dreamina Seedance 2.0 con referencias multimodales.\n\nEste fue el proceso:\n\n- Haz clic en “Omni Reference”\n- Selecciona el modelo Dreamina Seedance 2.0\n- Añadí una imagen de referencia cinematográfica.\n- Añadí un vídeo de referencia para el movimiento de la cámara.\n- Escribí una indicación de movimiento.\n- Genera\n\nLo realmente impresionante es que la IA fue más allá de simplemente reproducir imágenes.\n\nCaptó el movimiento, el ritmo, el lenguaje de cámara y la atmósfera de la escena para generar resultados mucho más cinematográficos y controlables.",
+  "content": "Haz clic en Omni Reference para usar referencias multimodales en Seedance.  \nSelecciona el modelo Dreamina Seedance 2.0 antes de configurar tus referencias.  \nAñade una imagen de referencia cinematográfica para guiar el estilo/atmósfera de la escena.  \nAñade un vídeo de referencia para controlar el movimiento de la cámara.  \nEscribe una indicación de movimiento (motion prompt) para dirigir la acción y el ritmo.  \nGenera el video después de cargar las referencias y definir la indicación de movimiento.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 10,
+    "retweets": 3,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 1,
+    "views": 2281
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060035710103830762.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060035651777773568/img/Q7z0ZZNdgfqkFAnz.jpg"
+  },
+  "translations": {
+    "en": "Click on Omni Reference to use multimodal references in Seedance.  \nSelect the Dreamina Seedance 2.0 model before setting up your references.  \nAdd a cinematic reference image to guide the style/atmosphere of the scene.  \nAdd a reference video to control the camera movement.  \nWrite a motion prompt to direct the action and rhythm.  \nGenerate the video after uploading the references and defining the motion prompt.",
+    "fr": "Cliquez sur Omni Reference pour utiliser des références multimodales dans Seedance.  \nSélectionnez le modèle Dreamina Seedance 2.0 avant de configurer vos références.  \nAjoutez une image de référence cinématographique pour guider le style/l'atmosphère de la scène.  \nAjoutez une vidéo de référence pour contrôler le mouvement de la caméra.  \nÉcrivez une indication de mouvement (motion prompt) pour diriger l'action et le rythme.  \nGénérez la vidéo après avoir chargé les références et défini l'indication de mouvement.",
+    "ja": "---\nSeedanceでマルチモーダル参照を使用するには、Omni Referenceをクリックしてください。  \n参照を設定する前に、Dreamina Seedance 2.0モデルを選択してください。  \nシーンのスタイル/雰囲気を導くために、映画的な参照画像を追加してください。  \nカメラの動きを制御するために、参照ビデオを追加してください。  \nアクションとリズムを指示するために、動きの指示（motion prompt）を書いてください。  \n参照を読み込み、動きの指示を定義した後、ビデオを生成してください。\n---",
+    "ko": "Omni Reference를 클릭하여 Seedance에서 멀티모달 참조를 사용하세요.  \n참조를 설정하기 전에 Dreamina Seedance 2.0 모델을 선택하세요.  \n장면의 스타일/분위기를 안내하기 위해 시네마틱 참조 이미지를 추가하세요.  \n카메라 움직임을 제어하기 위해 참조 비디오를 추가하세요.  \n동작과 리듬을 지시하기 위해 motion prompt를 작성하세요.  \n참조를 업로드하고 동작 지시를 정의한 후 비디오를 생성하세요.",
+    "pt-BR": "Clique em Omni Reference para usar referências multimodais no Seedance.  \nSelecione o modelo Dreamina Seedance 2.0 antes de configurar suas referências.  \nAdicione uma imagem de referência cinematográfica para guiar o estilo/atmosfera da cena.  \nAdicione um vídeo de referência para controlar o movimento da câmera.  \nEscreva uma indicação de movimento (motion prompt) para dirigir a ação e o ritmo.  \nGere o vídeo após carregar as referências e definir a indicação de movimento.",
+    "zh-CN": "---\n点击Omni Reference以在Seedance中使用多模态参考。  \n在配置参考之前，选择Dreamina Seedance 2.0模型。  \n添加一张电影风格的参考图片以引导场景的风格/氛围。  \n添加一个参考视频以控制摄像机的运动。  \n写一个运动提示（motion prompt）来指导动作和节奏。  \n在加载参考并定义运动提示后生成视频。\n---"
+  }
+}

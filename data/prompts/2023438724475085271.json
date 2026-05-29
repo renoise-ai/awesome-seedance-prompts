@@ -1,0 +1,37 @@
+{
+  "id": "2023438724475085271",
+  "type": "prompt",
+  "url": "https://x.com/markgadala/status/2023438724475085271",
+  "language": "en",
+  "created_at": "2026-02-16",
+  "author": {
+    "name": "Mark Gadala-Maria",
+    "username": "markgadala",
+    "url": "https://x.com/markgadala",
+    "followers": 65221
+  },
+  "text": "Seedance has a crazy sense of humor 😂\n\nPrompt \"Trump frame moggs Larry David\" https://t.co/0iFZsXgEJa",
+  "content": "Trump frame moggs Larry David",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 17,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 7,
+    "views": 5028
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023438724475085271.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023408615357607936/img/QVrmDfXsrVlsmB2W.jpg"
+  },
+  "translations": {
+    "es": "Trump encuadra a Larry David",
+    "fr": "Trump encadre moggs Larry David",
+    "ja": "トランプフレームがラリー・デイヴィッドを圧倒する",
+    "ko": "트럼프 프레임이 래리 데이비드를 압도하다",
+    "pt-BR": "Trump enquadra Larry David",
+    "zh-CN": "特朗普框架压倒拉里·戴维"
+  }
+}

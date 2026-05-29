@@ -1,0 +1,37 @@
+{
+  "id": "2059936243295649995",
+  "type": "tip",
+  "url": "https://x.com/Sogni_Protocol/status/2059936243295649995",
+  "language": "en",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "Sogni.ai",
+    "username": "Sogni_Protocol",
+    "url": "https://x.com/Sogni_Protocol",
+    "followers": 43915
+  },
+  "text": "Stop calling Seedance 2.0 a \"storyboard tool.\" It does WAY more than that. 🛑 \n\nOn https://t.co/CZ2PiVyjs9 you only pay for what you actually create, credit by credit. No monthly plan, no commitment. \n\nType a sentence. Get a full video back, with sound. Dialogue, music, ambient noise, all generated in one go.\n\nByteDance's text-to-video model currently sits at the top of the public AI video rankings (May 2026), ahead of Kling, Veo and the rest. \n\nCamera moves like \"slow push-in\" or \"handheld follow\" actually land. Vertical for Reels, widescreen for YouTube, square for the feed. Pick the shape, you get the shot.\n\nStoryboard mode is great. Text-to-video is where the real magic is!\n\nHave you tried it already?",
+  "content": "Use Seedance 2.0 in text-to-video mode by typing a single sentence prompt to generate a full video with sound (dialogue, music, and ambient noise) in one pass  \nInclude explicit camera-move directives like slow push-in or handheld follow in your prompt to control camera motion  \nSelect the output aspect ratio (vertical for Reels, widescreen for YouTube, square for feeds) before generating to get the shot framed for that platform",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 53,
+    "retweets": 12,
+    "replies": 12,
+    "quotes": 2,
+    "bookmarks": 24,
+    "views": 3581
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059936243295649995.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059934442232193024/img/bkzByZZ4D3oYTQwH.jpg"
+  },
+  "translations": {
+    "es": "Usa Seedance 2.0 en modo texto a video escribiendo un prompt de una sola oración para generar un video completo con sonido (diálogo, música y ruido ambiental) en una sola pasada.  \nIncluye directrices explícitas de movimiento de cámara como slow push-in o handheld follow en tu prompt para controlar el movimiento de la cámara.  \nSelecciona la relación de aspecto de salida (vertical para Reels, panorámico para YouTube, cuadrado para feeds) antes de generar para obtener la toma encuadrada para esa plataforma.",
+    "fr": "Utilisez Seedance 2.0 en mode texte-vidéo en tapant une phrase de prompt pour générer une vidéo complète avec son (dialogue, musique et bruit ambiant) en une seule passe  \nIncluez des directives explicites de mouvement de caméra comme slow push-in ou handheld follow dans votre prompt pour contrôler le mouvement de la caméra  \nSélectionnez le format d'image de sortie (vertical pour Reels, écran large pour YouTube, carré pour les flux) avant de générer pour obtenir le cadrage adapté à cette plateforme",
+    "ja": "---\nSeedance 2.0をテキストからビデオへのモードで使用し、単一の文のプロンプトを入力して、サウンド（対話、音楽、環境音）を含むフルビデオを一度に生成します  \nカメラの動きを制御するために、プロンプトにスロープッシュインやハンドヘルドフォローのような明確なカメラ移動の指示を含めてください  \n生成する前に、出力のアスペクト比（Reels用の縦型、YouTube用のワイドスクリーン、フィード用の正方形）を選択して、そのプラットフォームに合わせてショットをフレーム化します  \n---",
+    "ko": "---\nSeedance 2.0을 텍스트-비디오 모드에서 사용하여 한 문장의 프롬프트를 입력하면 한 번에 소리(대화, 음악, 환경 소음)가 포함된 전체 비디오를 생성할 수 있습니다.  \n카메라 움직임을 제어하기 위해 프롬프트에 slow push-in이나 handheld follow와 같은 명확한 카메라 이동 지시를 포함하세요.  \n생성하기 전에 출력 화면 비율을 선택하여 해당 플랫폼에 맞게 샷이 구성되도록 하세요 (Reels용 세로, YouTube용 와이드스크린, 피드용 정사각형).  \n---",
+    "pt-BR": "Use o Seedance 2.0 no modo texto-para-vídeo digitando um prompt de uma única frase para gerar um vídeo completo com som (diálogo, música e ruído ambiente) em uma única passagem  \nInclua diretrizes explícitas de movimento de câmera, como slow push-in ou handheld follow no seu prompt para controlar o movimento da câmera  \nSelecione a proporção de aspecto de saída (vertical para Reels, widescreen para YouTube, quadrado para feeds) antes de gerar para obter a filmagem enquadrada para essa plataforma",
+    "zh-CN": "---\n在文本到视频模式下使用 Seedance 2.0，只需输入一个句子提示，即可一次性生成带有声音（对话、音乐和环境噪音）的完整视频  \n在提示中包含明确的摄像机移动指令，如慢推或手持跟随，以控制摄像机运动  \n在生成之前选择输出的纵横比（Reels 的竖屏，YouTube 的宽屏，社交媒体动态的方形），以便为该平台调整画面构图  \n---"
+  }
+}

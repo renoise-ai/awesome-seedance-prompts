@@ -1,0 +1,40 @@
+{
+  "id": "2026753439313641906",
+  "type": "prompt",
+  "url": "https://x.com/fofrAI/status/2026753439313641906",
+  "language": "en",
+  "created_at": "2026-02-25",
+  "author": {
+    "name": "fofr",
+    "username": "fofrAI",
+    "url": "https://x.com/fofrAI",
+    "followers": 53663
+  },
+  "text": "Seedance 2 joins the \"cannot count to 10\" club:\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes\n\nPretty sure this is a scary Ryan Reynolds/Ben Stiller hybrid.\n\n(Variants of this prompt with the numbers explicitly listed also fail) https://t.co/uHLlPtwHhp",
+  "content": "a man counts out loud from 1 to 10, using his fingers and holding them up as he goes",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 629,
+    "retweets": 19,
+    "replies": 52,
+    "quotes": 18,
+    "bookmarks": 175,
+    "views": 129282
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026753439313641906.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026752765356126208/img/b7yS1sm2zd0xp8aF.jpg"
+  },
+  "extra_content": {
+    "quoted_text": "Sora 2 fails this test:\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes https://t.co/xvEeJ92Trb"
+  },
+  "translations": {
+    "es": "un hombre cuenta en voz alta del 1 al 10, usando sus dedos y levantándolos a medida que avanza\n\n--- TWEET CITADO ---\nSora 2 falla esta prueba:\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes https://t.co/xvEeJ92Trb\n---",
+    "fr": "un homme compte à haute voix de 1 à 10, en utilisant ses doigts et les levant au fur et à mesure\n\n--- TWEET CITÉ ---\nSora 2 échoue à ce test :\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes https://t.co/xvEeJ92Trb\n---",
+    "ja": "男性が1から10まで声に出して数えながら、指を使ってそれを示します\n\n--- QUOTED TWEET ---\nSora 2はこのテストに失敗します：\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes https://t.co/xvEeJ92Trb\n---",
+    "ko": "한 남자가 1부터 10까지 큰 소리로 숫자를 세면서 손가락을 사용해 숫자를 표시합니다.\n\n--- 인용된 트윗 ---\nSora 2는 이 테스트에 실패합니다:\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes https://t.co/xvEeJ92Trb\n---",
+    "pt-BR": "um homem conta em voz alta de 1 a 10, usando os dedos e levantando-os à medida que avança\n\n--- TWEET CITADO ---\nSora 2 falha neste teste:\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes https://t.co/xvEeJ92Trb\n---",
+    "zh-CN": "一个男人大声从1数到10，用他的手指并在数的时候举起来\n\n--- 引用推文 ---\nSora 2 未通过此测试：\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes https://t.co/xvEeJ92Trb\n---"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2025879977414087022",
+  "type": "tip",
+  "url": "https://x.com/realfpsprince/status/2025879977414087022",
+  "language": "en",
+  "created_at": "2026-02-23",
+  "author": {
+    "name": "fpsprince",
+    "username": "realfpsprince",
+    "url": "https://x.com/realfpsprince",
+    "followers": 1600
+  },
+  "text": "Uploaded 3 pictures to Seedance 2.0, I took of Eve, Adam and Kaya, use these as reference and make them play in a rock band #StellarBlade #Seedance2_0 #StellarBladePC #ステラーブレイド #Seedance2  #Seedance https://t.co/ScLWsBUv85",
+  "content": "Upload multiple reference images (e.g., 3 pictures of your characters) into Seedance 2.0 and prompt it to animate them performing a specific action together (e.g., playing in a rock band).",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 262,
+    "retweets": 23,
+    "replies": 5,
+    "quotes": 1,
+    "bookmarks": 53,
+    "views": 6439
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025879977414087022.mp4",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025879952957001728/pu/img/UyKeddDkXj6y6sTd.jpg"
+  },
+  "translations": {
+    "es": "Sube múltiples imágenes de referencia (por ejemplo, 3 fotos de tus personajes) a Seedance 2.0 y prompt it to animate them performing a specific action together (e.g., playing in a rock band).",
+    "fr": "Téléchargez plusieurs images de référence (par exemple, 3 photos de vos personnages) dans Seedance 2.0 et prompt it to animate them performing a specific action together (e.g., playing in a rock band).",
+    "ja": "複数の参照画像（例：キャラクターの3枚の写真）をSeedance 2.0にアップロードし、特定のアクションを一緒に行うアニメーションを作成するようにプロンプトを設定します（例：ロックバンドで演奏する）。",
+    "ko": "여러 개의 참조 이미지를 업로드하세요 (예: 캐릭터의 사진 3장) Seedance 2.0에 업로드하고 특정 동작을 함께 수행하는 애니메이션을 만들도록 프롬프트하세요 (예: 록 밴드에서 연주하기).",
+    "pt-BR": "Carregue várias imagens de referência (por exemplo, 3 fotos dos seus personagens) no Seedance 2.0 e prompt para animá-los realizando uma ação específica juntos (por exemplo, tocando em uma banda de rock).",
+    "zh-CN": "将多张参考图像（例如，3张角色的图片）上传到Seedance 2.0，并prompt它们一起执行特定动作的动画（例如，在摇滚乐队中演奏）。"
+  }
+}

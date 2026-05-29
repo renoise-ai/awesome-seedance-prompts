@@ -1,0 +1,37 @@
+{
+  "id": "2057115797009674355",
+  "type": "tip",
+  "url": "https://x.com/TechByMarkandey/status/2057115797009674355",
+  "language": "en",
+  "created_at": "2026-05-20",
+  "author": {
+    "name": "Markandey Sharma",
+    "username": "TechByMarkandey",
+    "url": "https://x.com/TechByMarkandey",
+    "followers": 65543
+  },
+  "text": "Here is the workflow I used:\n\n1. I selected the Seedance 2.0 model\n2. I chose the start image option\n3. I uploaded my starting image\n4. I entered the prompt, selected 1080p video resolution, enabled audio, and clicked generate\n\nThat’s it Seedance 2.0 handled the rest and turned a simple image into a full cinematic video in one go.",
+  "content": "Select the Seedance 2.0 model for your generation.  \nUse the start image option and upload a starting image to drive the video.  \nSet video resolution to 1080p, enable audio, then click generate to create a cinematic video from a single image in one go.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 14,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 0,
+    "views": 158
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057115797009674355.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057115733721837568/img/WG2dm46Jhk6hVpWa.jpg"
+  },
+  "translations": {
+    "es": "Selecciona el modelo Seedance 2.0 para tu generación.  \nUsa la opción de imagen inicial y sube una imagen de inicio para guiar el video.  \nConfigura la resolución del video a 1080p, habilita el audio, luego haz clic en generar para crear un video cinematográfico a partir de una sola imagen de una sola vez.",
+    "fr": "---\nSélectionnez le modèle Seedance 2.0 pour votre génération.  \nUtilisez l'option d'image de départ et téléchargez une image de départ pour guider la vidéo.  \nRéglez la résolution vidéo sur 1080p, activez l'audio, puis cliquez sur générer pour créer une vidéo cinématique à partir d'une seule image en une seule fois.\n---",
+    "ja": "---\nSeedance 2.0モデルを選択してください。  \nスタートイメージオプションを使用し、動画を作成するための開始画像をアップロードします。  \nビデオ解像度を1080pに設定し、オーディオを有効にしてから、生成をクリックして単一の画像からシネマティックなビデオを一度に作成します。\n---",
+    "ko": "Seedance 2.0 모델을 선택하여 생성하세요.  \n시작 이미지 옵션을 사용하고 시작 이미지를 업로드하여 비디오를 구동하세요.  \n비디오 해상도를 1080p로 설정하고 오디오를 활성화한 후, 한 번의 클릭으로 단일 이미지에서 시네마틱 비디오를 생성하세요.",
+    "pt-BR": "Selecione o modelo Seedance 2.0 para sua geração.  \nUse a opção de imagem inicial e faça o upload de uma imagem de partida para guiar o vídeo.  \nDefina a resolução do vídeo para 1080p, habilite o áudio e clique em gerar para criar um vídeo cinematográfico a partir de uma única imagem de uma só vez.",
+    "zh-CN": "选择Seedance 2.0模型进行生成。  \n使用起始图像选项并上传一个起始图像来引导视频。  \n将视频分辨率设置为1080p，启用音频，然后点击生成，从单个图像中一键创建一个cinematic视频。"
+  }
+}

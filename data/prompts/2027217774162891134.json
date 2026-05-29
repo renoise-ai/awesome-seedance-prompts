@@ -1,0 +1,37 @@
+{
+  "id": "2027217774162891134",
+  "type": "prompt",
+  "url": "https://x.com/ChromaFlowx/status/2027217774162891134",
+  "language": "en",
+  "created_at": "2026-02-27",
+  "author": {
+    "name": "Chroma Flow ®",
+    "username": "ChromaFlowx",
+    "url": "https://x.com/ChromaFlowx",
+    "followers": 18509
+  },
+  "text": "Seedance 2.0 vs Kling 3.0 With the prompt : A soldier in a battlefield texting and dodging all arrows, explosions and bullets Seedance 2 is a major step forward for AI movies, let’s see how Hollywood reacts. https://t.co/dGVFAv6jdl",
+  "content": "A soldier in a battlefield texting and dodging all arrows, explosions and bullets",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 9,
+    "retweets": 1,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 9,
+    "views": 1289
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027217774162891134.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027209812518285312/img/u7dScwAodnZHVwbo.jpg"
+  },
+  "translations": {
+    "es": "Un soldado en un campo de batalla enviando mensajes de texto y esquivando todas las flechas, explosiones y balas.",
+    "fr": "Un soldat sur un champ de bataille envoyant des messages tout en esquivant toutes les flèches, explosions et balles.",
+    "ja": "戦場で矢や爆発、弾丸をすべてかわしながらメッセージを送る兵士",
+    "ko": "전장에서 모든 화살, 폭발, 총알을 피하며 문자 메시지를 보내는 군인",
+    "pt-BR": "Um soldado em um campo de batalha enviando mensagens de texto e desviando de todas as flechas, explosões e balas",
+    "zh-CN": "一名士兵在战场上发短信，同时躲避所有箭矢、爆炸和子弹。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2026844741774491648",
+  "type": "tip",
+  "url": "https://x.com/johnAGI168/status/2026844741774491648",
+  "language": "en",
+  "created_at": "2026-02-26",
+  "author": {
+    "name": "John",
+    "username": "johnAGI168",
+    "url": "https://x.com/johnAGI168",
+    "followers": 2303
+  },
+  "text": "It feels like it takes most of the day waiting in line for Seedance 2.0 to generate a video.\n\ntip：Seedance 2.0全能参考上传视频作为参考的时候审核不通过，可以把视频人物打点马赛克或者眼睛遮挡一下就能通过审核，复刻一个视频简简单单！\n\n#Seedance2_0 https://t.co/wRoRTi1HE8",
+  "content": "If Seedance 2.0 rejects your uploaded reference video in review, mosaic/blur the person’s face or cover the eyes in the reference video to pass审核 and proceed with video replication.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 47,
+    "retweets": 1,
+    "replies": 5,
+    "quotes": 0,
+    "bookmarks": 31,
+    "views": 4407
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026844741774491648.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026844189409890304/img/7mZvgofjatXkEV8V.jpg"
+  },
+  "translations": {
+    "es": "Si Seedance 2.0 rechaza tu video de referencia subido durante la revisión, aplica un mosaico/desenfoque en el rostro de la persona o cubre los ojos en el video de referencia para pasar la审核 y proceder con la replicación del video.",
+    "fr": "Si Seedance 2.0 rejette votre vidéo de référence téléchargée lors de la révision, appliquez un effet de mosaïque/flou sur le visage de la personne ou couvrez les yeux dans la vidéo de référence pour passer l'examen et poursuivre avec la réplication vidéo.",
+    "ja": "Seedance 2.0がアップロードした参照ビデオをレビューで拒否した場合、参照ビデオ内の人物の顔をモザイクまたはぼかすか、目を隠して审核を通過し、ビデオの複製を進めてください。",
+    "ko": "Seedance 2.0가 검토 중에 업로드한 참조 비디오를 거부할 경우, 참조 비디오에서 사람의 얼굴을 모자이크/블러 처리하거나 눈을 가려서 审核을 통과하고 비디오 복제를 진행하세요.",
+    "pt-BR": "Se o Seedance 2.0 rejeitar seu vídeo de referência enviado na revisão, aplique mosaico/desfoque no rosto da pessoa ou cubra os olhos no vídeo de referência para passar na审核 e prosseguir com a replicação do vídeo.",
+    "zh-CN": "如果Seedance 2.0在审核中拒绝了您上传的参考视频，可以对视频中人物的脸部进行马赛克处理或模糊处理，或者遮盖眼睛，以通过审核并继续进行视频复制。"
+  }
+}

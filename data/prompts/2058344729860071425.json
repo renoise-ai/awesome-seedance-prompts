@@ -1,0 +1,37 @@
+{
+  "id": "2058344729860071425",
+  "type": "prompt",
+  "url": "https://x.com/100xMart/status/2058344729860071425",
+  "language": "en",
+  "created_at": "2026-05-24",
+  "author": {
+    "name": "100xMart",
+    "username": "100xMart",
+    "url": "https://x.com/100xMart",
+    "followers": 2118
+  },
+  "text": "Generated with Seedance 2.0\n\nPrompt: A medieval throne room. A jester shows the king a scroll with a meme on it. Make it stupidly dramatic and worth 50 likes https://t.co/MgQm1XEOHE",
+  "content": "A medieval throne room. A jester shows the king a scroll with a meme on it. Make it stupidly dramatic and worth 50 likes",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 14,
+    "retweets": 0,
+    "replies": 10,
+    "quotes": 0,
+    "bookmarks": 0,
+    "views": 352
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058344729860071425.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057856824179613696/img/Cp1AxagYfzmr-UuJ.jpg"
+  },
+  "translations": {
+    "es": "Una sala del trono medieval. Un bufón muestra al rey un pergamino con un meme. Hazlo ridículamente dramático y digno de 50 \"me gusta\".",
+    "fr": "Une salle du trône médiévale. Un bouffon montre au roi un parchemin avec un mème dessus. Rendez-le ridiculement dramatique et digne de 50 likes.",
+    "ja": "---\n中世の玉座の間。道化師が王にミームが描かれた巻物を見せる。それを馬鹿げたほど劇的にし、50いいねに値するものにしてください。\n---",
+    "ko": "중세의 왕좌 방. 어릿광대가 왕에게 밈이 담긴 두루마리를 보여준다. 어리석을 정도로 극적으로 만들고 50개의 좋아요를 받을 만하게 하라.",
+    "pt-BR": "Uma sala do trono medieval. Um bobo da corte mostra ao rei um pergaminho com um meme. Faça com que seja estupidamente dramático e valha 50 curtidas.",
+    "zh-CN": "---\n一个中世纪的王座大厅。一个小丑向国王展示了一张带有网络迷因的卷轴。让它愚蠢地戏剧化，值得50个赞。"
+  }
+}

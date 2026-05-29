@@ -1,0 +1,37 @@
+{
+  "id": "2024861467317776754",
+  "type": "prompt",
+  "url": "https://x.com/TBC_on_X/status/2024861467317776754",
+  "language": "en",
+  "created_at": "2026-02-20",
+  "author": {
+    "name": "TBC",
+    "username": "TBC_on_X",
+    "url": "https://x.com/TBC_on_X",
+    "followers": 14218
+  },
+  "text": "Seedance 2.0\n\nPrompt: Make a Pixar film about Punch. I want to cry and fall in love with him. https://t.co/z3jfkzLElb",
+  "content": "Make a Pixar film about Punch. I want to cry and fall in love with him.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 4629,
+    "retweets": 628,
+    "replies": 101,
+    "quotes": 83,
+    "bookmarks": 1083,
+    "views": 268331
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2024861467317776754.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024861354683953153/img/K3ORUuTHMMevuj0l.jpg"
+  },
+  "translations": {
+    "es": "Haz una película de Pixar sobre Punch. Quiero llorar y enamorarme de él.",
+    "fr": "Faites un film Pixar sur Punch. Je veux pleurer et tomber amoureux de lui.",
+    "ja": "パンチをテーマにしたピクサー映画を作ってください。彼に泣かされ、恋に落ちたいです。",
+    "ko": "펀치에 관한 픽사 영화를 만들어 주세요. 그와 사랑에 빠지고 싶고, 눈물도 흘리고 싶어요.",
+    "pt-BR": "Faça um filme da Pixar sobre Punch. Quero chorar e me apaixonar por ele.",
+    "zh-CN": "制作一部关于Punch的皮克斯电影。我想为他哭泣并爱上他。"
+  }
+}

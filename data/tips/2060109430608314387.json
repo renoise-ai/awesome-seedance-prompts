@@ -1,0 +1,37 @@
+{
+  "id": "2060109430608314387",
+  "type": "tip",
+  "url": "https://x.com/migrok293703/status/2060109430608314387",
+  "language": "en",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "migrok",
+    "username": "migrok293703",
+    "url": "https://x.com/migrok293703",
+    "followers": 3589
+  },
+  "text": "Test using a reference as first frame.\n \nGenerated with Seedance 2.0.\n\nPrompt: https://t.co/GIdn06hTEU",
+  "content": "Use a reference image as the first frame to guide Seedance 2.0 generation.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 116,
+    "retweets": 8,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 55,
+    "views": 6108
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060109430608314387.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060109258646048768/img/qQvp7HxVdGTP91u0.jpg"
+  },
+  "translations": {
+    "es": "Usa una imagen de referencia como el primer fotograma para guiar la generación de Seedance 2.0.",
+    "fr": "Utilisez une image de référence comme premier cadre pour guider la génération Seedance 2.0.",
+    "ja": "---\nSeedance 2.0の生成をガイドするために、参照画像を最初のフレームとして使用します。",
+    "ko": "Seedance 2.0 생성을 안내하기 위해 참조 이미지를 첫 번째 프레임으로 사용하세요.",
+    "pt-BR": "Use uma imagem de referência como o primeiro quadro para guiar a geração do Seedance 2.0.",
+    "zh-CN": "使用参考图像作为第一帧来指导Seedance 2.0的生成。"
+  }
+}

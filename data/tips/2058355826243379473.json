@@ -1,0 +1,37 @@
+{
+  "id": "2058355826243379473",
+  "type": "tip",
+  "url": "https://x.com/Chrisgpt/status/2058355826243379473",
+  "language": "en",
+  "created_at": "2026-05-24",
+  "author": {
+    "name": "Chris",
+    "username": "Chrisgpt",
+    "url": "https://x.com/Chrisgpt",
+    "followers": 44741
+  },
+  "text": "I ran this evaluation of three LLMs paired with Seedance on Higgsfield Supercomputer, I noticed each model does certain things better than others (which you have probably run into) - which is exactly why multi-model routing matters a lot \n\nSeedance is the most prompt-faithful video model I've tested. Whatever you write, it does it closest to your vision.\n\nGemini 3.5 Flash - strongest creative direction of the three. (Google cooked) Best when you want ideas to go somewhere unexpected, - as Logan said it’s an ‘over achiever’ - correcting for the laziness of previous Gemini Models\n\nClaude Sonnet - reads user intent a tad closer. Best when the brief is tight and the model has to actually get what you meant.\n\nGemini 3 - solid, cheap, still a top-10 model - but visibly trails the other two on creative and intent.\n\nYou don't pick one model and live with its downsides, Higgsfield Supercomputer routes each sub-task to whichever LLM is best at that specific job - creative direction goes to Gemini 3.5 Flash, intent parsing goes to Sonnet, execution goes to Seedance.",
+  "content": "Route creative-direction prompt ideation to Gemini 3.5 Flash, route intent-parsing/brief interpretation to Claude Sonnet, then send the finalized instructions to Seedance for video generation/execution.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 41,
+    "retweets": 9,
+    "replies": 3,
+    "quotes": 0,
+    "bookmarks": 23,
+    "views": 4527
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058355826243379473.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058349971804409856/img/88hzieIHEp-cdUS0.jpg"
+  },
+  "translations": {
+    "es": "Dirige la ideación de prompts de dirección creativa a Gemini 3.5 Flash, dirige el análisis de intención/interpretación del brief a Claude Sonnet, luego envía las instrucciones finalizadas a Seedance para la generación/ejecución de video.",
+    "fr": "Acheminer l'idéation des prompts de direction créative vers Gemini 3.5 Flash, acheminer l'analyse d'intention/interprétation du brief vers Claude Sonnet, puis envoyer les instructions finalisées à Seedance pour la génération/exécution de la vidéo.",
+    "ja": "クリエイティブディレクションのプロンプトのアイデア出しをGemini 3.5 Flashにルートし、意図解析/ブリーフ解釈をClaude Sonnetにルートし、その後、最終的な指示をSeedanceに送信してビデオ生成/実行を行います。",
+    "ko": "---\n창의적 방향성 프롬프트 아이디어는 Gemini 3.5 Flash로 보내고, 의도 분석/브리프 해석은 Claude Sonnet으로 전달한 후, 최종 지침을 Seedance로 보내 비디오 생성/실행을 수행합니다.\n---",
+    "pt-BR": "Roteie a ideação de prompt de direção criativa para o Gemini 3.5 Flash, direcione a interpretação de intenção/brief para o Claude Sonnet, e então envie as instruções finalizadas para o Seedance para geração/execução de vídeo.",
+    "zh-CN": "将创意方向提示的构思路由到Gemini 3.5 Flash，将意图解析/简报解释路由到Claude Sonnet，然后将最终指令发送到Seedance进行视频生成/执行。"
+  }
+}

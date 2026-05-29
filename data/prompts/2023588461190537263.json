@@ -1,0 +1,37 @@
+{
+  "id": "2023588461190537263",
+  "type": "prompt",
+  "url": "https://x.com/poof_eth/status/2023588461190537263",
+  "language": "en",
+  "created_at": "2026-02-17",
+  "author": {
+    "name": "poof",
+    "username": "poof_eth",
+    "url": "https://x.com/poof_eth",
+    "followers": 14639
+  },
+  "text": "taste is being able to one shot this from seedance 2.0 with the prompt:\n\n\"seinfeld episode about george's @DXRGai agent, make no mistakes\" https://t.co/TTyAfK0AHI",
+  "content": "seinfeld episode about george's agent, make no mistakes",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 50,
+    "retweets": 4,
+    "replies": 11,
+    "quotes": 0,
+    "bookmarks": 6,
+    "views": 3003
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023588461190537263.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023588120776912896/img/cO_vaYR1D2oOrXeV.jpg"
+  },
+  "translations": {
+    "es": "episodio de seinfeld sobre el agente de george, sin cometer errores",
+    "fr": "épisode de Seinfeld sur l'agent de George, sans faire d'erreurs",
+    "ja": "ジョージのエージェントに関する「Seinfeld」のエピソード、ミスなしで",
+    "ko": "조지의 에이전트에 관한 seinfeld 에피소드, 실수 없이",
+    "pt-BR": "episódio de seinfeld sobre o agente do george, sem cometer erros",
+    "zh-CN": "关于乔治经纪人的《Seinfeld》剧集，不要出错。"
+  }
+}

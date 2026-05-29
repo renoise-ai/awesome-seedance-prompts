@@ -1,0 +1,37 @@
+{
+  "id": "2055364085126963584",
+  "type": "prompt",
+  "url": "https://x.com/Dheepanratnam/status/2055364085126963584",
+  "language": "en",
+  "created_at": "2026-05-15",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "username": "Dheepanratnam",
+    "url": "https://x.com/Dheepanratnam",
+    "followers": 14047
+  },
+  "text": "AI is wild\nChatgpt 2.0 images  + Seedance 2.0 \n\ntried to generate a red carpet AI video using this \ncustom Sydney Sweeney character sheet.\n\nthe result looks exactly like \"we have sydney sweeney at home\" 😭\n\nA Simple Prompt used to test - Use the provided character reference for the facial features and body structure. create a 15 second red carpet multi shot walk with elegant designer wear",
+  "content": "Use the provided character reference for the facial features and body structure. create a 15 second red carpet multi shot walk with elegant designer wear",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 992,
+    "retweets": 100,
+    "replies": 47,
+    "quotes": 5,
+    "bookmarks": 1072,
+    "views": 96797
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055364085126963584.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055362443765764096/img/J3J1cAgFFnADFSJc.jpg"
+  },
+  "translations": {
+    "es": "Utiliza la referencia de personaje proporcionada para las características faciales y la estructura corporal. Crea un paseo de 15 segundos en la alfombra roja con múltiples tomas, usando ropa elegante de diseñador.",
+    "fr": "Utilisez la référence de personnage fournie pour les traits du visage et la structure corporelle. Créez une marche multi-shot de 15 secondes sur le tapis rouge avec une tenue de créateur élégante.",
+    "ja": "提供されたキャラクター参照を使用して、顔の特徴と体の構造を基にしてください。エレガントなデザイナーウェアを着用した15秒のレッドカーペットのマルチショットウォークを作成してください。",
+    "ko": "제공된 캐릭터 참조를 사용하여 얼굴 특징과 신체 구조를 반영하세요. 우아한 디자이너 의상을 입고 15초 동안 레드 카펫에서 여러 샷으로 걷는 장면을 만드세요.",
+    "pt-BR": "Use a referência de personagem fornecida para as características faciais e estrutura corporal. crie uma caminhada de 15 segundos no tapete vermelho com múltiplos ângulos usando roupas elegantes de designer",
+    "zh-CN": "使用提供的人物参考来确定面部特征和身体结构。创建一个15秒的红毯多镜头走秀，展示优雅的设计师服装。"
+  }
+}

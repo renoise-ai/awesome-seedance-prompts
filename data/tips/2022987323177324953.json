@@ -1,0 +1,37 @@
+{
+  "id": "2022987323177324953",
+  "type": "tip",
+  "url": "https://x.com/YAMATO_action/status/2022987323177324953",
+  "language": "ja",
+  "created_at": "2026-02-15",
+  "author": {
+    "name": "片岡大知",
+    "username": "YAMATO_action",
+    "url": "https://x.com/YAMATO_action",
+    "followers": 1713
+  },
+  "text": "Seedance 2.0まじすげ〜\nファーストフレームとプロンプト指示でポン出し。VFXもつけてくれた。\nスタントマンの仕事もこれに置き換わっていきそう〜 https://t.co/FkRDL5K843",
+  "content": "ファーストフレーム（初期フレーム）を指定し、プロンプトで指示して動画を生成する",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 28,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 7,
+    "views": 2720
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022987323177324953.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022987245322727424/img/TSXzwVXo5vPQsLU5.jpg"
+  },
+  "translations": {
+    "en": "Specify the first frame (initial frame) and generate a video by providing instructions in the prompt.",
+    "es": "Especifica el primer fotograma (fotograma inicial) y genera el video siguiendo las instrucciones del prompt.",
+    "fr": "Spécifiez le premier cadre (cadre initial) et générez une vidéo en suivant les instructions du prompt.",
+    "ko": "첫 프레임(초기 프레임)을 지정하고, 프로ンプ트로 지시하여 동영상을 생성합니다.",
+    "pt-BR": "Especifique o primeiro quadro (quadro inicial) e use o prompt para gerar o vídeo.",
+    "zh-CN": "指定初始帧，通过prompt指示生成视频。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2057710434916921730",
+  "type": "tip",
+  "url": "https://x.com/johnAGI168/status/2057710434916921730",
+  "language": "zh",
+  "created_at": "2026-05-22",
+  "author": {
+    "name": "John",
+    "username": "johnAGI168",
+    "url": "https://x.com/johnAGI168",
+    "followers": 8510
+  },
+  "text": "留下来陪陪我😍😄\n\n还得是 Seedance 2.0 尺度大呀！\n\n无任何参考纯文生视频复刻热门短视频📺\n\nSeedance 2.0 文生视频 prompt 👇\n\n第一镜头\n时间段：00:00 - 00:01\n景别与镜头类型：中全景，轻微摇摄 https://t.co/j3noCfeZgN",
+  "content": "用 Seedance 2.0 进行无参考的纯文生视频复刻热门短视频  \n在 prompt 里按镜头拆分并标注时间段（例如 00:00–00:01）  \n在每个镜头的 prompt 中明确景别与镜头类型（例如中全景、轻微摇摄）",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 18,
+    "retweets": 1,
+    "replies": 21,
+    "quotes": 0,
+    "bookmarks": 16,
+    "views": 2910
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057710434916921730.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057710338972270592/img/iwnE-iEO-R8xBIZ_.jpg"
+  },
+  "translations": {
+    "en": "Using Seedance 2.0 for Reference-Free Text-to-Video Recreation of Popular Short Videos  \nIn the prompt, split by camera shots and mark the time segments (e.g., 00:00–00:01)  \nClearly specify the shot scale and camera type in each shot's prompt (e.g., medium-wide shot, slight camera pan)",
+    "es": "---\nUsa Seedance 2.0 para recrear videos populares sin referencia a partir de texto puro  \nEn el prompt, divide por tomas y marca los intervalos de tiempo (por ejemplo, 00:00–00:01)  \nEn el prompt de cada toma, especifica claramente el tipo de plano y tipo de cámara (por ejemplo, plano medio largo, cámara pan ligera)\n---",
+    "fr": "Utilisez Seedance 2.0 pour recréer des vidéos populaires sans référence à partir de texte uniquement  \nDans le prompt, divisez par plans et indiquez les périodes de temps (par exemple 00:00–00:01)  \nDans le prompt de chaque plan, précisez l'échelle du plan et le type de caméra (par exemple, plan moyen large, léger camera pan)",
+    "ja": "---\nSeedance 2.0 を使用して、参照なしで人気の短編動画をテキストからビデオに復刻  \nprompt 内でカメラショットを分割し、時間帯を記載（例: 00:00–00:01）  \n各ショットの prompt で、ショットサイズとカメラショットの種類を明確にする（例: 中全景、軽いカメラパン）\n---",
+    "ko": "---\nSeedance 2.0을 사용하여 참조 없이 순수 텍스트로 인기 짧은 동영상 복제  \nprompt에서 카메라 샷을 분할하고 시간대를 표시합니다 (예: 00:00–00:01)  \n각 샷의 prompt에서 명확하게 장면 크기와 카메라 샷 유형을 지정합니다 (예: 중간 전경, 가벼운 카메라 팬)\n---",
+    "pt-BR": "---\nUse o Seedance 2.0 para recriar vídeos curtos populares sem referência, apenas com texto  \nNo prompt, divida por cenas e marque os intervalos de tempo (por exemplo, 00:00–00:01)  \nEm cada prompt de cena, especifique claramente o tipo de enquadramento e de câmera (por exemplo, plano médio, leve câmera pan)\n---"
+  }
+}

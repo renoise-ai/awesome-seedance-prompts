@@ -1,0 +1,37 @@
+{
+  "id": "2059940147362472336",
+  "type": "tip",
+  "url": "https://x.com/HeyAbhishek/status/2059940147362472336",
+  "language": "en",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "Abhishek",
+    "username": "HeyAbhishek",
+    "url": "https://x.com/HeyAbhishek",
+    "followers": 109260
+  },
+  "text": "Steps:\n\nGo to https://t.co/r1h6omJK2T\n\nThen:\n→ Open canvas\n→ Use video node\n→ Select Seedance 2.0\n→ Change Duration and Layout\n→ Generate the video\n\nDone.\n\nSeedance 2.0 prompt below 👇 https://t.co/rKKj67XX1I",
+  "content": "Go to https://t.co/r1h6omJK2T, open canvas, add a video node, select Seedance 2.0, set Duration and Layout, then generate the video.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 10,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 12,
+    "views": 1219
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059940147362472336.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059940058552242176/img/jHwdRYO4cBuLtDdZ.jpg"
+  },
+  "translations": {
+    "es": "Ve a https://t.co/r1h6omJK2T, abre el lienzo, añade un nodo de video, selecciona Seedance 2.0, establece la Duración y el Diseño, luego genera el video.",
+    "fr": "Allez sur https://t.co/r1h6omJK2T, ouvrez le canvas, ajoutez un nœud vidéo, sélectionnez Seedance 2.0, définissez la Durée et la Disposition, puis générez la vidéo.",
+    "ja": "---\nhttps://t.co/r1h6omJK2T にアクセスし、キャンバスを開き、ビデオノードを追加し、Seedance 2.0 を選択し、Duration と Layout を設定してからビデオを生成します。\n---",
+    "ko": "https://t.co/r1h6omJK2T로 이동하여 캔버스를 열고, 비디오 노드를 추가한 후 Seedance 2.0을 선택하세요. Duration과 Layout을 설정한 다음, 비디오를 생성하세요.",
+    "pt-BR": "Vá para https://t.co/r1h6omJK2T, abra a tela, adicione um nó de vídeo, selecione Seedance 2.0, defina Duração e Layout, e então gere o vídeo.",
+    "zh-CN": "请访问 https://t.co/r1h6omJK2T，打开画布，添加一个视频节点，选择 Seedance 2.0，设置 Duration 和 Layout，然后生成视频。"
+  }
+}

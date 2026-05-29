@@ -1,0 +1,42 @@
+{
+  "id": "2059820565297512877",
+  "type": "tip",
+  "url": "https://x.com/tanabe_fragm/status/2059820565297512877",
+  "language": "ja",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "タナベ | 動画・音声生成AI解説",
+    "username": "tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm",
+    "followers": 543
+  },
+  "text": "Seedance 2.0で「説明書画像を参照しながら家具を組み立てる動画」が作れるかテストしてみました😃\n\n結果としては、まだ完璧ではないですね😅\nただ、破綻しているというほどでもなく、かなり可能性は感じました。\n\n今回のやり方は、\n「説明書をそのまま渡しただけ」 https://t.co/z7iAL9uPQQ",
+  "content": "Seedance 2.0で説明書画像を参照させたい場合は、説明書画像をそのまま渡して生成テストする  \nSeedanceに渡す組み立て説明書画像はGPT Images 2.0で作り、プロンプトに「シンプルな机の組み立て説明書を作って」を使う",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 18,
+    "retweets": 1,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 18,
+    "views": 1177
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059820565297512877.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059818924204834816/img/KM8SqGGyfgGH710Q.jpg"
+  },
+  "extra_content": {
+    "thread_texts": [
+      "説明書はGPT Images 2.0で作りました。\nプロンプトはこちら↓\n--------------------------------\nシンプルな机の組み立て説明書を作って https://t.co/Nn9PUfhEwd"
+    ]
+  },
+  "translations": {
+    "en": "---\nIf you want to refer to an instruction manual image in Seedance 2.0, provide the instruction manual image as is and conduct a generation test.  \nCreate the assembly instruction manual image to be provided to Seedance using GPT Images 2.0, and use the prompt \"Create a simple desk assembly instruction manual.\"\n\n--- THREAD CONTINUATION ---\n[Thread 1] The instruction manual was created with GPT Images 2.0.\nHere is the prompt↓\n--------------------------------\nCreate a simple desk assembly instruction manual https://t.co/Nn9PUfhEwd\n---",
+    "es": "---\nSi deseas que Seedance 2.0 consulte una imagen de instrucciones, proporciona la imagen de instrucciones tal cual para realizar una prueba de generación.  \nLa imagen de instrucciones de montaje que se le proporciona a Seedance debe ser creada con GPT Images 2.0, utilizando el prompt \"シンプルな机の組み立て説明書を作って\".\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Las instrucciones fueron creadas con GPT Images 2.0.\nAquí está el prompt↓\n--------------------------------\nシンプルな机の組み立て説明書を作って https://t.co/Nn9PUfhEwd\n---",
+    "fr": "---\nSi vous souhaitez référencer une image d'instructions dans Seedance 2.0, fournissez directement l'image d'instructions pour effectuer un test de génération.  \nL'image d'instructions de montage à fournir à Seedance doit être créée avec GPT Images 2.0, en utilisant le prompt \"Create a simple desk assembly manual\".\n\n--- CONTINUATION DU FIL ---\n[Fil 1] L'instruction a été créée avec GPT Images 2.0.\nVoici le prompt ↓\n--------------------------------\nCreate a simple desk assembly manual https://t.co/Nn9PUfhEwd\n---",
+    "ko": "---\nSeedance 2.0에서 설명서 이미지를 참조하고 싶다면, 설명서 이미지를 그대로 전달하여 생성 테스트를 진행합니다.  \nSeedance에 전달할 조립 설명서 이미지는 GPT Images 2.0으로 만들고, 프로ンプ트에 \"シンプルな机の組み立て説明書を作って\"를 사용합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 설명서는 GPT Images 2.0으로 만들었습니다.\n프로ンプ트는 아래와 같습니다↓\n--------------------------------\nシンプルな机の組み立て説明書を作って https://t.co/Nn9PUfhEwd\n---",
+    "pt-BR": "---\nSe você deseja referenciar uma imagem de instruções no Seedance 2.0, forneça a imagem das instruções diretamente e faça um teste de geração.  \nA imagem das instruções de montagem a ser fornecida ao Seedance deve ser criada com o GPT Images 2.0, usando o prompt \"シンプルな机の組み立て説明書を作って\".\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] As instruções foram criadas com o GPT Images 2.0.\nAqui está o prompt ↓\n--------------------------------\nシンプルな机の組み立て説明書を作って https://t.co/Nn9PUfhEwd\n---",
+    "zh-CN": "---\n如果想在Seedance 2.0中参考说明书图片，可以直接提供说明书图片进行生成测试  \n提供给Seedance的组装说明书图片是用GPT Images 2.0制作的，使用的prompt是“Create a simple desk assembly manual”\n\n--- THREAD CONTINUATION ---\n[Thread 1] 说明书是用GPT Images 2.0制作的。\nprompt如下↓\n--------------------------------\nCreate a simple desk assembly manual https://t.co/Nn9PUfhEwd\n---"
+  }
+}

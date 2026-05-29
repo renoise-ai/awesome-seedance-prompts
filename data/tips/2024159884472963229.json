@@ -1,0 +1,37 @@
+{
+  "id": "2024159884472963229",
+  "type": "tip",
+  "url": "https://x.com/Framer_X/status/2024159884472963229",
+  "language": "en",
+  "created_at": "2026-02-18",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "username": "Framer_X",
+    "url": "https://x.com/Framer_X",
+    "followers": 44411
+  },
+  "text": "Seedance 2.0 turns your images into a a really cool cinematic sequence - with sound effects and music included.\n\nThis specific feature (up to 9 pics): $0.26 per 15s\n\nStandard multi-shot (1-2 images): $0.13 per 15s\n\nThat’s ridiculously cheap, especially compared to Sora 2.\n\nThen just repeat the process until you get all your scenes made and stitch them together in any video editor.",
+  "content": "Use Seedance 2.0’s “up to 9 pics” image-to-cinematic-sequence feature (includes sound effects and music) to generate a 15s scene from multiple images.  \nRepeat 15s generations to create all scenes, then stitch the scenes together in any video editor.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 188,
+    "retweets": 17,
+    "replies": 7,
+    "quotes": 0,
+    "bookmarks": 103,
+    "views": 29640
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2024159884472963229.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024159364962275328/img/kKvfFejcakSEPTe-.jpg"
+  },
+  "translations": {
+    "es": "Utiliza la función de Seedance 2.0 \"up to 9 pics\" de imagen a secuencia cinematográfica (incluye efectos de sonido y música) para generar una escena de 15 segundos a partir de múltiples imágenes.  \nRepite las generaciones de 15 segundos para crear todas las escenas, luego une las escenas en cualquier editor de video.",
+    "fr": "Utilisez la fonctionnalité \"up to 9 pics\" de Seedance 2.0 pour transformer des images en une séquence cinématographique (incluant des effets sonores et de la musique) et générer une scène de 15 secondes à partir de plusieurs images.  \nRépétez les générations de 15 secondes pour créer toutes les scènes, puis assemblez les scènes dans n'importe quel éditeur vidéo.",
+    "ja": "---\nSeedance 2.0の「up to 9 pics」イメージからシネマティックシーケンスへの機能（効果音と音楽を含む）を使用して、複数の画像から15秒のシーンを生成します。  \n15秒の生成を繰り返してすべてのシーンを作成し、任意のビデオエディタでシーンをつなぎ合わせます。\n---",
+    "ko": "Seedance 2.0의 \"up to 9 pics\" 이미지-시네마틱-시퀀스 기능(음향 효과 및 음악 포함)을 사용하여 여러 이미지에서 15초 장면을 생성하세요.  \n모든 장면을 생성하기 위해 15초 생성 과정을 반복한 후, 비디오 편집기에서 장면들을 연결하세요.",
+    "pt-BR": "Use o recurso de imagem para sequência cinematográfica \"up to 9 pics\" do Seedance 2.0 (inclui efeitos sonoros e música) para gerar uma cena de 15s a partir de várias imagens.  \nRepita as gerações de 15s para criar todas as cenas, depois una as cenas em qualquer editor de vídeo.",
+    "zh-CN": "使用 Seedance 2.0 的“up to 9 pics”图像到电影序列功能（包括音效和音乐），从多张图片生成一个15秒的场景。  \n重复生成15秒的场景，创建所有场景，然后在任意视频编辑器中将这些场景拼接在一起。"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2055115339638141048",
+  "type": "tip",
+  "url": "https://x.com/dr_cintas/status/2055115339638141048",
+  "language": "en",
+  "created_at": "2026-05-15",
+  "author": {
+    "name": "Alvaro Cintas",
+    "username": "dr_cintas",
+    "url": "https://x.com/dr_cintas",
+    "followers": 130478
+  },
+  "text": "Now everyone can make 60-minute films from ONE prompt 🤯\n\nHiggsfield Supercomputer looks insane.\n\nA cloud-native AI agent that unifies every model, tool, and creative workflow into one system.\n\n> Type one prompt - specify your length and type (cartoon or cinematic)\n> Supercomputer picks the workflow\n> It deploys a swarm of agents\n> Every sub-task routes across the right frontier LLM (Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro) and the right video model (Seedance, Veo, Kling)\n> A finished cartoon or movie lands\n\nA full film studio running inside one agent. Wild.",
+  "content": "Specify the desired film length and style (e.g., cartoon or cinematic) directly in your single prompt so the system can route to an appropriate video model like Seedance.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 670,
+    "retweets": 82,
+    "replies": 46,
+    "quotes": 9,
+    "bookmarks": 873,
+    "views": 201337
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055115339638141048.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055115225477660673/img/2AsuyyjGj-yPYAwK.jpg"
+  },
+  "extra_content": {
+    "quoted_text": "Higgsfield just released Supercomputer.\n\nA cloud-native AI agent that unifies every model, tool, and creative workflow into one system.\n\nIt can research, write, design, generate video, and ship campaigns end-to-end. https://t.co/oh1nQVlKjG"
+  },
+  "translations": {
+    "es": "Especifique la duración y el estilo de película deseados (por ejemplo, cartoon o cinematic) directamente en su único prompt para que el sistema pueda dirigirlo a un modelo de video apropiado como Seedance.\n\n--- TWEET CITADO ---\nHiggsfield acaba de lanzar Supercomputer.\n\nUn agente de IA nativo en la nube que unifica cada modelo, herramienta y flujo de trabajo creativo en un solo sistema.\n\nPuede investigar, escribir, diseñar, generar video y lanzar campañas de principio a fin. https://t.co/oh1nQVlKjG\n---",
+    "fr": "Spécifiez la durée et le style de film souhaités (par exemple, cartoon ou cinematic) directement dans votre prompt unique afin que le système puisse diriger vers un modèle vidéo approprié comme Seedance.\n\n--- TWEET CITÉ ---\nHiggsfield vient de lancer Supercomputer.\n\nUn agent IA natif du cloud qui unifie chaque modèle, outil et flux de travail créatif en un seul système.\n\nIl peut rechercher, écrire, concevoir, générer des vidéos et lancer des campagnes de bout en bout. https://t.co/oh1nQVlKjG\n---",
+    "ja": "---\n希望する映画の長さとスタイル（例：cartoonやcinematic）を単一のpromptで指定してください。これにより、システムはSeedanceのような適切なビデオモデルにルーティングできます。\n\n--- QUOTED TWEET ---\nHiggsfieldがSupercomputerをリリースしました。\n\nクラウドネイティブなAIエージェントで、すべてのモデル、ツール、クリエイティブなワークフローを一つのシステムに統合します。\n\nリサーチ、執筆、デザイン、ビデオ生成、キャンペーンのエンドツーエンドの実施が可能です。https://t.co/oh1nQVlKjG\n---",
+    "ko": "원하는 영화 길이와 스타일(예: cartoon 또는 cinematic)을 단일 prompt에 직접 지정하여 시스템이 Seedance와 같은 적절한 비디오 모델로 연결할 수 있도록 하세요.\n\n--- 인용된 트윗 ---\nHiggsfield가 Supercomputer를 방금 출시했습니다.\n\n모든 모델, 도구, 창의적 워크플로를 하나의 시스템으로 통합하는 클라우드 네이티브 AI 에이전트입니다.\n\n연구, 작성, 디자인, 비디오 생성, 캠페인 전 과정을 처리할 수 있습니다. https://t.co/oh1nQVlKjG\n---",
+    "pt-BR": "Especifique o comprimento e o estilo desejado do filme (por exemplo, cartoon ou cinematográfico) diretamente no seu único prompt para que o sistema possa direcionar para um modelo de vídeo apropriado como o Seedance.\n\n--- TWEET CITADO ---\nHiggsfield acabou de lançar o Supercomputer.\n\nUm agente de IA nativo da nuvem que unifica todos os modelos, ferramentas e fluxos de trabalho criativos em um único sistema.\n\nEle pode pesquisar, escrever, projetar, gerar vídeo e lançar campanhas de ponta a ponta. https://t.co/oh1nQVlKjG\n---",
+    "zh-CN": "在您的单个prompt中直接指定所需的电影长度和风格（例如，卡通或cinematic），以便系统可以路由到合适的视频模型，如Seedance。\n\n--- 引用推文 ---\nHiggsfield刚刚发布了Supercomputer。\n\n一个云原生的AI代理，将每个模型、工具和创意工作流程统一到一个系统中。\n\n它可以进行研究、写作、设计、生成视频，并端到端地发布活动。https://t.co/oh1nQVlKjG\n---"
+  }
+}

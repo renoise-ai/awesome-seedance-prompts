@@ -1,0 +1,37 @@
+{
+  "id": "2036685520450044050",
+  "type": "prompt",
+  "url": "https://x.com/jerrod_lew/status/2036685520450044050",
+  "language": "en",
+  "created_at": "2026-03-25",
+  "author": {
+    "name": "Jerrod Lew",
+    "username": "jerrod_lew",
+    "url": "https://x.com/jerrod_lew",
+    "followers": 14997
+  },
+  "text": "Seedance 2.0 product explosion.\n\nText-to-video, then Video Extend.\n\nPrompt 1:\n\nDynamic movement, a smart phone drops from the sky and falls onto the city street, shattering into individual pieces, each part shown specifically in slow motion, camera orbits it.\n\nPrompt 2: \n\nContinue this video, the phone reforms back into the smart phone and lands onto the ground.",
+  "content": "Dynamic movement, a smart phone drops from the sky and falls onto the city street, shattering into individual pieces, each part shown specifically in slow motion, camera orbits it.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 154,
+    "retweets": 26,
+    "replies": 15,
+    "quotes": 3,
+    "bookmarks": 128,
+    "views": 15791
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2036685520450044050.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2036685167587405825/img/4iFdQSo7bp7AHBLN.jpg"
+  },
+  "translations": {
+    "es": "Movimiento dinámico, un teléfono inteligente cae del cielo y se estrella en la calle de la ciudad, rompiéndose en piezas individuales, cada parte mostrada específicamente en cámara lenta, la cámara orbita alrededor de ella.",
+    "fr": "Mouvement dynamique, un smartphone tombe du ciel et s'écrase sur la rue de la ville, se brisant en morceaux individuels, chaque partie étant montrée spécifiquement au ralenti, la caméra l'orbitant.",
+    "ja": "ダイナミックな動きで、スマートフォンが空から落ちてきて街の通りに落下し、個々の部品に砕け散る。それぞれの部品がスローモーションで具体的に示され、カメラがそれを周回する。",
+    "ko": "다이내믹한 움직임, 스마트폰이 하늘에서 떨어져 도시 거리로 떨어지며 개별 조각으로 산산조각 납니다. 각 부분은 슬로우 모션으로 구체적으로 보여지며, 카메라가 이를 회전합니다.",
+    "pt-BR": "Movimento dinâmico, um smartphone cai do céu e despenca na rua da cidade, se despedaçando em partes individuais, cada peça mostrada especificamente em câmera lenta, com a câmera orbitando ao redor.",
+    "zh-CN": "动态运动，一部智能手机从天空中掉落，落在城市街道上，碎成各个独立的部分，每个部分都以慢动作特写展示，镜头环绕拍摄。"
+  }
+}

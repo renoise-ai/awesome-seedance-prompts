@@ -1,0 +1,37 @@
+{
+  "id": "2027307970846208129",
+  "type": "tip",
+  "url": "https://x.com/aiIgnatius/status/2027307970846208129",
+  "language": "en",
+  "created_at": "2026-02-27",
+  "author": {
+    "name": "Ignatius AI",
+    "username": "aiIgnatius",
+    "url": "https://x.com/aiIgnatius",
+    "followers": 12109
+  },
+  "text": "Dinner Time\n\nProcess:\nSeedance 2.0 in Capcut\n4k upscaled with Runway https://t.co/eR1oDVY5du",
+  "content": "Generate the video using Seedance 2.0 inside CapCut, then upscale the output to 4K using Runway.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 46,
+    "retweets": 3,
+    "replies": 8,
+    "quotes": 0,
+    "bookmarks": 3,
+    "views": 891
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027307970846208129.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027014251005784064/img/D7yxigWFT4PtmQ4Y.jpg"
+  },
+  "translations": {
+    "es": "Genera el video usando Seedance 2.0 dentro de CapCut, luego mejora la resolución a 4K usando Runway.",
+    "fr": "Générez la vidéo en utilisant Seedance 2.0 dans CapCut, puis améliorez la sortie en 4K avec Runway.",
+    "ja": "Seedance 2.0を使用してCapCut内でビデオを生成し、その後Runwayを使用して出力を4Kにアップスケールします。",
+    "ko": "Seedance 2.0을 사용하여 CapCut에서 비디오를 생성한 후, Runway를 사용하여 출력물을 4K로 업스케일하세요.",
+    "pt-BR": "Gere o vídeo usando Seedance 2.0 dentro do CapCut, depois faça o upscale do resultado para 4K usando o Runway.",
+    "zh-CN": "在 CapCut 中使用 Seedance 2.0 生成视频，然后使用 Runway 将输出升级到 4K。"
+  }
+}

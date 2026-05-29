@@ -1,0 +1,42 @@
+{
+  "id": "2057197984434024662",
+  "type": "tip",
+  "url": "https://x.com/heyglif/status/2057197984434024662",
+  "language": "en",
+  "created_at": "2026-05-20",
+  "author": {
+    "name": "GLIF",
+    "username": "heyglif",
+    "url": "https://x.com/heyglif",
+    "followers": 19350
+  },
+  "text": "Generate a character sheet in GPT Images. \nGenerate a Seedance prompt in Claude.\nFind Seedance in RunFieldUI and paste the prompt and the image.\n\nor..just run the whole thing end to end in Glif, and then ask the agent to turn it into a Remotion video that includes the prompt: https://t.co/ySiZYDquOJ",
+  "content": "Generate a character sheet image in GPT Images, then use Claude to write a Seedance prompt based on that character sheet.  \nIn RunFieldUI, open Seedance and paste in both the Claude-generated prompt and the GPT Images character sheet as the reference image.  \nRun the workflow end-to-end in Glif, then ask the agent to convert the output into a Remotion video while including the original Seedance prompt.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 22,
+    "retweets": 5,
+    "replies": 5,
+    "quotes": 0,
+    "bookmarks": 12,
+    "views": 1838
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057197984434024662.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057196860989706240/img/WWO1o1B6jA2N8-PI.jpg"
+  },
+  "extra_content": {
+    "thread_texts": [
+      "Start here: https://t.co/7Npa6G4r5Y"
+    ]
+  },
+  "translations": {
+    "es": "Genera una imagen de hoja de personaje en GPT Images, luego usa Claude para escribir un prompt de Seedance basado en esa hoja de personaje.  \nEn RunFieldUI, abre Seedance y pega tanto el prompt generado por Claude como la hoja de personaje de GPT Images como imagen de referencia.  \nEjecuta el flujo de trabajo de principio a fin en Glif, luego pide al agente que convierta el resultado en un video de Remotion mientras incluye el prompt original de Seedance.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Comienza aquí: https://t.co/7Npa6G4r5Y",
+    "fr": "---\nGénérez une image de fiche de personnage dans GPT Images, puis utilisez Claude pour écrire un prompt Seedance basé sur cette fiche de personnage.  \nDans RunFieldUI, ouvrez Seedance et collez à la fois le prompt généré par Claude et la fiche de personnage de GPT Images comme image de référence.  \nExécutez le flux de travail de bout en bout dans Glif, puis demandez à l'agent de convertir le résultat en une vidéo Remotion tout en incluant le prompt Seedance original.\n\n--- SUITE DU FIL ---\n[Fil 1] Commencez ici : https://t.co/7Npa6G4r5Y\n---",
+    "ja": "---\nGPT Imagesでキャラクターシート画像を生成し、そのキャラクターシートに基づいてClaudeを使用してSeedanceプロンプトを書いてください。  \nRunFieldUIでSeedanceを開き、Claudeが生成したプロンプトとGPT Imagesのキャラクターシートを参照画像として貼り付けます。  \nGlifでワークフローをエンドツーエンドで実行し、エージェントに出力をRemotionビデオに変換し、元のSeedanceプロンプトを含めるように依頼します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Start here: https://t.co/7Npa6G4r5Y\n---",
+    "ko": "---\nGPT Images에서 캐릭터 시트 이미지를 생성한 후, Claude를 사용하여 해당 캐릭터 시트를 기반으로 Seedance 프롬프트를 작성하세요.  \nRunFieldUI에서 Seedance를 열고 Claude가 생성한 프롬프트와 GPT Images 캐릭터 시트를 참조 이미지로 붙여넣으세요.  \nGlif에서 워크플로우를 처음부터 끝까지 실행한 다음, 에이전트에게 원래 Seedance 프롬프트를 포함하여 출력을 Remotion 비디오로 변환하도록 요청하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Start here: https://t.co/7Npa6G4r5Y\n---",
+    "pt-BR": "---\nGere uma imagem de ficha de personagem no GPT Images, depois use o Claude para escrever um prompt Seedance baseado nessa ficha de personagem.  \nNo RunFieldUI, abra o Seedance e cole tanto o prompt gerado pelo Claude quanto a ficha de personagem do GPT Images como imagem de referência.  \nExecute o fluxo de trabalho de ponta a ponta no Glif, depois peça ao agente para converter o resultado em um vídeo Remotion enquanto inclui o prompt Seedance original.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Comece aqui: https://t.co/7Npa6G4r5Y\n---",
+    "zh-CN": "在GPT Images中生成一个角色表图像，然后使用Claude根据该角色表编写一个Seedance prompt。  \n在RunFieldUI中，打开Seedance并粘贴Claude生成的prompt和GPT Images角色表作为参考图像。  \n在Glif中端到端运行工作流程，然后要求代理将输出转换为Remotion视频，同时包含原始的Seedance prompt。\n\n--- 线程继续 ---\n[线程1] 从这里开始：https://t.co/7Npa6G4r5Y"
+  }
+}

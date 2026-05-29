@@ -1,0 +1,37 @@
+{
+  "id": "2037957831052148964",
+  "type": "prompt",
+  "url": "https://x.com/airina_xyz/status/2037957831052148964",
+  "language": "en",
+  "created_at": "2026-03-28",
+  "author": {
+    "name": "AIrina (Virtual Media Net)",
+    "username": "airina_xyz",
+    "url": "https://x.com/airina_xyz",
+    "followers": 2421
+  },
+  "text": "Seedance 2 first-last frame\n\nCreated in @dreamina_ai #DreaminaCPP\n\nPrompt:\nanime, fast shot cuts https://t.co/qBltlh2qyD",
+  "content": "anime, fast shot cuts",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 36,
+    "retweets": 5,
+    "replies": 4,
+    "quotes": 0,
+    "bookmarks": 13,
+    "views": 846
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037957831052148964.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037957524473737216/img/JyhSJFl9K1sF4j8H.jpg"
+  },
+  "translations": {
+    "es": "anime, cortes rápidos",
+    "fr": "anime, coupes rapides",
+    "ja": "アニメ、ファストショットカット",
+    "ko": "애니메이션, 빠른 샷 컷",
+    "pt-BR": "anime, cortes rápidos de cena",
+    "zh-CN": "动漫，快速镜头剪辑"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2024180000187174954",
+  "type": "prompt",
+  "url": "https://x.com/Random_AI000/status/2024180000187174954",
+  "language": "en",
+  "created_at": "2026-02-18",
+  "author": {
+    "name": "Random AI",
+    "username": "Random_AI000",
+    "url": "https://x.com/Random_AI000",
+    "followers": 782
+  },
+  "text": "Seedance 2.0\n\nPrompt: Make a better Star war fight scene than Hollywood, and aim for 2 likes https://t.co/YYt0A1HbjZ",
+  "content": "Make a better Star war fight scene than Hollywood, and aim for 2 likes",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 218,
+    "retweets": 36,
+    "replies": 6,
+    "quotes": 0,
+    "bookmarks": 63,
+    "views": 8375
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2024180000187174954.mp4",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024179854552502272/pu/img/zG3viBi5OBithszd.jpg"
+  },
+  "translations": {
+    "es": "Crea una mejor escena de pelea de Star Wars que Hollywood, y apunta a obtener 2 \"me gusta\".",
+    "fr": "Créez une scène de combat Star Wars meilleure que celle d'Hollywood, et visez 2 likes.",
+    "ja": "ハリウッドよりも優れたスターウォーズの戦闘シーンを作成し、2つの「いいね」を目指してください。",
+    "ko": "할리우드보다 더 나은 스타워 전투 장면을 만들어 보세요, 그리고 2개의 좋아요를 목표로 하세요.",
+    "pt-BR": "Crie uma cena de luta de Star Wars melhor que a de Hollywood e mire em 2 curtidas",
+    "zh-CN": "制作一个比好莱坞更好的星球大战战斗场景，目标是获得2个赞。"
+  }
+}

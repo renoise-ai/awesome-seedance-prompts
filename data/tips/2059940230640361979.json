@@ -1,0 +1,37 @@
+{
+  "id": "2059940230640361979",
+  "type": "tip",
+  "url": "https://x.com/HeyAbhishek/status/2059940230640361979",
+  "language": "en",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "Abhishek",
+    "username": "HeyAbhishek",
+    "url": "https://x.com/HeyAbhishek",
+    "followers": 109261
+  },
+  "text": "Here's the result:\n\nCreate and share your own new version.\n\nUse this below prompt below to create custom prompt:\n\"Rewrite this prompts for a completely new original idea: [YOUR IDEA]\nSeedance Prompt: [PASTE ABOVE SEEDANCE PROMPT]\" https://t.co/BoHoPytMmG",
+  "content": "Use a meta-prompt to generate a new Seedance prompt by asking: Rewrite this prompts for a completely new original idea: [YOUR IDEA] Seedance Prompt: [PASTE ABOVE SEEDANCE PROMPT]",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 6,
+    "retweets": 1,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 4,
+    "views": 888
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059940230640361979.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059940172494708736/img/6jvwzish9Ayxer5w.jpg"
+  },
+  "translations": {
+    "es": "Usa un meta-prompt para generar un nuevo prompt de Seedance preguntando: Rewrite this prompts for a completely new original idea: [YOUR IDEA] Seedance Prompt: [PASTE ABOVE SEEDANCE PROMPT]",
+    "fr": "Utilisez un méta-prompt pour générer un nouveau prompt Seedance en demandant : Réécrivez ces prompts pour une idée complètement nouvelle et originale : [VOTRE IDÉE] Seedance Prompt : [COLLEZ LE PROMPT SEEDANCE CI-DESSUS]",
+    "ja": "---\nメタプロンプトを使用して、新しいSeedanceプロンプトを生成します。次のように尋ねてください: Rewrite this prompts for a completely new original idea: [YOUR IDEA] Seedance Prompt: [PASTE ABOVE SEEDANCE PROMPT]\n---",
+    "ko": "---\n메타 프롬프트를 사용하여 새로운 Seedance 프롬프트를 생성하세요. 다음과 같이 요청합니다: 이 프롬프트를 완전히 새로운 독창적인 아이디어로 다시 작성하세요: [YOUR IDEA] Seedance Prompt: [PASTE ABOVE SEEDANCE PROMPT]\n---",
+    "pt-BR": "Use um meta-prompt para gerar um novo prompt Seedance perguntando: Reescreva este prompt para uma ideia completamente nova e original: [SUA IDEIA] Seedance Prompt: [COLE O PROMPT SEEDANCE ACIMA]",
+    "zh-CN": "使用一个元提示来生成一个新的Seedance提示，方法是询问：重写这个提示以获得一个全新的原创想法：[你的想法] Seedance Prompt: [粘贴上面的Seedance提示]"
+  }
+}

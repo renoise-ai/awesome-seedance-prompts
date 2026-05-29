@@ -1,0 +1,37 @@
+{
+  "id": "2055829380119822465",
+  "type": "tip",
+  "url": "https://x.com/mnmn94253156337/status/2055829380119822465",
+  "language": "zh",
+  "created_at": "2026-05-17",
+  "author": {
+    "name": "撸毛吃猪脚饭",
+    "username": "mnmn94253156337",
+    "url": "https://x.com/mnmn94253156337",
+    "followers": 8317
+  },
+  "text": "让 AI 视频从「能用」到「好看」的工具。\n\nseedance-video-prompt-architect\n输入想法 → 输出专业级提示词\n支持 Seedance 2.0 / Dreamina / CapCut\n\n我试了一下「80年代乡村记忆」这个主题。每个都有完整的运镜描述、光线设定、情绪氛围。输出质量比我预期高很多。\n\n把提示词扔给我们豆包小可爱生成的 https://t.co/MV5eN7KTpd",
+  "content": "使用 seedance-video-prompt-architect 将“输入想法 → 输出专业级提示词”，并选择支持的模型/平台（Seedance 2.0 / Dreamina / CapCut）来生成可直接用于视频生成的提示词  \n在生成的提示词中补全完整的运镜描述、光线设定与情绪氛围，以提升 Seedance 输出画面观感与一致性",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 56,
+    "retweets": 6,
+    "replies": 73,
+    "quotes": 0,
+    "bookmarks": 19,
+    "views": 4400
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055829380119822465.mp4",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2055829261723009024/pu/img/qjsIDf7gF7US4i9Z.jpg"
+  },
+  "translations": {
+    "en": "Use seedance-video-prompt-architect to transform \"input ideas → output professional-grade prompts\" and select a supported model/platform (Seedance 2.0 / Dreamina / CapCut) to generate prompts that can be directly used for video generation.  \nComplete the generated prompts with full camera movement descriptions, lighting settings, and emotional atmosphere to enhance the visual appeal and consistency of Seedance outputs.",
+    "es": "---\nUsa seedance-video-prompt-architect para convertir \"entrada de ideas → salida de prompts de nivel profesional\", y elige el modelo/plataforma compatible (Seedance 2.0 / Dreamina / CapCut) para generar prompts que se puedan usar directamente en la generación de videos.  \nCompleta en los prompts generados la descripción completa de los movimientos de cámara, la configuración de iluminación y el ambiente emocional, para mejorar la apariencia visual y la consistencia de la salida de Seedance.\n---",
+    "fr": "Utilisez seedance-video-prompt-architect pour transformer « idée d'entrée → sortie de mots-clés professionnels », et choisissez le modèle/plateforme pris en charge (Seedance 2.0 / Dreamina / CapCut) pour générer des mots-clés directement utilisables pour la génération vidéo.  \nComplétez la description complète des mouvements de caméra, des réglages de lumière et de l'ambiance émotionnelle dans les mots-clés générés afin d'améliorer l'apparence et la cohérence des images produites par Seedance.",
+    "ja": "---\nseedance-video-prompt-architectを使用して「入力アイデア → 出力プロフェッショナルレベルのプロンプト」を行い、サポートされているモデル/プラットフォーム（Seedance 2.0 / Dreamina / CapCut）を選択して、ビデオ生成に直接使用できるプロンプトを生成します。  \n生成されたプロンプトにおいて、運動の描写、光の設定、感情的な雰囲気を完全に補完し、Seedanceの出力映像の視覚的な質感と一貫性を向上させます。  \n---",
+    "ko": "---\nseedance-video-prompt-architect를 사용하여 \"입력 아이디어 → 출력 전문급 프롬프트\"를 만들고, 지원되는 모델/플랫폼(Seedance 2.0 / Dreamina / CapCut)을 선택하여 비디오 생성에 직접 사용할 수 있는 프롬프트를 생성합니다.  \n생성된 프롬프트에서 완전한 카메라 움직임 설명, 조명 설정 및 감정 분위기를 보완하여 Seedance 출력 화면의 시각적 감각과 일관성을 향상시킵니다.\n---",
+    "pt-BR": "Use o seedance-video-prompt-architect para transformar \"entrada de ideia → saída de prompt profissional\" e escolha o modelo/plataforma suportado (Seedance 2.0 / Dreamina / CapCut) para gerar prompts que podem ser usados diretamente na geração de vídeo  \nComplete a descrição completa de movimentos de câmera, configuração de iluminação e atmosfera emocional nos prompts gerados para melhorar a consistência e a qualidade visual das saídas do Seedance"
+  }
+}

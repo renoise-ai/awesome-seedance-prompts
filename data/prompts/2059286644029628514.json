@@ -1,0 +1,37 @@
+{
+  "id": "2059286644029628514",
+  "type": "prompt",
+  "url": "https://x.com/migrok293703/status/2059286644029628514",
+  "language": "en",
+  "created_at": "2026-05-26",
+  "author": {
+    "name": "migrok",
+    "username": "migrok293703",
+    "url": "https://x.com/migrok293703",
+    "followers": 3589
+  },
+  "text": "One way to wrestle a dragon.\n\nGenerated with Seedance 2.0\n\nPrompt:\n\n吉卜力动画风格。 https://t.co/mqIkhmG171",
+  "content": "吉卜力动画风格。",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 380,
+    "retweets": 23,
+    "replies": 7,
+    "quotes": 0,
+    "bookmarks": 167,
+    "views": 19646
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059286644029628514.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059286491038146560/img/TJlO6Bb4w-zI8MRg.jpg"
+  },
+  "translations": {
+    "es": "Estilo de animación de Ghibli.",
+    "fr": "Style d'animation Ghibli.",
+    "ja": "吉卜力アニメーションスタイル。",
+    "ko": "지브리 애니메이션 스타일.",
+    "pt-BR": "Estilo de animação Ghibli.",
+    "zh-CN": "吉卜力动画风格。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2058973292661268743",
+  "type": "tip",
+  "url": "https://x.com/techhalla/status/2058973292661268743",
+  "language": "en",
+  "created_at": "2026-05-25",
+  "author": {
+    "name": "TechHalla",
+    "username": "techhalla",
+    "url": "https://x.com/techhalla",
+    "followers": 90162
+  },
+  "text": "Now we’re gonna use the photo we just made, plus 2 or 3 other rooms or key elements we want to highlight.\n\nKeep in mind you only have max 15 seconds total, since we’re gonna animate it all with Seedance using the prompt from the screenshot. https://t.co/MXUxLUnWKD",
+  "content": "Use the photo you created plus 2–3 additional room images or key elements you want to highlight as inputs for the Seedance animation.  \nPlan your sequence to fit within Seedance’s 15-second maximum total duration.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 22,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 19,
+    "views": 2378
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058973292661268743.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058971503425650688/img/1dowaG2bw2oPZLeE.jpg"
+  },
+  "translations": {
+    "es": "Usa la foto que creaste más 2–3 imágenes adicionales de la habitación o elementos clave que quieras destacar como entradas para la animación de Seedance.  \nPlanifica tu secuencia para que se ajuste a la duración máxima total de 15 segundos de Seedance.",
+    "fr": "Utilisez la photo que vous avez créée ainsi que 2 à 3 images supplémentaires de la pièce ou des éléments clés que vous souhaitez mettre en avant comme entrées pour l'animation Seedance.  \nPlanifiez votre séquence pour qu'elle s'inscrive dans la durée maximale totale de 15 secondes de Seedance.",
+    "ja": "作成した写真に加えて、強調したい2〜3枚の部屋の画像や重要な要素をSeedanceアニメーションの入力として使用してください。  \nシードランスの最大15秒の合計時間内に収まるようにシーケンスを計画してください。",
+    "ko": "당신이 만든 사진과 강조하고 싶은 추가적인 방 이미지나 주요 요소 2~3개를 Seedance 애니메이션의 입력으로 사용하세요.  \nSeedance의 최대 15초 총 지속 시간에 맞도록 시퀀스를 계획하세요.",
+    "pt-BR": "Use a foto que você criou mais 2–3 imagens adicionais do ambiente ou elementos-chave que deseja destacar como entradas para a animação Seedance.  \nPlaneje sua sequência para se encaixar na duração máxima total de 15 segundos do Seedance.",
+    "zh-CN": "使用您创建的照片以及2-3张额外的房间图像或您想要突出的关键元素作为Seedance动画的输入。  \n规划您的序列以适应Seedance的15秒最大总时长。"
+  }
+}

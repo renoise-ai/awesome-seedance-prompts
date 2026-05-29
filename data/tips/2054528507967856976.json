@@ -1,0 +1,37 @@
+{
+  "id": "2054528507967856976",
+  "type": "tip",
+  "url": "https://x.com/techhalla/status/2054528507967856976",
+  "language": "en",
+  "created_at": "2026-05-13",
+  "author": {
+    "name": "TechHalla",
+    "username": "techhalla",
+    "url": "https://x.com/techhalla",
+    "followers": 90163
+  },
+  "text": "Every prompt I’ve tested on @magnific was run through Seedance 2.0 Fast text-to-video, using timeline prompting and dialed in for max continuity.\n\nLet’s dive in!\n\n1. The 70s Disco Heist (prompt in the screenshot) https://t.co/cbKLRxfEIr",
+  "content": "Run your text-to-video prompts through Seedance 2.0 Fast and use timeline prompting tuned for maximum continuity.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 21,
+    "retweets": 2,
+    "replies": 3,
+    "quotes": 1,
+    "bookmarks": 17,
+    "views": 3509
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054528507967856976.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054525360436330496/img/YfpW6_iCqA-91JvS.jpg"
+  },
+  "translations": {
+    "es": "Ejecuta tus prompts de texto a video a través de Seedance 2.0 Fast y utiliza la línea de tiempo de prompts ajustada para obtener la máxima continuidad.",
+    "fr": "Exécutez vos prompts de texte en vidéo avec Seedance 2.0 Fast et utilisez le timeline prompting ajusté pour une continuité maximale.",
+    "ja": "---\nSeedance 2.0 Fastを使用して、テキストからビデオへのプロンプトを実行し、最大限の連続性を実現するために調整されたタイムラインプロンプトを利用しましょう。\n---",
+    "ko": "Seedance 2.0 Fast를 통해 텍스트-비디오 프롬프트를 실행하고 최대한의 연속성을 위해 조정된 타임라인 프롬프트를 사용하세요.",
+    "pt-BR": "Execute seus prompts de texto para vídeo com o Seedance 2.0 Fast e utilize a linha do tempo de prompts ajustada para máxima continuidade.",
+    "zh-CN": "通过Seedance 2.0 Fast运行您的文本到视频prompt，并使用时间轴prompt以获得最大连续性。"
+  }
+}

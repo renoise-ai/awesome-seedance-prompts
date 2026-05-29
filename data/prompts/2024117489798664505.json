@@ -1,0 +1,37 @@
+{
+  "id": "2024117489798664505",
+  "type": "prompt",
+  "url": "https://x.com/Random_AI000/status/2024117489798664505",
+  "language": "en",
+  "created_at": "2026-02-18",
+  "author": {
+    "name": "Random AI",
+    "username": "Random_AI000",
+    "url": "https://x.com/Random_AI000",
+    "followers": 781
+  },
+  "text": "Seedance 2 \n\nPrompt: make a sci-fi robot transformation video \nmake sure it’s better than Marvel and gets 50 likes. https://t.co/xlqsnlXQw9",
+  "content": "make a sci-fi robot transformation video \nmake sure it’s better than Marvel and gets 50 likes.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 28,
+    "retweets": 7,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 5,
+    "views": 1745
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2024117489798664505.mp4",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024117439915814912/pu/img/huBMSzvBKC--tvmv.jpg"
+  },
+  "translations": {
+    "es": "crea un video de transformación de robot de ciencia ficción \nasegúrate de que sea mejor que Marvel y obtenga 50 likes.",
+    "fr": "créer une vidéo de transformation de robot de science-fiction \nassurez-vous qu'elle soit meilleure que Marvel et obtienne 50 likes.",
+    "ja": "---\nSFロボット変形ビデオを作成する  \nMarvelよりも優れたもので、50件の「いいね」を獲得することを目指してください。  \n---",
+    "ko": "SF 로봇 변신 비디오를 만들어 보세요.  \nMarvel보다 더 뛰어나고 50개의 좋아요를 받을 수 있도록 하세요.",
+    "pt-BR": "criar um vídeo de transformação de robô sci-fi \ncertifique-se de que seja melhor que Marvel e receba 50 curtidas.",
+    "zh-CN": "制作一个科幻机器人变形视频  \n确保它比漫威的更好，并获得50个赞。"
+  }
+}

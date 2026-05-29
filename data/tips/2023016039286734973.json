@@ -1,0 +1,37 @@
+{
+  "id": "2023016039286734973",
+  "type": "tip",
+  "url": "https://x.com/bmfshow/status/2023016039286734973",
+  "language": "en",
+  "created_at": "2026-02-15",
+  "author": {
+    "name": "Matt - BMFVR",
+    "username": "bmfshow",
+    "url": "https://x.com/bmfshow",
+    "followers": 26496
+  },
+  "text": "A single image and a detailed director's prompt with Seedance 2.0. It's still not perfect but it's a lot of fun. https://t.co/dbl5GkS1oI",
+  "content": "Use a single image plus a detailed director’s prompt in Seedance 2.0 to generate the video.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 12,
+    "retweets": 1,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 4,
+    "views": 1259
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023016039286734973.mp4",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023016010346110976/pu/img/OyWDBPpYLCsWWGIm.jpg"
+  },
+  "translations": {
+    "es": "Usa una sola imagen más un prompt detallado del director en Seedance 2.0 para generar el video.",
+    "fr": "Utilisez une seule image plus un prompt détaillé de réalisateur dans Seedance 2.0 pour générer la vidéo.",
+    "ja": "Seedance 2.0で、1枚の画像と詳細なディレクターのプロンプトを使用してビデオを生成します。",
+    "ko": "Seedance 2.0에서 단일 이미지와 상세한 감독의 프롬프트를 사용하여 비디오를 생성하세요.",
+    "pt-BR": "Use uma única imagem mais um prompt detalhado de diretor no Seedance 2.0 para gerar o vídeo.",
+    "zh-CN": "使用一张图片加上Seedance 2.0中的详细导演提示来生成视频。"
+  }
+}

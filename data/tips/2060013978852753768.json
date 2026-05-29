@@ -1,0 +1,37 @@
+{
+  "id": "2060013978852753768",
+  "type": "tip",
+  "url": "https://x.com/Marco_Exito/status/2060013978852753768",
+  "language": "es",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "Marco | IA",
+    "username": "Marco_Exito",
+    "url": "https://x.com/Marco_Exito",
+    "followers": 72619
+  },
+  "text": "Lo sorprendente es que no se trataba sólo de convertir texto a vídeo.\n\nDreamina Seedance 2.0 admite:\n→ referencias de vídeo\n→ referencias de imagen\n→ referencias de audio\n→ indicaciones de texto\n\n🔗https://t.co/UTqC343TC7\n\nTodo integrado en un mismo flujo de trabajo.\n\nAsí que, en lugar de generar contenido al azar…\n\ntú controlas el resultado.",
+  "content": "Usa referencias de vídeo en Dreamina Seedance 2.0 para guiar el resultado en lugar de depender solo de texto.  \nUsa referencias de imagen en Dreamina Seedance 2.0 para controlar el estilo y la apariencia del vídeo generado.  \nUsa referencias de audio en Dreamina Seedance 2.0 para condicionar el ritmo o la atmósfera del vídeo.  \nCombina indicaciones de texto con referencias (vídeo/imagen/audio) en un mismo flujo de trabajo para tener más control sobre el resultado.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 13,
+    "retweets": 3,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 0,
+    "views": 2244
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060013978852753768.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060013921105575936/img/ENErHYKz25ufwhso.jpg"
+  },
+  "translations": {
+    "en": "Use video references in Dreamina Seedance 2.0 to guide the outcome instead of relying solely on text.  \nUse image references in Dreamina Seedance 2.0 to control the style and appearance of the generated video.  \nUse audio references in Dreamina Seedance 2.0 to influence the rhythm or atmosphere of the video.  \nCombine text prompts with references (video/image/audio) in a single workflow to have more control over the result.",
+    "fr": "Utilisez des références vidéo dans Dreamina Seedance 2.0 pour guider le résultat au lieu de dépendre uniquement du texte.  \nUtilisez des références d'image dans Dreamina Seedance 2.0 pour contrôler le style et l'apparence de la vidéo générée.  \nUtilisez des références audio dans Dreamina Seedance 2.0 pour conditionner le rythme ou l'atmosphère de la vidéo.  \nCombinez des indications textuelles avec des références (vidéo/image/audio) dans un même flux de travail pour avoir plus de contrôle sur le résultat.",
+    "ja": "Dreamina Seedance 2.0でビデオの参照を使用して、テキストに依存するだけでなく、結果を導く。  \nDreamina Seedance 2.0で画像の参照を使用して、生成されたビデオのスタイルと外観を制御する。  \nDreamina Seedance 2.0でオーディオの参照を使用して、ビデオのリズムや雰囲気を調整する。  \nテキストの指示と参照（ビデオ/画像/オーディオ）を同じワークフローで組み合わせて、結果をよりコントロールする。",
+    "ko": "Dreamina Seedance 2.0에서 비디오 참조를 사용하여 결과를 텍스트에만 의존하지 않고 안내하세요.  \nDreamina Seedance 2.0에서 이미지 참조를 사용하여 생성된 비디오의 스타일과 외관을 제어하세요.  \nDreamina Seedance 2.0에서 오디오 참조를 사용하여 비디오의 리듬이나 분위기를 조절하세요.  \n텍스트 지시와 참조(비디오/이미지/오디오)를 동일한 작업 흐름에서 결합하여 결과에 대한 더 많은 제어를 가지세요.",
+    "pt-BR": "Use referências de vídeo no Dreamina Seedance 2.0 para guiar o resultado em vez de depender apenas de texto.  \nUse referências de imagem no Dreamina Seedance 2.0 para controlar o estilo e a aparência do vídeo gerado.  \nUse referências de áudio no Dreamina Seedance 2.0 para condicionar o ritmo ou a atmosfera do vídeo.  \nCombine prompts de texto com referências (vídeo/imagem/áudio) em um mesmo fluxo de trabalho para ter mais controle sobre o resultado.",
+    "zh-CN": "在 Dreamina Seedance 2.0 中使用视频参考来指导结果，而不仅仅依赖文本。  \n在 Dreamina Seedance 2.0 中使用图像参考来控制生成视频的风格和外观。  \n在 Dreamina Seedance 2.0 中使用音频参考来影响视频的节奏或氛围。  \n在同一工作流程中结合文本提示与参考（视频/图像/音频）以更好地控制结果。"
+  }
+}

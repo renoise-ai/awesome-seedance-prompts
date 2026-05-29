@@ -1,0 +1,42 @@
+{
+  "id": "2055213993166541069",
+  "type": "tip",
+  "url": "https://x.com/AinaAiTech/status/2055213993166541069",
+  "language": "en",
+  "created_at": "2026-05-15",
+  "author": {
+    "name": "Aina Ai | Tools & Updates",
+    "username": "AinaAiTech",
+    "url": "https://x.com/AinaAiTech",
+    "followers": 42821
+  },
+  "text": "Renoise Canvas is now live on both web and desktop 🖥️ 🌐\n\n  Been spending time inside the new Canvas and honestly the experience is a step up from any AI workspace I've used. Generating,\n  organizing, and iterating all happen in one place — no juggling tabs, no losing assets to folders.\n\n  What's stood out so far:\n  • Every generation lands directly on the canvas — nothing to organize manually\n  • @-reference any asset on the board in the next prompt\n  • Multiple models in one input bar (Nano Banana, Seedance, etc.) — no tab-switching\n  • Iteration feels faster than my old multi-tool setup\n\n  They're also running a launch week 40% off, plus a creator challenge where valid posts earn free credits and top reviews get extra\n  rewards.\n\nhttps://t.co/WuFGnc2gfV\n\n  If AI creation is part of your workflow, this update is worth opening up.",
+  "content": "Use Renoise Canvas to generate Seedance outputs directly onto the canvas so you don’t have to manually organize files after each generation  \nIn your next Seedance prompt, @-reference an existing asset on the board to reuse it as a prompt reference  \nSwitch between Seedance and other models from the same input bar to avoid tab-switching during iteration",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 185,
+    "retweets": 102,
+    "replies": 52,
+    "quotes": 0,
+    "bookmarks": 3,
+    "views": 11518
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055213993166541069.mp4",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2055213095447134208/pu/img/cShZYYc3mjvZJ7Lc.jpg"
+  },
+  "extra_content": {
+    "thread_texts": [
+      "https://t.co/yvxDLh4VeU"
+    ]
+  },
+  "translations": {
+    "es": "Utiliza Renoise Canvas para generar salidas de Seedance directamente en el lienzo, de modo que no tengas que organizar archivos manualmente después de cada generación.  \nEn tu próximo prompt de Seedance, @-referencia un activo existente en el tablero para reutilizarlo como referencia de prompt.  \nCambia entre Seedance y otros modelos desde la misma barra de entrada para evitar cambiar de pestaña durante la iteración.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/yvxDLh4VeU",
+    "fr": "Utilisez Renoise Canvas pour générer des sorties Seedance directement sur la toile afin de ne pas avoir à organiser manuellement les fichiers après chaque génération.  \nDans votre prochain prompt Seedance, faites référence à un actif existant sur le tableau pour le réutiliser comme référence de prompt.  \nBasculez entre Seedance et d'autres modèles à partir de la même barre d'entrée pour éviter de changer d'onglet pendant l'itération.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/yvxDLh4VeU",
+    "ja": "---\nRenoise Canvasを使用して、Seedanceの出力を直接キャンバス上に生成し、各生成後にファイルを手動で整理する必要をなくします  \n次のSeedanceプロンプトで、ボード上の既存のアセットを@-リファレンスして、プロンプトの参照として再利用します  \n同じ入力バーからSeedanceと他のモデルを切り替えて、反復中のタブ切り替えを避けます\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/yvxDLh4VeU\n---",
+    "ko": "Renoise Canvas를 사용하여 Seedance 출력을 캔버스에 직접 생성하면 각 생성 후 파일을 수동으로 정리할 필요가 없습니다.  \n다음 Seedance prompt에서 보드에 있는 기존 자산을 @-참조하여 프롬프트 참조로 재사용하세요.  \n반복 작업 중 탭 전환을 피하기 위해 동일한 입력 바에서 Seedance와 다른 모델 간 전환을 하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/yvxDLh4VeU",
+    "pt-BR": "Use Renoise Canvas para gerar saídas do Seedance diretamente na tela, assim você não precisa organizar arquivos manualmente após cada geração  \nNo seu próximo prompt do Seedance, use @ para referenciar um ativo existente no quadro e reutilizá-lo como referência de prompt  \nAlterne entre Seedance e outros modelos na mesma barra de entrada para evitar trocar de aba durante a iteração\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/yvxDLh4VeU",
+    "zh-CN": "使用 Renoise Canvas 直接在画布上生成 Seedance 输出，这样您就不必在每次生成后手动整理文件  \n在您的下一个 Seedance prompt 中，@-引用板上的现有资产以将其用作 prompt 参考  \n从同一输入栏在 Seedance 和其他模型之间切换，以避免在迭代过程中切换标签\n\n--- 线程继续 ---\n[线程 1] https://t.co/yvxDLh4VeU"
+  }
+}

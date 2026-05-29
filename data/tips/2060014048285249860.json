@@ -1,0 +1,40 @@
+{
+  "id": "2060014048285249860",
+  "type": "tip",
+  "url": "https://x.com/hasamaru_studio/status/2060014048285249860",
+  "language": "ja",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "はさまるスタジオ",
+    "username": "hasamaru_studio",
+    "url": "https://x.com/hasamaru_studio",
+    "followers": 10349
+  },
+  "text": "こういうタイプの映像は、SeedanceよりKlingの方が相性いい気がする。\n\n引用元の動画はSeedanceで、このポストの動画はKlingでの生成。\n\n動きで魅せるのではなく、世界観や空気感で魅せるタイプの映像は、Klingの方が自分の好みには合いやすい。 https://t.co/nEWXpQTuJv",
+  "content": "Pollo AIのリファレンス動画生成機能を使って参照動画を用意し、Seedance 2.0で動画生成する",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 101,
+    "retweets": 3,
+    "replies": 3,
+    "quotes": 0,
+    "bookmarks": 17,
+    "views": 3784
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060014048285249860.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060011697642090496/img/4ZAQPVQv5y3EtITk.jpg"
+  },
+  "extra_content": {
+    "quoted_text": "『 城へと続く商店通りは、日が暮れてからが一番賑わっている 』\n\nPollo AI のリファレンス動画生成機能を利用して、Seedance 2.0 で動画を生成しました！\n\nPollo AI はリプ欄から👇 https://t.co/EBK28AcF2d"
+  },
+  "translations": {
+    "en": "Using Pollo AI's reference video generation feature to prepare a reference video and generating a video with Seedance 2.0\n\n--- QUOTED TWEET ---\n\"The shopping street leading to the castle is most lively after sunset.\"\n\nI used Pollo AI's reference video generation feature to create a video with Seedance 2.0!\n\nCheck out Pollo AI from the replies👇 https://t.co/EBK28AcF2d\n---",
+    "es": "---\nUtilizando la función de generación de videos de referencia de Pollo AI para preparar un video de referencia y generar un video con Seedance 2.0\n\n--- TWEET CITADO ---\n『 La calle comercial que conduce al castillo es más animada después del anochecer 』\n\n¡Utilicé la función de generación de videos de referencia de Pollo AI para generar un video con Seedance 2.0!\n\nPollo AI está disponible en la sección de respuestas 👇 https://t.co/EBK28AcF2d\n---",
+    "fr": "Utilisez la fonction de génération de vidéos de référence de Pollo AI pour préparer une vidéo de référence, puis générez une vidéo avec Seedance 2.0\n\n--- TWEET CITÉ ---\n« La rue commerçante menant au château est la plus animée après le coucher du soleil »\n\nJ'ai utilisé la fonction de génération de vidéos de référence de Pollo AI pour générer une vidéo avec Seedance 2.0 !\n\nPollo AI est disponible dans les réponses 👇 https://t.co/EBK28AcF2d\n---",
+    "ko": "Pollo AI의 레퍼런스 비디오 생성 기능을 사용하여 참조 비디오를 준비하고, Seedance 2.0으로 비디오를 생성하기\n\n--- 인용 트윗 ---\n『 성으로 이어지는 상점 거리는 해가 진 후 가장 붐빕니다 』\n\nPollo AI의 레퍼런스 비디오 생성 기능을 이용하여, Seedance 2.0으로 비디오를 생성했습니다!\n\nPollo AI는 리플란에서👇 https://t.co/EBK28AcF2d\n---",
+    "pt-BR": "Usando a função de geração de vídeo de referência do Pollo AI para preparar um vídeo de referência e gerar um vídeo com o Seedance 2.0\n\n--- TWEET CITADO ---\n『 A rua comercial que leva ao castelo é mais movimentada depois que o sol se põe 』\n\nUtilizei a função de geração de vídeo de referência do Pollo AI para gerar um vídeo com o Seedance 2.0!\n\nConfira o Pollo AI na seção de respostas 👇 https://t.co/EBK28AcF2d\n---",
+    "zh-CN": "使用Pollo AI的参考视频生成功能准备参考视频，并在Seedance 2.0中生成视频\n\n--- 引用推文 ---\n『 通往城堡的商店街在日落后最为热闹 』\n\n利用Pollo AI的参考视频生成功能，在Seedance 2.0中生成了视频！\n\nPollo AI请从评论区获取👇 https://t.co/EBK28AcF2d\n---"
+  }
+}

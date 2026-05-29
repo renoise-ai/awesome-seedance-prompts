@@ -1,0 +1,37 @@
+{
+  "id": "2025919963169701890",
+  "type": "tip",
+  "url": "https://x.com/babymemexx/status/2025919963169701890",
+  "language": "en",
+  "created_at": "2026-02-23",
+  "author": {
+    "name": "Baby Meme X",
+    "username": "babymemexx",
+    "url": "https://x.com/babymemexx",
+    "followers": 6814
+  },
+  "text": "If this video were made by a agency they’d charge $50,000 but I created it in just 10 minutes.\n\nImages generated with Nano Banana Pro. Video created with Seedance 1.5 Pro using the first and last frames. https://t.co/s1UCMp0a9d",
+  "content": "Create a video in Seedance 1.5 Pro by supplying the first and last frames as keyframes to guide the generation.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 32,
+    "retweets": 0,
+    "replies": 10,
+    "quotes": 0,
+    "bookmarks": 7,
+    "views": 821
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025919963169701890.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025917766457516033/img/c9w73_ZK0E9pDEZq.jpg"
+  },
+  "translations": {
+    "es": "Crea un video en Seedance 1.5 Pro proporcionando el primer y último fotograma como keyframes para guiar la generación.",
+    "fr": "Créez une vidéo dans Seedance 1.5 Pro en fournissant les premières et dernières images comme images clés pour guider la génération.",
+    "ja": "Seedance 1.5 Proで、最初と最後のフレームをキーフレームとして提供し、生成をガイドすることでビデオを作成します。",
+    "ko": "Seedance 1.5 Pro에서 첫 번째와 마지막 프레임을 키프레임으로 제공하여 생성 과정을 안내하는 비디오를 만드세요.",
+    "pt-BR": "Crie um vídeo no Seedance 1.5 Pro fornecendo o primeiro e o último quadro como keyframes para guiar a geração.",
+    "zh-CN": "通过提供首帧和末帧作为关键帧来指导生成，在Seedance 1.5 Pro中创建视频。"
+  }
+}

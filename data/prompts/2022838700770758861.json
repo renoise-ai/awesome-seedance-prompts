@@ -1,0 +1,37 @@
+{
+  "id": "2022838700770758861",
+  "type": "prompt",
+  "url": "https://x.com/xiaohu/status/2022838700770758861",
+  "language": "zh",
+  "created_at": "2026-02-15",
+  "author": {
+    "name": "小互",
+    "username": "xiaohu",
+    "url": "https://x.com/xiaohu",
+    "followers": 96224
+  },
+  "text": "Seedance 2.0提示词分享😂\n\n提示词：用一个梗图的方式总结 AI 领域的讨论氛围，要那种特别离谱、低智、能骗到 50 个点赞的那种。\n\nPrompt: Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.\n\n https://t.co/nCX7sMAyOQ",
+  "content": "Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 54,
+    "retweets": 5,
+    "replies": 10,
+    "quotes": 1,
+    "bookmarks": 46,
+    "views": 17043
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022838700770758861.mp4",
+    "thumbnail": "https://pbs.twimg.com/media/HBE73VRbEAAsOLh.jpg"
+  },
+  "translations": {
+    "en": "Resume the AI discourse in a meme - make sure it’s absurd and gets 50 likes.",
+    "es": "Resume el discurso de IA en un meme - asegúrate de que sea absurdo y obtenga 50 \"me gusta\".",
+    "fr": "Résumez le discours sur l'IA dans un mème - assurez-vous qu'il soit débile et obtienne 50 likes.",
+    "ja": "---\nAIに関する議論をミームでまとめてください。馬鹿げていて、50いいねを獲得するようにしてください。",
+    "ko": "AI 담론을 밈으로 요약하세요 - 멍청하게 만들어서 50개의 좋아요를 받으세요.",
+    "pt-BR": "Resuma o discurso sobre IA em um meme - certifique-se de que seja retardado e receba 50 curtidas."
+  }
+}

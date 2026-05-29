@@ -1,0 +1,37 @@
+{
+  "id": "2026647043221950825",
+  "type": "tip",
+  "url": "https://x.com/0xCVYH/status/2026647043221950825",
+  "language": "pt",
+  "created_at": "2026-02-25",
+  "author": {
+    "name": "CV.YH",
+    "username": "0xCVYH",
+    "url": "https://x.com/0xCVYH",
+    "followers": 12281
+  },
+  "text": "Seedance 2.0 da Zeely.\n\nVocê faz upload de UMA foto do seu produto.\nA IA reconstrói em 3D.\nGera dezenas de formatos de anúncio.\nCria avatar personalizado.\n\nEm 30 segundos você tem mais criativos que uma agência faz em 1 semana.\n\nAgências de marketing que não adotarem IA vão desaparecer. Não é previsão, é matemática — custo 100x menor, velocidade 1000x maior.\n\nA revolução dos criativos com IA já começou.\n\nvia @zeely_ai",
+  "content": "Faça upload de uma única foto do seu produto no Seedance 2.0 para a IA reconstruir o produto em 3D.  \nUse a reconstrução 3D para gerar dezenas de formatos de anúncio automaticamente.  \nCrie um avatar personalizado a partir do seu produto/campanha para variar criativos rapidamente.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 9,
+    "retweets": 2,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 5,
+    "views": 585
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026647043221950825.mp4",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2026647003053084672/pu/img/j6ypzqf2RaavhD8F.jpg"
+  },
+  "translations": {
+    "en": "Upload a single photo of your product to Seedance 2.0 for the AI to reconstruct the product in 3D.  \nUse the 3D reconstruction to automatically generate dozens of ad formats.  \nCreate a custom avatar from your product/campaign to quickly vary creatives.",
+    "es": "Sube una única foto de tu producto en Seedance 2.0 para que la IA reconstruya el producto en 3D.  \nUtiliza la reconstrucción 3D para generar automáticamente docenas de formatos de anuncio.  \nCrea un avatar personalizado a partir de tu producto/campaña para variar creativos rápidamente.",
+    "fr": "Téléchargez une seule photo de votre produit sur Seedance 2.0 pour que l'IA reconstruise le produit en 3D.  \nUtilisez la reconstruction 3D pour générer automatiquement des dizaines de formats d'annonce.  \nCréez un avatar personnalisé à partir de votre produit/campagne pour varier rapidement les créations.",
+    "ja": "---\nSeedance 2.0に製品の写真を1枚アップロードすると、AIが製品を3Dで再構築します。  \n3D再構築を使用して、広告フォーマットを自動的に数十種類生成します。  \n製品やキャンペーンからカスタマイズされたアバターを作成し、クリエイティブを迅速にバリエーション化します。\n---",
+    "ko": "Seedance 2.0에 제품의 단일 사진을 업로드하여 AI가 제품을 3D로 재구성하도록 하세요.  \n3D 재구성을 사용하여 다양한 광고 형식을 자동으로 생성하세요.  \n제품/캠페인에서 맞춤형 아바타를 만들어 창의적인 변화를 빠르게 만드세요.",
+    "zh-CN": "在 Seedance 2.0 上上传您产品的单张照片，让 AI 重建产品的 3D 模型。  \n使用 3D 重建自动生成数十种广告格式。  \n从您的产品/活动中创建一个自定义头像，以快速变化创意。"
+  }
+}

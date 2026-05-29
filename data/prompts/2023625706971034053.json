@@ -1,0 +1,37 @@
+{
+  "id": "2023625706971034053",
+  "type": "prompt",
+  "url": "https://x.com/markgadala/status/2023625706971034053",
+  "language": "en",
+  "created_at": "2026-02-17",
+  "author": {
+    "name": "Mark Gadala-Maria",
+    "username": "markgadala",
+    "url": "https://x.com/markgadala",
+    "followers": 65221
+  },
+  "text": "Incredible.\n\nSeedance is the most cinematic model we have right now by a mile.\n\nPrompt \"A highly cinematic movie scene about a boy who becomes a super hero.\" https://t.co/aoMQiX47c4",
+  "content": "A highly cinematic movie scene about a boy who becomes a super hero.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 172,
+    "retweets": 13,
+    "replies": 8,
+    "quotes": 0,
+    "bookmarks": 51,
+    "views": 13453
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023625706971034053.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023561789070602244/img/1dENEUigzNgOVuWP.jpg"
+  },
+  "translations": {
+    "es": "Una escena de película altamente cinematográfica sobre un niño que se convierte en superhéroe.",
+    "fr": "Une scène de film hautement cinématographique sur un garçon qui devient un super-héros.",
+    "ja": "---\n少年がスーパーヒーローになる、非常にシネマティックな映画のシーン。",
+    "ko": "소년이 슈퍼히어로가 되는 매우 시네마틱한 영화 장면.",
+    "pt-BR": "Uma cena de filme altamente cinematográfica sobre um garoto que se torna um super-herói.",
+    "zh-CN": "一个关于男孩成为超级英雄的高度电影化场景。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2023127905421905974",
+  "type": "tip",
+  "url": "https://x.com/HashemGhaili/status/2023127905421905974",
+  "language": "en",
+  "created_at": "2026-02-15",
+  "author": {
+    "name": "Hashem Al-Ghaili",
+    "username": "HashemGhaili",
+    "url": "https://x.com/HashemGhaili",
+    "followers": 32291
+  },
+  "text": "Dragon Fight (Made with Seedance 2.0)\n\nIt’s insane how far AI filmmaking has come! I think we’re witnessing a new revolution in how VFX will be done in the future. This entire clip took under 30 minutes to make using only 5 reference images. Made with Seedance 2.0. https://t.co/LrGAZzBKEi",
+  "content": "Use 5 reference images in Seedance 2.0 to generate an entire clip quickly (e.g., under 30 minutes).",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 992,
+    "retweets": 130,
+    "replies": 31,
+    "quotes": 12,
+    "bookmarks": 251,
+    "views": 48654
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023127905421905974.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023127761750233088/img/2dC8_hcejZbwv5sK.jpg"
+  },
+  "translations": {
+    "es": "Utiliza 5 imágenes de referencia en Seedance 2.0 para generar un clip completo rápidamente (por ejemplo, en menos de 30 minutos).",
+    "fr": "Utilisez 5 images de référence dans Seedance 2.0 pour générer rapidement un clip entier (par exemple, en moins de 30 minutes).",
+    "ja": "Seedance 2.0で5つの参照画像を使用して、30分以内にクリップ全体を迅速に生成します。",
+    "ko": "Seedance 2.0에서 5개의 참조 이미지를 사용하여 전체 클립을 빠르게 생성하세요 (예: 30분 이내).",
+    "pt-BR": "Use 5 imagens de referência no Seedance 2.0 para gerar um clipe inteiro rapidamente (por exemplo, em menos de 30 minutos).",
+    "zh-CN": "在Seedance 2.0中使用5张参考图像快速生成整个片段（例如，30分钟以内）。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2059691328934682903",
+  "type": "tip",
+  "url": "https://x.com/chetaslua/status/2059691328934682903",
+  "language": "en",
+  "created_at": "2026-05-27",
+  "author": {
+    "name": "Chetaslua",
+    "username": "chetaslua",
+    "url": "https://x.com/chetaslua",
+    "followers": 23136
+  },
+  "text": "I tested 3 LLMs with Seedance inside Higgsfield Supercomputer\n\nsame brief : make a 2 min claymation kids cartoon where only fruits and vegetables exist and act like people\n\nresult was very clear\n\n> Seedance = most prompt faithful video model\n> Gemini 3.5 Flash = best creative direction\n> Claude Sonnet = best at understanding user intent\n> Gemini 3 = cheap + solid but trails on creative taste\n\nHiggsfield Supercomputer routes the right sub-task to the right model\n\ncreative direction -> Gemini 3.5 Flash\nintent parsing -> Sonnet\nvideo execution -> Seedance",
+  "content": "Route subtasks by model when using Seedance: use Gemini 3.5 Flash for creative direction, Claude Sonnet for intent parsing, and Seedance for final video execution to maximize prompt faithfulness.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 40,
+    "retweets": 2,
+    "replies": 6,
+    "quotes": 0,
+    "bookmarks": 9,
+    "views": 4292
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059691328934682903.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059691200177897472/img/g7V99MUdgBqtfU1y.jpg"
+  },
+  "translations": {
+    "es": "---\nDirige las subtareas por modelo al usar Seedance: utiliza Gemini 3.5 Flash para la dirección creativa, Claude Sonnet para el análisis de intención, y Seedance para la ejecución final del video para maximizar la fidelidad al prompt.\n---",
+    "fr": "Routage des sous-tâches par modèle lors de l'utilisation de Seedance : utilisez Gemini 3.5 Flash pour la direction créative, Claude Sonnet pour l'analyse de l'intention, et Seedance pour l'exécution finale de la vidéo afin de maximiser la fidélité au prompt.",
+    "ja": "Seedanceを使用する際のサブタスクのモデルによるルーティング：創造的な方向性にはGemini 3.5 Flashを、意図解析にはClaude Sonnetを、最終的なビデオ実行にはSeedanceを使用して、プロンプトの忠実性を最大化します。",
+    "ko": "Seedance를 사용할 때 모델별로 하위 작업을 라우팅하세요: 창의적 방향에는 Gemini 3.5 Flash를, 의도 분석에는 Claude Sonnet을, 최종 비디오 실행에는 Seedance를 사용하여 프롬프트 충실도를 최대화하세요.",
+    "pt-BR": "Roteie subtarefas por modelo ao usar Seedance: use Gemini 3.5 Flash para direção criativa, Claude Sonnet para análise de intenção e Seedance para execução final do vídeo para maximizar a fidelidade ao prompt.",
+    "zh-CN": "在使用Seedance时按模型分配子任务：使用Gemini 3.5 Flash进行创意指导，Claude Sonnet进行意图解析，Seedance进行最终视频执行，以最大化保持prompt的忠实度。"
+  }
+}

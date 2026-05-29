@@ -1,0 +1,37 @@
+{
+  "id": "2057937574417801355",
+  "type": "prompt",
+  "url": "https://x.com/GumVue/status/2057937574417801355",
+  "language": "en",
+  "created_at": "2026-05-22",
+  "author": {
+    "name": "Gumvue Studio",
+    "username": "GumVue",
+    "url": "https://x.com/GumVue",
+    "followers": 40112
+  },
+  "text": "SHORT FILM PROMPT GENERATOR Custom GPT designed specifically for creating short films, Seedance 2.0. - ChatGPT 2.0  links at my patreon  \n\n---- Three teenagers raised aboard a failing orbital station steal a maintenance shuttle to finally see Earth, only to discover the planet below has been mysteriously abandoned for decades.",
+  "content": "Three teenagers raised aboard a failing orbital station steal a maintenance shuttle to finally see Earth, only to discover the planet below has been mysteriously abandoned for decades.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 170,
+    "retweets": 26,
+    "replies": 5,
+    "quotes": 0,
+    "bookmarks": 159,
+    "views": 6998
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057937574417801355.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057937348914991104/img/ZzODvBdXuXEbsC4D.jpg"
+  },
+  "translations": {
+    "es": "Tres adolescentes criados a bordo de una estación orbital en decadencia roban un transbordador de mantenimiento para finalmente ver la Tierra, solo para descubrir que el planeta ha sido misteriosamente abandonado durante décadas.",
+    "fr": "Trois adolescents élevés à bord d'une station orbitale défaillante volent une navette de maintenance pour enfin voir la Terre, pour découvrir que la planète en dessous a été mystérieusement abandonnée depuis des décennies.",
+    "ja": "---\n故障中の軌道ステーションで育った3人のティーンエイジャーが、ついに地球を見るためにメンテナンスシャトルを盗むが、下の惑星が何十年も前から謎のまま放棄されていることを発見する。  \n---",
+    "ko": "세 명의 십대가 고장 난 궤도 정거장에서 자라다가 마침내 지구를 보기 위해 유지 보수 셔틀을 훔치지만, 아래의 행성이 수십 년 동안 신비롭게도 버려졌다는 것을 발견하게 된다.",
+    "pt-BR": "Três adolescentes criados a bordo de uma estação orbital em falha roubam uma nave de manutenção para finalmente ver a Terra, apenas para descobrir que o planeta abaixo foi misteriosamente abandonado por décadas.",
+    "zh-CN": "三名在濒临失效的轨道站上长大的青少年偷了一艘维修穿梭机，终于看到了地球，却发现下面的星球已经被神秘地遗弃了几十年。"
+  }
+}

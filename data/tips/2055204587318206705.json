@@ -1,0 +1,37 @@
+{
+  "id": "2055204587318206705",
+  "type": "tip",
+  "url": "https://x.com/underwoodxie96/status/2055204587318206705",
+  "language": "en",
+  "created_at": "2026-05-15",
+  "author": {
+    "name": "underwood",
+    "username": "underwoodxie96",
+    "url": "https://x.com/underwoodxie96",
+    "followers": 35563
+  },
+  "text": "Recently, I’ve been exploring a more efficient workflow for video creation.\n\nFirst, I let GPT Image 2.0 freely reason and generate the storyboard itself, instead of manually writing detailed shot-by-shot directions. I’m giving the AI more room to creatively interpret the scene.\n\nThen, I use Seedance 2.0’s understanding of visual composition to automatically handle shot transitions, pacing, editing, and final video generation.\n\nThe whole process is significantly faster than traditional workflows, but the most interesting part is that AI is starting to develop a real “director’s sense.”\n\nGPT image 2.0 prompt: https://t.co/pErznjXdn5\nseedance 2.0 prompt: https://t.co/02QkDMJW15",
+  "content": "Use GPT Image 2.0 to freely generate the storyboard (let it reason and interpret the scene) instead of manually writing detailed shot-by-shot directions.  \nFeed the AI-generated storyboard into Seedance 2.0 and rely on its visual composition understanding to automatically handle shot transitions, pacing, editing, and final video generation.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 17,
+    "retweets": 4,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 21,
+    "views": 5805
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055204587318206705.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055202559456063488/img/OoJ2i7ImuuGk9G9R.jpg"
+  },
+  "translations": {
+    "es": "Utiliza GPT Image 2.0 para generar libremente el storyboard (deja que razone e interprete la escena) en lugar de escribir manualmente instrucciones detalladas de cada toma.  \nIntroduce el storyboard generado por IA en Seedance 2.0 y confía en su comprensión de la composición visual para manejar automáticamente las transiciones de tomas, el ritmo, la edición y la generación final del video.",
+    "fr": "Utilisez GPT Image 2.0 pour générer librement le storyboard (laissez-le raisonner et interpréter la scène) au lieu d'écrire manuellement des instructions détaillées plan par plan.  \nIntégrez le storyboard généré par l'IA dans Seedance 2.0 et comptez sur sa compréhension de la composition visuelle pour gérer automatiquement les transitions de plans, le rythme, le montage et la génération finale de la vidéo.",
+    "ja": "---\nGPT Image 2.0を使用して、詳細なショットごとの指示を手動で書くのではなく、自由にストーリーボードを生成させ（シーンを推論し解釈させる）、AI生成のストーリーボードをSeedance 2.0に入力し、その視覚的な構成理解に依存して、ショットの切り替え、ペース配分、編集、最終的なビデオ生成を自動的に処理させます。  \n---",
+    "ko": "GPT Image 2.0을 사용하여 스토리보드를 자유롭게 생성하세요 (장면을 추론하고 해석하도록 하세요) 대신에 수동으로 상세한 샷별 지시를 작성하지 마세요.  \nAI가 생성한 스토리보드를 Seedance 2.0에 입력하고, 샷 전환, 속도 조절, 편집 및 최종 비디오 생성 등을 자동으로 처리할 수 있는 시각적 구성 이해에 의존하세요.",
+    "pt-BR": "Use o GPT Image 2.0 para gerar livremente o storyboard (deixe-o raciocinar e interpretar a cena) em vez de escrever manualmente direções detalhadas cena por cena.  \nAlimente o storyboard gerado pela IA no Seedance 2.0 e confie em sua compreensão de composição visual para lidar automaticamente com transições de cenas, ritmo, edição e geração final do vídeo.",
+    "zh-CN": "使用 GPT Image 2.0 自由生成分镜头脚本（让它推理和解释场景），而不是手动编写详细的逐镜头指令。  \n将 AI 生成的分镜头脚本输入 Seedance 2.0，依靠其对视觉构图的理解自动处理镜头转换、节奏、剪辑和最终视频生成。"
+  }
+}

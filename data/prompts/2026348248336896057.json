@@ -1,0 +1,37 @@
+{
+  "id": "2026348248336896057",
+  "type": "prompt",
+  "url": "https://x.com/jawwwn_/status/2026348248336896057",
+  "language": "en",
+  "created_at": "2026-02-24",
+  "author": {
+    "name": "Jawwwn",
+    "username": "jawwwn_",
+    "url": "https://x.com/jawwwn_",
+    "followers": 21215
+  },
+  "text": "I had my doubts, but wow, Seedance 2.0 is incredible.\n\nPrompt: Tech billionaire CEO live-streaming himself smoking various meats with friends in his backyard: https://t.co/YSuTOLRL5T",
+  "content": "Tech billionaire CEO live-streaming himself smoking various meats with friends in his backyard",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 36,
+    "retweets": 4,
+    "replies": 4,
+    "quotes": 1,
+    "bookmarks": 9,
+    "views": 10077
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026348248336896057.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026348178946273283/img/IIGo_WDEs4yfotKC.jpg"
+  },
+  "translations": {
+    "es": "CEO multimillonario de tecnología transmitiendo en vivo mientras ahúma diferentes carnes con amigos en su patio trasero.",
+    "fr": "Le PDG milliardaire de la tech diffusant en direct sa séance de fumage de différentes viandes avec des amis dans son jardin.",
+    "ja": "テック億万長者のCEOが、友人たちと自宅の裏庭で様々な肉をスモークしながらライブ配信をしている",
+    "ko": "기술 억만장자 CEO가 친구들과 함께 뒷마당에서 다양한 고기를 훈제하는 모습을 라이브 스트리밍하다.",
+    "pt-BR": "CEO bilionário da tecnologia transmitindo ao vivo enquanto fuma diferentes tipos de carne com amigos em seu quintal",
+    "zh-CN": "科技亿万富翁CEO在自家后院与朋友们一起直播熏制各种肉类"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2038402436197695701",
+  "type": "tip",
+  "url": "https://x.com/FussyPastor/status/2038402436197695701",
+  "language": "en",
+  "created_at": "2026-03-29",
+  "author": {
+    "name": "Pastor",
+    "username": "FussyPastor",
+    "url": "https://x.com/FussyPastor",
+    "followers": 2501
+  },
+  "text": "Did you know that Seedance 2.0's Omnireference feature allows you to attach/reference audio as well? Got my song to embed in the background of this dumb promo I made. https://t.co/X7ST57sOvN",
+  "content": "Use Seedance 2.0 Omnireference to attach/reference an audio file so your song embeds as background audio in the generated video.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 11,
+    "retweets": 0,
+    "replies": 4,
+    "quotes": 0,
+    "bookmarks": 1,
+    "views": 247
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038402436197695701.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038401897242230784/img/b3gW43F515GduJnU.jpg"
+  },
+  "translations": {
+    "es": "Utiliza Seedance 2.0 Omnireference para adjuntar/referenciar un archivo de audio de modo que tu canción se incruste como audio de fondo en el video generado.",
+    "fr": "Utilisez Seedance 2.0 Omnireference pour attacher/référencer un fichier audio afin que votre chanson s'intègre comme audio de fond dans la vidéo générée.",
+    "ja": "Seedance 2.0 Omnireferenceを使用してオーディオファイルを添付/参照し、生成されたビデオにあなたの曲を背景音楽として埋め込むことができます。",
+    "ko": "Seedance 2.0 Omnireference를 사용하여 오디오 파일을 첨부/참조하면 생성된 비디오에 배경 오디오로 노래가 삽입됩니다.",
+    "pt-BR": "Use o Seedance 2.0 Omnireference para anexar/referenciar um arquivo de áudio, de modo que sua música seja incorporada como áudio de fundo no vídeo gerado.",
+    "zh-CN": "使用Seedance 2.0 Omnireference来附加/引用音频文件，以便您的歌曲作为背景音频嵌入到生成的视频中。"
+  }
+}

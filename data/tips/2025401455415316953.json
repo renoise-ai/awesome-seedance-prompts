@@ -1,0 +1,37 @@
+{
+  "id": "2025401455415316953",
+  "type": "tip",
+  "url": "https://x.com/aifilmmaker/status/2025401455415316953",
+  "language": "en",
+  "created_at": "2026-02-22",
+  "author": {
+    "name": "Ian Sharar",
+    "username": "aifilmmaker",
+    "url": "https://x.com/aifilmmaker",
+    "followers": 2170
+  },
+  "text": "Working on the trailer for our short film made entirely with Seedance 2.0 thanks to @YouArtStudio and man, no other model handles motion this well. Start and End frames. https://t.co/gw0EF2wErZ",
+  "content": "Use Seedance 2.0’s Start and End frames to control motion between the first and last frame of a shot.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 88,
+    "retweets": 7,
+    "replies": 7,
+    "quotes": 1,
+    "bookmarks": 17,
+    "views": 2868
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025401455415316953.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025401274745729024/img/OtfJIXAdxXKU0Hg0.jpg"
+  },
+  "translations": {
+    "es": "Utiliza los fotogramas de Inicio y Fin de Seedance 2.0 para controlar el movimiento entre el primer y el último fotograma de una toma.",
+    "fr": "Utilisez les cadres de début et de fin de Seedance 2.0 pour contrôler le mouvement entre le premier et le dernier cadre d'une prise de vue.",
+    "ja": "Seedance 2.0のStartフレームとEndフレームを使用して、ショットの最初と最後のフレーム間の動きを制御します。",
+    "ko": "Seedance 2.0의 시작 및 종료 프레임을 사용하여 샷의 첫 번째 프레임과 마지막 프레임 사이의 움직임을 제어하세요.",
+    "pt-BR": "Use os quadros de Início e Fim do Seedance 2.0 para controlar o movimento entre o primeiro e o último quadro de uma cena.",
+    "zh-CN": "使用Seedance 2.0的起始和结束帧来控制镜头首尾帧之间的运动。"
+  }
+}

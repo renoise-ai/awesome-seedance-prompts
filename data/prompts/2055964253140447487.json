@@ -1,0 +1,37 @@
+{
+  "id": "2055964253140447487",
+  "type": "prompt",
+  "url": "https://x.com/0xgisselle/status/2055964253140447487",
+  "language": "zh",
+  "created_at": "2026-05-17",
+  "author": {
+    "name": "Gisselle Lim",
+    "username": "0xgisselle",
+    "url": "https://x.com/0xgisselle",
+    "followers": 2380
+  },
+  "text": "My dream of becoming a kpop idol came true ✨\n\nMade with seedance 2.0 + GPT Image 2 \n\nPrompt for ChatGPT:\n\n请使用附图作为唯一参考，制作一张类似韩国音乐节目偶像饭拍视频的YouTube缩略图。 https://t.co/tbCn3Kya0l",
+  "content": "请使用附图作为唯一参考，制作一张类似韩国音乐节目偶像饭拍视频的YouTube缩略图。",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 26,
+    "retweets": 0,
+    "replies": 8,
+    "quotes": 1,
+    "bookmarks": 4,
+    "views": 1898
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055964253140447487.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055964187516678144/img/o28m5pVgk6j4_QVY.jpg"
+  },
+  "translations": {
+    "en": "Please use the attached image as the sole reference to create a YouTube thumbnail similar to a fan-cam video of an idol from a Korean music program.",
+    "es": "Por favor, utiliza la imagen adjunta como única referencia para crear una miniatura de YouTube similar a un video de fancam de un programa musical de ídolos coreanos.",
+    "fr": "Veuillez utiliser l'image jointe comme seule référence pour créer une vignette YouTube semblable à une vidéo fan-cam d'une émission musicale coréenne.",
+    "ja": "添付された画像を唯一の参考として使用し、韓国の音楽番組のアイドルファンカム動画に似たYouTubeサムネイルを作成してください。",
+    "ko": "첨부된 이미지를 유일한 참고 자료로 사용하여, 한국 음악 프로그램 아이돌 팬캠 비디오와 유사한 YouTube 썸네일을 제작하세요.",
+    "pt-BR": "Por favor, use a imagem anexada como única referência para criar uma miniatura do YouTube semelhante a um vídeo de fancam de ídolo de programa musical coreano."
+  }
+}

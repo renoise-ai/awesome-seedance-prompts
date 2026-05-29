@@ -1,0 +1,40 @@
+{
+  "id": "2038322159580598726",
+  "type": "tip",
+  "url": "https://x.com/heydin_ai/status/2038322159580598726",
+  "language": "en",
+  "created_at": "2026-03-29",
+  "author": {
+    "name": "Dinda Prasetyo",
+    "username": "heydin_ai",
+    "url": "https://x.com/heydin_ai",
+    "followers": 6367
+  },
+  "text": "A lot of people have been asking how I generated a music video with a realistic character using Dreamina Seedance 2.0 in @dreamina_ai .\nA few hours ago, I was able to generate it using just one character image + audio input, about a 95% success rate, almost no failures.\nNot sure if it still works now though. Let me know in the comments if you’ve tried it.",
+  "content": "Generate a realistic-character music video in Dreamina Seedance 2.0 by using a single character/base image plus an audio input (via the omni-reference feature) to drive the video.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 111,
+    "retweets": 19,
+    "replies": 8,
+    "quotes": 0,
+    "bookmarks": 106,
+    "views": 7794
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038322159580598726.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038311088752877568/img/nI8kTuk_xxZJ9Hkm.jpg"
+  },
+  "extra_content": {
+    "quoted_text": "I just created this video using only one base image and one audio input, using the omni-reference feature in @dreamina_ai \n\nThis honestly feels like a game changer, we can finally produce K-pop style music videos much more easily. Even with realistic facial features, the audio integration stays smooth and natural. So far, I haven’t seen any other video model handle camera movement and hyper-detailed direction through prompting quite like Dreamina Seedance 2.0.\n\nWhat do you think? \n\n#DreaminaSeedance2 #DreaminaAI #DreaminaCPP #Seedance2 #seedream5lite"
+  },
+  "translations": {
+    "es": "Genera un video musical de personaje realista en Dreamina Seedance 2.0 utilizando una sola imagen de personaje/base más una entrada de audio (a través de la función omni-reference) para impulsar el video.\n\n--- TWEET CITADO ---\nAcabo de crear este video usando solo una imagen base y una entrada de audio, utilizando la función omni-reference en @dreamina_ai\n\nSinceramente, esto se siente como un cambio de juego, finalmente podemos producir videos musicales al estilo K-pop mucho más fácilmente. Incluso con características faciales realistas, la integración del audio se mantiene fluida y natural. Hasta ahora, no he visto ningún otro modelo de video manejar el movimiento de cámara y la dirección hiper-detallada a través de prompts como lo hace Dreamina Seedance 2.0.\n\n¿Qué opinas?\n\n#DreaminaSeedance2 #DreaminaAI #DreaminaCPP #Seedance2 #seedream5lite",
+    "fr": "Générez un clip musical avec un personnage réaliste dans Dreamina Seedance 2.0 en utilisant une seule image de base/personnage et un fichier audio (via la fonctionnalité omni-reference) pour animer la vidéo.\n\n--- TWEET CITÉ ---\nJ'ai créé cette vidéo en utilisant seulement une image de base et un fichier audio, grâce à la fonctionnalité omni-reference dans @dreamina_ai\n\nHonnêtement, cela ressemble à une révolution, nous pouvons enfin produire des clips musicaux de style K-pop beaucoup plus facilement. Même avec des traits du visage réalistes, l'intégration audio reste fluide et naturelle. Jusqu'à présent, je n'ai vu aucun autre modèle vidéo gérer le mouvement de la caméra et une direction hyper-détaillée à travers le prompt comme Dreamina Seedance 2.0.\n\nQu'en pensez-vous ?\n\n#DreaminaSeedance2 #DreaminaAI #DreaminaCPP #Seedance2 #seedream5lite",
+    "ja": "---\nDreamina Seedance 2.0で、単一のキャラクター/ベース画像とオーディオ入力（オムニリファレンス機能を使用）を利用して、リアルなキャラクターのミュージックビデオを生成します。\n\n--- QUOTED TWEET ---\n@dreamina_ai のオムニリファレンス機能を使って、たった一つのベース画像と一つのオーディオ入力でこのビデオを作成しました。\n\n正直なところ、これはゲームチェンジャーのように感じます。ついにK-popスタイルのミュージックビデオをもっと簡単に制作できるようになりました。リアルな顔の特徴を持っていても、オーディオの統合はスムーズで自然です。これまでのところ、カメラの動きや超詳細な指示をプロンプトで処理するビデオモデルは、Dreamina Seedance 2.0ほどではありません。\n\nどう思いますか？\n\n#DreaminaSeedance2 #DreaminaAI #DreaminaCPP #Seedance2 #seedream5lite\n---",
+    "ko": "Dreamina Seedance 2.0에서 단일 캐릭터/기본 이미지와 오디오 입력(omni-reference 기능을 통해)을 사용하여 현실적인 캐릭터 음악 비디오를 생성하세요.\n\n--- 인용 트윗 ---\n저는 @dreamina_ai의 omni-reference 기능을 사용하여 단 하나의 기본 이미지와 오디오 입력만으로 이 비디오를 만들었습니다.\n\n솔직히 말해서, 이건 게임 체인저처럼 느껴집니다. 이제 K-pop 스타일의 음악 비디오를 훨씬 쉽게 제작할 수 있습니다. 현실적인 얼굴 특징을 가지고 있어도 오디오 통합은 부드럽고 자연스럽습니다. 지금까지 Dreamina Seedance 2.0처럼 카메라 움직임과 초세밀한 방향을 프롬프트를 통해 처리하는 다른 비디오 모델은 본 적이 없습니다.\n\n어떻게 생각하시나요?\n\n#DreaminaSeedance2 #DreaminaAI #DreaminaCPP #Seedance2 #seedream5lite",
+    "pt-BR": "Gere um videoclipe de personagem realista no Dreamina Seedance 2.0 usando uma única imagem/base de personagem mais uma entrada de áudio (via o recurso omni-reference) para conduzir o vídeo.\n\n--- TWEET CITADO ---\nAcabei de criar este vídeo usando apenas uma imagem base e uma entrada de áudio, utilizando o recurso omni-reference no @dreamina_ai\n\nSinceramente, isso parece uma virada de jogo, finalmente podemos produzir videoclipes no estilo K-pop com muito mais facilidade. Mesmo com características faciais realistas, a integração de áudio permanece suave e natural. Até agora, não vi nenhum outro modelo de vídeo lidar com movimento de câmera e direção hiper-detalhada através de prompt como o Dreamina Seedance 2.0.\n\nO que você acha?\n\n#DreaminaSeedance2 #DreaminaAI #DreaminaCPP #Seedance2 #seedream5lite",
+    "zh-CN": "在Dreamina Seedance 2.0中，通过使用单个角色/基础图像加上音频输入（通过omni-reference功能）来生成一个真实角色的音乐视频。\n\n--- 引用推文 ---\n我刚刚使用@dreamina_ai的omni-reference功能，仅用一个基础图像和一个音频输入创建了这个视频。\n\n这真的是一个游戏规则的改变者，我们终于可以更轻松地制作K-pop风格的音乐视频。即使是具有真实面部特征，音频集成仍然流畅自然。到目前为止，我还没有看到其他视频模型能够像Dreamina Seedance 2.0那样通过prompting处理摄像机移动和超详细的方向。\n\n你怎么看？\n\n#DreaminaSeedance2 #DreaminaAI #DreaminaCPP #Seedance2 #seedream5lite"
+  }
+}

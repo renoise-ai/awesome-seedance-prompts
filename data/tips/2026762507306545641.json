@@ -1,0 +1,37 @@
+{
+  "id": "2026762507306545641",
+  "type": "tip",
+  "url": "https://x.com/AlanDaitch/status/2026762507306545641",
+  "language": "es",
+  "created_at": "2026-02-25",
+  "author": {
+    "name": "Alan Daitch",
+    "username": "AlanDaitch",
+    "url": "https://x.com/AlanDaitch",
+    "followers": 40552
+  },
+  "text": "Al fin pude probar Seedance 2! Le subí un cómic de Mafalda y le pedí que arme un video en base al mismo. Si bien se tomó algunas licencias poéticas, es una LOCURA que se pueda convertir cualquier tira cómica en un video animado tan fácil https://t.co/1iI8AXLFyN",
+  "content": "Sube una tira/cómic como referencia en Seedance 2 y pídele que genere un video basado en ese material para convertirlo en una animación fácilmente",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 81,
+    "retweets": 9,
+    "replies": 9,
+    "quotes": 1,
+    "bookmarks": 50,
+    "views": 9712
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026762507306545641.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026762427744796672/img/oYkjLTJUEHtN9ft7.jpg"
+  },
+  "translations": {
+    "en": "Upload a strip/comic as a reference in Seedance 2 and ask it to generate a video based on that material to easily turn it into an animation.",
+    "fr": "Télécharge une bande dessinée comme référence dans Seedance 2 et demande-lui de générer une vidéo basée sur ce matériel pour le transformer facilement en animation.",
+    "ja": "Seedance 2にリファレンスとしてストリップ/コミックをアップロードし、それを基にしたビデオを生成して簡単にアニメーションに変換するように依頼してください。",
+    "ko": "Seedance 2에 참조용으로 만화/코믹을 업로드하고, 그 자료를 기반으로 비디오를 생성하여 쉽게 애니메이션으로 변환하도록 요청하세요.",
+    "pt-BR": "Suba uma tira/quadrinho como referência no Seedance 2 e peça para gerar um vídeo baseado nesse material para transformá-lo em uma animação facilmente.",
+    "zh-CN": "在 Seedance 2 中上传一条漫画作为参考，并请求它基于该材料生成一个视频，以便轻松将其转换为动画。"
+  }
+}

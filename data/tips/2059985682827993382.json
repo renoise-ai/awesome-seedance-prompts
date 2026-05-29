@@ -1,0 +1,37 @@
+{
+  "id": "2059985682827993382",
+  "type": "tip",
+  "url": "https://x.com/bmx_ai13/status/2059985682827993382",
+  "language": "en",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "BMX",
+    "username": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13",
+    "followers": 8441
+  },
+  "text": "A super simple workflow: Your Image → Custom GPT Image 2.0 storyboard → Seedance 2.0 @dreamina_ai\n\nMy Created Custom GPT link: https://t.co/MuXKth1C2G\n\n#DreaminaCPP https://t.co/5a8xw6TkKu",
+  "content": "Use a workflow of: start with your image → generate a storyboard using a Custom GPT (Image 2.0) → feed the storyboard into Seedance 2.0 to produce the video.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 35,
+    "retweets": 1,
+    "replies": 9,
+    "quotes": 0,
+    "bookmarks": 4,
+    "views": 658
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059985682827993382.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059985512862199808/img/I2RtCEsg-ywIIXk8.jpg"
+  },
+  "translations": {
+    "es": "Utiliza un flujo de trabajo de: comienza con tu imagen → genera un storyboard usando un Custom GPT (Image 2.0) → introduce el storyboard en Seedance 2.0 para producir el video.",
+    "fr": "Utilisez un flux de travail comme suit : commencez avec votre image → générez un storyboard en utilisant un GPT personnalisé (Image 2.0) → intégrez le storyboard dans Seedance 2.0 pour produire la vidéo.",
+    "ja": "ワークフローを使用します：あなたの画像から始める → カスタムGPT（Image 2.0）を使用してストーリーボードを生成する → Seedance 2.0にストーリーボードを入力してビデオを制作する。",
+    "ko": "이미지로 시작 → Custom GPT (Image 2.0)을 사용하여 스토리보드 생성 → Seedance 2.0에 스토리보드를 입력하여 비디오 제작.",
+    "pt-BR": "Use um fluxo de trabalho de: comece com sua imagem → gere um storyboard usando um Custom GPT (Image 2.0) → insira o storyboard no Seedance 2.0 para produzir o vídeo.",
+    "zh-CN": "使用以下工作流程：从您的图像开始 → 使用自定义GPT（Image 2.0）生成分镜头脚本 → 将分镜头脚本输入Seedance 2.0以制作视频。"
+  }
+}

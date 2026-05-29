@@ -1,0 +1,42 @@
+{
+  "id": "2060013427918266785",
+  "type": "tip",
+  "url": "https://x.com/ComfyUI/status/2060013427918266785",
+  "language": "en",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "ComfyUI",
+    "username": "ComfyUI",
+    "url": "https://x.com/ComfyUI",
+    "followers": 47883
+  },
+  "text": "Create transformation videos where a cube, sphere, capsule, or custom object transforms into a person or item with a button press using Seedance 2.0 inside ComfyUI.\n\nThe workflow automatically generates matching first and last frames while keeping the environment and style consistent throughout the effect.\n\nTry the workflow, link below.",
+  "content": "Use Seedance 2.0 inside ComfyUI to create button-press transformation videos where a cube/sphere/capsule/custom object morphs into a person or item  \nUse a workflow that auto-generates matching first and last frames to keep the environment and style consistent across the transformation effect",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 84,
+    "retweets": 8,
+    "replies": 5,
+    "quotes": 3,
+    "bookmarks": 69,
+    "views": 8084
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060013427918266785.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060013282636021760/img/mrTDjEUSxRLUkWME.jpg"
+  },
+  "extra_content": {
+    "thread_texts": [
+      "https://t.co/yHUrgbtE8L"
+    ]
+  },
+  "translations": {
+    "es": "Utiliza Seedance 2.0 dentro de ComfyUI para crear videos de transformación al presionar un botón, donde un cubo/esfera/cápsula/objeto personalizado se transforma en una persona o un objeto.  \nUsa un flujo de trabajo que genere automáticamente los primeros y últimos fotogramas coincidentes para mantener el entorno y el estilo consistentes a lo largo del efecto de transformación.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/yHUrgbtE8L",
+    "fr": "Utilisez Seedance 2.0 dans ComfyUI pour créer des vidéos de transformation par pression de bouton où un cube/sphère/capsule/objet personnalisé se transforme en une personne ou un objet.  \nUtilisez un flux de travail qui génère automatiquement des premières et dernières images correspondantes pour maintenir l'environnement et le style cohérents tout au long de l'effet de transformation.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/yHUrgbtE8L",
+    "ja": "---\nComfyUI内でSeedance 2.0を使用して、ボタンを押すとキューブ/スフィア/カプセル/カスタムオブジェクトが人やアイテムに変形するビデオを作成します  \n変形効果を通じて環境とスタイルを一貫させるために、最初と最後のフレームを自動生成するワークフローを使用します\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/yHUrgbtE8L\n---",
+    "ko": "---\nComfyUI 내에서 Seedance 2.0을 사용하여 버튼을 누르면 큐브/구/캡슐/사용자 정의 객체가 사람이나 아이템으로 변형되는 비디오를 만드세요.  \n변환 효과 전반에 걸쳐 환경과 스타일을 일관되게 유지하기 위해 처음과 마지막 프레임을 자동 생성하는 워크플로우를 사용하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/yHUrgbtE8L\n---",
+    "pt-BR": "Use o Seedance 2.0 dentro do ComfyUI para criar vídeos de transformação ao pressionar um botão, onde um cubo/esfera/cápsula/objeto personalizado se transforma em uma pessoa ou item.  \nUse um fluxo de trabalho que gera automaticamente quadros iniciais e finais correspondentes para manter o ambiente e o estilo consistentes ao longo do efeito de transformação.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/yHUrgbtE8L",
+    "zh-CN": "在ComfyUI中使用Seedance 2.0创建按钮按压转换视频，其中立方体/球体/胶囊/自定义对象变形为人或物品  \n使用自动生成匹配的首尾帧的工作流程，以保持转换效果中环境和风格的一致性\n\n--- 线程续篇 ---\n[线程 1] https://t.co/yHUrgbtE8L"
+  }
+}

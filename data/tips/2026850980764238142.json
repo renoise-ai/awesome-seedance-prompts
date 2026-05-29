@@ -1,0 +1,37 @@
+{
+  "id": "2026850980764238142",
+  "type": "tip",
+  "url": "https://x.com/h_ashizawaJP/status/2026850980764238142",
+  "language": "ja",
+  "created_at": "2026-02-26",
+  "author": {
+    "name": "Hideyuki Ashizawa",
+    "username": "h_ashizawaJP",
+    "url": "https://x.com/h_ashizawaJP",
+    "followers": 13328
+  },
+  "text": "Seedance 2.0のマルチフレーム（7枚の画像）を使用してグリッチ映像を制作。マルチフレームがお気に入り。曲はSuno AIで作詞は僕です #capcut生成ai #capcutjapandiscord\n@capcutapp_jp https://t.co/mDNLGwjPFg",
+  "content": "Seedance 2.0のマルチフレーム機能で7枚の画像を入力して、グリッチ映像を生成する",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 24,
+    "retweets": 0,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 4,
+    "views": 1515
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026850980764238142.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026850297843429380/img/5D9jIr8sMS3hoqAR.jpg"
+  },
+  "translations": {
+    "en": "Generate glitch visuals by inputting 7 images using the multi-frame feature of Seedance 2.0.",
+    "es": "Con la función de multiframe de Seedance 2.0, ingresa 7 imágenes para generar un video glitch.",
+    "fr": "Générez une vidéo glitch en entrant 7 images à l'aide de la fonction multi-frame de Seedance 2.0.",
+    "ko": "Seedance 2.0의 멀티프레임 기능을 사용하여 7장의 이미지를 입력하고, 글리치 영상을 생성합니다.",
+    "pt-BR": "Com o recurso de multiframe do Seedance 2.0, insira 7 imagens para gerar um vídeo com efeito glitch.",
+    "zh-CN": "使用Seedance 2.0的多帧功能输入7张图像，以生成故障效果的影像。"
+  }
+}

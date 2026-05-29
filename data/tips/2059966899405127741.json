@@ -1,0 +1,37 @@
+{
+  "id": "2059966899405127741",
+  "type": "tip",
+  "url": "https://x.com/CreativeEdge_CL/status/2059966899405127741",
+  "language": "ja",
+  "created_at": "2026-05-28",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "username": "CreativeEdge_CL",
+    "url": "https://x.com/CreativeEdge_CL",
+    "followers": 45928
+  },
+  "text": "MV制作：\n2つの異なるモチーフ(実写と漫画)のマージ\n\n広角レンズの強制遠近・極端なフォアショートニング、\nダダ的フォトモンタージュ＋構成主義カラーブロッキング＋パンクジン切貼りの3層構造を指示\n映像は、Voronoi tessellation (破片分割の数学モデル)採用\n\nOpenAI Codex , Seedance 2.0 , Suno https://t.co/VkhDOG8L4K",
+  "content": "Merge two different motifs (live-action and manga) in Seedance by explicitly prompting for a combined style/motif merge.  \nForce wide-angle perspective and extreme foreshortening by specifying wide-angle lens + forced perspective + extreme foreshortening in the prompt.  \nCreate a 3-layer visual structure by prompting for Dada photomontage + Constructivist color blocking + punk zine cut-and-paste as layered composition instructions.  \nUse Voronoi tessellation as the fragmentation/partitioning pattern by explicitly prompting for Voronoi tessellation (shard-like mathematical partitioning) in the visuals.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 124,
+    "retweets": 14,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 91,
+    "views": 7133
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059966899405127741.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059958265363238912/img/h-gdiQ0yuErgmQ4i.jpg"
+  },
+  "translations": {
+    "en": "---\nMerge two different motifs (live-action and manga) in Seedance by explicitly prompting for a combined style/motif merge.  \nForce wide-angle perspective and extreme foreshortening by specifying wide-angle lens + forced perspective + extreme foreshortening in the prompt.  \nCreate a 3-layer visual structure by prompting for Dada photomontage + Constructivist color blocking + punk zine cut-and-paste as layered composition instructions.  \nUse Voronoi tessellation as the fragmentation/partitioning pattern by explicitly prompting for Voronoi tessellation (shard-like mathematical partitioning) in the visuals.\n---",
+    "es": "---\nFusiona dos motivos diferentes (acción en vivo y manga) en Seedance solicitando explícitamente una combinación de estilo/motivo.  \nFuerza la perspectiva de gran angular y el escorzo extremo especificando lente de gran angular + perspectiva forzada + escorzo extremo en el prompt.  \nCrea una estructura visual de 3 capas solicitando fotomontaje Dada + bloqueo de color constructivista + recorte y pegado de fanzine punk como instrucciones de composición en capas.  \nUtiliza teselación de Voronoi como patrón de fragmentación/partición solicitando explícitamente teselación de Voronoi (partición matemática similar a fragmentos) en los visuales.\n---",
+    "fr": "---\nFusionnez deux motifs différents (live-action et manga) dans Seedance en demandant explicitement une fusion de style/motif combiné.  \nImposez une perspective grand angle et un raccourcissement extrême en spécifiant wide-angle lens + forced perspective + extreme foreshortening dans le prompt.  \nCréez une structure visuelle à 3 couches en demandant Dada photomontage + Constructivist color blocking + punk zine cut-and-paste comme instructions de composition en couches.  \nUtilisez la tessellation de Voronoi comme motif de fragmentation/partition en demandant explicitement Voronoi tessellation (partition mathématique en éclats) dans les visuels.\n---",
+    "ko": "---\nSeedance에서 명시적으로 스타일/모티프 병합을 요청하여 실사와 만화 두 가지 다른 모티프를 결합합니다.  \n프롬프트에 광각 렌즈 + 강제 원근법 + 극단적 단축법을 지정하여 광각 시점과 극단적 단축법을 강제합니다.  \nDada 포토몽타주 + 구성주의 색상 블로킹 + 펑크 잡지의 잘라 붙이기를 레이어드 구성 지침으로 요청하여 3층 시각 구조를 만듭니다.  \nVoronoi 테셀레이션을 시각적 단편화/분할 패턴으로 사용하려면 프롬프트에 Voronoi 테셀레이션(조각 같은 수학적 분할)을 명시적으로 요청합니다.\n---",
+    "pt-BR": "---\nCombine dois motivos diferentes (live-action e mangá) no Seedance, solicitando explicitamente uma fusão de estilo/motivo combinada.  \nForce a perspectiva de grande angular e o encurtamento extremo especificando wide-angle lens + forced perspective + extreme foreshortening no prompt.  \nCrie uma estrutura visual de 3 camadas solicitando Dada photomontage + Constructivist color blocking + punk zine cut-and-paste como instruções de composição em camadas.  \nUse a tesselação de Voronoi como padrão de fragmentação/particionamento solicitando explicitamente Voronoi tessellation (particionamento matemático em forma de fragmento) nos visuais.\n---",
+    "zh-CN": "---\n在Seedance中通过明确的prompt合并风格/主题，融合两种不同的主题（真人电影和漫画）。  \n通过在prompt中指定广角镜头+强制透视+极端透视缩短，强制广角视角和极端透视缩短。  \n通过prompt要求达达主义照片拼贴+构成主义色块+朋克杂志剪贴作为分层构图指令，创建三层视觉结构。  \n通过明确的prompt在视觉中使用Voronoi tessellation（类似碎片的数学分割）作为碎片化/分区模式。  \n---"
+  }
+}

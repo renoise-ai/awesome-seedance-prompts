@@ -1,0 +1,37 @@
+{
+  "id": "2057240371210686545",
+  "type": "prompt",
+  "url": "https://x.com/masonwarner/status/2057240371210686545",
+  "language": "en",
+  "created_at": "2026-05-20",
+  "author": {
+    "name": "Mason Warner",
+    "username": "masonwarner",
+    "url": "https://x.com/masonwarner",
+    "followers": 2704
+  },
+  "text": "Shot from a video we're dropping soon\n\nI'm still consistently shocked with how good the visual output is with AI video right now\n\nimage prompt \n(Nano Banana Pro with a ref with colors I liked):\nExtreme close-up, 85mm lens. Tight shot of a person's face lit only by soft monitor glow, completely absorbed in their work. Late night, soft warm desk lamp in the background. Shot on 35mm film with distinct film grain and no artifacting, high resolution. Use the reference image for style, but not the subject or setting.\n\nvideo prompt\n(Seedance 2 1080p using image ref):\nshot of kid coding on his computer from behind the monitor. film style footage with distinct film grain and motion blur. shaky handheld camera movement. light flickers and imperfections from the film. natural movement and emotion of the moment. no music, natural foley of the scene and environment.",
+  "content": "shot of kid coding on his computer from behind the monitor. film style footage with distinct film grain and motion blur. shaky handheld camera movement. light flickers and imperfections from the film. natural movement and emotion of the moment. no music, natural foley of the scene and environment.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 35,
+    "retweets": 1,
+    "replies": 6,
+    "quotes": 0,
+    "bookmarks": 22,
+    "views": 2111
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057240371210686545.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057238647523745792/img/xEHumU8nRfteS5VP.jpg"
+  },
+  "translations": {
+    "es": "toma de un niño programando en su computadora desde detrás del monitor. metraje de estilo cinematográfico con un grano de película distintivo y desenfoque de movimiento. movimiento de cámara en mano tembloroso. parpadeos de luz e imperfecciones de la película. movimiento natural y emoción del momento. sin música, sonido ambiente natural de la escena y el entorno.",
+    "fr": "plan d'un enfant codant sur son ordinateur vu de derrière l'écran. séquences de style cinématographique avec un grain de film distinct et un flou de mouvement. mouvement de caméra à main levée tremblant. scintillements de lumière et imperfections du film. mouvement naturel et émotion du moment. pas de musique, bruitages naturels de la scène et de l'environnement.",
+    "ja": "---\nモニター越しにコンピュータでコーディングしている子供の後ろ姿のショット。フィルムスタイルの映像で、独特のフィルムグレインとモーションブラーがある。手持ちカメラの揺れた動き。フィルムによる光のちらつきや不完全さ。自然な動きとその瞬間の感情。音楽はなく、シーンと環境の自然なフォーリー音。",
+    "ko": "---\n모니터 뒤에서 컴퓨터로 코딩하는 아이의 촬영 장면. 독특한 필름 그레인과 모션 블러가 있는 영화 스타일의 영상. 흔들리는 핸드헬드 카메라 움직임. 필름에서 오는 빛의 깜빡임과 불완전함. 순간의 자연스러운 움직임과 감정. 음악 없이, 장면과 환경의 자연스러운 폴리 사운드.",
+    "pt-BR": "cena de uma criança programando em seu computador vista por trás do monitor. filmagem em estilo cinematográfico com granulação de filme distinta e desfoque de movimento. movimento de câmera trêmula e manual. cintilações de luz e imperfeições do filme. movimento natural e emoção do momento. sem música, apenas o som ambiente natural da cena e do ambiente.",
+    "zh-CN": "从显示器后面拍摄孩子在电脑上编程的镜头。电影风格的画面，具有明显的胶片颗粒感和运动模糊。手持相机的晃动拍摄。胶片上的光线闪烁和瑕疵。自然的动作和情感流露。没有音乐，只有场景和环境的自然音效。"
+  }
+}

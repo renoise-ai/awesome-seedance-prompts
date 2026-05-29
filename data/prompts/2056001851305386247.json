@@ -1,0 +1,37 @@
+{
+  "id": "2056001851305386247",
+  "type": "prompt",
+  "url": "https://x.com/Framer_X/status/2056001851305386247",
+  "language": "en",
+  "created_at": "2026-05-17",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "username": "Framer_X",
+    "url": "https://x.com/Framer_X",
+    "followers": 49112
+  },
+  "text": "1) Change the season\n\nUpload the video to Seedance 2.0 and prompt:\n\n\"Change the season in the video to winter.\" https://t.co/wUdKZbO3sb",
+  "content": "Change the season in the video to winter.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 18,
+    "retweets": 1,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 4,
+    "views": 1938
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056001851305386247.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056001798973108224/img/a0pLvpEBf8qAHalb.jpg"
+  },
+  "translations": {
+    "es": "Cambia la estación en el video a invierno.",
+    "fr": "Changez la saison dans la vidéo pour l'hiver.",
+    "ja": "ビデオの季節を冬に変更してください。",
+    "ko": "비디오의 계절을 겨울로 변경하세요.",
+    "pt-BR": "Altere a estação no vídeo para o inverno.",
+    "zh-CN": "将视频中的季节更改为冬季。"
+  }
+}

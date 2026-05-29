@@ -1,0 +1,37 @@
+{
+  "id": "2025398540391121237",
+  "type": "tip",
+  "url": "https://x.com/KanaWorks_AI/status/2025398540391121237",
+  "language": "ja",
+  "created_at": "2026-02-22",
+  "author": {
+    "name": "KANA",
+    "username": "KanaWorks_AI",
+    "url": "https://x.com/KanaWorks_AI",
+    "followers": 6601
+  },
+  "text": "各プラットフォームで Seedance 2.0 がいよいよ開放されます。ここ最近いろいろ試してみて、気づいたポイントをまとめました。これから触る方の参考になれば嬉しいです。\n🌱 Seedance 2.0 制作の小さなコツ\n1️⃣ 初期フレームがすべてを決める\n①参考画像／初期フレームのクオリティ ＝ 動画全体の上限 https://t.co/qj16AAsy8N",
+  "content": "参考画像／初期フレームは高品質なものを用意し、最初のフレームのクオリティで動画全体の上限が決まる前提で作り込む",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 398,
+    "retweets": 61,
+    "replies": 17,
+    "quotes": 4,
+    "bookmarks": 297,
+    "views": 23899
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025398540391121237.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025397097311399936/img/jNUi85XfLsaSGmg1.jpg"
+  },
+  "translations": {
+    "en": "Prepare high-quality reference images/initial frames, as the quality of the first frame sets the upper limit for the entire video.",
+    "es": "---\nPrepare imágenes de referencia/marcos iniciales de alta calidad, asumiendo que la calidad del primer marco establecerá el límite superior para todo el video.",
+    "fr": "Pour l'image de référence ou le cadre initial, assurez-vous d'utiliser des éléments de haute qualité, car la qualité du premier cadre déterminera la limite supérieure de l'ensemble de la vidéo.",
+    "ko": "참고 이미지/초기 프레임은 고품질의 것을 준비하고, 첫 프레임의 퀄리티로 영상 전체의 상한이 결정된다는 전제로 제작한다.",
+    "pt-BR": "Prepare imagens de referência/quadro inicial de alta qualidade, assumindo que a qualidade do primeiro quadro definirá o limite superior para o vídeo inteiro.",
+    "zh-CN": "参考图像/初始帧应准备高质量的素材，以初始帧的质量为基础，决定整个视频的上限。"
+  }
+}

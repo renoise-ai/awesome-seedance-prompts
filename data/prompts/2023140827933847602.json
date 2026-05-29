@@ -1,0 +1,37 @@
+{
+  "id": "2023140827933847602",
+  "type": "prompt",
+  "url": "https://x.com/JasonRink/status/2023140827933847602",
+  "language": "en",
+  "created_at": "2026-02-15",
+  "author": {
+    "name": "Jason Rink",
+    "username": "JasonRink",
+    "url": "https://x.com/JasonRink",
+    "followers": 8023
+  },
+  "text": "Whenever I get access to a new model, I run the Macho Man test.\n\nIt's simple. Give both models the same Macho Man Randy Savage themed prompt and see which one actually performs better.\n\nCurrently, Sora still outperforms Seedance 2.0 when it comes to the macho Man Test.\n\nPROMPT: A 15 second commercial for a 1980s television show called \"Savage Justice\" starring Macho Man Randy Savage as the lead role of detective Savage.",
+  "content": "A 15 second commercial for a 1980s television show called \"Savage Justice\" starring Macho Man Randy Savage as the lead role of detective Savage.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 12,
+    "retweets": 0,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 3,
+    "views": 821
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023140827933847602.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023140585259855872/img/GZY005a9DVkIJxT4.jpg"
+  },
+  "translations": {
+    "es": "Un comercial de 15 segundos para un programa de televisión de los años 80 llamado \"Savage Justice\", protagonizado por Macho Man Randy Savage en el papel principal del detective Savage.",
+    "fr": "Une publicité de 15 secondes pour une émission télévisée des années 1980 intitulée \"Savage Justice\", avec Macho Man Randy Savage dans le rôle principal du détective Savage.",
+    "ja": "1980年代のテレビ番組「Savage Justice」の15秒間のコマーシャル。主演はマッチョマン・ランディ・サベージで、探偵サベージ役を務めています。",
+    "ko": "1980년대 TV 쇼 \"Savage Justice\"의 15초 광고. Macho Man Randy Savage가 주연 탐정 Savage 역을 맡았습니다.",
+    "pt-BR": "Um comercial de 15 segundos para um programa de televisão dos anos 1980 chamado \"Savage Justice\", estrelado por Macho Man Randy Savage no papel principal do detetive Savage.",
+    "zh-CN": "一则15秒的商业广告，宣传一部1980年代的电视节目《Savage Justice》，由Macho Man Randy Savage主演，饰演侦探Savage。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2054523492209508743",
+  "type": "tip",
+  "url": "https://x.com/Eshika43/status/2054523492209508743",
+  "language": "en",
+  "created_at": "2026-05-13",
+  "author": {
+    "name": "Eshika Rana",
+    "username": "Eshika43",
+    "url": "https://x.com/Eshika43",
+    "followers": 11659
+  },
+  "text": "Creative Workflow boost.\n\nThe combo of GPT Image 2 and Seedance 2.0 is currently one of the fastest ways to speed up creative production.\n\nGPT Image 2 picks up the intent really well - just start with an animation-style prompt, then generate the character sheet, key art, or title design from there.\n\nOnce that’s done, the Seedance 2.0 part becomes much smoother and easier to handle.",
+  "content": "Start with an animation-style prompt in GPT Image 2 to generate a character sheet, key art, or title design, then use those outputs as prep assets to make the Seedance 2.0 stage smoother and easier to handle.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 10,
+    "retweets": 4,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 2,
+    "views": 226
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054523492209508743.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054523386005430272/img/hhqItYz_f5z83zVW.jpg"
+  },
+  "translations": {
+    "es": "Comienza con un prompt de estilo de animación en GPT Image 2 para generar una hoja de personaje, arte clave o diseño de título, luego utiliza esos resultados como activos de preparación para hacer que el escenario de Seedance 2.0 sea más fluido y fácil de manejar.",
+    "fr": "---\nCommencez par un prompt de style animation dans GPT Image 2 pour générer une feuille de personnage, un artwork clé ou un design de titre, puis utilisez ces sorties comme éléments de préparation pour rendre la scène Seedance 2.0 plus fluide et plus facile à gérer.",
+    "ja": "---\nまず、GPT Image 2でアニメーションスタイルのプロンプトを使用してキャラクターシート、キーホルダー、またはタイトルデザインを生成し、それらの出力を準備資産として使用して、Seedance 2.0のステージをよりスムーズで扱いやすくします。\n---",
+    "ko": "GPT Image 2에서 애니메이션 스타일의 prompt로 캐릭터 시트, 키 아트 또는 타이틀 디자인을 생성한 후, 이러한 출력물을 Seedance 2.0 무대를 더 부드럽고 쉽게 다룰 수 있도록 준비 자산으로 사용하세요.",
+    "pt-BR": "Comece com um prompt de estilo de animação no GPT Image 2 para gerar uma folha de personagem, arte principal ou design de título, depois use esses resultados como ativos de preparação para tornar o estágio Seedance 2.0 mais suave e fácil de lidar.",
+    "zh-CN": "从动画风格的prompt开始，在GPT Image 2中生成角色表、关键艺术或标题设计，然后使用这些输出作为准备资产，使Seedance 2.0阶段更顺畅、更易于处理。"
+  }
+}
