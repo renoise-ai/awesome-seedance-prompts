@@ -1,0 +1,37 @@
+{
+  "id": "2060418220180550084",
+  "type": "tip",
+  "url": "https://x.com/underwoodxie96/status/2060418220180550084",
+  "language": "en",
+  "created_at": "2026-05-29",
+  "author": {
+    "name": "underwood",
+    "username": "underwoodxie96",
+    "url": "https://x.com/underwoodxie96",
+    "followers": 35673
+  },
+  "text": "I tried generating this type of video with Seedance, but the result didn't turn out as expected.\n\nI used GPT Image 2.0 to combine several landmarks into a single image and then used it as the starting point for video generation.\n\nLooking back, I think the issue might be related to the camera language. The video starts from the perspective of a static image rather than from a clearly defined camera movement.\n\nWorkflow: https://t.co/nLWrvQXGno",
+  "content": "Define explicit camera movement in your Seedance prompt (e.g., dolly-in/pan/tilt/orbit) when animating from a single starting image to avoid a static-image perspective.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 61,
+    "retweets": 8,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 49,
+    "views": 7924
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060418220180550084.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060417501281058816/img/FN41IjgDLMHpjTav.jpg"
+  },
+  "translations": {
+    "es": "Define un movimiento de cámara explícito en tu prompt de Seedance (por ejemplo, dolly-in/pan/tilt/orbit) al animar desde una sola imagen inicial para evitar una perspectiva de imagen estática.",
+    "fr": "Définissez un mouvement de caméra explicite dans votre prompt Seedance (par exemple, dolly-in/pan/tilt/orbit) lors de l'animation à partir d'une seule image de départ pour éviter une perspective d'image statique.",
+    "ja": "Seedanceのプロンプトで、単一の開始画像からアニメーションを作成する際に、静止画像の視点を避けるために、dolly-in/pan/tilt/orbitなどの明確なカメラの動きを定義してください。",
+    "ko": "Seedance 프롬프트에서 명확한 카메라 움직임(예: dolly-in/pan/tilt/orbit)을 정의하여 단일 시작 이미지에서 애니메이션을 만들 때 정적인 이미지 관점을 피하세요.",
+    "pt-BR": "Defina movimentos de câmera explícitos no seu prompt Seedance (por exemplo, dolly-in/pan/tilt/orbit) ao animar a partir de uma única imagem inicial para evitar uma perspectiva de imagem estática.",
+    "zh-CN": "在您的Seedance prompt中定义明确的摄像机运动（例如，dolly-in/pan/tilt/orbit），以避免从单一起始图像动画时出现静态图像视角。"
+  }
+}

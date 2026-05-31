@@ -1,0 +1,37 @@
+{
+  "id": "2060592017068187924",
+  "type": "tip",
+  "url": "https://x.com/CreativeEdge_CL/status/2060592017068187924",
+  "language": "ja",
+  "created_at": "2026-05-30",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "username": "CreativeEdge_CL",
+    "url": "https://x.com/CreativeEdge_CL",
+    "followers": 45973
+  },
+  "text": "大袈裟な演技の実験。\nJapanese manzai comedy from the 1980s.\nAn experiment analyzing exaggerated movements using Codex and recreating them with Seedance 2.0.\n\nCodex には、小〜中規模劇場の音響として、RT60は約1.2〜1.6秒、初期反射は20〜50msを指示\n\nOpenAI Codex , Seedance 2.0 https://t.co/Cp6QjKc081",
+  "content": "Codexに小〜中規模劇場の音響としてRT60を約1.2〜1.6秒、初期反射を20〜50msに指定してからSeedance 2.0で再現する",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 47,
+    "retweets": 6,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 20,
+    "views": 5515
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060592017068187924.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060578468195385344/img/fo6rjPovRhUsUIQi.jpg"
+  },
+  "translations": {
+    "en": "Specify RT60 as approximately 1.2 to 1.6 seconds and early reflections as 20 to 50ms for the acoustics of a small to medium-sized theater in Codex, then recreate it with Seedance 2.0.",
+    "es": "Después de especificar en Codex un RT60 de aproximadamente 1.2 a 1.6 segundos y reflexiones iniciales de 20 a 50 ms como acústica para un teatro pequeño a mediano, recrear con Seedance 2.0.",
+    "fr": "---\nSpécifiez RT60 entre environ 1,2 et 1,6 seconde et les réflexions initiales entre 20 et 50 ms comme acoustique pour un théâtre de petite à moyenne taille dans Codex, puis recréez-le avec Seedance 2.0.",
+    "ko": "---\nCodex에 소~중규모 극장의 음향으로 RT60을 약 1.2~1.6초, 초기 반사를 20~50ms로 지정한 후 Seedance 2.0에서 재현하기\n---",
+    "pt-BR": "Codexに小〜中規模劇場の音響としてRT60を約1.2〜1.6秒、初期反射を20〜50msに指定してからSeedance 2.0で再現する",
+    "zh-CN": "在Codex中将RT60指定为约1.2〜1.6秒，初期反射为20〜50ms，作为小〜中规模剧场的音响，然后在Seedance 2.0中再现。"
+  }
+}

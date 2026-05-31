@@ -1,0 +1,40 @@
+{
+  "id": "2060864962587975861",
+  "type": "tip",
+  "url": "https://x.com/k_prs_fender/status/2060864962587975861",
+  "language": "ja",
+  "created_at": "2026-05-30",
+  "author": {
+    "name": "k(k_the_Anything)",
+    "username": "k_prs_fender",
+    "url": "https://x.com/k_prs_fender",
+    "followers": 96
+  },
+  "text": "AIスタジオワンルームさん動画、そしてMr.lancuさんのプロンプトと動画を参考→インスパイアしてオリジナル動画を作りました。\n\n@studio_oneroom \n@Iancu_ai \n\n使用ツールはDreamina AI（Seedance 2.0）を使用しています。\n\n@dreamina_ai \n\n#創作 #オリジナルアニメ #seedance2 #dreamina #dreaminaai https://t.co/7m8Hu4oRa9",
+  "content": "Mr.lancuが公開した「術式発動」プロンプトをそのままコピペしてSeedance 2.0（Dreamina AI）に入れると、魔法陣展開〜術式発動の演出を簡単に生成できる  \n術式発動後に変身する演出を入れる場合は、変身後の服装（衣装デザイン）もリファレンス画像で指定しておくと狙った見た目に寄せやすい  \n変身後の姿をSeedance 2.0に任せたい場合は、キャラクター画像だけをリファレンスにして生成し、変身後はプロンプト内容に基づいて自動生成させる",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 5,
+    "retweets": 0,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 0,
+    "views": 182
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060864962587975861.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060863581315543040/img/PO5o6drwEBN7s_HI.jpg"
+  },
+  "extra_content": {
+    "quoted_text": "コピペで出来る\n術式発動のプロンプトがかっこいい！\n\nMr.lancuさんが公開してくれたこのプロンプト、めっちゃ楽しいです。\nコピペするだけで魔法陣が展開され術式が発動します。\n\n術式発動後、変身するので変身後の服装もリファレンスしておくといいかもしれません。\n私はキャラクターの画像だけで生成したので変身後の姿はSeedance2.0がプロンプトを元に勝手にやってくれました。"
+  },
+  "translations": {
+    "en": "By copying and pasting the \"Technique Activation\" prompt released by Mr. lancu directly into Seedance 2.0 (Dreamina AI), you can easily generate the cinematic effect of a magic circle expanding and the technique activating.  \nIf you want to include a transformation scene after the technique activation, it's easier to achieve the desired look by specifying the outfit (costume design) after the transformation with reference images.  \nIf you prefer to leave the post-transformation appearance to Seedance 2.0, you can generate it using only the character image as a reference, and the post-transformation appearance will be automatically generated based on the prompt content.\n\n--- QUOTED TWEET ---\nYou can do it with copy-paste  \nThe technique activation prompt is cool!\n\nThis prompt released by Mr. lancu is really fun.  \nJust by copying and pasting, the magic circle expands, and the technique activates.\n\nSince there's a transformation after the technique activation, it might be good to reference the outfit after the transformation as well.  \nI generated it using only the character image, so Seedance 2.0 automatically handled the post-transformation appearance based on the prompt.",
+    "es": "Al copiar y pegar el prompt de \"術式発動\" publicado por Mr.lancu en Seedance 2.0 (Dreamina AI), se puede generar fácilmente una representación de la expansión del círculo mágico y la activación del hechizo.  \nSi deseas incluir una transformación después de la activación del hechizo, es útil especificar la vestimenta posterior a la transformación (diseño del vestuario) con imágenes de referencia para acercarse al aspecto deseado.  \nSi prefieres dejar la apariencia posterior a la transformación en manos de Seedance 2.0, simplemente utiliza la imagen del personaje como referencia para la generación, y el aspecto transformado se generará automáticamente según el contenido del prompt.\n\n--- TWEET CITADO ---\nSe puede hacer con copiar y pegar\n¡El prompt de activación del hechizo es impresionante!\n\nEste prompt que Mr.lancu ha compartido es muy divertido.\nCon solo copiar y pegar, se despliega un círculo mágico y se activa el hechizo.\n\nDespués de la activación del hechizo, hay una transformación, por lo que podría ser útil referenciar también la vestimenta posterior a la transformación.\nYo generé solo con la imagen del personaje, así que Seedance 2.0 se encargó automáticamente de la apariencia posterior a la transformación basándose en el prompt.",
+    "fr": "En copiant et collant directement le prompt \"術式発動\" publié par Mr.lancu dans Seedance 2.0 (Dreamina AI), vous pouvez facilement générer une animation de déploiement de cercle magique et d'activation de technique.  \nSi vous souhaitez inclure une animation de transformation après l'activation de la technique, il est conseillé de spécifier également la tenue après transformation (design du costume) avec une image de référence pour obtenir l'apparence souhaitée.  \nSi vous préférez laisser Seedance 2.0 décider de l'apparence après transformation, utilisez uniquement l'image du personnage comme référence pour la génération, et laissez la transformation être générée automatiquement en fonction du contenu du prompt.\n\n--- TWEET CITÉ ---\nFacile avec un copier-coller  \nLe prompt d'activation de technique est impressionnant !\n\nCe prompt publié par Mr.lancu est vraiment amusant.  \nIl suffit de copier-coller pour que le cercle magique se déploie et que la technique s'active.\n\nAprès l'activation de la technique, il y a une transformation, donc il pourrait être utile de référencer la tenue après transformation.  \nJ'ai généré uniquement avec l'image du personnage, donc Seedance 2.0 s'est occupé de l'apparence après transformation en se basant sur le prompt.",
+    "ko": "---\nMr.lancu가 공개한 \"술식 발동\" 프롬프트를 그대로 복사하여 Seedance 2.0 (Dreamina AI)에 입력하면, 마법진 전개부터 술식 발동의 연출을 간단하게 생성할 수 있습니다.  \n술식 발동 후 변신하는 연출을 추가하려면, 변신 후의 복장(의상 디자인)도 참고 이미지로 지정해두면 원하는 외형에 가깝게 만들 수 있습니다.  \n변신 후의 모습을 Seedance 2.0에 맡기고 싶다면, 캐릭터 이미지만 참고로 생성하고, 변신 후는 프롬프트 내용에 따라 자동 생성되도록 할 수 있습니다.\n\n--- 인용된 트윗 ---\n복사 붙여넣기로 가능한\n술식 발동 프롬프트가 멋져요!\n\nMr.lancu님이 공개해주신 이 프롬프트, 정말 재미있습니다.\n복사 붙여넣기만 하면 마법진이 전개되고 술식이 발동됩니다.\n\n술식 발동 후 변신하므로 변신 후의 복장도 참고해두면 좋을 것 같습니다.\n저는 캐릭터의 이미지만으로 생성했기 때문에 변신 후의 모습은 Seedance 2.0이 프롬프트를 기반으로 자동으로 해주었습니다.\n---",
+    "pt-BR": "Ao copiar e colar o prompt \"術式発動\" divulgado por Mr.lancu no Seedance 2.0 (Dreamina AI), é possível gerar facilmente a animação de expansão do círculo mágico e ativação do feitiço.  \nSe você quiser incluir uma transformação após a ativação do feitiço, é recomendável especificar a roupa após a transformação (design do figurino) com uma imagem de referência para aproximar-se da aparência desejada.  \nCaso prefira deixar a aparência após a transformação a cargo do Seedance 2.0, basta usar apenas a imagem do personagem como referência para a geração, e a aparência após a transformação será gerada automaticamente com base no conteúdo do prompt.\n\n--- TWEET CITADO ---\nÉ incrível o que dá para fazer com um simples copiar e colar\nO prompt de ativação do feitiço é muito legal!\n\nEste prompt que Mr.lancu divulgou é super divertido.\nBasta copiar e colar para que o círculo mágico se expanda e o feitiço seja ativado.\n\nApós a ativação do feitiço, há uma transformação, então pode ser uma boa ideia referenciar a roupa após a transformação.\nEu gerei apenas com a imagem do personagem, então o Seedance 2.0 cuidou automaticamente da aparência após a transformação com base no prompt.",
+    "zh-CN": "---\n将Mr.lancu公开的“术式发动”prompt直接复制粘贴到Seedance 2.0（Dreamina AI）中，可以轻松生成魔法阵展开到术式发动的演出。  \n如果要在术式发动后加入变身演出，建议通过参考图像指定变身后的服装（服装设计），这样更容易接近预期的外观。  \n如果希望将变身后的形象交给Seedance 2.0处理，只需将角色图像作为参考生成，变身后的形象将根据prompt内容自动生成。\n\n--- QUOTED TWEET ---\n通过复制粘贴即可实现  \n术式发动的prompt很酷！\n\nMr.lancu公开的这个prompt，非常有趣。  \n只需复制粘贴，魔法阵就会展开，术式就会发动。\n\n术式发动后会变身，所以变身后的服装也可以参考一下。  \n我只用角色的图像生成，变身后的形象是Seedance 2.0根据prompt自动完成的。\n---"
+  }
+}

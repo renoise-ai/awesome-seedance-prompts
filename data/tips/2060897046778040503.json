@@ -1,0 +1,37 @@
+{
+  "id": "2060897046778040503",
+  "type": "tip",
+  "url": "https://x.com/bmx_ai13/status/2060897046778040503",
+  "language": "en",
+  "created_at": "2026-05-31",
+  "author": {
+    "name": "BMX",
+    "username": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13",
+    "followers": 8462
+  },
+  "text": "Good morning everyone and happy Sunday.\n\nHere’s my simple creative workflow: Image → GPT Image 2 Storyboard → Seedance 2.0 @yapper_so \n\nFrom a single still image to a cinematic motion sequence, this process makes visual storytelling faster, cleaner and more intentional.",
+  "content": "Turn a single still image into a cinematic motion sequence by using this workflow: Image → GPT Image 2 Storyboard → Seedance 2.0.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 11,
+    "retweets": 1,
+    "replies": 6,
+    "quotes": 0,
+    "bookmarks": 0,
+    "views": 182
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060897046778040503.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060855643825975296/img/DK2oOlXSGehS9379.jpg"
+  },
+  "translations": {
+    "es": "Convierte una sola imagen fija en una secuencia de movimiento cinematográfico utilizando este flujo de trabajo: Imagen → GPT Image 2 Storyboard → Seedance 2.0.",
+    "fr": "Transformez une seule image fixe en une séquence de mouvement cinématographique en utilisant ce flux de travail : Image → GPT Image 2 Storyboard → Seedance 2.0.",
+    "ja": "単一の静止画像を映画のような動きのあるシーケンスに変えるには、このワークフローを使用します：Image → GPT Image 2 Storyboard → Seedance 2.0.",
+    "ko": "단일 정지 이미지를 시네마틱 모션 시퀀스로 변환하려면 다음 워크플로를 사용하세요: Image → GPT Image 2 Storyboard → Seedance 2.0.",
+    "pt-BR": "Transforme uma única imagem estática em uma sequência de movimento cinematográfico usando este fluxo de trabalho: Imagem → GPT Image 2 Storyboard → Seedance 2.0.",
+    "zh-CN": "通过以下工作流程将单张静态图像转换为电影般的动态序列：Image → GPT Image 2 Storyboard → Seedance 2.0。"
+  }
+}

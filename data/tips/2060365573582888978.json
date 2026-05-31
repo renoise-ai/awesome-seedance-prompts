@@ -1,0 +1,40 @@
+{
+  "id": "2060365573582888978",
+  "type": "tip",
+  "url": "https://x.com/genbaAI/status/2060365573582888978",
+  "language": "ja",
+  "created_at": "2026-05-29",
+  "author": {
+    "name": "ぺらこ｜ AIで描く建設業",
+    "username": "genbaAI",
+    "url": "https://x.com/genbaAI",
+    "followers": 1039
+  },
+  "text": "Seedanceで挑戦。\n\nここまでごちゃごちゃした場所だとそれっぽい再現になるようで、ルート指定する意味はないかも。\nあと元画像にないコン子を2Dアニメで忍ばせてみたら巨人かつ平べったくなってしまいました笑 https://t.co/Uf8Ox0IwUt",
+  "content": "複雑で情報量が多い背景（ごちゃごちゃした場所）ではルート（カメラパス）指定の効果が薄い可能性があるため、ルート指定なしでも試す  \n元画像に存在しないキャラを2Dアニメ風で追加する場合は巨大化・平面化しやすいので、元画像に要素を入れるかスタイル指定を弱めて破綻を避ける",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 75,
+    "retweets": 11,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 25,
+    "views": 8351
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060365573582888978.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060364438885257216/img/3KC0_GXcTdXOjDtH.jpg"
+  },
+  "extra_content": {
+    "quoted_text": "Gave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi"
+  },
+  "translations": {
+    "en": "In complex and information-dense backgrounds (cluttered locations), the effect of specifying a route (camera path) might be diminished, so it's worth trying without specifying a route.  \nWhen adding characters not present in the original image in a 2D anime style, they can easily become oversized or flattened, so either include elements in the original image or weaken the style specification to avoid inconsistencies.",
+    "es": "En fondos complejos y con mucha información (lugares desordenados), la especificación de la ruta (cámara pas) puede tener un efecto limitado, por lo que es recomendable probar sin especificar la ruta.  \nCuando se añade un personaje que no existe en la imagen original en estilo de anime 2D, es fácil que se agrande o se aplane, por lo que es mejor incluir elementos en la imagen original o debilitar la especificación de estilo para evitar fallos.\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n---",
+    "fr": "Dans un arrière-plan complexe et chargé d'informations (lieu encombré), l'effet de la spécification de la route (chemin de la caméra) peut être atténué, il est donc conseillé d'essayer sans spécification de route.  \nLorsqu'on ajoute un personnage qui n'existe pas dans l'image d'origine dans un style 2D anime, il peut facilement devenir gigantesque ou aplati. Pour éviter cela, il est recommandé d'ajouter des éléments à l'image d'origine ou d'atténuer la spécification de style pour éviter les incohérences.\n\n--- TWEET CITÉ ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi",
+    "ko": "복잡하고 정보량이 많은 배경(혼잡한 장소)에서는 루트(카메라 패스) 지정의 효과가 약할 수 있으므로, 루트 지정 없이도 시도해보세요.  \n원본 이미지에 존재하지 않는 캐릭터를 2D 애니메이션 스타일로 추가할 경우, 커지거나 평면화되기 쉬우므로, 원본 이미지에 요소를 추가하거나 스타일 지정을 약화시켜 파손을 피하세요.\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n---",
+    "pt-BR": "Em fundos complexos e com muita informação (locais desordenados), o efeito da especificação de rota (caminho da câmera) pode ser reduzido, então é recomendável tentar sem especificação de rota.  \nAo adicionar personagens que não estão na imagem original em estilo de anime 2D, eles podem se tornar grandes ou planos facilmente, então é melhor incluir elementos na imagem original ou enfraquecer a especificação de estilo para evitar falhas.\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n---",
+    "zh-CN": "在复杂且信息量大的背景（杂乱的地方），指定路径（摄像机路径）的效果可能不明显，因此可以尝试不指定路径。  \n如果要在原始图像中添加不存在的角色并使其呈现2D动画风格，由于容易变大和平面化，可以在原始图像中加入元素或减弱风格指定以避免崩溃。\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi"
+  }
+}

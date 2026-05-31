@@ -1,0 +1,44 @@
+{
+  "id": "2060173342943117462",
+  "type": "tip",
+  "url": "https://x.com/tanabe_fragm/status/2060173342943117462",
+  "language": "ja",
+  "created_at": "2026-05-29",
+  "author": {
+    "name": "タナベ | 動画・音声生成AI解説",
+    "username": "tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm",
+    "followers": 559
+  },
+  "text": "Gemini Omni Flashで、中世の騎士になったようなPOV動画を作ってみました。\n\nただ、どうしてもゲームのプレイ映像っぽくなってしまう…😔\n動画生成AIをSeedance 2.0に変えても傾向はほぼ同じでした。 https://t.co/Rjf2lS2gk9",
+  "content": "Seedance 2.0で参照画像＋同一プロンプトを使って生成し、Gemini Omni Flashと出力クオリティを比較する  \n参照画像は中世ヨーロッパの村の斜め上から見た俯瞰図（地図としても役立つ構図）を生成してSeedance 2.0の入力に使う  \n参照画像生成プロンプト例：中世ヨーロッパの村の画像を作って。地図としても役立ちそうな、斜め上から見た俯瞰図。  \nルート（移動経路）指示はCanvaで参照画像に加工してからSeedance 2.0に渡す",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 17,
+    "retweets": 1,
+    "replies": 2,
+    "quotes": 1,
+    "bookmarks": 3,
+    "views": 1971
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060173342943117462.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060172486021685248/img/IpxHu_sAVfJwkyrw.jpg"
+  },
+  "extra_content": {
+    "thread_texts": [
+      "同じ参照画像・プロンプトを使ったSeedance 2.0で作った動画はこちら↓\nクオリティはSeedance 2.0の上かなと感じます。 https://t.co/3TbGlRFFZI",
+      "参照画像の生成で使用したプロンプトはこちら↓\n※ルート指示はCanvaで加工\n---------------------------\n中世ヨーロッパの村の画像を作って。 \n地図としても役立ちそうな、斜め上から見た俯瞰図。\n--------------------------- https://t.co/r67Z2RRCbH",
+      "このような動画の作り方は↓のnoteで詳しく解説しています。\nドローンのFPV動画も簡単に作れますので、ぜひ試してみてください😃\n\nhttps://t.co/R2xpHIfTdC"
+    ]
+  },
+  "translations": {
+    "en": "---\nGenerate using Seedance 2.0 with a reference image + the same prompt, and compare the output quality with Gemini Omni Flash.  \nCreate a reference image of a bird's-eye view of a medieval European village from an oblique angle (a composition useful as a map) to use as input for Seedance 2.0.  \nExample prompt for generating a reference image: Create an image of a medieval European village. A bird's-eye view from an oblique angle that could also be useful as a map.  \nAdd route (movement path) instructions to the reference image using Canva before passing it to Seedance 2.0.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here is the video created with Seedance 2.0 using the same reference image and prompt ↓\nI feel the quality is above that of Seedance 2.0. https://t.co/3TbGlRFFZI\n\n[Thread 2] Here is the prompt used for generating the reference image ↓\n*Route instructions were processed with Canva\n---------------------------\nCreate an image of a medieval European village.  \nA bird's-eye view from an oblique angle that could also be useful as a map.\n--------------------------- https://t.co/r67Z2RRCbH\n\n[Thread 3] Detailed explanation on how to create such videos is in the note below.\nYou can easily create FPV drone videos, so please give it a try 😃\n\nhttps://t.co/R2xpHIfTdC\n---",
+    "es": "---\nGenerar con Seedance 2.0 usando una imagen de referencia + el mismo prompt y comparar la calidad de salida con Gemini Omni Flash  \nLa imagen de referencia es una vista aérea desde un ángulo inclinado de un pueblo de la Europa medieval (una composición que también sirve como mapa) y se utiliza como entrada en Seedance 2.0  \nEjemplo de prompt para generar la imagen de referencia: Crea una imagen de un pueblo de la Europa medieval. Una vista aérea desde un ángulo inclinado que también podría servir como mapa.  \nLas instrucciones de ruta (trayectoria de movimiento) se añaden a la imagen de referencia en Canva antes de pasarla a Seedance 2.0\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí está el video creado con Seedance 2.0 usando la misma imagen de referencia y prompt ↓\nSiento que la calidad está por encima de Seedance 2.0. https://t.co/3TbGlRFFZI\n\n[Hilo 2] Aquí está el prompt utilizado para generar la imagen de referencia ↓\n※ Las instrucciones de ruta se procesan en Canva\n---------------------------\nCrea una imagen de un pueblo de la Europa medieval. \nUna vista aérea desde un ángulo inclinado que también podría servir como mapa.\n--------------------------- https://t.co/r67Z2RRCbH\n\n[Hilo 3] Explico detalladamente cómo crear este tipo de videos en la nota a continuación.\nTambién puedes crear fácilmente videos FPV de drones, ¡así que pruébalo! 😃\n\nhttps://t.co/R2xpHIfTdC\n---",
+    "fr": "---\nGénérez une image de référence avec Seedance 2.0 + le même prompt et comparez la qualité de sortie avec Gemini Omni Flash.  \nL'image de référence est une vue en plongée d'un village médiéval européen vu en diagonale (une composition utile aussi comme carte) à utiliser comme entrée pour Seedance 2.0.  \nExemple de prompt pour générer l'image de référence : Créez une image d'un village médiéval européen. Une vue en plongée vue en diagonale, utile aussi comme carte.  \nLes instructions de route (itinéraire de déplacement) sont modifiées sur l'image de référence avec Canva avant de les transmettre à Seedance 2.0.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Voici la vidéo réalisée avec Seedance 2.0 en utilisant la même image de référence et le même prompt ↓\nJe pense que la qualité est supérieure avec Seedance 2.0. https://t.co/3TbGlRFFZI\n\n[Fil 2] Voici le prompt utilisé pour générer l'image de référence ↓\n※ Les instructions de route sont modifiées avec Canva\n---------------------------\nCréez une image d'un village médiéval européen.  \nUne vue en plongée vue en diagonale, utile aussi comme carte.\n--------------------------- https://t.co/r67Z2RRCbH\n\n[Fil 3] La méthode pour créer ce type de vidéo est expliquée en détail dans la note ci-dessous.\nVous pouvez également créer facilement des vidéos FPV de drone, alors n'hésitez pas à essayer 😃\n\nhttps://t.co/R2xpHIfTdC\n---",
+    "ko": "---\nSeedance 2.0에서 참조 이미지와 동일한 프롬프트를 사용하여 생성하고, Gemini Omni Flash와 출력 품질을 비교합니다.  \n참조 이미지는 중세 유럽 마을의 대각선 위에서 본 조감도(지도에도 유용한 구도)를 생성하여 Seedance 2.0의 입력에 사용합니다.  \n참조 이미지 생성 프롬프트 예시: 중세 유럽 마을의 이미지를 만들어 주세요. 지도에도 유용할 것 같은, 대각선 위에서 본 조감도.  \n경로(이동 경로) 지시는 Canva에서 참조 이미지를 가공한 후 Seedance 2.0에 전달합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 동일한 참조 이미지와 프롬프트를 사용한 Seedance 2.0으로 만든 영상은 여기↓\n품질은 Seedance 2.0이 더 나은 것 같습니다. https://t.co/3TbGlRFFZI\n\n[Thread 2] 참조 이미지 생성에 사용한 프롬프트는 여기↓\n※경로 지시는 Canva에서 가공\n---------------------------\n중세 유럽 마을의 이미지를 만들어 주세요.  \n지도에도 유용할 것 같은, 대각선 위에서 본 조감도.\n--------------------------- https://t.co/r67Z2RRCbH\n\n[Thread 3] 이러한 영상 제작 방법은 아래의 노트에서 자세히 설명하고 있습니다.\n드론의 FPV 영상도 쉽게 만들 수 있으니, 꼭 시도해 보세요😃\n\nhttps://t.co/R2xpHIfTdC\n---",
+    "pt-BR": "---\nComparar a qualidade de saída do Seedance 2.0 com o Gemini Omni Flash usando uma imagem de referência + o mesmo prompt  \nGerar uma imagem de referência de uma vista aérea de uma vila medieval europeia (um ângulo útil como mapa) para usar como entrada no Seedance 2.0  \nExemplo de prompt para gerar imagem de referência: \"Create an image of a medieval European village. Aerial view from an angle that could also be useful as a map.\"  \nAs instruções de rota (caminho de movimento) devem ser editadas na imagem de referência usando o Canva antes de passar para o Seedance 2.0\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Aqui está o vídeo feito com o Seedance 2.0 usando a mesma imagem de referência e prompt↓\nA qualidade parece estar acima do Seedance 2.0. https://t.co/3TbGlRFFZI\n\n[Thread 2] Aqui está o prompt usado para gerar a imagem de referência↓\n※Instruções de rota editadas no Canva\n---------------------------\n\"Create an image of a medieval European village. \nAerial view from an angle that could also be useful as a map.\"\n--------------------------- https://t.co/r67Z2RRCbH\n\n[Thread 3] Explicamos detalhadamente como criar vídeos como este na nota abaixo.\nVídeos de FPV de drones também podem ser feitos facilmente, então experimente 😃\n\nhttps://t.co/R2xpHIfTdC\n---",
+    "zh-CN": "---\n使用Seedance 2.0生成参照图像+相同prompt，并与Gemini Omni Flash的输出质量进行比较  \n参照图像是从斜上方俯视的中世纪欧洲村庄图（也可作为地图使用的构图），用于Seedance 2.0的输入  \n参照图像生成prompt示例：Create an image of a medieval European village. An aerial view from an angle that could also serve as a map.  \n路线（移动路径）指示在Canva中加工参照图像后再传递给Seedance 2.0\n\n--- 线程继续 ---\n[线程1] 使用相同参照图像和prompt在Seedance 2.0中制作的视频在这里↓\n我觉得质量可能比Seedance 2.0更好。 https://t.co/3TbGlRFFZI\n\n[线程2] 生成参照图像时使用的prompt在这里↓\n※路线指示在Canva中加工\n---------------------------\nCreate an image of a medieval European village.  \nAn aerial view from an angle that could also serve as a map.\n--------------------------- https://t.co/r67Z2RRCbH\n\n[线程3] 这种视频的制作方法在下面的note中有详细解说。\nFPV无人机视频也可以轻松制作，欢迎尝试😃\n\nhttps://t.co/R2xpHIfTdC\n---"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2060345694389739959",
+  "type": "tip",
+  "url": "https://x.com/Framer_X/status/2060345694389739959",
+  "language": "en",
+  "created_at": "2026-05-29",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "username": "Framer_X",
+    "url": "https://x.com/Framer_X",
+    "followers": 49148
+  },
+  "text": "Step 2:\n\nUpload all images as references in Seedance 2.0 and use this prompt (tag the characters and environment with @):\n\n\"Sitting at the desk, STEVE is kissing his computer screen... RICKY stepping into the room and freezes at the sight, shocked.\n\n[cut] RICKY (shocked): \"Eh... I’ll come by later, Steve...\"\n\n[cut] STEVE (excited): \"No, bro, check this out! Ricky cautiously approaches the seated Steve from the side and looks at the computer.\"\n\n[cut] Over the shoulder shot - on screen: a picture of a grey OLD MAN with eight pack abs...\n\n[cut] RICKY (even more bewildered): \"Who the hell is that?\"\n\n[cut] STEVE (thrilled): \"That’s George Blooney, bro - my AI crown jewel and the hottest new thing on the boomer dating market.\"\n\nno music.\"",
+  "content": "Upload all images as references in Seedance 2.0 to guide the generation.  \nTag characters and environments in your Seedance prompt using @ for better control.  \nStructure your prompt with [cut] markers and explicit shot directions (e.g., “Over the shoulder shot”) to control scene edits and camera framing.  \nAdd “no music” to the prompt to prevent background music from being generated.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 12,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 7,
+    "views": 1190
+  },
+  "video": null,
+  "translations": {
+    "es": "Sube todas las imágenes como referencias en Seedance 2.0 para guiar la generación.  \nEtiqueta personajes y entornos en tu prompt de Seedance usando @ para un mejor control.  \nEstructura tu prompt con marcadores [cut] y direcciones de toma explícitas (por ejemplo, “Over the shoulder shot”) para controlar las ediciones de escena y el encuadre de la cámara.  \nAñade “no music” al prompt para evitar que se genere música de fondo.",
+    "fr": "---\nTéléchargez toutes les images comme références dans Seedance 2.0 pour guider la génération.  \nTaguez les personnages et les environnements dans votre prompt Seedance en utilisant @ pour un meilleur contrôle.  \nStructurez votre prompt avec des marqueurs [cut] et des indications explicites de prise de vue (par exemple, “Over the shoulder shot”) pour contrôler les modifications de scène et le cadrage de la caméra.  \nAjoutez “no music” au prompt pour empêcher la génération de musique de fond.\n---",
+    "ja": "---\nSeedance 2.0にすべての画像を参照としてアップロードし、生成をガイドします。  \nSeedanceのプロンプトでキャラクターや環境を@でタグ付けし、より良いコントロールを実現します。  \nプロンプトを[cut]マーカーと明確なショット指示（例：「Over the shoulder shot」）で構成し、シーン編集とカメラフレーミングを制御します。  \nバックグラウンドミュージックの生成を防ぐために、プロンプトに「no music」を追加します。\n---",
+    "ko": "---\nSeedance 2.0에 모든 이미지를 참조로 업로드하여 생성 과정을 안내하세요.  \n더 나은 제어를 위해 Seedance 프롬프트에서 @를 사용하여 캐릭터와 환경을 태그하세요.  \n장면 편집과 카메라 구도를 제어하기 위해 프롬프트를 [cut] 마커와 명확한 샷 지시사항(예: “Over the shoulder shot”)으로 구성하세요.  \n배경 음악 생성을 방지하려면 프롬프트에 “no music”을 추가하세요.\n---",
+    "pt-BR": "Carregue todas as imagens como referências no Seedance 2.0 para orientar a geração.  \nMarque personagens e ambientes no seu prompt do Seedance usando @ para melhor controle.  \nEstruture seu prompt com marcadores [cut] e direções de cena explícitas (por exemplo, “Over the shoulder shot”) para controlar edições de cena e enquadramento de câmera.  \nAdicione “no music” ao prompt para evitar que música de fundo seja gerada.",
+    "zh-CN": "将所有图像上传到Seedance 2.0中作为参考，以指导生成。  \n在Seedance prompt中使用@标记角色和环境，以获得更好的控制。  \n使用[cut]标记和明确的镜头指示（例如，“Over the shoulder shot”）来构建prompt，以控制场景编辑和镜头框架。  \n在prompt中添加“no music”以防止生成背景音乐。"
+  }
+}

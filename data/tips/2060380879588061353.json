@@ -1,0 +1,37 @@
+{
+  "id": "2060380879588061353",
+  "type": "tip",
+  "url": "https://x.com/ValeriA_Tech/status/2060380879588061353",
+  "language": "es",
+  "created_at": "2026-05-29",
+  "author": {
+    "name": "𝑽𝒂𝒍𝒆𝒓𝑰𝑨",
+    "username": "ValeriA_Tech",
+    "url": "https://x.com/ValeriA_Tech",
+    "followers": 101990
+  },
+  "text": "Lo primero que probé fue la referencia multimodal.\nUsé una imagen estática de un templo antiguo…\ny un vídeo completamente distinto de un dron submarino explorando cuevas.\nDreamina Seedance 2.0 copió el movimiento exacto de cámara del vídeo de referencia…\npero dentro de un entorno totalmente nuevo.\nMismo movimiento.\nNuevo mundo.\n1 output.",
+  "content": "Usa la referencia multimodal: carga una imagen estática para definir el entorno/estilo y un vídeo de referencia distinto para que Seedance 2.0 copie exactamente el movimiento de cámara del vídeo y lo aplique dentro de un escenario nuevo.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 5,
+    "retweets": 0,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 1,
+    "views": 464
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060380879588061353.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060380817331986433/img/YOl5CnEKXbE1meP7.jpg"
+  },
+  "translations": {
+    "en": "Use the multimodal reference: upload a static image to define the environment/style and a different reference video so that Seedance 2.0 can exactly copy the camera movement from the video and apply it within a new setting.",
+    "fr": "Utilisez la référence multimodale : chargez une image statique pour définir l'environnement/le style et une vidéo de référence distincte pour que Seedance 2.0 copie exactement le mouvement de caméra de la vidéo et l'applique dans un nouveau scénario.",
+    "ja": "マルチモーダル参照を使用します。静止画像をアップロードして環境やスタイルを定義し、異なる参照動画を使用して、Seedance 2.0がその動画のカメラの動きを正確にコピーし、新しいシナリオ内で適用します。",
+    "ko": "멀티모달 참조를 사용하세요: 환경/스타일을 정의하기 위해 정지 이미지를 업로드하고, Seedance 2.0이 비디오의 카메라 움직임을 정확히 복사하여 새로운 장면에 적용할 수 있도록 다른 참조 비디오를 업로드하세요.",
+    "pt-BR": "Use a referência multimodal: carregue uma imagem estática para definir o ambiente/estilo e um vídeo de referência distinto para que o Seedance 2.0 copie exatamente o movimento de câmera do vídeo e o aplique dentro de um cenário novo.",
+    "zh-CN": "使用多模态参考：上传一张静态图像来定义环境/风格，并加载一个不同的参考视频，让Seedance 2.0精确复制视频的摄像机运动，并将其应用到一个新的场景中。"
+  }
+}

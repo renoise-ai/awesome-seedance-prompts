@@ -1,0 +1,37 @@
+{
+  "id": "2060150244004827479",
+  "type": "tip",
+  "url": "https://x.com/AIByLeo/status/2060150244004827479",
+  "language": "en",
+  "created_at": "2026-05-29",
+  "author": {
+    "name": "Leo ☄️",
+    "username": "AIByLeo",
+    "url": "https://x.com/AIByLeo",
+    "followers": 149869
+  },
+  "text": "Stop fighting prompt-only AI.\n@TopviewAIhq\n\nCanvas gives you a Figma-like board to build storyboards with an AI agent, then render with Seedance 2.0. Better planning = better AI video.🎬📷\n\n@TopviewAIhq #TopviewAI #AIVideo #AIStorytelling #ShortDrama #AIFilmmaking https://t.co/GgJudg3vE1",
+  "content": "Use a storyboard/canvas (Figma-like board) to plan shots with an AI agent before rendering in Seedance 2.0 to improve video results.",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 290,
+    "retweets": 151,
+    "replies": 8,
+    "quotes": 0,
+    "bookmarks": 79,
+    "views": 113057
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060150244004827479.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060148238028517376/img/eMjGjeEL226pGM8x.jpg"
+  },
+  "translations": {
+    "es": "Utiliza un storyboard/lienzo (tablero similar a Figma) para planificar tomas con un agente de IA antes de renderizar en Seedance 2.0 para mejorar los resultados de video.",
+    "fr": "Utilisez un storyboard/canevas (tableau de type Figma) pour planifier les prises de vue avec un agent IA avant de les rendre dans Seedance 2.0 afin d'améliorer les résultats vidéo.",
+    "ja": "Seedance 2.0でのレンダリング前に、AIエージェントと共にショットを計画するために、ストーリーボード/キャンバス（Figmaのようなボード）を使用してビデオの結果を改善します。",
+    "ko": "Seedance 2.0에서 렌더링하기 전에 AI 에이전트와 함께 스토리보드/캔버스(Figma와 유사한 보드)를 사용하여 샷을 계획하여 비디오 결과를 향상시킵니다.",
+    "pt-BR": "Use um storyboard/canvas (quadro semelhante ao Figma) para planejar as cenas com um agente de IA antes de renderizar no Seedance 2.0 para melhorar os resultados do vídeo.",
+    "zh-CN": "在使用Seedance 2.0进行渲染之前，使用分镜板/画布（类似Figma的板）与AI代理一起规划镜头，以提升视频效果。"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2060375180929581347",
+  "type": "tip",
+  "url": "https://x.com/NEXUS_TO_NOVA/status/2060375180929581347",
+  "language": "en",
+  "created_at": "2026-05-29",
+  "author": {
+    "name": "NΞXUS",
+    "username": "NEXUS_TO_NOVA",
+    "url": "https://x.com/NEXUS_TO_NOVA",
+    "followers": 26881
+  },
+  "text": "I’m officially done with \"soulless\" AI videos.\n\nToday, I spent 2 hours on Runway using Seedance, focusing on one thing: Text-driven acting direction.\n\nI stopped asking the AI for emotions and started using the \"Show, Don’t Tell\" rule in my prompts. Instead of typing \"He is nervous,\" I described the physical behavior.",
+  "content": "Use “Show, Don’t Tell” in Seedance prompts: replace emotion labels (e.g., “He is nervous”) with specific, observable physical behaviors that convey the emotion (e.g., fidgeting hands, darting eyes, shallow breathing).",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 179,
+    "retweets": 10,
+    "replies": 41,
+    "quotes": 0,
+    "bookmarks": 122,
+    "views": 12429
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060375180929581347.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060372388047462402/img/N-YZVkX9N1u-OHZq.jpg"
+  },
+  "translations": {
+    "es": "Usa “Mostrar, no contar” en los prompts de Seedance: reemplaza las etiquetas de emociones (por ejemplo, “Él está nervioso”) con comportamientos físicos específicos y observables que transmitan la emoción (por ejemplo, manos inquietas, ojos que se mueven rápidamente, respiración superficial).",
+    "fr": "Utilisez « Montrer, ne pas dire » dans les prompts Seedance : remplacez les étiquettes d'émotion (par exemple, « Il est nerveux ») par des comportements physiques spécifiques et observables qui transmettent l'émotion (par exemple, des mains agitées, des yeux fuyants, une respiration superficielle).",
+    "ja": "Seedanceのプロンプトで「Show, Don’t Tell」を使用する: 感情ラベル（例：「彼は緊張している」）を、感情を伝える具体的で観察可能な身体的行動（例：手をいじる、目を泳がせる、浅い呼吸）に置き換える。",
+    "ko": "Seedance 프롬프트에서 \"보여주고, 말하지 마라\" 기법을 사용하세요: 감정 레이블(예: \"그는 긴장하고 있다\")을 감정을 전달하는 구체적이고 관찰 가능한 신체 행동(예: 손을 만지작거림, 눈동자가 빠르게 움직임, 얕은 호흡)으로 대체하세요.",
+    "pt-BR": "Use “Show, Don’t Tell” em prompts do Seedance: substitua rótulos de emoção (por exemplo, “Ele está nervoso”) por comportamentos físicos específicos e observáveis que transmitam a emoção (por exemplo, mãos inquietas, olhos que se movem rapidamente, respiração superficial).",
+    "zh-CN": "在Seedance提示中使用“Show, Don’t Tell”：用具体、可观察的身体行为来替代情感标签（例如，“He is nervous”），以传达情感（例如，手指不安地摆弄、眼神游移、呼吸急促）。"
+  }
+}

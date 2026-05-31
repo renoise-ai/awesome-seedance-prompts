@@ -1,0 +1,37 @@
+{
+  "id": "2060677887456645543",
+  "type": "tip",
+  "url": "https://x.com/onofumi_AI/status/2060677887456645543",
+  "language": "ja",
+  "created_at": "2026-05-30",
+  "author": {
+    "name": "おのふみ| 動画生成AI×個人開発",
+    "username": "onofumi_AI",
+    "url": "https://x.com/onofumi_AI",
+    "followers": 6363
+  },
+  "text": "kling(＠Kling_ai )で作成。\n\nklingとseedanceの使い分けは求める動画の内容で決めてる。\n\nナチュラルな実写は確実にseedance。\n滑らかな高画質の動画ならkling。\n\nr2vで何回も生成してれば崩れやすさとか、めっちゃわかってくる。 https://t.co/2u4oEJWLx7",
+  "content": "ナチュラルな実写（自然な実写表現）を狙うならSeedanceを使う  \n滑らかで高画質な動画を狙うならKlingを使う  \nr2vは何回も生成して崩れやすいパターンを把握し、安定する条件を見つける",
+  "tags": [],
+  "category": null,
+  "metrics": {
+    "likes": 92,
+    "retweets": 5,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 49,
+    "views": 6041
+  },
+  "video": {
+    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060677887456645543.mp4",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060677809195171840/img/hd-cs_EmR1OCfCBs.jpg"
+  },
+  "translations": {
+    "en": "If you're aiming for natural live-action (natural live-action expression), use Seedance  \nIf you're aiming for smooth, high-quality videos, use Kling  \nWith r2v, generate multiple times to identify patterns that tend to break down and find stable conditions",
+    "es": "---\nSi buscas una representación natural en live-action, utiliza Seedance  \nSi buscas videos fluidos y de alta calidad, utiliza Kling  \nr2v identifica patrones que tienden a descomponerse con múltiples generaciones y encuentra condiciones para estabilizarlos  \n---",
+    "fr": "---\nSi vous visez une expression cinématographique naturelle, utilisez Seedance  \nSi vous visez des vidéos fluides et haute définition, utilisez Kling  \nr2v permet d'identifier les motifs qui se dégradent facilement après plusieurs générations et de trouver les conditions pour les stabiliser\n---",
+    "ko": "---\n자연스러운 실사 표현을 목표로 한다면 Seedance를 사용하세요  \n부드럽고 고화질의 영상을 목표로 한다면 Kling을 사용하세요  \nr2v는 여러 번 생성하여 쉽게 무너지는 패턴을 파악하고, 안정적인 조건을 찾습니다\n---",
+    "pt-BR": "Se você está buscando uma expressão natural em live-action, use o Seedance  \nPara vídeos suaves e de alta qualidade, use o Kling  \nO r2v identifica padrões que tendem a se desestabilizar após várias gerações e encontra condições para estabilidade",
+    "zh-CN": "如果想要自然的实拍效果，请使用Seedance  \n如果想要流畅且高画质的视频，请使用Kling  \nr2v多次生成后容易出现崩溃模式，需找出稳定的条件"
+  }
+}
