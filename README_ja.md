@@ -8562,4 +8562,4 @@ Use a structured video prompt (e.g., with Grok’s help) when prompting Seedance
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://youware.com/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-05-31T10:17:49.602Z
+🤖 この README は自動生成されています。最終更新： 2026-05-31T13:48:05.606Z
