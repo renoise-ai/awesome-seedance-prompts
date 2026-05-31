@@ -1,37 +1,34 @@
 {
   "id": "2024292824615637400",
-  "type": "prompt",
-  "url": "https://x.com/poof_eth/status/2024292824615637400",
+  "title": "let's see paul allen's dx terminal agent",
+  "content": "let's see paul allen's dx terminal agent",
   "language": "en",
-  "created_at": "2026-02-19",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024292667455070208/img/H-P_9Kx7opnjBse3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2024292824615637400.mp4",
+  "sourceLink": "https://x.com/poof_eth/status/2024292824615637400",
+  "sourcePublishedAt": "2026-02-19",
   "author": {
     "name": "poof",
-    "username": "poof_eth",
-    "url": "https://x.com/poof_eth",
-    "followers": 14639
-  },
-  "text": "seedance 2.0 prompt:\n\n\"let's see paul allen's dx terminal agent\" https://t.co/1wn5o8Gsg3",
-  "content": "let's see paul allen's dx terminal agent",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 60,
-    "retweets": 6,
-    "replies": 7,
-    "quotes": 0,
-    "bookmarks": 3,
-    "views": 2123
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2024292824615637400.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024292667455070208/img/H-P_9Kx7opnjBse3.jpg"
+    "link": "https://x.com/poof_eth"
   },
   "translations": {
-    "es": "veamos el agente de terminal dx de paul allen",
-    "fr": "voyons l'agent terminal dx de Paul Allen",
-    "ja": "ポール・アレンのDXターミナルエージェントを見てみましょう。",
-    "ko": "폴 앨런의 DX 터미널 에이전트를 보자.",
-    "pt-BR": "vamos ver o agente dx terminal de paul allen",
-    "zh-CN": "让我们看看保罗·艾伦的dx终端代理"
+    "es": {
+      "content": "veamos el agente de terminal dx de paul allen"
+    },
+    "fr": {
+      "content": "voyons l'agent terminal dx de Paul Allen"
+    },
+    "ja": {
+      "content": "ポール・アレンのDXターミナルエージェントを見てみましょう。"
+    },
+    "ko": {
+      "content": "폴 앨런의 DX 터미널 에이전트를 보자."
+    },
+    "pt": {
+      "content": "vamos ver o agente dx terminal de paul allen"
+    },
+    "zh": {
+      "content": "让我们看看保罗·艾伦的dx终端代理"
+    }
   }
 }

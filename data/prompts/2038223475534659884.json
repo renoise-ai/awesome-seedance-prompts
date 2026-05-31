@@ -1,37 +1,34 @@
 {
   "id": "2038223475534659884",
-  "type": "prompt",
-  "url": "https://x.com/LurkShade/status/2038223475534659884",
+  "title": "Image1 のようなキャラが出てくるVideo1  のような3Dシューティングゲーム",
+  "content": "Image1 のようなキャラが出てくるVideo1  のような3Dシューティングゲーム\nImage1 の画風に合わせて全体を自由に書き換えて",
   "language": "ja",
-  "created_at": "2026-03-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038222578448580608/img/s0VwoM_1z41ncuNR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038223475534659884.mp4",
+  "sourceLink": "https://x.com/LurkShade/status/2038223475534659884",
+  "sourcePublishedAt": "2026-03-29",
   "author": {
     "name": "陰に隠れし者",
-    "username": "LurkShade",
-    "url": "https://x.com/LurkShade",
-    "followers": 2452
-  },
-  "text": "いくらSeedanceでもそりゃ無理ってもんですよ\nっていう例です\n\n添付動画左側のものが元動画（自作ゲーム）\n添付動画右側のものが生成動画です\n\nprompt:\nImage1 のようなキャラが出てくるVideo1  のような3Dシューティングゲーム\nImage1 の画風に合わせて全体を自由に書き換えて https://t.co/QbFouyZnxT",
-  "content": "Image1 のようなキャラが出てくるVideo1  のような3Dシューティングゲーム\nImage1 の画風に合わせて全体を自由に書き換えて",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 72,
-    "retweets": 13,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 8,
-    "views": 4290
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038223475534659884.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038222578448580608/img/s0VwoM_1z41ncuNR.jpg"
+    "link": "https://x.com/LurkShade"
   },
   "translations": {
-    "en": "A 3D shooting game like Video1 featuring characters similar to those in Image1. Rewrite the entire game freely to match the art style of Image1.",
-    "es": "---\nUn juego de disparos en 3D como Video1 que presenta personajes como los de Image1. Reescribe todo libremente para que coincida con el estilo artístico de Image1.\n---",
-    "fr": "Un jeu de tir en 3D comme Video1 avec des personnages similaires à ceux de Image1. Réécrivez librement l'ensemble pour correspondre au style artistique de Image1.",
-    "ko": "Image1 のような 캐릭터가 등장하는 Video1 のような 3D 슈팅 게임  \nImage1 の 화풍에 맞춰 전체를 자유롭게 변경하세요",
-    "pt-BR": "Um jogo de tiro em 3D como o Video1, com personagens semelhantes ao Image1. Reescreva tudo livremente para combinar com o estilo artístico do Image1.",
-    "zh-CN": "---\n像 Image1 中的角色出现在 Video1 中的3D射击游戏  \n根据 Image1 的画风自由修改整体  \n---"
+    "en": {
+      "content": "A 3D shooting game like Video1 featuring characters similar to those in Image1. Rewrite the entire game freely to match the art style of Image1."
+    },
+    "es": {
+      "content": "---\nUn juego de disparos en 3D como Video1 que presenta personajes como los de Image1. Reescribe todo libremente para que coincida con el estilo artístico de Image1.\n---"
+    },
+    "fr": {
+      "content": "Un jeu de tir en 3D comme Video1 avec des personnages similaires à ceux de Image1. Réécrivez librement l'ensemble pour correspondre au style artistique de Image1."
+    },
+    "ko": {
+      "content": "Image1 のような 캐릭터가 등장하는 Video1 のような 3D 슈팅 게임  \nImage1 の 화풍에 맞춰 전체를 자유롭게 변경하세요"
+    },
+    "pt": {
+      "content": "Um jogo de tiro em 3D como o Video1, com personagens semelhantes ao Image1. Reescreva tudo livremente para combinar com o estilo artístico do Image1."
+    },
+    "zh": {
+      "content": "---\n像 Image1 中的角色出现在 Video1 中的3D射击游戏  \n根据 Image1 的画风自由修改整体  \n---"
+    }
   }
 }

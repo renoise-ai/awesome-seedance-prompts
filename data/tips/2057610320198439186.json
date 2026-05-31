@@ -1,37 +1,35 @@
 {
   "id": "2057610320198439186",
-  "type": "tip",
-  "url": "https://x.com/CuriousRefuge/status/2057610320198439186",
+  "title": "Use naturalistic language in your Seedance prompt to elicit more emotionally…",
+  "content": "Use naturalistic language in your Seedance prompt to elicit more emotionally nuanced, cinematic acting performances.",
   "language": "en",
-  "created_at": "2026-05-21",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057597686224953344/img/AnW7dSEVG8-6bpDo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057610320198439186.mp4",
+  "sourceLink": "https://x.com/CuriousRefuge/status/2057610320198439186",
+  "sourcePublishedAt": "2026-05-21",
   "author": {
     "name": "Curious Refuge",
-    "username": "CuriousRefuge",
-    "url": "https://x.com/CuriousRefuge",
-    "followers": 21833
+    "link": "https://x.com/CuriousRefuge"
   },
-  "text": "We tested @seedance2_ai 2.0 against @Kling_ai 3.0 across a range of emotional performances using naturalistic language in the prompt to see how each model handles cinematic acting.\n\nAcross most of the tests, Seedance felt more emotionally nuanced and natural, while Kling often leaned a bit broader and more theatrical in its performances.\n\nWe broke down all the tests in our latest blog post here:\nhttps://t.co/CW7H0U7lHs",
-  "content": "Use naturalistic language in your Seedance prompt to elicit more emotionally nuanced, cinematic acting performances.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 26,
-    "retweets": 2,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 5,
-    "views": 1769
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057610320198439186.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057597686224953344/img/AnW7dSEVG8-6bpDo.jpg"
-  },
+  "tips": "Use naturalistic language in your Seedance prompt to elicit more emotionally nuanced, cinematic acting performances.",
   "translations": {
-    "es": "Utiliza un lenguaje naturalista en tu prompt de Seedance para obtener actuaciones más matizadas emocionalmente y cinematográficas.",
-    "fr": "Utilisez un langage naturaliste dans votre prompt Seedance pour susciter des performances d'acteur plus nuancées émotionnellement et cinématographiques.",
-    "ja": "Seedanceのプロンプトでは、自然な言葉を使用して、より感情的に微妙でシネマティックな演技を引き出しましょう。",
-    "ko": "Seedance 프롬프트에서 자연스러운 언어를 사용하여 감정적으로 미묘하고 영화적인 연기 퍼포먼스를 이끌어내세요.",
-    "pt-BR": "Use linguagem naturalista no seu prompt Seedance para obter performances de atuação mais emocionalmente nuançadas e cinematográficas.",
-    "zh-CN": "在您的Seedance prompt中使用自然语言，以引发更具情感层次的电影化表演。"
+    "es": {
+      "content": "Utiliza un lenguaje naturalista en tu prompt de Seedance para obtener actuaciones más matizadas emocionalmente y cinematográficas."
+    },
+    "fr": {
+      "content": "Utilisez un langage naturaliste dans votre prompt Seedance pour susciter des performances d'acteur plus nuancées émotionnellement et cinématographiques."
+    },
+    "ja": {
+      "content": "Seedanceのプロンプトでは、自然な言葉を使用して、より感情的に微妙でシネマティックな演技を引き出しましょう。"
+    },
+    "ko": {
+      "content": "Seedance 프롬프트에서 자연스러운 언어를 사용하여 감정적으로 미묘하고 영화적인 연기 퍼포먼스를 이끌어내세요."
+    },
+    "pt": {
+      "content": "Use linguagem naturalista no seu prompt Seedance para obter performances de atuação mais emocionalmente nuançadas e cinematográficas."
+    },
+    "zh": {
+      "content": "在您的Seedance prompt中使用自然语言，以引发更具情感层次的电影化表演。"
+    }
   }
 }

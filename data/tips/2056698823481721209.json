@@ -1,37 +1,35 @@
 {
   "id": "2056698823481721209",
-  "type": "tip",
-  "url": "https://x.com/Rukon__Kholifa/status/2056698823481721209",
+  "title": "Upload your product image into Renoise Canvas and use Image-to-Image to…",
+  "content": "Upload your product image into Renoise Canvas and use Image-to-Image to generate multiple cinematic variants (e.g., dark void with RGB glow, cyberpunk neon city, fire & smoke, frozen ice crystal, deep galaxy space).  \nConnect the generated image nodes together into a single Video node to sequence them into one video.  \nWrite one single prompt in Canvas and let Seedance 2.0 generate a full ~15-second cinematic video automatically from the connected nodes (no timeline/editing software needed).",
   "language": "en",
-  "created_at": "2026-05-19",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056698563527393280/img/PUXgpYspCbVni6QO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056698823481721209.mp4",
+  "sourceLink": "https://x.com/Rukon__Kholifa/status/2056698823481721209",
+  "sourcePublishedAt": "2026-05-19",
   "author": {
     "name": "Rukon",
-    "username": "Rukon__Kholifa",
-    "url": "https://x.com/Rukon__Kholifa",
-    "followers": 2704
+    "link": "https://x.com/Rukon__Kholifa"
   },
-  "text": "Just built a cinematic product ad using \n@renoiseai Canvas  here's the full tutorial 👇🔥\n\nStep 1: Uploaded my product image into Canvas\nStep 2: Used Image-to-Image to generate 5 \ncinematic versions \n   🖤 Dark void with RGB glow\n   🌆 Cyberpunk neon city  \n   🔥 Fire & smoke dramatic\n   🧊 Frozen ice crystal\n   🌌 Deep galaxy space\nStep 3: Connected all image nodes together \ninto one Video node\nStep 4: Wrote one single prompt  Canvas + \nSeedance 2.0 generated the full 15 sec \ncinematic video automatically\n\nNo editing software. No timeline. \nJust drag, connect, prompt, generate. \n\nThis is the future of content creation 🚀\n\n@renoiseai  #RenoiseCanvas",
-  "content": "Upload your product image into Renoise Canvas and use Image-to-Image to generate multiple cinematic variants (e.g., dark void with RGB glow, cyberpunk neon city, fire & smoke, frozen ice crystal, deep galaxy space).  \nConnect the generated image nodes together into a single Video node to sequence them into one video.  \nWrite one single prompt in Canvas and let Seedance 2.0 generate a full ~15-second cinematic video automatically from the connected nodes (no timeline/editing software needed).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 219,
-    "retweets": 1,
-    "replies": 60,
-    "quotes": 1,
-    "bookmarks": 0,
-    "views": 6983
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056698823481721209.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056698563527393280/img/PUXgpYspCbVni6QO.jpg"
-  },
+  "tips": "Upload your product image into Renoise Canvas and use Image-to-Image to generate multiple cinematic variants (e.g., dark void with RGB glow, cyberpunk neon city, fire & smoke, frozen ice crystal, deep galaxy space).  \nConnect the generated image nodes together into a single Video node to sequence them into one video.  \nWrite one single prompt in Canvas and let Seedance 2.0 generate a full ~15-second cinematic video automatically from the connected nodes (no timeline/editing software needed).",
   "translations": {
-    "es": "Sube la imagen de tu producto a Renoise Canvas y utiliza Image-to-Image para generar múltiples variantes cinematográficas (por ejemplo, vacío oscuro con brillo RGB, ciudad de neón cyberpunk, fuego y humo, cristal de hielo congelado, espacio profundo de galaxia).  \nConecta los nodos de imagen generados en un solo nodo de Video para secuenciarlos en un solo video.  \nEscribe un único prompt en Canvas y deja que Seedance 2.0 genere automáticamente un video cinematográfico completo de ~15 segundos a partir de los nodos conectados (no se necesita software de edición/cronograma).",
-    "fr": "---\nTéléchargez l'image de votre produit dans Renoise Canvas et utilisez Image-to-Image pour générer plusieurs variantes cinématiques (par exemple, vide sombre avec lueur RGB, ville néon cyberpunk, feu & fumée, cristal de glace gelé, espace profond de la galaxie).  \nConnectez les nœuds d'image générés ensemble dans un seul nœud Vidéo pour les séquencer en une seule vidéo.  \nÉcrivez un seul prompt dans Canvas et laissez Seedance 2.0 générer automatiquement une vidéo cinématique complète d'environ 15 secondes à partir des nœuds connectés (pas besoin de logiciel de montage/édition).",
-    "ja": "---\n製品画像をRenoise Canvasにアップロードし、Image-to-Imageを使用して複数のシネマティックなバリエーションを生成します（例：RGBグローのある暗い虚空、サイバーパンクのネオンシティ、火と煙、凍った氷の結晶、深い銀河空間）。  \n生成された画像ノードを1つのビデオノードに接続し、それらを1つのビデオにシーケンス化します。  \nCanvasに1つのプロンプトを書き、Seedance 2.0に接続されたノードから自動的に約15秒のシネマティックなビデオを生成させます（タイムライン/編集ソフトウェアは不要です）。  \n---",
-    "ko": "---\nRenoise Canvas에 제품 이미지를 업로드하고 Image-to-Image를 사용하여 여러 가지 시네마틱 변형을 생성하세요 (예: RGB 글로우가 있는 어두운 공간, 사이버펑크 네온 도시, 불과 연기, 얼어붙은 얼음 결정, 깊은 은하계 공간).  \n생성된 이미지 노드를 하나의 비디오 노드로 연결하여 하나의 비디오로 시퀀스하세요.  \nCanvas에 하나의 프롬프트를 작성하고, Seedance 2.0이 연결된 노드에서 자동으로 약 15초 길이의 시네마틱 비디오를 생성하도록 하세요 (타임라인/편집 소프트웨어 불필요).\n---",
-    "pt-BR": "Carregue a imagem do seu produto no Renoise Canvas e use Image-to-Image para gerar múltiplas variantes cinematográficas (por exemplo, vazio escuro com brilho RGB, cidade neon cyberpunk, fogo e fumaça, cristal de gelo congelado, espaço profundo da galáxia).  \nConecte os nós de imagem gerados em um único nó de Vídeo para sequenciá-los em um único vídeo.  \nEscreva um único prompt no Canvas e deixe o Seedance 2.0 gerar automaticamente um vídeo cinematográfico completo de ~15 segundos a partir dos nós conectados (sem necessidade de software de edição/linha do tempo).",
-    "zh-CN": "将您的产品图片上传到Renoise Canvas中，并使用Image-to-Image生成多个电影级别的变体（例如，带有RGB光晕的黑暗虚空、赛博朋克霓虹城市、火与烟、冰冻冰晶、深邃银河空间）。  \n将生成的图像节点连接到一个单一的视频节点中，将它们串联成一个视频。  \n在Canvas中写一个单一的prompt，让Seedance 2.0从连接的节点自动生成一个完整的约15秒的电影视频（无需时间轴/编辑软件）。"
+    "es": {
+      "content": "Sube la imagen de tu producto a Renoise Canvas y utiliza Image-to-Image para generar múltiples variantes cinematográficas (por ejemplo, vacío oscuro con brillo RGB, ciudad de neón cyberpunk, fuego y humo, cristal de hielo congelado, espacio profundo de galaxia).  \nConecta los nodos de imagen generados en un solo nodo de Video para secuenciarlos en un solo video.  \nEscribe un único prompt en Canvas y deja que Seedance 2.0 genere automáticamente un video cinematográfico completo de ~15 segundos a partir de los nodos conectados (no se necesita software de edición/cronograma)."
+    },
+    "fr": {
+      "content": "---\nTéléchargez l'image de votre produit dans Renoise Canvas et utilisez Image-to-Image pour générer plusieurs variantes cinématiques (par exemple, vide sombre avec lueur RGB, ville néon cyberpunk, feu & fumée, cristal de glace gelé, espace profond de la galaxie).  \nConnectez les nœuds d'image générés ensemble dans un seul nœud Vidéo pour les séquencer en une seule vidéo.  \nÉcrivez un seul prompt dans Canvas et laissez Seedance 2.0 générer automatiquement une vidéo cinématique complète d'environ 15 secondes à partir des nœuds connectés (pas besoin de logiciel de montage/édition)."
+    },
+    "ja": {
+      "content": "---\n製品画像をRenoise Canvasにアップロードし、Image-to-Imageを使用して複数のシネマティックなバリエーションを生成します（例：RGBグローのある暗い虚空、サイバーパンクのネオンシティ、火と煙、凍った氷の結晶、深い銀河空間）。  \n生成された画像ノードを1つのビデオノードに接続し、それらを1つのビデオにシーケンス化します。  \nCanvasに1つのプロンプトを書き、Seedance 2.0に接続されたノードから自動的に約15秒のシネマティックなビデオを生成させます（タイムライン/編集ソフトウェアは不要です）。  \n---"
+    },
+    "ko": {
+      "content": "---\nRenoise Canvas에 제품 이미지를 업로드하고 Image-to-Image를 사용하여 여러 가지 시네마틱 변형을 생성하세요 (예: RGB 글로우가 있는 어두운 공간, 사이버펑크 네온 도시, 불과 연기, 얼어붙은 얼음 결정, 깊은 은하계 공간).  \n생성된 이미지 노드를 하나의 비디오 노드로 연결하여 하나의 비디오로 시퀀스하세요.  \nCanvas에 하나의 프롬프트를 작성하고, Seedance 2.0이 연결된 노드에서 자동으로 약 15초 길이의 시네마틱 비디오를 생성하도록 하세요 (타임라인/편집 소프트웨어 불필요).\n---"
+    },
+    "pt": {
+      "content": "Carregue a imagem do seu produto no Renoise Canvas e use Image-to-Image para gerar múltiplas variantes cinematográficas (por exemplo, vazio escuro com brilho RGB, cidade neon cyberpunk, fogo e fumaça, cristal de gelo congelado, espaço profundo da galáxia).  \nConecte os nós de imagem gerados em um único nó de Vídeo para sequenciá-los em um único vídeo.  \nEscreva um único prompt no Canvas e deixe o Seedance 2.0 gerar automaticamente um vídeo cinematográfico completo de ~15 segundos a partir dos nós conectados (sem necessidade de software de edição/linha do tempo)."
+    },
+    "zh": {
+      "content": "将您的产品图片上传到Renoise Canvas中，并使用Image-to-Image生成多个电影级别的变体（例如，带有RGB光晕的黑暗虚空、赛博朋克霓虹城市、火与烟、冰冻冰晶、深邃银河空间）。  \n将生成的图像节点连接到一个单一的视频节点中，将它们串联成一个视频。  \n在Canvas中写一个单一的prompt，让Seedance 2.0从连接的节点自动生成一个完整的约15秒的电影视频（无需时间轴/编辑软件）。"
+    }
   }
 }

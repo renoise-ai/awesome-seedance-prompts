@@ -1,37 +1,34 @@
 {
   "id": "2026072001329446914",
-  "type": "prompt",
-  "url": "https://x.com/JohnnyDigital47/status/2026072001329446914",
+  "title": "Kung fu battle between Sensei and student, in front of abandoned dojo.",
+  "content": "Kung fu battle between Sensei and student, in front of abandoned dojo.",
   "language": "en",
-  "created_at": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026071556594827264/img/OsYMrv8DycREcT3i.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2026071556594827264/vid/avc1/1280x720/qTBc9WOowlJbXLdQ.mp4",
+  "sourceLink": "https://x.com/JohnnyDigital47/status/2026072001329446914",
+  "sourcePublishedAt": "2026-02-23",
   "author": {
     "name": "Johnny Digital",
-    "username": "JohnnyDigital47",
-    "url": "https://x.com/JohnnyDigital47",
-    "followers": 289
-  },
-  "text": "I can confirm....#Seedance 2.0 is a mfing BEAST!\nFirst 2 test images: High &amp; Low Res\nOne prompt: Kung fu battle between Sensei and student, in front of abandoned dojo. \n\nNothing more....nothing less. These are the results I got. 🤯\n👉Follow, like, comment \"Seedance\" for access https://t.co/v1VyEk9ELA",
-  "content": "Kung fu battle between Sensei and student, in front of abandoned dojo.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 43,
-    "retweets": 0,
-    "replies": 14,
-    "quotes": 0,
-    "bookmarks": 4,
-    "views": 693
-  },
-  "video": {
-    "url": "https://video.twimg.com/amplify_video/2026071556594827264/vid/avc1/1280x720/qTBc9WOowlJbXLdQ.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026071556594827264/img/OsYMrv8DycREcT3i.jpg"
+    "link": "https://x.com/JohnnyDigital47"
   },
   "translations": {
-    "es": "Batalla de kung fu entre el Sensei y el estudiante, frente a un dojo abandonado.",
-    "fr": "Combat de kung-fu entre le Sensei et l'élève, devant un dojo abandonné.",
-    "ja": "廃墟となった道場の前での師匠と弟子のカンフー対決。",
-    "ko": "버려진 도장 앞에서 사부와 제자의 쿵푸 대결.",
-    "pt-BR": "Batalha de kung fu entre Sensei e aluno, em frente a um dojo abandonado.",
-    "zh-CN": "在废弃的道场前，师傅与学生之间的功夫对决。"
+    "es": {
+      "content": "Batalla de kung fu entre el Sensei y el estudiante, frente a un dojo abandonado."
+    },
+    "fr": {
+      "content": "Combat de kung-fu entre le Sensei et l'élève, devant un dojo abandonné."
+    },
+    "ja": {
+      "content": "廃墟となった道場の前での師匠と弟子のカンフー対決。"
+    },
+    "ko": {
+      "content": "버려진 도장 앞에서 사부와 제자의 쿵푸 대결."
+    },
+    "pt": {
+      "content": "Batalha de kung fu entre Sensei e aluno, em frente a um dojo abandonado."
+    },
+    "zh": {
+      "content": "在废弃的道场前，师傅与学生之间的功夫对决。"
+    }
   }
 }

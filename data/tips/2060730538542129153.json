@@ -1,40 +1,35 @@
 {
   "id": "2060730538542129153",
-  "type": "tip",
-  "url": "https://x.com/0xToshio_O/status/2060730538542129153",
+  "title": "Use GPT-Image-2 to generate the fashion look/reference image first, then feed…",
+  "content": "Use GPT-Image-2 to generate the fashion look/reference image first, then feed it into Seedance 2 to generate the final video (GPT-Image-2 → Seedance 2 workflow).\nGenerate the Seedance video “straight out” with no editing or music by relying on Seedance’s direct output (直出) instead of post-production.",
   "language": "zh",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060730302499307520/img/GbeKxdh0nK8_xpDg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060730538542129153.mp4",
+  "sourceLink": "https://x.com/0xToshio_O/status/2060730538542129153",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "0xToshi",
-    "username": "0xToshio_O",
-    "url": "https://x.com/0xToshio_O",
-    "followers": 1501
+    "link": "https://x.com/0xToshio_O"
   },
-  "text": "根据 @Chengzi 老师的作品进行复刻的\n剩下的就是学习和创新\n本来也尝试想用 Omni 做的，但是一直受限制！🤡\n全程无剪辑无配乐，Seedance 直出。\nGPT-Image-2 → Seedance 2 https://t.co/1RxWwD2NMl",
-  "content": "Use GPT-Image-2 to generate the fashion look/reference image first, then feed it into Seedance 2 to generate the final video (GPT-Image-2 → Seedance 2 workflow).\nGenerate the Seedance video “straight out” with no editing or music by relying on Seedance’s direct output (直出) instead of post-production.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 13,
-    "retweets": 0,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 9,
-    "views": 1890
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060730538542129153.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060730302499307520/img/GbeKxdh0nK8_xpDg.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "AI is getting scary good at fashion videos.\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nFor fashion brands, this is not just content.\nThis is a new workflow."
-  },
+  "tips": "Use GPT-Image-2 to generate the fashion look/reference image first, then feed it into Seedance 2 to generate the final video (GPT-Image-2 → Seedance 2 workflow).\nGenerate the Seedance video “straight out” with no editing or music by relying on Seedance’s direct output (直出) instead of post-production.",
   "translations": {
-    "en": "Use GPT-Image-2 to generate the fashion look/reference image first, then feed it into Seedance 2 to generate the final video (GPT-Image-2 → Seedance 2 workflow). Generate the Seedance video “straight out” with no editing or music by relying on Seedance’s direct output (直出) instead of post-production.\n\n--- QUOTED TWEET ---\nAI is getting scary good at fashion videos.\n\nThis set of spicy girl style outfit videos, from styling, movements to camera atmosphere, is increasingly approaching the texture of real short videos. Previously, creating women's fashion content required models, locations, photography, and editing. Now AI can first run the visual direction and directly test which set is more eye-catching.\n\nFor fashion brands, this is not just content. This is a new workflow.",
-    "es": "Usa GPT-Image-2 para generar primero la imagen de referencia/look de moda, luego introdúcelo en Seedance 2 para generar el video final (flujo de trabajo GPT-Image-2 → Seedance 2). Genera el video de Seedance \"directamente\" sin edición ni música, confiando en la salida directa de Seedance (直出) en lugar de la postproducción.\n\n--- TWEET CITADO ---\nLa IA está volviéndose increíblemente buena en videos de moda.\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nPara las marcas de moda, esto no es solo contenido.\nEste es un nuevo flujo de trabajo.",
-    "fr": "Utilisez GPT-Image-2 pour générer d'abord l'image de référence/look de mode, puis intégrez-la dans Seedance 2 pour produire la vidéo finale (workflow GPT-Image-2 → Seedance 2). Générez la vidéo Seedance « directement » sans montage ni musique en vous appuyant sur la sortie directe de Seedance (直出) au lieu de la post-production.\n\n--- TWEET CITÉ ---\nL'IA devient incroyablement performante dans les vidéos de mode.\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nPour les marques de mode, ce n'est pas juste du contenu.\nC'est un nouveau flux de travail.",
-    "ja": "まず、GPT-Image-2を使用してファッションルック/リファレンス画像を生成し、それをSeedance 2に入力して最終ビデオを生成します（GPT-Image-2 → Seedance 2のワークフロー）。Seedanceの直接出力（直出）に頼り、編集や音楽なしでSeedanceビデオを「そのまま」生成します。\n\n--- 引用ツイート ---\nAIはファッションビデオで驚くほどの進化を遂げています。\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nファッションブランドにとって、これは単なるコンテンツではありません。\nこれは新しいワークフローです。",
-    "ko": "GPT-Image-2를 사용하여 먼저 패션 룩/참조 이미지를 생성한 후, Seedance 2에 입력하여 최종 비디오를 생성하세요 (GPT-Image-2 → Seedance 2 워크플로우). Seedance의 직접 출력(直出)을 활용하여 편집이나 음악 없이 Seedance 비디오를 \"그대로\" 생성하세요.\n\n--- 인용된 트윗 ---\nAI가 패션 비디오에서 무섭게 잘하고 있습니다.\n\n이 그룹의 핫걸 스타일 착장 비디오는,\n스타일링, 동작부터 카메라 분위기까지, 점점 더 실제 짧은 비디오의 질감에 가까워지고 있습니다.\n예전에는 여성복 콘텐츠를 만들려면 모델, 장소, 촬영, 편집이 필요했죠.\n이제 AI가 시각적 방향을 먼저 실행하여, 어떤 스타일이 더 눈길을 끄는지 직접 테스트할 수 있습니다.\n\n패션 브랜드에게 이것은 단순한 콘텐츠가 아닙니다.\n이것은 새로운 워크플로우입니다.",
-    "pt-BR": "Use o GPT-Image-2 para gerar primeiro a imagem de referência/look de moda, depois insira no Seedance 2 para gerar o vídeo final (fluxo de trabalho GPT-Image-2 → Seedance 2).  \nGere o vídeo Seedance \"diretamente\" sem edição ou música, confiando na saída direta do Seedance (直出) em vez de pós-produção.\n\n--- TWEET CITADO ---\nA IA está ficando assustadoramente boa em vídeos de moda.\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nPara marcas de moda, isso não é apenas conteúdo.  \nEste é um novo fluxo de trabalho."
+    "en": {
+      "content": "Use GPT-Image-2 to generate the fashion look/reference image first, then feed it into Seedance 2 to generate the final video (GPT-Image-2 → Seedance 2 workflow). Generate the Seedance video “straight out” with no editing or music by relying on Seedance’s direct output (直出) instead of post-production.\n\n--- QUOTED TWEET ---\nAI is getting scary good at fashion videos.\n\nThis set of spicy girl style outfit videos, from styling, movements to camera atmosphere, is increasingly approaching the texture of real short videos. Previously, creating women's fashion content required models, locations, photography, and editing. Now AI can first run the visual direction and directly test which set is more eye-catching.\n\nFor fashion brands, this is not just content. This is a new workflow."
+    },
+    "es": {
+      "content": "Usa GPT-Image-2 para generar primero la imagen de referencia/look de moda, luego introdúcelo en Seedance 2 para generar el video final (flujo de trabajo GPT-Image-2 → Seedance 2). Genera el video de Seedance \"directamente\" sin edición ni música, confiando en la salida directa de Seedance (直出) en lugar de la postproducción.\n\n--- TWEET CITADO ---\nLa IA está volviéndose increíblemente buena en videos de moda.\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nPara las marcas de moda, esto no es solo contenido.\nEste es un nuevo flujo de trabajo."
+    },
+    "fr": {
+      "content": "Utilisez GPT-Image-2 pour générer d'abord l'image de référence/look de mode, puis intégrez-la dans Seedance 2 pour produire la vidéo finale (workflow GPT-Image-2 → Seedance 2). Générez la vidéo Seedance « directement » sans montage ni musique en vous appuyant sur la sortie directe de Seedance (直出) au lieu de la post-production.\n\n--- TWEET CITÉ ---\nL'IA devient incroyablement performante dans les vidéos de mode.\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nPour les marques de mode, ce n'est pas juste du contenu.\nC'est un nouveau flux de travail."
+    },
+    "ja": {
+      "content": "まず、GPT-Image-2を使用してファッションルック/リファレンス画像を生成し、それをSeedance 2に入力して最終ビデオを生成します（GPT-Image-2 → Seedance 2のワークフロー）。Seedanceの直接出力（直出）に頼り、編集や音楽なしでSeedanceビデオを「そのまま」生成します。\n\n--- 引用ツイート ---\nAIはファッションビデオで驚くほどの進化を遂げています。\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nファッションブランドにとって、これは単なるコンテンツではありません。\nこれは新しいワークフローです。"
+    },
+    "ko": {
+      "content": "GPT-Image-2를 사용하여 먼저 패션 룩/참조 이미지를 생성한 후, Seedance 2에 입력하여 최종 비디오를 생성하세요 (GPT-Image-2 → Seedance 2 워크플로우). Seedance의 직접 출력(直出)을 활용하여 편집이나 음악 없이 Seedance 비디오를 \"그대로\" 생성하세요.\n\n--- 인용된 트윗 ---\nAI가 패션 비디오에서 무섭게 잘하고 있습니다.\n\n이 그룹의 핫걸 스타일 착장 비디오는,\n스타일링, 동작부터 카메라 분위기까지, 점점 더 실제 짧은 비디오의 질감에 가까워지고 있습니다.\n예전에는 여성복 콘텐츠를 만들려면 모델, 장소, 촬영, 편집이 필요했죠.\n이제 AI가 시각적 방향을 먼저 실행하여, 어떤 스타일이 더 눈길을 끄는지 직접 테스트할 수 있습니다.\n\n패션 브랜드에게 이것은 단순한 콘텐츠가 아닙니다.\n이것은 새로운 워크플로우입니다."
+    },
+    "pt": {
+      "content": "Use o GPT-Image-2 para gerar primeiro a imagem de referência/look de moda, depois insira no Seedance 2 para gerar o vídeo final (fluxo de trabalho GPT-Image-2 → Seedance 2).  \nGere o vídeo Seedance \"diretamente\" sem edição ou música, confiando na saída direta do Seedance (直出) em vez de pós-produção.\n\n--- TWEET CITADO ---\nA IA está ficando assustadoramente boa em vídeos de moda.\n\n这组辣妹风穿搭视频，\n从造型、动作到镜头氛围，已经越来越接近真实短视频质感了。\n以前做女装内容要模特、场地、摄影、剪辑。\n现在 AI 可以先把视觉方向跑出来，直接测试哪套更吸睛。\n\nPara marcas de moda, isso não é apenas conteúdo.  \nEste é um novo fluxo de trabalho."
+    }
   }
 }

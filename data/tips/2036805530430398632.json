@@ -1,34 +1,34 @@
 {
   "id": "2036805530430398632",
-  "type": "tip",
-  "url": "https://x.com/Framer_X/status/2036805530430398632",
+  "title": "Take a still shot of the last intro frame and use it as the input image in…",
+  "content": "Take a still shot of the last intro frame and use it as the input image in Seedance 2.0, then generate the continuation using the provided prompt.",
   "language": "en",
-  "created_at": "2026-03-25",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Framer_X/status/2036805530430398632",
+  "sourcePublishedAt": "2026-03-25",
   "author": {
     "name": "Framer 🇱🇹",
-    "username": "Framer_X",
-    "url": "https://x.com/Framer_X",
-    "followers": 47282
+    "link": "https://x.com/Framer_X"
   },
-  "text": "The rest of the video was created by community member @koldo2k, who made this amazing ending and shared his workflow with us - thanks!\n\nStep 2:\n\nTake a still shot of the last intro frame and use the following prompt in Seedance 2.0: https://t.co/16K9lbqjuX",
-  "content": "Take a still shot of the last intro frame and use it as the input image in Seedance 2.0, then generate the continuation using the provided prompt.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 7,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 12,
-    "views": 2012
-  },
-  "video": null,
+  "tips": "Take a still shot of the last intro frame and use it as the input image in Seedance 2.0, then generate the continuation using the provided prompt.",
   "translations": {
-    "es": "Toma una captura fija del último fotograma de introducción y úsala como imagen de entrada en Seedance 2.0, luego genera la continuación usando el prompt proporcionado.",
-    "fr": "Prenez une image fixe de la dernière image d'introduction et utilisez-la comme image d'entrée dans Seedance 2.0, puis générez la suite en utilisant le prompt fourni.",
-    "ja": "最後のイントロフレームの静止画を撮影し、それをSeedance 2.0の入力画像として使用し、提供されたプロンプトを使用して続きの生成を行ってください。",
-    "ko": "마지막 인트로 프레임의 정지 화면을 찍어 Seedance 2.0의 입력 이미지로 사용한 후, 제공된 prompt를 사용하여 계속 생성하세요.",
-    "pt-BR": "Tire uma foto estática do último quadro de introdução e use-a como imagem de entrada no Seedance 2.0, depois gere a continuação usando o prompt fornecido.",
-    "zh-CN": "拍摄最后一个介绍帧的静态图像，并将其用作Seedance 2.0中的输入图像，然后使用提供的prompt生成后续内容。"
+    "es": {
+      "content": "Toma una captura fija del último fotograma de introducción y úsala como imagen de entrada en Seedance 2.0, luego genera la continuación usando el prompt proporcionado."
+    },
+    "fr": {
+      "content": "Prenez une image fixe de la dernière image d'introduction et utilisez-la comme image d'entrée dans Seedance 2.0, puis générez la suite en utilisant le prompt fourni."
+    },
+    "ja": {
+      "content": "最後のイントロフレームの静止画を撮影し、それをSeedance 2.0の入力画像として使用し、提供されたプロンプトを使用して続きの生成を行ってください。"
+    },
+    "ko": {
+      "content": "마지막 인트로 프레임의 정지 화면을 찍어 Seedance 2.0의 입력 이미지로 사용한 후, 제공된 prompt를 사용하여 계속 생성하세요."
+    },
+    "pt": {
+      "content": "Tire uma foto estática do último quadro de introdução e use-a como imagem de entrada no Seedance 2.0, depois gere a continuação usando o prompt fornecido."
+    },
+    "zh": {
+      "content": "拍摄最后一个介绍帧的静态图像，并将其用作Seedance 2.0中的输入图像，然后使用提供的prompt生成后续内容。"
+    }
   }
 }

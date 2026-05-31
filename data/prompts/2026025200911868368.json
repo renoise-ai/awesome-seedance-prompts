@@ -1,37 +1,34 @@
 {
   "id": "2026025200911868368",
-  "type": "prompt",
-  "url": "https://x.com/HacktheMovies/status/2026025200911868368",
+  "title": "Scorpion and Subziro punch a lot.",
+  "content": "Scorpion and Subziro punch a lot.",
   "language": "en",
-  "created_at": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026023708008030209/img/fL1ZkscZvwmXCDFL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026025200911868368.mp4",
+  "sourceLink": "https://x.com/HacktheMovies/status/2026025200911868368",
+  "sourcePublishedAt": "2026-02-23",
   "author": {
     "name": "Hack The Movies",
-    "username": "HacktheMovies",
-    "url": "https://x.com/HacktheMovies",
-    "followers": 11898
-  },
-  "text": "Hollywood is so cooked! A single Mortal Kombat-style scene costs $200 Billion in Hollywood. But it is created in 2 minutes with one prompt.  \n\nSeedance 2.0 Made this possible 🔥\nHollywood isn’t the future of filmmaking. Creators are.\n\nPromt: Scorpion and Subziro punch a lot. https://t.co/DG7GBhrGEW",
-  "content": "Scorpion and Subziro punch a lot.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 139,
-    "retweets": 13,
-    "replies": 21,
-    "quotes": 5,
-    "bookmarks": 15,
-    "views": 9765
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026025200911868368.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026023708008030209/img/fL1ZkscZvwmXCDFL.jpg"
+    "link": "https://x.com/HacktheMovies"
   },
   "translations": {
-    "es": "Scorpion y Subziro golpean mucho.",
-    "fr": "Scorpion et Subziro se battent beaucoup.",
-    "ja": "スコーピオンとサブゼロはたくさんパンチをする。",
-    "ko": "스콜피온과 서브제로는 많이 싸운다.",
-    "pt-BR": "Scorpion e Subziro lutam muito.",
-    "zh-CN": "蝎子和绝对零度打了很多拳。"
+    "es": {
+      "content": "Scorpion y Subziro golpean mucho."
+    },
+    "fr": {
+      "content": "Scorpion et Subziro se battent beaucoup."
+    },
+    "ja": {
+      "content": "スコーピオンとサブゼロはたくさんパンチをする。"
+    },
+    "ko": {
+      "content": "스콜피온과 서브제로는 많이 싸운다."
+    },
+    "pt": {
+      "content": "Scorpion e Subziro lutam muito."
+    },
+    "zh": {
+      "content": "蝎子和绝对零度打了很多拳。"
+    }
   }
 }

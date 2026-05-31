@@ -1,37 +1,35 @@
 {
   "id": "2060593794764923191",
-  "type": "tip",
-  "url": "https://x.com/johnAGI168/status/2060593794764923191",
+  "title": "使用故事板分镜（storyboard）生成会相对更稳定",
+  "content": "使用故事板分镜（storyboard）生成会相对更稳定  \n提示词尽量写得越简单越好，避免过于复杂的提示词",
   "language": "zh",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060593084971233281/img/Wgt49CkhGius5UdL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060593794764923191.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2060593794764923191",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "John",
-    "username": "johnAGI168",
-    "url": "https://x.com/johnAGI168",
-    "followers": 8552
+    "link": "https://x.com/johnAGI168"
   },
-  "text": "积分在燃烧🔥\n\nSeedance 2.0 最近不是那么稳了，抽卡次数越来越高了，四人女团莫名出现五个人出来😂\n\n目前确实还是使用故事板分镜会相对稳一点，提示词越简单越好，现在太复杂提示词也是把握不好了😯 https://t.co/1Dgom77MVJ",
-  "content": "使用故事板分镜（storyboard）生成会相对更稳定  \n提示词尽量写得越简单越好，避免过于复杂的提示词",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 8,
-    "retweets": 0,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 4,
-    "views": 773
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060593794764923191.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060593084971233281/img/Wgt49CkhGius5UdL.jpg"
-  },
+  "tips": "使用故事板分镜（storyboard）生成会相对更稳定  \n提示词尽量写得越简单越好，避免过于复杂的提示词",
   "translations": {
-    "en": "Using storyboards for generation tends to be more stable  \nKeep prompts as simple as possible, avoiding overly complex prompts",
-    "es": "El uso de storyboards para generar contenido tiende a ser más estable.  \nEs mejor que los prompts sean lo más simples posible, evitando prompts demasiado complejos.",
-    "fr": "L'utilisation de storyboards pour la génération est relativement plus stable.  \nIl est préférable de rédiger les prompts aussi simplement que possible, en évitant des prompts trop complexes.",
-    "ja": "---\n使用ストーリーボード（storyboard）生成は比較的に安定しています  \nプロンプトはできるだけシンプルに書き、複雑すぎるプロンプトは避けましょう\n---",
-    "ko": "스토리보드 분할을 사용하면 상대적으로 더 안정적으로 생성됩니다.  \n프롬프트는 가능한 한 간단하게 작성하고, 지나치게 복잡한 프롬프트는 피하세요.",
-    "pt-BR": "Usar storyboards para geração tende a ser relativamente mais estável  \nMantenha os prompts o mais simples possível, evitando prompts excessivamente complexos"
+    "en": {
+      "content": "Using storyboards for generation tends to be more stable  \nKeep prompts as simple as possible, avoiding overly complex prompts"
+    },
+    "es": {
+      "content": "El uso de storyboards para generar contenido tiende a ser más estable.  \nEs mejor que los prompts sean lo más simples posible, evitando prompts demasiado complejos."
+    },
+    "fr": {
+      "content": "L'utilisation de storyboards pour la génération est relativement plus stable.  \nIl est préférable de rédiger les prompts aussi simplement que possible, en évitant des prompts trop complexes."
+    },
+    "ja": {
+      "content": "---\n使用ストーリーボード（storyboard）生成は比較的に安定しています  \nプロンプトはできるだけシンプルに書き、複雑すぎるプロンプトは避けましょう\n---"
+    },
+    "ko": {
+      "content": "스토리보드 분할을 사용하면 상대적으로 더 안정적으로 생성됩니다.  \n프롬프트는 가능한 한 간단하게 작성하고, 지나치게 복잡한 프롬프트는 피하세요."
+    },
+    "pt": {
+      "content": "Usar storyboards para geração tende a ser relativamente mais estável  \nMantenha os prompts o mais simples possível, evitando prompts excessivamente complexos"
+    }
   }
 }

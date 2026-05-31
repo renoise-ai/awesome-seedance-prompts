@@ -1,37 +1,35 @@
 {
   "id": "2025768983933411328",
-  "type": "tip",
-  "url": "https://x.com/nemovideoai/status/2025768983933411328",
+  "title": "Prompt Seedance 2.0 with your full story, then use @nemovideoai to…",
+  "content": "Prompt Seedance 2.0 with your full story, then use @nemovideoai to automatically select highlights and add sound effects and captions for auto-editing.",
   "language": "en",
-  "created_at": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025768872000008192/img/LZq_8i3OoKssWeVg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025768983933411328.mp4",
+  "sourceLink": "https://x.com/nemovideoai/status/2025768983933411328",
+  "sourcePublishedAt": "2026-02-23",
   "author": {
     "name": "NemoVideo",
-    "username": "nemovideoai",
-    "url": "https://x.com/nemovideoai",
-    "followers": 1378
+    "link": "https://x.com/nemovideoai"
   },
-  "text": "This claymation is way too fun 😆\nJust prompt #Seedance 2.0 with the story.\nThen @nemovideoai picks the highlights, adds sound effects and captions—editing it all automatically. https://t.co/48HzkArkI5",
-  "content": "Prompt Seedance 2.0 with your full story, then use @nemovideoai to automatically select highlights and add sound effects and captions for auto-editing.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 10,
-    "retweets": 0,
-    "replies": 2,
-    "quotes": 1,
-    "bookmarks": 3,
-    "views": 1008
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025768983933411328.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025768872000008192/img/LZq_8i3OoKssWeVg.jpg"
-  },
+  "tips": "Prompt Seedance 2.0 with your full story, then use @nemovideoai to automatically select highlights and add sound effects and captions for auto-editing.",
   "translations": {
-    "es": "Inicia Seedance 2.0 con tu historia completa, luego usa @nemovideoai para seleccionar automáticamente los momentos destacados y añadir efectos de sonido y subtítulos para la edición automática.",
-    "fr": "Utilisez Prompt Seedance 2.0 avec votre histoire complète, puis utilisez @nemovideoai pour sélectionner automatiquement les moments forts et ajouter des effets sonores et des sous-titres pour un montage automatique.",
-    "ja": "---\nPrompt Seedance 2.0 にあなたの完全なストーリーを入力し、その後 @nemovideoai を使用してハイライトを自動選択し、効果音とキャプションを追加して自動編集を行います。",
-    "ko": "Prompt Seedance 2.0에 전체 스토리를 입력한 후, @nemovideoai를 사용하여 하이라이트를 자동으로 선택하고, 사운드 효과와 자막을 추가하여 자동 편집하세요.",
-    "pt-BR": "Inicie o Seedance 2.0 com sua história completa, depois use o @nemovideoai para selecionar automaticamente os destaques e adicionar efeitos sonoros e legendas para edição automática.",
-    "zh-CN": "使用完整故事提示Seedance 2.0，然后使用@nemovideoai自动选择亮点并添加音效和字幕进行自动编辑。"
+    "es": {
+      "content": "Inicia Seedance 2.0 con tu historia completa, luego usa @nemovideoai para seleccionar automáticamente los momentos destacados y añadir efectos de sonido y subtítulos para la edición automática."
+    },
+    "fr": {
+      "content": "Utilisez Prompt Seedance 2.0 avec votre histoire complète, puis utilisez @nemovideoai pour sélectionner automatiquement les moments forts et ajouter des effets sonores et des sous-titres pour un montage automatique."
+    },
+    "ja": {
+      "content": "---\nPrompt Seedance 2.0 にあなたの完全なストーリーを入力し、その後 @nemovideoai を使用してハイライトを自動選択し、効果音とキャプションを追加して自動編集を行います。"
+    },
+    "ko": {
+      "content": "Prompt Seedance 2.0에 전체 스토리를 입력한 후, @nemovideoai를 사용하여 하이라이트를 자동으로 선택하고, 사운드 효과와 자막을 추가하여 자동 편집하세요."
+    },
+    "pt": {
+      "content": "Inicie o Seedance 2.0 com sua história completa, depois use o @nemovideoai para selecionar automaticamente os destaques e adicionar efeitos sonoros e legendas para edição automática."
+    },
+    "zh": {
+      "content": "使用完整故事提示Seedance 2.0，然后使用@nemovideoai自动选择亮点并添加音效和字幕进行自动编辑。"
+    }
   }
 }

@@ -1,37 +1,35 @@
 {
   "id": "2023097201564713384",
-  "type": "tip",
-  "url": "https://x.com/manishkumar_dev/status/2023097201564713384",
+  "title": "Use the NemoVideoAI × Seedance 2.0 workflow by uploading your clips so the AI…",
+  "content": "Use the NemoVideoAI × Seedance 2.0 workflow by uploading your clips so the AI can analyze hook and pacing, then let Seedance 2.0 generate high-quality visuals featuring your IP characters and output a full edit in minutes.",
   "language": "en",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023097131737976832/img/k8WTxBejTyuzIUMJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023097201564713384.mp4",
+  "sourceLink": "https://x.com/manishkumar_dev/status/2023097201564713384",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "Manish Kumar Shah",
-    "username": "manishkumar_dev",
-    "url": "https://x.com/manishkumar_dev",
-    "followers": 54738
+    "link": "https://x.com/manishkumar_dev"
   },
-  "text": "Just tested the @nemovideoai × Seedance 2.0 workflow and it’s honestly wild.\n\nUploaded the clips → the AI broke down the hook and pacing → SD2 generated high quality visuals featuring the IP characters → full edit ready in under 3 minutes.\n\nIt feels less like editing and more like activating a system that already understands how to capture and hold attention.\n\n#NemoVideo #Seedance2",
-  "content": "Use the NemoVideoAI × Seedance 2.0 workflow by uploading your clips so the AI can analyze hook and pacing, then let Seedance 2.0 generate high-quality visuals featuring your IP characters and output a full edit in minutes.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 55,
-    "retweets": 13,
-    "replies": 19,
-    "quotes": 1,
-    "bookmarks": 17,
-    "views": 3143
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023097201564713384.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023097131737976832/img/k8WTxBejTyuzIUMJ.jpg"
-  },
+  "tips": "Use the NemoVideoAI × Seedance 2.0 workflow by uploading your clips so the AI can analyze hook and pacing, then let Seedance 2.0 generate high-quality visuals featuring your IP characters and output a full edit in minutes.",
   "translations": {
-    "es": "Utiliza el flujo de trabajo NemoVideoAI × Seedance 2.0 subiendo tus clips para que la IA pueda analizar el gancho y el ritmo, luego deja que Seedance 2.0 genere visuales de alta calidad con tus personajes de IP y produzca una edición completa en minutos.",
-    "fr": "Utilisez le flux de travail NemoVideoAI × Seedance 2.0 en téléchargeant vos clips pour que l'IA puisse analyser le rythme et l'accroche, puis laissez Seedance 2.0 générer des visuels de haute qualité mettant en scène vos personnages IP et produire un montage complet en quelques minutes.",
-    "ja": "---\nNemoVideoAI × Seedance 2.0 のワークフローを使用してクリップをアップロードし、AIがフックとペーシングを分析します。その後、Seedance 2.0 があなたのIPキャラクターをフィーチャーした高品質なビジュアルを生成し、数分で完全な編集を出力します。",
-    "ko": "클립을 업로드하여 NemoVideoAI × Seedance 2.0 워크플로우를 사용하세요. AI가 후크와 페이싱을 분석한 후, Seedance 2.0이 당신의 IP 캐릭터를 포함한 고품질 비주얼을 생성하고 몇 분 안에 전체 편집본을 출력합니다.",
-    "pt-BR": "Utilize o fluxo de trabalho NemoVideoAI × Seedance 2.0 carregando seus clipes para que a IA possa analisar o gancho e o ritmo, e então deixe o Seedance 2.0 gerar visuais de alta qualidade com seus personagens de IP e produzir uma edição completa em minutos.",
-    "zh-CN": "使用NemoVideoAI × Seedance 2.0工作流程，通过上传您的剪辑，让AI分析钩子和节奏，然后让Seedance 2.0生成高质量的视觉效果，展示您的IP角色，并在几分钟内输出完整的编辑。"
+    "es": {
+      "content": "Utiliza el flujo de trabajo NemoVideoAI × Seedance 2.0 subiendo tus clips para que la IA pueda analizar el gancho y el ritmo, luego deja que Seedance 2.0 genere visuales de alta calidad con tus personajes de IP y produzca una edición completa en minutos."
+    },
+    "fr": {
+      "content": "Utilisez le flux de travail NemoVideoAI × Seedance 2.0 en téléchargeant vos clips pour que l'IA puisse analyser le rythme et l'accroche, puis laissez Seedance 2.0 générer des visuels de haute qualité mettant en scène vos personnages IP et produire un montage complet en quelques minutes."
+    },
+    "ja": {
+      "content": "---\nNemoVideoAI × Seedance 2.0 のワークフローを使用してクリップをアップロードし、AIがフックとペーシングを分析します。その後、Seedance 2.0 があなたのIPキャラクターをフィーチャーした高品質なビジュアルを生成し、数分で完全な編集を出力します。"
+    },
+    "ko": {
+      "content": "클립을 업로드하여 NemoVideoAI × Seedance 2.0 워크플로우를 사용하세요. AI가 후크와 페이싱을 분석한 후, Seedance 2.0이 당신의 IP 캐릭터를 포함한 고품질 비주얼을 생성하고 몇 분 안에 전체 편집본을 출력합니다."
+    },
+    "pt": {
+      "content": "Utilize o fluxo de trabalho NemoVideoAI × Seedance 2.0 carregando seus clipes para que a IA possa analisar o gancho e o ritmo, e então deixe o Seedance 2.0 gerar visuais de alta qualidade com seus personagens de IP e produzir uma edição completa em minutos."
+    },
+    "zh": {
+      "content": "使用NemoVideoAI × Seedance 2.0工作流程，通过上传您的剪辑，让AI分析钩子和节奏，然后让Seedance 2.0生成高质量的视觉效果，展示您的IP角色，并在几分钟内输出完整的编辑。"
+    }
   }
 }

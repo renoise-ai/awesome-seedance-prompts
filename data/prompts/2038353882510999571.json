@@ -1,44 +1,34 @@
 {
   "id": "2038353882510999571",
-  "type": "prompt",
-  "url": "https://x.com/Framer_X/status/2038353882510999571",
+  "title": "Show me who lives inside this {building} and what they do inside.",
+  "content": "Show me who lives inside this {building} and what they do inside.",
   "language": "en",
-  "created_at": "2026-03-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038350135936385024/img/CP2a3W3wXb19HFSR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038353882510999571.mp4",
+  "sourceLink": "https://x.com/Framer_X/status/2038353882510999571",
+  "sourcePublishedAt": "2026-03-29",
   "author": {
     "name": "Framer 🇱🇹",
-    "username": "Framer_X",
-    "url": "https://x.com/Framer_X",
-    "followers": 47282
-  },
-  "text": "A great hack when you're out of ideas:\n\nUpload a pic of a building (first shot in vid below) to Seedance 2.0 and prompt:\n\n“Show me who lives inside this {building} and what they do inside.”\n\nIt will generate characters + some action to get you started.\n\nMore examples 👇 https://t.co/NY9NbYUK2n",
-  "content": "Show me who lives inside this {building} and what they do inside.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 194,
-    "retweets": 14,
-    "replies": 16,
-    "quotes": 0,
-    "bookmarks": 169,
-    "views": 6772
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038353882510999571.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038350135936385024/img/CP2a3W3wXb19HFSR.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "Example 2. https://t.co/c7uZHi9AJO",
-      "Example 3. https://t.co/nSKmnPmiUd",
-      "Example 4. https://t.co/azp18KvDya"
-    ]
+    "link": "https://x.com/Framer_X"
   },
   "translations": {
-    "es": "Muéstrame quién vive dentro de este {building} y qué hacen dentro.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Ejemplo 2. https://t.co/c7uZHi9AJO\n\n[Hilo 2] Ejemplo 3. https://t.co/nSKmnPmiUd\n\n[Hilo 3] Ejemplo 4. https://t.co/azp18KvDya",
-    "fr": "Montrez-moi qui vit à l'intérieur de ce {bâtiment} et ce qu'ils y font.\n\n--- SUITE DU FIL ---\n[Fil 1] Exemple 2. https://t.co/c7uZHi9AJO\n\n[Fil 2] Exemple 3. https://t.co/nSKmnPmiUd\n\n[Fil 3] Exemple 4. https://t.co/azp18KvDya",
-    "ja": "---\nこの{building}の中に住んでいる人々と彼らが中で何をしているのかを見せてください。\n\n--- THREAD CONTINUATION ---\n[スレッド 1] 例 2. https://t.co/c7uZHi9AJO\n\n[スレッド 2] 例 3. https://t.co/nSKmnPmiUd\n\n[スレッド 3] 例 4. https://t.co/azp18KvDya\n---",
-    "ko": "---\n이 {건물} 안에 누가 살고 있으며 그들이 안에서 무엇을 하는지 보여줘.\n\n--- 스레드 계속 ---\n[스레드 1] 예시 2. https://t.co/c7uZHi9AJO\n\n[스레드 2] 예시 3. https://t.co/nSKmnPmiUd\n\n[스레드 3] 예시 4. https://t.co/azp18KvDya\n---",
-    "pt-BR": "Mostre-me quem vive dentro deste {building} e o que eles fazem lá dentro.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Exemplo 2. https://t.co/c7uZHi9AJO\n\n[Tópico 2] Exemplo 3. https://t.co/nSKmnPmiUd\n\n[Tópico 3] Exemplo 4. https://t.co/azp18KvDya",
-    "zh-CN": "展示谁住在这座{building}里，以及他们在里面做什么。\n\n--- 线程延续 ---\n[线程 1] 示例 2. https://t.co/c7uZHi9AJO\n\n[线程 2] 示例 3. https://t.co/nSKmnPmiUd\n\n[线程 3] 示例 4. https://t.co/azp18KvDya"
+    "es": {
+      "content": "Muéstrame quién vive dentro de este {building} y qué hacen dentro.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Ejemplo 2. https://t.co/c7uZHi9AJO\n\n[Hilo 2] Ejemplo 3. https://t.co/nSKmnPmiUd\n\n[Hilo 3] Ejemplo 4. https://t.co/azp18KvDya"
+    },
+    "fr": {
+      "content": "Montrez-moi qui vit à l'intérieur de ce {bâtiment} et ce qu'ils y font.\n\n--- SUITE DU FIL ---\n[Fil 1] Exemple 2. https://t.co/c7uZHi9AJO\n\n[Fil 2] Exemple 3. https://t.co/nSKmnPmiUd\n\n[Fil 3] Exemple 4. https://t.co/azp18KvDya"
+    },
+    "ja": {
+      "content": "---\nこの{building}の中に住んでいる人々と彼らが中で何をしているのかを見せてください。\n\n--- THREAD CONTINUATION ---\n[スレッド 1] 例 2. https://t.co/c7uZHi9AJO\n\n[スレッド 2] 例 3. https://t.co/nSKmnPmiUd\n\n[スレッド 3] 例 4. https://t.co/azp18KvDya\n---"
+    },
+    "ko": {
+      "content": "---\n이 {건물} 안에 누가 살고 있으며 그들이 안에서 무엇을 하는지 보여줘.\n\n--- 스레드 계속 ---\n[스레드 1] 예시 2. https://t.co/c7uZHi9AJO\n\n[스레드 2] 예시 3. https://t.co/nSKmnPmiUd\n\n[스레드 3] 예시 4. https://t.co/azp18KvDya\n---"
+    },
+    "pt": {
+      "content": "Mostre-me quem vive dentro deste {building} e o que eles fazem lá dentro.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Exemplo 2. https://t.co/c7uZHi9AJO\n\n[Tópico 2] Exemplo 3. https://t.co/nSKmnPmiUd\n\n[Tópico 3] Exemplo 4. https://t.co/azp18KvDya"
+    },
+    "zh": {
+      "content": "展示谁住在这座{building}里，以及他们在里面做什么。\n\n--- 线程延续 ---\n[线程 1] 示例 2. https://t.co/c7uZHi9AJO\n\n[线程 2] 示例 3. https://t.co/nSKmnPmiUd\n\n[线程 3] 示例 4. https://t.co/azp18KvDya"
+    }
   }
 }

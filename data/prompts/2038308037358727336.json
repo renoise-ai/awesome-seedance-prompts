@@ -1,37 +1,34 @@
 {
   "id": "2038308037358727336",
-  "type": "prompt",
-  "url": "https://x.com/john87445528/status/2038308037358727336",
+  "title": "[0-4s 爆发起手] 昏暗废弃地下停车场，冷白长管顶灯的顶光勾勒出那位留着高顶髻、两侧剃短发的亚洲武士",
+  "content": "[0-4s 爆发起手] 昏暗废弃地下停车场，冷白长管顶灯的顶光勾勒出那位留着高顶髻、两侧剃短发的亚洲武士",
   "language": "zh",
-  "created_at": "2026-03-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038307153367478272/img/94l08tz2yDLmeaQ5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038308037358727336.mp4",
+  "sourceLink": "https://x.com/john87445528/status/2038308037358727336",
+  "sourcePublishedAt": "2026-03-29",
   "author": {
     "name": "John",
-    "username": "john87445528",
-    "url": "https://x.com/john87445528",
-    "followers": 7462
-  },
-  "text": "有没有想起街霸游戏？Seedance 2.0 教主挑战汽车提示词:👇👇👇👇👇👇👇👇[0-4s 爆发起手] 昏暗废弃地下停车场，冷白长管顶灯的顶光勾勒出那位留着高顶髻、两侧剃短发的亚洲武士\n图片1 https://t.co/XuEWmdC56g",
-  "content": "[0-4s 爆发起手] 昏暗废弃地下停车场，冷白长管顶灯的顶光勾勒出那位留着高顶髻、两侧剃短发的亚洲武士",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 24,
-    "retweets": 2,
-    "replies": 10,
-    "quotes": 1,
-    "bookmarks": 10,
-    "views": 1940
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038308037358727336.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038307153367478272/img/94l08tz2yDLmeaQ5.jpg"
+    "link": "https://x.com/john87445528"
   },
   "translations": {
-    "en": "[0-4s Explosion Start] In a dimly lit, abandoned underground parking lot, the top light from a cold white long tube lamp outlines an Asian warrior with a high topknot and shaved sides.",
-    "es": "[0-4s 爆发起手] En un oscuro y abandonado estacionamiento subterráneo, la luz superior de un tubo largo y frío blanco perfila al guerrero asiático con un moño alto y los lados de la cabeza rapados.",
-    "fr": "[0-4s 爆发起手] Dans un parking souterrain abandonné et sombre, la lumière froide des longs tubes fluorescents au plafond dessine les contours d'un samouraï asiatique avec un chignon haut et les côtés rasés.",
-    "ja": "[0-4s 爆发起手] 昏暗な廃棄された地下駐車場、冷たい白色の長い管状のトップライトが、両側を短く剃った髪型で高い髷を結ったアジアの武士を際立たせている。",
-    "ko": "[0-4s 爆发起手] 어두운 폐허가 된 지하 주차장에서, 차가운 백색의 긴 형광등이 위에서 비추며 높은 상투를 틀고 양쪽 머리를 짧게 깎은 아시아 무사의 윤곽을 그려낸다.",
-    "pt-BR": "[0-4s 爆发起手] Em um estacionamento subterrâneo abandonado e sombrio, a luz fria e branca dos tubos fluorescentes no teto delineia o guerreiro asiático com um coque alto e as laterais raspadas."
+    "en": {
+      "content": "[0-4s Explosion Start] In a dimly lit, abandoned underground parking lot, the top light from a cold white long tube lamp outlines an Asian warrior with a high topknot and shaved sides."
+    },
+    "es": {
+      "content": "[0-4s 爆发起手] En un oscuro y abandonado estacionamiento subterráneo, la luz superior de un tubo largo y frío blanco perfila al guerrero asiático con un moño alto y los lados de la cabeza rapados."
+    },
+    "fr": {
+      "content": "[0-4s 爆发起手] Dans un parking souterrain abandonné et sombre, la lumière froide des longs tubes fluorescents au plafond dessine les contours d'un samouraï asiatique avec un chignon haut et les côtés rasés."
+    },
+    "ja": {
+      "content": "[0-4s 爆发起手] 昏暗な廃棄された地下駐車場、冷たい白色の長い管状のトップライトが、両側を短く剃った髪型で高い髷を結ったアジアの武士を際立たせている。"
+    },
+    "ko": {
+      "content": "[0-4s 爆发起手] 어두운 폐허가 된 지하 주차장에서, 차가운 백색의 긴 형광등이 위에서 비추며 높은 상투를 틀고 양쪽 머리를 짧게 깎은 아시아 무사의 윤곽을 그려낸다."
+    },
+    "pt": {
+      "content": "[0-4s 爆发起手] Em um estacionamento subterrâneo abandonado e sombrio, a luz fria e branca dos tubos fluorescentes no teto delineia o guerreiro asiático com um coque alto e as laterais raspadas."
+    }
   }
 }

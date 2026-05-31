@@ -1,37 +1,35 @@
 {
   "id": "2037369180144669166",
-  "type": "tip",
-  "url": "https://x.com/socialwithaayan/status/2037369180144669166",
+  "title": "Upload a reference image as the base to anchor the scene before generating with…",
+  "content": "Upload a reference image as the base to anchor the scene before generating with Seedance 2.0  \nWrite a detailed prompt that explicitly specifies the action and camera movement to guide Seedance 2.0 motion  \nUse an audio mood input to intensify the scene’s energy before generating  \nRely on Dreamina Seedance 2.0 to generate the motion directly without After Effects/keyframes/VFX steps",
   "language": "en",
-  "created_at": "2026-03-27",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037369124775763968/img/5F1EBQ371AMgLXc8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037369180144669166.mp4",
+  "sourceLink": "https://x.com/socialwithaayan/status/2037369180144669166",
+  "sourcePublishedAt": "2026-03-27",
   "author": {
     "name": "Muhammad Ayan",
-    "username": "socialwithaayan",
-    "url": "https://x.com/socialwithaayan",
-    "followers": 64525
+    "link": "https://x.com/socialwithaayan"
   },
-  "text": "Here is how I made it in Dreamina AI:\n\n> Uploaded a reference image as the base\n> Wrote a detailed prompt for the action and camera movement\n> Used audio mood to push the scene harder\n> Let Dreamina Seedance 2.0 handle the motion\n\nNo After Effects. No keyframes. No VFX team.\n\nJust direct into output.",
-  "content": "Upload a reference image as the base to anchor the scene before generating with Seedance 2.0  \nWrite a detailed prompt that explicitly specifies the action and camera movement to guide Seedance 2.0 motion  \nUse an audio mood input to intensify the scene’s energy before generating  \nRely on Dreamina Seedance 2.0 to generate the motion directly without After Effects/keyframes/VFX steps",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 9,
-    "retweets": 1,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 1,
-    "views": 721
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037369180144669166.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037369124775763968/img/5F1EBQ371AMgLXc8.jpg"
-  },
+  "tips": "Upload a reference image as the base to anchor the scene before generating with Seedance 2.0  \nWrite a detailed prompt that explicitly specifies the action and camera movement to guide Seedance 2.0 motion  \nUse an audio mood input to intensify the scene’s energy before generating  \nRely on Dreamina Seedance 2.0 to generate the motion directly without After Effects/keyframes/VFX steps",
   "translations": {
-    "es": "Sube una imagen de referencia como base para anclar la escena antes de generar con Seedance 2.0  \nEscribe un prompt detallado que especifique explícitamente la acción y el movimiento de cámara para guiar el movimiento de Seedance 2.0  \nUsa una entrada de estado de ánimo de audio para intensificar la energía de la escena antes de generar  \nConfía en Dreamina Seedance 2.0 para generar el movimiento directamente sin pasos de After Effects/keyframes/VFX",
-    "fr": "Téléchargez une image de référence comme base pour ancrer la scène avant de générer avec Seedance 2.0  \nÉcrivez un prompt détaillé qui spécifie explicitement l'action et le mouvement de la caméra pour guider le mouvement de Seedance 2.0  \nUtilisez une entrée audio pour intensifier l'énergie de la scène avant de générer  \nFaites confiance à Dreamina Seedance 2.0 pour générer directement le mouvement sans étapes After Effects/keyframes/VFX",
-    "ja": "Seedance 2.0で生成する前に、シーンの基盤として参照画像をアップロードしてください。  \nSeedance 2.0の動きを導くために、アクションとカメラの動きを明確に指定した詳細なプロンプトを書いてください。  \n生成する前に、シーンのエネルギーを強化するためにオーディオムード入力を使用してください。  \nAfter Effects/キーフレーム/VFXステップを使用せずに、Dreamina Seedance 2.0に直接モーションを生成させてください。",
-    "ko": "Seedance 2.0으로 생성하기 전에 장면의 기반을 고정할 참조 이미지를 업로드하세요  \nSeedance 2.0의 움직임을 안내하기 위해 행동과 카메라 움직임을 명확히 지정하는 상세한 프롬프트를 작성하세요  \n생성하기 전에 장면의 에너지를 강화하기 위해 오디오 분위기 입력을 사용하세요  \nAfter Effects/키프레임/VFX 단계 없이 Dreamina Seedance 2.0을 사용하여 직접 움직임을 생성하세요",
-    "pt-BR": "Carregue uma imagem de referência como base para ancorar a cena antes de gerar com o Seedance 2.0  \nEscreva um prompt detalhado que especifique explicitamente a ação e o movimento da câmera para guiar o movimento do Seedance 2.0  \nUse uma entrada de humor de áudio para intensificar a energia da cena antes de gerar  \nConfie no Dreamina Seedance 2.0 para gerar o movimento diretamente sem etapas de After Effects/keyframes/VFX",
-    "zh-CN": "在使用Seedance 2.0生成之前，上传一张参考图像作为场景的基础  \n编写一个详细的prompt，明确指定动作和摄像机移动，以指导Seedance 2.0的运动  \n使用音频情绪输入来增强场景的能量，然后再生成  \n依靠Dreamina Seedance 2.0直接生成运动，无需After Effects/关键帧/VFX步骤"
+    "es": {
+      "content": "Sube una imagen de referencia como base para anclar la escena antes de generar con Seedance 2.0  \nEscribe un prompt detallado que especifique explícitamente la acción y el movimiento de cámara para guiar el movimiento de Seedance 2.0  \nUsa una entrada de estado de ánimo de audio para intensificar la energía de la escena antes de generar  \nConfía en Dreamina Seedance 2.0 para generar el movimiento directamente sin pasos de After Effects/keyframes/VFX"
+    },
+    "fr": {
+      "content": "Téléchargez une image de référence comme base pour ancrer la scène avant de générer avec Seedance 2.0  \nÉcrivez un prompt détaillé qui spécifie explicitement l'action et le mouvement de la caméra pour guider le mouvement de Seedance 2.0  \nUtilisez une entrée audio pour intensifier l'énergie de la scène avant de générer  \nFaites confiance à Dreamina Seedance 2.0 pour générer directement le mouvement sans étapes After Effects/keyframes/VFX"
+    },
+    "ja": {
+      "content": "Seedance 2.0で生成する前に、シーンの基盤として参照画像をアップロードしてください。  \nSeedance 2.0の動きを導くために、アクションとカメラの動きを明確に指定した詳細なプロンプトを書いてください。  \n生成する前に、シーンのエネルギーを強化するためにオーディオムード入力を使用してください。  \nAfter Effects/キーフレーム/VFXステップを使用せずに、Dreamina Seedance 2.0に直接モーションを生成させてください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0으로 생성하기 전에 장면의 기반을 고정할 참조 이미지를 업로드하세요  \nSeedance 2.0의 움직임을 안내하기 위해 행동과 카메라 움직임을 명확히 지정하는 상세한 프롬프트를 작성하세요  \n생성하기 전에 장면의 에너지를 강화하기 위해 오디오 분위기 입력을 사용하세요  \nAfter Effects/키프레임/VFX 단계 없이 Dreamina Seedance 2.0을 사용하여 직접 움직임을 생성하세요"
+    },
+    "pt": {
+      "content": "Carregue uma imagem de referência como base para ancorar a cena antes de gerar com o Seedance 2.0  \nEscreva um prompt detalhado que especifique explicitamente a ação e o movimento da câmera para guiar o movimento do Seedance 2.0  \nUse uma entrada de humor de áudio para intensificar a energia da cena antes de gerar  \nConfie no Dreamina Seedance 2.0 para gerar o movimento diretamente sem etapas de After Effects/keyframes/VFX"
+    },
+    "zh": {
+      "content": "在使用Seedance 2.0生成之前，上传一张参考图像作为场景的基础  \n编写一个详细的prompt，明确指定动作和摄像机移动，以指导Seedance 2.0的运动  \n使用音频情绪输入来增强场景的能量，然后再生成  \n依靠Dreamina Seedance 2.0直接生成运动，无需After Effects/关键帧/VFX步骤"
+    }
   }
 }

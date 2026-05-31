@@ -1,37 +1,34 @@
 {
   "id": "2025296310442561926",
-  "type": "prompt",
-  "url": "https://x.com/Theoladeledada/status/2025296310442561926",
+  "title": "Prompt: An average shift at Waffle House, make sure it's retarded and gets 50…",
+  "content": "Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.",
   "language": "en",
-  "created_at": "2026-02-21",
+  "thumbnail": "https://pbs.twimg.com/media/HA-msd1WwAAK_C1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025296310442561926.mp4",
+  "sourceLink": "https://x.com/Theoladeledada/status/2025296310442561926",
+  "sourcePublishedAt": "2026-02-21",
   "author": {
     "name": "Ọládélé 🇳🇬👑",
-    "username": "Theoladeledada",
-    "url": "https://x.com/Theoladeledada",
-    "followers": 159893
-  },
-  "text": "AI is going to take over the movie industry. This is Seedance 2.0. This is the prompt used.\n\n“Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.”\n\nIf you will like to get more prompts from me, comment “SEED”, I’ll DM you\n\n https://t.co/j48R5CXWAY",
-  "content": "Prompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 20,
-    "retweets": 5,
-    "replies": 5,
-    "quotes": 1,
-    "bookmarks": 9,
-    "views": 3252
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025296310442561926.mp4",
-    "thumbnail": "https://pbs.twimg.com/media/HA-msd1WwAAK_C1.jpg"
+    "link": "https://x.com/Theoladeledada"
   },
   "translations": {
-    "es": "---\nPrompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.\n---",
-    "fr": "---\nPrompt : Un service moyen chez Waffle House, assurez-vous qu'il soit décalé et obtienne 50 likes.\n---",
-    "ja": "---\nPrompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.\n---",
-    "ko": "프롬프트: An average shift at Waffle House, make sure it's retarded and gets 50 likes.",
-    "pt-BR": "---\nPrompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.\n---",
-    "zh-CN": "---\nPrompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.\n---"
+    "es": {
+      "content": "---\nPrompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.\n---"
+    },
+    "fr": {
+      "content": "---\nPrompt : Un service moyen chez Waffle House, assurez-vous qu'il soit décalé et obtienne 50 likes.\n---"
+    },
+    "ja": {
+      "content": "---\nPrompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.\n---"
+    },
+    "ko": {
+      "content": "프롬프트: An average shift at Waffle House, make sure it's retarded and gets 50 likes."
+    },
+    "pt": {
+      "content": "---\nPrompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.\n---"
+    },
+    "zh": {
+      "content": "---\nPrompt: An average shift at Waffle House, make sure it's retarded and gets 50 likes.\n---"
+    }
   }
 }

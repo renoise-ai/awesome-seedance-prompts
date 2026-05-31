@@ -1,37 +1,34 @@
 {
   "id": "2023673269560504775",
-  "type": "tip",
-  "url": "https://x.com/ReflctWillie/status/2023673269560504775",
+  "title": "Use a face photo reference to lock the model’s facial features, add multiple…",
+  "content": "Use a face photo reference to lock the model’s facial features, add multiple clothing image references, and include a reference video to transfer its fisheye lens + ghosting/flicker “glitch” visual style.  \nPrompt the model to cycle through outfits by referencing specific clothing images (e.g., images 2–6) and specify a different pose/expression for each outfit (playful, cool, cute, surprised, swagger).  \nInstruct camera action explicitly (e.g., “move close to the lens”) and request a cut/shot change on each outfit swap (“each change is accompanied by a cut”).",
   "language": "en",
-  "created_at": "2026-02-17",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ReflctWillie/status/2023673269560504775",
+  "sourcePublishedAt": "2026-02-17",
   "author": {
     "name": "willie",
-    "username": "ReflctWillie",
-    "url": "https://x.com/ReflctWillie",
-    "followers": 5750
+    "link": "https://x.com/ReflctWillie"
   },
-  "text": "Seedance 2.0 casually deprecating the workflow I've been working on with only a text prompt and a video reference. \n\nAint even mad!",
-  "content": "Use a face photo reference to lock the model’s facial features, add multiple clothing image references, and include a reference video to transfer its fisheye lens + ghosting/flicker “glitch” visual style.  \nPrompt the model to cycle through outfits by referencing specific clothing images (e.g., images 2–6) and specify a different pose/expression for each outfit (playful, cool, cute, surprised, swagger).  \nInstruct camera action explicitly (e.g., “move close to the lens”) and request a cut/shot change on each outfit swap (“each change is accompanied by a cut”).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 27,
-    "retweets": 0,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 21,
-    "views": 2757
-  },
-  "video": null,
-  "extra_content": {
-    "quoted_text": "Seedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果"
-  },
+  "tips": "Use a face photo reference to lock the model’s facial features, add multiple clothing image references, and include a reference video to transfer its fisheye lens + ghosting/flicker “glitch” visual style.  \nPrompt the model to cycle through outfits by referencing specific clothing images (e.g., images 2–6) and specify a different pose/expression for each outfit (playful, cool, cute, surprised, swagger).  \nInstruct camera action explicitly (e.g., “move close to the lens”) and request a cut/shot change on each outfit swap (“each change is accompanied by a cut”).",
   "translations": {
-    "es": "Usa una foto de referencia del rostro para fijar las características faciales del modelo, añade múltiples referencias de imágenes de ropa e incluye un video de referencia para transferir su estilo visual de lente ojo de pez + efecto de \"glitch\" de fantasmas/parpadeo.  \nIndica al modelo que cambie de atuendo refiriéndose a imágenes específicas de ropa (por ejemplo, imágenes 2–6) y especifica una pose/expresión diferente para cada atuendo (juguetón, cool, lindo, sorprendido, con estilo).  \nInstruye la acción de la cámara explícitamente (por ejemplo, “acércate al lente”) y solicita un corte/cambio de toma en cada cambio de atuendo (“cada cambio va acompañado de un corte”).\n\n--- TWEET CITADO ---\nSeedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果",
-    "fr": "Utilisez une photo de visage comme référence pour verrouiller les traits faciaux du modèle, ajoutez plusieurs références d'images de vêtements, et incluez une vidéo de référence pour transférer son style visuel de lentille fisheye + glitch de ghosting/clignotement.  \nDemandez au modèle de changer de tenue en se référant à des images de vêtements spécifiques (par exemple, images 2–6) et spécifiez une pose/expression différente pour chaque tenue (espiègle, cool, mignon, surpris, assuré).  \nIndiquez explicitement l'action de la caméra (par exemple, « rapprochez-vous de l'objectif ») et demandez un changement de plan/coupure à chaque changement de tenue (« chaque changement est accompagné d'une coupure »).\n\n--- TWEET CITÉ ---\nSeedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果",
-    "ja": "---\nモデルの顔の特徴を固定するために顔写真を参照し、複数の服装画像を追加し、魚眼レンズ＋ゴースト/フリッカーの「グリッチ」ビジュアルスタイルを転送するための参照ビデオを含めます。  \n特定の服装画像（例：画像2–6）を参照してモデルに衣装を循環させ、各衣装に異なるポーズ/表情（遊び心のある、クール、かわいい、驚いた、威風堂々）を指定します。  \nカメラアクションを明確に指示し（例：「レンズに近づく」）、各衣装の交換時にカット/ショットの変更を要求します（「各変更はカットを伴う」）。\n\n--- QUOTED TWEET ---\nSeedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果\n---",
-    "ko": "얼굴 사진 참고 자료를 사용하여 모델의 얼굴 특징을 고정하고, 여러 의상 이미지 참고 자료를 추가하며, 어안 렌즈 + 고스트/플리커 \"글리치\" 시각 스타일을 전송하기 위해 참고 비디오를 포함하세요.  \n모델에게 특정 의상 이미지(예: 이미지 2–6)를 참조하여 의상을 순환하도록 지시하고, 각 의상에 대해 다른 포즈/표정을 지정하세요 (장난스러운, 쿨한, 귀여운, 놀란, 멋진).  \n카메라 동작을 명확히 지시하고 (예: \"렌즈에 가까이 이동\"), 각 의상 교체 시 컷/샷 변경을 요청하세요 (\"각 변경은 컷과 함께 이루어집니다\").",
-    "pt-BR": "Use uma foto de rosto como referência para fixar as características faciais do modelo, adicione várias imagens de roupas como referência e inclua um vídeo de referência para transferir seu estilo visual de lente olho de peixe + \"glitch\" de fantasma/piscada.  \nInstrua o modelo a alternar entre os trajes referenciando imagens específicas de roupas (por exemplo, imagens 2–6) e especifique uma pose/expressão diferente para cada traje (brincalhão, descolado, fofo, surpreso, confiante).  \nInstrua explicitamente a ação da câmera (por exemplo, “aproxime-se da lente”) e solicite uma mudança de corte/tomada a cada troca de roupa (“cada mudança é acompanhada por um corte”).\n\n--- QUOTED TWEET ---\nSeedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果",
-    "zh-CN": "使用人脸照片参考来锁定模型的面部特征，添加多张服装图片参考，并包含一个参考视频以传递其鱼眼镜头+重影/闪烁“故障”视觉风格。  \n提示模型通过参考特定服装图片（例如，图片2-6）来轮换服装，并为每套服装指定不同的姿势/表情（调皮、冷酷、可爱、惊讶、耍帅）。  \n明确指示相机动作（例如，“靠近镜头”）并在每次服装更换时请求切换镜头/画面（“每次更换伴随切镜”）。"
+    "es": {
+      "content": "Usa una foto de referencia del rostro para fijar las características faciales del modelo, añade múltiples referencias de imágenes de ropa e incluye un video de referencia para transferir su estilo visual de lente ojo de pez + efecto de \"glitch\" de fantasmas/parpadeo.  \nIndica al modelo que cambie de atuendo refiriéndose a imágenes específicas de ropa (por ejemplo, imágenes 2–6) y especifica una pose/expresión diferente para cada atuendo (juguetón, cool, lindo, sorprendido, con estilo).  \nInstruye la acción de la cámara explícitamente (por ejemplo, “acércate al lente”) y solicita un corte/cambio de toma en cada cambio de atuendo (“cada cambio va acompañado de un corte”).\n\n--- TWEET CITADO ---\nSeedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果"
+    },
+    "fr": {
+      "content": "Utilisez une photo de visage comme référence pour verrouiller les traits faciaux du modèle, ajoutez plusieurs références d'images de vêtements, et incluez une vidéo de référence pour transférer son style visuel de lentille fisheye + glitch de ghosting/clignotement.  \nDemandez au modèle de changer de tenue en se référant à des images de vêtements spécifiques (par exemple, images 2–6) et spécifiez une pose/expression différente pour chaque tenue (espiègle, cool, mignon, surpris, assuré).  \nIndiquez explicitement l'action de la caméra (par exemple, « rapprochez-vous de l'objectif ») et demandez un changement de plan/coupure à chaque changement de tenue (« chaque changement est accompagné d'une coupure »).\n\n--- TWEET CITÉ ---\nSeedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果"
+    },
+    "ja": {
+      "content": "---\nモデルの顔の特徴を固定するために顔写真を参照し、複数の服装画像を追加し、魚眼レンズ＋ゴースト/フリッカーの「グリッチ」ビジュアルスタイルを転送するための参照ビデオを含めます。  \n特定の服装画像（例：画像2–6）を参照してモデルに衣装を循環させ、各衣装に異なるポーズ/表情（遊び心のある、クール、かわいい、驚いた、威風堂々）を指定します。  \nカメラアクションを明確に指示し（例：「レンズに近づく」）、各衣装の交換時にカット/ショットの変更を要求します（「各変更はカットを伴う」）。\n\n--- QUOTED TWEET ---\nSeedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果\n---"
+    },
+    "ko": {
+      "content": "얼굴 사진 참고 자료를 사용하여 모델의 얼굴 특징을 고정하고, 여러 의상 이미지 참고 자료를 추가하며, 어안 렌즈 + 고스트/플리커 \"글리치\" 시각 스타일을 전송하기 위해 참고 비디오를 포함하세요.  \n모델에게 특정 의상 이미지(예: 이미지 2–6)를 참조하여 의상을 순환하도록 지시하고, 각 의상에 대해 다른 포즈/표정을 지정하세요 (장난스러운, 쿨한, 귀여운, 놀란, 멋진).  \n카메라 동작을 명확히 지시하고 (예: \"렌즈에 가까이 이동\"), 각 의상 교체 시 컷/샷 변경을 요청하세요 (\"각 변경은 컷과 함께 이루어집니다\")."
+    },
+    "pt": {
+      "content": "Use uma foto de rosto como referência para fixar as características faciais do modelo, adicione várias imagens de roupas como referência e inclua um vídeo de referência para transferir seu estilo visual de lente olho de peixe + \"glitch\" de fantasma/piscada.  \nInstrua o modelo a alternar entre os trajes referenciando imagens específicas de roupas (por exemplo, imagens 2–6) e especifique uma pose/expressão diferente para cada traje (brincalhão, descolado, fofo, surpreso, confiante).  \nInstrua explicitamente a ação da câmera (por exemplo, “aproxime-se da lente”) e solicite uma mudança de corte/tomada a cada troca de roupa (“cada mudança é acompanhada por um corte”).\n\n--- QUOTED TWEET ---\nSeedance 2.0 确实牛，把我之前一直想搞的视频效果直接搞定了！😍\n\n一张人脸照，几张服饰图，再用原贴的视频，一次过都不需要抽卡哈哈！\n\n提示词👇\n参考 【图片1】 里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，参考 【视频1】 的效果"
+    },
+    "zh": {
+      "content": "使用人脸照片参考来锁定模型的面部特征，添加多张服装图片参考，并包含一个参考视频以传递其鱼眼镜头+重影/闪烁“故障”视觉风格。  \n提示模型通过参考特定服装图片（例如，图片2-6）来轮换服装，并为每套服装指定不同的姿势/表情（调皮、冷酷、可爱、惊讶、耍帅）。  \n明确指示相机动作（例如，“靠近镜头”）并在每次服装更换时请求切换镜头/画面（“每次更换伴随切镜”）。"
+    }
   }
 }

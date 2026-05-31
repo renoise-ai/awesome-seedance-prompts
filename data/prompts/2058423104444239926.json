@@ -1,37 +1,34 @@
 {
   "id": "2058423104444239926",
-  "type": "prompt",
-  "url": "https://x.com/Strength04_X/status/2058423104444239926",
+  "title": "Create a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12…",
+  "content": "Create a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Bamford/Daylesford style, meadow green + weathered iron palette.\n\nStructured flow: soil → seed → tend → bloom → harvest closure.\n\nEach frame split: top cinematic image (no text) + bottom storyboard notes. English country estate minimal aesthetic, slow growing mood, land and patience. A terracotta pot with a single stem is the emotional center throughout.",
   "language": "en",
-  "created_at": "2026-05-24",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2058422802244677632/pu/img/7FvKO6WXHxkmB5av.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058423104444239926.mp4",
+  "sourceLink": "https://x.com/Strength04_X/status/2058423104444239926",
+  "sourcePublishedAt": "2026-05-24",
   "author": {
     "name": "𝐌",
-    "username": "Strength04_X",
-    "url": "https://x.com/Strength04_X",
-    "followers": 15062
-  },
-  "text": "Created this From soil and seed to bloom and harvest 🌷\n\nGPT image 2 × Seedance 2.0 on @Hailuo_AI \n\nPrompt →\n\nStep 1: Generate storyboard with GPT Image 2\n\nCreate a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Bamford/Daylesford style, meadow green + weathered iron palette. \n\nStructured flow: soil → seed → tend → bloom → harvest closure. \n\nEach frame split: top cinematic image (no text) + bottom storyboard notes. English country estate minimal aesthetic, slow growing mood, land and patience. A terracotta pot with a single stem is the emotional center throughout.\n\nStep 2: Take each frame into Seedance 2.0 Set to 1080p to preserve text clarity\n\nAnimate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow soil crumble, morning dew drop, leaf unfurl time-lapse feel, and garden light shaft. Lighting transitions from cool misty English morning to warm golden afternoon garden light. Garden editorial aesthetic, patient abundance, grounded luxury mood. No new shots, no reordering, terracotta pot remains emotional focus in all scenes.",
-  "content": "Create a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Bamford/Daylesford style, meadow green + weathered iron palette.\n\nStructured flow: soil → seed → tend → bloom → harvest closure.\n\nEach frame split: top cinematic image (no text) + bottom storyboard notes. English country estate minimal aesthetic, slow growing mood, land and patience. A terracotta pot with a single stem is the emotional center throughout.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 133,
-    "retweets": 15,
-    "replies": 35,
-    "quotes": 2,
-    "bookmarks": 71,
-    "views": 4900
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058423104444239926.mp4",
-    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2058422802244677632/pu/img/7FvKO6WXHxkmB5av.jpg"
+    "link": "https://x.com/Strength04_X"
   },
   "translations": {
-    "es": "Crea un storyboard de pitch deck de jardín de lujo en formato 4:3 de alta gama en una cuadrícula de 3x4 (12 cuadros), diseño editorial, estilo Bamford/Daylesford, paleta de verde pradera + hierro envejecido.\n\nFlujo estructurado: suelo → semilla → cuidar → florecer → cierre de cosecha.\n\nCada cuadro dividido: imagen cinematográfica superior (sin texto) + notas de storyboard en la parte inferior. Estética minimalista de finca inglesa, ambiente de crecimiento lento, tierra y paciencia. Una maceta de terracota con un solo tallo es el centro emocional a lo largo de todo.",
-    "fr": "---\nCréez un storyboard de présentation de jardin de luxe au format 4:3 en grille 3x4 (12 cadres), mise en page éditoriale, style Bamford/Daylesford, palette vert prairie + fer patiné.\n\nFlux structuré : sol → graine → soin → floraison → récolte finale.\n\nChaque cadre divisé : image cinématographique en haut (sans texte) + notes de storyboard en bas. Esthétique minimaliste de domaine anglais, ambiance de croissance lente, terre et patience. Un pot en terre cuite avec une seule tige est le centre émotionnel tout au long.",
-    "ja": "---\n高級な4:3のラグジュアリーガーデンのピッチデックストーリーボードを3x4グリッド（12フレーム）で作成し、エディトリアルレイアウト、Bamford/Daylesfordスタイル、草原の緑＋風化した鉄のパレットを使用。\n\n構造的な流れ: 土壌 → 種 → 手入れ → 開花 → 収穫の締めくくり。\n\n各フレームは分割されており、上部はシネマティックな画像（テキストなし）＋下部はストーリーボードのメモ。イングリッシュカントリーエステートのミニマルな美学、ゆっくりと成長するムード、土地と忍耐。テラコッタの鉢に一本の茎が感情の中心として全体を通して存在します。\n---",
-    "ko": "고급 4:3 럭셔리 정원 피치 덱 스토리보드를 3x4 그리드(12 프레임)로 제작하고, 편집 레이아웃, Bamford/Daylesford 스타일, 초원 녹색 + 풍화된 철 팔레트를 사용하세요.\n\n구조화된 흐름: 흙 → 씨앗 → 돌봄 → 꽃 피움 → 수확 마무리.\n\n각 프레임은 상단에 시네마틱 이미지(텍스트 없음) + 하단에 스토리보드 노트로 나뉩니다. 영국 시골 저택의 미니멀한 미학, 느리게 자라는 분위기, 땅과 인내. 테라코타 화분에 단일 줄기가 스토리 전체의 감정적 중심입니다.",
-    "pt-BR": "Crie um storyboard de pitch deck de jardim de luxo em formato 4:3 de alta qualidade em uma grade de 3x4 (12 quadros), layout editorial, estilo Bamford/Daylesford, paleta verde prado + ferro envelhecido.\n\nFluxo estruturado: solo → semente → cuidar → florescer → fechamento da colheita.\n\nCada quadro dividido: imagem cinematográfica no topo (sem texto) + notas do storyboard na parte inferior. Estética minimalista de propriedade rural inglesa, clima de crescimento lento, terra e paciência. Um vaso de terracota com um único caule é o centro emocional ao longo de todo o processo.",
-    "zh-CN": "---\n创建一个高端4:3奢华花园提案故事板，采用3x4网格（12个画面），编辑布局，Bamford/Daylesford风格，草地绿+风化铁色调。\n\n结构化流程：土壤 → 种子 → 照料 → 开花 → 收获结束。\n\n每个画面分为：顶部电影画面（无文字）+ 底部故事板注释。英式乡村庄园的极简美学，缓慢生长的氛围，土地与耐心。一个陶罐中单枝植物贯穿始终，成为情感中心。\n---"
+    "es": {
+      "content": "Crea un storyboard de pitch deck de jardín de lujo en formato 4:3 de alta gama en una cuadrícula de 3x4 (12 cuadros), diseño editorial, estilo Bamford/Daylesford, paleta de verde pradera + hierro envejecido.\n\nFlujo estructurado: suelo → semilla → cuidar → florecer → cierre de cosecha.\n\nCada cuadro dividido: imagen cinematográfica superior (sin texto) + notas de storyboard en la parte inferior. Estética minimalista de finca inglesa, ambiente de crecimiento lento, tierra y paciencia. Una maceta de terracota con un solo tallo es el centro emocional a lo largo de todo."
+    },
+    "fr": {
+      "content": "---\nCréez un storyboard de présentation de jardin de luxe au format 4:3 en grille 3x4 (12 cadres), mise en page éditoriale, style Bamford/Daylesford, palette vert prairie + fer patiné.\n\nFlux structuré : sol → graine → soin → floraison → récolte finale.\n\nChaque cadre divisé : image cinématographique en haut (sans texte) + notes de storyboard en bas. Esthétique minimaliste de domaine anglais, ambiance de croissance lente, terre et patience. Un pot en terre cuite avec une seule tige est le centre émotionnel tout au long."
+    },
+    "ja": {
+      "content": "---\n高級な4:3のラグジュアリーガーデンのピッチデックストーリーボードを3x4グリッド（12フレーム）で作成し、エディトリアルレイアウト、Bamford/Daylesfordスタイル、草原の緑＋風化した鉄のパレットを使用。\n\n構造的な流れ: 土壌 → 種 → 手入れ → 開花 → 収穫の締めくくり。\n\n各フレームは分割されており、上部はシネマティックな画像（テキストなし）＋下部はストーリーボードのメモ。イングリッシュカントリーエステートのミニマルな美学、ゆっくりと成長するムード、土地と忍耐。テラコッタの鉢に一本の茎が感情の中心として全体を通して存在します。\n---"
+    },
+    "ko": {
+      "content": "고급 4:3 럭셔리 정원 피치 덱 스토리보드를 3x4 그리드(12 프레임)로 제작하고, 편집 레이아웃, Bamford/Daylesford 스타일, 초원 녹색 + 풍화된 철 팔레트를 사용하세요.\n\n구조화된 흐름: 흙 → 씨앗 → 돌봄 → 꽃 피움 → 수확 마무리.\n\n각 프레임은 상단에 시네마틱 이미지(텍스트 없음) + 하단에 스토리보드 노트로 나뉩니다. 영국 시골 저택의 미니멀한 미학, 느리게 자라는 분위기, 땅과 인내. 테라코타 화분에 단일 줄기가 스토리 전체의 감정적 중심입니다."
+    },
+    "pt": {
+      "content": "Crie um storyboard de pitch deck de jardim de luxo em formato 4:3 de alta qualidade em uma grade de 3x4 (12 quadros), layout editorial, estilo Bamford/Daylesford, paleta verde prado + ferro envelhecido.\n\nFluxo estruturado: solo → semente → cuidar → florescer → fechamento da colheita.\n\nCada quadro dividido: imagem cinematográfica no topo (sem texto) + notas do storyboard na parte inferior. Estética minimalista de propriedade rural inglesa, clima de crescimento lento, terra e paciência. Um vaso de terracota com um único caule é o centro emocional ao longo de todo o processo."
+    },
+    "zh": {
+      "content": "---\n创建一个高端4:3奢华花园提案故事板，采用3x4网格（12个画面），编辑布局，Bamford/Daylesford风格，草地绿+风化铁色调。\n\n结构化流程：土壤 → 种子 → 照料 → 开花 → 收获结束。\n\n每个画面分为：顶部电影画面（无文字）+ 底部故事板注释。英式乡村庄园的极简美学，缓慢生长的氛围，土地与耐心。一个陶罐中单枝植物贯穿始终，成为情感中心。\n---"
+    }
   }
 }

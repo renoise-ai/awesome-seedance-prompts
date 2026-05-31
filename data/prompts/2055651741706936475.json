@@ -1,37 +1,34 @@
 {
   "id": "2055651741706936475",
-  "type": "prompt",
-  "url": "https://x.com/bmx_ai13/status/2055651741706936475",
+  "title": "full frame cinematic, 1970s academic TV drama, old lecture hall, elderly…",
+  "content": "full frame cinematic, 1970s academic TV drama, old lecture hall, elderly professor teaching at a chalkboard, warm late afternoon light, chalk dust, subtle camera movement, no voiceover.",
   "language": "en",
-  "created_at": "2026-05-16",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055651667677523968/img/x_VEhlshf_apKIRq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055651741706936475.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2055651741706936475",
+  "sourcePublishedAt": "2026-05-16",
   "author": {
     "name": "BMX",
-    "username": "bmx_ai13",
-    "url": "https://x.com/bmx_ai13",
-    "followers": 8441
-  },
-  "text": "Storyboard-to-video test with Seedance 2.0 on @lovart_ai \n\nThis time I’m testing a simple workflow:\n\n1 storyboard image upload\n1 compact prompt\n15 second cinematic output\nNo extra character refs\nNo extra environment refs\n\nGoal: see how well Seedance follows a full storyboard sequence as a continuous cinematic video while avoiding storyboard grids, borders, labels, and panel layouts.\n\nPrompt style: full frame cinematic, 1970s academic TV drama, old lecture hall, elderly professor teaching at a chalkboard, warm late afternoon light, chalk dust, subtle camera movement, no voiceover.\n\nLet’s see if storyboard only control is enough.\n\n#Lovart #LovartPartner",
-  "content": "full frame cinematic, 1970s academic TV drama, old lecture hall, elderly professor teaching at a chalkboard, warm late afternoon light, chalk dust, subtle camera movement, no voiceover.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 49,
-    "retweets": 6,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 17,
-    "views": 1855
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055651741706936475.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055651667677523968/img/x_VEhlshf_apKIRq.jpg"
+    "link": "https://x.com/bmx_ai13"
   },
   "translations": {
-    "es": "full frame cinematic, drama televisivo académico de los años 70, antigua sala de conferencias, profesor anciano enseñando en una pizarra, cálida luz de tarde, polvo de tiza, movimiento sutil de cámara, sin narración.",
-    "fr": "full frame cinematic, drame télévisé académique des années 1970, vieille salle de cours, professeur âgé enseignant au tableau noir, lumière chaude de fin d'après-midi, poussière de craie, mouvement subtil de la caméra, pas de voix off.",
-    "ja": "フルフレーム・シネマティック、1970年代の学術テレビドラマ、古い講義ホール、チョークボードで教える年配の教授、暖かい午後遅くの光、チョークの粉、微妙なカメラの動き、ナレーションなし。",
-    "ko": "풀 프레임 시네마틱, 1970년대 학문적 TV 드라마, 오래된 강의실, 칠판에서 강의하는 노교수, 따뜻한 늦은 오후의 빛, 분필 가루, 미세한 카메라 움직임, 나레이션 없음.",
-    "pt-BR": "full frame cinematográfico, drama acadêmico de TV dos anos 1970, antiga sala de aula, professor idoso ensinando no quadro-negro, luz quente de fim de tarde, poeira de giz, movimento sutil de câmera, sem narração.",
-    "zh-CN": "全画幅电影风格，1970年代学术电视剧情，老旧的讲堂，年长的教授在黑板上授课，温暖的下午晚光，粉笔灰，细微的镜头移动，无旁白。"
+    "es": {
+      "content": "full frame cinematic, drama televisivo académico de los años 70, antigua sala de conferencias, profesor anciano enseñando en una pizarra, cálida luz de tarde, polvo de tiza, movimiento sutil de cámara, sin narración."
+    },
+    "fr": {
+      "content": "full frame cinematic, drame télévisé académique des années 1970, vieille salle de cours, professeur âgé enseignant au tableau noir, lumière chaude de fin d'après-midi, poussière de craie, mouvement subtil de la caméra, pas de voix off."
+    },
+    "ja": {
+      "content": "フルフレーム・シネマティック、1970年代の学術テレビドラマ、古い講義ホール、チョークボードで教える年配の教授、暖かい午後遅くの光、チョークの粉、微妙なカメラの動き、ナレーションなし。"
+    },
+    "ko": {
+      "content": "풀 프레임 시네마틱, 1970년대 학문적 TV 드라마, 오래된 강의실, 칠판에서 강의하는 노교수, 따뜻한 늦은 오후의 빛, 분필 가루, 미세한 카메라 움직임, 나레이션 없음."
+    },
+    "pt": {
+      "content": "full frame cinematográfico, drama acadêmico de TV dos anos 1970, antiga sala de aula, professor idoso ensinando no quadro-negro, luz quente de fim de tarde, poeira de giz, movimento sutil de câmera, sem narração."
+    },
+    "zh": {
+      "content": "全画幅电影风格，1970年代学术电视剧情，老旧的讲堂，年长的教授在黑板上授课，温暖的下午晚光，粉笔灰，细微的镜头移动，无旁白。"
+    }
   }
 }

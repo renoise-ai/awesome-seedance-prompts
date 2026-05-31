@@ -1,42 +1,35 @@
 {
   "id": "2037600747777384763",
-  "type": "tip",
-  "url": "https://x.com/CainBd/status/2037600747777384763",
+  "title": "Create the first video in Seedance 2.0, then set that video as the omni…",
+  "content": "Create the first video in Seedance 2.0, then set that video as the omni reference when generating the second clip so both clips match in style/continuity.",
   "language": "en",
-  "created_at": "2026-03-27",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037599485015076864/img/NZgmiSg0Dwkk3s0q.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037600747777384763.mp4",
+  "sourceLink": "https://x.com/CainBd/status/2037600747777384763",
+  "sourcePublishedAt": "2026-03-27",
   "author": {
     "name": "Cain 商",
-    "username": "CainBd",
-    "url": "https://x.com/CainBd",
-    "followers": 13026
+    "link": "https://x.com/CainBd"
   },
-  "text": "Tried creating an ad with Seedance 2.0 all in one prompt, \n\ntook less than 10min\n\nCreate a video → use it as the omni reference → generate the second  → now both clips match https://t.co/hjXF6nD0gd",
-  "content": "Create the first video in Seedance 2.0, then set that video as the omni reference when generating the second clip so both clips match in style/continuity.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 15,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 1,
-    "bookmarks": 3,
-    "views": 1017
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037600747777384763.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037599485015076864/img/NZgmiSg0Dwkk3s0q.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "Here was my first try, adjusted script and art style above https://t.co/dSOLiNQNHP"
-    ]
-  },
+  "tips": "Create the first video in Seedance 2.0, then set that video as the omni reference when generating the second clip so both clips match in style/continuity.",
   "translations": {
-    "es": "Crea el primer video en Seedance 2.0, luego establece ese video como la referencia omni al generar el segundo clip para que ambos clips coincidan en estilo/continuidad.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí fue mi primer intento, ajusté el guion y el estilo artístico arriba https://t.co/dSOLiNQNHP",
-    "fr": "Créez la première vidéo dans Seedance 2.0, puis définissez cette vidéo comme référence omni lors de la génération du deuxième clip afin que les deux clips correspondent en style/continuité.\n\n--- SUITE DU FIL ---\n[Fil 1] Voici ma première tentative, script ajusté et style artistique ci-dessus https://t.co/dSOLiNQNHP",
-    "ja": "---\nSeedance 2.0で最初のビデオを作成し、そのビデオをオムニリファレンスとして設定して、2番目のクリップを生成する際にスタイルや連続性が一致するようにします。\n\n--- スレッドの続き ---\n[スレッド1] こちらが私の最初の試みで、上記のスクリプトとアートスタイルを調整しました https://t.co/dSOLiNQNHP\n---",
-    "ko": "---\nSeedance 2.0에서 첫 번째 비디오를 생성한 다음, 두 번째 클립을 생성할 때 스타일/연속성을 맞추기 위해 그 비디오를 옴니 참조로 설정하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 여기 제 첫 번째 시도입니다. 위의 스크립트와 아트 스타일을 조정했습니다. https://t.co/dSOLiNQNHP\n---",
-    "pt-BR": "Crie o primeiro vídeo no Seedance 2.0, depois defina esse vídeo como a referência omni ao gerar o segundo clipe para que ambos os clipes combinem em estilo/continuidade.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Aqui está minha primeira tentativa, roteiro ajustado e estilo de arte acima https://t.co/dSOLiNQNHP\n---",
-    "zh-CN": "在Seedance 2.0中创建第一个视频，然后将该视频设置为生成第二个片段时的全局参考，以便两个片段在风格/连续性上匹配。\n\n--- 线程继续 ---\n[线程 1] 这是我的第一次尝试，调整了上面的脚本和艺术风格 https://t.co/dSOLiNQNHP"
+    "es": {
+      "content": "Crea el primer video en Seedance 2.0, luego establece ese video como la referencia omni al generar el segundo clip para que ambos clips coincidan en estilo/continuidad.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí fue mi primer intento, ajusté el guion y el estilo artístico arriba https://t.co/dSOLiNQNHP"
+    },
+    "fr": {
+      "content": "Créez la première vidéo dans Seedance 2.0, puis définissez cette vidéo comme référence omni lors de la génération du deuxième clip afin que les deux clips correspondent en style/continuité.\n\n--- SUITE DU FIL ---\n[Fil 1] Voici ma première tentative, script ajusté et style artistique ci-dessus https://t.co/dSOLiNQNHP"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で最初のビデオを作成し、そのビデオをオムニリファレンスとして設定して、2番目のクリップを生成する際にスタイルや連続性が一致するようにします。\n\n--- スレッドの続き ---\n[スレッド1] こちらが私の最初の試みで、上記のスクリプトとアートスタイルを調整しました https://t.co/dSOLiNQNHP\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 첫 번째 비디오를 생성한 다음, 두 번째 클립을 생성할 때 스타일/연속성을 맞추기 위해 그 비디오를 옴니 참조로 설정하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 여기 제 첫 번째 시도입니다. 위의 스크립트와 아트 스타일을 조정했습니다. https://t.co/dSOLiNQNHP\n---"
+    },
+    "pt": {
+      "content": "Crie o primeiro vídeo no Seedance 2.0, depois defina esse vídeo como a referência omni ao gerar o segundo clipe para que ambos os clipes combinem em estilo/continuidade.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Aqui está minha primeira tentativa, roteiro ajustado e estilo de arte acima https://t.co/dSOLiNQNHP\n---"
+    },
+    "zh": {
+      "content": "在Seedance 2.0中创建第一个视频，然后将该视频设置为生成第二个片段时的全局参考，以便两个片段在风格/连续性上匹配。\n\n--- 线程继续 ---\n[线程 1] 这是我的第一次尝试，调整了上面的脚本和艺术风格 https://t.co/dSOLiNQNHP"
+    }
   }
 }

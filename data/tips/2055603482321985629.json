@@ -1,37 +1,35 @@
 {
   "id": "2055603482321985629",
-  "type": "tip",
-  "url": "https://x.com/HeyAbhishek/status/2055603482321985629",
+  "title": "Go to Vidfield, open the canvas, upload your image, select Seedance 2, and…",
+  "content": "Go to Vidfield, open the canvas, upload your image, select Seedance 2, and generate the video.",
   "language": "en",
-  "created_at": "2026-05-16",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055603427129131008/img/XIfThFcbTALcu2Z5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055603482321985629.mp4",
+  "sourceLink": "https://x.com/HeyAbhishek/status/2055603482321985629",
+  "sourcePublishedAt": "2026-05-16",
   "author": {
     "name": "Abhishek",
-    "username": "HeyAbhishek",
-    "url": "https://x.com/HeyAbhishek",
-    "followers": 109260
+    "link": "https://x.com/HeyAbhishek"
   },
-  "text": "3/ Step 2:\n\nGo to @Vidfield\n\nThen:\n→ Go inside canvas\n→ Upload that image\n→ choose Seedance 2\n→ generate the video\n\nThat’s it.\n\ncheck Seedance 2.0 prompt below 👇 https://t.co/p2v9BhtQPb",
-  "content": "Go to Vidfield, open the canvas, upload your image, select Seedance 2, and generate the video.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 16,
-    "retweets": 2,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 17,
-    "views": 2510
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055603482321985629.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055603427129131008/img/XIfThFcbTALcu2Z5.jpg"
-  },
+  "tips": "Go to Vidfield, open the canvas, upload your image, select Seedance 2, and generate the video.",
   "translations": {
-    "es": "Ve a Vidfield, abre el lienzo, sube tu imagen, selecciona Seedance 2 y genera el video.",
-    "fr": "Allez sur Vidfield, ouvrez le canevas, téléchargez votre image, sélectionnez Seedance 2, et générez la vidéo.",
-    "ja": "Vidfieldにアクセスし、キャンバスを開き、画像をアップロードし、Seedance 2を選択してビデオを生成します。",
-    "ko": "Vidfield로 이동하여 캔버스를 열고 이미지를 업로드한 후 Seedance 2를 선택하고 비디오를 생성하세요.",
-    "pt-BR": "Vá para o Vidfield, abra a tela, faça o upload da sua imagem, selecione Seedance 2 e gere o vídeo.",
-    "zh-CN": "前往Vidfield，打开画布，上传你的图像，选择Seedance 2，然后生成视频。"
+    "es": {
+      "content": "Ve a Vidfield, abre el lienzo, sube tu imagen, selecciona Seedance 2 y genera el video."
+    },
+    "fr": {
+      "content": "Allez sur Vidfield, ouvrez le canevas, téléchargez votre image, sélectionnez Seedance 2, et générez la vidéo."
+    },
+    "ja": {
+      "content": "Vidfieldにアクセスし、キャンバスを開き、画像をアップロードし、Seedance 2を選択してビデオを生成します。"
+    },
+    "ko": {
+      "content": "Vidfield로 이동하여 캔버스를 열고 이미지를 업로드한 후 Seedance 2를 선택하고 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Vá para o Vidfield, abra a tela, faça o upload da sua imagem, selecione Seedance 2 e gere o vídeo."
+    },
+    "zh": {
+      "content": "前往Vidfield，打开画布，上传你的图像，选择Seedance 2，然后生成视频。"
+    }
   }
 }

@@ -1,37 +1,35 @@
 {
   "id": "2060693422600585633",
-  "type": "tip",
-  "url": "https://x.com/Spectromachina/status/2060693422600585633",
+  "title": "Adapt your reference images to match the color palette of the first reference…",
+  "content": "Adapt your reference images to match the color palette of the first reference image to get more life-like results in Seedance 2.0",
   "language": "en",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060692951538245634/img/I35h5hc5AE2ITReH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060693422600585633.mp4",
+  "sourceLink": "https://x.com/Spectromachina/status/2060693422600585633",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "Spectro 🇺🇸",
-    "username": "Spectromachina",
-    "url": "https://x.com/Spectromachina",
-    "followers": 674
+    "link": "https://x.com/Spectromachina"
   },
-  "text": "Now adapting the ref images to match the colors of the first (somewhat) gave a better result that looks more life-like. Seedance 2.0 is pretty cool, i might start creating with it more often. https://t.co/FMz2vd7plY",
-  "content": "Adapt your reference images to match the color palette of the first reference image to get more life-like results in Seedance 2.0",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 21,
-    "retweets": 0,
-    "replies": 5,
-    "quotes": 1,
-    "bookmarks": 11,
-    "views": 1809
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060693422600585633.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060692951538245634/img/I35h5hc5AE2ITReH.jpg"
-  },
+  "tips": "Adapt your reference images to match the color palette of the first reference image to get more life-like results in Seedance 2.0",
   "translations": {
-    "es": "Adapta tus imágenes de referencia para que coincidan con la paleta de colores de la primera imagen de referencia y obtén resultados más realistas en Seedance 2.0",
-    "fr": "Adaptez vos images de référence pour correspondre à la palette de couleurs de la première image de référence afin d'obtenir des résultats plus réalistes dans Seedance 2.0.",
-    "ja": "Seedance 2.0でよりリアルな結果を得るために、参照画像を最初の参照画像のカラーパレットに合わせて調整してください。",
-    "ko": "Seedance 2.0에서 보다 생생한 결과를 얻기 위해 첫 번째 참고 이미지의 색상 팔레트에 맞춰 참고 이미지를 조정하세요.",
-    "pt-BR": "Adapte suas imagens de referência para corresponder à paleta de cores da primeira imagem de referência para obter resultados mais realistas no Seedance 2.0",
-    "zh-CN": "将您的参考图像调整为与第一个参考图像的色彩调色板相匹配，以在Seedance 2.0中获得更逼真的效果。"
+    "es": {
+      "content": "Adapta tus imágenes de referencia para que coincidan con la paleta de colores de la primera imagen de referencia y obtén resultados más realistas en Seedance 2.0"
+    },
+    "fr": {
+      "content": "Adaptez vos images de référence pour correspondre à la palette de couleurs de la première image de référence afin d'obtenir des résultats plus réalistes dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "Seedance 2.0でよりリアルな結果を得るために、参照画像を最初の参照画像のカラーパレットに合わせて調整してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 보다 생생한 결과를 얻기 위해 첫 번째 참고 이미지의 색상 팔레트에 맞춰 참고 이미지를 조정하세요."
+    },
+    "pt": {
+      "content": "Adapte suas imagens de referência para corresponder à paleta de cores da primeira imagem de referência para obter resultados mais realistas no Seedance 2.0"
+    },
+    "zh": {
+      "content": "将您的参考图像调整为与第一个参考图像的色彩调色板相匹配，以在Seedance 2.0中获得更逼真的效果。"
+    }
   }
 }

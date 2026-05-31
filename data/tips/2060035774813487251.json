@@ -1,37 +1,35 @@
 {
   "id": "2060035774813487251",
-  "type": "tip",
-  "url": "https://x.com/Alex_Inspira/status/2060035774813487251",
+  "title": "Usa una imagen de referencia junto con un vídeo de referencia de movimiento…",
+  "content": "Usa una imagen de referencia junto con un vídeo de referencia de movimiento para lograr movimiento consistente y un movimiento de cámara más cinematográfico en Dreamina Seedance 2.0.",
   "language": "es",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060035723412324352/img/eZNeoMHYf08SGoFs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060035774813487251.mp4",
+  "sourceLink": "https://x.com/Alex_Inspira/status/2060035774813487251",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Alexander Inspira IA",
-    "username": "Alex_Inspira",
-    "url": "https://x.com/Alex_Inspira",
-    "followers": 88406
+    "link": "https://x.com/Alex_Inspira"
   },
-  "text": "Muestra de resultados ↓\n\nIzquierda:\nReferencias originales\n→ Imagen de referencia\n→ Vídeo de referencia de movimiento\n\nDerecha:\nGeneración final de Dreamina Seedance 2.0\n\nLa diferencia es evidente:\n\n✓ Movimiento consistente\n✓ Movimiento de cámara cinematográfico\n✓ Flujo de animación realista\n✓ Generación de escenas controlable\n\nEste es el primer flujo de trabajo de vídeo con IA que realmente se siente \"dirigido\" en lugar de aleatorio.",
-  "content": "Usa una imagen de referencia junto con un vídeo de referencia de movimiento para lograr movimiento consistente y un movimiento de cámara más cinematográfico en Dreamina Seedance 2.0.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 12,
-    "retweets": 3,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 1,
-    "views": 2345
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060035774813487251.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060035723412324352/img/eZNeoMHYf08SGoFs.jpg"
-  },
+  "tips": "Usa una imagen de referencia junto con un vídeo de referencia de movimiento para lograr movimiento consistente y un movimiento de cámara más cinematográfico en Dreamina Seedance 2.0.",
   "translations": {
-    "en": "Use a reference image along with a motion reference video to achieve consistent movement and a more cinematic camera movement in Dreamina Seedance 2.0.",
-    "fr": "Utilisez une image de référence ainsi qu'une vidéo de référence de mouvement pour obtenir un mouvement cohérent et un mouvement de caméra plus cinématographique dans Dreamina Seedance 2.0.",
-    "ja": "Dreamina Seedance 2.0では、一貫した動きとよりシネマティックなカメラの動きを実現するために、参照画像と動きの参照ビデオを使用します。",
-    "ko": "Dreamina Seedance 2.0에서 일관된 움직임과 더 영화적인 카메라 움직임을 달성하기 위해 참조 이미지와 함께 참조 동작 비디오를 사용하세요.",
-    "pt-BR": "Use uma imagem de referência junto com um vídeo de referência de movimento para alcançar um movimento consistente e um movimento de câmera mais cinematográfico no Dreamina Seedance 2.0.",
-    "zh-CN": "在 Dreamina Seedance 2.0 中，使用参考图像和运动参考视频，以实现一致的运动和更具电影感的摄像机运动。"
+    "en": {
+      "content": "Use a reference image along with a motion reference video to achieve consistent movement and a more cinematic camera movement in Dreamina Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez une image de référence ainsi qu'une vidéo de référence de mouvement pour obtenir un mouvement cohérent et un mouvement de caméra plus cinématographique dans Dreamina Seedance 2.0."
+    },
+    "ja": {
+      "content": "Dreamina Seedance 2.0では、一貫した動きとよりシネマティックなカメラの動きを実現するために、参照画像と動きの参照ビデオを使用します。"
+    },
+    "ko": {
+      "content": "Dreamina Seedance 2.0에서 일관된 움직임과 더 영화적인 카메라 움직임을 달성하기 위해 참조 이미지와 함께 참조 동작 비디오를 사용하세요."
+    },
+    "pt": {
+      "content": "Use uma imagem de referência junto com um vídeo de referência de movimento para alcançar um movimento consistente e um movimento de câmera mais cinematográfico no Dreamina Seedance 2.0."
+    },
+    "zh": {
+      "content": "在 Dreamina Seedance 2.0 中，使用参考图像和运动参考视频，以实现一致的运动和更具电影感的摄像机运动。"
+    }
   }
 }

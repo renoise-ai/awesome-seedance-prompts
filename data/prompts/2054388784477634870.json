@@ -1,42 +1,34 @@
 {
   "id": "2054388784477634870",
-  "type": "prompt",
-  "url": "https://x.com/HeyRu0by/status/2054388784477634870",
+  "title": "Design a comprehensive, AI-powered reporting system that leverages real-time…",
+  "content": "Design a comprehensive, AI-powered reporting system that leverages real-time climate data from multiple sources to create in-depth visual reports and predictive analytics. This system will empower users to monitor environmental changes, analyze trends, and make informed decisions about future climate risks and opportunities.",
   "language": "en",
-  "created_at": "2026-05-13",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054388749199691776/pu/img/vElFyuoMYaNjJkFI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054388784477634870.mp4",
+  "sourceLink": "https://x.com/HeyRu0by/status/2054388784477634870",
+  "sourcePublishedAt": "2026-05-13",
   "author": {
     "name": "Ruby Ai",
-    "username": "HeyRu0by",
-    "url": "https://x.com/HeyRu0by",
-    "followers": 8653
-  },
-  "text": "Made with seedance 2.0 on @yapper_so\n\nPrompt:\nDesign a comprehensive, AI-powered reporting system that leverages real-time climate data from multiple sources to create in-depth visual reports and predictive analytics. This system will empower users to monitor environmental changes, analyze trends, and make informed decisions about future climate risks and opportunities.\"",
-  "content": "Design a comprehensive, AI-powered reporting system that leverages real-time climate data from multiple sources to create in-depth visual reports and predictive analytics. This system will empower users to monitor environmental changes, analyze trends, and make informed decisions about future climate risks and opportunities.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 297,
-    "retweets": 15,
-    "replies": 19,
-    "quotes": 1,
-    "bookmarks": 5,
-    "views": 9094
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054388784477634870.mp4",
-    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054388749199691776/pu/img/vElFyuoMYaNjJkFI.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "https://t.co/Af9xABJTVF"
-    ]
+    "link": "https://x.com/HeyRu0by"
   },
   "translations": {
-    "es": "Diseña un sistema de informes integral impulsado por IA que aproveche datos climáticos en tiempo real de múltiples fuentes para crear informes visuales detallados y análisis predictivos. Este sistema permitirá a los usuarios monitorear cambios ambientales, analizar tendencias y tomar decisiones informadas sobre riesgos y oportunidades climáticas futuras.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/Af9xABJTVF",
-    "fr": "Concevez un système de rapport complet, alimenté par l'IA, qui exploite des données climatiques en temps réel provenant de multiples sources pour créer des rapports visuels approfondis et des analyses prédictives. Ce système permettra aux utilisateurs de surveiller les changements environnementaux, d'analyser les tendances et de prendre des décisions éclairées sur les risques et opportunités climatiques futurs.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/Af9xABJTVF",
-    "ja": "---  \n複数の情報源からのリアルタイムの気候データを活用し、詳細なビジュアルレポートと予測分析を作成する包括的なAI駆動の報告システムを設計します。このシステムは、ユーザーが環境の変化を監視し、トレンドを分析し、将来の気候リスクと機会について情報に基づいた意思決定を行うことを可能にします。\n\n--- THREAD CONTINUATION ---  \n[Thread 1] https://t.co/Af9xABJTVF  \n---",
-    "ko": "실시간 기후 데이터를 여러 출처에서 활용하여 심층적인 시각 보고서와 예측 분석을 생성하는 포괄적인 AI 기반 보고 시스템을 설계하세요. 이 시스템은 사용자가 환경 변화를 모니터링하고, 트렌드를 분석하며, 미래의 기후 위험과 기회에 대한 정보에 입각한 결정을 내릴 수 있도록 지원할 것입니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/Af9xABJTVF\n---",
-    "pt-BR": "Desenvolva um sistema de relatórios abrangente, alimentado por IA, que aproveite dados climáticos em tempo real de várias fontes para criar relatórios visuais detalhados e análises preditivas. Este sistema capacitará os usuários a monitorar mudanças ambientais, analisar tendências e tomar decisões informadas sobre riscos e oportunidades climáticas futuras.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/Af9xABJTVF",
-    "zh-CN": "设计一个全面的、由AI驱动的报告系统，该系统利用来自多个来源的实时气候数据，创建深入的可视化报告和预测分析。此系统将使用户能够监测环境变化、分析趋势，并就未来的气候风险和机遇做出明智的决策。\n\n--- 线程继续 ---\n[线程 1] https://t.co/Af9xABJTVF"
+    "es": {
+      "content": "Diseña un sistema de informes integral impulsado por IA que aproveche datos climáticos en tiempo real de múltiples fuentes para crear informes visuales detallados y análisis predictivos. Este sistema permitirá a los usuarios monitorear cambios ambientales, analizar tendencias y tomar decisiones informadas sobre riesgos y oportunidades climáticas futuras.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/Af9xABJTVF"
+    },
+    "fr": {
+      "content": "Concevez un système de rapport complet, alimenté par l'IA, qui exploite des données climatiques en temps réel provenant de multiples sources pour créer des rapports visuels approfondis et des analyses prédictives. Ce système permettra aux utilisateurs de surveiller les changements environnementaux, d'analyser les tendances et de prendre des décisions éclairées sur les risques et opportunités climatiques futurs.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/Af9xABJTVF"
+    },
+    "ja": {
+      "content": "---  \n複数の情報源からのリアルタイムの気候データを活用し、詳細なビジュアルレポートと予測分析を作成する包括的なAI駆動の報告システムを設計します。このシステムは、ユーザーが環境の変化を監視し、トレンドを分析し、将来の気候リスクと機会について情報に基づいた意思決定を行うことを可能にします。\n\n--- THREAD CONTINUATION ---  \n[Thread 1] https://t.co/Af9xABJTVF  \n---"
+    },
+    "ko": {
+      "content": "실시간 기후 데이터를 여러 출처에서 활용하여 심층적인 시각 보고서와 예측 분석을 생성하는 포괄적인 AI 기반 보고 시스템을 설계하세요. 이 시스템은 사용자가 환경 변화를 모니터링하고, 트렌드를 분석하며, 미래의 기후 위험과 기회에 대한 정보에 입각한 결정을 내릴 수 있도록 지원할 것입니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/Af9xABJTVF\n---"
+    },
+    "pt": {
+      "content": "Desenvolva um sistema de relatórios abrangente, alimentado por IA, que aproveite dados climáticos em tempo real de várias fontes para criar relatórios visuais detalhados e análises preditivas. Este sistema capacitará os usuários a monitorar mudanças ambientais, analisar tendências e tomar decisões informadas sobre riscos e oportunidades climáticas futuras.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/Af9xABJTVF"
+    },
+    "zh": {
+      "content": "设计一个全面的、由AI驱动的报告系统，该系统利用来自多个来源的实时气候数据，创建深入的可视化报告和预测分析。此系统将使用户能够监测环境变化、分析趋势，并就未来的气候风险和机遇做出明智的决策。\n\n--- 线程继续 ---\n[线程 1] https://t.co/Af9xABJTVF"
+    }
   }
 }

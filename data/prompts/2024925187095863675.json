@@ -1,40 +1,34 @@
 {
   "id": "2024925187095863675",
-  "type": "prompt",
-  "url": "https://x.com/SDxArt/status/2024925187095863675",
+  "title": "Replace the character in Video 1 with the basketball player from Image 1. The…",
+  "content": "Replace the character in Video 1 with the basketball player from Image 1. The player’s body proportions, facial features, and athletic build must remain consistent throughout the entire sequence.",
   "language": "en",
-  "created_at": "2026-02-20",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024924975992295424/img/6yl5iyglwHeKfZXH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2024925187095863675.mp4",
+  "sourceLink": "https://x.com/SDxArt/status/2024925187095863675",
+  "sourcePublishedAt": "2026-02-20",
   "author": {
     "name": "SD | AI Animation Storyteller",
-    "username": "SDxArt",
-    "url": "https://x.com/SDxArt",
-    "followers": 2274
-  },
-  "text": "Test 4 🚨 Complex camera moves.\n\nSeedance 2.0 just makes anything look too simple.\n\nSingle line prompt used : Replace the character in @  Video 1 with the basketball player from @ Image 1. The player’s body proportions, facial features, and athletic build must remain consistent throughout the entire sequence.\n\nFrom court vision to AI POV, following the motion, the rhythm, the flow.\n\nSame player. Same movement. New universe. 🏀👁️‍🗨️",
-  "content": "Replace the character in Video 1 with the basketball player from Image 1. The player’s body proportions, facial features, and athletic build must remain consistent throughout the entire sequence.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 12,
-    "retweets": 2,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 6,
-    "views": 755
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2024925187095863675.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024924975992295424/img/6yl5iyglwHeKfZXH.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "Test 2 🚨\n\nSeedance 2.0 can take any video + any reference image and seamlessly swap the person while keeping their outfit, movements, and even changing the language.\n\nOne prompt. Zero manual editing."
+    "link": "https://x.com/SDxArt"
   },
   "translations": {
-    "es": "Reemplaza el personaje en el Video 1 con el jugador de baloncesto de la Imagen 1. Las proporciones corporales, rasgos faciales y complexión atlética del jugador deben mantenerse consistentes a lo largo de toda la secuencia.\n\n--- QUOTED TWEET ---\nPrueba 2 🚨\n\nSeedance 2.0 puede tomar cualquier video + cualquier imagen de referencia y cambiar a la persona de manera fluida mientras mantiene su atuendo, movimientos e incluso cambia el idioma.\n\nUn prompt. Cero edición manual.\n---",
-    "fr": "Remplacez le personnage de la Vidéo 1 par le joueur de basketball de l'Image 1. Les proportions corporelles, les traits du visage et la carrure athlétique du joueur doivent rester cohérents tout au long de la séquence.\n\n--- QUOTED TWEET ---\nTest 2 🚨\n\nSeedance 2.0 peut prendre n'importe quelle vidéo + n'importe quelle image de référence et échanger la personne de manière fluide tout en conservant sa tenue, ses mouvements, et même en changeant la langue.\n\nUn seul prompt. Aucune édition manuelle.\n---",
-    "ja": "---\nビデオ1のキャラクターを画像1のバスケットボール選手に置き換えてください。選手の体のプロポーション、顔の特徴、アスリートの体格は、シーケンス全体を通して一貫している必要があります。\n\n--- 引用ツイート ---\nテスト2 🚨\n\nSeedance 2.0は、任意のビデオと任意の参照画像を取り込み、衣装、動き、さらには言語を変更しながら、人物をシームレスに入れ替えることができます。\n\nワンプロンプト。手動編集はゼロ。\n---",
-    "ko": "비디오 1의 캐릭터를 이미지 1의 농구 선수로 교체하세요. 선수의 신체 비율, 얼굴 특징, 그리고 운동적인 체형은 전체 시퀀스 동안 일관되게 유지되어야 합니다.\n\n--- 인용된 트윗 ---\n테스트 2 🚨\n\nSeedance 2.0은 어떤 비디오와 참조 이미지를 사용하여 사람을 매끄럽게 교체할 수 있으며, 그들의 의상, 움직임을 유지하고 심지어 언어도 변경할 수 있습니다.\n\n하나의 프롬프트. 수동 편집 없음.",
-    "pt-BR": "Substitua o personagem no Vídeo 1 pelo jogador de basquete da Imagem 1. As proporções do corpo do jogador, características faciais e porte atlético devem permanecer consistentes durante toda a sequência.\n\n--- QUOTED TWEET ---\nTeste 2 🚨\n\nSeedance 2.0 pode pegar qualquer vídeo + qualquer imagem de referência e trocar a pessoa de forma perfeita, mantendo sua roupa, movimentos e até mudando o idioma.\n\nUm prompt. Zero edição manual.\n---",
-    "zh-CN": "将视频1中的角色替换为图像1中的篮球运动员。运动员的身体比例、面部特征和运动体型在整个序列中必须保持一致。\n\n--- 引用推文 ---\n测试2 🚨\n\nSeedance 2.0 可以将任何视频和任何参考图像无缝替换人物，同时保持他们的服装、动作，甚至可以更改语言。\n\n一个prompt。零手动编辑。"
+    "es": {
+      "content": "Reemplaza el personaje en el Video 1 con el jugador de baloncesto de la Imagen 1. Las proporciones corporales, rasgos faciales y complexión atlética del jugador deben mantenerse consistentes a lo largo de toda la secuencia.\n\n--- QUOTED TWEET ---\nPrueba 2 🚨\n\nSeedance 2.0 puede tomar cualquier video + cualquier imagen de referencia y cambiar a la persona de manera fluida mientras mantiene su atuendo, movimientos e incluso cambia el idioma.\n\nUn prompt. Cero edición manual.\n---"
+    },
+    "fr": {
+      "content": "Remplacez le personnage de la Vidéo 1 par le joueur de basketball de l'Image 1. Les proportions corporelles, les traits du visage et la carrure athlétique du joueur doivent rester cohérents tout au long de la séquence.\n\n--- QUOTED TWEET ---\nTest 2 🚨\n\nSeedance 2.0 peut prendre n'importe quelle vidéo + n'importe quelle image de référence et échanger la personne de manière fluide tout en conservant sa tenue, ses mouvements, et même en changeant la langue.\n\nUn seul prompt. Aucune édition manuelle.\n---"
+    },
+    "ja": {
+      "content": "---\nビデオ1のキャラクターを画像1のバスケットボール選手に置き換えてください。選手の体のプロポーション、顔の特徴、アスリートの体格は、シーケンス全体を通して一貫している必要があります。\n\n--- 引用ツイート ---\nテスト2 🚨\n\nSeedance 2.0は、任意のビデオと任意の参照画像を取り込み、衣装、動き、さらには言語を変更しながら、人物をシームレスに入れ替えることができます。\n\nワンプロンプト。手動編集はゼロ。\n---"
+    },
+    "ko": {
+      "content": "비디오 1의 캐릭터를 이미지 1의 농구 선수로 교체하세요. 선수의 신체 비율, 얼굴 특징, 그리고 운동적인 체형은 전체 시퀀스 동안 일관되게 유지되어야 합니다.\n\n--- 인용된 트윗 ---\n테스트 2 🚨\n\nSeedance 2.0은 어떤 비디오와 참조 이미지를 사용하여 사람을 매끄럽게 교체할 수 있으며, 그들의 의상, 움직임을 유지하고 심지어 언어도 변경할 수 있습니다.\n\n하나의 프롬프트. 수동 편집 없음."
+    },
+    "pt": {
+      "content": "Substitua o personagem no Vídeo 1 pelo jogador de basquete da Imagem 1. As proporções do corpo do jogador, características faciais e porte atlético devem permanecer consistentes durante toda a sequência.\n\n--- QUOTED TWEET ---\nTeste 2 🚨\n\nSeedance 2.0 pode pegar qualquer vídeo + qualquer imagem de referência e trocar a pessoa de forma perfeita, mantendo sua roupa, movimentos e até mudando o idioma.\n\nUm prompt. Zero edição manual.\n---"
+    },
+    "zh": {
+      "content": "将视频1中的角色替换为图像1中的篮球运动员。运动员的身体比例、面部特征和运动体型在整个序列中必须保持一致。\n\n--- 引用推文 ---\n测试2 🚨\n\nSeedance 2.0 可以将任何视频和任何参考图像无缝替换人物，同时保持他们的服装、动作，甚至可以更改语言。\n\n一个prompt。零手动编辑。"
+    }
   }
 }

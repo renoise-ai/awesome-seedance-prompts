@@ -1,37 +1,35 @@
 {
   "id": "2060465130593264011",
-  "type": "tip",
-  "url": "https://x.com/PZDesignAI/status/2060465130593264011",
+  "title": "Storyboard the full camera path before prompting in Seedance 2 (e.g., wide…",
+  "content": "Storyboard the full camera path before prompting in Seedance 2 (e.g., wide aerial → push-in → threshold entry → interior reveal) to guide the scene like a director’s map instead of generating isolated shots.  \nDefine per-shot specifics in the storyboard—camera movement, lens choice, pacing, sound cues, transitions, and the visual objective—then generate each panel/shot to improve consistency and control.  \nAssign each storyboard panel a single technical job (establish geography, build momentum, showcase scale, create tension) and prompt/generate shots to fulfill that job.  \nUse a match cut planned in the storyboard (e.g., through doors) to sell transitions between exterior and interior shots when stitching Seedance outputs.",
   "language": "en",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060463973204389892/img/UDJ9UYALzD26hmb9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060465130593264011.mp4",
+  "sourceLink": "https://x.com/PZDesignAI/status/2060465130593264011",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "Pelaez Design AI",
-    "username": "PZDesignAI",
-    "url": "https://x.com/PZDesignAI",
-    "followers": 667
+    "link": "https://x.com/PZDesignAI"
   },
-  "text": "Created this drone flythrough using Seedance 2, testing how a storyboard can guide an AI scene like a mini director’s map: wide aerial, push-in, threshold entry, interior reveal.\n\nWhat I’m learning is that AI filmmaking works much better when you don’t just “prompt a shot,” but actually storyboard the camera path, lens choice, pacing, sound cues, transitions, and visual objective first.\n\nEach panel had a technical job: the wide aerial established geography, the drone push-in built momentum, the orbit shot showcased the mansion’s scale, the dolly-in created tension, and the match cut through the doors helped sell the transition into the ritual hall.\n\nStill figuring it out as I go, but the big win was realizing that storyboards help turn AI from a random image machine into something closer to a little film crew that actually follows direction  at least most of the time.",
-  "content": "Storyboard the full camera path before prompting in Seedance 2 (e.g., wide aerial → push-in → threshold entry → interior reveal) to guide the scene like a director’s map instead of generating isolated shots.  \nDefine per-shot specifics in the storyboard—camera movement, lens choice, pacing, sound cues, transitions, and the visual objective—then generate each panel/shot to improve consistency and control.  \nAssign each storyboard panel a single technical job (establish geography, build momentum, showcase scale, create tension) and prompt/generate shots to fulfill that job.  \nUse a match cut planned in the storyboard (e.g., through doors) to sell transitions between exterior and interior shots when stitching Seedance outputs.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 31,
-    "retweets": 2,
-    "replies": 10,
-    "quotes": 0,
-    "bookmarks": 12,
-    "views": 1162
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060465130593264011.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060463973204389892/img/UDJ9UYALzD26hmb9.jpg"
-  },
+  "tips": "Storyboard the full camera path before prompting in Seedance 2 (e.g., wide aerial → push-in → threshold entry → interior reveal) to guide the scene like a director’s map instead of generating isolated shots.  \nDefine per-shot specifics in the storyboard—camera movement, lens choice, pacing, sound cues, transitions, and the visual objective—then generate each panel/shot to improve consistency and control.  \nAssign each storyboard panel a single technical job (establish geography, build momentum, showcase scale, create tension) and prompt/generate shots to fulfill that job.  \nUse a match cut planned in the storyboard (e.g., through doors) to sell transitions between exterior and interior shots when stitching Seedance outputs.",
   "translations": {
-    "es": "Planifica todo el recorrido de la cámara antes de crear un prompt en Seedance 2 (por ejemplo, vista aérea amplia → acercamiento → entrada al umbral → revelación interior) para guiar la escena como un mapa de director en lugar de generar tomas aisladas.  \nDefine los detalles específicos de cada toma en el storyboard: movimiento de cámara, elección de lente, ritmo, señales de sonido, transiciones y el objetivo visual; luego genera cada panel/toma para mejorar la consistencia y el control.  \nAsigna a cada panel del storyboard una única tarea técnica (establecer geografía, construir impulso, mostrar escala, crear tensión) y crea/genera tomas para cumplir con esa tarea.  \nUtiliza un corte por coincidencia planificado en el storyboard (por ejemplo, a través de puertas) para lograr transiciones entre tomas exteriores e interiores al unir las salidas de Seedance.",
-    "fr": "---\nPlanifiez le chemin complet de la caméra avant de lancer un prompt dans Seedance 2 (par exemple, vue aérienne large → zoom avant → entrée de seuil → révélation intérieure) pour guider la scène comme une carte de réalisateur plutôt que de générer des plans isolés.  \nDéfinissez les spécificités de chaque plan dans le storyboard—mouvement de la caméra, choix de l'objectif, rythme, indices sonores, transitions et l'objectif visuel—puis générez chaque panneau/plan pour améliorer la cohérence et le contrôle.  \nAttribuez à chaque panneau du storyboard une seule tâche technique (établir la géographie, construire le momentum, montrer l'échelle, créer la tension) et générez des plans pour accomplir cette tâche.  \nUtilisez une coupe franche planifiée dans le storyboard (par exemple, à travers des portes) pour faciliter les transitions entre les plans extérieurs et intérieurs lors de l'assemblage des sorties de Seedance.  \n---",
-    "ja": "---\nSeedance 2でプロンプトを行う前に、カメラの全経路をストーリーボード化します（例：広い空撮 → プッシュイン → 閾値エントリー → 内部の明かし）ことで、孤立したショットを生成するのではなく、監督の地図のようにシーンをガイドします。  \nストーリーボードでショットごとの詳細を定義します—カメラの動き、レンズの選択、ペーシング、音のキュー、トランジション、視覚的な目的—そして各パネル/ショットを生成して、一貫性とコントロールを向上させます。  \n各ストーリーボードパネルに単一の技術的な役割を割り当てます（地理を確立する、勢いをつける、スケールを見せる、緊張を生む）し、その役割を果たすためにショットをプロンプト/生成します。  \nストーリーボードで計画されたマッチカットを使用して（例：ドアを通して）、Seedanceの出力をつなぎ合わせる際に外部と内部のショット間のトランジションを売り込みます。  \n---",
-    "ko": "---\nSeedance 2에서 프롬프트를 입력하기 전에 전체 카메라 경로를 스토리보드로 작성하세요 (예: 넓은 항공 촬영 → 줌 인 → 문턱 진입 → 내부 공개). 이렇게 하면 개별 샷을 생성하는 대신 감독의 지도로 장면을 안내할 수 있습니다.  \n스토리보드에서 각 샷의 세부 사항을 정의하세요—카메라 움직임, 렌즈 선택, 속도, 사운드 큐, 전환, 시각적 목표—그런 다음 각 패널/샷을 생성하여 일관성과 제어를 향상시킵니다.  \n각 스토리보드 패널에 단일 기술적 작업을 할당하세요 (지리적 설정, 모멘텀 구축, 규모 강조, 긴장감 조성) 그리고 그 작업을 수행하기 위해 샷을 프롬프트/생성하세요.  \n스토리보드에서 계획된 매치 컷을 사용하여 (예: 문을 통해) Seedance 출력물을 연결할 때 외부와 내부 샷 간의 전환을 매끄럽게 만드세요.\n---",
-    "pt-BR": "Planeje todo o caminho da câmera antes de criar o prompt no Seedance 2 (por exemplo, vista aérea ampla → zoom-in → entrada no limiar → revelação interior) para guiar a cena como um mapa de diretor, em vez de gerar tomadas isoladas.  \nDefina os detalhes específicos de cada tomada no storyboard—movimento da câmera, escolha de lente, ritmo, sinais sonoros, transições e o objetivo visual—e então gere cada painel/tomada para melhorar a consistência e o controle.  \nAtribua a cada painel do storyboard uma única função técnica (estabelecer geografia, construir momentum, mostrar escala, criar tensão) e crie/gere tomadas para cumprir essa função.  \nUse um corte de continuidade planejado no storyboard (por exemplo, através de portas) para facilitar as transições entre tomadas externas e internas ao unir as saídas do Seedance.",
-    "zh-CN": "在Seedance 2中进行提示之前，先为完整的摄像机路径制作分镜头脚本（例如，广角航拍 → 推进 → 门槛进入 → 内部揭示），以导演地图的方式引导场景，而不是生成孤立的镜头。  \n在分镜头脚本中定义每个镜头的具体细节——摄像机运动、镜头选择、节奏、声音提示、过渡和视觉目标——然后生成每个面板/镜头以提高一致性和控制力。  \n为每个分镜头面板分配一个技术任务（建立地理位置、构建动量、展示规模、制造紧张感），并提示/生成镜头以完成该任务。  \n在分镜头脚本中使用计划好的匹配剪辑（例如，通过门）来实现Seedance输出的外景和内景镜头之间的过渡。"
+    "es": {
+      "content": "Planifica todo el recorrido de la cámara antes de crear un prompt en Seedance 2 (por ejemplo, vista aérea amplia → acercamiento → entrada al umbral → revelación interior) para guiar la escena como un mapa de director en lugar de generar tomas aisladas.  \nDefine los detalles específicos de cada toma en el storyboard: movimiento de cámara, elección de lente, ritmo, señales de sonido, transiciones y el objetivo visual; luego genera cada panel/toma para mejorar la consistencia y el control.  \nAsigna a cada panel del storyboard una única tarea técnica (establecer geografía, construir impulso, mostrar escala, crear tensión) y crea/genera tomas para cumplir con esa tarea.  \nUtiliza un corte por coincidencia planificado en el storyboard (por ejemplo, a través de puertas) para lograr transiciones entre tomas exteriores e interiores al unir las salidas de Seedance."
+    },
+    "fr": {
+      "content": "---\nPlanifiez le chemin complet de la caméra avant de lancer un prompt dans Seedance 2 (par exemple, vue aérienne large → zoom avant → entrée de seuil → révélation intérieure) pour guider la scène comme une carte de réalisateur plutôt que de générer des plans isolés.  \nDéfinissez les spécificités de chaque plan dans le storyboard—mouvement de la caméra, choix de l'objectif, rythme, indices sonores, transitions et l'objectif visuel—puis générez chaque panneau/plan pour améliorer la cohérence et le contrôle.  \nAttribuez à chaque panneau du storyboard une seule tâche technique (établir la géographie, construire le momentum, montrer l'échelle, créer la tension) et générez des plans pour accomplir cette tâche.  \nUtilisez une coupe franche planifiée dans le storyboard (par exemple, à travers des portes) pour faciliter les transitions entre les plans extérieurs et intérieurs lors de l'assemblage des sorties de Seedance.  \n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2でプロンプトを行う前に、カメラの全経路をストーリーボード化します（例：広い空撮 → プッシュイン → 閾値エントリー → 内部の明かし）ことで、孤立したショットを生成するのではなく、監督の地図のようにシーンをガイドします。  \nストーリーボードでショットごとの詳細を定義します—カメラの動き、レンズの選択、ペーシング、音のキュー、トランジション、視覚的な目的—そして各パネル/ショットを生成して、一貫性とコントロールを向上させます。  \n各ストーリーボードパネルに単一の技術的な役割を割り当てます（地理を確立する、勢いをつける、スケールを見せる、緊張を生む）し、その役割を果たすためにショットをプロンプト/生成します。  \nストーリーボードで計画されたマッチカットを使用して（例：ドアを通して）、Seedanceの出力をつなぎ合わせる際に外部と内部のショット間のトランジションを売り込みます。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2에서 프롬프트를 입력하기 전에 전체 카메라 경로를 스토리보드로 작성하세요 (예: 넓은 항공 촬영 → 줌 인 → 문턱 진입 → 내부 공개). 이렇게 하면 개별 샷을 생성하는 대신 감독의 지도로 장면을 안내할 수 있습니다.  \n스토리보드에서 각 샷의 세부 사항을 정의하세요—카메라 움직임, 렌즈 선택, 속도, 사운드 큐, 전환, 시각적 목표—그런 다음 각 패널/샷을 생성하여 일관성과 제어를 향상시킵니다.  \n각 스토리보드 패널에 단일 기술적 작업을 할당하세요 (지리적 설정, 모멘텀 구축, 규모 강조, 긴장감 조성) 그리고 그 작업을 수행하기 위해 샷을 프롬프트/생성하세요.  \n스토리보드에서 계획된 매치 컷을 사용하여 (예: 문을 통해) Seedance 출력물을 연결할 때 외부와 내부 샷 간의 전환을 매끄럽게 만드세요.\n---"
+    },
+    "pt": {
+      "content": "Planeje todo o caminho da câmera antes de criar o prompt no Seedance 2 (por exemplo, vista aérea ampla → zoom-in → entrada no limiar → revelação interior) para guiar a cena como um mapa de diretor, em vez de gerar tomadas isoladas.  \nDefina os detalhes específicos de cada tomada no storyboard—movimento da câmera, escolha de lente, ritmo, sinais sonoros, transições e o objetivo visual—e então gere cada painel/tomada para melhorar a consistência e o controle.  \nAtribua a cada painel do storyboard uma única função técnica (estabelecer geografia, construir momentum, mostrar escala, criar tensão) e crie/gere tomadas para cumprir essa função.  \nUse um corte de continuidade planejado no storyboard (por exemplo, através de portas) para facilitar as transições entre tomadas externas e internas ao unir as saídas do Seedance."
+    },
+    "zh": {
+      "content": "在Seedance 2中进行提示之前，先为完整的摄像机路径制作分镜头脚本（例如，广角航拍 → 推进 → 门槛进入 → 内部揭示），以导演地图的方式引导场景，而不是生成孤立的镜头。  \n在分镜头脚本中定义每个镜头的具体细节——摄像机运动、镜头选择、节奏、声音提示、过渡和视觉目标——然后生成每个面板/镜头以提高一致性和控制力。  \n为每个分镜头面板分配一个技术任务（建立地理位置、构建动量、展示规模、制造紧张感），并提示/生成镜头以完成该任务。  \n在分镜头脚本中使用计划好的匹配剪辑（例如，通过门）来实现Seedance输出的外景和内景镜头之间的过渡。"
+    }
   }
 }

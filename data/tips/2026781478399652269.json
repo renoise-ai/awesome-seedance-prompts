@@ -1,37 +1,35 @@
 {
   "id": "2026781478399652269",
-  "type": "tip",
-  "url": "https://x.com/mxvdxn/status/2026781478399652269",
+  "title": "Generate a 15‑second Seedance 2.0 clip in CapCut to get fast turnaround (~2 min…",
+  "content": "Generate a 15‑second Seedance 2.0 clip in CapCut to get fast turnaround (~2 min 30 sec) and have it appear directly on your CapCut editing timeline for immediate filtering/editing.",
   "language": "en",
-  "created_at": "2026-02-25",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026780702050758656/img/bihGO6qzUygt7Nd4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026781478399652269.mp4",
+  "sourceLink": "https://x.com/mxvdxn/status/2026781478399652269",
+  "sourcePublishedAt": "2026-02-25",
   "author": {
     "name": "DAN",
-    "username": "mxvdxn",
-    "url": "https://x.com/mxvdxn",
-    "followers": 15227
+    "link": "https://x.com/mxvdxn"
   },
-  "text": "Let's gooo!! Seedance 2.0 is finally available in @capcutapp and it's damn fast. It only takes around 2 minutes and 30 seconds to generate a 15 second clip.\n\nLove it because it generate straight to my CapCut editing timeline, so i can straight away apply my fav filters. https://t.co/mKn0U0A1Hv",
-  "content": "Generate a 15‑second Seedance 2.0 clip in CapCut to get fast turnaround (~2 min 30 sec) and have it appear directly on your CapCut editing timeline for immediate filtering/editing.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 656,
-    "retweets": 109,
-    "replies": 48,
-    "quotes": 4,
-    "bookmarks": 287,
-    "views": 49829
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026781478399652269.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026780702050758656/img/bihGO6qzUygt7Nd4.jpg"
-  },
+  "tips": "Generate a 15‑second Seedance 2.0 clip in CapCut to get fast turnaround (~2 min 30 sec) and have it appear directly on your CapCut editing timeline for immediate filtering/editing.",
   "translations": {
-    "es": "Genera un clip de 15 segundos de Seedance 2.0 en CapCut para obtener un resultado rápido (~2 min 30 seg) y que aparezca directamente en tu línea de tiempo de edición de CapCut para filtrado/edición inmediato.",
-    "fr": "Générez un clip Seedance 2.0 de 15 secondes dans CapCut pour obtenir un rendu rapide (~2 min 30 sec) et le voir apparaître directement sur votre timeline d'édition CapCut pour un filtrage/édition immédiat.",
-    "ja": "CapCutで15秒のSeedance 2.0クリップを生成し、迅速なターンアラウンド（約2分30秒）を得て、CapCutの編集タイムラインに直接表示させ、即座にフィルタリング/編集を行います。",
-    "ko": "CapCut에서 15초짜리 Seedance 2.0 클립을 생성하여 빠른 처리 시간(~2분 30초)을 확보하고, CapCut 편집 타임라인에 바로 나타나 즉시 필터링/편집할 수 있습니다.",
-    "pt-BR": "Gere um clipe de 15 segundos do Seedance 2.0 no CapCut para obter um retorno rápido (~2 min 30 seg) e faça com que ele apareça diretamente na sua linha do tempo de edição do CapCut para filtragem/edição imediata.",
-    "zh-CN": "在 CapCut 中生成一个 15 秒的 Seedance 2.0 片段，以获得快速周转（约 2 分 30 秒），并直接在 CapCut 编辑时间线上显示，便于立即进行筛选/编辑。"
+    "es": {
+      "content": "Genera un clip de 15 segundos de Seedance 2.0 en CapCut para obtener un resultado rápido (~2 min 30 seg) y que aparezca directamente en tu línea de tiempo de edición de CapCut para filtrado/edición inmediato."
+    },
+    "fr": {
+      "content": "Générez un clip Seedance 2.0 de 15 secondes dans CapCut pour obtenir un rendu rapide (~2 min 30 sec) et le voir apparaître directement sur votre timeline d'édition CapCut pour un filtrage/édition immédiat."
+    },
+    "ja": {
+      "content": "CapCutで15秒のSeedance 2.0クリップを生成し、迅速なターンアラウンド（約2分30秒）を得て、CapCutの編集タイムラインに直接表示させ、即座にフィルタリング/編集を行います。"
+    },
+    "ko": {
+      "content": "CapCut에서 15초짜리 Seedance 2.0 클립을 생성하여 빠른 처리 시간(~2분 30초)을 확보하고, CapCut 편집 타임라인에 바로 나타나 즉시 필터링/편집할 수 있습니다."
+    },
+    "pt": {
+      "content": "Gere um clipe de 15 segundos do Seedance 2.0 no CapCut para obter um retorno rápido (~2 min 30 seg) e faça com que ele apareça diretamente na sua linha do tempo de edição do CapCut para filtragem/edição imediata."
+    },
+    "zh": {
+      "content": "在 CapCut 中生成一个 15 秒的 Seedance 2.0 片段，以获得快速周转（约 2 分 30 秒），并直接在 CapCut 编辑时间线上显示，便于立即进行筛选/编辑。"
+    }
   }
 }

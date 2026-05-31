@@ -1,37 +1,35 @@
 {
   "id": "2025831760156901462",
-  "type": "tip",
-  "url": "https://x.com/itsSSS1510/status/2025831760156901462",
+  "title": "Use 4 character reference images plus 1 dance reference video to replicate…",
+  "content": "Use 4 character reference images plus 1 dance reference video to replicate motion for a multi-character scene in Seedance 2 (Dreamina).",
   "language": "en",
-  "created_at": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025831691806531584/img/yxn6SBqN05LC3TKS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025831760156901462.mp4",
+  "sourceLink": "https://x.com/itsSSS1510/status/2025831760156901462",
+  "sourcePublishedAt": "2026-02-23",
   "author": {
     "name": "Sheetal Shinde",
-    "username": "itsSSS1510",
-    "url": "https://x.com/itsSSS1510",
-    "followers": 1108
+    "link": "https://x.com/itsSSS1510"
   },
-  "text": "HYBRID GALS JUST HAD THEIR EARLY ACCESS DEBUT 😈🔥\n\nMy Charlie’s Angels are here — watch how they talk, dance, and fight.\nBuilt using 4 character refs + 1 dance video for motion replication 🤯\n\nCrafted with Seedance 2 in @dreamina_ai \n#Seedance2 #seedream5 #AIlovelanguage #DreaminaAI",
-  "content": "Use 4 character reference images plus 1 dance reference video to replicate motion for a multi-character scene in Seedance 2 (Dreamina).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 5,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 0,
-    "views": 323
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025831760156901462.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025831691806531584/img/yxn6SBqN05LC3TKS.jpg"
-  },
+  "tips": "Use 4 character reference images plus 1 dance reference video to replicate motion for a multi-character scene in Seedance 2 (Dreamina).",
   "translations": {
-    "es": "Usa 4 imágenes de referencia de personajes más 1 video de referencia de baile para replicar el movimiento en una escena con múltiples personajes en Seedance 2 (Dreamina).",
-    "fr": "Utilisez 4 images de référence de personnages plus 1 vidéo de référence de danse pour reproduire le mouvement dans une scène multi-personnages dans Seedance 2 (Dreamina).",
-    "ja": "4つのキャラクター参照画像と1つのダンス参照ビデオを使用して、Seedance 2（Dreamina）で複数キャラクターのシーンの動きを再現します。",
-    "ko": "Seedance 2 (Dreamina)에서 다중 캐릭터 장면의 동작을 재현하기 위해 4개의 캐릭터 참고 이미지와 1개의 춤 참고 비디오를 사용하세요.",
-    "pt-BR": "Use 4 imagens de referência de personagens mais 1 vídeo de referência de dança para replicar o movimento em uma cena com vários personagens no Seedance 2 (Dreamina).",
-    "zh-CN": "使用4张角色参考图像和1个舞蹈参考视频，在Seedance 2（Dreamina）中复制多角色场景的动作。"
+    "es": {
+      "content": "Usa 4 imágenes de referencia de personajes más 1 video de referencia de baile para replicar el movimiento en una escena con múltiples personajes en Seedance 2 (Dreamina)."
+    },
+    "fr": {
+      "content": "Utilisez 4 images de référence de personnages plus 1 vidéo de référence de danse pour reproduire le mouvement dans une scène multi-personnages dans Seedance 2 (Dreamina)."
+    },
+    "ja": {
+      "content": "4つのキャラクター参照画像と1つのダンス参照ビデオを使用して、Seedance 2（Dreamina）で複数キャラクターのシーンの動きを再現します。"
+    },
+    "ko": {
+      "content": "Seedance 2 (Dreamina)에서 다중 캐릭터 장면의 동작을 재현하기 위해 4개의 캐릭터 참고 이미지와 1개의 춤 참고 비디오를 사용하세요."
+    },
+    "pt": {
+      "content": "Use 4 imagens de referência de personagens mais 1 vídeo de referência de dança para replicar o movimento em uma cena com vários personagens no Seedance 2 (Dreamina)."
+    },
+    "zh": {
+      "content": "使用4张角色参考图像和1个舞蹈参考视频，在Seedance 2（Dreamina）中复制多角色场景的动作。"
+    }
   }
 }

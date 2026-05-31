@@ -1,37 +1,35 @@
 {
   "id": "2059832034147889252",
-  "type": "tip",
-  "url": "https://x.com/Nokosu_kansoku/status/2059832034147889252",
+  "title": "CapCut Seedance 2.0のアニメ生成では、3面図（正面・側面・背面）＋プロンプトを入力してキャラクターの形状を安定させる",
+  "content": "CapCut Seedance 2.0のアニメ生成では、3面図（正面・側面・背面）＋プロンプトを入力してキャラクターの形状を安定させる  \n実写版を作るときは、静止画＋プロンプトを使ってSeedanceで生成する",
   "language": "ja",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059664079959293952/img/4Hk86ahKdku9xhsS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059832034147889252.mp4",
+  "sourceLink": "https://x.com/Nokosu_kansoku/status/2059832034147889252",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Nokosu",
-    "username": "Nokosu_kansoku",
-    "url": "https://x.com/Nokosu_kansoku",
-    "followers": 2068
+    "link": "https://x.com/Nokosu_kansoku"
   },
-  "text": "アニメ版CapCut Seedance 2.0 で生成。\n3面図 + プロンプトを使用しています。\n\n前に同じプロンプトを使ってHiggsfieldで実写版を作ったのですが、ボールを回して投げる指示まで拾ったはのはCapcutの方でした。\n\nついでなので、実写版も貼っておきます😆\nこちらは静止画とプロンプトで作りました。 https://t.co/NoM8yuGWBg",
-  "content": "CapCut Seedance 2.0のアニメ生成では、3面図（正面・側面・背面）＋プロンプトを入力してキャラクターの形状を安定させる  \n実写版を作るときは、静止画＋プロンプトを使ってSeedanceで生成する",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 35,
-    "retweets": 0,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 1,
-    "views": 966
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059832034147889252.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059664079959293952/img/4Hk86ahKdku9xhsS.jpg"
-  },
+  "tips": "CapCut Seedance 2.0のアニメ生成では、3面図（正面・側面・背面）＋プロンプトを入力してキャラクターの形状を安定させる  \n実写版を作るときは、静止画＋プロンプトを使ってSeedanceで生成する",
   "translations": {
-    "en": "In CapCut Seedance 2.0's animation generation, input a three-view diagram (front, side, back) + prompt to stabilize the character's shape.  \nWhen creating a live-action version, use a still image + prompt to generate with Seedance.",
-    "es": "En la generación de anime de CapCut Seedance 2.0, se introduce un diseño de tres vistas (frontal, lateral y trasera) + prompt para estabilizar la forma del personaje.  \nAl crear una versión en vivo, se utiliza una imagen fija + prompt para generar con Seedance.",
-    "fr": "Dans la génération d'animation de CapCut Seedance 2.0, entrez une vue à trois faces (avant, côté, arrière) + prompt pour stabiliser la forme du personnage.  \nLors de la création d'une version en prise de vue réelle, utilisez une image fixe + prompt pour générer avec Seedance.",
-    "ko": "---\nCapCut Seedance 2.0의 애니메이션 생성에서는, 3면도(정면, 측면, 후면) + prompt를 입력하여 캐릭터의 형태를 안정화합니다.  \n실사 버전을 만들 때는, 정지 이미지 + prompt를 사용하여 Seedance에서 생성합니다.\n---",
-    "pt-BR": "Na geração de animações do CapCut Seedance 2.0, insira vistas de três lados (frontal, lateral e traseira) + prompt para estabilizar a forma do personagem.  \nAo criar uma versão live-action, use uma imagem estática + prompt para gerar no Seedance.",
-    "zh-CN": "在CapCut Seedance 2.0的动画生成中，通过输入三视图（正面、侧面、背面）+ prompt来稳定角色的形状  \n制作真人版时，使用静止画+ prompt在Seedance中生成"
+    "en": {
+      "content": "In CapCut Seedance 2.0's animation generation, input a three-view diagram (front, side, back) + prompt to stabilize the character's shape.  \nWhen creating a live-action version, use a still image + prompt to generate with Seedance."
+    },
+    "es": {
+      "content": "En la generación de anime de CapCut Seedance 2.0, se introduce un diseño de tres vistas (frontal, lateral y trasera) + prompt para estabilizar la forma del personaje.  \nAl crear una versión en vivo, se utiliza una imagen fija + prompt para generar con Seedance."
+    },
+    "fr": {
+      "content": "Dans la génération d'animation de CapCut Seedance 2.0, entrez une vue à trois faces (avant, côté, arrière) + prompt pour stabiliser la forme du personnage.  \nLors de la création d'une version en prise de vue réelle, utilisez une image fixe + prompt pour générer avec Seedance."
+    },
+    "ko": {
+      "content": "---\nCapCut Seedance 2.0의 애니메이션 생성에서는, 3면도(정면, 측면, 후면) + prompt를 입력하여 캐릭터의 형태를 안정화합니다.  \n실사 버전을 만들 때는, 정지 이미지 + prompt를 사용하여 Seedance에서 생성합니다.\n---"
+    },
+    "pt": {
+      "content": "Na geração de animações do CapCut Seedance 2.0, insira vistas de três lados (frontal, lateral e traseira) + prompt para estabilizar a forma do personagem.  \nAo criar uma versão live-action, use uma imagem estática + prompt para gerar no Seedance."
+    },
+    "zh": {
+      "content": "在CapCut Seedance 2.0的动画生成中，通过输入三视图（正面、侧面、背面）+ prompt来稳定角色的形状  \n制作真人版时，使用静止画+ prompt在Seedance中生成"
+    }
   }
 }

@@ -1,37 +1,35 @@
 {
   "id": "2060607691970814332",
-  "type": "tip",
-  "url": "https://x.com/bmx_ai13/status/2060607691970814332",
+  "title": "Use a workflow of: start with your image → convert it into a storyboard using a…",
+  "content": "Use a workflow of: start with your image → convert it into a storyboard using a Custom GPT (Image 2.0) → generate the video in Seedance 2.0 on Yapper.",
   "language": "en",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060607586400100353/img/jiTJA-NkNUQ4J787.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060607691970814332.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2060607691970814332",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "BMX",
-    "username": "bmx_ai13",
-    "url": "https://x.com/bmx_ai13",
-    "followers": 8462
+    "link": "https://x.com/bmx_ai13"
   },
-  "text": "A super simple workflow: Your Image → My created Custom GPT Image 2.0 storyboard → Seedance 2.0 on\n@yapper_so https://t.co/C4mrsoTIZE",
-  "content": "Use a workflow of: start with your image → convert it into a storyboard using a Custom GPT (Image 2.0) → generate the video in Seedance 2.0 on Yapper.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 28,
-    "retweets": 2,
-    "replies": 16,
-    "quotes": 0,
-    "bookmarks": 8,
-    "views": 1165
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060607691970814332.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060607586400100353/img/jiTJA-NkNUQ4J787.jpg"
-  },
+  "tips": "Use a workflow of: start with your image → convert it into a storyboard using a Custom GPT (Image 2.0) → generate the video in Seedance 2.0 on Yapper.",
   "translations": {
-    "es": "Utiliza un flujo de trabajo de: comienza con tu imagen → conviértela en un storyboard usando un Custom GPT (Image 2.0) → genera el video en Seedance 2.0 en Yapper.",
-    "fr": "Utilisez un flux de travail : commencez par votre image → convertissez-la en storyboard à l'aide d'un Custom GPT (Image 2.0) → générez la vidéo dans Seedance 2.0 sur Yapper.",
-    "ja": "---\nワークフローを使用します：画像から始める → カスタムGPT（Image 2.0）を使用してストーリーボードに変換 → Yapper上のSeedance 2.0でビデオを生成。",
-    "ko": "이미지로 시작 → Custom GPT (Image 2.0)을 사용하여 스토리보드로 변환 → Yapper에서 Seedance 2.0으로 비디오 생성.",
-    "pt-BR": "Use um fluxo de trabalho de: comece com sua imagem → converta-a em um storyboard usando um Custom GPT (Image 2.0) → gere o vídeo no Seedance 2.0 no Yapper.",
-    "zh-CN": "使用以下工作流程：从您的图像开始 → 使用自定义GPT（Image 2.0）将其转换为分镜头脚本 → 在Yapper上的Seedance 2.0中生成视频。"
+    "es": {
+      "content": "Utiliza un flujo de trabajo de: comienza con tu imagen → conviértela en un storyboard usando un Custom GPT (Image 2.0) → genera el video en Seedance 2.0 en Yapper."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail : commencez par votre image → convertissez-la en storyboard à l'aide d'un Custom GPT (Image 2.0) → générez la vidéo dans Seedance 2.0 sur Yapper."
+    },
+    "ja": {
+      "content": "---\nワークフローを使用します：画像から始める → カスタムGPT（Image 2.0）を使用してストーリーボードに変換 → Yapper上のSeedance 2.0でビデオを生成。"
+    },
+    "ko": {
+      "content": "이미지로 시작 → Custom GPT (Image 2.0)을 사용하여 스토리보드로 변환 → Yapper에서 Seedance 2.0으로 비디오 생성."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de: comece com sua imagem → converta-a em um storyboard usando um Custom GPT (Image 2.0) → gere o vídeo no Seedance 2.0 no Yapper."
+    },
+    "zh": {
+      "content": "使用以下工作流程：从您的图像开始 → 使用自定义GPT（Image 2.0）将其转换为分镜头脚本 → 在Yapper上的Seedance 2.0中生成视频。"
+    }
   }
 }

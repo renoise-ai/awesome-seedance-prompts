@@ -1,38 +1,38 @@
 {
   "id": "2027462907529662779",
-  "type": "tip",
-  "url": "https://x.com/Hoxygo/status/2027462907529662779",
-  "language": "ar",
-  "created_at": "2026-02-27",
+  "title": "فعّل خيار Improve prompt في إعدادات Seedance 2 لتقليل مشكلة الرفض الخاطئ (False…",
+  "content": "فعّل خيار Improve prompt في إعدادات Seedance 2 لتقليل مشكلة الرفض الخاطئ (False flags) التي توقف الصور.  \nفعّل خيار Chinese translation في إعدادات Seedance 2 لتقليل مشكلة الرفض الخاطئ (False flags) للبرومبت وتجنب إيقاف الصور.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027365269035737088/img/OASumVCWXPFfX9r8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027462907529662779.mp4",
+  "sourceLink": "https://x.com/Hoxygo/status/2027462907529662779",
+  "sourcePublishedAt": "2026-02-27",
   "author": {
     "name": " صياد تطبيقات",
-    "username": "Hoxygo",
-    "url": "https://x.com/Hoxygo",
-    "followers": 30245
+    "link": "https://x.com/Hoxygo"
   },
-  "text": "لمستخدمي (Seedance 2) 🔥\n\nإذا كنت تعاني من مشكلة \"الرفض الخاطئ\" (False flags) للبرومبت حقك وتوقيف الصور، التحديث الجديد جاب لك الحل بإضافة ميزتين في الإعدادات:\n\n1️⃣ تحسين البرومبت (Improve prompt) \n2️⃣ الترجمة الصينية (Chinese translation) \n\n https://t.co/9oQtD8gBv7",
-  "content": "فعّل خيار Improve prompt في إعدادات Seedance 2 لتقليل مشكلة الرفض الخاطئ (False flags) التي توقف الصور.  \nفعّل خيار Chinese translation في إعدادات Seedance 2 لتقليل مشكلة الرفض الخاطئ (False flags) للبرومبت وتجنب إيقاف الصور.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 10,
-    "retweets": 2,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 5,
-    "views": 1419
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027462907529662779.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027365269035737088/img/OASumVCWXPFfX9r8.jpg"
-  },
+  "tips": "فعّل خيار Improve prompt في إعدادات Seedance 2 لتقليل مشكلة الرفض الخاطئ (False flags) التي توقف الصور.  \nفعّل خيار Chinese translation في إعدادات Seedance 2 لتقليل مشكلة الرفض الخاطئ (False flags) للبرومبت وتجنب إيقاف الصور.",
   "translations": {
-    "en": "Activate the Improve prompt option in Seedance 2 settings to reduce the issue of false flags that stop images.  \nActivate the Chinese translation option in Seedance 2 settings to reduce the issue of false flags for prompts and avoid stopping images.",
-    "es": "Activa la opción Improve prompt en la configuración de Seedance 2 para reducir el problema de rechazo incorrecto (False flags) que detiene las imágenes.  \nActiva la opción Chinese translation en la configuración de Seedance 2 para reducir el problema de rechazo incorrecto (False flags) del prompt y evitar detener las imágenes.",
-    "fr": "Activez l'option Improve prompt dans les paramètres de Seedance 2 pour réduire le problème des faux positifs (False flags) qui arrêtent les images.  \nActivez l'option Chinese translation dans les paramètres de Seedance 2 pour réduire le problème des faux positifs (False flags) pour le prompt et éviter l'arrêt des images.",
-    "ja": "Seedance 2の設定でImprove promptオプションを有効にして、画像を停止させる誤った拒否（False flags）の問題を軽減します。  \nSeedance 2の設定でChinese translationオプションを有効にして、プロンプトの誤った拒否（False flags）の問題を軽減し、画像の停止を回避します。",
-    "ko": "Seedance 2 설정에서 Improve prompt 옵션을 활성화하여 이미지 중단을 초래하는 잘못된 거부 문제(False flags)를 줄이세요.  \nSeedance 2 설정에서 Chinese translation 옵션을 활성화하여 프롬프트의 잘못된 거부 문제(False flags)를 줄이고 이미지 중단을 방지하세요.",
-    "pt-BR": "Ative a opção Improve prompt nas configurações do Seedance 2 para reduzir o problema de rejeição incorreta (False flags) que interrompe as imagens.  \nAtive a opção Chinese translation nas configurações do Seedance 2 para reduzir o problema de rejeição incorreta (False flags) do prompt e evitar a interrupção das imagens.",
-    "zh-CN": "启用 Seedance 2 设置中的 Improve prompt 选项，以减少导致图像停止的错误拒绝（False flags）问题。  \n启用 Seedance 2 设置中的 Chinese translation 选项，以减少 prompt 的错误拒绝（False flags）问题，避免图像停止。"
+    "en": {
+      "content": "Activate the Improve prompt option in Seedance 2 settings to reduce the issue of false flags that stop images.  \nActivate the Chinese translation option in Seedance 2 settings to reduce the issue of false flags for prompts and avoid stopping images."
+    },
+    "es": {
+      "content": "Activa la opción Improve prompt en la configuración de Seedance 2 para reducir el problema de rechazo incorrecto (False flags) que detiene las imágenes.  \nActiva la opción Chinese translation en la configuración de Seedance 2 para reducir el problema de rechazo incorrecto (False flags) del prompt y evitar detener las imágenes."
+    },
+    "fr": {
+      "content": "Activez l'option Improve prompt dans les paramètres de Seedance 2 pour réduire le problème des faux positifs (False flags) qui arrêtent les images.  \nActivez l'option Chinese translation dans les paramètres de Seedance 2 pour réduire le problème des faux positifs (False flags) pour le prompt et éviter l'arrêt des images."
+    },
+    "ja": {
+      "content": "Seedance 2の設定でImprove promptオプションを有効にして、画像を停止させる誤った拒否（False flags）の問題を軽減します。  \nSeedance 2の設定でChinese translationオプションを有効にして、プロンプトの誤った拒否（False flags）の問題を軽減し、画像の停止を回避します。"
+    },
+    "ko": {
+      "content": "Seedance 2 설정에서 Improve prompt 옵션을 활성화하여 이미지 중단을 초래하는 잘못된 거부 문제(False flags)를 줄이세요.  \nSeedance 2 설정에서 Chinese translation 옵션을 활성화하여 프롬프트의 잘못된 거부 문제(False flags)를 줄이고 이미지 중단을 방지하세요."
+    },
+    "pt": {
+      "content": "Ative a opção Improve prompt nas configurações do Seedance 2 para reduzir o problema de rejeição incorreta (False flags) que interrompe as imagens.  \nAtive a opção Chinese translation nas configurações do Seedance 2 para reduzir o problema de rejeição incorreta (False flags) do prompt e evitar a interrupção das imagens."
+    },
+    "zh": {
+      "content": "启用 Seedance 2 设置中的 Improve prompt 选项，以减少导致图像停止的错误拒绝（False flags）问题。  \n启用 Seedance 2 设置中的 Chinese translation 选项，以减少 prompt 的错误拒绝（False flags）问题，避免图像停止。"
+    }
   }
 }

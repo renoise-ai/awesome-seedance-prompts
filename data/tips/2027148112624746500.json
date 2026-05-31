@@ -1,42 +1,35 @@
 {
   "id": "2027148112624746500",
-  "type": "tip",
-  "url": "https://x.com/yachimat_manga/status/2027148112624746500",
+  "title": "漫画toアニメは、全編の漫画データと絵コンテをYAML化したものをSeedance 2.0に読み込ませて生成する",
+  "content": "漫画toアニメは、全編の漫画データと絵コンテをYAML化したものをSeedance 2.0に読み込ませて生成する",
   "language": "ja",
-  "created_at": "2026-02-26",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027145944400265216/img/QjUjJpgxypAwS3zd.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027148112624746500.mp4",
+  "sourceLink": "https://x.com/yachimat_manga/status/2027148112624746500",
+  "sourcePublishedAt": "2026-02-26",
   "author": {
     "name": "yachimat - AI Short Anime",
-    "username": "yachimat_manga",
-    "url": "https://x.com/yachimat_manga",
-    "followers": 22677
+    "link": "https://x.com/yachimat_manga"
   },
-  "text": "Seedance 2.0 漫画toアニメ\nサイコパス勇者と社会不適合な仲間たち\n第一話 「石化すれば」\n\n---\n今年のテーマは漫画をつくってそれをアニメにする漫画toアニメ\n\nこれも全編漫画とその絵コンテのYAMLを読ませるだけでつくりました。声の一貫性は出してませんが、これはVidu https://t.co/ETSqWccTa7",
-  "content": "漫画toアニメは、全編の漫画データと絵コンテをYAML化したものをSeedance 2.0に読み込ませて生成する",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 41,
-    "retweets": 7,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 9,
-    "views": 1777
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027148112624746500.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027145944400265216/img/QjUjJpgxypAwS3zd.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "漫画はこちら。これを読ませました。\nhttps://t.co/KZhRLM2LPN"
-    ]
-  },
+  "tips": "漫画toアニメは、全編の漫画データと絵コンテをYAML化したものをSeedance 2.0に読み込ませて生成する",
   "translations": {
-    "en": "The transition from manga to anime involves converting the entire manga data and storyboards into YAML format, which is then input into Seedance 2.0 for generation.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here is the manga. This is what was used.\nhttps://t.co/KZhRLM2LPN\n---",
-    "es": "---\nLa conversión de manga a anime se realiza cargando todos los datos del manga y el guion gráfico en formato YAML en Seedance 2.0 para su generación.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí está el manga. Se lo mostramos.\nhttps://t.co/KZhRLM2LPN\n---",
-    "fr": "---\nLa conversion de manga en anime est réalisée en chargeant l'intégralité des données du manga et le storyboard converti en YAML dans Seedance 2.0 pour la génération.\n\n--- SUITE DU FIL ---\n[Fil 1] Voici le manga. Nous l'avons fait lire.\nhttps://t.co/KZhRLM2LPN\n---",
-    "ko": "---\n만화 to 애니메이션은, 전체 만화 데이터와 스토리보드를 YAML 형식으로 변환하여 Seedance 2.0에 입력하여 생성합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 만화는 여기 있습니다. 이것을 읽혔습니다.\nhttps://t.co/KZhRLM2LPN\n---",
-    "pt-BR": "---\nA conversão de manga para anime é gerada ao carregar todos os dados do manga e o storyboard em formato YAML no Seedance 2.0\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Aqui está o manga. Fizemos a leitura disso.\nhttps://t.co/KZhRLM2LPN\n---",
-    "zh-CN": "漫画toアニメ是通过将整篇漫画数据和分镜头脚本转换为YAML格式，然后导入Seedance 2.0生成的。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 漫画在这里。这是我们让它读取的内容。\nhttps://t.co/KZhRLM2LPN\n---"
+    "en": {
+      "content": "The transition from manga to anime involves converting the entire manga data and storyboards into YAML format, which is then input into Seedance 2.0 for generation.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here is the manga. This is what was used.\nhttps://t.co/KZhRLM2LPN\n---"
+    },
+    "es": {
+      "content": "---\nLa conversión de manga a anime se realiza cargando todos los datos del manga y el guion gráfico en formato YAML en Seedance 2.0 para su generación.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí está el manga. Se lo mostramos.\nhttps://t.co/KZhRLM2LPN\n---"
+    },
+    "fr": {
+      "content": "---\nLa conversion de manga en anime est réalisée en chargeant l'intégralité des données du manga et le storyboard converti en YAML dans Seedance 2.0 pour la génération.\n\n--- SUITE DU FIL ---\n[Fil 1] Voici le manga. Nous l'avons fait lire.\nhttps://t.co/KZhRLM2LPN\n---"
+    },
+    "ko": {
+      "content": "---\n만화 to 애니메이션은, 전체 만화 데이터와 스토리보드를 YAML 형식으로 변환하여 Seedance 2.0에 입력하여 생성합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 만화는 여기 있습니다. 이것을 읽혔습니다.\nhttps://t.co/KZhRLM2LPN\n---"
+    },
+    "pt": {
+      "content": "---\nA conversão de manga para anime é gerada ao carregar todos os dados do manga e o storyboard em formato YAML no Seedance 2.0\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Aqui está o manga. Fizemos a leitura disso.\nhttps://t.co/KZhRLM2LPN\n---"
+    },
+    "zh": {
+      "content": "漫画toアニメ是通过将整篇漫画数据和分镜头脚本转换为YAML格式，然后导入Seedance 2.0生成的。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 漫画在这里。这是我们让它读取的内容。\nhttps://t.co/KZhRLM2LPN\n---"
+    }
   }
 }

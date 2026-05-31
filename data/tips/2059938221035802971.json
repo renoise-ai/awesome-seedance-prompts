@@ -1,42 +1,35 @@
 {
   "id": "2059938221035802971",
-  "type": "tip",
-  "url": "https://x.com/PolloAIJP/status/2059938221035802971",
+  "title": "GPT Image 2で商品画像を1枚生成し、その画像をSeedanceに入力して15秒の美容ドリンク広告動画を作る",
+  "content": "GPT Image 2で商品画像を1枚生成し、その画像をSeedanceに入力して15秒の美容ドリンク広告動画を作る  \nまずは1枚の商品画像からPollo AIで試してみる",
   "language": "ja",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059929268218703872/img/MAlL5P0SSTr8JQ9K.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059938221035802971.mp4",
+  "sourceLink": "https://x.com/PolloAIJP/status/2059938221035802971",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Pollo AI 日本公式",
-    "username": "PolloAIJP",
-    "url": "https://x.com/PolloAIJP",
-    "followers": 9659
+    "link": "https://x.com/PolloAIJP"
   },
-  "text": "1枚画像から、15秒の美容ドリンク広告動画を作るWorkflow 🎬\n\nおすすめの活用シーン：\n・美容 / ヘルスケアブランド向けSNS広告\n・サプリ / ドリンク商品のEC紹介\n・キャンペーン用の短尺プロモーション\n\nWorkflow👇\nステップ 1：GPT Image 2で商品画像を生成\nステップ 2：Seedance https://t.co/bTXpALH8nu",
-  "content": "GPT Image 2で商品画像を1枚生成し、その画像をSeedanceに入力して15秒の美容ドリンク広告動画を作る  \nまずは1枚の商品画像からPollo AIで試してみる",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 13,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 5,
-    "views": 1408
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059938221035802971.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059929268218703872/img/MAlL5P0SSTr8JQ9K.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "まずは1枚の商品画像から、\nPollo AIで試してみてください。\nhttps://t.co/JvhTG1dKgQ"
-    ]
-  },
+  "tips": "GPT Image 2で商品画像を1枚生成し、その画像をSeedanceに入力して15秒の美容ドリンク広告動画を作る  \nまずは1枚の商品画像からPollo AIで試してみる",
   "translations": {
-    "en": "Generate a product image using GPT Image 2, then input that image into Seedance to create a 15-second beauty drink advertisement video.  \nFirst, try it with a single product image using Pollo AI.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Start with a single product image,  \ntry it with Pollo AI.  \nhttps://t.co/JvhTG1dKgQ  \n---",
-    "es": "---\nGenerar una imagen de producto con GPT Image 2 e introducirla en Seedance para crear un video publicitario de 15 segundos de una bebida de belleza.  \nPrimero, prueba con una imagen de producto usando Pollo AI.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Primero, prueba con una imagen de producto usando Pollo AI.  \nhttps://t.co/JvhTG1dKgQ\n---",
-    "fr": "---\nGénérez une image de produit avec GPT Image 2, puis entrez cette image dans Seedance pour créer une vidéo publicitaire de 15 secondes pour une boisson de beauté.  \nCommencez par essayer avec une image de produit en utilisant Pollo AI.\n\n--- SUITE DU FIL ---\n[Fil 1] Commencez par essayer avec une image de produit,\nen utilisant Pollo AI.\nhttps://t.co/JvhTG1dKgQ\n---",
-    "ko": "---\nGPT Image 2에서 상품 이미지를 1장 생성하고, 그 이미지를 Seedance에 입력하여 15초의 뷰티 드링크 광고 영상을 만드세요.  \n먼저 1장의 상품 이미지로 Pollo AI를 사용해 보세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 먼저 1장의 상품 이미지로,\nPollo AI를 사용해 보세요.\nhttps://t.co/JvhTG1dKgQ\n---",
-    "pt-BR": "---\nGerar uma imagem de produto com o GPT Image 2 e inserir essa imagem no Seedance para criar um vídeo publicitário de 15 segundos para uma bebida de beleza.  \nPrimeiro, experimente com uma imagem de produto usando o Pollo AI.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Primeiro, experimente com uma imagem de produto usando o Pollo AI.  \nhttps://t.co/JvhTG1dKgQ\n---",
-    "zh-CN": "使用GPT Image 2生成一张产品图片，然后将该图片输入Seedance制作一个15秒的美容饮料广告视频  \n首先从一张产品图片开始，用Pollo AI尝试一下\n\n--- 线程继续 ---\n[线程 1] 首先从一张产品图片开始，\n用Pollo AI尝试一下。\nhttps://t.co/JvhTG1dKgQ\n---"
+    "en": {
+      "content": "Generate a product image using GPT Image 2, then input that image into Seedance to create a 15-second beauty drink advertisement video.  \nFirst, try it with a single product image using Pollo AI.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Start with a single product image,  \ntry it with Pollo AI.  \nhttps://t.co/JvhTG1dKgQ  \n---"
+    },
+    "es": {
+      "content": "---\nGenerar una imagen de producto con GPT Image 2 e introducirla en Seedance para crear un video publicitario de 15 segundos de una bebida de belleza.  \nPrimero, prueba con una imagen de producto usando Pollo AI.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Primero, prueba con una imagen de producto usando Pollo AI.  \nhttps://t.co/JvhTG1dKgQ\n---"
+    },
+    "fr": {
+      "content": "---\nGénérez une image de produit avec GPT Image 2, puis entrez cette image dans Seedance pour créer une vidéo publicitaire de 15 secondes pour une boisson de beauté.  \nCommencez par essayer avec une image de produit en utilisant Pollo AI.\n\n--- SUITE DU FIL ---\n[Fil 1] Commencez par essayer avec une image de produit,\nen utilisant Pollo AI.\nhttps://t.co/JvhTG1dKgQ\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2에서 상품 이미지를 1장 생성하고, 그 이미지를 Seedance에 입력하여 15초의 뷰티 드링크 광고 영상을 만드세요.  \n먼저 1장의 상품 이미지로 Pollo AI를 사용해 보세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 먼저 1장의 상품 이미지로,\nPollo AI를 사용해 보세요.\nhttps://t.co/JvhTG1dKgQ\n---"
+    },
+    "pt": {
+      "content": "---\nGerar uma imagem de produto com o GPT Image 2 e inserir essa imagem no Seedance para criar um vídeo publicitário de 15 segundos para uma bebida de beleza.  \nPrimeiro, experimente com uma imagem de produto usando o Pollo AI.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Primeiro, experimente com uma imagem de produto usando o Pollo AI.  \nhttps://t.co/JvhTG1dKgQ\n---"
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成一张产品图片，然后将该图片输入Seedance制作一个15秒的美容饮料广告视频  \n首先从一张产品图片开始，用Pollo AI尝试一下\n\n--- 线程继续 ---\n[线程 1] 首先从一张产品图片开始，\n用Pollo AI尝试一下。\nhttps://t.co/JvhTG1dKgQ\n---"
+    }
   }
 }

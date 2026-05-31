@@ -1,37 +1,34 @@
 {
   "id": "2059858695165501810",
-  "type": "prompt",
-  "url": "https://x.com/MrLarus/status/2059858695165501810",
+  "title": "第一人称主观视角，镜头等同于坐在电脑前的人。屏幕里是一位敦煌飞天神女的背影，衣带、发丝和飘带轻轻流动，敦煌洞窟里有缓慢漂浮的金色尘粒和壁画光影。",
+  "content": "第一人称主观视角，镜头等同于坐在电脑前的人。屏幕里是一位敦煌飞天神女的背影，衣带、发丝和飘带轻轻流动，敦煌洞窟里有缓慢漂浮的金色尘粒和壁画光影。",
   "language": "zh",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059858465841938436/img/Nsrsmln-PZnSsA3A.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059858695165501810.mp4",
+  "sourceLink": "https://x.com/MrLarus/status/2059858695165501810",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Larus Canus",
-    "username": "MrLarus",
-    "url": "https://x.com/MrLarus",
-    "followers": 23037
-  },
-  "text": "Step 2：Seedance 视频生成\n\n提示词：\n\n第一人称主观视角，镜头等同于坐在电脑前的人。屏幕里是一位敦煌飞天神女的背影，衣带、发丝和飘带轻轻流动，敦煌洞窟里有缓慢漂浮的金色尘粒和壁画光影。 https://t.co/YCVIgQo4r4",
-  "content": "第一人称主观视角，镜头等同于坐在电脑前的人。屏幕里是一位敦煌飞天神女的背影，衣带、发丝和飘带轻轻流动，敦煌洞窟里有缓慢漂浮的金色尘粒和壁画光影。",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 8,
-    "retweets": 4,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 8,
-    "views": 1885
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059858695165501810.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059858465841938436/img/Nsrsmln-PZnSsA3A.jpg"
+    "link": "https://x.com/MrLarus"
   },
   "translations": {
-    "en": "First-person subjective perspective, the camera is equivalent to the person sitting in front of the computer. On the screen is the back view of a Dunhuang flying goddess, with her clothing, hair strands, and ribbons gently flowing. In the Dunhuang cave, golden dust particles and the light and shadows of murals float slowly.",
-    "es": "---\nPerspectiva subjetiva en primera persona, la cámara equivale a la de una persona sentada frente a la computadora. En la pantalla se ve la espalda de una diosa voladora de Dunhuang, con sus ropas, mechones de cabello y cintas flotando suavemente. En la cueva de Dunhuang hay partículas doradas flotando lentamente y juegos de luz y sombra en los murales.\n---",
-    "fr": "---\nPerspective à la première personne, la caméra équivaut à celle d'une personne assise devant un ordinateur. Sur l'écran, on voit le dos d'une déesse céleste de Dunhuang, avec ses vêtements, ses mèches de cheveux et ses rubans flottant doucement. Dans la grotte de Dunhuang, des particules de poussière dorées flottent lentement et les jeux de lumière illuminent les fresques murales.",
-    "ja": "---\n第一人称主観視点で、カメラはコンピュータの前に座っている人と同じ視点です。画面には敦煌の飛天神女の背中が映っており、衣帯、髪の毛、飄帯が軽やかに流れています。敦煌の洞窟内には、ゆっくりと漂う金色の塵と壁画の光と影があります。\n---",
-    "ko": "---\n첫 번째 사람의 주관적 시점, 카메라는 컴퓨터 앞에 앉아 있는 사람과 동일합니다. 화면에는 둔황 비천 신녀의 뒷모습이 보이며, 옷자락, 머리카락, 그리고 천이 부드럽게 흐르고 있습니다. 둔황 동굴 안에는 천천히 떠다니는 금색 먼지 입자와 벽화의 빛과 그림자가 있습니다.\n---",
-    "pt-BR": "---\nPerspectiva em primeira pessoa, a câmera é equivalente à de uma pessoa sentada em frente ao computador. Na tela, há a visão de costas de uma deusa voadora de Dunhuang, com suas vestes, cabelos e fitas flutuando suavemente. Na caverna de Dunhuang, partículas douradas de poeira flutuam lentamente e as sombras das pinturas murais se movem."
+    "en": {
+      "content": "First-person subjective perspective, the camera is equivalent to the person sitting in front of the computer. On the screen is the back view of a Dunhuang flying goddess, with her clothing, hair strands, and ribbons gently flowing. In the Dunhuang cave, golden dust particles and the light and shadows of murals float slowly."
+    },
+    "es": {
+      "content": "---\nPerspectiva subjetiva en primera persona, la cámara equivale a la de una persona sentada frente a la computadora. En la pantalla se ve la espalda de una diosa voladora de Dunhuang, con sus ropas, mechones de cabello y cintas flotando suavemente. En la cueva de Dunhuang hay partículas doradas flotando lentamente y juegos de luz y sombra en los murales.\n---"
+    },
+    "fr": {
+      "content": "---\nPerspective à la première personne, la caméra équivaut à celle d'une personne assise devant un ordinateur. Sur l'écran, on voit le dos d'une déesse céleste de Dunhuang, avec ses vêtements, ses mèches de cheveux et ses rubans flottant doucement. Dans la grotte de Dunhuang, des particules de poussière dorées flottent lentement et les jeux de lumière illuminent les fresques murales."
+    },
+    "ja": {
+      "content": "---\n第一人称主観視点で、カメラはコンピュータの前に座っている人と同じ視点です。画面には敦煌の飛天神女の背中が映っており、衣帯、髪の毛、飄帯が軽やかに流れています。敦煌の洞窟内には、ゆっくりと漂う金色の塵と壁画の光と影があります。\n---"
+    },
+    "ko": {
+      "content": "---\n첫 번째 사람의 주관적 시점, 카메라는 컴퓨터 앞에 앉아 있는 사람과 동일합니다. 화면에는 둔황 비천 신녀의 뒷모습이 보이며, 옷자락, 머리카락, 그리고 천이 부드럽게 흐르고 있습니다. 둔황 동굴 안에는 천천히 떠다니는 금색 먼지 입자와 벽화의 빛과 그림자가 있습니다.\n---"
+    },
+    "pt": {
+      "content": "---\nPerspectiva em primeira pessoa, a câmera é equivalente à de uma pessoa sentada em frente ao computador. Na tela, há a visão de costas de uma deusa voadora de Dunhuang, com suas vestes, cabelos e fitas flutuando suavemente. Na caverna de Dunhuang, partículas douradas de poeira flutuam lentamente e as sombras das pinturas murais se movem."
+    }
   }
 }

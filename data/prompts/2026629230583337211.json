@@ -1,37 +1,34 @@
 {
   "id": "2026629230583337211",
-  "type": "prompt",
-  "url": "https://x.com/msjiaozhu/status/2026629230583337211",
+  "title": "【图片 1】为门禁监控画面，保持监控摄像头广角机位不变，12秒竖屏视频。",
+  "content": "【图片 1】为门禁监控画面，保持监控摄像头广角机位不变，12秒竖屏视频。",
   "language": "zh",
-  "created_at": "2026-02-25",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026629170013618176/img/2F5cpGbGen9lkL7l.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026629230583337211.mp4",
+  "sourceLink": "https://x.com/msjiaozhu/status/2026629230583337211",
+  "sourcePublishedAt": "2026-02-25",
   "author": {
     "name": "MapleShaw",
-    "username": "msjiaozhu",
-    "url": "https://x.com/msjiaozhu",
-    "followers": 23933
-  },
-  "text": "Seedance 2.0 创意流之我在停车场的恐怖遭遇🧐\n\n记得看到最后，有惊喜😏\n\n提示词👇\n【图片 1】为门禁监控画面，保持监控摄像头广角机位不变，12秒竖屏视频。 https://t.co/delrvKeaiY",
-  "content": "【图片 1】为门禁监控画面，保持监控摄像头广角机位不变，12秒竖屏视频。",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 259,
-    "retweets": 17,
-    "replies": 26,
-    "quotes": 6,
-    "bookmarks": 152,
-    "views": 133025
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026629230583337211.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026629170013618176/img/2F5cpGbGen9lkL7l.jpg"
+    "link": "https://x.com/msjiaozhu"
   },
   "translations": {
-    "en": "[Image 1] is a security camera footage, maintaining the wide-angle position of the surveillance camera unchanged, 12-second vertical video.",
-    "es": "【Imagen 1】es una grabación de vigilancia de acceso, manteniendo la posición de la cámara de vigilancia en gran angular sin cambios, video vertical de 12 segundos.",
-    "fr": "【图片 1】est une image de surveillance de contrôle d'accès, avec un angle de caméra de surveillance fixe, vidéo verticale de 12 secondes.",
-    "ja": "---\n【画像 1】は門禁監視画面で、監視カメラの広角位置を固定したまま、12秒の縦型ビデオです。\n---",
-    "ko": "【图片 1】은(는) 출입 통제 모니터 화면으로, 모니터링 카메라의 광각 위치를 유지하며, 12초 세로형 비디오입니다.",
-    "pt-BR": "【Imagem 1】é uma cena de monitoramento de controle de acesso, mantendo a posição de câmera de segurança em ângulo amplo inalterada, vídeo vertical de 12 segundos."
+    "en": {
+      "content": "[Image 1] is a security camera footage, maintaining the wide-angle position of the surveillance camera unchanged, 12-second vertical video."
+    },
+    "es": {
+      "content": "【Imagen 1】es una grabación de vigilancia de acceso, manteniendo la posición de la cámara de vigilancia en gran angular sin cambios, video vertical de 12 segundos."
+    },
+    "fr": {
+      "content": "【图片 1】est une image de surveillance de contrôle d'accès, avec un angle de caméra de surveillance fixe, vidéo verticale de 12 secondes."
+    },
+    "ja": {
+      "content": "---\n【画像 1】は門禁監視画面で、監視カメラの広角位置を固定したまま、12秒の縦型ビデオです。\n---"
+    },
+    "ko": {
+      "content": "【图片 1】은(는) 출입 통제 모니터 화면으로, 모니터링 카메라의 광각 위치를 유지하며, 12초 세로형 비디오입니다."
+    },
+    "pt": {
+      "content": "【Imagem 1】é uma cena de monitoramento de controle de acesso, mantendo a posição de câmera de segurança em ângulo amplo inalterada, vídeo vertical de 12 segundos."
+    }
   }
 }

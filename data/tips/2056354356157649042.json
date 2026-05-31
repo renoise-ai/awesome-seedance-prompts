@@ -1,37 +1,35 @@
 {
   "id": "2056354356157649042",
-  "type": "tip",
-  "url": "https://x.com/thefinnmckenty/status/2056354356157649042",
+  "title": "Use Seedance 2 for most shots and supplement with Grok for a few specific clips…",
+  "content": "Use Seedance 2 for most shots and supplement with Grok for a few specific clips when needed  \nPlan budget by estimating Seedance credit spend (this project used roughly $50 in credits) and iterate to improve efficiency on future runs  \nUse jboogx_creative’s Seedance prompt creator to structure and generate Seedance-ready prompts",
   "language": "en",
-  "created_at": "2026-05-18",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056353284760469504/img/a_9TLuzCFAzvRK6T.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056354356157649042.mp4",
+  "sourceLink": "https://x.com/thefinnmckenty/status/2056354356157649042",
+  "sourcePublishedAt": "2026-05-18",
   "author": {
     "name": "Finn McKenty",
-    "username": "thefinnmckenty",
-    "url": "https://x.com/thefinnmckenty",
-    "followers": 28236
+    "link": "https://x.com/thefinnmckenty"
   },
-  "text": "I made a A very serious™ horror film: THE OFFERING.\n\nIt's definitely not perfect and the joke is dumb, but I'm overall happy with it.\n\nI didn't keep close track but I'd guess I spent about $50 in credits, although I could do it much more efficiently now.l\n\nAnd after doing this I'm pretty confident that we can make basically anything we can think of, given enough time and credits.\n\nI don't think \"Hollywood is cooked,\" but I do think it's a very good time to be a creator!\n\n- Images in @midjourney , edits with Nano Banana and GPT Image in @figmaweave \n- Videos are mostly Seedance 2, a few are Grok\n- Music from Suno\n- Used @jboogx_creative 's Seedance prompt creator",
-  "content": "Use Seedance 2 for most shots and supplement with Grok for a few specific clips when needed  \nPlan budget by estimating Seedance credit spend (this project used roughly $50 in credits) and iterate to improve efficiency on future runs  \nUse jboogx_creative’s Seedance prompt creator to structure and generate Seedance-ready prompts",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 60,
-    "retweets": 1,
-    "replies": 7,
-    "quotes": 1,
-    "bookmarks": 9,
-    "views": 3625
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056354356157649042.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056353284760469504/img/a_9TLuzCFAzvRK6T.jpg"
-  },
+  "tips": "Use Seedance 2 for most shots and supplement with Grok for a few specific clips when needed  \nPlan budget by estimating Seedance credit spend (this project used roughly $50 in credits) and iterate to improve efficiency on future runs  \nUse jboogx_creative’s Seedance prompt creator to structure and generate Seedance-ready prompts",
   "translations": {
-    "es": "---\nUtiliza Seedance 2 para la mayoría de las tomas y complementa con Grok para algunos clips específicos cuando sea necesario  \nPlanifica el presupuesto estimando el gasto de créditos de Seedance (este proyecto utilizó aproximadamente $50 en créditos) e itera para mejorar la eficiencia en futuras ejecuciones  \nUsa el creador de prompts de Seedance de jboogx_creative para estructurar y generar prompts listos para Seedance  \n---",
-    "fr": "---\nUtilisez Seedance 2 pour la plupart des prises et complétez avec Grok pour quelques clips spécifiques si nécessaire  \nPlanifiez le budget en estimant la dépense en crédits Seedance (ce projet a utilisé environ 50 $ en crédits) et itérez pour améliorer l'efficacité lors des prochaines exécutions  \nUtilisez le créateur de prompts Seedance de jboogx_creative pour structurer et générer des prompts prêts pour Seedance  \n---",
-    "ja": "---\nほとんどのショットにはSeedance 2を使用し、必要に応じて特定のクリップにはGrokを補完的に使用する  \nSeedanceクレジットの使用量を見積もって予算を計画する（このプロジェクトでは約50ドルのクレジットを使用）し、将来の実行で効率を改善するために繰り返し行う  \njboogx_creativeのSeedance prompt creatorを使用して、Seedance対応のプロンプトを構築し生成する  \n---",
-    "ko": "---\n대부분의 촬영에는 Seedance 2를 사용하고, 필요할 때 특정 클립에는 Grok을 보완적으로 사용하세요.  \nSeedance 크레딧 사용량을 추정하여 예산을 계획하세요 (이 프로젝트에서는 대략 $50의 크레딧을 사용했습니다) 그리고 향후 작업의 효율성을 개선하기 위해 반복하세요.  \njboogx_creative의 Seedance prompt creator를 사용하여 Seedance에 적합한 프롬프트를 구조화하고 생성하세요.  \n---",
-    "pt-BR": "Use Seedance 2 para a maioria das cenas e complemente com Grok para alguns clipes específicos quando necessário  \nPlaneje o orçamento estimando o gasto de créditos Seedance (este projeto utilizou aproximadamente $50 em créditos) e itere para melhorar a eficiência em execuções futuras  \nUse o criador de prompts Seedance de jboogx_creative para estruturar e gerar prompts prontos para Seedance",
-    "zh-CN": "---\n大多数镜头使用Seedance 2，并在需要时用Grok补充一些特定片段  \n通过估算Seedance信用花费来规划预算（本项目大约使用了50美元的信用），并迭代以提高未来运行的效率  \n使用jboogx_creative的Seedance prompt creator来构建和生成适合Seedance的prompts  \n---"
+    "es": {
+      "content": "---\nUtiliza Seedance 2 para la mayoría de las tomas y complementa con Grok para algunos clips específicos cuando sea necesario  \nPlanifica el presupuesto estimando el gasto de créditos de Seedance (este proyecto utilizó aproximadamente $50 en créditos) e itera para mejorar la eficiencia en futuras ejecuciones  \nUsa el creador de prompts de Seedance de jboogx_creative para estructurar y generar prompts listos para Seedance  \n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez Seedance 2 pour la plupart des prises et complétez avec Grok pour quelques clips spécifiques si nécessaire  \nPlanifiez le budget en estimant la dépense en crédits Seedance (ce projet a utilisé environ 50 $ en crédits) et itérez pour améliorer l'efficacité lors des prochaines exécutions  \nUtilisez le créateur de prompts Seedance de jboogx_creative pour structurer et générer des prompts prêts pour Seedance  \n---"
+    },
+    "ja": {
+      "content": "---\nほとんどのショットにはSeedance 2を使用し、必要に応じて特定のクリップにはGrokを補完的に使用する  \nSeedanceクレジットの使用量を見積もって予算を計画する（このプロジェクトでは約50ドルのクレジットを使用）し、将来の実行で効率を改善するために繰り返し行う  \njboogx_creativeのSeedance prompt creatorを使用して、Seedance対応のプロンプトを構築し生成する  \n---"
+    },
+    "ko": {
+      "content": "---\n대부분의 촬영에는 Seedance 2를 사용하고, 필요할 때 특정 클립에는 Grok을 보완적으로 사용하세요.  \nSeedance 크레딧 사용량을 추정하여 예산을 계획하세요 (이 프로젝트에서는 대략 $50의 크레딧을 사용했습니다) 그리고 향후 작업의 효율성을 개선하기 위해 반복하세요.  \njboogx_creative의 Seedance prompt creator를 사용하여 Seedance에 적합한 프롬프트를 구조화하고 생성하세요.  \n---"
+    },
+    "pt": {
+      "content": "Use Seedance 2 para a maioria das cenas e complemente com Grok para alguns clipes específicos quando necessário  \nPlaneje o orçamento estimando o gasto de créditos Seedance (este projeto utilizou aproximadamente $50 em créditos) e itere para melhorar a eficiência em execuções futuras  \nUse o criador de prompts Seedance de jboogx_creative para estruturar e gerar prompts prontos para Seedance"
+    },
+    "zh": {
+      "content": "---\n大多数镜头使用Seedance 2，并在需要时用Grok补充一些特定片段  \n通过估算Seedance信用花费来规划预算（本项目大约使用了50美元的信用），并迭代以提高未来运行的效率  \n使用jboogx_creative的Seedance prompt creator来构建和生成适合Seedance的prompts  \n---"
+    }
   }
 }

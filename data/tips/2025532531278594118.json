@@ -1,37 +1,35 @@
 {
   "id": "2025532531278594118",
-  "type": "tip",
-  "url": "https://x.com/LurkShade/status/2025532531278594118",
+  "title": "4秒地点で2つのSeedance生成クリップを連結して1本にし、速度設定は変更しないまま繋げる",
+  "content": "4秒地点で2つのSeedance生成クリップを連結して1本にし、速度設定は変更しないまま繋げる",
   "language": "ja",
-  "created_at": "2026-02-22",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025531910219595776/img/WEmkGR9K8siF363n.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025532531278594118.mp4",
+  "sourceLink": "https://x.com/LurkShade/status/2025532531278594118",
+  "sourcePublishedAt": "2026-02-22",
   "author": {
     "name": "陰に隠れし者",
-    "username": "LurkShade",
-    "url": "https://x.com/LurkShade",
-    "followers": 2405
+    "link": "https://x.com/LurkShade"
   },
-  "text": "Seedance 2.0 \n今のSeedanceで遊べる時間はもう長くないという噂が流れているので大急ぎで遊んでます\n\n一個だと物足りなかったので\n二つ繋げましたが（4秒のところで繋げました）\n速度とかは何も変えてません\n\nこのままの君でいてくれよぉだめなんすかぁ🥲❓ https://t.co/JBUTPscp6E",
-  "content": "4秒地点で2つのSeedance生成クリップを連結して1本にし、速度設定は変更しないまま繋げる",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 92,
-    "retweets": 19,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 6,
-    "views": 5010
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025532531278594118.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025531910219595776/img/WEmkGR9K8siF363n.jpg"
-  },
+  "tips": "4秒地点で2つのSeedance生成クリップを連結して1本にし、速度設定は変更しないまま繋げる",
   "translations": {
-    "en": "Connect two Seedance-generated clips at the 4-second mark to make one, keeping the speed settings unchanged.",
-    "es": "Conecta dos clips generados por Seedance en el punto de 4 segundos para formar uno solo, manteniendo la configuración de velocidad sin cambios.",
-    "fr": "À l'emplacement de 4 secondes, connectez deux clips générés par Seedance pour n'en faire qu'un, sans modifier les paramètres de vitesse.",
-    "ko": "4초 지점에서 두 개의 Seedance 생성 클립을 하나로 연결하고, 속도 설정은 변경하지 않은 채로 연결하십시오.",
-    "pt-BR": "Conecte dois clipes gerados pelo Seedance em um único clipe no ponto de 4 segundos, mantendo as configurações de velocidade inalteradas.",
-    "zh-CN": "将两个4秒的Seedance生成剪辑连接成一个，并保持速度设置不变。"
+    "en": {
+      "content": "Connect two Seedance-generated clips at the 4-second mark to make one, keeping the speed settings unchanged."
+    },
+    "es": {
+      "content": "Conecta dos clips generados por Seedance en el punto de 4 segundos para formar uno solo, manteniendo la configuración de velocidad sin cambios."
+    },
+    "fr": {
+      "content": "À l'emplacement de 4 secondes, connectez deux clips générés par Seedance pour n'en faire qu'un, sans modifier les paramètres de vitesse."
+    },
+    "ko": {
+      "content": "4초 지점에서 두 개의 Seedance 생성 클립을 하나로 연결하고, 속도 설정은 변경하지 않은 채로 연결하십시오."
+    },
+    "pt": {
+      "content": "Conecte dois clipes gerados pelo Seedance em um único clipe no ponto de 4 segundos, mantendo as configurações de velocidade inalteradas."
+    },
+    "zh": {
+      "content": "将两个4秒的Seedance生成剪辑连接成一个，并保持速度设置不变。"
+    }
   }
 }

@@ -1,37 +1,34 @@
 {
   "id": "2023018210275230039",
-  "type": "prompt",
-  "url": "https://x.com/Kisalayrad95/status/2023018210275230039",
+  "title": "Please summarize the entire AI discourse in one meme. make it slightly chaotic…",
+  "content": "Please summarize the entire AI discourse in one meme. make it slightly chaotic / provocative and guaranteed to get 50k likes. Don’t make mistakes",
   "language": "en",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023018137986428928/img/oKgI6gTDOwS74quJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023018210275230039.mp4",
+  "sourceLink": "https://x.com/Kisalayrad95/status/2023018210275230039",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "Kisalay",
-    "username": "Kisalayrad95",
-    "url": "https://x.com/Kisalayrad95",
-    "followers": 5162
-  },
-  "text": "AI slop they say…. That’s far from the truth!\n\nPrompt Seedance 2.0 👇\n\n“Please summarize the entire AI discourse in one meme. make it slightly chaotic / provocative and guaranteed to get 50k likes. Don’t make mistakes”\n\nThis is why RAM is so expensive these days…. https://t.co/vHp87YZ9go",
-  "content": "Please summarize the entire AI discourse in one meme. make it slightly chaotic / provocative and guaranteed to get 50k likes. Don’t make mistakes",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 7,
-    "retweets": 1,
-    "replies": 4,
-    "quotes": 0,
-    "bookmarks": 0,
-    "views": 736
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023018210275230039.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023018137986428928/img/oKgI6gTDOwS74quJ.jpg"
+    "link": "https://x.com/Kisalayrad95"
   },
   "translations": {
-    "es": "Por favor, resume todo el discurso sobre IA en un solo meme. Hazlo ligeramente caótico/provocador y garantizado para obtener 50k likes. No cometas errores.",
-    "fr": "Veuillez résumer l'ensemble du discours sur l'IA en un seul mème. Rendez-le légèrement chaotique / provocateur et garanti d'obtenir 50k likes. Ne faites pas d'erreurs.",
-    "ja": "---\nAIに関する全ての議論を1つのミームで要約してください。少しカオスで挑発的にし、5万いいねを保証してください。ミスはしないでください。\n---",
-    "ko": "---\nAI 담론 전체를 하나의 밈으로 요약해 주세요. 약간 혼란스럽고 도발적이며 5만 개의 좋아요를 받을 수 있도록 보장해 주세요. 실수하지 마세요.\n---",
-    "pt-BR": "Por favor, resuma todo o discurso sobre IA em um único meme. Faça-o ligeiramente caótico/provocativo e garantido para obter 50 mil curtidas. Não cometa erros.",
-    "zh-CN": "请用一个表情包总结整个AI讨论。让它略显混乱/挑衅，并保证获得5万点赞。不要犯错。"
+    "es": {
+      "content": "Por favor, resume todo el discurso sobre IA en un solo meme. Hazlo ligeramente caótico/provocador y garantizado para obtener 50k likes. No cometas errores."
+    },
+    "fr": {
+      "content": "Veuillez résumer l'ensemble du discours sur l'IA en un seul mème. Rendez-le légèrement chaotique / provocateur et garanti d'obtenir 50k likes. Ne faites pas d'erreurs."
+    },
+    "ja": {
+      "content": "---\nAIに関する全ての議論を1つのミームで要約してください。少しカオスで挑発的にし、5万いいねを保証してください。ミスはしないでください。\n---"
+    },
+    "ko": {
+      "content": "---\nAI 담론 전체를 하나의 밈으로 요약해 주세요. 약간 혼란스럽고 도발적이며 5만 개의 좋아요를 받을 수 있도록 보장해 주세요. 실수하지 마세요.\n---"
+    },
+    "pt": {
+      "content": "Por favor, resuma todo o discurso sobre IA em um único meme. Faça-o ligeiramente caótico/provocativo e garantido para obter 50 mil curtidas. Não cometa erros."
+    },
+    "zh": {
+      "content": "请用一个表情包总结整个AI讨论。让它略显混乱/挑衅，并保证获得5万点赞。不要犯错。"
+    }
   }
 }

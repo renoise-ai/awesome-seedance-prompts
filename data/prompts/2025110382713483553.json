@@ -1,37 +1,34 @@
 {
   "id": "2025110382713483553",
-  "type": "prompt",
-  "url": "https://x.com/Alin_Reaper05/status/2025110382713483553",
+  "title": "Reaper horn echoes across a desolate planet, camera panning up from cracked…",
+  "content": "Reaper horn echoes across a desolate planet, camera panning up from cracked ground to reveal dozens of Reapers landing in formation, dust storms swirling, apocalyptic scale",
   "language": "en",
-  "created_at": "2026-02-21",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025109801722679296/img/wwEBwxXaMpf_oxlG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025110382713483553.mp4",
+  "sourceLink": "https://x.com/Alin_Reaper05/status/2025110382713483553",
+  "sourcePublishedAt": "2026-02-21",
   "author": {
     "name": "Alin",
-    "username": "Alin_Reaper05",
-    "url": "https://x.com/Alin_Reaper05",
-    "followers": 13651
-  },
-  "text": "Hello there everyone, happy Saturday and weekend 🥰Let’s not forget that we still have awesome video models besides Seedance 2.0. Here is a Grok imagine video on the @ImagineArt_X website...Here is the prompt I used: Reaper horn echoes across a desolate planet, camera panning up from cracked ground to reveal dozens of Reapers landing in formation, dust storms swirling, apocalyptic scale 😉",
-  "content": "Reaper horn echoes across a desolate planet, camera panning up from cracked ground to reveal dozens of Reapers landing in formation, dust storms swirling, apocalyptic scale",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 22,
-    "retweets": 2,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 2,
-    "views": 573
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025110382713483553.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025109801722679296/img/wwEBwxXaMpf_oxlG.jpg"
+    "link": "https://x.com/Alin_Reaper05"
   },
   "translations": {
-    "es": "El cuerno del Reaper resuena a través de un planeta desolado, la cámara se eleva desde el suelo agrietado para revelar docenas de Reapers aterrizando en formación, tormentas de polvo girando, escala apocalíptica.",
-    "fr": "Le son du cor des Faucheurs résonne à travers une planète désolée, la caméra effectue un panoramique vers le haut depuis le sol craquelé pour révéler des dizaines de Faucheurs atterrissant en formation, des tempêtes de poussière tourbillonnant, une échelle apocalyptique.",
-    "ja": "リーパーのホーンが荒れ果てた惑星に響き渡り、カメラがひび割れた地面からパンして、編隊を組んで着陸する数十機のリーパーを映し出す。砂嵐が渦巻き、黙示録的なスケール。",
-    "ko": "황폐한 행성에 울려 퍼지는 리퍼의 경적 소리, 갈라진 땅에서 카메라가 위로 이동하며 수십 대의 리퍼가 대형을 이루며 착륙하는 장면이 드러난다. 먼지 폭풍이 휘몰아치며 종말론적 규모를 보여준다.",
-    "pt-BR": "O som do chifre dos Reapers ecoa por um planeta desolado, a câmera se move do solo rachado para revelar dezenas de Reapers pousando em formação, tempestades de poeira girando, escala apocalíptica.",
-    "zh-CN": "死神号角在荒凉的星球上回响，镜头从破裂的地面向上移动，揭示出数十个死神整齐降落，尘暴旋转，展现出末日般的规模。"
+    "es": {
+      "content": "El cuerno del Reaper resuena a través de un planeta desolado, la cámara se eleva desde el suelo agrietado para revelar docenas de Reapers aterrizando en formación, tormentas de polvo girando, escala apocalíptica."
+    },
+    "fr": {
+      "content": "Le son du cor des Faucheurs résonne à travers une planète désolée, la caméra effectue un panoramique vers le haut depuis le sol craquelé pour révéler des dizaines de Faucheurs atterrissant en formation, des tempêtes de poussière tourbillonnant, une échelle apocalyptique."
+    },
+    "ja": {
+      "content": "リーパーのホーンが荒れ果てた惑星に響き渡り、カメラがひび割れた地面からパンして、編隊を組んで着陸する数十機のリーパーを映し出す。砂嵐が渦巻き、黙示録的なスケール。"
+    },
+    "ko": {
+      "content": "황폐한 행성에 울려 퍼지는 리퍼의 경적 소리, 갈라진 땅에서 카메라가 위로 이동하며 수십 대의 리퍼가 대형을 이루며 착륙하는 장면이 드러난다. 먼지 폭풍이 휘몰아치며 종말론적 규모를 보여준다."
+    },
+    "pt": {
+      "content": "O som do chifre dos Reapers ecoa por um planeta desolado, a câmera se move do solo rachado para revelar dezenas de Reapers pousando em formação, tempestades de poeira girando, escala apocalíptica."
+    },
+    "zh": {
+      "content": "死神号角在荒凉的星球上回响，镜头从破裂的地面向上移动，揭示出数十个死神整齐降落，尘暴旋转，展现出末日般的规模。"
+    }
   }
 }

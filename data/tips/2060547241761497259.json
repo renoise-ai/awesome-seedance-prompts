@@ -1,37 +1,35 @@
 {
   "id": "2060547241761497259",
-  "type": "tip",
-  "url": "https://x.com/bmx_ai13/status/2060547241761497259",
+  "title": "Create a storyboard by converting your source image into a GPT Image 2.0…",
+  "content": "Create a storyboard by converting your source image into a GPT Image 2.0 storyboard, then use that storyboard as the input to Seedance 2.0 in CapCut to generate the video.",
   "language": "en",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060486421153189888/img/tmEkMnn8A8V_LCr4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060547241761497259.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2060547241761497259",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "BMX",
-    "username": "bmx_ai13",
-    "url": "https://x.com/bmx_ai13",
-    "followers": 8462
+    "link": "https://x.com/bmx_ai13"
   },
-  "text": "Stay With Me Until the Light Fades. \n\nYour Image → GPT Image 2.0 storyboard → Seedance 2.0 on @capcutapp https://t.co/3LnT2TDQkm",
-  "content": "Create a storyboard by converting your source image into a GPT Image 2.0 storyboard, then use that storyboard as the input to Seedance 2.0 in CapCut to generate the video.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 22,
-    "retweets": 3,
-    "replies": 8,
-    "quotes": 0,
-    "bookmarks": 3,
-    "views": 562
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060547241761497259.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060486421153189888/img/tmEkMnn8A8V_LCr4.jpg"
-  },
+  "tips": "Create a storyboard by converting your source image into a GPT Image 2.0 storyboard, then use that storyboard as the input to Seedance 2.0 in CapCut to generate the video.",
   "translations": {
-    "es": "Crea un guion gráfico convirtiendo tu imagen fuente en un guion gráfico de GPT Image 2.0, luego usa ese guion gráfico como entrada en Seedance 2.0 en CapCut para generar el video.",
-    "fr": "Créez un storyboard en convertissant votre image source en un storyboard GPT Image 2.0, puis utilisez ce storyboard comme entrée dans Seedance 2.0 dans CapCut pour générer la vidéo.",
-    "ja": "ソース画像をGPT Image 2.0のストーリーボードに変換してストーリーボードを作成し、そのストーリーボードをCapCutのSeedance 2.0に入力してビデオを生成します。",
-    "ko": "소스 이미지를 GPT Image 2.0 스토리보드로 변환하여 스토리보드를 생성한 후, CapCut의 Seedance 2.0에 입력하여 비디오를 생성하세요.",
-    "pt-BR": "Crie um storyboard convertendo sua imagem de origem em um storyboard GPT Image 2.0, depois use esse storyboard como entrada no Seedance 2.0 no CapCut para gerar o vídeo.",
-    "zh-CN": "通过将您的源图像转换为GPT Image 2.0分镜头脚本来创建分镜头，然后使用该分镜头作为输入在CapCut中使用Seedance 2.0生成视频。"
+    "es": {
+      "content": "Crea un guion gráfico convirtiendo tu imagen fuente en un guion gráfico de GPT Image 2.0, luego usa ese guion gráfico como entrada en Seedance 2.0 en CapCut para generar el video."
+    },
+    "fr": {
+      "content": "Créez un storyboard en convertissant votre image source en un storyboard GPT Image 2.0, puis utilisez ce storyboard comme entrée dans Seedance 2.0 dans CapCut pour générer la vidéo."
+    },
+    "ja": {
+      "content": "ソース画像をGPT Image 2.0のストーリーボードに変換してストーリーボードを作成し、そのストーリーボードをCapCutのSeedance 2.0に入力してビデオを生成します。"
+    },
+    "ko": {
+      "content": "소스 이미지를 GPT Image 2.0 스토리보드로 변환하여 스토리보드를 생성한 후, CapCut의 Seedance 2.0에 입력하여 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Crie um storyboard convertendo sua imagem de origem em um storyboard GPT Image 2.0, depois use esse storyboard como entrada no Seedance 2.0 no CapCut para gerar o vídeo."
+    },
+    "zh": {
+      "content": "通过将您的源图像转换为GPT Image 2.0分镜头脚本来创建分镜头，然后使用该分镜头作为输入在CapCut中使用Seedance 2.0生成视频。"
+    }
   }
 }

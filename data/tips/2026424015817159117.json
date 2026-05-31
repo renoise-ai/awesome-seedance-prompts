@@ -1,37 +1,35 @@
 {
   "id": "2026424015817159117",
-  "type": "tip",
-  "url": "https://x.com/DavidmComfort/status/2026424015817159117",
+  "title": "Place an object in front of a character’s face in your Seedance 2.0 shot to…",
+  "content": "Place an object in front of a character’s face in your Seedance 2.0 shot to bypass guardrails that might otherwise block the generation.",
   "language": "en",
-  "created_at": "2026-02-24",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026423699231092736/img/gUzvQM9f0oXy0val.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026424015817159117.mp4",
+  "sourceLink": "https://x.com/DavidmComfort/status/2026424015817159117",
+  "sourcePublishedAt": "2026-02-24",
   "author": {
     "name": "David M. Comfort",
-    "username": "DavidmComfort",
-    "url": "https://x.com/DavidmComfort",
-    "followers": 3020
+    "link": "https://x.com/DavidmComfort"
   },
-  "text": "Placing an object in front of a character's face appears to get around Seedance 2.0's guardrails... and makes for a somewhat Shakespearian shot https://t.co/Xa1Bvkovgf",
-  "content": "Place an object in front of a character’s face in your Seedance 2.0 shot to bypass guardrails that might otherwise block the generation.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 11,
-    "retweets": 0,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 3,
-    "views": 680
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026424015817159117.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026423699231092736/img/gUzvQM9f0oXy0val.jpg"
-  },
+  "tips": "Place an object in front of a character’s face in your Seedance 2.0 shot to bypass guardrails that might otherwise block the generation.",
   "translations": {
-    "es": "Coloca un objeto frente al rostro de un personaje en tu toma de Seedance 2.0 para eludir las restricciones que de otro modo podrían bloquear la generación.",
-    "fr": "Placez un objet devant le visage d'un personnage dans votre prise Seedance 2.0 pour contourner les garde-fous qui pourraient autrement bloquer la génération.",
-    "ja": "---\nSeedance 2.0のショットでキャラクターの顔の前にオブジェクトを配置して、生成をブロックする可能性のあるガードレールを回避します。",
-    "ko": "Seedance 2.0 촬영에서 캐릭터의 얼굴 앞에 물체를 배치하여 그렇지 않으면 생성이 차단될 수 있는 가드레일을 우회하십시오.",
-    "pt-BR": "Coloque um objeto na frente do rosto de um personagem em sua cena Seedance 2.0 para contornar as restrições que poderiam bloquear a geração.",
-    "zh-CN": "在你的Seedance 2.0镜头中，在角色的脸前放置一个物体，以绕过可能会阻止生成的防护措施。"
+    "es": {
+      "content": "Coloca un objeto frente al rostro de un personaje en tu toma de Seedance 2.0 para eludir las restricciones que de otro modo podrían bloquear la generación."
+    },
+    "fr": {
+      "content": "Placez un objet devant le visage d'un personnage dans votre prise Seedance 2.0 pour contourner les garde-fous qui pourraient autrement bloquer la génération."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0のショットでキャラクターの顔の前にオブジェクトを配置して、生成をブロックする可能性のあるガードレールを回避します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0 촬영에서 캐릭터의 얼굴 앞에 물체를 배치하여 그렇지 않으면 생성이 차단될 수 있는 가드레일을 우회하십시오."
+    },
+    "pt": {
+      "content": "Coloque um objeto na frente do rosto de um personagem em sua cena Seedance 2.0 para contornar as restrições que poderiam bloquear a geração."
+    },
+    "zh": {
+      "content": "在你的Seedance 2.0镜头中，在角色的脸前放置一个物体，以绕过可能会阻止生成的防护措施。"
+    }
   }
 }

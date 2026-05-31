@@ -1,37 +1,34 @@
 {
   "id": "2022910493246259640",
-  "type": "prompt",
-  "url": "https://x.com/lepadphone/status/2022910493246259640",
+  "title": "Seedance 2.0.  Please forget the Hollywood cosplays.",
+  "content": "Seedance 2.0.  Please forget the Hollywood cosplays.\nShow me something HOT.",
   "language": "en",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022910374295838720/img/CsxCCwUFLl82-ww2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022910493246259640.mp4",
+  "sourceLink": "https://x.com/lepadphone/status/2022910493246259640",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "padphone",
-    "username": "lepadphone",
-    "url": "https://x.com/lepadphone",
-    "followers": 6403
-  },
-  "text": "Prompt: Seedance 2.0.  Please forget the Hollywood cosplays.\nShow me something HOT. https://t.co/9Bu4rXbooF",
-  "content": "Seedance 2.0.  Please forget the Hollywood cosplays.\nShow me something HOT.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 220,
-    "retweets": 15,
-    "replies": 9,
-    "quotes": 4,
-    "bookmarks": 98,
-    "views": 17591
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022910493246259640.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022910374295838720/img/CsxCCwUFLl82-ww2.jpg"
+    "link": "https://x.com/lepadphone"
   },
   "translations": {
-    "es": "Seedance 2.0. Por favor, olvida los cosplays de Hollywood.  \nMuéstrame algo CALIENTE.",
-    "fr": "Seedance 2.0. Veuillez oublier les cosplays hollywoodiens. Montrez-moi quelque chose de CHAUD.",
-    "ja": "Seedance 2.0。ハリウッドのコスプレは忘れてください。  \n何かホットなものを見せてください。",
-    "ko": "Seedance 2.0. 할리우드 코스프레는 잊어주세요.  \n뭔가 뜨거운 것을 보여주세요.",
-    "pt-BR": "Seedance 2.0. Por favor, esqueça os cosplays de Hollywood. Mostre-me algo QUENTE.",
-    "zh-CN": "---\nSeedance 2.0。请忘掉好莱坞角色扮演。\n给我看点火热的东西。\n---"
+    "es": {
+      "content": "Seedance 2.0. Por favor, olvida los cosplays de Hollywood.  \nMuéstrame algo CALIENTE."
+    },
+    "fr": {
+      "content": "Seedance 2.0. Veuillez oublier les cosplays hollywoodiens. Montrez-moi quelque chose de CHAUD."
+    },
+    "ja": {
+      "content": "Seedance 2.0。ハリウッドのコスプレは忘れてください。  \n何かホットなものを見せてください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0. 할리우드 코스프레는 잊어주세요.  \n뭔가 뜨거운 것을 보여주세요."
+    },
+    "pt": {
+      "content": "Seedance 2.0. Por favor, esqueça os cosplays de Hollywood. Mostre-me algo QUENTE."
+    },
+    "zh": {
+      "content": "---\nSeedance 2.0。请忘掉好莱坞角色扮演。\n给我看点火热的东西。\n---"
+    }
   }
 }

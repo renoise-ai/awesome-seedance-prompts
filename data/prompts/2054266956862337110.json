@@ -1,37 +1,34 @@
 {
   "id": "2054266956862337110",
-  "type": "prompt",
-  "url": "https://x.com/MayorKingAI/status/2054266956862337110",
+  "title": "[CINEMATIC SETUP] Full-color 3D animated comedy short, cinematic cartoon style…",
+  "content": "[CINEMATIC SETUP] Full-color 3D animated comedy short, cinematic cartoon style, bright sunny park, polished lighting, expressive faces, vibrant colors. Keep left-right continuity: the squirrel always runs from screen left to right straight toward the raccoon and donut box. The raccoon stays by the bench.",
   "language": "en",
-  "created_at": "2026-05-12",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054266901757677569/img/GViP3pcTyO5862t7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054266956862337110.mp4",
+  "sourceLink": "https://x.com/MayorKingAI/status/2054266956862337110",
+  "sourcePublishedAt": "2026-05-12",
   "author": {
     "name": "MayorkingAI",
-    "username": "MayorKingAI",
-    "url": "https://x.com/MayorKingAI",
-    "followers": 35412
-  },
-  "text": "Seedance 2.0\n\nThen I added the storyboard as a reference in Seedance 2.0 and adapted the following prompt\n\nPrompt:\n\n[CINEMATIC SETUP] Full-color 3D animated comedy short, cinematic cartoon style, bright sunny park, polished lighting, expressive faces, vibrant colors. Keep left-right continuity: the squirrel always runs from screen left to right straight toward the raccoon and donut box. The raccoon stays by the bench.\n\nPrompt:\n\n[CHARACTERS] Chubby donut-loving raccoon with striped tail. Small hyperactive squirrel with fluffy tail.\n\n[TIMELINE]\n\n0–1.5s: [Wide / Static] Raccoon finds a donut box on a park bench.\n1.5–3s: [Medium / Push-In] Raccoon opens the box in awe.\n3–4.5s: [MCU / Pan] Raccoon hears rustling from screen left and looks that way.\n4.5–6s: [Wide / Tracking] Squirrel sprints from screen left toward the bench and donut box.\n6–7.5s: [Medium / Push-In] Raccoon protects the donut box.\n7.5–9s: [Close / Forward] Squirrel crashes into raccoon, donuts fly.\n9–11s: [Close / Tight] Both scramble for falling donuts.\n11–13s: [Medium / Static] Both freeze, each holding half a donut.\n13–15s: [Wide / Final Hold] They glare, then bite at the same time.\n\n[STYLE & QUALITY] Sunny park, green grass, grey-brown raccoon, orange-brown squirrel, pink icing, smooth comedic timing.",
-  "content": "[CINEMATIC SETUP] Full-color 3D animated comedy short, cinematic cartoon style, bright sunny park, polished lighting, expressive faces, vibrant colors. Keep left-right continuity: the squirrel always runs from screen left to right straight toward the raccoon and donut box. The raccoon stays by the bench.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 12,
-    "retweets": 2,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 22,
-    "views": 1588
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054266956862337110.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054266901757677569/img/GViP3pcTyO5862t7.jpg"
+    "link": "https://x.com/MayorKingAI"
   },
   "translations": {
-    "es": "---\n[CINEMATIC SETUP] Cortometraje de comedia animado en 3D a todo color, estilo de caricatura cinematográfica, parque soleado y brillante, iluminación pulida, caras expresivas, colores vibrantes. Mantener la continuidad izquierda-derecha: la ardilla siempre corre de izquierda a derecha en la pantalla directamente hacia el mapache y la caja de donuts. El mapache permanece junto al banco.\n---",
-    "fr": "---\n[CONFIGURATION CINÉMATIQUE] Court-métrage comique animé en 3D en couleur, style cartoon cinématographique, parc ensoleillé et lumineux, éclairage soigné, visages expressifs, couleurs vives. Maintenir la continuité gauche-droite : l'écureuil court toujours de l'écran gauche vers la droite directement vers le raton laveur et la boîte de donuts. Le raton laveur reste près du banc.\n---",
-    "ja": "---\n[CINEMATIC SETUP] フルカラーの3Dアニメーションコメディショート、シネマティックなカートゥーンスタイル、明るい日差しの公園、洗練されたライティング、表情豊かな顔、鮮やかな色彩。左右の連続性を維持：リスは常に画面の左から右へ、アライグマとドーナツの箱に向かってまっすぐ走る。アライグマはベンチのそばに留まる。\n---",
-    "ko": "---\n[CINEMATIC SETUP] 풀컬러 3D 애니메이션 코미디 단편, 시네마틱 만화 스타일, 밝고 화창한 공원, 세련된 조명, 표현력 있는 얼굴, 생생한 색상. 좌우 연속성을 유지하세요: 다람쥐는 항상 화면 왼쪽에서 오른쪽으로 너구리와 도넛 상자를 향해 곧장 달립니다. 너구리는 벤치 옆에 머물러 있습니다.\n---",
-    "pt-BR": "---\n[CONFIGURAÇÃO CINEMATOGRÁFICA] Curta de comédia animado em 3D e em cores, estilo de desenho animado cinematográfico, parque ensolarado e brilhante, iluminação polida, expressões faciais expressivas, cores vibrantes. Mantenha a continuidade esquerda-direita: o esquilo sempre corre da esquerda para a direita da tela diretamente em direção ao guaxinim e à caixa de donuts. O guaxinim permanece ao lado do banco.\n---",
-    "zh-CN": "---\n[CINEMATIC SETUP] 全彩3D动画喜剧短片，电影卡通风格，明亮的阳光公园，精致的灯光，富有表现力的面部表情，鲜艳的色彩。保持左右连续性：松鼠始终从屏幕左侧向右侧直奔浣熊和甜甜圈盒子。浣熊留在长椅旁。"
+    "es": {
+      "content": "---\n[CINEMATIC SETUP] Cortometraje de comedia animado en 3D a todo color, estilo de caricatura cinematográfica, parque soleado y brillante, iluminación pulida, caras expresivas, colores vibrantes. Mantener la continuidad izquierda-derecha: la ardilla siempre corre de izquierda a derecha en la pantalla directamente hacia el mapache y la caja de donuts. El mapache permanece junto al banco.\n---"
+    },
+    "fr": {
+      "content": "---\n[CONFIGURATION CINÉMATIQUE] Court-métrage comique animé en 3D en couleur, style cartoon cinématographique, parc ensoleillé et lumineux, éclairage soigné, visages expressifs, couleurs vives. Maintenir la continuité gauche-droite : l'écureuil court toujours de l'écran gauche vers la droite directement vers le raton laveur et la boîte de donuts. Le raton laveur reste près du banc.\n---"
+    },
+    "ja": {
+      "content": "---\n[CINEMATIC SETUP] フルカラーの3Dアニメーションコメディショート、シネマティックなカートゥーンスタイル、明るい日差しの公園、洗練されたライティング、表情豊かな顔、鮮やかな色彩。左右の連続性を維持：リスは常に画面の左から右へ、アライグマとドーナツの箱に向かってまっすぐ走る。アライグマはベンチのそばに留まる。\n---"
+    },
+    "ko": {
+      "content": "---\n[CINEMATIC SETUP] 풀컬러 3D 애니메이션 코미디 단편, 시네마틱 만화 스타일, 밝고 화창한 공원, 세련된 조명, 표현력 있는 얼굴, 생생한 색상. 좌우 연속성을 유지하세요: 다람쥐는 항상 화면 왼쪽에서 오른쪽으로 너구리와 도넛 상자를 향해 곧장 달립니다. 너구리는 벤치 옆에 머물러 있습니다.\n---"
+    },
+    "pt": {
+      "content": "---\n[CONFIGURAÇÃO CINEMATOGRÁFICA] Curta de comédia animado em 3D e em cores, estilo de desenho animado cinematográfico, parque ensolarado e brilhante, iluminação polida, expressões faciais expressivas, cores vibrantes. Mantenha a continuidade esquerda-direita: o esquilo sempre corre da esquerda para a direita da tela diretamente em direção ao guaxinim e à caixa de donuts. O guaxinim permanece ao lado do banco.\n---"
+    },
+    "zh": {
+      "content": "---\n[CINEMATIC SETUP] 全彩3D动画喜剧短片，电影卡通风格，明亮的阳光公园，精致的灯光，富有表现力的面部表情，鲜艳的色彩。保持左右连续性：松鼠始终从屏幕左侧向右侧直奔浣熊和甜甜圈盒子。浣熊留在长椅旁。"
+    }
   }
 }

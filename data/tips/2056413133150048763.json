@@ -1,42 +1,35 @@
 {
   "id": "2056413133150048763",
-  "type": "tip",
-  "url": "https://x.com/lovart_ai/status/2056413133150048763",
+  "title": "Use Seedance 2.0 to turn a storyboard (generated from a product photo) into a…",
+  "content": "Use Seedance 2.0 to turn a storyboard (generated from a product photo) into a cinematic product ad video.",
   "language": "en",
-  "created_at": "2026-05-18",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056412821324517378/img/WHtLard1M1MNjZHm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056413133150048763.mp4",
+  "sourceLink": "https://x.com/lovart_ai/status/2056413133150048763",
+  "sourcePublishedAt": "2026-05-18",
   "author": {
     "name": "LovartAI",
-    "username": "lovart_ai",
-    "url": "https://x.com/lovart_ai",
-    "followers": 31315
+    "link": "https://x.com/lovart_ai"
   },
-  "text": "🎬 Three steps to make product ads on Lovart\n\n1. Drop your shot: any product photo, even a casual phone snap\n2. Storyboard: select Storyboard Skill, attach the photo, generate with GPT-Image 2.0\n3. Cinematic video: bring it to life with Seedance 2.0\n\nFull prompt below ↓ https://t.co/XlOiioz93r",
-  "content": "Use Seedance 2.0 to turn a storyboard (generated from a product photo) into a cinematic product ad video.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 115,
-    "retweets": 8,
-    "replies": 18,
-    "quotes": 4,
-    "bookmarks": 36,
-    "views": 7877
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056413133150048763.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056412821324517378/img/WHtLard1M1MNjZHm.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "Try the prompt on https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt"
-    ]
-  },
+  "tips": "Use Seedance 2.0 to turn a storyboard (generated from a product photo) into a cinematic product ad video.",
   "translations": {
-    "es": "Utiliza Seedance 2.0 para convertir un storyboard (generado a partir de una foto de producto) en un video publicitario de producto cinematográfico.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Prueba el prompt en https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt\n---",
-    "fr": "Utilisez Seedance 2.0 pour transformer un storyboard (généré à partir d'une photo de produit) en une vidéo publicitaire cinématographique pour le produit.\n\n--- SUITE DU FIL ---\n[Fil 1] Essayez le prompt sur https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt",
-    "ja": "Seedance 2.0を使用して、商品写真から生成されたストーリーボードをシネマティックな商品広告ビデオに変換しましょう。\n\n--- スレッドの続き ---\n[スレッド1] プロンプトを試してみてください https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt",
-    "ko": "Seedance 2.0을 사용하여 제품 사진에서 생성된 스토리보드를 영화 같은 제품 광고 비디오로 변환하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Try the prompt on https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt\n---",
-    "pt-BR": "Use o Seedance 2.0 para transformar um storyboard (gerado a partir de uma foto de produto) em um vídeo publicitário cinematográfico do produto.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Experimente o prompt em https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt",
-    "zh-CN": "使用 Seedance 2.0 将故事板（由产品照片生成）转化为电影级产品广告视频。\n\n--- 线程继续 ---\n[线程 1] 在 https://t.co/fcEGoAE8VX 上尝试该 prompt https://t.co/OPD688DZqt"
+    "es": {
+      "content": "Utiliza Seedance 2.0 para convertir un storyboard (generado a partir de una foto de producto) en un video publicitario de producto cinematográfico.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Prueba el prompt en https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt\n---"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 pour transformer un storyboard (généré à partir d'une photo de produit) en une vidéo publicitaire cinématographique pour le produit.\n\n--- SUITE DU FIL ---\n[Fil 1] Essayez le prompt sur https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt"
+    },
+    "ja": {
+      "content": "Seedance 2.0を使用して、商品写真から生成されたストーリーボードをシネマティックな商品広告ビデオに変換しましょう。\n\n--- スレッドの続き ---\n[スレッド1] プロンプトを試してみてください https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 사용하여 제품 사진에서 생성된 스토리보드를 영화 같은 제품 광고 비디오로 변환하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Try the prompt on https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 para transformar um storyboard (gerado a partir de uma foto de produto) em um vídeo publicitário cinematográfico do produto.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Experimente o prompt em https://t.co/fcEGoAE8VX https://t.co/OPD688DZqt"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0 将故事板（由产品照片生成）转化为电影级产品广告视频。\n\n--- 线程继续 ---\n[线程 1] 在 https://t.co/fcEGoAE8VX 上尝试该 prompt https://t.co/OPD688DZqt"
+    }
   }
 }

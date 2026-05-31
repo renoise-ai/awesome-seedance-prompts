@@ -1,37 +1,35 @@
 {
   "id": "2060442258864742514",
-  "type": "tip",
-  "url": "https://x.com/marcusyul/status/2060442258864742514",
+  "title": "Carga hasta 12 archivos de referencia a la vez (imágenes, vídeos y audio) en…",
+  "content": "Carga hasta 12 archivos de referencia a la vez (imágenes, vídeos y audio) en Dreamina Seedance 2.0 para fusionarlos en una sola salida coherente.  \nEn el prompt, especifica explícitamente qué elementos debe tomar de cada referencia (p. ej., estilo de la imagen 1, movimiento de cámara del vídeo 2, ritmo del audio 3) para que Seedance 2.0 los combine con precisión.",
   "language": "es",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060441889447301123/img/4YgrvrP-9VKIvAmq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060442258864742514.mp4",
+  "sourceLink": "https://x.com/marcusyul/status/2060442258864742514",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "marcus",
-    "username": "marcusyul",
-    "url": "https://x.com/marcusyul",
-    "followers": 539906
+    "link": "https://x.com/marcusyul"
   },
-  "text": "La mayoría de herramientas de IA generan vídeos desde cero, pero Dreamina Seedance 2.0 es diferente:\n\nPuede recibir hasta 12 archivos de referencia al mismo tiempo — imágenes, vídeos y audio — y fusionarlos en una sola salida coherente.\n\nAdemás, puedes indicarle exactamente qué debe tomar de cada referencia, y el modelo lo ejecuta con precisión.\n\nCon Dreamina Seedance 2.0, solo necesitas un prompt para recrear cualquier vídeo viral.",
-  "content": "Carga hasta 12 archivos de referencia a la vez (imágenes, vídeos y audio) en Dreamina Seedance 2.0 para fusionarlos en una sola salida coherente.  \nEn el prompt, especifica explícitamente qué elementos debe tomar de cada referencia (p. ej., estilo de la imagen 1, movimiento de cámara del vídeo 2, ritmo del audio 3) para que Seedance 2.0 los combine con precisión.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 35,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 2,
-    "views": 922
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060442258864742514.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060441889447301123/img/4YgrvrP-9VKIvAmq.jpg"
-  },
+  "tips": "Carga hasta 12 archivos de referencia a la vez (imágenes, vídeos y audio) en Dreamina Seedance 2.0 para fusionarlos en una sola salida coherente.  \nEn el prompt, especifica explícitamente qué elementos debe tomar de cada referencia (p. ej., estilo de la imagen 1, movimiento de cámara del vídeo 2, ritmo del audio 3) para que Seedance 2.0 los combine con precisión.",
   "translations": {
-    "en": "Upload up to 12 reference files at once (images, videos, and audio) in Dreamina Seedance 2.0 to merge them into a single coherent output.  \nIn the prompt, explicitly specify which elements to take from each reference (e.g., style from image 1, camera movement from video 2, rhythm from audio 3) so that Seedance 2.0 can combine them accurately.",
-    "fr": "Chargez jusqu'à 12 fichiers de référence à la fois (images, vidéos et audio) dans Dreamina Seedance 2.0 pour les fusionner en une seule sortie cohérente.  \nDans le prompt, spécifiez explicitement quels éléments doivent être pris de chaque référence (par exemple, style de l'image 1, mouvement de caméra de la vidéo 2, rythme de l'audio 3) pour que Seedance 2.0 les combine avec précision.",
-    "ja": "---\nDreamina Seedance 2.0では、最大12個の参照ファイル（画像、動画、音声）を一度にアップロードし、それらを一つの一貫した出力に融合させることができます。  \nPromptでは、各参照からどの要素を取るべきかを明確に指定してください（例：画像1のスタイル、動画2のカメラの動き、音声3のリズム）。これにより、Seedance 2.0がそれらを正確に組み合わせることができます。\n---",
-    "ko": "Dreamina Seedance 2.0에서 최대 12개의 참조 파일(이미지, 비디오 및 오디오)을 한 번에 업로드하여 하나의 일관된 출력으로 융합하세요.  \nPrompt에서 각 참조에서 어떤 요소를 가져와야 하는지 명확하게 지정하세요 (예: 이미지 1의 스타일, 비디오 2의 카메라 움직임, 오디오 3의 리듬) 그러면 Seedance 2.0이 이를 정확하게 결합합니다.",
-    "pt-BR": "Carregue até 12 arquivos de referência de uma vez (imagens, vídeos e áudio) no Dreamina Seedance 2.0 para fundi-los em uma única saída coerente.  \nNo prompt, especifique explicitamente quais elementos devem ser tomados de cada referência (por exemplo, estilo da imagem 1, movimento de câmera do vídeo 2, ritmo do áudio 3) para que o Seedance 2.0 os combine com precisão.",
-    "zh-CN": "在 Dreamina Seedance 2.0 中一次上传最多 12 个参考文件（图像、视频和音频），将它们融合成一个连贯的输出。在 prompt 中，明确指定每个参考文件中应提取的元素（例如，图像 1 的风格、视频 2 的摄像机运动、音频 3 的节奏），以便 Seedance 2.0 准确地进行组合。"
+    "en": {
+      "content": "Upload up to 12 reference files at once (images, videos, and audio) in Dreamina Seedance 2.0 to merge them into a single coherent output.  \nIn the prompt, explicitly specify which elements to take from each reference (e.g., style from image 1, camera movement from video 2, rhythm from audio 3) so that Seedance 2.0 can combine them accurately."
+    },
+    "fr": {
+      "content": "Chargez jusqu'à 12 fichiers de référence à la fois (images, vidéos et audio) dans Dreamina Seedance 2.0 pour les fusionner en une seule sortie cohérente.  \nDans le prompt, spécifiez explicitement quels éléments doivent être pris de chaque référence (par exemple, style de l'image 1, mouvement de caméra de la vidéo 2, rythme de l'audio 3) pour que Seedance 2.0 les combine avec précision."
+    },
+    "ja": {
+      "content": "---\nDreamina Seedance 2.0では、最大12個の参照ファイル（画像、動画、音声）を一度にアップロードし、それらを一つの一貫した出力に融合させることができます。  \nPromptでは、各参照からどの要素を取るべきかを明確に指定してください（例：画像1のスタイル、動画2のカメラの動き、音声3のリズム）。これにより、Seedance 2.0がそれらを正確に組み合わせることができます。\n---"
+    },
+    "ko": {
+      "content": "Dreamina Seedance 2.0에서 최대 12개의 참조 파일(이미지, 비디오 및 오디오)을 한 번에 업로드하여 하나의 일관된 출력으로 융합하세요.  \nPrompt에서 각 참조에서 어떤 요소를 가져와야 하는지 명확하게 지정하세요 (예: 이미지 1의 스타일, 비디오 2의 카메라 움직임, 오디오 3의 리듬) 그러면 Seedance 2.0이 이를 정확하게 결합합니다."
+    },
+    "pt": {
+      "content": "Carregue até 12 arquivos de referência de uma vez (imagens, vídeos e áudio) no Dreamina Seedance 2.0 para fundi-los em uma única saída coerente.  \nNo prompt, especifique explicitamente quais elementos devem ser tomados de cada referência (por exemplo, estilo da imagem 1, movimento de câmera do vídeo 2, ritmo do áudio 3) para que o Seedance 2.0 os combine com precisão."
+    },
+    "zh": {
+      "content": "在 Dreamina Seedance 2.0 中一次上传最多 12 个参考文件（图像、视频和音频），将它们融合成一个连贯的输出。在 prompt 中，明确指定每个参考文件中应提取的元素（例如，图像 1 的风格、视频 2 的摄像机运动、音频 3 的节奏），以便 Seedance 2.0 准确地进行组合。"
+    }
   }
 }

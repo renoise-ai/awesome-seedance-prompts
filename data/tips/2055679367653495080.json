@@ -1,40 +1,35 @@
 {
   "id": "2055679367653495080",
-  "type": "tip",
-  "url": "https://x.com/CharaspowerAI/status/2055679367653495080",
+  "title": "Type one prompt and select the output format (cinematic or cartoon) to have…",
+  "content": "Type one prompt and select the output format (cinematic or cartoon) to have Seedance used as part of an orchestrated multi-model workflow that generates a 1+ minute sequence from a single idea.",
   "language": "en",
-  "created_at": "2026-05-16",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055678952912396288/img/KwprvT2chuvz26nm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055679367653495080.mp4",
+  "sourceLink": "https://x.com/CharaspowerAI/status/2055679367653495080",
+  "sourcePublishedAt": "2026-05-16",
   "author": {
     "name": "Pierrick Chevallier | IA",
-    "username": "CharaspowerAI",
-    "url": "https://x.com/CharaspowerAI",
-    "followers": 53771
+    "link": "https://x.com/CharaspowerAI"
   },
-  "text": "The “one prompt movie” era just started.\nThis 1+ minute cinematic sequence was generated from a single idea 🎬🔥\n\nNot because one model suddenly became magical.\nBut because Higgsfield Supercomputer orchestrates the entire production behind the scenes:\n\nYou type one prompt + choose the format (cinematic or cartoon)\nThen Supercomputer:\n→ picks the workflow\n→ breaks production into sub-tasks\n→ routes each task to the best model\n(GPT-5.5 Pro, Opus 4.7, Gemini 3.1, Seedance, Veo, Kling…)\n→ stitches everything into a finished production\n\nNo 14-tab workflow.\nNo endless pipeline management.\n\nJust one idea → full cinematic output.\nYou don’t manage the pipeline anymore.\nYou just describe the movie.",
-  "content": "Type one prompt and select the output format (cinematic or cartoon) to have Seedance used as part of an orchestrated multi-model workflow that generates a 1+ minute sequence from a single idea.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 48,
-    "retweets": 12,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 29,
-    "views": 6689
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055679367653495080.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055678952912396288/img/KwprvT2chuvz26nm.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "Now everyone can make 60-minute films from ONE prompt 🤯\n\nHiggsfield Supercomputer looks insane.\n\nA cloud-native AI agent that unifies every model, tool, and creative workflow into one system.\n\n> Type one prompt - specify your length and type (cartoon or cinematic)\n> Supercomputer picks the workflow\n> It deploys a swarm of agents\n> Every sub-task routes across the right frontier LLM (Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro) and the right video model (Seedance, Veo, Kling)\n> A finished cartoon or movie lands\n\nA full film studio running inside one agent. Wild."
-  },
+  "tips": "Type one prompt and select the output format (cinematic or cartoon) to have Seedance used as part of an orchestrated multi-model workflow that generates a 1+ minute sequence from a single idea.",
   "translations": {
-    "es": "Escribe un prompt y selecciona el formato de salida (cinematic o cartoon) para que Seedance se utilice como parte de un flujo de trabajo multimodelo orquestado que genera una secuencia de más de 1 minuto a partir de una sola idea.\n\n--- TWEET CITADO ---\nAhora todos pueden hacer películas de 60 minutos con UN solo prompt 🤯\n\nHiggsfield Supercomputer se ve increíble.\n\nUn agente de IA nativo en la nube que unifica cada modelo, herramienta y flujo de trabajo creativo en un solo sistema.\n\n> Escribe un prompt - especifica tu duración y tipo (cartoon o cinematic)\n> Supercomputer elige el flujo de trabajo\n> Despliega un enjambre de agentes\n> Cada subtarea se enruta a través del LLM de frontera adecuado (Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro) y el modelo de video adecuado (Seedance, Veo, Kling)\n> Un cartoon o película terminada llega\n\nUn estudio de cine completo funcionando dentro de un solo agente. Increíble.",
-    "fr": "Tapez une prompt et sélectionnez le format de sortie (cinematic ou cartoon) pour que Seedance soit utilisé dans le cadre d'un flux de travail multi-modèle orchestré qui génère une séquence de plus d'une minute à partir d'une seule idée.\n\n--- TWEET CITÉ ---\nMaintenant, tout le monde peut réaliser des films de 60 minutes à partir d'UN seul prompt 🤯\n\nLe superordinateur Higgsfield a l'air incroyable.\n\nUn agent IA natif du cloud qui unifie chaque modèle, outil et flux de travail créatif en un seul système.\n\n> Tapez une prompt - spécifiez votre durée et votre type (cartoon ou cinematic)\n> Le superordinateur choisit le flux de travail\n> Il déploie un essaim d'agents\n> Chaque sous-tâche est dirigée vers le bon LLM de pointe (Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro) et le bon modèle vidéo (Seedance, Veo, Kling)\n> Un cartoon ou un film terminé est livré\n\nUn studio de cinéma complet fonctionnant à l'intérieur d'un seul agent. Incroyable.",
-    "ja": "---\n1つのプロンプトを入力し、出力形式（cinematicまたはcartoon）を選択すると、Seedanceがオーケストレーションされたマルチモデルワークフローの一部として使用され、1つのアイデアから1分以上のシーケンスを生成します。\n\n--- QUOTED TWEET ---\n今や誰でも1つのプロンプトから60分の映画を作れる 🤯\n\nHiggsfield Supercomputerは驚異的です。\n\nすべてのモデル、ツール、クリエイティブワークフローを1つのシステムに統合するクラウドネイティブAIエージェント。\n\n> 1つのプロンプトを入力 - 長さとタイプを指定（cartoonまたはcinematic）\n> スーパーコンピュータがワークフローを選択\n> エージェントの群れを展開\n> すべてのサブタスクが適切なフロンティアLLM（Opus 4.7、GPT-5.5 Pro、Gemini 3.1 Pro）と適切なビデオモデル（Seedance、Veo、Kling）を経由\n> 完成したcartoonまたは映画が届く\n\n1つのエージェント内で動作する完全な映画スタジオ。驚異的です。\n---",
-    "ko": "하나의 프롬프트를 입력하고 출력 형식(시네마틱 또는 만화)을 선택하여 Seedance를 오케스트레이션된 멀티 모델 워크플로의 일부로 사용하여 단일 아이디어에서 1분 이상의 시퀀스를 생성합니다.\n\n--- 인용된 트윗 ---\n이제 누구나 하나의 프롬프트로 60분짜리 영화를 만들 수 있습니다 🤯\n\nHiggsfield 슈퍼컴퓨터는 정말 놀랍습니다.\n\n모든 모델, 도구, 창의적 워크플로를 하나의 시스템으로 통합하는 클라우드 네이티브 AI 에이전트입니다.\n\n> 하나의 프롬프트 입력 - 길이와 유형(만화 또는 시네마틱) 지정\n> 슈퍼컴퓨터가 워크플로 선택\n> 에이전트 군단을 배치\n> 모든 하위 작업이 적절한 최전선 LLM(Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro)과 적절한 비디오 모델(Seedance, Veo, Kling)을 통해 라우팅\n> 완성된 만화 또는 영화 도착\n\n하나의 에이전트 안에서 운영되는 완전한 영화 스튜디오. 대단합니다.",
-    "pt-BR": "Digite um prompt e selecione o formato de saída (cinematic ou cartoon) para que o Seedance seja usado como parte de um fluxo de trabalho multi-modelo orquestrado que gera uma sequência de mais de 1 minuto a partir de uma única ideia.\n\n--- TWEET CITADO ---\nAgora todos podem fazer filmes de 60 minutos a partir de UM prompt 🤯\n\nO Supercomputador Higgsfield parece insano.\n\nUm agente de IA nativo da nuvem que unifica todos os modelos, ferramentas e fluxos de trabalho criativos em um único sistema.\n\n> Digite um prompt - especifique seu comprimento e tipo (cartoon ou cinematic)\n> O supercomputador escolhe o fluxo de trabalho\n> Ele implanta um enxame de agentes\n> Cada subtarefa é roteada pelo LLM de fronteira certo (Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro) e pelo modelo de vídeo certo (Seedance, Veo, Kling)\n> Um cartoon ou filme finalizado é entregue\n\nUm estúdio de cinema completo rodando dentro de um único agente. Incrível.",
-    "zh-CN": "输入一个prompt并选择输出格式（cinematic或cartoon），让Seedance作为协调多模型工作流程的一部分，从一个想法生成一个1分钟以上的序列。\n\n--- 引用推文 ---\n现在每个人都可以从一个prompt制作60分钟的电影 🤯\n\nHiggsfield超级计算机看起来令人难以置信。\n\n一个云原生的AI代理，将每个模型、工具和创意工作流程统一到一个系统中。\n\n> 输入一个prompt - 指定长度和类型（cartoon或cinematic）\n> 超级计算机选择工作流程\n> 它部署一群代理\n> 每个子任务在合适的前沿LLM（Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro）和合适的视频模型（Seedance, Veo, Kling）之间路由\n> 完成的卡通或电影呈现\n\n一个完整的电影工作室运行在一个代理中。太疯狂了。"
+    "es": {
+      "content": "Escribe un prompt y selecciona el formato de salida (cinematic o cartoon) para que Seedance se utilice como parte de un flujo de trabajo multimodelo orquestado que genera una secuencia de más de 1 minuto a partir de una sola idea.\n\n--- TWEET CITADO ---\nAhora todos pueden hacer películas de 60 minutos con UN solo prompt 🤯\n\nHiggsfield Supercomputer se ve increíble.\n\nUn agente de IA nativo en la nube que unifica cada modelo, herramienta y flujo de trabajo creativo en un solo sistema.\n\n> Escribe un prompt - especifica tu duración y tipo (cartoon o cinematic)\n> Supercomputer elige el flujo de trabajo\n> Despliega un enjambre de agentes\n> Cada subtarea se enruta a través del LLM de frontera adecuado (Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro) y el modelo de video adecuado (Seedance, Veo, Kling)\n> Un cartoon o película terminada llega\n\nUn estudio de cine completo funcionando dentro de un solo agente. Increíble."
+    },
+    "fr": {
+      "content": "Tapez une prompt et sélectionnez le format de sortie (cinematic ou cartoon) pour que Seedance soit utilisé dans le cadre d'un flux de travail multi-modèle orchestré qui génère une séquence de plus d'une minute à partir d'une seule idée.\n\n--- TWEET CITÉ ---\nMaintenant, tout le monde peut réaliser des films de 60 minutes à partir d'UN seul prompt 🤯\n\nLe superordinateur Higgsfield a l'air incroyable.\n\nUn agent IA natif du cloud qui unifie chaque modèle, outil et flux de travail créatif en un seul système.\n\n> Tapez une prompt - spécifiez votre durée et votre type (cartoon ou cinematic)\n> Le superordinateur choisit le flux de travail\n> Il déploie un essaim d'agents\n> Chaque sous-tâche est dirigée vers le bon LLM de pointe (Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro) et le bon modèle vidéo (Seedance, Veo, Kling)\n> Un cartoon ou un film terminé est livré\n\nUn studio de cinéma complet fonctionnant à l'intérieur d'un seul agent. Incroyable."
+    },
+    "ja": {
+      "content": "---\n1つのプロンプトを入力し、出力形式（cinematicまたはcartoon）を選択すると、Seedanceがオーケストレーションされたマルチモデルワークフローの一部として使用され、1つのアイデアから1分以上のシーケンスを生成します。\n\n--- QUOTED TWEET ---\n今や誰でも1つのプロンプトから60分の映画を作れる 🤯\n\nHiggsfield Supercomputerは驚異的です。\n\nすべてのモデル、ツール、クリエイティブワークフローを1つのシステムに統合するクラウドネイティブAIエージェント。\n\n> 1つのプロンプトを入力 - 長さとタイプを指定（cartoonまたはcinematic）\n> スーパーコンピュータがワークフローを選択\n> エージェントの群れを展開\n> すべてのサブタスクが適切なフロンティアLLM（Opus 4.7、GPT-5.5 Pro、Gemini 3.1 Pro）と適切なビデオモデル（Seedance、Veo、Kling）を経由\n> 完成したcartoonまたは映画が届く\n\n1つのエージェント内で動作する完全な映画スタジオ。驚異的です。\n---"
+    },
+    "ko": {
+      "content": "하나의 프롬프트를 입력하고 출력 형식(시네마틱 또는 만화)을 선택하여 Seedance를 오케스트레이션된 멀티 모델 워크플로의 일부로 사용하여 단일 아이디어에서 1분 이상의 시퀀스를 생성합니다.\n\n--- 인용된 트윗 ---\n이제 누구나 하나의 프롬프트로 60분짜리 영화를 만들 수 있습니다 🤯\n\nHiggsfield 슈퍼컴퓨터는 정말 놀랍습니다.\n\n모든 모델, 도구, 창의적 워크플로를 하나의 시스템으로 통합하는 클라우드 네이티브 AI 에이전트입니다.\n\n> 하나의 프롬프트 입력 - 길이와 유형(만화 또는 시네마틱) 지정\n> 슈퍼컴퓨터가 워크플로 선택\n> 에이전트 군단을 배치\n> 모든 하위 작업이 적절한 최전선 LLM(Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro)과 적절한 비디오 모델(Seedance, Veo, Kling)을 통해 라우팅\n> 완성된 만화 또는 영화 도착\n\n하나의 에이전트 안에서 운영되는 완전한 영화 스튜디오. 대단합니다."
+    },
+    "pt": {
+      "content": "Digite um prompt e selecione o formato de saída (cinematic ou cartoon) para que o Seedance seja usado como parte de um fluxo de trabalho multi-modelo orquestrado que gera uma sequência de mais de 1 minuto a partir de uma única ideia.\n\n--- TWEET CITADO ---\nAgora todos podem fazer filmes de 60 minutos a partir de UM prompt 🤯\n\nO Supercomputador Higgsfield parece insano.\n\nUm agente de IA nativo da nuvem que unifica todos os modelos, ferramentas e fluxos de trabalho criativos em um único sistema.\n\n> Digite um prompt - especifique seu comprimento e tipo (cartoon ou cinematic)\n> O supercomputador escolhe o fluxo de trabalho\n> Ele implanta um enxame de agentes\n> Cada subtarefa é roteada pelo LLM de fronteira certo (Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro) e pelo modelo de vídeo certo (Seedance, Veo, Kling)\n> Um cartoon ou filme finalizado é entregue\n\nUm estúdio de cinema completo rodando dentro de um único agente. Incrível."
+    },
+    "zh": {
+      "content": "输入一个prompt并选择输出格式（cinematic或cartoon），让Seedance作为协调多模型工作流程的一部分，从一个想法生成一个1分钟以上的序列。\n\n--- 引用推文 ---\n现在每个人都可以从一个prompt制作60分钟的电影 🤯\n\nHiggsfield超级计算机看起来令人难以置信。\n\n一个云原生的AI代理，将每个模型、工具和创意工作流程统一到一个系统中。\n\n> 输入一个prompt - 指定长度和类型（cartoon或cinematic）\n> 超级计算机选择工作流程\n> 它部署一群代理\n> 每个子任务在合适的前沿LLM（Opus 4.7, GPT-5.5 Pro, Gemini 3.1 Pro）和合适的视频模型（Seedance, Veo, Kling）之间路由\n> 完成的卡通或电影呈现\n\n一个完整的电影工作室运行在一个代理中。太疯狂了。"
+    }
   }
 }

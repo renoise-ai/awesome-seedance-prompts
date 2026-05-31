@@ -1,34 +1,34 @@
 {
   "id": "2059964041146306673",
-  "type": "tip",
-  "url": "https://x.com/Cia0_exe/status/2059964041146306673",
+  "title": "Create a storyboard prompt in GPT 2.0 using: professional cinematic storyboard…",
+  "content": "Create a storyboard prompt in GPT 2.0 using: professional cinematic storyboard board layout, image reference sheet, shot breakdown, action graph, movement arrows, camera angle diagram, 5 clips (2 seconds each), 5 keyframes per clip, and append Seedance 2.0 optimized + your scene prompt (e.g., from Claude).",
   "language": "en",
-  "created_at": "2026-05-28",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Cia0_exe/status/2059964041146306673",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Cia0",
-    "username": "Cia0_exe",
-    "url": "https://x.com/Cia0_exe",
-    "followers": 7082
+    "link": "https://x.com/Cia0_exe"
   },
-  "text": "Create a storyboard in GPT 2.0 prompt:\n\nprofessional cinematic storyboard board layout, image reference sheet, shot breakdown, action graph, movement arrows, camera angle diagram, 5 clips, each 2 seconds, 5 keyframes per clip, Seedance 2.0 optimized [prompt scene from claude] https://t.co/x9JhuUWIlH",
-  "content": "Create a storyboard prompt in GPT 2.0 using: professional cinematic storyboard board layout, image reference sheet, shot breakdown, action graph, movement arrows, camera angle diagram, 5 clips (2 seconds each), 5 keyframes per clip, and append Seedance 2.0 optimized + your scene prompt (e.g., from Claude).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 9,
-    "retweets": 0,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 0,
-    "views": 438
-  },
-  "video": null,
+  "tips": "Create a storyboard prompt in GPT 2.0 using: professional cinematic storyboard board layout, image reference sheet, shot breakdown, action graph, movement arrows, camera angle diagram, 5 clips (2 seconds each), 5 keyframes per clip, and append Seedance 2.0 optimized + your scene prompt (e.g., from Claude).",
   "translations": {
-    "es": "Crea un prompt de storyboard en GPT 2.0 usando: diseño de tablero de storyboard cinematográfico profesional, hoja de referencia de imágenes, desglose de tomas, gráfico de acción, flechas de movimiento, diagrama de ángulos de cámara, 5 clips (2 segundos cada uno), 5 fotogramas clave por clip, y añade Seedance 2.0 optimizado + tu prompt de escena (por ejemplo, de Claude).",
-    "fr": "Créez un prompt de storyboard dans GPT 2.0 en utilisant : mise en page professionnelle de storyboard cinématographique, feuille de référence d'images, décomposition des plans, graphique d'action, flèches de mouvement, diagramme d'angle de caméra, 5 clips (2 secondes chacun), 5 images clés par clip, et ajoutez Seedance 2.0 optimisé + votre prompt de scène (par exemple, de Claude).",
-    "ja": "---\nGPT 2.0でストーリーボードプロンプトを作成する際には、以下を使用してください：プロフェッショナルなシネマティックストーリーボードレイアウト、画像参照シート、ショットブレイクダウン、アクショングラフ、動きの矢印、カメラアングル図、5つのクリップ（各2秒）、各クリップに5つのキーフレーム、そしてSeedance 2.0最適化 + あなたのシーンプロンプト（例：Claudeから）。\n---",
-    "ko": "---\nGPT 2.0에서 다음을 사용하여 스토리보드 프롬프트를 생성하세요: 전문적인 시네마틱 스토리보드 레이아웃, 이미지 참조 시트, 샷 분석, 액션 그래프, 움직임 화살표, 카메라 앵글 다이어그램, 5개의 클립(각 2초), 클립당 5개의 키프레임, 그리고 Seedance 2.0 최적화 + 당신의 장면 프롬프트(예: Claude에서)를 추가하세요.\n---",
-    "pt-BR": "Crie um prompt de storyboard no GPT 2.0 usando: layout de storyboard cinematográfico profissional, folha de referência de imagem, análise de cenas, gráfico de ação, setas de movimento, diagrama de ângulo de câmera, 5 clipes (2 segundos cada), 5 quadros-chave por clipe, e anexe Seedance 2.0 otimizado + seu prompt de cena (por exemplo, de Claude).",
-    "zh-CN": "---\n在GPT 2.0中创建一个分镜头脚本提示，使用：专业电影分镜板布局、图像参考表、镜头分解、动作图、运动箭头、相机角度图、5个片段（每个2秒）、每个片段5个关键帧，并附加Seedance 2.0优化+你的场景提示（例如，来自Claude）。\n---"
+    "es": {
+      "content": "Crea un prompt de storyboard en GPT 2.0 usando: diseño de tablero de storyboard cinematográfico profesional, hoja de referencia de imágenes, desglose de tomas, gráfico de acción, flechas de movimiento, diagrama de ángulos de cámara, 5 clips (2 segundos cada uno), 5 fotogramas clave por clip, y añade Seedance 2.0 optimizado + tu prompt de escena (por ejemplo, de Claude)."
+    },
+    "fr": {
+      "content": "Créez un prompt de storyboard dans GPT 2.0 en utilisant : mise en page professionnelle de storyboard cinématographique, feuille de référence d'images, décomposition des plans, graphique d'action, flèches de mouvement, diagramme d'angle de caméra, 5 clips (2 secondes chacun), 5 images clés par clip, et ajoutez Seedance 2.0 optimisé + votre prompt de scène (par exemple, de Claude)."
+    },
+    "ja": {
+      "content": "---\nGPT 2.0でストーリーボードプロンプトを作成する際には、以下を使用してください：プロフェッショナルなシネマティックストーリーボードレイアウト、画像参照シート、ショットブレイクダウン、アクショングラフ、動きの矢印、カメラアングル図、5つのクリップ（各2秒）、各クリップに5つのキーフレーム、そしてSeedance 2.0最適化 + あなたのシーンプロンプト（例：Claudeから）。\n---"
+    },
+    "ko": {
+      "content": "---\nGPT 2.0에서 다음을 사용하여 스토리보드 프롬프트를 생성하세요: 전문적인 시네마틱 스토리보드 레이아웃, 이미지 참조 시트, 샷 분석, 액션 그래프, 움직임 화살표, 카메라 앵글 다이어그램, 5개의 클립(각 2초), 클립당 5개의 키프레임, 그리고 Seedance 2.0 최적화 + 당신의 장면 프롬프트(예: Claude에서)를 추가하세요.\n---"
+    },
+    "pt": {
+      "content": "Crie um prompt de storyboard no GPT 2.0 usando: layout de storyboard cinematográfico profissional, folha de referência de imagem, análise de cenas, gráfico de ação, setas de movimento, diagrama de ângulo de câmera, 5 clipes (2 segundos cada), 5 quadros-chave por clipe, e anexe Seedance 2.0 otimizado + seu prompt de cena (por exemplo, de Claude)."
+    },
+    "zh": {
+      "content": "---\n在GPT 2.0中创建一个分镜头脚本提示，使用：专业电影分镜板布局、图像参考表、镜头分解、动作图、运动箭头、相机角度图、5个片段（每个2秒）、每个片段5个关键帧，并附加Seedance 2.0优化+你的场景提示（例如，来自Claude）。\n---"
+    }
   }
 }

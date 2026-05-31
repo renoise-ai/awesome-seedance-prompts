@@ -1,37 +1,35 @@
 {
   "id": "2054574011980386673",
-  "type": "tip",
-  "url": "https://x.com/LouiseDSadeleer/status/2054574011980386673",
+  "title": "Generate Seedance 2.0 videos using a simple workflow: 1 photo + a 1-sentence…",
+  "content": "Generate Seedance 2.0 videos using a simple workflow: 1 photo + a 1-sentence prompt.  \nCustomize the look by adding cinematic terms like Ken Burns effect to your prompt.  \nSpecify a camera format in the prompt (e.g., Super 8) to influence the video’s aesthetic.",
   "language": "en",
-  "created_at": "2026-05-13",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054573566159364096/img/b5Crz5nbsfT_ug57.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054574011980386673.mp4",
+  "sourceLink": "https://x.com/LouiseDSadeleer/status/2054574011980386673",
+  "sourcePublishedAt": "2026-05-13",
   "author": {
     "name": "Louise de Sadeleer",
-    "username": "LouiseDSadeleer",
-    "url": "https://x.com/LouiseDSadeleer",
-    "followers": 2068
+    "link": "https://x.com/LouiseDSadeleer"
   },
-  "text": "The lazy person's guide to generating no-slop videos:\n\n→ 1 photo + 1-sentence prompt + Seedance 2.0\n\nI made each of these with just one try.\n\nCustomise using cinematic terms like \"Ken Burns effect\" or specific cameras (e.g. Super 8) https://t.co/NNAEDgBnZA",
-  "content": "Generate Seedance 2.0 videos using a simple workflow: 1 photo + a 1-sentence prompt.  \nCustomize the look by adding cinematic terms like Ken Burns effect to your prompt.  \nSpecify a camera format in the prompt (e.g., Super 8) to influence the video’s aesthetic.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 26,
-    "retweets": 0,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 13,
-    "views": 1086
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054574011980386673.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054573566159364096/img/b5Crz5nbsfT_ug57.jpg"
-  },
+  "tips": "Generate Seedance 2.0 videos using a simple workflow: 1 photo + a 1-sentence prompt.  \nCustomize the look by adding cinematic terms like Ken Burns effect to your prompt.  \nSpecify a camera format in the prompt (e.g., Super 8) to influence the video’s aesthetic.",
   "translations": {
-    "es": "Genera videos con Seedance 2.0 utilizando un flujo de trabajo simple: 1 foto + un prompt de una oración.  \nPersonaliza el aspecto añadiendo términos cinematográficos como el efecto Ken Burns a tu prompt.  \nEspecifica un formato de cámara en el prompt (por ejemplo, Super 8) para influir en la estética del video.",
-    "fr": "---\nGénérez des vidéos Seedance 2.0 en utilisant un flux de travail simple : 1 photo + un prompt d'une phrase.  \nPersonnalisez l'apparence en ajoutant des termes cinématographiques comme l'effet Ken Burns à votre prompt.  \nSpécifiez un format de caméra dans le prompt (par exemple, Super 8) pour influencer l'esthétique de la vidéo.  \n---",
-    "ja": "---\nシンプルなワークフローでSeedance 2.0ビデオを生成：1枚の写真 + 1文のプロンプト。  \nプロンプトにKen Burns効果のようなシネマティックな用語を追加して外観をカスタマイズ。  \nプロンプトでカメラフォーマットを指定（例：Super 8）してビデオの美的感覚に影響を与える。  \n---",
-    "ko": "---\n간단한 워크플로우를 사용하여 Seedance 2.0 비디오를 생성하세요: 1장의 사진 + 1문장 프롬프트.  \n프롬프트에 Ken Burns 효과와 같은 시네마틱 용어를 추가하여 외관을 맞춤 설정하세요.  \n프롬프트에 카메라 포맷을 지정하여 (예: Super 8) 비디오의 미학에 영향을 줄 수 있습니다.\n---",
-    "pt-BR": "---\nGere vídeos Seedance 2.0 usando um fluxo de trabalho simples: 1 foto + um prompt de 1 frase.  \nPersonalize a aparência adicionando termos cinematográficos como o efeito Ken Burns ao seu prompt.  \nEspecifique um formato de câmera no prompt (por exemplo, Super 8) para influenciar a estética do vídeo.\n---",
-    "zh-CN": "使用简单的工作流程生成Seedance 2.0视频：1张照片 + 1句提示。  \n通过在提示中添加Ken Burns效果等电影术语来自定义外观。  \n在提示中指定相机格式（例如，Super 8）以影响视频的美感。"
+    "es": {
+      "content": "Genera videos con Seedance 2.0 utilizando un flujo de trabajo simple: 1 foto + un prompt de una oración.  \nPersonaliza el aspecto añadiendo términos cinematográficos como el efecto Ken Burns a tu prompt.  \nEspecifica un formato de cámara en el prompt (por ejemplo, Super 8) para influir en la estética del video."
+    },
+    "fr": {
+      "content": "---\nGénérez des vidéos Seedance 2.0 en utilisant un flux de travail simple : 1 photo + un prompt d'une phrase.  \nPersonnalisez l'apparence en ajoutant des termes cinématographiques comme l'effet Ken Burns à votre prompt.  \nSpécifiez un format de caméra dans le prompt (par exemple, Super 8) pour influencer l'esthétique de la vidéo.  \n---"
+    },
+    "ja": {
+      "content": "---\nシンプルなワークフローでSeedance 2.0ビデオを生成：1枚の写真 + 1文のプロンプト。  \nプロンプトにKen Burns効果のようなシネマティックな用語を追加して外観をカスタマイズ。  \nプロンプトでカメラフォーマットを指定（例：Super 8）してビデオの美的感覚に影響を与える。  \n---"
+    },
+    "ko": {
+      "content": "---\n간단한 워크플로우를 사용하여 Seedance 2.0 비디오를 생성하세요: 1장의 사진 + 1문장 프롬프트.  \n프롬프트에 Ken Burns 효과와 같은 시네마틱 용어를 추가하여 외관을 맞춤 설정하세요.  \n프롬프트에 카메라 포맷을 지정하여 (예: Super 8) 비디오의 미학에 영향을 줄 수 있습니다.\n---"
+    },
+    "pt": {
+      "content": "---\nGere vídeos Seedance 2.0 usando um fluxo de trabalho simples: 1 foto + um prompt de 1 frase.  \nPersonalize a aparência adicionando termos cinematográficos como o efeito Ken Burns ao seu prompt.  \nEspecifique um formato de câmera no prompt (por exemplo, Super 8) para influenciar a estética do vídeo.\n---"
+    },
+    "zh": {
+      "content": "使用简单的工作流程生成Seedance 2.0视频：1张照片 + 1句提示。  \n通过在提示中添加Ken Burns效果等电影术语来自定义外观。  \n在提示中指定相机格式（例如，Super 8）以影响视频的美感。"
+    }
   }
 }

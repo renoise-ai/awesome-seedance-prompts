@@ -1,43 +1,35 @@
 {
   "id": "2060593496982253643",
-  "type": "tip",
-  "url": "https://x.com/nmkenji/status/2060593496982253643",
+  "title": "nanobananaで3面図（キャラクターの正面・側面・背面）と絵コンテを作ってから、Seedance…",
+  "content": "nanobananaで3面図（キャラクターの正面・側面・背面）と絵コンテを作ってから、Seedance 2.0（PolloAIJP）で動画生成するとドキュメンタリー風シーンを作りやすい",
   "language": "ja",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060588319218749440/img/6Flz77D7LeFi-lAy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060593496982253643.mp4",
+  "sourceLink": "https://x.com/nmkenji/status/2060593496982253643",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "Kenji",
-    "username": "nmkenji",
-    "url": "https://x.com/nmkenji",
-    "followers": 4192
+    "link": "https://x.com/nmkenji"
   },
-  "text": "くりえみさん(@kurita__emi ) IPで架空のドキュメンタリー映像のシーンを作ってみました\n\n美の系譜 — AI時代のナビゲーターが巡る、アートの変遷\n\nnanobananaで3面図と絵コンテを作成、\nSeedance 2.0 on (@PolloAIJP )  で動画生成\n\nこういう番組があったら見てみたい https://t.co/1PeEr65Ceb",
-  "content": "nanobananaで3面図（キャラクターの正面・側面・背面）と絵コンテを作ってから、Seedance 2.0（PolloAIJP）で動画生成するとドキュメンタリー風シーンを作りやすい",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 56,
-    "retweets": 3,
-    "replies": 5,
-    "quotes": 1,
-    "bookmarks": 6,
-    "views": 11750
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060593496982253643.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060588319218749440/img/6Flz77D7LeFi-lAy.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "【企画内容】\n\n「AI時代の眼で、古典を再定義する」\n\n最新技術の最前線を走る彼女が、今回訪れたのは歴史ある美術館。重厚な静寂の中で、巨匠たちが遺した名画と向かい合う。\nキャンバスに刻まれた普遍的な美を、AI時代の視点で見つめ直す時、一体何が浮かび上がるのか。",
-      "ちょっと顔が似てなかった&amp;カメラワークが良くなかった没案２つ https://t.co/kVHV93Shso"
-    ]
-  },
+  "tips": "nanobananaで3面図（キャラクターの正面・側面・背面）と絵コンテを作ってから、Seedance 2.0（PolloAIJP）で動画生成するとドキュメンタリー風シーンを作りやすい",
   "translations": {
-    "en": "Create three-view drawings (front, side, back of the character) and storyboards with nanobanana, then generate video with Seedance 2.0 (PolloAIJP) to easily create documentary-style scenes.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 【Project Content】\n\n\"Redefining Classics through the Lens of the AI Era\"\n\nShe, at the forefront of cutting-edge technology, visits a historic art museum. In the profound silence, she faces the masterpieces left by the great masters.\nWhen we re-examine the universal beauty etched on the canvas from the perspective of the AI era, what will emerge?\n\n[Thread 2] Two rejected ideas due to the face not being quite right & poor camera work https://t.co/kVHV93Shso",
-    "es": "---\nDespués de crear un diseño de tres vistas (frontal, lateral y trasera del personaje) y un storyboard en nanobanana, es más fácil generar una escena de estilo documental con Seedance 2.0 (PolloAIJP).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] 【Contenido del proyecto】\n\n\"Redefinir los clásicos con la mirada de la era de la IA\"\n\nElla, que está a la vanguardia de la tecnología más avanzada, ha visitado en esta ocasión un museo con historia. En medio de un silencio solemne, se enfrenta a las obras maestras dejadas por los grandes maestros.\n¿Qué emergerá cuando se reexamine la belleza universal grabada en el lienzo desde la perspectiva de la era de la IA?\n\n[Hilo 2] La cara no se parecía mucho y el trabajo de cámara no era bueno en dos propuestas descartadas https://t.co/kVHV93Shso\n---",
-    "fr": "---\nAprès avoir créé des vues en trois dimensions (face, profil, dos) et un storyboard avec nanobanana, il est plus facile de générer des scènes de style documentaire avec Seedance 2.0 (PolloAIJP).\n\n--- SUITE DU FIL ---\n[Fil 1] 【Contenu du projet】\n\n« Redéfinir les classiques à travers le prisme de l'ère de l'IA »\n\nElle, à la pointe des dernières technologies, visite cette fois un musée historique. Dans le silence solennel, elle se confronte aux chefs-d'œuvre laissés par les grands maîtres.\nQue se révèle-t-il lorsque l'on réexamine la beauté universelle gravée sur la toile à travers la perspective de l'ère de l'IA ?\n\n[Fil 2] Deux propositions rejetées à cause d'une ressemblance faciale insuffisante & d'un mauvais travail de caméra https://t.co/kVHV93Shso\n---",
-    "ko": "nanobanana에서 3면도(캐릭터의 정면, 측면, 후면)와 스토리보드를 만든 후, Seedance 2.0(PolloAIJP)로 영상 생성하면 다큐멘터리 풍의 장면을 만들기 쉽다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 【기획 내용】\n\n「AI 시대의 눈으로 고전을 재정의하다」\n\n최신 기술의 최전선에 서 있는 그녀가 이번에 방문한 곳은 역사가 깊은 미술관이다. 중후한 정적 속에서 거장들이 남긴 명화와 마주한다.\n캔버스에 새겨진 보편적인 아름다움을 AI 시대의 시각으로 다시 바라볼 때, 과연 무엇이 떠오를 것인가.\n\n[Thread 2] 얼굴이 조금 안 닮았고 & 카메라워크가 좋지 않았던 폐기안 두 가지 https://t.co/kVHV93Shso",
-    "pt-BR": "---\nDepois de criar vistas ortogonais no nanobanana (frente, lado e costas do personagem) e storyboards, gerar vídeos com o Seedance 2.0 (PolloAIJP) facilita a criação de cenas em estilo documentário.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] 【Conteúdo do Projeto】\n\n\"Redefinindo os clássicos com o olhar da era da IA\"\n\nEla, que está na vanguarda das tecnologias mais recentes, visitou um museu de arte histórica. No meio de um silêncio profundo, ela se depara com as obras-primas deixadas pelos mestres. Ao reexaminar a beleza universal gravada nas telas sob a perspectiva da era da IA, o que será que emerge?\n\n[Tópico 2] O rosto não estava muito parecido & o trabalho de câmera não estava bom em duas propostas rejeitadas https://t.co/kVHV93Shso\n---",
-    "zh-CN": "---\n在nanobanana中制作三视图（角色的正面、侧面、背面）和分镜图后，用Seedance 2.0（PolloAIJP）生成视频，可以更容易地制作出纪录片风格的场景。\n\n--- 线程继续 ---\n[线程 1] 【企划内容】\n\n「用AI时代的眼光，重新定义经典」\n\n她走在最新技术的前沿，这次造访的是一家历史悠久的美术馆。在庄重的寂静中，与大师们留下的名画对视。\n当用AI时代的视角重新审视画布上刻画的永恒之美时，到底会浮现出什么？\n\n[线程 2] 脸有点不像 & 摄影机运镜不太好的两个废案 https://t.co/kVHV93Shso\n---"
+    "en": {
+      "content": "Create three-view drawings (front, side, back of the character) and storyboards with nanobanana, then generate video with Seedance 2.0 (PolloAIJP) to easily create documentary-style scenes.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 【Project Content】\n\n\"Redefining Classics through the Lens of the AI Era\"\n\nShe, at the forefront of cutting-edge technology, visits a historic art museum. In the profound silence, she faces the masterpieces left by the great masters.\nWhen we re-examine the universal beauty etched on the canvas from the perspective of the AI era, what will emerge?\n\n[Thread 2] Two rejected ideas due to the face not being quite right & poor camera work https://t.co/kVHV93Shso"
+    },
+    "es": {
+      "content": "---\nDespués de crear un diseño de tres vistas (frontal, lateral y trasera del personaje) y un storyboard en nanobanana, es más fácil generar una escena de estilo documental con Seedance 2.0 (PolloAIJP).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] 【Contenido del proyecto】\n\n\"Redefinir los clásicos con la mirada de la era de la IA\"\n\nElla, que está a la vanguardia de la tecnología más avanzada, ha visitado en esta ocasión un museo con historia. En medio de un silencio solemne, se enfrenta a las obras maestras dejadas por los grandes maestros.\n¿Qué emergerá cuando se reexamine la belleza universal grabada en el lienzo desde la perspectiva de la era de la IA?\n\n[Hilo 2] La cara no se parecía mucho y el trabajo de cámara no era bueno en dos propuestas descartadas https://t.co/kVHV93Shso\n---"
+    },
+    "fr": {
+      "content": "---\nAprès avoir créé des vues en trois dimensions (face, profil, dos) et un storyboard avec nanobanana, il est plus facile de générer des scènes de style documentaire avec Seedance 2.0 (PolloAIJP).\n\n--- SUITE DU FIL ---\n[Fil 1] 【Contenu du projet】\n\n« Redéfinir les classiques à travers le prisme de l'ère de l'IA »\n\nElle, à la pointe des dernières technologies, visite cette fois un musée historique. Dans le silence solennel, elle se confronte aux chefs-d'œuvre laissés par les grands maîtres.\nQue se révèle-t-il lorsque l'on réexamine la beauté universelle gravée sur la toile à travers la perspective de l'ère de l'IA ?\n\n[Fil 2] Deux propositions rejetées à cause d'une ressemblance faciale insuffisante & d'un mauvais travail de caméra https://t.co/kVHV93Shso\n---"
+    },
+    "ko": {
+      "content": "nanobanana에서 3면도(캐릭터의 정면, 측면, 후면)와 스토리보드를 만든 후, Seedance 2.0(PolloAIJP)로 영상 생성하면 다큐멘터리 풍의 장면을 만들기 쉽다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 【기획 내용】\n\n「AI 시대의 눈으로 고전을 재정의하다」\n\n최신 기술의 최전선에 서 있는 그녀가 이번에 방문한 곳은 역사가 깊은 미술관이다. 중후한 정적 속에서 거장들이 남긴 명화와 마주한다.\n캔버스에 새겨진 보편적인 아름다움을 AI 시대의 시각으로 다시 바라볼 때, 과연 무엇이 떠오를 것인가.\n\n[Thread 2] 얼굴이 조금 안 닮았고 & 카메라워크가 좋지 않았던 폐기안 두 가지 https://t.co/kVHV93Shso"
+    },
+    "pt": {
+      "content": "---\nDepois de criar vistas ortogonais no nanobanana (frente, lado e costas do personagem) e storyboards, gerar vídeos com o Seedance 2.0 (PolloAIJP) facilita a criação de cenas em estilo documentário.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] 【Conteúdo do Projeto】\n\n\"Redefinindo os clássicos com o olhar da era da IA\"\n\nEla, que está na vanguarda das tecnologias mais recentes, visitou um museu de arte histórica. No meio de um silêncio profundo, ela se depara com as obras-primas deixadas pelos mestres. Ao reexaminar a beleza universal gravada nas telas sob a perspectiva da era da IA, o que será que emerge?\n\n[Tópico 2] O rosto não estava muito parecido & o trabalho de câmera não estava bom em duas propostas rejeitadas https://t.co/kVHV93Shso\n---"
+    },
+    "zh": {
+      "content": "---\n在nanobanana中制作三视图（角色的正面、侧面、背面）和分镜图后，用Seedance 2.0（PolloAIJP）生成视频，可以更容易地制作出纪录片风格的场景。\n\n--- 线程继续 ---\n[线程 1] 【企划内容】\n\n「用AI时代的眼光，重新定义经典」\n\n她走在最新技术的前沿，这次造访的是一家历史悠久的美术馆。在庄重的寂静中，与大师们留下的名画对视。\n当用AI时代的视角重新审视画布上刻画的永恒之美时，到底会浮现出什么？\n\n[线程 2] 脸有点不像 & 摄影机运镜不太好的两个废案 https://t.co/kVHV93Shso\n---"
+    }
   }
 }

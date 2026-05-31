@@ -1,37 +1,35 @@
 {
   "id": "2060442255584866407",
-  "type": "tip",
-  "url": "https://x.com/marcusyul/status/2060442255584866407",
+  "title": "Entra a Dreamina y ve a AI Video para generar con Seedance.",
+  "content": "Entra a Dreamina y ve a AI Video para generar con Seedance.  \nSelecciona Omni Reference antes de elegir el modelo.  \nElige el modelo Dreamina Seedance 2.0 para la generación de video.  \nSube referencias, escribe el prompt y genera el video.  \nEn el prompt, usa @ para asignar el rol de cada material de referencia.",
   "language": "es",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060441834245984262/img/qIX0ppmvd2dAkU3N.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060442255584866407.mp4",
+  "sourceLink": "https://x.com/marcusyul/status/2060442255584866407",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "marcus",
-    "username": "marcusyul",
-    "url": "https://x.com/marcusyul",
-    "followers": 539906
+    "link": "https://x.com/marcusyul"
   },
-  "text": "Cómo usarlo (4 pasos):\n\nEntra a Dreamina: https://t.co/AJdiI4hPvZ\n\n→ AI Video \n\n→ Selecciona \"Omni Reference\"\n\n→ Elige el modelo Dreamina Seedance 2.0\n\n→ Sube referencias → escribe prompt → genera\n\nDentro del prompt, puedes usar \"@\" para asignar el rol de cada material. https://t.co/PZ7Ftg78KZ",
-  "content": "Entra a Dreamina y ve a AI Video para generar con Seedance.  \nSelecciona Omni Reference antes de elegir el modelo.  \nElige el modelo Dreamina Seedance 2.0 para la generación de video.  \nSube referencias, escribe el prompt y genera el video.  \nEn el prompt, usa @ para asignar el rol de cada material de referencia.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 32,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 2,
-    "views": 392
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060442255584866407.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060441834245984262/img/qIX0ppmvd2dAkU3N.jpg"
-  },
+  "tips": "Entra a Dreamina y ve a AI Video para generar con Seedance.  \nSelecciona Omni Reference antes de elegir el modelo.  \nElige el modelo Dreamina Seedance 2.0 para la generación de video.  \nSube referencias, escribe el prompt y genera el video.  \nEn el prompt, usa @ para asignar el rol de cada material de referencia.",
   "translations": {
-    "en": "Enter Dreamina and go to AI Video to generate with Seedance.  \nSelect Omni Reference before choosing the model.  \nChoose the Dreamina Seedance 2.0 model for video generation.  \nUpload references, write the prompt, and generate the video.  \nIn the prompt, use @ to assign the role of each reference material.",
-    "fr": "---\nEntrez dans Dreamina et allez à AI Video pour générer avec Seedance.  \nSélectionnez Omni Reference avant de choisir le modèle.  \nChoisissez le modèle Dreamina Seedance 2.0 pour la génération de vidéo.  \nTéléchargez des références, écrivez le prompt et générez la vidéo.  \nDans le prompt, utilisez @ pour attribuer le rôle de chaque matériel de référence.\n---",
-    "ja": "---\nDreaminaに入り、AI VideoでSeedanceを使って生成します。  \nモデルを選ぶ前にOmni Referenceを選択してください。  \nビデオ生成にはDreamina Seedance 2.0モデルを選択します。  \n参考資料をアップロードし、プロンプトを書いてビデオを生成します。  \nプロンプトでは、@を使って各参考資料の役割を割り当てます。  \n---",
-    "ko": "---\nDreamina에 들어가 Seedance로 AI 비디오를 생성하세요.  \n모델을 선택하기 전에 Omni Reference를 선택하세요.  \n비디오 생성을 위해 Dreamina Seedance 2.0 모델을 선택하세요.  \n참조 자료를 업로드하고, 프롬프트를 작성한 후 비디오를 생성하세요.  \n프롬프트에서 @를 사용하여 각 참조 자료의 역할을 지정하세요.\n---",
-    "pt-BR": "Entre na Dreamina e vá para AI Video para gerar com Seedance.  \nSelecione Omni Reference antes de escolher o modelo.  \nEscolha o modelo Dreamina Seedance 2.0 para a geração de vídeo.  \nCarregue referências, escreva o prompt e gere o vídeo.  \nNo prompt, use @ para atribuir o papel de cada material de referência.",
-    "zh-CN": "进入Dreamina并前往AI Video以使用Seedance生成。  \n在选择模型之前，选择Omni Reference。  \n选择模型Dreamina Seedance 2.0进行视频生成。  \n上传参考资料，编写prompt并生成视频。  \n在prompt中，使用@为每个参考材料分配角色。"
+    "en": {
+      "content": "Enter Dreamina and go to AI Video to generate with Seedance.  \nSelect Omni Reference before choosing the model.  \nChoose the Dreamina Seedance 2.0 model for video generation.  \nUpload references, write the prompt, and generate the video.  \nIn the prompt, use @ to assign the role of each reference material."
+    },
+    "fr": {
+      "content": "---\nEntrez dans Dreamina et allez à AI Video pour générer avec Seedance.  \nSélectionnez Omni Reference avant de choisir le modèle.  \nChoisissez le modèle Dreamina Seedance 2.0 pour la génération de vidéo.  \nTéléchargez des références, écrivez le prompt et générez la vidéo.  \nDans le prompt, utilisez @ pour attribuer le rôle de chaque matériel de référence.\n---"
+    },
+    "ja": {
+      "content": "---\nDreaminaに入り、AI VideoでSeedanceを使って生成します。  \nモデルを選ぶ前にOmni Referenceを選択してください。  \nビデオ生成にはDreamina Seedance 2.0モデルを選択します。  \n参考資料をアップロードし、プロンプトを書いてビデオを生成します。  \nプロンプトでは、@を使って各参考資料の役割を割り当てます。  \n---"
+    },
+    "ko": {
+      "content": "---\nDreamina에 들어가 Seedance로 AI 비디오를 생성하세요.  \n모델을 선택하기 전에 Omni Reference를 선택하세요.  \n비디오 생성을 위해 Dreamina Seedance 2.0 모델을 선택하세요.  \n참조 자료를 업로드하고, 프롬프트를 작성한 후 비디오를 생성하세요.  \n프롬프트에서 @를 사용하여 각 참조 자료의 역할을 지정하세요.\n---"
+    },
+    "pt": {
+      "content": "Entre na Dreamina e vá para AI Video para gerar com Seedance.  \nSelecione Omni Reference antes de escolher o modelo.  \nEscolha o modelo Dreamina Seedance 2.0 para a geração de vídeo.  \nCarregue referências, escreva o prompt e gere o vídeo.  \nNo prompt, use @ para atribuir o papel de cada material de referência."
+    },
+    "zh": {
+      "content": "进入Dreamina并前往AI Video以使用Seedance生成。  \n在选择模型之前，选择Omni Reference。  \n选择模型Dreamina Seedance 2.0进行视频生成。  \n上传参考资料，编写prompt并生成视频。  \n在prompt中，使用@为每个参考材料分配角色。"
+    }
   }
 }

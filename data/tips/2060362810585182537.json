@@ -1,37 +1,35 @@
 {
   "id": "2060362810585182537",
-  "type": "tip",
-  "url": "https://x.com/Polanco_IA/status/2060362810585182537",
+  "title": "En Dreamina, ve a Vídeo con IA → Omni Reference → selecciona Dreamina Seedance…",
+  "content": "En Dreamina, ve a Vídeo con IA → Omni Reference → selecciona Dreamina Seedance 2.0 para iniciar el flujo de generación.  \nSube hasta 12 referencias multimodales (imagen, vídeo, audio y texto) en Omni Reference para lograr una generación más precisa y consistente.  \nUsa referencias de vídeo para que Seedance 2.0 infiera el movimiento, el ritmo de edición y la dirección de cámara directamente de los archivos subidos.",
   "language": "es",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060362759297232896/img/4odWZrgFT6KWDjd-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060362810585182537.mp4",
+  "sourceLink": "https://x.com/Polanco_IA/status/2060362810585182537",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "Polanco | IA",
-    "username": "Polanco_IA",
-    "url": "https://x.com/Polanco_IA",
-    "followers": 53475
+    "link": "https://x.com/Polanco_IA"
   },
-  "text": "El flujo de trabajo de Dreamina Seedance 2.0 es realmente sencillo:\n\n→ Haz clic en «Vídeo con IA»\n→ Abre «Omni Reference»\n→ Selecciona «Dreamina Seedance 2.0»\n→ Sube hasta 12 referencias multimodales: imagen, vídeo, audio y texto. (para lograr una generación más precisa y consistente)\n→ Añade tu indicación\n→ Genera\n\nLo más impresionante es que el modelo es capaz de entender directamente tus referencias: el movimiento, el ritmo de edición y la dirección de la cámara a partir de los archivos que subes.",
-  "content": "En Dreamina, ve a Vídeo con IA → Omni Reference → selecciona Dreamina Seedance 2.0 para iniciar el flujo de generación.  \nSube hasta 12 referencias multimodales (imagen, vídeo, audio y texto) en Omni Reference para lograr una generación más precisa y consistente.  \nUsa referencias de vídeo para que Seedance 2.0 infiera el movimiento, el ritmo de edición y la dirección de cámara directamente de los archivos subidos.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 13,
-    "retweets": 2,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 5,
-    "views": 2528
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060362810585182537.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060362759297232896/img/4odWZrgFT6KWDjd-.jpg"
-  },
+  "tips": "En Dreamina, ve a Vídeo con IA → Omni Reference → selecciona Dreamina Seedance 2.0 para iniciar el flujo de generación.  \nSube hasta 12 referencias multimodales (imagen, vídeo, audio y texto) en Omni Reference para lograr una generación más precisa y consistente.  \nUsa referencias de vídeo para que Seedance 2.0 infiera el movimiento, el ritmo de edición y la dirección de cámara directamente de los archivos subidos.",
   "translations": {
-    "en": "In Dreamina, go to Video with AI → Omni Reference → select Dreamina Seedance 2.0 to start the generation flow.  \nUpload up to 12 multimodal references (image, video, audio, and text) in Omni Reference to achieve more accurate and consistent generation.  \nUse video references so that Seedance 2.0 can infer movement, editing rhythm, and camera direction directly from the uploaded files.",
-    "fr": "En Dreamina, allez à Vidéo avec IA → Omni Reference → sélectionnez Dreamina Seedance 2.0 pour démarrer le flux de génération.  \nTéléchargez jusqu'à 12 références multimodales (image, vidéo, audio et texte) dans Omni Reference pour obtenir une génération plus précise et cohérente.  \nUtilisez des références vidéo pour que Seedance 2.0 infère le mouvement, le rythme de montage et la direction de la caméra directement à partir des fichiers téléchargés.",
-    "ja": "---\nDreaminaで、IAを使用したビデオに移動 → Omni Reference → Dreamina Seedance 2.0を選択して生成フローを開始します。  \nOmni Referenceに最大12のマルチモーダル参照（画像、ビデオ、音声、テキスト）をアップロードして、より正確で一貫した生成を実現します。  \nビデオ参照を使用して、Seedance 2.0がアップロードされたファイルから直接動き、編集リズム、カメラの方向を推測します。\n---",
-    "ko": "---\nDreamina에서, IA 비디오로 이동 → Omni Reference → Dreamina Seedance 2.0을 선택하여 생성 흐름을 시작하세요.  \nOmni Reference에 최대 12개의 멀티모달 참조(이미지, 비디오, 오디오 및 텍스트)를 업로드하여 보다 정확하고 일관된 생성을 달성하세요.  \n비디오 참조를 사용하여 Seedance 2.0이 업로드된 파일에서 직접 움직임, 편집 리듬 및 카메라 방향을 추론하도록 하세요.\n---",
-    "pt-BR": "Em Dreamina, vá para Vídeo com IA → Omni Reference → selecione Dreamina Seedance 2.0 para iniciar o fluxo de geração.  \nCarregue até 12 referências multimodais (imagem, vídeo, áudio e texto) no Omni Reference para alcançar uma geração mais precisa e consistente.  \nUse referências de vídeo para que o Seedance 2.0 infira o movimento, o ritmo de edição e a direção de câmera diretamente dos arquivos carregados.",
-    "zh-CN": "在 Dreamina 中，前往 视频 con IA → Omni Reference → 选择 Dreamina Seedance 2.0 以启动生成流程。  \n在 Omni Reference 中上传最多 12 个多模态参考（图像、视频、音频和文本），以实现更精确和一致的生成。  \n使用视频参考让 Seedance 2.0 从上传的文件中推断出运动、编辑节奏和摄像机方向。"
+    "en": {
+      "content": "In Dreamina, go to Video with AI → Omni Reference → select Dreamina Seedance 2.0 to start the generation flow.  \nUpload up to 12 multimodal references (image, video, audio, and text) in Omni Reference to achieve more accurate and consistent generation.  \nUse video references so that Seedance 2.0 can infer movement, editing rhythm, and camera direction directly from the uploaded files."
+    },
+    "fr": {
+      "content": "En Dreamina, allez à Vidéo avec IA → Omni Reference → sélectionnez Dreamina Seedance 2.0 pour démarrer le flux de génération.  \nTéléchargez jusqu'à 12 références multimodales (image, vidéo, audio et texte) dans Omni Reference pour obtenir une génération plus précise et cohérente.  \nUtilisez des références vidéo pour que Seedance 2.0 infère le mouvement, le rythme de montage et la direction de la caméra directement à partir des fichiers téléchargés."
+    },
+    "ja": {
+      "content": "---\nDreaminaで、IAを使用したビデオに移動 → Omni Reference → Dreamina Seedance 2.0を選択して生成フローを開始します。  \nOmni Referenceに最大12のマルチモーダル参照（画像、ビデオ、音声、テキスト）をアップロードして、より正確で一貫した生成を実現します。  \nビデオ参照を使用して、Seedance 2.0がアップロードされたファイルから直接動き、編集リズム、カメラの方向を推測します。\n---"
+    },
+    "ko": {
+      "content": "---\nDreamina에서, IA 비디오로 이동 → Omni Reference → Dreamina Seedance 2.0을 선택하여 생성 흐름을 시작하세요.  \nOmni Reference에 최대 12개의 멀티모달 참조(이미지, 비디오, 오디오 및 텍스트)를 업로드하여 보다 정확하고 일관된 생성을 달성하세요.  \n비디오 참조를 사용하여 Seedance 2.0이 업로드된 파일에서 직접 움직임, 편집 리듬 및 카메라 방향을 추론하도록 하세요.\n---"
+    },
+    "pt": {
+      "content": "Em Dreamina, vá para Vídeo com IA → Omni Reference → selecione Dreamina Seedance 2.0 para iniciar o fluxo de geração.  \nCarregue até 12 referências multimodais (imagem, vídeo, áudio e texto) no Omni Reference para alcançar uma geração mais precisa e consistente.  \nUse referências de vídeo para que o Seedance 2.0 infira o movimento, o ritmo de edição e a direção de câmera diretamente dos arquivos carregados."
+    },
+    "zh": {
+      "content": "在 Dreamina 中，前往 视频 con IA → Omni Reference → 选择 Dreamina Seedance 2.0 以启动生成流程。  \n在 Omni Reference 中上传最多 12 个多模态参考（图像、视频、音频和文本），以实现更精确和一致的生成。  \n使用视频参考让 Seedance 2.0 从上传的文件中推断出运动、编辑节奏和摄像机方向。"
+    }
   }
 }

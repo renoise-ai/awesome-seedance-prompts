@@ -1,42 +1,35 @@
 {
   "id": "2026512171765739742",
-  "type": "tip",
-  "url": "https://x.com/0xInk_/status/2026512171765739742",
+  "title": "Create your concept image in Midjourney, then generate a 3D realistic style…",
+  "content": "Create your concept image in Midjourney, then generate a 3D realistic style version in Nano Banana Pro, and combine two references in Seedance 2 Omni to produce the final video.",
   "language": "en",
-  "created_at": "2026-02-25",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026509436492328963/img/Ea1NsC4FIBYBx7JB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026512171765739742.mp4",
+  "sourceLink": "https://x.com/0xInk_/status/2026512171765739742",
+  "sourcePublishedAt": "2026-02-25",
   "author": {
     "name": "INK",
-    "username": "0xInk_",
-    "url": "https://x.com/0xInk_",
-    "followers": 37025
+    "link": "https://x.com/0xInk_"
   },
-  "text": "Seedance 2 Omni is incredibly efficient,\nthe voices and SFX are really impressive\n\nit feels like I have a whole team working for me,\nhere’s the result I got by combining my two references https://t.co/CQthB6TXPV",
-  "content": "Create your concept image in Midjourney, then generate a 3D realistic style version in Nano Banana Pro, and combine two references in Seedance 2 Omni to produce the final video.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 72,
-    "retweets": 5,
-    "replies": 12,
-    "quotes": 0,
-    "bookmarks": 24,
-    "views": 2637
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026512171765739742.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026509436492328963/img/Ea1NsC4FIBYBx7JB.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "concept made on midjourney \n\n3D realistic style made on Nano Banana pro https://t.co/8v7gfpyKZ2"
-    ]
-  },
+  "tips": "Create your concept image in Midjourney, then generate a 3D realistic style version in Nano Banana Pro, and combine two references in Seedance 2 Omni to produce the final video.",
   "translations": {
-    "es": "Crea tu imagen conceptual en Midjourney, luego genera una versión en estilo 3D realista en Nano Banana Pro, y combina dos referencias en Seedance 2 Omni para producir el video final.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] concepto hecho en midjourney\n\nEstilo 3D realista hecho en Nano Banana pro https://t.co/8v7gfpyKZ2",
-    "fr": "Créez votre image conceptuelle dans Midjourney, puis générez une version en style réaliste 3D dans Nano Banana Pro, et combinez deux références dans Seedance 2 Omni pour produire la vidéo finale.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] concept créé sur midjourney \n\nStyle réaliste 3D créé sur Nano Banana pro https://t.co/8v7gfpyKZ2",
-    "ja": "---\nMidjourneyでコンセプトイメージを作成し、Nano Banana Proで3Dリアリスティックスタイルのバージョンを生成し、Seedance 2 Omniで2つのリファレンスを組み合わせて最終ビデオを制作します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Midjourneyで作成されたコンセプト\n\nNano Banana Proで作成された3Dリアリスティックスタイル https://t.co/8v7gfpyKZ2\n---",
-    "ko": "Midjourney에서 개념 이미지를 만든 후, Nano Banana Pro에서 3D 현실적인 스타일 버전을 생성하고, Seedance 2 Omni에서 두 가지 참조를 결합하여 최종 비디오를 제작하세요.\n\n--- 스레드 계속 ---\n[스레드 1] midjourney에서 만든 개념\n\nNano Banana pro에서 만든 3D 현실적인 스타일 https://t.co/8v7gfpyKZ2",
-    "pt-BR": "Crie sua imagem conceitual no Midjourney, depois gere uma versão em estilo 3D realista no Nano Banana Pro, e combine duas referências no Seedance 2 Omni para produzir o vídeo final.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] conceito feito no midjourney\n\nEstilo 3D realista feito no Nano Banana pro https://t.co/8v7gfpyKZ2",
-    "zh-CN": "在Midjourney中创建您的概念图像，然后在Nano Banana Pro中生成3D现实风格版本，并在Seedance 2 Omni中结合两个参考以制作最终视频。\n\n--- 线程继续 ---\n[线程1] 在midjourney上制作的概念\n\n在Nano Banana Pro上制作的3D现实风格 https://t.co/8v7gfpyKZ2"
+    "es": {
+      "content": "Crea tu imagen conceptual en Midjourney, luego genera una versión en estilo 3D realista en Nano Banana Pro, y combina dos referencias en Seedance 2 Omni para producir el video final.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] concepto hecho en midjourney\n\nEstilo 3D realista hecho en Nano Banana pro https://t.co/8v7gfpyKZ2"
+    },
+    "fr": {
+      "content": "Créez votre image conceptuelle dans Midjourney, puis générez une version en style réaliste 3D dans Nano Banana Pro, et combinez deux références dans Seedance 2 Omni pour produire la vidéo finale.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] concept créé sur midjourney \n\nStyle réaliste 3D créé sur Nano Banana pro https://t.co/8v7gfpyKZ2"
+    },
+    "ja": {
+      "content": "---\nMidjourneyでコンセプトイメージを作成し、Nano Banana Proで3Dリアリスティックスタイルのバージョンを生成し、Seedance 2 Omniで2つのリファレンスを組み合わせて最終ビデオを制作します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Midjourneyで作成されたコンセプト\n\nNano Banana Proで作成された3Dリアリスティックスタイル https://t.co/8v7gfpyKZ2\n---"
+    },
+    "ko": {
+      "content": "Midjourney에서 개념 이미지를 만든 후, Nano Banana Pro에서 3D 현실적인 스타일 버전을 생성하고, Seedance 2 Omni에서 두 가지 참조를 결합하여 최종 비디오를 제작하세요.\n\n--- 스레드 계속 ---\n[스레드 1] midjourney에서 만든 개념\n\nNano Banana pro에서 만든 3D 현실적인 스타일 https://t.co/8v7gfpyKZ2"
+    },
+    "pt": {
+      "content": "Crie sua imagem conceitual no Midjourney, depois gere uma versão em estilo 3D realista no Nano Banana Pro, e combine duas referências no Seedance 2 Omni para produzir o vídeo final.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] conceito feito no midjourney\n\nEstilo 3D realista feito no Nano Banana pro https://t.co/8v7gfpyKZ2"
+    },
+    "zh": {
+      "content": "在Midjourney中创建您的概念图像，然后在Nano Banana Pro中生成3D现实风格版本，并在Seedance 2 Omni中结合两个参考以制作最终视频。\n\n--- 线程继续 ---\n[线程1] 在midjourney上制作的概念\n\n在Nano Banana Pro上制作的3D现实风格 https://t.co/8v7gfpyKZ2"
+    }
   }
 }

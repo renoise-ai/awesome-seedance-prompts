@@ -1,40 +1,34 @@
 {
   "id": "2059996813956903241",
-  "type": "prompt",
-  "url": "https://x.com/sebatheepan/status/2059996813956903241",
+  "title": "Cinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and…",
+  "content": "Cinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight",
   "language": "en",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059996500013273089/img/n8t2T8fqhJm68DKo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059996813956903241.mp4",
+  "sourceLink": "https://x.com/sebatheepan/status/2059996813956903241",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Pan",
-    "username": "sebatheepan",
-    "url": "https://x.com/sebatheepan",
-    "followers": 2149
-  },
-  "text": "Seedance 2.0 Prompt share\nTried text to video in Chinese language\n\nShare your seedance creations \n\nCreated with @imagineart_creo @ImagineArt_X https://t.co/HsGT8WZLOU",
-  "content": "Cinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 6,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 2,
-    "views": 390
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059996813956903241.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059996500013273089/img/n8t2T8fqhJm68DKo.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "Seedance 2.0 Prompt share - Text to video 15 seconds \n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn\nand Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U"
+    "link": "https://x.com/sebatheepan"
   },
   "translations": {
-    "es": "Cortometraje cinematográfico, hiperrealista 4K, 15 segundos. Varanasi, India. Amanecer y Jemaa el-Fnaa, medianoche\n\n--- TWEET CITADO ---\nSeedance 2.0 Prompt share - Texto a video 15 segundos\n\nCortometraje cinematográfico, hiperrealista 4K, 15 segundos. Varanasi, India. Amanecer\ny Jemaa el-Fnaa, medianoche https://t.co/s7DD5J6b7U\n---",
-    "fr": "Film court cinématographique, hyper-réaliste 4K, 15 secondes. Varanasi, Inde. Aube et Jemaa el-Fnaa, minuit\n\n--- TWEET CITÉ ---\nPartage de prompt Seedance 2.0 - Texte en vidéo 15 secondes\n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U\n---",
-    "ja": "---\nシネマティック短編映画、ハイパーリアリスティック4K、15秒。インド、バラナシ。夜明けとジャマ・エル・フナ、真夜中\n\n--- 引用ツイート ---\nSeedance 2.0 プロンプト共有 - テキストからビデオへ 15秒\n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U\n---",
-    "ko": "시네마틱 단편 영화, 하이퍼 리얼리스틱 4K, 15초. 바라나시, 인도. 새벽과 제마 엘프나, 자정\n\n--- 인용된 트윗 ---\nSeedance 2.0 프롬프트 공유 - 텍스트를 비디오로 15초\n\n시네마틱 단편 영화, 하이퍼 리얼리스틱 4K, 15초. 바라나시, 인도. 새벽과 제마 엘프나, 자정 https://t.co/s7DD5J6b7U\n---",
-    "pt-BR": "Curta-metragem cinematográfico, hiper-realista 4K, 15 segundos. Varanasi, Índia. Amanhecer e Jemaa el-Fnaa, meia-noite\n\n--- TWEET CITADO ---\nSeedance 2.0 Prompt share - Texto para vídeo 15 segundos\n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U\n---",
-    "zh-CN": "电影短片，超现实4K，15秒。印度瓦拉纳西。黎明和杰马艾尔法纳，午夜\n\n--- 引用推文 ---\nSeedance 2.0 Prompt 分享 - 文本转视频 15秒\n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U\n---"
+    "es": {
+      "content": "Cortometraje cinematográfico, hiperrealista 4K, 15 segundos. Varanasi, India. Amanecer y Jemaa el-Fnaa, medianoche\n\n--- TWEET CITADO ---\nSeedance 2.0 Prompt share - Texto a video 15 segundos\n\nCortometraje cinematográfico, hiperrealista 4K, 15 segundos. Varanasi, India. Amanecer\ny Jemaa el-Fnaa, medianoche https://t.co/s7DD5J6b7U\n---"
+    },
+    "fr": {
+      "content": "Film court cinématographique, hyper-réaliste 4K, 15 secondes. Varanasi, Inde. Aube et Jemaa el-Fnaa, minuit\n\n--- TWEET CITÉ ---\nPartage de prompt Seedance 2.0 - Texte en vidéo 15 secondes\n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U\n---"
+    },
+    "ja": {
+      "content": "---\nシネマティック短編映画、ハイパーリアリスティック4K、15秒。インド、バラナシ。夜明けとジャマ・エル・フナ、真夜中\n\n--- 引用ツイート ---\nSeedance 2.0 プロンプト共有 - テキストからビデオへ 15秒\n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U\n---"
+    },
+    "ko": {
+      "content": "시네마틱 단편 영화, 하이퍼 리얼리스틱 4K, 15초. 바라나시, 인도. 새벽과 제마 엘프나, 자정\n\n--- 인용된 트윗 ---\nSeedance 2.0 프롬프트 공유 - 텍스트를 비디오로 15초\n\n시네마틱 단편 영화, 하이퍼 리얼리스틱 4K, 15초. 바라나시, 인도. 새벽과 제마 엘프나, 자정 https://t.co/s7DD5J6b7U\n---"
+    },
+    "pt": {
+      "content": "Curta-metragem cinematográfico, hiper-realista 4K, 15 segundos. Varanasi, Índia. Amanhecer e Jemaa el-Fnaa, meia-noite\n\n--- TWEET CITADO ---\nSeedance 2.0 Prompt share - Texto para vídeo 15 segundos\n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U\n---"
+    },
+    "zh": {
+      "content": "电影短片，超现实4K，15秒。印度瓦拉纳西。黎明和杰马艾尔法纳，午夜\n\n--- 引用推文 ---\nSeedance 2.0 Prompt 分享 - 文本转视频 15秒\n\nCinematic short film, hyper-realistic 4K, 15 seconds. Varanasi, India. Dawn and Jemaa el-Fnaa, midnight https://t.co/s7DD5J6b7U\n---"
+    }
   }
 }

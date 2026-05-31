@@ -1,37 +1,34 @@
 {
   "id": "2026760125999100329",
-  "type": "prompt",
-  "url": "https://x.com/fofrAI/status/2026760125999100329",
+  "title": "1. two people in a cafe, one says, \"did you ever see that foh-fur movie?\", the…",
+  "content": "1. two people in a cafe, one says, \"did you ever see that foh-fur movie?\", the other: \"Yeah, I remember it well..\"\n2. cuts to a dark sci-fi night, establishing shot of a modern city in heavy rain, a film noir voiceover says \"It was a dark night\"\n3. A white classic muscle car is driving through the rain at speed, being chased by police drones\n4. cut to the passenger in the car, they look at the sleek driver, \"damn, you can drive\", driver changes gear, kicks up the acceleration\n5. cut to an overhead view of the action, car seen racing away, drones following\n6. back to the cafe, first person says: \"Such a good movie\".",
   "language": "en",
-  "created_at": "2026-02-25",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026759933618708480/img/EUIY-1Kk7FtOdEmf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026760125999100329.mp4",
+  "sourceLink": "https://x.com/fofrAI/status/2026760125999100329",
+  "sourcePublishedAt": "2026-02-25",
   "author": {
     "name": "fofr",
-    "username": "fofrAI",
-    "url": "https://x.com/fofrAI",
-    "followers": 53663
-  },
-  "text": "In this test Seedance 2 seamlessly handles switching away from a scene, to something completely different, and then back again.\n\nPrompt:\n1. two people in a cafe, one says, \"did you ever see that foh-fur movie?\", the other: \"Yeah, I remember it well..\"\n2. cuts to a dark sci-fi night, establishing shot of a modern city in heavy rain, a film noir voiceover says \"It was a dark night\"\n3. A white classic muscle car is driving through the rain at speed, being chased by police drones\n4. cut to the passenger in the car, they look at the sleek driver, \"damn, you can drive\", driver changes gear, kicks up the acceleration\n5. cut to an overhead view of the action, car seen racing away, drones following\n6. back to the cafe, first person says: \"Such a good movie\".",
-  "content": "1. two people in a cafe, one says, \"did you ever see that foh-fur movie?\", the other: \"Yeah, I remember it well..\"\n2. cuts to a dark sci-fi night, establishing shot of a modern city in heavy rain, a film noir voiceover says \"It was a dark night\"\n3. A white classic muscle car is driving through the rain at speed, being chased by police drones\n4. cut to the passenger in the car, they look at the sleek driver, \"damn, you can drive\", driver changes gear, kicks up the acceleration\n5. cut to an overhead view of the action, car seen racing away, drones following\n6. back to the cafe, first person says: \"Such a good movie\".",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 115,
-    "retweets": 4,
-    "replies": 9,
-    "quotes": 2,
-    "bookmarks": 73,
-    "views": 8191
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026760125999100329.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026759933618708480/img/EUIY-1Kk7FtOdEmf.jpg"
+    "link": "https://x.com/fofrAI"
   },
   "translations": {
-    "es": "1. dos personas en un café, una dice: \"¿alguna vez viste esa película de foh-fur?\", la otra: \"Sí, la recuerdo bien...\"\n2. corte a una noche oscura de ciencia ficción, toma de establecimiento de una ciudad moderna bajo una fuerte lluvia, una voz en off de cine negro dice \"Era una noche oscura\"\n3. Un clásico auto muscle blanco está conduciendo a través de la lluvia a gran velocidad, siendo perseguido por drones policiales\n4. corte al pasajero en el auto, mira al conductor elegante, \"maldita sea, sabes conducir\", el conductor cambia de marcha, acelera\n5. corte a una vista aérea de la acción, se ve el auto alejándose, drones siguiéndolo\n6. de vuelta al café, la primera persona dice: \"Qué buena película\".",
-    "fr": "1. Deux personnes dans un café, l'une dit : \"As-tu déjà vu ce film foh-fur ?\", l'autre : \"Oui, je m'en souviens bien...\"\n2. Coupe à une nuit sombre de science-fiction, plan d'ensemble d'une ville moderne sous une pluie battante, une voix off de film noir dit : \"C'était une nuit sombre\"\n3. Une voiture de muscle classique blanche roule à toute vitesse sous la pluie, poursuivie par des drones de police\n4. Coupe sur le passager dans la voiture, il regarde le conducteur élégant, \"bon sang, tu sais conduire\", le conducteur change de vitesse, accélère\n5. Coupe à une vue aérienne de l'action, la voiture vue s'éloignant à toute allure, les drones en poursuite\n6. Retour au café, la première personne dit : \"Quel bon film\".",
-    "ja": "---\n1. カフェで二人が話している。一人が「フォーファー映画見たことある？」と言うと、もう一人が「うん、よく覚えてるよ」と答える。\n2. 暗いSFの夜にカット。現代の都市が大雨の中で映し出され、フィルムノワールの声が「暗い夜だった」と語る。\n3. 白いクラシックなマッスルカーが雨の中をスピードで走り、警察のドローンに追われている。\n4. 車内の乗客にカット。彼らは洗練されたドライバーを見て「すごい、運転うまいね」と言い、ドライバーはギアを変え、加速を上げる。\n5. アクションの俯瞰図にカット。車が逃げ去り、ドローンが追いかけているのが見える。\n6. カフェに戻り、最初の人物が「本当にいい映画だね」と言う。\n---",
-    "ko": "---\n1. 카페에 있는 두 사람, 한 사람이 말한다, \"그 포-퍼 영화 본 적 있어?\", 다른 사람: \"응, 잘 기억나..\"\n2. 어두운 SF 밤으로 전환, 현대 도시의 비가 쏟아지는 장면, 필름 누아르 내레이션이 \"어두운 밤이었다\"라고 말한다\n3. 흰색 클래식 머슬카가 비를 뚫고 빠르게 달리며 경찰 드론에게 쫓기고 있다\n4. 차 안의 승객으로 전환, 그들은 세련된 운전자를 보며 \"와, 운전 잘하네\"라고 말한다, 운전자는 기어를 바꾸고 가속을 높인다\n5. 액션의 오버헤드 뷰로 전환, 차가 질주하고 드론이 뒤따르는 모습\n6. 다시 카페로 돌아와, 첫 번째 사람이 말한다: \"정말 좋은 영화야\".\n---",
-    "pt-BR": "1. duas pessoas em um café, uma diz: \"você já viu aquele filme foh-fur?\", a outra: \"Sim, lembro bem...\"\n2. corta para uma noite de ficção científica sombria, plano geral de uma cidade moderna sob forte chuva, uma narração em estilo noir diz: \"Era uma noite escura\"\n3. Um carro clássico branco está dirigindo rápido pela chuva, sendo perseguido por drones policiais\n4. corta para o passageiro no carro, ele olha para o motorista elegante, \"caramba, você dirige bem\", o motorista troca de marcha, acelera\n5. corta para uma visão aérea da ação, carro visto fugindo, drones seguindo\n6. de volta ao café, a primeira pessoa diz: \"Que filme bom\".",
-    "zh-CN": "---\n1. 两个人在咖啡馆，一个说：“你看过那部foh-fur电影吗？”，另一个：“是的，我记得很清楚。”\n2. 切换到一个黑暗的科幻夜晚，现代城市在大雨中，电影黑色画外音说：“那是一个黑暗的夜晚。”\n3. 一辆白色经典肌肉车在雨中高速行驶，被警用无人机追赶。\n4. 切换到车内乘客，他们看着时髦的司机，“天哪，你真会开车”，司机换挡，加速。\n5. 切换到动作的俯视图，看到汽车飞速逃离，无人机紧随其后。\n6. 回到咖啡馆，第一个人说：“真是一部好电影。”"
+    "es": {
+      "content": "1. dos personas en un café, una dice: \"¿alguna vez viste esa película de foh-fur?\", la otra: \"Sí, la recuerdo bien...\"\n2. corte a una noche oscura de ciencia ficción, toma de establecimiento de una ciudad moderna bajo una fuerte lluvia, una voz en off de cine negro dice \"Era una noche oscura\"\n3. Un clásico auto muscle blanco está conduciendo a través de la lluvia a gran velocidad, siendo perseguido por drones policiales\n4. corte al pasajero en el auto, mira al conductor elegante, \"maldita sea, sabes conducir\", el conductor cambia de marcha, acelera\n5. corte a una vista aérea de la acción, se ve el auto alejándose, drones siguiéndolo\n6. de vuelta al café, la primera persona dice: \"Qué buena película\"."
+    },
+    "fr": {
+      "content": "1. Deux personnes dans un café, l'une dit : \"As-tu déjà vu ce film foh-fur ?\", l'autre : \"Oui, je m'en souviens bien...\"\n2. Coupe à une nuit sombre de science-fiction, plan d'ensemble d'une ville moderne sous une pluie battante, une voix off de film noir dit : \"C'était une nuit sombre\"\n3. Une voiture de muscle classique blanche roule à toute vitesse sous la pluie, poursuivie par des drones de police\n4. Coupe sur le passager dans la voiture, il regarde le conducteur élégant, \"bon sang, tu sais conduire\", le conducteur change de vitesse, accélère\n5. Coupe à une vue aérienne de l'action, la voiture vue s'éloignant à toute allure, les drones en poursuite\n6. Retour au café, la première personne dit : \"Quel bon film\"."
+    },
+    "ja": {
+      "content": "---\n1. カフェで二人が話している。一人が「フォーファー映画見たことある？」と言うと、もう一人が「うん、よく覚えてるよ」と答える。\n2. 暗いSFの夜にカット。現代の都市が大雨の中で映し出され、フィルムノワールの声が「暗い夜だった」と語る。\n3. 白いクラシックなマッスルカーが雨の中をスピードで走り、警察のドローンに追われている。\n4. 車内の乗客にカット。彼らは洗練されたドライバーを見て「すごい、運転うまいね」と言い、ドライバーはギアを変え、加速を上げる。\n5. アクションの俯瞰図にカット。車が逃げ去り、ドローンが追いかけているのが見える。\n6. カフェに戻り、最初の人物が「本当にいい映画だね」と言う。\n---"
+    },
+    "ko": {
+      "content": "---\n1. 카페에 있는 두 사람, 한 사람이 말한다, \"그 포-퍼 영화 본 적 있어?\", 다른 사람: \"응, 잘 기억나..\"\n2. 어두운 SF 밤으로 전환, 현대 도시의 비가 쏟아지는 장면, 필름 누아르 내레이션이 \"어두운 밤이었다\"라고 말한다\n3. 흰색 클래식 머슬카가 비를 뚫고 빠르게 달리며 경찰 드론에게 쫓기고 있다\n4. 차 안의 승객으로 전환, 그들은 세련된 운전자를 보며 \"와, 운전 잘하네\"라고 말한다, 운전자는 기어를 바꾸고 가속을 높인다\n5. 액션의 오버헤드 뷰로 전환, 차가 질주하고 드론이 뒤따르는 모습\n6. 다시 카페로 돌아와, 첫 번째 사람이 말한다: \"정말 좋은 영화야\".\n---"
+    },
+    "pt": {
+      "content": "1. duas pessoas em um café, uma diz: \"você já viu aquele filme foh-fur?\", a outra: \"Sim, lembro bem...\"\n2. corta para uma noite de ficção científica sombria, plano geral de uma cidade moderna sob forte chuva, uma narração em estilo noir diz: \"Era uma noite escura\"\n3. Um carro clássico branco está dirigindo rápido pela chuva, sendo perseguido por drones policiais\n4. corta para o passageiro no carro, ele olha para o motorista elegante, \"caramba, você dirige bem\", o motorista troca de marcha, acelera\n5. corta para uma visão aérea da ação, carro visto fugindo, drones seguindo\n6. de volta ao café, a primeira pessoa diz: \"Que filme bom\"."
+    },
+    "zh": {
+      "content": "---\n1. 两个人在咖啡馆，一个说：“你看过那部foh-fur电影吗？”，另一个：“是的，我记得很清楚。”\n2. 切换到一个黑暗的科幻夜晚，现代城市在大雨中，电影黑色画外音说：“那是一个黑暗的夜晚。”\n3. 一辆白色经典肌肉车在雨中高速行驶，被警用无人机追赶。\n4. 切换到车内乘客，他们看着时髦的司机，“天哪，你真会开车”，司机换挡，加速。\n5. 切换到动作的俯视图，看到汽车飞速逃离，无人机紧随其后。\n6. 回到咖啡馆，第一个人说：“真是一部好电影。”"
+    }
   }
 }

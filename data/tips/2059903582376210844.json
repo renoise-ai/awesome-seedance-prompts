@@ -1,37 +1,35 @@
 {
   "id": "2059903582376210844",
-  "type": "tip",
-  "url": "https://x.com/GenIArt_Fr/status/2059903582376210844",
+  "title": "Use a workflow where you generate images in Midjourney, retouch them in Nano…",
+  "content": "Use a workflow where you generate images in Midjourney, retouch them in Nano Banana 2, create character/product sheets with GPT-image-2, then generate the videos in Seedance 2.0 (all within Spaces on Magnific).",
   "language": "fr",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059771774561030146/img/avba1vsazSVPsT8m.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059903582376210844.mp4",
+  "sourceLink": "https://x.com/GenIArt_Fr/status/2059903582376210844",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "GenIArt",
-    "username": "GenIArt_Fr",
-    "url": "https://x.com/GenIArt_Fr",
-    "followers": 2072
+    "link": "https://x.com/GenIArt_Fr"
   },
-  "text": "🧰Workflow complet:\n▫️images: midjourney, \n▫️retouches: Nano Banana 2, \n▫️character et product sheet: GPT-image-2,\n▫️vidéos: Seedance 2.0 \nle tout dans Spaces sur @magnific (ex freepik) https://t.co/s9mInAi7MS",
-  "content": "Use a workflow where you generate images in Midjourney, retouch them in Nano Banana 2, create character/product sheets with GPT-image-2, then generate the videos in Seedance 2.0 (all within Spaces on Magnific).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 6,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 2,
-    "views": 216
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059903582376210844.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059771774561030146/img/avba1vsazSVPsT8m.jpg"
-  },
+  "tips": "Use a workflow where you generate images in Midjourney, retouch them in Nano Banana 2, create character/product sheets with GPT-image-2, then generate the videos in Seedance 2.0 (all within Spaces on Magnific).",
   "translations": {
-    "en": "Utilize un flujo de trabajo donde generes imágenes en Midjourney, las retoques en Nano Banana 2, crees hojas de personajes/productos con GPT-image-2, y luego generes los videos en Seedance 2.0 (todo dentro de Spaces en Magnific).",
-    "es": "Utiliza un flujo de trabajo donde generes imágenes en Midjourney, las retoques en Nano Banana 2, crees hojas de personajes/productos con GPT-image-2, y luego generes los videos en Seedance 2.0 (todo dentro de Spaces en Magnific).",
-    "ja": "Midjourneyで画像を生成し、Nano Banana 2でレタッチを行い、GPT-image-2でキャラクターや製品シートを作成し、その後Seedance 2.0でビデオを生成するワークフローを使用します（すべてMagnificのSpaces内で）。",
-    "ko": "Midjourney에서 이미지를 생성하고 Nano Banana 2에서 리터치한 후, GPT-image-2로 캐릭터/제품 시트를 만들고 Seedance 2.0에서 비디오를 생성하는 워크플로우를 사용하세요 (모두 Magnific의 Spaces 내에서).",
-    "pt-BR": "Use um fluxo de trabalho onde você gera imagens no Midjourney, retoca-as no Nano Banana 2, cria fichas de personagens/produtos com o GPT-image-2, e então gera os vídeos no Seedance 2.0 (tudo dentro do Spaces no Magnific).",
-    "zh-CN": "使用以下工作流程：在Midjourney中生成图像，在Nano Banana 2中进行润色，用GPT-image-2创建角色/产品表，然后在Seedance 2.0中生成视频（所有操作均在Magnific的Spaces中完成）。"
+    "en": {
+      "content": "Utilize un flujo de trabajo donde generes imágenes en Midjourney, las retoques en Nano Banana 2, crees hojas de personajes/productos con GPT-image-2, y luego generes los videos en Seedance 2.0 (todo dentro de Spaces en Magnific)."
+    },
+    "es": {
+      "content": "Utiliza un flujo de trabajo donde generes imágenes en Midjourney, las retoques en Nano Banana 2, crees hojas de personajes/productos con GPT-image-2, y luego generes los videos en Seedance 2.0 (todo dentro de Spaces en Magnific)."
+    },
+    "ja": {
+      "content": "Midjourneyで画像を生成し、Nano Banana 2でレタッチを行い、GPT-image-2でキャラクターや製品シートを作成し、その後Seedance 2.0でビデオを生成するワークフローを使用します（すべてMagnificのSpaces内で）。"
+    },
+    "ko": {
+      "content": "Midjourney에서 이미지를 생성하고 Nano Banana 2에서 리터치한 후, GPT-image-2로 캐릭터/제품 시트를 만들고 Seedance 2.0에서 비디오를 생성하는 워크플로우를 사용하세요 (모두 Magnific의 Spaces 내에서)."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho onde você gera imagens no Midjourney, retoca-as no Nano Banana 2, cria fichas de personagens/produtos com o GPT-image-2, e então gera os vídeos no Seedance 2.0 (tudo dentro do Spaces no Magnific)."
+    },
+    "zh": {
+      "content": "使用以下工作流程：在Midjourney中生成图像，在Nano Banana 2中进行润色，用GPT-image-2创建角色/产品表，然后在Seedance 2.0中生成视频（所有操作均在Magnific的Spaces中完成）。"
+    }
   }
 }

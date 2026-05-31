@@ -1,37 +1,35 @@
 {
   "id": "2060351152898855187",
-  "type": "tip",
-  "url": "https://x.com/Eris_Create_Lab/status/2060351152898855187",
+  "title": "Seedanceでシネマティックな映像を作るときは、ストーリーボード参照を使って構図や流れをコントロールする",
+  "content": "Seedanceでシネマティックな映像を作るときは、ストーリーボード参照を使って構図や流れをコントロールする",
   "language": "ja",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060349177838915584/img/zlOfvRmz_dpC1vOG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060351152898855187.mp4",
+  "sourceLink": "https://x.com/Eris_Create_Lab/status/2060351152898855187",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "Eris Create Lab",
-    "username": "Eris_Create_Lab",
-    "url": "https://x.com/Eris_Create_Lab",
-    "followers": 4156
+    "link": "https://x.com/Eris_Create_Lab"
   },
-  "text": "#AIart\n\nSeedanceでシネマティックな映像に初チャレンジ！\n\nこの手の映像は、やはりストーリーボード参照を使った方が良さそうですね😅 https://t.co/cFdFc83xrQ",
-  "content": "Seedanceでシネマティックな映像を作るときは、ストーリーボード参照を使って構図や流れをコントロールする",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 237,
-    "retweets": 22,
-    "replies": 8,
-    "quotes": 1,
-    "bookmarks": 50,
-    "views": 9739
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060351152898855187.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060349177838915584/img/zlOfvRmz_dpC1vOG.jpg"
-  },
+  "tips": "Seedanceでシネマティックな映像を作るときは、ストーリーボード参照を使って構図や流れをコントロールする",
   "translations": {
-    "en": "When creating cinematic footage with Seedance, use storyboard references to control composition and flow.",
-    "es": "Cuando creas imágenes cinematográficas en Seedance, utiliza referencias de storyboard para controlar la composición y el flujo.",
-    "fr": "Lors de la création d'une vidéo cinématique avec Seedance, utilisez des références de storyboard pour contrôler la composition et le flux.",
-    "ko": "Seedance에서 시네마틱한 영상을 만들 때는, 스토리보드 참조를 사용하여 구성과 흐름을 제어합니다.",
-    "pt-BR": "Ao criar vídeos cinematográficos no Seedance, use referências de storyboard para controlar a composição e o fluxo.",
-    "zh-CN": "在使用Seedance制作cinematic影像时，可以使用分镜参考来控制构图和流动性。"
+    "en": {
+      "content": "When creating cinematic footage with Seedance, use storyboard references to control composition and flow."
+    },
+    "es": {
+      "content": "Cuando creas imágenes cinematográficas en Seedance, utiliza referencias de storyboard para controlar la composición y el flujo."
+    },
+    "fr": {
+      "content": "Lors de la création d'une vidéo cinématique avec Seedance, utilisez des références de storyboard pour contrôler la composition et le flux."
+    },
+    "ko": {
+      "content": "Seedance에서 시네마틱한 영상을 만들 때는, 스토리보드 참조를 사용하여 구성과 흐름을 제어합니다."
+    },
+    "pt": {
+      "content": "Ao criar vídeos cinematográficos no Seedance, use referências de storyboard para controlar a composição e o fluxo."
+    },
+    "zh": {
+      "content": "在使用Seedance制作cinematic影像时，可以使用分镜参考来控制构图和流动性。"
+    }
   }
 }

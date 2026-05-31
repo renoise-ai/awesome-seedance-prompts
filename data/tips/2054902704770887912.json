@@ -1,42 +1,35 @@
 {
   "id": "2054902704770887912",
-  "type": "tip",
-  "url": "https://x.com/thefinnmckenty/status/2054902704770887912",
+  "title": "Generate base images and characters in Midjourney, then use Nano Banana Pro and…",
+  "content": "Generate base images and characters in Midjourney, then use Nano Banana Pro and GPT Image 2 inside Figma Weave to create edits and new angles before animating.  \nFor most scenes, use Seedance Reference mode (about 80%) and supplement with Grok (about 20%) within Figma Weave.  \nUse jboogx_creative’s Seedance prompt creator with Claude to build Seedance prompts.  \nIn Figma Weave, keep the workflow simple by feeding image inputs into Seedance/Grok for each scene in the story.",
   "language": "en",
-  "created_at": "2026-05-14",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054900126435717121/img/iJMogn-Ll1htXCsG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054902704770887912.mp4",
+  "sourceLink": "https://x.com/thefinnmckenty/status/2054902704770887912",
+  "sourcePublishedAt": "2026-05-14",
   "author": {
     "name": "Finn McKenty",
-    "username": "thefinnmckenty",
-    "url": "https://x.com/thefinnmckenty",
-    "followers": 28236
+    "link": "https://x.com/thefinnmckenty"
   },
-  "text": "A very serious™ horror film: THE OFFERING.\n\nThis is pretty dumb and there's a lot of things wrong with it, but I'm happy with it overall.\n\nI wanted to make something with a stronger narrative than anything I've done before. Making random little one-off scene is fun, but the future of AI video is definitely telling stories.\n\nThe tools are still a little funky in places, but after doing this I'm pretty confident we can essentially make anything we want, with enough patience (and credits).\n\n- Base images and characters are Midjourney\n- Edits, new angles, etc with Nano Banana Pro & GPT Image 2 in @figmaweave \n- Videos are 80% Seedance Reference, 20% Grok (also in Weave)\n- Used @jboogx_creative 's Seedance prompt creator for Claude\n- Music is Suno",
-  "content": "Generate base images and characters in Midjourney, then use Nano Banana Pro and GPT Image 2 inside Figma Weave to create edits and new angles before animating.  \nFor most scenes, use Seedance Reference mode (about 80%) and supplement with Grok (about 20%) within Figma Weave.  \nUse jboogx_creative’s Seedance prompt creator with Claude to build Seedance prompts.  \nIn Figma Weave, keep the workflow simple by feeding image inputs into Seedance/Grok for each scene in the story.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 66,
-    "retweets": 2,
-    "replies": 4,
-    "quotes": 0,
-    "bookmarks": 27,
-    "views": 4450
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054902704770887912.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054900126435717121/img/iJMogn-Ll1htXCsG.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "This is the whole @figmaweave workflow - it's not very complicated. Essentially just some image inputs → Seedance/Grok for every scene. https://t.co/juGZAmw7DB"
-    ]
-  },
+  "tips": "Generate base images and characters in Midjourney, then use Nano Banana Pro and GPT Image 2 inside Figma Weave to create edits and new angles before animating.  \nFor most scenes, use Seedance Reference mode (about 80%) and supplement with Grok (about 20%) within Figma Weave.  \nUse jboogx_creative’s Seedance prompt creator with Claude to build Seedance prompts.  \nIn Figma Weave, keep the workflow simple by feeding image inputs into Seedance/Grok for each scene in the story.",
   "translations": {
-    "es": "---\nGenera imágenes base y personajes en Midjourney, luego utiliza Nano Banana Pro y GPT Image 2 dentro de Figma Weave para crear ediciones y nuevos ángulos antes de animar.  \nPara la mayoría de las escenas, utiliza el modo de Referencia de Seedance (aproximadamente 80%) y complementa con Grok (aproximadamente 20%) dentro de Figma Weave.  \nUsa el creador de prompts de Seedance de jboogx_creative con Claude para construir prompts de Seedance.  \nEn Figma Weave, mantén el flujo de trabajo simple alimentando entradas de imagen en Seedance/Grok para cada escena de la historia.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Este es todo el flujo de trabajo de @figmaweave - no es muy complicado. Esencialmente solo algunas entradas de imagen → Seedance/Grok para cada escena. https://t.co/juGZAmw7DB\n---",
-    "fr": "---\nGénérez des images de base et des personnages dans Midjourney, puis utilisez Nano Banana Pro et GPT Image 2 à l'intérieur de Figma Weave pour créer des modifications et de nouveaux angles avant d'animer.  \nPour la plupart des scènes, utilisez le mode de référence Seedance (environ 80%) et complétez avec Grok (environ 20%) dans Figma Weave.  \nUtilisez le créateur de prompts Seedance de jboogx_creative avec Claude pour construire des prompts Seedance.  \nDans Figma Weave, gardez le flux de travail simple en alimentant les entrées d'images dans Seedance/Grok pour chaque scène de l'histoire.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Voici l'ensemble du flux de travail @figmaweave - ce n'est pas très compliqué. Essentiellement juste quelques entrées d'images → Seedance/Grok pour chaque scène. https://t.co/juGZAmw7DB\n---",
-    "ja": "---\nMidjourneyでベース画像とキャラクターを生成し、その後Nano Banana ProとGPT Image 2をFigma Weave内で使用して編集や新しいアングルを作成してからアニメーション化します。  \nほとんどのシーンでは、Seedance Referenceモード（約80%）を使用し、Figma Weave内でGrok（約20%）を補完します。  \njboogx_creativeのSeedanceプロンプトクリエーターをClaudeと共に使用して、Seedanceプロンプトを構築します。  \nFigma Weaveでは、ストーリーの各シーンに画像入力をSeedance/Grokにフィードすることで、ワークフローをシンプルに保ちます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] これが全体の@figmaweaveワークフローです - それほど複雑ではありません。基本的には、いくつかの画像入力 → 各シーンのSeedance/Grokです。https://t.co/juGZAmw7DB\n---",
-    "ko": "---\nMidjourney에서 기본 이미지와 캐릭터를 생성한 후, Nano Banana Pro와 GPT Image 2를 Figma Weave 내에서 사용하여 편집 및 새로운 각도를 만든 후 애니메이션을 만드세요.  \n대부분의 장면에서는 Seedance Reference 모드(약 80%)를 사용하고 Figma Weave 내에서 Grok(약 20%)으로 보완하세요.  \njboogx_creative의 Seedance prompt creator를 Claude와 함께 사용하여 Seedance 프롬프트를 만드세요.  \nFigma Weave에서는 이야기의 각 장면에 대해 이미지 입력을 Seedance/Grok에 제공하여 워크플로를 간단하게 유지하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이것이 전체 @figmaweave 워크플로입니다 - 매우 복잡하지 않습니다. 기본적으로 몇 가지 이미지 입력 → 각 장면에 대한 Seedance/Grok입니다. https://t.co/juGZAmw7DB\n---",
-    "pt-BR": "---\nGere imagens base e personagens no Midjourney, depois use Nano Banana Pro e GPT Image 2 dentro do Figma Weave para criar edições e novos ângulos antes de animar.  \nPara a maioria das cenas, use o modo Seedance Reference (cerca de 80%) e complemente com Grok (cerca de 20%) dentro do Figma Weave.  \nUse o criador de prompts Seedance do jboogx_creative com Claude para construir prompts Seedance.  \nNo Figma Weave, mantenha o fluxo de trabalho simples alimentando entradas de imagem no Seedance/Grok para cada cena da história.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Este é todo o fluxo de trabalho do @figmaweave - não é muito complicado. Essencialmente, apenas algumas entradas de imagem → Seedance/Grok para cada cena. https://t.co/juGZAmw7DB\n---",
-    "zh-CN": "在Midjourney中生成基础图像和角色，然后使用Nano Banana Pro和GPT Image 2在Figma Weave中进行编辑和创建新角度，再进行动画制作。  \n对于大多数场景，在Figma Weave中使用Seedance参考模式（约80%），并辅以Grok（约20%）。  \n使用jboogx_creative的Seedance提示创建器与Claude一起构建Seedance提示。  \n在Figma Weave中，通过将图像输入到Seedance/Grok中来保持每个故事场景的工作流程简单。\n\n--- 线程继续 ---\n[线程1] 这是整个@figmaweave的工作流程——并不复杂。基本上就是一些图像输入→每个场景的Seedance/Grok。https://t.co/juGZAmw7DB"
+    "es": {
+      "content": "---\nGenera imágenes base y personajes en Midjourney, luego utiliza Nano Banana Pro y GPT Image 2 dentro de Figma Weave para crear ediciones y nuevos ángulos antes de animar.  \nPara la mayoría de las escenas, utiliza el modo de Referencia de Seedance (aproximadamente 80%) y complementa con Grok (aproximadamente 20%) dentro de Figma Weave.  \nUsa el creador de prompts de Seedance de jboogx_creative con Claude para construir prompts de Seedance.  \nEn Figma Weave, mantén el flujo de trabajo simple alimentando entradas de imagen en Seedance/Grok para cada escena de la historia.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Este es todo el flujo de trabajo de @figmaweave - no es muy complicado. Esencialmente solo algunas entradas de imagen → Seedance/Grok para cada escena. https://t.co/juGZAmw7DB\n---"
+    },
+    "fr": {
+      "content": "---\nGénérez des images de base et des personnages dans Midjourney, puis utilisez Nano Banana Pro et GPT Image 2 à l'intérieur de Figma Weave pour créer des modifications et de nouveaux angles avant d'animer.  \nPour la plupart des scènes, utilisez le mode de référence Seedance (environ 80%) et complétez avec Grok (environ 20%) dans Figma Weave.  \nUtilisez le créateur de prompts Seedance de jboogx_creative avec Claude pour construire des prompts Seedance.  \nDans Figma Weave, gardez le flux de travail simple en alimentant les entrées d'images dans Seedance/Grok pour chaque scène de l'histoire.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Voici l'ensemble du flux de travail @figmaweave - ce n'est pas très compliqué. Essentiellement juste quelques entrées d'images → Seedance/Grok pour chaque scène. https://t.co/juGZAmw7DB\n---"
+    },
+    "ja": {
+      "content": "---\nMidjourneyでベース画像とキャラクターを生成し、その後Nano Banana ProとGPT Image 2をFigma Weave内で使用して編集や新しいアングルを作成してからアニメーション化します。  \nほとんどのシーンでは、Seedance Referenceモード（約80%）を使用し、Figma Weave内でGrok（約20%）を補完します。  \njboogx_creativeのSeedanceプロンプトクリエーターをClaudeと共に使用して、Seedanceプロンプトを構築します。  \nFigma Weaveでは、ストーリーの各シーンに画像入力をSeedance/Grokにフィードすることで、ワークフローをシンプルに保ちます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] これが全体の@figmaweaveワークフローです - それほど複雑ではありません。基本的には、いくつかの画像入力 → 各シーンのSeedance/Grokです。https://t.co/juGZAmw7DB\n---"
+    },
+    "ko": {
+      "content": "---\nMidjourney에서 기본 이미지와 캐릭터를 생성한 후, Nano Banana Pro와 GPT Image 2를 Figma Weave 내에서 사용하여 편집 및 새로운 각도를 만든 후 애니메이션을 만드세요.  \n대부분의 장면에서는 Seedance Reference 모드(약 80%)를 사용하고 Figma Weave 내에서 Grok(약 20%)으로 보완하세요.  \njboogx_creative의 Seedance prompt creator를 Claude와 함께 사용하여 Seedance 프롬프트를 만드세요.  \nFigma Weave에서는 이야기의 각 장면에 대해 이미지 입력을 Seedance/Grok에 제공하여 워크플로를 간단하게 유지하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이것이 전체 @figmaweave 워크플로입니다 - 매우 복잡하지 않습니다. 기본적으로 몇 가지 이미지 입력 → 각 장면에 대한 Seedance/Grok입니다. https://t.co/juGZAmw7DB\n---"
+    },
+    "pt": {
+      "content": "---\nGere imagens base e personagens no Midjourney, depois use Nano Banana Pro e GPT Image 2 dentro do Figma Weave para criar edições e novos ângulos antes de animar.  \nPara a maioria das cenas, use o modo Seedance Reference (cerca de 80%) e complemente com Grok (cerca de 20%) dentro do Figma Weave.  \nUse o criador de prompts Seedance do jboogx_creative com Claude para construir prompts Seedance.  \nNo Figma Weave, mantenha o fluxo de trabalho simples alimentando entradas de imagem no Seedance/Grok para cada cena da história.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Este é todo o fluxo de trabalho do @figmaweave - não é muito complicado. Essencialmente, apenas algumas entradas de imagem → Seedance/Grok para cada cena. https://t.co/juGZAmw7DB\n---"
+    },
+    "zh": {
+      "content": "在Midjourney中生成基础图像和角色，然后使用Nano Banana Pro和GPT Image 2在Figma Weave中进行编辑和创建新角度，再进行动画制作。  \n对于大多数场景，在Figma Weave中使用Seedance参考模式（约80%），并辅以Grok（约20%）。  \n使用jboogx_creative的Seedance提示创建器与Claude一起构建Seedance提示。  \n在Figma Weave中，通过将图像输入到Seedance/Grok中来保持每个故事场景的工作流程简单。\n\n--- 线程继续 ---\n[线程1] 这是整个@figmaweave的工作流程——并不复杂。基本上就是一些图像输入→每个场景的Seedance/Grok。https://t.co/juGZAmw7DB"
+    }
   }
 }

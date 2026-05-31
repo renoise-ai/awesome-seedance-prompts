@@ -1,37 +1,35 @@
 {
   "id": "2058267091011293628",
-  "type": "tip",
-  "url": "https://x.com/mikefutia/status/2058267091011293628",
+  "title": "Drop a product image into Claude Cowork and provide a single prompt to generate…",
+  "content": "Drop a product image into Claude Cowork and provide a single prompt to generate a full multi-shot UGC ad with Seedance 2.0  \nSpecify the ad angle in your prompt (unboxing, review, lifestyle, demo) to guide the generated dialogue, shot list, and pacing before sending to Seedance  \nPass your product photos as reference images to Seedance 2.0 so the output matches your real packaging/branding  \nUse the FAL AI API to programmatically send the generated shot plan to Seedance 2.0 and download the finished clips into organized folders  \nStitch multiple Seedance-generated shots into one finished ad cut as the final step in the pipeline",
   "language": "en",
-  "created_at": "2026-05-23",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058267039748464640/img/PyMKe3_IVbYXK_xo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058267091011293628.mp4",
+  "sourceLink": "https://x.com/mikefutia/status/2058267091011293628",
+  "sourcePublishedAt": "2026-05-23",
   "author": {
     "name": "Mike Futia",
-    "username": "mikefutia",
-    "url": "https://x.com/mikefutia",
-    "followers": 74762
+    "link": "https://x.com/mikefutia"
   },
-  "text": "Claude Cowork + Seedance 2.0 is f*cking wild 🤯\n\nI built a skill inside Claude Cowork that generates complete UGC video ads on demand: creator dialogue, shot list, on-brand pacing, finished cut.\n\nOne product image + one prompt = a full multi-shot UGC ad.\n\nAll inside Claude Cowork.\n\nPerfect for DTC brands and agencies who are burning $150–$300 per video on creators and still waiting days to see footage.\n\nIf you're sending briefs to creators every week, managing rounds of revision, and praying the final cut actually matches your brand...\n\nThis skill eliminates the entire loop:\n\n→ Drop a product image into Claude Cowork\n→ Tell it the ad angle (unboxing, review, lifestyle, demo)\n→ Claude writes the dialogue, shot list, and pacing\n→ Fires it to Seedance 2.0 via the FAL AI API\n→ Downloads finished clips into organized folders\n→ Stitches multiple shots into one finished ad\n\nNo creator briefs.\nNo waiting for footage.\nNo $200/video platform fees.\n\nWhat you get:\n\n- UGC ads generated in minutes, not days\n- Full control over dialogue, pacing, and shot composition\n- Your product photos passed as reference so Seedance matches your real packaging\n- A reusable skill: new product, new folder, same pipeline\n\nBuilt 100% in Claude Cowork with the Seedance 2.0 API.\n\nI put together a full playbook with the Claude Cowork skill file, the exact prompts, and the FAL AI setup to get this running yourself.\n\nWant it for free?\n\n> Like this post\n> Comment \"UGC\"\n\nAnd I'll send it over (must be following so I can DM)",
-  "content": "Drop a product image into Claude Cowork and provide a single prompt to generate a full multi-shot UGC ad with Seedance 2.0  \nSpecify the ad angle in your prompt (unboxing, review, lifestyle, demo) to guide the generated dialogue, shot list, and pacing before sending to Seedance  \nPass your product photos as reference images to Seedance 2.0 so the output matches your real packaging/branding  \nUse the FAL AI API to programmatically send the generated shot plan to Seedance 2.0 and download the finished clips into organized folders  \nStitch multiple Seedance-generated shots into one finished ad cut as the final step in the pipeline",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 204,
-    "retweets": 16,
-    "replies": 186,
-    "quotes": 1,
-    "bookmarks": 206,
-    "views": 11938
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058267091011293628.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058267039748464640/img/PyMKe3_IVbYXK_xo.jpg"
-  },
+  "tips": "Drop a product image into Claude Cowork and provide a single prompt to generate a full multi-shot UGC ad with Seedance 2.0  \nSpecify the ad angle in your prompt (unboxing, review, lifestyle, demo) to guide the generated dialogue, shot list, and pacing before sending to Seedance  \nPass your product photos as reference images to Seedance 2.0 so the output matches your real packaging/branding  \nUse the FAL AI API to programmatically send the generated shot plan to Seedance 2.0 and download the finished clips into organized folders  \nStitch multiple Seedance-generated shots into one finished ad cut as the final step in the pipeline",
   "translations": {
-    "es": "Coloca una imagen de producto en Claude Cowork y proporciona un único prompt para generar un anuncio UGC completo con múltiples tomas usando Seedance 2.0  \nEspecifica el ángulo del anuncio en tu prompt (unboxing, review, lifestyle, demo) para guiar el diálogo generado, la lista de tomas y el ritmo antes de enviarlo a Seedance  \nPasa tus fotos de producto como imágenes de referencia a Seedance 2.0 para que el resultado coincida con tu empaque/marca real  \nUtiliza la API de FAL AI para enviar programáticamente el plan de tomas generado a Seedance 2.0 y descargar los clips terminados en carpetas organizadas  \nUne múltiples tomas generadas por Seedance en un corte final de anuncio como el último paso en la cadena de producción",
-    "fr": "Déposez une image de produit dans Claude Cowork et fournissez un seul prompt pour générer une publicité UGC complète en plusieurs prises avec Seedance 2.0  \nSpécifiez l'angle de la publicité dans votre prompt (unboxing, critique, lifestyle, démo) pour guider le dialogue généré, la liste des prises et le rythme avant de l'envoyer à Seedance  \nPassez vos photos de produit comme images de référence à Seedance 2.0 afin que le résultat corresponde à votre emballage/branding réel  \nUtilisez l'API FAL AI pour envoyer de manière programmatique le plan de prises généré à Seedance 2.0 et téléchargez les clips finis dans des dossiers organisés  \nAssemblez plusieurs prises générées par Seedance en une seule coupe finale de publicité comme dernière étape du processus",
-    "ja": "---\nClaude Coworkに製品画像をドロップし、Seedance 2.0でフルマルチショットUGC広告を生成するための単一のプロンプトを提供します  \n生成されたダイアログ、ショットリスト、ペーシングをガイドするために、プロンプトで広告の角度（開封、レビュー、ライフスタイル、デモ）を指定してからSeedanceに送信します  \n製品写真をSeedance 2.0に参照画像として渡し、出力が実際のパッケージング/ブランディングに一致するようにします  \nFAL AI APIを使用して、生成されたショットプランをSeedance 2.0にプログラム的に送信し、完成したクリップを整理されたフォルダーにダウンロードします  \nパイプラインの最終ステップとして、Seedanceで生成された複数のショットを1つの完成した広告カットにステッチします  \n---",
-    "ko": "---\n제품 이미지를 Claude Cowork에 드롭하고 단일 프롬프트를 제공하여 Seedance 2.0으로 전체 멀티 샷 UGC 광고를 생성하세요  \n프롬프트에 광고 각도(언박싱, 리뷰, 라이프스타일, 데모)를 지정하여 생성된 대화, 샷 목록, 속도를 Seedance로 보내기 전에 안내하세요  \n제품 사진을 Seedance 2.0에 참조 이미지로 전달하여 출력물이 실제 포장/브랜딩과 일치하도록 하세요  \nFAL AI API를 사용하여 생성된 샷 계획을 Seedance 2.0에 프로그래밍 방식으로 보내고 완성된 클립을 정리된 폴더에 다운로드하세요  \n여러 Seedance 생성 샷을 하나의 완성된 광고 컷으로 연결하는 것을 파이프라인의 마지막 단계로 수행하세요  \n---",
-    "pt-BR": "---\nColoque uma imagem de produto no Claude Cowork e forneça um único prompt para gerar um anúncio UGC completo com múltiplas tomadas usando o Seedance 2.0  \nEspecifique o ângulo do anúncio no seu prompt (unboxing, review, lifestyle, demo) para guiar o diálogo gerado, a lista de tomadas e o ritmo antes de enviar para o Seedance  \nPasse suas fotos de produto como imagens de referência para o Seedance 2.0 para que o resultado corresponda à sua embalagem/marca real  \nUse a API FAL AI para enviar programaticamente o plano de tomadas gerado para o Seedance 2.0 e baixar os clipes finalizados em pastas organizadas  \nUna múltiplas tomadas geradas pelo Seedance em um corte finalizado do anúncio como a etapa final do processo\n---",
-    "zh-CN": "将产品图片拖入Claude Cowork，并提供一个单一的prompt，以使用Seedance 2.0生成完整的多镜头UGC广告  \n在您的prompt中指定广告角度（开箱、评测、生活方式、演示），以指导生成的对话、镜头列表和节奏，然后发送到Seedance  \n将您的产品照片作为参考图像传递给Seedance 2.0，以便输出与您的真实包装/品牌相匹配  \n使用FAL AI API以编程方式将生成的镜头计划发送到Seedance 2.0，并将完成的剪辑下载到组织好的文件夹中  \n将多个Seedance生成的镜头拼接成一个完整的广告剪辑，作为流程的最后一步"
+    "es": {
+      "content": "Coloca una imagen de producto en Claude Cowork y proporciona un único prompt para generar un anuncio UGC completo con múltiples tomas usando Seedance 2.0  \nEspecifica el ángulo del anuncio en tu prompt (unboxing, review, lifestyle, demo) para guiar el diálogo generado, la lista de tomas y el ritmo antes de enviarlo a Seedance  \nPasa tus fotos de producto como imágenes de referencia a Seedance 2.0 para que el resultado coincida con tu empaque/marca real  \nUtiliza la API de FAL AI para enviar programáticamente el plan de tomas generado a Seedance 2.0 y descargar los clips terminados en carpetas organizadas  \nUne múltiples tomas generadas por Seedance en un corte final de anuncio como el último paso en la cadena de producción"
+    },
+    "fr": {
+      "content": "Déposez une image de produit dans Claude Cowork et fournissez un seul prompt pour générer une publicité UGC complète en plusieurs prises avec Seedance 2.0  \nSpécifiez l'angle de la publicité dans votre prompt (unboxing, critique, lifestyle, démo) pour guider le dialogue généré, la liste des prises et le rythme avant de l'envoyer à Seedance  \nPassez vos photos de produit comme images de référence à Seedance 2.0 afin que le résultat corresponde à votre emballage/branding réel  \nUtilisez l'API FAL AI pour envoyer de manière programmatique le plan de prises généré à Seedance 2.0 et téléchargez les clips finis dans des dossiers organisés  \nAssemblez plusieurs prises générées par Seedance en une seule coupe finale de publicité comme dernière étape du processus"
+    },
+    "ja": {
+      "content": "---\nClaude Coworkに製品画像をドロップし、Seedance 2.0でフルマルチショットUGC広告を生成するための単一のプロンプトを提供します  \n生成されたダイアログ、ショットリスト、ペーシングをガイドするために、プロンプトで広告の角度（開封、レビュー、ライフスタイル、デモ）を指定してからSeedanceに送信します  \n製品写真をSeedance 2.0に参照画像として渡し、出力が実際のパッケージング/ブランディングに一致するようにします  \nFAL AI APIを使用して、生成されたショットプランをSeedance 2.0にプログラム的に送信し、完成したクリップを整理されたフォルダーにダウンロードします  \nパイプラインの最終ステップとして、Seedanceで生成された複数のショットを1つの完成した広告カットにステッチします  \n---"
+    },
+    "ko": {
+      "content": "---\n제품 이미지를 Claude Cowork에 드롭하고 단일 프롬프트를 제공하여 Seedance 2.0으로 전체 멀티 샷 UGC 광고를 생성하세요  \n프롬프트에 광고 각도(언박싱, 리뷰, 라이프스타일, 데모)를 지정하여 생성된 대화, 샷 목록, 속도를 Seedance로 보내기 전에 안내하세요  \n제품 사진을 Seedance 2.0에 참조 이미지로 전달하여 출력물이 실제 포장/브랜딩과 일치하도록 하세요  \nFAL AI API를 사용하여 생성된 샷 계획을 Seedance 2.0에 프로그래밍 방식으로 보내고 완성된 클립을 정리된 폴더에 다운로드하세요  \n여러 Seedance 생성 샷을 하나의 완성된 광고 컷으로 연결하는 것을 파이프라인의 마지막 단계로 수행하세요  \n---"
+    },
+    "pt": {
+      "content": "---\nColoque uma imagem de produto no Claude Cowork e forneça um único prompt para gerar um anúncio UGC completo com múltiplas tomadas usando o Seedance 2.0  \nEspecifique o ângulo do anúncio no seu prompt (unboxing, review, lifestyle, demo) para guiar o diálogo gerado, a lista de tomadas e o ritmo antes de enviar para o Seedance  \nPasse suas fotos de produto como imagens de referência para o Seedance 2.0 para que o resultado corresponda à sua embalagem/marca real  \nUse a API FAL AI para enviar programaticamente o plano de tomadas gerado para o Seedance 2.0 e baixar os clipes finalizados em pastas organizadas  \nUna múltiplas tomadas geradas pelo Seedance em um corte finalizado do anúncio como a etapa final do processo\n---"
+    },
+    "zh": {
+      "content": "将产品图片拖入Claude Cowork，并提供一个单一的prompt，以使用Seedance 2.0生成完整的多镜头UGC广告  \n在您的prompt中指定广告角度（开箱、评测、生活方式、演示），以指导生成的对话、镜头列表和节奏，然后发送到Seedance  \n将您的产品照片作为参考图像传递给Seedance 2.0，以便输出与您的真实包装/品牌相匹配  \n使用FAL AI API以编程方式将生成的镜头计划发送到Seedance 2.0，并将完成的剪辑下载到组织好的文件夹中  \n将多个Seedance生成的镜头拼接成一个完整的广告剪辑，作为流程的最后一步"
+    }
   }
 }

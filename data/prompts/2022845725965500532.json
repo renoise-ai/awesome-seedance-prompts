@@ -1,37 +1,34 @@
 {
   "id": "2022845725965500532",
-  "type": "prompt",
-  "url": "https://x.com/pleometric/status/2022845725965500532",
+  "title": "Clavicular’s morning routine, but make him not look like a psycho. Make no…",
+  "content": "Clavicular’s morning routine, but make him not look like a psycho. Make no mistakes.",
   "language": "en",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022844925679931395/img/-V-2UTvkhzTakE5P.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022845725965500532.mp4",
+  "sourceLink": "https://x.com/pleometric/status/2022845725965500532",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "Pleometric",
-    "username": "pleometric",
-    "url": "https://x.com/pleometric",
-    "followers": 6181
-  },
-  "text": "Seedance 2.0\n\nPrompt: Clavicular’s morning routine, but make him not look like a psycho. Make no mistakes. https://t.co/o6SfNK19TR",
-  "content": "Clavicular’s morning routine, but make him not look like a psycho. Make no mistakes.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 2045,
-    "retweets": 96,
-    "replies": 59,
-    "quotes": 12,
-    "bookmarks": 667,
-    "views": 128677
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022845725965500532.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022844925679931395/img/-V-2UTvkhzTakE5P.jpg"
+    "link": "https://x.com/pleometric"
   },
   "translations": {
-    "es": "La rutina matutina de Clavicular, pero haz que no parezca un psicópata. Sin cometer errores.",
-    "fr": "La routine matinale de Clavicular, mais faites en sorte qu'il n'ait pas l'air d'un psychopathe. Ne faites aucune erreur.",
-    "ja": "クラビキュラーの朝のルーティンを、サイコに見えないようにしてください。間違いのないように。",
-    "ko": "클라비큘라의 아침 루틴을, 하지만 그를 사이코처럼 보이지 않게. 실수 없이.",
-    "pt-BR": "A rotina matinal de Clavicular, mas faça com que ele não pareça um psicopata. Não cometa erros.",
-    "zh-CN": "Clavicular的晨间例行公事，但不要让他看起来像个疯子。不要出错。"
+    "es": {
+      "content": "La rutina matutina de Clavicular, pero haz que no parezca un psicópata. Sin cometer errores."
+    },
+    "fr": {
+      "content": "La routine matinale de Clavicular, mais faites en sorte qu'il n'ait pas l'air d'un psychopathe. Ne faites aucune erreur."
+    },
+    "ja": {
+      "content": "クラビキュラーの朝のルーティンを、サイコに見えないようにしてください。間違いのないように。"
+    },
+    "ko": {
+      "content": "클라비큘라의 아침 루틴을, 하지만 그를 사이코처럼 보이지 않게. 실수 없이."
+    },
+    "pt": {
+      "content": "A rotina matinal de Clavicular, mas faça com que ele não pareça um psicopata. Não cometa erros."
+    },
+    "zh": {
+      "content": "Clavicular的晨间例行公事，但不要让他看起来像个疯子。不要出错。"
+    }
   }
 }

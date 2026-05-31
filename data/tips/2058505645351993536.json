@@ -1,43 +1,35 @@
 {
   "id": "2058505645351993536",
-  "type": "tip",
-  "url": "https://x.com/AvisMelodieux/status/2058505645351993536",
+  "title": "Remove the initial fight prompt and instead add lots of character references…",
+  "content": "Remove the initial fight prompt and instead add lots of character references, then prompt Seedance 2.0 to “do whatever it wants” while syncing the video to a Suno K‑Pop track.\n\nAdd a clear stake/objective (e.g., a chase after someone holding a potato) to create a stronger music-video narrative when generating with Seedance 2.0.",
   "language": "en",
-  "created_at": "2026-05-24",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058505591547457536/img/tYGwnfLkrR7YjGfR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058505645351993536.mp4",
+  "sourceLink": "https://x.com/AvisMelodieux/status/2058505645351993536",
+  "sourcePublishedAt": "2026-05-24",
   "author": {
     "name": "AvisMelodieux",
-    "username": "AvisMelodieux",
-    "url": "https://x.com/AvisMelodieux",
-    "followers": 860
+    "link": "https://x.com/AvisMelodieux"
   },
-  "text": "Another version, removing the initial fight prompt, adding lots of character references, and simply asking Seedance 2.0 to do whatever it wants but sync it to Suno's K-Pop music. \n\nI think that's even better.\n\nAdding a stake to this scene, like a chase after someone holding a potato for example, could make a cool music video.",
-  "content": "Remove the initial fight prompt and instead add lots of character references, then prompt Seedance 2.0 to “do whatever it wants” while syncing the video to a Suno K‑Pop track.\n\nAdd a clear stake/objective (e.g., a chase after someone holding a potato) to create a stronger music-video narrative when generating with Seedance 2.0.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 13,
-    "retweets": 1,
-    "replies": 1,
-    "quotes": 1,
-    "bookmarks": 3,
-    "views": 681
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058505645351993536.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058505591547457536/img/tYGwnfLkrR7YjGfR.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "I tested the Seedance 2.0 prompt from the post below. I added a Suno K-Pop song (a song about potatoes). It's great. https://t.co/oXFIwAxFqA",
-    "thread_texts": [
-      "@grok Write me a short script about a series of improbable events in this potato race."
-    ]
-  },
+  "tips": "Remove the initial fight prompt and instead add lots of character references, then prompt Seedance 2.0 to “do whatever it wants” while syncing the video to a Suno K‑Pop track.\n\nAdd a clear stake/objective (e.g., a chase after someone holding a potato) to create a stronger music-video narrative when generating with Seedance 2.0.",
   "translations": {
-    "es": "---\nElimina el prompt inicial de pelea y en su lugar añade muchas referencias de personajes, luego pide a Seedance 2.0 que “haga lo que quiera” mientras sincroniza el video con una pista de Suno K‑Pop.\n\nAñade un objetivo claro (por ejemplo, una persecución tras alguien que lleva una patata) para crear una narrativa más fuerte de video musical al generar con Seedance 2.0.\n\n--- TWEET CITADO ---\nProbé el prompt de Seedance 2.0 del post de abajo. Añadí una canción de Suno K-Pop (una canción sobre patatas). Es genial. https://t.co/oXFIwAxFqA\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @grok Escríbeme un guion corto sobre una serie de eventos improbables en esta carrera de patatas.\n---",
-    "fr": "---\nSupprimez le prompt initial de combat et ajoutez plutôt de nombreuses références de personnages, puis demandez à Seedance 2.0 de « faire ce qu'il veut » tout en synchronisant la vidéo avec une piste de Suno K-Pop.\n\nAjoutez un enjeu/objectif clair (par exemple, une poursuite après quelqu'un tenant une pomme de terre) pour créer une narration de clip musical plus forte lors de la génération avec Seedance 2.0.\n\n--- TWEET CITÉ ---\nJ'ai testé le prompt Seedance 2.0 du post ci-dessous. J'ai ajouté une chanson Suno K-Pop (une chanson sur les pommes de terre). C'est génial. https://t.co/oXFIwAxFqA\n\n--- SUITE DU FIL ---\n[Thread 1] @grok Écris-moi un court scénario sur une série d'événements improbables dans cette course de pommes de terre.\n---",
-    "ja": "---\n最初の戦いのプロンプトを削除し、代わりに多くのキャラクター参照を追加してから、Seedance 2.0に「好きなことをする」ように促し、ビデオをSuno K-Popトラックに同期させます。\n\nSeedance 2.0で生成する際に、より強いミュージックビデオの物語を作成するために、明確な賭け/目的（例：ポテトを持っている誰かを追いかける）を追加します。\n\n--- 引用ツイート ---\n以下の投稿からSeedance 2.0のプロンプトをテストしました。Suno K-Popの曲（ポテトについての曲）を追加しました。素晴らしいです。https://t.co/oXFIwAxFqA\n\n--- スレッドの続き ---\n[スレッド1] @grok このポテトレースでの一連のありえない出来事についての短い脚本を書いてください。\n---",
-    "ko": "---\n초기 전투 프롬프트를 제거하고 대신 많은 캐릭터 참조를 추가한 후, Seedance 2.0에 \"원하는 대로 하라\"고 지시하면서 영상을 Suno K-Pop 트랙에 맞춰 동기화하세요.\n\nSeedance 2.0으로 생성할 때 더 강력한 뮤직 비디오 내러티브를 만들기 위해 명확한 목표/목적(예: 감자를 들고 있는 사람을 쫓는 추격전)을 추가하세요.\n\n--- 인용 트윗 ---\n아래 게시물에서 Seedance 2.0 프롬프트를 테스트했습니다. Suno K-Pop 노래(감자에 관한 노래)를 추가했습니다. 훌륭합니다. https://t.co/oXFIwAxFqA\n\n--- 스레드 계속 ---\n[스레드 1] @grok 이 감자 경주에서 일어나는 일련의 불가능한 사건들에 대한 짧은 대본을 작성해 주세요.\n---",
-    "pt-BR": "---\nRemova o prompt inicial de luta e, em vez disso, adicione muitas referências de personagens, então peça ao Seedance 2.0 para \"fazer o que quiser\" enquanto sincroniza o vídeo com uma faixa de K-Pop da Suno.\n\nAdicione uma clara aposta/objetivo (por exemplo, uma perseguição atrás de alguém segurando uma batata) para criar uma narrativa de videoclipe mais forte ao gerar com o Seedance 2.0.\n\n--- TWEET CITADO ---\nEu testei o prompt do Seedance 2.0 do post abaixo. Adicionei uma música de K-Pop da Suno (uma música sobre batatas). É ótimo. https://t.co/oXFIwAxFqA\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] @grok Escreva um roteiro curto sobre uma série de eventos improváveis nesta corrida de batatas.\n---",
-    "zh-CN": "---\n移除最初的战斗prompt，取而代之的是添加大量角色参考，然后提示Seedance 2.0“随心所欲”地进行创作，同时将视频与Suno K-Pop曲目同步。\n\n添加一个明确的赌注/目标（例如，追逐一个拿着土豆的人），以便在使用Seedance 2.0生成时创建一个更强的音乐视频叙事。\n\n--- 引用推文 ---\n我测试了下面帖子中的Seedance 2.0 prompt。我添加了一首Suno K-Pop歌曲（一首关于土豆的歌）。效果很棒。https://t.co/oXFIwAxFqA\n\n--- 线程继续 ---\n[线程 1] @grok 给我写一个关于这场土豆赛跑中一系列不可能事件的短剧本。\n---"
+    "es": {
+      "content": "---\nElimina el prompt inicial de pelea y en su lugar añade muchas referencias de personajes, luego pide a Seedance 2.0 que “haga lo que quiera” mientras sincroniza el video con una pista de Suno K‑Pop.\n\nAñade un objetivo claro (por ejemplo, una persecución tras alguien que lleva una patata) para crear una narrativa más fuerte de video musical al generar con Seedance 2.0.\n\n--- TWEET CITADO ---\nProbé el prompt de Seedance 2.0 del post de abajo. Añadí una canción de Suno K-Pop (una canción sobre patatas). Es genial. https://t.co/oXFIwAxFqA\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @grok Escríbeme un guion corto sobre una serie de eventos improbables en esta carrera de patatas.\n---"
+    },
+    "fr": {
+      "content": "---\nSupprimez le prompt initial de combat et ajoutez plutôt de nombreuses références de personnages, puis demandez à Seedance 2.0 de « faire ce qu'il veut » tout en synchronisant la vidéo avec une piste de Suno K-Pop.\n\nAjoutez un enjeu/objectif clair (par exemple, une poursuite après quelqu'un tenant une pomme de terre) pour créer une narration de clip musical plus forte lors de la génération avec Seedance 2.0.\n\n--- TWEET CITÉ ---\nJ'ai testé le prompt Seedance 2.0 du post ci-dessous. J'ai ajouté une chanson Suno K-Pop (une chanson sur les pommes de terre). C'est génial. https://t.co/oXFIwAxFqA\n\n--- SUITE DU FIL ---\n[Thread 1] @grok Écris-moi un court scénario sur une série d'événements improbables dans cette course de pommes de terre.\n---"
+    },
+    "ja": {
+      "content": "---\n最初の戦いのプロンプトを削除し、代わりに多くのキャラクター参照を追加してから、Seedance 2.0に「好きなことをする」ように促し、ビデオをSuno K-Popトラックに同期させます。\n\nSeedance 2.0で生成する際に、より強いミュージックビデオの物語を作成するために、明確な賭け/目的（例：ポテトを持っている誰かを追いかける）を追加します。\n\n--- 引用ツイート ---\n以下の投稿からSeedance 2.0のプロンプトをテストしました。Suno K-Popの曲（ポテトについての曲）を追加しました。素晴らしいです。https://t.co/oXFIwAxFqA\n\n--- スレッドの続き ---\n[スレッド1] @grok このポテトレースでの一連のありえない出来事についての短い脚本を書いてください。\n---"
+    },
+    "ko": {
+      "content": "---\n초기 전투 프롬프트를 제거하고 대신 많은 캐릭터 참조를 추가한 후, Seedance 2.0에 \"원하는 대로 하라\"고 지시하면서 영상을 Suno K-Pop 트랙에 맞춰 동기화하세요.\n\nSeedance 2.0으로 생성할 때 더 강력한 뮤직 비디오 내러티브를 만들기 위해 명확한 목표/목적(예: 감자를 들고 있는 사람을 쫓는 추격전)을 추가하세요.\n\n--- 인용 트윗 ---\n아래 게시물에서 Seedance 2.0 프롬프트를 테스트했습니다. Suno K-Pop 노래(감자에 관한 노래)를 추가했습니다. 훌륭합니다. https://t.co/oXFIwAxFqA\n\n--- 스레드 계속 ---\n[스레드 1] @grok 이 감자 경주에서 일어나는 일련의 불가능한 사건들에 대한 짧은 대본을 작성해 주세요.\n---"
+    },
+    "pt": {
+      "content": "---\nRemova o prompt inicial de luta e, em vez disso, adicione muitas referências de personagens, então peça ao Seedance 2.0 para \"fazer o que quiser\" enquanto sincroniza o vídeo com uma faixa de K-Pop da Suno.\n\nAdicione uma clara aposta/objetivo (por exemplo, uma perseguição atrás de alguém segurando uma batata) para criar uma narrativa de videoclipe mais forte ao gerar com o Seedance 2.0.\n\n--- TWEET CITADO ---\nEu testei o prompt do Seedance 2.0 do post abaixo. Adicionei uma música de K-Pop da Suno (uma música sobre batatas). É ótimo. https://t.co/oXFIwAxFqA\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] @grok Escreva um roteiro curto sobre uma série de eventos improváveis nesta corrida de batatas.\n---"
+    },
+    "zh": {
+      "content": "---\n移除最初的战斗prompt，取而代之的是添加大量角色参考，然后提示Seedance 2.0“随心所欲”地进行创作，同时将视频与Suno K-Pop曲目同步。\n\n添加一个明确的赌注/目标（例如，追逐一个拿着土豆的人），以便在使用Seedance 2.0生成时创建一个更强的音乐视频叙事。\n\n--- 引用推文 ---\n我测试了下面帖子中的Seedance 2.0 prompt。我添加了一首Suno K-Pop歌曲（一首关于土豆的歌）。效果很棒。https://t.co/oXFIwAxFqA\n\n--- 线程继续 ---\n[线程 1] @grok 给我写一个关于这场土豆赛跑中一系列不可能事件的短剧本。\n---"
+    }
   }
 }

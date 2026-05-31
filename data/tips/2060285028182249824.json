@@ -1,42 +1,35 @@
 {
   "id": "2060285028182249824",
-  "type": "tip",
-  "url": "https://x.com/RBLabQ/status/2060285028182249824",
+  "title": "Seedance 2.0で15秒の「ポン出し」（無編集）レビュー動画を作る場合、最初にテーマの方向性を決めてから生成する（例：古着にフォーカスし「この夏“買い”…",
+  "content": "Seedance 2.0で15秒の「ポン出し」（無編集）レビュー動画を作る場合、最初にテーマの方向性を決めてから生成する（例：古着にフォーカスし「この夏“買い”のアイテム紹介」に絞る）",
   "language": "ja",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060248436038123520/img/NzX96CqqULaYJO9D.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060285028182249824.mp4",
+  "sourceLink": "https://x.com/RBLabQ/status/2060285028182249824",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "🗯️RelaxBeatsLab™︎",
-    "username": "RBLabQ",
-    "url": "https://x.com/RBLabQ",
-    "followers": 2520
+    "link": "https://x.com/RBLabQ"
   },
-  "text": "🚩GPT Image 2 x Seedance 2.0\nファッションインフルエンサー風レビュー動画の作り方✏️今回はローポリ質感のキャラクターの世界観で作成してみました。\n※今回はSeedance2.0のポン出し、15秒の無編集です。\n\n①方向性決め\n今回は「古着」にフォーカスした\nこの夏\"買い\"のアイテムを紹介\n\n② https://t.co/JdRpxmrTC3",
-  "content": "Seedance 2.0で15秒の「ポン出し」（無編集）レビュー動画を作る場合、最初にテーマの方向性を決めてから生成する（例：古着にフォーカスし「この夏“買い”のアイテム紹介」に絞る）",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 31,
-    "retweets": 1,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 7,
-    "views": 2016
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060285028182249824.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060248436038123520/img/NzX96CqqULaYJO9D.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "https://t.co/jlAUiTITAt"
-    ]
-  },
+  "tips": "Seedance 2.0で15秒の「ポン出し」（無編集）レビュー動画を作る場合、最初にテーマの方向性を決めてから生成する（例：古着にフォーカスし「この夏“買い”のアイテム紹介」に絞る）",
   "translations": {
-    "en": "When creating a 15-second \"pon-dashi\" (unedited) review video with Seedance 2.0, first decide on the theme direction before generating (e.g., focus on vintage clothing and narrow it down to \"introducing must-buy items for this summer\").",
-    "es": "---\nAl crear un video de revisión de 15 segundos \"ポン出し\" (sin editar) con Seedance 2.0, primero decide la dirección temática antes de generar (ejemplo: enfócate en ropa vintage y limita a \"introducción de artículos imprescindibles para este verano\").\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/jlAUiTITAt\n---",
-    "fr": "---\nLors de la création d'une vidéo de revue de 15 secondes \"pon dashi\" (sans montage) avec Seedance 2.0, commencez par déterminer la direction du thème avant de générer (exemple : se concentrer sur les vêtements vintage et se limiter à \"présentation des articles à acheter cet été\").\n\n--- CONTINUATION DU FIL ---\n[Fil 1] https://t.co/jlAUiTITAt\n---",
-    "ko": "---\nSeedance 2.0에서 15초의 \"ポン出し\" (무편집) 리뷰 영상을 만들 경우, 먼저 테마의 방향성을 결정한 후 생성합니다 (예: 빈티지 의류에 초점을 맞추고 \"이번 여름 '구매' 아이템 소개\"로 한정).\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/jlAUiTITAt\n---",
-    "pt-BR": "---\nAo criar um vídeo de revisão de 15 segundos \"ポン出し\" (sem edição) com o Seedance 2.0, primeiro determine a direção do tema antes de gerar (exemplo: focar em roupas vintage e restringir a \"introdução de itens imperdíveis deste verão\").\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/jlAUiTITAt\n---",
-    "zh-CN": "---\n在使用Seedance 2.0制作15秒的“ポン出し”（无编辑）评论视频时，首先确定主题方向，然后进行生成（例如：聚焦于古着，专注于“这个夏天值得购买的单品介绍”）。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/jlAUiTITAt\n---"
+    "en": {
+      "content": "When creating a 15-second \"pon-dashi\" (unedited) review video with Seedance 2.0, first decide on the theme direction before generating (e.g., focus on vintage clothing and narrow it down to \"introducing must-buy items for this summer\")."
+    },
+    "es": {
+      "content": "---\nAl crear un video de revisión de 15 segundos \"ポン出し\" (sin editar) con Seedance 2.0, primero decide la dirección temática antes de generar (ejemplo: enfócate en ropa vintage y limita a \"introducción de artículos imprescindibles para este verano\").\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/jlAUiTITAt\n---"
+    },
+    "fr": {
+      "content": "---\nLors de la création d'une vidéo de revue de 15 secondes \"pon dashi\" (sans montage) avec Seedance 2.0, commencez par déterminer la direction du thème avant de générer (exemple : se concentrer sur les vêtements vintage et se limiter à \"présentation des articles à acheter cet été\").\n\n--- CONTINUATION DU FIL ---\n[Fil 1] https://t.co/jlAUiTITAt\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 15초의 \"ポン出し\" (무편집) 리뷰 영상을 만들 경우, 먼저 테마의 방향성을 결정한 후 생성합니다 (예: 빈티지 의류에 초점을 맞추고 \"이번 여름 '구매' 아이템 소개\"로 한정).\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/jlAUiTITAt\n---"
+    },
+    "pt": {
+      "content": "---\nAo criar um vídeo de revisão de 15 segundos \"ポン出し\" (sem edição) com o Seedance 2.0, primeiro determine a direção do tema antes de gerar (exemplo: focar em roupas vintage e restringir a \"introdução de itens imperdíveis deste verão\").\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/jlAUiTITAt\n---"
+    },
+    "zh": {
+      "content": "---\n在使用Seedance 2.0制作15秒的“ポン出し”（无编辑）评论视频时，首先确定主题方向，然后进行生成（例如：聚焦于古着，专注于“这个夏天值得购买的单品介绍”）。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/jlAUiTITAt\n---"
+    }
   }
 }

@@ -1,37 +1,34 @@
 {
   "id": "2023358193829818531",
-  "type": "prompt",
-  "url": "https://x.com/markgadala/status/2023358193829818531",
+  "title": "Ben stiller stars as Kramer in a 90's movie, he goes into an Asian massage…",
+  "content": "Ben stiller stars as Kramer in a 90's movie, he goes into an Asian massage parlor",
   "language": "en",
-  "created_at": "2026-02-16",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023237415851511808/img/pa4WSrO2Jhsg3guD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023358193829818531.mp4",
+  "sourceLink": "https://x.com/markgadala/status/2023358193829818531",
+  "sourcePublishedAt": "2026-02-16",
   "author": {
     "name": "Mark Gadala-Maria",
-    "username": "markgadala",
-    "url": "https://x.com/markgadala",
-    "followers": 65221
-  },
-  "text": "Seedance is getting wierd 😂\n\nPrompt \"Ben stiller stars as Kramer in a 90's movie, he goes into an Asian massage parlor\" https://t.co/QZxUBfKkfW",
-  "content": "Ben stiller stars as Kramer in a 90's movie, he goes into an Asian massage parlor",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 131,
-    "retweets": 8,
-    "replies": 10,
-    "quotes": 2,
-    "bookmarks": 57,
-    "views": 32952
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023358193829818531.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023237415851511808/img/pa4WSrO2Jhsg3guD.jpg"
+    "link": "https://x.com/markgadala"
   },
   "translations": {
-    "es": "Ben Stiller protagoniza como Kramer en una película de los años 90, entra en un salón de masajes asiático.",
-    "fr": "Ben Stiller joue le rôle de Kramer dans un film des années 90, où il se rend dans un salon de massage asiatique.",
-    "ja": "ベン・スティラーが90年代の映画でクレイマー役を演じ、アジアのマッサージパーラーに入る。",
-    "ko": "벤 스틸러가 90년대 영화에서 크레이머 역으로 출연하며, 그는 아시아 마사지숍에 들어간다.",
-    "pt-BR": "Ben Stiller estrela como Kramer em um filme dos anos 90, ele entra em um salão de massagem asiática.",
-    "zh-CN": "本·斯蒂勒在一部90年代的电影中饰演克莱默，他走进了一家亚洲按摩店。"
+    "es": {
+      "content": "Ben Stiller protagoniza como Kramer en una película de los años 90, entra en un salón de masajes asiático."
+    },
+    "fr": {
+      "content": "Ben Stiller joue le rôle de Kramer dans un film des années 90, où il se rend dans un salon de massage asiatique."
+    },
+    "ja": {
+      "content": "ベン・スティラーが90年代の映画でクレイマー役を演じ、アジアのマッサージパーラーに入る。"
+    },
+    "ko": {
+      "content": "벤 스틸러가 90년대 영화에서 크레이머 역으로 출연하며, 그는 아시아 마사지숍에 들어간다."
+    },
+    "pt": {
+      "content": "Ben Stiller estrela como Kramer em um filme dos anos 90, ele entra em um salão de massagem asiática."
+    },
+    "zh": {
+      "content": "本·斯蒂勒在一部90年代的电影中饰演克莱默，他走进了一家亚洲按摩店。"
+    }
   }
 }

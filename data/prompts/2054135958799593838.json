@@ -1,37 +1,34 @@
 {
   "id": "2054135958799593838",
-  "type": "prompt",
-  "url": "https://x.com/CaliraVal/status/2054135958799593838",
+  "title": "A high-detail, surreal cinematic sequence featuring a gigantic corporate woman…",
+  "content": "A high-detail, surreal cinematic sequence featuring a gigantic corporate woman walking through the streets of New York City. She wears a white collared shirt, a dark pinstripe waistcoat, black trousers, and prominent red high-heeled shoes.",
   "language": "en",
-  "created_at": "2026-05-12",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054135927728156672/pu/img/QsJzw3vCPlg8MoNy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054135958799593838.mp4",
+  "sourceLink": "https://x.com/CaliraVal/status/2054135958799593838",
+  "sourcePublishedAt": "2026-05-12",
   "author": {
     "name": "Calira",
-    "username": "CaliraVal",
-    "url": "https://x.com/CaliraVal",
-    "followers": 4669
-  },
-  "text": "Created with Gpt Image 2 + Seedance 2.0\n\nPrompt:\n\nA high-detail, surreal cinematic sequence featuring a gigantic corporate woman walking through the streets of New York City. She wears a white collared shirt, a dark pinstripe waistcoat, black trousers, and prominent red high-heeled shoes.",
-  "content": "A high-detail, surreal cinematic sequence featuring a gigantic corporate woman walking through the streets of New York City. She wears a white collared shirt, a dark pinstripe waistcoat, black trousers, and prominent red high-heeled shoes.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 82,
-    "retweets": 5,
-    "replies": 41,
-    "quotes": 0,
-    "bookmarks": 16,
-    "views": 2470
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054135958799593838.mp4",
-    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054135927728156672/pu/img/QsJzw3vCPlg8MoNy.jpg"
+    "link": "https://x.com/CaliraVal"
   },
   "translations": {
-    "es": "Una secuencia cinematográfica surrealista de alto detalle que presenta a una mujer corporativa gigantesca caminando por las calles de la ciudad de Nueva York. Lleva una camisa blanca con cuello, un chaleco oscuro de rayas, pantalones negros y llamativos zapatos de tacón alto rojos.",
-    "fr": "Une séquence cinématographique surréaliste et très détaillée mettant en scène une femme d'affaires gigantesque marchant dans les rues de New York. Elle porte une chemise blanche à col, un gilet à rayures sombres, un pantalon noir et des chaussures à talons hauts rouges et voyantes.",
-    "ja": "---\nニューヨーク市の通りを歩く巨大な企業女性を描いた、高精細でシュールなシネマティックシーケンス。彼女は白い襟付きシャツ、ダークなピンストライプのベスト、黒いズボン、そして目立つ赤いハイヒールを履いている。",
-    "ko": "고해상도의 초현실적인 시네마틱 시퀀스가 뉴욕시의 거리를 걷고 있는 거대한 기업 여성을 특징으로 합니다. 그녀는 흰색 칼라 셔츠, 어두운 핀스트라이프 조끼, 검은 바지, 그리고 눈에 띄는 빨간색 하이힐을 신고 있습니다.",
-    "pt-BR": "Uma sequência cinematográfica surreal de alta definição apresentando uma mulher corporativa gigantesca caminhando pelas ruas de Nova York. Ela veste uma camisa branca com colarinho, um colete escuro de risca de giz, calças pretas e sapatos de salto alto vermelhos e marcantes.",
-    "zh-CN": "一段高细节、超现实的电影序列，展示了一位巨大的企业女性走在纽约市的街道上。她穿着白色领衬衫、深色条纹背心、黑色长裤和醒目的红色高跟鞋。"
+    "es": {
+      "content": "Una secuencia cinematográfica surrealista de alto detalle que presenta a una mujer corporativa gigantesca caminando por las calles de la ciudad de Nueva York. Lleva una camisa blanca con cuello, un chaleco oscuro de rayas, pantalones negros y llamativos zapatos de tacón alto rojos."
+    },
+    "fr": {
+      "content": "Une séquence cinématographique surréaliste et très détaillée mettant en scène une femme d'affaires gigantesque marchant dans les rues de New York. Elle porte une chemise blanche à col, un gilet à rayures sombres, un pantalon noir et des chaussures à talons hauts rouges et voyantes."
+    },
+    "ja": {
+      "content": "---\nニューヨーク市の通りを歩く巨大な企業女性を描いた、高精細でシュールなシネマティックシーケンス。彼女は白い襟付きシャツ、ダークなピンストライプのベスト、黒いズボン、そして目立つ赤いハイヒールを履いている。"
+    },
+    "ko": {
+      "content": "고해상도의 초현실적인 시네마틱 시퀀스가 뉴욕시의 거리를 걷고 있는 거대한 기업 여성을 특징으로 합니다. 그녀는 흰색 칼라 셔츠, 어두운 핀스트라이프 조끼, 검은 바지, 그리고 눈에 띄는 빨간색 하이힐을 신고 있습니다."
+    },
+    "pt": {
+      "content": "Uma sequência cinematográfica surreal de alta definição apresentando uma mulher corporativa gigantesca caminhando pelas ruas de Nova York. Ela veste uma camisa branca com colarinho, um colete escuro de risca de giz, calças pretas e sapatos de salto alto vermelhos e marcantes."
+    },
+    "zh": {
+      "content": "一段高细节、超现实的电影序列，展示了一位巨大的企业女性走在纽约市的街道上。她穿着白色领衬衫、深色条纹背心、黑色长裤和醒目的红色高跟鞋。"
+    }
   }
 }

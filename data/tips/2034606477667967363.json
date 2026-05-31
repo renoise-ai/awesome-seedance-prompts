@@ -1,42 +1,35 @@
 {
   "id": "2034606477667967363",
-  "type": "tip",
-  "url": "https://x.com/matchaman11/status/2034606477667967363",
+  "title": "Integrate Seedance 2.0 into an n8n workflow so video generation runs as a step…",
+  "content": "Integrate Seedance 2.0 into an n8n workflow so video generation runs as a step in an automated pipeline.",
   "language": "en",
-  "created_at": "2026-03-19",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034606213577719808/img/c4oZIr3tB1jQPaqy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2034606477667967363.mp4",
+  "sourceLink": "https://x.com/matchaman11/status/2034606477667967363",
+  "sourcePublishedAt": "2026-03-19",
   "author": {
     "name": "Anil Chandra Naidu Matcha",
-    "username": "matchaman11",
-    "url": "https://x.com/matchaman11",
-    "followers": 8830
+    "link": "https://x.com/matchaman11"
   },
-  "text": "Seedance 2.0 got hit by Hollywood 🎬⚖️\n\nso devs did the obvious thing\n\nput it inside n8n 🤖\n\nit’s just another step in a workflow now\n\nhard to “pause” something like that\n\nrepo below 👇 https://t.co/I1J4YVYr8u",
-  "content": "Integrate Seedance 2.0 into an n8n workflow so video generation runs as a step in an automated pipeline.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 46,
-    "retweets": 4,
-    "replies": 6,
-    "quotes": 0,
-    "bookmarks": 84,
-    "views": 4804
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2034606477667967363.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034606213577719808/img/c4oZIr3tB1jQPaqy.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "Link to repo\n\nhttps://t.co/c9hl968An0\n\nGive a star if you found it useful"
-    ]
-  },
+  "tips": "Integrate Seedance 2.0 into an n8n workflow so video generation runs as a step in an automated pipeline.",
   "translations": {
-    "es": "Integra Seedance 2.0 en un flujo de trabajo de n8n para que la generación de video se ejecute como un paso en una canalización automatizada.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Enlace al repositorio\n\nhttps://t.co/c9hl968An0\n\nDale una estrella si lo encontraste útil",
-    "fr": "Intégrez Seedance 2.0 dans un flux de travail n8n afin que la génération de vidéos s'exécute comme une étape dans un pipeline automatisé.\n\n--- SUITE DU FIL ---\n[Fil 1] Lien vers le dépôt\n\nhttps://t.co/c9hl968An0\n\nDonnez une étoile si vous l'avez trouvé utile",
-    "ja": "Seedance 2.0をn8nワークフローに統合し、ビデオ生成を自動化されたパイプラインのステップとして実行します。\n\n--- スレッドの続き ---\n[スレッド1] リポジトリへのリンク\n\nhttps://t.co/c9hl968An0\n\n役に立ったと思ったらスターを付けてください。",
-    "ko": "Seedance 2.0을 n8n 워크플로우에 통합하여 비디오 생성이 자동화된 파이프라인의 한 단계로 실행되도록 합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 저장소 링크\n\nhttps://t.co/c9hl968An0\n\n유용하다고 생각되면 별을 주세요",
-    "pt-BR": "Integre o Seedance 2.0 em um fluxo de trabalho n8n para que a geração de vídeo ocorra como uma etapa em um pipeline automatizado.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Link para o repositório\n\nhttps://t.co/c9hl968An0\n\nDê uma estrela se achou útil",
-    "zh-CN": "将 Seedance 2.0 集成到 n8n 工作流中，使视频生成作为自动化流程中的一个步骤运行。\n\n--- 线程继续 ---\n[线程 1] 仓库链接\n\nhttps://t.co/c9hl968An0\n\n如果你觉得有用，请给个星标。"
+    "es": {
+      "content": "Integra Seedance 2.0 en un flujo de trabajo de n8n para que la generación de video se ejecute como un paso en una canalización automatizada.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Enlace al repositorio\n\nhttps://t.co/c9hl968An0\n\nDale una estrella si lo encontraste útil"
+    },
+    "fr": {
+      "content": "Intégrez Seedance 2.0 dans un flux de travail n8n afin que la génération de vidéos s'exécute comme une étape dans un pipeline automatisé.\n\n--- SUITE DU FIL ---\n[Fil 1] Lien vers le dépôt\n\nhttps://t.co/c9hl968An0\n\nDonnez une étoile si vous l'avez trouvé utile"
+    },
+    "ja": {
+      "content": "Seedance 2.0をn8nワークフローに統合し、ビデオ生成を自動化されたパイプラインのステップとして実行します。\n\n--- スレッドの続き ---\n[スレッド1] リポジトリへのリンク\n\nhttps://t.co/c9hl968An0\n\n役に立ったと思ったらスターを付けてください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 n8n 워크플로우에 통합하여 비디오 생성이 자동화된 파이프라인의 한 단계로 실행되도록 합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 저장소 링크\n\nhttps://t.co/c9hl968An0\n\n유용하다고 생각되면 별을 주세요"
+    },
+    "pt": {
+      "content": "Integre o Seedance 2.0 em um fluxo de trabalho n8n para que a geração de vídeo ocorra como uma etapa em um pipeline automatizado.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Link para o repositório\n\nhttps://t.co/c9hl968An0\n\nDê uma estrela se achou útil"
+    },
+    "zh": {
+      "content": "将 Seedance 2.0 集成到 n8n 工作流中，使视频生成作为自动化流程中的一个步骤运行。\n\n--- 线程继续 ---\n[线程 1] 仓库链接\n\nhttps://t.co/c9hl968An0\n\n如果你觉得有用，请给个星标。"
+    }
   }
 }

@@ -1,37 +1,34 @@
 {
   "id": "2022967665741193580",
-  "type": "prompt",
-  "url": "https://x.com/nasan_0422/status/2022967665741193580",
+  "title": "ナミがサウザンド・サニー号でMacを使ってプログラミングしていると、突然バグが発生します。ナミはクリマ・タクトを使ってバグを模倣し、修正します。",
+  "content": "ナミがサウザンド・サニー号でMacを使ってプログラミングしていると、突然バグが発生します。ナミはクリマ・タクトを使ってバグを模倣し、修正します。",
   "language": "ja",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022642166237958145/img/dIZFIoB0INTW60dh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022967665741193580.mp4",
+  "sourceLink": "https://x.com/nasan_0422/status/2022967665741193580",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "なぁさん｜AIと働くひとり社長",
-    "username": "nasan_0422",
-    "url": "https://x.com/nasan_0422",
-    "followers": 5600
-  },
-  "text": "Seedance 2.0 \n\nprompt「ナミがサウザンド・サニー号でMacを使ってプログラミングしていると、突然バグが発生します。ナミはクリマ・タクトを使ってバグを模倣し、修正します。」\n👇\n https://t.co/kl35PrhJBE",
-  "content": "ナミがサウザンド・サニー号でMacを使ってプログラミングしていると、突然バグが発生します。ナミはクリマ・タクトを使ってバグを模倣し、修正します。",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 80,
-    "retweets": 12,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 23,
-    "views": 16303
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022967665741193580.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022642166237958145/img/dIZFIoB0INTW60dh.jpg"
+    "link": "https://x.com/nasan_0422"
   },
   "translations": {
-    "en": "While Nami is programming on her Mac aboard the Thousand Sunny, a bug suddenly occurs. Nami uses her Clima-Tact to mimic and fix the bug.",
-    "es": "Mientras Nami está usando su Mac para programar en el Thousand Sunny, de repente ocurre un bug. Nami utiliza su Clima-Tact para imitar el bug y lo corrige.",
-    "fr": "Alors que Nami utilise son Mac pour programmer à bord du Thousand Sunny, un bug survient soudainement. Nami utilise son Clima-Tact pour imiter le bug et le corriger.",
-    "ko": "나미가 사우전드 써니호에서 Mac을 사용해 프로그래밍을 하고 있을 때, 갑자기 버그가 발생합니다. 나미는 크리마 택트를 사용해 버그를 모방하고, 이를 수정합니다.",
-    "pt-BR": "Enquanto Nami está usando um Mac para programar no navio Thousand Sunny, de repente ocorre um bug. Nami usa o Clima-Tact para imitar e corrigir o bug.",
-    "zh-CN": "当娜美在千阳号上使用Mac进行编程时，突然出现了一个bug。娜美使用Clima-Tact模仿并修复了这个bug。"
+    "en": {
+      "content": "While Nami is programming on her Mac aboard the Thousand Sunny, a bug suddenly occurs. Nami uses her Clima-Tact to mimic and fix the bug."
+    },
+    "es": {
+      "content": "Mientras Nami está usando su Mac para programar en el Thousand Sunny, de repente ocurre un bug. Nami utiliza su Clima-Tact para imitar el bug y lo corrige."
+    },
+    "fr": {
+      "content": "Alors que Nami utilise son Mac pour programmer à bord du Thousand Sunny, un bug survient soudainement. Nami utilise son Clima-Tact pour imiter le bug et le corriger."
+    },
+    "ko": {
+      "content": "나미가 사우전드 써니호에서 Mac을 사용해 프로그래밍을 하고 있을 때, 갑자기 버그가 발생합니다. 나미는 크리마 택트를 사용해 버그를 모방하고, 이를 수정합니다."
+    },
+    "pt": {
+      "content": "Enquanto Nami está usando um Mac para programar no navio Thousand Sunny, de repente ocorre um bug. Nami usa o Clima-Tact para imitar e corrigir o bug."
+    },
+    "zh": {
+      "content": "当娜美在千阳号上使用Mac进行编程时，突然出现了一个bug。娜美使用Clima-Tact模仿并修复了这个bug。"
+    }
   }
 }

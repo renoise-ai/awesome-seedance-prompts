@@ -1,37 +1,34 @@
 {
   "id": "2025849650654122348",
-  "type": "prompt",
-  "url": "https://x.com/johnAGI168/status/2025849650654122348",
+  "title": "【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄…",
+  "content": "【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。",
   "language": "zh",
-  "created_at": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025849361498771456/img/x-evpB8-zhZxO4L3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025849650654122348.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2025849650654122348",
+  "sourcePublishedAt": "2026-02-23",
   "author": {
     "name": "John",
-    "username": "johnAGI168",
-    "url": "https://x.com/johnAGI168",
-    "followers": 2043
-  },
-  "text": "好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)\n\n炫酷特效大师Seedance 2.0\n\n文生视频 prompt 👇\n\n【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。 https://t.co/mVI4lxfB5R",
-  "content": "【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 125,
-    "retweets": 19,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 86,
-    "views": 6731
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025849650654122348.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025849361498771456/img/x-evpB8-zhZxO4L3.jpg"
+    "link": "https://x.com/johnAGI168"
   },
   "translations": {
-    "en": "---\n【Style】Hollywood Haute Couture Fantasy, 8K Ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 Fluid Rendering, Optical Illusion.\n---",
-    "es": "---\n【Estilo】Hollywood Haute Couture Fantasy, 8K ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, ilusión visual.\n---",
-    "fr": "【Style】Hollywood Haute Couture Fantasy, 8K ultra-high definition, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual illusion.",
-    "ja": "---\n【スタイル】Hollywood Haute Couture Fantasy、8K超高精細、Photorealistic、High-fashion Editorial Style、Unreal Engine 5 Fluid Rendering、視覚的錯覚。\n---",
-    "ko": "【스타일】Hollywood Haute Couture Fantasy, 8K 초고화질, Photorealistic, High-fashion Editorial Style, 언리얼 엔진 5 유체 렌더링, 시각적 착각.",
-    "pt-BR": "【Estilo】Hollywood Haute Couture Fantasy, 8K ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual illusion."
+    "en": {
+      "content": "---\n【Style】Hollywood Haute Couture Fantasy, 8K Ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 Fluid Rendering, Optical Illusion.\n---"
+    },
+    "es": {
+      "content": "---\n【Estilo】Hollywood Haute Couture Fantasy, 8K ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, ilusión visual.\n---"
+    },
+    "fr": {
+      "content": "【Style】Hollywood Haute Couture Fantasy, 8K ultra-high definition, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual illusion."
+    },
+    "ja": {
+      "content": "---\n【スタイル】Hollywood Haute Couture Fantasy、8K超高精細、Photorealistic、High-fashion Editorial Style、Unreal Engine 5 Fluid Rendering、視覚的錯覚。\n---"
+    },
+    "ko": {
+      "content": "【스타일】Hollywood Haute Couture Fantasy, 8K 초고화질, Photorealistic, High-fashion Editorial Style, 언리얼 엔진 5 유체 렌더링, 시각적 착각."
+    },
+    "pt": {
+      "content": "【Estilo】Hollywood Haute Couture Fantasy, 8K ultra HD, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual illusion."
+    }
   }
 }

@@ -1,37 +1,35 @@
 {
   "id": "2037870056583905668",
-  "type": "tip",
-  "url": "https://x.com/AvisMelodieux/status/2037870056583905668",
+  "title": "Reduce the intensity of extreme descriptors (e.g., replace…",
+  "content": "Reduce the intensity of extreme descriptors (e.g., replace mid-scream/chaotic/frantic with milder wording) to avoid Seedance 2 prompting you to adjust the description.\n\nEmphasize playful, animated, or abstract visual transitions in your prompt to improve Seedance 2’s acceptance/output.\n\nSoften the overall tone of the prompt (e.g., shift from punk/absurd to more lighthearted/creative) if Seedance 2 resists generating the requested video.",
   "language": "en",
-  "created_at": "2026-03-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037867490605486080/img/Z6brlAXLslu_lMhN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037870056583905668.mp4",
+  "sourceLink": "https://x.com/AvisMelodieux/status/2037870056583905668",
+  "sourcePublishedAt": "2026-03-28",
   "author": {
     "name": "AvisMelodieux",
-    "username": "AvisMelodieux",
-    "url": "https://x.com/AvisMelodieux",
-    "followers": 824
+    "link": "https://x.com/AvisMelodieux"
   },
-  "text": "New test with Seedance 2 compared to Sora 2.\n\nSame prompt.\nOn the left: Sora 2.\nOn the right: Seedance 2.\n\nSeedance 2 via CapCut tells me:\n\"To help me create this video for you, could you please adjust the description? You might consider:\nReducing the intensity of the descriptions like 'mid-scream,' 'chaotic,' or 'frantic.'\nFocusing on more playful, animated, or abstract visual transitions.\nSoftening the tone from 'punk/absurd' to something more lighthearted or creative.\"\n\nWhat a joke. Creativity isn’t supposed to be told ‘tone it down’ by an AI.",
-  "content": "Reduce the intensity of extreme descriptors (e.g., replace mid-scream/chaotic/frantic with milder wording) to avoid Seedance 2 prompting you to adjust the description.\n\nEmphasize playful, animated, or abstract visual transitions in your prompt to improve Seedance 2’s acceptance/output.\n\nSoften the overall tone of the prompt (e.g., shift from punk/absurd to more lighthearted/creative) if Seedance 2 resists generating the requested video.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 5,
-    "retweets": 1,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 3,
-    "views": 241
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037870056583905668.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037867490605486080/img/Z6brlAXLslu_lMhN.jpg"
-  },
+  "tips": "Reduce the intensity of extreme descriptors (e.g., replace mid-scream/chaotic/frantic with milder wording) to avoid Seedance 2 prompting you to adjust the description.\n\nEmphasize playful, animated, or abstract visual transitions in your prompt to improve Seedance 2’s acceptance/output.\n\nSoften the overall tone of the prompt (e.g., shift from punk/absurd to more lighthearted/creative) if Seedance 2 resists generating the requested video.",
   "translations": {
-    "es": "---\nReduce la intensidad de los descriptores extremos (por ejemplo, reemplazar medio grito/caótico/frénetico por palabras más suaves) para evitar que Seedance 2 te pida ajustar la descripción.\n\nEnfatiza transiciones visuales juguetonas, animadas o abstractas en tu prompt para mejorar la aceptación/salida de Seedance 2.\n\nSuaviza el tono general del prompt (por ejemplo, cambia de punk/absurdo a algo más ligero/creativo) si Seedance 2 se resiste a generar el video solicitado.\n---",
-    "fr": "---\nRéduisez l'intensité des descripteurs extrêmes (par exemple, remplacez mid-scream/chaotic/frantic par des termes plus modérés) pour éviter que Seedance 2 ne vous demande d'ajuster la description.\n\nMettez l'accent sur des transitions visuelles ludiques, animées ou abstraites dans votre prompt pour améliorer l'acceptation/la sortie de Seedance 2.\n\nAdoucissez le ton général du prompt (par exemple, passez de punk/absurde à plus léger/créatif) si Seedance 2 résiste à générer la vidéo demandée.\n---",
-    "ja": "---\n極端な表現の強度を減らし（例：mid-scream/chaotic/franticをより穏やかな言葉に置き換える）、Seedance 2が説明を調整するよう促さないようにします。\n\nSeedance 2の受け入れや出力を改善するために、プロンプトで遊び心のある、アニメーション的な、または抽象的なビジュアルの移行を強調します。\n\nSeedance 2が要求されたビデオの生成を拒む場合、プロンプトの全体的なトーンを和らげます（例：punk/absurdからより軽快で創造的なものにシフトします）。\n---",
-    "ko": "극단적인 묘사의 강도를 줄이세요 (예: mid-scream/chaotic/frantic을 더 부드러운 표현으로 대체) Seedance 2가 설명을 조정하라고 요청하지 않도록 하기 위해.\n\nSeedance 2의 수용성/출력을 개선하기 위해 프롬프트에서 장난스럽고, 애니메이션 같거나, 추상적인 시각적 전환을 강조하세요.\n\nSeedance 2가 요청한 비디오 생성을 거부할 경우, 프롬프트의 전반적인 톤을 부드럽게 하세요 (예: punk/absurd에서 더 가볍고 창의적인 방향으로 전환).",
-    "pt-BR": "Reduza a intensidade de descritores extremos (por exemplo, substitua mid-scream/chaotic/frantic por palavras mais suaves) para evitar que o Seedance 2 solicite ajustes na descrição.\n\nEnfatize transições visuais lúdicas, animadas ou abstratas no seu prompt para melhorar a aceitação/saída do Seedance 2.\n\nSuavize o tom geral do prompt (por exemplo, mude de punk/absurd para algo mais leve/criativo) se o Seedance 2 resistir a gerar o vídeo solicitado.",
-    "zh-CN": "减少极端描述词的强度（例如，将mid-scream/chaotic/frantic替换为较温和的措辞），以避免Seedance 2提示您调整描述。\n\n在您的prompt中强调有趣、动画或抽象的视觉过渡，以提高Seedance 2的接受度/输出。\n\n如果Seedance 2拒绝生成所请求的视频，请柔化prompt的整体语气（例如，从punk/absurd转向更轻松/富有创意的风格）。"
+    "es": {
+      "content": "---\nReduce la intensidad de los descriptores extremos (por ejemplo, reemplazar medio grito/caótico/frénetico por palabras más suaves) para evitar que Seedance 2 te pida ajustar la descripción.\n\nEnfatiza transiciones visuales juguetonas, animadas o abstractas en tu prompt para mejorar la aceptación/salida de Seedance 2.\n\nSuaviza el tono general del prompt (por ejemplo, cambia de punk/absurdo a algo más ligero/creativo) si Seedance 2 se resiste a generar el video solicitado.\n---"
+    },
+    "fr": {
+      "content": "---\nRéduisez l'intensité des descripteurs extrêmes (par exemple, remplacez mid-scream/chaotic/frantic par des termes plus modérés) pour éviter que Seedance 2 ne vous demande d'ajuster la description.\n\nMettez l'accent sur des transitions visuelles ludiques, animées ou abstraites dans votre prompt pour améliorer l'acceptation/la sortie de Seedance 2.\n\nAdoucissez le ton général du prompt (par exemple, passez de punk/absurde à plus léger/créatif) si Seedance 2 résiste à générer la vidéo demandée.\n---"
+    },
+    "ja": {
+      "content": "---\n極端な表現の強度を減らし（例：mid-scream/chaotic/franticをより穏やかな言葉に置き換える）、Seedance 2が説明を調整するよう促さないようにします。\n\nSeedance 2の受け入れや出力を改善するために、プロンプトで遊び心のある、アニメーション的な、または抽象的なビジュアルの移行を強調します。\n\nSeedance 2が要求されたビデオの生成を拒む場合、プロンプトの全体的なトーンを和らげます（例：punk/absurdからより軽快で創造的なものにシフトします）。\n---"
+    },
+    "ko": {
+      "content": "극단적인 묘사의 강도를 줄이세요 (예: mid-scream/chaotic/frantic을 더 부드러운 표현으로 대체) Seedance 2가 설명을 조정하라고 요청하지 않도록 하기 위해.\n\nSeedance 2의 수용성/출력을 개선하기 위해 프롬프트에서 장난스럽고, 애니메이션 같거나, 추상적인 시각적 전환을 강조하세요.\n\nSeedance 2가 요청한 비디오 생성을 거부할 경우, 프롬프트의 전반적인 톤을 부드럽게 하세요 (예: punk/absurd에서 더 가볍고 창의적인 방향으로 전환)."
+    },
+    "pt": {
+      "content": "Reduza a intensidade de descritores extremos (por exemplo, substitua mid-scream/chaotic/frantic por palavras mais suaves) para evitar que o Seedance 2 solicite ajustes na descrição.\n\nEnfatize transições visuais lúdicas, animadas ou abstratas no seu prompt para melhorar a aceitação/saída do Seedance 2.\n\nSuavize o tom geral do prompt (por exemplo, mude de punk/absurd para algo mais leve/criativo) se o Seedance 2 resistir a gerar o vídeo solicitado."
+    },
+    "zh": {
+      "content": "减少极端描述词的强度（例如，将mid-scream/chaotic/frantic替换为较温和的措辞），以避免Seedance 2提示您调整描述。\n\n在您的prompt中强调有趣、动画或抽象的视觉过渡，以提高Seedance 2的接受度/输出。\n\n如果Seedance 2拒绝生成所请求的视频，请柔化prompt的整体语气（例如，从punk/absurd转向更轻松/富有创意的风格）。"
+    }
   }
 }

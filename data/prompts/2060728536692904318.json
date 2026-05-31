@@ -1,37 +1,34 @@
 {
   "id": "2060728536692904318",
-  "type": "prompt",
-  "url": "https://x.com/craftian_keskin/status/2060728536692904318",
+  "title": "15-second cinematic Turkish wedding celebration, inspired by the attached…",
+  "content": "15-second cinematic Turkish wedding celebration, inspired by the attached reference image.",
   "language": "en",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060728375795208194/img/crN-MyDSipMuqAOg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060728536692904318.mp4",
+  "sourceLink": "https://x.com/craftian_keskin/status/2060728536692904318",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "Keskin",
-    "username": "craftian_keskin",
-    "url": "https://x.com/craftian_keskin",
-    "followers": 12624
-  },
-  "text": "Have you ever been to a Turkish Wedding? \n\nIt's somewhat close to this; \n\nSeedance 2.0 in Dreamina\n\n Prompt:\n15-second cinematic Turkish wedding celebration, inspired by the attached reference image.\n\nStyle:\nUltra-realistic wedding documentary, handheld wedding cinematography, vibrant Turkish village wedding atmosphere, high energy, joyful chaos, authentic celebration, warm evening lighting, festive string lights overhead.\n\nAudio:\nTraditional Turkish Halay music from the very first frame.\nFast tempo davul and zurna.\nCrowd clapping in rhythm.\nCheering, laughter, joyful shouts.\nNo romantic music.\nNo slow moments.\nConstant energy throughout.\n\n0:00 - 0:02\nHook shot.\nClose-up of synchronized feet performing fast Halay steps on the stone courtyard.\nDust kicks up from the ground.\nPowerful davul beats hit immediately.\n\n0:02 - 0:04\nFast cut.\nBride in sparkling white wedding dress with red ribbon belt dances energetically in the Halay line.\nGuests smile and shout encouragement.\nCamera circles around the group.\n\n0:04 - 0:06\nWide shot.\nLong Halay chain moving dynamically across the dance floor.\nMen and women holding hands, stepping in perfect rhythm.\nString lights glow overhead.\n\n0:06 - 0:08\nRapid close-ups.\nHands linked together.\nFeet stomping.\nBride laughing.\nGuests clapping loudly to the beat.\nQuick energetic cuts.\n\n0:08 - 0:10\nLow-angle tracking shot moving alongside the dancers.\nFast synchronized Halay footwork.\nWedding guests cheering from tables in the background.\n\n0:10 - 0:12\nCamera dives into the crowd.\nChildren dancing.\nOlder relatives clapping and singing.\nEveryone moving with the music.\n\n0:12 - 0:14\nFast rotating shot around the bride and groom as they lead the Halay.\nDress swirling.\nCrowd erupts with excitement.\nContinuous music and celebration.\n\n0:14 - 0:15\nFinal explosive wide shot.\nEntire wedding party dancing together.\nHands raised.\nMassive energy.\nMusic reaches peak intensity as the frame ends.\n\nVisual keywords:\nTurkish wedding,\nHalay dance,\ndavul zurna,\ncelebration,\nfestival atmosphere,\nauthentic wedding documentary,\nmultishot,\nclose-ups,\nwide shots,\nhandheld camera,\nenergetic crowd,\nwarm night lighting,\nstring lights,\njoyful chaos,\nconstant movement,\ncinematic realism.\n\nNegative prompts:\nslow motion,\nromantic scenes,\nkissing,\nemotional crying,\nempty dance floor,\nstill camera,\nsilence,\nsad mood,\nformal posing,\nstaged photography,\ntext,\ncaptions,\nwatermarks.",
-  "content": "15-second cinematic Turkish wedding celebration, inspired by the attached reference image.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 20,
-    "retweets": 2,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 8,
-    "views": 1411
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060728536692904318.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060728375795208194/img/crN-MyDSipMuqAOg.jpg"
+    "link": "https://x.com/craftian_keskin"
   },
   "translations": {
-    "es": "Celebración de boda turca cinematográfica de 15 segundos, inspirada en la imagen de referencia adjunta.",
-    "fr": "Célébration de mariage turc cinématographique de 15 secondes, inspirée par l'image de référence jointe.",
-    "ja": "添付の参考画像にインスパイアされた、15秒のシネマティックなトルコの結婚式の祝宴。",
-    "ko": "첨부된 참고 이미지에서 영감을 받은 15초 시네마틱 터키 결혼식 축하 장면.",
-    "pt-BR": "Celebração de casamento turco cinematográfica de 15 segundos, inspirada na imagem de referência anexada.",
-    "zh-CN": "15秒的土耳其婚礼庆祝电影场景，灵感来自附加的参考图片。"
+    "es": {
+      "content": "Celebración de boda turca cinematográfica de 15 segundos, inspirada en la imagen de referencia adjunta."
+    },
+    "fr": {
+      "content": "Célébration de mariage turc cinématographique de 15 secondes, inspirée par l'image de référence jointe."
+    },
+    "ja": {
+      "content": "添付の参考画像にインスパイアされた、15秒のシネマティックなトルコの結婚式の祝宴。"
+    },
+    "ko": {
+      "content": "첨부된 참고 이미지에서 영감을 받은 15초 시네마틱 터키 결혼식 축하 장면."
+    },
+    "pt": {
+      "content": "Celebração de casamento turco cinematográfica de 15 segundos, inspirada na imagem de referência anexada."
+    },
+    "zh": {
+      "content": "15秒的土耳其婚礼庆祝电影场景，灵感来自附加的参考图片。"
+    }
   }
 }

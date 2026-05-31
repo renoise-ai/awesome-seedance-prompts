@@ -1,34 +1,34 @@
 {
   "id": "2026800160228127065",
-  "type": "tip",
-  "url": "https://x.com/Mho_23/status/2026800160228127065",
+  "title": "Use Seedance 2’s dynamic prompts and referencing features to unlock its real…",
+  "content": "Use Seedance 2’s dynamic prompts and referencing features to unlock its real capabilities instead of relying on basic prompts  \nApproach prompting in Seedance differently than other video models; don’t treat it like a standard image-to-video generator  \nAvoid using Seedance primarily for basic image-to-video; use Veo or Kling for that use case and reserve Seedance for dynamic/referenced generations",
   "language": "en",
-  "created_at": "2026-02-25",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Mho_23/status/2026800160228127065",
+  "sourcePublishedAt": "2026-02-25",
   "author": {
     "name": "Miko",
-    "username": "Mho_23",
-    "url": "https://x.com/Mho_23",
-    "followers": 22158
+    "link": "https://x.com/Mho_23"
   },
-  "text": "most of the seedance 2 videos i'm seeing right now are just pure slop. or stuff we've been able to generate for the past 8 months with veo and sora\n\ni've probably generated close to 500 seedance videos now. tried every type of prompt. and i've realized the real capabilities of this model are in the dynamic prompts and referencing features\n\nyou have to approach seedance completely differently than any other model\n\nif you're using it for basic image to video you might as well just use veo or kling. that's not where seedance's strength is\n\ni don't think people realize what this model is actually capable of\n\nwhen i say you can generate anything, i truly mean it....",
-  "content": "Use Seedance 2’s dynamic prompts and referencing features to unlock its real capabilities instead of relying on basic prompts  \nApproach prompting in Seedance differently than other video models; don’t treat it like a standard image-to-video generator  \nAvoid using Seedance primarily for basic image-to-video; use Veo or Kling for that use case and reserve Seedance for dynamic/referenced generations",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 127,
-    "retweets": 4,
-    "replies": 27,
-    "quotes": 2,
-    "bookmarks": 82,
-    "views": 14619
-  },
-  "video": null,
+  "tips": "Use Seedance 2’s dynamic prompts and referencing features to unlock its real capabilities instead of relying on basic prompts  \nApproach prompting in Seedance differently than other video models; don’t treat it like a standard image-to-video generator  \nAvoid using Seedance primarily for basic image-to-video; use Veo or Kling for that use case and reserve Seedance for dynamic/referenced generations",
   "translations": {
-    "es": "Utiliza las dinámicas de prompts y las funciones de referencia de Seedance 2 para desbloquear sus verdaderas capacidades en lugar de depender de prompts básicos  \nAborda el uso de prompts en Seedance de manera diferente a otros modelos de video; no lo trates como un generador estándar de imagen a video  \nEvita usar Seedance principalmente para conversiones básicas de imagen a video; utiliza Veo o Kling para ese caso de uso y reserva Seedance para generaciones dinámicas/referenciadas",
-    "fr": "---\nUtilisez les prompts dynamiques et les fonctionnalités de référence de Seedance 2 pour débloquer ses véritables capacités au lieu de vous fier à des prompts basiques  \nAbordez le prompting dans Seedance différemment des autres modèles vidéo ; ne le traitez pas comme un générateur standard d'image à vidéo  \nÉvitez d'utiliser Seedance principalement pour des conversions basiques d'image à vidéo ; utilisez Veo ou Kling pour ce cas d'utilisation et réservez Seedance pour des générations dynamiques/référencées  \n---",
-    "ja": "---\nSeedance 2のダイナミックプロンプトと参照機能を活用して、その本来の能力を引き出しましょう。基本的なプロンプトに頼るのではなく、Seedanceを他のビデオモデルとは異なるアプローチで使用してください。標準的な画像からビデオへの生成器として扱わないでください。Seedanceを主に基本的な画像からビデオへの変換に使用するのは避け、VeoやKlingをその用途に使用し、Seedanceはダイナミック/参照生成に限定してください。",
-    "ko": "---\nSeedance 2의 동적 프롬프트와 참조 기능을 사용하여 기본 프롬프트에 의존하지 않고 실제 기능을 발휘하십시오  \nSeedance에서 프롬프트를 다른 비디오 모델과 다르게 접근하십시오; 이를 표준 이미지-비디오 생성기로 취급하지 마십시오  \nSeedance를 주로 기본 이미지-비디오 용도로 사용하지 마십시오; 그 용도에는 Veo나 Kling을 사용하고, Seedance는 동적/참조 생성에 예약하십시오  \n---",
-    "pt-BR": "Use os prompts dinâmicos e os recursos de referência do Seedance 2 para desbloquear suas verdadeiras capacidades em vez de depender de prompts básicos  \nAborde o uso de prompts no Seedance de maneira diferente de outros modelos de vídeo; não o trate como um gerador padrão de imagem para vídeo  \nEvite usar o Seedance principalmente para imagem para vídeo básica; use o Veo ou o Kling para esse caso de uso e reserve o Seedance para gerações dinâmicas/referenciadas",
-    "zh-CN": "---\n使用Seedance 2的动态prompt和引用功能来解锁其真正的能力，而不是依赖于基本prompt  \n在Seedance中使用prompt的方法与其他视频模型不同；不要将其视为标准的图像到视频生成器  \n避免主要将Seedance用于基本的图像到视频；对于这种用例，请使用Veo或Kling，并将Seedance保留用于动态/引用生成  \n---"
+    "es": {
+      "content": "Utiliza las dinámicas de prompts y las funciones de referencia de Seedance 2 para desbloquear sus verdaderas capacidades en lugar de depender de prompts básicos  \nAborda el uso de prompts en Seedance de manera diferente a otros modelos de video; no lo trates como un generador estándar de imagen a video  \nEvita usar Seedance principalmente para conversiones básicas de imagen a video; utiliza Veo o Kling para ese caso de uso y reserva Seedance para generaciones dinámicas/referenciadas"
+    },
+    "fr": {
+      "content": "---\nUtilisez les prompts dynamiques et les fonctionnalités de référence de Seedance 2 pour débloquer ses véritables capacités au lieu de vous fier à des prompts basiques  \nAbordez le prompting dans Seedance différemment des autres modèles vidéo ; ne le traitez pas comme un générateur standard d'image à vidéo  \nÉvitez d'utiliser Seedance principalement pour des conversions basiques d'image à vidéo ; utilisez Veo ou Kling pour ce cas d'utilisation et réservez Seedance pour des générations dynamiques/référencées  \n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2のダイナミックプロンプトと参照機能を活用して、その本来の能力を引き出しましょう。基本的なプロンプトに頼るのではなく、Seedanceを他のビデオモデルとは異なるアプローチで使用してください。標準的な画像からビデオへの生成器として扱わないでください。Seedanceを主に基本的な画像からビデオへの変換に使用するのは避け、VeoやKlingをその用途に使用し、Seedanceはダイナミック/参照生成に限定してください。"
+    },
+    "ko": {
+      "content": "---\nSeedance 2의 동적 프롬프트와 참조 기능을 사용하여 기본 프롬프트에 의존하지 않고 실제 기능을 발휘하십시오  \nSeedance에서 프롬프트를 다른 비디오 모델과 다르게 접근하십시오; 이를 표준 이미지-비디오 생성기로 취급하지 마십시오  \nSeedance를 주로 기본 이미지-비디오 용도로 사용하지 마십시오; 그 용도에는 Veo나 Kling을 사용하고, Seedance는 동적/참조 생성에 예약하십시오  \n---"
+    },
+    "pt": {
+      "content": "Use os prompts dinâmicos e os recursos de referência do Seedance 2 para desbloquear suas verdadeiras capacidades em vez de depender de prompts básicos  \nAborde o uso de prompts no Seedance de maneira diferente de outros modelos de vídeo; não o trate como um gerador padrão de imagem para vídeo  \nEvite usar o Seedance principalmente para imagem para vídeo básica; use o Veo ou o Kling para esse caso de uso e reserve o Seedance para gerações dinâmicas/referenciadas"
+    },
+    "zh": {
+      "content": "---\n使用Seedance 2的动态prompt和引用功能来解锁其真正的能力，而不是依赖于基本prompt  \n在Seedance中使用prompt的方法与其他视频模型不同；不要将其视为标准的图像到视频生成器  \n避免主要将Seedance用于基本的图像到视频；对于这种用例，请使用Veo或Kling，并将Seedance保留用于动态/引用生成  \n---"
+    }
   }
 }

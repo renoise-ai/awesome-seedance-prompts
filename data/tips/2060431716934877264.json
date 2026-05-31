@@ -1,37 +1,35 @@
 {
   "id": "2060431716934877264",
-  "type": "tip",
-  "url": "https://x.com/maxescu/status/2060431716934877264",
+  "title": "Start with a Seedance 2.0 video, then use Omni to reimagine the same footage by…",
+  "content": "Start with a Seedance 2.0 video, then use Omni to reimagine the same footage by prompting different transformations (e.g., The Backrooms style or “show Polaroids on a table as the footage progresses”).",
   "language": "en",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060430999583145984/img/51jEkujoJKWCrM9a.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060431716934877264.mp4",
+  "sourceLink": "https://x.com/maxescu/status/2060431716934877264",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "Alex Patrascu",
-    "username": "maxescu",
-    "url": "https://x.com/maxescu",
-    "followers": 36614
+    "link": "https://x.com/maxescu"
   },
-  "text": "The ways you can manipulate footage with Omni are incredible.\n\nI started with a Seedance 2.0 video and prompted different ways the footage could be reimagined, from The Backrooms to simply showing Polaroids on a table as the footage progresses.\n\nWild stuff from Google: https://t.co/xLDp0nSWA9",
-  "content": "Start with a Seedance 2.0 video, then use Omni to reimagine the same footage by prompting different transformations (e.g., The Backrooms style or “show Polaroids on a table as the footage progresses”).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 276,
-    "retweets": 23,
-    "replies": 19,
-    "quotes": 1,
-    "bookmarks": 206,
-    "views": 21046
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060431716934877264.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060430999583145984/img/51jEkujoJKWCrM9a.jpg"
-  },
+  "tips": "Start with a Seedance 2.0 video, then use Omni to reimagine the same footage by prompting different transformations (e.g., The Backrooms style or “show Polaroids on a table as the footage progresses”).",
   "translations": {
-    "es": "Comienza con un video de Seedance 2.0, luego utiliza Omni para reinventar el mismo metraje solicitando diferentes transformaciones (por ejemplo, estilo The Backrooms o “mostrar Polaroids en una mesa a medida que avanza el metraje”).",
-    "fr": "Commencez avec une vidéo Seedance 2.0, puis utilisez Omni pour réimaginer les mêmes séquences en proposant différentes transformations (par exemple, style The Backrooms ou « montrer des Polaroids sur une table au fur et à mesure que la séquence progresse »).",
-    "ja": "---\nSeedance 2.0のビデオから始めて、Omniを使用して異なる変換を促すことで同じ映像を再構築します（例：The Backroomsスタイルや「映像が進むにつれてテーブルにポラロイド写真を見せる」）。",
-    "ko": "Seedance 2.0 비디오로 시작한 후, Omni를 사용하여 동일한 영상을 다양한 변환을 통해 재구성하세요 (예: The Backrooms 스타일 또는 \"영상이 진행됨에 따라 테이블 위에 폴라로이드 사진을 보여주기\").",
-    "pt-BR": "Comece com um vídeo Seedance 2.0, depois use o Omni para reimaginar a mesma filmagem, solicitando diferentes transformações (por exemplo, The Backrooms style ou “show Polaroids on a table as the footage progresses”).",
-    "zh-CN": "从Seedance 2.0视频开始，然后使用Omni通过提示不同的转换来重新构想相同的镜头（例如，The Backrooms风格或“随着镜头的推进，在桌子上展示拍立得照片”）。"
+    "es": {
+      "content": "Comienza con un video de Seedance 2.0, luego utiliza Omni para reinventar el mismo metraje solicitando diferentes transformaciones (por ejemplo, estilo The Backrooms o “mostrar Polaroids en una mesa a medida que avanza el metraje”)."
+    },
+    "fr": {
+      "content": "Commencez avec une vidéo Seedance 2.0, puis utilisez Omni pour réimaginer les mêmes séquences en proposant différentes transformations (par exemple, style The Backrooms ou « montrer des Polaroids sur une table au fur et à mesure que la séquence progresse »)."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0のビデオから始めて、Omniを使用して異なる変換を促すことで同じ映像を再構築します（例：The Backroomsスタイルや「映像が進むにつれてテーブルにポラロイド写真を見せる」）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0 비디오로 시작한 후, Omni를 사용하여 동일한 영상을 다양한 변환을 통해 재구성하세요 (예: The Backrooms 스타일 또는 \"영상이 진행됨에 따라 테이블 위에 폴라로이드 사진을 보여주기\")."
+    },
+    "pt": {
+      "content": "Comece com um vídeo Seedance 2.0, depois use o Omni para reimaginar a mesma filmagem, solicitando diferentes transformações (por exemplo, The Backrooms style ou “show Polaroids on a table as the footage progresses”)."
+    },
+    "zh": {
+      "content": "从Seedance 2.0视频开始，然后使用Omni通过提示不同的转换来重新构想相同的镜头（例如，The Backrooms风格或“随着镜头的推进，在桌子上展示拍立得照片”）。"
+    }
   }
 }

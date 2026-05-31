@@ -1,37 +1,35 @@
 {
   "id": "2060700980237525078",
-  "type": "tip",
-  "url": "https://x.com/ElCopyMaster/status/2060700980237525078",
+  "title": "Usa hasta 12 referencias (texto, imágenes, videos y/o audio) en una sola…",
+  "content": "Usa hasta 12 referencias (texto, imágenes, videos y/o audio) en una sola generación en Dreamina Seedance 2.0 para guiar el resultado.",
   "language": "es",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060700921689235456/img/7n-9LzeIgv57SdeN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060700980237525078.mp4",
+  "sourceLink": "https://x.com/ElCopyMaster/status/2060700980237525078",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "Rafa Gonzalez | IA",
-    "username": "ElCopyMaster",
-    "url": "https://x.com/ElCopyMaster",
-    "followers": 102906
+    "link": "https://x.com/ElCopyMaster"
   },
-  "text": "¿El verdadero avance?\n\nNo es solo texto a video.\n\nDreamina Seedance 2.0 admite:\n\n• texto\n• imágenes\n• videos\n• audio\n\nHasta 12 referencias en UNA sola generación. https://t.co/Y2wHigELUZ",
-  "content": "Usa hasta 12 referencias (texto, imágenes, videos y/o audio) en una sola generación en Dreamina Seedance 2.0 para guiar el resultado.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 6,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 3,
-    "views": 967
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060700980237525078.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060700921689235456/img/7n-9LzeIgv57SdeN.jpg"
-  },
+  "tips": "Usa hasta 12 referencias (texto, imágenes, videos y/o audio) en una sola generación en Dreamina Seedance 2.0 para guiar el resultado.",
   "translations": {
-    "en": "Use up to 12 references (text, images, videos, and/or audio) in a single generation in Dreamina Seedance 2.0 to guide the outcome.",
-    "fr": "Utilisez jusqu'à 12 références (texte, images, vidéos et/ou audio) dans une seule génération dans Dreamina Seedance 2.0 pour orienter le résultat.",
-    "ja": "Dreamina Seedance 2.0では、1回の生成で最大12の参照（テキスト、画像、ビデオ、および/またはオーディオ）を使用して結果を導くことができます。",
-    "ko": "Dreamina Seedance 2.0에서 한 번의 생성에 최대 12개의 참조(텍스트, 이미지, 비디오 및/또는 오디오)를 사용하여 결과를 안내하세요.",
-    "pt-BR": "Use até 12 referências (texto, imagens, vídeos e/ou áudio) em uma única geração no Dreamina Seedance 2.0 para guiar o resultado.",
-    "zh-CN": "在 Dreamina Seedance 2.0 中，使用多达 12 个参考（文本、图像、视频和/或音频）来指导生成结果。"
+    "en": {
+      "content": "Use up to 12 references (text, images, videos, and/or audio) in a single generation in Dreamina Seedance 2.0 to guide the outcome."
+    },
+    "fr": {
+      "content": "Utilisez jusqu'à 12 références (texte, images, vidéos et/ou audio) dans une seule génération dans Dreamina Seedance 2.0 pour orienter le résultat."
+    },
+    "ja": {
+      "content": "Dreamina Seedance 2.0では、1回の生成で最大12の参照（テキスト、画像、ビデオ、および/またはオーディオ）を使用して結果を導くことができます。"
+    },
+    "ko": {
+      "content": "Dreamina Seedance 2.0에서 한 번의 생성에 최대 12개의 참조(텍스트, 이미지, 비디오 및/또는 오디오)를 사용하여 결과를 안내하세요."
+    },
+    "pt": {
+      "content": "Use até 12 referências (texto, imagens, vídeos e/ou áudio) em uma única geração no Dreamina Seedance 2.0 para guiar o resultado."
+    },
+    "zh": {
+      "content": "在 Dreamina Seedance 2.0 中，使用多达 12 个参考（文本、图像、视频和/或音频）来指导生成结果。"
+    }
   }
 }

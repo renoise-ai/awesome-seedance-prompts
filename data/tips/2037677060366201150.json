@@ -1,42 +1,35 @@
 {
   "id": "2037677060366201150",
-  "type": "tip",
-  "url": "https://x.com/francolli/status/2037677060366201150",
+  "title": "Structure your Seedance 2 prompt in three labeled sections: Concept: Camera…",
+  "content": "Structure your Seedance 2 prompt in three labeled sections: Concept: Camera: and Style:",
   "language": "en",
-  "created_at": "2026-03-27",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037675707988692992/img/-S4BzJpaRjxXR6v3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037677060366201150.mp4",
+  "sourceLink": "https://x.com/francolli/status/2037677060366201150",
+  "sourcePublishedAt": "2026-03-27",
   "author": {
     "name": "Francolli",
-    "username": "francolli",
-    "url": "https://x.com/francolli",
-    "followers": 2306
+    "link": "https://x.com/francolli"
   },
-  "text": "So I had an idea for a complicated Mobius strip prompt I had planned for a different model, but Seedance 2 just handled it so well on the first attempt. Thanks to Dreamina for giving me a spot on the Beta test team, its been a blast\n\n@dreamina #dreamina #seedance2 #dreaminaCPP https://t.co/I57geXTHOS",
-  "content": "Structure your Seedance 2 prompt in three labeled sections: Concept: Camera: and Style:",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 21,
-    "retweets": 4,
-    "replies": 5,
-    "quotes": 0,
-    "bookmarks": 2,
-    "views": 594
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2037677060366201150.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2037675707988692992/img/-S4BzJpaRjxXR6v3.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "Three part prompt split into Concept: Camera: and Style: https://t.co/8eRynA8LOG"
-    ]
-  },
+  "tips": "Structure your Seedance 2 prompt in three labeled sections: Concept: Camera: and Style:",
   "translations": {
-    "es": "Estructura tu prompt de Seedance 2 en tres secciones etiquetadas: Concept: Camera: y Style:\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Prompt de tres partes dividido en Concept: Camera: y Style: https://t.co/8eRynA8LOG\n---",
-    "fr": "---\nStructurez votre prompt Seedance 2 en trois sections intitulées : Concept : Camera : et Style :\n\n--- SUITE DU FIL ---\n[Fil 1] Prompt en trois parties divisé en Concept : Camera : et Style : https://t.co/8eRynA8LOG\n---",
-    "ja": "---\nSeedance 2のプロンプトを3つのラベル付きセクションで構成してください：Concept: Camera: Style:\n\n--- スレッドの続き ---\n[スレッド1] 3つの部分に分かれたプロンプト：Concept: Camera: Style: https://t.co/8eRynA8LOG\n---",
-    "ko": "---\nSeedance 2 프롬프트를 세 개의 레이블 섹션으로 구성하세요: Concept: Camera: 그리고 Style:\n\n--- THREAD CONTINUATION ---\n[Thread 1] 세 부분으로 나뉜 프롬프트: Concept: Camera: 그리고 Style: https://t.co/8eRynA8LOG\n---",
-    "pt-BR": "Estruture seu prompt Seedance 2 em três seções rotuladas: Concept: Camera: e Style:\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Prompt dividido em três partes: Concept: Camera: e Style: https://t.co/8eRynA8LOG",
-    "zh-CN": "将您的Seedance 2提示结构分为三个标记部分：Concept: Camera: 和 Style:\n\n--- 线程延续 ---\n[线程1] 三部分提示分为Concept: Camera: 和 Style: https://t.co/8eRynA8LOG\n---"
+    "es": {
+      "content": "Estructura tu prompt de Seedance 2 en tres secciones etiquetadas: Concept: Camera: y Style:\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Prompt de tres partes dividido en Concept: Camera: y Style: https://t.co/8eRynA8LOG\n---"
+    },
+    "fr": {
+      "content": "---\nStructurez votre prompt Seedance 2 en trois sections intitulées : Concept : Camera : et Style :\n\n--- SUITE DU FIL ---\n[Fil 1] Prompt en trois parties divisé en Concept : Camera : et Style : https://t.co/8eRynA8LOG\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2のプロンプトを3つのラベル付きセクションで構成してください：Concept: Camera: Style:\n\n--- スレッドの続き ---\n[スレッド1] 3つの部分に分かれたプロンプト：Concept: Camera: Style: https://t.co/8eRynA8LOG\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2 프롬프트를 세 개의 레이블 섹션으로 구성하세요: Concept: Camera: 그리고 Style:\n\n--- THREAD CONTINUATION ---\n[Thread 1] 세 부분으로 나뉜 프롬프트: Concept: Camera: 그리고 Style: https://t.co/8eRynA8LOG\n---"
+    },
+    "pt": {
+      "content": "Estruture seu prompt Seedance 2 em três seções rotuladas: Concept: Camera: e Style:\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Prompt dividido em três partes: Concept: Camera: e Style: https://t.co/8eRynA8LOG"
+    },
+    "zh": {
+      "content": "将您的Seedance 2提示结构分为三个标记部分：Concept: Camera: 和 Style:\n\n--- 线程延续 ---\n[线程1] 三部分提示分为Concept: Camera: 和 Style: https://t.co/8eRynA8LOG\n---"
+    }
   }
 }

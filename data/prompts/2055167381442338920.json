@@ -1,42 +1,34 @@
 {
   "id": "2055167381442338920",
-  "type": "prompt",
-  "url": "https://x.com/HeyRu0by/status/2055167381442338920",
+  "title": "Design a comprehensive research prompt that focuses on a future technology…",
+  "content": "Design a comprehensive research prompt that focuses on a future technology topic, which examines the intersection of artificial intelligence, big data, and their impacts on human life. Explore various dimensions of how these technologies will evolve, their potential benefits, ethical considerations, and their influence on society. Provide a detailed overview with subtopics and key research questions.",
   "language": "en",
-  "created_at": "2026-05-15",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2055167338933071872/pu/img/4Nq9OW7pVQU0P5i6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055167381442338920.mp4",
+  "sourceLink": "https://x.com/HeyRu0by/status/2055167381442338920",
+  "sourcePublishedAt": "2026-05-15",
   "author": {
     "name": "Ruby Ai",
-    "username": "HeyRu0by",
-    "url": "https://x.com/HeyRu0by",
-    "followers": 8653
-  },
-  "text": "Made with seedance 2.0 on @yapper_so\n\nPrompt:\nDesign a comprehensive research prompt that focuses on a future technology topic, which examines the intersection of artificial intelligence, big data, and their impacts on human life. Explore various dimensions of how these technologies will evolve, their potential benefits, ethical considerations, and their influence on society. Provide a detailed overview with subtopics and key research questions.",
-  "content": "Design a comprehensive research prompt that focuses on a future technology topic, which examines the intersection of artificial intelligence, big data, and their impacts on human life. Explore various dimensions of how these technologies will evolve, their potential benefits, ethical considerations, and their influence on society. Provide a detailed overview with subtopics and key research questions.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 272,
-    "retweets": 17,
-    "replies": 37,
-    "quotes": 0,
-    "bookmarks": 6,
-    "views": 1933
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055167381442338920.mp4",
-    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2055167338933071872/pu/img/4Nq9OW7pVQU0P5i6.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "@yapper_so https://t.co/Af9xABJTVF"
-    ]
+    "link": "https://x.com/HeyRu0by"
   },
   "translations": {
-    "es": "Diseña un prompt de investigación integral que se centre en un tema de tecnología futura, examinando la intersección de la inteligencia artificial, el big data y sus impactos en la vida humana. Explora diversas dimensiones de cómo evolucionarán estas tecnologías, sus beneficios potenciales, consideraciones éticas y su influencia en la sociedad. Proporciona una visión detallada con subtemas y preguntas clave de investigación.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @yapper_so https://t.co/Af9xABJTVF",
-    "fr": "---\nConcevez un prompt de recherche complet axé sur un sujet technologique futur, qui examine l'intersection de l'intelligence artificielle, des big data et leurs impacts sur la vie humaine. Explorez les différentes dimensions de l'évolution de ces technologies, leurs avantages potentiels, les considérations éthiques et leur influence sur la société. Fournissez un aperçu détaillé avec des sous-thèmes et des questions de recherche clés.\n\n--- SUITE DU FIL ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF\n---",
-    "ja": "---\n人工知能、ビッグデータ、そしてそれらが人間の生活に与える影響の交差点を調査する未来技術のトピックに焦点を当てた包括的な研究プロンプトを設計してください。これらの技術がどのように進化するか、潜在的な利点、倫理的考慮事項、そして社会への影響を様々な側面から探求してください。サブトピックと主要な研究質問を含む詳細な概要を提供してください。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF\n---",
-    "ko": "---\n인공지능, 빅데이터, 그리고 이들이 인간 삶에 미치는 영향을 교차적으로 탐구하는 미래 기술 주제를 중심으로 한 포괄적인 연구 프롬프트를 설계하세요. 이러한 기술들이 어떻게 발전할지, 잠재적인 이점, 윤리적 고려 사항, 그리고 사회에 미치는 영향을 다양한 차원에서 탐구하세요. 하위 주제와 주요 연구 질문을 포함한 상세한 개요를 제공하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF\n---",
-    "pt-BR": "Desenvolva um prompt de pesquisa abrangente que foque em um tópico de tecnologia futura, examinando a interseção entre inteligência artificial, big data e seus impactos na vida humana. Explore várias dimensões de como essas tecnologias irão evoluir, seus potenciais benefícios, considerações éticas e sua influência na sociedade. Forneça uma visão detalhada com subtópicos e principais questões de pesquisa.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF",
-    "zh-CN": "---\n设计一个全面的研究提示，聚焦于未来技术主题，研究人工智能、大数据及其对人类生活的影响的交叉点。探索这些技术将如何演变的各个方面、它们的潜在好处、伦理考虑以及它们对社会的影响。提供一个详细的概述，包括子主题和关键研究问题。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF\n---"
+    "es": {
+      "content": "Diseña un prompt de investigación integral que se centre en un tema de tecnología futura, examinando la intersección de la inteligencia artificial, el big data y sus impactos en la vida humana. Explora diversas dimensiones de cómo evolucionarán estas tecnologías, sus beneficios potenciales, consideraciones éticas y su influencia en la sociedad. Proporciona una visión detallada con subtemas y preguntas clave de investigación.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @yapper_so https://t.co/Af9xABJTVF"
+    },
+    "fr": {
+      "content": "---\nConcevez un prompt de recherche complet axé sur un sujet technologique futur, qui examine l'intersection de l'intelligence artificielle, des big data et leurs impacts sur la vie humaine. Explorez les différentes dimensions de l'évolution de ces technologies, leurs avantages potentiels, les considérations éthiques et leur influence sur la société. Fournissez un aperçu détaillé avec des sous-thèmes et des questions de recherche clés.\n\n--- SUITE DU FIL ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF\n---"
+    },
+    "ja": {
+      "content": "---\n人工知能、ビッグデータ、そしてそれらが人間の生活に与える影響の交差点を調査する未来技術のトピックに焦点を当てた包括的な研究プロンプトを設計してください。これらの技術がどのように進化するか、潜在的な利点、倫理的考慮事項、そして社会への影響を様々な側面から探求してください。サブトピックと主要な研究質問を含む詳細な概要を提供してください。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF\n---"
+    },
+    "ko": {
+      "content": "---\n인공지능, 빅데이터, 그리고 이들이 인간 삶에 미치는 영향을 교차적으로 탐구하는 미래 기술 주제를 중심으로 한 포괄적인 연구 프롬프트를 설계하세요. 이러한 기술들이 어떻게 발전할지, 잠재적인 이점, 윤리적 고려 사항, 그리고 사회에 미치는 영향을 다양한 차원에서 탐구하세요. 하위 주제와 주요 연구 질문을 포함한 상세한 개요를 제공하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF\n---"
+    },
+    "pt": {
+      "content": "Desenvolva um prompt de pesquisa abrangente que foque em um tópico de tecnologia futura, examinando a interseção entre inteligência artificial, big data e seus impactos na vida humana. Explore várias dimensões de como essas tecnologias irão evoluir, seus potenciais benefícios, considerações éticas e sua influência na sociedade. Forneça uma visão detalhada com subtópicos e principais questões de pesquisa.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF"
+    },
+    "zh": {
+      "content": "---\n设计一个全面的研究提示，聚焦于未来技术主题，研究人工智能、大数据及其对人类生活的影响的交叉点。探索这些技术将如何演变的各个方面、它们的潜在好处、伦理考虑以及它们对社会的影响。提供一个详细的概述，包括子主题和关键研究问题。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so https://t.co/Af9xABJTVF\n---"
+    }
   }
 }

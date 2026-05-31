@@ -1,42 +1,34 @@
 {
   "id": "2058391981269647831",
-  "type": "prompt",
-  "url": "https://x.com/imtheboboo/status/2058391981269647831",
+  "title": "2D digital painting. Large simplified color blocks, hard-edge brushwork, rough…",
+  "content": "2D digital painting. Large simplified color blocks, hard-edge brushwork, rough painterly textures, hand-drawn feel, low-detail structure, heavy shadows, high contrast shading. No realistic 3D feel, no polished realism, no CGI",
   "language": "en",
-  "created_at": "2026-05-24",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058387743047356416/img/8m8uI873YCaRHObl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058391981269647831.mp4",
+  "sourceLink": "https://x.com/imtheboboo/status/2058391981269647831",
+  "sourcePublishedAt": "2026-05-24",
   "author": {
     "name": "I’m Bobo | Commission OPEN",
-    "username": "imtheboboo",
-    "url": "https://x.com/imtheboboo",
-    "followers": 4118
-  },
-  "text": "JUST DO IT.  \n\nThis video is inspired by NIKE's iconic and powerful slogan - JUST DO IT.\"  \n\nMade with NIJI V7 on @nijijourney x GPT-image 2 and Seedance 2.0 on @OiiOii_Official  @oiioii_ai_japan .\n\nThis is the key prompt that i use if you want the same art style like this: \n2D digital painting. Large simplified color blocks, hard-edge brushwork, rough painterly textures, hand-drawn feel, low-detail structure, heavy shadows, high contrast shading. No realistic 3D feel, no polished realism, no CGI  \n\nAnother tools that i use: \n@claudeai - Brainstorming\n@ElevenLabs - Voice over \n@capcutap - Editing\n\n#OiiOii #AiAnimation",
-  "content": "2D digital painting. Large simplified color blocks, hard-edge brushwork, rough painterly textures, hand-drawn feel, low-detail structure, heavy shadows, high contrast shading. No realistic 3D feel, no polished realism, no CGI",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 43,
-    "retweets": 9,
-    "replies": 16,
-    "quotes": 2,
-    "bookmarks": 18,
-    "views": 3898
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058391981269647831.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058387743047356416/img/8m8uI873YCaRHObl.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "The character made on Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0"
-    ]
+    "link": "https://x.com/imtheboboo"
   },
   "translations": {
-    "es": "---\nPintura digital en 2D. Grandes bloques de color simplificados, pinceladas de bordes duros, texturas pictóricas toscas, sensación de dibujo a mano, estructura de bajo detalle, sombras intensas, sombreado de alto contraste. Sin sensación realista en 3D, sin realismo pulido, sin CGI\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El personaje creado en Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0\n---",
-    "fr": "---\nPeinture numérique 2D. Grands blocs de couleur simplifiés, coups de pinceau aux contours nets, textures picturales rugueuses, aspect dessiné à la main, structure peu détaillée, ombres marquées, ombrage à fort contraste. Pas de sensation 3D réaliste, pas de réalisme poli, pas de CGI\n\n--- SUITE DU FIL ---\n[Fil 1] Le personnage créé sur Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0\n---",
-    "ja": "---\n2Dデジタルペインティング。大きな単純化されたカラーブロック、ハードエッジのブラシワーク、粗い絵画的なテクスチャ、手描きの感触、低詳細な構造、重い影、高コントラストのシェーディング。リアルな3D感なし、洗練されたリアリズムなし、CGIなし\n\n--- THREAD CONTINUATION ---\n[Thread 1] The character made on Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0\n---",
-    "ko": "2D 디지털 페인팅. 큰 단순화된 색상 블록, 하드 엣지 브러시워크, 거친 회화적 질감, 손으로 그린 느낌, 낮은 디테일 구조, 강한 그림자, 높은 대비 음영. 현실적인 3D 느낌 없음, 세련된 사실감 없음, CGI 없음\n\n--- THREAD CONTINUATION ---\n[Thread 1] Niji V7 x GPT-Image 2로 만든 캐릭터 https://t.co/2b1NAUYrF0\n---",
-    "pt-BR": "---\nPintura digital 2D. Grandes blocos de cores simplificadas, pinceladas de bordas duras, texturas pictóricas ásperas, sensação de desenho à mão, estrutura de baixo detalhe, sombras pesadas, sombreamento de alto contraste. Sem sensação realista 3D, sem realismo polido, sem CGI\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] O personagem criado no Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0\n---",
-    "zh-CN": "2D 数字绘画。大面积简化的色块，硬边笔触，粗糙的绘画质感，手绘感，低细节结构，浓重的阴影，高对比度的阴影。没有真实的3D感，没有抛光的现实主义，没有CGI\n\n--- 线程继续 ---\n[线程 1] 在 Niji V7 x GPT-Image 2 上创建的角色 https://t.co/2b1NAUYrF0"
+    "es": {
+      "content": "---\nPintura digital en 2D. Grandes bloques de color simplificados, pinceladas de bordes duros, texturas pictóricas toscas, sensación de dibujo a mano, estructura de bajo detalle, sombras intensas, sombreado de alto contraste. Sin sensación realista en 3D, sin realismo pulido, sin CGI\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El personaje creado en Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0\n---"
+    },
+    "fr": {
+      "content": "---\nPeinture numérique 2D. Grands blocs de couleur simplifiés, coups de pinceau aux contours nets, textures picturales rugueuses, aspect dessiné à la main, structure peu détaillée, ombres marquées, ombrage à fort contraste. Pas de sensation 3D réaliste, pas de réalisme poli, pas de CGI\n\n--- SUITE DU FIL ---\n[Fil 1] Le personnage créé sur Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0\n---"
+    },
+    "ja": {
+      "content": "---\n2Dデジタルペインティング。大きな単純化されたカラーブロック、ハードエッジのブラシワーク、粗い絵画的なテクスチャ、手描きの感触、低詳細な構造、重い影、高コントラストのシェーディング。リアルな3D感なし、洗練されたリアリズムなし、CGIなし\n\n--- THREAD CONTINUATION ---\n[Thread 1] The character made on Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0\n---"
+    },
+    "ko": {
+      "content": "2D 디지털 페인팅. 큰 단순화된 색상 블록, 하드 엣지 브러시워크, 거친 회화적 질감, 손으로 그린 느낌, 낮은 디테일 구조, 강한 그림자, 높은 대비 음영. 현실적인 3D 느낌 없음, 세련된 사실감 없음, CGI 없음\n\n--- THREAD CONTINUATION ---\n[Thread 1] Niji V7 x GPT-Image 2로 만든 캐릭터 https://t.co/2b1NAUYrF0\n---"
+    },
+    "pt": {
+      "content": "---\nPintura digital 2D. Grandes blocos de cores simplificadas, pinceladas de bordas duras, texturas pictóricas ásperas, sensação de desenho à mão, estrutura de baixo detalhe, sombras pesadas, sombreamento de alto contraste. Sem sensação realista 3D, sem realismo polido, sem CGI\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] O personagem criado no Niji V7 x GPT-Image 2 https://t.co/2b1NAUYrF0\n---"
+    },
+    "zh": {
+      "content": "2D 数字绘画。大面积简化的色块，硬边笔触，粗糙的绘画质感，手绘感，低细节结构，浓重的阴影，高对比度的阴影。没有真实的3D感，没有抛光的现实主义，没有CGI\n\n--- 线程继续 ---\n[线程 1] 在 Niji V7 x GPT-Image 2 上创建的角色 https://t.co/2b1NAUYrF0"
+    }
   }
 }

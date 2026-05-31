@@ -1,37 +1,34 @@
 {
   "id": "2055917975908253701",
-  "type": "prompt",
-  "url": "https://x.com/israfill/status/2055917975908253701",
+  "title": "animate this smooth transition from frame one to frame two, natural and…",
+  "content": "animate this smooth transition from frame one to frame two, natural and aesthetic scene",
   "language": "en",
-  "created_at": "2026-05-17",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055916574239039488/img/7At0z1ENUnoGfNoi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055917975908253701.mp4",
+  "sourceLink": "https://x.com/israfill/status/2055917975908253701",
+  "sourcePublishedAt": "2026-05-17",
   "author": {
     "name": "Isra",
-    "username": "israfill",
-    "url": "https://x.com/israfill",
-    "followers": 6839
-  },
-  "text": "How to build an award-winning scroll-animation website with zero code (FULL WALKTHROUGH)\n\nMost people think the websites that win design awards need a Webflow expert, a motion designer, and a developer. Spent an evening pulling apart the exact tutorial a creator just published for one of these scroll-driven sites. \n\nNo framework. No localhost. Everything on the cloud, most of it on a free plan.\n\nBelow is every prompt, in the order you paste it. Copy them as is.\n\nSTEP 1. Two frames, not one.\n\nThe whole effect is a video tied to scroll. A video needs a start frame and an end frame. Generate the scene in GPT image (or any image model), then ask for the second frame from the same world.\n\nFrame one prompt:\n\"A cinematic hero scene: [your subject, e.g. a small plane gliding through soft clouds], natural light, aesthetic, award-winning web design quality, wide shot, empty space for text.\"\n\nFrame two prompt (run on the same image):\n\"Zoom out from this exact scene and open it up [e.g. pull back so the plane is smaller and farther], keep the same colors, same clouds, same style, do not change anything else.\"\n\nSTEP 2. Animate the transition.\n\nDrop both frames into Kling 3.0.\n\nPrompt:\n\"animate this smooth transition from frame one to frame two, natural and aesthetic scene\"\n\nSet 10 seconds, 1080p. Render the same two frames through Seedance 2 as well and keep whichever flies cleaner. Higgsfield is a third option.\n\nSTEP 3. Build the hero in Google AI Studio (free plan).\n\nGo to motion-sites, copy any font prompt, delete everything except the font-family CSS (kill the mask-reveal block and the assets). Paste that stripped font into Google AI Studio, then this:\n\n\"Build me a hero section using the font CSS above. Text centered and at the top of the image, plain white background. The prompt I gave you is broken, I removed parts on purpose, just do your best with the font and create a clean responsive hero with a nav bar.\"\n\nSTEP 4. Build every section in one prompt.\n\nNo screenshots. Paste this:\n\n\"Below the hero section add these sections, using the fonts and styles we already established:\n- About section: text on the left, image on the right.\n- Feature section: headline, tagline, description, then two cards (one left, one right).\n- Stats section: headline, description, then five numbers each with a short label.\n- Footer.\"\n\nSTEP 5. The one line that triples the quality.\n\nAI cramps every section by default. Paste this exactly:\n\n\"Every section should be 100vh. All sections should be 100vh each so they fill the full height of the screen and scale by viewport.\"\n\nThat single line is the gap between \"AI website\" and \"agency website.\"\n\nSTEP 6. Wire the video to scroll.\n\nOn motion-sites, copy the full prompt, find the block labelled \"video source and implementation,\" replace the video link with your Kling render. Paste it in with:\n\n\"Add this video and this scroll system to our page. Adapt it to fit our site, you can change the content and the position of the elements so the scroll effect looks good. Do whatever you need to make it look right.\"\n\nSTEP 7. Fix the two mistakes AI always makes.\n\nIt darkens the video and adds an overlay. Paste:\n\n\"Revert to the previous color scheme. I did not ask for dark mode. All text and buttons go back to their original color. The video should be 100% opacity with no overlays. Fix this, then I will tell you what is next.\"\n\nThen the text is unreadable on the footage. Fix it with a mask, not a background:\n\n\"From the bottom of the page to about the middle, add a gradient from solid to transparent, and mask all page content to that gradient so the text and elements emerge out of the page as you scroll.\"\n\nNow text rises from behind the scene like it is 3D, and it reads on mobile.\n\nSTEP 8. Scale to a full site.\n\nOpen Landbook, see how a page is structured, then describe the new page in your own words (about page, services, etc). Generate a fresh frame one and frame two per page so no two pages share a video, run it through Kling or Seedance, then paste:\n\n\"Only on the about page, use this video as the hero background with the same scroll effect, just change the link.\"\n\nThat is the whole system. image, animate, build, 100vh, mask. Repeat per page.\n\nYou do not need a developer. You need the order of operations.\n\nSave this. Build one tonight.",
-  "content": "animate this smooth transition from frame one to frame two, natural and aesthetic scene",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 53,
-    "retweets": 4,
-    "replies": 18,
-    "quotes": 2,
-    "bookmarks": 43,
-    "views": 2561
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055917975908253701.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055916574239039488/img/7At0z1ENUnoGfNoi.jpg"
+    "link": "https://x.com/israfill"
   },
   "translations": {
-    "es": "anima esta transición suave del cuadro uno al cuadro dos, escena natural y estética",
-    "fr": "animez cette transition fluide du cadre un au cadre deux, scène naturelle et esthétique",
-    "ja": "このスムーズなトランジションをフレーム1からフレーム2へとアニメートし、自然で美しいシーンにする。",
-    "ko": "프레임 1에서 프레임 2로의 부드러운 전환을 자연스럽고 미적으로 애니메이션화하세요.",
-    "pt-BR": "anime esta transição suave do quadro um para o quadro dois, cena natural e estética",
-    "zh-CN": "将这一平滑过渡从第一帧动画到第二帧，自然且美观的场景"
+    "es": {
+      "content": "anima esta transición suave del cuadro uno al cuadro dos, escena natural y estética"
+    },
+    "fr": {
+      "content": "animez cette transition fluide du cadre un au cadre deux, scène naturelle et esthétique"
+    },
+    "ja": {
+      "content": "このスムーズなトランジションをフレーム1からフレーム2へとアニメートし、自然で美しいシーンにする。"
+    },
+    "ko": {
+      "content": "프레임 1에서 프레임 2로의 부드러운 전환을 자연스럽고 미적으로 애니메이션화하세요."
+    },
+    "pt": {
+      "content": "anime esta transição suave do quadro um para o quadro dois, cena natural e estética"
+    },
+    "zh": {
+      "content": "将这一平滑过渡从第一帧动画到第二帧，自然且美观的场景"
+    }
   }
 }

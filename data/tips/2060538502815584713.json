@@ -1,40 +1,35 @@
 {
   "id": "2060538502815584713",
-  "type": "tip",
-  "url": "https://x.com/Spectromachina/status/2060538502815584713",
+  "title": "When using Seedance 2.0 multi-reference prompts, use higher-quality…",
+  "content": "When using Seedance 2.0 multi-reference prompts, use higher-quality, better-prepared reference images to improve results.  \nKeep reference images consistent in color grading and style across shots to prevent the style from changing too much between shots.",
   "language": "en",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060537873871372290/img/VhMcPcKPjqN12mnX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060538502815584713.mp4",
+  "sourceLink": "https://x.com/Spectromachina/status/2060538502815584713",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "Spectro 🇺🇸",
-    "username": "Spectromachina",
-    "url": "https://x.com/Spectromachina",
-    "followers": 674
+    "link": "https://x.com/Spectromachina"
   },
-  "text": "Sharing my failed prompt/blooper.\n\nExploring multi reference prompt in seedance 2.0,\n\nNeed to work a lot harder on the images for reference, color grading, style of image changed too much between shots. https://t.co/dX4vOaEY6q",
-  "content": "When using Seedance 2.0 multi-reference prompts, use higher-quality, better-prepared reference images to improve results.  \nKeep reference images consistent in color grading and style across shots to prevent the style from changing too much between shots.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 5,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 1,
-    "views": 210
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060538502815584713.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060537873871372290/img/VhMcPcKPjqN12mnX.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "really liking this one https://t.co/498955ysK5"
-  },
+  "tips": "When using Seedance 2.0 multi-reference prompts, use higher-quality, better-prepared reference images to improve results.  \nKeep reference images consistent in color grading and style across shots to prevent the style from changing too much between shots.",
   "translations": {
-    "es": "Cuando utilices los prompts de múltiples referencias de Seedance 2.0, usa imágenes de referencia de mayor calidad y mejor preparadas para mejorar los resultados.  \nMantén las imágenes de referencia consistentes en la gradación de color y estilo a lo largo de las tomas para evitar que el estilo cambie demasiado entre ellas.\n\n--- QUOTED TWEET ---\nreally liking this one https://t.co/498955ysK5\n---",
-    "fr": "Lors de l'utilisation des prompts multi-références de Seedance 2.0, utilisez des images de référence de meilleure qualité et mieux préparées pour améliorer les résultats.  \nAssurez-vous que les images de référence soient cohérentes en termes de gradation des couleurs et de style à travers les prises de vue pour éviter que le style ne change trop entre les prises.\n\n--- TWEET CITÉ ---\nj'aime vraiment celui-ci https://t.co/498955ysK5\n---",
-    "ja": "Seedance 2.0のマルチリファレンスプロンプトを使用する際は、より高品質で準備の整ったリファレンス画像を使用して結果を改善してください。  \nリファレンス画像は、ショット間でスタイルが大きく変わらないように、カラーグレーディングとスタイルを一貫させてください。\n\n--- QUOTED TWEET ---\nreally liking this one https://t.co/498955ysK5\n---",
-    "ko": "Seedance 2.0 다중 참조 프롬프트를 사용할 때는 결과를 개선하기 위해 더 높은 품질의 잘 준비된 참조 이미지를 사용하세요.  \n참조 이미지의 색상 그레이딩과 스타일을 샷 전반에 걸쳐 일관되게 유지하여 샷 간 스타일이 너무 많이 변하지 않도록 하세요.\n\n--- QUOTED TWEET ---\n정말 마음에 듭니다 https://t.co/498955ysK5\n---",
-    "pt-BR": "Ao usar prompts de múltiplas referências do Seedance 2.0, utilize imagens de referência de alta qualidade e bem preparadas para melhorar os resultados.  \nMantenha as imagens de referência consistentes na gradação de cores e no estilo entre as tomadas para evitar que o estilo mude muito entre elas.\n\n--- QUOTED TWEET ---\nreally liking this one https://t.co/498955ysK5\n---",
-    "zh-CN": "在使用Seedance 2.0多参考prompt时，使用更高质量、准备更充分的参考图像以改善结果。  \n保持参考图像在色彩分级和风格上的一致性，以防止镜头之间风格变化过大。\n\n--- QUOTED TWEET ---\nreally liking this one https://t.co/498955ysK5\n---"
+    "es": {
+      "content": "Cuando utilices los prompts de múltiples referencias de Seedance 2.0, usa imágenes de referencia de mayor calidad y mejor preparadas para mejorar los resultados.  \nMantén las imágenes de referencia consistentes en la gradación de color y estilo a lo largo de las tomas para evitar que el estilo cambie demasiado entre ellas.\n\n--- QUOTED TWEET ---\nreally liking this one https://t.co/498955ysK5\n---"
+    },
+    "fr": {
+      "content": "Lors de l'utilisation des prompts multi-références de Seedance 2.0, utilisez des images de référence de meilleure qualité et mieux préparées pour améliorer les résultats.  \nAssurez-vous que les images de référence soient cohérentes en termes de gradation des couleurs et de style à travers les prises de vue pour éviter que le style ne change trop entre les prises.\n\n--- TWEET CITÉ ---\nj'aime vraiment celui-ci https://t.co/498955ysK5\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.0のマルチリファレンスプロンプトを使用する際は、より高品質で準備の整ったリファレンス画像を使用して結果を改善してください。  \nリファレンス画像は、ショット間でスタイルが大きく変わらないように、カラーグレーディングとスタイルを一貫させてください。\n\n--- QUOTED TWEET ---\nreally liking this one https://t.co/498955ysK5\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0 다중 참조 프롬프트를 사용할 때는 결과를 개선하기 위해 더 높은 품질의 잘 준비된 참조 이미지를 사용하세요.  \n참조 이미지의 색상 그레이딩과 스타일을 샷 전반에 걸쳐 일관되게 유지하여 샷 간 스타일이 너무 많이 변하지 않도록 하세요.\n\n--- QUOTED TWEET ---\n정말 마음에 듭니다 https://t.co/498955ysK5\n---"
+    },
+    "pt": {
+      "content": "Ao usar prompts de múltiplas referências do Seedance 2.0, utilize imagens de referência de alta qualidade e bem preparadas para melhorar os resultados.  \nMantenha as imagens de referência consistentes na gradação de cores e no estilo entre as tomadas para evitar que o estilo mude muito entre elas.\n\n--- QUOTED TWEET ---\nreally liking this one https://t.co/498955ysK5\n---"
+    },
+    "zh": {
+      "content": "在使用Seedance 2.0多参考prompt时，使用更高质量、准备更充分的参考图像以改善结果。  \n保持参考图像在色彩分级和风格上的一致性，以防止镜头之间风格变化过大。\n\n--- QUOTED TWEET ---\nreally liking this one https://t.co/498955ysK5\n---"
+    }
   }
 }

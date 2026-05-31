@@ -1,40 +1,34 @@
 {
   "id": "2060579477386830130",
-  "type": "prompt",
-  "url": "https://x.com/333mic999/status/2060579477386830130",
+  "title": "食堂を出て右に曲がり、スピードを少しずつ上げて緩やかにカーブする道をすすんで左に曲がる。",
+  "content": "食堂を出て右に曲がり、スピードを少しずつ上げて緩やかにカーブする道をすすんで左に曲がる。",
   "language": "ja",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060576152968933377/img/YrC0Xu2EK9pt5SQB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060579477386830130.mp4",
+  "sourceLink": "https://x.com/333mic999/status/2060579477386830130",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "mic",
-    "username": "333mic999",
-    "url": "https://x.com/333mic999",
-    "followers": 325
-  },
-  "text": "#OiiOii @OiiOii_AI @OiiOii_Official\n\nおまっめさんの情報をもとに、試してみました。\nどちらもSeedance 2.0 Fast使用。\n\n抜粋プロンプト：\n食堂を出て右に曲がり、スピードを少しずつ上げて緩やかにカーブする道をすすんで左に曲がる。 https://t.co/v82mSGilSz",
-  "content": "食堂を出て右に曲がり、スピードを少しずつ上げて緩やかにカーブする道をすすんで左に曲がる。",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 20,
-    "retweets": 2,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 2,
-    "views": 409
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060579477386830130.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060576152968933377/img/YrC0Xu2EK9pt5SQB.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "AIアニメ検証🐱\n『マップと赤い矢印』 \n※Seedance2.0\n\nマップ上の矢印指示で\nアニメもいけるのか挑戦🐈\nKEETYさんありがとうございます！\n\n結構複雑にしてみたけれど……\n\n――――――\n⭕️滝の箇所の例：\n運河の途切れた隙間を大ジャンプで飛び越える。画面左に石造りのアーチ橋、右に激しい白滝、奥に巨大な時計塔。\n❌「赤い矢印に沿って走ってください」のみ\n――――――\n\n赤い矢印に加えて\nプロンプトで各シーンを補強してあげると\n結構イケるかも！\n\nこの地図は\n『アイソメトリック』で作れます🐈\n\n10秒で設定したところ\n時間が短すぎて\n2か所くらいショートカットされた笑"
+    "link": "https://x.com/333mic999"
   },
   "translations": {
-    "en": "Exit the cafeteria, turn right, gradually increase your speed as you proceed along the gently curving road, then turn left.\n\n--- QUOTED TWEET ---\nAI Anime Experiment 🐱\n'Map and Red Arrow'\n※Seedance2.0\n\nChallenging whether anime can be created with arrow instructions on a map 🐈\nThank you, KEETY!\n\nI made it quite complex, but...\n\n――――――\n⭕️ Example of the waterfall section:\nLeap over the gap where the canal ends with a big jump. On the left side of the screen, there's a stone arch bridge, on the right, a fierce white waterfall, and in the background, a giant clock tower.\n❌ Only \"Please run along the red arrow\"\n――――――\n\nBy supplementing each scene with prompts in addition to the red arrow, it might actually work quite well!\n\nThis map can be created in 'Isometric' 🐈\n\nWhen set to 10 seconds, the time was too short, and about two shortcuts were made, haha.",
-    "es": "---\nSalga del comedor, gire a la derecha, aumente la velocidad poco a poco y siga el camino que se curva suavemente, luego gire a la izquierda.\n\n--- TWEET CITADO ---\nVerificación de anime AI🐱\n『Mapa y flecha roja』 \n※Seedance2.0\n\nDesafío de si es posible hacer anime con las indicaciones de flechas en el mapa🐈\n¡Gracias, KEETY!\n\nLo hice bastante complejo, pero……\n\n――――――\n⭕️Ejemplo de la sección de la cascada:\nSalta a lo largo del espacio interrumpido del canal. A la izquierda de la pantalla, un puente de arco de piedra, a la derecha, una cascada blanca y furiosa, al fondo, una torre de reloj gigante.\n❌Solo \"Siga la flecha roja\"\n――――――\n\nAdemás de la flecha roja,\nsi refuerzas cada escena con un prompt,\n¡podría funcionar bastante bien!\n\nEste mapa se puede crear en\n『Isométrico』🐈\n\nCuando lo configuré en 10 segundos,\nel tiempo fue demasiado corto y\nse acortaron como dos lugares, jaja.\n---",
-    "fr": "---\nSortez de la cantine, tournez à droite, augmentez progressivement votre vitesse en suivant la route qui fait un léger virage, puis tournez à gauche.\n\n--- TWEET CITÉ ---\nVérification de l'animation AI🐱\n« Carte et flèche rouge »\n※Seedance2.0\n\nDéfi de voir si l'animation est possible avec des instructions de flèche sur la carte🐈\nMerci à KEETY !\n\nJ'ai essayé de rendre cela assez complexe, mais...\n\n――――――\n⭕️ Exemple de la section de la cascade :\nSauter par-dessus l'écart interrompu du canal. À gauche de l'écran, un pont en arc de pierre, à droite, une cascade blanche tumultueuse, et au fond, une immense tour d'horloge.\n❌ Seulement « Suivez la flèche rouge »\n――――――\n\nEn plus de la flèche rouge,\nrenforcer chaque scène avec un prompt pourrait vraiment fonctionner !\n\nCette carte peut être créée en\n« Isométrique »🐈\n\nAprès avoir réglé à 10 secondes,\nle temps était trop court et\nenviron deux endroits ont été raccourcis, haha\n---",
-    "ko": "식당을 나와 오른쪽으로 돌고, 속도를 조금씩 높이며 완만하게 커브하는 길을 따라가서 왼쪽으로 돈다.\n\n--- 인용된 트윗 ---\nAI 애니메이션 검증🐱\n『지도와 빨간 화살표』 \n※Seedance2.0\n\n지도상의 화살표 지시로\n애니메이션도 가능한지 도전🐈\nKEETY님 감사합니다!\n\n꽤 복잡하게 만들어봤지만……\n\n――――――\n⭕️폭포 부분의 예:\n운하의 끊어진 틈을 대점프로 뛰어넘는다. 화면 왼쪽에 석조 아치 다리, 오른쪽에 격렬한 백색 폭포, 뒤쪽에 거대한 시계탑.\n❌「빨간 화살표를 따라 달리세요」만으로는 부족\n――――――\n\n빨간 화살표에 더해\n프롬프트로 각 장면을 보강해주면\n꽤 괜찮을지도!\n\n이 지도는\n『아이소메트릭』으로 만들 수 있습니다🐈\n\n10초로 설정했더니\n시간이 너무 짧아서\n2곳 정도가 생략되었어요 웃음\n---",
-    "pt-BR": "Saia do refeitório, vire à direita, aumente gradualmente a velocidade e siga pela estrada que faz uma curva suave, depois vire à esquerda.\n\n--- TWEET CITADO ---\nVerificação de Anime AI🐱\n『Mapa e seta vermelha』 \n※Seedance2.0\n\nDesafio de ver se é possível fazer anime com instruções de seta no mapa🐈\nObrigado, KEETY!\n\nTentei fazer algo bem complexo, mas...\n\n――――――\n⭕️Exemplo da parte da cachoeira:\nSalte sobre a lacuna interrompida do canal com um grande salto. À esquerda da tela, uma ponte de arco de pedra, à direita, uma cachoeira branca intensa, ao fundo, uma torre de relógio gigante.\n❌Apenas \"Siga a seta vermelha\"\n――――――\n\nSe, além da seta vermelha, você reforçar cada cena com um prompt, pode funcionar bem!\n\nEste mapa pode ser feito em\n『Isométrico』🐈\n\nQuando configurei para 10 segundos, o tempo foi muito curto e cerca de 2 partes foram cortadas, haha.",
-    "zh-CN": "食堂出来后向右转，逐渐加速沿着缓缓弯曲的道路前进，然后向左转。\n\n--- 引用推文 ---\nAI动画验证🐱\n《地图与红色箭头》\n※Seedance2.0\n\n挑战通过地图上的箭头指示\n制作动画是否可行🐈\n感谢KEETY！\n\n尝试做得相当复杂……\n\n――――――\n⭕️瀑布部分的例子：\n在运河中断的缝隙上大跳跃。画面左侧是石制拱桥，右侧是激烈的白色瀑布，远处是巨大的钟楼。\n❌仅仅是“请沿着红色箭头跑”\n――――――\n\n除了红色箭头\n如果用prompt补充每个场景\n可能会相当不错！\n\n这张地图\n可以用“等距视图”制作🐈\n\n设置为10秒时\n时间太短\n大约有两个地方被简化了，笑\n---"
+    "en": {
+      "content": "Exit the cafeteria, turn right, gradually increase your speed as you proceed along the gently curving road, then turn left.\n\n--- QUOTED TWEET ---\nAI Anime Experiment 🐱\n'Map and Red Arrow'\n※Seedance2.0\n\nChallenging whether anime can be created with arrow instructions on a map 🐈\nThank you, KEETY!\n\nI made it quite complex, but...\n\n――――――\n⭕️ Example of the waterfall section:\nLeap over the gap where the canal ends with a big jump. On the left side of the screen, there's a stone arch bridge, on the right, a fierce white waterfall, and in the background, a giant clock tower.\n❌ Only \"Please run along the red arrow\"\n――――――\n\nBy supplementing each scene with prompts in addition to the red arrow, it might actually work quite well!\n\nThis map can be created in 'Isometric' 🐈\n\nWhen set to 10 seconds, the time was too short, and about two shortcuts were made, haha."
+    },
+    "es": {
+      "content": "---\nSalga del comedor, gire a la derecha, aumente la velocidad poco a poco y siga el camino que se curva suavemente, luego gire a la izquierda.\n\n--- TWEET CITADO ---\nVerificación de anime AI🐱\n『Mapa y flecha roja』 \n※Seedance2.0\n\nDesafío de si es posible hacer anime con las indicaciones de flechas en el mapa🐈\n¡Gracias, KEETY!\n\nLo hice bastante complejo, pero……\n\n――――――\n⭕️Ejemplo de la sección de la cascada:\nSalta a lo largo del espacio interrumpido del canal. A la izquierda de la pantalla, un puente de arco de piedra, a la derecha, una cascada blanca y furiosa, al fondo, una torre de reloj gigante.\n❌Solo \"Siga la flecha roja\"\n――――――\n\nAdemás de la flecha roja,\nsi refuerzas cada escena con un prompt,\n¡podría funcionar bastante bien!\n\nEste mapa se puede crear en\n『Isométrico』🐈\n\nCuando lo configuré en 10 segundos,\nel tiempo fue demasiado corto y\nse acortaron como dos lugares, jaja.\n---"
+    },
+    "fr": {
+      "content": "---\nSortez de la cantine, tournez à droite, augmentez progressivement votre vitesse en suivant la route qui fait un léger virage, puis tournez à gauche.\n\n--- TWEET CITÉ ---\nVérification de l'animation AI🐱\n« Carte et flèche rouge »\n※Seedance2.0\n\nDéfi de voir si l'animation est possible avec des instructions de flèche sur la carte🐈\nMerci à KEETY !\n\nJ'ai essayé de rendre cela assez complexe, mais...\n\n――――――\n⭕️ Exemple de la section de la cascade :\nSauter par-dessus l'écart interrompu du canal. À gauche de l'écran, un pont en arc de pierre, à droite, une cascade blanche tumultueuse, et au fond, une immense tour d'horloge.\n❌ Seulement « Suivez la flèche rouge »\n――――――\n\nEn plus de la flèche rouge,\nrenforcer chaque scène avec un prompt pourrait vraiment fonctionner !\n\nCette carte peut être créée en\n« Isométrique »🐈\n\nAprès avoir réglé à 10 secondes,\nle temps était trop court et\nenviron deux endroits ont été raccourcis, haha\n---"
+    },
+    "ko": {
+      "content": "식당을 나와 오른쪽으로 돌고, 속도를 조금씩 높이며 완만하게 커브하는 길을 따라가서 왼쪽으로 돈다.\n\n--- 인용된 트윗 ---\nAI 애니메이션 검증🐱\n『지도와 빨간 화살표』 \n※Seedance2.0\n\n지도상의 화살표 지시로\n애니메이션도 가능한지 도전🐈\nKEETY님 감사합니다!\n\n꽤 복잡하게 만들어봤지만……\n\n――――――\n⭕️폭포 부분의 예:\n운하의 끊어진 틈을 대점프로 뛰어넘는다. 화면 왼쪽에 석조 아치 다리, 오른쪽에 격렬한 백색 폭포, 뒤쪽에 거대한 시계탑.\n❌「빨간 화살표를 따라 달리세요」만으로는 부족\n――――――\n\n빨간 화살표에 더해\n프롬프트로 각 장면을 보강해주면\n꽤 괜찮을지도!\n\n이 지도는\n『아이소메트릭』으로 만들 수 있습니다🐈\n\n10초로 설정했더니\n시간이 너무 짧아서\n2곳 정도가 생략되었어요 웃음\n---"
+    },
+    "pt": {
+      "content": "Saia do refeitório, vire à direita, aumente gradualmente a velocidade e siga pela estrada que faz uma curva suave, depois vire à esquerda.\n\n--- TWEET CITADO ---\nVerificação de Anime AI🐱\n『Mapa e seta vermelha』 \n※Seedance2.0\n\nDesafio de ver se é possível fazer anime com instruções de seta no mapa🐈\nObrigado, KEETY!\n\nTentei fazer algo bem complexo, mas...\n\n――――――\n⭕️Exemplo da parte da cachoeira:\nSalte sobre a lacuna interrompida do canal com um grande salto. À esquerda da tela, uma ponte de arco de pedra, à direita, uma cachoeira branca intensa, ao fundo, uma torre de relógio gigante.\n❌Apenas \"Siga a seta vermelha\"\n――――――\n\nSe, além da seta vermelha, você reforçar cada cena com um prompt, pode funcionar bem!\n\nEste mapa pode ser feito em\n『Isométrico』🐈\n\nQuando configurei para 10 segundos, o tempo foi muito curto e cerca de 2 partes foram cortadas, haha."
+    },
+    "zh": {
+      "content": "食堂出来后向右转，逐渐加速沿着缓缓弯曲的道路前进，然后向左转。\n\n--- 引用推文 ---\nAI动画验证🐱\n《地图与红色箭头》\n※Seedance2.0\n\n挑战通过地图上的箭头指示\n制作动画是否可行🐈\n感谢KEETY！\n\n尝试做得相当复杂……\n\n――――――\n⭕️瀑布部分的例子：\n在运河中断的缝隙上大跳跃。画面左侧是石制拱桥，右侧是激烈的白色瀑布，远处是巨大的钟楼。\n❌仅仅是“请沿着红色箭头跑”\n――――――\n\n除了红色箭头\n如果用prompt补充每个场景\n可能会相当不错！\n\n这张地图\n可以用“等距视图”制作🐈\n\n设置为10秒时\n时间太短\n大约有两个地方被简化了，笑\n---"
+    }
   }
 }

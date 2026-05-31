@@ -1,42 +1,35 @@
 {
   "id": "2054207557783208107",
-  "type": "tip",
-  "url": "https://x.com/AITOPIAai/status/2054207557783208107",
+  "title": "Upload your photo to GPT Image 2 and prompt it to generate a fan-cam scene…",
+  "content": "Upload your photo to GPT Image 2 and prompt it to generate a fan-cam scene image.  \nImport the generated scene image into Seedance 2.0 and animate it into a video by prompting for motion, reactions, and dynamic camera movement.",
   "language": "en",
-  "created_at": "2026-05-12",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054206784189898752/img/d2US0u1pnQ3Al4YR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054207557783208107.mp4",
+  "sourceLink": "https://x.com/AITOPIAai/status/2054207557783208107",
+  "sourcePublishedAt": "2026-05-12",
   "author": {
     "name": "AITOPIA",
-    "username": "AITOPIAai",
-    "url": "https://x.com/AITOPIAai",
-    "followers": 2367
+    "link": "https://x.com/AITOPIAai"
   },
-  "text": "How to create your own TREND AI FAN CAM video?\n\n- Upload your photo to GPT Image 2 and use a prompt to create your fan cam scene.\n- Then bring that scene into Seedance 2.0 to turn it into a video with motion, reactions, and dynamic camera movement.\n\nLeave a comment saying “seedance,” and we'll send you the prompt.\n\nTry it now on AITOPIA⚡\nhttps://t.co/7nIcyAlk1D",
-  "content": "Upload your photo to GPT Image 2 and prompt it to generate a fan-cam scene image.  \nImport the generated scene image into Seedance 2.0 and animate it into a video by prompting for motion, reactions, and dynamic camera movement.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 27,
-    "retweets": 4,
-    "replies": 9,
-    "quotes": 0,
-    "bookmarks": 7,
-    "views": 799
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054207557783208107.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054206784189898752/img/d2US0u1pnQ3Al4YR.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "https://t.co/TtXJ0rFUi7"
-    ]
-  },
+  "tips": "Upload your photo to GPT Image 2 and prompt it to generate a fan-cam scene image.  \nImport the generated scene image into Seedance 2.0 and animate it into a video by prompting for motion, reactions, and dynamic camera movement.",
   "translations": {
-    "es": "Sube tu foto a GPT Image 2 y usa un prompt para generar una imagen de escena tipo fan-cam.  \nImporta la imagen de escena generada en Seedance 2.0 y anímala en un video solicitando movimiento, reacciones y movimiento de cámara dinámico.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/TtXJ0rFUi7",
-    "fr": "Téléchargez votre photo dans GPT Image 2 et demandez-lui de générer une image de scène de fan-cam.  \nImportez l'image de scène générée dans Seedance 2.0 et animez-la en vidéo en demandant des mouvements, des réactions et un mouvement de caméra dynamique.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/TtXJ0rFUi7",
-    "ja": "---\nあなたの写真をGPT Image 2にアップロードし、ファンカムシーンの画像を生成するようにプロンプトを入力してください。  \n生成されたシーン画像をSeedance 2.0にインポートし、動き、反応、ダイナミックなカメラの動きをプロンプトで指示してビデオにアニメーション化します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/TtXJ0rFUi7\n---",
-    "ko": "---\n사진을 GPT Image 2에 업로드하고 팬캠 장면 이미지를 생성하도록 프롬프트를 입력하세요.  \n생성된 장면 이미지를 Seedance 2.0에 가져와서 모션, 반응, 그리고 역동적인 카메라 움직임을 프롬프트로 입력하여 비디오로 애니메이션화하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/TtXJ0rFUi7\n---",
-    "pt-BR": "Carregue sua foto no GPT Image 2 e use o prompt para gerar uma imagem de cena de fan-cam.  \nImporte a imagem de cena gerada para o Seedance 2.0 e anime-a em um vídeo solicitando movimento, reações e movimento dinâmico de câmera.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/TtXJ0rFUi7",
-    "zh-CN": "将您的照片上传到 GPT Image 2，并提示它生成一个粉丝镜头场景图像。  \n将生成的场景图像导入 Seedance 2.0，通过提示运动、反应和动态摄像机移动，将其动画化为视频。\n\n--- 线程继续 ---\n[线程 1] https://t.co/TtXJ0rFUi7"
+    "es": {
+      "content": "Sube tu foto a GPT Image 2 y usa un prompt para generar una imagen de escena tipo fan-cam.  \nImporta la imagen de escena generada en Seedance 2.0 y anímala en un video solicitando movimiento, reacciones y movimiento de cámara dinámico.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/TtXJ0rFUi7"
+    },
+    "fr": {
+      "content": "Téléchargez votre photo dans GPT Image 2 et demandez-lui de générer une image de scène de fan-cam.  \nImportez l'image de scène générée dans Seedance 2.0 et animez-la en vidéo en demandant des mouvements, des réactions et un mouvement de caméra dynamique.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/TtXJ0rFUi7"
+    },
+    "ja": {
+      "content": "---\nあなたの写真をGPT Image 2にアップロードし、ファンカムシーンの画像を生成するようにプロンプトを入力してください。  \n生成されたシーン画像をSeedance 2.0にインポートし、動き、反応、ダイナミックなカメラの動きをプロンプトで指示してビデオにアニメーション化します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/TtXJ0rFUi7\n---"
+    },
+    "ko": {
+      "content": "---\n사진을 GPT Image 2에 업로드하고 팬캠 장면 이미지를 생성하도록 프롬프트를 입력하세요.  \n생성된 장면 이미지를 Seedance 2.0에 가져와서 모션, 반응, 그리고 역동적인 카메라 움직임을 프롬프트로 입력하여 비디오로 애니메이션화하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/TtXJ0rFUi7\n---"
+    },
+    "pt": {
+      "content": "Carregue sua foto no GPT Image 2 e use o prompt para gerar uma imagem de cena de fan-cam.  \nImporte a imagem de cena gerada para o Seedance 2.0 e anime-a em um vídeo solicitando movimento, reações e movimento dinâmico de câmera.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/TtXJ0rFUi7"
+    },
+    "zh": {
+      "content": "将您的照片上传到 GPT Image 2，并提示它生成一个粉丝镜头场景图像。  \n将生成的场景图像导入 Seedance 2.0，通过提示运动、反应和动态摄像机移动，将其动画化为视频。\n\n--- 线程继续 ---\n[线程 1] https://t.co/TtXJ0rFUi7"
+    }
   }
 }

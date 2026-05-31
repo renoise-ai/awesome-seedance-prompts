@@ -1,34 +1,34 @@
 {
   "id": "2060005240431317486",
-  "type": "tip",
-  "url": "https://x.com/IamEmily2050/status/2060005240431317486",
+  "title": "Use shorter prompts in Seedance V2 because long prompts may be rewritten by a…",
+  "content": "Use shorter prompts in Seedance V2 because long prompts may be rewritten by a system prompt and lose intent.  \nChoose a platform with a strong system prompt that preserves the intent of long prompts to get better results with Seedance V2.",
   "language": "en",
-  "created_at": "2026-05-28",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/IamEmily2050/status/2060005240431317486",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Emily",
-    "username": "IamEmily2050",
-    "url": "https://x.com/IamEmily2050",
-    "followers": 47387
+    "link": "https://x.com/IamEmily2050"
   },
-  "text": "Seedance V2 not good with long prompt even if you see your prompt going through there is a system prompt that rewrite the prompt, so it depends on which platform you are using, some platform have a very good system prompt that can capture the intent of the long prompts, that's why there are so many different results between users and platforms, hopefully Seedance V2.5 later this year will improve over this.",
-  "content": "Use shorter prompts in Seedance V2 because long prompts may be rewritten by a system prompt and lose intent.  \nChoose a platform with a strong system prompt that preserves the intent of long prompts to get better results with Seedance V2.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 5,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 3,
-    "views": 434
-  },
-  "video": null,
+  "tips": "Use shorter prompts in Seedance V2 because long prompts may be rewritten by a system prompt and lose intent.  \nChoose a platform with a strong system prompt that preserves the intent of long prompts to get better results with Seedance V2.",
   "translations": {
-    "es": "Usa prompts más cortos en Seedance V2 porque los prompts largos pueden ser reescritos por un prompt del sistema y perder su intención.  \nElige una plataforma con un prompt del sistema sólido que preserve la intención de los prompts largos para obtener mejores resultados con Seedance V2.",
-    "fr": "Utilisez des prompts plus courts dans Seedance V2 car les prompts longs peuvent être réécrits par un prompt système et perdre leur intention.  \nChoisissez une plateforme avec un prompt système solide qui préserve l'intention des prompts longs pour obtenir de meilleurs résultats avec Seedance V2.",
-    "ja": "Seedance V2では、長いプロンプトがシステムプロンプトによって書き換えられ、意図が失われる可能性があるため、短いプロンプトを使用してください。  \nSeedance V2でより良い結果を得るためには、長いプロンプトの意図を保持する強力なシステムプロンプトを持つプラットフォームを選択してください。",
-    "ko": "Seedance V2에서는 짧은 프롬프트를 사용하세요. 긴 프롬프트는 시스템 프롬프트에 의해 다시 작성되어 의도가 사라질 수 있습니다.  \n긴 프롬프트의 의도를 보존하는 강력한 시스템 프롬프트를 가진 플랫폼을 선택하여 Seedance V2에서 더 나은 결과를 얻으세요.",
-    "pt-BR": "Use prompts mais curtos no Seedance V2 porque prompts longos podem ser reescritos por um system prompt e perder o objetivo.  \nEscolha uma plataforma com um system prompt forte que preserve a intenção de prompts longos para obter melhores resultados com o Seedance V2.",
-    "zh-CN": "在Seedance V2中使用较短的prompt，因为较长的prompt可能会被系统prompt重写，从而失去原意。  \n选择一个具有强大系统prompt的平台，以便在使用Seedance V2时更好地保留长prompt的意图，从而获得更好的结果。"
+    "es": {
+      "content": "Usa prompts más cortos en Seedance V2 porque los prompts largos pueden ser reescritos por un prompt del sistema y perder su intención.  \nElige una plataforma con un prompt del sistema sólido que preserve la intención de los prompts largos para obtener mejores resultados con Seedance V2."
+    },
+    "fr": {
+      "content": "Utilisez des prompts plus courts dans Seedance V2 car les prompts longs peuvent être réécrits par un prompt système et perdre leur intention.  \nChoisissez une plateforme avec un prompt système solide qui préserve l'intention des prompts longs pour obtenir de meilleurs résultats avec Seedance V2."
+    },
+    "ja": {
+      "content": "Seedance V2では、長いプロンプトがシステムプロンプトによって書き換えられ、意図が失われる可能性があるため、短いプロンプトを使用してください。  \nSeedance V2でより良い結果を得るためには、長いプロンプトの意図を保持する強力なシステムプロンプトを持つプラットフォームを選択してください。"
+    },
+    "ko": {
+      "content": "Seedance V2에서는 짧은 프롬프트를 사용하세요. 긴 프롬프트는 시스템 프롬프트에 의해 다시 작성되어 의도가 사라질 수 있습니다.  \n긴 프롬프트의 의도를 보존하는 강력한 시스템 프롬프트를 가진 플랫폼을 선택하여 Seedance V2에서 더 나은 결과를 얻으세요."
+    },
+    "pt": {
+      "content": "Use prompts mais curtos no Seedance V2 porque prompts longos podem ser reescritos por um system prompt e perder o objetivo.  \nEscolha uma plataforma com um system prompt forte que preserve a intenção de prompts longos para obter melhores resultados com o Seedance V2."
+    },
+    "zh": {
+      "content": "在Seedance V2中使用较短的prompt，因为较长的prompt可能会被系统prompt重写，从而失去原意。  \n选择一个具有强大系统prompt的平台，以便在使用Seedance V2时更好地保留长prompt的意图，从而获得更好的结果。"
+    }
   }
 }

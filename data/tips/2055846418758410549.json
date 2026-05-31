@@ -1,37 +1,35 @@
 {
   "id": "2055846418758410549",
-  "type": "tip",
-  "url": "https://x.com/ChrisGwinnLA/status/2055846418758410549",
+  "title": "Always include your reference image when re-running a Seedance 2 text-to-video…",
+  "content": "Always include your reference image when re-running a Seedance 2 text-to-video generation; forgetting it will change the output significantly.",
   "language": "en",
-  "created_at": "2026-05-17",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055845783749148672/img/KVInzkn2D4Mhqq_C.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055846418758410549.mp4",
+  "sourceLink": "https://x.com/ChrisGwinnLA/status/2055846418758410549",
+  "sourcePublishedAt": "2026-05-17",
   "author": {
     "name": "Christopher Gwinn | Grindhouse Glitch",
-    "username": "ChrisGwinnLA",
-    "url": "https://x.com/ChrisGwinnLA",
-    "followers": 5658
+    "link": "https://x.com/ChrisGwinnLA"
   },
-  "text": "...and here's what happens when you tweak the prompt to run another generation, but forget to add the reference image!\n\nAI Horror clip, Seedance 2 text to video, made on @Hailuo_AI https://t.co/vRy0jqlCYC",
-  "content": "Always include your reference image when re-running a Seedance 2 text-to-video generation; forgetting it will change the output significantly.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 24,
-    "retweets": 1,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 7,
-    "views": 1299
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055846418758410549.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055845783749148672/img/KVInzkn2D4Mhqq_C.jpg"
-  },
+  "tips": "Always include your reference image when re-running a Seedance 2 text-to-video generation; forgetting it will change the output significantly.",
   "translations": {
-    "es": "Siempre incluye tu imagen de referencia al volver a ejecutar una generación de texto a video de Seedance 2; olvidarla cambiará significativamente el resultado.",
-    "fr": "Toujours inclure votre image de référence lorsque vous relancez une génération de texte en vidéo avec Seedance 2 ; l'oublier modifiera considérablement le résultat.",
-    "ja": "Seedance 2のテキストからビデオへの生成を再実行する際には、必ず参照画像を含めてください。忘れると出力が大きく変わってしまいます。",
-    "ko": "Seedance 2 텍스트-비디오 생성 작업을 다시 실행할 때 항상 참조 이미지를 포함하세요. 이를 잊으면 출력이 크게 달라질 수 있습니다.",
-    "pt-BR": "Sempre inclua sua imagem de referência ao executar novamente uma geração de texto para vídeo no Seedance 2; esquecer isso mudará significativamente o resultado.",
-    "zh-CN": "在重新运行 Seedance 2 文本到视频生成时，请务必包含您的参考图像；忘记这样做会显著改变输出结果。"
+    "es": {
+      "content": "Siempre incluye tu imagen de referencia al volver a ejecutar una generación de texto a video de Seedance 2; olvidarla cambiará significativamente el resultado."
+    },
+    "fr": {
+      "content": "Toujours inclure votre image de référence lorsque vous relancez une génération de texte en vidéo avec Seedance 2 ; l'oublier modifiera considérablement le résultat."
+    },
+    "ja": {
+      "content": "Seedance 2のテキストからビデオへの生成を再実行する際には、必ず参照画像を含めてください。忘れると出力が大きく変わってしまいます。"
+    },
+    "ko": {
+      "content": "Seedance 2 텍스트-비디오 생성 작업을 다시 실행할 때 항상 참조 이미지를 포함하세요. 이를 잊으면 출력이 크게 달라질 수 있습니다."
+    },
+    "pt": {
+      "content": "Sempre inclua sua imagem de referência ao executar novamente uma geração de texto para vídeo no Seedance 2; esquecer isso mudará significativamente o resultado."
+    },
+    "zh": {
+      "content": "在重新运行 Seedance 2 文本到视频生成时，请务必包含您的参考图像；忘记这样做会显著改变输出结果。"
+    }
   }
 }

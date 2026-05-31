@@ -1,34 +1,34 @@
 {
   "id": "2024209124125225202",
-  "type": "tip",
-  "url": "https://x.com/azerkoculu/status/2024209124125225202",
+  "title": "Open Seedance 2 at https://t.co/WKO5dpdbJC",
+  "content": "Open Seedance 2 at https://t.co/WKO5dpdbJC  \nAdd your product image (e.g., https://t.co/0RTUNeRm2w)",
   "language": "en",
-  "created_at": "2026-02-18",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/azerkoculu/status/2024209124125225202",
+  "sourcePublishedAt": "2026-02-18",
   "author": {
     "name": "Azer Koçulu",
-    "username": "azerkoculu",
-    "url": "https://x.com/azerkoculu",
-    "followers": 2158
+    "link": "https://x.com/azerkoculu"
   },
-  "text": "@OldSpice @mitte_ai Step by step workflow:  \n\n1. Open Seedance 2 at https://t.co/WKO5dpdbJC\n\n2. Add your product image https://t.co/0RTUNeRm2w",
-  "content": "Open Seedance 2 at https://t.co/WKO5dpdbJC  \nAdd your product image (e.g., https://t.co/0RTUNeRm2w)",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 16,
-    "retweets": 1,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 25,
-    "views": 2380
-  },
-  "video": null,
+  "tips": "Open Seedance 2 at https://t.co/WKO5dpdbJC  \nAdd your product image (e.g., https://t.co/0RTUNeRm2w)",
   "translations": {
-    "es": "Abre Seedance 2 en https://t.co/WKO5dpdbJC  \nAñade la imagen de tu producto (por ejemplo, https://t.co/0RTUNeRm2w)",
-    "fr": "Ouvrez Seedance 2 à l'adresse https://t.co/WKO5dpdbJC  \nAjoutez l'image de votre produit (par exemple, https://t.co/0RTUNeRm2w)",
-    "ja": "Seedance 2を開いてください https://t.co/WKO5dpdbJC  \n製品画像を追加してください（例: https://t.co/0RTUNeRm2w）",
-    "ko": "Seedance 2를 https://t.co/WKO5dpdbJC 에서 열기  \n제품 이미지를 추가하세요 (예: https://t.co/0RTUNeRm2w)",
-    "pt-BR": "Abra o Seedance 2 em https://t.co/WKO5dpdbJC  \nAdicione a imagem do seu produto (por exemplo, https://t.co/0RTUNeRm2w)",
-    "zh-CN": "在 https://t.co/WKO5dpdbJC 打开 Seedance 2  \n添加您的产品图片（例如，https://t.co/0RTUNeRm2w）"
+    "es": {
+      "content": "Abre Seedance 2 en https://t.co/WKO5dpdbJC  \nAñade la imagen de tu producto (por ejemplo, https://t.co/0RTUNeRm2w)"
+    },
+    "fr": {
+      "content": "Ouvrez Seedance 2 à l'adresse https://t.co/WKO5dpdbJC  \nAjoutez l'image de votre produit (par exemple, https://t.co/0RTUNeRm2w)"
+    },
+    "ja": {
+      "content": "Seedance 2を開いてください https://t.co/WKO5dpdbJC  \n製品画像を追加してください（例: https://t.co/0RTUNeRm2w）"
+    },
+    "ko": {
+      "content": "Seedance 2를 https://t.co/WKO5dpdbJC 에서 열기  \n제품 이미지를 추가하세요 (예: https://t.co/0RTUNeRm2w)"
+    },
+    "pt": {
+      "content": "Abra o Seedance 2 em https://t.co/WKO5dpdbJC  \nAdicione a imagem do seu produto (por exemplo, https://t.co/0RTUNeRm2w)"
+    },
+    "zh": {
+      "content": "在 https://t.co/WKO5dpdbJC 打开 Seedance 2  \n添加您的产品图片（例如，https://t.co/0RTUNeRm2w）"
+    }
   }
 }

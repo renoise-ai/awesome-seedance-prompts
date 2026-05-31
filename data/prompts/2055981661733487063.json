@@ -1,37 +1,34 @@
 {
   "id": "2055981661733487063",
-  "type": "prompt",
-  "url": "https://x.com/IqraSaifiii/status/2055981661733487063",
+  "title": "A male character creates a glowing crystal core and sends it to a female…",
+  "content": "A male character creates a glowing crystal core and sends it to a female character, who absorbs its power to begin a magnificent fire dance on water.",
   "language": "en",
-  "created_at": "2026-05-17",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055728914111373312/img/Qo1RW6VhzhFzMdUv.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055981661733487063.mp4",
+  "sourceLink": "https://x.com/IqraSaifiii/status/2055981661733487063",
+  "sourcePublishedAt": "2026-05-17",
   "author": {
     "name": "Iqra Saifi",
-    "username": "IqraSaifiii",
-    "url": "https://x.com/IqraSaifiii",
-    "followers": 9316
-  },
-  "text": "let's go on magical journey ✨ \n\nSeedance 2.0 on @higgsfield \n\nPrompt:\n\n\"A male character creates a glowing crystal core and sends it to a female character, who absorbs its power to begin a magnificent fire dance on water.\" \"intent\": \"Generate a cinematic, two-scene narrative that showcases two distinct but connected forms of elemental magic with photorealistic detail and effects.\" } \"lighting\": { \"type\": \"Purely diegetic and emissive.\", \"source\": \"The entire scene is lit by the magical elements. The first half is lit by the man's swirling golden particles and the glowing blue crystal. The second half is lit by the brilliant, roaring fire vortex.\", \"quality\": \"The lighting must be dynamic and powerful, casting realistic, moving light and shadows on the characters and the dark, watery environment. Advanced global illumination and water caustics are essential.\" }, \"description\": \"The textures must feel real despite the fantastical nature. The golden particles should feel like tiny, contained stars. The crystal should have internal flaws and light refractions. The fire should look like a viscous, controlled plasma.\" } }, \"storyline_sequence\": { \"shot_type\": \"Two-part scene connected by a smooth camera pan or a match-cut.\", \"events\": [ { \"scene\": 1, \"time_start\": 0.0, \"time_end\": 4.0, \"description\": \"The video opens on the male 'Creator' character. The shot is a medium close-up. He looks down with intense focus at his open hands. Swirling golden, star-like particles from his hair and clothes flow into his palms, coalescing and forming a brilliant, blue, crystalline core. The crystal pulses with a soft, internal light.\" }, { \"scene\": 2, \"time_start\": 4.0, \"time_end\": 10.0, \"description\": \"With a gentle push, the Creator sends the completed crystal floating forward. The camera follows the crystal as it glides across a dark, watery expanse towards the female 'Dancer', who stands waiting. As her fingertips make contact with the crystal, it shatters in a silent, brilliant flash of blue-white light. The energy flows into her, and she immediately erupts into a graceful dance as the massive vortex of fire swirls to life around her, matching the pose from the source image.\"}, \"audio_\":  \"Powerful, cinematic, and dynamic stereo. The sound design follows the narrative arc from creation to ignition.\"",
-  "content": "A male character creates a glowing crystal core and sends it to a female character, who absorbs its power to begin a magnificent fire dance on water.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 40,
-    "retweets": 5,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 19,
-    "views": 1430
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055981661733487063.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055728914111373312/img/Qo1RW6VhzhFzMdUv.jpg"
+    "link": "https://x.com/IqraSaifiii"
   },
   "translations": {
-    "es": "Un personaje masculino crea un núcleo de cristal resplandeciente y lo envía a un personaje femenino, quien absorbe su poder para comenzar una magnífica danza de fuego sobre el agua.",
-    "fr": "Un personnage masculin crée un noyau de cristal lumineux et l'envoie à un personnage féminin, qui absorbe son pouvoir pour commencer une danse de feu magnifique sur l'eau.",
-    "ja": "---\n男性キャラクターが輝くクリスタルコアを作り、それを女性キャラクターに送り、彼女はその力を吸収して水上で壮大な火の舞を始める。",
-    "ko": "남성 캐릭터가 빛나는 수정 핵을 만들어 여성 캐릭터에게 보내면, 그녀는 그 힘을 흡수하여 물 위에서 장엄한 불의 춤을 시작합니다.",
-    "pt-BR": "Um personagem masculino cria um núcleo de cristal brilhante e o envia para uma personagem feminina, que absorve seu poder para iniciar uma magnífica dança de fogo sobre a água.",
-    "zh-CN": "一名男性角色创造了一个发光的水晶核心，并将其送给一名女性角色，她吸收了其力量，在水面上开始了一场壮丽的火焰舞蹈。"
+    "es": {
+      "content": "Un personaje masculino crea un núcleo de cristal resplandeciente y lo envía a un personaje femenino, quien absorbe su poder para comenzar una magnífica danza de fuego sobre el agua."
+    },
+    "fr": {
+      "content": "Un personnage masculin crée un noyau de cristal lumineux et l'envoie à un personnage féminin, qui absorbe son pouvoir pour commencer une danse de feu magnifique sur l'eau."
+    },
+    "ja": {
+      "content": "---\n男性キャラクターが輝くクリスタルコアを作り、それを女性キャラクターに送り、彼女はその力を吸収して水上で壮大な火の舞を始める。"
+    },
+    "ko": {
+      "content": "남성 캐릭터가 빛나는 수정 핵을 만들어 여성 캐릭터에게 보내면, 그녀는 그 힘을 흡수하여 물 위에서 장엄한 불의 춤을 시작합니다."
+    },
+    "pt": {
+      "content": "Um personagem masculino cria um núcleo de cristal brilhante e o envia para uma personagem feminina, que absorve seu poder para iniciar uma magnífica dança de fogo sobre a água."
+    },
+    "zh": {
+      "content": "一名男性角色创造了一个发光的水晶核心，并将其送给一名女性角色，她吸收了其力量，在水面上开始了一场壮丽的火焰舞蹈。"
+    }
   }
 }

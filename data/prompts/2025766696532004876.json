@@ -1,37 +1,34 @@
 {
   "id": "2025766696532004876",
-  "type": "prompt",
-  "url": "https://x.com/liyue_ai/status/2025766696532004876",
+  "title": "人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新",
+  "content": "人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新\n\n0-1秒：素色简约襦裙，温婉少女，站定垂手，素手轻拢衣袖，清冷古风氛围感，暖调低饱和色调，柔光滤镜，中景跟拍，画面稳定",
   "language": "zh",
-  "created_at": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025766567343169537/img/qcGPvrWnsvykSQnP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025766696532004876.mp4",
+  "sourceLink": "https://x.com/liyue_ai/status/2025766696532004876",
+  "sourcePublishedAt": "2026-02-23",
   "author": {
     "name": "李岳",
-    "username": "liyue_ai",
-    "url": "https://x.com/liyue_ai",
-    "followers": 8474
-  },
-  "text": "Seedance 2.0生成美女卡点换装视频。\n\n提示词：\n人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新\n \n0-1秒：素色简约襦裙，温婉少女，站定垂手，素手轻拢衣袖，清冷古风氛围感，暖调低饱和色调，柔光滤镜，中景跟拍，画面稳定 https://t.co/3HGqS4GEfP",
-  "content": "人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新\n\n0-1秒：素色简约襦裙，温婉少女，站定垂手，素手轻拢衣袖，清冷古风氛围感，暖调低饱和色调，柔光滤镜，中景跟拍，画面稳定",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 194,
-    "retweets": 30,
-    "replies": 17,
-    "quotes": 2,
-    "bookmarks": 134,
-    "views": 16140
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025766696532004876.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025766567343169537/img/qcGPvrWnsvykSQnP.jpg"
+    "link": "https://x.com/liyue_ai"
   },
   "translations": {
-    "en": "Character: Pure, cute, beautiful woman, fair skin, a mole at the corner of the eye, slender figure, fair complexion, fresh and natural\n\n0-1 second: Plain and simple ruqun, gentle young lady, standing with hands down, delicate hands lightly gathering sleeves, cool ancient style atmosphere, warm low-saturation tones, soft light filter, medium shot tracking, stable image",
-    "es": "---\nPersonaje: inocente, adorable, belleza, piel blanca fría, un lunar en la esquina del ojo, figura delgada, piel clara, estilo fresco y limpio\n\n0-1 segundos: vestido tradicional sencillo de colores neutros, joven delicada, de pie con las manos caídas, manos suaves ajustando las mangas, atmósfera de estilo antiguo y frío, tonos cálidos de baja saturación, filtro de luz suave, seguimiento en plano medio, imagen estable\n---",
-    "fr": "---\nPersonnage : pure, mignonne, belle femme, peau blanche froide, grain de beauté au coin de l'œil, silhouette élancée, peau claire, style frais et épuré\n\n0-1 seconde : robe traditionnelle simple et unie, jeune fille gracieuse, debout avec les mains baissées, mains délicates ajustant légèrement les manches, ambiance froide de style ancien, tonalité chaude et faible saturation, filtre de lumière douce, suivi en plan moyen, image stable\n---",
-    "ja": "---\n人物：清純、可愛、美人、冷白肌、目尻にほくろ、細身、肌が白い、小清新\n\n0-1秒：素色でシンプルな襦裙、温和な少女、立って手を垂らし、素手で袖を軽く整える、清冷な古風の雰囲気、暖色系の低彩度トーン、柔らかい光のフィルター、中景のカメラパン、画面は安定\n---",
-    "ko": "---\n인물: 청순, 귀여움, 미녀, 차가운 백색 피부, 눈가에 점이 있는, 날씬한 체형, 하얀 피부, 상쾌한 느낌\n\n0-1초: 소박하고 간결한 여름옷, 온화한 소녀, 손을 내리고 서 있는 모습, 손으로 소매를 살짝 잡은 모습, 차가운 고풍스러운 분위기, 따뜻한 저채도 색조, 부드러운 조명 필터, 중경 카메라 pan, 화면 안정적\n---",
-    "pt-BR": "---\n人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新\n\n0-1秒：素色简约襦裙，温婉少女，站定垂手，素手轻拢衣袖，清冷古风氛围感，暖调低饱和色调，柔光滤镜，中景跟拍，画面稳定\n---"
+    "en": {
+      "content": "Character: Pure, cute, beautiful woman, fair skin, a mole at the corner of the eye, slender figure, fair complexion, fresh and natural\n\n0-1 second: Plain and simple ruqun, gentle young lady, standing with hands down, delicate hands lightly gathering sleeves, cool ancient style atmosphere, warm low-saturation tones, soft light filter, medium shot tracking, stable image"
+    },
+    "es": {
+      "content": "---\nPersonaje: inocente, adorable, belleza, piel blanca fría, un lunar en la esquina del ojo, figura delgada, piel clara, estilo fresco y limpio\n\n0-1 segundos: vestido tradicional sencillo de colores neutros, joven delicada, de pie con las manos caídas, manos suaves ajustando las mangas, atmósfera de estilo antiguo y frío, tonos cálidos de baja saturación, filtro de luz suave, seguimiento en plano medio, imagen estable\n---"
+    },
+    "fr": {
+      "content": "---\nPersonnage : pure, mignonne, belle femme, peau blanche froide, grain de beauté au coin de l'œil, silhouette élancée, peau claire, style frais et épuré\n\n0-1 seconde : robe traditionnelle simple et unie, jeune fille gracieuse, debout avec les mains baissées, mains délicates ajustant légèrement les manches, ambiance froide de style ancien, tonalité chaude et faible saturation, filtre de lumière douce, suivi en plan moyen, image stable\n---"
+    },
+    "ja": {
+      "content": "---\n人物：清純、可愛、美人、冷白肌、目尻にほくろ、細身、肌が白い、小清新\n\n0-1秒：素色でシンプルな襦裙、温和な少女、立って手を垂らし、素手で袖を軽く整える、清冷な古風の雰囲気、暖色系の低彩度トーン、柔らかい光のフィルター、中景のカメラパン、画面は安定\n---"
+    },
+    "ko": {
+      "content": "---\n인물: 청순, 귀여움, 미녀, 차가운 백색 피부, 눈가에 점이 있는, 날씬한 체형, 하얀 피부, 상쾌한 느낌\n\n0-1초: 소박하고 간결한 여름옷, 온화한 소녀, 손을 내리고 서 있는 모습, 손으로 소매를 살짝 잡은 모습, 차가운 고풍스러운 분위기, 따뜻한 저채도 색조, 부드러운 조명 필터, 중경 카메라 pan, 화면 안정적\n---"
+    },
+    "pt": {
+      "content": "---\n人物：清纯，可爱，美女，冷白皮，眼角有一颗痣，身形纤细，皮肤白皙，小清新\n\n0-1秒：素色简约襦裙，温婉少女，站定垂手，素手轻拢衣袖，清冷古风氛围感，暖调低饱和色调，柔光滤镜，中景跟拍，画面稳定\n---"
+    }
   }
 }

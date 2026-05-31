@@ -1,37 +1,35 @@
 {
   "id": "2058573653332341058",
-  "type": "tip",
-  "url": "https://x.com/HeyAbhishek/status/2058573653332341058",
+  "title": "Open canvas at https://t.co/r1h6omJK2T, upload your storyboard image, select…",
+  "content": "Open canvas at https://t.co/r1h6omJK2T, upload your storyboard image, select Seedance 2.0, then click Generate to create the video.",
   "language": "en",
-  "created_at": "2026-05-24",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058573573254754304/img/JysjwLMT2GGyhQ0x.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058573653332341058.mp4",
+  "sourceLink": "https://x.com/HeyAbhishek/status/2058573653332341058",
+  "sourcePublishedAt": "2026-05-24",
   "author": {
     "name": "Abhishek",
-    "username": "HeyAbhishek",
-    "url": "https://x.com/HeyAbhishek",
-    "followers": 109260
+    "link": "https://x.com/HeyAbhishek"
   },
-  "text": "Step 2:\n\nGo to https://t.co/r1h6omJK2T\n\nThen:\n→ Open canvas\n→ Upload the storyboard image\n→ Select Seedance 2.0\n→ Generate the video\n\nDone.\n\nSeedance 2.0 prompt below 👇 https://t.co/chXEnKUB01",
-  "content": "Open canvas at https://t.co/r1h6omJK2T, upload your storyboard image, select Seedance 2.0, then click Generate to create the video.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 32,
-    "retweets": 1,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 52,
-    "views": 5655
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058573653332341058.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058573573254754304/img/JysjwLMT2GGyhQ0x.jpg"
-  },
+  "tips": "Open canvas at https://t.co/r1h6omJK2T, upload your storyboard image, select Seedance 2.0, then click Generate to create the video.",
   "translations": {
-    "es": "Abre el lienzo en https://t.co/r1h6omJK2T, sube tu imagen de storyboard, selecciona Seedance 2.0, luego haz clic en Generar para crear el video.",
-    "fr": "Ouvrez la toile à l'adresse https://t.co/r1h6omJK2T, téléchargez votre image de storyboard, sélectionnez Seedance 2.0, puis cliquez sur Generate pour créer la vidéo.",
-    "ja": "キャンバスを https://t.co/r1h6omJK2T で開き、ストーリーボード画像をアップロードし、Seedance 2.0 を選択してから、Generate をクリックしてビデオを作成してください。",
-    "ko": "캔버스를 https://t.co/r1h6omJK2T에서 열고, 스토리보드 이미지를 업로드한 후, Seedance 2.0을 선택하고 Generate를 클릭하여 비디오를 생성하세요.",
-    "pt-BR": "Abra o canvas em https://t.co/r1h6omJK2T, faça o upload da imagem do seu storyboard, selecione Seedance 2.0 e clique em Generate para criar o vídeo.",
-    "zh-CN": "在 https://t.co/r1h6omJK2T 打开画布，上传你的故事板图像，选择 Seedance 2.0，然后点击 Generate 生成视频。"
+    "es": {
+      "content": "Abre el lienzo en https://t.co/r1h6omJK2T, sube tu imagen de storyboard, selecciona Seedance 2.0, luego haz clic en Generar para crear el video."
+    },
+    "fr": {
+      "content": "Ouvrez la toile à l'adresse https://t.co/r1h6omJK2T, téléchargez votre image de storyboard, sélectionnez Seedance 2.0, puis cliquez sur Generate pour créer la vidéo."
+    },
+    "ja": {
+      "content": "キャンバスを https://t.co/r1h6omJK2T で開き、ストーリーボード画像をアップロードし、Seedance 2.0 を選択してから、Generate をクリックしてビデオを作成してください。"
+    },
+    "ko": {
+      "content": "캔버스를 https://t.co/r1h6omJK2T에서 열고, 스토리보드 이미지를 업로드한 후, Seedance 2.0을 선택하고 Generate를 클릭하여 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Abra o canvas em https://t.co/r1h6omJK2T, faça o upload da imagem do seu storyboard, selecione Seedance 2.0 e clique em Generate para criar o vídeo."
+    },
+    "zh": {
+      "content": "在 https://t.co/r1h6omJK2T 打开画布，上传你的故事板图像，选择 Seedance 2.0，然后点击 Generate 生成视频。"
+    }
   }
 }

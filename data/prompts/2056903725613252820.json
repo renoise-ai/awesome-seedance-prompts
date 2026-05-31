@@ -1,37 +1,34 @@
 {
   "id": "2056903725613252820",
-  "type": "prompt",
-  "url": "https://x.com/BrentLynch/status/2056903725613252820",
+  "title": "Adapt this into a high-end, slick live-action cinematic film scene following…",
+  "content": "Adapt this into a high-end, slick live-action cinematic film scene following this production board, faithfully adapted from the provided production storyboard. Shot on location with an high end camera on 65mm film, capturing crisp, ultrafine film grain and dramatic cinematography.",
   "language": "en",
-  "created_at": "2026-05-20",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056900961130725376/img/Eo0yRKd2JhSu1Pi4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056903725613252820.mp4",
+  "sourceLink": "https://x.com/BrentLynch/status/2056903725613252820",
+  "sourcePublishedAt": "2026-05-20",
   "author": {
     "name": "Brent Lynch",
-    "username": "BrentLynch",
-    "url": "https://x.com/BrentLynch",
-    "followers": 2476
-  },
-  "text": "⚔️BATTLE OF THE BOARDS🏄‍♀️\n\nGOOGLE OMNI vs SEEDANCE 2.0\n\nTake on some GNARLEY WAVES!\n\nGOOGLE on Top - Seedance 2.0 on Bottom\n\nLet's see how Google Omni and Seedance 2.0\nadapt the same Cinematic GPT Image 2 \nProduction Board for a Teen Surf Drama. \n\nPrompt:\nAdapt this into a high-end, slick live-action cinematic film scene following this production board, faithfully adapted from the provided production storyboard. Shot on location with an high end camera on 65mm film, capturing crisp, ultrafine film grain and dramatic cinematography.",
-  "content": "Adapt this into a high-end, slick live-action cinematic film scene following this production board, faithfully adapted from the provided production storyboard. Shot on location with an high end camera on 65mm film, capturing crisp, ultrafine film grain and dramatic cinematography.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 26,
-    "retweets": 4,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 20,
-    "views": 1559
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056903725613252820.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056900961130725376/img/Eo0yRKd2JhSu1Pi4.jpg"
+    "link": "https://x.com/BrentLynch"
   },
   "translations": {
-    "es": "Adapta esto en una escena cinematográfica de acción en vivo de alta gama y elegante, siguiendo este tablero de producción, fielmente adaptado del guion gráfico de producción proporcionado. Filmado en locación con una cámara de alta gama en película de 65 mm, capturando un grano de película nítido y ultrafino y una cinematografía dramática.",
-    "fr": "Adaptez ceci en une scène de film cinématographique en prises de vues réelles haut de gamme et élégante, en suivant fidèlement ce tableau de production, adapté du storyboard de production fourni. Tourné sur place avec une caméra haut de gamme sur film 65 mm, capturant un grain de film ultra-fin et net ainsi qu'une cinématographie dramatique.",
-    "ja": "このプロダクションボードに従って、高級で洗練された実写のシネマティックな映画シーンに適応させてください。提供されたプロダクションストーリーボードから忠実に適応されています。ロケーション撮影で、65mmフィルムの高級カメラを使用し、鮮明で超微細なフィルムグレインと劇的なシネマトグラフィーを捉えます。",
-    "ko": "제공된 제작 스토리보드를 충실히 각색하여, 이 프로덕션 보드를 따라 고급스럽고 세련된 실사 영화 장면으로 변환하십시오. 65mm 필름으로 고급 카메라를 사용하여 촬영하며, 선명하고 초미세한 필름 그레인과 극적인 촬영 기법을 포착합니다.",
-    "pt-BR": "Adapte isso para uma cena de filme cinematográfico de ação ao vivo de alto nível e elegante, seguindo este quadro de produção, fielmente adaptado do storyboard de produção fornecido. Filmado no local com uma câmera de alta qualidade em filme de 65mm, capturando grãos de filme nítidos e ultrafinos e cinematografia dramática.",
-    "zh-CN": "将其改编为高端、流畅的真人电影场景，遵循此制作板，忠实改编自提供的制作分镜头脚本。实地拍摄，使用高端相机拍摄65mm胶片，捕捉清晰、超细胶片颗粒和戏剧性的电影摄影。"
+    "es": {
+      "content": "Adapta esto en una escena cinematográfica de acción en vivo de alta gama y elegante, siguiendo este tablero de producción, fielmente adaptado del guion gráfico de producción proporcionado. Filmado en locación con una cámara de alta gama en película de 65 mm, capturando un grano de película nítido y ultrafino y una cinematografía dramática."
+    },
+    "fr": {
+      "content": "Adaptez ceci en une scène de film cinématographique en prises de vues réelles haut de gamme et élégante, en suivant fidèlement ce tableau de production, adapté du storyboard de production fourni. Tourné sur place avec une caméra haut de gamme sur film 65 mm, capturant un grain de film ultra-fin et net ainsi qu'une cinématographie dramatique."
+    },
+    "ja": {
+      "content": "このプロダクションボードに従って、高級で洗練された実写のシネマティックな映画シーンに適応させてください。提供されたプロダクションストーリーボードから忠実に適応されています。ロケーション撮影で、65mmフィルムの高級カメラを使用し、鮮明で超微細なフィルムグレインと劇的なシネマトグラフィーを捉えます。"
+    },
+    "ko": {
+      "content": "제공된 제작 스토리보드를 충실히 각색하여, 이 프로덕션 보드를 따라 고급스럽고 세련된 실사 영화 장면으로 변환하십시오. 65mm 필름으로 고급 카메라를 사용하여 촬영하며, 선명하고 초미세한 필름 그레인과 극적인 촬영 기법을 포착합니다."
+    },
+    "pt": {
+      "content": "Adapte isso para uma cena de filme cinematográfico de ação ao vivo de alto nível e elegante, seguindo este quadro de produção, fielmente adaptado do storyboard de produção fornecido. Filmado no local com uma câmera de alta qualidade em filme de 65mm, capturando grãos de filme nítidos e ultrafinos e cinematografia dramática."
+    },
+    "zh": {
+      "content": "将其改编为高端、流畅的真人电影场景，遵循此制作板，忠实改编自提供的制作分镜头脚本。实地拍摄，使用高端相机拍摄65mm胶片，捕捉清晰、超细胶片颗粒和戏剧性的电影摄影。"
+    }
   }
 }

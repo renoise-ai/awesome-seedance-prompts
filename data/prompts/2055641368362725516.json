@@ -1,37 +1,34 @@
 {
   "id": "2055641368362725516",
-  "type": "prompt",
-  "url": "https://x.com/Framer_X/status/2055641368362725516",
+  "title": "Change the girl in the video (@video) to the man in the image (@image).",
+  "content": "Change the girl in the video (@video) to the man in the image (@image).",
   "language": "en",
-  "created_at": "2026-05-16",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055641301610283009/img/XInxJwkGs3D1ntyu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055641368362725516.mp4",
+  "sourceLink": "https://x.com/Framer_X/status/2055641368362725516",
+  "sourcePublishedAt": "2026-05-16",
   "author": {
     "name": "Framer 🇱🇹",
-    "username": "Framer_X",
-    "url": "https://x.com/Framer_X",
-    "followers": 49112
-  },
-  "text": "Upload the video to Seedance 2.0 together with the character image as a reference, and use this prompt:\n\n1) Change the girl in the video (@video) to the man in the image (@image). https://t.co/R7YjKbXMhQ",
-  "content": "Change the girl in the video (@video) to the man in the image (@image).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 53,
-    "retweets": 4,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 48,
-    "views": 3848
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055641368362725516.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055641301610283009/img/XInxJwkGs3D1ntyu.jpg"
+    "link": "https://x.com/Framer_X"
   },
   "translations": {
-    "es": "Cambia a la chica en el video (@video) por el hombre en la imagen (@image).",
-    "fr": "Remplacez la fille dans la vidéo (@video) par l'homme dans l'image (@image).",
-    "ja": "ビデオの中の女の子を画像の中の男性に変更してください。",
-    "ko": "비디오 속 소녀를 이미지 속 남자로 변경하세요 (@video, @image).",
-    "pt-BR": "Altere a garota no vídeo (@video) para o homem na imagem (@image).",
-    "zh-CN": "将视频中的女孩 (@video) 替换为图像中的男子 (@image)。"
+    "es": {
+      "content": "Cambia a la chica en el video (@video) por el hombre en la imagen (@image)."
+    },
+    "fr": {
+      "content": "Remplacez la fille dans la vidéo (@video) par l'homme dans l'image (@image)."
+    },
+    "ja": {
+      "content": "ビデオの中の女の子を画像の中の男性に変更してください。"
+    },
+    "ko": {
+      "content": "비디오 속 소녀를 이미지 속 남자로 변경하세요 (@video, @image)."
+    },
+    "pt": {
+      "content": "Altere a garota no vídeo (@video) para o homem na imagem (@image)."
+    },
+    "zh": {
+      "content": "将视频中的女孩 (@video) 替换为图像中的男子 (@image)。"
+    }
   }
 }

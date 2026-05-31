@@ -1,42 +1,35 @@
 {
   "id": "2060452187298226432",
-  "type": "tip",
-  "url": "https://x.com/taigajim/status/2060452187298226432",
+  "title": "Use an After Effects script that runs ffmpeg to detect held-frame patterns in…",
+  "content": "Use an After Effects script that runs ffmpeg to detect held-frame patterns in Seedance 2 outputs, remove those frames, and auto-build a smoother clean comp.  \nAfter removing held frames, stretch the comp back to the original duration and increase the frame rate if needed to maintain smooth motion.",
   "language": "en",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060449026823069696/img/dk6gWxG2RYC5fhu1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060452187298226432.mp4",
+  "sourceLink": "https://x.com/taigajim/status/2060452187298226432",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "taigajim",
-    "username": "taigajim",
-    "url": "https://x.com/taigajim",
-    "followers": 229
+    "link": "https://x.com/taigajim"
   },
-  "text": "need smooth seedance 2 videos?\n\nthere's varying patterns of held frames that cause stuttering. built a small AE script that detects them with ffmpeg, plucks them out, and creates a smooth clean comp. \n\nno extra steps, just After Effects. \n\nstretch it back, up the framerate etc if needed.\n\nog idea from @TomLikesRobots",
-  "content": "Use an After Effects script that runs ffmpeg to detect held-frame patterns in Seedance 2 outputs, remove those frames, and auto-build a smoother clean comp.  \nAfter removing held frames, stretch the comp back to the original duration and increase the frame rate if needed to maintain smooth motion.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 71,
-    "retweets": 5,
-    "replies": 8,
-    "quotes": 3,
-    "bookmarks": 96,
-    "views": 6625
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060452187298226432.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060449026823069696/img/dk6gWxG2RYC5fhu1.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "linky link https://t.co/CEXnJzMEcB"
-    ]
-  },
+  "tips": "Use an After Effects script that runs ffmpeg to detect held-frame patterns in Seedance 2 outputs, remove those frames, and auto-build a smoother clean comp.  \nAfter removing held frames, stretch the comp back to the original duration and increase the frame rate if needed to maintain smooth motion.",
   "translations": {
-    "es": "Utiliza un script de After Effects que ejecuta ffmpeg para detectar patrones de fotogramas retenidos en las salidas de Seedance 2, eliminar esos fotogramas y construir automáticamente una composición limpia y más fluida.  \nDespués de eliminar los fotogramas retenidos, extiende la composición de nuevo a la duración original y aumenta la tasa de fotogramas si es necesario para mantener un movimiento suave.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] linky link https://t.co/CEXnJzMEcB",
-    "fr": "Utilisez un script After Effects qui exécute ffmpeg pour détecter les motifs de frames figées dans les sorties de Seedance 2, supprimer ces frames, et construire automatiquement une composition plus fluide et propre.  \nAprès avoir supprimé les frames figées, étirez la composition pour revenir à la durée originale et augmentez le taux de frames si nécessaire pour maintenir un mouvement fluide.\n\n--- SUITE DU FIL ---\n[Fil 1] lien lien https://t.co/CEXnJzMEcB",
-    "ja": "---\nAfter Effectsスクリプトを使用して、ffmpegを実行し、Seedance 2の出力における保持フレームパターンを検出し、それらのフレームを削除して、よりスムーズでクリーンなコンプを自動的に構築します。  \n保持フレームを削除した後、コンプを元の長さに戻し、必要に応じてフレームレートを上げてスムーズな動きを維持します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] linky link https://t.co/CEXnJzMEcB\n---",
-    "ko": "---\nSeedance 2 출력에서 정지 프레임 패턴을 감지하고 해당 프레임을 제거하여 더 부드러운 클린 컴프를 자동으로 구성하는 ffmpeg을 실행하는 After Effects 스크립트를 사용하세요.  \n정지 프레임을 제거한 후, 컴프를 원래의 길이로 다시 늘리고, 필요한 경우 부드러운 움직임을 유지하기 위해 프레임 속도를 증가시키세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 링크 링크 https://t.co/CEXnJzMEcB\n---",
-    "pt-BR": "Use um script do After Effects que executa o ffmpeg para detectar padrões de quadros mantidos nas saídas do Seedance 2, remover esses quadros e construir automaticamente uma composição limpa e mais suave.  \nApós remover os quadros mantidos, estique a composição de volta à duração original e aumente a taxa de quadros, se necessário, para manter o movimento suave.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] linky link https://t.co/CEXnJzMEcB",
-    "zh-CN": "使用一个After Effects脚本，该脚本运行ffmpeg以检测Seedance 2输出中的静止帧模式，移除这些帧，并自动构建一个更流畅的干净合成。  \n在移除静止帧后，将合成拉伸回原始时长，并在需要时增加帧率以保持流畅的运动。\n\n--- 线程继续 ---\n[线程 1] 链接 https://t.co/CEXnJzMEcB"
+    "es": {
+      "content": "Utiliza un script de After Effects que ejecuta ffmpeg para detectar patrones de fotogramas retenidos en las salidas de Seedance 2, eliminar esos fotogramas y construir automáticamente una composición limpia y más fluida.  \nDespués de eliminar los fotogramas retenidos, extiende la composición de nuevo a la duración original y aumenta la tasa de fotogramas si es necesario para mantener un movimiento suave.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] linky link https://t.co/CEXnJzMEcB"
+    },
+    "fr": {
+      "content": "Utilisez un script After Effects qui exécute ffmpeg pour détecter les motifs de frames figées dans les sorties de Seedance 2, supprimer ces frames, et construire automatiquement une composition plus fluide et propre.  \nAprès avoir supprimé les frames figées, étirez la composition pour revenir à la durée originale et augmentez le taux de frames si nécessaire pour maintenir un mouvement fluide.\n\n--- SUITE DU FIL ---\n[Fil 1] lien lien https://t.co/CEXnJzMEcB"
+    },
+    "ja": {
+      "content": "---\nAfter Effectsスクリプトを使用して、ffmpegを実行し、Seedance 2の出力における保持フレームパターンを検出し、それらのフレームを削除して、よりスムーズでクリーンなコンプを自動的に構築します。  \n保持フレームを削除した後、コンプを元の長さに戻し、必要に応じてフレームレートを上げてスムーズな動きを維持します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] linky link https://t.co/CEXnJzMEcB\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2 출력에서 정지 프레임 패턴을 감지하고 해당 프레임을 제거하여 더 부드러운 클린 컴프를 자동으로 구성하는 ffmpeg을 실행하는 After Effects 스크립트를 사용하세요.  \n정지 프레임을 제거한 후, 컴프를 원래의 길이로 다시 늘리고, 필요한 경우 부드러운 움직임을 유지하기 위해 프레임 속도를 증가시키세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 링크 링크 https://t.co/CEXnJzMEcB\n---"
+    },
+    "pt": {
+      "content": "Use um script do After Effects que executa o ffmpeg para detectar padrões de quadros mantidos nas saídas do Seedance 2, remover esses quadros e construir automaticamente uma composição limpa e mais suave.  \nApós remover os quadros mantidos, estique a composição de volta à duração original e aumente a taxa de quadros, se necessário, para manter o movimento suave.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] linky link https://t.co/CEXnJzMEcB"
+    },
+    "zh": {
+      "content": "使用一个After Effects脚本，该脚本运行ffmpeg以检测Seedance 2输出中的静止帧模式，移除这些帧，并自动构建一个更流畅的干净合成。  \n在移除静止帧后，将合成拉伸回原始时长，并在需要时增加帧率以保持流畅的运动。\n\n--- 线程继续 ---\n[线程 1] 链接 https://t.co/CEXnJzMEcB"
+    }
   }
 }

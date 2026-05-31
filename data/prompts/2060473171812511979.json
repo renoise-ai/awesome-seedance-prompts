@@ -1,37 +1,34 @@
 {
   "id": "2060473171812511979",
-  "type": "prompt",
-  "url": "https://x.com/migrok293703/status/2060473171812511979",
+  "title": "经典的90年代迪士尼动画风格。场景1 [0-3秒]：在沙漠中一座宫殿前，强大的豺狼神阿努比斯正在施展魔法。他微微抬起双臂，利爪掌心凝聚着闪电魔法，用他那威严的声…",
+  "content": "经典的90年代迪士尼动画风格。场景1 [0-3秒]：在沙漠中一座宫殿前，强大的豺狼神阿努比斯正在施展魔法。他微微抬起双臂，利爪掌心凝聚着闪电魔法，用他那威严的声音说道：“人类，你们将为你们的傲慢付出代价！”",
   "language": "zh",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/media/HJhF1qkWEAMznW5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060473171812511979.mp4",
+  "sourceLink": "https://x.com/migrok293703/status/2060473171812511979",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "migrok",
-    "username": "migrok293703",
-    "url": "https://x.com/migrok293703",
-    "followers": 3607
-  },
-  "text": "Generated with Seedance 2.0.\n\nPrompt:\n\n经典的90年代迪士尼动画风格。场景1 [0-3秒]：在沙漠中一座宫殿前，强大的豺狼神阿努比斯正在施展魔法。他微微抬起双臂，利爪掌心凝聚着闪电魔法，用他那威严的声音说道：“人类，你们将为你们的傲慢付出代价！” https://t.co/x5IrqVVS23",
-  "content": "经典的90年代迪士尼动画风格。场景1 [0-3秒]：在沙漠中一座宫殿前，强大的豺狼神阿努比斯正在施展魔法。他微微抬起双臂，利爪掌心凝聚着闪电魔法，用他那威严的声音说道：“人类，你们将为你们的傲慢付出代价！”",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 177,
-    "retweets": 18,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 70,
-    "views": 7880
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060473171812511979.mp4",
-    "thumbnail": "https://pbs.twimg.com/media/HJhF1qkWEAMznW5.jpg"
+    "link": "https://x.com/migrok293703"
   },
   "translations": {
-    "en": "Classic 90s Disney animation style. Scene 1 [0-3 seconds]: In front of a palace in the desert, the powerful jackal god Anubis is casting a spell. He slightly raises his arms, with lightning magic gathering in the palms of his claws, and says in his majestic voice, \"Humans, you will pay for your arrogance!\"",
-    "es": "---\nEstilo clásico de animación de Disney de los años 90. Escena 1 [0-3 segundos]: Frente a un palacio en el desierto, el poderoso dios chacal Anubis está realizando magia. Levanta ligeramente sus brazos, con las palmas de sus garras concentrando magia de relámpagos, y con su voz majestuosa dice: \"¡Humanos, pagarán por su arrogancia!\"\n---",
-    "fr": "---\nStyle classique des animations Disney des années 90. Scène 1 [0-3 secondes] : Devant un palais dans le désert, le puissant dieu chacal Anubis est en train de lancer un sort. Il lève légèrement les bras, des éclairs magiques se concentrant dans ses paumes griffues, et dit d'une voix imposante : « Humains, vous allez payer pour votre arrogance ! »\n---",
-    "ja": "---\nクラシックな90年代ディズニーアニメーションスタイル。シーン1 [0-3秒]：砂漠の中の宮殿の前で、強大なジャッカル神アヌビスが魔法を使っています。彼は腕を少し持ち上げ、鋭い爪の手のひらに稲妻の魔法を集め、威厳のある声で言いました：「人間たちよ、お前たちの傲慢さの代償を払うことになるだろう！」\n---",
-    "ko": "---\n클래식한 90년대 디즈니 애니메이션 스타일. Scene 1 [0-3초]: 사막에 있는 궁전 앞에서 강력한 자칼 신 아누비스가 마법을 부리고 있다. 그는 팔을 살짝 들어 올리고, 발톱이 있는 손바닥에 번개 마법을 모으며 위엄 있는 목소리로 말한다. \"인간들이여, 너희의 오만함에 대한 대가를 치르게 될 것이다!\"\n---",
-    "pt-BR": "Estilo clássico de animação da Disney dos anos 90. Cena 1 [0-3 segundos]: Em frente a um palácio no deserto, o poderoso deus chacal Anúbis está realizando magia. Ele levanta levemente os braços, com as garras nas palmas das mãos concentrando magia de relâmpago, e com sua voz majestosa diz: \"Humanos, vocês pagarão por sua arrogância!\""
+    "en": {
+      "content": "Classic 90s Disney animation style. Scene 1 [0-3 seconds]: In front of a palace in the desert, the powerful jackal god Anubis is casting a spell. He slightly raises his arms, with lightning magic gathering in the palms of his claws, and says in his majestic voice, \"Humans, you will pay for your arrogance!\""
+    },
+    "es": {
+      "content": "---\nEstilo clásico de animación de Disney de los años 90. Escena 1 [0-3 segundos]: Frente a un palacio en el desierto, el poderoso dios chacal Anubis está realizando magia. Levanta ligeramente sus brazos, con las palmas de sus garras concentrando magia de relámpagos, y con su voz majestuosa dice: \"¡Humanos, pagarán por su arrogancia!\"\n---"
+    },
+    "fr": {
+      "content": "---\nStyle classique des animations Disney des années 90. Scène 1 [0-3 secondes] : Devant un palais dans le désert, le puissant dieu chacal Anubis est en train de lancer un sort. Il lève légèrement les bras, des éclairs magiques se concentrant dans ses paumes griffues, et dit d'une voix imposante : « Humains, vous allez payer pour votre arrogance ! »\n---"
+    },
+    "ja": {
+      "content": "---\nクラシックな90年代ディズニーアニメーションスタイル。シーン1 [0-3秒]：砂漠の中の宮殿の前で、強大なジャッカル神アヌビスが魔法を使っています。彼は腕を少し持ち上げ、鋭い爪の手のひらに稲妻の魔法を集め、威厳のある声で言いました：「人間たちよ、お前たちの傲慢さの代償を払うことになるだろう！」\n---"
+    },
+    "ko": {
+      "content": "---\n클래식한 90년대 디즈니 애니메이션 스타일. Scene 1 [0-3초]: 사막에 있는 궁전 앞에서 강력한 자칼 신 아누비스가 마법을 부리고 있다. 그는 팔을 살짝 들어 올리고, 발톱이 있는 손바닥에 번개 마법을 모으며 위엄 있는 목소리로 말한다. \"인간들이여, 너희의 오만함에 대한 대가를 치르게 될 것이다!\"\n---"
+    },
+    "pt": {
+      "content": "Estilo clássico de animação da Disney dos anos 90. Cena 1 [0-3 segundos]: Em frente a um palácio no deserto, o poderoso deus chacal Anúbis está realizando magia. Ele levanta levemente os braços, com as garras nas palmas das mãos concentrando magia de relâmpago, e com sua voz majestosa diz: \"Humanos, vocês pagarão por sua arrogância!\""
+    }
   }
 }

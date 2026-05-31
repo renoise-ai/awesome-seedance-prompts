@@ -1,42 +1,35 @@
 {
   "id": "2060010411756572891",
-  "type": "tip",
-  "url": "https://x.com/IATheYoker/status/2060010411756572891",
+  "title": "Genera primero la escena/estilo con GPT Image 2 y luego usa esa imagen como…",
+  "content": "Genera primero la escena/estilo con GPT Image 2 y luego usa esa imagen como base en Seedance 2.0 para añadir movimiento y convertirla en un plano secuencia.",
   "language": "es",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060010360414089216/img/fKYps9KQR9jKIkh9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060010411756572891.mp4",
+  "sourceLink": "https://x.com/IATheYoker/status/2060010411756572891",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "YokerAI",
-    "username": "IATheYoker",
-    "url": "https://x.com/IATheYoker",
-    "followers": 118845
+    "link": "https://x.com/IATheYoker"
   },
-  "text": "No es una película.\n\nNo es una cámara corriendo detrás de un actor.\n\nEs GPT Image 2 + Seedance 2.0 en @PolloAIES\n\nCreé un personaje ficticio escapando por una calle de noche…\n\ny Seedance lo convirtió en un plano secuencia con persecución, cámara en mano y beso final a cámara.\n\nGPT Image 2 puso la escena.\n\nSeedance 2.0 puso el movimiento.\n\nY ahí está la locura:\n\nya no estás generando vídeos.\n\nEstás dirigiendo escenas.\n\n@itsPolloAI está marcando la diferencia.",
-  "content": "Genera primero la escena/estilo con GPT Image 2 y luego usa esa imagen como base en Seedance 2.0 para añadir movimiento y convertirla en un plano secuencia.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 25,
-    "retweets": 3,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 16,
-    "views": 66303
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060010411756572891.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060010360414089216/img/fKYps9KQR9jKIkh9.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "Aquí os dejo el tutorial.\n\nSolo entré en en @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq"
-    ]
-  },
+  "tips": "Genera primero la escena/estilo con GPT Image 2 y luego usa esa imagen como base en Seedance 2.0 para añadir movimiento y convertirla en un plano secuencia.",
   "translations": {
-    "en": "First, generate the scene/style with GPT Image 2 and then use that image as a base in Seedance 2.0 to add movement and turn it into a continuous shot.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here is the tutorial.\n\nI just went to @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq",
-    "fr": "---\nGénérez d'abord la scène/style avec GPT Image 2, puis utilisez cette image comme base dans Seedance 2.0 pour ajouter du mouvement et la transformer en un plan-séquence.\n\n--- SUITE DU FIL ---\n[Fil 1] Voici le tutoriel.\n\nJe suis simplement allé sur @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq\n---",
-    "ja": "---\nまず、GPT Image 2でシーン/スタイルを生成し、その画像をSeedance 2.0で基にして動きを加え、シネマティックなカメラパンに変換します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] ここにチュートリアルを置いておきます。\n\n@itsPolloAIに入るだけで → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq\n---",
-    "ko": "---\n먼저 GPT Image 2로 장면/스타일을 생성한 후, Seedance 2.0에서 그 이미지를 기반으로 사용하여 움직임을 추가하고 시퀀스 샷으로 변환하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 여기 튜토리얼을 남깁니다.\n\n@itsPolloAI에만 들어갔습니다 → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq\n---",
-    "pt-BR": "---\nPrimeiro, gere a cena/estilo com o GPT Image 2 e depois use essa imagem como base no Seedance 2.0 para adicionar movimento e transformá-la em um plano sequência.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Aqui está o tutorial.\n\nApenas entrei em @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq\n---",
-    "zh-CN": "首先使用 GPT Image 2 生成场景/风格，然后在 Seedance 2.0 中使用该图像作为基础，添加运动并将其转换为一个长镜头。\n\n--- 线程继续 ---\n[线程 1] 这里是教程。\n\n只需进入 @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq"
+    "en": {
+      "content": "First, generate the scene/style with GPT Image 2 and then use that image as a base in Seedance 2.0 to add movement and turn it into a continuous shot.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here is the tutorial.\n\nI just went to @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq"
+    },
+    "fr": {
+      "content": "---\nGénérez d'abord la scène/style avec GPT Image 2, puis utilisez cette image comme base dans Seedance 2.0 pour ajouter du mouvement et la transformer en un plan-séquence.\n\n--- SUITE DU FIL ---\n[Fil 1] Voici le tutoriel.\n\nJe suis simplement allé sur @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq\n---"
+    },
+    "ja": {
+      "content": "---\nまず、GPT Image 2でシーン/スタイルを生成し、その画像をSeedance 2.0で基にして動きを加え、シネマティックなカメラパンに変換します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] ここにチュートリアルを置いておきます。\n\n@itsPolloAIに入るだけで → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 GPT Image 2로 장면/스타일을 생성한 후, Seedance 2.0에서 그 이미지를 기반으로 사용하여 움직임을 추가하고 시퀀스 샷으로 변환하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 여기 튜토리얼을 남깁니다.\n\n@itsPolloAI에만 들어갔습니다 → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq\n---"
+    },
+    "pt": {
+      "content": "---\nPrimeiro, gere a cena/estilo com o GPT Image 2 e depois use essa imagem como base no Seedance 2.0 para adicionar movimento e transformá-la em um plano sequência.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Aqui está o tutorial.\n\nApenas entrei em @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq\n---"
+    },
+    "zh": {
+      "content": "首先使用 GPT Image 2 生成场景/风格，然后在 Seedance 2.0 中使用该图像作为基础，添加运动并将其转换为一个长镜头。\n\n--- 线程继续 ---\n[线程 1] 这里是教程。\n\n只需进入 @itsPolloAI → https://t.co/mPdbzuyvnI https://t.co/pgqRgYYLXq"
+    }
   }
 }

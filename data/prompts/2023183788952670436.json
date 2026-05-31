@@ -1,37 +1,34 @@
 {
   "id": "2023183788952670436",
-  "type": "prompt",
-  "url": "https://x.com/zhzHNN/status/2023183788952670436",
+  "title": "A family is defending a monster.",
+  "content": "A family is defending a monster.",
   "language": "en",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023183735953465344/img/DScgaj_nSAZF-HVg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023183788952670436.mp4",
+  "sourceLink": "https://x.com/zhzHNN/status/2023183788952670436",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "Huaizheng Zhang",
-    "username": "zhzHNN",
-    "url": "https://x.com/zhzHNN",
-    "followers": 1730
-  },
-  "text": "Seedance 2.0 Fast. Prompt: A family is defending a monster. https://t.co/THxEbb5f58",
-  "content": "A family is defending a monster.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 18,
-    "retweets": 0,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 4,
-    "views": 1330
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023183788952670436.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023183735953465344/img/DScgaj_nSAZF-HVg.jpg"
+    "link": "https://x.com/zhzHNN"
   },
   "translations": {
-    "es": "Una familia está defendiendo a un monstruo.",
-    "fr": "Une famille défend un monstre.",
-    "ja": "家族がモンスターを守っている。",
-    "ko": "가족이 괴물을 방어하고 있다.",
-    "pt-BR": "Uma família está defendendo um monstro.",
-    "zh-CN": "一家人在保护一只怪物。"
+    "es": {
+      "content": "Una familia está defendiendo a un monstruo."
+    },
+    "fr": {
+      "content": "Une famille défend un monstre."
+    },
+    "ja": {
+      "content": "家族がモンスターを守っている。"
+    },
+    "ko": {
+      "content": "가족이 괴물을 방어하고 있다."
+    },
+    "pt": {
+      "content": "Uma família está defendendo um monstro."
+    },
+    "zh": {
+      "content": "一家人在保护一只怪物。"
+    }
   }
 }

@@ -1,37 +1,34 @@
 {
   "id": "2056584026794967048",
-  "type": "prompt",
-  "url": "https://x.com/rahulnanda86/status/2056584026794967048",
+  "title": "Scene: Night vision footage of a skin walker walking through the forest at…",
+  "content": "Scene: Night vision footage of a skin walker walking through the forest at night.\nLocation: Black Hollow Forest, USA (fictional).\nDuration: 10 seconds.\nFeatures: Realistic compressed footage feel, timestamps, date overlay, and ambient forest sounds.",
   "language": "en",
-  "created_at": "2026-05-19",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056583998298898432/img/I5RX2-1kfYD9LNE4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056584026794967048.mp4",
+  "sourceLink": "https://x.com/rahulnanda86/status/2056584026794967048",
+  "sourcePublishedAt": "2026-05-19",
   "author": {
     "name": "Rahul Nanda",
-    "username": "rahulnanda86",
-    "url": "https://x.com/rahulnanda86",
-    "followers": 25402
-  },
-  "text": "SKINWALKER CAUGHT ON TRAIL CAMERA\n\nSeedance 2 Prompt:\nScene: Night vision footage of a skin walker walking through the forest at night.\nLocation: Black Hollow Forest, USA (fictional).\nDuration: 10 seconds.\nFeatures: Realistic compressed footage feel, timestamps, date overlay, and ambient forest sounds.\nYou can view and download the video using the link below:",
-  "content": "Scene: Night vision footage of a skin walker walking through the forest at night.\nLocation: Black Hollow Forest, USA (fictional).\nDuration: 10 seconds.\nFeatures: Realistic compressed footage feel, timestamps, date overlay, and ambient forest sounds.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 9,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 1,
-    "bookmarks": 3,
-    "views": 1168
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056584026794967048.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056583998298898432/img/I5RX2-1kfYD9LNE4.jpg"
+    "link": "https://x.com/rahulnanda86"
   },
   "translations": {
-    "es": "---\nEscena: Imágenes de visión nocturna de un skin walker caminando por el bosque de noche.  \nUbicación: Black Hollow Forest, EE. UU. (ficticio).  \nDuración: 10 segundos.  \nCaracterísticas: Sensación de metraje comprimido realista, marcas de tiempo, superposición de fecha y sonidos ambientales del bosque.  \n---",
-    "fr": "---\nScène : Vidéo en vision nocturne d'un skin walker traversant la forêt la nuit.  \nLieu : Forêt de Black Hollow, USA (fictif).  \nDurée : 10 secondes.  \nCaractéristiques : Sensation réaliste de vidéo compressée, incrustation de l'heure et de la date, et sons ambiants de la forêt.  \n---",
-    "ja": "---\nシーン: 夜間の森を歩くスキンウォーカーのナイトビジョン映像。\n場所: ブラックホロウフォレスト、アメリカ（架空）。\n時間: 10秒。\n特徴: リアルな圧縮映像の雰囲気、タイムスタンプ、日付のオーバーレイ、森の環境音。\n---",
-    "ko": "---\n장면: 밤에 숲을 걷고 있는 스킨 워커의 야간 투시 영상.\n장소: 블랙 할로우 숲, 미국 (가상).\n지속 시간: 10초.\n특징: 현실적인 압축 영상 느낌, 타임스탬프, 날짜 오버레이, 주변 숲 소리.\n---",
-    "pt-BR": "Cena: Filmagem de visão noturna de um skin walker caminhando pela floresta à noite.  \nLocalização: Black Hollow Forest, EUA (ficcional).  \nDuração: 10 segundos.  \nCaracterísticas: Sensação realista de filmagem comprimida, carimbos de data/hora, sobreposição de data e sons ambientes da floresta.",
-    "zh-CN": "---\n场景：夜视镜头拍摄的一个皮肤行者在夜间穿过森林的画面。  \n地点：黑色空洞森林，美国（虚构）。  \n时长：10秒。  \n特点：逼真的压缩录像效果，时间戳，日期叠加，以及环境森林声效。  \n---"
+    "es": {
+      "content": "---\nEscena: Imágenes de visión nocturna de un skin walker caminando por el bosque de noche.  \nUbicación: Black Hollow Forest, EE. UU. (ficticio).  \nDuración: 10 segundos.  \nCaracterísticas: Sensación de metraje comprimido realista, marcas de tiempo, superposición de fecha y sonidos ambientales del bosque.  \n---"
+    },
+    "fr": {
+      "content": "---\nScène : Vidéo en vision nocturne d'un skin walker traversant la forêt la nuit.  \nLieu : Forêt de Black Hollow, USA (fictif).  \nDurée : 10 secondes.  \nCaractéristiques : Sensation réaliste de vidéo compressée, incrustation de l'heure et de la date, et sons ambiants de la forêt.  \n---"
+    },
+    "ja": {
+      "content": "---\nシーン: 夜間の森を歩くスキンウォーカーのナイトビジョン映像。\n場所: ブラックホロウフォレスト、アメリカ（架空）。\n時間: 10秒。\n特徴: リアルな圧縮映像の雰囲気、タイムスタンプ、日付のオーバーレイ、森の環境音。\n---"
+    },
+    "ko": {
+      "content": "---\n장면: 밤에 숲을 걷고 있는 스킨 워커의 야간 투시 영상.\n장소: 블랙 할로우 숲, 미국 (가상).\n지속 시간: 10초.\n특징: 현실적인 압축 영상 느낌, 타임스탬프, 날짜 오버레이, 주변 숲 소리.\n---"
+    },
+    "pt": {
+      "content": "Cena: Filmagem de visão noturna de um skin walker caminhando pela floresta à noite.  \nLocalização: Black Hollow Forest, EUA (ficcional).  \nDuração: 10 segundos.  \nCaracterísticas: Sensação realista de filmagem comprimida, carimbos de data/hora, sobreposição de data e sons ambientes da floresta."
+    },
+    "zh": {
+      "content": "---\n场景：夜视镜头拍摄的一个皮肤行者在夜间穿过森林的画面。  \n地点：黑色空洞森林，美国（虚构）。  \n时长：10秒。  \n特点：逼真的压缩录像效果，时间戳，日期叠加，以及环境森林声效。  \n---"
+    }
   }
 }

@@ -1,34 +1,34 @@
 {
   "id": "2025621830451761235",
-  "type": "tip",
-  "url": "https://x.com/D_studioproject/status/2025621830451761235",
+  "title": "For wuxia-style clips, lean into high-speed movement + dynamic action + camera…",
+  "content": "For wuxia-style clips, lean into high-speed movement + dynamic action + camera flow prompts to get smooth motion with minimal glitches.  \nUse Seedance 2.0’s built-in sound and SFX first, then do only minimal manual tuning to reach a bold, cinematic mix.  \nIf fantasy effects (energy/portals) look unrealistic in raw generations, iterate with better prompting and trial-and-error to improve realism quickly.",
   "language": "en",
-  "created_at": "2026-02-22",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/D_studioproject/status/2025621830451761235",
+  "sourcePublishedAt": "2026-02-22",
   "author": {
     "name": "DStudioproject",
-    "username": "D_studioproject",
-    "url": "https://x.com/D_studioproject",
-    "followers": 4587
+    "link": "https://x.com/D_studioproject"
   },
-  "text": "exploring Seedance 2.0 with wuxia vibes during early access on @YouArtStudio \n\nthe motion is already impressively smooth. high speed movement, dynamic action and camera flow land cleanly with almost no glitches. built in sound and SFX feel bold and cinematic, with only minimal manual tuning needed.\n\nfor fantasy, some effects still need refinement. certain moments like energy or portal interactions don’t fully sell realism straight out of raw generations. with better prompting and a bit of trial and error, this improves fast.\n\noverall, seedance 2.0 feels like a new baseline for how AI video will be generated. despite the ongoing IP discussions, this kind of tool clearly points toward faster, more precise and more controllable production workflows.",
-  "content": "For wuxia-style clips, lean into high-speed movement + dynamic action + camera flow prompts to get smooth motion with minimal glitches.  \nUse Seedance 2.0’s built-in sound and SFX first, then do only minimal manual tuning to reach a bold, cinematic mix.  \nIf fantasy effects (energy/portals) look unrealistic in raw generations, iterate with better prompting and trial-and-error to improve realism quickly.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 115,
-    "retweets": 9,
-    "replies": 11,
-    "quotes": 1,
-    "bookmarks": 39,
-    "views": 3420
-  },
-  "video": null,
+  "tips": "For wuxia-style clips, lean into high-speed movement + dynamic action + camera flow prompts to get smooth motion with minimal glitches.  \nUse Seedance 2.0’s built-in sound and SFX first, then do only minimal manual tuning to reach a bold, cinematic mix.  \nIf fantasy effects (energy/portals) look unrealistic in raw generations, iterate with better prompting and trial-and-error to improve realism quickly.",
   "translations": {
-    "es": "Para clips de estilo wuxia, inclínate hacia movimientos de alta velocidad + acción dinámica + prompts de flujo de cámara para obtener un movimiento suave con mínimos fallos.  \nUsa primero el sonido y los efectos de sonido integrados de Seedance 2.0, y luego haz solo un ajuste manual mínimo para lograr una mezcla audaz y cinematográfica.  \nSi los efectos de fantasía (energía/portales) parecen poco realistas en las generaciones iniciales, itera con mejores prompts y prueba y error para mejorar el realismo rápidamente.",
-    "fr": "Pour les clips de style wuxia, misez sur des mouvements à grande vitesse + une action dynamique + des prompts de flux de caméra pour obtenir un mouvement fluide avec un minimum de défauts.  \nUtilisez d'abord le son et les effets sonores intégrés de Seedance 2.0, puis effectuez uniquement des ajustements manuels minimaux pour atteindre un mix audacieux et cinématographique.  \nSi les effets fantastiques (énergie/portails) semblent irréalistes dans les générations brutes, itérez avec de meilleurs prompts et des essais-erreurs pour améliorer rapidement le réalisme.",
-    "ja": "---\n武侠スタイルのクリップでは、高速移動 + ダイナミックなアクション + カメラフローのプロンプトを活用して、滑らかな動きを最小限のグリッチで実現します。  \nまずはSeedance 2.0の内蔵サウンドとSFXを使用し、大胆でシネマティックなミックスを達成するために、手動での微調整は最小限に抑えましょう。  \nファンタジー効果（エネルギー/ポータル）が生の生成で非現実的に見える場合は、より良いプロンプトと試行錯誤でリアリズムを迅速に向上させてください。  \n---",
-    "ko": "---\n무협 스타일의 클립에서는 고속 이동 + 역동적인 액션 + camera flow prompts를 활용하여 매끄러운 움직임과 최소한의 글리치를 얻으세요.  \nSeedance 2.0의 내장 사운드와 SFX를 먼저 사용한 후, 대담하고 영화적인 믹스를 위해 최소한의 수동 조정을 하세요.  \n판타지 효과(에너지/포털)가 원본 생성에서 비현실적으로 보일 경우, 더 나은 prompting과 시행착오를 통해 현실감을 빠르게 개선하세요.\n---",
-    "pt-BR": "Para clipes no estilo wuxia, foque em movimento de alta velocidade + ação dinâmica + prompts de fluxo de câmera para obter movimentos suaves com mínimas falhas.  \nUse primeiro o som e os efeitos sonoros (SFX) integrados do Seedance 2.0, depois faça apenas ajustes manuais mínimos para alcançar uma mistura ousada e cinematográfica.  \nSe os efeitos de fantasia (energia/portais) parecerem irreais nas gerações brutas, itere com melhores prompts e tentativa e erro para melhorar o realismo rapidamente.",
-    "zh-CN": "---\n对于武侠风格的片段，利用高速运动 + 动态动作 + camera flow prompts 来获得流畅的运动效果，并将故障降到最低。  \n首先使用Seedance 2.0内置的声音和音效，然后仅进行最少的手动调整，以达到大胆的电影级混音效果。  \n如果在原始生成中幻想效果（能量/传送门）看起来不够真实，通过更好的prompting和反复试验快速提高真实感。  \n---"
+    "es": {
+      "content": "Para clips de estilo wuxia, inclínate hacia movimientos de alta velocidad + acción dinámica + prompts de flujo de cámara para obtener un movimiento suave con mínimos fallos.  \nUsa primero el sonido y los efectos de sonido integrados de Seedance 2.0, y luego haz solo un ajuste manual mínimo para lograr una mezcla audaz y cinematográfica.  \nSi los efectos de fantasía (energía/portales) parecen poco realistas en las generaciones iniciales, itera con mejores prompts y prueba y error para mejorar el realismo rápidamente."
+    },
+    "fr": {
+      "content": "Pour les clips de style wuxia, misez sur des mouvements à grande vitesse + une action dynamique + des prompts de flux de caméra pour obtenir un mouvement fluide avec un minimum de défauts.  \nUtilisez d'abord le son et les effets sonores intégrés de Seedance 2.0, puis effectuez uniquement des ajustements manuels minimaux pour atteindre un mix audacieux et cinématographique.  \nSi les effets fantastiques (énergie/portails) semblent irréalistes dans les générations brutes, itérez avec de meilleurs prompts et des essais-erreurs pour améliorer rapidement le réalisme."
+    },
+    "ja": {
+      "content": "---\n武侠スタイルのクリップでは、高速移動 + ダイナミックなアクション + カメラフローのプロンプトを活用して、滑らかな動きを最小限のグリッチで実現します。  \nまずはSeedance 2.0の内蔵サウンドとSFXを使用し、大胆でシネマティックなミックスを達成するために、手動での微調整は最小限に抑えましょう。  \nファンタジー効果（エネルギー/ポータル）が生の生成で非現実的に見える場合は、より良いプロンプトと試行錯誤でリアリズムを迅速に向上させてください。  \n---"
+    },
+    "ko": {
+      "content": "---\n무협 스타일의 클립에서는 고속 이동 + 역동적인 액션 + camera flow prompts를 활용하여 매끄러운 움직임과 최소한의 글리치를 얻으세요.  \nSeedance 2.0의 내장 사운드와 SFX를 먼저 사용한 후, 대담하고 영화적인 믹스를 위해 최소한의 수동 조정을 하세요.  \n판타지 효과(에너지/포털)가 원본 생성에서 비현실적으로 보일 경우, 더 나은 prompting과 시행착오를 통해 현실감을 빠르게 개선하세요.\n---"
+    },
+    "pt": {
+      "content": "Para clipes no estilo wuxia, foque em movimento de alta velocidade + ação dinâmica + prompts de fluxo de câmera para obter movimentos suaves com mínimas falhas.  \nUse primeiro o som e os efeitos sonoros (SFX) integrados do Seedance 2.0, depois faça apenas ajustes manuais mínimos para alcançar uma mistura ousada e cinematográfica.  \nSe os efeitos de fantasia (energia/portais) parecerem irreais nas gerações brutas, itere com melhores prompts e tentativa e erro para melhorar o realismo rapidamente."
+    },
+    "zh": {
+      "content": "---\n对于武侠风格的片段，利用高速运动 + 动态动作 + camera flow prompts 来获得流畅的运动效果，并将故障降到最低。  \n首先使用Seedance 2.0内置的声音和音效，然后仅进行最少的手动调整，以达到大胆的电影级混音效果。  \n如果在原始生成中幻想效果（能量/传送门）看起来不够真实，通过更好的prompting和反复试验快速提高真实感。  \n---"
+    }
   }
 }

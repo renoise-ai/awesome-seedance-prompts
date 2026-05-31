@@ -1,42 +1,35 @@
 {
   "id": "2023153028552126753",
-  "type": "tip",
-  "url": "https://x.com/pleometric/status/2023153028552126753",
+  "title": "Prompt Seedance in Chinese to get better prompt adherence.",
+  "content": "Prompt Seedance in Chinese to get better prompt adherence.",
   "language": "en",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023152903213723648/img/-Sh1UemQQCRLqDhw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023153028552126753.mp4",
+  "sourceLink": "https://x.com/pleometric/status/2023153028552126753",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "Pleometric",
-    "username": "pleometric",
-    "url": "https://x.com/pleometric",
-    "followers": 6181
+    "link": "https://x.com/pleometric"
   },
-  "text": "Seedance prompt adherence + multimedia refs are incredible. It's especially good when you have 3D rigs doing to use for motion ref. Last time I had this much fun was when Disco Diffusion came out.  \n\nIt's good enough to produce a full season of a short form bubble drama. https://t.co/dA3Pefweh5",
-  "content": "Prompt Seedance in Chinese to get better prompt adherence.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 48,
-    "retweets": 1,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 4,
-    "views": 2512
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023153028552126753.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023152903213723648/img/-Sh1UemQQCRLqDhw.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "a pro tip is to prompt it in chinese for better adherence. I had to repost this, for some reason it double posted..."
-    ]
-  },
+  "tips": "Prompt Seedance in Chinese to get better prompt adherence.",
   "translations": {
-    "es": "---\nPrompt Seedance en chino para obtener una mejor adherencia al prompt.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] un consejo profesional es hacer el prompt en chino para una mejor adherencia. Tuve que volver a publicar esto, por alguna razón se publicó dos veces...\n---",
-    "fr": "---\nUtilisez le prompt Seedance en chinois pour obtenir une meilleure conformité au prompt.\n\n--- SUITE DU FIL ---\n[Fil 1] Un conseil de pro est de le formuler en chinois pour une meilleure conformité. J'ai dû le reposter, pour une raison quelconque, il a été posté deux fois...\n---",
-    "ja": "---\nプロンプトを中国語でSeedanceすると、プロンプトの遵守が向上します。\n\n--- スレッドの続き ---\n[スレッド1] プロのヒントとして、中国語でプロンプトを入力すると、より良い遵守が得られます。何らかの理由で二重投稿されてしまったので、再投稿しました...\n---",
-    "ko": "---\n중국어로 Seedance 프롬프트를 입력하면 더 나은 프롬프트 준수를 얻을 수 있습니다.\n\n--- 스레드 계속 ---\n[스레드 1] 더 나은 준수를 위해 중국어로 프롬프트를 입력하는 것이 전문가 팁입니다. 어떤 이유에서인지 두 번 게시되어 다시 게시해야 했습니다...\n---",
-    "pt-BR": "Prompt Seedance em chinês para obter melhor adesão ao prompt.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] uma dica profissional é fazer o prompt em chinês para melhor adesão. Tive que repostar isso, por algum motivo foi postado duas vezes...",
-    "zh-CN": "---\n提示 Seedance 用中文以获得更好的提示遵从性。\n\n--- 线程继续 ---\n[线程 1] 一个专业提示是用中文提示以获得更好的遵从性。我不得不重新发布这个，不知为何它重复发布了...\n---"
+    "es": {
+      "content": "---\nPrompt Seedance en chino para obtener una mejor adherencia al prompt.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] un consejo profesional es hacer el prompt en chino para una mejor adherencia. Tuve que volver a publicar esto, por alguna razón se publicó dos veces...\n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez le prompt Seedance en chinois pour obtenir une meilleure conformité au prompt.\n\n--- SUITE DU FIL ---\n[Fil 1] Un conseil de pro est de le formuler en chinois pour une meilleure conformité. J'ai dû le reposter, pour une raison quelconque, il a été posté deux fois...\n---"
+    },
+    "ja": {
+      "content": "---\nプロンプトを中国語でSeedanceすると、プロンプトの遵守が向上します。\n\n--- スレッドの続き ---\n[スレッド1] プロのヒントとして、中国語でプロンプトを入力すると、より良い遵守が得られます。何らかの理由で二重投稿されてしまったので、再投稿しました...\n---"
+    },
+    "ko": {
+      "content": "---\n중국어로 Seedance 프롬프트를 입력하면 더 나은 프롬프트 준수를 얻을 수 있습니다.\n\n--- 스레드 계속 ---\n[스레드 1] 더 나은 준수를 위해 중국어로 프롬프트를 입력하는 것이 전문가 팁입니다. 어떤 이유에서인지 두 번 게시되어 다시 게시해야 했습니다...\n---"
+    },
+    "pt": {
+      "content": "Prompt Seedance em chinês para obter melhor adesão ao prompt.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] uma dica profissional é fazer o prompt em chinês para melhor adesão. Tive que repostar isso, por algum motivo foi postado duas vezes..."
+    },
+    "zh": {
+      "content": "---\n提示 Seedance 用中文以获得更好的提示遵从性。\n\n--- 线程继续 ---\n[线程 1] 一个专业提示是用中文提示以获得更好的遵从性。我不得不重新发布这个，不知为何它重复发布了...\n---"
+    }
   }
 }

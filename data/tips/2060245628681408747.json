@@ -1,43 +1,35 @@
 {
   "id": "2060245628681408747",
-  "type": "tip",
-  "url": "https://x.com/yoshifujidesign/status/2060245628681408747",
+  "title": "Omniで狙った絵柄（例：浮世絵）が再現できない場合は、Seedance 2.0に切り替えてスタイル再現を試す",
+  "content": "Omniで狙った絵柄（例：浮世絵）が再現できない場合は、Seedance 2.0に切り替えてスタイル再現を試す",
   "language": "ja",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060245444652150784/img/ZnNODDaEZAWMEzkn.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060245628681408747.mp4",
+  "sourceLink": "https://x.com/yoshifujidesign/status/2060245628681408747",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "FUJI / Presentation designer",
-    "username": "yoshifujidesign",
-    "url": "https://x.com/yoshifujidesign",
-    "followers": 22473
+    "link": "https://x.com/yoshifujidesign"
   },
-  "text": "浮世絵でやってみた。\n\nOmniは浮世絵の絵柄をうまく再現してくれなかったのでSeedance 2.0です。 https://t.co/AGym7Z2dQh",
-  "content": "Omniで狙った絵柄（例：浮世絵）が再現できない場合は、Seedance 2.0に切り替えてスタイル再現を試す",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 2772,
-    "retweets": 277,
-    "replies": 20,
-    "quotes": 47,
-    "bookmarks": 1329,
-    "views": 351630
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060245628681408747.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060245444652150784/img/ZnNODDaEZAWMEzkn.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "Gave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi",
-    "thread_texts": [
-      "とりあえず置き場所作った。\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s"
-    ]
-  },
+  "tips": "Omniで狙った絵柄（例：浮世絵）が再現できない場合は、Seedance 2.0に切り替えてスタイル再現を試す",
   "translations": {
-    "en": "If you can't recreate the desired style (e.g., Ukiyo-e) with Omni, switch to Seedance 2.0 and try style reproduction.\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Thread 1] For now, I've created a place to store it.\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s\n---",
-    "es": "Si no puedes reproducir el estilo deseado en Omni (por ejemplo: ukiyo-e), intenta cambiar a Seedance 2.0 para probar la reproducción de estilo.\n\n--- QUOTED TWEET ---\nLe di a Google Omni una ruta de cámara esbozada y le pedí que generara imágenes desde la perspectiva de un dron. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Hilo 1] Por ahora, he creado un lugar para ello.\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s",
-    "fr": "Si vous ne parvenez pas à reproduire le style visuel souhaité avec Omni (par exemple : ukiyo-e), essayez de passer à Seedance 2.0 pour tenter de reproduire le style.\n\n--- TWEET CITÉ ---\nJ'ai donné à Google Omni un chemin de caméra esquissé et lui ai demandé de générer des images en POV de drone. https://t.co/cQZFMtOkEi\n\n--- SUITE DU FIL ---\n[Fil 1] J'ai créé un emplacement pour l'instant.\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s",
-    "ko": "Omniで狙った絵柄（例：浮世絵）が再現できない場合は、Seedance 2.0に切り替えてスタイル再現を試す\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Thread 1] とりあえず置き場所作った。\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s",
-    "pt-BR": "Se não for possível reproduzir o estilo desejado no Omni (por exemplo: ukiyo-e), tente mudar para o Seedance 2.0 para tentar a reprodução do estilo.\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Thread 1] Por enquanto, criei um local para isso.\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s",
-    "zh-CN": "如果在Omni中无法再现目标风格（例如：浮世绘），请切换到Seedance 2.0尝试风格再现。\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Thread 1] 暂时创建了一个存放位置。\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s"
+    "en": {
+      "content": "If you can't recreate the desired style (e.g., Ukiyo-e) with Omni, switch to Seedance 2.0 and try style reproduction.\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Thread 1] For now, I've created a place to store it.\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s\n---"
+    },
+    "es": {
+      "content": "Si no puedes reproducir el estilo deseado en Omni (por ejemplo: ukiyo-e), intenta cambiar a Seedance 2.0 para probar la reproducción de estilo.\n\n--- QUOTED TWEET ---\nLe di a Google Omni una ruta de cámara esbozada y le pedí que generara imágenes desde la perspectiva de un dron. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Hilo 1] Por ahora, he creado un lugar para ello.\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s"
+    },
+    "fr": {
+      "content": "Si vous ne parvenez pas à reproduire le style visuel souhaité avec Omni (par exemple : ukiyo-e), essayez de passer à Seedance 2.0 pour tenter de reproduire le style.\n\n--- TWEET CITÉ ---\nJ'ai donné à Google Omni un chemin de caméra esquissé et lui ai demandé de générer des images en POV de drone. https://t.co/cQZFMtOkEi\n\n--- SUITE DU FIL ---\n[Fil 1] J'ai créé un emplacement pour l'instant.\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s"
+    },
+    "ko": {
+      "content": "Omniで狙った絵柄（例：浮世絵）が再現できない場合は、Seedance 2.0に切り替えてスタイル再現を試す\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Thread 1] とりあえず置き場所作った。\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s"
+    },
+    "pt": {
+      "content": "Se não for possível reproduzir o estilo desejado no Omni (por exemplo: ukiyo-e), tente mudar para o Seedance 2.0 para tentar a reprodução do estilo.\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Thread 1] Por enquanto, criei um local para isso.\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s"
+    },
+    "zh": {
+      "content": "如果在Omni中无法再现目标风格（例如：浮世绘），请切换到Seedance 2.0尝试风格再现。\n\n--- QUOTED TWEET ---\nGave google omni a sketched camera path and asked it to generate drone POV footage. https://t.co/cQZFMtOkEi\n\n--- THREAD CONTINUATION ---\n[Thread 1] 暂时创建了一个存放位置。\n\nhttps://t.co/BgQN12duli https://t.co/D78sF8yv8s"
+    }
   }
 }

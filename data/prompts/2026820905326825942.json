@@ -1,42 +1,34 @@
 {
   "id": "2026820905326825942",
-  "type": "prompt",
-  "url": "https://x.com/Morph_VGart/status/2026820905326825942",
+  "title": "the statue of liberty's similarly looking mother comes by and chats about…",
+  "content": "the statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.",
   "language": "en",
-  "created_at": "2026-02-26",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026820805284294657/img/IvluSUS-HQBQ_1U6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026820905326825942.mp4",
+  "sourceLink": "https://x.com/Morph_VGart/status/2026820905326825942",
+  "sourcePublishedAt": "2026-02-26",
   "author": {
     "name": "Morph",
-    "username": "Morph_VGart",
-    "url": "https://x.com/Morph_VGart",
-    "followers": 27207
-  },
-  "text": "One prompt made this wholesome clip in Seedance 2.0 \n\nmade w/ @YouArtStudio https://t.co/aPASxlpxv5",
-  "content": "the statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 21,
-    "retweets": 3,
-    "replies": 4,
-    "quotes": 1,
-    "bookmarks": 3,
-    "views": 1707
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026820905326825942.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026820805284294657/img/IvluSUS-HQBQ_1U6.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome."
-    ]
+    "link": "https://x.com/Morph_VGart"
   },
   "translations": {
-    "es": "la madre de la estatua de la libertad, que se parece mucho a ella, viene y charla sobre querer finalmente un nieto. la estatua de la libertad está muy molesta por hablar de tener hijos, pero hay algo de amor entre madre e hija. conmovedor.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.",
-    "fr": "la mère ressemblant à la statue de la liberté vient discuter de son désir d'avoir enfin un petit-enfant. La statue de la liberté est très agacée de parler d'avoir des enfants, mais il y a un peu d'amour mère-fille entre elles. attendrissant.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---",
-    "ja": "---\n自由の女神にそっくりな母親がやってきて、ついに孫が欲しいと話し始めます。自由の女神は子供の話をされるのがとても嫌ですが、母と娘の愛情がそこにはあります。心温まる。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---",
-    "ko": "자유의 여신상과 닮은 어머니가 찾아와 드디어 손주를 보고 싶다고 이야기합니다. 자유의 여신상은 아이를 갖는 것에 대해 이야기하는 것이 매우 짜증스럽지만, 그들 사이에는 모녀 간의 사랑이 있습니다. 훈훈합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---",
-    "pt-BR": "a mãe da estátua da liberdade, que se parece com ela, aparece e conversa sobre querer finalmente ter um neto. a estátua da liberdade fica super irritada de falar sobre ter filhos, mas há um amor de mãe e filha entre elas. adorável.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---",
-    "zh-CN": "自由女神像的母亲长得很像她，过来聊天，说终于想要一个孙子。自由女神像对谈论生孩子感到非常烦恼，但她们之间仍然有一些母女之爱。温馨。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---"
+    "es": {
+      "content": "la madre de la estatua de la libertad, que se parece mucho a ella, viene y charla sobre querer finalmente un nieto. la estatua de la libertad está muy molesta por hablar de tener hijos, pero hay algo de amor entre madre e hija. conmovedor.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome."
+    },
+    "fr": {
+      "content": "la mère ressemblant à la statue de la liberté vient discuter de son désir d'avoir enfin un petit-enfant. La statue de la liberté est très agacée de parler d'avoir des enfants, mais il y a un peu d'amour mère-fille entre elles. attendrissant.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---"
+    },
+    "ja": {
+      "content": "---\n自由の女神にそっくりな母親がやってきて、ついに孫が欲しいと話し始めます。自由の女神は子供の話をされるのがとても嫌ですが、母と娘の愛情がそこにはあります。心温まる。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---"
+    },
+    "ko": {
+      "content": "자유의 여신상과 닮은 어머니가 찾아와 드디어 손주를 보고 싶다고 이야기합니다. 자유의 여신상은 아이를 갖는 것에 대해 이야기하는 것이 매우 짜증스럽지만, 그들 사이에는 모녀 간의 사랑이 있습니다. 훈훈합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---"
+    },
+    "pt": {
+      "content": "a mãe da estátua da liberdade, que se parece com ela, aparece e conversa sobre querer finalmente ter um neto. a estátua da liberdade fica super irritada de falar sobre ter filhos, mas há um amor de mãe e filha entre elas. adorável.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---"
+    },
+    "zh": {
+      "content": "自由女神像的母亲长得很像她，过来聊天，说终于想要一个孙子。自由女神像对谈论生孩子感到非常烦恼，但她们之间仍然有一些母女之爱。温馨。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt:\nthe statue of liberty's similarly looking mother comes by and chats about wanting to get a grandchild finally. the statue of liberty is super annoyed about talking about having kids, but there's some daughter mother love between them. wholesome.\n---"
+    }
   }
 }

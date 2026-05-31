@@ -1,38 +1,37 @@
 {
   "id": "2023131965860540845",
-  "type": "prompt",
-  "url": "https://x.com/pleometric/status/2023131965860540845",
+  "title": "Claude The Animation by Anthropic Studios",
+  "content": "Claude The Animation by Anthropic Studios",
   "language": "en",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023131826903015425/img/njRRXF-1uUE5bbXk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023131965860540845.mp4",
+  "sourceLink": "https://x.com/pleometric/status/2023131965860540845",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "Pleometric",
-    "username": "pleometric",
-    "url": "https://x.com/pleometric",
-    "followers": 6174
-  },
-  "text": "Seedance 2.0\n\nPrompt: Claude The Animation by Anthropic Studios https://t.co/uB0dFzBWwb",
-  "content": "Claude The Animation by Anthropic Studios",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 744,
-    "retweets": 45,
-    "replies": 30,
-    "quotes": 6,
-    "bookmarks": 174,
-    "views": 34191
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023131965860540845.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023131826903015425/img/njRRXF-1uUE5bbXk.jpg"
+    "link": "https://x.com/pleometric"
   },
   "translations": {
-    "en": "Claude The Animation by Anthropic Studios",
-    "es": "Claude La Animación por Anthropic Studios",
-    "fr": "Claude The Animation par Anthropic Studios",
-    "ja": "アンソロピック・スタジオによるアニメーション「Claude」",
-    "ko": "클로드 더 애니메이션 by Anthropic Studios",
-    "pt-BR": "Claude A Animação por Anthropic Studios",
-    "zh-CN": "---\nClaude The Animation by Anthropic Studios\n---"
+    "en": {
+      "content": "Claude The Animation by Anthropic Studios"
+    },
+    "es": {
+      "content": "Claude La Animación por Anthropic Studios"
+    },
+    "fr": {
+      "content": "Claude The Animation par Anthropic Studios"
+    },
+    "ja": {
+      "content": "アンソロピック・スタジオによるアニメーション「Claude」"
+    },
+    "ko": {
+      "content": "클로드 더 애니메이션 by Anthropic Studios"
+    },
+    "pt": {
+      "content": "Claude A Animação por Anthropic Studios"
+    },
+    "zh": {
+      "content": "---\nClaude The Animation by Anthropic Studios\n---"
+    }
   }
 }

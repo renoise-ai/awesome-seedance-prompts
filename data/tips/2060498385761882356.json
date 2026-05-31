@@ -1,40 +1,35 @@
 {
   "id": "2060498385761882356",
-  "type": "tip",
-  "url": "https://x.com/EHuanglu/status/2060498385761882356",
+  "title": "Start with a storyboard (not a single prompt): generate storyboard frames with…",
+  "content": "Start with a storyboard (not a single prompt): generate storyboard frames with GPT-image-2, arrange/refine scenes on a Figma-like canvas, then convert the storyboard into a Seedance 2.0 video for better control over the final film",
   "language": "en",
-  "created_at": "2026-05-29",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060498264773025792/img/0IurzST5isGJWZ2X.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060498385761882356.mp4",
+  "sourceLink": "https://x.com/EHuanglu/status/2060498385761882356",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "el.cine",
-    "username": "EHuanglu",
-    "url": "https://x.com/EHuanglu",
-    "followers": 131344
+    "link": "https://x.com/EHuanglu"
   },
-  "text": "this AI canvas is like Figma but for AI filmmaking\n\nthe AI agent brainstorm your idea, create storyboard with gpt image 2 and generate mins long film using seedance 2.. all by itself on @TopviewAIhq https://t.co/bluRtIY6YP",
-  "content": "Start with a storyboard (not a single prompt): generate storyboard frames with GPT-image-2, arrange/refine scenes on a Figma-like canvas, then convert the storyboard into a Seedance 2.0 video for better control over the final film",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 53,
-    "retweets": 5,
-    "replies": 5,
-    "quotes": 1,
-    "bookmarks": 45,
-    "views": 7956
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060498385761882356.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060498264773025792/img/0IurzST5isGJWZ2X.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "Most AI video tools start with a prompt.\n\nTopview Canvas starts with a storyboard.\n\nIntroducing Topview Canvas: the storyboard-first infinite canvas for AI video creation.\n\nGenerate storyboard frames with GPT-image-2, arrange and refine scenes on a Figma-like canvas, collaborate with an AI agent, then turn the storyboard into video with Seedance 2.0.\n\nNo more prompting blindly and hoping for the best.\n\nPlan visually. Control the story. Generate better video.\n\nAI video finally has a real creative workflow.\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking"
-  },
+  "tips": "Start with a storyboard (not a single prompt): generate storyboard frames with GPT-image-2, arrange/refine scenes on a Figma-like canvas, then convert the storyboard into a Seedance 2.0 video for better control over the final film",
   "translations": {
-    "es": "Comienza con un guion gráfico (no un solo prompt): genera fotogramas del guion gráfico con GPT-image-2, organiza/refina escenas en un lienzo similar a Figma, luego convierte el guion gráfico en un video Seedance 2.0 para tener mejor control sobre la película final.\n\n--- TWEET CITADO ---\nLa mayoría de las herramientas de video de IA comienzan con un prompt.\n\nTopview Canvas comienza con un guion gráfico.\n\nPresentamos Topview Canvas: el lienzo infinito que prioriza el guion gráfico para la creación de videos de IA.\n\nGenera fotogramas del guion gráfico con GPT-image-2, organiza y refina escenas en un lienzo similar a Figma, colabora con un agente de IA, luego convierte el guion gráfico en video con Seedance 2.0.\n\nNo más prompts a ciegas esperando lo mejor.\n\nPlanifica visualmente. Controla la historia. Genera mejores videos.\n\nEl video de IA finalmente tiene un flujo de trabajo creativo real.\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking",
-    "fr": "Commencez par un storyboard (pas un simple prompt) : générez des cadres de storyboard avec GPT-image-2, organisez/affinez les scènes sur une toile semblable à Figma, puis convertissez le storyboard en une vidéo Seedance 2.0 pour un meilleur contrôle sur le film final.\n\n--- TWEET CITÉ ---\nLa plupart des outils vidéo d'IA commencent par un prompt.\n\nTopview Canvas commence par un storyboard.\n\nPrésentation de Topview Canvas : la toile infinie axée sur le storyboard pour la création de vidéos IA.\n\nGénérez des cadres de storyboard avec GPT-image-2, organisez et affinez les scènes sur une toile semblable à Figma, collaborez avec un agent IA, puis transformez le storyboard en vidéo avec Seedance 2.0.\n\nFini les prompts à l'aveugle en espérant le meilleur.\n\nPlanifiez visuellement. Contrôlez l'histoire. Générez de meilleures vidéos.\n\nLa vidéo IA a enfin un véritable flux de travail créatif.\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking",
-    "ja": "---\nストーリーボードから始める（単一のプロンプトではなく）：GPT-image-2でストーリーボードフレームを生成し、Figmaのようなキャンバスでシーンを配置/洗練し、最終的な映画をより良く制御するためにストーリーボードをSeedance 2.0ビデオに変換します。\n\n--- 引用ツイート ---\nほとんどのAIビデオツールはプロンプトから始まります。\n\nTopview Canvasはストーリーボードから始まります。\n\nTopview Canvasの紹介：AIビデオ作成のためのストーリーボード優先の無限キャンバス。\n\nGPT-image-2でストーリーボードフレームを生成し、Figmaのようなキャンバスでシーンを配置して洗練し、AIエージェントと協力し、ストーリーボードをSeedance 2.0でビデオに変換します。\n\n盲目的にプロンプトを入力して最良を期待することはもうありません。\n\n視覚的に計画し、ストーリーを制御し、より良いビデオを生成します。\n\nAIビデオにはついに本当のクリエイティブなワークフローが登場しました。\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking\n---",
-    "ko": "---\n스토리보드로 시작하세요 (단일 프롬프트가 아님): GPT-image-2로 스토리보드 프레임을 생성하고, Figma와 유사한 캔버스에서 장면을 배열/정제한 후, Seedance 2.0 비디오로 변환하여 최종 영화에 대한 더 나은 제어를 얻으세요.\n\n--- 인용 트윗 ---\n대부분의 AI 비디오 도구는 프롬프트로 시작합니다.\n\nTopview Canvas는 스토리보드로 시작합니다.\n\nTopview Canvas 소개: AI 비디오 제작을 위한 스토리보드 우선 무한 캔버스.\n\nGPT-image-2로 스토리보드 프레임을 생성하고, Figma와 유사한 캔버스에서 장면을 배열하고 정제하며, AI 에이전트와 협력한 후 Seedance 2.0으로 스토리보드를 비디오로 변환하세요.\n\n더 이상 무작정 프롬프트를 입력하고 최선을 기대할 필요가 없습니다.\n\n시각적으로 계획하세요. 이야기를 제어하세요. 더 나은 비디오를 생성하세요.\n\nAI 비디오는 마침내 진정한 창의적 워크플로우를 갖추게 되었습니다.\n\n#TopviewAI #AI비디오 #생성AI #TopviewCanvas #AI스토리텔링 #AI영화제작\n---",
-    "pt-BR": "---\nComece com um storyboard (não um único prompt): gere quadros de storyboard com GPT-image-2, organize/refine cenas em uma tela semelhante ao Figma, depois converta o storyboard em um vídeo Seedance 2.0 para melhor controle sobre o filme final\n\n--- TWEET CITADO ---\nA maioria das ferramentas de vídeo de IA começa com um prompt.\n\nTopview Canvas começa com um storyboard.\n\nApresentando o Topview Canvas: a tela infinita que prioriza o storyboard para criação de vídeos de IA.\n\nGere quadros de storyboard com GPT-image-2, organize e refine cenas em uma tela semelhante ao Figma, colabore com um agente de IA, depois transforme o storyboard em vídeo com Seedance 2.0.\n\nChega de criar prompts às cegas e torcer pelo melhor.\n\nPlaneje visualmente. Controle a história. Gere vídeos melhores.\n\nFinalmente, o vídeo de IA tem um fluxo de trabalho criativo real.\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking\n---",
-    "zh-CN": "从故事板开始（而不是单一的prompt）：使用GPT-image-2生成故事板画面，在类似Figma的画布上排列/优化场景，然后将故事板转换为Seedance 2.0视频，以更好地控制最终影片。\n\n--- 引用推文 ---\n大多数AI视频工具从prompt开始。\n\nTopview Canvas从故事板开始。\n\n介绍Topview Canvas：以故事板为先的无限画布，用于AI视频创作。\n\n使用GPT-image-2生成故事板画面，在类似Figma的画布上排列和优化场景，与AI代理协作，然后使用Seedance 2.0将故事板转换为视频。\n\n不再盲目地提示并希望得到好的结果。\n\n视觉化计划。控制故事。生成更好的视频。\n\nAI视频终于有了真正的创意工作流程。\n\n#TopviewAI #AI视频 #生成式AI #TopviewCanvas #AI故事讲述 #AI电影制作"
+    "es": {
+      "content": "Comienza con un guion gráfico (no un solo prompt): genera fotogramas del guion gráfico con GPT-image-2, organiza/refina escenas en un lienzo similar a Figma, luego convierte el guion gráfico en un video Seedance 2.0 para tener mejor control sobre la película final.\n\n--- TWEET CITADO ---\nLa mayoría de las herramientas de video de IA comienzan con un prompt.\n\nTopview Canvas comienza con un guion gráfico.\n\nPresentamos Topview Canvas: el lienzo infinito que prioriza el guion gráfico para la creación de videos de IA.\n\nGenera fotogramas del guion gráfico con GPT-image-2, organiza y refina escenas en un lienzo similar a Figma, colabora con un agente de IA, luego convierte el guion gráfico en video con Seedance 2.0.\n\nNo más prompts a ciegas esperando lo mejor.\n\nPlanifica visualmente. Controla la historia. Genera mejores videos.\n\nEl video de IA finalmente tiene un flujo de trabajo creativo real.\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking"
+    },
+    "fr": {
+      "content": "Commencez par un storyboard (pas un simple prompt) : générez des cadres de storyboard avec GPT-image-2, organisez/affinez les scènes sur une toile semblable à Figma, puis convertissez le storyboard en une vidéo Seedance 2.0 pour un meilleur contrôle sur le film final.\n\n--- TWEET CITÉ ---\nLa plupart des outils vidéo d'IA commencent par un prompt.\n\nTopview Canvas commence par un storyboard.\n\nPrésentation de Topview Canvas : la toile infinie axée sur le storyboard pour la création de vidéos IA.\n\nGénérez des cadres de storyboard avec GPT-image-2, organisez et affinez les scènes sur une toile semblable à Figma, collaborez avec un agent IA, puis transformez le storyboard en vidéo avec Seedance 2.0.\n\nFini les prompts à l'aveugle en espérant le meilleur.\n\nPlanifiez visuellement. Contrôlez l'histoire. Générez de meilleures vidéos.\n\nLa vidéo IA a enfin un véritable flux de travail créatif.\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking"
+    },
+    "ja": {
+      "content": "---\nストーリーボードから始める（単一のプロンプトではなく）：GPT-image-2でストーリーボードフレームを生成し、Figmaのようなキャンバスでシーンを配置/洗練し、最終的な映画をより良く制御するためにストーリーボードをSeedance 2.0ビデオに変換します。\n\n--- 引用ツイート ---\nほとんどのAIビデオツールはプロンプトから始まります。\n\nTopview Canvasはストーリーボードから始まります。\n\nTopview Canvasの紹介：AIビデオ作成のためのストーリーボード優先の無限キャンバス。\n\nGPT-image-2でストーリーボードフレームを生成し、Figmaのようなキャンバスでシーンを配置して洗練し、AIエージェントと協力し、ストーリーボードをSeedance 2.0でビデオに変換します。\n\n盲目的にプロンプトを入力して最良を期待することはもうありません。\n\n視覚的に計画し、ストーリーを制御し、より良いビデオを生成します。\n\nAIビデオにはついに本当のクリエイティブなワークフローが登場しました。\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking\n---"
+    },
+    "ko": {
+      "content": "---\n스토리보드로 시작하세요 (단일 프롬프트가 아님): GPT-image-2로 스토리보드 프레임을 생성하고, Figma와 유사한 캔버스에서 장면을 배열/정제한 후, Seedance 2.0 비디오로 변환하여 최종 영화에 대한 더 나은 제어를 얻으세요.\n\n--- 인용 트윗 ---\n대부분의 AI 비디오 도구는 프롬프트로 시작합니다.\n\nTopview Canvas는 스토리보드로 시작합니다.\n\nTopview Canvas 소개: AI 비디오 제작을 위한 스토리보드 우선 무한 캔버스.\n\nGPT-image-2로 스토리보드 프레임을 생성하고, Figma와 유사한 캔버스에서 장면을 배열하고 정제하며, AI 에이전트와 협력한 후 Seedance 2.0으로 스토리보드를 비디오로 변환하세요.\n\n더 이상 무작정 프롬프트를 입력하고 최선을 기대할 필요가 없습니다.\n\n시각적으로 계획하세요. 이야기를 제어하세요. 더 나은 비디오를 생성하세요.\n\nAI 비디오는 마침내 진정한 창의적 워크플로우를 갖추게 되었습니다.\n\n#TopviewAI #AI비디오 #생성AI #TopviewCanvas #AI스토리텔링 #AI영화제작\n---"
+    },
+    "pt": {
+      "content": "---\nComece com um storyboard (não um único prompt): gere quadros de storyboard com GPT-image-2, organize/refine cenas em uma tela semelhante ao Figma, depois converta o storyboard em um vídeo Seedance 2.0 para melhor controle sobre o filme final\n\n--- TWEET CITADO ---\nA maioria das ferramentas de vídeo de IA começa com um prompt.\n\nTopview Canvas começa com um storyboard.\n\nApresentando o Topview Canvas: a tela infinita que prioriza o storyboard para criação de vídeos de IA.\n\nGere quadros de storyboard com GPT-image-2, organize e refine cenas em uma tela semelhante ao Figma, colabore com um agente de IA, depois transforme o storyboard em vídeo com Seedance 2.0.\n\nChega de criar prompts às cegas e torcer pelo melhor.\n\nPlaneje visualmente. Controle a história. Gere vídeos melhores.\n\nFinalmente, o vídeo de IA tem um fluxo de trabalho criativo real.\n\n#TopviewAI #AIvideo #GenerativeAI #TopviewCanvas #AIStorytelling #AIFilmmaking\n---"
+    },
+    "zh": {
+      "content": "从故事板开始（而不是单一的prompt）：使用GPT-image-2生成故事板画面，在类似Figma的画布上排列/优化场景，然后将故事板转换为Seedance 2.0视频，以更好地控制最终影片。\n\n--- 引用推文 ---\n大多数AI视频工具从prompt开始。\n\nTopview Canvas从故事板开始。\n\n介绍Topview Canvas：以故事板为先的无限画布，用于AI视频创作。\n\n使用GPT-image-2生成故事板画面，在类似Figma的画布上排列和优化场景，与AI代理协作，然后使用Seedance 2.0将故事板转换为视频。\n\n不再盲目地提示并希望得到好的结果。\n\n视觉化计划。控制故事。生成更好的视频。\n\nAI视频终于有了真正的创意工作流程。\n\n#TopviewAI #AI视频 #生成式AI #TopviewCanvas #AI故事讲述 #AI电影制作"
+    }
   }
 }

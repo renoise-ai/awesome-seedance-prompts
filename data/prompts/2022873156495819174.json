@@ -1,37 +1,34 @@
 {
   "id": "2022873156495819174",
-  "type": "prompt",
-  "url": "https://x.com/markgadala/status/2022873156495819174",
+  "title": "Jerry Seinfeld walks in on an episode of Friends",
+  "content": "Jerry Seinfeld walks in on an episode of Friends",
   "language": "en",
-  "created_at": "2026-02-15",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022873038514196480/img/2CVCE8GEROCxbBec.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022873156495819174.mp4",
+  "sourceLink": "https://x.com/markgadala/status/2022873156495819174",
+  "sourcePublishedAt": "2026-02-15",
   "author": {
     "name": "Mark Gadala-Maria",
-    "username": "markgadala",
-    "url": "https://x.com/markgadala",
-    "followers": 65221
-  },
-  "text": "Seedance is incredible.\n\nPrompt \"Jerry Seinfeld walks in on an episode of Friends\" https://t.co/0DRBoEYrZ5",
-  "content": "Jerry Seinfeld walks in on an episode of Friends",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 245,
-    "retweets": 16,
-    "replies": 34,
-    "quotes": 3,
-    "bookmarks": 77,
-    "views": 18370
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022873156495819174.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022873038514196480/img/2CVCE8GEROCxbBec.jpg"
+    "link": "https://x.com/markgadala"
   },
   "translations": {
-    "es": "Jerry Seinfeld entra en un episodio de Friends",
-    "fr": "Jerry Seinfeld entre dans un épisode de Friends",
-    "ja": "ジェリー・サインフェルドが『フレンズ』のエピソードに登場する",
-    "ko": "제리 사인펠드가 '프렌즈' 에피소드에 등장한다",
-    "pt-BR": "Jerry Seinfeld entra em um episódio de Friends",
-    "zh-CN": "杰瑞·宋飞走进《老友记》的一集"
+    "es": {
+      "content": "Jerry Seinfeld entra en un episodio de Friends"
+    },
+    "fr": {
+      "content": "Jerry Seinfeld entre dans un épisode de Friends"
+    },
+    "ja": {
+      "content": "ジェリー・サインフェルドが『フレンズ』のエピソードに登場する"
+    },
+    "ko": {
+      "content": "제리 사인펠드가 '프렌즈' 에피소드에 등장한다"
+    },
+    "pt": {
+      "content": "Jerry Seinfeld entra em um episódio de Friends"
+    },
+    "zh": {
+      "content": "杰瑞·宋飞走进《老友记》的一集"
+    }
   }
 }

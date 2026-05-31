@@ -1,37 +1,34 @@
 {
   "id": "2026043164427952441",
-  "type": "prompt",
-  "url": "https://x.com/LudovicCreator/status/2026043164427952441",
+  "title": "A massive shark glides silently through the deep blue, its shadow stretching…",
+  "content": "A massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling like shattered glass. Its eyes stay fixed ahead, unblinking, as it circles a coral ridge with quiet, ancient purpose.",
   "language": "en",
-  "created_at": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2026043136380661760/pu/img/yV94Ncf9ThU3EZBa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026043164427952441.mp4",
+  "sourceLink": "https://x.com/LudovicCreator/status/2026043164427952441",
+  "sourcePublishedAt": "2026-02-23",
   "author": {
     "name": "LudovicCreator",
-    "username": "LudovicCreator",
-    "url": "https://x.com/LudovicCreator",
-    "followers": 36288
-  },
-  "text": "🎨 SEEDANCE PRO 🎨\n\nPrompt  :\n\nA massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling like shattered glass. Its eyes stay fixed ahead, unblinking, as it circles a coral ridge with quiet, ancient purpose.\n\nMade in @Imagine_aiart\n\nCPP ImagineArt\n\nImage preview made with Imagine Art 1.5 ( first comment )\n1/2",
-  "content": "A massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling like shattered glass. Its eyes stay fixed ahead, unblinking, as it circles a coral ridge with quiet, ancient purpose.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 78,
-    "retweets": 11,
-    "replies": 5,
-    "quotes": 0,
-    "bookmarks": 30,
-    "views": 3066
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026043164427952441.mp4",
-    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2026043136380661760/pu/img/yV94Ncf9ThU3EZBa.jpg"
+    "link": "https://x.com/LudovicCreator"
   },
   "translations": {
-    "es": "Un tiburón enorme se desliza silenciosamente a través del azul profundo, su sombra se extiende por el fondo del océano. Bancos de peces se dispersan a su paso, la luz del sol arriba ondulando como vidrio roto. Sus ojos permanecen fijos hacia adelante, sin parpadear, mientras rodea una cresta de coral con un propósito silencioso y ancestral.",
-    "fr": "Un requin massif glisse silencieusement à travers le bleu profond, son ombre s'étendant sur le fond de l'océan. Des bancs de poissons se dispersent à son passage, la lumière du soleil au-dessus ondulant comme du verre brisé. Ses yeux restent fixés droit devant, sans ciller, alors qu'il tourne autour d'une crête de corail avec un but silencieux et ancien.",
-    "ja": "---\n巨大なサメが深い青の中を静かに滑るように進み、その影が海底に伸びている。サメが通り過ぎると魚の群れが散り、上の太陽光が砕けたガラスのように揺らめく。その目は瞬きせずに前方を見据え、静かで古代からの目的を持ってサンゴの尾根を巡っている。\n---",
-    "ko": "거대한 상어가 깊고 푸른 바다를 조용히 미끄러지듯 지나가며, 그 그림자가 바다 바닥에 길게 드리워집니다. 상어가 지나가자 물고기 떼가 흩어지고, 위의 햇빛은 깨진 유리처럼 일렁입니다. 상어의 눈은 깜빡이지 않고 앞을 응시하며, 고요하고 오래된 목적을 가지고 산호초를 맴돕니다.",
-    "pt-BR": "Um enorme tubarão desliza silenciosamente pelo azul profundo, sua sombra se estendendo pelo fundo do oceano. Cardumes de peixes se dispersam à medida que ele passa, a luz do sol acima ondulando como vidro quebrado. Seus olhos permanecem fixos à frente, sem piscar, enquanto ele circula uma crista de coral com um propósito silencioso e antigo.",
-    "zh-CN": "一只巨大的鲨鱼在深蓝色的海洋中静静滑行，它的影子在海底延伸。鱼群在它经过时四散而逃，上方的阳光像破碎的玻璃般波动。它的眼睛始终盯着前方，一眨不眨，带着宁静而古老的目的围绕着珊瑚脊游动。"
+    "es": {
+      "content": "Un tiburón enorme se desliza silenciosamente a través del azul profundo, su sombra se extiende por el fondo del océano. Bancos de peces se dispersan a su paso, la luz del sol arriba ondulando como vidrio roto. Sus ojos permanecen fijos hacia adelante, sin parpadear, mientras rodea una cresta de coral con un propósito silencioso y ancestral."
+    },
+    "fr": {
+      "content": "Un requin massif glisse silencieusement à travers le bleu profond, son ombre s'étendant sur le fond de l'océan. Des bancs de poissons se dispersent à son passage, la lumière du soleil au-dessus ondulant comme du verre brisé. Ses yeux restent fixés droit devant, sans ciller, alors qu'il tourne autour d'une crête de corail avec un but silencieux et ancien."
+    },
+    "ja": {
+      "content": "---\n巨大なサメが深い青の中を静かに滑るように進み、その影が海底に伸びている。サメが通り過ぎると魚の群れが散り、上の太陽光が砕けたガラスのように揺らめく。その目は瞬きせずに前方を見据え、静かで古代からの目的を持ってサンゴの尾根を巡っている。\n---"
+    },
+    "ko": {
+      "content": "거대한 상어가 깊고 푸른 바다를 조용히 미끄러지듯 지나가며, 그 그림자가 바다 바닥에 길게 드리워집니다. 상어가 지나가자 물고기 떼가 흩어지고, 위의 햇빛은 깨진 유리처럼 일렁입니다. 상어의 눈은 깜빡이지 않고 앞을 응시하며, 고요하고 오래된 목적을 가지고 산호초를 맴돕니다."
+    },
+    "pt": {
+      "content": "Um enorme tubarão desliza silenciosamente pelo azul profundo, sua sombra se estendendo pelo fundo do oceano. Cardumes de peixes se dispersam à medida que ele passa, a luz do sol acima ondulando como vidro quebrado. Seus olhos permanecem fixos à frente, sem piscar, enquanto ele circula uma crista de coral com um propósito silencioso e antigo."
+    },
+    "zh": {
+      "content": "一只巨大的鲨鱼在深蓝色的海洋中静静滑行，它的影子在海底延伸。鱼群在它经过时四散而逃，上方的阳光像破碎的玻璃般波动。它的眼睛始终盯着前方，一眨不眨，带着宁静而古老的目的围绕着珊瑚脊游动。"
+    }
   }
 }

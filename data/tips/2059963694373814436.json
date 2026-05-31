@@ -1,34 +1,34 @@
 {
   "id": "2059963694373814436",
-  "type": "tip",
-  "url": "https://x.com/Cia0_exe/status/2059963694373814436",
+  "title": "Prepare an image reference/character sheet first (you can generate it with GPT…",
+  "content": "Prepare an image reference/character sheet first (you can generate it with GPT 2.0/ChatGPT) and use it as the Seedance character reference.  \nUse Claude to draft a Seedance prompt in this template: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.",
   "language": "en",
-  "created_at": "2026-05-28",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Cia0_exe/status/2059963694373814436",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Cia0",
-    "username": "Cia0_exe",
-    "url": "https://x.com/Cia0_exe",
-    "followers": 7082
+    "link": "https://x.com/Cia0_exe"
   },
-  "text": "Prepare your image reference / Character You can create it with GPT 2.0 / chatgpt directly \n\nWrite this in Claude Create a Seedance prompt for character [name / upload reference sheet], scene [describe what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds",
-  "content": "Prepare an image reference/character sheet first (you can generate it with GPT 2.0/ChatGPT) and use it as the Seedance character reference.  \nUse Claude to draft a Seedance prompt in this template: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 6,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 0,
-    "views": 407
-  },
-  "video": null,
+  "tips": "Prepare an image reference/character sheet first (you can generate it with GPT 2.0/ChatGPT) and use it as the Seedance character reference.  \nUse Claude to draft a Seedance prompt in this template: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.",
   "translations": {
-    "es": "Primero prepara una referencia de imagen/hoja de personaje (puedes generarla con GPT 2.0/ChatGPT) y úsala como la referencia del personaje de Seedance.  \nUsa Claude para redactar un prompt de Seedance en este formato: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.",
-    "fr": "Préparez d'abord une référence d'image/fiche de personnage (vous pouvez la générer avec GPT 2.0/ChatGPT) et utilisez-la comme référence de personnage Seedance.  \nUtilisez Claude pour rédiger un prompt Seedance dans ce modèle : character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.",
-    "ja": "---\nまず、画像の参照/キャラクターシートを準備してください（GPT 2.0/ChatGPTで生成することができます）そして、それをSeedanceのキャラクター参照として使用します。  \nClaudeを使用して、次のテンプレートでSeedanceのプロンプトを作成してください: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.\n---",
-    "ko": "---\n먼저 이미지 참조/캐릭터 시트를 준비하세요 (GPT 2.0/ChatGPT로 생성할 수 있습니다) 그리고 Seedance 캐릭터 참조로 사용하세요.  \nClaude를 사용하여 다음 템플릿으로 Seedance 프롬프트를 초안하세요: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.\n---",
-    "pt-BR": "Prepare uma referência de imagem/ficha de personagem primeiro (você pode gerá-la com GPT 2.0/ChatGPT) e use-a como referência de personagem Seedance.  \nUse Claude para elaborar um prompt Seedance neste modelo: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.",
-    "zh-CN": "首先准备一个图像参考/角色表（可以使用GPT 2.0/ChatGPT生成），并将其用作Seedance角色参考。  \n使用Claude在此模板中起草一个Seedance prompt：character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds."
+    "es": {
+      "content": "Primero prepara una referencia de imagen/hoja de personaje (puedes generarla con GPT 2.0/ChatGPT) y úsala como la referencia del personaje de Seedance.  \nUsa Claude para redactar un prompt de Seedance en este formato: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds."
+    },
+    "fr": {
+      "content": "Préparez d'abord une référence d'image/fiche de personnage (vous pouvez la générer avec GPT 2.0/ChatGPT) et utilisez-la comme référence de personnage Seedance.  \nUtilisez Claude pour rédiger un prompt Seedance dans ce modèle : character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds."
+    },
+    "ja": {
+      "content": "---\nまず、画像の参照/キャラクターシートを準備してください（GPT 2.0/ChatGPTで生成することができます）そして、それをSeedanceのキャラクター参照として使用します。  \nClaudeを使用して、次のテンプレートでSeedanceのプロンプトを作成してください: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 이미지 참조/캐릭터 시트를 준비하세요 (GPT 2.0/ChatGPT로 생성할 수 있습니다) 그리고 Seedance 캐릭터 참조로 사용하세요.  \nClaude를 사용하여 다음 템플릿으로 Seedance 프롬프트를 초안하세요: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.\n---"
+    },
+    "pt": {
+      "content": "Prepare uma referência de imagem/ficha de personagem primeiro (você pode gerá-la com GPT 2.0/ChatGPT) e use-a como referência de personagem Seedance.  \nUse Claude para elaborar um prompt Seedance neste modelo: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds."
+    },
+    "zh": {
+      "content": "首先准备一个图像参考/角色表（可以使用GPT 2.0/ChatGPT生成），并将其用作Seedance角色参考。  \n使用Claude在此模板中起草一个Seedance prompt：character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds."
+    }
   }
 }

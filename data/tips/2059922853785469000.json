@@ -1,47 +1,35 @@
 {
   "id": "2059922853785469000",
-  "type": "tip",
-  "url": "https://x.com/techhalla/status/2059922853785469000",
+  "title": "Generate a stylized keyframe first with an image model (Nano Banana Pro or…",
+  "content": "Generate a stylized keyframe first with an image model (Nano Banana Pro or GPT‑2), then animate that image using Seedance 2.0 inside LTX Studio.",
   "language": "en",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059921404154322944/img/ACqh3nt5V9-8Bw0j.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059922853785469000.mp4",
+  "sourceLink": "https://x.com/techhalla/status/2059922853785469000",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "TechHalla",
-    "username": "techhalla",
-    "url": "https://x.com/techhalla",
-    "followers": 90163
+    "link": "https://x.com/techhalla"
   },
-  "text": "These 5 titles deserve a video game.\n\nPrompts for Nano Banana, GPT-2, and Seedance 2.0, tested on LTX Studio, below 👇 https://t.co/hUXXvHWKTz",
-  "content": "Generate a stylized keyframe first with an image model (Nano Banana Pro or GPT‑2), then animate that image using Seedance 2.0 inside LTX Studio.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 132,
-    "retweets": 14,
-    "replies": 11,
-    "quotes": 4,
-    "bookmarks": 96,
-    "views": 30525
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059922853785469000.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059921404154322944/img/ACqh3nt5V9-8Bw0j.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "The workflow is very simple, as we are first going to use an image model (NB or GPT2) to generate the style, and then animate it with Seedance 2.0 on @LTXStudio.\n\n1. The Sopranos\n\nImage prompt for NB Pro + Seedance prompt on the screenshots https://t.co/n18iX8WZkj",
-      "2. Squid Game\n\nImage prompt for GPT-2 + Seedance prompt on the screenshots https://t.co/iWfxyC2apk",
-      "3. The Boys\n\nImage prompt for NB Pro + Seedance prompt on the screenshots https://t.co/UrAnSsItwp",
-      "4. Seinfield\n\nImage prompt for GPT-2 + Seedance prompt on the screenshots https://t.co/UqXqXMuTBf",
-      "5. The Hangover\n\nImage prompt for NB Pro + Seedance prompt on the screenshots https://t.co/nlcsuScE35",
-      "Wanna try this prompts now? Head to LTX Studio and start creating, here's all you need! 👇\nhttps://t.co/1ieza147sH"
-    ]
-  },
+  "tips": "Generate a stylized keyframe first with an image model (Nano Banana Pro or GPT‑2), then animate that image using Seedance 2.0 inside LTX Studio.",
   "translations": {
-    "es": "---\nGenera un fotograma clave estilizado primero con un modelo de imagen (Nano Banana Pro o GPT‑2), luego anima esa imagen usando Seedance 2.0 dentro de LTX Studio.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El flujo de trabajo es muy simple, ya que primero vamos a usar un modelo de imagen (NB o GPT2) para generar el estilo, y luego animarlo con Seedance 2.0 en @LTXStudio.\n\n1. Los Soprano\n\nImage prompt para NB Pro + Seedance prompt en las capturas de pantalla https://t.co/n18iX8WZkj\n\n[Hilo 2] 2. El Juego del Calamar\n\nImage prompt para GPT-2 + Seedance prompt en las capturas de pantalla https://t.co/iWfxyC2apk\n\n[Hilo 3] 3. The Boys\n\nImage prompt para NB Pro + Seedance prompt en las capturas de pantalla https://t.co/UrAnSsItwp\n\n[Hilo 4] 4. Seinfield\n\nImage prompt para GPT-2 + Seedance prompt en las capturas de pantalla https://t.co/UqXqXMuTBf\n\n[Hilo 5] 5. ¿Qué pasó ayer?\n\nImage prompt para NB Pro + Seedance prompt en las capturas de pantalla https://t.co/nlcsuScE35\n\n[Hilo 6] ¿Quieres probar estos prompts ahora? Dirígete a LTX Studio y comienza a crear, ¡aquí tienes todo lo que necesitas! 👇\nhttps://t.co/1ieza147sH\n---",
-    "fr": "---\nGénérez d'abord une image clé stylisée avec un modèle d'image (Nano Banana Pro ou GPT‑2), puis animez cette image en utilisant Seedance 2.0 dans LTX Studio.\n\n--- SUITE DU FIL ---\n[Fil 1] Le flux de travail est très simple, car nous allons d'abord utiliser un modèle d'image (NB ou GPT2) pour générer le style, puis l'animer avec Seedance 2.0 sur @LTXStudio.\n\n1. Les Soprano\n\nImage prompt pour NB Pro + Seedance prompt sur les captures d'écran https://t.co/n18iX8WZkj\n\n[Fil 2] 2. Squid Game\n\nImage prompt pour GPT-2 + Seedance prompt sur les captures d'écran https://t.co/iWfxyC2apk\n\n[Fil 3] 3. The Boys\n\nImage prompt pour NB Pro + Seedance prompt sur les captures d'écran https://t.co/UrAnSsItwp\n\n[Fil 4] 4. Seinfeld\n\nImage prompt pour GPT-2 + Seedance prompt sur les captures d'écran https://t.co/UqXqXMuTBf\n\n[Fil 5] 5. Very Bad Trip\n\nImage prompt pour NB Pro + Seedance prompt sur les captures d'écran https://t.co/nlcsuScE35\n\n[Fil 6] Vous voulez essayer ces prompts maintenant ? Rendez-vous sur LTX Studio et commencez à créer, voici tout ce dont vous avez besoin ! 👇\nhttps://t.co/1ieza147sH\n---",
-    "ja": "---\nまず、画像モデル（Nano Banana Pro または GPT-2）を使用してスタイライズされたキーフレームを生成し、その画像を LTX Studio 内の Seedance 2.0 を使用してアニメーション化します。\n\n--- スレッドの続き ---\n[スレッド 1] ワークフローは非常にシンプルです。最初に画像モデル（NB または GPT2）を使用してスタイルを生成し、その後 Seedance 2.0 で @LTXStudio 上でアニメーション化します。\n\n1. The Sopranos\n\nNB Pro 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/n18iX8WZkj\n\n[スレッド 2] 2. Squid Game\n\nGPT-2 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/iWfxyC2apk\n\n[スレッド 3] 3. The Boys\n\nNB Pro 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/UrAnSsItwp\n\n[スレッド 4] 4. Seinfield\n\nGPT-2 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/UqXqXMuTBf\n\n[スレッド 5] 5. The Hangover\n\nNB Pro 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/nlcsuScE35\n\n[スレッド 6] 今すぐこのプロンプトを試してみたいですか？LTX Studio にアクセスして、クリエイティブを始めましょう。必要なものはすべてここにあります！👇\nhttps://t.co/1ieza147sH\n---",
-    "ko": "---\n먼저 이미지 모델(Nano Banana Pro 또는 GPT‑2)로 스타일화된 키프레임을 생성한 후, LTX Studio 내에서 Seedance 2.0을 사용하여 그 이미지를 애니메이션화합니다.\n\n--- 스레드 계속 ---\n[스레드 1] 워크플로우는 매우 간단합니다. 먼저 이미지 모델(NB 또는 GPT2)을 사용하여 스타일을 생성한 후, @LTXStudio에서 Seedance 2.0으로 애니메이션화할 것입니다.\n\n1. The Sopranos\n\nNB Pro + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/n18iX8WZkj\n\n[스레드 2] 2. Squid Game\n\nGPT-2 + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/iWfxyC2apk\n\n[스레드 3] 3. The Boys\n\nNB Pro + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/UrAnSsItwp\n\n[스레드 4] 4. Seinfield\n\nGPT-2 + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/UqXqXMuTBf\n\n[스레드 5] 5. The Hangover\n\nNB Pro + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/nlcsuScE35\n\n[스레드 6] 지금 이 프롬프트를 시도해보고 싶으신가요? LTX Studio로 가서 창작을 시작하세요, 필요한 모든 것이 여기 있습니다! 👇\nhttps://t.co/1ieza147sH\n---",
-    "pt-BR": "---\nGere um keyframe estilizado primeiro com um modelo de imagem (Nano Banana Pro ou GPT‑2), depois anime essa imagem usando Seedance 2.0 dentro do LTX Studio.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] O fluxo de trabalho é muito simples, pois primeiro vamos usar um modelo de imagem (NB ou GPT2) para gerar o estilo e, em seguida, animá-lo com o Seedance 2.0 no @LTXStudio.\n\n1. The Sopranos\n\nImage prompt para NB Pro + Seedance prompt nas capturas de tela https://t.co/n18iX8WZkj\n\n[Tópico 2] 2. Squid Game\n\nImage prompt para GPT-2 + Seedance prompt nas capturas de tela https://t.co/iWfxyC2apk\n\n[Tópico 3] 3. The Boys\n\nImage prompt para NB Pro + Seedance prompt nas capturas de tela https://t.co/UrAnSsItwp\n\n[Tópico 4] 4. Seinfield\n\nImage prompt para GPT-2 + Seedance prompt nas capturas de tela https://t.co/UqXqXMuTBf\n\n[Tópico 5] 5. The Hangover\n\nImage prompt para NB Pro + Seedance prompt nas capturas de tela https://t.co/nlcsuScE35\n\n[Tópico 6] Quer experimentar esses prompts agora? Vá para o LTX Studio e comece a criar, aqui está tudo o que você precisa! 👇\nhttps://t.co/1ieza147sH\n---",
-    "zh-CN": "---\n首先使用图像模型（Nano Banana Pro 或 GPT‑2）生成一个风格化的关键帧，然后在 LTX Studio 内使用 Seedance 2.0 对该图像进行动画处理。\n\n--- 线程继续 ---\n[线程 1] 工作流程非常简单，我们首先将使用图像模型（NB 或 GPT2）生成风格，然后在 @LTXStudio 上使用 Seedance 2.0 对其进行动画处理。\n\n1. 黑道家族\n\nNB Pro 的图像 prompt + Seedance prompt 在截图中 https://t.co/n18iX8WZkj\n\n[线程 2] 2. 鱿鱼游戏\n\nGPT-2 的图像 prompt + Seedance prompt 在截图中 https://t.co/iWfxyC2apk\n\n[线程 3] 3. 黑袍纠察队\n\nNB Pro 的图像 prompt + Seedance prompt 在截图中 https://t.co/UrAnSsItwp\n\n[线程 4] 4. 宋飞正传\n\nGPT-2 的图像 prompt + Seedance prompt 在截图中 https://t.co/UqXqXMuTBf\n\n[线程 5] 5. 宿醉\n\nNB Pro 的图像 prompt + Seedance prompt 在截图中 https://t.co/nlcsuScE35\n\n[线程 6] 想现在试试这些 prompts 吗？前往 LTX Studio 开始创作，这里是你所需的一切！👇\nhttps://t.co/1ieza147sH\n---"
+    "es": {
+      "content": "---\nGenera un fotograma clave estilizado primero con un modelo de imagen (Nano Banana Pro o GPT‑2), luego anima esa imagen usando Seedance 2.0 dentro de LTX Studio.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El flujo de trabajo es muy simple, ya que primero vamos a usar un modelo de imagen (NB o GPT2) para generar el estilo, y luego animarlo con Seedance 2.0 en @LTXStudio.\n\n1. Los Soprano\n\nImage prompt para NB Pro + Seedance prompt en las capturas de pantalla https://t.co/n18iX8WZkj\n\n[Hilo 2] 2. El Juego del Calamar\n\nImage prompt para GPT-2 + Seedance prompt en las capturas de pantalla https://t.co/iWfxyC2apk\n\n[Hilo 3] 3. The Boys\n\nImage prompt para NB Pro + Seedance prompt en las capturas de pantalla https://t.co/UrAnSsItwp\n\n[Hilo 4] 4. Seinfield\n\nImage prompt para GPT-2 + Seedance prompt en las capturas de pantalla https://t.co/UqXqXMuTBf\n\n[Hilo 5] 5. ¿Qué pasó ayer?\n\nImage prompt para NB Pro + Seedance prompt en las capturas de pantalla https://t.co/nlcsuScE35\n\n[Hilo 6] ¿Quieres probar estos prompts ahora? Dirígete a LTX Studio y comienza a crear, ¡aquí tienes todo lo que necesitas! 👇\nhttps://t.co/1ieza147sH\n---"
+    },
+    "fr": {
+      "content": "---\nGénérez d'abord une image clé stylisée avec un modèle d'image (Nano Banana Pro ou GPT‑2), puis animez cette image en utilisant Seedance 2.0 dans LTX Studio.\n\n--- SUITE DU FIL ---\n[Fil 1] Le flux de travail est très simple, car nous allons d'abord utiliser un modèle d'image (NB ou GPT2) pour générer le style, puis l'animer avec Seedance 2.0 sur @LTXStudio.\n\n1. Les Soprano\n\nImage prompt pour NB Pro + Seedance prompt sur les captures d'écran https://t.co/n18iX8WZkj\n\n[Fil 2] 2. Squid Game\n\nImage prompt pour GPT-2 + Seedance prompt sur les captures d'écran https://t.co/iWfxyC2apk\n\n[Fil 3] 3. The Boys\n\nImage prompt pour NB Pro + Seedance prompt sur les captures d'écran https://t.co/UrAnSsItwp\n\n[Fil 4] 4. Seinfeld\n\nImage prompt pour GPT-2 + Seedance prompt sur les captures d'écran https://t.co/UqXqXMuTBf\n\n[Fil 5] 5. Very Bad Trip\n\nImage prompt pour NB Pro + Seedance prompt sur les captures d'écran https://t.co/nlcsuScE35\n\n[Fil 6] Vous voulez essayer ces prompts maintenant ? Rendez-vous sur LTX Studio et commencez à créer, voici tout ce dont vous avez besoin ! 👇\nhttps://t.co/1ieza147sH\n---"
+    },
+    "ja": {
+      "content": "---\nまず、画像モデル（Nano Banana Pro または GPT-2）を使用してスタイライズされたキーフレームを生成し、その画像を LTX Studio 内の Seedance 2.0 を使用してアニメーション化します。\n\n--- スレッドの続き ---\n[スレッド 1] ワークフローは非常にシンプルです。最初に画像モデル（NB または GPT2）を使用してスタイルを生成し、その後 Seedance 2.0 で @LTXStudio 上でアニメーション化します。\n\n1. The Sopranos\n\nNB Pro 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/n18iX8WZkj\n\n[スレッド 2] 2. Squid Game\n\nGPT-2 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/iWfxyC2apk\n\n[スレッド 3] 3. The Boys\n\nNB Pro 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/UrAnSsItwp\n\n[スレッド 4] 4. Seinfield\n\nGPT-2 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/UqXqXMuTBf\n\n[スレッド 5] 5. The Hangover\n\nNB Pro 用の画像プロンプト + スクリーンショット上の Seedance プロンプト https://t.co/nlcsuScE35\n\n[スレッド 6] 今すぐこのプロンプトを試してみたいですか？LTX Studio にアクセスして、クリエイティブを始めましょう。必要なものはすべてここにあります！👇\nhttps://t.co/1ieza147sH\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 이미지 모델(Nano Banana Pro 또는 GPT‑2)로 스타일화된 키프레임을 생성한 후, LTX Studio 내에서 Seedance 2.0을 사용하여 그 이미지를 애니메이션화합니다.\n\n--- 스레드 계속 ---\n[스레드 1] 워크플로우는 매우 간단합니다. 먼저 이미지 모델(NB 또는 GPT2)을 사용하여 스타일을 생성한 후, @LTXStudio에서 Seedance 2.0으로 애니메이션화할 것입니다.\n\n1. The Sopranos\n\nNB Pro + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/n18iX8WZkj\n\n[스레드 2] 2. Squid Game\n\nGPT-2 + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/iWfxyC2apk\n\n[스레드 3] 3. The Boys\n\nNB Pro + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/UrAnSsItwp\n\n[스레드 4] 4. Seinfield\n\nGPT-2 + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/UqXqXMuTBf\n\n[스레드 5] 5. The Hangover\n\nNB Pro + Seedance 프롬프트의 이미지 프롬프트는 스크린샷에서 확인하세요 https://t.co/nlcsuScE35\n\n[스레드 6] 지금 이 프롬프트를 시도해보고 싶으신가요? LTX Studio로 가서 창작을 시작하세요, 필요한 모든 것이 여기 있습니다! 👇\nhttps://t.co/1ieza147sH\n---"
+    },
+    "pt": {
+      "content": "---\nGere um keyframe estilizado primeiro com um modelo de imagem (Nano Banana Pro ou GPT‑2), depois anime essa imagem usando Seedance 2.0 dentro do LTX Studio.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] O fluxo de trabalho é muito simples, pois primeiro vamos usar um modelo de imagem (NB ou GPT2) para gerar o estilo e, em seguida, animá-lo com o Seedance 2.0 no @LTXStudio.\n\n1. The Sopranos\n\nImage prompt para NB Pro + Seedance prompt nas capturas de tela https://t.co/n18iX8WZkj\n\n[Tópico 2] 2. Squid Game\n\nImage prompt para GPT-2 + Seedance prompt nas capturas de tela https://t.co/iWfxyC2apk\n\n[Tópico 3] 3. The Boys\n\nImage prompt para NB Pro + Seedance prompt nas capturas de tela https://t.co/UrAnSsItwp\n\n[Tópico 4] 4. Seinfield\n\nImage prompt para GPT-2 + Seedance prompt nas capturas de tela https://t.co/UqXqXMuTBf\n\n[Tópico 5] 5. The Hangover\n\nImage prompt para NB Pro + Seedance prompt nas capturas de tela https://t.co/nlcsuScE35\n\n[Tópico 6] Quer experimentar esses prompts agora? Vá para o LTX Studio e comece a criar, aqui está tudo o que você precisa! 👇\nhttps://t.co/1ieza147sH\n---"
+    },
+    "zh": {
+      "content": "---\n首先使用图像模型（Nano Banana Pro 或 GPT‑2）生成一个风格化的关键帧，然后在 LTX Studio 内使用 Seedance 2.0 对该图像进行动画处理。\n\n--- 线程继续 ---\n[线程 1] 工作流程非常简单，我们首先将使用图像模型（NB 或 GPT2）生成风格，然后在 @LTXStudio 上使用 Seedance 2.0 对其进行动画处理。\n\n1. 黑道家族\n\nNB Pro 的图像 prompt + Seedance prompt 在截图中 https://t.co/n18iX8WZkj\n\n[线程 2] 2. 鱿鱼游戏\n\nGPT-2 的图像 prompt + Seedance prompt 在截图中 https://t.co/iWfxyC2apk\n\n[线程 3] 3. 黑袍纠察队\n\nNB Pro 的图像 prompt + Seedance prompt 在截图中 https://t.co/UrAnSsItwp\n\n[线程 4] 4. 宋飞正传\n\nGPT-2 的图像 prompt + Seedance prompt 在截图中 https://t.co/UqXqXMuTBf\n\n[线程 5] 5. 宿醉\n\nNB Pro 的图像 prompt + Seedance prompt 在截图中 https://t.co/nlcsuScE35\n\n[线程 6] 想现在试试这些 prompts 吗？前往 LTX Studio 开始创作，这里是你所需的一切！👇\nhttps://t.co/1ieza147sH\n---"
+    }
   }
 }

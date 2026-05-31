@@ -1,37 +1,35 @@
 {
   "id": "2059666802444308781",
-  "type": "tip",
-  "url": "https://x.com/EHuanglu/status/2059666802444308781",
+  "title": "Upload a 3D render/video with no textures, connect it to a video node, run…",
+  "content": "Upload a 3D render/video with no textures, connect it to a video node, run Seedance 2, and use a style prompt to re-texture and restyle the entire scene.  \nUse targeted prompts to separately change textures for specific elements (e.g., dragon, table) and the background within the same video.",
   "language": "en",
-  "created_at": "2026-05-27",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059666744298594304/img/omZLgBheK_y9dHe9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059666802444308781.mp4",
+  "sourceLink": "https://x.com/EHuanglu/status/2059666802444308781",
+  "sourcePublishedAt": "2026-05-27",
   "author": {
     "name": "el.cine",
-    "username": "EHuanglu",
-    "url": "https://x.com/EHuanglu",
-    "followers": 131215
+    "link": "https://x.com/EHuanglu"
   },
-  "text": "AI has made vfx available to everyone.. as long as you can type\n\njust upload the 3D video with no texture -&gt; link to a video node and use seedance 2 and use prompt to change it to any style\n\nyou can also change the textures of the dragon, table and even bg, prompts in video https://t.co/jTfjs0dTpM",
-  "content": "Upload a 3D render/video with no textures, connect it to a video node, run Seedance 2, and use a style prompt to re-texture and restyle the entire scene.  \nUse targeted prompts to separately change textures for specific elements (e.g., dragon, table) and the background within the same video.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 34,
-    "retweets": 6,
-    "replies": 3,
-    "quotes": 0,
-    "bookmarks": 26,
-    "views": 3466
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059666802444308781.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059666744298594304/img/omZLgBheK_y9dHe9.jpg"
-  },
+  "tips": "Upload a 3D render/video with no textures, connect it to a video node, run Seedance 2, and use a style prompt to re-texture and restyle the entire scene.  \nUse targeted prompts to separately change textures for specific elements (e.g., dragon, table) and the background within the same video.",
   "translations": {
-    "es": "Sube un render/video 3D sin texturas, conéctalo a un nodo de video, ejecuta Seedance 2 y utiliza un style prompt para re-texturizar y restilizar toda la escena.  \nUsa prompts específicos para cambiar por separado las texturas de elementos específicos (por ejemplo, dragón, mesa) y el fondo dentro del mismo video.",
-    "fr": "---\nTéléchargez un rendu 3D/vidéo sans textures, connectez-le à un nœud vidéo, exécutez Seedance 2, et utilisez un style prompt pour re-texturer et restyler l'ensemble de la scène.  \nUtilisez des prompts ciblés pour changer séparément les textures de certains éléments spécifiques (par exemple, dragon, table) et l'arrière-plan dans la même vidéo.\n---",
-    "ja": "3Dレンダー/ビデオをテクスチャなしでアップロードし、ビデオノードに接続してSeedance 2を実行し、スタイルプロンプトを使用してシーン全体を再テクスチャおよび再スタイルします。  \n特定の要素（例：ドラゴン、テーブル）や背景のテクスチャを同じビデオ内で個別に変更するために、ターゲットプロンプトを使用します。",
-    "ko": "3D 렌더/비디오를 텍스처 없이 업로드하고, 비디오 노드에 연결한 후 Seedance 2를 실행하여 스타일 프롬프트를 사용해 전체 장면을 다시 텍스처링하고 스타일을 변경하세요.  \n타겟 프롬프트를 사용하여 같은 비디오 내에서 특정 요소(예: 용, 테이블)와 배경의 텍스처를 개별적으로 변경하세요.",
-    "pt-BR": "Carregue uma renderização/vídeo 3D sem texturas, conecte-a a um nó de vídeo, execute o Seedance 2 e use um style prompt para retexturizar e restilizar toda a cena.  \nUse prompts direcionados para alterar separadamente as texturas de elementos específicos (por exemplo, dragão, mesa) e o fundo dentro do mesmo vídeo.",
-    "zh-CN": "上传一个没有纹理的3D渲染/视频，连接到视频节点，运行Seedance 2，并使用风格prompt重新纹理化和重新设计整个场景。  \n使用有针对性的prompts分别更改同一视频中特定元素（例如，龙、桌子）和背景的纹理。"
+    "es": {
+      "content": "Sube un render/video 3D sin texturas, conéctalo a un nodo de video, ejecuta Seedance 2 y utiliza un style prompt para re-texturizar y restilizar toda la escena.  \nUsa prompts específicos para cambiar por separado las texturas de elementos específicos (por ejemplo, dragón, mesa) y el fondo dentro del mismo video."
+    },
+    "fr": {
+      "content": "---\nTéléchargez un rendu 3D/vidéo sans textures, connectez-le à un nœud vidéo, exécutez Seedance 2, et utilisez un style prompt pour re-texturer et restyler l'ensemble de la scène.  \nUtilisez des prompts ciblés pour changer séparément les textures de certains éléments spécifiques (par exemple, dragon, table) et l'arrière-plan dans la même vidéo.\n---"
+    },
+    "ja": {
+      "content": "3Dレンダー/ビデオをテクスチャなしでアップロードし、ビデオノードに接続してSeedance 2を実行し、スタイルプロンプトを使用してシーン全体を再テクスチャおよび再スタイルします。  \n特定の要素（例：ドラゴン、テーブル）や背景のテクスチャを同じビデオ内で個別に変更するために、ターゲットプロンプトを使用します。"
+    },
+    "ko": {
+      "content": "3D 렌더/비디오를 텍스처 없이 업로드하고, 비디오 노드에 연결한 후 Seedance 2를 실행하여 스타일 프롬프트를 사용해 전체 장면을 다시 텍스처링하고 스타일을 변경하세요.  \n타겟 프롬프트를 사용하여 같은 비디오 내에서 특정 요소(예: 용, 테이블)와 배경의 텍스처를 개별적으로 변경하세요."
+    },
+    "pt": {
+      "content": "Carregue uma renderização/vídeo 3D sem texturas, conecte-a a um nó de vídeo, execute o Seedance 2 e use um style prompt para retexturizar e restilizar toda a cena.  \nUse prompts direcionados para alterar separadamente as texturas de elementos específicos (por exemplo, dragão, mesa) e o fundo dentro do mesmo vídeo."
+    },
+    "zh": {
+      "content": "上传一个没有纹理的3D渲染/视频，连接到视频节点，运行Seedance 2，并使用风格prompt重新纹理化和重新设计整个场景。  \n使用有针对性的prompts分别更改同一视频中特定元素（例如，龙、桌子）和背景的纹理。"
+    }
   }
 }

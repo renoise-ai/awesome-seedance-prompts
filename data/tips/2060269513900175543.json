@@ -1,34 +1,34 @@
 {
   "id": "2060269513900175543",
-  "type": "tip",
-  "url": "https://x.com/MrLarus/status/2060269513900175543",
+  "title": "将画线图（含红线/箭头的镜头运动路径）与提示词一起上传到 Seedance 生成视频",
+  "content": "将画线图（含红线/箭头的镜头运动路径）与提示词一起上传到 Seedance 生成视频  \n在提示词中明确要求擦除红线、箭头和所有辅助标记，并强调这些仅用于镜头运动参考、最终成片不得出现  \n在提示词中指定镜头为第一人称 FPV 视角以控制镜头表现",
   "language": "zh",
-  "created_at": "2026-05-29",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/MrLarus/status/2060269513900175543",
+  "sourcePublishedAt": "2026-05-29",
   "author": {
     "name": "Larus Canus",
-    "username": "MrLarus",
-    "url": "https://x.com/MrLarus",
-    "followers": 23742
+    "link": "https://x.com/MrLarus"
   },
-  "text": "Step 2：把画线图+提示词放到Seedance\n\n可参考这个提示词模板：\n\n请擦除红线、箭头和所有辅助标记。红线和箭头仅作为镜头运动路径参考，最终成片中不得出现。镜头以第一人称 FPV https://t.co/UNG8ZTP7VF",
-  "content": "将画线图（含红线/箭头的镜头运动路径）与提示词一起上传到 Seedance 生成视频  \n在提示词中明确要求擦除红线、箭头和所有辅助标记，并强调这些仅用于镜头运动参考、最终成片不得出现  \n在提示词中指定镜头为第一人称 FPV 视角以控制镜头表现",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 70,
-    "retweets": 11,
-    "replies": 2,
-    "quotes": 0,
-    "bookmarks": 79,
-    "views": 7417
-  },
-  "video": null,
+  "tips": "将画线图（含红线/箭头的镜头运动路径）与提示词一起上传到 Seedance 生成视频  \n在提示词中明确要求擦除红线、箭头和所有辅助标记，并强调这些仅用于镜头运动参考、最终成片不得出现  \n在提示词中指定镜头为第一人称 FPV 视角以控制镜头表现",
   "translations": {
-    "en": "Upload the line drawing (including the red line/arrow camera movement path) along with the prompt to Seedance to generate the video.  \nIn the prompt, explicitly request the removal of red lines, arrows, and all auxiliary marks, emphasizing that these are only for camera movement reference and must not appear in the final cut.  \nSpecify in the prompt that the camera should be in a first-person FPV perspective to control the camera performance.",
-    "es": "Sube el diagrama de líneas (con la trayectoria de movimiento de cámara marcada con líneas/ flechas rojas) junto con el prompt a Seedance para generar el video.  \nEn el prompt, especifica claramente que se deben borrar las líneas rojas, flechas y todas las marcas auxiliares, enfatizando que estas son solo para referencia del movimiento de cámara y no deben aparecer en el producto final.  \nEn el prompt, especifica que la cámara debe ser en perspectiva de primera persona FPV para controlar la representación de la cámara.",
-    "fr": "Téléchargez le diagramme de mouvement de caméra (avec lignes rouges/chemin des flèches) et le prompt sur Seedance pour générer la vidéo.  \nDans le prompt, demandez explicitement l'effacement des lignes rouges, des flèches et de tous les marquages auxiliaires, en soulignant qu'ils sont uniquement destinés à la référence de mouvement de caméra et ne doivent pas apparaître dans le produit final.  \nDans le prompt, spécifiez que la caméra doit être en vue à la première personne FPV pour contrôler l'apparence de la caméra.",
-    "ja": "---\n将画线图（含红線/箭頭的カメラパンのパス）与プロンプト一起アップロードしてSeedanceでビデオを生成  \nプロンプトで赤線、矢印、すべての補助マークを消去するように明確に指示し、これらはカメラパンの参考用であり、最終作品には表示されないことを強調  \nプロンプトでカメラを第一人称FPV視点に指定してカメラの表現を制御  \n---",
-    "ko": "---\nSeedance에 업로드할 때, 빨간 선/화살표가 포함된 카메라 이동 경로의 라인 도표와 프롬프트를 함께 업로드하세요.  \n프롬프트에서 빨간 선, 화살표 및 모든 보조 표식을 지우도록 명확히 요구하고, 이는 카메라 이동 참고용일 뿐 최종 영상에는 나타나지 않아야 한다고 강조하세요.  \n프롬프트에서 카메라를 제어하기 위해 카메라를 1인칭 FPV 시점으로 지정하세요.\n---",
-    "pt-BR": "Carregue o gráfico de linhas (incluindo o caminho de movimento da câmera com linha/vermelha e setas) junto com o prompt no Seedance para gerar o vídeo  \nNo prompt, especifique claramente a remoção das linhas vermelhas, setas e todas as marcas auxiliares, enfatizando que estas são apenas para referência de movimento da câmera e não devem aparecer no produto final  \nNo prompt, especifique que a câmera deve estar em perspectiva de primeira pessoa FPV para controlar a performance da câmera"
+    "en": {
+      "content": "Upload the line drawing (including the red line/arrow camera movement path) along with the prompt to Seedance to generate the video.  \nIn the prompt, explicitly request the removal of red lines, arrows, and all auxiliary marks, emphasizing that these are only for camera movement reference and must not appear in the final cut.  \nSpecify in the prompt that the camera should be in a first-person FPV perspective to control the camera performance."
+    },
+    "es": {
+      "content": "Sube el diagrama de líneas (con la trayectoria de movimiento de cámara marcada con líneas/ flechas rojas) junto con el prompt a Seedance para generar el video.  \nEn el prompt, especifica claramente que se deben borrar las líneas rojas, flechas y todas las marcas auxiliares, enfatizando que estas son solo para referencia del movimiento de cámara y no deben aparecer en el producto final.  \nEn el prompt, especifica que la cámara debe ser en perspectiva de primera persona FPV para controlar la representación de la cámara."
+    },
+    "fr": {
+      "content": "Téléchargez le diagramme de mouvement de caméra (avec lignes rouges/chemin des flèches) et le prompt sur Seedance pour générer la vidéo.  \nDans le prompt, demandez explicitement l'effacement des lignes rouges, des flèches et de tous les marquages auxiliaires, en soulignant qu'ils sont uniquement destinés à la référence de mouvement de caméra et ne doivent pas apparaître dans le produit final.  \nDans le prompt, spécifiez que la caméra doit être en vue à la première personne FPV pour contrôler l'apparence de la caméra."
+    },
+    "ja": {
+      "content": "---\n将画线图（含红線/箭頭的カメラパンのパス）与プロンプト一起アップロードしてSeedanceでビデオを生成  \nプロンプトで赤線、矢印、すべての補助マークを消去するように明確に指示し、これらはカメラパンの参考用であり、最終作品には表示されないことを強調  \nプロンプトでカメラを第一人称FPV視点に指定してカメラの表現を制御  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance에 업로드할 때, 빨간 선/화살표가 포함된 카메라 이동 경로의 라인 도표와 프롬프트를 함께 업로드하세요.  \n프롬프트에서 빨간 선, 화살표 및 모든 보조 표식을 지우도록 명확히 요구하고, 이는 카메라 이동 참고용일 뿐 최종 영상에는 나타나지 않아야 한다고 강조하세요.  \n프롬프트에서 카메라를 제어하기 위해 카메라를 1인칭 FPV 시점으로 지정하세요.\n---"
+    },
+    "pt": {
+      "content": "Carregue o gráfico de linhas (incluindo o caminho de movimento da câmera com linha/vermelha e setas) junto com o prompt no Seedance para gerar o vídeo  \nNo prompt, especifique claramente a remoção das linhas vermelhas, setas e todas as marcas auxiliares, enfatizando que estas são apenas para referência de movimento da câmera e não devem aparecer no produto final  \nNo prompt, especifique que a câmera deve estar em perspectiva de primeira pessoa FPV para controlar a performance da câmera"
+    }
   }
 }

@@ -1,37 +1,35 @@
 {
   "id": "2022113492128678390",
-  "type": "tip",
-  "url": "https://x.com/markgadala/status/2022113492128678390",
+  "title": "Use a VPN to access Seedance 2 for free from anywhere in the world.",
+  "content": "Use a VPN to access Seedance 2 for free from anywhere in the world.",
   "language": "en",
-  "created_at": "2026-02-13",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022113259416100864/img/TiCWLy-w27QxY1XH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022113492128678390.mp4",
+  "sourceLink": "https://x.com/markgadala/status/2022113492128678390",
+  "sourcePublishedAt": "2026-02-13",
   "author": {
     "name": "Mark Gadala-Maria",
-    "username": "markgadala",
-    "url": "https://x.com/markgadala",
-    "followers": 64816
+    "link": "https://x.com/markgadala"
   },
-  "text": "🚨 BREAKING 🚨\n\nHow to use Seedance 2 for FREE right now, no matter where you are in the world.  \n\nAll you need is a VPN. https://t.co/val15UfgqP",
-  "content": "Use a VPN to access Seedance 2 for free from anywhere in the world.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 3067,
-    "retweets": 383,
-    "replies": 85,
-    "quotes": 20,
-    "bookmarks": 3862,
-    "views": 219705
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2022113492128678390.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022113259416100864/img/TiCWLy-w27QxY1XH.jpg"
-  },
+  "tips": "Use a VPN to access Seedance 2 for free from anywhere in the world.",
   "translations": {
-    "es": "Usa una VPN para acceder a Seedance 2 de forma gratuita desde cualquier lugar del mundo.",
-    "fr": "Utilisez un VPN pour accéder gratuitement à Seedance 2 depuis n'importe où dans le monde.",
-    "ja": "VPNを使用して、世界中どこからでも無料でSeedance 2にアクセスできます。",
-    "ko": "전 세계 어디서나 무료로 Seedance 2에 접속하려면 VPN을 사용하세요.",
-    "pt-BR": "Use uma VPN para acessar o Seedance 2 gratuitamente de qualquer lugar do mundo.",
-    "zh-CN": "使用VPN从世界任何地方免费访问Seedance 2。"
+    "es": {
+      "content": "Usa una VPN para acceder a Seedance 2 de forma gratuita desde cualquier lugar del mundo."
+    },
+    "fr": {
+      "content": "Utilisez un VPN pour accéder gratuitement à Seedance 2 depuis n'importe où dans le monde."
+    },
+    "ja": {
+      "content": "VPNを使用して、世界中どこからでも無料でSeedance 2にアクセスできます。"
+    },
+    "ko": {
+      "content": "전 세계 어디서나 무료로 Seedance 2에 접속하려면 VPN을 사용하세요."
+    },
+    "pt": {
+      "content": "Use uma VPN para acessar o Seedance 2 gratuitamente de qualquer lugar do mundo."
+    },
+    "zh": {
+      "content": "使用VPN从世界任何地方免费访问Seedance 2。"
+    }
   }
 }

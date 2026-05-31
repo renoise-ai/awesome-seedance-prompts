@@ -1,37 +1,34 @@
 {
   "id": "2023435686762668434",
-  "type": "prompt",
-  "url": "https://x.com/Kiber_Alla/status/2023435686762668434",
+  "title": "Live-action cinematic western scene. One man slowly lays down his cards. The…",
+  "content": "Live-action cinematic western scene. One man slowly lays down his cards. The other man's eyes widen. The loser stands up abruptly and says: 'You're a goddamn cheat, Morrison!'. Morrison stays calm and replies: 'Careful with your words, friend'. The loser reaches for his hip. Everyone in the saloon freezes.",
   "language": "en",
-  "created_at": "2026-02-16",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023435232867954688/img/adRKifsNDQ0Lp_Qe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023435686762668434.mp4",
+  "sourceLink": "https://x.com/Kiber_Alla/status/2023435686762668434",
+  "sourcePublishedAt": "2026-02-16",
   "author": {
     "name": "Kiber Alla",
-    "username": "Kiber_Alla",
-    "url": "https://x.com/Kiber_Alla",
-    "followers": 412
-  },
-  "text": "YouArt provided creators early access to Seedance Pro 2.0 and this is my first t2v test 🤠\n\nPrompt: Live-action cinematic western scene. One man slowly lays down his cards. The other man's eyes widen. The loser stands up abruptly and says: 'You're a goddamn cheat, Morrison!'. Morrison stays calm and replies: 'Careful with your words, friend'. The loser reaches for his hip. Everyone in the saloon freezes. @YouArtStudio #Seedance2",
-  "content": "Live-action cinematic western scene. One man slowly lays down his cards. The other man's eyes widen. The loser stands up abruptly and says: 'You're a goddamn cheat, Morrison!'. Morrison stays calm and replies: 'Careful with your words, friend'. The loser reaches for his hip. Everyone in the saloon freezes.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 38,
-    "retweets": 0,
-    "replies": 5,
-    "quotes": 0,
-    "bookmarks": 5,
-    "views": 943
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023435686762668434.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023435232867954688/img/adRKifsNDQ0Lp_Qe.jpg"
+    "link": "https://x.com/Kiber_Alla"
   },
   "translations": {
-    "es": "---\nEscena cinematográfica de acción en vivo del oeste. Un hombre coloca lentamente sus cartas sobre la mesa. Los ojos del otro hombre se abren de par en par. El perdedor se levanta abruptamente y dice: '¡Eres un maldito tramposo, Morrison!'. Morrison se mantiene tranquilo y responde: 'Cuidado con tus palabras, amigo'. El perdedor lleva la mano a su cadera. Todos en el salón se quedan congelados.\n---",
-    "fr": "---\nScène cinématographique western en live-action. Un homme pose lentement ses cartes. Les yeux de l'autre homme s'écarquillent. Le perdant se lève brusquement et dit : « T'es un foutu tricheur, Morrison ! ». Morrison reste calme et répond : « Fais attention à tes mots, ami ». Le perdant porte la main à sa hanche. Tout le monde dans le saloon se fige.",
-    "ja": "---\n実写のシネマティックな西部劇のシーン。一人の男がゆっくりとカードを置く。もう一人の男の目が見開かれる。負けた男は急に立ち上がり、「お前はとんでもないイカサマ師だ、モリソン！」と言う。モリソンは冷静に「言葉に気をつけろ、友よ」と答える。負けた男が腰に手を伸ばす。サルーンの中の全員が凍りつく。",
-    "ko": "---\n실사 영화 같은 서부 장면. 한 남자가 천천히 카드를 내려놓는다. 다른 남자의 눈이 커진다. 패배자는 갑자기 일어서며 말한다: '넌 사기꾼이야, 모리슨!'. 모리슨은 침착하게 대답한다: '말 조심해, 친구'. 패배자는 허리춤으로 손을 가져간다. 살롱에 있는 모든 사람이 얼어붙는다.\n---",
-    "pt-BR": "Cena cinematográfica de faroeste em live-action. Um homem lentamente coloca suas cartas na mesa. Os olhos do outro homem se arregalam. O perdedor se levanta abruptamente e diz: 'Você é um maldito trapaceiro, Morrison!'. Morrison permanece calmo e responde: 'Cuidado com suas palavras, amigo'. O perdedor alcança o quadril. Todos no salão congelam.",
-    "zh-CN": "---\n真人电影风格的西部场景。一名男子慢慢地放下他的牌。另一名男子的眼睛睁大。输家猛地站起来说：“你这个该死的骗子，莫里森！”莫里森保持冷静，回答：“注意你的言辞，朋友。”输家伸手去摸他的腰部。酒馆里所有人都愣住了。\n---"
+    "es": {
+      "content": "---\nEscena cinematográfica de acción en vivo del oeste. Un hombre coloca lentamente sus cartas sobre la mesa. Los ojos del otro hombre se abren de par en par. El perdedor se levanta abruptamente y dice: '¡Eres un maldito tramposo, Morrison!'. Morrison se mantiene tranquilo y responde: 'Cuidado con tus palabras, amigo'. El perdedor lleva la mano a su cadera. Todos en el salón se quedan congelados.\n---"
+    },
+    "fr": {
+      "content": "---\nScène cinématographique western en live-action. Un homme pose lentement ses cartes. Les yeux de l'autre homme s'écarquillent. Le perdant se lève brusquement et dit : « T'es un foutu tricheur, Morrison ! ». Morrison reste calme et répond : « Fais attention à tes mots, ami ». Le perdant porte la main à sa hanche. Tout le monde dans le saloon se fige."
+    },
+    "ja": {
+      "content": "---\n実写のシネマティックな西部劇のシーン。一人の男がゆっくりとカードを置く。もう一人の男の目が見開かれる。負けた男は急に立ち上がり、「お前はとんでもないイカサマ師だ、モリソン！」と言う。モリソンは冷静に「言葉に気をつけろ、友よ」と答える。負けた男が腰に手を伸ばす。サルーンの中の全員が凍りつく。"
+    },
+    "ko": {
+      "content": "---\n실사 영화 같은 서부 장면. 한 남자가 천천히 카드를 내려놓는다. 다른 남자의 눈이 커진다. 패배자는 갑자기 일어서며 말한다: '넌 사기꾼이야, 모리슨!'. 모리슨은 침착하게 대답한다: '말 조심해, 친구'. 패배자는 허리춤으로 손을 가져간다. 살롱에 있는 모든 사람이 얼어붙는다.\n---"
+    },
+    "pt": {
+      "content": "Cena cinematográfica de faroeste em live-action. Um homem lentamente coloca suas cartas na mesa. Os olhos do outro homem se arregalam. O perdedor se levanta abruptamente e diz: 'Você é um maldito trapaceiro, Morrison!'. Morrison permanece calmo e responde: 'Cuidado com suas palavras, amigo'. O perdedor alcança o quadril. Todos no salão congelam."
+    },
+    "zh": {
+      "content": "---\n真人电影风格的西部场景。一名男子慢慢地放下他的牌。另一名男子的眼睛睁大。输家猛地站起来说：“你这个该死的骗子，莫里森！”莫里森保持冷静，回答：“注意你的言辞，朋友。”输家伸手去摸他的腰部。酒馆里所有人都愣住了。\n---"
+    }
   }
 }

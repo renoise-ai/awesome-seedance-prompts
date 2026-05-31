@@ -1,37 +1,35 @@
 {
   "id": "2023402259728736628",
-  "type": "tip",
-  "url": "https://x.com/harish5233/status/2023402259728736628",
+  "title": "Use Seedance 2.0 on YouArtStudio with a single image input (start frame/end…",
+  "content": "Use Seedance 2.0 on YouArtStudio with a single image input (start frame/end frame); multiple images and video reference aren’t supported yet.",
   "language": "en",
-  "created_at": "2026-02-16",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023402199360147456/img/DwmdMPV5desZTKfl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023402259728736628.mp4",
+  "sourceLink": "https://x.com/harish5233/status/2023402259728736628",
+  "sourcePublishedAt": "2026-02-16",
   "author": {
     "name": "Indian Samurai",
-    "username": "harish5233",
-    "url": "https://x.com/harish5233",
-    "followers": 3138
+    "link": "https://x.com/harish5233"
   },
-  "text": "First try with Seedance 2.0 through\n@YouArtStudio\nAs of now, this platform supports only one image/ (start frame, end frame) as input for Seedance. Multiple images &amp; video reference not available yet.  With only one image, Seedance followed the prompt by &gt; 50%. Surprising 😲 https://t.co/KaDgis3vFx",
-  "content": "Use Seedance 2.0 on YouArtStudio with a single image input (start frame/end frame); multiple images and video reference aren’t supported yet.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 24,
-    "retweets": 0,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 4,
-    "views": 900
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2023402259728736628.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023402199360147456/img/DwmdMPV5desZTKfl.jpg"
-  },
+  "tips": "Use Seedance 2.0 on YouArtStudio with a single image input (start frame/end frame); multiple images and video reference aren’t supported yet.",
   "translations": {
-    "es": "Usa Seedance 2.0 en YouArtStudio con una sola imagen de entrada (fotograma inicial/fotograma final); aún no se admiten múltiples imágenes ni referencias de video.",
-    "fr": "Utilisez Seedance 2.0 sur YouArtStudio avec une seule image en entrée (image de départ/image de fin) ; les images multiples et les références vidéo ne sont pas encore prises en charge.",
-    "ja": "---\nYouArtStudioでSeedance 2.0を使用する際は、単一の画像入力（開始フレーム/終了フレーム）を使用してください。複数の画像やビデオ参照はまだサポートされていません。\n---",
-    "ko": "YouArtStudio에서 Seedance 2.0을 사용하여 단일 이미지 입력(시작 프레임/종료 프레임)을 활용하세요. 여러 이미지 및 비디오 참조는 아직 지원되지 않습니다.",
-    "pt-BR": "Use o Seedance 2.0 no YouArtStudio com uma única imagem de entrada (quadro inicial/quadro final); múltiplas imagens e referência de vídeo ainda não são suportadas.",
-    "zh-CN": "在YouArtStudio上使用Seedance 2.0进行单张图像输入（起始帧/结束帧）；暂不支持多张图像和视频参考。"
+    "es": {
+      "content": "Usa Seedance 2.0 en YouArtStudio con una sola imagen de entrada (fotograma inicial/fotograma final); aún no se admiten múltiples imágenes ni referencias de video."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 sur YouArtStudio avec une seule image en entrée (image de départ/image de fin) ; les images multiples et les références vidéo ne sont pas encore prises en charge."
+    },
+    "ja": {
+      "content": "---\nYouArtStudioでSeedance 2.0を使用する際は、単一の画像入力（開始フレーム/終了フレーム）を使用してください。複数の画像やビデオ参照はまだサポートされていません。\n---"
+    },
+    "ko": {
+      "content": "YouArtStudio에서 Seedance 2.0을 사용하여 단일 이미지 입력(시작 프레임/종료 프레임)을 활용하세요. 여러 이미지 및 비디오 참조는 아직 지원되지 않습니다."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 no YouArtStudio com uma única imagem de entrada (quadro inicial/quadro final); múltiplas imagens e referência de vídeo ainda não são suportadas."
+    },
+    "zh": {
+      "content": "在YouArtStudio上使用Seedance 2.0进行单张图像输入（起始帧/结束帧）；暂不支持多张图像和视频参考。"
+    }
   }
 }

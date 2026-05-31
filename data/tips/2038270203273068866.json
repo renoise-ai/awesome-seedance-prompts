@@ -1,43 +1,38 @@
 {
   "id": "2038270203273068866",
-  "type": "tip",
-  "url": "https://x.com/wordgenic/status/2038270203273068866",
-  "language": "id",
-  "created_at": "2026-03-29",
+  "title": "Generate the base image in NBP first, then animate that image into a video…",
+  "content": "Generate the base image in NBP first, then animate that image into a video using Seedance 2.0 (image-to-video workflow).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038194388959174656/img/cpljh1nqu8413d3E.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038270203273068866.mp4",
+  "sourceLink": "https://x.com/wordgenic/status/2038270203273068866",
+  "sourcePublishedAt": "2026-03-29",
   "author": {
     "name": "Dan The Guy (Creator Arc)",
-    "username": "wordgenic",
-    "url": "https://x.com/wordgenic",
-    "followers": 12199
+    "link": "https://x.com/wordgenic"
   },
-  "text": "kesampean jg nyobain SEEDANCE 2.0\n\nimage + animation dibikin lewat @yapper_so\n\n&gt; KRL image dibikin pake NBP\n&gt; animasi video pake seedance https://t.co/9qMdQa1ahf",
-  "content": "Generate the base image in NBP first, then animate that image into a video using Seedance 2.0 (image-to-video workflow).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 12,
-    "retweets": 0,
-    "replies": 6,
-    "quotes": 0,
-    "bookmarks": 3,
-    "views": 271
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2038270203273068866.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038194388959174656/img/cpljh1nqu8413d3E.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "@yapper_so buat yang mau cobain &amp; dapet free credit...\n\njajal langsung di sini:\nhttps://t.co/pa4OXz1fWP"
-    ]
-  },
+  "tips": "Generate the base image in NBP first, then animate that image into a video using Seedance 2.0 (image-to-video workflow).",
   "translations": {
-    "en": "Generate the base image in NBP first, then animate that image into a video using Seedance 2.0 (image-to-video workflow).\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so for those who want to try & get free credit...\n\ntry it directly here:\nhttps://t.co/pa4OXz1fWP\n---",
-    "es": "Genera la imagen base en NBP primero, luego anima esa imagen en un video usando Seedance 2.0 (flujo de trabajo de imagen a video).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @yapper_so para quienes quieran probarlo y obtener crédito gratis...\n\npruébalo directamente aquí:\nhttps://t.co/pa4OXz1fWP\n---",
-    "fr": "Générez d'abord l'image de base dans NBP, puis animez cette image en une vidéo en utilisant Seedance 2.0 (flux de travail image-à-vidéo).\n\n--- CONTINUATION DU FIL ---\n[Fil 1] @yapper_so pour ceux qui veulent essayer & obtenir du crédit gratuit...\n\nessayez directement ici :\nhttps://t.co/pa4OXz1fWP",
-    "ja": "---\nまずNBPでベース画像を生成し、その画像をSeedance 2.0を使用して動画にアニメーション化します（画像から動画へのワークフロー）。\n\n--- スレッドの続き ---\n[スレッド1] @yapper_so 試してみたい方＆無料クレジットをゲットしたい方へ...\n\nこちらから直接お試しください:\nhttps://t.co/pa4OXz1fWP\n---",
-    "ko": "---\n먼저 NBP에서 기본 이미지를 생성한 후, Seedance 2.0을 사용하여 그 이미지를 비디오로 애니메이션화하세요 (image-to-video workflow).\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so buat yang mau cobain &amp; dapet free credit...\n\njajal langsung di sini:\nhttps://t.co/pa4OXz1fWP\n---",
-    "pt-BR": "---\nGere a imagem base no NBP primeiro, depois anime essa imagem em um vídeo usando o Seedance 2.0 (fluxo de trabalho de imagem para vídeo).\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] @yapper_so para quem quer experimentar & obter crédito gratuito...\n\nexperimente diretamente aqui:\nhttps://t.co/pa4OXz1fWP\n---",
-    "zh-CN": "首先在 NBP 中生成基础图像，然后使用 Seedance 2.0 将该图像动画化为视频（图像到视频的工作流程）。\n\n--- 线程继续 ---\n[线程 1] @yapper_so 给想要尝试并获得免费积分的人...\n\n直接在这里试试：\nhttps://t.co/pa4OXz1fWP"
+    "en": {
+      "content": "Generate the base image in NBP first, then animate that image into a video using Seedance 2.0 (image-to-video workflow).\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so for those who want to try & get free credit...\n\ntry it directly here:\nhttps://t.co/pa4OXz1fWP\n---"
+    },
+    "es": {
+      "content": "Genera la imagen base en NBP primero, luego anima esa imagen en un video usando Seedance 2.0 (flujo de trabajo de imagen a video).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @yapper_so para quienes quieran probarlo y obtener crédito gratis...\n\npruébalo directamente aquí:\nhttps://t.co/pa4OXz1fWP\n---"
+    },
+    "fr": {
+      "content": "Générez d'abord l'image de base dans NBP, puis animez cette image en une vidéo en utilisant Seedance 2.0 (flux de travail image-à-vidéo).\n\n--- CONTINUATION DU FIL ---\n[Fil 1] @yapper_so pour ceux qui veulent essayer & obtenir du crédit gratuit...\n\nessayez directement ici :\nhttps://t.co/pa4OXz1fWP"
+    },
+    "ja": {
+      "content": "---\nまずNBPでベース画像を生成し、その画像をSeedance 2.0を使用して動画にアニメーション化します（画像から動画へのワークフロー）。\n\n--- スレッドの続き ---\n[スレッド1] @yapper_so 試してみたい方＆無料クレジットをゲットしたい方へ...\n\nこちらから直接お試しください:\nhttps://t.co/pa4OXz1fWP\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 NBP에서 기본 이미지를 생성한 후, Seedance 2.0을 사용하여 그 이미지를 비디오로 애니메이션화하세요 (image-to-video workflow).\n\n--- THREAD CONTINUATION ---\n[Thread 1] @yapper_so buat yang mau cobain &amp; dapet free credit...\n\njajal langsung di sini:\nhttps://t.co/pa4OXz1fWP\n---"
+    },
+    "pt": {
+      "content": "---\nGere a imagem base no NBP primeiro, depois anime essa imagem em um vídeo usando o Seedance 2.0 (fluxo de trabalho de imagem para vídeo).\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] @yapper_so para quem quer experimentar & obter crédito gratuito...\n\nexperimente diretamente aqui:\nhttps://t.co/pa4OXz1fWP\n---"
+    },
+    "zh": {
+      "content": "首先在 NBP 中生成基础图像，然后使用 Seedance 2.0 将该图像动画化为视频（图像到视频的工作流程）。\n\n--- 线程继续 ---\n[线程 1] @yapper_so 给想要尝试并获得免费积分的人...\n\n直接在这里试试：\nhttps://t.co/pa4OXz1fWP"
+    }
   }
 }

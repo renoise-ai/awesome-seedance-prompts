@@ -1,38 +1,37 @@
 {
   "id": "2025490403689189794",
-  "type": "prompt",
-  "url": "https://x.com/Ankit_patel211/status/2025490403689189794",
+  "title": "Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny…",
+  "content": "Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scientists.",
   "language": "en",
-  "created_at": "2026-02-22",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025490374555516928/pu/img/G0IUXAOqCWJ4aeiT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025490403689189794.mp4",
+  "sourceLink": "https://x.com/Ankit_patel211/status/2025490403689189794",
+  "sourcePublishedAt": "2026-02-22",
   "author": {
     "name": "ANKIT PATEL 🇮🇳 | AI",
-    "username": "Ankit_patel211",
-    "url": "https://x.com/Ankit_patel211",
-    "followers": 9640
-  },
-  "text": "Seedance 2.0\n\nCreation in @dreamina_ai\n\nPrompt -Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scientists. https://t.co/KOs1clg2To",
-  "content": "Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scientists.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 17,
-    "retweets": 2,
-    "replies": 6,
-    "quotes": 0,
-    "bookmarks": 4,
-    "views": 972
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025490403689189794.mp4",
-    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025490374555516928/pu/img/G0IUXAOqCWJ4aeiT.jpg"
+    "link": "https://x.com/Ankit_patel211"
   },
   "translations": {
-    "en": "Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scientists.",
-    "es": "Criaturas marinas gigantes preservadas (megalodón, pulpo) en tanques observadas por diminutos científicos.",
-    "fr": "Des créatures marines géantes préservées (mégalodon, pieuvre) dans des réservoirs observées par de minuscules scientifiques.",
-    "ja": "タンクの中で保存された巨大な海洋生物（メガロドン、タコ）を観察する小さな科学者たち。",
-    "ko": "거대한 보존된 바다 생물들(메갈로돈, 문어)이 탱크 안에 있고, 작은 과학자들이 그것을 관찰하고 있다.",
-    "pt-BR": "Criaturas marinhas gigantes preservadas (megalodon, polvo) em tanques observadas por pequenos cientistas.",
-    "zh-CN": "巨大的海洋生物标本（巨齿鲨、章鱼）在水箱中被微小的科学家观察。"
+    "en": {
+      "content": "Giant preserved sea creatures (megalodon, octopus) in tanks viewed by tiny scientists."
+    },
+    "es": {
+      "content": "Criaturas marinas gigantes preservadas (megalodón, pulpo) en tanques observadas por diminutos científicos."
+    },
+    "fr": {
+      "content": "Des créatures marines géantes préservées (mégalodon, pieuvre) dans des réservoirs observées par de minuscules scientifiques."
+    },
+    "ja": {
+      "content": "タンクの中で保存された巨大な海洋生物（メガロドン、タコ）を観察する小さな科学者たち。"
+    },
+    "ko": {
+      "content": "거대한 보존된 바다 생물들(메갈로돈, 문어)이 탱크 안에 있고, 작은 과학자들이 그것을 관찰하고 있다."
+    },
+    "pt": {
+      "content": "Criaturas marinhas gigantes preservadas (megalodon, polvo) em tanques observadas por pequenos cientistas."
+    },
+    "zh": {
+      "content": "巨大的海洋生物标本（巨齿鲨、章鱼）在水箱中被微小的科学家观察。"
+    }
   }
 }

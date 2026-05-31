@@ -1,37 +1,34 @@
 {
   "id": "2027212591391469617",
-  "type": "prompt",
-  "url": "https://x.com/markgadala/status/2027212591391469617",
+  "title": "A Coca Cola ad with 2 beautiful blonde women",
+  "content": "A Coca Cola ad with 2 beautiful blonde women",
   "language": "en",
-  "created_at": "2026-02-27",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027182574469029889/img/4jVIsTunyj-m4T2X.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027212591391469617.mp4",
+  "sourceLink": "https://x.com/markgadala/status/2027212591391469617",
+  "sourcePublishedAt": "2026-02-27",
   "author": {
     "name": "Mark Gadala-Maria",
-    "username": "markgadala",
-    "url": "https://x.com/markgadala",
-    "followers": 65725
-  },
-  "text": "Ad agencies are cooked.\n\nSeedance 2 prompt \"A Coca Cola ad with 2 beautiful blonde women\" https://t.co/KV61cdjRpO",
-  "content": "A Coca Cola ad with 2 beautiful blonde women",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 12,
-    "retweets": 0,
-    "replies": 4,
-    "quotes": 2,
-    "bookmarks": 6,
-    "views": 2512
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2027212591391469617.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027182574469029889/img/4jVIsTunyj-m4T2X.jpg"
+    "link": "https://x.com/markgadala"
   },
   "translations": {
-    "es": "Un anuncio de Coca Cola con 2 hermosas mujeres rubias",
-    "fr": "Une publicité Coca Cola avec deux belles femmes blondes",
-    "ja": "2人の美しいブロンド女性が登場するコカ・コーラの広告",
-    "ko": "2명의 아름다운 금발 여성이 등장하는 코카콜라 광고",
-    "pt-BR": "Um anúncio da Coca Cola com 2 belas mulheres loiras",
-    "zh-CN": "一则可口可乐广告， featuring 两位美丽的金发女性"
+    "es": {
+      "content": "Un anuncio de Coca Cola con 2 hermosas mujeres rubias"
+    },
+    "fr": {
+      "content": "Une publicité Coca Cola avec deux belles femmes blondes"
+    },
+    "ja": {
+      "content": "2人の美しいブロンド女性が登場するコカ・コーラの広告"
+    },
+    "ko": {
+      "content": "2명의 아름다운 금발 여성이 등장하는 코카콜라 광고"
+    },
+    "pt": {
+      "content": "Um anúncio da Coca Cola com 2 belas mulheres loiras"
+    },
+    "zh": {
+      "content": "一则可口可乐广告， featuring 两位美丽的金发女性"
+    }
   }
 }

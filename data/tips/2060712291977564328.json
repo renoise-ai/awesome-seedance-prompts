@@ -1,43 +1,35 @@
 {
   "id": "2060712291977564328",
-  "type": "tip",
-  "url": "https://x.com/suji_pop/status/2060712291977564328",
+  "title": "Use pure text prompting (no storyboard) in Seedance while supplying a character…",
+  "content": "Use pure text prompting (no storyboard) in Seedance while supplying a character sheet and background reference images to guide the output.",
   "language": "en",
-  "created_at": "2026-05-30",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060712032840867840/img/qQPtxiGx1290VWPF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060712291977564328.mp4",
+  "sourceLink": "https://x.com/suji_pop/status/2060712291977564328",
+  "sourcePublishedAt": "2026-05-30",
   "author": {
     "name": "SujiPop",
-    "username": "suji_pop",
-    "url": "https://x.com/suji_pop",
-    "followers": 4988
+    "link": "https://x.com/suji_pop"
   },
-  "text": "Only legends know the origin of this character. Be introduced to one of the villains in the world of @TenseiExe, a cyborg Yakuza. \n\nGenerated using Seedance on @yapper_so. No storyboard. Pure text prompting with character sheet and background references. https://t.co/8dL8fIqTVO",
-  "content": "Use pure text prompting (no storyboard) in Seedance while supplying a character sheet and background reference images to guide the output.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 16,
-    "retweets": 1,
-    "replies": 6,
-    "quotes": 1,
-    "bookmarks": 0,
-    "views": 808
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060712291977564328.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060712032840867840/img/qQPtxiGx1290VWPF.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "Based on a character I’ve designed roughly two years ago on @drip_haus. The following are some of the reference images I’ve fed to Seedance. https://t.co/eG1tljJ4t6",
-      "@drip_haus Try out Seedance at @yapper_so \n\nhttps://t.co/yEOroDGgmk"
-    ]
-  },
+  "tips": "Use pure text prompting (no storyboard) in Seedance while supplying a character sheet and background reference images to guide the output.",
   "translations": {
-    "es": "Usa pure text prompting (sin storyboard) en Seedance mientras proporcionas una hoja de personaje e imágenes de referencia de fondo para guiar el resultado.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Basado en un personaje que diseñé hace aproximadamente dos años en @drip_haus. Las siguientes son algunas de las imágenes de referencia que he proporcionado a Seedance. https://t.co/eG1tljJ4t6\n\n[Hilo 2] @drip_haus Prueba Seedance en @yapper_so \n\nhttps://t.co/yEOroDGgmk",
-    "fr": "Utilisez des prompts en texte pur (sans storyboard) dans Seedance tout en fournissant une fiche de personnage et des images de référence en arrière-plan pour guider le résultat.\n\n--- SUITE DU FIL ---\n[Fil 1] Basé sur un personnage que j'ai conçu il y a environ deux ans sur @drip_haus. Voici quelques-unes des images de référence que j'ai fournies à Seedance. https://t.co/eG1tljJ4t6\n\n[Fil 2] @drip_haus Essayez Seedance sur @yapper_so \n\nhttps://t.co/yEOroDGgmk",
-    "ja": "---\nSeedanceで純粋なテキストプロンプト（ストーリーボードなし）を使用し、キャラクターシートと背景の参考画像を提供して出力を導く。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 約2年前に@drip_hausでデザインしたキャラクターに基づいています。以下は、Seedanceに提供した参考画像の一部です。https://t.co/eG1tljJ4t6\n\n[Thread 2] @drip_haus @yapper_soでSeedanceを試してみてください\n\nhttps://t.co/yEOroDGgmk\n---",
-    "ko": "---\nSeedance에서 순수 텍스트 프롬프트(스토리보드 없음)를 사용하면서 캐릭터 시트와 배경 참조 이미지를 제공하여 출력을 안내합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 약 2년 전에 @drip_haus에서 디자인한 캐릭터를 기반으로 합니다. 다음은 Seedance에 제공한 참조 이미지들입니다. https://t.co/eG1tljJ4t6\n\n[Thread 2] @drip_haus @yapper_so에서 Seedance를 시도해 보세요.\n\nhttps://t.co/yEOroDGgmk\n---",
-    "pt-BR": "Use prompts de texto puro (sem storyboard) no Seedance enquanto fornece uma ficha de personagem e imagens de referência de fundo para guiar o resultado.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Baseado em um personagem que eu criei há cerca de dois anos no @drip_haus. A seguir estão algumas das imagens de referência que eu forneci ao Seedance. https://t.co/eG1tljJ4t6\n\n[Thread 2] @drip_haus Experimente o Seedance em @yapper_so \n\nhttps://t.co/yEOroDGgmk",
-    "zh-CN": "在Seedance中使用纯文本提示（无分镜），同时提供角色表和背景参考图像以指导输出。\n\n--- 线程继续 ---\n[线程 1] 基于我大约两年前在@drip_haus设计的一个角色。以下是我提供给Seedance的一些参考图像。https://t.co/eG1tljJ4t6\n\n[线程 2] @drip_haus 在@yapper_so 试用Seedance\n\nhttps://t.co/yEOroDGgmk"
+    "es": {
+      "content": "Usa pure text prompting (sin storyboard) en Seedance mientras proporcionas una hoja de personaje e imágenes de referencia de fondo para guiar el resultado.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Basado en un personaje que diseñé hace aproximadamente dos años en @drip_haus. Las siguientes son algunas de las imágenes de referencia que he proporcionado a Seedance. https://t.co/eG1tljJ4t6\n\n[Hilo 2] @drip_haus Prueba Seedance en @yapper_so \n\nhttps://t.co/yEOroDGgmk"
+    },
+    "fr": {
+      "content": "Utilisez des prompts en texte pur (sans storyboard) dans Seedance tout en fournissant une fiche de personnage et des images de référence en arrière-plan pour guider le résultat.\n\n--- SUITE DU FIL ---\n[Fil 1] Basé sur un personnage que j'ai conçu il y a environ deux ans sur @drip_haus. Voici quelques-unes des images de référence que j'ai fournies à Seedance. https://t.co/eG1tljJ4t6\n\n[Fil 2] @drip_haus Essayez Seedance sur @yapper_so \n\nhttps://t.co/yEOroDGgmk"
+    },
+    "ja": {
+      "content": "---\nSeedanceで純粋なテキストプロンプト（ストーリーボードなし）を使用し、キャラクターシートと背景の参考画像を提供して出力を導く。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 約2年前に@drip_hausでデザインしたキャラクターに基づいています。以下は、Seedanceに提供した参考画像の一部です。https://t.co/eG1tljJ4t6\n\n[Thread 2] @drip_haus @yapper_soでSeedanceを試してみてください\n\nhttps://t.co/yEOroDGgmk\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance에서 순수 텍스트 프롬프트(스토리보드 없음)를 사용하면서 캐릭터 시트와 배경 참조 이미지를 제공하여 출력을 안내합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 약 2년 전에 @drip_haus에서 디자인한 캐릭터를 기반으로 합니다. 다음은 Seedance에 제공한 참조 이미지들입니다. https://t.co/eG1tljJ4t6\n\n[Thread 2] @drip_haus @yapper_so에서 Seedance를 시도해 보세요.\n\nhttps://t.co/yEOroDGgmk\n---"
+    },
+    "pt": {
+      "content": "Use prompts de texto puro (sem storyboard) no Seedance enquanto fornece uma ficha de personagem e imagens de referência de fundo para guiar o resultado.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Baseado em um personagem que eu criei há cerca de dois anos no @drip_haus. A seguir estão algumas das imagens de referência que eu forneci ao Seedance. https://t.co/eG1tljJ4t6\n\n[Thread 2] @drip_haus Experimente o Seedance em @yapper_so \n\nhttps://t.co/yEOroDGgmk"
+    },
+    "zh": {
+      "content": "在Seedance中使用纯文本提示（无分镜），同时提供角色表和背景参考图像以指导输出。\n\n--- 线程继续 ---\n[线程 1] 基于我大约两年前在@drip_haus设计的一个角色。以下是我提供给Seedance的一些参考图像。https://t.co/eG1tljJ4t6\n\n[线程 2] @drip_haus 在@yapper_so 试用Seedance\n\nhttps://t.co/yEOroDGgmk"
+    }
   }
 }

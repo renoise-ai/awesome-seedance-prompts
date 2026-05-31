@@ -1,40 +1,35 @@
 {
   "id": "2060101291783921890",
-  "type": "tip",
-  "url": "https://x.com/daimajinart/status/2060101291783921890",
+  "title": "Upscale your Seedance video to 4K by using the Higgsfield plugin inside Adobe…",
+  "content": "Upscale your Seedance video to 4K by using the Higgsfield plugin inside Adobe Premiere Pro and exporting in 4K.",
   "language": "en",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060098185042038784/img/rFAZqr_nL7NVyEEH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060101291783921890.mp4",
+  "sourceLink": "https://x.com/daimajinart/status/2060101291783921890",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "Daimajin大魔神",
-    "username": "daimajinart",
-    "url": "https://x.com/daimajinart",
-    "followers": 22648
+    "link": "https://x.com/daimajinart"
   },
-  "text": "I literally just upscaled my seedance video to 4K with the higgsfield plugin in premiere! Here's a screen shot of the process and result. Higgsfield is cooking!\nNo Raika san is harmed during the making of this video. https://t.co/LuMeYGCBZV",
-  "content": "Upscale your Seedance video to 4K by using the Higgsfield plugin inside Adobe Premiere Pro and exporting in 4K.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 8,
-    "retweets": 0,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 4,
-    "views": 310
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060101291783921890.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060098185042038784/img/rFAZqr_nL7NVyEEH.jpg"
-  },
-  "extra_content": {
-    "quoted_text": "Higgsfield plugins for Adobe Premiere Pro and After Effects are live.\n\nGenerate images, videos, and transitions. Drag them into your timeline.\n\nReframe aspect ratios without cropping. Remove backgrounds from footage. Draw on a clip to edit what you want. Upscale to 4K on export. https://t.co/o91MJniCgN"
-  },
+  "tips": "Upscale your Seedance video to 4K by using the Higgsfield plugin inside Adobe Premiere Pro and exporting in 4K.",
   "translations": {
-    "es": "Mejora tu video de Seedance a 4K utilizando el plugin Higgsfield dentro de Adobe Premiere Pro y exportando en 4K.\n\n--- TWEET CITADO ---\nLos plugins Higgsfield para Adobe Premiere Pro y After Effects están disponibles.\n\nGenera imágenes, videos y transiciones. Arrástralos a tu línea de tiempo.\n\nReencuadra relaciones de aspecto sin recortar. Elimina fondos de metraje. Dibuja en un clip para editar lo que desees. Mejora a 4K al exportar. https://t.co/o91MJniCgN\n---",
-    "fr": "Améliorez votre vidéo Seedance en 4K en utilisant le plugin Higgsfield dans Adobe Premiere Pro et en exportant en 4K.\n\n--- TWEET CITÉ ---\nLes plugins Higgsfield pour Adobe Premiere Pro et After Effects sont disponibles.\n\nGénérez des images, des vidéos et des transitions. Glissez-les dans votre timeline.\n\nRecadrez les ratios d'aspect sans recadrage. Supprimez les arrière-plans des séquences. Dessinez sur un clip pour éditer ce que vous voulez. Améliorez en 4K à l'exportation. https://t.co/o91MJniCgN\n---",
-    "ja": "Adobe Premiere Pro内のHiggsfieldプラグインを使用して、Seedanceビデオを4Kにアップスケールし、4Kでエクスポートします。\n\n--- QUOTED TWEET ---\nAdobe Premiere ProとAfter Effects用のHiggsfieldプラグインが公開されました。\n\n画像、ビデオ、トランジションを生成し、タイムラインにドラッグします。\n\nクロップせずにアスペクト比をリフレーム。映像から背景を削除。クリップに描画して編集したい部分を調整。エクスポート時に4Kにアップスケール。https://t.co/o91MJniCgN\n---",
-    "ko": "Seedance 비디오를 Adobe Premiere Pro 내의 Higgsfield 플러그인을 사용하여 4K로 업스케일하고 4K로 내보내세요.\n\n--- 인용된 트윗 ---\nAdobe Premiere Pro 및 After Effects용 Higgsfield 플러그인이 출시되었습니다.\n\n이미지, 비디오 및 전환을 생성하세요. 타임라인에 드래그하세요.\n\n자르지 않고 화면 비율을 재구성하세요. 영상에서 배경을 제거하세요. 원하는 부분을 편집하기 위해 클립에 그리세요. 내보낼 때 4K로 업스케일하세요. https://t.co/o91MJniCgN\n---",
-    "pt-BR": "Aprimore seu vídeo Seedance para 4K usando o plugin Higgsfield dentro do Adobe Premiere Pro e exportando em 4K.\n\n--- TWEET CITADO ---\nOs plugins Higgsfield para Adobe Premiere Pro e After Effects estão disponíveis.\n\nGere imagens, vídeos e transições. Arraste-os para sua linha do tempo.\n\nReformate proporções de aspecto sem cortar. Remova fundos de filmagens. Desenhe em um clipe para editar o que você deseja. Aprimore para 4K na exportação. https://t.co/o91MJniCgN\n---",
-    "zh-CN": "通过在Adobe Premiere Pro中使用Higgsfield插件并以4K格式导出，将您的Seedance视频升级到4K。\n\n--- 引用推文 ---\nHiggsfield插件适用于Adobe Premiere Pro和After Effects现已上线。\n\n生成图像、视频和转场效果。将它们拖入您的时间轴。\n\n调整纵横比而无需裁剪。从素材中移除背景。在剪辑上绘制以编辑您想要的内容。导出时升级到4K。https://t.co/o91MJniCgN\n---"
+    "es": {
+      "content": "Mejora tu video de Seedance a 4K utilizando el plugin Higgsfield dentro de Adobe Premiere Pro y exportando en 4K.\n\n--- TWEET CITADO ---\nLos plugins Higgsfield para Adobe Premiere Pro y After Effects están disponibles.\n\nGenera imágenes, videos y transiciones. Arrástralos a tu línea de tiempo.\n\nReencuadra relaciones de aspecto sin recortar. Elimina fondos de metraje. Dibuja en un clip para editar lo que desees. Mejora a 4K al exportar. https://t.co/o91MJniCgN\n---"
+    },
+    "fr": {
+      "content": "Améliorez votre vidéo Seedance en 4K en utilisant le plugin Higgsfield dans Adobe Premiere Pro et en exportant en 4K.\n\n--- TWEET CITÉ ---\nLes plugins Higgsfield pour Adobe Premiere Pro et After Effects sont disponibles.\n\nGénérez des images, des vidéos et des transitions. Glissez-les dans votre timeline.\n\nRecadrez les ratios d'aspect sans recadrage. Supprimez les arrière-plans des séquences. Dessinez sur un clip pour éditer ce que vous voulez. Améliorez en 4K à l'exportation. https://t.co/o91MJniCgN\n---"
+    },
+    "ja": {
+      "content": "Adobe Premiere Pro内のHiggsfieldプラグインを使用して、Seedanceビデオを4Kにアップスケールし、4Kでエクスポートします。\n\n--- QUOTED TWEET ---\nAdobe Premiere ProとAfter Effects用のHiggsfieldプラグインが公開されました。\n\n画像、ビデオ、トランジションを生成し、タイムラインにドラッグします。\n\nクロップせずにアスペクト比をリフレーム。映像から背景を削除。クリップに描画して編集したい部分を調整。エクスポート時に4Kにアップスケール。https://t.co/o91MJniCgN\n---"
+    },
+    "ko": {
+      "content": "Seedance 비디오를 Adobe Premiere Pro 내의 Higgsfield 플러그인을 사용하여 4K로 업스케일하고 4K로 내보내세요.\n\n--- 인용된 트윗 ---\nAdobe Premiere Pro 및 After Effects용 Higgsfield 플러그인이 출시되었습니다.\n\n이미지, 비디오 및 전환을 생성하세요. 타임라인에 드래그하세요.\n\n자르지 않고 화면 비율을 재구성하세요. 영상에서 배경을 제거하세요. 원하는 부분을 편집하기 위해 클립에 그리세요. 내보낼 때 4K로 업스케일하세요. https://t.co/o91MJniCgN\n---"
+    },
+    "pt": {
+      "content": "Aprimore seu vídeo Seedance para 4K usando o plugin Higgsfield dentro do Adobe Premiere Pro e exportando em 4K.\n\n--- TWEET CITADO ---\nOs plugins Higgsfield para Adobe Premiere Pro e After Effects estão disponíveis.\n\nGere imagens, vídeos e transições. Arraste-os para sua linha do tempo.\n\nReformate proporções de aspecto sem cortar. Remova fundos de filmagens. Desenhe em um clipe para editar o que você deseja. Aprimore para 4K na exportação. https://t.co/o91MJniCgN\n---"
+    },
+    "zh": {
+      "content": "通过在Adobe Premiere Pro中使用Higgsfield插件并以4K格式导出，将您的Seedance视频升级到4K。\n\n--- 引用推文 ---\nHiggsfield插件适用于Adobe Premiere Pro和After Effects现已上线。\n\n生成图像、视频和转场效果。将它们拖入您的时间轴。\n\n调整纵横比而无需裁剪。从素材中移除背景。在剪辑上绘制以编辑您想要的内容。导出时升级到4K。https://t.co/o91MJniCgN\n---"
+    }
   }
 }

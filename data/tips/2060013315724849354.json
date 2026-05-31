@@ -1,37 +1,35 @@
 {
   "id": "2060013315724849354",
-  "type": "tip",
-  "url": "https://x.com/AIWarper/status/2060013315724849354",
+  "title": "Use Seedance character replacement by providing a single reference image to…",
+  "content": "Use Seedance character replacement by providing a single reference image to swap a character in an existing shot (expect it may not be perfectly 1:1).",
   "language": "en",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060012935783866368/img/J2v6UpK7FDAkvT8T.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060013315724849354.mp4",
+  "sourceLink": "https://x.com/AIWarper/status/2060013315724849354",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "A.I.Warper",
-    "username": "AIWarper",
-    "url": "https://x.com/AIWarper",
-    "followers": 35271
+    "link": "https://x.com/AIWarper"
   },
-  "text": "While not exactly 1:1, Seedance does a very convincing job of replacing a character in a shot with a single ref image.\n\nCan you spot what it missed? 🔎 https://t.co/ha3ViGDVHt",
-  "content": "Use Seedance character replacement by providing a single reference image to swap a character in an existing shot (expect it may not be perfectly 1:1).",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 85,
-    "retweets": 7,
-    "replies": 9,
-    "quotes": 2,
-    "bookmarks": 46,
-    "views": 14358
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060013315724849354.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060012935783866368/img/J2v6UpK7FDAkvT8T.jpg"
-  },
+  "tips": "Use Seedance character replacement by providing a single reference image to swap a character in an existing shot (expect it may not be perfectly 1:1).",
   "translations": {
-    "es": "Utiliza la sustitución de personajes de Seedance proporcionando una sola imagen de referencia para intercambiar un personaje en una toma existente (ten en cuenta que puede no ser perfectamente 1:1).",
-    "fr": "Utilisez le remplacement de personnage Seedance en fournissant une seule image de référence pour échanger un personnage dans une prise de vue existante (attendez-vous à ce que cela ne soit pas parfaitement 1:1).",
-    "ja": "Seedanceのキャラクター置換を使用して、既存のショット内のキャラクターを交換するために1枚の参照画像を提供してください（完全に1:1にはならない可能性があります）。",
-    "ko": "---\n기존 샷에서 캐릭터를 교체하기 위해 단일 참조 이미지를 제공하여 Seedance 캐릭터 교체 기능을 사용하세요 (완벽하게 1:1이 아닐 수 있습니다).",
-    "pt-BR": "Use o recurso de substituição de personagens do Seedance fornecendo uma única imagem de referência para trocar um personagem em uma cena existente (espere que pode não ser perfeitamente 1:1).",
-    "zh-CN": "通过提供单个参考图像，使用Seedance角色替换功能来替换现有镜头中的角色（请注意，可能无法做到完全1:1）。"
+    "es": {
+      "content": "Utiliza la sustitución de personajes de Seedance proporcionando una sola imagen de referencia para intercambiar un personaje en una toma existente (ten en cuenta que puede no ser perfectamente 1:1)."
+    },
+    "fr": {
+      "content": "Utilisez le remplacement de personnage Seedance en fournissant une seule image de référence pour échanger un personnage dans une prise de vue existante (attendez-vous à ce que cela ne soit pas parfaitement 1:1)."
+    },
+    "ja": {
+      "content": "Seedanceのキャラクター置換を使用して、既存のショット内のキャラクターを交換するために1枚の参照画像を提供してください（完全に1:1にはならない可能性があります）。"
+    },
+    "ko": {
+      "content": "---\n기존 샷에서 캐릭터를 교체하기 위해 단일 참조 이미지를 제공하여 Seedance 캐릭터 교체 기능을 사용하세요 (완벽하게 1:1이 아닐 수 있습니다)."
+    },
+    "pt": {
+      "content": "Use o recurso de substituição de personagens do Seedance fornecendo uma única imagem de referência para trocar um personagem em uma cena existente (espere que pode não ser perfeitamente 1:1)."
+    },
+    "zh": {
+      "content": "通过提供单个参考图像，使用Seedance角色替换功能来替换现有镜头中的角色（请注意，可能无法做到完全1:1）。"
+    }
   }
 }

@@ -1,37 +1,35 @@
 {
   "id": "2025836352735007200",
-  "type": "tip",
-  "url": "https://x.com/pallavmac/status/2025836352735007200",
+  "title": "Use Seedance 2.0 Pro in Image-to-Video mode with a 5s duration at 720p…",
+  "content": "Use Seedance 2.0 Pro in Image-to-Video mode with a 5s duration at 720p resolution.",
   "language": "en",
-  "created_at": "2026-02-23",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025836282530648064/img/hH714TM0v0YG_i1T.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025836352735007200.mp4",
+  "sourceLink": "https://x.com/pallavmac/status/2025836352735007200",
+  "sourcePublishedAt": "2026-02-23",
   "author": {
     "name": "Pallav Agarwal",
-    "username": "pallavmac",
-    "url": "https://x.com/pallavmac",
-    "followers": 2643
+    "link": "https://x.com/pallavmac"
   },
-  "text": "@MustafyOf Oh wow that worked. For me I had to do: Seedance 2.0 Pro, Image to Video, 5s, 720p https://t.co/orNMXLEYVw",
-  "content": "Use Seedance 2.0 Pro in Image-to-Video mode with a 5s duration at 720p resolution.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 11,
-    "retweets": 1,
-    "replies": 0,
-    "quotes": 1,
-    "bookmarks": 6,
-    "views": 5903
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2025836352735007200.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025836282530648064/img/hH714TM0v0YG_i1T.jpg"
-  },
+  "tips": "Use Seedance 2.0 Pro in Image-to-Video mode with a 5s duration at 720p resolution.",
   "translations": {
-    "es": "Usa Seedance 2.0 Pro en modo Image-to-Video con una duración de 5 segundos a una resolución de 720p.",
-    "fr": "Utilisez Seedance 2.0 Pro en mode Image-to-Video avec une durée de 5 secondes à une résolution de 720p.",
-    "ja": "---\nSeedance 2.0 Proを使用して、Image-to-Videoモードで5秒間、720p解像度で。",
-    "ko": "Seedance 2.0 Pro를 이미지-비디오 모드에서 사용하여 5초 길이, 720p 해상도로 설정하세요.",
-    "pt-BR": "Use o Seedance 2.0 Pro no modo Image-to-Video com duração de 5s em resolução 720p.",
-    "zh-CN": "在图像到视频模式下使用 Seedance 2.0 Pro，时长5秒，分辨率为720p。"
+    "es": {
+      "content": "Usa Seedance 2.0 Pro en modo Image-to-Video con una duración de 5 segundos a una resolución de 720p."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 Pro en mode Image-to-Video avec une durée de 5 secondes à une résolution de 720p."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0 Proを使用して、Image-to-Videoモードで5秒間、720p解像度で。"
+    },
+    "ko": {
+      "content": "Seedance 2.0 Pro를 이미지-비디오 모드에서 사용하여 5초 길이, 720p 해상도로 설정하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 Pro no modo Image-to-Video com duração de 5s em resolução 720p."
+    },
+    "zh": {
+      "content": "在图像到视频模式下使用 Seedance 2.0 Pro，时长5秒，分辨率为720p。"
+    }
   }
 }

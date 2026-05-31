@@ -1,43 +1,38 @@
 {
   "id": "2026669571789226280",
-  "type": "tip",
-  "url": "https://x.com/kaan_alper/status/2026669571789226280",
+  "title": "Komutlarda epic war scene yazarak multishot kamera düzeninin sahne konusuna…",
+  "content": "Komutlarda epic war scene yazarak multishot kamera düzeninin sahne konusuna göre otomatik ayarlanmasını sağlayın.",
   "language": "tr",
-  "created_at": "2026-02-25",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026668010799304704/img/pRzSnDajd_mQ7Yke.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026669571789226280.mp4",
+  "sourceLink": "https://x.com/kaan_alper/status/2026669571789226280",
+  "sourcePublishedAt": "2026-02-25",
   "author": {
     "name": "Kaan Alper",
-    "username": "kaan_alper",
-    "url": "https://x.com/kaan_alper",
-    "followers": 14810
+    "link": "https://x.com/kaan_alper"
   },
-  "text": "Seedance 2.0 neredeyse her konuda üretime geçmeye tüm hızıyla devam ediyor. Şimdiki konumuz savaş sahneleri... Gerek animasyon gerek saha çalışmalarında tam başbelasıdır... Ekip, kostüm, Makyaj... Bilenler bilir... Hele post prodüksyon tarafı tam bir ölümdür. Multi shot sürekli kemara açılarının değişimi vs... Seedance burada multishot ile kemara açıları, doku, ışık muhteşem... Belli ki modeli savaş sahneleri için güzel eğitmişler... Üretici ORClar ve Osmanlı Ordusunu savaştırmış... Açıkçası mükemmel bir akış çıkarmış... Ha bu arada içerden bilgi vereyim komutlarda epic war scene olarak girerseniz multishot kamera düzenini otomatik konuya göre ayarlıyor... Ülkemizde üretim başladığında muhteşem ötesi savaş sahneleri çıkacağından şüphem yok... Bırakın inadı... Sinema sektörünü kökten değiştirecek bu model...",
-  "content": "Komutlarda epic war scene yazarak multishot kamera düzeninin sahne konusuna göre otomatik ayarlanmasını sağlayın.",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 57,
-    "retweets": 4,
-    "replies": 7,
-    "quotes": 1,
-    "bookmarks": 42,
-    "views": 5495
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2026669571789226280.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026668010799304704/img/pRzSnDajd_mQ7Yke.jpg"
-  },
-  "extra_content": {
-    "thread_texts": [
-      "https://t.co/NFB3FTfXQ1"
-    ]
-  },
+  "tips": "Komutlarda epic war scene yazarak multishot kamera düzeninin sahne konusuna göre otomatik ayarlanmasını sağlayın.",
   "translations": {
-    "en": "By writing \"epic war scene\" in the prompts, ensure that the multishot camera setup is automatically adjusted according to the scene's theme.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/NFB3FTfXQ1\n---",
-    "es": "Escriba epic war scene en los prompts para que la disposición de la cámara multishot se ajuste automáticamente según el tema de la escena.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/NFB3FTfXQ1\n---",
-    "fr": "En écrivant \"epic war scene\" dans les prompts, assurez-vous que la configuration de la caméra multishot s'ajuste automatiquement en fonction du sujet de la scène.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/NFB3FTfXQ1",
-    "ja": "---\nKomutlarda「epic war scene」と入力することで、マルチショットカメラの配置がシーンの内容に応じて自動的に調整されます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/NFB3FTfXQ1\n---",
-    "ko": "---\nKomutlarda epic war scene yazarak multishot 카메라 구성이 장면 주제에 맞게 자동으로 조정되도록 하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/NFB3FTfXQ1\n---",
-    "pt-BR": "Ao escrever \"epic war scene\" nos prompts, faça com que a configuração da câmera multishot seja ajustada automaticamente de acordo com o tema da cena.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/NFB3FTfXQ1",
-    "zh-CN": "通过在提示中输入 epic war scene，使多镜头相机设置根据场景主题自动调整。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/NFB3FTfXQ1\n---"
+    "en": {
+      "content": "By writing \"epic war scene\" in the prompts, ensure that the multishot camera setup is automatically adjusted according to the scene's theme.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/NFB3FTfXQ1\n---"
+    },
+    "es": {
+      "content": "Escriba epic war scene en los prompts para que la disposición de la cámara multishot se ajuste automáticamente según el tema de la escena.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/NFB3FTfXQ1\n---"
+    },
+    "fr": {
+      "content": "En écrivant \"epic war scene\" dans les prompts, assurez-vous que la configuration de la caméra multishot s'ajuste automatiquement en fonction du sujet de la scène.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/NFB3FTfXQ1"
+    },
+    "ja": {
+      "content": "---\nKomutlarda「epic war scene」と入力することで、マルチショットカメラの配置がシーンの内容に応じて自動的に調整されます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/NFB3FTfXQ1\n---"
+    },
+    "ko": {
+      "content": "---\nKomutlarda epic war scene yazarak multishot 카메라 구성이 장면 주제에 맞게 자동으로 조정되도록 하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/NFB3FTfXQ1\n---"
+    },
+    "pt": {
+      "content": "Ao escrever \"epic war scene\" nos prompts, faça com que a configuração da câmera multishot seja ajustada automaticamente de acordo com o tema da cena.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/NFB3FTfXQ1"
+    },
+    "zh": {
+      "content": "通过在提示中输入 epic war scene，使多镜头相机设置根据场景主题自动调整。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/NFB3FTfXQ1\n---"
+    }
   }
 }

@@ -1,37 +1,35 @@
 {
   "id": "2059953374028513718",
-  "type": "tip",
-  "url": "https://x.com/ai_hakase_/status/2059953374028513718",
+  "title": "プロンプトで不要な要素を削除する（例：Remove … を使って特定オブジェクト/要素を消す）",
+  "content": "プロンプトで不要な要素を削除する（例：Remove … を使って特定オブジェクト/要素を消す）",
   "language": "ja",
-  "created_at": "2026-05-28",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058880102365007872/img/P9F4gmwX38Xgt1K-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059953374028513718.mp4",
+  "sourceLink": "https://x.com/ai_hakase_/status/2059953374028513718",
+  "sourcePublishedAt": "2026-05-28",
   "author": {
     "name": "ハカセ アイ(Ai-Hakase)🐾最新トレンドＡＩのためのＸ 🐾",
-    "username": "ai_hakase_",
-    "url": "https://x.com/ai_hakase_",
-    "followers": 13894
+    "link": "https://x.com/ai_hakase_"
   },
-  "text": "Seedance 2で動画編集に革命！VFXワークフローが劇的進化 ✨\n👉  https://t.co/B3NPb6iq0Q\nAI動画特有のノイズや崩れを克服し、生成した動画を直接AIで編集できる「Seedance 2」が登場しました！\n\n1️⃣ プロンプトによる特定要素の削除\n「Remove",
-  "content": "プロンプトで不要な要素を削除する（例：Remove … を使って特定オブジェクト/要素を消す）",
-  "tags": [],
-  "category": null,
-  "metrics": {
-    "likes": 13,
-    "retweets": 1,
-    "replies": 1,
-    "quotes": 0,
-    "bookmarks": 11,
-    "views": 1930
-  },
-  "video": {
-    "url": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059953374028513718.mp4",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058880102365007872/img/P9F4gmwX38Xgt1K-.jpg"
-  },
+  "tips": "プロンプトで不要な要素を削除する（例：Remove … を使って特定オブジェクト/要素を消す）",
   "translations": {
-    "en": "---\nRemove unnecessary elements in the prompt (e.g., use Remove to eliminate specific objects/elements)\n---",
-    "es": "---\nEliminar elementos innecesarios en el prompt (ejemplo: usar Remove … para eliminar un objeto/elemento específico)\n---",
-    "fr": "Supprimer les éléments indésirables dans le prompt (ex : utiliser Remove … pour effacer des objets/éléments spécifiques)",
-    "ko": "프로ンプ트에서 불필요한 요소를 제거하기 (예: Remove … 를 사용하여 특정 객체/요소를 삭제)",
-    "pt-BR": "Remover elementos indesejados no prompt (exemplo: usar Remove … para eliminar objetos/elementos específicos)",
-    "zh-CN": "在提示中删除不需要的元素（例如：使用 Remove … 来消除特定对象/元素）"
+    "en": {
+      "content": "---\nRemove unnecessary elements in the prompt (e.g., use Remove to eliminate specific objects/elements)\n---"
+    },
+    "es": {
+      "content": "---\nEliminar elementos innecesarios en el prompt (ejemplo: usar Remove … para eliminar un objeto/elemento específico)\n---"
+    },
+    "fr": {
+      "content": "Supprimer les éléments indésirables dans le prompt (ex : utiliser Remove … pour effacer des objets/éléments spécifiques)"
+    },
+    "ko": {
+      "content": "프로ンプ트에서 불필요한 요소를 제거하기 (예: Remove … 를 사용하여 특정 객체/요소를 삭제)"
+    },
+    "pt": {
+      "content": "Remover elementos indesejados no prompt (exemplo: usar Remove … para eliminar objetos/elementos específicos)"
+    },
+    "zh": {
+      "content": "在提示中删除不需要的元素（例如：使用 Remove … 来消除特定对象/元素）"
+    }
   }
 }
