@@ -1,9 +1,11 @@
 name: Sync Data
 
 on:
-  schedule:
-    - cron: '30 */4 * * *'     # Every 4 hours
-  workflow_dispatch:            # Manual trigger
+  # Scheduled trigger removed 2026-06-01: upstream (YouBase) is deprecated since the
+  # migration to awesome-prompts-lib (035a4ad). A scheduled run would pull legacy
+  # upstream data and unlink our current tweet-id-named files. Kept manual-only
+  # (workflow_dispatch) as an explicit, opt-in escape hatch — never runs on its own.
+  workflow_dispatch:            # Manual trigger only
 
 permissions:
   contents: write
