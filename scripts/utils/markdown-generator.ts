@@ -3,7 +3,7 @@ import { getLocalized } from './data-loader.js';
 import { t, formatDateLocalized } from './i18n.js';
 
 const MAX_PROMPTS_TO_DISPLAY = 100;
-const GALLERY_BASE_URL = 'https://youware.com';
+const GALLERY_BASE_URL = 'https://renoise.ai';
 const REPO_OWNER = 'renoise-ai';
 const REPO_NAME = 'awesome-seedance-prompts';
 

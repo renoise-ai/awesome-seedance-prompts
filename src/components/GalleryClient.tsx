@@ -103,7 +103,7 @@ export default function GalleryClient({ prompts, tips }: GalleryClientProps) {
           {/* Right: CTA */}
           <div className="flex shrink-0 flex-col items-center gap-2.5 sm:flex-row">
             <a
-              href="https://youware.com"
+              href="https://renoise.ai/showcase"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full bg-brand px-6 py-2.5 typo-body-strong text-white shadow-md shadow-brand/20 transition-all hover:-translate-y-0.5 hover:shadow-lg hover:shadow-brand/25"
@@ -228,7 +228,7 @@ export default function GalleryClient({ prompts, tips }: GalleryClientProps) {
             {t(locale, "footerCurated").replace("{total}", String(totalCount)).replace("{authors}", String(uniqueAuthors))}
           </p>
           <a
-            href="https://youware.com"
+            href="https://renoise.ai/showcase"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 rounded-full bg-brand/8 px-4 py-1.5 typo-small text-brand transition-colors hover:bg-brand/15"

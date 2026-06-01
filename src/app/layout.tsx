@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { getFaqEnglish } from "@/lib/faq";
 import "./globals.css";
 
-const SITE_URL = "https://youware.com/seedance-2-0-prompts";
+const SITE_URL = "https://renoise.ai/showcase";
 const TITLE = "Awesome Seedance 2.0 Prompts – The Largest AI Video Prompt Library | YouWare";
 const DESCRIPTION =
   "500+ community-contributed Seedance 2.0 video generation prompts with playable previews. Covering text-to-video, image-to-video, character animation, style transfer, and more. Updated daily. Free to use.";
@@ -10,7 +10,7 @@ const DESCRIPTION =
 export const metadata: Metadata = {
   title: TITLE,
   description: DESCRIPTION,
-  metadataBase: new URL("https://youware.com"),
+  metadataBase: new URL("https://renoise.ai"),
   alternates: {
     canonical: SITE_URL,
   },
@@ -84,7 +84,7 @@ function JsonLd() {
     publisher: {
       "@type": "Organization",
       name: "YouWare",
-      url: "https://youware.com",
+      url: "https://renoise.ai",
     },
     about: {
       "@type": "SoftwareApplication",
@@ -95,7 +95,7 @@ function JsonLd() {
     isPartOf: {
       "@type": "WebSite",
       name: "YouWare",
-      url: "https://youware.com",
+      url: "https://renoise.ai",
     },
     inLanguage: ["en", "zh-CN", "ja", "pt-BR", "es"],
     dateModified: new Date().toISOString().split("T")[0],

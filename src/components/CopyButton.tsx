@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback } from "react";
 import { createPortal } from "react-dom";
 
 const STORAGE_KEY = "youware_redirect_shown";
-const YOUWARE_URL = "https://www.youware.com/create";
+const RENOISE_URL = "https://renoise.ai/showcase";
 
 interface CopyButtonProps {
   text: string;
@@ -104,7 +104,7 @@ export default function CopyButton({
   }, []);
 
   const openYouWare = useCallback(() => {
-    window.open(YOUWARE_URL, "_blank", "noopener,noreferrer");
+    window.open(RENOISE_URL, "_blank", "noopener,noreferrer");
   }, []);
 
   const handleCopy = async (e: React.MouseEvent) => {
