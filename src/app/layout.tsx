@@ -3,7 +3,7 @@ import { getFaqEnglish } from "@/lib/faq";
 import "./globals.css";
 
 const SITE_URL = "https://renoise.ai/showcase";
-const TITLE = "Awesome Seedance 2.0 Prompts – The Largest AI Video Prompt Library | YouWare";
+const TITLE = "Awesome Seedance 2.0 Prompts – The Largest AI Video Prompt Library | Renoise";
 const DESCRIPTION =
   "500+ community-contributed Seedance 2.0 video generation prompts with playable previews. Covering text-to-video, image-to-video, character animation, style transfer, and more. Updated daily. Free to use.";
 
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     title: TITLE,
     description: DESCRIPTION,
     url: SITE_URL,
-    siteName: "YouWare",
+    siteName: "Renoise",
     type: "website",
     locale: "en_US",
     alternateLocale: ["zh_CN", "ja_JP", "pt_BR", "es_ES"],
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Awesome Seedance 2.0 Prompts – AI Video Prompt Library by YouWare",
+        alt: "Awesome Seedance 2.0 Prompts – AI Video Prompt Library by Renoise",
       },
     ],
   },
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     title: "Awesome Seedance 2.0 Prompts – 500+ Free AI Video Prompts",
     description:
       "The most comprehensive Seedance 2.0 prompt collection. Community-contributed, daily updated, with playable video previews.",
-    site: "@YouWareAI",
+    site: "@RenoiseAI",
     images: ["/og-image.png"],
   },
   robots: {
@@ -83,7 +83,7 @@ function JsonLd() {
     url: SITE_URL,
     publisher: {
       "@type": "Organization",
-      name: "YouWare",
+      name: "Renoise",
       url: "https://renoise.ai",
     },
     about: {
@@ -94,7 +94,7 @@ function JsonLd() {
     },
     isPartOf: {
       "@type": "WebSite",
-      name: "YouWare",
+      name: "Renoise",
       url: "https://renoise.ai",
     },
     inLanguage: ["en", "zh-CN", "ja", "pt-BR", "es"],

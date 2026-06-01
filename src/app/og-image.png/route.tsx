@@ -93,7 +93,7 @@ export async function GET() {
             }}
           >
             <span>Powered by</span>
-            <span style={{ color: "#ffffff", fontWeight: 700 }}>YouWare</span>
+            <span style={{ color: "#ffffff", fontWeight: 700 }}>Renoise</span>
           </div>
         </div>
       </div>

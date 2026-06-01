@@ -221,7 +221,7 @@ export default function GalleryClient({ prompts, tips }: GalleryClientProps) {
       {/* FAQ */}
       <FAQ locale={locale} />
 
-      {/* Footer with light YouWare mention */}
+      {/* Footer with light Renoise mention */}
       <footer className="border-t border-black/6 px-6 py-6">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 sm:flex-row">
           <p className="typo-small" style={{ color: "var(--text-color-tertiary)" }}>
@@ -236,7 +236,7 @@ export default function GalleryClient({ prompts, tips }: GalleryClientProps) {
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2" />
             </svg>
-            Powered by YouWare
+            Powered by Renoise
           </a>
         </div>
       </footer>

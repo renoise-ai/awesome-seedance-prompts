@@ -103,7 +103,7 @@ export default function CopyButton({
     setIsFirstTime(!hasRedirectedThisSession());
   }, []);
 
-  const openYouWare = useCallback(() => {
+  const openRenoise = useCallback(() => {
     window.open(RENOISE_URL, "_blank", "noopener,noreferrer");
   }, []);
 
@@ -121,7 +121,7 @@ export default function CopyButton({
       setTimeout(() => {
         setState("opening");
         setTimeout(() => {
-          openYouWare();
+          openRenoise();
           setTimeout(() => setState("idle"), 3000);
         }, 400);
       }, 800);
@@ -133,10 +133,10 @@ export default function CopyButton({
   const isActive = state !== "idle";
   const showToast = isActive;
   const currentToastMessage = isFirstTime
-    ? (state === "opening" ? (openingLabel || "Opening YouWare…") : (toastMessage || ""))
+    ? (state === "opening" ? (openingLabel || "Opening Renoise…") : (toastMessage || ""))
     : (toastMessageShort || toastMessage || "");
 
-  const buttonLabel = state === "opening" ? (openingLabel || "Opening YouWare…") :
+  const buttonLabel = state === "opening" ? (openingLabel || "Opening Renoise…") :
     state === "copied" ? copiedLabel : label;
 
   const sizeClasses = size === "sm" ? "px-3 py-1.5 typo-small-strong" : "px-4 py-2 typo-body-strong";
@@ -168,7 +168,7 @@ export default function CopyButton({
           message={currentToastMessage}
           visible={showToast}
           ctaLabel={!isFirstTime && isActive ? toastCta : undefined}
-          onCtaClick={!isFirstTime && isActive ? openYouWare : undefined}
+          onCtaClick={!isFirstTime && isActive ? openRenoise : undefined}
         />
       )}
     </>
