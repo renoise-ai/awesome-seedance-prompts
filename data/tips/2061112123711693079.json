@@ -1,0 +1,35 @@
+{
+  "id": "2061112123711693079",
+  "title": "Use a workflow of: write a #threejs scene sketch prompt → generate Nano Banana…",
+  "content": "Use a workflow of: write a #threejs scene sketch prompt → generate Nano Banana keyframes → animate in Seedance (e.g., via Spellshape) to turn the 3D sketch into an animated video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061112052261830657/img/lXP0fsCH6Eh96YHc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061112123711693079.mp4",
+  "sourceLink": "https://x.com/steve_steve25/status/2061112123711693079",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "Stepan Kukharskiy",
+    "link": "https://x.com/steve_steve25"
+  },
+  "tips": "Use a workflow of: write a #threejs scene sketch prompt → generate Nano Banana keyframes → animate in Seedance (e.g., via Spellshape) to turn the 3D sketch into an animated video.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de: escribir un prompt de boceto de escena #threejs → generar fotogramas clave de Nano Banana → animar en Seedance (por ejemplo, a través de Spellshape) para convertir el boceto 3D en un video animado."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail de : rédiger un prompt de croquis de scène #threejs → générer des keyframes Nano Banana → animer dans Seedance (par exemple, via Spellshape) pour transformer le croquis 3D en une vidéo animée."
+    },
+    "ja": {
+      "content": "ワークフローを使用します: #threejs シーンスケッチプロンプトを書く → Nano Banana キーフレームを生成する → Seedance（例: Spellshape 経由）でアニメーション化して、3Dスケッチをアニメーションビデオに変換します。"
+    },
+    "ko": {
+      "content": "#threejs 장면 스케치 프롬프트 작성 → Nano Banana 키프레임 생성 → Seedance에서 애니메이션 (예: Spellshape를 통해)하여 3D 스케치를 애니메이션 비디오로 변환하는 워크플로우를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de: escrever um prompt de esboço de cena #threejs → gerar keyframes de Nano Banana → animar no Seedance (por exemplo, via Spellshape) para transformar o esboço 3D em um vídeo animado."
+    },
+    "zh": {
+      "content": "使用以下工作流程：编写一个#threejs 场景草图 prompt → 生成 Nano Banana 关键帧 → 在 Seedance 中动画化（例如，通过 Spellshape）将3D草图转化为动画视频。"
+    }
+  }
+}

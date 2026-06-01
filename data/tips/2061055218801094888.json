@@ -1,0 +1,35 @@
+{
+  "id": "2061055218801094888",
+  "title": "Use ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0 to generate a product image…",
+  "content": "Use ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0 to generate a product image, then generate new angles and exploded-view variants before animating.  \nUse Seedance’s start/end frame feature by setting the first frame to the normal product view and the last frame to the exploded view to turn the transition into a video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061055135049265152/img/HifjEOC3AU2JUzod.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061055218801094888.mp4",
+  "sourceLink": "https://x.com/jerrod_lew/status/2061055218801094888",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "Jerrod Lew",
+    "link": "https://x.com/jerrod_lew"
+  },
+  "tips": "Use ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0 to generate a product image, then generate new angles and exploded-view variants before animating.  \nUse Seedance’s start/end frame feature by setting the first frame to the normal product view and the last frame to the exploded view to turn the transition into a video.",
+  "translations": {
+    "es": {
+      "content": "Usa ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0 para generar una imagen de producto, luego genera nuevos ángulos y variantes de vista explotada antes de animar.  \nUsa la función de inicio/fin de fotograma de Seedance configurando el primer fotograma en la vista normal del producto y el último fotograma en la vista explotada para convertir la transición en un video."
+    },
+    "fr": {
+      "content": "Utilisez ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0 pour générer une image de produit, puis générez de nouveaux angles et des variantes en vue éclatée avant d'animer.  \nUtilisez la fonction de cadre de début/fin de Seedance en définissant le premier cadre sur la vue normale du produit et le dernier cadre sur la vue éclatée pour transformer la transition en vidéo."
+    },
+    "ja": {
+      "content": "ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0を使用して製品画像を生成し、その後、新しい角度や分解図のバリエーションを生成してからアニメーション化します。  \nSeedanceの開始/終了フレーム機能を使用して、最初のフレームを通常の製品ビューに、最後のフレームを分解ビューに設定し、トランジションをビデオに変換します。"
+    },
+    "ko": {
+      "content": "ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0를 사용하여 제품 이미지를 생성한 후, 새로운 각도와 분해도 변형을 생성하고 애니메이션화하세요.  \nSeedance의 시작/종료 프레임 기능을 사용하여 첫 번째 프레임을 일반 제품 보기로 설정하고 마지막 프레임을 분해도로 설정하여 전환을 비디오로 만드세요."
+    },
+    "pt": {
+      "content": "Use ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0 para gerar uma imagem de produto, depois gere novos ângulos e variantes em vista explodida antes de animar.  \nUse o recurso de quadro inicial/final do Seedance definindo o primeiro quadro para a vista normal do produto e o último quadro para a vista explodida para transformar a transição em um vídeo."
+    },
+    "zh": {
+      "content": "使用 ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0 生成产品图像，然后生成新的角度和爆炸视图变体，再进行动画制作。  \n使用 Seedance 的起始/结束帧功能，将第一帧设置为正常产品视图，最后一帧设置为爆炸视图，将过渡转换为视频。"
+    }
+  }
+}

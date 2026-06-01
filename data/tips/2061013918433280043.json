@@ -1,0 +1,35 @@
+{
+  "id": "2061013918433280043",
+  "title": "Generate assets with nano-banana-2 or gpt-image-2, then feed them into Seedance…",
+  "content": "Generate assets with nano-banana-2 or gpt-image-2, then feed them into Seedance 2.0, remove the video background, and export frames for further use.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061013906995412992/img/HkZchiIsYbXHpSpd.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061013918433280043.mp4",
+  "sourceLink": "https://x.com/NullNul28881817/status/2061013918433280043",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "Null 🇻🇳",
+    "link": "https://x.com/NullNul28881817"
+  },
+  "tips": "Generate assets with nano-banana-2 or gpt-image-2, then feed them into Seedance 2.0, remove the video background, and export frames for further use.",
+  "translations": {
+    "es": {
+      "content": "Genera activos con nano-banana-2 o gpt-image-2, luego introdúcelos en Seedance 2.0, elimina el fondo del video y exporta los fotogramas para su uso posterior."
+    },
+    "fr": {
+      "content": "Générez des assets avec nano-banana-2 ou gpt-image-2, puis intégrez-les dans Seedance 2.0, supprimez l'arrière-plan vidéo et exportez les images pour une utilisation ultérieure."
+    },
+    "ja": {
+      "content": "---\nnano-banana-2やgpt-image-2でアセットを生成し、それをSeedance 2.0に入力します。次に、ビデオの背景を削除し、さらなる利用のためにフレームをエクスポートします。\n---"
+    },
+    "ko": {
+      "content": "---\nnano-banana-2 또는 gpt-image-2로 에셋을 생성한 후 Seedance 2.0에 입력하여 비디오 배경을 제거하고, 추가 사용을 위해 프레임을 내보내세요.\n---"
+    },
+    "pt": {
+      "content": "Gere ativos com nano-banana-2 ou gpt-image-2, depois insira-os no Seedance 2.0, remova o fundo do vídeo e exporte os quadros para uso posterior."
+    },
+    "zh": {
+      "content": "使用nano-banana-2或gpt-image-2生成素材，然后将它们输入Seedance 2.0，去除视频背景，并导出帧以供进一步使用。"
+    }
+  }
+}

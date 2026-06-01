@@ -1,0 +1,35 @@
+{
+  "id": "2061055537773760756",
+  "title": "BGMはSeedance生成時に入れずに、後から別途追加する",
+  "content": "BGMはSeedance生成時に入れずに、後から別途追加する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061054872213217280/img/C0d3gsQEQKbVAa7J.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061055537773760756.mp4",
+  "sourceLink": "https://x.com/ivy432hz/status/2061055537773760756",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "あいびぃ",
+    "link": "https://x.com/ivy432hz"
+  },
+  "tips": "BGMはSeedance生成時に入れずに、後から別途追加する",
+  "translations": {
+    "en": {
+      "content": "Do not include BGM during Seedance generation; add it separately afterward."
+    },
+    "es": {
+      "content": "No incluyas BGM al generar con Seedance; agrégalo por separado después."
+    },
+    "fr": {
+      "content": "Lors de la génération avec Seedance, n'ajoutez pas de BGM, mais ajoutez-le séparément par la suite."
+    },
+    "ko": {
+      "content": "BGM은 Seedance 생성 시에 넣지 말고, 나중에 별도로 추가한다."
+    },
+    "pt": {
+      "content": "BGM não deve ser incluído durante a geração no Seedance; deve ser adicionado separadamente depois."
+    },
+    "zh": {
+      "content": "BGM在Seedance生成时不要加入，之后再单独添加。"
+    }
+  }
+}

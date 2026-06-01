@@ -1,0 +1,35 @@
+{
+  "id": "2060928671863676991",
+  "title": "訓読みの熟語が誤読されやすいので、訓読みの漢字セリフはカタカナ表記にして入力する",
+  "content": "訓読みの熟語が誤読されやすいので、訓読みの漢字セリフはカタカナ表記にして入力する  \nカタカナ表記でも誤読する場合はirodori-ttsで音声を生成して差し替え編集する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060924661912002560/img/5K2GOfjcT3AwALR1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060928671863676991.mp4",
+  "sourceLink": "https://x.com/Lucian0716/status/2060928671863676991",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "物々",
+    "link": "https://x.com/Lucian0716"
+  },
+  "tips": "訓読みの熟語が誤読されやすいので、訓読みの漢字セリフはカタカナ表記にして入力する  \nカタカナ表記でも誤読する場合はirodori-ttsで音声を生成して差し替え編集する",
+  "translations": {
+    "en": {
+      "content": "Since kun'yomi compounds are prone to misreading, input kun'yomi kanji dialogue in katakana.  \nIf misreading occurs even with katakana, generate audio using irodori-tts and replace it during editing."
+    },
+    "es": {
+      "content": "---\nDado que los jukugo de lectura kun se pueden leer incorrectamente con facilidad, las líneas de diálogo en kanji de lectura kun deben ingresarse en katakana.  \nSi incluso en katakana se leen incorrectamente, se debe generar audio con irodori-tts y editar para reemplazarlo.\n---"
+    },
+    "fr": {
+      "content": "Les jukugo en lecture kun'yomi sont souvent mal lus, donc il est conseillé de saisir les kanji en lecture kun'yomi sous forme de katakana.  \nSi la lecture en katakana est également sujette à des erreurs, utilisez irodori-tts pour générer l'audio et remplacez-le lors de l'édition."
+    },
+    "ko": {
+      "content": "訓読み의 숙어가 잘못 읽히기 쉬우므로, 훈독의 한자 대사는 카타카나 표기로 입력한다  \n카타카나 표기로도 잘못 읽히는 경우에는 irodori-tts로 음성을 생성하여 교체 편집한다"
+    },
+    "pt": {
+      "content": "Como os jukugos de leitura kun são facilmente lidos incorretamente, insira os caracteres kanji de leitura kun em katakana.  \nSe mesmo com a representação em katakana houver leitura incorreta, gere áudio com irodori-tts e substitua na edição."
+    },
+    "zh": {
+      "content": "---\n由于训读的熟语容易被误读，因此输入时将训读的汉字台词用片假名表示  \n如果片假名表示仍然误读，则使用irodori-tts生成语音进行替换编辑\n---"
+    }
+  }
+}

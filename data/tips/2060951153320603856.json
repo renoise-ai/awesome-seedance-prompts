@@ -1,0 +1,35 @@
+{
+  "id": "2060951153320603856",
+  "title": "Start with a still image, convert it into a GPT Image 2 storyboard, then…",
+  "content": "Start with a still image, convert it into a GPT Image 2 storyboard, then animate the storyboard in Seedance 2 to turn stills into cinematic motion",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060854838033031168/img/KvPSx9UbpYsHNvER.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060951153320603856.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2060951153320603856",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tips": "Start with a still image, convert it into a GPT Image 2 storyboard, then animate the storyboard in Seedance 2 to turn stills into cinematic motion",
+  "translations": {
+    "es": {
+      "content": "Comienza con una imagen fija, conviértela en un storyboard de GPT Image 2, luego anima el storyboard en Seedance 2 para transformar las imágenes fijas en movimiento cinematográfico."
+    },
+    "fr": {
+      "content": "Commencez par une image fixe, convertissez-la en un storyboard GPT Image 2, puis animez le storyboard dans Seedance 2 pour transformer les images fixes en mouvement cinématographique."
+    },
+    "ja": {
+      "content": "静止画像から始めて、それをGPT Image 2のストーリーボードに変換し、次にSeedance 2でストーリーボードをアニメーション化して静止画をシネマティックな動きに変える。"
+    },
+    "ko": {
+      "content": "정지 이미지를 시작으로, 이를 GPT Image 2 스토리보드로 변환한 후, Seedance 2에서 스토리보드를 애니메이션화하여 정지 이미지를 시네마틱 모션으로 전환합니다."
+    },
+    "pt": {
+      "content": "Comece com uma imagem estática, converta-a em um storyboard do GPT Image 2, depois anime o storyboard no Seedance 2 para transformar imagens estáticas em movimento cinematográfico."
+    },
+    "zh": {
+      "content": "从静态图像开始，将其转换为GPT Image 2分镜，然后在Seedance 2中将分镜动画化，将静态图像转变为电影般的动态效果。"
+    }
+  }
+}

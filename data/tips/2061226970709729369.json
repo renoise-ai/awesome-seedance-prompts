@@ -1,0 +1,35 @@
+{
+  "id": "2061226970709729369",
+  "title": "Create a storyboard from your source image using a Custom GPT Image 2.0…",
+  "content": "Create a storyboard from your source image using a Custom GPT Image 2.0 workflow, then feed that storyboard into Seedance 2.0 to generate the final video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061196776103952384/img/iF1WXxjzyfQkaiSC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061226970709729369.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2061226970709729369",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tips": "Create a storyboard from your source image using a Custom GPT Image 2.0 workflow, then feed that storyboard into Seedance 2.0 to generate the final video.",
+  "translations": {
+    "es": {
+      "content": "Crea un guion gráfico a partir de tu imagen fuente utilizando un flujo de trabajo Custom GPT Image 2.0, luego introduce ese guion gráfico en Seedance 2.0 para generar el video final."
+    },
+    "fr": {
+      "content": "Créez un storyboard à partir de votre image source en utilisant un flux de travail Custom GPT Image 2.0, puis intégrez ce storyboard dans Seedance 2.0 pour générer la vidéo finale."
+    },
+    "ja": {
+      "content": "---\nカスタムGPT Image 2.0ワークフローを使用してソース画像からストーリーボードを作成し、そのストーリーボードをSeedance 2.0に入力して最終ビデオを生成します。"
+    },
+    "ko": {
+      "content": "소스 이미지를 사용하여 Custom GPT Image 2.0 워크플로우로 스토리보드를 만든 다음, 그 스토리보드를 Seedance 2.0에 입력하여 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Crie um storyboard a partir da sua imagem de origem usando um fluxo de trabalho Custom GPT Image 2.0, depois insira esse storyboard no Seedance 2.0 para gerar o vídeo final."
+    },
+    "zh": {
+      "content": "使用自定义GPT Image 2.0工作流程从您的源图像创建分镜，然后将该分镜输入Seedance 2.0以生成最终视频。"
+    }
+  }
+}
