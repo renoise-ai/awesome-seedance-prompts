@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/"],
       },
     ],
-    sitemap: "https://youware.com/seedance-2-0-prompts/sitemap.xml",
+    sitemap: "https://renoise.ai/showcase/sitemap.xml",
   };
 }

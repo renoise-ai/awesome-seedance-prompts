@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback } from "react";
 import { createPortal } from "react-dom";
 
 const STORAGE_KEY = "youware_redirect_shown";
-const YOUWARE_URL = "https://www.youware.com/create";
+const RENOISE_URL = "https://renoise.ai/showcase";
 
 interface CopyButtonProps {
   text: string;
@@ -103,8 +103,8 @@ export default function CopyButton({
     setIsFirstTime(!hasRedirectedThisSession());
   }, []);
 
-  const openYouWare = useCallback(() => {
-    window.open(YOUWARE_URL, "_blank", "noopener,noreferrer");
+  const openRenoise = useCallback(() => {
+    window.open(RENOISE_URL, "_blank", "noopener,noreferrer");
   }, []);
 
   const handleCopy = async (e: React.MouseEvent) => {
@@ -121,7 +121,7 @@ export default function CopyButton({
       setTimeout(() => {
         setState("opening");
         setTimeout(() => {
-          openYouWare();
+          openRenoise();
           setTimeout(() => setState("idle"), 3000);
         }, 400);
       }, 800);
@@ -133,10 +133,10 @@ export default function CopyButton({
   const isActive = state !== "idle";
   const showToast = isActive;
   const currentToastMessage = isFirstTime
-    ? (state === "opening" ? (openingLabel || "Opening YouWare…") : (toastMessage || ""))
+    ? (state === "opening" ? (openingLabel || "Opening Renoise…") : (toastMessage || ""))
     : (toastMessageShort || toastMessage || "");
 
-  const buttonLabel = state === "opening" ? (openingLabel || "Opening YouWare…") :
+  const buttonLabel = state === "opening" ? (openingLabel || "Opening Renoise…") :
     state === "copied" ? copiedLabel : label;
 
   const sizeClasses = size === "sm" ? "px-3 py-1.5 typo-small-strong" : "px-4 py-2 typo-body-strong";
@@ -168,7 +168,7 @@ export default function CopyButton({
           message={currentToastMessage}
           visible={showToast}
           ctaLabel={!isFirstTime && isActive ? toastCta : undefined}
-          onCtaClick={!isFirstTime && isActive ? openYouWare : undefined}
+          onCtaClick={!isFirstTime && isActive ? openRenoise : undefined}
         />
       )}
     </>

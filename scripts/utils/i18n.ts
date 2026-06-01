@@ -74,7 +74,7 @@ const en: Translation = {
   subtitle: 'A curated collection of high-quality video generation prompts for ByteDance\'s Seedance 2.0',
   galleryDescription: 'Browse all prompts with video previews, search, and one-click generation',
   viewInGallery: 'View in Web Gallery',
-  browseGallery: 'Browse all Seedance 2.0 prompts on YouWare',
+  browseGallery: 'Browse all Seedance 2.0 prompts on Renoise',
   whatIs: 'What is Seedance 2.0?',
   whatIsContent: `**Seedance 2.0** is a video generation model developed by **ByteDance**. It is the industry's first model supporting **simultaneous quad-modal input** — image, video, audio, and text.
 
@@ -110,7 +110,7 @@ const en: Translation = {
   acknowledgementsContent: 'Thanks to all the creators who shared their prompts with the community.',
   starHistory: '⭐ Star History',
   madeWith: 'Made with ❤️ by',
-  copyright: '© 2026 YouWare. All rights reserved.',
+  copyright: '© 2026 Renoise. All rights reserved.',
   videoPreview: 'Video Preview',
   referenceImage: 'Reference Image',
   tableOfContents: 'Table of Contents',
@@ -184,7 +184,7 @@ const zhCN: Translation = {
   acknowledgementsContent: '感谢所有与社区分享提示词的创作者们。',
   starHistory: '⭐ Star 历史',
   madeWith: '用 ❤️ 制作',
-  copyright: '© 2026 YouWare 版权所有',
+  copyright: '© 2026 Renoise 版权所有',
   videoPreview: '视频预览',
   referenceImage: '参考图片',
   tableOfContents: '目录',
@@ -222,7 +222,7 @@ const ja: Translation = {
   subtitle: 'Seedance 2.0 の厳選ビデオ生成プロンプト集',
   galleryDescription: 'すべてのプロンプトを動画プレビュー・検索・ワンクリック生成で閲覧',
   viewInGallery: '🎬 ウェブギャラリーで閲覧',
-  browseGallery: 'YouWare でプロンプトを閲覧',
+  browseGallery: 'Renoise でプロンプトを閲覧',
   whatIs: 'Seedance 2.0 とは？',
   whatIsContent: `**Seedance 2.0** は **ByteDance** が開発した動画生成モデルで、業界初の **画像・動画・音声・テキストの4モーダル同時入力** に対応しています。
 
@@ -258,7 +258,7 @@ const ja: Translation = {
   acknowledgementsContent: 'コミュニティでプロンプトを共有してくださったすべてのクリエイターに感謝します。',
   starHistory: '⭐ Star 履歴',
   madeWith: '❤️ で制作',
-  copyright: '© 2026 YouWare. All rights reserved.',
+  copyright: '© 2026 Renoise. All rights reserved.',
   videoPreview: '動画プレビュー',
   referenceImage: '参考画像',
   tableOfContents: '目次',
@@ -296,7 +296,7 @@ const ptBR: Translation = {
   subtitle: 'Coleção curada de prompts de geração de vídeo para o Seedance 2.0 da ByteDance',
   galleryDescription: 'Navegue por todos os prompts com prévias de vídeo, busca e geração com um clique',
   viewInGallery: '🎬 Ver na Galeria Web',
-  browseGallery: 'Ver todos os prompts Seedance 2.0 no YouWare',
+  browseGallery: 'Ver todos os prompts Seedance 2.0 no Renoise',
   whatIs: 'O que é o Seedance 2.0?',
   whatIsContent: `**Seedance 2.0** é um modelo de geração de vídeo desenvolvido pela **ByteDance**. É o primeiro modelo do setor que suporta **entrada simultânea de quatro modalidades** — imagem, vídeo, áudio e texto.
 
@@ -332,7 +332,7 @@ const ptBR: Translation = {
   acknowledgementsContent: 'Agradecemos a todos os criadores que compartilharam seus prompts com a comunidade.',
   starHistory: '⭐ Histórico de Stars',
   madeWith: 'Feito com ❤️ por',
-  copyright: '© 2026 YouWare. Todos os direitos reservados.',
+  copyright: '© 2026 Renoise. Todos os direitos reservados.',
   videoPreview: 'Prévia do Vídeo',
   referenceImage: 'Imagem de Referência',
   tableOfContents: 'Índice',
@@ -370,7 +370,7 @@ const es: Translation = {
   subtitle: 'Colección curada de prompts de generación de video para el Seedance 2.0 de ByteDance',
   galleryDescription: 'Explora todos los prompts con vistas previas de video, búsqueda y generación con un clic',
   viewInGallery: '🎬 Ver en la Galería Web',
-  browseGallery: 'Ver todos los prompts Seedance 2.0 en YouWare',
+  browseGallery: 'Ver todos los prompts Seedance 2.0 en Renoise',
   whatIs: '¿Qué es Seedance 2.0?',
   whatIsContent: `**Seedance 2.0** es un modelo de generación de video desarrollado por **ByteDance**. Es el primer modelo de la industria que soporta **entrada simultánea de cuatro modalidades** — imagen, video, audio y texto.
 
@@ -406,7 +406,7 @@ const es: Translation = {
   acknowledgementsContent: 'Gracias a todos los creadores que compartieron sus prompts con la comunidad.',
   starHistory: '⭐ Historial de Stars',
   madeWith: 'Hecho con ❤️ por',
-  copyright: '© 2026 YouWare. Todos los derechos reservados.',
+  copyright: '© 2026 Renoise. Todos los derechos reservados.',
   videoPreview: 'Vista Previa del Video',
   referenceImage: 'Imagen de Referencia',
   tableOfContents: 'Índice',

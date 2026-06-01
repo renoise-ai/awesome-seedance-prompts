@@ -88,7 +88,7 @@ This is an AI video generation prompt. Rules:
 - "content" is a prompt for Seedance 2.0 video generation model — translate naturally, keep technical terms
 - "title" and "description" should be localized naturally, not word-by-word
 - "tips" should be practical and natural in the target language
-- Keep brand names (Seedance, YouWare) unchanged
+- Keep brand names (Seedance, Renoise) unchanged
 - Return ONLY valid JSON, no markdown fences, no explanation
 
 Input:

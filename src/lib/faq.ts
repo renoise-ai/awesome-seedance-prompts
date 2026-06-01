@@ -10,17 +10,17 @@ const faqData: Record<Locale, FaqItem[]> = {
     {
       question: "What is Seedance 2.0 and why should I use it?",
       answer:
-        "Seedance 2.0 is ByteDance's state-of-the-art AI video generation model. It produces cinematic 1080p videos up to 8 seconds with advanced physics simulation, multi-character consistency, and in-video text rendering. On YouWare, you can use Seedance 2.0 with one click — just copy a prompt from this gallery, paste it, and generate your video instantly.",
+        "Seedance 2.0 is ByteDance's state-of-the-art AI video generation model. It produces cinematic 1080p videos up to 8 seconds with advanced physics simulation, multi-character consistency, and in-video text rendering. On Renoise, you can use Seedance 2.0 with one click — just copy a prompt from this gallery, paste it, and generate your video instantly.",
     },
     {
-      question: "How do I use these prompts with YouWare?",
+      question: "How do I use these prompts with Renoise?",
       answer:
-        'Click "Copy Prompt" on any card — the text copies to your clipboard and YouWare opens automatically. Just paste (⌘V / Ctrl+V) into the prompt box, select Seedance 2.0, and hit generate. No setup needed. YouWare handles all the infrastructure so you can focus on creating.',
+        'Click "Copy Prompt" on any card — the text copies to your clipboard and Renoise opens automatically. Just paste (⌘V / Ctrl+V) into the prompt box, select Seedance 2.0, and hit generate. No setup needed. Renoise handles all the infrastructure so you can focus on creating.',
     },
     {
       question: "What's the difference between Seedance 2.0 and Nanobanana 2 (Gemini 3.1 Flash)?",
       answer:
-        "Seedance 2.0 and Nanobanana 2 (powered by Gemini 3.1 Flash) target different creative workflows. Seedance 2.0 specializes in AI video generation — producing 8-second cinematic clips with physics simulation, camera movements, and multi-subject consistency. Nanobanana 2 focuses on AI image generation with Google's latest Gemini 3.1 Flash model, excelling at high-quality stills with fast inference. Think of it as: Seedance 2.0 for motion, Nanobanana 2 for stills. YouWare supports both, so you can generate images with Nanobanana 2 and bring them to life with Seedance 2.0's image-to-video feature.",
+        "Seedance 2.0 and Nanobanana 2 (powered by Gemini 3.1 Flash) target different creative workflows. Seedance 2.0 specializes in AI video generation — producing 8-second cinematic clips with physics simulation, camera movements, and multi-subject consistency. Nanobanana 2 focuses on AI image generation with Google's latest Gemini 3.1 Flash model, excelling at high-quality stills with fast inference. Think of it as: Seedance 2.0 for motion, Nanobanana 2 for stills. Renoise supports both, so you can generate images with Nanobanana 2 and bring them to life with Seedance 2.0's image-to-video feature.",
     },
     {
       question: "How does Seedance 2.0 compare to Kling, Runway, and Sora?",
@@ -40,24 +40,24 @@ const faqData: Record<Locale, FaqItem[]> = {
     {
       question: "Is this free to use?",
       answer:
-        "Yes — browsing, searching, and copying every prompt in this gallery is 100% free with no account required. To generate videos, YouWare offers free credits to get started, with Pro and Ultra plans for heavy usage. The prompts here work with any platform that supports Seedance 2.0.",
+        "Yes — browsing, searching, and copying every prompt in this gallery is 100% free with no account required. To generate videos, Renoise offers free credits to get started, with Pro and Ultra plans for heavy usage. The prompts here work with any platform that supports Seedance 2.0.",
     },
   ],
   "zh-CN": [
     {
       question: "Seedance 2.0 是什么？为什么要用它？",
       answer:
-        "Seedance 2.0 是字节跳动最先进的 AI 视频生成模型，可生成长达 8 秒的 1080p 电影级视频，支持高级物理模拟、多角色一致性和视频内文字渲染。在 YouWare 上，你可以一键使用 Seedance 2.0 —— 从本库复制提示词，粘贴即可生成视频。",
+        "Seedance 2.0 是字节跳动最先进的 AI 视频生成模型，可生成长达 8 秒的 1080p 电影级视频，支持高级物理模拟、多角色一致性和视频内文字渲染。在 Renoise 上，你可以一键使用 Seedance 2.0 —— 从本库复制提示词，粘贴即可生成视频。",
     },
     {
-      question: "怎么配合 YouWare 使用这些提示词？",
+      question: "怎么配合 Renoise 使用这些提示词？",
       answer:
-        "点击任意卡片的「复制提示词」—— 文本会复制到剪贴板，同时自动打开 YouWare。粘贴（⌘V / Ctrl+V）到提示框，选择 Seedance 2.0 模型，点击生成即可。无需任何配置，YouWare 处理所有基础设施。",
+        "点击任意卡片的「复制提示词」—— 文本会复制到剪贴板，同时自动打开 Renoise。粘贴（⌘V / Ctrl+V）到提示框，选择 Seedance 2.0 模型，点击生成即可。无需任何配置，Renoise 处理所有基础设施。",
     },
     {
       question: "Seedance 2.0 和 Nanobanana 2（Gemini 3.1 Flash）有什么区别？",
       answer:
-        "Seedance 2.0 和 Nanobanana 2（基于 Google Gemini 3.1 Flash）面向不同的创作场景。Seedance 2.0 专注 AI 视频生成 —— 生成 8 秒电影级片段，支持物理模拟、镜头运动和多主体一致性。Nanobanana 2 则专注 AI 图像生成，利用 Gemini 3.1 Flash 实现高质量静态图的快速推理。简单说：动态用 Seedance 2.0，静态用 Nanobanana 2。YouWare 两者都支持，你可以用 Nanobanana 2 生成图片，再用 Seedance 2.0 的「图生视频」功能让画面动起来。",
+        "Seedance 2.0 和 Nanobanana 2（基于 Google Gemini 3.1 Flash）面向不同的创作场景。Seedance 2.0 专注 AI 视频生成 —— 生成 8 秒电影级片段，支持物理模拟、镜头运动和多主体一致性。Nanobanana 2 则专注 AI 图像生成，利用 Gemini 3.1 Flash 实现高质量静态图的快速推理。简单说：动态用 Seedance 2.0，静态用 Nanobanana 2。Renoise 两者都支持，你可以用 Nanobanana 2 生成图片，再用 Seedance 2.0 的「图生视频」功能让画面动起来。",
     },
     {
       question: "Seedance 2.0 和 Kling、Runway、Sora 相比怎么样？",
@@ -77,24 +77,24 @@ const faqData: Record<Locale, FaqItem[]> = {
     {
       question: "免费吗？",
       answer:
-        "是的 —— 浏览、搜索和复制本库所有提示词完全免费，无需注册。生成视频方面，YouWare 提供免费额度供新用户体验，重度用户可升级 Pro 或 Ultra 套餐。这些提示词适用于任何支持 Seedance 2.0 的平台。",
+        "是的 —— 浏览、搜索和复制本库所有提示词完全免费，无需注册。生成视频方面，Renoise 提供免费额度供新用户体验，重度用户可升级 Pro 或 Ultra 套餐。这些提示词适用于任何支持 Seedance 2.0 的平台。",
     },
   ],
   ja: [
     {
       question: "Seedance 2.0とは？なぜ使うべき？",
       answer:
-        "Seedance 2.0はByteDanceの最先端AI動画生成モデルです。ネイティブ1080pで最大8秒のシネマティック動画を生成し、高度な物理シミュレーション、マルチキャラクター一貫性、動画内テキストレンダリングをサポートしています。YouWareでは、このギャラリーからプロンプトをコピーして貼り付けるだけで、ワンクリックでSeedance 2.0を使用できます。",
+        "Seedance 2.0はByteDanceの最先端AI動画生成モデルです。ネイティブ1080pで最大8秒のシネマティック動画を生成し、高度な物理シミュレーション、マルチキャラクター一貫性、動画内テキストレンダリングをサポートしています。Renoiseでは、このギャラリーからプロンプトをコピーして貼り付けるだけで、ワンクリックでSeedance 2.0を使用できます。",
     },
     {
-      question: "YouWareでこれらのプロンプトを使うには？",
+      question: "Renoiseでこれらのプロンプトを使うには？",
       answer:
-        "カードの「プロンプトをコピー」をクリック — テキストがクリップボードにコピーされ、YouWareが自動的に開きます。プロンプトボックスに貼り付け（⌘V / Ctrl+V）、Seedance 2.0を選択して生成するだけ。セットアップ不要です。",
+        "カードの「プロンプトをコピー」をクリック — テキストがクリップボードにコピーされ、Renoiseが自動的に開きます。プロンプトボックスに貼り付け（⌘V / Ctrl+V）、Seedance 2.0を選択して生成するだけ。セットアップ不要です。",
     },
     {
       question: "Seedance 2.0とNanobanana 2（Gemini 3.1 Flash）の違いは？",
       answer:
-        "Seedance 2.0とNanobanana 2（Google Gemini 3.1 Flash搭載）は異なるクリエイティブワークフローを対象としています。Seedance 2.0はAI動画生成に特化し、物理シミュレーション、カメラムーブメント、マルチサブジェクト一貫性を備えた8秒のシネマティッククリップを生成します。Nanobanana 2はAI画像生成に焦点を当て、高速推論で高品質なスチルを生成します。動きならSeedance 2.0、スチルならNanobanana 2。YouWareは両方をサポートしており、Nanobanana 2で画像を生成し、Seedance 2.0の画像→動画機能で命を吹き込むことができます。",
+        "Seedance 2.0とNanobanana 2（Google Gemini 3.1 Flash搭載）は異なるクリエイティブワークフローを対象としています。Seedance 2.0はAI動画生成に特化し、物理シミュレーション、カメラムーブメント、マルチサブジェクト一貫性を備えた8秒のシネマティッククリップを生成します。Nanobanana 2はAI画像生成に焦点を当て、高速推論で高品質なスチルを生成します。動きならSeedance 2.0、スチルならNanobanana 2。Renoiseは両方をサポートしており、Nanobanana 2で画像を生成し、Seedance 2.0の画像→動画機能で命を吹き込むことができます。",
     },
     {
       question: "Seedance 2.0はKling、Runway、Soraと比べてどう？",
@@ -114,24 +114,24 @@ const faqData: Record<Locale, FaqItem[]> = {
     {
       question: "無料ですか？",
       answer:
-        "はい — このギャラリーのすべてのプロンプトの閲覧、検索、コピーはアカウント不要で100%無料です。動画生成にはYouWareの無料クレジットで始められ、ヘビーユーザー向けにProとUltraプランがあります。ここのプロンプトはSeedance 2.0をサポートするどのプラットフォームでも使えます。",
+        "はい — このギャラリーのすべてのプロンプトの閲覧、検索、コピーはアカウント不要で100%無料です。動画生成にはRenoiseの無料クレジットで始められ、ヘビーユーザー向けにProとUltraプランがあります。ここのプロンプトはSeedance 2.0をサポートするどのプラットフォームでも使えます。",
     },
   ],
   "pt-BR": [
     {
       question: "O que é o Seedance 2.0 e por que devo usá-lo?",
       answer:
-        "O Seedance 2.0 é o modelo de geração de vídeo com IA mais avançado da ByteDance. Produz vídeos cinematográficos em 1080p de até 8 segundos com simulação física avançada, consistência entre múltiplos personagens e renderização de texto no vídeo. No YouWare, você pode usar o Seedance 2.0 com um clique — copie um prompt desta galeria, cole e gere seu vídeo instantaneamente.",
+        "O Seedance 2.0 é o modelo de geração de vídeo com IA mais avançado da ByteDance. Produz vídeos cinematográficos em 1080p de até 8 segundos com simulação física avançada, consistência entre múltiplos personagens e renderização de texto no vídeo. No Renoise, você pode usar o Seedance 2.0 com um clique — copie um prompt desta galeria, cole e gere seu vídeo instantaneamente.",
     },
     {
-      question: "Como usar estes prompts com o YouWare?",
+      question: "Como usar estes prompts com o Renoise?",
       answer:
-        'Clique em "Copiar Prompt" em qualquer cartão — o texto é copiado e o YouWare abre automaticamente. Basta colar (⌘V / Ctrl+V) na caixa de prompt, selecionar Seedance 2.0 e gerar. Sem configuração necessária.',
+        'Clique em "Copiar Prompt" em qualquer cartão — o texto é copiado e o Renoise abre automaticamente. Basta colar (⌘V / Ctrl+V) na caixa de prompt, selecionar Seedance 2.0 e gerar. Sem configuração necessária.',
     },
     {
       question: "Qual a diferença entre Seedance 2.0 e Nanobanana 2 (Gemini 3.1 Flash)?",
       answer:
-        "Seedance 2.0 e Nanobanana 2 (com Gemini 3.1 Flash do Google) atendem fluxos criativos diferentes. Seedance 2.0 é especializado em geração de vídeo com IA — produzindo clipes cinematográficos de 8 segundos com simulação física e consistência multi-sujeito. Nanobanana 2 foca em geração de imagem com IA, com inferência rápida e alta qualidade. Resumindo: Seedance 2.0 para movimento, Nanobanana 2 para imagens estáticas. O YouWare suporta ambos — gere imagens com Nanobanana 2 e dê vida a elas com o recurso de imagem-para-vídeo do Seedance 2.0.",
+        "Seedance 2.0 e Nanobanana 2 (com Gemini 3.1 Flash do Google) atendem fluxos criativos diferentes. Seedance 2.0 é especializado em geração de vídeo com IA — produzindo clipes cinematográficos de 8 segundos com simulação física e consistência multi-sujeito. Nanobanana 2 foca em geração de imagem com IA, com inferência rápida e alta qualidade. Resumindo: Seedance 2.0 para movimento, Nanobanana 2 para imagens estáticas. O Renoise suporta ambos — gere imagens com Nanobanana 2 e dê vida a elas com o recurso de imagem-para-vídeo do Seedance 2.0.",
     },
     {
       question: "Como o Seedance 2.0 se compara ao Kling, Runway e Sora?",
@@ -151,24 +151,24 @@ const faqData: Record<Locale, FaqItem[]> = {
     {
       question: "É gratuito?",
       answer:
-        "Sim — navegar, buscar e copiar todos os prompts desta galeria é 100% gratuito, sem necessidade de conta. Para gerar vídeos, o YouWare oferece créditos gratuitos para começar, com planos Pro e Ultra para uso intenso. Os prompts aqui funcionam com qualquer plataforma que suporte o Seedance 2.0.",
+        "Sim — navegar, buscar e copiar todos os prompts desta galeria é 100% gratuito, sem necessidade de conta. Para gerar vídeos, o Renoise oferece créditos gratuitos para começar, com planos Pro e Ultra para uso intenso. Os prompts aqui funcionam com qualquer plataforma que suporte o Seedance 2.0.",
     },
   ],
   es: [
     {
       question: "¿Qué es Seedance 2.0 y por qué debería usarlo?",
       answer:
-        "Seedance 2.0 es el modelo de generación de video con IA más avanzado de ByteDance. Produce videos cinematográficos en 1080p de hasta 8 segundos con simulación física avanzada, consistencia entre múltiples personajes y renderizado de texto en video. En YouWare, puedes usar Seedance 2.0 con un clic — copia un prompt de esta galería, pégalo y genera tu video al instante.",
+        "Seedance 2.0 es el modelo de generación de video con IA más avanzado de ByteDance. Produce videos cinematográficos en 1080p de hasta 8 segundos con simulación física avanzada, consistencia entre múltiples personajes y renderizado de texto en video. En Renoise, puedes usar Seedance 2.0 con un clic — copia un prompt de esta galería, pégalo y genera tu video al instante.",
     },
     {
-      question: "¿Cómo uso estos prompts con YouWare?",
+      question: "¿Cómo uso estos prompts con Renoise?",
       answer:
-        'Haz clic en "Copiar Prompt" en cualquier tarjeta — el texto se copia y YouWare se abre automáticamente. Solo pega (⌘V / Ctrl+V) en el campo de prompt, selecciona Seedance 2.0 y genera. Sin configuración necesaria.',
+        'Haz clic en "Copiar Prompt" en cualquier tarjeta — el texto se copia y Renoise se abre automáticamente. Solo pega (⌘V / Ctrl+V) en el campo de prompt, selecciona Seedance 2.0 y genera. Sin configuración necesaria.',
     },
     {
       question: "¿Cuál es la diferencia entre Seedance 2.0 y Nanobanana 2 (Gemini 3.1 Flash)?",
       answer:
-        "Seedance 2.0 y Nanobanana 2 (con Gemini 3.1 Flash de Google) apuntan a flujos creativos diferentes. Seedance 2.0 se especializa en generación de video con IA — produciendo clips cinematográficos de 8 segundos con simulación física y consistencia multi-sujeto. Nanobanana 2 se enfoca en generación de imagen con IA, con inferencia rápida y alta calidad. En resumen: Seedance 2.0 para movimiento, Nanobanana 2 para imágenes estáticas. YouWare soporta ambos — genera imágenes con Nanobanana 2 y dales vida con la función de imagen-a-video de Seedance 2.0.",
+        "Seedance 2.0 y Nanobanana 2 (con Gemini 3.1 Flash de Google) apuntan a flujos creativos diferentes. Seedance 2.0 se especializa en generación de video con IA — produciendo clips cinematográficos de 8 segundos con simulación física y consistencia multi-sujeto. Nanobanana 2 se enfoca en generación de imagen con IA, con inferencia rápida y alta calidad. En resumen: Seedance 2.0 para movimiento, Nanobanana 2 para imágenes estáticas. Renoise soporta ambos — genera imágenes con Nanobanana 2 y dales vida con la función de imagen-a-video de Seedance 2.0.",
     },
     {
       question: "¿Cómo se compara Seedance 2.0 con Kling, Runway y Sora?",
@@ -188,7 +188,7 @@ const faqData: Record<Locale, FaqItem[]> = {
     {
       question: "¿Es gratis?",
       answer:
-        "Sí — navegar, buscar y copiar todos los prompts de esta galería es 100% gratis sin necesidad de cuenta. Para generar videos, YouWare ofrece créditos gratuitos para comenzar, con planes Pro y Ultra para uso intenso. Los prompts aquí funcionan con cualquier plataforma que soporte Seedance 2.0.",
+        "Sí — navegar, buscar y copiar todos los prompts de esta galería es 100% gratis sin necesidad de cuenta. Para generar videos, Renoise ofrece créditos gratuitos para comenzar, con planes Pro y Ultra para uso intenso. Los prompts aquí funcionan con cualquier plataforma que soporte Seedance 2.0.",
     },
   ],
 };
