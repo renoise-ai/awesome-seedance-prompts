@@ -61,7 +61,7 @@
 | 📝 提示词总数 | **1161** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **470** |
-| 🔄 最后更新 | **2026-05-31** |
+| 🔄 最后更新 | **2026-06-01** |
 
 ---
 
@@ -6149,4 +6149,4 @@ Use a structured video prompt (e.g., with Grok’s help) when prompting Seedance
 
 **🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-05-31T21:01:29.158Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-01T04:15:46.118Z
