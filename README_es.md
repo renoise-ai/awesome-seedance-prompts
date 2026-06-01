@@ -28,7 +28,7 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 
 ## 🌐 🎬 Ver en la Galería Web
 
-**👉 [Ver todos los prompts Seedance 2.0 en YouWare](https://youware.com/es/seedance-2-prompts)**
+**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/es/seedance-2-prompts)**
 
 | Característica | GitHub README | Galería |
 |---------|-------------|---------|
@@ -6600,7 +6600,7 @@ Luxury beverage commercial, nostalgic Americana, premium Coca Cola campaign, cin
 
 ### 🎯 1116 prompts adicionales no mostrados aquí
 
-**👉 [Ver todos los prompts Seedance 2.0 en YouWare](https://youware.com/es/seedance-2-prompts)**
+**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/es/seedance-2-prompts)**
 
 ---
 
@@ -7855,7 +7855,7 @@ Create a storyboard from your source image using a Custom GPT Image 2.0 workflow
 
 ---
 
-*... y 468 consejos más. [Ver todo en la Galería](https://youware.com/es/seedance-2-prompts)*
+*... y 468 consejos más. [Ver todo en la Galería](https://renoise.ai/es/seedance-2-prompts)*
 
 ---
 
@@ -7877,6 +7877,6 @@ Gracias a todos los creadores que compartieron sus prompts con la comunidad.
 
 ---
 
-**🌐 [🎬 Ver en la Galería Web](https://youware.com/es/seedance-2-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
+**🌐 [🎬 Ver en la Galería Web](https://renoise.ai/es/seedance-2-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
 
-🤖 Este README se genera automáticamente. Última actualización: 2026-06-01T05:53:45.525Z
+🤖 Este README se genera automáticamente. Última actualización: 2026-06-01T09:58:24.553Z
