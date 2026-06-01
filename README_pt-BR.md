@@ -5350,4 +5350,4 @@ Agradecemos a todos os criadores que compartilharam seus prompts com a comunidad
 
 **🌐 [🎬 Ver na Galeria Web](https://renoise.ai/pt-BR/seedance-2-prompts)** • **📝 Enviar um Prompt** • **⭐ Dar Star**
 
-🤖 Este README é gerado automaticamente. Última atualização: 2026-06-01T13:38:35.946Z
+🤖 Este README é gerado automaticamente. Última atualização: 2026-06-01T20:19:26.981Z

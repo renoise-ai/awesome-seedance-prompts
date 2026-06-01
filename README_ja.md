@@ -6596,4 +6596,4 @@ Create a storyboard from your source image using a Custom GPT Image 2.0 workflow
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-01T13:38:35.935Z
+🤖 この README は自動生成されています。最終更新： 2026-06-01T20:19:26.967Z
