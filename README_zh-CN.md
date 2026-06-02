@@ -61,7 +61,7 @@
 | 📝 提示词总数 | **1216** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **498** |
-| 🔄 最后更新 | **2026-06-01** |
+| 🔄 最后更新 | **2026-06-02** |
 
 ---
 
@@ -5350,4 +5350,4 @@ Create a storyboard from your source image using a Custom GPT Image 2.0 workflow
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-01T20:19:26.955Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-02T04:08:54.460Z
