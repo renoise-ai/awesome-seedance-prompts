@@ -5696,4 +5696,4 @@ Turn a single still image into a cinematic motion sequence by using this workflo
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/showcase)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-02T12:05:00.604Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-02T12:06:16.499Z
