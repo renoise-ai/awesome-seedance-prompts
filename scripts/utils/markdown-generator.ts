@@ -152,7 +152,7 @@ export function generateReadme(
   locale: string = 'en',
 ): string {
   const lines: string[] = [];
-  const galleryUrl = `${GALLERY_BASE_URL}${getLocalePrefix(locale)}/seedance-2-prompts`;
+  const galleryUrl = `${GALLERY_BASE_URL}/showcase`;
   const langCount = SUPPORTED_LANGUAGES.length;
 
   const featured = prompts.filter(p => p.featured);
