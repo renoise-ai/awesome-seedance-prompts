@@ -11,6 +11,13 @@
     "name": "Fikkkfx",
     "link": "https://x.com/FikkkFX"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Write Seedance prompts from a specific observer POV (e.g., BTS crew filming) instead of only describing the action to make the scene feel like real on-set footage.  \nAdd foreground production elements (film monitor showing the same footage, cinema cameras on rigs, crew with walkie-talkies/headsets, pyro rigs) to sell a behind-the-scenes “Netflix set” look.  \nSpecify the capture device and shooting style (handheld iPhone 17 Pro, natural handheld shake, slight motion blur, casual mobile-shot quality, filmed from a safe distance) to control camera feel and realism.  \nStoryboard the video with explicit timestamps (e.g., 0–3 setup, 3–7 climax, 7–10 continuation) and define shot type/distance (wide medium shot) plus camera reactions (violent shake, operator flinch/jerk upward then stabilizes).  \nSet concrete output constraints in the prompt (10-second duration, 16:9 aspect ratio, 8K quality, no watermark/logo/text/signature).",
   "translations": {
     "es": {

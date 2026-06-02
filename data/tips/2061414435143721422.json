@@ -11,6 +11,14 @@
     "name": "Kiki",
     "link": "https://x.com/Mayz1169"
   },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Anime 2D",
+    "Sci-Fi",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Generate a detailed storyboard sheet with a 12-shot sequence (include timecodes plus camera/action/dialogue/SFX notes) using GPT Image 2, then use that storyboard as the plan/reference to animate the final 15s video in Seedance 2.0.\n\nIn your storyboard prompt, explicitly specify shot-by-shot camera language (e.g., POV, tracking, whip pan, dutch angle, low/high angle, over-shoulder, 3/4 rear, wide/close-up) to control camera movement and framing in the Seedance animation.\n\nAdd a dedicated “VISUAL EFFECTS” section in the prompt (neon trails, magical energy, star particles, sparkles, light streaks, motion blur, drifting smoke, speed lines) to drive stylized motion effects in the Seedance output.\n\nLock the look by naming a clear art direction stack in the prompt (90s anime + Studio Trigger/Gainax energy + Makoto Shinkai lighting + Harajuku/Y2K palette) before generating/animating with Seedance.",
   "translations": {
     "es": {

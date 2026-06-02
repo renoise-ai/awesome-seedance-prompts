@@ -11,6 +11,14 @@
     "name": "MD",
     "link": "https://x.com/mdmadeit"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Fantasy",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Include character-sheet variations for key prop states and poses (e.g., holding the sword, combat stance, and without the sword on the back) so Seedance doesn’t persistently keep the prop in the wrong place across shots.",
   "translations": {
     "es": {

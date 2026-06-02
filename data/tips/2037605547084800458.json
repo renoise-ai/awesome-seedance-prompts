@@ -11,6 +11,14 @@
     "name": "Photogenic Weekend",
     "link": "https://x.com/PhotogenicWeekE"
   },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
   "tips": "Use the same prompt across Seedance 2.0, LTX-2.3 (x2x2 upscale), and Grok (API/720p) to run a fair 15-second HD MV quality comparison.  \nWrite lyrics in romaji (Latin alphabet) when prompting for the MV.  \nUse LTX-2.3 with x2x2 upscaling to output Full HD.  \nUse Grok via API at 720p resolution.",
   "translations": {
     "en": {

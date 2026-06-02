@@ -11,6 +11,14 @@
     "name": "GLIF",
     "link": "https://x.com/heyglif"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate a character sheet image in GPT Images, then use Claude to write a Seedance prompt based on that character sheet.  \nIn RunFieldUI, open Seedance and paste in both the Claude-generated prompt and the GPT Images character sheet as the reference image.  \nRun the workflow end-to-end in Glif, then ask the agent to convert the output into a Remotion video while including the original Seedance prompt.",
   "translations": {
     "es": {

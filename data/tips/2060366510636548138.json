@@ -11,6 +11,18 @@
     "name": "Good FortuneX",
     "link": "https://x.com/pound75423"
   },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "3D Animation",
+    "Realistic World",
+    "Game UI",
+    "Tutorial",
+    "Slow-Mo",
+    "FPV & Aerial",
+    "POV",
+    "VFX"
+  ],
   "tips": "Set the aspect ratio to 16:9 to match a fighting-game HUD layout.\n\nUse Seedance 2.0 with a 15-second duration (15S) for this type of multi-shot action sequence.\n\nPrompt explicit HUD elements (top health bars with character names, center timer “99”, bottom SUPER/energy bars) to enforce a fighting-game UI overlay.\n\nSpecify shot-by-shot camera directions (close-up → rapid pullback to wide/ultra-wide aerial, POV tracking, 180° pan, 360° rotation) to control cinematic motion across the clip.\n\nControl perceived motion by prompting time-ramping (e.g., slow motion at 10% then 5%, then ramp up to 800%; 15% to 600%) for impact beats.\n\nAdd “screen shake” and “camera tremble” instructions during heavy hits to sell force and scale.\n\nInclude exact environment/prop details (e.g., Beigang Chaotian Temple square, bluestone slabs, incense smoke, dragon pillars, golden plaque text) to lock scene continuity across shots.\n\nUse lighting/style directives like cinematic golden-hour lighting and realistic highly detailed 3D rendering to push realism and material detail.",
   "translations": {
     "es": {

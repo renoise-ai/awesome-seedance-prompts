@@ -11,6 +11,14 @@
     "name": "Ray",
     "link": "https://x.com/AIWithRay"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use a “storyboard prompt” in GPT Image 2 to generate a 13-frame grid collage (Row 1: 4 | Row 2: 5 | Row 3: 4) of consistent character moments, then use those frames as the basis for Seedance 2.0 shots.\n\nPrompt for “real casual phone capture” realism by explicitly adding imperfections per frame (tilted horizon, handheld motion blur, shaky framing, imperfect crop, lens smudges, slight focus miss, high-ISO grain, barrel distortion, mild lens flare, under/overexposure).",
   "translations": {
     "es": {

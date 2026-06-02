@@ -11,6 +11,14 @@
     "name": "Polanco | IA",
     "link": "https://x.com/Polanco_IA"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Haz clic en Vídeo con IA en Dreamina para iniciar un proyecto con Seedance.  \nAbre Omni Reference antes de generar para trabajar con referencias multimodales.  \nSelecciona Dreamina Seedance 2.0 como modelo dentro de Omni Reference.  \nSube hasta 12 referencias multimodales (imagen, vídeo, audio y texto) para lograr una generación más precisa y consistente.  \nAñade tu prompt después de cargar las referencias y luego genera.  \nUsa una serie de imágenes tipo storyboard como referencias para conseguir transiciones fluidas y coherentes entre escenas y mantener un estilo visual uniforme.",
   "translations": {
     "en": {

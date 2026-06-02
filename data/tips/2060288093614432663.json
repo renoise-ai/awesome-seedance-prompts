@@ -11,6 +11,16 @@
     "name": "Harboris",
     "link": "https://x.com/harboriis"
   },
+  "tags": [
+    "Product Ad",
+    "Luxury",
+    "Photoreal",
+    "Realistic World",
+    "Macro",
+    "Slow-Mo",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Specify Style & Mood with an exact color palette plus lighting cues (e.g., deep charcoal/cool slate, precise rim lighting, volumetric studio fill) to lock in a consistent cinematic look in Seedance 2.0.\n\nAdd real-world camera and lens details in the prompt (ARRI Alexa Mini LF, 85mm cinema glass, macro optics) to steer framing, depth of field, and texture rendering.\n\nWrite a shot-by-shot Dynamic Description that explicitly names camera moves (push-in, static 85mm beauty shot, macro orbital, macro tilt, handheld tracking, stabilized tracking, 360° orbit, slow pullback) to control motion and pacing.\n\nCall out material-detail targets (thread-level denim texture, micro-contrast, embroidery depth, outsole geometry, suspended droplets) to force high-detail closeups and macro realism.\n\nMaintain product consistency by explicitly instructing “use the exact same sneaker across every frame” and listing fixed identifiers (light blue washed denim, blue denim Swoosh, white thick sole, white perforations, white laces/lining, Nike Air heel embroidery only) plus exclusions (no Levi’s logo, no red tags, no distortion).\n\nDefine video specs in the prompt (16:9, 4K HDR, 24fps with 120fps slow motion moments) to guide format and where slow-motion should appear.\n\nUse a storyboard workflow: generate a 15-panel 3×5 16:9 storyboard sheet with scene descriptions first (via GPT Image 2), then use those panels as the plan for Seedance shots to keep narrative continuity.\n\nSync action beats to music by explicitly placing events on “beat drop” moments (e.g., outsole impact on wet reflective surface at the beat drop) to align edits and motion accents.\n\nInclude negative constraints to prevent common failures (do not overexpose denim texture, avoid shaky camera, avoid distracting backgrounds, keep text minimal/readable, no low quality footage).",
   "translations": {
     "es": {

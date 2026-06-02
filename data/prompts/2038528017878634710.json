@@ -11,6 +11,15 @@
     "name": "Emily",
     "link": "https://x.com/IamEmily2050"
   },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Historical",
+    "VFX"
+  ],
   "translations": {
     "es": {
       "content": "---\nconfiguración:\n    ubicación: Arena del antiguo 'Torneo Mundial de Artes Marciales' [@ Image 2]\n    detalles: Texturas claras de la plataforma de piedra, intrincados grabados de bestias guardianas chinas, arquitectura antigua detallada\n    estilo_de_audio: Banda sonora clásica de cine de kung fu de Shaw Brothers\n  secuencia_de_acción:\n    participantes: [@ Image 1] vs [@ Image 3], ambos desarmados/a mano limpia\n    coreografía:\n      apertura: [@ Image 1] se mueve como un rayo con golpes agudos infundidos de energía; [@ Image 3] desvía usando técnicas fluidas de Tai Chi de gran maestro para neutralizar el ataque.\n      clímax: [@ Image 1] se lanza para un ataque sorpresa con un movimiento de cola; [@ Image 3] contraataca con un poderoso golpe de palma con qi. [@ Image 1] esquiva con agilidad fantasmal.\n      finalizador: [@ Image 1] lanza un Kamehameha al pecho; [@ Image 3] resiste el golpe con un escudo de qi y contraataca con un golpe de palma a toda fuerza, sacando a [@ Image 1] del ring.\n  cinematografía:\n    cámara: Tomas envolventes de 360 grados, capturando cada intercambio de artes marciales\n    iluminación: Cambios de iluminación dinámicos sincronizados con la intensidad del combate para crear una atmósfera tensa\n    estilo_visual: Fotorrealismo cinematográfico, resolución 8K, textura similar a la de una película\n  calidad_técnica:\n    estándar: Baja firma de IA, sin suavizado excesivo de piel, movimiento fluido natural\n    restricciones_negativas: Sin extremidades deformadas, sin dedos extra/faltantes, sin recortes, sin desenfoque, sin baja resolución, sin fondos desordenados, sin bandas de color\n---"

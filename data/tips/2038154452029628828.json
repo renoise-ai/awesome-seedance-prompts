@@ -10,6 +10,14 @@
     "name": "INK",
     "link": "https://x.com/0xInk_"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial",
+    "VFX"
+  ],
   "tips": "Use a face reference image for face consistency before the visor closes (and again for visor-open moments).  \nAdd a negative prompt like: no costume change, no character drift, no modern elements to prevent continuity errors and anachronisms.  \nStructure the prompt as a timed shot list (e.g., 0-2s, 2-3s, 3-5s…) specifying lens choice (10mm/20mm/macro), camera position (ground level/aerial/side-tracking), and action per beat to control pacing and cinematography.  \nLock the look by specifying camera/film settings (35mm anamorphic, f1.8 or f1.2, heavy vintage grain) plus era lighting cues (1980s warm afternoon desert light / warm prehistoric golden light).  \nFor a psychedelic time-travel transition, prompt saturated shifting colors, reality bending/fragmenting, chromatic aberration, and “the subject remains the only stable sharp element while everything else motion-blurs.”  \nIf you want a time-counter overlay, explicitly prompt a “digital year counter spinning backward” with style details (glowing amber, distressed analog-style font) and a final lock state (e.g., -65,000,000 BCE — JURASSIC).  \nIf you do NOT want any text overlays, add to negatives: no text overlays, no counters.  \nMaintain continuity across multi-part sequences by repeating the exact character description and reusing the same reference image token(s) ([image1]/[image2]) in each part.",
   "translations": {
     "es": {

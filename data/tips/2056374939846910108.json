@@ -11,6 +11,14 @@
     "name": "Mr.Iancu",
     "link": "https://x.com/Iancu_ai"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate a single “beat sheet” reference image in GPT Image 2 (overhead camera map + pinned character positions + locked eyelines + shot-by-shot beat flow + storyboard panels + lighting/material swatches), then feed that image to Seedance 2.0 to keep multi-character blocking consistent and prevent characters drifting/disappearing.\n\nInclude an Overhead Camera Map in your reference with labeled character positions and numbered camera icons plus camera-facing arrows, then use it as Seedance input to preserve positions and screen direction across shots.\n\nAdd explicit eyeline directions (e.g., red dashed eyeline lines between all characters) in the reference sheet you pass to Seedance so the model maintains correct gaze/interaction in three-person table scenes.\n\nProvide a per-beat shooting flow (shot size, lens, movement, emotion for each beat) inside the reference sheet and use it to guide Seedance toward stable continuity across a multi-shot sequence.\n\nAdd a footer constraint like Maintain the three-character round-table spatial relationship at all times in the beat sheet prompt so Seedance prioritizes consistent spatial layout throughout the scene.",
   "translations": {
     "es": {

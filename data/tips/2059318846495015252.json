@@ -11,6 +11,14 @@
     "name": "MayorkingAI",
     "link": "https://x.com/MayorKingAI"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Start Seedance 2.0 generation from a storyboard by first generating storyboard frames (e.g., with GPT-image-2), arranging/refining scenes on a Figma-like canvas, then converting the finalized storyboard into video with Seedance 2.0.",
   "translations": {
     "es": {

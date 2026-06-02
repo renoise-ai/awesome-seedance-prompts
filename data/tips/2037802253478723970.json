@@ -10,6 +10,14 @@
     "name": "Aimi Kōda",
     "link": "https://x.com/aimikoda"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Create a character sheet for your character, add it to Seedance 2.0 Omni, and reference it explicitly in your prompt to keep character consistency across shots/outfits.  \nAdd a REFERENCES section in your prompt and map each uploaded reference image to a specific look/outfit (e.g., Use [image_ref] as Character in morning outfit; Use [image_ref2] as Character’s running outfit; Use [image_ref3] as Character’s costume look).",
   "translations": {
     "es": {

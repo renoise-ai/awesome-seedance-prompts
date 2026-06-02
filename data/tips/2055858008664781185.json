@@ -11,6 +11,14 @@
     "name": "ANKIT PATEL 🇮🇳 | AI",
     "link": "https://x.com/Ankit_patel211"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Fantasy",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use ChatGPT Image 2 to generate your character/style reference images, then feed those images into Seedance 2 to drive the video generation.\n\nUse a previs storyboard page as a sequential shot-keyframe reference in Seedance 2 (treat each panel as its own keyframe, not one single image) to expand into a coherent scene with continuity.\n\nInclude explicit shot-by-shot camera directions (e.g., wide establishing, tracking, 3/4 suspense angle, high-angle danger, whip pan, drone wide, long-lens compressed, circular tracking) in your Seedance 2 prompt to control camera flow across the sequence.\n\nSpecify lighting and mood shifts per beat (warm gallery → bright fantasy → stormy blue danger → soft golden ending) to guide Seedance 2’s progression through the scene.\n\nAdd an “animation feel” section (e.g., “stylized family-feature 3D animation,” “strong silhouette readability,” “smooth environmental transitions”) to steer Seedance 2 toward a polished animated-film finish.\n\nUse a dedicated character sheet image as the character reference input to keep character consistency across shots.",
   "translations": {
     "es": {

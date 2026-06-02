@@ -11,6 +11,13 @@
     "name": "Shara | AI Video Creator",
     "link": "https://x.com/itsshara_ai"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Anime 2D",
+    "Sci-Fi",
+    "Tutorial"
+  ],
   "tips": "Generate a consistent 8-panel storyboard in GPT Image 2 (grid layout, numbered panels, consistent character design) and then animate each panel as a separate Seedance 2.0 clip in sequence (panel 1 → panel 8).\n\nAdd a content advisory in the Seedance prompt (stylized anime action, no realistic violence, no excessive gore, family-friendly) to steer the model away from graphic outputs.\n\nFor each Seedance clip, specify exact shot design and timing (e.g., slow dolly push-in, static extreme close-up, low-angle side tracking, dynamic diagonal impact, 180° spin, slow crane up, static pull-back) plus a fixed duration/hold (3–5 seconds) to control pacing.\n\nLock consistency by explicitly instructing: subject stays in frame throughout every panel, consistent character appearance, no face morphing, natural breathing between action moments, smooth motion, no jump cuts.\n\nDial in motion style with explicit settings/keywords: 24fps, 4K resolution, shallow depth of field, cinematic color grade, motion blur on action, and slow-motion cues (e.g., 30% speed on impact moments).\n\nUse recurring environmental anchors (rain, puddle reflections, neon red/blue/orange lighting) in every panel/clip to maintain visual continuity across the sequence.\n\nInclude style references (Akira, Ghost in the Shell, Into the Spider-Verse) directly in the Seedance prompt to target a specific anime-cinematic look.",
   "translations": {
     "es": {

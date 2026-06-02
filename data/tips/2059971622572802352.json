@@ -11,6 +11,13 @@
     "name": "Veee",
     "link": "https://x.com/vikktorrrre"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Connect Higgsfield to Claude via MCP by copying the MCP server URL from higgsfield.ai (Dashboard → MCP and CLI) and adding it in Claude web (Settings/Customize → Connectors → Add Custom Connector), then authenticate to let Claude generate Seedance 2.0 videos through Higgsfield without leaving the chat.\n\nUse Claude with the Higgsfield MCP to have Claude write the Seedance 2.0 prompt and send the generation job to Higgsfield (describe the desired video; Claude handles prompt + execution).\n\nFor repeatable Seedance 2.0 video generation, switch from Claude web to Claude Code and set up Higgsfield via the CLI (install Higgsfield CLI → run auth flow → install Higgsfield agent skills) so Claude Code can batch-generate, track job IDs/statuses, and reuse assets.\n\nCreate a reusable “skill” for consistent Seedance 2.0 outputs by iterating until you get a video you like, copying the exact prompt that produced it, then telling Claude Code to reverse-engineer a skill from that prompt and save it locally for future runs.\n\nAutomate a weekly Seedance 2.0 content pipeline by having Claude Code plan assets into a Google Sheet (rows = asset type/style/format/prompt/status), then batch-generate all videos via Higgsfield/Seedance from the sheet and regenerate only the rows you flag for tweaks.",
   "translations": {
     "es": {

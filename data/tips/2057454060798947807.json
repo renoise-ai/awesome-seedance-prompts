@@ -11,6 +11,14 @@
     "name": "Fikkkfx",
     "link": "https://x.com/FikkkFX"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate a 16:9 production-grade character design reference sheet in GPT Image 2 with a two-column layout (Hana left 40%, Ren right 40%) plus a 20% center relationship study panel, including multi-view turnarounds, expression rows, detail studies, outfit flat lays, and exact color chips/hex codes to lock character consistency for Seedance shots.\n\nInclude a bottom strip of 5 thumbnail silhouette “moment beats” and a director note (e.g., “softest moment—protect it”) on the character sheet to guide pacing and emotional continuity across Seedance generations.\n\nCreate a 16:9 storyboard sheet in GPT Image 2 with 10 panels (2 rows of 5) for a 15s scene, and label each panel with shot type, camera direction, and exact timecodes (e.g., 0:00–0:02s) to translate directly into Seedance clip prompts.\n\nUse explicit camera language per panel (static wide + Dutch tilt, side-profile low-angle two-shot, shallow DOF close-ups, OTS POV, extreme close-ups, wide arc pull-back) to control framing and motion when generating the sequence in Seedance.\n\nAdd a right-sidebar “VFX notes” block (petal drift physics, bokeh, warm rim halo, catch-lights, golden dust, lens flare) and color keys (hex codes) to keep lighting/FX consistent across Seedance shots.\n\nTreat a recurring environmental element as a controllable motif (e.g., “petals are the third character”) and specify its behavior per shot (drifting, landing between fingers) to maintain continuity in Seedance generations.",
   "translations": {
     "es": {

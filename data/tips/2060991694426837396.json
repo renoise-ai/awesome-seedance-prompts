@@ -10,6 +10,13 @@
     "name": "Lost 🎯",
     "link": "https://x.com/lostsol"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use two reference images as keyframes: image_1 as the opening frame and persistent character reference, and image_2 as the end-state facial expression reference to lock identity while changing expression mid-clip (e.g., from 4s onward).  \nWrite your Seedance prompt as a timecoded sequence (e.g., 0–1s, 1–4s, 4–5.5s, 5.5–6s) specifying camera moves, character actions, and expression changes per segment.  \nFor fast-paced scene changes, specify background “flash cuts” at a fixed cadence (e.g., every 4 frames) while explicitly constraining the character to stay locked in position to prevent drift.  \nAdd explicit constraints to reduce artifacts: avoid jitter, avoid identity drift, avoid temporal flicker, keep sharp character edges, and enforce no blur on the character.  \nMaintain consistent character lighting across changing backgrounds by specifying stable key/fill (e.g., warm fill) while allowing background lighting to adapt per location.  \nControl focus by specifying shallow depth of field on the character with backgrounds soft but recognizable to keep the subject stable during rapid background changes.  \nInclude a sound design timeline aligned to visual beats (e.g., whoosh-cuts synced to each flash cut, sudden silence before dialogue, bass drop + ambience swell at the end) to guide audio generation.",
   "translations": {
     "es": {

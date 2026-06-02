@@ -10,6 +10,14 @@
     "name": "OscarAI",
     "link": "https://x.com/Artedeingenio"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Transformation",
+    "Tutorial"
+  ],
   "tips": "Create your starting frame in Midjourney with a widescreen aspect ratio and raw style (e.g., --ar 16:9 --raw) to get a clean reference image for Seedance 2.0.  \nUse the Midjourney output image as a reference input in Seedance 2.0 to drive the video’s look and composition.  \nSpecify duration and continuity explicitly (e.g., 15-second continuous single-shot, no cuts, no scene transitions) to prevent unwanted edits.  \nPrompt a seamless “sketch-to-reality” transformation by describing hand-drawn ink/pencil lines and watercolor stains gradually becoming realistic environmental details.  \nControl motion and pacing by timecoding the prompt into segments (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) with clear camera actions and transformation milestones.  \nDirect camera movement with explicit verbs and paths (e.g., glide above paper → descend toward bridge → fly low above canal) to maintain coherent cinematography.  \nLock the ending by defining a “Final frame” description so Seedance resolves to a specific final composition and level of realism.",
   "translations": {
     "es": {

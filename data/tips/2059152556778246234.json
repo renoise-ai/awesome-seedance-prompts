@@ -11,6 +11,14 @@
     "name": "Jan Baebi♥️🦋",
     "link": "https://x.com/AmyOsua"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Remember Seedance’s 15‑second limit when planning storyboard image sequences; keep the storyboard concise enough to fit within 15 seconds.\n\nGenerate storyboard prompts by recording a voice note describing your scene in detail, then ask ChatGPT to convert that description into storyboard-generation prompts.\n\nUse the resulting storyboard prompt in Dzine’s GPT 2.0 tool to generate the storyboard, then use that storyboard as the Storyboard reference prompt for Seedance.",
   "translations": {
     "es": {

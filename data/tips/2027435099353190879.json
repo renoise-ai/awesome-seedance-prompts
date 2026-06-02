@@ -11,6 +11,13 @@
     "name": "Krishna Agrawal",
     "link": "https://x.com/Krishnasagrawal"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Upload a photo reference into NemoVideo’s Inspiration Center to have it infer the video format, hook, pacing, and style for your Seedance 2.0 clip.  \nPaste a product URL (e.g., a MacBook page) into NemoVideo and prompt it to create an ad so it auto-builds a ready-to-post video with captions/subtitles, transitions, sound, and pacing.  \nUse a single plain-text prompt in NemoVideo + Seedance 2.0 to automatically generate a full short video including subtitles, stickers, pacing, sound, and transitions without using a timeline editor.",
   "translations": {
     "es": {

@@ -10,6 +10,13 @@
     "name": "李岳",
     "link": "https://x.com/liyue_ai"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "将Stable Diffusion的提示词技巧套用到Seedance 2.0来写提示词  \n按顺序写Seedance 2.0图片提示词：先写综述（图像质量+风格+镜头效果+光照效果+主题）",
   "translations": {
     "en": {

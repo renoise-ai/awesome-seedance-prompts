@@ -11,6 +11,13 @@
     "name": "Amir D",
     "link": "https://x.com/starks_arq"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use a filmmaker-style pipeline agent (trained on prompt structure, cinematography, storyboarding, and scriptwriting) to generate Seedance 2.0 prompts instead of prompting manually  \nProvide the agent one core idea plus a few concrete example concepts, then ask it to output 5 Seedance 2.0 prompts in chronological order to form a short film sequence  \nBuild a 1 idea → 5 prompts → 5 shots → 1 film workflow by generating five separate Seedance shots and stitching them together into a complete video with no additional editing or iteration",
   "translations": {
     "es": {

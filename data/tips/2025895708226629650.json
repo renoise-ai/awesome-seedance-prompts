@@ -10,6 +10,14 @@
     "name": "Alex Patrascu",
     "link": "https://x.com/maxescu"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
   "tips": "Tell Seedance 2.0 to end with the first frame to create a perfect looping video without supplying first/last frame references (especially useful with the Omni variant of SD2).\n\nFor center-locked subject consistency, specify a SnorriCam rig/center-locked focus and explicitly instruct that the subject’s face remains dead-center and forward-facing throughout while the environment morphs around them.\n\nTo avoid visible cuts, prompt for seamless background morph transitions (no cuts) where lighting, wardrobe, and environments “melt”/“bleed” into each other driven by a rhythmic beat, then end by returning to the opening scene so the final frame matches the first.",
   "translations": {
     "es": {

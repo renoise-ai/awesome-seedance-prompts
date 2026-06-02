@@ -11,6 +11,13 @@
     "name": "OscarAI",
     "link": "https://x.com/Artedeingenio"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Hand-drawn",
+    "Fantasy",
+    "Tutorial"
+  ],
   "tips": "Use Midjourney V7 style reference --sref 3807782320 to generate intricate ink linework + soft watercolor fantasy images, then animate them in Seedance 2.0 for strong results in epic fantasy graphic novel style.",
   "translations": {
     "es": {

@@ -11,6 +11,15 @@
     "name": "MO",
     "link": "https://x.com/MO_IAI"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "Slow-Mo"
+  ],
   "tips": "Structure your Seedance 2 prompt as a shot-by-shot timeline with timestamps (e.g., 00:00–00:02) and include for each shot: EFFECT, subject/action, Camera move, and Speed.  \nUse rack focus + gentle bloom by explicitly prompting shallow depth of field and a slow push-in, with focus drifting from a foreground detail (hand) to a key subject detail (eye).  \nCreate a speed-ramp deceleration by specifying Speed 100%→~40% and pairing it with an orbit camera move plus drifting particles (petals/light motes) to emphasize slow motion.  \nTransition between shots by prompting a whip-tilt up (or whip-pan follow) as an exit into the next shot to maintain motion continuity.  \nAdd “volumetric god rays” and “chromatic bloom” in the prompt to get soft-beam lighting through clouds and a bloom-flash cut point.  \nFor mirror-water scenes, prompt reflection symmetry (mirror-calm/glassy sea) and use a low tracking glide skimming the water to reinforce the reflection effect.  \nFor intimate slow-motion moments, set Speed ~30% and specify soft motion blur on fast-moving elements (e.g., mane/whiskers) while keeping the camera on a slow orbit medium close.  \nUse a speed-ramp acceleration (30%→100%) combined with light-streak trails and a motion-blur smear to drive energy into a final shot.  \nEnd with a gentle zoom-out/pull-back by prompting a slow crane-out, symmetrical framing, Speed 100%, fading bloom, and a soft fade to stillness.",
   "translations": {
     "es": {

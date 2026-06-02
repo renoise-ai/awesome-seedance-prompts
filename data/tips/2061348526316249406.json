@@ -10,6 +10,13 @@
     "name": "BMX",
     "link": "https://x.com/bmx_ai13"
   },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use @[Storyboard] as a storyboard-structure reference to control shot progression and pacing for a 15-second sequence.  \nUse @[Charactersheet] as an identity reference to lock face, hair, wardrobe, and body consistency across all shots.  \nUpload a close-up reference image and use it as a visual mood reference to match lighting/texture/style.  \nSpecify exact timecoded shot beats (e.g., 0.0–1.5, 1.5–3.0, etc.) to guide Seedance through a continuous narrative progression rather than disconnected clips.  \nAdd explicit camera directives (macro close-ups, shallow depth of field, slow push-ins, subtle handheld, low-angle framing, warm backlight, smooth cuts) to shape cinematography.  \nConstrain motion with realism instructions (natural athletic movement, believable physics for breathing/sweat/ropes/foot pressure) to reduce unnatural animation.  \nLimit dialogue to a single short line and explicitly forbid subtitles to prevent unwanted on-screen text.  \nDefine sound design elements (breathing, room tone, heartbeat-like pulse, rope impacts, restrained bass swell) and forbid loud generic epic music to steer audio generation.  \nInclude negative instructions to prevent storyboard artifacts (no grid/panels/labels), on-screen text/watermarks/logos, extra characters, and continuity breaks (no face/hairstyle/wardrobe changes).",
   "translations": {
     "es": {

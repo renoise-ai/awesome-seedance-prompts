@@ -10,6 +10,14 @@
     "name": "Lost 🎯",
     "link": "https://x.com/lostsol"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
   "tips": "Use two keyframes (start and end images) as image_1 and image_2, then prompt Seedance 2.0 to generate the in-between motion sequence and narrative arc between them.  \nWrite a timecoded CAMERA plan (e.g., [0.0s] smash cut wide locked-off, [0.5s] finger snap trigger, [0.8s–4.8s] transformation beats, [5.2s–6.0s] push-in to medium) to control pacing and camera movement across the clip.  \nSync environment changes to rhythmic “incremental steps” (e.g., paper stacks shrink piece-by-piece, boxes disappear one-by-one, todos blink out) to create clear, controllable transformation motion.  \nSpecify color/lighting progression by time/section (cool morning blue at the start, warm amber/golden tones in the back half) to guide the model’s grading through the arc.  \nAdd explicit stability constraints (no blur/ghosting/flickering/jitter; avoid identity drift/temporal flicker) to reduce artifacts in Seedance output.  \nLock character identity and wardrobe with concrete details (maintain face consistency; preserve beanie, goggles, puffer jacket, Nike boots for the full 6 seconds) to prevent outfit/identity changes.",
   "translations": {
     "es": {

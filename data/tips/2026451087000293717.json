@@ -11,6 +11,13 @@
     "name": "Kaku Drop 架空飴",
     "link": "https://x.com/KakuDrop"
   },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Seedance 2.0のOmni referenceを使い、3人ダンスなどのリファレンス素材を用意して動きをトレースさせると、指先まで動きを追従した生成が1発で通りやすい  \nガチャ要素を減らしたい場合はSeedance 2.0のOmni reference運用（リファレンス素材ベース）にして、ポスプロ前提の制作フローに組み込む",
   "translations": {
     "en": {

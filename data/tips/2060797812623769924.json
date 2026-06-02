@@ -11,6 +11,13 @@
     "name": "nachos2d",
     "link": "https://x.com/NACHOS2D_"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial"
+  ],
   "tips": "Write your Seedance prompt as a seamless continuation by explicitly stating no black screen/no jump cut and that the new clip is the direct extension of the previous shot with time immediately following the last hit.  \nForce continuity by specifying fully consistent visual texture and camera language with the prior clip (e.g., “15s continuation, theatrical live-action dark fantasy feature film, completely continue previous look”).  \nControl pacing by timecoding the action beat-by-beat (e.g., 00–02, 02–04 … 14–15) and describing what happens in each window to keep a constant intensity curve.  \nImprove spatial clarity by instructing the model to clearly show spatial relationships (hero position, attack source direction, impact points) and to motivate camera moves based on on-screen causes (attack incoming → dodge → camera shift).  \nGet heavier, more realistic materials by explicitly demanding mass/inertia/deformation/stress-fracture and visible strain, and by adding negative constraints like no floaty metal, no weightless movement, no instant regeneration without visible strain.  \nMake VFX feel physical by specifying secondary effects and feedback (metal: friction, resonance, bending squeal; electricity: branching conduction paths, heat/ozone, charring/smoke, muscle spasms, EM interference) rather than only naming the element.  \nUse negative prompts to prevent “clean/stylized” looks and unclear action (e.g., no stylized or clean metal/electricity, no unclear action, no pause at the end).  \nFor electricity scenes, direct environmental conduction by explicitly using water/metal/ground as a conductive network and describing how arcs propagate through those surfaces.",
   "translations": {
     "es": {

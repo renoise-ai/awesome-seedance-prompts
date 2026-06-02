@@ -11,6 +11,13 @@
     "name": "yachimat - AI Short Anime",
     "link": "https://x.com/yachimat_manga"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "漫画toアニメは、全編の漫画データと絵コンテをYAML化したものをSeedance 2.0に読み込ませて生成する",
   "translations": {
     "en": {

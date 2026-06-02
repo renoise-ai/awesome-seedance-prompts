@@ -11,6 +11,14 @@
     "name": "huangserva",
     "link": "https://x.com/servasyy_ai"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "先用 GPT-image-2 生成分镜图，再把分镜导入/排版到 Figma 式无限画布里逐镜改稿打磨，最后用 Seedance 2.0 根据分镜一键生成视频（用分镜驱动生成而不是盲写 prompt）。",
   "translations": {
     "en": {

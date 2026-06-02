@@ -11,6 +11,13 @@
     "name": "Mike Futia",
     "link": "https://x.com/mikefutia"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Drop a product image into Claude Cowork and provide a single prompt to generate a full multi-shot UGC ad with Seedance 2.0  \nSpecify the ad angle in your prompt (unboxing, review, lifestyle, demo) to guide the generated dialogue, shot list, and pacing before sending to Seedance  \nPass your product photos as reference images to Seedance 2.0 so the output matches your real packaging/branding  \nUse the FAL AI API to programmatically send the generated shot plan to Seedance 2.0 and download the finished clips into organized folders  \nStitch multiple Seedance-generated shots into one finished ad cut as the final step in the pipeline",
   "translations": {
     "es": {

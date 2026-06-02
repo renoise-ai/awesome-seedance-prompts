@@ -10,6 +10,13 @@
     "name": "woodfantasy",
     "link": "https://x.com/woodfantasy"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use Seedance2.0 Shot Design (Claude Skill) to expand a single-sentence idea into a 15-second cinema-grade Seedance/Jimeng-ready prompt with timestamped storyboard beats, camera moves, three-layer lighting, and sound design.\n\nAdd timestamped shot-by-shot segments (e.g., 0–3s, 3–8s, etc.) in your Seedance prompt to prevent visual bleeding between frames.\n\nApply a director style preset (e.g., Nolan/Villeneuve/Fincher/Deakins/Wong Kar-wai/Makoto Shinkai) to quickly lock a consistent cinematic look in your Seedance prompt.\n\nRun Python hard validation on your prompt to enforce constraints like optical-physics conflict detection, filler-word blocking, and a style-conflict matrix before generating.\n\nUse a structured short-drama pipeline in your prompt (dialogue, voiceover, actor blocking, exaggerated close-ups) to produce AI comic drama/short drama outputs.",
   "translations": {
     "es": {

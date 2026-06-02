@@ -11,6 +11,13 @@
     "name": "Abhishek",
     "link": "https://x.com/HeyAbhishek"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use reference-driven creation in Dreamina Seedance 2.0 by supplying context instead of prompting blindly.  \nAdd up to 12 references (images, videos, audio, and text) to teach Seedance the desired style, motion, and editing patterns.  \nGenerate multi-shot/multi-scene sequences (not just single clips) to build structured videos.  \nUse Seedance’s extend/continue feature to lengthen a story while maintaining narrative flow across scenes.  \nFor a full workflow inside Dreamina, go Idea → image → video → export to avoid switching tools.  \nTo access: open Dreamina → select Dreamina Seedance 2.0 → use Omni Reference and type @ to add references.",
   "translations": {
     "es": {

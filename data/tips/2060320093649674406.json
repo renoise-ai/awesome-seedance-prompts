@@ -10,6 +10,14 @@
     "name": "Kōda",
     "link": "https://x.com/aimikoda"
   },
+  "tags": [
+    "Action",
+    "Superpower",
+    "3D Animation",
+    "Fantasy",
+    "Tutorial",
+    "VFX"
+  ],
   "tips": "Use @[storyboard ref] as the authoritative 15-second storyboard blueprint and instruct Seedance not to render the storyboard sheet itself (exclude panel borders, text, labels, headers, and layout elements).  \nTreat each storyboard panel as an individual sequential shot guide and tell Seedance to follow panel order, camera angles, action flow, timing rhythm, and escalation exactly.  \nUse @[char ref] as the authoritative character reference to keep the main character consistent across all shots.  \nExplicitly require the main threat to remain visible and readable throughout the entire sequence to preserve action clarity.  \nSpecify a detailed visual style block (e.g., high-end animated fantasy film, stylized cinematic realism, warm daylight, painterly grass movement, vibrant cyan-white wind magic) to lock the look.  \nWrite the action as a stepwise escalation across shots (detect → evade → initial attack fails → vortex trap → intensify/crush → final blast) to guide pacing and narrative progression.  \nInclude a dynamic camera language list (low-angle hero shots, ground tracking, tight close-ups, fast orbits, wide reveals, aerial escalation, dramatic push-ins) to control shot variety and movement.  \nAdd physics/VFX constraints (strong wind interaction, grass/dust/debris pulled into airflow, readable action, continuous escalation) to improve realism and effect coherence.",
   "translations": {
     "es": {

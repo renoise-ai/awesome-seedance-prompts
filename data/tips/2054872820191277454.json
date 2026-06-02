@@ -11,6 +11,13 @@
     "name": "Latte",
     "link": "https://x.com/0xbisc"
   },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Hand-drawn",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Structure your Seedance prompt as a shot-by-shot storyboard (SHOT 1–7), specifying lens focal length (e.g., 35mm/50mm/28mm/70mm), framing (close-up/medium-wide), and exact camera motion (slow approach, tracking, aerial follow) for each shot to control cinematography.\n\nLock character continuity by defining the subject once in a SUBJECTS block (e.g., hair bun, no swim cap, specific swimsuit, stylized proportions) before listing shots.\n\nControl environment realism by explicitly describing micro-details you want preserved (e.g., subtle reflections, extremely thin water-entry traces, tiny ripples, lingering bubbles) rather than only saying “realistic water.”\n\nPrevent unwanted 3D/CG looks by adding negative style constraints like No realistic 3D feeling, no commercial CG advertisement look, no polished realism and reinforcing a target style (digital painting, hard-edge brushwork, heavy shadows, visible hand-painted texture).\n\nChoreograph motion by describing body mechanics and pose transitions per shot (handstand setup → takeoff → flips → vertical alignment → streamlined underwater glide → finishing pose) to keep action coherent.\n\nAdd an SFX/MUSIC line per shot (stadium ambience, wind intensifies, underwater thump, applause) to guide audio beats and pacing alongside the visuals.",
   "translations": {
     "es": {

@@ -11,6 +11,13 @@
     "name": "Aanshul Sadaria",
     "link": "https://x.com/AanshulSadaria"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Bring multiple reference assets into your Seedance 2.0 prompt so the model can learn motion, style, and visuals from them to generate new content.\nUse Seedance 2.0’s character/object consistency to keep frames coherent for narrative videos, ads, and product showcases.\nGenerate multi-scene clips in Seedance 2.0 and use the story extension feature to automatically extend the narrative.\nIn Dreamina, open Seedance 2.0 and insert reference assets into the prompt using @ to guide the generation.",
   "translations": {
     "es": {

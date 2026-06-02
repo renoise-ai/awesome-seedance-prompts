@@ -11,6 +11,13 @@
     "name": "John",
     "link": "https://x.com/johnAGI168"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "在 Seedance 2.0 提示词中按时间段拆分镜头（如 00:00–00:01）分别描述每段画面与动作  \n为每个时间段明确景别与镜头类型（如中近景、固定镜头）以稳定构图  \n在提示词中具体写运镜轨迹与速度感（如镜头无位移、画面爆发力强、速度极快）来控制节奏与动感",
   "translations": {
     "en": {

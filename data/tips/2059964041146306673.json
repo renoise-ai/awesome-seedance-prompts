@@ -10,6 +10,14 @@
     "name": "Cia0",
     "link": "https://x.com/Cia0_exe"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Create a storyboard prompt in GPT 2.0 using: professional cinematic storyboard board layout, image reference sheet, shot breakdown, action graph, movement arrows, camera angle diagram, 5 clips (2 seconds each), 5 keyframes per clip, and append Seedance 2.0 optimized + your scene prompt (e.g., from Claude).",
   "translations": {
     "es": {

@@ -11,6 +11,13 @@
     "name": "𝑽𝒂𝒍𝒆𝒓𝑰𝑨",
     "link": "https://x.com/ValeriA_Tech"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Usa la referencia multimodal: carga una imagen estática para definir el entorno/estilo y un vídeo de referencia distinto para que Seedance 2.0 copie exactamente el movimiento de cámara del vídeo y lo aplique dentro de un escenario nuevo.",
   "translations": {
     "en": {

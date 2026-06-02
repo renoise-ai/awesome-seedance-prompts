@@ -11,6 +11,14 @@
     "name": "zhouluobo",
     "link": "https://x.com/zhouluobo"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "先用 GPT Image2 生成包含镜头顺序/角色设定/场景走向/光影氛围的故事板图片，再把这张故事板作为参考图交给 Seedance 2.0 按分镜生成视频以提升可控性  \n在 Seedance 2.0 里尽量少写长提示词，直接用类似“根据附件故事板图片生成视频”的指令，让模型按故事板执行镜头与节奏",
   "translations": {
     "en": {

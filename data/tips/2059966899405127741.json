@@ -11,6 +11,15 @@
     "name": "Creative.Edge CL+",
     "link": "https://x.com/CreativeEdge_CL"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Surreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "Creative Asset"
+  ],
   "tips": "Merge two different motifs (live-action and manga) in Seedance by explicitly prompting for a combined style/motif merge.  \nForce wide-angle perspective and extreme foreshortening by specifying wide-angle lens + forced perspective + extreme foreshortening in the prompt.  \nCreate a 3-layer visual structure by prompting for Dada photomontage + Constructivist color blocking + punk zine cut-and-paste as layered composition instructions.  \nUse Voronoi tessellation as the fragmentation/partitioning pattern by explicitly prompting for Voronoi tessellation (shard-like mathematical partitioning) in the visuals.",
   "translations": {
     "en": {

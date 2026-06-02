@@ -10,6 +10,14 @@
     "name": "DStudioproject",
     "link": "https://x.com/D_studioproject"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial",
+    "VFX"
+  ],
   "tips": "For wuxia-style clips, lean into high-speed movement + dynamic action + camera flow prompts to get smooth motion with minimal glitches.  \nUse Seedance 2.0’s built-in sound and SFX first, then do only minimal manual tuning to reach a bold, cinematic mix.  \nIf fantasy effects (energy/portals) look unrealistic in raw generations, iterate with better prompting and trial-and-error to improve realism quickly.",
   "translations": {
     "es": {

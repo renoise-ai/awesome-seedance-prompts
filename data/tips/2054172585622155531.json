@@ -11,6 +11,14 @@
     "name": "Abdul Șhakoor",
     "link": "https://x.com/abxxai"
   },
+  "tags": [
+    "Action",
+    "Chase",
+    "Hand-drawn",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Use GPT Image 2 to generate a director-style PREVIS storyboard as 8 continuous action frames with minimal stick figures that show only movement, camera choreography, momentum trails, and ink motion (no realistic anatomy/clothing details).\n\nLock visual consistency by specifying a pure infinite white space background and a strict palette of deep black/grayscale ink only (no additional colors).\n\nControl Seedance motion by writing a timecoded timeline (e.g., 0:00–0:15) that specifies lens choice (24mm), camera moves (low-angle close tracking, pull back/push in, rotation, retreat/push close), and subject actions per segment.\n\nIncrease perceived dynamism by explicitly prompting ultra-wide perspective distortion, high-contrast rendering, and negative-space composition.\n\nAdd audio guidance by including beat structure and SFX cues aligned to timestamps (e.g., rhythm density changes, near-silence drop, final low-frequency accent synced to the last motion).",
   "translations": {
     "es": {

@@ -11,6 +11,14 @@
     "name": "Duet | AI",
     "link": "https://x.com/Sheldon056"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate storyboard frames with GPT-image-2 first, then convert the finalized storyboard into video using Seedance 2.0 instead of starting from a single prompt  \nArrange and refine scenes on an infinite/Figma-like canvas before running Seedance 2.0 to improve story structure and output quality  \nCollaborate with an AI agent to iterate on storyboard scenes before generating the final Seedance 2.0 video",
   "translations": {
     "es": {

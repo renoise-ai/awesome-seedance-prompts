@@ -11,6 +11,14 @@
     "name": "𝐌",
     "link": "https://x.com/Strength04_X"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate a multi-view character sheet first (front/side/back) on a white background with a fixed color palette and key accessories, then use that design as the consistent reference for your Seedance 2.0 video.\n\nWrite your Seedance 2.0 prompt as a time-coded shot list (e.g., 0–3s, 3–7s, 7–11s, 11–15s) specifying action, environment, and camera moves per segment to control pacing and continuity.\n\nInclude explicit camera directions in each segment (slow push-in, orbit, slow motion, cut to wide exterior) to guide Seedance’s cinematography.\n\nCall out lighting and color changes as story beats (neon blue → alarm red flood → bright white pulsing tattoos) to drive clear visual transitions across the 15-second sequence.",
   "translations": {
     "es": {

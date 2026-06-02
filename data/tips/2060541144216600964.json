@@ -11,6 +11,14 @@
     "name": "タナベ | 動画・音声生成AI解説",
     "link": "https://x.com/tanabe_fragm"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
   "tips": "高速移動（FPVドローン風の超高速飛行）シーンはGemini Omni FlashよりSeedance 2.0を使う  \n参照画像を用意し、飛行ルートはCanvaで別途描いて構図・動線を設計してからSeedanceで生成する  \n超高高度の衛星写真（Google Earth/ナショジオ風）として世界全体を指定し、16:9・8K・フォトリアル・気象（雲/霧/影）までプロンプトに明記してスケール感を出す  \n不要物（ルート線/フライトパス/ラベル/アイコン/文字/UI/枠/コンパス）をNo〜でネガティブ指定して映像に混入させない",
   "translations": {
     "en": {

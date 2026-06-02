@@ -11,6 +11,13 @@
     "name": "YUUUKI｜PYRAMID AI",
     "link": "https://x.com/yuuuki_ai"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Seedreamで大まかな画（ベースのビジュアル）を作ってから、Nano Bananaで色味調整を行う二段階ワークフローにする  \nアニメの色味調整は「撮影処理加工」をベースにしたプロンプトを作り、質感を一気に向上させる",
   "translations": {
     "en": {

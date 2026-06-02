@@ -11,6 +11,14 @@
     "name": "Amira Zairi",
     "link": "https://x.com/azed_ai"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "3D Animation",
+    "Fantasy",
+    "Tutorial",
+    "VFX"
+  ],
   "tips": "Specify the target format and pacing in your prompt (e.g., 15-second vertical video pacing) to steer Seedance toward the right duration and aspect.  \nUse a timecoded shot list (e.g., [00:00-00:03], [00:03-00:06], etc.) with explicit camera directions (wide, low-angle tracking, aerial side, fast orbit) to control scene progression and cinematography.  \nDefine a detailed style block (e.g., 3D cinematic wuxia fantasy, stylized realism, elegant wire-fu movement, misty mountain setting, glowing qi effects) to lock in a consistent visual aesthetic.  \nDescribe main characters with concrete visual identifiers (wardrobe, hair, weapon, dragon features like luminous scales/pearl horns/whiskers) to improve character consistency across shots.  \nInclude explicit VFX/SFX cues per beat (e.g., glowing sword trail, crescent qi slashes, cloud vortex; wind/guqin/thunder) to guide Seedance toward the intended impact and rhythm.",
   "translations": {
     "es": {

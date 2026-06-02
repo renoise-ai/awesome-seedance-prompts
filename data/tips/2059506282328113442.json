@@ -11,6 +11,14 @@
     "name": "Saul Goodman",
     "link": "https://x.com/Goodmanprotocol"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use a storyboard-first workflow: generate storyboard frames with GPT-Image-2, arrange/refine them on an infinite Figma-like canvas, then convert the storyboard into cinematic video using Seedance 2.0.",
   "translations": {
     "es": {

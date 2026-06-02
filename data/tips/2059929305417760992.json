@@ -10,6 +10,13 @@
     "name": "ImPaul",
     "link": "https://x.com/impaulxyz"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Copia y personaliza el prompt de Seedance 2.0 incorporando los cambios que hiciste en el paso 1 al generar la imagen (Nano Banana) para mantener coherencia visual.  \nSi no dominas el inglés, usa cualquier LLM para traducir/mejorar el prompt antes de generar en Seedance.  \nEstructura el prompt por secciones (CINEMATIC SETUP / IMAGE REFERENCES / TIMELINE SECOND BY SECOND / STYLE & QUALITY BOOSTERS / NEGATIVES) para controlar look, referencias, acciones por tiempo, calidad y errores.  \nIncluye una referencia de imagen como Starting frame reference (Ref 1) y exige “Exact starting frame match” para que el video arranque idéntico a la imagen.  \nDefine el video con un timeline segundo a segundo (p. ej., 0–3s, 3–6s, 6–10s) especificando tipo de plano y acciones para guiar la puesta en escena.  \nPara evitar personajes extra, añade restricciones explícitas como “The camera frames only these specific individuals; no other players enter the shot” y refuérzalo con negativos (duplicate players, extra players in frame, cloned characters).  \nMejora realismo de broadcast añadiendo “telephoto broadcast lens”, “realistic TV camera movement”, “subtle motion blur”, “slight TV compression artifacts” y “faint interlaced TV grain”.  \nPara consistencia de identidad y estabilidad, incluye “movie-level stable facial features keeping the identity” y “coherent multi-character interaction”.  \nPara física creíble, añade “Extremely realistic physics on hair and clothing” y bloquea fallos con negativos como unrealistic physics, floating elements, robotic movements.  \nIncluye una lista de NEGATIVES (deformed faces, blurry motion, low resolution, text artifacts, watermark, extra limbs, CGI look, cartoonish) para reducir artefactos comunes.",
   "translations": {
     "en": {

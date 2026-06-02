@@ -10,6 +10,14 @@
     "name": "TechieSA",
     "link": "https://x.com/TechieBySA"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Attach and reference a character sheet in your Seedance 2.0 prompt and explicitly instruct the model to use it throughout for consistent character design.  \nAdd negative constraints like No realistic humans and No dark frames to prevent unwanted realism and lighting artifacts.  \nSpecify exact timecoded shot beats (e.g., 0:00–0:02 wide, 0:02–0:05 action, etc.) to control pacing and scene progression.  \nInclude explicit audio direction with timestamps (e.g., No music until 0:08, then score; list SFX/VO per segment) to guide sound design.  \nDefine camera plan per beat (wide/medium, pull wide, slow motion, final wide) to steer framing, movement, and cinematic rhythm.  \nDescribe environment with concrete visual attributes (bright green grass, deep blue sky, calm pond, wooden bench, perfect sunny day) to lock in setting consistency.  \nCall out lighting style explicitly (Warm golden Pixar lighting) to enforce a cohesive render look.",
   "translations": {
     "es": {

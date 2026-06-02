@@ -11,6 +11,13 @@
     "name": "波妞PONYO",
     "link": "https://x.com/ponyodong"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Start your Seedance project from a storyboard (6–8 panels / 8-grid) instead of a single one-line video prompt.  \nUse a small-film workflow before Seedance generation: write the script → design characters → create a 6–8 panel storyboard → write a separate 15-second director-style prompt for each segment.  \nAfter generating in Seedance, edit/package the final video by placing each generated shot above its corresponding storyboard panel to validate shot design and motion.",
   "translations": {
     "en": {

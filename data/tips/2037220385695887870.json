@@ -11,6 +11,15 @@
     "name": "John",
     "link": "https://x.com/johnAGI168"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial",
+    "VFX",
+    "Slow-Mo"
+  ],
   "tips": "在Seedance 2.0提示词中加入Original Cyber Wuxia Action Epic以明确赛博武侠动作大片的题材与叙事基调  \n在提示词中指定8K电影级画质与高帧率摄影以提升清晰度与动作流畅度  \n用Hyper-speed Mechanical Martial Arts作为核心风格关键词以锁定超高速机械武术的视觉语言  \n在提示词中强调宗师级的见招拆招以引导更清晰的攻防拆解动作设计  \n在提示词中加入残影移动以生成高速位移的拖影/残像效果  \n在提示词中加入极致的物理碰撞以强化打击感与碰撞反馈  \n按链接中的安全与版权优化要点调整提示词以降低安全/版权风险",
   "translations": {
     "en": {

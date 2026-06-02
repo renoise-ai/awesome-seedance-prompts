@@ -11,6 +11,14 @@
     "name": "hedoήist",
     "link": "https://x.com/hedo_ist"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Landmark",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "POV"
+  ],
   "translations": {
     "es": {
       "content": "---\nElimina la línea roja, las flechas y todas las marcas guía del video final. La ruta roja se utiliza solo para guiar el movimiento de la cámara.\n\nCrea una toma de dron FPV en primera persona con un movimiento cinematográfico, ultra-rápido y de una sola toma. La cámara debe seguir de cerca la ruta roja en la imagen. Mantén el orden de la ruta. No se deben omitir segmentos ni simplificar el camino.\n\nVuela a través de un arco ultra-detallado y curvado a alta velocidad y sal por un paseo bellamente iluminado para llegar a un árbol gigante.\n\nEscena cinematográfica realista y de alta velocidad\n\n--- TWEET CITADO ---\nLa nueva técnica de toma de seguimiento es increíble 🤯\n\nHe probado esta técnica en Seedance varias veces; conclusiones, prompt y flujo de trabajo están en los comentarios:\n\nNueva banda sonora para Red Peaks🎶 https://t.co/J5FVpOidSU\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Midjourney v8.1 + Seedance 2.0\n\nEs importante comenzar el prompt pidiéndole que siga la flecha y luego eliminar la flecha en el video.\n\nprompt:\n\nRemove the red line, arrows, and all guide marks from the final video. The red path is used only for camera motion guidance.\n\nCreate a first-person FPV drone shot with cinematic, ultra-fast, one-take motion. The camera should closely follow the red path on the image. Maintain the route order. No skipped segments, no simplified path.\n\nFly through an ultra-detailed, curved archway at high speed and exit along a beautifully illuminated walkway to reach a giant tree.\n\nRealistic, high-speed cinematic scene\n---"

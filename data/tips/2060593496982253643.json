@@ -11,6 +11,14 @@
     "name": "Kenji",
     "link": "https://x.com/nmkenji"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "nanobananaで3面図（キャラクターの正面・側面・背面）と絵コンテを作ってから、Seedance 2.0（PolloAIJP）で動画生成するとドキュメンタリー風シーンを作りやすい",
   "translations": {
     "en": {

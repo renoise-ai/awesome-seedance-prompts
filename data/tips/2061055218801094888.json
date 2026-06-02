@@ -11,6 +11,14 @@
     "name": "Jerrod Lew",
     "link": "https://x.com/jerrod_lew"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
   "tips": "Use ChatGPT Images 2.0 + GPT 5.5 + Seedance 2.0 to generate a product image, then generate new angles and exploded-view variants before animating.  \nUse Seedance’s start/end frame feature by setting the first frame to the normal product view and the last frame to the exploded view to turn the transition into a video.",
   "translations": {
     "es": {

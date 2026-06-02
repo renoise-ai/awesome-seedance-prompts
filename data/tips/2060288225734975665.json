@@ -11,6 +11,14 @@
     "name": "探路AI",
     "link": "https://x.com/TanLuAI"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "用GPT先生成电影级故事板分镜图（含每帧剧情/台词/情绪/运镜/光影与时间线“过去/现在”），再把这些分镜图作为参考输入Seedance 2.0生成视频，比直接在Seedance 2.0里文生视频更容易获得更强的真实感\n\n在Seedance提示词里明确写实质感细节（轻微失焦、动态模糊、暗部颗粒、真实皮肤纹理、自然环境瑕疵）并指定纪录片手持呼吸感/固定机位/监控或手机视角等镜头语言，以强化超写实效果\n\n为同一角色在不同时间线保持一致性，在提示词中固定面部特征并只变化服饰/妆容/状态，同时明确不同场景角色外貌要有明显区分，减少Seedance生成时的人物漂移\n\n按16:9宽屏分镜逐镜生成（如4个面板：场景一过去→现在→场景二过去→现在），并在每镜提示词中写清运镜类型（Handheld dolly-in、Static、Over-the-shoulder、Split-screen）与光色对比（暖金夜景→冷蓝荧光），以稳定叙事与镜头连续性",
   "translations": {
     "en": {

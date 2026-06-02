@@ -11,6 +11,14 @@
     "name": "Keskin",
     "link": "https://x.com/craftian_keskin"
   },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate a 16:9, 9-panel TikTok dance storyboard image first (e.g., with GPT Image 2.0) and then use it as the basis for animating the sequence in Seedance 2.0 (Dreamina).\n\nPrompt for soft natural lighting, neutral/skin-tone palette, and a plain studio background to keep Seedance outputs clean and distraction-free.\n\nSpecify smartphone-style framing with a mix of wide/medium/close-up shots and subtle handheld/stabilized camera movement to get an authentic TikTok feel in Seedance.\n\nDesign the dance as a shot-by-shot progression (pre-dance stance → arm wave → head movement → hip sway → step/turn tracking → hair flip → full combo → signature pose → final close-up) to guide Seedance motion continuity.\n\nInclude instructions to keep transitions smooth between panels to simulate a continuous TikTok flow in the generated video.",
   "translations": {
     "es": {

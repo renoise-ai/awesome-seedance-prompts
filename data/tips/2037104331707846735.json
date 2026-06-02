@@ -11,6 +11,13 @@
     "name": "Photogenic Weekend",
     "link": "https://x.com/PhotogenicWeekE"
   },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "記事の作例にあるK-popアイドルのMVのPromptをそのままコピペしてSeedance 2.0で生成する  \n生成後にRTX Video Upscaleを1.5xに設定してフルHD相当にアップスケールする  \n縦横比（アスペクト比）設定を間違えないように確認してから生成する",
   "translations": {
     "en": {

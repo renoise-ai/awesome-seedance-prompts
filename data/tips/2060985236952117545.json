@@ -11,6 +11,14 @@
     "name": "萌奈のおすそわけ♥️AI動画クリエイター🩷AI & Web3 KOL🧡💛💚",
     "link": "https://x.com/xc5_"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use a live-action background + anime-style character mixed-media prompt/style to blend realistic environments with an animated subject in Seedance 2.0  \nCreate a character sheet with GPT Image 2, then use Seedance’s Omni Reference to lock/fix the character identity across all clips  \nControl each location/scene purely via prompting while keeping the same fixed character reference  \nFor consistent trains/props across multiple videos, add separate reference images for those objects so the design stays unified between clips",
   "translations": {
     "en": {

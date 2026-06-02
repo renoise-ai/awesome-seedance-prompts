@@ -11,6 +11,14 @@
     "name": "k(k_the_Anything)",
     "link": "https://x.com/k_prs_fender"
   },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial",
+    "Transformation"
+  ],
   "tips": "Mr.lancuが公開した「術式発動」プロンプトをそのままコピペしてSeedance 2.0（Dreamina AI）に入れると、魔法陣展開〜術式発動の演出を簡単に生成できる  \n術式発動後に変身する演出を入れる場合は、変身後の服装（衣装デザイン）もリファレンス画像で指定しておくと狙った見た目に寄せやすい  \n変身後の姿をSeedance 2.0に任せたい場合は、キャラクター画像だけをリファレンスにして生成し、変身後はプロンプト内容に基づいて自動生成させる",
   "translations": {
     "en": {

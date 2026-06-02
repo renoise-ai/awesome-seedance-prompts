@@ -11,6 +11,13 @@
     "name": "Cia0",
     "link": "https://x.com/Cia0_exe"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "3D Animation",
+    "Fantasy",
+    "Tutorial"
+  ],
   "tips": "Use a storyboard reference image and instruct Seedance to follow all panels and camera-direction arrows exactly to control shot sequence and camera motion.\n\nUpload a character reference image and explicitly require strict matching of face, hair, and outfit in every shot to keep character consistency.\n\nLock character identity by writing a “CHARACTER — FIXED” block with zero-deviation language (e.g., “Zero deviation from @Image2 every shot”) and repeat key traits (eyes, hair, outfit, weapon, constant energy effect).\n\nDefine the environment in a dedicated “ENVIRONMENT” block (time of day, key props, atmosphere, particles) to keep location consistent across shots.\n\nStoryboard the video as timed shots (e.g., SHOT 1 | 0–2s … SHOT 5 | 8–10s) and specify per-shot framing (WIDE), camera behavior (push-in, tracking, whip-pan, 180° whip, pull-back), and motion arrows to guide action and camera.\n\nAdd per-shot motion directives (enemy movement, energy direction, character path) to reduce ambiguity in fast action sequences.\n\nInclude an explicit camera progression line (e.g., Wide push-in → Fast tracking → Whip-pan → 180° whip → Wide pull-back) and instruct Seedance to follow it exactly.\n\nUse a STYLE block to force non-live-action output (e.g., Hyper-realistic 3D VFX, CG not live action, IMAX cinematic) and specify effects to include (speed lines, trails, particles, afterimages) plus pacing constraints (aggressive camera, no slow motion).\n\nSpecify lighting as a contrast recipe (moonlight silver-white dominant + crimson energy accent + warm lanterns) to stabilize the look across shots.\n\nAdd a negative prompt that explicitly bans common failure modes: no real human, no face/outfit changes between shots, no slow motion, no cloned/duplicate/mirrored characters, no cuts within shots, and exclude unwanted colors (no blue/green energy).",
   "translations": {
     "es": {

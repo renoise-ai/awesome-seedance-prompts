@@ -10,6 +10,16 @@
     "name": "Gilbert Odera | Your AI Plug™🇰🇪",
     "link": "https://x.com/yourPlugAI"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Slow-Mo",
+    "VFX",
+    "Transformation"
+  ],
   "tips": "Upload a high‑res portrait and prompt hyper‑realistic micro‑expressions plus a slow 10‑second push‑in to the eyes to improve I2V temporal consistency and reduce hallucinations (maintain skin texture + iris reflections).\n\nPrompt a 10‑second Vertigo dolly‑zoom by explicitly stating “camera moves forward while the lens zooms out” and add focus requirements (rack‑focus foreground→background, keep castle stone texture sharp) to enforce camera control.\n\nTo test/force realistic physics, specify material, surface, and interaction details (heavy crystal vase on marble; water surface tension; glass inertia; subtle impact camera shake at contact) in a 10‑second slow‑motion shot.\n\nFor multi‑event synchronization, time actions with explicit timestamps (0–3s, 4s, 5s, etc.) and include an audio description (“heavy electronic synth‑wave”) to align visuals to a beat/bass drop.\n\nFor multilingual lip‑sync, include the exact dialogue text and call out specific phonemes to nail (“u” and “r” in French) plus realistic jaw/neck muscle movement over a 10‑second close‑up.\n\nTo improve compositing of particles and lighting, describe interaction rules (sparks bounce then extinguish; smoke swirls and catches orange rim‑light) and add camera style cues (handheld, slight grit) in a 10‑second scene.\n\nFor stable 3D text overlays, specify font style and anchoring behavior (“SUMMIT 2026” metallic sans‑serif, anchored to world geometry) and pair it with a defined camera move (180° orbit) to test legibility and tracking.\n\nFor fast action, generate at 450p to maximize motion fluidity and explicitly request motion blur, wide‑angle lens, and whip‑pans for a 10‑second parkour sequence.",
   "translations": {
     "es": {

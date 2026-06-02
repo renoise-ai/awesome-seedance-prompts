@@ -11,6 +11,13 @@
     "name": "Ronin",
     "link": "https://x.com/DeRonin_"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Prompt Seedance like a film director (cinematography and camera language) rather than motion-design terms; e.g., use cinematic dolly forward across the product screen, anamorphic lens feel, dramatic ambient lighting instead of kinetic typography + animated UI.  \nPrefer image-to-video in Seedance: upload a product screenshot/reference frame and prompt only for the motion/camera move instead of describing what should be on screen.  \nExplicitly name Seedance 2.0 in your prompt to force routing to that model when you want fast variations and explorations.  \nUse style reference images in Seedance instead of text style callouts: screenshot 3 frames from the target video and upload them as style refs.  \nGenerate fewer, longer shots in Seedance (e.g., 3 continuous 8-second shots) instead of many short ones (e.g., 5×4s) to maintain style consistency and avoid choppy stitching.  \nAdd a strong negative prompt block to control cinematic motion; e.g., no whip-pans, no snap-cuts, no bouncy cartoonish motion, no linear easing, no AI-generated fake UI, no static frames, no 2000s-style graphics.  \nGenerate the Seedance video silent and add sound design externally in an editor (e.g., CapCut) using libraries like Splice/Epidemic Sound instead of relying on generated audio.",
   "translations": {
     "es": {

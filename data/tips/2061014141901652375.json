@@ -10,6 +10,14 @@
     "name": "Nimentrix",
     "link": "https://x.com/nimentrix"
   },
+  "tags": [
+    "Story",
+    "Drama",
+    "Anime 2D",
+    "Sci-Fi",
+    "VFX",
+    "Tutorial"
+  ],
   "tips": "Write a timecoded 5-second synopsis (0s–1s, 1s–2s, etc.) that specifies camera moves and shot types per second to control pacing in Seedance 2.  \nInclude explicit camera directives (slow push-in low angle, close-up, whip pan, dynamic orbit, extreme close-up, hard cut to black) to steer cinematography.  \nSet format and style up front (16:9 cinematic anime trailer) to lock aspect ratio and overall look.  \nDefine mood and visual style keywords (mysterious, magical, cyber-noir; glowing blue energy, dark city bokeh, dramatic shadows, motion trails) to guide lighting and effects.  \nAdd concrete VFX/physics details (blue flame like liquid electricity, particles drifting upward, hologram burst, lights bending as reality folds) to increase motion and scene dynamics.  \nSpecify end-card instructions (final frame light explosion + title text) to control the closing beat and on-screen typography.",
   "translations": {
     "es": {

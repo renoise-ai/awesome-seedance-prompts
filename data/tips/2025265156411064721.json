@@ -11,6 +11,13 @@
     "name": "Alisa Qian",
     "link": "https://x.com/alisaqqt"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Feed multiple reference photos into Nano Banana Pro to generate a 9-grid portrait, then use that 9-grid as the Seedance 2.0 reference to improve pass rate through the real-person filter.  \nIf the 9-grid is still rejected, convert the 9-grid to line art in Nano Banana Pro and describe the face explicitly in the Seedance prompt (features, hair, skin tone) to increase approval.  \nUse line art + detailed facial description to lower the “real person” confidence score enough for Seedance’s classifier to allow generation.  \nDon’t waste attempts on copyrighted IP or celebrities: Seedance 2.0 can auto-block after generation via post-generation copyright review even if the prompt/reference passes.",
   "translations": {
     "es": {

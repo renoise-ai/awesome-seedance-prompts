@@ -11,6 +11,13 @@
     "name": "💫Wigglenator💫",
     "link": "https://x.com/Wigglenatorr"
   },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Specify the dancer’s face and other character details in your Seedance 2 prompt to avoid the model defaulting to a Ghibli-like style.",
   "translations": {
     "es": {

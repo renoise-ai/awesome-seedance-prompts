@@ -11,6 +11,13 @@
     "name": "Pollo AI 日本公式",
     "link": "https://x.com/PolloAIJP"
   },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "GPT Image 2で商品画像を1枚生成し、その画像をSeedanceに入力して15秒の美容ドリンク広告動画を作る  \nまずは1枚の商品画像からPollo AIで試してみる",
   "translations": {
     "en": {

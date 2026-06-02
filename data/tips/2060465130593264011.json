@@ -11,6 +11,14 @@
     "name": "Pelaez Design AI",
     "link": "https://x.com/PZDesignAI"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Storyboard the full camera path before prompting in Seedance 2 (e.g., wide aerial → push-in → threshold entry → interior reveal) to guide the scene like a director’s map instead of generating isolated shots.  \nDefine per-shot specifics in the storyboard—camera movement, lens choice, pacing, sound cues, transitions, and the visual objective—then generate each panel/shot to improve consistency and control.  \nAssign each storyboard panel a single technical job (establish geography, build momentum, showcase scale, create tension) and prompt/generate shots to fulfill that job.  \nUse a match cut planned in the storyboard (e.g., through doors) to sell transitions between exterior and interior shots when stitching Seedance outputs.",
   "translations": {
     "es": {

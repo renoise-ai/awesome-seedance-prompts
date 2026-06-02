@@ -11,6 +11,13 @@
     "name": "madpencil_",
     "link": "https://x.com/madpencil_"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use Seedance 2’s First and Second Frame (Keyframe) method to get more consistent animation results while avoiding wasted credits.  \nUse JSON-structured prompts in Seedance 2 to force the model to follow your intended scene/camera/timeline more exactly, especially since it’s an expensive model.  \nLock the camera (fixed/locked movement) in your prompt to maintain consistent framing throughout the animation.  \nAdd a timestamped timeline (e.g., 0–2s, 2–5s, etc.) describing actions beat-by-beat to control pacing and comedic timing.",
   "translations": {
     "es": {

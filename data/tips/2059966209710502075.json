@@ -10,6 +10,13 @@
     "name": "tapehead.lab",
     "link": "https://x.com/tapehead_Lab"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "GPT Image2で作った画像をSeedance2.0のStart/Endフレーム機能に設定して繋ぎ、ライブ映像風の動画を作る",
   "translations": {
     "en": {

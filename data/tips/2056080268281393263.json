@@ -11,6 +11,13 @@
     "name": "yata",
     "link": "https://x.com/whoyatagarasu"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Have Claude generate 18–24 numbered prompt variants for the same Seedance shot, varying one axis at a time (composition/lighting/color temp/camera distance) instead of producing a single prompt.\n\nUse a master-prompt + delta format for Seedance prompting: 1 master prompt plus 19 deltas written as “same as master EXCEPT [single change]” to reduce subject/scene drift across frames.\n\nAdd a second-pass “reject queue” where Claude scores the prompt variants for coherence with the master and only send the top subset (e.g., render only the top 12 of 20) to Seedance to cut wasted renders.\n\nRun Seedance renders for the variant batch in parallel (e.g., asyncio.gather) instead of sequential calls to bring a full shot batch down to ~45 seconds for iteration.\n\nMake aspect ratio a runtime variable for Seedance shots (e.g., 21:9 banner vs 9:16 shorts), and add an explicit instruction like “frame for 9:16 vertical, subject vertically anchored” to prevent horizontal compositions that crop poorly.\n\nDon’t prompt Claude for continuous motion across frames (e.g., “frame 1 of 20, character walking left”); instead prompt for compositional variations and let Seedance + frame interpolation create motion between selected frames.\n\nUse separate system-prompt personas for stills vs Seedance video shots; for video, include cinematography vocabulary (blocking, depth of frame, parallax, eye-line) rather than an editorial-photography-only persona.\n\nKeep consistent negative constraints in Seedance shot prompts (e.g., no faces, no text, no centered composition, no stock) and enforce them across all variants to maintain continuity.\n\nStitch selected Seedance frames into a 6–12s MP4 using ffmpeg after rendering the shot variants.",
   "translations": {
     "es": {

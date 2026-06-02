@@ -11,6 +11,14 @@
     "name": "AiVibe",
     "link": "https://x.com/Harrison_Creat"
   },
+  "tags": [
+    "Product Ad",
+    "Luxury",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "随手拍一张产品图后，让GPT基于该产品图生成3×3全渠道分镜框架（The Grid Logic）作为TVC分镜参考图。  \n把生成的9宫格分镜图直接上传到Seedance做参考图生视频，不用额外提示词也能生成TVC级广告视频。  \n用固定的色彩与光影规则来写分镜提示词：Obsidian Black/Pristine White/Concrete Grey配色，强调硬边光+大面积阴影对比，用光线勾勒产品几何轮廓。  \n在分镜构图中控制主体占画面15%–25%，其余留白以增强“呼吸感”和高级氛围。",
   "translations": {
     "en": {

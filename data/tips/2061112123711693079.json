@@ -11,6 +11,13 @@
     "name": "Stepan Kukharskiy",
     "link": "https://x.com/steve_steve25"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
   "tips": "Use a workflow of: write a #threejs scene sketch prompt → generate Nano Banana keyframes → animate in Seedance (e.g., via Spellshape) to turn the 3D sketch into an animated video.",
   "translations": {
     "es": {

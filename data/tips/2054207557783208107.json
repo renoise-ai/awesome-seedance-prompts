@@ -11,6 +11,13 @@
     "name": "AITOPIA",
     "link": "https://x.com/AITOPIAai"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Upload your photo to GPT Image 2 and prompt it to generate a fan-cam scene image.  \nImport the generated scene image into Seedance 2.0 and animate it into a video by prompting for motion, reactions, and dynamic camera movement.",
   "translations": {
     "es": {

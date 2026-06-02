@@ -10,6 +10,13 @@
     "name": "Framer 🇱🇹",
     "link": "https://x.com/Framer_X"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Upload both a character image and a setting image to Seedance 2.0 (e.g., via Dreamina web) as references before generating video shots.  \nWrite a multi-shot prompt using [cut] between beats to force distinct sequential shots (wide action → mirror action → close-up → grooming → blink → exit).  \nAdd explicit audio constraints like No music, no talking to prevent Seedance from generating unwanted sound elements.",
   "translations": {
     "es": {

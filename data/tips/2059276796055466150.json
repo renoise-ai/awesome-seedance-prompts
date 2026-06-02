@@ -11,6 +11,14 @@
     "name": "鱼总聊AI",
     "link": "https://x.com/AI_Jasonyu"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Start your Seedance 2.0 workflow by generating storyboard frames (e.g., with GPT-image-2), arranging/refining them on an infinite Figma-like canvas, then convert the finalized storyboard into video with Seedance 2.0 instead of prompting blindly.",
   "translations": {
     "en": {

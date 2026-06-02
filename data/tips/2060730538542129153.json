@@ -11,6 +11,13 @@
     "name": "0xToshi",
     "link": "https://x.com/0xToshio_O"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use GPT-Image-2 to generate the fashion look/reference image first, then feed it into Seedance 2 to generate the final video (GPT-Image-2 → Seedance 2 workflow).\nGenerate the Seedance video “straight out” with no editing or music by relying on Seedance’s direct output (直出) instead of post-production.",
   "translations": {
     "en": {

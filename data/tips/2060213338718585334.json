@@ -11,6 +11,14 @@
     "name": "COLAW",
     "link": "https://x.com/ColawMide"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use CapCut Director Mode (Seedance 2.0 + GPT Image 2) to co-write a full script by feeding the agent an initial idea and iterating together  \nAfter locking the story, generate/visualize characters, props, and scenes before building shots  \nBuild shot sequences in Director Mode to maintain continuity across the entire project  \nDirect the final assembly by specifying your vision and letting the agent execute the edit  \nRefine any frame at any stage of the pipeline and iterate as many times as needed",
   "translations": {
     "es": {

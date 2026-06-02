@@ -10,6 +10,14 @@
     "name": "Gilbert Odera | Your AI Plug™🇰🇪",
     "link": "https://x.com/yourPlugAI"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "FPV & Aerial"
+  ],
   "tips": "Add explicit camera movement language like slow cinematic dolly in (not digital zoom) to build tension and realism in Seedance 2.0 prompts.  \nUse a sweeping crane shot prompt (start low, rise high) to reveal scale—e.g., close-up subject ascending to a vast landscape.  \nSpecify a 360-degree orbital camera movement around the subject to create a classic hero shot and showcase 3D environments.  \nPrompt an FPV drone dive with ultra-wide angle, motion blur, and lens spray to get aggressive, immersive high-speed cinematography.  \nUse a lateral trucking shot (camera moving sideways parallel to the subject) for walk-and-talk or tracking fast movement.  \nAdd a whip pan (fast horizontal blur from one subject to another) with motion blur transition for urgent, stylized action cuts.  \nUse a leading tracking shot (camera moving backward in front of the subject) and include organic handheld movement for pull-into-the-action energy.  \nPrompt a vertigo effect (dolly zoom: camera moves backward while zooming in, or vice versa) to create background warping for shock/revelation moments.  \nUse a pedestal down (camera moves straight down vertically without tilting) to reveal a scene from top to bottom smoothly.  \nAdd handheld run-and-gun cues (intentional jitter/shaky cam) to increase grit and realism in chase/action scenes.",
   "translations": {
     "es": {

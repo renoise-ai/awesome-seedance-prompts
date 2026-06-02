@@ -11,6 +11,15 @@
     "name": "Yurii Yeltsov",
     "link": "https://x.com/yura_elkin"
   },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Slow-Mo",
+    "Game UI",
+    "Tutorial"
+  ],
   "tips": "Use a single reference arena image (@Image1) and start the prompt with Scene opens @Image1 to lock the environment/characters across shots.\n\nStructure Seedance prompts as timed shots (e.g., SHOT 1 (0–2.5s), SHOT 2 (2.5–5s)) and describe one clear action beat per shot to control pacing.\n\nSpecify camera direction per shot (TRACKING sprint, EXTREME CLOSE-UP impact, BEHIND character POV, RAPID ZOOM OUT, 360° ORBIT) to steer cinematography instead of leaving it implicit.\n\nAdd explicit slow-motion ramps with percentages and speed transitions (e.g., SLOW-MO 15% then Speed 15%>600%) to force dramatic time dilation and snap-back.\n\nCall out impact emphasis techniques like 1-frame freeze + screen shake (EXTREME/MASSIVE) at hit moments to increase perceived force.\n\nUse HUD/text overlays as prompt elements (ROUND 1/2, timer 99, health % changes, K.O., victory text, portrait, portrait orientation) to get game-fight presentation.\n\nQuantify distances and scale (FLIES backward 8m, STOPS 10m away, 15m tall Poseidon, 20m high tsunami, arena 50–60m) to stabilize motion and relative size.\n\nDescribe VFX sources and transformations explicitly (demons burst out from book, ground crack races 10m, hellfire erupts 10m upward, Poseidon dissolves into water particles) to guide effect continuity.\n\nEnd sequences with explicit finishing instructions (Freeze, Fade to red/black or blue/gold, End) to control the final frames and transitions.",
   "translations": {
     "es": {

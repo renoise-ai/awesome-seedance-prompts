@@ -10,6 +10,13 @@
     "name": "Lost 🎯",
     "link": "https://x.com/lostsol"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use two keyframes (start and end) as strict references: set the opening frame as absolute character identity reference and the closing frame as the exact final composition to hold on at the end.  \nPrevent identity drift by explicitly prioritizing the character reference and listing immutable traits (same beanie/sunglasses/jacket/fur tone/facial structure/body proportions) with “zero identity drift allowed.”  \nSpecify a single unbroken side-scrolling tracking shot with explicit constraints (smooth lateral glide left→right, no cuts/jumps, full body always visible from the side) to stabilize camera motion.  \nChoreograph motion with timestamped beats (e.g., at 8.8s slow, turn, kneel, reach to grass; camera gently pushes in and holds) to control action and framing.  \nDrive coherent scene changes by scripting a timestamped environment progression (e.g., 0.0s misty forest → 10.0s coastal cliff) while keeping the character continuous.  \nIf Seedance censors or produces low-dynamics output, animate the keyframes in an alternate generator (e.g., Grok Imagine) instead of forcing Seedance.  \nExtend the finished video by prompting a continuation that starts from the last pose and adds new actions plus dialogue with explicit lip-sync requirements.  \nDo final compositing in After Effects for time-ramping and adding sound/music after generation.",
   "translations": {
     "es": {

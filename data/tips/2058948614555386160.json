@@ -11,6 +11,14 @@
     "name": "Sharon Riley",
     "link": "https://x.com/Just_sharon7"
   },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate a 9-panel (3x3) cinematic storyboard image with numbered panels and Japanese titles/bullets using GPT Image, then use that storyboard as the visual plan/input to create the final video in Seedance 2.0.\n\nUse Japanese-language prompts (titles + bullet points per scene) to drive Seedance video generation when you want a Japanese commercial/storytelling style.\n\nSpecify a wide 9-panel storyboard infographic format (clean 3x3 grid, numbered panels) to enforce clear shot-by-shot structure before animating in Seedance.\n\nInclude per-panel shot directives (e.g., wide establishing shot, close-up product shot, detailed food close-up, dynamic grilling scene, final hero shot) to control camera framing and scene progression in Seedance.\n\nAdd explicit cinematic look keywords (realistic photography, warm cinematic color grading, golden hour lighting, shallow depth of field, glossy commercial lighting, vibrant textures) to push Seedance toward a luxury ad aesthetic.\n\nDefine consistent character and product details (age, appearance, wardrobe, labeled packaging text) across panels to maintain continuity in Seedance outputs.",
   "translations": {
     "es": {

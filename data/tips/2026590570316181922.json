@@ -10,6 +10,13 @@
     "name": "Emmet Halm",
     "link": "https://x.com/ehalm_"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "In Yapper, select Seedance 2.0 from the model dropdown to get cinematic quality and native audio.  \nBefore prompting, set aspect ratio (16:9, 9:16, or 1:1), duration (up to 15s), quality (higher = slower but better), and outputs (generate up to 4 variations at once and pick the best).  \nGenerate 4 versions of the same prompt simultaneously (up to 4 outputs) to quickly A/B test and choose the strongest result.  \nUse a “director-style” detailed prompt that includes camera specs, lens info, and audio design; Seedance responds better to filmmaker language than basic prompts.  \nTo reduce false rejections, translate your prompt to Chinese (or use Yapper’s auto-translation) since Seedance’s filter is more lenient with Chinese-language prompts.  \nUpload reference images for consistent characters/locations and tag the images in your prompt to bind them to the scene.  \nAvoid visible faces in reference images (face detector runs before the content filter); crop to back-of-head/shoulders/clothing, use wide shots, use illustrated/stylized refs, or partially obscure the face with an object (cup/sunglasses/phone).  \nIf a reference image needs changes (outfit/angle/face obscured), generate or edit the reference image inside Yapper using its image generation feature.  \nTo make videos longer than 15 seconds, click Extend to continue from the last frame; repeat generate→extend to build longer sequences with consistent characters/lighting/environment.  \nWhen prompting conflict/weapons, don’t describe isolated violent actions; frame the entire scene as a film production with cinematic context (camera, lighting, film grain, setting) to pass the LLM-based filter.  \nAvoid words implying minors (boy, girl, child, young, kid); use role-based descriptions instead (a rider, a student in a university hallway, an athlete).  \nDon’t name copyrighted movies/characters/franchises; describe the aesthetic instead to avoid copyright blocks.",
   "translations": {
     "es": {

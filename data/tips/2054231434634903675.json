@@ -11,6 +11,14 @@
     "name": "jboogx.creative",
     "link": "https://x.com/jboogx_creative"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use Venice AI (@AskVenice) to run Seedance 2.0 prompts up to 10k characters (instead of typical 3500–4000) for longer, more detailed prompting with full adherence.  \nIn @AskVenice Studio → Edit, input your main image and prompt GPT2 (16:9) to generate a character sheet: Make me a character sheet of [subject] on a white background, with a front, side, and back profile.  \nAfter generating character sheets, place them onto 1080×1440 canvases in Photoshop/Canva (or any editor) and use these composites as Seedance reference images to prevent Seedance from locking onto a single frame and to keep prompt flexibility.  \nFor better continuity across scenes, take screenshots from earlier video scenes and feed them to the LLM alongside your existing references, explicitly stating they are references from the previous scene.",
   "translations": {
     "es": {

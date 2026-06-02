@@ -11,6 +11,13 @@
     "name": "Emma Uses AI",
     "link": "https://x.com/EmmaUsesAi"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Provide multiple raw clips as input so Seedance 2.0 (via NemoVideo) can apply pacing, transitions, and retention patterns across the edit\n\nUse chat-command prompts instead of timeline editing to request specific edits like add dynamic subtitles, insert cinematic B-roll, and match the audio intensity",
   "translations": {
     "es": {

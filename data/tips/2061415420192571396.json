@@ -10,6 +10,13 @@
     "name": "TechieSA",
     "link": "https://x.com/TechieBySA"
   },
+  "tags": [
+    "Auto",
+    "Racing",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Specify exact duration and pacing in the prompt (e.g., 15 seconds, high pacing, multiple rapid cuts, no slow motion) to steer Seedance’s edit rhythm.  \nUse a numbered, timestamped shot list (e.g., 0–2s, 2–3s, etc.) with explicit camera angles (extreme close-up, cockpit POV, low angle, aerial wide, tracking shot) to control scene sequencing.  \nLock character consistency by defining a named character plus stable identifiers (age, facial features, hair, eye color, outfit, helmet design) in the prompt.  \nLock object consistency by explicitly describing the hero vehicle with unique markers (team name, car color, number) and repeating it across shots.  \nControl lighting and mood by stating time-of-day and lighting constraints (clear blue sky, blazing midday sun, bright cinematic lighting, warm golden lens flares, no dark/moody tones).  \nEnforce a specific visual look by including style descriptors (anime-influenced cinematic illustration, vivid saturated colors, clean sharp linework, high contrast sunlight).  \nSet the output framing by specifying the aspect ratio and resolution target in the prompt (e.g., cinematic 16:9).",
   "translations": {
     "es": {

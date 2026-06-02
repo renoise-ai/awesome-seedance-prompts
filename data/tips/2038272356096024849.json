@@ -11,6 +11,13 @@
     "name": "codemarch",
     "link": "https://x.com/codemarch"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Add up to 12 reference assets in Dreamina Seedance 2.0 (e.g., a video style, camera movement, and visual aesthetic) to guide the generation instead of relying only on text prompts.  \nUse reference assets so Seedance learns pacing, composition, and transitions from examples rather than having to describe them manually.  \nGenerate a new clip after adding references to keep characters and objects consistent across frames for storytelling.  \nCreate multi-shot scenes in Seedance and extend them using AI story continuation to build longer sequences.",
   "translations": {
     "es": {

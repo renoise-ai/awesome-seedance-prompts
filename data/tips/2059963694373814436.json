@@ -10,6 +10,14 @@
     "name": "Cia0",
     "link": "https://x.com/Cia0_exe"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Prepare an image reference/character sheet first (you can generate it with GPT 2.0/ChatGPT) and use it as the Seedance character reference.  \nUse Claude to draft a Seedance prompt in this template: character [name/upload reference sheet], scene [what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.",
   "translations": {
     "es": {

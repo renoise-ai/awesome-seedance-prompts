@@ -11,6 +11,14 @@
     "name": "Abdul Șhakoor",
     "link": "https://x.com/abxxai"
   },
+  "tags": [
+    "Product Ad",
+    "Fitness",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Create a 3x3 cinematic storyboard poster image first (square 1:1, clean 3x3 grid, dark frames, scene numbers/titles/action copy, sound-design bars, footer tagline/logo) and then use it as the visual plan for generating the Seedance 2.0 commercial.\n\nPrompt for a premium outdoor-ad look by specifying ultra-realistic cinematic action photography with a dark stormy mood, cold grey-blue grade, heavy rain/fog, dramatic high-contrast lighting, and sharp product-detail focus (zippers, fabric beading, boot sole grip, straps).\n\nControl shot variety by explicitly writing panel-by-panel camera directions (rear low-angle uphill, extreme close-up zipper, ground-level boot impact, close-up strap buckle, rear tracking shot, hero shot toward camera) to guide Seedance scene composition and motion.\n\nInclude a negative prompt to prevent unwanted outputs (no cartoon/vector style, no bright sunny scenes, no vlog look, no smiling models, no studio background, no low-quality text, no distorted logo, no messy layout, no unrealistic anatomy).",
   "translations": {
     "es": {

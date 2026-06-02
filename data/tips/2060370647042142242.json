@@ -10,6 +10,14 @@
     "name": "hedoήist",
     "link": "https://x.com/hedo_ist"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV"
+  ],
   "tips": "Explicitly prompt Seedance to remove an on-screen guide (e.g., Clean up and remove the red arrow from the landscape) while still using it as an invisible motion guide for the camera path.\n\nProvide reference images of the scene without the guide element (e.g., close-up river frames without the red arrow) to help Seedance remove it cleanly while maintaining continuity.\n\nDescribe the exact path the removed guide should define (e.g., following around a white tree with blue light, along the river past a port, around a colossal tree) so Seedance can generate a smooth tracking shot along that route.\n\nUse tracking-shot language in the prompt (e.g., Continuous tracking shot, Continuous first-person camera, smooth cinematic camera movement, low angle) to enforce continuous camera motion rather than jump cuts.\n\nIf Seedance sometimes renders the guide at the start then removes it mid-clip, rerun generations and iterate on references/prompts since this failure mode occurs about ~25% of the time.",
   "translations": {
     "es": {

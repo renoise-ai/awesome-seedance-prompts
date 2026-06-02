@@ -10,6 +10,15 @@
     "name": "SujiPop",
     "link": "https://x.com/suji_pop"
   },
+  "tags": [
+    "Food",
+    "Cooking",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset",
+    "Macro"
+  ],
   "tips": "Generate your background scene (e.g., ramen shop) and separate exaggerated facial-expression clips first, then feed those assets into Seedance in CapCut to drive the final animation.\n\nIf a single prompt can’t reliably cover a full sequence, stitch the video from two separate Seedance generations and cut them together in editing.\n\nStructure your Seedance prompt as a timed shot list (e.g., 0.0–0.8s, 0.8–1.5s, etc.) with explicit shot types and camera moves (EXTREME MACRO, split screen, push-in, handheld, snap zooms, Dutch angles) to control pacing and cinematography.\n\nAdd an ANIMATION PRIORITIES section in the prompt to force emphasis on key motions (e.g., aggressive noodle slurping, exaggerated facial acting, flying broth droplets, chopstick speed, secondary motion in hair/clothing).\n\nInclude SFX and DIALOGUE callouts inside the prompt (e.g., Steam hiss, impact boom, character lines) to guide audio/beat-synced editing and timing.",
   "translations": {
     "es": {

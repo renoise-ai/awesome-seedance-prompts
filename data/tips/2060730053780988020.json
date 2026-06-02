@@ -11,6 +11,13 @@
     "name": "John",
     "link": "https://x.com/john87445528"
   },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial"
+  ],
   "tips": "用开场三连爆的提示词结构制造强视觉冲击：门爆开 + 雷光 + 人物剪影  \n在提示词里明确角色识别特征以强化辨识度：凌霜的脸 / 机械手 / 白色权力战袍  \n用情绪压迫型动作描述增强戏剧张力：她一抬手，对面的人就废了",
   "translations": {
     "en": {

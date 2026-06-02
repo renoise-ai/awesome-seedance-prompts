@@ -10,6 +10,13 @@
     "name": "Timi",
     "link": "https://x.com/timikareem"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Generate your voiceover in English, then use ElevenLabs Dubbing by uploading the voiceover and selecting your target language to create the dubbed audio.  \nFor Seedance lip sync, upload the voiceover onto a black video, then prompt Seedance to lip-sync your character to that audio.",
   "translations": {
     "es": {

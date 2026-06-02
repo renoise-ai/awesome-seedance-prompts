@@ -11,6 +11,13 @@
     "name": "el.cine",
     "link": "https://x.com/EHuanglu"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Fantasy",
+    "Tutorial"
+  ],
   "tips": "Upload a 3D render/video with no textures, connect it to a video node, run Seedance 2, and use a style prompt to re-texture and restyle the entire scene.  \nUse targeted prompts to separately change textures for specific elements (e.g., dragon, table) and the background within the same video.",
   "translations": {
     "es": {

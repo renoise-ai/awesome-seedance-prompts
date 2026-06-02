@@ -11,6 +11,14 @@
     "name": "LAPTOP LIFESTYLE BLOGGER",
     "link": "https://x.com/MonetizationDon"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Start by generating one strong, consistent influencer “hero” image in Higgsfield using Nano Banana or GPT-IMAGE-2 (clean face visibility, cinematic lighting, confident pose, strong styling) and keep that character as the center of the whole campaign.  \nDefine a consistent “travel identity” (e.g., luxury traveler/fashion influencer/solo vlog creator) so every scene matches the same persona instead of random locations.  \nStoryboard first in Higgsfield with GPT-IMAGE-2 by generating one panel per destination while enforcing the same face, vibe, and visual identity across all cities.  \nPrompt each storyboard panel like a movie frame by specifying cinematic lighting, realistic environments, vlog-style framing, camera perspective, emotional energy, and movement hints.  \nIncrease realism by generating varied “vlog scenes” (airport walk, hotel reveal, café moment, luxury shopping, drone skyline, beach slow-motion, nighttime city walk) rather than only tourist landmarks.  \nAdd fashion + motion cues directly in prompts (wind movement, flowing hair, walking poses, camera glances, candid interactions, luggage movement, coffee holding, luxury accessories) to make frames feel alive.  \nGenerate influencer actions per city (talking to camera, natural gestures, smiling, reacting to surroundings, quick shoutouts) so the character feels human in the vlog.  \nBake in recognizable city-specific energy in prompts (e.g., Times Square neon chaos, Paris golden romance, Tokyo cyberpunk lights, Dubai luxury rooftops, Lagos nightlife energy).  \nGenerate the entire storyboard in 16:9 to make it cinematic/YouTube-ready and to improve Seedance’s understanding of framing, transitions, composition, and camera continuity.  \nAnimate the storyboard in Seedance 2.0 (via Higgsfield) using motion styles like cinematic handheld vlog shots, smooth whip-pan transitions, drone reveals, slow-motion atmosphere shots, and immersive travel motion.  \nEdit as a fast-paced 15-second sequence with ~2-second city beats to boost retention (e.g., NY→Paris→Tokyo→Dubai→London→Santorini→Lagos→Rio→Seoul + logo).  \nPrioritize atmosphere and emotional storytelling (freedom/luxury/adventure/escape/confidence) over perfection so the final video feels human rather than “generated.”",
   "translations": {
     "es": {

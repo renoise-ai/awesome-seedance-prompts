@@ -11,6 +11,13 @@
     "name": "John",
     "link": "https://x.com/johnAGI168"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "リリース直後はアクセス集中で生成できない可能性が高いので、比較的空いていそうなサービス（例：Hailuo、Pollo）も試して分散する  \n版権キャラだけでなく「元映像そのもの」が著作物の場合もNGなので、参照画像でキャラ差し替えしても元映像が版権物にならないよう注意する  \nリリース直後に埋もれないために、事前に他と被らない企画アイディアとプロンプトを練っておく",
   "translations": {
     "es": {

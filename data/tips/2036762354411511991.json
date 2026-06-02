@@ -11,6 +11,13 @@
     "name": "OscarAI",
     "link": "https://x.com/Artedeingenio"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use a well-structured, highly descriptive prompt to recreate famous characters without naming them  \nWrite long prompts (up to ~3,049 characters, near the Seedance 2.0 maximum) to pack in more descriptive detail",
   "translations": {
     "es": {

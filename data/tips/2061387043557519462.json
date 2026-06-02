@@ -11,6 +11,14 @@
     "name": "Olga Volosin",
     "link": "https://x.com/OVolosin82152"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use Recraft to create the character artwork, then use Seedance 2 to animate it.  \nUse GPT-2 to generate a storyboard and scene plan, then animate the planned scenes in Seedance 2.  \nIn Seedance 2, use direct animation from the character artwork (image-to-video) instead of storyboarding when you want a faster workflow.",
   "translations": {
     "es": {

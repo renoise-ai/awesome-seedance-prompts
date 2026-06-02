@@ -11,6 +11,13 @@
     "name": "Aimi Kōda",
     "link": "https://x.com/aimikoda"
   },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Generate a fight scene from a single character image, then extend the resulting clip forward and backward, and finally combine all extended clips into one video.  \nUse the prompt extend forward @ videoref to extend a video forward from a reference clip.  \nUse the prompt extend @ videoref to extend a video (including backward extension) from a reference clip.",
   "translations": {
     "es": {

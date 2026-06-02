@@ -11,6 +11,13 @@
     "name": "marcus",
     "link": "https://x.com/marcusyul"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Entra a Dreamina → AI Video → selecciona Omni Reference → elige el modelo Dreamina Seedance 2.0 → sube referencias → escribe un prompt → genera.  \nSube el material de un vídeo tendencia como referencia y escribe un prompt para que Seedance 2.0 replique efectos, transiciones o estilo visual.  \nUsa hasta 12 archivos de referencia a la vez (imágenes, vídeos y audio) para fusionarlos en una sola salida coherente.  \nEn el prompt, usa @ para asignar el rol de cada material de referencia.  \nIndica en el prompt exactamente qué debe tomar de cada referencia para controlar qué elementos se transfieren al resultado.",
   "translations": {
     "en": {

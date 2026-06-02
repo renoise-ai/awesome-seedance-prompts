@@ -10,6 +10,14 @@
     "name": "OscarAI",
     "link": "https://x.com/Artedeingenio"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Create a character sheet and a storyboard first, then upload both images to Seedance 2.0 to lock character design and shot progression.\n\nSpecify duration and continuity explicitly (e.g., 15-second continuous single-shot, no cuts, no scene transitions) to enforce an unbroken take.\n\nTell Seedance to reference the exact character design from the character sheet by listing defining traits (hair, skin, outfit, accessories, proportions/expressions) to maintain consistency.\n\nInstruct the model to follow the exact progression and composition language of the storyboard panels to match your planned framing and beats.\n\nBreak the prompt into timestamped segments (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) with specific camera moves and actions to control pacing and choreography.\n\nAdd an explicit “Final frame” description to steer the ending composition and last image.",
   "translations": {
     "es": {

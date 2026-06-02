@@ -10,6 +10,15 @@
     "name": "Kiki",
     "link": "https://x.com/Mayz1169"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Game UI",
+    "Tutorial"
+  ],
   "tips": "Use the first frame as an exact visual anchor/identity reference to preserve the character’s anime look across the whole video (explicitly instruct: do NOT turn her into a real human; keep same silhouette/proportions/expression).  \nGenerate a 10-second vertical 9:16 video and specify the intended format/style (TikTok LIVE smartphone POV from a customer seat).  \nTo get realistic phone-footage motion, prompt for handheld slight shakiness plus autofocus breathing, tiny exposure adjustments, mild HDR processing, subtle sensor noise, slight JPEG compression artifacts, tiny chromatic aberration, high-ISO grain, and occasional highlight clipping.  \nIf you want “anime character in real world,” explicitly set the environment as photorealistic while keeping the character fully anime-styled and instruct that bystanders treat it as normal.  \nPrevent overly polished outputs by adding negatives like Not cinematic, Not glossy, Not overly clean and describing a cramped, cluttered small-business interior with specific props.  \nControl foreground composition by prompting specific occluders/framing elements (table edge, spoon in customer hand, water glass, drink cup, customer bag partially visible).  \nImprove naturalism by listing continuous, mundane micro-actions for the character over the full duration (idle blinking/breathing, subtle hair/apron movement, slow working motions, brief glance to camera, tiny awkward pause).  \nTo add a livestream feel, prompt an English-only TikTok LIVE UI overlay (LIVE badge, viewer count, hearts/likes, scrolling comments, gift notifications, follow button, comment bar) and provide example English comments to generate.  \nSet motion pacing explicitly to slow/observational/accidental-feeling and forbid dramatic camera moves, cinematic edits, and music-video energy.",
   "translations": {
     "es": {

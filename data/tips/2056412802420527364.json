@@ -11,6 +11,14 @@
     "name": "Insomnia",
     "link": "https://x.com/insomnia_vip"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Generate a hyper-realistic UGC-style clip in Seedance 2.0 by starting with a single text prompt.\n\nUse Seedance’s Multi-Angles tool to rotate and tilt the camera after the image is generated to get different shots without re-generating the scene.\n\nAdjust styling or product placement by lassoing a specific object (e.g., sunglasses) and dragging it to a new position in the scene.\n\nCreate consistency for an AI influencer by generating multiple angles, expressions, poses, and reference shots of the same character, then reuse those references across future videos.",
   "translations": {
     "es": {

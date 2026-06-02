@@ -11,6 +11,13 @@
     "name": "PJ Ace",
     "link": "https://x.com/PJaccetturo"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Generate the first voice in Seedance by prompting a specific accent/style (e.g., evil, mean British accent), then reuse that generated voice print as a vocal template for future episodes instead of using raw audio files.  \nConvert your source audio into a solid black-screen video and use that as the reference input, since Seedance handles black videos with audio better than .mp3 for lip sync.  \nUse a clean, “flat” source audio clip with no background noise so Seedance can add appropriate environmental reverb automatically based on your visual location prompt.  \nUse the black-video reference to preserve the voice print, and put the exact dialogue lines plus emotion cues (whispering/shouting/sarcasm) in the text prompt to control performance.  \nKeep total reference videos within Seedance’s 15-second cap; for multi-character scenes, truncate each character’s black-video reference to 3–5 seconds to lock in identity while staying under 15 seconds total.",
   "translations": {
     "es": {

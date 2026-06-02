@@ -11,6 +11,13 @@
     "name": "BMX",
     "link": "https://x.com/bmx_ai13"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Turn a single still image into a cinematic motion sequence by using this workflow: Image → GPT Image 2 Storyboard → Seedance 2.0.",
   "translations": {
     "es": {

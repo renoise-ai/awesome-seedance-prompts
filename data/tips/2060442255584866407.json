@@ -11,6 +11,13 @@
     "name": "marcus",
     "link": "https://x.com/marcusyul"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Entra a Dreamina y ve a AI Video para generar con Seedance.  \nSelecciona Omni Reference antes de elegir el modelo.  \nElige el modelo Dreamina Seedance 2.0 para la generación de video.  \nSube referencias, escribe el prompt y genera el video.  \nEn el prompt, usa @ para asignar el rol de cada material de referencia.",
   "translations": {
     "en": {

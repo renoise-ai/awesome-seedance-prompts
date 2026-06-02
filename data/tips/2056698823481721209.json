@@ -11,6 +11,13 @@
     "name": "Rukon",
     "link": "https://x.com/Rukon__Kholifa"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial"
+  ],
   "tips": "Upload your product image into Renoise Canvas and use Image-to-Image to generate multiple cinematic variants (e.g., dark void with RGB glow, cyberpunk neon city, fire & smoke, frozen ice crystal, deep galaxy space).  \nConnect the generated image nodes together into a single Video node to sequence them into one video.  \nWrite one single prompt in Canvas and let Seedance 2.0 generate a full ~15-second cinematic video automatically from the connected nodes (no timeline/editing software needed).",
   "translations": {
     "es": {

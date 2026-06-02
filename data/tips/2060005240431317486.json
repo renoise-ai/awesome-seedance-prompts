@@ -10,6 +10,13 @@
     "name": "Emily",
     "link": "https://x.com/IamEmily2050"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use shorter prompts in Seedance V2 because long prompts may be rewritten by a system prompt and lose intent.  \nChoose a platform with a strong system prompt that preserves the intent of long prompts to get better results with Seedance V2.",
   "translations": {
     "es": {

@@ -10,6 +10,14 @@
     "name": "Alex Prompter",
     "link": "https://x.com/alex_prompter"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Slow-Mo"
+  ],
   "tips": "Add cinematic or 4K at the end of your Seedance 2.0 prompt to consistently improve output quality  \nInclude slow motion in the prompt to get smoother, more controlled movement  \nPut your subject in the first 20–30 words of the prompt because Seedance weights the beginning most  \nFor image-to-video, prompt only MOTION and CAMERA; don’t re-describe what’s already in the image  \nStart with 5–10 second clips, lock a single shot first, then expand the sequence afterward",
   "translations": {
     "es": {

@@ -11,6 +11,14 @@
     "name": "DeepTechTR 🇹🇷",
     "link": "https://x.com/DeepTechTR"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
   "tips": "Bir şehir manzarası görseli yükleyip görüntü üzerinde uçuş rotasını çizerek Seedance 2.0’a drone kamera yolunu doğrudan kontrol ettirin  \nRotayı çizdikten sonra hız (speed) ve kamera hareketini (camera movement) ayrıca belirterek uçuş dinamiğini ayarlayın  \nArka plan müziğini prompt’ta tarif ederek (mood/genre/tempo) videonun sinematik atmosferini müzikle yönlendirin  \nFPV şehir uçuşu için rotayı şu sekansla planlayın: alçaktan geçiş → bina boyunca yükselme → çatı/üst yapıdan geçiş → bina etrafında dalış → nehir/ana hat üzerinden süzülme → hedef yapıya yaklaşma → etrafında yükselerek tur atma",
   "translations": {
     "en": {

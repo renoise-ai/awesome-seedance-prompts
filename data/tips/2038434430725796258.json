@@ -11,6 +11,13 @@
     "name": "Leo ☄️",
     "link": "https://x.com/AIByLeo"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use Seedance’s reference-based generation by adding up to 12 references (images, video, audio, text) so the model learns the style instead of relying only on prompts.  \nRemix a viral format by supplying reference examples so Seedance can learn camera movement, visual pacing, and editing rhythm for your new video.  \nGenerate multi-shot scenes (not just a single clip) by prompting Seedance for multi-shot sequences.  \nExtend an existing video using Seedance’s AI story continuation to keep the flow consistent across the added segment.  \nIn Dreamina, select Dreamina Seedance 2.0, then use Omni Reference and type @ to attach your reference assets to the prompt.",
   "translations": {
     "es": {

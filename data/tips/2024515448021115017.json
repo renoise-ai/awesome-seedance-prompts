@@ -10,6 +10,15 @@
     "name": "hedoήist",
     "link": "https://x.com/hedo_ist"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Generate a consistent character by uploading one photo to Nano Banana and prompting it to output multiple angles of the character for use in Seedance 2.0/Kling 3.0.  \nFor dynamic drone action scenes, add several distinct scenarios/locations to the prompt so the shot can travel through them and feel more spectacular.  \nCreate a transition shot by prompting for a single-take drone navigation that flies over multiple scenes from beginning to end, and insert it as an extra element between your start and end scenes.  \nUse a start frame + end frame workflow (with character/elements included) and run it with a precise, synthesized prompt to control the action flow.",
   "translations": {
     "es": {

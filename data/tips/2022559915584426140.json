@@ -11,6 +11,15 @@
     "name": "Vadoo AI",
     "link": "https://x.com/vadooai"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "VFX",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Generate the character on a green screen using Seedance 2.0 so you can isolate the subject from the background.  \nKey out the green-screen background to produce a fully transparent character layer for compositing.  \nAudition multiple cinematic background plates behind the keyed character to iterate on the final scene quickly.",
   "translations": {
     "es": {

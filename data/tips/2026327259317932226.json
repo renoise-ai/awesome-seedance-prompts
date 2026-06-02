@@ -11,6 +11,13 @@
     "name": "The AI Colony",
     "link": "https://x.com/TheAIColony"
   },
+  "tags": [
+    "Product Ad",
+    "Fitness",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Upload raw workout clips directly into NemoVideo (powered by Seedance 2.0) as unstructured input, then have it analyze and rebuild pacing instead of manually pre-structuring the edit  \nUse NemoVideo’s Inspiration Center to pull from proven high-retention fitness video structures to set pacing and shot order  \nRun One-click Fast Editing to automatically recut the footage with controlled momentum in seconds  \nUse Talk to Edit prompts to refine tempo, tighten transitions, adjust subtitle rhythm, and add subtle zoom keyframes to match the intensity curve",
   "translations": {
     "es": {

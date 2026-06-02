@@ -11,6 +11,14 @@
     "name": "pratish",
     "link": "https://x.com/pratishhhhh"
   },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Anime 2D",
+    "Sci-Fi",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use reference images strictly as visual anchors for character identity and cockpit mood, and explicitly instruct Seedance not to recreate the reference portrait compositions or centered framing.  \nAssign specific reference images to specific purposes (e.g., image1–2 for male pilot design/lighting, image3–4 for female pilot/helmet styling, image5–6 for environment palette like sky/cloud/ocean colors).  \nAdd a framing rule in your prompt that forces dynamic anime cockpit angles (side profiles, over-shoulder) and exterior jet compositions that are spatially incompatible with the reference portraits.  \nSpecify a shot-by-shot storyboard with timecodes, camera moves, action, lighting, VFX, and SFX to control pacing and continuity across a 15-second Seedance video.  \nFor a retro 90s anime look, include style keywords like hand-painted cel-shading, thick ink lines, flat hard-shadow fills, photochemical 35mm anime texture, VHS chroma bleed, and high-contrast chiaroscuro.  \nReduce temporal artifacts by explicitly prompting to avoid jitter, temporal flicker, distorted anatomy, inconsistent facial features, chaotic composition, frozen reference poses, excessive camera shake, and bent limbs.  \nStabilize character animation by prompting “held anime poses with selective movement,” keeping cockpit facial acting minimal while making exterior jet shots fluid and aggressive.",
   "translations": {
     "es": {

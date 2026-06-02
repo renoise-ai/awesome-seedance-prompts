@@ -11,6 +11,15 @@
     "name": "DStudioproject",
     "link": "https://x.com/D_studioproject"
   },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Product Ad",
+    "Beauty",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Attach a single reference image in Arcads and give a clear direction (e.g., create a seamless cinematic commercial combining snacks, fashion, drinks, sports, and skincare with clean studio vibes) to have the agent auto-generate multiple ad directions in one workflow using GPT Image 2 × Seedance 2.",
   "translations": {
     "es": {

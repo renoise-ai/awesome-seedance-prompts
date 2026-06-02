@@ -10,6 +10,13 @@
     "name": "Framer 🇱🇹",
     "link": "https://x.com/Framer_X"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Start with a source image and refine it in Midjourney before generating in Seedance 2.0 to lock in the cartoon style/colors/shapes.\n\nUse [cut] in your Seedance prompt to define multiple sequential shots within a single generation.\n\nInclude No music in the prompt to generate silent clips you can score later.\n\nAfter generating the first clip, take screenshots of the character and key props (e.g., the dashboard flower) and upload them as references in Seedance to keep designs consistent across new shots.\n\nGenerate the next sequence by uploading the reference screenshots and prompting the continuation with [cut]-separated shots.\n\nAdd cartoonish background music in post and stitch the generated clips together in CapCut to finish the cartoon.",
   "translations": {
     "es": {

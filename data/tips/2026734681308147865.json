@@ -11,6 +11,13 @@
     "name": "Alejandro Martinez | IA",
     "link": "https://x.com/copyelpadrino"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Upload multiple video clips as the prompt (e.g., for a travel vlog on location) to have NemoVideo/Seedance 2.0 structure and reconstruct the edit from your footage.  \nUse chat-to-edit instructions instead of timeline editing: ask it to add animated subtitles.  \nUse chat-to-edit instructions to insert B-roll at key moments.  \nUse chat-to-edit instructions to align the audio with the rhythm/beat.",
   "translations": {
     "en": {

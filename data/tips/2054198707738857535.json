@@ -11,6 +11,14 @@
     "name": "Nuri Yıldız",
     "link": "https://x.com/nouryyildiz"
   },
+  "tags": [
+    "Auto",
+    "Racing",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Upload a character reference to keep the subject consistent across the generated video.  \nAdd a storyboard reference to guide shot composition and sequence for Seedance 2 generation.  \nPaste your Seedance 2 prompt and set the output duration to 15 seconds to generate a motorsport broadcast-style clip.",
   "translations": {
     "es": {

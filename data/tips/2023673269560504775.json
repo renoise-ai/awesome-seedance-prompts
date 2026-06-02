@@ -10,6 +10,15 @@
     "name": "willie",
     "link": "https://x.com/ReflctWillie"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "Transformation"
+  ],
   "tips": "Use a face photo reference to lock the model’s facial features, add multiple clothing image references, and include a reference video to transfer its fisheye lens + ghosting/flicker “glitch” visual style.  \nPrompt the model to cycle through outfits by referencing specific clothing images (e.g., images 2–6) and specify a different pose/expression for each outfit (playful, cool, cute, surprised, swagger).  \nInstruct camera action explicitly (e.g., “move close to the lens”) and request a cut/shot change on each outfit swap (“each change is accompanied by a cut”).",
   "translations": {
     "es": {

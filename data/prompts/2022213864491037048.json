@@ -11,6 +11,13 @@
     "name": "Sharon Riley",
     "link": "https://x.com/Just_sharon7"
   },
+  "tags": [
+    "Story",
+    "Heartwarming",
+    "Photoreal",
+    "Realistic World",
+    "Macro"
+  ],
   "translations": {
     "es": {
       "content": "{\n  \"title\": \"Escultura de Madera de Padre y Bebé a Medio Terminar\",\n  \"style\": \"Hiperrealista, fotorrealista, cinematográfico\",\n  \"scene\": {\n    \"location\": \"Taller de carpintería rústico\",\n    \"lighting\": {\n      \"type\": \"Luz natural del sol\",\n      \"source\": \"Ventana\",\n      \"mood\": \"Cálido, emocional, conmovedor\"\n    },\n    \"atmosphere\": \"Profundidad de campo cinematográfica con desenfoque suave de fondo\"\n  },\n  \"subject\": {\n    \"type\": \"Escultura de madera\",\n    \"inspiration\": \"Padre real sosteniendo a su bebé\",\n    \"stage\": \"Tallado a medio terminar\",\n    \"details\": {\n      \"wood_grain\": \"Textura natural claramente visible\",\n      \"facial_expression\": \"Cuidadosamente moldeada, emocional y realista\",\n      \"pose\": \"Padre sosteniendo suavemente al bebé\"\n    }\n  },\n  \"action\": {\n    \"sculptor\": \"Dando forma activamente a las expresiones faciales\",\n    \"tools\": \"Herramientas de tallado tradicionales visibles en la mano\"\n  },\n  \"visual_details\": {\n    \"focus\": \"Artesanía altamente detallada\",\n    \"texture\": \"Fibras de madera realistas y marcas de tallado\",\n    \"camera_effect\": \"Profundidad de campo reducida, encuadre cinematográfico\"\n  },\n  \"quality\": \"Ultra detallado, 8K, render altamente realista\"\n}"

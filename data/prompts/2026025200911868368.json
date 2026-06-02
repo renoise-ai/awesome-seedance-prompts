@@ -11,6 +11,12 @@
     "name": "Hack The Movies",
     "link": "https://x.com/HacktheMovies"
   },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Fantasy"
+  ],
   "translations": {
     "es": {
       "content": "Scorpion y Subziro golpean mucho."

@@ -11,6 +11,14 @@
     "name": "Proyecto Hygge",
     "link": "https://x.com/ProyectoHygge"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Planifica primero con un storyboard y luego convierte ese storyboard en video usando Seedance 2.0 en lugar de empezar solo con un prompt.  \nGenera frames del storyboard con GPT-image-2, ordénalos y refina escenas en un canvas tipo Figma (Topview Canvas) y después expórtalos a Seedance 2.0 para generar el video.",
   "translations": {
     "en": {

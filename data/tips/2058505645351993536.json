@@ -11,6 +11,15 @@
     "name": "AvisMelodieux",
     "link": "https://x.com/AvisMelodieux"
   },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Remove the initial fight prompt and instead add lots of character references, then prompt Seedance 2.0 to “do whatever it wants” while syncing the video to a Suno K‑Pop track.\n\nAdd a clear stake/objective (e.g., a chase after someone holding a potato) to create a stronger music-video narrative when generating with Seedance 2.0.",
   "translations": {
     "es": {

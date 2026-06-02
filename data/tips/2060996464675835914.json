@@ -11,6 +11,17 @@
     "name": "John",
     "link": "https://x.com/johnAGI168"
   },
+  "tags": [
+    "Food",
+    "Cooking",
+    "Product Ad",
+    "Home",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation",
+    "VFX"
+  ],
   "tips": "在Seedance 2.0提示词里明确分段时间结构：前10秒设定为高压悬疑惊悚大片风格，最后5秒强行切入明亮的沙雕美食/家电广告风格以制造反差  \n用提示词强调“生死危机氛围+日常做饭场景”的核心创意，把极端紧张的叙事包装在普通厨房动作上  \n在提示词中指定“极端灯光突变”作为转场手段（从阴暗压迫到亮堂广告光）来强化喜剧落差  \n加入“服装错位”与“演员夸张表情/颜艺”作为可控元素，用角色造型与表演的突兀变化制造爆笑效果",
   "translations": {
     "en": {

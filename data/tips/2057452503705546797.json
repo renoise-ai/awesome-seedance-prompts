@@ -11,6 +11,14 @@
     "name": "Kiki",
     "link": "https://x.com/Mayz1169"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Anime 2D",
+    "Fantasy",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate a detailed character sheet in GPT Image 2 (turnarounds, expression sheet, costume/accessory close-ups, action poses, props, palette, typography/layout) and then use that design as the visual basis for Seedance 2 animation.\n\nUse style anchors in your prompt to lock the “Eastern action” look (cinematic anime-inspired kung fu concept art, ink-wash/watercolor texture, minimalist parchment background, soft monochrome earth-tone palette, premium ArtStation/AAA presentation).\n\nSpecify exact wardrobe, age, and pose details (e.g., 5-year-old Wing Chun prodigy, white kung fu jacket with frog buttons, loose black pants, wrist wraps, Wing Chun guard stance) to keep character consistency across frames.\n\nInclude a negative prompt targeting common failure modes (blurry/low quality, bad anatomy/extra fingers, distorted hands/pose, messy composition, flat lighting) and exclude unwanted styles (cyberpunk/neon, sci‑fi armor, chibi, modern streetwear, horror).",
   "translations": {
     "es": {

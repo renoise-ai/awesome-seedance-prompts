@@ -11,6 +11,13 @@
     "name": "BMX",
     "link": "https://x.com/bmx_ai13"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 (on yapper_so) to turn an initial concept into a storyboard and then generate the final video in Seedance.",
   "translations": {
     "es": {

@@ -10,6 +10,15 @@
     "name": "Kōda",
     "link": "https://x.com/aimikoda"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Anime 2D",
+    "Realistic World",
+    "FPV & Aerial",
+    "POV",
+    "Tutorial"
+  ],
   "tips": "Use a storyboard reference as the authoritative shot blueprint, but explicitly instruct Seedance not to render the storyboard sheet and to ignore borders/panel frames/text/labels/layout elements.  \nTreat each storyboard panel as a sequential beat within a single continuous unbroken shot by prompting “each panel = one beat inside one continuous shot.”  \nLock continuity by specifying one continuous rear-chase handheld FPV camera with no cuts.  \nControl pacing by calling out a single speed ramp at a specific beat, then explicitly instruct “speed snaps back” afterward.  \nIncrease style consistency by defining a “Final style” block with concrete descriptors (e.g., 16:9, hyper-realistic anime cel shading, painterly backgrounds, warm key light from left + cool skylight from right, haze/pollen, shallow reactive lens refocus, deep parallax).  \nUse a character reference and name the subject (e.g., Felicita, the fox girl) to keep character identity consistent across the shot.",
   "translations": {
     "es": {

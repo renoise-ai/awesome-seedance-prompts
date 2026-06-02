@@ -11,6 +11,14 @@
     "name": "László Gaál",
     "link": "https://x.com/laszlogaal_"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "In Seedance 2.0 Agent mode, drop in mixed Omni references (images/videos/sounds) without explicitly tagging each one; the agent will infer how to use them.  \nTo enforce a specific camera move, generate a 3D scene and predefined camera movement in Blender (e.g., via MCP+Claude), then use a starting frame reference (even if it doesn’t perfectly match the 3D first frame) and have Seedance apply that camera movement for more controlled generations.",
   "translations": {
     "es": {

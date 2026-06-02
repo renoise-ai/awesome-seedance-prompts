@@ -11,6 +11,13 @@
     "name": "Gumvue Studio",
     "link": "https://x.com/GumVue"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use a Seedance 2.0-focused Custom GPT to generate shot-by-shot ad prompts with timestamps for a structured commercial sequence  \nInclude character emotions, acting, and dialogue in your Seedance 2.0 prompts to improve performance and storytelling  \nUse professional film camera language (angles, movement, pacing) in Seedance 2.0 prompts to achieve a high-end TV commercial look  \nGenerate consistent, production-ready prompts for ads/branded content by standardizing your Seedance 2.0 prompt format via a dedicated prompt-generator GPT",
   "translations": {
     "es": {

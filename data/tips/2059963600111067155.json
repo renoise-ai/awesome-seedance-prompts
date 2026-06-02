@@ -11,6 +11,14 @@
     "name": "Cia0",
     "link": "https://x.com/Cia0_exe"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Prepare an image reference/character sheet first (you can generate it in GPT 2.0/ChatGPT) to use as Seedance 2.0 visual guidance.  \nIn Claude, generate a Seedance prompt using this template: Create a Seedance prompt for character [name / upload reference sheet], scene [describe what happens], location [place], mood [atmosphere], duration [seconds], scene changes every [X] seconds.  \nIn GPT 2.0, create a cinematic storyboard with this prompt: professional cinematic storyboard board layout, image reference sheet, shot breakdown, action graph, movement arrows, camera angle diagram, 5 clips, each 2 seconds, 5 keyframes per clip, Seedance 2.0 optimized [prompt scene from claude].  \nIn Seedance 2.0, upload the storyboard as @Image1 and prompt: @Image1 = Storyboard reference — follow all 25 panels, camera directions, arrow movements, and action sequence exactly as shown. [prompt scene from Claude].",
   "translations": {
     "es": {

@@ -11,6 +11,13 @@
     "name": "C’est La Vie | AI Director",
     "link": "https://x.com/sailorv321"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "GPT Image 2で広告ポスター（静止画）を作成し、その画像をそのままSeedance 2.0に渡して動画化するワークフローでCM制作を行う",
   "translations": {
     "en": {

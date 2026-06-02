@@ -11,6 +11,13 @@
     "name": "John",
     "link": "https://x.com/johnAGI168"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "参考图里用 @ 指定女主角作为唯一身份参考，要求脸型、五官、发型、身材比例、穿搭风格和气质在全程保持一致  \n在 Seedance 2.0 提示词中加入整体风格：真实 iPhone 以获得更写实的手机拍摄质感",
   "translations": {
     "en": {

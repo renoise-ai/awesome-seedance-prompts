@@ -11,6 +11,13 @@
     "name": "Proyecto Hygge",
     "link": "https://x.com/ProyectoHygge"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Entra a https://t.co/9i4rXLRnQd y ve a la sección Video de IA para generar video con Seedance 2.0 dentro de Dreamina  \nEn Omni Reference, selecciona Dreamina Seedance 2.0 para activar el modelo correcto antes de generar  \nSube imágenes y/o vídeos como referencia en Omni Reference para guiar coherencia, movimientos y transiciones del video  \nEscribe el prompt después de cargar las referencias y luego pulsa Generar para obtener el resultado  \nAprovecha la creación multimodal usando imágenes, videos, audio y texto simultáneamente como referencias para experimentar más rápido  \nSube hasta 12 archivos a la vez como referencias para iterar ideas visuales en una sola generación",
   "translations": {
     "en": {

@@ -11,6 +11,13 @@
     "name": "タナベ | 動画・音声生成AI解説",
     "link": "https://x.com/tanabe_fragm"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Historical",
+    "Tutorial"
+  ],
   "tips": "Seedance 2.0で参照画像＋同一プロンプトを使って生成し、Gemini Omni Flashと出力クオリティを比較する  \n参照画像は中世ヨーロッパの村の斜め上から見た俯瞰図（地図としても役立つ構図）を生成してSeedance 2.0の入力に使う  \n参照画像生成プロンプト例：中世ヨーロッパの村の画像を作って。地図としても役立ちそうな、斜め上から見た俯瞰図。  \nルート（移動経路）指示はCanvaで参照画像に加工してからSeedance 2.0に渡す",
   "translations": {
     "en": {

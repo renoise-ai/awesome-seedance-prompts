@@ -11,6 +11,14 @@
     "name": "Anima",
     "link": "https://x.com/Anima_Labs"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use Seedance’s centralized node-based workflow to import 2D characters, convert them to 3D, create reference shots, and test animations in one graph so you can iterate quickly by swapping models.",
   "translations": {
     "es": {

@@ -11,6 +11,13 @@
     "name": "Creative.Edge CL+",
     "link": "https://x.com/CreativeEdge_CL"
   },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Codexに小〜中規模劇場の音響としてRT60を約1.2〜1.6秒、初期反射を20〜50msに指定してからSeedance 2.0で再現する",
   "translations": {
     "en": {

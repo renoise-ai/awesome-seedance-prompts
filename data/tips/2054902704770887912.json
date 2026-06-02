@@ -11,6 +11,13 @@
     "name": "Finn McKenty",
     "link": "https://x.com/thefinnmckenty"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Generate base images and characters in Midjourney, then use Nano Banana Pro and GPT Image 2 inside Figma Weave to create edits and new angles before animating.  \nFor most scenes, use Seedance Reference mode (about 80%) and supplement with Grok (about 20%) within Figma Weave.  \nUse jboogx_creative’s Seedance prompt creator with Claude to build Seedance prompts.  \nIn Figma Weave, keep the workflow simple by feeding image inputs into Seedance/Grok for each scene in the story.",
   "translations": {
     "es": {

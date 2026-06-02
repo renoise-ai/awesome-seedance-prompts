@@ -10,6 +10,13 @@
     "name": "岚叔",
     "link": "https://x.com/LufzzLiz"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "用 Seedance 2.0 时，利用平台每天赠送的 60 积分来规划生成时长：大约够生成 1 条约 12 秒的视频。  \n用 Seedance 的 8 要素结构化提示词公式来写 prompt（来源：火山方舟 53 页 PDF），不要套用 Sora/Kling/Wan 等其他模型的公式模板。  \n在本地 Claude Code 安装 Seedance 专用 skills（seedance-prompter / seedance-storyboard / seedance-debugger），用 seedance-prompter 生成 8 要素结构化 prompt、用 seedance-storyboard 把剧情拆成 3–5 个分镜、用 seedance-debugger 按 12 类问题诊断并输出修复版 prompt。  \n用仓库的 Cross-Model Matrix 先按“场景”查看 Seedance 在该场景下的官方写法，再复制对应 prompt 作为起点进行改写（例如产品广告/双人对话/物理动作等 10 个场景）。  \n用仓库的 Prompt Browser 通过“模型 + 分类 + 标签多选”筛选 Seedance 2.0 的已验证 prompt，并用可分享的 URL 过滤状态把同一套筛选结果发给协作者复用。",
   "translations": {
     "en": {

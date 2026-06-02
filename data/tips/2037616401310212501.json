@@ -10,6 +10,14 @@
     "name": "Photogenic Weekend",
     "link": "https://x.com/PhotogenicWeekE"
   },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase",
+    "Tutorial"
+  ],
   "tips": "Use the same prompt across Seedance 2.0, LTX-2.3, and Grok (API/720p) to directly compare output quality on an HD 15-second MV.  \nFor LTX-2.3, apply x2x2 upscale to increase resolution when generating the same prompt.  \nGenerate via Grok using the API at 720p resolution for the same-prompt comparison.",
   "translations": {
     "en": {

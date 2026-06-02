@@ -11,6 +11,13 @@
     "name": "HeyOz",
     "link": "https://x.com/HeyOz_AI"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use a workflow where Claude writes a cinematic start-frame prompt for GPT Image 2, then use the generated anchor shot to lock in a consistent AI creator and scene before animating in Seedance.  \nHave Claude generate a scene-by-scene video prompt from the same product + ad angle, then paste that into Seedance to render a 5–6 second clip.  \nFeed Claude only your product and ad angle as the single input, and let it output both the start-frame (for GPT Image 2) and the scene-by-scene prompt (for Seedance) to keep creator/location/lighting consistent across the final cut.",
   "translations": {
     "es": {

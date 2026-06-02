@@ -10,6 +10,15 @@
     "name": "Kaiwen Li",
     "link": "https://x.com/realkaiwenli"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "Creative Asset"
+  ],
   "tips": "Generate your subject in Seedance 2.0 on a greenscreen background so you can key it out and composite it later  \nKey out the greenscreen to create transparency, then composite the Seedance subject over a new background  \nDownload and audition multiple background image options before final compositing to keep human control over the look  \nGenerate motion-graphics overlays separately (e.g., with code elements) and layer them on top of the composited video instead of baking everything into one Seedance generation",
   "translations": {
     "es": {

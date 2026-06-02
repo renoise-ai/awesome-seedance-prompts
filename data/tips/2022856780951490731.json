@@ -11,6 +11,13 @@
     "name": "Lena Zheng",
     "link": "https://x.com/linyi_zheng"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Give Claude the official Seedance 2.0 prompt guide(s) and ask it to generate a reusable “skill” for writing Seedance prompts.  \nUse both the Seedance 2.0 prompt guide and the 小云雀 (Seedance 2.0-based) prompt guide as inputs to Claude to improve the skill it generates.  \nCreate a 15s story workflow by having Claude write a skill that takes 1–5 uploaded images and outputs an imagined 15-second storyline with dialogue for Seedance.  \nIteratively refine Claude’s Seedance “skill” by chatting and adjusting its behavior/output style until it matches your desired format and results.  \nTry generating a video with no text prompt by providing a single reference image plus a Claude storytelling skill to drive the Seedance 2.0 generation.",
   "translations": {
     "es": {

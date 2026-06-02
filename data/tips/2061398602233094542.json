@@ -11,6 +11,13 @@
     "name": "AI駆動塾",
     "link": "https://x.com/L_go_mrk"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Claudeで冒頭1〜2秒用のフックを10種類以上量産し、Seedanceで同一構成の動画をフック差し替えで量産する  \nSeedanceでUGC向け動画を作るときは映像クオリティを上げすぎず、フックとCTAの一貫性（感情→解決→CTA）を優先して生成する  \nフックを感情カテゴリ（例：スマホ依存/習慣化/朝ルーティン等）に分類し、カテゴリごとにCTAテンプレを用意してSeedance生成動画の台本に差し込む  \n15〜25秒の固定台本テンプレ（問題提起型/BeforeAfter型/リスト型など）を作り、SeedanceではフックとCTAだけを入れ替えて量産する  \nHiggsfieldでAIキャラを先に生成し、そのキャラ前提の台本（フック/CTA）を作ってからSeedanceで動画生成に回す",
   "translations": {
     "en": {

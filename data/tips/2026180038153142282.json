@@ -11,6 +11,14 @@
     "name": "852話(hakoniwa)",
     "link": "https://x.com/8co28"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Anime 2D",
+    "Realistic World",
+    "Transformation",
+    "Tutorial"
+  ],
   "tips": "Seedance 2.0のOmni Referenceで、参照画像（左上）と参照動画（右上）を入力してアクションシーンのモーションをアニメ絵トレースし、出力動画（下）を生成する",
   "translations": {
     "en": {

@@ -11,6 +11,14 @@
     "name": "ComfyUI",
     "link": "https://x.com/ComfyUI"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Transformation",
+    "Tutorial"
+  ],
   "tips": "Use Seedance 2.0 inside ComfyUI to create button-press transformation videos where a cube/sphere/capsule/custom object morphs into a person or item  \nUse a workflow that auto-generates matching first and last frames to keep the environment and style consistent across the transformation effect",
   "translations": {
     "es": {

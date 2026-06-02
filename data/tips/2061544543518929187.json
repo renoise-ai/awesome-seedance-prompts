@@ -11,6 +11,14 @@
     "name": "Pan",
     "link": "https://x.com/sebatheepan"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Generate character sheets using ChatGPT’s image generator, then feed those character sheet images into Seedance 2.0 to animate them into video.",
   "translations": {
     "es": {

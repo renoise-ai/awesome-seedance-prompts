@@ -10,6 +10,13 @@
     "name": "Tanay🔳",
     "link": "https://x.com/TanayVasishtha"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use Seedance 2.0’s multimodal inputs by uploading 2–3 character images (to lock identity), 1–2 short reference videos (to copy camera movement/editing pace), and an audio file (to drive mood/beat), then keep the text prompt short and focused on story/action.  \nKeep total references to ~6–7 assets even though Seedance allows up to 12, because quality reportedly drops and the model starts mixing elements when you push toward 10–12 references.  \nUse reference video clips under 15 seconds (the model only processes the first 15 seconds), and build references around specific shots/camera moves rather than one long clip.  \nWhen extending beyond the standard 5–12 second generations, do it in multiple steps with careful prompt continuity to maintain consistency; expect noticeable character drift if you push past ~40 seconds total.  \nExport at native 2K (2048×1080) and 30fps for platform-ready output and easier editing alongside 30fps phone footage.  \nPrepare character sheets for narrative work by collecting 3–4 clear images per character from different angles with consistent lighting/backgrounds to improve cross-shot consistency.  \nStart building a reference library of 20–30 short (<10s) camera-move clips (e.g., smooth push-ins, orbit shots, hero angles, fast-cut patterns) and organize them by type for quick reuse.  \nPrioritize references for character consistency + camera movement + audio first, and leave less critical details to text to avoid overloading the reference system.",
   "translations": {
     "es": {

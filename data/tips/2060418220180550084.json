@@ -11,6 +11,13 @@
     "name": "underwood",
     "link": "https://x.com/underwoodxie96"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Define explicit camera movement in your Seedance prompt (e.g., dolly-in/pan/tilt/orbit) when animating from a single starting image to avoid a static-image perspective.",
   "translations": {
     "es": {

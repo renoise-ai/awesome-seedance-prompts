@@ -11,6 +11,13 @@
     "name": "ぺらこ｜ AIで描く建設業",
     "link": "https://x.com/genbaAI"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "複雑で情報量が多い背景（ごちゃごちゃした場所）ではルート（カメラパス）指定の効果が薄い可能性があるため、ルート指定なしでも試す  \n元画像に存在しないキャラを2Dアニメ風で追加する場合は巨大化・平面化しやすいので、元画像に要素を入れるかスタイル指定を弱めて破綻を避ける",
   "translations": {
     "en": {

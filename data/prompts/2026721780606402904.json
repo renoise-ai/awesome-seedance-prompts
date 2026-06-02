@@ -11,6 +11,12 @@
     "name": "Everett World",
     "link": "https://x.com/WorldEverett"
   },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World"
+  ],
   "translations": {
     "es": {
       "content": "genera un tráiler para una película de suspenso ambientada en la nevada Europa del Este. Debe presentar un montaje rápido de un detective, una historia de amor, el proceso de enamorarse y una investigación a ritmo acelerado"

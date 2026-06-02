@@ -11,6 +11,13 @@
     "name": "Curious Refuge",
     "link": "https://x.com/CuriousRefuge"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Generate a storyboard panel in GPT Image 2.0 that includes multiple shots plus exact timing breakdowns, then use that storyboard image as the input reference for Seedance 2.0 to generate the video.  \nWrite the Seedance 2.0 motion prompt to closely mirror the storyboard’s beats, framing, and timing to improve coherence across the cinematic sequence.",
   "translations": {
     "es": {

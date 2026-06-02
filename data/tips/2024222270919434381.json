@@ -10,6 +10,13 @@
     "name": "Seedance 2 News",
     "link": "https://x.com/seedance2_news"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use Seedance 2 with JSON prompts to structure your generation instructions.\nControl Seedance 2 frame by frame by specifying per-frame instructions in the JSON prompt.\nUse Omni mode on mitte_ai to generate a 15-second advertising film with Seedance 2.",
   "translations": {
     "es": {

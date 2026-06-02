@@ -11,6 +11,14 @@
     "name": "Christina｜",
     "link": "https://x.com/Christina_vzsw"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Start your animated short workflow by creating two visual development sheets, then reuse the same sheet as the reference to generate a cinematic film in Seedance 2.0  \nUse a dedicated Character Generation prompt (Step 1) to lock in character design before moving to video generation  \nGenerate a storyboard with a specific Storyboard Generation prompt (Step 2) before creating the final video  \nUse a separate Video Generation prompt (Step 3) in Seedance 2.0 to turn the storyboard/visual sheet into the final animated short",
   "translations": {
     "es": {

@@ -11,6 +11,14 @@
     "name": "Horace Dodd",
     "link": "https://x.com/horacedodd"
   },
+  "tags": [
+    "Action",
+    "Chase",
+    "3D Animation",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "translations": {
     "es": {
       "content": "Construye tomas de acción 3D complejas en Seedance utilizando una hoja de referencia de collage donante para asegurar la consistencia de personajes/estilo.  \nUsa prompts con marcas de tiempo precisas (instrucciones con códigos de tiempo) para controlar con exactitud los ritmos y la progresión dentro del video (por ejemplo, el ritmo de la persecución y la amenaza que se acerca)."

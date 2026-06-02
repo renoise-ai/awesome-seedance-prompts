@@ -11,6 +11,14 @@
     "name": "BMX",
     "link": "https://x.com/bmx_ai13"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Use a workflow of Your Image → Custom GPT Image 2.0 Storyboard → Seedance 2.0 to create cinematic 3D logo reveal videos.  \nHave a Custom GPT generate a max 12-second Seedance 2.0 cinematic logo reveal prompt based on your chosen logo concept.  \nUse the generated logo image as a reference image in Seedance 2.0 to guide the logo reveal animation.",
   "translations": {
     "es": {

@@ -11,6 +11,13 @@
     "name": "MAPUNDA",
     "link": "https://x.com/Mapunda_01"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use CapCut Video Studio’s Director Mode (Seedance 2.0 + GPT Image 2) to co-develop a full script starting from a single idea  \nUse Director Mode to visualize every character, scene, and prop to maintain consistent world-building before generating video  \nGenerate connected shot sequences in Director Mode to build story continuity across scenes  \nGuide the Director Mode agent to assemble a complete final cut end-to-end, then iterate  \nFine-tune any frame at any stage by re-prompting to adjust specific moments without restarting the whole workflow",
   "translations": {
     "es": {

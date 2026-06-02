@@ -11,6 +11,13 @@
     "name": "marcus",
     "link": "https://x.com/marcusyul"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Carga hasta 12 archivos de referencia a la vez (imágenes, vídeos y audio) en Dreamina Seedance 2.0 para fusionarlos en una sola salida coherente.  \nEn el prompt, especifica explícitamente qué elementos debe tomar de cada referencia (p. ej., estilo de la imagen 1, movimiento de cámara del vídeo 2, ritmo del audio 3) para que Seedance 2.0 los combine con precisión.",
   "translations": {
     "en": {

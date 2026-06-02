@@ -10,6 +10,13 @@
     "name": "Dheepan Ratnam",
     "link": "https://x.com/Dheepanratnam"
   },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Historical",
+    "Tutorial"
+  ],
   "tips": "Create a full character bible in ChatGPT 2.0 before generating (include a Period Drama Modernization board and a Production Design Color Script board).  \nEngineer a hyper-specific cinematic Seedance 2.0 prompt by translating every detail from the character bible/boards into the prompt to avoid random generations.  \nUse a Period Drama Modernization Board prompt in ChatGPT to define silhouette references, modern reinterpretations, fabric construction notes, hair/jewelry options, pose studies, and environment swatches, then carry those specifics into Seedance 2.0.  \nUse a Production Design Color Script Board prompt in ChatGPT to lock three environment palettes (ivory morning room, muted green corridor, deep burgundy evening interior) with lighting maps and emotional tone notes, then encode those constraints into Seedance 2.0 prompts.",
   "translations": {
     "es": {

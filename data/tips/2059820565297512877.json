@@ -11,6 +11,14 @@
     "name": "タナベ | 動画・音声生成AI解説",
     "link": "https://x.com/tanabe_fragm"
   },
+  "tags": [
+    "Product Ad",
+    "Home",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Seedance 2.0で説明書画像を参照させたい場合は、説明書画像をそのまま渡して生成テストする  \nSeedanceに渡す組み立て説明書画像はGPT Images 2.0で作り、プロンプトに「シンプルな机の組み立て説明書を作って」を使う",
   "translations": {
     "en": {

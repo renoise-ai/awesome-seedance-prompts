@@ -11,6 +11,14 @@
     "name": "el.cine",
     "link": "https://x.com/EHuanglu"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Start with a storyboard (not a single prompt): generate storyboard frames with GPT-image-2, arrange/refine scenes on a Figma-like canvas, then convert the storyboard into a Seedance 2.0 video for better control over the final film",
   "translations": {
     "es": {

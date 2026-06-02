@@ -11,6 +11,13 @@
     "name": "アヲアヒル｜AIクリエイター／プロデューサー（アヲP）",
     "link": "https://x.com/awoahiru"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Pollo AI内でGPT Image 2で広告用の静止画を生成し、その画像をSeedance 2.0に渡してそのまま動画化する（画像生成→動画化を同一ツール内で完結させる）",
   "translations": {
     "en": {

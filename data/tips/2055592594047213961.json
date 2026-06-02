@@ -11,6 +11,13 @@
     "name": "SujiPop",
     "link": "https://x.com/suji_pop"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial"
+  ],
   "tips": "Use yapper_so to run Seedance 2 for lower cost (~$1.8 per 15s 16:9 720p generation with video reference) versus $3+ on many other platforms  \nSkip storyboards/timecodes and generate using only a character sheet + background reference + content prompt to give Seedance more freedom and improve results  \nUse this base style block to enforce continuity and composition: Japanese watercolor-style full-color anime, seamless continuity, consistent character/artstyle/color/lighting, cinematic compositions, no flat angle, no perfectly centered composition, lens flare, natural facial expression (no stiff), no music (just sound effects)  \nStructure prompts as a multi-shot sequence: for each shot include Type, 1–2 lines of Action, and Camera notes (scale, movement, lighting)  \nIf you’re not good at shot planning, ask an LLM to generate the shot list (Type/Action/Camera) and paste it into the Seedance sequence prompt",
   "translations": {
     "es": {

@@ -11,6 +11,14 @@
     "name": "Antonio Costa | IA",
     "link": "https://x.com/xetgepete"
   },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial",
+    "Transformation"
+  ],
   "tips": "Usa un video simple de pelea como referencia para que Seedance 2.0 conserve la acción, el ritmo y los movimientos de cámara y los transforme en una escena nueva (p. ej., batalla de mechas) sin animación manual.  \nSube un video de combate con espadas como referencia para mantener la coreografía original y convertirla en un duelo futurista (p. ej., espadas de energía) con transferencia de movimiento precisa.  \nEn Dreamina, entra en AI Video y selecciona Omni Reference + Dreamina Seedance 2.0 para trabajar con referencias.  \nSube materiales de referencia (imágenes, videos, audio o texto) hasta 12 archivos para guiar la generación.  \nUsa @ en el prompt para indicar cómo debe utilizarse cada material de referencia.  \nDescribe explícitamente en el prompt la escena, el estilo y el movimiento que quieres generar antes de hacer clic en Generar.",
   "translations": {
     "en": {

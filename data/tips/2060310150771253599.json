@@ -11,6 +11,14 @@
     "name": "KANA",
     "link": "https://x.com/KanaWorks_AI"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Landmark",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
   "tips": "Use a short real-world clip you filmed (e.g., at Skytree) as the source and prompt Seedance 2.0 to recreate a specific After Effects “classic” effect on it.  \nRun about 2 generations/iterations to reach a usable result; expect roughly ~15 minutes total generation time for this kind of effect recreation.",
   "translations": {
     "en": {

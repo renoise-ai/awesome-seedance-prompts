@@ -11,6 +11,14 @@
     "name": "BMX",
     "link": "https://x.com/bmx_ai13"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Start with a still image, convert it into a GPT Image 2 storyboard, then animate the storyboard in Seedance 2 to turn stills into cinematic motion",
   "translations": {
     "es": {

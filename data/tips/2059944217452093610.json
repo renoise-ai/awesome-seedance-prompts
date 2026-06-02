@@ -11,6 +11,13 @@
     "name": "YokerAI",
     "link": "https://x.com/IATheYoker"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Genera primero la escena/imagen base con GPT Image 2 y luego usa Seedance 2.0 para añadir el movimiento y convertirla en un plano secuencia.  \nEn tu prompt para Seedance 2.0 especifica el tipo de toma y movimiento (plano secuencia, persecución, cámara en mano) y el cierre (beso final a cámara) para dirigir la escena.",
   "translations": {
     "en": {

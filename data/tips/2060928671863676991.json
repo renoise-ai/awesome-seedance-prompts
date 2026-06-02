@@ -11,6 +11,13 @@
     "name": "物々",
     "link": "https://x.com/Lucian0716"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "訓読みの熟語が誤読されやすいので、訓読みの漢字セリフはカタカナ表記にして入力する  \nカタカナ表記でも誤読する場合はirodori-ttsで音声を生成して差し替え編集する",
   "translations": {
     "en": {

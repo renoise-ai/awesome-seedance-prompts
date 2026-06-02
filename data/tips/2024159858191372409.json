@@ -10,6 +10,13 @@
     "name": "Framer 🇱🇹",
     "link": "https://x.com/Framer_X"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use Seedance 2.0 via the Jimeng (Chinese Dreamina) platform, and use Google Translate browser extension if you need the UI in English.  \nPick a scene from a show on YouTube, then take screenshots of every shot to use as image inputs for Seedance.  \nConvert the screenshots to a consistent anime style by uploading them to Nano Banana Pro and prompting “change the style to anime.”  \nUpload the stylized screenshots to ChatGPT and ask it to write a multi-shot prompt to drive the Seedance generation.  \nIn Jimeng, select the Seedance 2.0 setting that enables uploading up to 9 images per generation to create multi-shot sequences.  \nUpload 4–5 stylized images (up to 9 supported) and paste the ChatGPT multi-shot prompt, then tweak the prompt to better match your intended result.  \nUse the “up to 9 pics” multi-shot feature for 15s generations ($0.26/15s) or the standard multi-shot mode with 1–2 images ($0.13/15s) depending on budget.  \nRepeat generations scene-by-scene and stitch the resulting clips together in a video editor to assemble the full sequence.",
   "translations": {
     "es": {

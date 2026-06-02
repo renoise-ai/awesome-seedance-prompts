@@ -10,6 +10,13 @@
     "name": "Elaina",
     "link": "https://x.com/Elaina43114880"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Get early access by using a Chinese phone number (e.g., TextVerified/SMSPool), switching your App Store region to China, installing Douyin, then signing into jimeng.jianying.com with your Douyin account.  \nIn Seedance 2.0, use Multiframes mode (not Single-frame) to combine multiple images/videos/audio + text for maximum control.  \nPick aspect ratio based on platform: 9:16 for TikTok, 16:9 for YouTube.  \nUse the @-mention system to assign roles to each uploaded asset (e.g., @Image1 as first frame, reference @Video1 for camera movement, use @Audio1 for background music).  \nTo replicate motion/camera/editing rhythm, upload a reference clip and explicitly prompt to fully replicate @Video1’s camera movements, transitions, and specific moves (e.g., Hitchcock zoom, whip pans, orbit shots).  \nFor character consistency, explicitly declare the main character reference in the prompt (e.g., @Image3 is the main character) to keep face identity consistent across the video.  \nTo recreate a trending creative template, upload the original as @Video1 and prompt to replace the subject with your own reference image while keeping @Video1’s camera work and transitions.  \nTo extend an existing clip, prompt “Extend @Video1 by X seconds” and set the generation duration to match the amount of new footage you want.  \nWhen editing vs referencing a clip, state explicitly whether @Video1 should be edited directly or used only as a reference for a new generation.  \nFor better output quality, use high-quality reference assets (2K/4K images); blurry inputs produce blurry videos.  \nBe explicit about which attribute each reference controls (e.g., “reference @Video1’s camera movement”) rather than vaguely mentioning files.  \nCombine a character photo and a motion reference for strong results (e.g., upload a photo as @Image1 and a dance clip as @Video1, then prompt “@Image1 performs the dance from @Video1”).  \nIterate by changing one word or swapping one reference file at a time instead of rewriting the whole prompt to quickly converge on a good result.  \nFor multi-shot storytelling, write shot-by-shot instructions in one prompt (e.g., Shot 1 wide city view; Shot 2 close-up of character from @Image1) to keep a coherent sequence.  \nFor a continuous one-take, reference a sequence of images and specify a single unbroken camera move (e.g., @Image1 through @Image5, one continuous tracking shot…).",
   "translations": {
     "es": {

@@ -10,6 +10,14 @@
     "name": "Kōda",
     "link": "https://x.com/aimikoda"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Fantasy",
+    "Creative Asset",
+    "Tutorial"
+  ],
   "tips": "Add a storyboard sheet as a reference and instruct Seedance to treat it as the authoritative shot blueprint, with each panel interpreted as one sequential cinematic beat.  \nExplicitly tell Seedance not to render the storyboard sheet itself and to ignore borders, panel frames, text, labels, headers, swatches, director-strip graphics, and other layout elements.  \nAdd a character sheet as a separate reference and instruct Seedance to use it as the authoritative character reference for consistent identity across shots.  \nSpecify the output aspect ratio (e.g., cinematic 16:9) directly in the prompt.  \nWrite the video as a numbered sequence of shot beats (1–8) describing actions and key timing changes (e.g., extreme slow motion, then time snaps back) to control pacing and continuity.  \nLock the visual look with a “Final style” block listing concrete style cues (e.g., premium cinematic anime-fantasy, painterly forest depth, late-afternoon sunlight, atmospheric haze, subtle 35mm film texture, clean cel shading).",
   "translations": {
     "es": {

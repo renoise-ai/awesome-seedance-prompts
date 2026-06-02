@@ -11,6 +11,14 @@
     "name": "Ben Pierron",
     "link": "https://x.com/Ben_escrito"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
   "tips": "Start your Seedance 2.0 workflow by building a storyboard first, then convert the storyboard into video instead of prompting from scratch.  \nGenerate storyboard frames with GPT-image-2, arrange/refine them on an infinite Figma-like canvas (Topview Canvas), then use Seedance 2.0 to turn the finalized storyboard into video for more control.",
   "translations": {
     "en": {

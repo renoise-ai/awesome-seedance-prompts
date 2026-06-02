@@ -10,6 +10,13 @@
     "name": "Dheepan Ratnam",
     "link": "https://x.com/Dheepanratnam"
   },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Structure your Seedance 2.0 prompt with labeled sections (SUBJECT / ENVIRONMENT / MOOD / TIMELINE) to clearly control character design, setting, tone, and shot-by-shot action.\n\nUse a timestamped TIMELINE (e.g., 0:00–0:02, 0:02–0:04, etc.) to specify camera shots, movements (push-in, orbit, close-up tracking), and choreography beats for more directed video output.\n\nAdd explicit camera framing and motion instructions per segment (wide shot, medium floor-level shot, orbit, close-up tracking) to guide cinematography.\n\nInclude style/quality tags at the end (photorealistic, cinematic, 4K, fluorescent light) to steer the render toward a high-end look.",
   "translations": {
     "es": {

@@ -11,6 +11,13 @@
     "name": "Cartoonverse AI",
     "link": "https://x.com/CartoonverseAi"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Google Geminiに「参考資料なしでラフなイメージを生成して」と依頼して、Seedance用の初期ビジュアル案を作ってから制作を進める  \nGeminiに「10秒」「新海誠風の2Dアニメ」「[カット]で場面転換」「カメラ位置/ショット（ローアングル中距離など）」を明記して、Seedance向けのストーリー動画プロンプトを組み立てる  \nキャラやペットなど参照素材がある要素は「参考資料は用意済みなので描写不要」とプロンプトに書き、背景・カメラ・アクションに指示を集中させる  \n生成されたプロンプトは指示内容の良い点/悪い点をメモして、自分の好みに合わせて修正してからSeedanceで回す",
   "translations": {
     "en": {

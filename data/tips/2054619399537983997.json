@@ -11,6 +11,13 @@
     "name": "digital ghost",
     "link": "https://x.com/vibeeval"
   },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Use @itsPolloAI with the Seedance 2.0 engine to generate e-commerce ad–style videos with a single prompt and single output at ~$0.11 per video.\n\nFor product showcase ads, replace a 4-second shoot with a 4-second prompt to generate the clip.\n\nFor lifestyle ads, generate the model and scenes together in one output instead of hiring/calling a model.\n\nFor ad concepting, input the brand brief and generate 6 different variations in one run.\n\nIf you need Seedance 2.0 outputs cheaper, switch platforms (e.g., @itsPolloAI vs Seedance/OpenArt/Topview/Higgsfield/Freepik) since the model is the same and price differences come from platform commission.",
   "translations": {
     "en": {

@@ -11,6 +11,13 @@
     "name": "John",
     "link": "https://x.com/johnAGI168"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "用 Seedance 2.0 进行无参考的纯文生视频复刻热门短视频  \n在 prompt 里按镜头拆分并标注时间段（例如 00:00–00:01）  \n在每个镜头的 prompt 中明确景别与镜头类型（例如中全景、轻微摇摄）",
   "translations": {
     "en": {
