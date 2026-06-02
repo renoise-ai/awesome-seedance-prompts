@@ -28,7 +28,7 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 ## 🌐 View in Web Gallery
 
-**👉 [Browse all Seedance 2.0 prompts on YouWare](https://youware.com/seedance-2-prompts)**
+**👉 [Browse all Seedance 2.0 prompts on YouWare](https://renoise.ai/showcase)**
 
 | Feature | GitHub README | Gallery |
 |---------|-------------|---------|
@@ -4562,7 +4562,7 @@ Luxury beverage commercial, nostalgic Americana, premium Coca Cola campaign, cin
 
 ### 🎯 1116 more prompts not shown here
 
-**👉 [Browse all Seedance 2.0 prompts on YouWare](https://youware.com/seedance-2-prompts)**
+**👉 [Browse all Seedance 2.0 prompts on YouWare](https://renoise.ai/showcase)**
 
 ---
 
@@ -5326,7 +5326,7 @@ Create a storyboard from your source image using a Custom GPT Image 2.0 workflow
 
 ---
 
-*... and 468 more tips. [View all in Gallery](https://youware.com/seedance-2-prompts)*
+*... and 468 more tips. [View all in Gallery](https://renoise.ai/showcase)*
 
 ---
 
@@ -5348,6 +5348,6 @@ Thanks to all the creators who shared their prompts with the community.
 
 ---
 
-**🌐 [View in Web Gallery](https://youware.com/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
+**🌐 [View in Web Gallery](https://renoise.ai/showcase)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
 🤖 This README is automatically generated. Last updated: 2026-06-01T05:53:45.480Z

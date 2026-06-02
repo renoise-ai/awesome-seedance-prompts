@@ -28,7 +28,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 
 ## 🌐 🎬 ウェブギャラリーで閲覧
 
-**👉 [YouWare でプロンプトを閲覧](https://youware.com/ja/seedance-2-prompts)**
+**👉 [YouWare でプロンプトを閲覧](https://renoise.ai/showcase)**
 
 | 機能 | GitHub README | ギャラリー |
 |---------|-------------|---------|
@@ -5657,7 +5657,7 @@ Luxury beverage commercial, nostalgic Americana, premium Coca Cola campaign, cin
 
 ### 🎯 1116 件のプロンプトが非表示
 
-**👉 [YouWare でプロンプトを閲覧](https://youware.com/ja/seedance-2-prompts)**
+**👉 [YouWare でプロンプトを閲覧](https://renoise.ai/showcase)**
 
 ---
 
@@ -6572,7 +6572,7 @@ Create a storyboard from your source image using a Custom GPT Image 2.0 workflow
 
 ---
 
-*... その他 468 件のヒント。 [ギャラリーですべて表示](https://youware.com/ja/seedance-2-prompts)*
+*... その他 468 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/showcase)*
 
 ---
 
@@ -6594,6 +6594,6 @@ Create a storyboard from your source image using a Custom GPT Image 2.0 workflow
 
 ---
 
-**🌐 [🎬 ウェブギャラリーで閲覧](https://youware.com/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
+**🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/showcase)** • **📝 プロンプトを提出** • **⭐ Star する**
 
 🤖 この README は自動生成されています。最終更新： 2026-06-01T05:53:45.502Z

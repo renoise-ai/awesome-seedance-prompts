@@ -28,7 +28,7 @@
 
 ## 🌐 🎬 在画廊中查看
 
-**👉 [浏览画廊](https://youware.com/zh-CN/seedance-2-prompts)**
+**👉 [浏览画廊](https://renoise.ai/showcase)**
 
 | 功能 | GitHub README | 在线画廊 |
 |---------|-------------|---------|
@@ -4562,7 +4562,7 @@ Luxury beverage commercial, nostalgic Americana, premium Coca Cola campaign, cin
 
 ### 🎯 1116 条提示词未在此显示
 
-**👉 [浏览画廊](https://youware.com/zh-CN/seedance-2-prompts)**
+**👉 [浏览画廊](https://renoise.ai/showcase)**
 
 ---
 
@@ -5326,7 +5326,7 @@ Create a storyboard from your source image using a Custom GPT Image 2.0 workflow
 
 ---
 
-*... 以及另外 468 条技巧。 [在画廊中查看全部](https://youware.com/zh-CN/seedance-2-prompts)*
+*... 以及另外 468 条技巧。 [在画廊中查看全部](https://renoise.ai/showcase)*
 
 ---
 
@@ -5348,6 +5348,6 @@ Create a storyboard from your source image using a Custom GPT Image 2.0 workflow
 
 ---
 
-**🌐 [🎬 在画廊中查看](https://youware.com/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
+**🌐 [🎬 在画廊中查看](https://renoise.ai/showcase)** • **📝 提交提示词** • **⭐ 点个 Star**
 
 🤖 本 README 由脚本自动生成。最后更新： 2026-06-01T05:53:45.491Z
