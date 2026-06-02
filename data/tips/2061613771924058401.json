@@ -1,0 +1,35 @@
+{
+  "id": "2061613771924058401",
+  "title": "When Seedance 2 fails to produce continuous/fluid one-shot sequences, add a…",
+  "content": "When Seedance 2 fails to produce continuous/fluid one-shot sequences, add a mapped-out storyboard (e.g., from GPT Image 2) and pair it with a strong prompt to improve execution.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061571086152843264/img/qrO5X9UFAx6BrKOs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061613771924058401.mp4",
+  "sourceLink": "https://x.com/horacedodd/status/2061613771924058401",
+  "sourcePublishedAt": "2026-06-02",
+  "author": {
+    "name": "Horace Dodd",
+    "link": "https://x.com/horacedodd"
+  },
+  "tips": "When Seedance 2 fails to produce continuous/fluid one-shot sequences, add a mapped-out storyboard (e.g., from GPT Image 2) and pair it with a strong prompt to improve execution.",
+  "translations": {
+    "es": {
+      "content": "Cuando Seedance 2 no logra producir secuencias continuas/fluidas de una sola toma, añade un storyboard planificado (por ejemplo, de GPT Image 2) y acompáñalo con un prompt sólido para mejorar la ejecución."
+    },
+    "fr": {
+      "content": "Lorsque Seedance 2 ne parvient pas à produire des séquences continues/fluides en un seul plan, ajoutez un storyboard détaillé (par exemple, à partir de GPT Image 2) et associez-le à un prompt fort pour améliorer l'exécution."
+    },
+    "ja": {
+      "content": "Seedance 2が連続的で流れるようなワンショットシーケンスを生成できない場合、マップされたストーリーボード（例：GPT Image 2から）を追加し、強力なプロンプトと組み合わせて実行を改善してください。"
+    },
+    "ko": {
+      "content": "Seedance 2가 연속적이고 유려한 원샷 시퀀스를 생성하지 못할 때는, GPT Image 2와 같은 스토리보드를 추가하고 강력한 프롬프트와 결합하여 실행을 개선하십시오."
+    },
+    "pt": {
+      "content": "Quando o Seedance 2 falhar em produzir sequências contínuas/fluidas em um único take, adicione um storyboard mapeado (por exemplo, do GPT Image 2) e combine-o com um prompt forte para melhorar a execução."
+    },
+    "zh": {
+      "content": "当 Seedance 2 无法生成连续/流畅的一镜到底序列时，可以添加一个详细的故事板（例如，来自 GPT Image 2），并配合一个强有力的 prompt 来改善执行效果。"
+    }
+  }
+}

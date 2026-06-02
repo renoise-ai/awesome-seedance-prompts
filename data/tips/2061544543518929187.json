@@ -1,0 +1,35 @@
+{
+  "id": "2061544543518929187",
+  "title": "Generate character sheets using ChatGPT’s image generator, then feed those…",
+  "content": "Generate character sheets using ChatGPT’s image generator, then feed those character sheet images into Seedance 2.0 to animate them into video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061538085301530625/img/QT8J3SEdF0Zei9Sx.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061544543518929187.mp4",
+  "sourceLink": "https://x.com/sebatheepan/status/2061544543518929187",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "Pan",
+    "link": "https://x.com/sebatheepan"
+  },
+  "tips": "Generate character sheets using ChatGPT’s image generator, then feed those character sheet images into Seedance 2.0 to animate them into video.",
+  "translations": {
+    "es": {
+      "content": "Genera hojas de personajes usando el generador de imágenes de ChatGPT, luego introduce esas imágenes de hojas de personajes en Seedance 2.0 para animarlas en video."
+    },
+    "fr": {
+      "content": "Générez des fiches de personnages en utilisant le générateur d'images de ChatGPT, puis intégrez ces images de fiches de personnages dans Seedance 2.0 pour les animer en vidéo."
+    },
+    "ja": {
+      "content": "ChatGPTの画像生成機能を使ってキャラクターシートを作成し、そのキャラクターシートの画像をSeedance 2.0に入力して動画にアニメーション化します。"
+    },
+    "ko": {
+      "content": "ChatGPT의 이미지 생성기를 사용하여 캐릭터 시트를 생성한 다음, 그 캐릭터 시트 이미지를 Seedance 2.0에 입력하여 비디오로 애니메이션화하세요."
+    },
+    "pt": {
+      "content": "Gere fichas de personagens usando o gerador de imagens do ChatGPT, depois insira essas imagens de fichas de personagens no Seedance 2.0 para animá-las em vídeo."
+    },
+    "zh": {
+      "content": "使用ChatGPT的图像生成器生成角色表，然后将这些角色表图像输入Seedance 2.0，将其动画化为视频。"
+    }
+  }
+}

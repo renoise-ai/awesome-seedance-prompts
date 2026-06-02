@@ -1,0 +1,35 @@
+{
+  "id": "2061405796320379270",
+  "title": "Seaartで人物の元絵を3人分作成し、ChatGPTで「スイーツの卓に座らせる」構図に整えてからSeedanceに投入する",
+  "content": "Seaartで人物の元絵を3人分作成し、ChatGPTで「スイーツの卓に座らせる」構図に整えてからSeedanceに投入する  \nSeedanceで描いた軌跡（矢印）を入力して動きのトレースを試す（手描きの矢印で動線指定）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061404276770185216/img/2gCQR5_SrTC0LLXs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061405796320379270.mp4",
+  "sourceLink": "https://x.com/Nymphia_Yuzuki/status/2061405796320379270",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "Nymphia(ニンフィア)💖☘∞🌱💜",
+    "link": "https://x.com/Nymphia_Yuzuki"
+  },
+  "tips": "Seaartで人物の元絵を3人分作成し、ChatGPTで「スイーツの卓に座らせる」構図に整えてからSeedanceに投入する  \nSeedanceで描いた軌跡（矢印）を入力して動きのトレースを試す（手描きの矢印で動線指定）",
+  "translations": {
+    "en": {
+      "content": "Create three original character images in Seaart, then use ChatGPT to arrange them into a composition of \"sitting at a dessert table\" before inputting them into Seedance.  \nInput the trajectory (arrows) drawn in Seedance to test motion tracing (specify the motion path with hand-drawn arrows)."
+    },
+    "es": {
+      "content": "---\nCrear tres ilustraciones de personajes en Seaart, luego usar ChatGPT para organizarlos en una composición de \"sentados en una mesa de dulces\" antes de introducirlos en Seedance.  \nIngresar las trayectorias dibujadas (flechas) en Seedance para probar el seguimiento del movimiento (especificar la trayectoria con flechas dibujadas a mano).\n---"
+    },
+    "fr": {
+      "content": "Créer trois illustrations de personnages avec Seaart, puis utiliser ChatGPT pour les organiser dans une composition intitulée \"スイーツの卓に座らせる\" avant de les importer dans Seedance.  \nEntrer la trajectoire dessinée (flèches) dans Seedance pour tester le suivi du mouvement (spécifier la ligne de mouvement avec des flèches dessinées à la main)."
+    },
+    "ko": {
+      "content": "---\nSeaart에서 인물의 원화를 3명분 생성하고, ChatGPT로 \"スイーツの卓に座らせる\" 구도로 정리한 후 Seedance에 투입합니다.  \nSeedance에서 그린 궤적(화살표)을 입력하여 움직임의 트레이스를 시도합니다 (손으로 그린 화살표로 동선 지정).\n---"
+    },
+    "pt": {
+      "content": "Crie três imagens de personagens no Seaart e use o ChatGPT para organizá-las na composição \"sentados à mesa de doces\" antes de inseri-las no Seedance.  \nInsira a trajetória desenhada no Seedance (setas) para testar o rastreamento do movimento (especificação da linha de movimento com setas desenhadas à mão)."
+    },
+    "zh": {
+      "content": "在Seaart中创建3个人物的原画，用ChatGPT将其调整为“坐在甜点桌旁”的构图，然后导入Seedance  \n在Seedance中输入绘制的轨迹（箭头），尝试进行动作跟踪（用手绘箭头指定动线）"
+    }
+  }
+}

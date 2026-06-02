@@ -1,0 +1,35 @@
+{
+  "id": "2061519615528706217",
+  "title": "Use Seedance 2.0 in pure text-driven mode (no reference images) to generate…",
+  "content": "Use Seedance 2.0 in pure text-driven mode (no reference images) to generate video from prompt-only input.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061511995438825472/img/eUAjB2q1nLL_HQA4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061519615528706217.mp4",
+  "sourceLink": "https://x.com/NEXUS_TO_NOVA/status/2061519615528706217",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "NΞXUS",
+    "link": "https://x.com/NEXUS_TO_NOVA"
+  },
+  "tips": "Use Seedance 2.0 in pure text-driven mode (no reference images) to generate video from prompt-only input.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Seedance 2.0 en modo completamente basado en texto (sin imágenes de referencia) para generar video solo a partir de un prompt.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Esta es una salida completamente basada en texto sin imágenes de referencia\n---"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 en mode entièrement textuel (sans images de référence) pour générer des vidéos à partir d'une entrée uniquement basée sur des prompts.\n\n--- SUITE DU FIL ---\n[Fil 1] Ceci est un résultat entièrement textuel sans images de référence"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0を使用して、純粋にテキスト駆動モード（参照画像なし）で、プロンプトのみの入力からビデオを生成します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] これは参照画像なしの純粋なテキスト駆動出力です\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0을 순수 텍스트 기반 모드(참조 이미지 없음)로 사용하여 프롬프트만으로 비디오를 생성합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 참조 이미지 없이 순수 텍스트 기반 출력입니다\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 no modo puramente baseado em texto (sem imagens de referência) para gerar vídeo apenas a partir de um prompt.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Esta é uma saída puramente baseada em texto, sem imagens de referência"
+    },
+    "zh": {
+      "content": "使用Seedance 2.0的纯文本驱动模式（无参考图像）从仅提示输入生成视频。\n\n--- 线程继续 ---\n[线程 1] 这是一个没有参考图像的纯文本驱动输出\n---"
+    }
+  }
+}

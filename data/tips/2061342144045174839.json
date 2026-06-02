@@ -1,0 +1,35 @@
+{
+  "id": "2061342144045174839",
+  "title": "Include character-sheet variations for key prop states and poses (e.g., holding…",
+  "content": "Include character-sheet variations for key prop states and poses (e.g., holding the sword, combat stance, and without the sword on the back) so Seedance doesn’t persistently keep the prop in the wrong place across shots.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061342006388113409/img/oilgUY2KCG2Q4hH_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061342144045174839.mp4",
+  "sourceLink": "https://x.com/mdmadeit/status/2061342144045174839",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "MD",
+    "link": "https://x.com/mdmadeit"
+  },
+  "tips": "Include character-sheet variations for key prop states and poses (e.g., holding the sword, combat stance, and without the sword on the back) so Seedance doesn’t persistently keep the prop in the wrong place across shots.",
+  "translations": {
+    "es": {
+      "content": "Incluye variaciones de la hoja de personaje para los estados y poses clave del accesorio (por ejemplo, sosteniendo la espada, en posición de combate y sin la espada en la espalda) para que Seedance no mantenga persistentemente el accesorio en el lugar incorrecto a lo largo de las tomas.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Mi lección aprendida\n\nMi hoja de personaje no tenía una variación de él sosteniendo la espada o en una posición de combate.\n\nTampoco incluía una variación de él sin la espada en la espalda.\n\nEsto causó que la generación de video mostrara persistentemente una espada en la espalda de mi personaje incluso después de que él desenvainara su espada y durante el combate.\n\nLección aprendida."
+    },
+    "fr": {
+      "content": "Incluez des variations de la fiche de personnage pour les états et poses clés des accessoires (par exemple, tenant l'épée, en position de combat, et sans l'épée dans le dos) afin que Seedance ne garde pas constamment l'accessoire au mauvais endroit à travers les plans.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Ma leçon apprise\n\nMa fiche de personnage n'avait pas de variation où il tenait l'épée ou était en position de combat.\n\nElle n'incluait pas non plus de variation sans l'épée dans son dos.\n\nCela a entraîné une génération vidéo montrant constamment une épée dans le dos de mon personnage même après qu'il ait dégainé son épée et pendant le combat.\n\nLeçon à en tirer."
+    },
+    "ja": {
+      "content": "---\n主要な小道具の状態やポーズのバリエーションをキャラクターシートに含めてください（例：剣を持っている、戦闘姿勢、背中に剣がない状態など）。これにより、Seedanceがショット全体で小道具を誤った場所に持ち続けることを防ぎます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 私が学んだ教訓\n\n私のキャラクターシートには、彼が剣を持っているバリエーションや戦闘姿勢のバリエーションがありませんでした。\n\nまた、背中に剣がない状態のバリエーションも含まれていませんでした。\n\nこれにより、ビデオ生成中に、彼が剣を抜いた後や戦闘中でも、キャラクターの背中に剣が表示され続けることになりました。\n\nそこに教訓があります。"
+    },
+    "ko": {
+      "content": "---\n주요 소품 상태와 포즈에 대한 캐릭터 시트 변형을 포함하세요 (예: 검을 들고 있는 상태, 전투 자세, 검이 등 뒤에 없는 상태) 이렇게 하면 Seedance가 여러 샷에서 소품을 잘못된 위치에 지속적으로 두지 않게 됩니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 내가 배운 교훈\n\n내 캐릭터 시트에는 그가 검을 들고 있거나 전투 자세를 취하고 있는 변형이 없었습니다.\n\n또한 그가 등 뒤에 검이 없는 변형도 포함되어 있지 않았습니다.\n\n이로 인해 비디오 생성 시 그가 검을 뽑고 전투 중일 때조차도 캐릭터의 등 뒤에 검이 지속적으로 나타났습니다.\n\n거기서 배운 교훈입니다.\n---"
+    },
+    "pt": {
+      "content": "Incluir variações na ficha de personagem para diferentes estados e poses dos acessórios principais (por exemplo, segurando a espada, em posição de combate e sem a espada nas costas) para que o Seedance não mantenha o acessório no lugar errado em diferentes cenas.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Minha lição aprendida\n\nMinha ficha de personagem não tinha uma variação dele segurando a espada ou em posição de combate.\n\nTambém não incluía uma variação dele sem a espada nas costas.\n\nIsso fez com que a geração do vídeo mostrasse persistentemente uma espada nas costas do meu personagem, mesmo depois de ele sacar a espada e durante o combate.\n\nLição aprendida."
+    },
+    "zh": {
+      "content": "---\n包括关键道具状态和姿势的角色表变体（例如，持剑、战斗姿势以及背上没有剑），以避免Seedance在镜头中持续将道具放在错误的位置。\n\n--- 线程继续 ---\n[线程 1] 我的经验教训\n\n我的角色表没有他持剑或战斗姿势的变体。\n\n也没有包括他背上没有剑的变体。\n\n这导致视频生成时，即使他拔剑并在战斗中，我的角色背上仍然持续显示有剑。\n\n这是一个教训。"
+    }
+  }
+}

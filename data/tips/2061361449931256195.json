@@ -1,0 +1,38 @@
+{
+  "id": "2061361449931256195",
+  "title": "Bir şehir manzarası görseli yükleyip görüntü üzerinde uçuş rotasını çizerek…",
+  "content": "Bir şehir manzarası görseli yükleyip görüntü üzerinde uçuş rotasını çizerek Seedance 2.0’a drone kamera yolunu doğrudan kontrol ettirin  \nRotayı çizdikten sonra hız (speed) ve kamera hareketini (camera movement) ayrıca belirterek uçuş dinamiğini ayarlayın  \nArka plan müziğini prompt’ta tarif ederek (mood/genre/tempo) videonun sinematik atmosferini müzikle yönlendirin  \nFPV şehir uçuşu için rotayı şu sekansla planlayın: alçaktan geçiş → bina boyunca yükselme → çatı/üst yapıdan geçiş → bina etrafında dalış → nehir/ana hat üzerinden süzülme → hedef yapıya yaklaşma → etrafında yükselerek tur atma",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2061361396781084676/pu/img/n6yq0lVuKEXPNJR7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061361449931256195.mp4",
+  "sourceLink": "https://x.com/DeepTechTR/status/2061361449931256195",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "DeepTechTR 🇹🇷",
+    "link": "https://x.com/DeepTechTR"
+  },
+  "tips": "Bir şehir manzarası görseli yükleyip görüntü üzerinde uçuş rotasını çizerek Seedance 2.0’a drone kamera yolunu doğrudan kontrol ettirin  \nRotayı çizdikten sonra hız (speed) ve kamera hareketini (camera movement) ayrıca belirterek uçuş dinamiğini ayarlayın  \nArka plan müziğini prompt’ta tarif ederek (mood/genre/tempo) videonun sinematik atmosferini müzikle yönlendirin  \nFPV şehir uçuşu için rotayı şu sekansla planlayın: alçaktan geçiş → bina boyunca yükselme → çatı/üst yapıdan geçiş → bina etrafında dalış → nehir/ana hat üzerinden süzülme → hedef yapıya yaklaşma → etrafında yükselerek tur atma",
+  "translations": {
+    "en": {
+      "content": "Upload a cityscape image and draw the flight path on the image to directly control the drone camera route with Seedance 2.0.  \nAfter drawing the route, adjust the flight dynamics by specifying speed and camera movement separately.  \nGuide the cinematic atmosphere of the video with music by describing the background music in the prompt (mood/genre/tempo).  \nPlan the route for the FPV city flight with the following sequence: low pass → ascent along the building → pass through the roof/superstructure → dive around the building → glide over the river/main line → approach the target structure → circle around by ascending."
+    },
+    "es": {
+      "content": "Cargue una imagen de un paisaje urbano y trace la ruta de vuelo sobre la imagen para controlar directamente el camino de la cámara del dron en Seedance 2.0.  \nDespués de trazar la ruta, ajuste la dinámica de vuelo especificando la velocidad (speed) y el movimiento de la cámara (camera movement).  \nDescriba la música de fondo en el prompt (mood/genre/tempo) para guiar la atmósfera cinematográfica del video con música.  \nPlanifique la ruta para el vuelo FPV por la ciudad con la siguiente secuencia: paso bajo → ascenso a lo largo del edificio → paso por la azotea/estructura superior → inmersión alrededor del edificio → deslizamiento sobre el río/eje principal → aproximación a la estructura objetivo → ascenso alrededor de ella para dar una vuelta."
+    },
+    "fr": {
+      "content": "En téléchargeant une image de paysage urbain et en traçant la trajectoire de vol sur l'image, contrôlez directement le chemin de la caméra drone avec Seedance 2.0.  \nAprès avoir tracé la trajectoire, ajustez la dynamique de vol en spécifiant également la vitesse (speed) et le mouvement de la caméra (camera movement).  \nDécrivez la musique de fond dans le prompt (mood/genre/tempo) pour guider l'atmosphère cinématique de la vidéo avec la musique.  \nPour le vol FPV en ville, planifiez la trajectoire avec la séquence suivante : passage à basse altitude → montée le long du bâtiment → passage par le toit/structure supérieure → plongée autour du bâtiment → glissement au-dessus de la rivière/l'axe principal → approche de la structure cible → tour en s'élevant autour d'elle."
+    },
+    "ja": {
+      "content": "---\n都市の風景画像をアップロードし、画像上に飛行ルートを描いて、Seedance 2.0にドローンカメラの経路を直接制御させる  \nルートを描いた後、速度（speed）とカメラの動き（camera movement）をさらに指定して、飛行のダイナミクスを調整する  \nバックグラウンドミュージックをプロンプトで説明して（ムード/ジャンル/テンポ）、音楽でビデオのシネマティックな雰囲気を演出する  \nFPV都市飛行のために次のシーケンスでルートを計画する：低空飛行 → ビルに沿って上昇 → 屋上/上部構造を通過 → ビルの周りをダイブ → 川/メインラインを滑空 → 目標建物に接近 → 周囲を上昇しながら旋回\n\n--- QUOTED TWEET ---\n🤯AIによる空撮カメラを制御する新しい方法！\n画像上に線を描くだけで、AIが赤い線に沿ってドローンショットを生成💥\n\n私は広州の中軸線のFPV空撮を行いました：\n低空で花城広場を通過 → ビルに沿って上昇 → 屋上構造を通過 → ビルの周りをダイブ → 珠江を滑空 → 小蛮腰に向かって突進 → タワーを上昇しながら旋回\n\n都市の空撮、観光地の飛行、商業不動産、ビルのプロモーションビデオ…すべてこの方法で楽しめます！\nまずルートを描き、AIが先に飛行し、空撮の自由を！🚁\n\nワークフローとプロンプトはコメント欄に👇\n---"
+    },
+    "ko": {
+      "content": "도시 풍경 이미지를 업로드하고 이미지 위에 비행 경로를 그려 Seedance 2.0에서 드론 카메라 경로를 직접 제어하세요.  \n경로를 그린 후 속도(speed)와 카메라 움직임(camera movement)을 추가로 지정하여 비행 역학을 조정하세요.  \n배경 음악을 프롬프트에서 설명하여(mood/genre/tempo) 비디오의 시네마틱 분위기를 음악으로 연출하세요.  \nFPV 도시 비행을 위해 다음 시퀀스로 경로를 계획하세요: 낮은 고도로 통과 → 건물 따라 상승 → 지붕/상부 구조 통과 → 건물 주변으로 다이빙 → 강/주요 경로 위로 활공 → 목표 구조물에 접근 → 주변을 상승하며 회전\n\n--- QUOTED TWEET ---\n🤯AI 항공 촬영을 제어하는 새로운 방법!\n그림 위에 직접 선을 그려 AI가 빨간 선을 따라 드론 촬영을 생성하게 하세요💥\n\n저는 광저우 중축선 FPV 항공 촬영을 했습니다:\n저고도로 화성 광장을 통과 → 건물에 붙어 상승 → 건물 상부 구조 통과 → 건물 주변으로 다이빙 → 주강을 스쳐 지나감 → 작은 만요를 향해 돌진 → 타워를 돌며 상승\n\n도시 항공 촬영, 관광지 통과, 상업 부동산, 건물 홍보 영상… 모두 이렇게 할 수 있습니다!\n먼저 경로를 그리면 AI가 먼저 비행해주고, 항공 촬영의 자유를 누리세요!🚁\n\n워크플로우와 프롬프트는 댓글에 있습니다👇"
+    },
+    "pt": {
+      "content": "Carregue uma imagem de paisagem urbana e desenhe a rota de voo sobre a imagem para controlar diretamente o caminho da câmera drone no Seedance 2.0.  \nApós desenhar a rota, ajuste a dinâmica do voo especificando a velocidade (speed) e o movimento da câmera (camera movement).  \nDescreva a música de fundo no prompt (mood/gênero/tempo) para guiar a atmosfera cinematográfica do vídeo com a música.  \nPlaneje a rota para o voo FPV pela cidade com a seguinte sequência: passagem baixa → subida ao longo do edifício → passagem pelo telhado/estrutura superior → mergulho ao redor do edifício → deslizar sobre o rio/linha principal → aproximação da estrutura alvo → subir ao redor dela fazendo um círculo.  \n\n--- TWEET CITADO ---  \n🤯 Uma nova maneira de controlar tomadas aéreas com IA!  \nDesenhe uma linha diretamente na imagem e deixe a IA gerar a filmagem do drone de acordo com a linha vermelha 💥\n\nEu fiz uma filmagem aérea FPV da linha central de Guangzhou:  \nPassagem baixa pela Praça Huacheng → Subida rente ao prédio → Passagem pela estrutura do topo do prédio → Mergulho ao redor do prédio → Deslizar sobre o Rio das Pérolas → Avançar em direção à Torre Canton → Subir ao redor da torre\n\nFilmagens aéreas urbanas, travessias de pontos turísticos, imóveis comerciais, vídeos promocionais de edifícios... tudo pode ser feito assim!  \nDesenhe a rota primeiro, a IA voa por você, liberdade de filmagem aérea! 🚁\n\nFluxo de trabalho e palavras-chave nos comentários 👇"
+    },
+    "zh": {
+      "content": "上传一幅城市景观图像，并在图像上绘制飞行路线，让 Seedance 2.0 直接控制无人机摄像机的路径。  \n绘制路线后，通过另外指定速度（speed）和摄像机运动（camera movement）来调整飞行动态。  \n通过在 prompt 中描述背景音乐（情绪/风格/节奏），用音乐引导视频的电影氛围。  \n为 FPV 城市飞行规划以下顺序的路线：低空穿过 → 沿建筑物上升 → 穿过屋顶/上层结构 → 绕建筑物俯冲 → 掠过河流/主干道 → 接近目标建筑 → 环绕上升并盘旋。"
+    }
+  }
+}

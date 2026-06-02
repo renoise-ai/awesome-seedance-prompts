@@ -1,0 +1,35 @@
+{
+  "id": "2061387043557519462",
+  "title": "Use Recraft to create the character artwork, then use Seedance 2 to animate it.",
+  "content": "Use Recraft to create the character artwork, then use Seedance 2 to animate it.  \nUse GPT-2 to generate a storyboard and scene plan, then animate the planned scenes in Seedance 2.  \nIn Seedance 2, use direct animation from the character artwork (image-to-video) instead of storyboarding when you want a faster workflow.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061385185560506369/img/VG6qHkR6kpesTxPX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061387043557519462.mp4",
+  "sourceLink": "https://x.com/OVolosin82152/status/2061387043557519462",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "Olga Volosin",
+    "link": "https://x.com/OVolosin82152"
+  },
+  "tips": "Use Recraft to create the character artwork, then use Seedance 2 to animate it.  \nUse GPT-2 to generate a storyboard and scene plan, then animate the planned scenes in Seedance 2.  \nIn Seedance 2, use direct animation from the character artwork (image-to-video) instead of storyboarding when you want a faster workflow.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Recraft para crear el arte del personaje, luego usa Seedance 2 para animarlo.  \nUsa GPT-2 para generar un guion gráfico y un plan de escenas, luego anima las escenas planificadas en Seedance 2.  \nEn Seedance 2, utiliza la animación directa desde el arte del personaje (imagen a video) en lugar de guiones gráficos cuando desees un flujo de trabajo más rápido."
+    },
+    "fr": {
+      "content": "Utilisez Recraft pour créer l'illustration du personnage, puis utilisez Seedance 2 pour l'animer.  \nUtilisez GPT-2 pour générer un storyboard et un plan de scène, puis animez les scènes planifiées dans Seedance 2.  \nDans Seedance 2, utilisez l'animation directe à partir de l'illustration du personnage (image-to-video) au lieu de faire un storyboard lorsque vous souhaitez un flux de travail plus rapide."
+    },
+    "ja": {
+      "content": "---\nRecraftを使用してキャラクターアートワークを作成し、次にSeedance 2を使用してそれをアニメーション化します。  \nGPT-2を使用してストーリーボードとシーンプランを生成し、計画されたシーンをSeedance 2でアニメーション化します。  \nSeedance 2では、より迅速なワークフローを望む場合、ストーリーボードを使用せずにキャラクターアートワークから直接アニメーション（image-to-video）を使用します。  \n---"
+    },
+    "ko": {
+      "content": "Recraft를 사용하여 캐릭터 아트를 만든 후 Seedance 2를 사용하여 애니메이션화하세요.  \nGPT-2를 사용하여 스토리보드와 장면 계획을 생성한 다음, Seedance 2에서 계획된 장면을 애니메이션화하세요.  \nSeedance 2에서는 더 빠른 워크플로우를 원할 때 스토리보드 대신 캐릭터 아트워크에서 직접 애니메이션(image-to-video)을 사용하세요."
+    },
+    "pt": {
+      "content": "Use o Recraft para criar a arte do personagem, depois use o Seedance 2 para animá-lo.  \nUse o GPT-2 para gerar um storyboard e um plano de cena, depois anime as cenas planejadas no Seedance 2.  \nNo Seedance 2, use animação direta a partir da arte do personagem (imagem para vídeo) em vez de storyboarding quando quiser um fluxo de trabalho mais rápido."
+    },
+    "zh": {
+      "content": "使用Recraft创建角色艺术作品，然后使用Seedance 2进行动画制作。  \n使用GPT-2生成分镜和场景计划，然后在Seedance 2中为计划的场景制作动画。  \n在Seedance 2中，当您想要更快的工作流程时，使用角色艺术作品的直接动画（图像到视频）而不是分镜。"
+    }
+  }
+}

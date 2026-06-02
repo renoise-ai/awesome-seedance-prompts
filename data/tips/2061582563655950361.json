@@ -1,0 +1,35 @@
+{
+  "id": "2061582563655950361",
+  "title": "Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 (on…",
+  "content": "Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 (on yapper_so) to turn an initial concept into a storyboard and then generate the final video in Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061530768149741568/img/8sumDBGSB2Bzru86.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061582563655950361.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2061582563655950361",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tips": "Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 (on yapper_so) to turn an initial concept into a storyboard and then generate the final video in Seedance.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Concepto → GPT Personalizado → Imagen-a-Storyboard → Seedance 2.0 (en yapper_so) para convertir un concepto inicial en un storyboard y luego generar el video final en Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 (sur yapper_so) pour transformer un concept initial en storyboard, puis générez la vidéo finale dans Seedance."
+    },
+    "ja": {
+      "content": "コンセプト → カスタムGPT → イメージからストーリーボードへ → Seedance 2.0（yapper_so上）というワークフローを使用して、初期コンセプトをストーリーボードに変換し、その後Seedanceで最終ビデオを生成します。"
+    },
+    "ko": {
+      "content": "컨셉 → 커스텀 GPT → 이미지-스토리보드 → Seedance 2.0 (yapper_so에서) 워크플로우를 사용하여 초기 컨셉을 스토리보드로 변환한 후 Seedance에서 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Conceito → GPT Personalizado → Imagem-para-Storyboard → Seedance 2.0 (em yapper_so) para transformar um conceito inicial em um storyboard e, em seguida, gerar o vídeo final no Seedance."
+    },
+    "zh": {
+      "content": "使用以下工作流程：Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0（在 yapper_so 上），将初始概念转化为分镜，然后在 Seedance 中生成最终视频。"
+    }
+  }
+}

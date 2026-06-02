@@ -1,0 +1,35 @@
+{
+  "id": "2061564186132652207",
+  "title": "Generate a storyboard panel in GPT Image 2.0 that includes multiple shots plus…",
+  "content": "Generate a storyboard panel in GPT Image 2.0 that includes multiple shots plus exact timing breakdowns, then use that storyboard image as the input reference for Seedance 2.0 to generate the video.  \nWrite the Seedance 2.0 motion prompt to closely mirror the storyboard’s beats, framing, and timing to improve coherence across the cinematic sequence.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061563838831738880/img/rVmgO8mokpv389ki.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061564186132652207.mp4",
+  "sourceLink": "https://x.com/CuriousRefuge/status/2061564186132652207",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "Curious Refuge",
+    "link": "https://x.com/CuriousRefuge"
+  },
+  "tips": "Generate a storyboard panel in GPT Image 2.0 that includes multiple shots plus exact timing breakdowns, then use that storyboard image as the input reference for Seedance 2.0 to generate the video.  \nWrite the Seedance 2.0 motion prompt to closely mirror the storyboard’s beats, framing, and timing to improve coherence across the cinematic sequence.",
+  "translations": {
+    "es": {
+      "content": "Genera un panel de storyboard en GPT Image 2.0 que incluya múltiples tomas más desgloses de tiempo exactos, luego usa esa imagen del storyboard como referencia de entrada para Seedance 2.0 para generar el video.  \nEscribe el prompt de movimiento de Seedance 2.0 para reflejar de cerca los ritmos, el encuadre y el tiempo del storyboard para mejorar la coherencia a lo largo de la secuencia cinematográfica."
+    },
+    "fr": {
+      "content": "Générez un panneau de storyboard dans GPT Image 2.0 qui inclut plusieurs prises ainsi que des décompositions précises du timing, puis utilisez cette image de storyboard comme référence d'entrée pour Seedance 2.0 afin de générer la vidéo.  \nRédigez le prompt de mouvement Seedance 2.0 pour refléter de près les rythmes, le cadrage et le timing du storyboard afin d'améliorer la cohérence de la séquence cinématographique."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2.0で複数のショットと正確なタイミングの内訳を含むストーリーボードパネルを生成し、そのストーリーボード画像をSeedance 2.0の入力参照として使用してビデオを生成します。  \nSeedance 2.0のモーションプロンプトを書いて、ストーリーボードのビート、フレーミング、タイミングを密接に反映させ、シネマティックシーケンス全体の一貫性を向上させます。\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2.0에서 여러 샷과 정확한 타이밍 분해를 포함한 스토리보드 패널을 생성한 후, 그 스토리보드 이미지를 Seedance 2.0의 입력 참조로 사용하여 비디오를 생성하세요.  \nSeedance 2.0 모션 프롬프트를 작성하여 스토리보드의 비트, 프레이밍 및 타이밍을 밀접하게 반영하여 시네마틱 시퀀스 전반의 일관성을 향상시키세요.\n---"
+    },
+    "pt": {
+      "content": "Gere um painel de storyboard no GPT Image 2.0 que inclua múltiplas tomadas e uma análise detalhada do tempo exato, depois use essa imagem do storyboard como referência de entrada para o Seedance 2.0 gerar o vídeo.  \nEscreva o prompt de movimento do Seedance 2.0 para espelhar de perto os ritmos, enquadramentos e tempos do storyboard, a fim de melhorar a coerência ao longo da sequência cinematográfica."
+    },
+    "zh": {
+      "content": "在GPT Image 2.0中生成一个包含多个镜头和精确时间分解的分镜面板，然后使用该分镜图像作为Seedance 2.0的视频生成输入参考。  \n编写Seedance 2.0的motion prompt，使其紧密反映分镜的节奏、构图和时间，以提高整个电影序列的一致性。"
+    }
+  }
+}
