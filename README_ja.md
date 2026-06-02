@@ -28,7 +28,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 
 ## 🌐 🎬 ウェブギャラリーで閲覧
 
-**👉 [Renoise でプロンプトを閲覧](https://renoise.ai/ja/seedance-2-prompts)**
+**👉 [Renoise でプロンプトを閲覧](https://renoise.ai/showcase)**
 
 | 機能 | GitHub README | ギャラリー |
 |---------|-------------|---------|
@@ -5896,7 +5896,7 @@ iPhoneで撮影された補正されていないハンドヘルド映像スタ�
 
 ### 🎯 1180 件のプロンプトが非表示
 
-**👉 [Renoise でプロンプトを閲覧](https://renoise.ai/ja/seedance-2-prompts)**
+**👉 [Renoise でプロンプトを閲覧](https://renoise.ai/showcase)**
 
 ---
 
@@ -7008,7 +7008,7 @@ In Dreamina Seedance 2.0, select specific reference images and define events plu
 
 ---
 
-*... その他 508 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/ja/seedance-2-prompts)*
+*... その他 508 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/showcase)*
 
 ---
 
@@ -7030,6 +7030,6 @@ In Dreamina Seedance 2.0, select specific reference images and define events plu
 
 ---
 
-**🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/seedance-2-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
+**🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/showcase)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-02T05:17:13.347Z
+🤖 この README は自動生成されています。最終更新： 2026-06-02T08:07:01.242Z

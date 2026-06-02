@@ -28,7 +28,7 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 
 ## 🌐 🎬 Ver en la Galería Web
 
-**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/es/seedance-2-prompts)**
+**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/showcase)**
 
 | Característica | GitHub README | Galería |
 |---------|-------------|---------|
@@ -6349,7 +6349,7 @@ El video fue creado en el estilo de una grabación manual sin editar hecha con u
 
 ### 🎯 1180 prompts adicionales no mostrados aquí
 
-**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/es/seedance-2-prompts)**
+**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/showcase)**
 
 ---
 
@@ -7645,7 +7645,7 @@ In Dreamina Seedance 2.0, select specific reference images and define events plu
 
 ---
 
-*... y 508 consejos más. [Ver todo en la Galería](https://renoise.ai/es/seedance-2-prompts)*
+*... y 508 consejos más. [Ver todo en la Galería](https://renoise.ai/showcase)*
 
 ---
 
@@ -7667,6 +7667,6 @@ Gracias a todos los creadores que compartieron sus prompts con la comunidad.
 
 ---
 
-**🌐 [🎬 Ver en la Galería Web](https://renoise.ai/es/seedance-2-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
+**🌐 [🎬 Ver en la Galería Web](https://renoise.ai/showcase)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
 
-🤖 Este README se genera automáticamente. Última actualización: 2026-06-02T05:17:13.369Z
+🤖 Este README se genera automáticamente. Última actualización: 2026-06-02T08:07:01.264Z

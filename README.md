@@ -28,7 +28,7 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 ## 🌐 View in Web Gallery
 
-**👉 [Browse all Seedance 2.0 prompts on Renoise](https://renoise.ai/seedance-2-prompts)**
+**👉 [Browse all Seedance 2.0 prompts on Renoise](https://renoise.ai/showcase)**
 
 | Feature | GitHub README | Gallery |
 |---------|-------------|---------|
@@ -4362,7 +4362,7 @@ Style: Ultra-realistic 4K, cinematic RED camera look, warm golden color grading,
 
 ### 🎯 1180 more prompts not shown here
 
-**👉 [Browse all Seedance 2.0 prompts on Renoise](https://renoise.ai/seedance-2-prompts)**
+**👉 [Browse all Seedance 2.0 prompts on Renoise](https://renoise.ai/showcase)**
 
 ---
 
@@ -5162,7 +5162,7 @@ In Dreamina Seedance 2.0, select specific reference images and define events plu
 
 ---
 
-*... and 508 more tips. [View all in Gallery](https://renoise.ai/seedance-2-prompts)*
+*... and 508 more tips. [View all in Gallery](https://renoise.ai/showcase)*
 
 ---
 
@@ -5184,6 +5184,6 @@ Thanks to all the creators who shared their prompts with the community.
 
 ---
 
-**🌐 [View in Web Gallery](https://renoise.ai/seedance-2-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
+**🌐 [View in Web Gallery](https://renoise.ai/showcase)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-06-02T05:17:13.325Z
+🤖 This README is automatically generated. Last updated: 2026-06-02T08:07:01.217Z

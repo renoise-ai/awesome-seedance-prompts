@@ -28,7 +28,7 @@
 
 ## 🌐 🎬 在画廊中查看
 
-**👉 [浏览画廊](https://renoise.ai/zh-CN/seedance-2-prompts)**
+**👉 [浏览画廊](https://renoise.ai/showcase)**
 
 | 功能 | GitHub README | 在线画廊 |
 |---------|-------------|---------|
@@ -4362,7 +4362,7 @@ Style: Ultra-realistic 4K, cinematic RED camera look, warm golden color grading,
 
 ### 🎯 1180 条提示词未在此显示
 
-**👉 [浏览画廊](https://renoise.ai/zh-CN/seedance-2-prompts)**
+**👉 [浏览画廊](https://renoise.ai/showcase)**
 
 ---
 
@@ -5162,7 +5162,7 @@ In Dreamina Seedance 2.0, select specific reference images and define events plu
 
 ---
 
-*... 以及另外 508 条技巧。 [在画廊中查看全部](https://renoise.ai/zh-CN/seedance-2-prompts)*
+*... 以及另外 508 条技巧。 [在画廊中查看全部](https://renoise.ai/showcase)*
 
 ---
 
@@ -5184,6 +5184,6 @@ In Dreamina Seedance 2.0, select specific reference images and define events plu
 
 ---
 
-**🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/seedance-2-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
+**🌐 [🎬 在画廊中查看](https://renoise.ai/showcase)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-02T05:17:13.336Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-02T08:07:01.231Z
