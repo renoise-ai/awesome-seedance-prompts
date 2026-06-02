@@ -58,9 +58,9 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1280** |
+| 📝 Total Prompts | **1241** |
 | ⭐ Featured | **0** |
-| 💡 Tips & Tutorials | **538** |
+| 💡 Tips & Tutorials | **299** |
 | 🔄 Last Updated | **2026-06-02** |
 
 ---
@@ -68,24 +68,6 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 ## 🎬 All Prompts
 
 > 📝 Sorted by publish date (newest first)
-
-### Delete the storyboard on frame 1, adapt the storyboard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 Prompt
-
-```
-Delete the storyboard on frame 1, adapt the storyboard
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061248107300696064/img/KepgbZj8KhKpY5ct.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061249224977825835.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061249224977825835.mp4)**
-
-**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2061249224977825835) | **Published:** Jun 1, 2026
-
----
 
 ### Use the provided storyboard @[image] as the main visual and motion reference…
 
@@ -102,6 +84,8 @@ Use the provided storyboard @[image] as the main visual and motion reference. Re
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061277846560035147.mp4)**
 
 **Author:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **Source:** [Link](https://x.com/ivanka_humeniuk/status/2061277846560035147) | **Published:** Jun 1, 2026
+
+`Meme & Comedy` `Anthropomorphic` `Anime 2D` `Realistic World` `Tutorial` `Slow-Mo` `Creative Asset`
 
 ---
 
@@ -127,6 +111,8 @@ Style: Ultra-realistic cinematic motorsport documentary combined with premium ra
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061290325482844435.mp4)**
 
 **Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2061290325482844435) | **Published:** Jun 1, 2026
+
+`Auto` `Racing` `Photoreal` `Realistic World` `Slow-Mo`
 
 ---
 
@@ -219,6 +205,8 @@ MCU, 50mm / Girl lifts a slice toward camera. Golden cheese stretches dramatical
 
 **Author:** [Zara](https://x.com/ZaraIrahh) | **Source:** [Link](https://x.com/ZaraIrahh/status/2061290636108599657) | **Published:** Jun 1, 2026
 
+`Food` `Cooking` `Photoreal` `Realistic World` `Macro` `ASMR`
+
 ---
 
 ### Camera & motion: Extreme close-up macro framing, edited with quick, energetic…
@@ -241,6 +229,8 @@ Lighting & grade: Studio-grade commercial food lighting — diffused soft highli
 
 **Author:** [Min Choi](https://x.com/minchoi) | **Source:** [Link](https://x.com/minchoi/status/2061299720350249130) | **Published:** Jun 1, 2026
 
+`Food` `Cooking` `Photoreal` `Realistic World` `Slow-Mo` `Macro`
+
 ---
 
 ### 35mm anamorphic, 2.39:1, no flares. Ultra-realistic international French…
@@ -258,6 +248,8 @@ Lighting & grade: Studio-grade commercial food lighting — diffused soft highli
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061300623530942922.mp4)**
 
 **Author:** [Synthia](https://x.com/AIwithSynthia) | **Source:** [Link](https://x.com/AIwithSynthia/status/2061300623530942922) | **Published:** Jun 1, 2026
+
+`Product Ad` `Beauty` `Photoreal` `Realistic World` `Macro` `ASMR` `Transformation`
 
 ---
 
@@ -278,23 +270,7 @@ As she floats gracefully among the stars, the camera slowly zooms in on the red 
 
 **Author:** [yusra.](https://x.com/chatgptpaglu) | **Source:** [Link](https://x.com/chatgptpaglu/status/2061304433598939573) | **Published:** Jun 1, 2026
 
----
-
-### 動画内に見える「赤い線と矢印」を消してください
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 Prompt
-
-```
-動画内に見える「赤い線と矢印」を消してください
-```
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061305180407451648/img/lnN-bFeRd_j0W6pk.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061305666745373053.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061305666745373053.mp4)**
-
-**Author:** [KEETY｜AIクリエイター](https://x.com/KEETY2591756) | **Source:** [Link](https://x.com/KEETY2591756/status/2061305666745373053) | **Published:** Jun 1, 2026
+`Product Ad` `Luxury` `Photoreal` `Sci-Fi` `VFX` `Transformation`
 
 ---
 
@@ -313,6 +289,8 @@ As she floats gracefully among the stars, the camera slowly zooms in on the red 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061315099286004196.mp4)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2061315099286004196) | **Published:** Jun 1, 2026
+
+`Animals` `Creatures` `3D Animation` `Realistic World` `Model Showcase`
 
 ---
 
@@ -371,6 +349,8 @@ The tortoise holds up a small golden trophy, beaming. The hare arrives breathles
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2061315105292198279) | **Published:** Jun 1, 2026
 
+`Sports` `Other Competition` `3D Animation` `Fantasy` `Slow-Mo`
+
 ---
 
 ### No music, diegetic SFX only. Raw handheld iPhone footage, auto-everything…
@@ -388,6 +368,8 @@ No music, diegetic SFX only. Raw handheld iPhone footage, auto-everything, bysta
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061321146142978175.mp4)**
 
 **Author:** [Heisenberg](https://x.com/rovvmut_) | **Source:** [Link](https://x.com/rovvmut_/status/2061321146142978175) | **Published:** Jun 1, 2026
+
+`Auto` `Supercar` `Story` `Talk` `Photoreal` `Realistic World` `POV` `Slow-Mo` `ASMR`
 
 ---
 
@@ -407,6 +389,8 @@ No music, diegetic SFX only. Raw handheld iPhone footage, auto-everything, bysta
 
 **Author:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **Source:** [Link](https://x.com/itxabdullaa/status/2061323016873836888) | **Published:** Jun 1, 2026
 
+`Story` `Heartwarming` `Music & Dance` `Dance` `3D Animation` `Realistic World`
+
 ---
 
 ### Remove the red lines and arrows. From a first-person perspective, the camera…
@@ -424,6 +408,8 @@ Remove the red lines and arrows. From a first-person perspective, the camera mov
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061327198699872594.mp4)**
 
 **Author:** [Christina｜](https://x.com/Christina_vzsw) | **Source:** [Link](https://x.com/Christina_vzsw/status/2061327198699872594) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Cityscape` `Photoreal` `Realistic World` `FPV & Aerial` `POV`
 
 ---
 
@@ -462,6 +448,8 @@ Darwin stands alone stone path. RAISES both arms wide triumphant. Camera SLOW 36
 
 **Author:** [Yurii Yeltsov](https://x.com/yura_elkin) | **Source:** [Link](https://x.com/yura_elkin/status/2061330754496249990) | **Published:** Jun 1, 2026
 
+`Action` `Ring Fight` `Photoreal` `Fantasy` `VFX` `Slow-Mo` `Game UI` `Transformation`
+
 ---
 
 ### Ultra-dynamic cinematic FPV chase through a vibrant hillside Chinatown-inspired…
@@ -487,6 +475,8 @@ Final sprint up the last monumental staircase toward the hilltop temple. Both ra
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061334448692728208.mp4)**
 
 **Author:** [SujiPop](https://x.com/suji_pop) | **Source:** [Link](https://x.com/suji_pop/status/2061334448692728208) | **Published:** Jun 1, 2026
+
+`Action` `Chase` `Photoreal` `Realistic World` `Slow-Mo` `FPV & Aerial` `VFX`
 
 ---
 
@@ -559,6 +549,8 @@ Final sprint up the last monumental staircase toward the hilltop temple. Both ra
 
 **Author:** [Maxflux](https://x.com/maxfluxai) | **Source:** [Link](https://x.com/maxfluxai/status/2061341105984290848) | **Published:** Jun 1, 2026
 
+`Food` `Cooking` `Anime 2D` `Realistic World` `ASMR` `Macro`
+
 ---
 
 ### This is a safe, family-friendly Pixar 3D animation action comedy storyboard…
@@ -595,6 +587,8 @@ No NSFW, no excessive gore, family friendly stylized cartoon action only. Subjec
 
 **Author:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Source:** [Link](https://x.com/itsshara_ai/status/2061346133591589053) | **Published:** Jun 1, 2026
 
+`Action` `Wuxia` `3D Animation` `Realistic World` `Slow-Mo` `Creative Asset`
+
 ---
 
 ### Use @[Storyboard] as the storyboard structure reference. Use @[Charactersheet]…
@@ -630,6 +624,8 @@ Negative instructions: Do not show storyboard grid, panel borders, numbers, capt
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061348523359289439.mp4)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2061348523359289439) | **Published:** Jun 1, 2026
+
+`Sports` `Extreme` `Photoreal` `Realistic World` `Macro` `Slow-Mo`
 
 ---
 
@@ -718,6 +714,8 @@ No cuts, no scene transitions, no text overlays, no modern objects, no blurry fa
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061350761762578566.mp4)**
 
 **Author:** [OscarAI](https://x.com/Artedeingenio) | **Source:** [Link](https://x.com/Artedeingenio/status/2061350761762578566) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Worldbuilding` `Hand-drawn` `Fantasy` `Transformation`
 
 ---
 
@@ -904,6 +902,8 @@ The final video must look like a clean cinematic animated comedy short film with
 
 **Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2061352899448623285) | **Published:** Jun 1, 2026
 
+`Action` `Chase` `3D Animation` `Realistic World` `Creative Asset`
+
 ---
 
 ### The style is uniformly set as realistic action film style, high-contrast…
@@ -921,6 +921,8 @@ The style is uniformly set as realistic action film style, high-contrast Tyndall
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061353751387226174.mp4)**
 
 **Author:** [Good FortuneX](https://x.com/pound75423) | **Source:** [Link](https://x.com/pound75423/status/2061353751387226174) | **Published:** Jun 1, 2026
+
+`Action` `Ring Fight` `Photoreal` `Realistic World` `Creative Asset`
 
 ---
 
@@ -1104,6 +1106,8 @@ NO
 
 **Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2061355470229782555) | **Published:** Jun 1, 2026
 
+`Action` `Chase` `Meme & Comedy` `Internet Meme` `3D Animation` `Realistic World` `VFX` `Creative Asset` `Tutorial`
+
 ---
 
 ### Style: High-energy cinematic short film, military action thriller, handheld…
@@ -1126,6 +1130,8 @@ Style: High-energy cinematic short film, military action thriller, handheld came
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061357161041813766.mp4)**
 
 **Author:** [Amira Zairi](https://x.com/azed_ai) | **Source:** [Link](https://x.com/azed_ai/status/2061357161041813766) | **Published:** Jun 1, 2026
+
+`Action` `Military` `Photoreal` `Realistic World` `VFX` `Slow-Mo` `POV`
 
 ---
 
@@ -1165,6 +1171,8 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061371826320933043.mp4)**
 
 **Author:** [Ai Arainz](https://x.com/iam_mian7) | **Source:** [Link](https://x.com/iam_mian7/status/2061371826320933043) | **Published:** Jun 1, 2026
+
+`Action` `Gunfight` `Action` `Chase` `3D Animation` `Sci-Fi` `VFX` `Slow-Mo`
 
 ---
 
@@ -1208,6 +1216,8 @@ The final shot must also contain no text at all — only the emotional visual en
 
 **Author:** [Cipher | AI & Web3](https://x.com/cipherwebthree) | **Source:** [Link](https://x.com/cipherwebthree/status/2061377492376785290) | **Published:** Jun 1, 2026
 
+`Story` `Heartwarming` `3D Animation` `Realistic World` `FPV & Aerial` `VFX`
+
 ---
 
 ### 15-second ultra-cinematic sci-fi fantasy sequence inside an infinite library…
@@ -1242,6 +1252,8 @@ Audio: deep cosmic ambience, low gravitational rumble, pages fluttering, wooden 
 
 **Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2061387418205409494) | **Published:** Jun 1, 2026
 
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Sci-Fi` `VFX`
+
 ---
 
 ### Create a cinematic realistic high-speed FPV drone video over Istanbul at night…
@@ -1265,6 +1277,8 @@ No text, no subtitles, no logos, no graphic overlays, no visible red line, no ro
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061390858163753244.mp4)**
 
 **Author:** [ai.gezgini](https://x.com/ai_gezgini) | **Source:** [Link](https://x.com/ai_gezgini/status/2061390858163753244) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Landmark` `Photoreal` `Realistic World` `FPV & Aerial` `Model Showcase`
 
 ---
 
@@ -1322,6 +1336,8 @@ daylight, sunrise, sunset, dawn, golden hour, cartoon, anime, stylized CGI, low 
 
 **Author:** [Zar⭕on](https://x.com/Xaroon_x) | **Source:** [Link](https://x.com/Xaroon_x/status/2061392513181581384) | **Published:** Jun 1, 2026
 
+`Scenery & Spectacle` `Cityscape` `Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `VFX` `FPV & Aerial` `Macro` `Transformation` `POV`
+
 ---
 
 ### Foto ultrarrealista de retransmisión deportiva de una mujer glamurosa sentada…
@@ -1339,6 +1355,8 @@ Foto ultrarrealista de retransmisión deportiva de una mujer glamurosa sentada e
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061392751271235752.mp4)**
 
 **Author:** [Nico](https://x.com/nicos_ai) | **Source:** [Link](https://x.com/nicos_ai/status/2061392751271235752) | **Published:** Jun 1, 2026
+
+`Sports` `Crowd & Fans` `Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `Game UI`
 
 ---
 
@@ -1360,6 +1378,8 @@ She wore a golden sequined dress, standing on the stage of the nightclub. At 0-3
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2061401981655150916) | **Published:** Jun 1, 2026
 
+`Music & Dance` `Dance` `Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `POV`
+
 ---
 
 ### Ultra-realistic sci-fi horror. Abandoned corporate office building at night…
@@ -1377,6 +1397,8 @@ Ultra-realistic sci-fi horror. Abandoned corporate office building at night. Bro
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061403852503761039.mp4)**
 
 **Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2061403852503761039) | **Published:** Jun 1, 2026
+
+`Horror` `Eerie` `Photoreal` `Sci-Fi` `VFX` `Slow-Mo` `POV`
 
 ---
 
@@ -1442,6 +1464,8 @@ No subtitles, captions, logos, watermarks, UI, borders, speech bubbles, comic la
 
 **Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2061409569876906181) | **Published:** Jun 1, 2026
 
+`Action` `Chase` `Anime 2D` `Sci-Fi` `Slow-Mo` `POV` `Tutorial` `Creative Asset`
+
 ---
 
 ### Anime-cinematic style F1 short film, 15 seconds, high pacing, multiple rapid…
@@ -1483,6 +1507,8 @@ Cinematic aspect ratio 16:9 dimension.
 
 **Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [Link](https://x.com/TechieBySA/status/2061415408163295431) | **Published:** Jun 1, 2026
 
+`Auto` `Racing` `Sports` `Crowd & Fans` `Anime 2D` `Realistic World` `POV` `FPV & Aerial`
+
 ---
 
 ### From 0 to 2 seconds, wide high-contrast shot: a cyber-monk noodle chef@image1…
@@ -1514,6 +1540,8 @@ From 13 to 15 seconds, low-angle close-up: gravity returns, the yakuzas crash on
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061416766375420280.mp4)**
 
 **Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2061416766375420280) | **Published:** Jun 1, 2026
+
+`Action` `Wuxia` `Photoreal` `Sci-Fi` `VFX` `Slow-Mo`
 
 ---
 
@@ -1691,6 +1719,8 @@ professional production board,
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061421011892109751.mp4)**
 
 **Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2061421011892109751) | **Published:** Jun 1, 2026
+
+`Action` `Ring Fight` `Anime 2D` `Realistic World` `Creative Asset` `Slow-Mo` `VFX`
 
 ---
 
@@ -1876,6 +1906,8 @@ production board,
 
 **Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2061423454189187437) | **Published:** Jun 1, 2026
 
+`Action` `Ring Fight` `3D Animation` `Realistic World` `Slow-Mo` `VFX` `Creative Asset`
+
 ---
 
 ### Ultra-realistic luxury skincare commercial storyboard, 12 cinematic frames…
@@ -1906,6 +1938,8 @@ Premium French pharmacy aesthetic, warm sunlight storytelling, realistic skin te
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061425900345012720.mp4)**
 
 **Author:** [Smiling Khan](https://x.com/AIwithkhan) | **Source:** [Link](https://x.com/AIwithkhan/status/2061425900345012720) | **Published:** Jun 1, 2026
+
+`Product Ad` `Beauty` `Photoreal` `Realistic World` `Macro` `Creative Asset`
 
 ---
 
@@ -1953,6 +1987,8 @@ Hyper-detailed stone textures, marble, stained glass refraction, fabric and hair
 
 **Author:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **Source:** [Link](https://x.com/Diplomeme/status/2061428801649901572) | **Published:** Jun 1, 2026
 
+`Scenery & Spectacle` `Landmark` `Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `POV`
+
 ---
 
 ### Cinematic golden hour FPV of a vintage 1969 Dodge Charger racing up a scenic…
@@ -1972,6 +2008,8 @@ Camera smoothly tracks from low angles, intense close-ups on the rumbling V8 eng
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061431049523978357.mp4)**
 
 **Author:** [Highlander83art](https://x.com/highlander83Art) | **Source:** [Link](https://x.com/highlander83Art/status/2061431049523978357) | **Published:** Jun 1, 2026
+
+`Auto` `Racing` `Scenery & Spectacle` `Nature` `Photoreal` `Realistic World` `FPV & Aerial` `Macro` `Slow-Mo`
 
 ---
 
@@ -2020,23 +2058,7 @@ Natural human interaction, no exaggerated expressions, consistent golden hour li
 
 **Author:** [Ai Doctor](https://x.com/DoctorAmna11) | **Source:** [Link](https://x.com/DoctorAmna11/status/2061431355305509010) | **Published:** Jun 1, 2026
 
----
-
-### Continue the video from the last frame.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 Prompt
-
-```
-Continue the video from the last frame.
-```
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2061431313454764033/pu/img/xOO-aUyPF2M4OqYk.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061431597274972620.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061431597274972620.mp4)**
-
-**Author:** [C G B E A S T 💎](https://x.com/Boluwatifeolad7) | **Source:** [Link](https://x.com/Boluwatifeolad7/status/2061431597274972620) | **Published:** Jun 1, 2026
+`Story` `Heartwarming` `Photoreal` `Realistic World` `POV`
 
 ---
 
@@ -2072,6 +2094,8 @@ No music.
 
 **Author:** [Framer 🇱🇹](https://x.com/Framer_X) | **Source:** [Link](https://x.com/Framer_X/status/2061440235024810437) | **Published:** Jun 1, 2026
 
+`Action` `Chase` `Photoreal` `Sci-Fi` `FPV & Aerial`
+
 ---
 
 ### Extend the video.
@@ -2106,6 +2130,8 @@ No music.
 
 **Author:** [Framer 🇱🇹](https://x.com/Framer_X) | **Source:** [Link](https://x.com/Framer_X/status/2061440412636921881) | **Published:** Jun 1, 2026
 
+`Action` `Chase` `Photoreal` `Sci-Fi` `FPV & Aerial` `POV` `VFX`
+
 ---
 
 ### A stunning young woman @ Image1 with long blonde hair and blue eyes, sitting in…
@@ -2123,6 +2149,8 @@ A stunning young woman @ Image1 with long blonde hair and blue eyes, sitting in 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061441396549079264.mp4)**
 
 **Author:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2061441396549079264) | **Published:** Jun 1, 2026
+
+`Sports` `Crowd & Fans` `Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `Game UI`
 
 ---
 
@@ -2149,6 +2177,8 @@ The shot changes every 2 seconds, with dynamic, moving shots.
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061449288106828160.mp4)**
 
 **Author:** [hedoήist](https://x.com/hedo_ist) | **Source:** [Link](https://x.com/hedo_ist/status/2061449288106828160) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Cityscape` `Photoreal` `Realistic World` `Transformation`
 
 ---
 
@@ -2291,6 +2321,8 @@ Hard cut to black.
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061449923321790518.mp4)**
 
 **Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2061449923321790518) | **Published:** Jun 1, 2026
+
+`Story` `Twist` `Photoreal` `Realistic World` `POV` `VFX`
 
 ---
 
@@ -2455,6 +2487,8 @@ cut16:
 
 **Author:** [Keiji](https://x.com/Keiji1653050) | **Source:** [Link](https://x.com/Keiji1653050/status/2061454514872525249) | **Published:** Jun 1, 2026
 
+`Food` `Cooking` `Portrait & Fashion` `Portrait` `Anime 2D` `Realistic World` `ASMR` `Macro`
+
 ---
 
 ### Ultra-realistic horror-thriller. Abandoned motel corridor at night. Flickering…
@@ -2587,6 +2621,8 @@ Hard cut to black.
 
 **Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2061456701631742163) | **Published:** Jun 1, 2026
 
+`Horror` `Monster Chase` `Animals` `Pets` `Photoreal` `Realistic World` `VFX` `Slow-Mo`
+
 ---
 
 ### A cinematic 30 second World Cup inspired short film set in a futuristic mega…
@@ -2612,6 +2648,8 @@ Hyper realistic visuals, emotional storytelling, cinematic sports trailer pacing
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061457344265883737.mp4)**
 
 **Author:** [Leonardo](https://x.com/MrOnsase) | **Source:** [Link](https://x.com/MrOnsase/status/2061457344265883737) | **Published:** Jun 1, 2026
+
+`Sports` `Football` `Sports` `Crowd & Fans` `Photoreal` `Sci-Fi` `VFX` `Slow-Mo`
 
 ---
 
@@ -2649,6 +2687,8 @@ The camera slowly pulls away as the bustling city swallows her back into the cro
 
 **Author:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Source:** [Link](https://x.com/jasminekhan90_/status/2061459493226217770) | **Published:** Jun 1, 2026
 
+`Story` `Twist` `Photoreal` `Fantasy` `VFX` `Slow-Mo`
+
 ---
 
 ### A passionate female football fan vlogging inside a massive football stadium…
@@ -2672,6 +2712,8 @@ Video settings: 4K UHD, 60fps, cinematic motion blur, HDR, ultra-detailed, reali
 
 **Author:** [Johnn](https://x.com/john_my07) | **Source:** [Link](https://x.com/john_my07/status/2061463003015573784) | **Published:** Jun 1, 2026
 
+`Sports` `Crowd & Fans` `Photoreal` `Realistic World` `Slow-Mo` `FPV & Aerial` `POV`
+
 ---
 
 ### 15-second cinematic video where [small object] transforms into or reveals…
@@ -2690,6 +2732,8 @@ Video settings: 4K UHD, 60fps, cinematic motion blur, HDR, ultra-detailed, reali
 
 **Author:** [Gadgetify](https://x.com/Gdgtify) | **Source:** [Link](https://x.com/Gdgtify/status/2061464284761354631) | **Published:** Jun 1, 2026
 
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Macro` `Transformation` `VFX`
+
 ---
 
 ### Please generate a high-quality, ultra-high-definition, and clear 16-grid…
@@ -2707,6 +2751,8 @@ Please generate a high-quality, ultra-high-definition, and clear 16-grid storybo
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061466247993389292.mp4)**
 
 **Author:** [Good FortuneX](https://x.com/pound75423) | **Source:** [Link](https://x.com/pound75423/status/2061466247993389292) | **Published:** Jun 1, 2026
+
+`Music & Dance` `Dance` `Photoreal` `Fantasy` `Creative Asset`
 
 ---
 
@@ -2728,6 +2774,8 @@ Starts with handheld-style court tracking, ultra-fast whip pans between players,
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061470349179416644.mp4)**
 
 **Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2061470349179416644) | **Published:** Jun 1, 2026
+
+`Sports` `Other Competition` `Sports` `Crowd & Fans` `Anime 2D` `Realistic World` `VFX` `Slow-Mo` `POV`
 
 ---
 
@@ -2753,6 +2801,8 @@ One continuous fluid cinematic shot with no cuts. Photorealistic, ultra-detailed
 
 **Author:** [Aaliya](https://x.com/AIwithAliya) | **Source:** [Link](https://x.com/AIwithAliya/status/2061473441753276543) | **Published:** Jun 1, 2026
 
+`Animals` `Pets` `Scenery & Spectacle` `Nature` `Photoreal` `Realistic World` `POV` `FPV & Aerial` `VFX`
+
 ---
 
 ### 女性が一人用の白い飛行船を操縦する一人称視点の超美麗なプロアニメ映像。赤い線と矢印は完成映像には一切表示しない。参照画像の白と金を基調にした壮麗な港湾都市を舞台…
@@ -2770,6 +2820,8 @@ One continuous fluid cinematic shot with no cuts. Photorealistic, ultra-detailed
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061473895954440670.mp4)**
 
 **Author:** [Mushraf Ali](https://x.com/MushrafAli3593) | **Source:** [Link](https://x.com/MushrafAli3593/status/2061473895954440670) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Cityscape` `Anime 2D` `Fantasy` `FPV & Aerial` `POV` `VFX`
 
 ---
 
@@ -2810,6 +2862,8 @@ Post-Processing: Golden-hour color grading, realistic water reflections, enhance
 
 **Author:** [Shami](https://x.com/ShamiWeb3) | **Source:** [Link](https://x.com/ShamiWeb3/status/2061474994417500439) | **Published:** Jun 1, 2026
 
+`Scenery & Spectacle` `Landmark` `Photoreal` `Realistic World` `FPV & Aerial` `VFX` `Slow-Mo`
+
 ---
 
 ### 15-second cinematic video of [specialized vehicle] outrunning [extreme weather…
@@ -2827,6 +2881,8 @@ Post-Processing: Golden-hour color grading, realistic water reflections, enhance
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061481900795961836.mp4)**
 
 **Author:** [Gadgetify](https://x.com/Gdgtify) | **Source:** [Link](https://x.com/Gdgtify/status/2061481900795961836) | **Published:** Jun 1, 2026
+
+`Auto` `Racing` `Action` `Chase` `Photoreal` `Realistic World` `FPV & Aerial` `POV` `Slow-Mo`
 
 ---
 
@@ -2977,6 +3033,8 @@ Make the sequence heroic, fast, exciting, cinematic, and action-heavy.
 
 **Author:** [Okan Can](https://x.com/0kncn) | **Source:** [Link](https://x.com/0kncn/status/2061503375661830343) | **Published:** Jun 1, 2026
 
+`Action` `Kaiju` `3D Animation` `Fantasy` `VFX` `Creative Asset`
+
 ---
 
 ### KAI — IRON TIDE
@@ -3117,6 +3175,8 @@ clean CGI, smooth rendering, Pixar style, anime cel shading, photorealism, gloss
 
 **Author:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2061511378268287340) | **Published:** Jun 1, 2026
 
+`Action` `Chase` `3D Animation` `Fantasy` `VFX` `FPV & Aerial` `Macro` `Creative Asset`
+
 ---
 
 ### Transform the uploaded character into a soft fuzzy 3D animated cartoon style…
@@ -3134,6 +3194,8 @@ Transform the uploaded character into a soft fuzzy 3D animated cartoon style wit
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061526145837797828.mp4)**
 
 **Author:** [ibexdream](https://x.com/ibexdream) | **Source:** [Link](https://x.com/ibexdream/status/2061526145837797828) | **Published:** Jun 1, 2026
+
+`Portrait & Fashion` `Portrait` `3D Animation` `Realistic World` `Transformation`
 
 ---
 
@@ -3172,6 +3234,8 @@ Final style: stylized fantasy, sculpted anime-fantasy character faithful to the 
 
 **Author:** [Kōda](https://x.com/aimikoda) | **Source:** [Link](https://x.com/aimikoda/status/2061541946422669535) | **Published:** Jun 1, 2026
 
+`Story` `Drama` `3D Animation` `Fantasy` `VFX`
+
 ---
 
 ### the camera is attached to the roof of a riding car, focused on the road sign…
@@ -3189,6 +3253,8 @@ the camera is attached to the roof of a riding car, focused on the road sign and
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061542292092309733.mp4)**
 
 **Author:** [AmirMušić](https://x.com/AmirMushich) | **Source:** [Link](https://x.com/AmirMushich/status/2061542292092309733) | **Published:** Jun 1, 2026
+
+`Auto` `POV Drive` `Retro Film` `Realistic World` `POV`
 
 ---
 
@@ -3248,6 +3314,8 @@ Dirty cinematic puppet combat, underground arena lighting, hot pink ropes, handm
 
 **Author:** [Krista Gable](https://x.com/DomainDomme) | **Source:** [Link](https://x.com/DomainDomme/status/2061543868433121772) | **Published:** Jun 1, 2026
 
+`Action` `Ring Fight` `Photoreal` `Realistic World` `POV`
+
 ---
 
 ### A high-energy anime football sequence inspired by classic sports anime — Spain…
@@ -3274,6 +3342,8 @@ Audio and voices: epic anime sports soundtrack — heroic, fast percussion, risi
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061544105629585787.mp4)**
 
 **Author:** [MayorkingAI](https://x.com/MayorKingAI) | **Source:** [Link](https://x.com/MayorKingAI/status/2061544105629585787) | **Published:** Jun 1, 2026
+
+`Sports` `Football` `Anime 2D` `Realistic World` `VFX` `Slow-Mo` `FPV & Aerial`
 
 ---
 
@@ -3304,6 +3374,8 @@ No hovering, no direct standoffs, constant motion, realistic spacing, tactical p
 
 **Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2061573253320040722) | **Published:** Jun 1, 2026
 
+`Action` `Military` `Photoreal` `Sci-Fi` `VFX`
+
 ---
 
 ### Cinematic, high-speed tracking shot running parallel to a getaway car tearing…
@@ -3326,6 +3398,8 @@ Gritty, realistic street lighting, intense sensation of raw speed, 8k cinematic 
 
 **Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2061578354378093033) | **Published:** Jun 1, 2026
 
+`Action` `Chase` `Photoreal` `Realistic World`
+
 ---
 
 ### Master Style Anchor 3D animation, cinematic lighting, rich saturated colors, 4K…
@@ -3343,6 +3417,8 @@ Master Style Anchor 3D animation, cinematic lighting, rich saturated colors, 4K 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061586471786561973.mp4)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2061586471786561973) | **Published:** Jun 1, 2026
+
+`Story` `Drama` `3D Animation` `Fantasy`
 
 ---
 
@@ -3362,6 +3438,8 @@ Master Style Anchor 3D animation, cinematic lighting, rich saturated colors, 4K 
 
 **Author:** [Kiber Alla](https://x.com/Kiber_Alla) | **Source:** [Link](https://x.com/Kiber_Alla/status/2060880439519195338) | **Published:** May 31, 2026
 
+`Portrait & Fashion` `Fashion` `Animals` `Wildlife` `Photoreal` `Realistic World` `Slow-Mo`
+
 ---
 
 ### @ referenceimg1 gritty, ultrafine natural lighting real live action…
@@ -3379,6 +3457,8 @@ Master Style Anchor 3D animation, cinematic lighting, rich saturated colors, 4K 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060890445455196308.mp4)**
 
 **Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2060890445455196308) | **Published:** May 31, 2026
+
+`Portrait & Fashion` `Portrait` `Action` `Chase` `Photoreal` `Realistic World` `Model Showcase`
 
 ---
 
@@ -3413,6 +3493,8 @@ Intense realistic sound effects only: deafening gunshots with temple reverb, met
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060894951710339219.mp4)**
 
 **Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2060894951710339219) | **Published:** May 31, 2026
+
+`Action` `Gunfight` `Photoreal` `Sci-Fi` `VFX` `Slow-Mo` `FPV & Aerial`
 
 ---
 
@@ -3480,6 +3562,8 @@ Maintain the same host, same hairstyle, same makeup, same outfit, same handbag, 
 
 **Author:** [Shami](https://x.com/ShamiWeb3) | **Source:** [Link](https://x.com/ShamiWeb3/status/2060909485775098324) | **Published:** May 31, 2026
 
+`Product Ad` `Luxury` `Photoreal` `Realistic World` `Macro` `POV` `VFX` `Creative Asset`
+
 ---
 
 ### Treat the attached storyboard @[image] as your guide for both look and motion.
@@ -3509,6 +3593,8 @@ blur or defocus any background signage rather than rendering fake characters.
 
 **Author:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **Source:** [Link](https://x.com/ivanka_humeniuk/status/2060916044538003641) | **Published:** May 31, 2026
 
+`Action` `Wuxia` `Anime 2D` `Fantasy` `Slow-Mo` `Creative Asset`
+
 ---
 
 ### 奇幻史诗视觉奇观 (Fantasy Epic Visual Spectacle)。顶级电影特效，大场面交响乐节奏感。视觉风格核心对比：渺小的人体 vs…
@@ -3524,6 +3610,8 @@ blur or defocus any background signage rather than rendering fake characters.
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060926390204010936.mp4)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2060926390204010936) | **Published:** May 31, 2026
+
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Fantasy` `VFX`
 
 ---
 
@@ -3543,6 +3631,8 @@ A 15-second Pixar-style 3D animated comedic short, NO dialogue, told entirely th
 
 **Author:** [ShadeLurk](https://x.com/ShadeLurk) | **Source:** [Link](https://x.com/ShadeLurk/status/2060928156861903087) | **Published:** May 31, 2026
 
+`Meme & Comedy` `Anthropomorphic` `3D Animation` `Realistic World` `VFX` `Slow-Mo`
+
 ---
 
 ### A sleek product placed on a glossy black pedestal in a dark studio. The camera…
@@ -3561,6 +3651,8 @@ A sleek product placed on a glossy black pedestal in a dark studio. The camera s
 
 **Author:** [ORHAN](https://x.com/OrhanGhazi65942) | **Source:** [Link](https://x.com/OrhanGhazi65942/status/2060928790277275792) | **Published:** May 31, 2026
 
+`Product Ad` `Luxury` `Photoreal` `Sci-Fi` `VFX` `Transformation` `Model Showcase`
+
 ---
 
 ### Aerial hyper-time-lapse from Worli Sea Face at 12:00 PM. The Arabian Sea slaps…
@@ -3578,6 +3670,8 @@ Aerial hyper-time-lapse from Worli Sea Face at 12:00 PM. The Arabian Sea slaps v
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060948664449708197.mp4)**
 
 **Author:** [Dev Khanna](https://x.com/CurieuxExplorer) | **Source:** [Link](https://x.com/CurieuxExplorer/status/2060948664449708197) | **Published:** May 31, 2026
+
+`Scenery & Spectacle` `Cityscape` `Photoreal` `Realistic World` `FPV & Aerial`
 
 ---
 
@@ -3661,6 +3755,8 @@ FINAL CTA:
 
 **Author:** [Zara](https://x.com/ZaraIrahh) | **Source:** [Link](https://x.com/ZaraIrahh/status/2060950288698343666) | **Published:** May 31, 2026
 
+`Product Ad` `Fitness` `Photoreal` `Realistic World` `POV` `Macro`
+
 ---
 
 ### The Kite That Wouldn’t Fly
@@ -3693,6 +3789,8 @@ No text, no subtitles, no narration.
 
 **Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2060954432938836406) | **Published:** May 31, 2026
 
+`Story` `Heartwarming` `3D Animation` `Realistic World`
+
 ---
 
 ### The Cracked Water Pot
@@ -3721,6 +3819,8 @@ No text, no subtitles, no narration.
 
 **Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2060956146928955658) | **Published:** May 31, 2026
 
+`Story` `Heartwarming` `3D Animation` `Realistic World`
+
 ---
 
 ### A cinematic Sunday morning "Get Ready With Me for Church" video. A beautiful…
@@ -3739,6 +3839,8 @@ A cinematic Sunday morning "Get Ready With Me for Church" video. A beautiful you
 
 **Author:** [Jan Baebi♥️🦋](https://x.com/AmyOsua) | **Source:** [Link](https://x.com/AmyOsua/status/2060956942344855984) | **Published:** May 31, 2026
 
+`Portrait & Fashion` `GRWM` `Photoreal` `Realistic World` `Transformation`
+
 ---
 
 ### Create a high-end 4:3 luxury whisky pitch deck storyboard in 3x4 grid (12…
@@ -3756,6 +3858,8 @@ Create a high-end 4:3 luxury whisky pitch deck storyboard in 3x4 grid (12 frames
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060962529317409185.mp4)**
 
 **Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2060962529317409185) | **Published:** May 31, 2026
+
+`Product Ad` `Luxury` `Photoreal` `Realistic World` `Creative Asset`
 
 ---
 
@@ -3823,6 +3927,8 @@ Negative: different face between scenes, AI-generic face, different person, mult
 
 **Author:** [Lilidi · AI](https://x.com/lilidiai) | **Source:** [Link](https://x.com/lilidiai/status/2060968374096568393) | **Published:** May 31, 2026
 
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
+
 ---
 
 ### [Hybrid Mandarin-English Prompt] Multi-shot cinematic sequence. 8 shots. 15…
@@ -3880,6 +3986,8 @@ Physical SFX: 两人全程贴麦沉重呼吸声，衣服摩擦声和宽喇叭裤
 
 **Author:** [CB_Fighters](https://x.com/CB_Fighters) | **Source:** [Link](https://x.com/CB_Fighters/status/2060968534734176614) | **Published:** May 31, 2026
 
+`Action` `Ring Fight` `Photoreal` `Realistic World` `VFX`
+
 ---
 
 ### A young male trader in a white dress shirt sits at a multi-monitor trading…
@@ -3903,6 +4011,8 @@ Style: cinematic blockbuster, Christopher Nolan inspired.
 
 **Author:** [Cia0](https://x.com/Cia0_exe) | **Source:** [Link](https://x.com/Cia0_exe/status/2060976695428149301) | **Published:** May 31, 2026
 
+`Story` `Twist` `Photoreal` `Realistic World` `VFX` `Slow-Mo`
+
 ---
 
 ### A heartwarming cinematic rescue story. A young girl walks through a misty…
@@ -3920,6 +4030,8 @@ A heartwarming cinematic rescue story. A young girl walks through a misty forest
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060992676657250473.mp4)**
 
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2060992676657250473) | **Published:** May 31, 2026
+
+`Story` `Heartwarming` `Animals` `Wildlife` `Photoreal` `Realistic World` `VFX` `Macro` `Slow-Mo`
 
 ---
 
@@ -3961,6 +4073,8 @@ Technical Specifications: ARRI Alexa 65 cinema camera, Zeiss Master Prime lenses
 
 **Author:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Source:** [Link](https://x.com/itsshara_ai/status/2060996944403775651) | **Published:** May 31, 2026
 
+`Product Ad` `F&B` `Photoreal` `Realistic World` `Slow-Mo` `Macro` `VFX`
+
 ---
 
 ### Use the attached 16-panel storyboard grid as the PRIMARY motion blueprint for…
@@ -3978,6 +4092,8 @@ Use the attached 16-panel storyboard grid as the PRIMARY motion blueprint for th
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061005312489078865.mp4)**
 
 **Author:** [PhotoGPT](https://x.com/itsphotogptai) | **Source:** [Link](https://x.com/itsphotogptai/status/2061005312489078865) | **Published:** May 31, 2026
+
+`Action` `Wuxia` `Photoreal` `Realistic World` `Creative Asset`
 
 ---
 
@@ -4031,6 +4147,8 @@ THE NEON SPELL
 
 **Author:** [Nimentrix](https://x.com/nimentrix) | **Source:** [Link](https://x.com/nimentrix/status/2061014123023126656) | **Published:** May 31, 2026
 
+`Action` `Superpower` `Anime 2D` `Sci-Fi` `VFX`
+
 ---
 
 ### Create a cinematic realistic high-speed drone video over Istanbul at golden…
@@ -4047,6 +4165,8 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061022068330672379.mp4)**
 
 **Author:** [ai.gezgini](https://x.com/ai_gezgini) | **Source:** [Link](https://x.com/ai_gezgini/status/2061022068330672379) | **Published:** May 31, 2026
+
+`Scenery & Spectacle` `Cityscape` `Photoreal` `Realistic World` `FPV & Aerial`
 
 ---
 
@@ -4065,6 +4185,8 @@ Based on the attached storyboard images, create a 15-second horizontal 16:9 anim
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061022732754596140.mp4)**
 
 **Author:** [Zar⭕on](https://x.com/Xaroon_x) | **Source:** [Link](https://x.com/Xaroon_x/status/2061022732754596140) | **Published:** May 31, 2026
+
+`Food` `Cooking` `3D Animation` `Realistic World` `Macro`
 
 ---
 
@@ -4104,6 +4226,8 @@ Audio: ONLY cinematic sound effects, no music. Deep cavern ambience, distant wat
 
 **Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2061025130675892499) | **Published:** May 31, 2026
 
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Fantasy` `VFX` `FPV & Aerial`
+
 ---
 
 ### Pixar-quality 3D animation, expressive character acting, cinematic realism…
@@ -4121,6 +4245,8 @@ Pixar-quality 3D animation, expressive character acting, cinematic realism, warm
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061029991035658751.mp4)**
 
 **Author:** [Aaliya](https://x.com/AIwithAliya) | **Source:** [Link](https://x.com/AIwithAliya/status/2061029991035658751) | **Published:** May 31, 2026
+
+`Sports` `Extreme` `Story` `Drama` `3D Animation` `Realistic World` `VFX` `Macro` `Slow-Mo`
 
 ---
 
@@ -4179,6 +4305,8 @@ NEGATIVE: serious violent tone, injury, blood, gore, single character only, miss
 
 **Author:** [Cia0](https://x.com/Cia0_exe) | **Source:** [Link](https://x.com/Cia0_exe/status/2061037676162338960) | **Published:** May 31, 2026
 
+`Action` `Ring Fight` `Meme & Comedy` `Internet Meme` `Anime 2D` `Fantasy` `VFX`
+
 ---
 
 ### Use @[storyboard ref] as the authoritative shot blueprint. Do not render the…
@@ -4209,6 +4337,8 @@ Final style: premium cinematic anime-fantasy film, stylized cinematic realism, p
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061042023101018474.mp4)**
 
 **Author:** [Kōda](https://x.com/aimikoda) | **Source:** [Link](https://x.com/aimikoda/status/2061042023101018474) | **Published:** May 31, 2026
+
+`Action` `Superpower` `Horror` `Monster Chase` `Anime 2D` `Fantasy` `Slow-Mo` `VFX`
 
 ---
 
@@ -4243,6 +4373,8 @@ SHOT 11: Long take transitioning to character close up, 50mm / After crossing th
 
 **Author:** [Latte](https://x.com/0xbisc) | **Source:** [Link](https://x.com/0xbisc/status/2061045166149116402) | **Published:** May 31, 2026
 
+`Sports` `Extreme` `Hand-drawn` `Realistic World` `POV` `Macro` `FPV & Aerial`
+
 ---
 
 ### Create a hyper-realistic 15-second cinematic "Get Ready With Me" reel.
@@ -4276,6 +4408,8 @@ Style: Ultra-realistic 4K, cinematic RED camera look, warm golden color grading,
 
 **Author:** [Anissa](https://x.com/SimplyAnnisa) | **Source:** [Link](https://x.com/SimplyAnnisa/status/2061057898256707648) | **Published:** May 31, 2026
 
+`Portrait & Fashion` `GRWM` `Sports` `Football` `Photoreal` `Realistic World` `Macro` `POV`
+
 ---
 
 ### 15 second epic fantasy action video. One single continuous shot, no cuts, no…
@@ -4293,6 +4427,8 @@ Style: Ultra-realistic 4K, cinematic RED camera look, warm golden color grading,
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061058519105929423.mp4)**
 
 **Author:** [Umesh](https://x.com/umesh_ai) | **Source:** [Link](https://x.com/umesh_ai/status/2061058519105929423) | **Published:** May 31, 2026
+
+`Action` `Wuxia` `Photoreal` `Fantasy` `FPV & Aerial` `Slow-Mo` `VFX`
 
 ---
 
@@ -4340,27 +4476,355 @@ Style: Ultra-realistic 4K, cinematic RED camera look, warm golden color grading,
 
 **Author:** [Larus Canus](https://x.com/MrLarus) | **Source:** [Link](https://x.com/MrLarus/status/2061060244696863066) | **Published:** May 31, 2026
 
+`Music & Dance` `Dance` `Photoreal` `Fantasy` `Slow-Mo`
+
 ---
 
-### 아이폰으로 촬영한 보정되지 않은 핸드헬드 영상 스타일로 제작되었으며, 모든 카메라 설정은 자동이고 색 보정이나 특수 효과는 후처리되지…
+### @Koyuki_ModelSheet を最優先のキャラクター参照画像として使用してください。
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 #### 📝 Prompt
 
 ```
-아이폰으로 촬영한 보정되지 않은 핸드헬드 영상 스타일로 제작되었으며, 모든 카메라 설정은 자동이고 색 보정이나 특수 효과는 후처리되지 않았습니다. 영상에는 실제 핸드헬드 촬영 특유의 미세한 흔들림과 촬영자의 숨소리가 담겨
+@Koyuki_ModelSheet を最優先のキャラクター参照画像として使用してください。
+@TokyoNight_StoryGrid をモーションコンテ参照画像として使用してください。
+@BG_TokyoNight_Board を背景参照画像として使用してください。
+
+この映像は、白月こゆきが東京の夜の空と街並みを、ものすごい速度で駆け抜ける15秒の映像です。
+映像全体は、@TokyoNight_StoryGrid の流れに沿って進行してください。
+ただし、絵コンテやグリッドの静止画をそのまま再現するのではなく、全体をひと続きの自然な映像としてシームレスにつないでください。
+
+重要：
+・@TokyoNight_StoryGrid は動き、構図、カメラの流れ、演出意図を参照するためのものです
+・@BG_TokyoNight_Board は背景世界観の参照です
+・@Koyuki_ModelSheet は白月こゆきの見た目固定のための最重要参照です
+・画面内に絵コンテのコマ、数字、説明文、指示文、テロップ、字幕、ロゴ、透かしは表示しないでください
+・映像の最初に絵コンテそのものを表示しないでください
+・映像は最初から本編として始めてください
+
+映像内容：
+白月こゆきは、幼く愛らしい白狐の少女です。
+白い狐耳、ふわふわの白いしっぽ、白を基調に金装飾の入った幻想的な衣装、やわらかな毛並み、上品で可愛い印象を保ってください。
+東京の夜景を背景に、こゆきが夜空を高速で飛行・疾走します。
+ただ速いだけでなく、可愛さと幻想性、そして圧倒的なスピード感を同時に見せてください。
+
+演出方針：
+・東京の高層ビル群、ネオン、夜景、道路の光、都市の輝きを美しく見せる
+・ビルの上空を飛ぶだけではなく、途中でビルの合間の狭い空間をすり抜けるようなカットを入れてください
+・都市の谷間を高速で抜けることで、疾走感とスリルを強く見せてください
+・こゆきのしっぽ、髪、衣装の裾、袖、装飾が、スピードに合わせてなびくようにしてください
+・小さな身体で、人間離れした軽やかさと俊敏さを見せてください
+・スピードの中でも、こゆきの可愛らしさが失われないようにしてください
+・最後は少し減速し、こちらへ振り向く印象的な締めにしてください
+
+キャラクター固定：
+・白月こゆきの顔立ち、髪型、耳、しっぽ、衣装、配色、装飾、体格、年少感は @Koyuki_ModelSheet に忠実に固定してください
+・途中で等身や衣装デザインを変えないでください
+・幼く愛らしい印象を維持してください
+・表情は基本的に夢中で生き生きとした表情、驚きと楽しさのある表情にしてください
+・最後にこちらを振り向く場面では、可愛く印象に残る表情にしてください
+
+背景運用：
+・背景は @BG_TokyoNight_Board をもとに統一してください
+・東京の夜景、高層ビル群、ネオン、道路の明かり、空の広がりを使ってください
+・ビル屋上付近、空中、ビルの隙間、少し開けた上空など、背景ボード内の要素を動きに応じて自然に使い分けてください
+・背景が急に不自然に切り替わるのではなく、空間を移動しているように滑らかにつないでください
+
+カメラ方針：
+・カメラは基本的に、こゆきを後方から追う疑似ドローンショットを中心にしてください
+・必要に応じて少し横へ回り込んだり、斜め後ろから追ったり、少し引いたり寄ったりして、スピード感を強調してください
+・カメラは常に滑らかに動き、カットが飛んだような印象にならないようにしてください
+・ビルの合間を抜ける場面では、カメラも一緒に狭い空間を追従し、迫力のある抜け感を見せてください
+・最後はこゆきが少し減速し、こちらへ振り向く構図に自然につないでください
+
+動きの流れ：
+・夜の東京上空を高速で飛び始める
+・高層ビルの上空や周囲を駆け抜ける
+・途中でビルの合間の狭いルートへ入り込み、スピーディーにすり抜ける
+・再び少し開けた空間へ出て、夜景の美しさと速度感を見せる
+・最後は少し減速しながら、こゆきがこちらを振り向いて締める
+
+音：
+・BGMなし
+・セリフなし
+・環境音と効果音のみ
+・高速移動時の風切り音
+・衣装や布がなびく音
+・都市上空の空気感
+・ビルの合間を抜ける時の鋭い抜け音
+・幻想的で軽やかな効果音を少し加えてもよい
+・全体として、スピード感と幻想性が共存する音作りにしてください
+
+全体として、
+@Koyuki_ModelSheet の白月こゆきを正確に保ち、
+@TokyoNight_StoryGrid の流れをもとに、
+@BG_TokyoNight_Board の背景世界観を使って、
+東京の夜空とビル群の中を、白月こゆきが超高速で可愛く幻想的に駆け抜け、
+最後にこちらを振り向く、15秒のシームレスで迫力ある映像として完成させてください。
 ```
 
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061061420259692545/img/3RpKXH2sZ3acM7Iq.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061062281035731348.mp4)
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061066289603551232/img/8QxQafDWAJzN6r9s.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061066419869974915.mp4)
 
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061062281035731348.mp4)**
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061066419869974915.mp4)**
 
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2061062281035731348) | **Published:** May 31, 2026
+**Author:** [楽園](https://x.com/dave392750) | **Source:** [Link](https://x.com/dave392750/status/2061066419869974915) | **Published:** May 31, 2026
+
+`Action` `Chase` `Anime 2D` `Fantasy` `FPV & Aerial` `Model Showcase`
+
+---
+
+### STYLE:
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+STYLE:
+ultra cinematic anime magical-girl fantasy animation, dreamy pastel fantasy aesthetic, highly detailed anime rendering, soft pink cloud environments, glowing magical particles, ethereal cinematic lighting, soft bloom effects, fantasy transformation atmosphere, whimsical emotional storytelling, sparkling magical realism, cinematic depth of field, floating petals, glossy magical energy effects, elegant fantasy costume details, emotional anime cinematography, warm pink-and-gold lighting palette, premium animated film quality, highly polished fantasy anime visuals.
+
+FOCUS:
+strong magical transformation storytelling, emotional visual rhythm, elegant fantasy camera movement, magical energy buildup, floating cloud environments, expressive character acting, soft fantasy lighting transitions, cinematic magical effects, dreamy environmental continuity, dynamic transformation motion, immersive fantasy atmosphere, visually satisfying magical progression.
+
+CHARACTER DESIGN:
+Lumi:
+A sweet magical anime girl with fluffy pastel-pink twin buns, long flowing pink hair ribbons, large sparkling pink eyes, soft rounded anime facial features, delicate blush tones, heart-shaped hair accessories, tiny golden bell ornaments, luxurious fluffy white-and-pink fantasy dress with layered frills and glowing ribbon details, elegant magical-girl proportions, warm innocent personality, soft emotional expressions, graceful floating movement, highly detailed anime styling.
+
+WORLD DESIGN:
+The story takes place across a dreamy celestial cloud realm floating above the sky at sunrise. The environment contains glowing cloud platforms, soft golden sunlight, magical heart-shaped energy formations, drifting flower petals, sparkling pink particles, floating ribbons of light, glowing magical sigils, swirling cloud currents, radiant sky gradients, magical aura trails, and luminous fantasy portals made from heart-shaped energy.
+
+[0s – 1s]
+SHOT 1 — THE SLEEPING LOCKET.
+Extreme cinematic close-up shot of an ornate pink-and-gold magical locket resting gently on soft glowing clouds during sunrise. Tiny sparkles drift through the air while the locket slowly begins glowing from within.
+
+Dialogue:
+None.
+
+SFX:
+Soft magical humming, distant wind ambience, gentle sparkle chimes.
+
+Camera:
+Static macro close-up with slow cinematic light bloom.
+
+[1s – 2s]
+SHOT 2 — THE HEART AWAKENS.
+The magical locket slowly opens as radiant pink heart-shaped energy rises from inside. Floating glitter particles spiral upward while warm light reflects across the clouds.
+
+Dialogue:
+None.
+
+SFX:
+Soft magical activation, crystalline sparkle sounds, glowing energy pulse.
+
+Camera:
+Gentle cinematic push-in toward the glowing heart energy.
+
+[2s – 3s]
+SHOT 3 — THE GIRL APPEARS.
+Lumi materializes softly from glowing pink mist while holding the floating heart light close to her chest. Her long ribbons and hair drift gracefully through the air while warm magical light wraps around her body.
+
+Dialogue:
+Soft happy breath.
+
+SFX:
+Floating magical particles, soft wind currents, shimmering energy.
+
+Camera:
+Medium cinematic push-in centered on Lumi.
+
+[3s – 4s]
+SHOT 4 — REACHING FORWARD.
+Close-up emotional shot. Lumi opens her eyes warmly and reaches one hand gently toward the viewer while glowing particles float around her face. Bright cloud backlight surrounds her silhouette.
+
+Dialogue:
+None.
+
+SFX:
+Soft magical wind, sparkling petals, glowing ambience.
+
+Camera:
+Slow cinematic push-in close-up.
+
+[4s – 5s]
+SHOT 5 — THE HEART SKY OPENS.
+Wide fantasy arena shot above the clouds. Lumi raises the glowing heart upward as enormous heart-shaped energy blooms across the sky. Floating cloud islands and radiant sunlight appear around her.
+
+Dialogue:
+None.
+
+SFX:
+Rushing magical wind, expanding energy pulse, distant magical chimes.
+
+Camera:
+Wide cinematic pullback revealing the full sky arena.
+
+[5s – 6s]
+SHOT 6 — THE PORTAL FORMS.
+A giant glowing heart portal forms above Lumi while pink energy spirals around the clouds. Magical rings rotate overhead as the portal radiates warm celestial light.
+
+Dialogue:
+None.
+
+SFX:
+Swirling magical vortex, soft energy resonance, sparkling wind.
+
+Camera:
+Slow upward tilt emphasizing the massive portal.
+
+[6s – 7s]
+SHOT 7 — ASCENDING INTO MAGIC.
+Lumi floats upward into the glowing heart portal while ribbons and petals swirl dramatically around her body. The clouds spiral beneath her as golden light floods the environment.
+
+Dialogue:
+Soft joyful laugh.
+
+SFX:
+Wind acceleration, magical aura bloom, floating petals.
+
+Camera:
+Low-angle cinematic tilt-up following her ascent.
+
+[7s – 8s]
+SHOT 8 — THE MID-AIR SPIN.
+Inside the magical heart portal, Lumi spins gracefully in midair while glowing ribbon trails create elegant spirals around her. Her dress and hair flow dynamically with the magical currents.
+
+Dialogue:
+None.
+
+SFX:
+Flowing magical ribbons, sparkling echoes, soft bell sounds.
+
+Camera:
+Smooth cinematic orbit movement around Lumi.
+
+[8s – 9s]
+SHOT 9 — DESCENT THROUGH CLOUDS.
+Lumi slowly descends through a sea of glowing clouds while magical trails follow her movement. Floating petals and soft rays of sunlight surround the scene.
+
+Dialogue:
+None.
+
+SFX:
+Gentle wind ambience, magical particle shimmer.
+
+Camera:
+Wide cinematic follow-down movement.
+
+[9s – 10s]
+SHOT 10 — THE LANDING.
+Lumi lands softly on a glowing magical sigil platform among the clouds, kneeling briefly as magical energy ripples outward beneath her.
+
+Dialogue:
+Soft relieved breath.
+
+SFX:
+Magical impact pulse, soft bell resonance, fading sparkles.
+
+Camera:
+Slow dramatic push-in from low angle.
+
+[10s – 11s]
+SHOT 11 — RADIANT SMILE.
+Lumi rises gracefully and opens her arms while warm sunlight illuminates her face. Floating flower petals and glowing particles drift around her in the bright sky.
+
+Dialogue:
+Gentle happy laugh.
+
+SFX:
+Soft wind, magical bloom ambience, shimmering particles.
+
+Camera:
+Medium cinematic push-in.
+
+[11s – 12s]
+SHOT 12 — FINAL HERO SHOT.
+Final cinematic close-up. Lumi smiles warmly toward the viewer and extends one hand forward while a glowing heart-shaped aura forms behind her against the radiant fantasy sky.
+
+Dialogue:
+None.
+
+SFX:
+Soft magical glow, floating petals, peaceful fantasy ambience.
+
+Camera:
+Slow cinematic pull-in ending on her face.
+
+NO SUBTITLES.
+NO TEXT ON SCREEN.
+NO CAPTIONS.
+NO OPENING TITLES.
+NO END TITLES.
+NO WATERMARKS.
+NO UI ELEMENTS.
+NO PANEL BORDERS.
+NO SPEECH BUBBLES.
+NO CHINESE OR ENGLISH CHARACTERS ANYWHERE IN FRAME.
+All dialogue must exist only as natural in-scene audio.
+The final video must look like a clean cinematic magical fantasy anime short film with emotional visual storytelling, seamless transformation pacing, and highly polished cinematic animation continuity.
+```
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061066386382958592/img/3Gtw7uljRtxTBVCR.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061067593059107051.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061067593059107051.mp4)**
+
+**Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2061067593059107051) | **Published:** May 31, 2026
+
+`Action` `Superpower` `Anime 2D` `Fantasy` `Macro` `Transformation` `VFX`
+
+---
+
+### 16:9 aspect ratio, 15 seconds total duration, one single continuous shot…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+16:9 aspect ratio, 15 seconds total duration, one single continuous shot throughout, no cuts, no edits, no jumps in continuity, Hollywood blockbuster premium fantasy action trailer style, photorealistic 8K, ultra-detailed textures, ultra bright luxury cinematic aesthetic, luminous whites, crystalline blues, warm golden highlights, magical clarity, breathtaking premium fantasy beauty.
+
+Sweeping wide aerial shot over a radiant glacier kingdom at sunrise, brilliant white snow peaks glowing, luminous turquoise crevasses, sparkling snow haze in the air, warm golden sunlight touching the summits. A fierce queen with flowing white hair and intricate ice-blue armor rides a massive armored ice lion along a narrow icy ridge. The camera descends smoothly from high above and glides dynamically beside them as the powerful ice lion charges forward at full speed.
+
+The ice lion leaps gracefully over a cracked ice shelf, lands with realistic heavy impact and snow explosion, then immediately makes a second larger leap across a glowing deep blue crevasse, muscles flexing under armored plates. During the charge, an aggressive frost drake dives in from the side — the queen swiftly blocks with her glowing spear and delivers one powerful strike as the drake passes close, ice shards and snow particles flying everywhere.
+
+The ice lion maintains perfect momentum, racing toward a final towering cliff edge, then launches into a massive final jump toward a high frozen platform. At the apex of the jump, a brief near-frozen slow-motion moment with glittering snow crystals suspended all around, sparkling in the golden sunlight. Motion resumes seamlessly as they land powerfully on the platform and the queen delivers the final decisive blow to the frost drake.
+
+End on a stunning wide cinematic shot from behind the rider and ice lion, revealing an endless glowing ice valley stretching to the horizon with sunlit mountain crowns, warm volumetric god rays piercing through the crisp air, hyper-realistic snow physics, wind effects, and breathtaking premium fantasy beauty.
+```
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061067117106171904/img/67sHPCqJKRGy_8cS.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061067821065646462.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061067821065646462.mp4)**
+
+**Author:** [Bisma AI](https://x.com/Bisma_hunn) | **Source:** [Link](https://x.com/Bisma_hunn/status/2061067821065646462) | **Published:** May 31, 2026
+
+`Action` `Wuxia` `Scenery & Spectacle` `Worldbuilding` `Photoreal` `Fantasy` `VFX` `Slow-Mo` `FPV & Aerial`
+
+---
+
+### Create a clean, professional Pixar-style 3D character sheet of a 6-year-old…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Create a clean, professional Pixar-style 3D character sheet of a 6-year-old girl, highly detailed, vibrant colors, polished family-friendly animation style. Character Description: Adorable 6-year-old girl with soft dark wavy hair tied in a cute high ponytail with a small pink bow. Big sparkling brown eyes, round expressive face, rosy cheeks, small button nose, and a warm friendly smile. She has a healthy, energetic child body type suitable for a 6-year-old. Outfit: Bright yellow t-shirt, light pink shorts, white ankle socks, and colorful small sneakers (blue and pink accents). Character Sheet Layout: A single clean vertical character sheet with multiple views of the same girl arranged neatly: Top Left: Full-body front view, standing naturally with hands on hips, smiling confidently. Top Right: Full-body 3/4 angle view, showing depth and personality. Middle Left: Full-body side profile view (facing right). Middle Right: Full-body back view. Bottom Center: Large close-up of her face showing 4 different expressions in small circles — Happy smile, Surprised, Shy/embarrassed, and Excited/grinning. Bottom Right: Small extra details — close-up of her ponytail with bow, shoe details, and hand poses. Style & Quality: Beautiful 3D Pixar animation style, smooth rounded shapes, expressive eyes, soft realistic textures, vibrant yet soft lighting, clean white background with subtle light shadows, highly polished, professional character design sheet, perfect proportions, studio quality, sharp details, warm and wholesome feel. 16:9 aspect ratio, ultra-detailed, cinematic lighting.
+```
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061070793631805440/img/D0iRAN4Sv6XKEseB.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061071420906676280.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061071420906676280.mp4)**
+
+**Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2061071420906676280) | **Published:** May 31, 2026
+
+`Portrait & Fashion` `Portrait` `3D Animation` `Realistic World` `Creative Asset`
 
 ---
 
 ## 📚 📚 More Prompts
 
-### 🎯 1180 more prompts not shown here
+### 🎯 1141 more prompts not shown here
 
 **👉 [Browse all Seedance 2.0 prompts on Renoise](https://renoise.ai/showcase)**
 
@@ -4369,28 +4833,6 @@ Style: Ultra-realistic 4K, cinematic RED camera look, warm golden color grading,
 ## 💡 Usage Tips
 
 > Community tutorials and tips for getting the most out of Seedance 2.0
-
-### حاول تقليل القطع بين الفريمات بجعل اللقطات متسلسلة لأطول فترة ممكنة أثناء توليد…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 Prompt
-
-```
-حاول تقليل القطع بين الفريمات بجعل اللقطات متسلسلة لأطول فترة ممكنة أثناء توليد الفيديو في Seedance 2
-```
-
-#### 💡 Tips
-
-حاول تقليل القطع بين الفريمات بجعل اللقطات متسلسلة لأطول فترة ممكنة أثناء توليد الفيديو في Seedance 2
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061593920732086272/img/1xOJefYQ_GVhsXry.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061602305854652511.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061602305854652511.mp4)**
-
-**Author:** [NaSsEr OmِAr](https://x.com/nasserhatrash) | **Source:** [Link](https://x.com/nasserhatrash/status/2061602305854652511) | **Published:** Jun 2, 2026
-
----
 
 ### When Seedance 2 fails to produce continuous/fluid one-shot sequences, add a…
 
@@ -4412,29 +4854,7 @@ When Seedance 2 fails to produce continuous/fluid one-shot sequences, add a mapp
 
 **Author:** [Horace Dodd](https://x.com/horacedodd) | **Source:** [Link](https://x.com/horacedodd/status/2061613771924058401) | **Published:** Jun 2, 2026
 
----
-
-### CapCutなどで後からアップスケールして4KにしてもOKなので、Seedance出力は高解像度でなくても4K要件を満たせる
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 Prompt
-
-```
-CapCutなどで後からアップスケールして4KにしてもOKなので、Seedance出力は高解像度でなくても4K要件を満たせる  
-Seedance用プロンプト作成をGrokに投げて、生成用プロンプトを素早く作る
-```
-
-#### 💡 Tips
-
-CapCutなどで後からアップスケールして4KにしてもOKなので、Seedance出力は高解像度でなくても4K要件を満たせる  
-Seedance用プロンプト作成をGrokに投げて、生成用プロンプトを素早く作る
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061237689748525056/img/J0ZvdIZNPESAEr-h.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061237854781706581.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061237854781706581.mp4)**
-
-**Author:** [ゆんゆん。。](https://x.com/manga0365) | **Source:** [Link](https://x.com/manga0365/status/2061237854781706581) | **Published:** Jun 1, 2026
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
 
 ---
 
@@ -4458,39 +4878,7 @@ Seedance用プロンプト作成をGrokに投げて、生成用プロンプト�
 
 **Author:** [うめ｜AIと融合する男📺](https://x.com/willsmile_co_jp) | **Source:** [Link](https://x.com/willsmile_co_jp/status/2061248091920253104) | **Published:** Jun 1, 2026
 
----
-
-### Use the provided storyboard image as the main visual and motion reference…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 Prompt
-
-```
-Use the provided storyboard image as the main visual and motion reference, interpreting each panel as a sequential shot rather than a single image.  
-Follow the storyboard’s panel order, camera logic, motion arrows, and framing to guide shot-to-shot movement.  
-Exclude all storyboard artifacts in the final render (no panels, numbers, labels, arrows, or text).  
-Specify a clear style target in the prompt (e.g., warm 2D cartoon animation, expressive and bouncy).  
-Instruct Seedance to keep the main character fully consistent across all shots (same cat design throughout).  
-Prompt for continuous cause-and-effect motion so the video feels alive and not like moving still images.  
-Direct pacing changes explicitly (fast/chaotic during storm → sharp slow-motion beat at the scoop → calm ending).  
-Use one or two brief holds for comedic timing, but explicitly forbid freezing.  
-Add constant micro-motion details everywhere (steam, foam swirl, fur movement, drifting storm clouds, flickering light) to avoid static frames.
-```
-
-#### 💡 Tips
-
-Use the provided storyboard image as the main visual and motion reference, interpreting each panel as a sequential shot rather than a single image.  
-Follow the storyboard’s panel order, camera logic, motion arrows, and framing to guide shot-to-shot movement.  
-Exclude all storyboard artifacts in the final render (no panels, numbers, labels, arrows, or text).  
-Specify a clear style target in the prompt (e.g., warm 2D cartoon animation, expressive and bouncy).  
-Instruct Seedance to keep the main character fully consistent across all shots (same cat design throughout).  
-Prompt for continuous cause-and-effect motion so the video feels alive and not like moving still images.  
-Direct pacing changes explicitly (fast/chaotic during storm → sharp slow-motion beat at the scoop → calm ending).  
-Use one or two brief holds for comedic timing, but explicitly forbid freezing.  
-Add constant micro-motion details everywhere (steam, foam swirl, fur movement, drifting storm clouds, flickering light) to avoid static frames.
-
-**Author:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **Source:** [Link](https://x.com/ivanka_humeniuk/status/2061277853161865455) | **Published:** Jun 1, 2026
+`Scenery & Spectacle` `Cityscape` `Photoreal` `Realistic World` `FPV & Aerial` `Tutorial`
 
 ---
 
@@ -4516,6 +4904,8 @@ Add constant micro-motion details everywhere (steam, foam swirl, fur movement, d
 
 **Author:** [Creative.Edge CL+](https://x.com/CreativeEdge_CL) | **Source:** [Link](https://x.com/CreativeEdge_CL/status/2061288857577091454) | **Published:** Jun 1, 2026
 
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Sci-Fi` `Tutorial`
+
 ---
 
 ### GPT Image 2で広告ポスター（静止画）を作成し、その画像をそのままSeedance 2.0に渡して動画化するワークフローでCM制作を行う
@@ -4538,6 +4928,8 @@ GPT Image 2で広告ポスター（静止画）を作成し、その画像をそ
 
 **Author:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Source:** [Link](https://x.com/sailorv321/status/2061337551336874081) | **Published:** Jun 1, 2026
 
+`Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
+
 ---
 
 ### Include character-sheet variations for key prop states and poses (e.g., holding…
@@ -4559,6 +4951,8 @@ Include character-sheet variations for key prop states and poses (e.g., holding 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061342144045174839.mp4)**
 
 **Author:** [MD](https://x.com/mdmadeit) | **Source:** [Link](https://x.com/mdmadeit/status/2061342144045174839) | **Published:** Jun 1, 2026
+
+`Action` `Wuxia` `Photoreal` `Fantasy` `Creative Asset` `Tutorial`
 
 ---
 
@@ -4583,6 +4977,8 @@ Provide character face references alone to control character identity in Dreamin
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061344404770787623.mp4)**
 
 **Author:** [taruma sakti](https://x.com/tarumainfo) | **Source:** [Link](https://x.com/tarumainfo/status/2061344404770787623) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Worldbuilding` `Portrait & Fashion` `Portrait` `Photoreal` `Fantasy` `Tutorial`
 
 ---
 
@@ -4611,6 +5007,8 @@ Add explicit stability constraints (no blur/ghosting/flickering/jitter; avoid id
 Lock character identity and wardrobe with concrete details (maintain face consistency; preserve beanie, goggles, puffer jacket, Nike boots for the full 6 seconds) to prevent outfit/identity changes.
 
 **Author:** [Lost 🎯](https://x.com/lostsol) | **Source:** [Link](https://x.com/lostsol/status/2061347408651362773) | **Published:** Jun 1, 2026
+
+`Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `Tutorial` `Transformation`
 
 ---
 
@@ -4646,6 +5044,8 @@ Include negative instructions to prevent storyboard artifacts (no grid/panels/la
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2061348526316249406) | **Published:** Jun 1, 2026
 
+`Action` `Ring Fight` `Photoreal` `Realistic World` `Tutorial`
+
 ---
 
 ### Pollo AI内でGPT Image 2で広告用の静止画を生成し、その画像をSeedance…
@@ -4668,29 +5068,7 @@ Pollo AI内でGPT Image 2で広告用の静止画を生成し、その画像をS
 
 **Author:** [アヲアヒル｜AIクリエイター／プロデューサー（アヲP）](https://x.com/awoahiru) | **Source:** [Link](https://x.com/awoahiru/status/2061349400413442054) | **Published:** Jun 1, 2026
 
----
-
-### Seedanceで生成した動画を参照（リファレンス）としてSeedanceに読み込ませて、後続生成の破綻を抑える
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 Prompt
-
-```
-Seedanceで生成した動画を参照（リファレンス）としてSeedanceに読み込ませて、後続生成の破綻を抑える  
-生成結果に残る赤い線などの不要な要素は、後からSeedance上で消せる
-```
-
-#### 💡 Tips
-
-Seedanceで生成した動画を参照（リファレンス）としてSeedanceに読み込ませて、後続生成の破綻を抑える  
-生成結果に残る赤い線などの不要な要素は、後からSeedance上で消せる
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061358582411694080/img/4nAR7ZfPQBKypalE.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061358767825113467.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061358767825113467.mp4)**
-
-**Author:** [Browncat AI](https://x.com/browncatro1) | **Source:** [Link](https://x.com/browncatro1/status/2061358767825113467) | **Published:** Jun 1, 2026
+`Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
@@ -4717,6 +5095,8 @@ FPV şehir uçuşu için rotayı şu sekansla planlayın: alçaktan geçiş → 
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061361449931256195.mp4)**
 
 **Author:** [DeepTechTR 🇹🇷](https://x.com/DeepTechTR) | **Source:** [Link](https://x.com/DeepTechTR/status/2061361449931256195) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Cityscape` `Photoreal` `Realistic World` `FPV & Aerial` `Tutorial`
 
 ---
 
@@ -4749,6 +5129,8 @@ Prefer a chase over a standing fight for a 15s clip to get more visual variety (
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061370045020917829.mp4)**
 
 **Author:** [Jxmal](https://x.com/drJxmal) | **Source:** [Link](https://x.com/drJxmal/status/2061370045020917829) | **Published:** Jun 1, 2026
+
+`Action` `Chase` `3D Animation` `Fantasy` `Creative Asset` `Tutorial`
 
 ---
 
@@ -4784,6 +5166,8 @@ Set motion pacing explicitly to slow/observational/accidental-feeling and forbid
 
 **Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2061378656350687388) | **Published:** Jun 1, 2026
 
+`Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `POV` `Game UI` `Tutorial`
+
 ---
 
 ### Use Recraft to create the character artwork, then use Seedance 2 to animate it.
@@ -4810,25 +5194,7 @@ In Seedance 2, use direct animation from the character artwork (image-to-video) 
 
 **Author:** [Olga Volosin](https://x.com/OVolosin82152) | **Source:** [Link](https://x.com/OVolosin82152/status/2061387043557519462) | **Published:** Jun 1, 2026
 
----
-
-### Set Seedance 2.0 to 16:9 aspect ratio and 15-second duration for a video clip…
-
-#### 📝 Prompt
-
-```
-Set Seedance 2.0 to 16:9 aspect ratio and 15-second duration for a video clip creation task.
-```
-
-#### 💡 Tips
-
-Set Seedance 2.0 to 16:9 aspect ratio and 15-second duration for a video clip creation task.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061393071560871939/img/ygROGrOGGaqcRw45.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061393241392476439.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061393241392476439.mp4)**
-
-**Author:** [migrok](https://x.com/migrok293703) | **Source:** [Link](https://x.com/migrok293703/status/2061393241392476439) | **Published:** Jun 1, 2026
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
 
 ---
 
@@ -4857,6 +5223,8 @@ PolloAIのGPT Image 2で、キャラ画像を添付して「参照画像に忠�
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061393593571647601.mp4)**
 
 **Author:** [Mankyu | AI動画生成](https://x.com/manaimovie) | **Source:** [Link](https://x.com/manaimovie/status/2061393593571647601) | **Published:** Jun 1, 2026
+
+`Product Ad` `Tech` `Photoreal` `Sci-Fi` `Tutorial`
 
 ---
 
@@ -4888,6 +5256,8 @@ HiggsfieldでAIキャラを先に生成し、そのキャラ前提の台本（�
 
 **Author:** [AI駆動塾](https://x.com/L_go_mrk) | **Source:** [Link](https://x.com/L_go_mrk/status/2061398602233094542) | **Published:** Jun 1, 2026
 
+`Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `Tutorial`
+
 ---
 
 ### Seaartで人物の元絵を3人分作成し、ChatGPTで「スイーツの卓に座らせる」構図に整えてからSeedanceに投入する
@@ -4911,6 +5281,8 @@ Seedanceで描いた軌跡（矢印）を入力して動きのトレースを試
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061405796320379270.mp4)**
 
 **Author:** [Nymphia(ニンフィア)💖☘∞🌱💜](https://x.com/Nymphia_Yuzuki) | **Source:** [Link](https://x.com/Nymphia_Yuzuki/status/2061405796320379270) | **Published:** Jun 1, 2026
+
+`Food` `Plating` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
 
 ---
 
@@ -4946,31 +5318,7 @@ Lock the look by naming a clear art direction stack in the prompt (90s anime + S
 
 **Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2061414435143721422) | **Published:** Jun 1, 2026
 
----
-
-### Use a start-frame/end-frame workflow instead of generating the entire…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 Prompt
-
-```
-Use a start-frame/end-frame workflow instead of generating the entire transformation sequence in one go to make the transformation smoother and more natural.
-
-Generate multiple short clips (rather than one long clip) and then refine pacing and transitions in CapCut to achieve a more seamless, cinematic result.
-```
-
-#### 💡 Tips
-
-Use a start-frame/end-frame workflow instead of generating the entire transformation sequence in one go to make the transformation smoother and more natural.
-
-Generate multiple short clips (rather than one long clip) and then refine pacing and transitions in CapCut to achieve a more seamless, cinematic result.
-
-[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061412305766645760/img/AIwo6_dR1c055x0i.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061414477120016873.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061414477120016873.mp4)**
-
-**Author:** [underwood](https://x.com/underwoodxie96) | **Source:** [Link](https://x.com/underwoodxie96/status/2061414477120016873) | **Published:** Jun 1, 2026
+`Action` `Superpower` `Anime 2D` `Sci-Fi` `Tutorial` `Creative Asset`
 
 ---
 
@@ -5002,27 +5350,7 @@ Set the output framing by specifying the aspect ratio and resolution target in t
 
 **Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [Link](https://x.com/TechieBySA/status/2061415420192571396) | **Published:** Jun 1, 2026
 
----
-
-### Tüm sekansı tek seferde üretmek yerine başlangıç karesi/bitiş karesi (start…
-
-#### 📝 Prompt
-
-```
-Tüm sekansı tek seferde üretmek yerine başlangıç karesi/bitiş karesi (start frame/end frame) iş akışını kullanarak dönüşümü daha pürüzsüz ve doğal hale getir  
-Birden fazla kısa klip üretip ardından CapCut’ta tempoyu ve geçişleri düzenleyerek daha sinematik ve kusursuz bir dönüşüm elde et
-```
-
-#### 💡 Tips
-
-Tüm sekansı tek seferde üretmek yerine başlangıç karesi/bitiş karesi (start frame/end frame) iş akışını kullanarak dönüşümü daha pürüzsüz ve doğal hale getir  
-Birden fazla kısa klip üretip ardından CapCut’ta tempoyu ve geçişleri düzenleyerek daha sinematik ve kusursuz bir dönüşüm elde et
-
-[![Video Preview](https://pbs.twimg.com/ext_tw_video_thumb/2061420202030518272/pu/img/krUv6sjZO9LzQUdO.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061420274881331609.mp4)
-
-📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061420274881331609.mp4)**
-
-**Author:** [DeepTechTR 🇹🇷](https://x.com/DeepTechTR) | **Source:** [Link](https://x.com/DeepTechTR/status/2061420274881331609) | **Published:** Jun 1, 2026
+`Auto` `Racing` `Anime 2D` `Realistic World` `Tutorial`
 
 ---
 
@@ -5070,6 +5398,8 @@ Include style references (Akira, Ghost in the Shell, Into the Spider-Verse) dire
 
 **Author:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Source:** [Link](https://x.com/itsshara_ai/status/2061430920297820299) | **Published:** Jun 1, 2026
 
+`Action` `Wuxia` `Anime 2D` `Sci-Fi` `Tutorial`
+
 ---
 
 ### Use a storyboard-first workflow: generate storyboard frames with GPT-image-2…
@@ -5092,27 +5422,7 @@ Use a storyboard-first workflow: generate storyboard frames with GPT-image-2, ar
 
 **Author:** [Epik Tarih](https://x.com/epiktarih) | **Source:** [Link](https://x.com/epiktarih/status/2061434022484439277) | **Published:** Jun 1, 2026
 
----
-
-### In Seedance 2.0, upload your last generated clip as a reference plus a source…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 Prompt
-
-```
-In Seedance 2.0, upload your last generated clip as a reference plus a source image as an additional reference to maintain continuity while extending the video.  
-Use an Extend the video prompt with explicit [cut] markers and shot descriptions (e.g., behind-the-men cockpit shot, over-the-shoulder shot, front shot) to control multi-shot sequencing in one generation.  
-Add No music to the prompt to prevent Seedance from generating background music.
-```
-
-#### 💡 Tips
-
-In Seedance 2.0, upload your last generated clip as a reference plus a source image as an additional reference to maintain continuity while extending the video.  
-Use an Extend the video prompt with explicit [cut] markers and shot descriptions (e.g., behind-the-men cockpit shot, over-the-shoulder shot, front shot) to control multi-shot sequencing in one generation.  
-Add No music to the prompt to prevent Seedance from generating background music.
-
-**Author:** [Framer 🇱🇹](https://x.com/Framer_X) | **Source:** [Link](https://x.com/Framer_X/status/2061440524339515827) | **Published:** Jun 1, 2026
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
 
 ---
 
@@ -5135,6 +5445,8 @@ Add No music to the prompt to prevent Seedance from generating background music.
 📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061457434930033059.mp4)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2061457434930033059) | **Published:** Jun 1, 2026
+
+`Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
@@ -5160,9 +5472,207 @@ In Dreamina Seedance 2.0, select specific reference images and define events plu
 
 **Author:** [SoyAlb3rT](https://x.com/SoyAlb3rT) | **Source:** [Link](https://x.com/SoyAlb3rT/status/2061469990465802740) | **Published:** Jun 1, 2026
 
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
+
 ---
 
-*... and 508 more tips. [View all in Gallery](https://renoise.ai/showcase)*
+### Create 10 “shocked expression” hook clips with Seedance 2 and reuse them across…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Create 10 “shocked expression” hook clips with Seedance 2 and reuse them across many different ads.
+```
+
+#### 💡 Tips
+
+Create 10 “shocked expression” hook clips with Seedance 2 and reuse them across many different ads.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061477373053394944/img/Ubq_JY0oUu5OIQzv.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061477423598969138.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061477423598969138.mp4)**
+
+**Author:** [ashen](https://x.com/ashen_one) | **Source:** [Link](https://x.com/ashen_one/status/2061477423598969138) | **Published:** Jun 1, 2026
+
+`Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Start your Seedance workflow with shot design: build a storyboard first and…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Start your Seedance workflow with shot design: build a storyboard first and define your camera language before generating video.
+
+Use GPT Image 2 to generate storyboard/keyframe images, then use Seedance 2.0 to turn those designed shots into video.
+```
+
+#### 💡 Tips
+
+Start your Seedance workflow with shot design: build a storyboard first and define your camera language before generating video.
+
+Use GPT Image 2 to generate storyboard/keyframe images, then use Seedance 2.0 to turn those designed shots into video.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061433980441042944/img/CKri6bZ4t2poCg6U.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061494483682726170.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061494483682726170.mp4)**
+
+**Author:** [Promethean](https://x.com/PrometheanAIX) | **Source:** [Link](https://x.com/PrometheanAIX/status/2061494483682726170) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
+
+---
+
+### Generate your voiceover in English, then use ElevenLabs Dubbing by uploading…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Generate your voiceover in English, then use ElevenLabs Dubbing by uploading the voiceover and selecting your target language to create the dubbed audio.  
+For Seedance lip sync, upload the voiceover onto a black video, then prompt Seedance to lip-sync your character to that audio.
+```
+
+#### 💡 Tips
+
+Generate your voiceover in English, then use ElevenLabs Dubbing by uploading the voiceover and selecting your target language to create the dubbed audio.  
+For Seedance lip sync, upload the voiceover onto a black video, then prompt Seedance to lip-sync your character to that audio.
+
+**Author:** [Timi](https://x.com/timikareem) | **Source:** [Link](https://x.com/timikareem/status/2061513273644900843) | **Published:** Jun 1, 2026
+
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Generate character sheets using ChatGPT’s image generator, then feed those…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Generate character sheets using ChatGPT’s image generator, then feed those character sheet images into Seedance 2.0 to animate them into video.
+```
+
+#### 💡 Tips
+
+Generate character sheets using ChatGPT’s image generator, then feed those character sheet images into Seedance 2.0 to animate them into video.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061538085301530625/img/QT8J3SEdF0Zei9Sx.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061544543518929187.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061544543518929187.mp4)**
+
+**Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2061544543518929187) | **Published:** Jun 1, 2026
+
+`Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `Creative Asset` `Tutorial`
+
+---
+
+### Generate a storyboard panel in GPT Image 2.0 that includes multiple shots plus…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Generate a storyboard panel in GPT Image 2.0 that includes multiple shots plus exact timing breakdowns, then use that storyboard image as the input reference for Seedance 2.0 to generate the video.  
+Write the Seedance 2.0 motion prompt to closely mirror the storyboard’s beats, framing, and timing to improve coherence across the cinematic sequence.
+```
+
+#### 💡 Tips
+
+Generate a storyboard panel in GPT Image 2.0 that includes multiple shots plus exact timing breakdowns, then use that storyboard image as the input reference for Seedance 2.0 to generate the video.  
+Write the Seedance 2.0 motion prompt to closely mirror the storyboard’s beats, framing, and timing to improve coherence across the cinematic sequence.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061563838831738880/img/rVmgO8mokpv389ki.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061564186132652207.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061564186132652207.mp4)**
+
+**Author:** [Curious Refuge](https://x.com/CuriousRefuge) | **Source:** [Link](https://x.com/CuriousRefuge/status/2061564186132652207) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 (on…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 (on yapper_so) to turn an initial concept into a storyboard and then generate the final video in Seedance.
+```
+
+#### 💡 Tips
+
+Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 (on yapper_so) to turn an initial concept into a storyboard and then generate the final video in Seedance.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2061530768149741568/img/8sumDBGSB2Bzru86.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061582563655950361.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061582563655950361.mp4)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2061582563655950361) | **Published:** Jun 1, 2026
+
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Seedanceで違和感なく喋らせたい場合は、セリフを平仮名で入力する
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+#### 📝 Prompt
+
+```
+Seedanceで違和感なく喋らせたい場合は、セリフを平仮名で入力する
+```
+
+#### 💡 Tips
+
+Seedanceで違和感なく喋らせたい場合は、セリフを平仮名で入力する
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2060884033404637184/img/MeJW7SyzqpbfnSQA.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060885355218514362.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060885355218514362.mp4)**
+
+**Author:** [勉強中（AI）](https://x.com/Rl3qlxenW781366) | **Source:** [Link](https://x.com/Rl3qlxenW781366/status/2060885355218514362) | **Published:** May 31, 2026
+
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Turn a single still image into a cinematic motion sequence by using this…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Turn a single still image into a cinematic motion sequence by using this workflow: Image → GPT Image 2 Storyboard → Seedance 2.0.
+```
+
+#### 💡 Tips
+
+Turn a single still image into a cinematic motion sequence by using this workflow: Image → GPT Image 2 Storyboard → Seedance 2.0.
+
+[![Video Preview](https://pbs.twimg.com/amplify_video_thumb/2060855643825975296/img/DK2oOlXSGehS9379.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060897046778040503.mp4)
+
+📥 *Click image to watch video* | **[🎬 Watch Video →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060897046778040503.mp4)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2060897046778040503) | **Published:** May 31, 2026
+
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+*... and 269 more tips. [View all in Gallery](https://renoise.ai/showcase)*
 
 ---
 
@@ -5186,4 +5696,4 @@ Thanks to all the creators who shared their prompts with the community.
 
 **🌐 [View in Web Gallery](https://renoise.ai/showcase)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-06-02T08:07:01.217Z
+🤖 This README is automatically generated. Last updated: 2026-06-02T12:05:00.593Z
