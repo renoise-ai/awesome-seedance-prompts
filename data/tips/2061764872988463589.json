@@ -1,0 +1,42 @@
+{
+  "id": "2061764872988463589",
+  "title": "GPT Image 2でキービジュアル（静止画）を作り、その画像をSeedance 2.0のスタートフレームに設定して動画化する",
+  "content": "GPT Image 2でキービジュアル（静止画）を作り、その画像をSeedance 2.0のスタートフレームに設定して動画化する  \n絵コンテを使わずプロンプトのみでシーン展開と動きを制御する  \nアクションシーンは絵コンテ（静止画）に引っ張られて動きが不自然になりやすいので、プロンプトのみで生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061764542275973120/img/8o3n7Awm4dcHJw3e.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061764872988463589.mp4",
+  "sourceLink": "https://x.com/Kashiko_AIart/status/2061764872988463589",
+  "sourcePublishedAt": "2026-06-02",
+  "author": {
+    "name": "かし子🍩",
+    "link": "https://x.com/Kashiko_AIart"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "GPT Image 2でキービジュアル（静止画）を作り、その画像をSeedance 2.0のスタートフレームに設定して動画化する  \n絵コンテを使わずプロンプトのみでシーン展開と動きを制御する  \nアクションシーンは絵コンテ（静止画）に引っ張られて動きが不自然になりやすいので、プロンプトのみで生成する",
+  "translations": {
+    "en": {
+      "content": "Create a key visual (still image) with GPT Image 2, set that image as the start frame in Seedance 2.0, and animate it  \nControl scene development and movement using only prompts, without a storyboard  \nAction scenes tend to become unnatural when constrained by a storyboard (still image), so generate them using only prompts\n\n--- THREAD CONTINUATION ---\n[Thread 1] Production process revealed♪\n\nWe created a key visual with GPT Image 2 and animated it using Seedance 2.0 as the start frame.\n\nThis time, we controlled the development and movement using only prompts, without a storyboard.\nFor action scenes, having a storyboard can make the movement unnatural as it gets constrained by the still image, so we often create action scenes using only prompts.\n\nHere's PolloAI, where you can use the ultimate combination for video production (GPT Image 2 & Seedance 2.0)👇\n\nhttps://t.co/5prnRbMXwL"
+    },
+    "es": {
+      "content": "---\nCrear una imagen clave (imagen fija) con GPT Image 2 y configurarla como el fotograma inicial en Seedance 2.0 para convertirla en video.  \nControlar el desarrollo de la escena y el movimiento solo con prompts, sin usar storyboard.  \nLas escenas de acción tienden a volverse poco naturales cuando se basan en storyboards (imágenes fijas), por lo que se generan solo con prompts.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ¡Proceso de producción revelado♪\n\nCreé una imagen clave con GPT Image 2 y la convertí en video usando Seedance 2.0 como fotograma inicial.\n\nEsta vez, controlé el desarrollo y el movimiento solo con prompts, sin usar storyboard.  \nEn escenas de acción, el storyboard puede hacer que el movimiento se vuelva poco natural al basarse en imágenes fijas, por lo que a menudo se crean solo con prompts.\n\nAquí está PolloAI, que permite usar la combinación más poderosa para la producción de videos (GPT Image2 y Seedance2.0)👇\n\nhttps://t.co/5prnRbMXwL\n---"
+    },
+    "fr": {
+      "content": "---\nCréer un visuel clé (image fixe) avec GPT Image 2, puis le définir comme cadre de départ dans Seedance 2.0 pour le transformer en vidéo.  \nContrôler le développement des scènes et les mouvements uniquement avec des prompts, sans utiliser de storyboard.  \nLes scènes d'action ont tendance à devenir artificielles lorsqu'elles sont influencées par un storyboard (image fixe), il est donc préférable de les générer uniquement avec des prompts.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Processus de création dévoilé♪\n\nNous avons créé un visuel clé avec GPT Image 2 et l'avons utilisé comme cadre de départ pour le transformer en vidéo avec Seedance 2.0.\n\nCette fois, nous avons contrôlé le développement et les mouvements uniquement avec des prompts, sans utiliser de storyboard.  \nPour les scènes d'action, un storyboard peut rendre le mouvement artificiel en se basant sur une image fixe, c'est pourquoi nous les créons souvent uniquement avec des prompts.\n\nDécouvrez la combinaison ultime pour la création vidéo (GPT Image2 & Seedance2.0) disponible avec PolloAI ici👇\n\nhttps://t.co/5prnRbMXwL\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2로 키 비주얼(정지화면)을 만들고, 그 이미지를 Seedance 2.0의 시작 프레임으로 설정하여 영상화하기  \n스토리보드를 사용하지 않고 프롬프트만으로 장면 전개와 움직임을 제어하기  \n액션 장면은 스토리보드(정지화면)에 의해 움직임이 부자연스러워지기 쉬우므로, 프롬프트만으로 생성하기\n\n--- THREAD CONTINUATION ---\n[Thread 1] 제작 과정을 공개♪\n\nGPT Image 2로 키 비주얼을 생성하고, 그것을 시작 프레임으로 하여 Seedance2.0으로 영상화했습니다.\n\n이번에는 스토리보드를 사용하지 않고, 프롬프트만으로 전개와 움직임을 제어했습니다.\n액션 장면 등은 스토리보드가 있으면 정지화면에 의해 움직임이 부자연스러워질 수 있기 때문에, 액션 장면은 프롬프트만으로 만드는 경우가 많습니다.\n\n영상 제작 최강의 조합(GPT Image2 & Seedance2.0)을 사용할 수 있는 PolloAI는 여기입니다👇\n\nhttps://t.co/5prnRbMXwL\n---"
+    },
+    "pt": {
+      "content": "---\nCriar uma imagem chave (estática) com o GPT Image 2 e configurá-la como o quadro inicial no Seedance 2.0 para transformar em vídeo  \nControlar a progressão da cena e o movimento apenas com prompts, sem usar storyboard  \nCenas de ação tendem a se tornar artificiais quando guiadas por storyboards (imagens estáticas), então são geradas apenas com prompts\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Divulgando o processo de produção♪\n\nCriei uma imagem chave com o GPT Image 2 e a usei como quadro inicial para transformar em vídeo no Seedance 2.0.\n\nDesta vez, controlei a progressão e o movimento apenas com prompts, sem usar storyboard.\nEm cenas de ação, o storyboard pode fazer com que o movimento fique artificial, então frequentemente criamos cenas de ação apenas com prompts.\n\nA combinação mais poderosa para produção de vídeo (GPT Image2 & Seedance2.0) está disponível no PolloAI aqui👇\n\nhttps://t.co/5prnRbMXwL\n---"
+    },
+    "zh": {
+      "content": "---\n在GPT Image 2中创建关键视觉图（静止图像），并将其设置为Seedance 2.0的起始帧以进行视频化  \n仅使用prompt而不使用分镜来控制场景展开和动作  \n由于动作场景容易受到分镜（静止图像）的影响而导致动作不自然，因此仅使用prompt进行生成\n\n--- 线程继续 ---\n[线程 1] 公开制作过程♪\n\n在GPT Image 2中创建了关键视觉图，并将其作为起始帧在Seedance 2.0中进行视频化。\n\n这次没有使用分镜，仅通过prompt来控制展开和动作。\n动作场景等，如果有分镜，可能会因为静止图像的影响而导致动作不自然，所以动作场景通常仅通过prompt来制作。\n\n可以使用视频制作最强组合（GPT Image 2＆Seedance 2.0）的PolloAI在这里👇\n\nhttps://t.co/5prnRbMXwL\n---"
+    }
+  }
+}

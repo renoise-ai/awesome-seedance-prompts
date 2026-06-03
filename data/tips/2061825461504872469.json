@@ -1,0 +1,43 @@
+{
+  "id": "2061825461504872469",
+  "title": "Generate a complete storyboard from a single prompt, then animate it in…",
+  "content": "Generate a complete storyboard from a single prompt, then animate it in Seedance 2.0 using a reference image  \nUse a ComfyUI workflow that leverages LLMs to expand your prompt into multiple storyboard scenes and formats the output specifically for Seedance 2.0 to streamline idea-to-animation workflows",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061825393674625024/img/dyNjhPLYt5j4IN89.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061825461504872469.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2061825461504872469",
+  "sourcePublishedAt": "2026-06-02",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate a complete storyboard from a single prompt, then animate it in Seedance 2.0 using a reference image  \nUse a ComfyUI workflow that leverages LLMs to expand your prompt into multiple storyboard scenes and formats the output specifically for Seedance 2.0 to streamline idea-to-animation workflows",
+  "translations": {
+    "es": {
+      "content": "Genera un storyboard completo a partir de un solo prompt, luego anímalo en Seedance 2.0 usando una imagen de referencia  \nUtiliza un flujo de trabajo ComfyUI que aprovecha los LLMs para expandir tu prompt en múltiples escenas de storyboard y formatea la salida específicamente para Seedance 2.0 para agilizar los flujos de trabajo de idea a animación\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/XkpNuXx6tf"
+    },
+    "fr": {
+      "content": "---\nGénérez un storyboard complet à partir d'un seul prompt, puis animez-le dans Seedance 2.0 en utilisant une image de référence  \nUtilisez un flux de travail ComfyUI qui exploite les LLMs pour développer votre prompt en plusieurs scènes de storyboard et formatez la sortie spécifiquement pour Seedance 2.0 afin de simplifier les flux de travail de l'idée à l'animation\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/XkpNuXx6tf\n---"
+    },
+    "ja": {
+      "content": "---\n単一のプロンプトから完全なストーリーボードを生成し、Seedance 2.0で参照画像を使用してアニメーション化する  \nComfyUIワークフローを使用して、LLMを活用してプロンプトを複数のストーリーボードシーンに展開し、Seedance 2.0用に出力をフォーマットして、アイデアからアニメーションへのワークフローを効率化する\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/XkpNuXx6tf\n---"
+    },
+    "ko": {
+      "content": "---\n하나의 프롬프트에서 전체 스토리보드를 생성한 후, Seedance 2.0에서 참조 이미지를 사용하여 애니메이션으로 만드세요.  \nComfyUI 워크플로우를 사용하여 LLMs를 활용해 프롬프트를 여러 스토리보드 장면으로 확장하고, Seedance 2.0에 맞춰 출력을 형식화하여 아이디어에서 애니메이션으로의 워크플로우를 간소화하세요.\n\n--- 스레드 계속 ---\n[스레드 1] https://t.co/XkpNuXx6tf\n---"
+    },
+    "pt": {
+      "content": "Gere um storyboard completo a partir de um único prompt, depois anime-o no Seedance 2.0 usando uma imagem de referência  \nUse um fluxo de trabalho ComfyUI que aproveita LLMs para expandir seu prompt em várias cenas de storyboard e formata a saída especificamente para o Seedance 2.0, a fim de simplificar os fluxos de trabalho de ideia para animação\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/XkpNuXx6tf"
+    },
+    "zh": {
+      "content": "---\n从一个单一的prompt生成完整的分镜，然后在Seedance 2.0中使用参考图像进行动画制作  \n使用ComfyUI工作流程，利用LLMs将您的prompt扩展为多个分镜场景，并将输出格式化为专门适用于Seedance 2.0，以简化从创意到动画的工作流程\n\n--- 线程继续 ---\n[线程 1] https://t.co/XkpNuXx6tf\n---"
+    }
+  }
+}

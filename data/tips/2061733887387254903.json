@@ -1,0 +1,43 @@
+{
+  "id": "2061733887387254903",
+  "title": "Use ChatGPT Image 2.0 to generate a moodboard of cutscene frames, then feed…",
+  "content": "Use ChatGPT Image 2.0 to generate a moodboard of cutscene frames, then feed that moodboard into Seedance 2.0 to turn it into a cinematic cutscene video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061733158257897472/img/OnLkK42sjHmLVlcp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061733887387254903.mp4",
+  "sourceLink": "https://x.com/frameless_ai_/status/2061733887387254903",
+  "sourcePublishedAt": "2026-06-02",
+  "author": {
+    "name": "frameless.ai",
+    "link": "https://x.com/frameless_ai_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use ChatGPT Image 2.0 to generate a moodboard of cutscene frames, then feed that moodboard into Seedance 2.0 to turn it into a cinematic cutscene video.",
+  "translations": {
+    "es": {
+      "content": "Usa ChatGPT Image 2.0 para generar un moodboard de fotogramas de escenas, luego introduce ese moodboard en Seedance 2.0 para convertirlo en un video de escena cinematográfica."
+    },
+    "fr": {
+      "content": "Utilisez ChatGPT Image 2.0 pour générer un moodboard de cadres de cutscenes, puis intégrez ce moodboard dans Seedance 2.0 pour le transformer en une vidéo de cutscene cinématique."
+    },
+    "ja": {
+      "content": "ChatGPT Image 2.0を使用してカットシーンフレームのムードボードを生成し、そのムードボードをSeedance 2.0に入力してシネマティックなカットシーンビデオに変換します。"
+    },
+    "ko": {
+      "content": "ChatGPT Image 2.0을 사용하여 컷신 프레임의 무드보드를 생성한 후, 그 무드보드를 Seedance 2.0에 입력하여 시네마틱 컷신 비디오로 변환하세요."
+    },
+    "pt": {
+      "content": "Use o ChatGPT Image 2.0 para gerar um moodboard de quadros de cutscene, depois insira esse moodboard no Seedance 2.0 para transformá-lo em um vídeo de cutscene cinematográfico."
+    },
+    "zh": {
+      "content": "使用 ChatGPT Image 2.0 生成过场动画帧的情绪板，然后将该情绪板输入 Seedance 2.0，将其转化为电影化的过场动画视频。"
+    }
+  }
+}

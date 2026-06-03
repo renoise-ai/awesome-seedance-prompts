@@ -1,0 +1,42 @@
+{
+  "id": "2061824522773496227",
+  "title": "Use Seedance first to map/transfer the dance motion onto your character, then…",
+  "content": "Use Seedance first to map/transfer the dance motion onto your character, then use Google OMNI to generate flash-cut shots of the same dance for editing.\n\nIf Google Omni triggers guardrails when used for the full pipeline, use Seedance as a bridge step first to avoid guardrails/censorship on Gemini.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061823784437559296/img/SsvrR4dQ2T8gi7nb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061824522773496227.mp4",
+  "sourceLink": "https://x.com/AIWarper/status/2061824522773496227",
+  "sourcePublishedAt": "2026-06-02",
+  "author": {
+    "name": "A.I.Warper",
+    "link": "https://x.com/AIWarper"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance first to map/transfer the dance motion onto your character, then use Google OMNI to generate flash-cut shots of the same dance for editing.\n\nIf Google Omni triggers guardrails when used for the full pipeline, use Seedance as a bridge step first to avoid guardrails/censorship on Gemini.",
+  "translations": {
+    "es": {
+      "content": "---\nUsa Seedance primero para mapear/transferir el movimiento de baile a tu personaje, luego utiliza Google OMNI para generar tomas flash-cut del mismo baile para la edición.\n\nSi Google Omni activa restricciones al usarse para todo el proceso, usa Seedance como un paso intermedio primero para evitar restricciones/censura en Gemini.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Para las personas que se preguntan sobre las restricciones:\n\nTuve problemas al intentar usar Google Omni para todo el proceso, pero si uso Seedance como puente, no hubo restricciones ni censura en Gemini.\n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez d'abord Seedance pour mapper/transférer le mouvement de danse sur votre personnage, puis utilisez Google OMNI pour générer des plans en flash-cut de la même danse pour le montage.\n\nSi Google Omni déclenche des garde-fous lorsqu'il est utilisé pour l'ensemble du pipeline, utilisez d'abord Seedance comme étape de transition pour éviter les garde-fous/censure sur Gemini.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Pour ceux qui se demandent à propos des garde-fous :\n\nJ'ai eu des problèmes en essayant d'utiliser Google Omni pour l'ensemble du pipeline, mais si j'utilise Seedance comme étape de transition, il n'y avait pas de garde-fous ou de censure sur Gemini.\n---"
+    },
+    "ja": {
+      "content": "---\n最初にSeedanceを使用してダンスの動きをキャラクターにマッピング/転送し、その後Google OMNIを使用して同じダンスのフラッシュカットショットを生成し、編集に使用します。\n\nGoogle Omniをフルパイプラインで使用した際にガードレールが作動する場合は、最初にSeedanceをブリッジステップとして使用し、Geminiでのガードレール/検閲を回避してください。\n\n--- スレッドの続き ---\n[スレッド1] ガードレールについて気になる方へ：\n\nGoogle Omniを全体のパイプラインで使用しようとした際に問題がありましたが、Seedanceをブリッジとして使用すると、Geminiでガードレールや検閲がありませんでした。\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 Seedance를 사용하여 춤 동작을 캐릭터에 매핑/전송한 후, Google OMNI를 사용하여 동일한 춤의 플래시 컷 샷을 생성하여 편집에 사용하세요.\n\nGoogle Omni를 전체 파이프라인에 사용할 때 가드레일이 작동하면, Seedance를 먼저 브릿지 단계로 사용하여 Gemini에서 가드레일/검열을 피하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 가드레일에 대해 궁금해하는 사람들을 위해:\n\nGoogle Omni를 전체 파이프라인에 사용하려고 할 때 문제가 있었지만, Seedance를 브릿지로 사용하면 Gemini에서 가드레일이나 검열이 없었습니다.\n---"
+    },
+    "pt": {
+      "content": "---\nUse o Seedance primeiro para mapear/transferir o movimento de dança para o seu personagem, depois use o Google OMNI para gerar tomadas de flash-cut da mesma dança para edição.\n\nSe o Google Omni acionar restrições ao ser usado para todo o pipeline, use o Seedance como uma etapa intermediária primeiro para evitar restrições/censura no Gemini.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Para quem está se perguntando sobre as restrições:\n\nTive problemas ao tentar usar o Google Omni para todo o pipeline, mas se eu usar o Seedance como ponte, não houve restrições ou censura no Gemini."
+    },
+    "zh": {
+      "content": "---\n首先使用Seedance将舞蹈动作映射/转移到你的角色上，然后使用Google OMNI生成同一舞蹈的快切镜头以便编辑。\n\n如果在整个流程中使用Google Omni触发了防护措施，首先使用Seedance作为桥接步骤，以避免在Gemini上出现防护措施/审查。\n\n--- 线程继续 ---\n[线程1] 对于那些对防护措施感到好奇的人：\n\n我在尝试使用Google Omni进行整个流程时遇到了问题，但如果我使用Seedance作为桥接，就不会在Gemini上遇到防护措施或审查。\n---"
+    }
+  }
+}

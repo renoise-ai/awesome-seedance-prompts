@@ -1,0 +1,42 @@
+{
+  "id": "2061928402278584346",
+  "title": "Use the ComfyUI Seedance workflow from ComfyCloud to run a fast end-to-end…",
+  "content": "Use the ComfyUI Seedance workflow from ComfyCloud to run a fast end-to-end pipeline from concept to video.  \nGrab a selfie from your phone camera roll and use it as the reference input for the character.  \nConvert the selfie into a character image using ChatGPT image-to-image (img2img) before generating video.  \nGenerate a storyboard from the client’s description in ChatGPT to guide shot planning.  \nUse Gemini to turn the storyboard/script into a Seedance-ready prompt, then generate the result video in Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061927707450163200/img/c13s2ZYz339tobwm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061928402278584346.mp4",
+  "sourceLink": "https://x.com/EnidPinxit/status/2061928402278584346",
+  "sourcePublishedAt": "2026-06-02",
+  "author": {
+    "name": "Enid Pinxit",
+    "link": "https://x.com/EnidPinxit"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the ComfyUI Seedance workflow from ComfyCloud to run a fast end-to-end pipeline from concept to video.  \nGrab a selfie from your phone camera roll and use it as the reference input for the character.  \nConvert the selfie into a character image using ChatGPT image-to-image (img2img) before generating video.  \nGenerate a storyboard from the client’s description in ChatGPT to guide shot planning.  \nUse Gemini to turn the storyboard/script into a Seedance-ready prompt, then generate the result video in Seedance.",
+  "translations": {
+    "es": {
+      "content": "Usa el flujo de trabajo ComfyUI Seedance de ComfyCloud para ejecutar una rápida canalización de extremo a extremo desde el concepto hasta el video.  \nToma una selfie de la galería de tu teléfono y úsala como entrada de referencia para el personaje.  \nConvierte la selfie en una imagen de personaje usando ChatGPT de imagen a imagen (img2img) antes de generar el video.  \nGenera un guion gráfico a partir de la descripción del cliente en ChatGPT para guiar la planificación de las tomas.  \nUsa Gemini para convertir el guion gráfico/guion en un prompt listo para Seedance, luego genera el video resultante en Seedance.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] 2/2 ingredientes: flujo de trabajo de comfyui en comfycloud, selfie que tomé de la galería de la cámara, selfie a personaje en ChatGpt img2, y guion gráfico de la descripción en ChatGpt, luego prompt de Gemini para video resultante (post anterior) de Seedance. https://t.co/5LGGDKbGmu"
+    },
+    "fr": {
+      "content": "---\nUtilisez le workflow ComfyUI Seedance de ComfyCloud pour exécuter un pipeline rapide de bout en bout, du concept à la vidéo.  \nPrenez un selfie depuis la pellicule de votre téléphone et utilisez-le comme entrée de référence pour le personnage.  \nConvertissez le selfie en une image de personnage en utilisant ChatGPT image-to-image (img2img) avant de générer la vidéo.  \nGénérez un storyboard à partir de la description du client dans ChatGPT pour guider la planification des prises de vue.  \nUtilisez Gemini pour transformer le storyboard/scénario en un prompt prêt pour Seedance, puis générez la vidéo finale dans Seedance.\n\n--- SUITE DU FIL ---\n[Fil 1] 2/2 ingrédients : workflow de comfyui sur comfycloud, selfie que j'ai pris de la pellicule, selfie en personnage dans ChatGpt img2, et storyboard à partir de la description dans ChatGpt, puis prompt de Gemini pour vidéo finale (post ci-dessus) de Seedance. https://t.co/5LGGDKbGmu\n---"
+    },
+    "ja": {
+      "content": "---\nComfyCloudのComfyUI Seedanceワークフローを使用して、コンセプトからビデオまでの迅速なエンドツーエンドパイプラインを実行します。  \nスマートフォンのカメラロールから自撮り写真を取り出し、キャラクターの参照入力として使用します。  \n自撮り写真をChatGPTの画像変換（img2img）を使ってキャラクター画像に変換し、ビデオを生成する前に使用します。  \nクライアントの説明をChatGPTでストーリーボードに変換し、ショットプランニングのガイドとします。  \nGeminiを使用してストーリーボード/スクリプトをSeedance対応のプロンプトに変換し、Seedanceで結果のビデオを生成します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 2/2 成分: comfycloudのcomfyuiからのワークフロー、カメラロールから取得した自撮り写真、ChatGpt img2での自撮りからキャラクターへの変換、ChatGptでの説明からのストーリーボード、そしてGeminiからのプロンプトでSeedanceからの結果ビデオ（上記の投稿）。https://t.co/5LGGDKbGmu\n---"
+    },
+    "ko": {
+      "content": "---\nComfyCloud의 ComfyUI Seedance 워크플로우를 사용하여 개념에서 비디오까지 빠른 종단 간 파이프라인을 실행하세요.  \n휴대폰 카메라 롤에서 셀피를 가져와 캐릭터의 참조 입력으로 사용하세요.  \n비디오를 생성하기 전에 ChatGPT 이미지-이미지 변환(img2img)을 사용하여 셀피를 캐릭터 이미지로 변환하세요.  \n고객의 설명을 ChatGPT에서 스토리보드로 생성하여 촬영 계획을 안내하세요.  \nGemini를 사용하여 스토리보드/스크립트를 Seedance에 적합한 프롬프트로 변환한 후, Seedance에서 결과 비디오를 생성하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 2/2 재료: ComfyCloud의 ComfyUI 워크플로우, 카메라 롤에서 가져온 셀피, ChatGPT img2에서 캐릭터로 변환한 셀피, 그리고 ChatGPT 설명에서 생성한 스토리보드, 그런 다음 Gemini에서 프롬프트를 통해 Seedance에서 결과 비디오 생성 (위 게시물) https://t.co/5LGGDKbGmu\n---"
+    },
+    "pt": {
+      "content": "---\nUse o fluxo de trabalho ComfyUI Seedance do ComfyCloud para executar um pipeline rápido de ponta a ponta, do conceito ao vídeo.  \nPegue uma selfie do rolo de câmera do seu telefone e use-a como entrada de referência para o personagem.  \nConverta a selfie em uma imagem de personagem usando o ChatGPT image-to-image (img2img) antes de gerar o vídeo.  \nGere um storyboard a partir da descrição do cliente no ChatGPT para guiar o planejamento das cenas.  \nUse o Gemini para transformar o storyboard/roteiro em um prompt pronto para o Seedance, e então gere o vídeo resultante no Seedance.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] 2/2 ingredientes: fluxo de trabalho do comfyui no comfycloud, selfie que peguei do rolo de câmera, selfie para personagem no ChatGpt img2, e storyboard a partir da descrição no ChatGpt, depois prompt do Gemini para vídeo resultante (postagem acima) do Seedance. https://t.co/5LGGDKbGmu\n---"
+    },
+    "zh": {
+      "content": "使用ComfyCloud的ComfyUI Seedance工作流程，从概念到视频快速运行端到端管道。  \n从手机相册中获取自拍照，并将其用作角色的参考输入。  \n在生成视频之前，使用ChatGPT的图像到图像（img2img）功能将自拍照转换为角色图像。  \n根据客户在ChatGPT中的描述生成分镜，以指导镜头规划。  \n使用Gemini将分镜/脚本转换为适合Seedance的prompt，然后在Seedance中生成结果视频。\n\n--- 线程继续 ---\n[线程1] 2/2 成分：来自comfycloud的comfyui工作流程，我从相册中抓取的自拍照，ChatGpt img2中的自拍照到角色，以及ChatGpt描述中的分镜，然后从Gemini的prompt到Seedance的结果视频（上文帖子）。https://t.co/5LGGDKbGmu"
+    }
+  }
+}

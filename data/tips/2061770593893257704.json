@@ -1,0 +1,42 @@
+{
+  "id": "2061770593893257704",
+  "title": "GPT Image 2.0で12フレームのストーリーボード画像を生成し、それをClaudeに参照させてSeedance 2.0用プロンプトを作らせる",
+  "content": "GPT Image 2.0で12フレームのストーリーボード画像を生成し、それをClaudeに参照させてSeedance 2.0用プロンプトを作らせる  \nSeedance 2.0プロンプト作成時は「全パネルを1本の一貫した動画に統合」「時系列（chronology）を保持」を要件として明記する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/iX00AI/status/2061770593893257704",
+  "sourcePublishedAt": "2026-06-02",
+  "author": {
+    "name": "iX",
+    "link": "https://x.com/iX00AI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "GPT Image 2.0で12フレームのストーリーボード画像を生成し、それをClaudeに参照させてSeedance 2.0用プロンプトを作らせる  \nSeedance 2.0プロンプト作成時は「全パネルを1本の一貫した動画に統合」「時系列（chronology）を保持」を要件として明記する",
+  "translations": {
+    "en": {
+      "content": "Generate a 12-frame storyboard image with GPT Image 2.0 and have Claude refer to it to create a prompt for Seedance 2.0.  \nWhen creating the Seedance 2.0 prompt, specify the requirements to \"integrate all panels into a single consistent video\" and \"maintain chronology.\""
+    },
+    "es": {
+      "content": "Generar imágenes de storyboard de 12 fotogramas con GPT Image 2.0 y referenciarlas en Claude para crear un prompt para Seedance 2.0  \nAl crear el prompt para Seedance 2.0, especificar claramente los requisitos de \"integrar todos los paneles en un solo video coherente\" y \"mantener la cronología\"."
+    },
+    "fr": {
+      "content": "Générez des images de storyboard de 12 cadres avec GPT Image 2.0, puis faites-les référencer par Claude pour créer un prompt pour Seedance 2.0.  \nLors de la création du prompt pour Seedance 2.0, précisez les exigences suivantes : « Intégrer tous les panneaux en une seule vidéo cohérente » et « Maintenir la chronologie »."
+    },
+    "ko": {
+      "content": "GPT Image 2.0에서 12프레임의 스토리보드 이미지를 생성하고, 그것을 Claude에 참조시켜 Seedance 2.0용 프롬프트를 만들게 하세요.  \nSeedance 2.0 프롬프트 작성 시에는 \"모든 패널을 하나의 일관된 영상으로 통합\" 및 \"시계열(chronology)을 유지\"를 요구사항으로 명시하세요."
+    },
+    "pt": {
+      "content": "Gerar imagens de storyboard de 12 quadros com o GPT Image 2.0 e referenciá-las no Claude para criar um prompt para o Seedance 2.0  \nAo criar o prompt para o Seedance 2.0, especifique os requisitos de \"integrar todos os painéis em um único vídeo consistente\" e \"manter a cronologia\"."
+    },
+    "zh": {
+      "content": "使用GPT Image 2.0生成12帧的故事板图像，并让Claude参考这些图像为Seedance 2.0创建prompt  \n在创建Seedance 2.0 prompt时，明确要求「将所有面板整合为一部连贯的视频」「保持时间顺序（chronology）」"
+    }
+  }
+}
