@@ -61,7 +61,7 @@
 | 📝 提示词总数 | **1241** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **299** |
-| 🔄 最后更新 | **2026-06-02** |
+| 🔄 最后更新 | **2026-06-03** |
 
 ---
 
@@ -5696,4 +5696,4 @@ Turn a single still image into a cinematic motion sequence by using this workflo
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/showcase)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-02T22:23:35.591Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-03T04:18:45.781Z

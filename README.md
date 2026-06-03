@@ -61,7 +61,7 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 | 📝 Total Prompts | **1241** |
 | ⭐ Featured | **0** |
 | 💡 Tips & Tutorials | **299** |
-| 🔄 Last Updated | **2026-06-02** |
+| 🔄 Last Updated | **2026-06-03** |
 
 ---
 
@@ -5696,4 +5696,4 @@ Thanks to all the creators who shared their prompts with the community.
 
 **🌐 [View in Web Gallery](https://renoise.ai/showcase)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-06-02T22:23:35.580Z
+🤖 This README is automatically generated. Last updated: 2026-06-03T04:18:45.770Z
