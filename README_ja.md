@@ -8707,4 +8707,4 @@ Add a dedicated Audio section listing SFX and short lip-sync lines (crowd, rope 
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/showcase)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-04T07:20:20.554Z
+🤖 この README は自動生成されています。最終更新： 2026-06-04T11:17:08.052Z
