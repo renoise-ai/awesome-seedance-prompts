@@ -61,7 +61,7 @@ Coleção curada de prompts de geração de vídeo para o Seedance 2.0 da ByteDa
 | 📝 Total de Prompts | **1290** |
 | ⭐ Destaques | **0** |
 | 💡 Dicas & Tutoriais | **322** |
-| 🔄 Última Atualização | **2026-06-03** |
+| 🔄 Última Atualização | **2026-06-04** |
 
 ---
 
@@ -6461,4 +6461,4 @@ Agradecemos a todos os criadores que compartilharam seus prompts com a comunidad
 
 **🌐 [🎬 Ver na Galeria Web](https://renoise.ai/showcase)** • **📝 Enviar um Prompt** • **⭐ Dar Star**
 
-🤖 Este README é gerado automaticamente. Última atualização: 2026-06-03T22:29:10.155Z
+🤖 Este README é gerado automaticamente. Última atualização: 2026-06-04T04:12:52.103Z
