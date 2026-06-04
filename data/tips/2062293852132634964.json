@@ -1,0 +1,43 @@
+{
+  "id": "2062293852132634964",
+  "title": "Create two reference images for opposing characters (e.g., Samurai vs…",
+  "content": "Create two reference images for opposing characters (e.g., Samurai vs anti-Samurai) and use them as references in Seedance 2.0 to generate a fight scene between them",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062293791264894976/img/-ekOsXSfdR8X70zA.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2062293791264894976/vid/avc1/1664x1248/p4ou7iZBMYO8Uzef.mp4",
+  "sourceLink": "https://x.com/AITalesNBH/status/2062293852132634964",
+  "sourcePublishedAt": "2026-06-03",
+  "author": {
+    "name": "AI Tales - Not by Humans",
+    "link": "https://x.com/AITalesNBH"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "3D Animation",
+    "Fantasy",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create two reference images for opposing characters (e.g., Samurai vs anti-Samurai) and use them as references in Seedance 2.0 to generate a fight scene between them",
+  "translations": {
+    "es": {
+      "content": "Crea dos imágenes de referencia para personajes opuestos (por ejemplo, Samurai vs anti-Samurai) y úsalas como referencias en Seedance 2.0 para generar una escena de pelea entre ellos."
+    },
+    "fr": {
+      "content": "Créez deux images de référence pour des personnages opposés (par exemple, Samouraï contre anti-Samouraï) et utilisez-les comme références dans Seedance 2.0 pour générer une scène de combat entre eux."
+    },
+    "ja": {
+      "content": "---\n対立するキャラクター（例：侍 vs 反侍）のリファレンス画像を2枚作成し、それらをSeedance 2.0での戦闘シーン生成のリファレンスとして使用する。"
+    },
+    "ko": {
+      "content": "---\n상반되는 캐릭터들(예: 사무라이 대 반(反)사무라이)을 위한 참조 이미지를 두 개 생성하고, Seedance 2.0에서 이들을 참조하여 그들 간의 전투 장면을 생성하세요."
+    },
+    "pt": {
+      "content": "Crie duas imagens de referência para personagens opostos (por exemplo, Samurai vs anti-Samurai) e use-as como referências no Seedance 2.0 para gerar uma cena de luta entre eles."
+    },
+    "zh": {
+      "content": "创建两个对立角色（例如，武士与反武士）的参考图像，并在Seedance 2.0中使用它们作为参考来生成他们之间的战斗场景。"
+    }
+  }
+}

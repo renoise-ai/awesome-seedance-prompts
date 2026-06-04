@@ -1,0 +1,41 @@
+{
+  "id": "2062248442483953726",
+  "title": "Upload a reference photo and set the prompt to strictly follow it (严格参考上传照片) to…",
+  "content": "Upload a reference photo and set the prompt to strictly follow it (严格参考上传照片) to lock the look.  \nSpecify in the prompt to keep the same era/time period (保持相同年代).  \nSpecify in the prompt to keep the same Japanese street/location (保持相同日本街道).  \nSpecify in the prompt to keep the same young person/character (保持相同青年) and do not change the person (不要改变人物).  \nSpecify in the prompt to keep the same bicycle (保持相同自行车).  \nSpecify in the prompt to keep the same exaggerated bento tower prop (保持相同夸张便当塔).  \nAdd negative constraints to avoid modern elements (不要增加现代元素) and futuristic technology (不要未来科技).  \nAdd negative constraints to avoid action-movie/disaster/fighting content (不要动作电影/不要灾难/不要战斗).",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Preda2005/status/2062248442483953726",
+  "sourcePublishedAt": "2026-06-03",
+  "author": {
+    "name": "Marcio Lima 利真 マルシオ 💎",
+    "link": "https://x.com/Preda2005"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Historical",
+    "Tutorial"
+  ],
+  "tips": "Upload a reference photo and set the prompt to strictly follow it (严格参考上传照片) to lock the look.  \nSpecify in the prompt to keep the same era/time period (保持相同年代).  \nSpecify in the prompt to keep the same Japanese street/location (保持相同日本街道).  \nSpecify in the prompt to keep the same young person/character (保持相同青年) and do not change the person (不要改变人物).  \nSpecify in the prompt to keep the same bicycle (保持相同自行车).  \nSpecify in the prompt to keep the same exaggerated bento tower prop (保持相同夸张便当塔).  \nAdd negative constraints to avoid modern elements (不要增加现代元素) and futuristic technology (不要未来科技).  \nAdd negative constraints to avoid action-movie/disaster/fighting content (不要动作电影/不要灾难/不要战斗).",
+  "translations": {
+    "en": {
+      "content": "Upload a reference photo and set the prompt to strictly follow it to lock the look.  \nSpecify in the prompt to keep the same era/time period.  \nSpecify in the prompt to keep the same Japanese street/location.  \nSpecify in the prompt to keep the same young person/character and do not change the person.  \nSpecify in the prompt to keep the same bicycle.  \nSpecify in the prompt to keep the same exaggerated bento tower prop.  \nAdd negative constraints to avoid modern elements and futuristic technology.  \nAdd negative constraints to avoid action-movie/disaster/fighting content."
+    },
+    "es": {
+      "content": "Sube una foto de referencia y establece el prompt para seguirla estrictamente (严格参考上传照片) para fijar el aspecto.  \nEspecifica en el prompt mantener la misma era/periodo de tiempo (保持相同年代).  \nEspecifica en el prompt mantener la misma calle/ubicación japonesa (保持相同日本街道).  \nEspecifica en el prompt mantener el mismo joven/personaje (保持相同青年) y no cambiar a la persona (不要改变人物).  \nEspecifica en el prompt mantener la misma bicicleta (保持相同自行车).  \nEspecifica en el prompt mantener el mismo accesorio exagerado de torre de bento (保持相同夸张便当塔).  \nAñade restricciones negativas para evitar elementos modernos (不要增加现代元素) y tecnología futurista (不要未来科技).  \nAñade restricciones negativas para evitar contenido de películas de acción/desastres/peleas (不要动作电影/不要灾难/不要战斗)."
+    },
+    "fr": {
+      "content": "Téléchargez une photo de référence et configurez le prompt pour qu'il la suive strictement (严格参考上传照片) afin de verrouiller l'apparence.  \nIndiquez dans le prompt de conserver la même époque/période (保持相同年代).  \nIndiquez dans le prompt de conserver la même rue/emplacement japonais (保持相同日本街道).  \nIndiquez dans le prompt de conserver le même jeune personnage (保持相同青年) et de ne pas changer la personne (不要改变人物).  \nIndiquez dans le prompt de conserver le même vélo (保持相同自行车).  \nIndiquez dans le prompt de conserver le même accessoire de tour de bento exagérée (保持相同夸张便当塔).  \nAjoutez des contraintes négatives pour éviter les éléments modernes (不要增加现代元素) et la technologie futuriste (不要未来科技).  \nAjoutez des contraintes négatives pour éviter le contenu de film d'action/catastrophe/combat (不要动作电影/不要灾难/不要战斗)."
+    },
+    "ja": {
+      "content": "---\n参照写真をアップロードし、プロンプトを設定してその写真を厳密に参考するようにします（严格参考上传照片）ことで外観を固定します。  \nプロンプトで同じ時代/時間帯を維持するように指定します（保持相同年代）。  \nプロンプトで同じ日本の街道/場所を維持するように指定します（保持相同日本街道）。  \nプロンプトで同じ若者/キャラクターを維持し（保持相同青年）、人物を変更しないように指定します（不要改变人物）。  \nプロンプトで同じ自転車を維持するように指定します（保持相同自行车）。  \nプロンプトで同じ誇張された便当タワーの小道具を維持するように指定します（保持相同夸张便当塔）。  \n現代の要素（不要增加现代元素）や未来の技術（不要未来科技）を避けるための否定的な制約を追加します。  \nアクション映画/災害/戦闘の内容を避けるための否定的な制約を追加します（不要动作电影/不要灾难/不要战斗）。  \n---"
+    },
+    "ko": {
+      "content": "---\n참조 사진을 업로드하고 prompt를 설정하여 그 사진을 엄격히 따르도록 하여 외형을 고정합니다.  \nprompt에 동일한 시대/시간대를 유지하도록 지정합니다 (保持相同年代).  \nprompt에 동일한 일본 거리/장소를 유지하도록 지정합니다 (保持相同日本街道).  \nprompt에 동일한 젊은 사람/캐릭터를 유지하도록 지정하고 인물을 변경하지 않도록 합니다 (不要改变人物).  \nprompt에 동일한 자전거를 유지하도록 지정합니다 (保持相同自行车).  \nprompt에 동일한 과장된 벤토 타워 소품을 유지하도록 지정합니다 (保持相同夸张便当塔).  \n현대 요소를 피하기 위한 부정적 제약을 추가합니다 (不要增加现代元素) 그리고 미래 기술을 피합니다 (不要未来科技).  \n액션 영화/재난/전투 콘텐츠를 피하기 위한 부정적 제약을 추가합니다 (不要动作电影/不要灾难/不要战斗).  \n---"
+    },
+    "pt": {
+      "content": "Carregue uma foto de referência e defina o prompt para segui-la estritamente (严格参考上传照片) para fixar a aparência.  \nEspecifique no prompt para manter a mesma era/período de tempo (保持相同年代).  \nEspecifique no prompt para manter a mesma rua/localização japonesa (保持相同日本街道).  \nEspecifique no prompt para manter a mesma pessoa/personagem jovem (保持相同青年) e não mudar a pessoa (不要改变人物).  \nEspecifique no prompt para manter a mesma bicicleta (保持相同自行车).  \nEspecifique no prompt para manter o mesmo adereço exagerado de torre de bento (保持相同夸张便当塔).  \nAdicione restrições negativas para evitar elementos modernos (不要增加现代元素) e tecnologia futurista (不要未来科技).  \nAdicione restrições negativas para evitar conteúdo de filme de ação/desastre/luta (不要动作电影/不要灾难/不要战斗)."
+    }
+  }
+}

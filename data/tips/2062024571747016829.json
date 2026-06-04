@@ -1,0 +1,42 @@
+{
+  "id": "2062024571747016829",
+  "title": "4人以上が同等の重みで均等に映るシーンでは属性漏出が起きやすいので、プロンプトで各人物の比重を均等に指定して漏出対策を入れる",
+  "content": "4人以上が同等の重みで均等に映るシーンでは属性漏出が起きやすいので、プロンプトで各人物の比重を均等に指定して漏出対策を入れる  \n照明指定としてバーンドア付きフレネルの暖色ハードバックライト＋大型パラボリックアンブレラの柔らかいキーライトを明記する  \nストロボ発光の回数をプロンプトで具体的に指示する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062015413924605952/img/oXe03bGPU5WabW78.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2062015413924605952/vid/avc1/1280x720/MDCgmB7v11DkZBZ4.mp4",
+  "sourceLink": "https://x.com/CreativeEdge_CL/status/2062024571747016829",
+  "sourcePublishedAt": "2026-06-03",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "link": "https://x.com/CreativeEdge_CL"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "4人以上が同等の重みで均等に映るシーンでは属性漏出が起きやすいので、プロンプトで各人物の比重を均等に指定して漏出対策を入れる  \n照明指定としてバーンドア付きフレネルの暖色ハードバックライト＋大型パラボリックアンブレラの柔らかいキーライトを明記する  \nストロボ発光の回数をプロンプトで具体的に指示する",
+  "translations": {
+    "en": {
+      "content": "In scenes where more than four people appear with equal weight, attribute leakage is likely to occur, so include countermeasures in the prompt by specifying the balance for each person equally.  \nSpecify the lighting as a warm-colored hard backlight with a Fresnel with barn doors, plus a soft key light from a large parabolic umbrella.  \nSpecify the number of strobe flashes in the prompt."
+    },
+    "es": {
+      "content": "En escenas donde aparecen más de cuatro personas con igual importancia, es más probable que ocurra una fuga de atributos, por lo que en el prompt se debe especificar el peso de cada persona de manera equitativa para prevenir fugas.  \nEspecificar la iluminación como luz de fondo dura de tono cálido con Fresnel y barndoors, más una luz principal suave con un paraguas parabólico grande.  \nIndicar específicamente en el prompt el número de veces que debe disparar el flash."
+    },
+    "fr": {
+      "content": "Dans une scène où plus de quatre personnes apparaissent avec un poids égal, il est facile que des fuites d'attributs se produisent. Il est donc conseillé d'utiliser un prompt pour spécifier un poids égal pour chaque personne afin de prévenir ces fuites.  \nIndiquez comme spécification d'éclairage un rétroéclairage dur et chaud avec une Fresnel équipée de volets et une lumière clé douce avec un grand parapluie parabolique.  \nIndiquez précisément le nombre de déclenchements de flash dans le prompt."
+    },
+    "ko": {
+      "content": "4인 이상이 동등한 비중으로 균등하게 나타나는 장면에서는 속성 누출이 발생하기 쉬우므로, prompt에서 각 인물의 비중을 균등하게 지정하여 누출 방지 대책을 포함시킨다.  \n조명 지정으로는 바른도어가 장착된 프레넬의 따뜻한 색상의 하드 백라이트와 대형 파라볼릭 우산의 부드러운 키 라이트를 명시한다.  \n스트로보 발광 횟수를 prompt에서 구체적으로 지시한다."
+    },
+    "pt": {
+      "content": "Em cenas onde mais de quatro pessoas aparecem com igual importância, é mais provável que ocorra vazamento de atributos, então é importante especificar no prompt que o peso de cada pessoa seja igual para evitar vazamentos.  \nEspecifique a iluminação como luz de fundo dura e quente de Fresnel com barndoor + luz principal suave de um grande guarda-chuva parabólico.  \nIndique especificamente o número de disparos de flash no prompt."
+    },
+    "zh": {
+      "content": "在4人以上均等出现的场景中，属性泄露容易发生，因此在prompt中均等指定每个人物的比重以防止泄露。  \n明确指定照明为带有巴恩门的菲涅尔暖色硬背光加大型抛物线伞的柔和主光。  \n在prompt中具体指示闪光灯的发光次数。"
+    }
+  }
+}

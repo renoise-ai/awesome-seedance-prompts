@@ -1,0 +1,43 @@
+{
+  "id": "2062107452246831226",
+  "title": "Use Seedance 2.0 with an auteur script to achieve multi-shot continuity within…",
+  "content": "Use Seedance 2.0 with an auteur script to achieve multi-shot continuity within a single generation.  \nProvide a single character reference image to keep character consistency across shots in one generation.  \nGenerate at 10s, 720p for this multi-shot continuity workflow.  \nWrite the auteur script with heavy VFX and environment detail to make effects feel more cinematic and grounded.  \nUse PySceneDetect to track shot cuts in the generated video (a midframe grid can help with cut tracking, not storyboarding).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062106993729675265/img/Lu8NbejqOcOZLySq.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2062106993729675265/vid/avc1/1080x1920/ORQJwjiixPxeWq4F.mp4",
+  "sourceLink": "https://x.com/tarumainfo/status/2062107452246831226",
+  "sourcePublishedAt": "2026-06-03",
+  "author": {
+    "name": "taruma sakti",
+    "link": "https://x.com/tarumainfo"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "VFX",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 with an auteur script to achieve multi-shot continuity within a single generation.  \nProvide a single character reference image to keep character consistency across shots in one generation.  \nGenerate at 10s, 720p for this multi-shot continuity workflow.  \nWrite the auteur script with heavy VFX and environment detail to make effects feel more cinematic and grounded.  \nUse PySceneDetect to track shot cuts in the generated video (a midframe grid can help with cut tracking, not storyboarding).",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.0 con un guion de autor para lograr continuidad de múltiples tomas dentro de una sola generación.  \nProporciona una imagen de referencia de un solo personaje para mantener la consistencia del personaje a través de las tomas en una generación.  \nGenera a 10s, 720p para este flujo de trabajo de continuidad de múltiples tomas.  \nEscribe el guion de autor con efectos visuales (VFX) intensos y detalles del entorno para que los efectos se sientan más cinematográficos y realistas.  \nUsa PySceneDetect para rastrear los cortes de las tomas en el video generado (una cuadrícula de fotogramas intermedios puede ayudar con el seguimiento de cortes, no con el guion gráfico)."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 avec un script d'auteur pour obtenir une continuité multi-plan dans une seule génération.  \nFournissez une image de référence unique du personnage pour maintenir la cohérence du personnage à travers les plans d'une génération.  \nGénérez à 10s, 720p pour ce flux de travail de continuité multi-plan.  \nÉcrivez le script d'auteur avec des effets spéciaux (VFX) importants et des détails environnementaux pour rendre les effets plus cinématographiques et réalistes.  \nUtilisez PySceneDetect pour suivre les coupes de plans dans la vidéo générée (une grille de milieu de cadre peut aider au suivi des coupes, pas au storyboarding)."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0を使用して、オートールスクリプトで単一の生成内でマルチショットの連続性を実現します。  \n単一のキャラクター参照画像を提供して、1つの生成内でショット間のキャラクターの一貫性を保ちます。  \nこのマルチショット連続性のワークフローのために、10秒、720pで生成します。  \nエフェクトをよりシネマティックでリアルに感じさせるために、VFXと環境の詳細を重視したオートールスクリプトを書きます。  \n生成されたビデオのショットカットを追跡するためにPySceneDetectを使用します（カットの追跡にはミッドフレームグリッドが役立ちますが、ストーリーボードには役立ちません）。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0을 사용하여 하나의 생성 내에서 멀티 샷 연속성을 달성하기 위해 작가 스크립트를 사용하세요.  \n하나의 생성에서 샷 간 캐릭터 일관성을 유지하기 위해 단일 캐릭터 참조 이미지를 제공하세요.  \n이 멀티 샷 연속성 워크플로우를 위해 10초, 720p로 생성하세요.  \n효과를 더 영화적이고 현실감 있게 만들기 위해 VFX와 환경 디테일이 풍부한 작가 스크립트를 작성하세요.  \nPySceneDetect를 사용하여 생성된 비디오의 샷 컷을 추적하세요 (컷 추적에는 중간 프레임 그리드가 도움이 될 수 있으며, 스토리보드에는 사용하지 않습니다).\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 com um roteiro de autor para alcançar continuidade de múltiplas tomadas em uma única geração.  \nForneça uma imagem de referência de um único personagem para manter a consistência do personagem entre as tomadas em uma geração.  \nGere em 10s, 720p para este fluxo de trabalho de continuidade de múltiplas tomadas.  \nEscreva o roteiro de autor com muitos efeitos visuais e detalhes de ambiente para que os efeitos pareçam mais cinematográficos e realistas.  \nUse o PySceneDetect para rastrear cortes de tomadas no vídeo gerado (uma grade de quadro médio pode ajudar no rastreamento de cortes, não no storyboard)."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0 和作者脚本在单次生成中实现多镜头连续性。  \n提供单个角色参考图像，以保持角色在一次生成中的镜头一致性。  \n在10秒、720p下生成，以适应这种多镜头连续性工作流程。  \n编写作者脚本时，加入大量视觉特效和环境细节，使效果更具电影感和真实感。  \n使用 PySceneDetect 跟踪生成视频中的镜头切换（中帧网格可以帮助切换跟踪，而不是分镜头脚本）。"
+    }
+  }
+}

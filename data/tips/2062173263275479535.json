@@ -1,0 +1,42 @@
+{
+  "id": "2062173263275479535",
+  "title": "Create a storyboard-style reference image in Midjourney (e.g., science fiction…",
+  "content": "Create a storyboard-style reference image in Midjourney (e.g., science fiction storyboard frame, hand-drawn in pencil and marker, cinematic composition, annotations in the margins, old-school animation prep --ar 7:3 --raw --profile jen8y7u --v 7) and upload it to Seedance 2.0 as the starting frame for animation  \nIn Seedance, force a continuous single-shot by specifying 15-second continuous single-shot, no cuts, no scene transitions  \nStructure the Seedance prompt with timestamped beats (e.g., 0–3s, 3–6s, etc.) to control camera motion and environmental changes over time  \nAdd a detailed sound design section (e.g., low ventilation hum, distant machinery, soft electronic beeps, no music, no dialogue) to guide audio generation  \nUse a negative prompt to prevent unwanted elements and artifacts (e.g., no characters, no camera shake, no scene cuts, no text, no AI artifacts)",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2062173263275479535",
+  "sourcePublishedAt": "2026-06-03",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Hand-drawn",
+    "Sci-Fi",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a storyboard-style reference image in Midjourney (e.g., science fiction storyboard frame, hand-drawn in pencil and marker, cinematic composition, annotations in the margins, old-school animation prep --ar 7:3 --raw --profile jen8y7u --v 7) and upload it to Seedance 2.0 as the starting frame for animation  \nIn Seedance, force a continuous single-shot by specifying 15-second continuous single-shot, no cuts, no scene transitions  \nStructure the Seedance prompt with timestamped beats (e.g., 0–3s, 3–6s, etc.) to control camera motion and environmental changes over time  \nAdd a detailed sound design section (e.g., low ventilation hum, distant machinery, soft electronic beeps, no music, no dialogue) to guide audio generation  \nUse a negative prompt to prevent unwanted elements and artifacts (e.g., no characters, no camera shake, no scene cuts, no text, no AI artifacts)",
+  "translations": {
+    "es": {
+      "content": "Crea una imagen de referencia estilo storyboard en Midjourney (por ejemplo, cuadro de storyboard de ciencia ficción, dibujado a mano con lápiz y marcador, composición cinematográfica, anotaciones en los márgenes, preparación de animación a la antigua --ar 7:3 --raw --profile jen8y7u --v 7) y súbela a Seedance 2.0 como el cuadro inicial para la animación.  \nEn Seedance, fuerza una toma continua especificando una toma continua de 15 segundos, sin cortes, sin transiciones de escena.  \nEstructura el prompt de Seedance con ritmos marcados por tiempo (por ejemplo, 0–3s, 3–6s, etc.) para controlar el movimiento de la cámara y los cambios ambientales a lo largo del tiempo.  \nAñade una sección detallada de diseño de sonido (por ejemplo, zumbido bajo de ventilación, maquinaria distante, suaves pitidos electrónicos, sin música, sin diálogo) para guiar la generación de audio.  \nUsa un prompt negativo para evitar elementos y artefactos no deseados (por ejemplo, sin personajes, sin movimiento de cámara, sin cortes de escena, sin texto, sin artefactos de IA)."
+    },
+    "fr": {
+      "content": "Créez une image de référence de type storyboard dans Midjourney (par exemple, cadre de storyboard de science-fiction, dessiné à la main au crayon et au feutre, composition cinématographique, annotations dans les marges, préparation d'animation à l'ancienne --ar 7:3 --raw --profile jen8y7u --v 7) et téléchargez-la dans Seedance 2.0 comme cadre de départ pour l'animation.  \nDans Seedance, imposez un plan-séquence continu de 15 secondes, sans coupures, sans transitions de scène.  \nStructurez le prompt Seedance avec des temps forts horodatés (par exemple, 0–3s, 3–6s, etc.) pour contrôler le mouvement de la caméra et les changements environnementaux au fil du temps.  \nAjoutez une section de conception sonore détaillée (par exemple, faible bourdonnement de ventilation, machinerie lointaine, bips électroniques doux, pas de musique, pas de dialogue) pour guider la génération audio.  \nUtilisez un prompt négatif pour éviter les éléments et artefacts indésirables (par exemple, pas de personnages, pas de tremblement de caméra, pas de coupures de scène, pas de texte, pas d'artefacts IA)."
+    },
+    "ja": {
+      "content": "---\nMidjourneyでストーリーボードスタイルの参照画像を作成し（例：SFストーリーボードフレーム、鉛筆とマーカーで手描き、シネマティックな構図、余白に注釈、オールドスクールのアニメーション準備 --ar 7:3 --raw --profile jen8y7u --v 7）、Seedance 2.0にアップロードしてアニメーションの開始フレームとして使用します。  \nSeedanceでは、15秒間の連続ワンショットを指定し、カットやシーンの切り替えを行わないようにします。  \nSeedanceのプロンプトをタイムスタンプ付きのビート（例：0–3秒、3–6秒など）で構成し、時間経過に伴うカメラの動きや環境の変化を制御します。  \n詳細なサウンドデザインセクションを追加し（例：低い換気音、遠くの機械音、柔らかい電子音、音楽なし、対話なし）、オーディオ生成をガイドします。  \nネガティブプロンプトを使用して不要な要素やアーティファクトを防ぎます（例：キャラクターなし、カメラの揺れなし、シーンカットなし、テキストなし、AIアーティファクトなし）。"
+    },
+    "ko": {
+      "content": "---\nMidjourney에서 스토리보드 스타일의 참조 이미지를 생성하세요 (예: 공상 과학 스토리보드 프레임, 연필과 마커로 손으로 그린, 시네마틱 구성, 여백에 주석, 구식 애니메이션 준비 --ar 7:3 --raw --profile jen8y7u --v 7) 그리고 Seedance 2.0에 업로드하여 애니메이션의 시작 프레임으로 사용하세요.  \nSeedance에서 15초 연속 싱글 샷, 컷 없음, 장면 전환 없음으로 지정하여 연속적인 싱글 샷을 강제하세요.  \nSeedance 프롬프트를 타임스탬프가 있는 비트로 구조화하여 (예: 0–3초, 3–6초 등) 시간에 따른 카메라 움직임과 환경 변화를 제어하세요.  \n오디오 생성을 안내하기 위해 세부적인 사운드 디자인 섹션을 추가하세요 (예: 낮은 환기 소리, 먼 기계 소리, 부드러운 전자음, 음악 없음, 대화 없음).  \n원치 않는 요소와 아티팩트를 방지하기 위해 네거티브 프롬프트를 사용하세요 (예: 캐릭터 없음, 카메라 흔들림 없음, 장면 컷 없음, 텍스트 없음, AI 아티팩트 없음).\n---"
+    },
+    "pt": {
+      "content": "Crie uma imagem de referência em estilo storyboard no Midjourney (por exemplo, quadro de storyboard de ficção científica, desenhado à mão com lápis e marcador, composição cinematográfica, anotações nas margens, preparação de animação à moda antiga --ar 7:3 --raw --profile jen8y7u --v 7) e faça o upload para o Seedance 2.0 como o quadro inicial para a animação  \nNo Seedance, force um único take contínuo especificando 15 segundos de take contínuo, sem cortes, sem transições de cena  \nEstruture o prompt do Seedance com batidas cronometradas (por exemplo, 0–3s, 3–6s, etc.) para controlar o movimento da câmera e as mudanças ambientais ao longo do tempo  \nAdicione uma seção detalhada de design de som (por exemplo, zumbido baixo de ventilação, maquinário distante, bipes eletrônicos suaves, sem música, sem diálogo) para guiar a geração de áudio  \nUse um prompt negativo para evitar elementos e artefatos indesejados (por exemplo, sem personagens, sem tremor de câmera, sem cortes de cena, sem texto, sem artefatos de IA)"
+    },
+    "zh": {
+      "content": "在Midjourney中创建一个分镜风格的参考图像（例如，科幻分镜框架，铅笔和马克笔手绘，电影构图，边缘注释，老派动画准备 --ar 7:3 --raw --profile jen8y7u --v 7），并将其上传到Seedance 2.0作为动画的起始帧。  \n在Seedance中，通过指定15秒的连续单镜头，强制实现连续单镜头，无剪切，无场景转换。  \n使用带时间戳的节拍结构Seedance提示（例如，0-3秒，3-6秒等），以控制随时间变化的摄像机运动和环境变化。  \n添加详细的声音设计部分（例如，低通风嗡嗡声，远处的机器声，轻柔的电子哔哔声，无音乐，无对话）以指导音频生成。  \n使用负面提示以防止不需要的元素和伪影（例如，无角色，无摄像机抖动，无场景剪切，无文本，无AI伪影）。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2062331925755548105",
+  "title": "In Seedance 2.0, sketch a single red line to define the camera path and let the…",
+  "content": "In Seedance 2.0, sketch a single red line to define the camera path and let the model generate a cinematic drone shot with inferred movement, framing, angles, speed, and transitions.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062331868377493504/img/dUQ2s9FO3TVWoRPY.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2062331868377493504/vid/avc1/720x818/vMbGA2KsMWVZJtfH.mp4",
+  "sourceLink": "https://x.com/alvinfoo/status/2062331925755548105",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Alvin Foo",
+    "link": "https://x.com/alvinfoo"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "In Seedance 2.0, sketch a single red line to define the camera path and let the model generate a cinematic drone shot with inferred movement, framing, angles, speed, and transitions.",
+  "translations": {
+    "es": {
+      "content": "En Seedance 2.0, dibuja una sola línea roja para definir la trayectoria de la cámara y deja que el modelo genere una toma cinematográfica con dron, infiriendo movimiento, encuadre, ángulos, velocidad y transiciones."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.0, dessinez une seule ligne rouge pour définir le chemin de la caméra et laissez le modèle générer un plan cinématographique de drone avec des mouvements, cadrages, angles, vitesses et transitions déduits."
+    },
+    "ja": {
+      "content": "Seedance 2.0では、カメラのパスを定義するために1本の赤い線をスケッチし、モデルが推測された動き、フレーミング、角度、速度、トランジションを伴うシネマティックなドローンショットを生成するようにします。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 카메라 경로를 정의하기 위해 단일 빨간 선을 스케치하고, 모델이 추론된 움직임, 프레이밍, 각도, 속도 및 전환을 포함한 시네마틱 드론 샷을 생성하도록 하세요."
+    },
+    "pt": {
+      "content": "No Seedance 2.0, esboce uma única linha vermelha para definir o caminho da câmera e deixe o modelo gerar uma tomada de drone cinematográfica com movimento inferido, enquadramento, ângulos, velocidade e transições."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中，绘制一条红线来定义摄像机路径，让模型生成具有推断运动、构图、角度、速度和过渡效果的cinematic无人机镜头。"
+    }
+  }
+}

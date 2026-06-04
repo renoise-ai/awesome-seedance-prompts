@@ -1,0 +1,43 @@
+{
+  "id": "2062324295984955436",
+  "title": "Use a scene image with a red path drawn on it plus character cards as…",
+  "content": "Use a scene image with a red path drawn on it plus character cards as references when running Seedance to guide motion and character consistency.  \nDefine a clear motion pattern in your prompt (fly in → close-up → greeting → pull back → next character) to control camera movement and pacing.  \nFor 15-second videos, keep each character’s dialogue very short so the camera movement doesn’t feel rushed.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062321586456170496/img/EUe4k5A6yEPNv2i8.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2062321586456170496/vid/avc1/1920x1080/U96jK_6hKyBP_P1Y.mp4",
+  "sourceLink": "https://x.com/MrLarus/status/2062324295984955436",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a scene image with a red path drawn on it plus character cards as references when running Seedance to guide motion and character consistency.  \nDefine a clear motion pattern in your prompt (fly in → close-up → greeting → pull back → next character) to control camera movement and pacing.  \nFor 15-second videos, keep each character’s dialogue very short so the camera movement doesn’t feel rushed.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una imagen de escena con un camino rojo dibujado en ella más tarjetas de personajes como referencias al ejecutar Seedance para guiar el movimiento y la consistencia de los personajes.  \nDefine un patrón de movimiento claro en tu prompt (fly in → close-up → greeting → pull back → next character) para controlar el movimiento de la cámara y el ritmo.  \nPara videos de 15 segundos, mantén el diálogo de cada personaje muy corto para que el movimiento de la cámara no se sienta apresurado."
+    },
+    "fr": {
+      "content": "Utilisez une image de scène avec un chemin rouge tracé dessus ainsi que des cartes de personnages comme références lors de l'exécution de Seedance pour guider le mouvement et la cohérence des personnages.  \nDéfinissez un schéma de mouvement clair dans votre prompt (fly in → close-up → greeting → pull back → next character) pour contrôler le mouvement de la caméra et le rythme.  \nPour les vidéos de 15 secondes, gardez le dialogue de chaque personnage très court afin que le mouvement de la caméra ne semble pas précipité."
+    },
+    "ja": {
+      "content": "シーダンスを実行する際に、動きとキャラクターの一貫性を導くために、赤い道が描かれたシーン画像とキャラクターカードを参照として使用します。  \nカメラの動きとペースを制御するために、プロンプトで明確な動きのパターンを定義します（fly in → close-up → greeting → pull back → next character）。  \n15秒のビデオでは、カメラの動きが急に感じられないように、各キャラクターのセリフを非常に短くしてください。"
+    },
+    "ko": {
+      "content": "---\nSeedance를 실행할 때 장면 이미지에 빨간 경로를 그려 넣고 캐릭터 카드를 참조하여 동작과 캐릭터 일관성을 안내하세요.  \n카메라 움직임과 속도를 제어하기 위해 프롬프트에서 명확한 동작 패턴을 정의하세요 (fly in → close-up → greeting → pull back → next character).  \n15초 영상의 경우, 카메라 움직임이 급하게 느껴지지 않도록 각 캐릭터의 대사를 매우 짧게 유지하세요.\n---"
+    },
+    "pt": {
+      "content": "Use uma imagem de cena com um caminho vermelho desenhado nela, além de cartões de personagens como referências ao executar o Seedance para guiar o movimento e a consistência dos personagens.  \nDefina um padrão de movimento claro no seu prompt (fly in → close-up → greeting → pull back → next character) para controlar o movimento da câmera e o ritmo.  \nPara vídeos de 15 segundos, mantenha o diálogo de cada personagem bem curto para que o movimento da câmera não pareça apressado."
+    },
+    "zh": {
+      "content": "使用带有红色路径的场景图像和角色卡作为参考，在运行Seedance时指导动作和角色一致性。  \n在您的prompt中定义清晰的运动模式（fly in → close-up → greeting → pull back → next character）以控制摄像机移动和节奏。  \n对于15秒的视频，保持每个角色的对话非常简短，以免摄像机移动显得仓促。"
+    }
+  }
+}

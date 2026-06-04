@@ -1,0 +1,42 @@
+{
+  "id": "2062221108934574359",
+  "title": "Use Claude Opus 4.8 to generate an “AI actor brief” and scene direction by…",
+  "content": "Use Claude Opus 4.8 to generate an “AI actor brief” and scene direction by prompting with your product, target demographic, and setting (e.g., bathroom shelf/gym bag/car console) to define the hook, talking-head beats, and product close-up for each clip.  \nIn GPT-Image-2, generate a single consistent AI actor face (“one prompt, one face”) and reuse it across all clips to maintain face retention for brand-campaign continuity.  \nIn Seedance 2.0, feed three inputs—your product photo, your AI actor image, and the motion prompt from Claude—to generate a ~15-second UGC-style clip.  \nUse standardized Seedance motion templates to keep batch generations consistent across multiple UGC variants.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062221021969584129/img/LfkF6ENFacq4Qbpa.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2062221021969584129/vid/avc1/1920x1080/LglNNHRwDVpxf-Qt.mp4",
+  "sourceLink": "https://x.com/spect3ral/status/2062221108934574359",
+  "sourcePublishedAt": "2026-06-03",
+  "author": {
+    "name": "Ahad Shams",
+    "link": "https://x.com/spect3ral"
+  },
+  "tags": [
+    "Product Ad",
+    "Beauty",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Claude Opus 4.8 to generate an “AI actor brief” and scene direction by prompting with your product, target demographic, and setting (e.g., bathroom shelf/gym bag/car console) to define the hook, talking-head beats, and product close-up for each clip.  \nIn GPT-Image-2, generate a single consistent AI actor face (“one prompt, one face”) and reuse it across all clips to maintain face retention for brand-campaign continuity.  \nIn Seedance 2.0, feed three inputs—your product photo, your AI actor image, and the motion prompt from Claude—to generate a ~15-second UGC-style clip.  \nUse standardized Seedance motion templates to keep batch generations consistent across multiple UGC variants.",
+  "translations": {
+    "es": {
+      "content": "Usa Claude Opus 4.8 para generar un \"AI actor brief\" y dirección de escena mediante un prompt con tu producto, público objetivo y escenario (por ejemplo, estante del baño/bolsa de gimnasio/console del coche) para definir el gancho, los beats de talking-head y el primer plano del producto para cada clip.  \nEn GPT-Image-2, genera un rostro de actor de IA único y consistente (\"one prompt, one face\") y reutilízalo en todos los clips para mantener la retención de rostro para la continuidad de la campaña de marca.  \nEn Seedance 2.0, introduce tres entradas: la foto de tu producto, la imagen de tu actor de IA y el motion prompt de Claude, para generar un clip de estilo UGC de ~15 segundos.  \nUsa plantillas de movimiento estandarizadas de Seedance para mantener las generaciones por lotes consistentes a través de múltiples variantes de UGC."
+    },
+    "fr": {
+      "content": "Utilisez Claude Opus 4.8 pour générer un « AI actor brief » et une direction de scène en fournissant votre produit, le public cible et le cadre (par exemple, étagère de salle de bain/sac de sport/console de voiture) pour définir l'accroche, les moments de face caméra, et le gros plan produit pour chaque clip.  \nDans GPT-Image-2, générez un visage d'acteur AI unique et cohérent (« one prompt, one face ») et réutilisez-le dans tous les clips pour maintenir la rétention du visage pour la continuité de la campagne de marque.  \nDans Seedance 2.0, fournissez trois entrées—la photo de votre produit, l'image de votre acteur AI, et le motion prompt de Claude—pour générer un clip de style UGC d'environ 15 secondes.  \nUtilisez des modèles de mouvement standardisés de Seedance pour garder les générations par lots cohérentes à travers plusieurs variantes UGC."
+    },
+    "ja": {
+      "content": "---\nClaude Opus 4.8を使用して、「AI俳優ブリーフ」とシーンディレクションを生成します。プロンプトには、製品、ターゲット層、設定（例：バスルームの棚/ジムバッグ/車のコンソール）を使用して、各クリップのフック、トーキングヘッドのビート、製品のクローズアップを定義します。  \nGPT-Image-2では、単一の一貫したAI俳優の顔を生成し（「one prompt, one face」）、すべてのクリップで再利用して、ブランドキャンペーンの継続性のために顔の保持を維持します。  \nSeedance 2.0では、製品写真、AI俳優の画像、Claudeからのモーションプロンプトの3つの入力を使用して、約15秒のUGCスタイルのクリップを生成します。  \n標準化されたSeedanceモーションテンプレートを使用して、複数のUGCバリアントにわたってバッチ生成を一貫して行います。  \n---"
+    },
+    "ko": {
+      "content": "---\nClaude Opus 4.8을 사용하여 제품, 타겟 인구통계, 설정(예: 욕실 선반/체육관 가방/자동차 콘솔)을 프롬프트로 하여 \"AI 배우 브리프\"와 장면 지시를 생성하여 각 클립의 훅, 토킹 헤드 비트, 제품 클로즈업을 정의하세요.  \nGPT-Image-2에서 일관된 AI 배우 얼굴을 생성하고 (“one prompt, one face”) 모든 클립에 재사용하여 브랜드 캠페인 연속성을 위한 얼굴 유지력을 유지하세요.  \nSeedance 2.0에서 세 가지 입력—제품 사진, AI 배우 이미지, Claude의 모션 프롬프트—을 사용하여 약 15초 길이의 UGC 스타일 클립을 생성하세요.  \n표준화된 Seedance 모션 템플릿을 사용하여 여러 UGC 변형에서 배치 생성의 일관성을 유지하세요.\n---"
+    },
+    "pt": {
+      "content": "---\nUse o Claude Opus 4.8 para gerar um \"briefing de ator de IA\" e direção de cena, solicitando com seu produto, público-alvo e cenário (por exemplo, prateleira do banheiro/bolsa de academia/console do carro) para definir o gancho, os momentos de talking-head e o close-up do produto para cada clipe.  \nNo GPT-Image-2, gere um rosto de ator de IA consistente (“um prompt, um rosto”) e reutilize-o em todos os clipes para manter a retenção facial para a continuidade da campanha da marca.  \nNo Seedance 2.0, insira três entradas—sua foto do produto, sua imagem de ator de IA e o motion prompt do Claude—para gerar um clipe de estilo UGC de aproximadamente 15 segundos.  \nUse modelos de movimento padronizados do Seedance para manter as gerações em lote consistentes em várias variantes de UGC.\n---"
+    },
+    "zh": {
+      "content": "使用 Claude Opus 4.8，通过输入您的产品、目标人群和场景（例如，浴室架子/健身包/汽车控制台）生成“AI演员简报”和场景指导，以定义每个片段的吸引点、谈话头节奏和产品特写。  \n在 GPT-Image-2 中，生成一个一致的 AI 演员面孔（“一个提示，一个面孔”），并在所有片段中重复使用，以保持品牌活动的面孔一致性。  \n在 Seedance 2.0 中，输入三个内容——您的产品照片、您的 AI 演员图像和来自 Claude 的动作提示——生成一个约15秒的UGC风格片段。  \n使用标准化的 Seedance 动作模板，确保多个 UGC 变体的批量生成一致。"
+    }
+  }
+}

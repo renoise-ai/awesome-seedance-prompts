@@ -1,0 +1,43 @@
+{
+  "id": "2062052941318742123",
+  "title": "选取一张鸟瞰图的景点图片作为参考（也可用GPT生成）来建立仿无人机视角的基础画面",
+  "content": "选取一张鸟瞰图的景点图片作为参考（也可用GPT生成）来建立仿无人机视角的基础画面  \n让GPT推荐游览路线并用箭头在鸟瞰图上标注主要景点，作为第二张参考图来引导运动路径  \n在Seedance 2.0中同时上传“鸟瞰景点图+带路线箭头标注图”两张图片作为资料参考，再配合提示词生成仿无人机拍摄视角的视频",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062051498285314048/img/NP_hrcH_hW73Lumx.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2062051498285314048/vid/avc1/1080x1080/EGzNOqGoV056UzrD.mp4",
+  "sourceLink": "https://x.com/derek_wall90176/status/2062052941318742123",
+  "sourcePublishedAt": "2026-06-03",
+  "author": {
+    "name": "Derek Wen｜德里克文",
+    "link": "https://x.com/derek_wall90176"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Landmark",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "选取一张鸟瞰图的景点图片作为参考（也可用GPT生成）来建立仿无人机视角的基础画面  \n让GPT推荐游览路线并用箭头在鸟瞰图上标注主要景点，作为第二张参考图来引导运动路径  \n在Seedance 2.0中同时上传“鸟瞰景点图+带路线箭头标注图”两张图片作为资料参考，再配合提示词生成仿无人机拍摄视角的视频",
+  "translations": {
+    "en": {
+      "content": "Select an aerial view image of a scenic spot as a reference (you can also use GPT to generate one) to establish a base frame mimicking a drone perspective.  \nHave GPT recommend a tour route and use arrows to mark the main attractions on the aerial view, serving as a second reference image to guide the movement path.  \nIn Seedance 2.0, upload both the \"aerial view scenic spot image + image with route arrows\" as reference materials, and use prompts to generate a video simulating a drone's shooting perspective."
+    },
+    "es": {
+      "content": "---\nSelecciona una imagen de un punto de interés desde una vista aérea como referencia (también puedes generarla con GPT) para establecer la base de una toma simulando la perspectiva de un dron.  \nDeja que GPT recomiende una ruta de recorrido y usa flechas para marcar los principales puntos de interés en la vista aérea, creando una segunda imagen de referencia para guiar la trayectoria del movimiento.  \nEn Seedance 2.0, sube simultáneamente las dos imágenes \"vista aérea del punto de interés + imagen con flechas de ruta\" como referencia, y utiliza un prompt para generar un video simulando la perspectiva de una toma de dron.\n---"
+    },
+    "fr": {
+      "content": "---\nSélectionnez une image de point de vue aérien d'un site touristique comme référence (vous pouvez également utiliser une image générée par GPT) pour établir une image de base simulant une vue de drone.  \nDemandez à GPT de recommander un itinéraire de visite et d'indiquer les principaux sites avec des flèches sur la vue aérienne, pour créer une deuxième image de référence guidant le chemin de mouvement.  \nDans Seedance 2.0, téléchargez simultanément les deux images \"vue aérienne du site + image avec flèches d'itinéraire\" comme références, puis utilisez des prompts pour générer une vidéo simulant une perspective de drone.  \n---"
+    },
+    "ja": {
+      "content": "---\n鳥瞰図の観光地画像を参考として選び（またはGPTで生成）、ドローン視点の基礎画面を構築する  \nGPTに観光ルートを推薦させ、鳥瞰図上に主要観光地を矢印で示し、運動経路を導くための第二の参考図とする  \nSeedance 2.0に「鳥瞰観光地図+ルート矢印付き図」の2枚の画像を資料として同時にアップロードし、プロンプトを組み合わせてドローン撮影視点の動画を生成する  \n---"
+    },
+    "ko": {
+      "content": "---\n조감도의 관광지 이미지를 참고로 선택하여 (또는 GPT로 생성) 드론 시점과 유사한 기본 화면을 구축합니다.  \nGPT에게 관광 경로를 추천받고, 조감도에 화살표로 주요 관광지를 표시하여 두 번째 참고 이미지로 운동 경로를 안내합니다.  \nSeedance 2.0에 \"조감 관광지 이미지+경로 화살표 표시 이미지\" 두 장의 이미지를 자료 참고로 동시에 업로드하고, 프롬프트를 사용하여 드론 촬영 시점과 유사한 영상을 생성합니다.\n---"
+    },
+    "pt": {
+      "content": "Selecione uma imagem de referência de um ponto turístico em vista aérea (também pode ser gerada pelo GPT) para criar uma cena básica em perspectiva de drone.  \nPeça ao GPT para recomendar uma rota de passeio e marque os principais pontos turísticos na vista aérea com setas, criando uma segunda imagem de referência para guiar o caminho de movimento.  \nNo Seedance 2.0, carregue simultaneamente as duas imagens \"vista aérea do ponto turístico + imagem com setas de rota\" como referências, e use prompts para gerar um vídeo em perspectiva de filmagem de drone."
+    }
+  }
+}
