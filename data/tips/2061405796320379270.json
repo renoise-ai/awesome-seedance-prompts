@@ -17,7 +17,7 @@
     "Photoreal",
     "Realistic World",
     "Tutorial",
-    "Creative Asset"
+    "VFX"
   ],
   "tips": "Seaartで人物の元絵を3人分作成し、ChatGPTで「スイーツの卓に座らせる」構図に整えてからSeedanceに投入する  \nSeedanceで描いた軌跡（矢印）を入力して動きのトレースを試す（手描きの矢印で動線指定）",
   "translations": {

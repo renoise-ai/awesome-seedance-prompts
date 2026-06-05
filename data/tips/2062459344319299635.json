@@ -1,0 +1,42 @@
+{
+  "id": "2062459344319299635",
+  "title": "Generate the song in Suno, then create a character image before moving into…",
+  "content": "Generate the song in Suno, then create a character image before moving into Seedance 2.0 for video generation  \nSplit the song audio into sections so you can generate multiple shorter Seedance clips that align to specific lyric segments  \nMatch the lyrics inside the Seedance prompt to drive accurate lip sync for each generated clip  \nEdit the generated clips together in CapCut to form one consistent 24-second music video",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062384490387759104/img/acEWpOE_bnuSOTaQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062459344319299635.mp4",
+  "sourceLink": "https://x.com/chrisdadiva/status/2062459344319299635",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "BIG CHRIS",
+    "link": "https://x.com/chrisdadiva"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate the song in Suno, then create a character image before moving into Seedance 2.0 for video generation  \nSplit the song audio into sections so you can generate multiple shorter Seedance clips that align to specific lyric segments  \nMatch the lyrics inside the Seedance prompt to drive accurate lip sync for each generated clip  \nEdit the generated clips together in CapCut to form one consistent 24-second music video",
+  "translations": {
+    "es": {
+      "content": "Genera la canción en Suno, luego crea una imagen de personaje antes de pasar a Seedance 2.0 para la generación de video  \nDivide el audio de la canción en secciones para que puedas generar múltiples clips más cortos de Seedance que se alineen con segmentos específicos de la letra  \nHaz coincidir las letras dentro del prompt de Seedance para lograr una sincronización labial precisa en cada clip generado  \nEdita los clips generados juntos en CapCut para formar un video musical consistente de 24 segundos"
+    },
+    "fr": {
+      "content": "Générez la chanson dans Suno, puis créez une image de personnage avant de passer à Seedance 2.0 pour la génération vidéo  \nDivisez l'audio de la chanson en sections afin de pouvoir générer plusieurs clips Seedance plus courts qui s'alignent sur des segments de paroles spécifiques  \nFaites correspondre les paroles à l'intérieur du prompt Seedance pour obtenir une synchronisation labiale précise pour chaque clip généré  \nMontez les clips générés ensemble dans CapCut pour former une vidéo musicale cohérente de 24 secondes"
+    },
+    "ja": {
+      "content": "---\nSunoで曲を生成し、キャラクターイメージを作成してからSeedance 2.0に移行してビデオを生成します  \n曲のオーディオをセクションに分割し、特定の歌詞セグメントに合わせた複数の短いSeedanceクリップを生成します  \n生成された各クリップの正確なリップシンクを実現するために、Seedanceプロンプト内の歌詞を一致させます  \n生成されたクリップをCapCutで編集し、一貫した24秒のミュージックビデオを作成します  \n---"
+    },
+    "ko": {
+      "content": "---\nSuno에서 노래를 생성한 후 캐릭터 이미지를 만든 다음 Seedance 2.0으로 이동하여 비디오를 생성하세요  \n노래 오디오를 여러 부분으로 나누어 특정 가사 구간에 맞춘 짧은 Seedance 클립을 여러 개 생성할 수 있도록 하세요  \n각 생성된 클립에 대해 정확한 립싱크를 유도하기 위해 Seedance prompt 내 가사를 맞추세요  \n생성된 클립을 CapCut에서 편집하여 하나의 일관된 24초 뮤직 비디오를 만드세요  \n---"
+    },
+    "pt": {
+      "content": "Gere a música no Suno, depois crie uma imagem de personagem antes de passar para o Seedance 2.0 para geração de vídeo  \nDivida o áudio da música em seções para que você possa gerar vários clipes curtos do Seedance que se alinhem a segmentos específicos da letra  \nCombine as letras dentro do prompt do Seedance para garantir uma sincronização labial precisa para cada clipe gerado  \nEdite os clipes gerados juntos no CapCut para formar um videoclipe consistente de 24 segundos"
+    },
+    "zh": {
+      "content": "在Suno中生成歌曲，然后创建一个角色图像，再进入Seedance 2.0进行视频生成  \n将歌曲音频分成多个部分，以便生成多个较短的Seedance片段，与特定歌词段落对齐  \n在Seedance prompt中匹配歌词，以驱动每个生成片段的准确对口型  \n在CapCut中编辑生成的片段，形成一个一致的24秒音乐视频"
+    }
+  }
+}

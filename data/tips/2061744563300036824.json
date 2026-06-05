@@ -16,8 +16,7 @@
     "Drama",
     "Photoreal",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "Use TapNow Agent as a “creative director” by giving it a rough idea first, then have it shape characters, scene beats, story structure, and visual direction before generating final Seedance 2.0 shots  \nProvide strong story foundation upfront (main characters, their roles, and the setting/arena) so Seedance outputs follow a coherent underdog arc instead of disconnected robot shots  \nCreate keyframes (e.g., wide arena establishing shot, character reaction shots, size-contrast shots, first attack, strategy shift, final winning move) to pre-plan the sequence before generating video clips in Seedance 2.0  \nBuild a storyboard on a canvas that links story beats → keyframes → generated clips → final sequence so each Seedance clip is generated to serve a specific moment and the short film feels connected",
   "translations": {

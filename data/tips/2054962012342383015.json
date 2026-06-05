@@ -16,8 +16,7 @@
     "Tech",
     "Photoreal",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "Upload your product photo and generate a poster using GPT Image, then use that poster as the starting asset for Seedance 2.0 video generation.  \nKeep consistent visual direction across outputs by reusing a simple, consistent prompt when generating the poster and the Seedance 2.0 video.  \nTurn a static product poster into a cinematic ad video by feeding it into Seedance 2.0 as the source image.",
   "translations": {

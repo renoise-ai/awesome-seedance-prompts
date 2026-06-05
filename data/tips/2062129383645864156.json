@@ -4,7 +4,7 @@
   "content": "全カットを参照画像で縛らず、参照画像を「カットアンカー」として要所（例：Cut1とCut3）だけに割り当て、間のカット（Cut2/4）は参照なしで生成する  \n2枚の参照画像はシームレスに補間させず、Cut1=画像A→Hard cut→Cut2(参照なし)→Hard cut→Cut3=画像B→Hard cut→Cut4(参照なし)のように編集点（Hard cut）で明確に分ける  \nCutごとに目的を分離してプロンプト設計し、Cut2は「発射前の手のドアップ（手と光が主役、顔や全身は主役にしない）」のように被写体を限定して生成する  \n参照画像カット（例：Cut3）は「最終発射直前の決め原画」など強いポーズの固定に使い、次カット（発射）は参照なしの新規ワイドで作って見せ場を作る  \nリミテッドアニメ風にするなら、強い原画ポーズ＋短いホールド＋鋭いポーズジャンプ＋少ない中割りを前提に、各カットを役割（旋回原画／手アップ／決め原画／発射原画）で明確に分ける  \n髪・マント・札・魔法陣・火花・瓦礫などの副要素は「主動作のあとを追ってズレて反応する」ように指示して遅れ（ドラッグ）を出す",
   "language": "ja",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062127295306104833/img/Vw-BdNuk_4hMaXuN.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2062127295306104833/vid/avc1/1920x1080/oVyHIz2nSGBjnB-l.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062129383645864156.mp4",
   "sourceLink": "https://x.com/nAI_station/status/2062129383645864156",
   "sourcePublishedAt": "2026-06-03",
   "author": {

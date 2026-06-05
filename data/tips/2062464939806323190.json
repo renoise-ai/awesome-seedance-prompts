@@ -1,0 +1,42 @@
+{
+  "id": "2062464939806323190",
+  "title": "Upload 3 reference images (e.g., 2 character sheets + 1 vehicle reference)…",
+  "content": "Upload 3 reference images (e.g., 2 character sheets + 1 vehicle reference) before generating in Seedance 2.0 to keep character and prop consistency across shots  \nGenerate a complete cinematic shot breakdown and production-ready prompts first, then feed those prompts into Seedance 2.0 to produce the video shot-by-shot",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062458889392840705/img/THNspuylwnmj0Mr3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062464939806323190.mp4",
+  "sourceLink": "https://x.com/Bou_bee/status/2062464939806323190",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Bobby bangsawan",
+    "link": "https://x.com/Bou_bee"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload 3 reference images (e.g., 2 character sheets + 1 vehicle reference) before generating in Seedance 2.0 to keep character and prop consistency across shots  \nGenerate a complete cinematic shot breakdown and production-ready prompts first, then feed those prompts into Seedance 2.0 to produce the video shot-by-shot",
+  "translations": {
+    "es": {
+      "content": "Sube 3 imágenes de referencia (por ejemplo, 2 hojas de personajes + 1 referencia de vehículo) antes de generar en Seedance 2.0 para mantener la consistencia de personajes y props a lo largo de las tomas  \nGenera primero un desglose completo de tomas cinematográficas y prompts listos para producción, luego introduce esos prompts en Seedance 2.0 para producir el video toma por toma"
+    },
+    "fr": {
+      "content": "Téléchargez 3 images de référence (par exemple, 2 fiches de personnages + 1 référence de véhicule) avant de générer dans Seedance 2.0 pour maintenir la cohérence des personnages et des accessoires à travers les prises de vue.  \nGénérez d'abord une décomposition complète des plans cinématiques et des prompts prêts pour la production, puis intégrez ces prompts dans Seedance 2.0 pour produire la vidéo plan par plan."
+    },
+    "ja": {
+      "content": "Seedance 2.0で生成する前に、3つの参照画像（例：キャラクターシート2枚＋車両参照1枚）をアップロードして、ショット全体でキャラクターと小道具の一貫性を保ちます。  \nまず、完全なシネマティックショットのブレイクダウンとプロダクションレディのプロンプトを生成し、それからそのプロンプトをSeedance 2.0に入力して、ショットごとにビデオを制作します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 생성하기 전에 3개의 참고 이미지를 업로드하세요 (예: 2개의 캐릭터 시트 + 1개의 차량 참고 이미지) 촬영 전반에 걸쳐 캐릭터와 소품의 일관성을 유지하기 위해  \n완전한 시네마틱 샷 분석과 제작 준비가 된 프롬프트를 먼저 생성한 다음, 그 프롬프트를 Seedance 2.0에 입력하여 샷별로 비디오를 제작하세요"
+    },
+    "pt": {
+      "content": "Carregue 3 imagens de referência (por exemplo, 2 folhas de personagem + 1 referência de veículo) antes de gerar no Seedance 2.0 para manter a consistência de personagens e objetos entre as cenas  \nGere primeiro uma análise completa das cenas cinematográficas e prompts prontos para produção, depois insira esses prompts no Seedance 2.0 para produzir o vídeo cena por cena"
+    },
+    "zh": {
+      "content": "在 Seedance 2.0 中生成之前，上传3张参考图像（例如，2张角色设定图 + 1张载具参考图），以保持镜头间角色和道具的一致性  \n首先生成完整的电影镜头分解和可用于制作的prompts，然后将这些prompts输入Seedance 2.0以逐镜头制作视频"
+    }
+  }
+}

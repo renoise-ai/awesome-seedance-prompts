@@ -1,0 +1,43 @@
+{
+  "id": "2062492943018324375",
+  "title": "Genera una imagen base con GPT, dibuja a mano la trayectoria de cámara tipo FPV…",
+  "content": "Genera una imagen base con GPT, dibuja a mano la trayectoria de cámara tipo FPV y úsala como guía en Seedance 2.0 para producir el video.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062137265107968001/img/9IGt6a4ymqKx3DrF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062492943018324375.mp4",
+  "sourceLink": "https://x.com/VisualconAI/status/2062492943018324375",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "✦ VISUAL AI ✦",
+    "link": "https://x.com/VisualconAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Genera una imagen base con GPT, dibuja a mano la trayectoria de cámara tipo FPV y úsala como guía en Seedance 2.0 para producir el video.",
+  "translations": {
+    "en": {
+      "content": "Generate a base image with GPT, hand-draw the FPV-type camera path, and use it as a guide in Seedance 2.0 to produce the video."
+    },
+    "fr": {
+      "content": "Générez une image de base avec GPT, dessinez à la main la trajectoire de la caméra type FPV et utilisez-la comme guide dans Seedance 2.0 pour produire la vidéo."
+    },
+    "ja": {
+      "content": "GPTでベース画像を生成し、FPVタイプのカメラの軌道を手描きで描き、それをSeedance 2.0でビデオを制作するためのガイドとして使用します。"
+    },
+    "ko": {
+      "content": "GPT로 기본 이미지를 생성하고, FPV 타입의 카메라 경로를 손으로 그려 Seedance 2.0에서 비디오를 제작하는 가이드로 사용하세요."
+    },
+    "pt": {
+      "content": "Gere uma imagem base com GPT, desenhe à mão a trajetória de câmera tipo FPV e use-a como guia no Seedance 2.0 para produzir o vídeo."
+    },
+    "zh": {
+      "content": "使用GPT生成一个基础图像，手动绘制FPV类型的摄像机轨迹，并在Seedance 2.0中用作制作视频的指南。"
+    }
+  }
+}

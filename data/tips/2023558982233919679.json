@@ -13,10 +13,9 @@
   "tags": [
     "Action",
     "Wuxia",
-    "Hand-drawn",
+    "Anime 2D",
     "Fantasy",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "Use Sider’s Read this page on the Seedance site to digest the official guide/manual before prompting.  \nPrompt Sider with a scene concept (e.g., ink style martial arts fight scene) and have it generate storyboards based on the Seedance manual.  \nAsk Sider to convert the generated storyboards directly into Seedance-ready prompts.  \nIf English prompts get flagged for policy violations, use Sider’s AI translation to switch the prompts to Chinese before submitting to Seedance.",
   "translations": {

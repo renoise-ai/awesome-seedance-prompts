@@ -16,10 +16,7 @@
     "Wuxia",
     "Photoreal",
     "Sci-Fi",
-    "Creative Asset",
-    "Tutorial",
-    "VFX",
-    "Slow-Mo"
+    "Tutorial"
   ],
   "tips": "Skip storyboarding by generating a clean character sheet first and use it as the reference to drive Seedance character consistency across the intro.\n\nIn Seedance, lock key character identifiers in the prompt (hair streak, goggles position, headphones placement, mask, primary/secondary katana) to keep the design stable between shots.\n\nWrite your Seedance prompt as a timed shot script (e.g., 16:9, 15s with [00:00–00:02], [00:02–00:05] beats) to control pacing and camera moves like snap zoom punch-in, 180° bullet-time orbit, and slow dolly-in.\n\nSpecify environment and motion elements explicitly (black-to-magenta gradient, cyan grid floor, drifting sakura petals, floating kanji glyphs, vertical pink light-rain) to maintain a consistent cyberpunk neon void look throughout the clip.\n\nUpscale the final Seedance output with Topaz Astra 2 to significantly improve perceived quality.",
   "translations": {

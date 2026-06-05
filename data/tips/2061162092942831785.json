@@ -16,9 +16,9 @@
     "Photoreal",
     "Realistic World",
     "Creative Asset",
-    "Tutorial",
     "Slow-Mo",
-    "Macro"
+    "Macro",
+    "Tutorial"
   ],
   "tips": "Prompt Seedance to output a professional 3x3 storyboard grid with black borders, numbered frames, and handwritten camera/SFX/music/voiceover notes embedded inside each frame to previsualize a full commercial.\n\nKick off with an “EXPLOSIVE FAST INTRO MONTAGE” section listing specific shot types (extreme macro droplets, ice cubes slow motion, bottle spin to camera, sunlight flash transitions, liquid splash on lens, whip-pans, speed ramping) to enforce fast-paced commercial pacing.\n\nAdd dedicated MUSIC, SFX, and VOICEOVER blocks (with concrete cues and sample lines) to make Seedance include audio direction and narration per scene.\n\nStructure the prompt as Scene 1–Scene 9 with one clear camera angle/movement + lighting + action per scene (e.g., low-angle hero shot, side tracking handheld run, macro cap opening, centered rotating product showcase) to control shot-by-shot output.\n\nSpecify product-ad realism and look with technical style tags like hyper realistic, 8K ultra detailed, DSLR 85mm lens, HDR sunlight lighting, realistic splash simulation, and commercial-grade color grading to push premium beverage-ad aesthetics.",
   "translations": {

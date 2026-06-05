@@ -12,11 +12,10 @@
     "link": "https://x.com/jerrod_lew"
   },
   "tags": [
-    "Portrait & Fashion",
-    "Portrait",
+    "Action",
+    "Wuxia",
     "Photoreal",
     "Realistic World",
-    "Creative Asset",
     "Tutorial"
   ],
   "tips": "Create a multi-angle character sheet in ChatGPT Images 2.0 (include different angles plus close-ups of the face) to improve character consistency in Seedance 2.0.  \nImport the character sheet into Seedance 2.0 as a reference image before generating your action scene.  \nUse Seedance 2.0 Omni Reference to prompt with images/videos and reference them directly with @ in your video prompt.  \nOutline the full scene and actions in your prompt while referencing the character sheet so Seedance 2.0 follows the same character across shots.",

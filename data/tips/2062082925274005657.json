@@ -4,7 +4,7 @@
   "content": "Structure a 15-second vertical Seedance video by timecoding the prompt into 3-second beats ([00:00-00:03] … [00:12-00:15]) and specifying shot type + action + SFX/VFX for each beat to control pacing and continuity  \nPrompt for playful 3D cinematic action by explicitly combining style + setting + tone keywords (3D cinematic animation, realistic stylized city, energetic urban action, playful tension)  \nDirect camera behavior by naming shot types per segment (wide street-level, fast tracking beside subject, dynamic front-facing, low-angle action, hero tracking) and adding camera effects (motion blur, speed lines, slow-motion moment, dynamic camera shake)  \nUse Seedance 2.0 with Magnific as an upscaling/enhancement step to improve final video clarity/detail after generation",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062082864834088960/img/SuS-BqttS782Lyah.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2062082864834088960/vid/avc1/1280x720/A_EuCJuQl4U6COhj.mp4?tag=14",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062082925274005657.mp4",
   "sourceLink": "https://x.com/azed_ai/status/2062082925274005657",
   "sourcePublishedAt": "2026-06-03",
   "author": {

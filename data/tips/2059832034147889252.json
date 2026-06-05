@@ -16,8 +16,7 @@
     "Portrait",
     "Anime 2D",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "CapCut Seedance 2.0のアニメ生成では、3面図（正面・側面・背面）＋プロンプトを入力してキャラクターの形状を安定させる  \n実写版を作るときは、静止画＋プロンプトを使ってSeedanceで生成する",
   "translations": {

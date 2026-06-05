@@ -1,0 +1,41 @@
+{
+  "id": "2062484248452309228",
+  "title": "Use an upstream storyboard before animating in Seedance 2.0 to improve…",
+  "content": "Use an upstream storyboard before animating in Seedance 2.0 to improve adherence to the intended character design.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/0xRicky/status/2062484248452309228",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Ricky",
+    "link": "https://x.com/0xRicky"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an upstream storyboard before animating in Seedance 2.0 to improve adherence to the intended character design.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un storyboard preliminar antes de animar en Seedance 2.0 para mejorar la adherencia al diseño de personajes previsto."
+    },
+    "fr": {
+      "content": "Utilisez un storyboard en amont avant d'animer dans Seedance 2.0 pour améliorer l'adhérence au design de personnage prévu."
+    },
+    "ja": {
+      "content": "Seedance 2.0でアニメーションを作成する前に、上流のストーリーボードを使用して、意図したキャラクターデザインへの適合性を向上させましょう。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 애니메이션을 제작하기 전에 상류 스토리보드를 사용하여 의도한 캐릭터 디자인을 더 잘 준수하십시오."
+    },
+    "pt": {
+      "content": "Use um storyboard preliminar antes de animar no Seedance 2.0 para melhorar a aderência ao design de personagem pretendido."
+    },
+    "zh": {
+      "content": "在 Seedance 2.0 中进行动画制作之前，使用上游分镜头脚本可以提高对预期角色设计的遵循性。"
+    }
+  }
+}

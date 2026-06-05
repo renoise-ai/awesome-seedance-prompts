@@ -4,7 +4,7 @@
   "content": "Start from a simple sketched camera path to define the drone/FPV camera movement, then generate the POV footage in Seedance 2.0  \nUse GPT Image 2 to create the initial visual concept/style frames and feed them into Seedance 2.0 for cinematic drone/FPV video generation  \nSet the clip length to 15 seconds to produce a short cinematic FPV flight sequence",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062167039914201088/img/NhvP5W353FE-IWOa.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2062167039914201088/vid/avc1/1080x1350/Ydx8owPSbHnjAE5V.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062167144780202322.mp4",
   "sourceLink": "https://x.com/Diplomeme/status/2062167144780202322",
   "sourcePublishedAt": "2026-06-03",
   "author": {

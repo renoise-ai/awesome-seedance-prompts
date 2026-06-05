@@ -12,12 +12,12 @@
     "link": "https://x.com/GumVue"
   },
   "tags": [
-    "Portrait & Fashion",
-    "Portrait",
+    "Scenery & Spectacle",
+    "Worldbuilding",
     "Photoreal",
     "Realistic World",
-    "Creative Asset",
-    "Tutorial"
+    "Tutorial",
+    "Creative Asset"
   ],
   "tips": "Generate character sheets, props, and environment reference images first, then reuse them as omni-reference inputs in Seedance 2.0 to maintain visual consistency across shots  \nIf ChatGPT-generated character faces look generic, reuse the original character prompts and revise the character sheets (e.g., via Grok) with more realistic faces before generating Seedance shots  \nCreate detailed scene-by-scene cinematic shot sheets (camera angles, transitions, pacing, continuity bridges) and use them as scene-based prompts in Seedance 2.0 for final shot generation  \nWhen generating final shots in Seedance 2.0, use omni-reference plus character-consistency prompting to keep the same characters consistent across scenes  \nIf long Seedance generations produce artifacting or black-and-white noise, regenerate/fix the affected shots before assembling the sequence",
   "translations": {

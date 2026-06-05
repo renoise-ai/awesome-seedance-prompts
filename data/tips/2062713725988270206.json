@@ -1,0 +1,42 @@
+{
+  "id": "2062713725988270206",
+  "title": "Use a single product photo as input, generate a campaign still with GPT Image…",
+  "content": "Use a single product photo as input, generate a campaign still with GPT Image 2, then feed that image into Seedance 2.0 to turn it into a cinematic ad spot.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2062713680609845248/pu/img/Ojc634x286LRAtcy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062713725988270206.mp4",
+  "sourceLink": "https://x.com/saniaspeaks_/status/2062713725988270206",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "𝗦𝗮𝗻𝗶𝗮",
+    "link": "https://x.com/saniaspeaks_"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a single product photo as input, generate a campaign still with GPT Image 2, then feed that image into Seedance 2.0 to turn it into a cinematic ad spot.",
+  "translations": {
+    "es": {
+      "content": "Usa una sola foto de producto como entrada, genera una imagen de campaña con GPT Image 2, luego introduce esa imagen en Seedance 2.0 para convertirla en un anuncio cinematográfico."
+    },
+    "fr": {
+      "content": "Utilisez une seule photo de produit comme entrée, générez une image de campagne avec GPT Image 2, puis intégrez cette image dans Seedance 2.0 pour la transformer en une publicité cinématographique."
+    },
+    "ja": {
+      "content": "---\n単一の製品写真を入力として使用し、GPT Image 2でキャンペーンスチルを生成し、その画像をSeedance 2.0に入力してシネマティックな広告スポットに変換します。"
+    },
+    "ko": {
+      "content": "단일 제품 사진을 입력으로 사용하여 GPT Image 2로 캠페인 스틸을 생성한 후, 그 이미지를 Seedance 2.0에 입력하여 시네마틱 광고 스팟으로 변환합니다."
+    },
+    "pt": {
+      "content": "Use uma única foto de produto como entrada, gere uma imagem de campanha com o GPT Image 2, depois insira essa imagem no Seedance 2.0 para transformá-la em um anúncio cinematográfico."
+    },
+    "zh": {
+      "content": "使用一张产品照片作为输入，用GPT Image 2生成一个活动静帧，然后将该图像输入Seedance 2.0，将其转化为一个cinematic广告片段。"
+    }
+  }
+}

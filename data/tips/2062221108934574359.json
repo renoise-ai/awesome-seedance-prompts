@@ -4,7 +4,7 @@
   "content": "Use Claude Opus 4.8 to generate an “AI actor brief” and scene direction by prompting with your product, target demographic, and setting (e.g., bathroom shelf/gym bag/car console) to define the hook, talking-head beats, and product close-up for each clip.  \nIn GPT-Image-2, generate a single consistent AI actor face (“one prompt, one face”) and reuse it across all clips to maintain face retention for brand-campaign continuity.  \nIn Seedance 2.0, feed three inputs—your product photo, your AI actor image, and the motion prompt from Claude—to generate a ~15-second UGC-style clip.  \nUse standardized Seedance motion templates to keep batch generations consistent across multiple UGC variants.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062221021969584129/img/LfkF6ENFacq4Qbpa.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2062221021969584129/vid/avc1/1920x1080/LglNNHRwDVpxf-Qt.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062221108934574359.mp4",
   "sourceLink": "https://x.com/spect3ral/status/2062221108934574359",
   "sourcePublishedAt": "2026-06-03",
   "author": {

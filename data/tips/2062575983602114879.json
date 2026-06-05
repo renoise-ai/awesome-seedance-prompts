@@ -1,0 +1,42 @@
+{
+  "id": "2062575983602114879",
+  "title": "Build AI influencer ad videos by following a production-style pipeline: AI…",
+  "content": "Build AI influencer ad videos by following a production-style pipeline: AI influencer → Hero Frame → Storyboard → Seedance (instead of relying on a single prompt).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2062575896947826688/pu/img/LmK4hYF2RLrNsl5C.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062575983602114879.mp4",
+  "sourceLink": "https://x.com/MushrafAli3593/status/2062575983602114879",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Mushraf Ali",
+    "link": "https://x.com/MushrafAli3593"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Build AI influencer ad videos by following a production-style pipeline: AI influencer → Hero Frame → Storyboard → Seedance (instead of relying on a single prompt).",
+  "translations": {
+    "es": {
+      "content": "Crea videos publicitarios de influencers de IA siguiendo un proceso de producción: AI influencer → Hero Frame → Storyboard → Seedance (en lugar de depender de un solo prompt)."
+    },
+    "fr": {
+      "content": "Créez des vidéos publicitaires d'influenceurs IA en suivant un pipeline de production : Influenceur IA → Image clé → Storyboard → Seedance (au lieu de se fier à un seul prompt)."
+    },
+    "ja": {
+      "content": "AIインフルエンサー広告動画を制作スタイルのパイプラインに沿って構築します：AIインフルエンサー → ヒーローフレーム → ストーリーボード → Seedance（単一のプロンプトに頼るのではなく）。"
+    },
+    "ko": {
+      "content": "AI 인플루언서 광고 영상을 제작 스타일의 파이프라인을 따라 제작하세요: AI 인플루언서 → Hero Frame → 스토리보드 → Seedance (단일 프롬프트에 의존하지 않고)."
+    },
+    "pt": {
+      "content": "Crie vídeos publicitários de influenciadores de IA seguindo um pipeline de produção: Influenciador de IA → Quadro Heroico → Storyboard → Seedance (em vez de depender de um único prompt)."
+    },
+    "zh": {
+      "content": "通过遵循制作风格的流程来制作AI网红广告视频：AI网红 → 主画面 → 分镜头脚本 → Seedance（而不是依赖单一的prompt）。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2062347812910825786",
+  "title": "Use any platform that supports Seedance 2.0, paste a detailed cinematic prompt…",
+  "content": "Use any platform that supports Seedance 2.0, paste a detailed cinematic prompt, and change the location/scene details to match your target video  \nUse a reference image as the exact location and flight-path guide, and explicitly instruct that any drawn guide line (e.g., red path) must not appear in the final video  \nSpecify a precise camera/drone movement sequence in the prompt (start low skimming water → accelerate forward along path → climbing curve → close orbit around subject → pull back gaining altitude → tilt to panoramic reveal) to control motion and pacing  \nAdd explicit audio direction in the prompt (cinematic music with specific instruments and a crescendo timed to a key moment) and include a “No text/subtitles/logos/overlays” constraint to keep the output clean",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Diplomeme/status/2062347812910825786",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "ᴍᴜʀᴘʜʏ",
+    "link": "https://x.com/Diplomeme"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Use any platform that supports Seedance 2.0, paste a detailed cinematic prompt, and change the location/scene details to match your target video  \nUse a reference image as the exact location and flight-path guide, and explicitly instruct that any drawn guide line (e.g., red path) must not appear in the final video  \nSpecify a precise camera/drone movement sequence in the prompt (start low skimming water → accelerate forward along path → climbing curve → close orbit around subject → pull back gaining altitude → tilt to panoramic reveal) to control motion and pacing  \nAdd explicit audio direction in the prompt (cinematic music with specific instruments and a crescendo timed to a key moment) and include a “No text/subtitles/logos/overlays” constraint to keep the output clean",
+  "translations": {
+    "es": {
+      "content": "Utiliza cualquier plataforma que soporte Seedance 2.0, pega un prompt cinematográfico detallado y cambia los detalles de ubicación/escena para que coincidan con tu video objetivo.  \nUsa una imagen de referencia como guía exacta de ubicación y trayectoria de vuelo, e instruye explícitamente que cualquier línea guía dibujada (por ejemplo, camino rojo) no debe aparecer en el video final.  \nEspecifica una secuencia precisa de movimiento de cámara/dron en el prompt (comienza bajo rozando el agua → acelera hacia adelante a lo largo del camino → curva ascendente → órbita cerrada alrededor del sujeto → retrocede ganando altitud → inclina para revelar panorámico) para controlar el movimiento y el ritmo.  \nAñade una dirección de audio explícita en el prompt (música cinematográfica con instrumentos específicos y un crescendo sincronizado con un momento clave) e incluye una restricción de “Sin texto/subtítulos/logotipos/superposiciones” para mantener la salida limpia."
+    },
+    "fr": {
+      "content": "Utilisez n'importe quelle plateforme compatible avec Seedance 2.0, collez un prompt cinématographique détaillé, et modifiez les détails de localisation/scène pour correspondre à votre vidéo cible.  \nUtilisez une image de référence comme guide exact de l'emplacement et du trajet de vol, et indiquez explicitement que toute ligne de guidage dessinée (par exemple, chemin rouge) ne doit pas apparaître dans la vidéo finale.  \nSpécifiez une séquence précise de mouvements de caméra/drone dans le prompt (démarrer bas en rasant l'eau → accélérer vers l'avant le long du chemin → courbe ascendante → orbite rapprochée autour du sujet → recul en prenant de l'altitude → inclinaison pour une révélation panoramique) pour contrôler le mouvement et le rythme.  \nAjoutez une direction audio explicite dans le prompt (musique cinématographique avec des instruments spécifiques et un crescendo synchronisé à un moment clé) et incluez une contrainte « Pas de texte/sous-titres/logos/surimpressions » pour garder la sortie propre."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0をサポートするプラットフォームを使用し、詳細なシネマティックプロンプトを貼り付け、ロケーション/シーンの詳細をターゲットビデオに合わせて変更してください。  \n参照画像を正確なロケーションと飛行経路のガイドとして使用し、描かれたガイドライン（例：赤い経路）が最終ビデオに表示されないように明示的に指示してください。  \nプロンプト内で正確なカメラ/ドローンの動きのシーケンスを指定し（低く水面をかすめてスタート → 経路に沿って前方に加速 → 上昇曲線 → 被写体の周りを近くで周回 → 高度を上げながら後退 → パノラマ的な公開に向けて傾斜）、動きとペースをコントロールしてください。  \nプロンプトに明示的なオーディオ指示を追加し（特定の楽器を使用したシネマティックな音楽と、重要な瞬間に合わせたクレッシェンド）、出力をクリーンに保つために「テキスト/字幕/ロゴ/オーバーレイなし」の制約を含めてください。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0을 지원하는 플랫폼을 사용하여, 상세한 시네마틱 프롬프트를 붙여넣고, 위치/장면 세부 사항을 목표 비디오에 맞게 변경하세요.  \n참조 이미지를 정확한 위치 및 비행 경로 안내로 사용하고, 그려진 안내선(예: 빨간 경로)이 최종 비디오에 나타나지 않도록 명확히 지시하세요.  \n프롬프트에 정확한 카메라/드론 움직임 순서를 지정하세요 (물 위를 낮게 스치며 시작 → 경로를 따라 앞으로 가속 → 곡선을 그리며 상승 → 피사체 주위를 가까이 공전 → 고도를 높이며 뒤로 당기기 → 파노라마 공개를 위해 기울이기) 하여 움직임과 속도를 제어하세요.  \n프롬프트에 명확한 오디오 지시를 추가하세요 (특정 악기와 주요 순간에 맞춘 크레센도가 있는 시네마틱 음악) 그리고 출력물을 깔끔하게 유지하기 위해 \"텍스트/자막/로고/오버레이 없음\" 제약을 포함하세요.\n---"
+    },
+    "pt": {
+      "content": "Use qualquer plataforma que suporte Seedance 2.0, cole um prompt cinematográfico detalhado e altere os detalhes de localização/cena para corresponder ao seu vídeo alvo  \nUse uma imagem de referência como guia exato de localização e trajeto de voo, e instrua explicitamente que qualquer linha guia desenhada (por exemplo, caminho vermelho) não deve aparecer no vídeo final  \nEspecifique uma sequência precisa de movimento de câmera/drone no prompt (comece baixo roçando a água → acelere para frente ao longo do caminho → curva ascendente → órbita fechada ao redor do sujeito → recue ganhando altitude → incline para uma revelação panorâmica) para controlar o movimento e o ritmo  \nAdicione direção de áudio explícita no prompt (música cinematográfica com instrumentos específicos e um crescendo cronometrado para um momento chave) e inclua uma restrição de “Sem texto/legendas/logos/sobreposições” para manter o resultado limpo"
+    },
+    "zh": {
+      "content": "使用支持Seedance 2.0的任何平台，粘贴一个详细的cinematic prompt，并更改位置/场景细节以匹配您的目标视频  \n使用参考图像作为精确的位置和飞行路径指南，并明确指示任何绘制的引导线（例如，红色路径）不得出现在最终视频中  \n在prompt中指定精确的相机/无人机运动序列（低空掠过水面→沿路径加速前进→爬升曲线→围绕主体近距离环绕→后退拉升高度→倾斜至全景揭示）以控制运动和节奏  \n在prompt中添加明确的音频指示（cinematic音乐，带有特定乐器和在关键时刻的渐强），并包括“无文字/字幕/标志/覆盖”的限制以保持输出干净"
+    }
+  }
+}

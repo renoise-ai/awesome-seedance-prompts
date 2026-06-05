@@ -1,0 +1,40 @@
+{
+  "id": "2062724049625923713",
+  "title": "Continue from the last frame of the input video keeping the character and…",
+  "content": "Continue from the last frame of the input video keeping the character and environment consistent + (extend your story)",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2062723899083857920/pu/img/MdBQEYd9HzNLPP8y.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062724049625923713.mp4",
+  "sourceLink": "https://x.com/madpencil_/status/2062724049625923713",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "madpencil_",
+    "link": "https://x.com/madpencil_"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Continúa desde el último fotograma del video de entrada manteniendo el personaje y el entorno consistentes + (extend your story)"
+    },
+    "fr": {
+      "content": "---\nContinuez à partir de la dernière image de la vidéo d'entrée en gardant le personnage et l'environnement cohérents + (extend your story)\n---"
+    },
+    "ja": {
+      "content": "---\n入力ビデオの最後のフレームから続けて、キャラクターと環境を一貫させながら + (extend your story)"
+    },
+    "ko": {
+      "content": "입력 비디오의 마지막 프레임에서 이어서 캐릭터와 환경을 일관되게 유지하며 + (extend your story)"
+    },
+    "pt": {
+      "content": "---\nContinue do último quadro do vídeo de entrada mantendo o personagem e o ambiente consistentes + (extend your story)\n---"
+    },
+    "zh": {
+      "content": "从输入视频的最后一帧继续，保持角色和环境的一致性 + (extend your story)"
+    }
+  }
+}

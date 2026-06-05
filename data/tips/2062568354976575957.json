@@ -1,0 +1,42 @@
+{
+  "id": "2062568354976575957",
+  "title": "Use Claude Cowork to automate an end-to-end Seedance 2.0 ad pipeline: feed a…",
+  "content": "Use Claude Cowork to automate an end-to-end Seedance 2.0 ad pipeline: feed a 5-line product brief, have it research the market and pull real reviews, generate multiple UGC-style scripts, cast faces, call the Seedance 2.0 API, and output finished videos to a folder.\n\nAfter publishing the Seedance-generated ads, run them for 48 hours, paste performance metrics back into Claude, and have it generate the next batch of Seedance videos optimized around the winning hooks/scripts.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062568201368543232/img/EDPzsXyETO6bv4QJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062568354976575957.mp4",
+  "sourceLink": "https://x.com/glitchedge0x/status/2062568354976575957",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Glitch",
+    "link": "https://x.com/glitchedge0x"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Claude Cowork to automate an end-to-end Seedance 2.0 ad pipeline: feed a 5-line product brief, have it research the market and pull real reviews, generate multiple UGC-style scripts, cast faces, call the Seedance 2.0 API, and output finished videos to a folder.\n\nAfter publishing the Seedance-generated ads, run them for 48 hours, paste performance metrics back into Claude, and have it generate the next batch of Seedance videos optimized around the winning hooks/scripts.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Claude Cowork para automatizar una cadena de anuncios de Seedance 2.0 de principio a fin: introduce un resumen de producto de 5 líneas, haz que investigue el mercado y obtenga reseñas reales, genere múltiples guiones al estilo UGC, seleccione caras, llame a la API de Seedance 2.0 y exporte los videos terminados a una carpeta.\n\nDespués de publicar los anuncios generados por Seedance, ejecútalos durante 48 horas, pega las métricas de rendimiento de nuevo en Claude y haz que genere el siguiente lote de videos de Seedance optimizados en torno a los ganchos/guiones ganadores."
+    },
+    "fr": {
+      "content": "Utilisez Claude Cowork pour automatiser un pipeline publicitaire Seedance 2.0 de bout en bout : fournissez un brief produit de 5 lignes, laissez-le étudier le marché et récupérer de véritables avis, générez plusieurs scripts de style UGC, choisissez des visages, appelez l'API Seedance 2.0 et exportez les vidéos terminées dans un dossier.\n\nAprès avoir publié les publicités générées par Seedance, faites-les fonctionner pendant 48 heures, collez les métriques de performance dans Claude, et laissez-le générer le prochain lot de vidéos Seedance optimisées autour des accroches/scripts gagnants."
+    },
+    "ja": {
+      "content": "---\nClaude Coworkを使用して、Seedance 2.0の広告パイプラインを自動化します。5行の製品概要を入力し、市場調査を行い、実際のレビューを取得し、複数のUGCスタイルのスクリプトを生成し、顔をキャスティングし、Seedance 2.0 APIを呼び出し、完成したビデオをフォルダに出力します。\n\nSeedanceで生成された広告を公開した後、48時間実行し、パフォーマンス指標をClaudeに貼り付け、勝利したフック/スクリプトに基づいて最適化された次のバッチのSeedanceビデオを生成させます。"
+    },
+    "ko": {
+      "content": "---\nClaude Cowork를 사용하여 Seedance 2.0 광고 파이프라인을 처음부터 끝까지 자동화하세요: 5줄의 제품 브리프를 입력하고, 시장 조사를 수행하며 실제 리뷰를 수집하고, 여러 UGC 스타일의 스크립트를 생성하고, 얼굴을 캐스팅하고, Seedance 2.0 API를 호출하여 완성된 비디오를 폴더에 출력합니다.\n\nSeedance에서 생성한 광고를 게시한 후 48시간 동안 실행하고, 성과 지표를 Claude에 다시 붙여넣어 승리한 훅/스크립트를 중심으로 최적화된 다음 배치의 Seedance 비디오를 생성하도록 하세요.\n---"
+    },
+    "pt": {
+      "content": "---\nUse Claude Cowork para automatizar um pipeline de anúncios Seedance 2.0 de ponta a ponta: insira um briefing de produto de 5 linhas, faça com que ele pesquise o mercado e colete avaliações reais, gere vários roteiros no estilo UGC, escolha rostos, chame a API Seedance 2.0 e exporte vídeos finalizados para uma pasta.\n\nApós publicar os anúncios gerados pelo Seedance, execute-os por 48 horas, cole as métricas de desempenho de volta no Claude e faça com que ele gere o próximo lote de vídeos Seedance otimizados em torno dos ganchos/roteiros vencedores."
+    },
+    "zh": {
+      "content": "使用Claude Cowork自动化端到端的Seedance 2.0广告流程：输入一个5行的产品简介，让它进行市场调研并获取真实评论，生成多个UGC风格的脚本，选择演员，调用Seedance 2.0 API，并将完成的视频输出到一个文件夹中。\n\n在发布Seedance生成的广告后，运行48小时，将性能指标粘贴回Claude，并让它生成下一批围绕获胜钩子/脚本优化的Seedance视频。"
+    }
+  }
+}

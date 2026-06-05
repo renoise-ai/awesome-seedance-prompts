@@ -1,0 +1,43 @@
+{
+  "id": "2062547895619051572",
+  "title": "Use a workflow of Image/Concept → Custom GPT → Image-to-Storyboard → Seedance…",
+  "content": "Use a workflow of Image/Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 to turn a single image/concept into a storyboard and then generate the final video in Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062547535047331840/img/o8AVyxIBIxPVMAZQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062547895619051572.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2062547895619051572",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a workflow of Image/Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 to turn a single image/concept into a storyboard and then generate the final video in Seedance.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Imagen/Concepto → Custom GPT → Image-to-Storyboard → Seedance 2.0 para convertir una sola imagen/concepto en un guion gráfico y luego generar el video final en Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail Image/Concept → GPT personnalisé → Image-to-Storyboard → Seedance 2.0 pour transformer une seule image/concept en storyboard, puis générez la vidéo finale dans Seedance."
+    },
+    "ja": {
+      "content": "イメージ/コンセプト → カスタムGPT → イメージからストーリーボードへ → Seedance 2.0 のワークフローを使用して、単一のイメージ/コンセプトをストーリーボードに変換し、その後Seedanceで最終ビデオを生成します。"
+    },
+    "ko": {
+      "content": "이미지/컨셉 → Custom GPT → 이미지-스토리보드 → Seedance 2.0의 워크플로우를 사용하여 단일 이미지/컨셉을 스토리보드로 변환한 후 Seedance에서 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Imagem/Conceito → Custom GPT → Image-to-Storyboard → Seedance 2.0 para transformar uma única imagem/conceito em um storyboard e, em seguida, gerar o vídeo final no Seedance."
+    },
+    "zh": {
+      "content": "使用图像/概念 → 自定义GPT → 图像到故事板 → Seedance 2.0 的工作流程，将单个图像/概念转化为故事板，然后在Seedance中生成最终视频。"
+    }
+  }
+}

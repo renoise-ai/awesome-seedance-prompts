@@ -15,7 +15,6 @@
     "Worldbuilding",
     "Hand-drawn",
     "Sci-Fi",
-    "Creative Asset",
     "Tutorial"
   ],
   "tips": "Create a storyboard-style reference image in Midjourney (e.g., science fiction storyboard frame, hand-drawn in pencil and marker, cinematic composition, annotations in the margins, old-school animation prep --ar 7:3 --raw --profile jen8y7u --v 7) and upload it to Seedance 2.0 as the starting frame for animation  \nIn Seedance, force a continuous single-shot by specifying 15-second continuous single-shot, no cuts, no scene transitions  \nStructure the Seedance prompt with timestamped beats (e.g., 0–3s, 3–6s, etc.) to control camera motion and environmental changes over time  \nAdd a detailed sound design section (e.g., low ventilation hum, distant machinery, soft electronic beeps, no music, no dialogue) to guide audio generation  \nUse a negative prompt to prevent unwanted elements and artifacts (e.g., no characters, no camera shake, no scene cuts, no text, no AI artifacts)",

@@ -1,0 +1,46 @@
+{
+  "id": "2062595239471411573",
+  "title": "Seedance 2.0’da sinematik drone çekimi üretmek için uzun prompt yazmak yerine…",
+  "content": "Seedance 2.0’da sinematik drone çekimi üretmek için uzun prompt yazmak yerine, kameranın izlemesini istediğiniz rotayı tek bir kırmızı çizgiyle çizerek kamera hareketini yönlendirin",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062553161512964096/img/gS_-RR9O-2zVV-pf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062595239471411573.mp4",
+  "sourceLink": "https://x.com/PubNasdaq/status/2062595239471411573",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "NASDAQ 7/24",
+    "link": "https://x.com/PubNasdaq"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0’da sinematik drone çekimi üretmek için uzun prompt yazmak yerine, kameranın izlemesini istediğiniz rotayı tek bir kırmızı çizgiyle çizerek kamera hareketini yönlendirin",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.0, instead of writing a long prompt to produce a cinematic drone shot, guide the camera movement by drawing the route you want the camera to follow with a single red line."
+    },
+    "es": {
+      "content": "En Seedance 2.0, en lugar de escribir un prompt largo para producir una toma cinemática con dron, dirija el movimiento de la cámara trazando la ruta que desea que siga con una sola línea roja."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.0, au lieu d'écrire un long prompt pour produire un tournage cinématique avec drone, dirigez le mouvement de la caméra en traçant simplement la trajectoire souhaitée avec une seule ligne rouge."
+    },
+    "ja": {
+      "content": "Seedance 2.0では、シネマティックなドローン撮影を生成する際に長いプロンプトを書く代わりに、カメラが追跡するルートを1本の赤い線で描くことでカメラの動きを指示します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 시네마틱 드론 촬영을 생성하기 위해 긴 프롬프트를 작성하는 대신, 카메라가 따라가길 원하는 경로를 하나의 빨간 선으로 그려 카메라 움직임을 유도하세요."
+    },
+    "pt": {
+      "content": "No Seedance 2.0, em vez de escrever um prompt longo para produzir uma filmagem de drone cinematográfica, direcione o movimento da câmera desenhando a rota que deseja que a câmera siga com uma única linha vermelha."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中，为了生成电影级的无人机拍摄效果，与其编写冗长的prompt，不如通过一条红线绘制出您希望相机追踪的路线，从而引导相机的运动。"
+    }
+  }
+}

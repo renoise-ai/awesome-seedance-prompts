@@ -16,8 +16,7 @@
     "Worldbuilding",
     "Photoreal",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "Use pure text prompting (no storyboard) in Seedance while supplying a character sheet and background reference images to guide the output.",
   "translations": {

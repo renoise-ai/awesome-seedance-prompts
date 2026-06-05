@@ -1,0 +1,43 @@
+{
+  "id": "2062435612213555289",
+  "title": "Use GPT Image2 to redraw your desired drone fly-through path in red on an…",
+  "content": "Use GPT Image2 to redraw your desired drone fly-through path in red on an image, then use that as guidance to generate the fly-through in Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062434769858863104/img/OqGO29dSA9AO8516.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062435612213555289.mp4",
+  "sourceLink": "https://x.com/pound75423/status/2062435612213555289",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Good FortuneX",
+    "link": "https://x.com/pound75423"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image2 to redraw your desired drone fly-through path in red on an image, then use that as guidance to generate the fly-through in Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Usa GPT Image2 para redibujar en rojo la ruta de vuelo deseada de tu dron en una imagen, luego utiliza eso como guía para generar el vuelo en Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image2 pour redessiner en rouge sur une image le chemin de vol souhaité de votre drone, puis utilisez cela comme guide pour générer le vol dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "GPT Image2を使用して、希望するドローンのフライスルー経路を画像上に赤で描き、その画像をSeedance 2.0でフライスルーを生成するためのガイダンスとして使用します。"
+    },
+    "ko": {
+      "content": "GPT Image2를 사용하여 원하는 드론 비행 경로를 이미지에 빨간색으로 다시 그린 다음, 이를 Seedance 2.0에서 비행 경로 생성의 가이드로 사용하세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image2 para redesenhar o caminho desejado do voo do drone em vermelho em uma imagem, e depois use isso como guia para gerar o voo no Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用GPT Image2在图像上以红色重新绘制您想要的无人机飞行路径，然后将其用作在Seedance 2.0中生成飞行路径的指导。"
+    }
+  }
+}

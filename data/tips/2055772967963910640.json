@@ -16,8 +16,7 @@
     "Talk",
     "Anime 2D",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "Önce storyboard ile sahnenin ritmini/akışını planla, sonra aynı akışı Seedance video promptuna adım adım çevirerek kurguyu koru.  \nJaponca diyalogları ve İngilizce altyazı yönlendirmesini doğrudan prompt içine yazarak konuşma+altyazıyı tek promptta yönet.  \nAnime sahnelerinde gerilimi artırmak için promptta küçük kadraj değişimleri (hafif zoom/pan/çerçeve kaydırma) tanımlayarak duyguyu yeniden şekillendir.",
   "translations": {

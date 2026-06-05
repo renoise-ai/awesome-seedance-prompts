@@ -16,8 +16,7 @@
     "Worldbuilding",
     "Photoreal",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "Use a workflow of: start with your image → generate a storyboard using a Custom GPT (Image 2.0) → feed the storyboard into Seedance 2.0 to produce the video.",
   "translations": {

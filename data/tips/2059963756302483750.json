@@ -16,9 +16,7 @@
     "Photoreal",
     "Realistic World",
     "Tutorial",
-    "Creative Asset",
-    "VFX",
-    "ASMR"
+    "VFX"
   ],
   "tips": "Use a character sheet reference image (@image1) to lock the antagonist’s wardrobe, accessories, gesture language, and lighting consistency across the whole story.  \nStructure your Seedance prompt as a multi-shot timeline with explicit timestamps (e.g., Shot 1 0–4s, Shot 2 4–8s) and define shot type + camera move per segment (wide slow dolly pull, medium slow orbit, extreme close-up, locked-off close-up).  \nSpecify precise lighting direction and mood in each shot (single warm key light, deep soft shadows) to control the look.  \nAdd micro-actions and pacing cues (remove one glove finger by finger, never rushing; minimal controlled mouth movement) to guide performance.  \nInclude practical VFX timing details (a narrow band of light crosses the ring and fades within 0.7s) to get a specific highlight effect.  \nDefine audio and SFX cues with timestamps (sub-bass pulse at 12s; door latch/leather creak/glove sliding/folder on wood) and request continuous ambient room tone across all cuts for seamless continuity.",
   "translations": {

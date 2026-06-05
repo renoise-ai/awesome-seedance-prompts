@@ -16,8 +16,7 @@
     "Worldbuilding",
     "Photoreal",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "Build a world structure before scene generation by locking ~12 tagged reference images (character, locations, props, brand seal) into Agent One so every downstream prompt can pull from them  \nUse a phased brief workflow: Phase A generate the reference set, Phase B generate scene stills, Phase C animate in Seedance 2.0, Phase D add per-scene SFX plus a master score, Phase E stitch only after approval  \nFor continuous beats, generate both start and end frames as scene stills so cuts can be made invisible  \nWhen animating chained scenes in Seedance 2.0, use first-and-last frames for each shot so motion flows smoothly shot-to-shot  \nInclude a Reference Usage Protocol in the brief that specifies exactly which reference images each scene must pull from to prevent character/prop drift  \nAdd per-shot animation direction plus audio direction and sync notes in the brief to keep motion and sound aligned  \nStop and review every generated asset on the canvas before assembly, and only do the final stitch after approval",
   "translations": {

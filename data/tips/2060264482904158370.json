@@ -18,7 +18,6 @@
     "Realistic World",
     "VFX",
     "Slow-Mo",
-    "Creative Asset",
     "Tutorial"
   ],
   "tips": "Use a storyboard-first workflow: create a character reference sheet, build the full storyboard in GPT Image 2, then generate the video in Seedance 2.0, and do final polish in CapCut  \nIn your GPT Image 2 storyboard prompt, explicitly specify shot progression and camera language (slow tension buildup → ultra slow motion destruction → aftermath; handheld emotional closeups mixed with wide architectural shots; symmetrical framing; shallow depth of field) to guide Seedance 2.0 video generation  \nAdd explicit consistency/quality constraints to the prompt to reduce artifacts in Seedance outputs: character consistency across all shots, realistic anatomy/motion, no distortion, no extra limbs, no warped face, no cartoon effects  \nFor cinematic destruction realism, prompt specific physics and VFX details (hyper-detailed debris physics, flying crystal shards, dust particles, glass fragments, liquid splashes, volumetric lighting, particle trails, realistic inertia) and a high-speed look cue (Phantom Flex 1000fps)",

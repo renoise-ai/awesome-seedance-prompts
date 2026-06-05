@@ -15,8 +15,8 @@
     "Portrait",
     "3D Animation",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Creative Asset",
+    "Tutorial"
   ],
   "tips": "Build consistent characters first (e.g., via an “animated cast/model pack”) and reuse that identity base to prevent face/outfit drift in Seedance 2.0 videos.  \nGenerate a clean Pixar-style character sheet (locking face, costume, proportions, color palette, expression range) and use it as the primary visual reference before running Seedance 2.0.  \nCreate the first frame as a high-quality reference image (via Chat to Generate) and use it to maintain consistency and quality in the Seedance 2.0 animation.  \nConvert the character sheet into a 16-panel storyboard (via Chat to Edit) to predefine camera, emotion beats, and motion before animating with Seedance 2.0.  \nRun Seedance 2.0 in an image-to-video workflow (e.g., Image to Video Ultra S) guided by the character sheet + storyboard instead of relying on text-only prompting.  \nWrite the Seedance 2.0 video prompt to reinforce what’s in the storyboard (avoid introducing new locations, outfits, or tone shifts that conflict with the storyboard).  \nWhen results drift, revise the specific upstream asset instead of re-prompting everything: fix the cast/model pack for identity issues, the character sheet for unclear design, the storyboard for missing beats, or tighten the video prompt for motion drift.",
   "translations": {

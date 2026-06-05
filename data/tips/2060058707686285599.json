@@ -16,7 +16,6 @@
     "Tech",
     "Photoreal",
     "Realistic World",
-    "Creative Asset",
     "Tutorial"
   ],
   "tips": "Create separate reference sheets (product sheet, character sheet, location sheet) with GPT Image before animating in Seedance 2 to give the model a clear visual system instead of inventing everything from scratch.  \nGenerate the first Seedance 2 clip to establish the ad tone (a believable product ad), then build the full minute by using Seedance 2 Extend sequentially on the previous output.  \nWhen using Seedance 2 Extend, give each extension a single focused objective (e.g., keep the same world, maintain the character’s movement/energy, preserve the product design/colors, and move toward a product-focused ending) to maintain continuity across extensions.",

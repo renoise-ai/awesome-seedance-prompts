@@ -1,0 +1,42 @@
+{
+  "id": "2062527410327654890",
+  "title": "Use color-coding in your Seedance 2.0 prompts to distinguish factions/armies…",
+  "content": "Use color-coding in your Seedance 2.0 prompts to distinguish factions/armies (e.g., gold for Persians, red for Spartans).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062526729705414656/img/xHfrt8REQE6-Xbsb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062527410327654890.mp4",
+  "sourceLink": "https://x.com/Artedeingenio/status/2062527410327654890",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "Photoreal",
+    "Historical",
+    "Tutorial"
+  ],
+  "tips": "Use color-coding in your Seedance 2.0 prompts to distinguish factions/armies (e.g., gold for Persians, red for Spartans).",
+  "translations": {
+    "es": {
+      "content": "Utiliza la codificación de colores en tus prompts de Seedance 2.0 para distinguir facciones/ejércitos (por ejemplo, dorado para los persas, rojo para los espartanos)."
+    },
+    "fr": {
+      "content": "Utilisez le codage couleur dans vos prompts Seedance 2.0 pour distinguer les factions/armées (par exemple, or pour les Perses, rouge pour les Spartiates)."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0のプロンプトで色分けを使用して、派閥や軍隊を区別しましょう（例：ペルシャ人はゴールド、スパルタ人は赤）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0 프롬프트에서 색상 코딩을 사용하여 진영/군대를 구분하세요 (예: 페르시아인에게는 금색, 스파르타인에게는 빨간색)."
+    },
+    "pt": {
+      "content": "Use a codificação de cores em seus prompts do Seedance 2.0 para distinguir facções/exércitos (por exemplo, dourado para os persas, vermelho para os espartanos)."
+    },
+    "zh": {
+      "content": "在你的Seedance 2.0 prompts中使用颜色编码来区分派系/军队（例如，波斯人用金色，斯巴达人用红色）。"
+    }
+  }
+}

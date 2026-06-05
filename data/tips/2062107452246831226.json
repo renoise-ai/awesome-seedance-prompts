@@ -4,7 +4,7 @@
   "content": "Use Seedance 2.0 with an auteur script to achieve multi-shot continuity within a single generation.  \nProvide a single character reference image to keep character consistency across shots in one generation.  \nGenerate at 10s, 720p for this multi-shot continuity workflow.  \nWrite the auteur script with heavy VFX and environment detail to make effects feel more cinematic and grounded.  \nUse PySceneDetect to track shot cuts in the generated video (a midframe grid can help with cut tracking, not storyboarding).",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062106993729675265/img/Lu8NbejqOcOZLySq.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2062106993729675265/vid/avc1/1080x1920/ORQJwjiixPxeWq4F.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062107452246831226.mp4",
   "sourceLink": "https://x.com/tarumainfo/status/2062107452246831226",
   "sourcePublishedAt": "2026-06-03",
   "author": {

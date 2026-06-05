@@ -1,0 +1,42 @@
+{
+  "id": "2062517978218775030",
+  "title": "Hand Claude a product URL with Higgsfield’s MCP connected (using Seedance 2.0)…",
+  "content": "Hand Claude a product URL with Higgsfield’s MCP connected (using Seedance 2.0) to auto-generate a full marketing package—hero video, 5 ad variants, and a landing page—directly into your project without opening an editor.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062517881871499264/img/qNgqhxsyQ6g2aqj6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062517978218775030.mp4",
+  "sourceLink": "https://x.com/zodchiii/status/2062517978218775030",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "darkzodchi",
+    "link": "https://x.com/zodchiii"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Hand Claude a product URL with Higgsfield’s MCP connected (using Seedance 2.0) to auto-generate a full marketing package—hero video, 5 ad variants, and a landing page—directly into your project without opening an editor.",
+  "translations": {
+    "es": {
+      "content": "Entrega a Claude una URL de producto con el MCP de Higgsfield conectado (usando Seedance 2.0) para generar automáticamente un paquete de marketing completo: video principal, 5 variantes de anuncios y una página de destino, directamente en tu proyecto sin abrir un editor."
+    },
+    "fr": {
+      "content": "Remettez à Claude une URL de produit avec le MCP de Higgsfield connecté (en utilisant Seedance 2.0) pour générer automatiquement un package marketing complet—vidéo principale, 5 variantes de publicité et une page de destination—directement dans votre projet sans ouvrir un éditeur."
+    },
+    "ja": {
+      "content": "Seedance 2.0を使用してHiggsfieldのMCPが接続された製品URLをClaudeに渡すと、エディターを開かずにプロジェクトに直接、ヒーロービデオ、5つの広告バリエーション、ランディングページを含む完全なマーケティングパッケージを自動生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 사용하여 Higgsfield의 MCP가 연결된 제품 URL을 Claude에게 전달하면, 편집기를 열지 않고도 프로젝트에 직접 전체 마케팅 패키지—히어로 비디오, 5개의 광고 변형, 랜딩 페이지—를 자동 생성할 수 있습니다."
+    },
+    "pt": {
+      "content": "Entregue a Claude uma URL de produto com o MCP do Higgsfield conectado (usando Seedance 2.0) para gerar automaticamente um pacote de marketing completo—vídeo principal, 5 variantes de anúncios e uma página de destino—diretamente em seu projeto sem abrir um editor."
+    },
+    "zh": {
+      "content": "将产品网址交给Claude，并连接Higgsfield的MCP（使用Seedance 2.0），自动生成完整的营销包——主打视频、5个广告变体和一个登陆页面——直接导入您的项目，无需打开编辑器。"
+    }
+  }
+}

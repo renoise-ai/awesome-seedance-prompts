@@ -1,0 +1,42 @@
+{
+  "id": "2062433191693296015",
+  "title": "Convert storyboard frames into dynamic video clips by importing the frames into…",
+  "content": "Convert storyboard frames into dynamic video clips by importing the frames into Seedance 2.0 and generating motion from each frame.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062432984108761088/img/BRJ1Sov-3qha6-9o.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062433191693296015.mp4",
+  "sourceLink": "https://x.com/TechByMarkandey/status/2062433191693296015",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Markandey Sharma",
+    "link": "https://x.com/TechByMarkandey"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Convert storyboard frames into dynamic video clips by importing the frames into Seedance 2.0 and generating motion from each frame.",
+  "translations": {
+    "es": {
+      "content": "Convierte los fotogramas del storyboard en clips de video dinámicos importando los fotogramas en Seedance 2.0 y generando movimiento a partir de cada fotograma."
+    },
+    "fr": {
+      "content": "Convertissez les images du storyboard en clips vidéo dynamiques en important les images dans Seedance 2.0 et en générant du mouvement à partir de chaque image."
+    },
+    "ja": {
+      "content": "ストーリーボードのフレームをSeedance 2.0にインポートし、各フレームから動きを生成することで、ダイナミックなビデオクリップに変換します。"
+    },
+    "ko": {
+      "content": "스토리보드 프레임을 Seedance 2.0에 가져와 각 프레임에서 모션을 생성하여 동적인 비디오 클립으로 변환하세요."
+    },
+    "pt": {
+      "content": "Converta quadros de storyboard em clipes de vídeo dinâmicos importando os quadros para o Seedance 2.0 e gerando movimento a partir de cada quadro."
+    },
+    "zh": {
+      "content": "通过将分镜头导入Seedance 2.0，并从每个画面生成动态效果，将分镜头转换为动态视频剪辑。"
+    }
+  }
+}

@@ -16,9 +16,7 @@
     "MV",
     "Photoreal",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset",
-    "VFX"
+    "Tutorial"
   ],
   "tips": "Seedance 2.0用のプロンプト作成は、ChatGPT Images 2.0 Prompt Atlasのような「カメラワーク/ライティング等を日本語で選ぶだけで高品質プロンプトを自動生成するビルダー」を使って組み立てる  \nReference Imageをアップロードしてキャラクターソースとして使い、Preserve From Referenceで「全体的な色合い/世界観」を保持して一貫したルックにする  \nModeをdetailed user-specified storyboardにして、9枚(3x3)のストーリーボードで各カットの内容をフレームごとに指定してから動画化する  \n各パネルの要件として「shot number, camera angle, character action, emotion, background state, transition cue」を明記して、カット間の繋がりと演出意図を固定する  \nContinuity Rulesに「同一キャラクターID/衣装ロジック/プロポーション安定/ライティング一貫」を入れて、シーン間の破綻を防ぐ  \nAvoidに「ランダムな新キャラ/無関係なスタイルプリセット/読めない小さい文字/情報過多/人体破綻」を明記して、Seedance出力の崩れ要因を抑える  \n演出としてOverall Motionに「ノイズ/グリッチ/走査線/色ズレ/サブリミナル挿入」を指定し、各フレームにも点滅テキストやブラックアウト等のトランジションを入れてMV風のテンポを作る",
   "translations": {

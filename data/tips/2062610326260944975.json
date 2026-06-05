@@ -1,0 +1,46 @@
+{
+  "id": "2062610326260944975",
+  "title": "Tek bir Midjourney görselinden sahnenin ışık/atmosfer hissini korumak için GPT…",
+  "content": "Tek bir Midjourney görselinden sahnenin ışık/atmosfer hissini korumak için GPT Image 2 ile 12 panellik storyboard oluşturup Seedance 2.0’da storyboard’u takip ettirerek 15 saniyelik sakin, sinematik anime video üretin.",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062609585374994433/img/cwIzcgZwhy6U6cmU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062610326260944975.mp4",
+  "sourceLink": "https://x.com/0kncn/status/2062610326260944975",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Okan Can",
+    "link": "https://x.com/0kncn"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Tek bir Midjourney görselinden sahnenin ışık/atmosfer hissini korumak için GPT Image 2 ile 12 panellik storyboard oluşturup Seedance 2.0’da storyboard’u takip ettirerek 15 saniyelik sakin, sinematik anime video üretin.",
+  "translations": {
+    "en": {
+      "content": "Create a 15-second calm, cinematic anime video by generating a 12-panel storyboard with GPT Image 2 to maintain the lighting/atmosphere feel from a single Midjourney image, and then follow the storyboard in Seedance 2.0."
+    },
+    "es": {
+      "content": "Cree un storyboard de 12 paneles con GPT Image 2 a partir de una sola imagen de Midjourney para conservar la sensación de luz/atmósfera de la escena y utilice Seedance 2.0 para seguir el storyboard y producir un video de anime tranquilo y cinematográfico de 15 segundos."
+    },
+    "fr": {
+      "content": "Créez un storyboard de 12 panneaux avec GPT Image 2 à partir d'une seule image Midjourney pour conserver la sensation de lumière/atmosphère de la scène, puis utilisez Seedance 2.0 pour suivre le storyboard et produire une vidéo animée calme et cinématique de 15 secondes."
+    },
+    "ja": {
+      "content": "---\n1枚のMidjourneyビジュアルからシーンの光/雰囲気を保持するために、GPT Image 2を使用して12パネルのストーリーボードを作成し、Seedance 2.0でストーリーボードに従わせて15秒の静かなシネマティックアニメビデオを制作します。\n---"
+    },
+    "ko": {
+      "content": "단일 Midjourney 이미지에서 장면의 조명/분위기 느낌을 유지하기 위해 GPT Image 2로 12 패널 스토리보드를 생성하고, Seedance 2.0에서 스토리보드를 따라 15초 길이의 차분하고 시네마틱한 애니메이션 비디오를 제작하세요."
+    },
+    "pt": {
+      "content": "Crie um storyboard de 12 painéis com o GPT Image 2 a partir de uma única imagem do Midjourney para manter a sensação de luz/atmosfera da cena e, em seguida, use o Seedance 2.0 para seguir o storyboard e produzir um vídeo de anime calmo e cinematográfico de 15 segundos."
+    },
+    "zh": {
+      "content": "---\n使用GPT Image 2从单个Midjourney图像创建12个面板的分镜，以保持场景的光线/氛围感，然后在Seedance 2.0中跟随分镜，生成15秒的宁静、cinematic风格的动画视频。\n---"
+    }
+  }
+}

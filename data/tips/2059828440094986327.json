@@ -15,8 +15,8 @@
     "Portrait",
     "Photoreal",
     "Realistic World",
-    "Tutorial",
-    "Creative Asset"
+    "Creative Asset",
+    "Tutorial"
   ],
   "tips": "Use a simple, straight-to-the-point “master character sheet” prompt for Seedance 2.0 to improve reference-to-video consistency (simpler prompts can preserve identity better).\n\nIn your prompt, instruct Seedance to use the uploaded character image as the STRICT identity reference and explicitly say “Do not redesign the character.”\n\nAdd a “PRESERVE EXACTLY” list (face shape, eye shape, hairstyle, body proportions, outfit design, accessories, color palette, materials, silhouette, art style) to lock identity consistency.\n\nGenerate the character sheet on a pure white seamless background to reduce noise and improve readability for reference.\n\nSpecify a 16:9 horizontal layout with clean minimal composition (no clutter, no text labels, no watermark, no UI) to keep the reference sheet usable.\n\nInclude multiple standardized views/poses in one sheet (front neutral, side, back, three-quarter hero, dynamic action, calm idle, neutral face close-up, intense expression close-up, hand/accessory/detail closeups, small color palette swatches) to strengthen consistency across generations.\n\nKeep the character large and readable in the frame to improve Seedance reference adherence.\n\nInstruct “keep proportions identical across all views” to prevent drift between angles/poses.\n\nAdd constraints like “avoid overlapping limbs,” “avoid extreme perspective distortion,” and “avoid cropped body parts” to reduce anatomy/pose inconsistencies in the reference.\n\nPrioritize reference-sheet readability over illustration complexity to maintain cleaner, more consistent references.\n\nUse “soft professional studio lighting with clear material separation” to keep materials and forms consistent for reference-to-video.\n\nIf you want a power-based pose, replace the dynamic pose line with “Dynamic action pose using signature powers” and add “keep powers visually consistent” plus “preserve power aesthetic” in the PRESERVE list.",
   "translations": {

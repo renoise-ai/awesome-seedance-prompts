@@ -14,12 +14,11 @@
   "tags": [
     "Product Ad",
     "F&B",
-    "Story",
-    "Talk",
     "Photoreal",
     "Realistic World",
     "Tutorial",
-    "Creative Asset"
+    "Creative Asset",
+    "Macro"
   ],
   "tips": "Keep the GPT Images 2.0 × Seedance 2.0 workflow on a single canvas (don’t jump between tools) to improve results and iteration speed.\n\nUse a structured pipeline: prompt → image structure → storyboard → video motion → compare → iterate.\n\nFor a soda ad, prompt a 15s commercial storyboard and specify macro texture, splash reveal, typography lockup, and a final packshot.\n\nFor interior design videos, start from an empty room and generate a furniture/decor guide as a visual playbook with layout, checklist, materials, and styling logic.\n\nFor tai chi/ba duan jin videos, structure the output as a sequential visual tutorial including postures, benefits, instructions, and motion cues.",
   "translations": {

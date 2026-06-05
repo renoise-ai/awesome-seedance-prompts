@@ -15,8 +15,7 @@
     "Chase",
     "Anime 2D",
     "Sci-Fi",
-    "Tutorial",
-    "Creative Asset"
+    "Tutorial"
   ],
   "tips": "Use @[storyboard ref] as the authoritative storyboard blueprint: treat each panel as a consecutive shot in one cinematic sequence, follow panel order exactly, and do not invent alternative coverage.  \nDo not render the storyboard sheet itself; recreate the filmed sequence implied by the panels while preserving camera placement, framing, lens intent, shot scale, staging, screen direction, geography, props, choreography, continuity, and emotional escalation from the storyboard.  \nUse @[char ref] as the authoritative character reference for C1 Karma to keep character identity consistent across all shots.  \nSpecify emotional guidance as valence/arousal progression (focused control → threat pressure → cold escape; high arousal with spikes at alarm/intruder reveal, peak at descent/detonation, then drop to tense disappearance) and translate it into blocking/camera notes (sharp hands, head snaps, fast blocking, handheld pressure, final held wide).  \nLock visual style with explicit keywords (stylized anime-painterly cyber-action thriller, fish-eye pressure, red alarm light, cyan code reflections, smoky orange blast, graphite-black night shadows, kinetic handheld camera, crisp silhouettes, director-style angles).  \nConstrain audio by prompting No background music or score; use only diegetic ambience, foley, impacts, texture, and silence.  \nBreak the sequence into numbered panel beats (P01–P10) with shot type + action + camera direction per beat (e.g., fish-eye hook, macro fingers, POV push, low wide, crash-in close, side-track, handheld downward chase, insert phone tap, final wide hold) to control pacing and coverage.",
   "translations": {

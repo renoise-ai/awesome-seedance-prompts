@@ -1,0 +1,42 @@
+{
+  "id": "2062552816825303400",
+  "title": "Use Dreamina Seedance 2.0 in Omni reference mode with a storyboard (including…",
+  "content": "Use Dreamina Seedance 2.0 in Omni reference mode with a storyboard (including character sheet), props sheet, and product advertising posters as references to control multi-shot/continuous-shot ad generation in CapCut Director Mode.  \nBuild a detailed storyboard that specifies camera type, characters, props, locations/environments, action, storyline, voice-over, visual effects, and sound effects, then feed it as the primary Omni reference for Seedance 2.0.  \nGenerate props sheets and product advertising posters with GPT Image 2.0 first, then use them as Omni references in Seedance 2.0 to keep product design consistent across shots.  \nUse CapCut Video Studio Director Mode to add built-in sound and voice-over on top of Seedance 2.0 generated video.  \nUpscale Seedance outputs with NVIDIA RTX VSR (Video Super Resolution) locally via ComfyUI on an NVIDIA RTX 5060 Ti 16GB before final editing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062549619247382528/img/MD9IX8AZKD9uh5Fw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062552816825303400.mp4",
+  "sourceLink": "https://x.com/XVisualneuFX/status/2062552816825303400",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "ANDRIANOGABRIELB · XVISUALNEUFX",
+    "link": "https://x.com/XVisualneuFX"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Dreamina Seedance 2.0 in Omni reference mode with a storyboard (including character sheet), props sheet, and product advertising posters as references to control multi-shot/continuous-shot ad generation in CapCut Director Mode.  \nBuild a detailed storyboard that specifies camera type, characters, props, locations/environments, action, storyline, voice-over, visual effects, and sound effects, then feed it as the primary Omni reference for Seedance 2.0.  \nGenerate props sheets and product advertising posters with GPT Image 2.0 first, then use them as Omni references in Seedance 2.0 to keep product design consistent across shots.  \nUse CapCut Video Studio Director Mode to add built-in sound and voice-over on top of Seedance 2.0 generated video.  \nUpscale Seedance outputs with NVIDIA RTX VSR (Video Super Resolution) locally via ComfyUI on an NVIDIA RTX 5060 Ti 16GB before final editing.",
+  "translations": {
+    "es": {
+      "content": "Usa Dreamina Seedance 2.0 en modo de referencia Omni con un storyboard (incluyendo hoja de personajes), hoja de accesorios y carteles publicitarios de productos como referencias para controlar la generación de anuncios de múltiples tomas/toma continua en el Modo Director de CapCut.  \nConstruye un storyboard detallado que especifique tipo de cámara, personajes, accesorios, ubicaciones/entornos, acción, historia, voz en off, efectos visuales y efectos de sonido, luego utilízalo como la referencia principal Omni para Seedance 2.0.  \nGenera hojas de accesorios y carteles publicitarios de productos con GPT Image 2.0 primero, luego úsalos como referencias Omni en Seedance 2.0 para mantener el diseño del producto consistente en todas las tomas.  \nUsa el Modo Director de CapCut Video Studio para añadir sonido incorporado y voz en off sobre el video generado por Seedance 2.0.  \nEscala las salidas de Seedance con NVIDIA RTX VSR (Video Super Resolution) localmente a través de ComfyUI en una NVIDIA RTX 5060 Ti 16GB antes de la edición final."
+    },
+    "fr": {
+      "content": "Utilisez Dreamina Seedance 2.0 en mode de référence Omni avec un storyboard (y compris une fiche de personnages), une fiche d'accessoires et des affiches publicitaires de produits comme références pour contrôler la génération de publicités multi-plans/plan-séquence dans le mode Directeur de CapCut.  \nConstruisez un storyboard détaillé qui spécifie le type de caméra, les personnages, les accessoires, les lieux/environnements, l'action, l'intrigue, la voix off, les effets visuels et les effets sonores, puis utilisez-le comme référence principale Omni pour Seedance 2.0.  \nGénérez d'abord des fiches d'accessoires et des affiches publicitaires de produits avec GPT Image 2.0, puis utilisez-les comme références Omni dans Seedance 2.0 pour maintenir la cohérence du design des produits à travers les plans.  \nUtilisez le mode Directeur du Studio Vidéo CapCut pour ajouter du son intégré et une voix off par-dessus la vidéo générée par Seedance 2.0.  \nAméliorez la résolution des sorties Seedance avec NVIDIA RTX VSR (Super Résolution Vidéo) localement via ComfyUI sur une NVIDIA RTX 5060 Ti 16GB avant le montage final."
+    },
+    "ja": {
+      "content": "---\nDreamina Seedance 2.0をOmniリファレンスモードで使用し、ストーリーボード（キャラクターシートを含む）、小道具シート、製品広告ポスターをリファレンスとして、CapCut Director Modeでのマルチショット/連続ショット広告生成を制御します。  \nカメラタイプ、キャラクター、小道具、場所/環境、アクション、ストーリーライン、ナレーション、視覚効果、音響効果を指定した詳細なストーリーボードを作成し、それをSeedance 2.0の主要なOmniリファレンスとして入力します。  \nまずGPT Image 2.0で小道具シートと製品広告ポスターを生成し、それをSeedance 2.0のOmniリファレンスとして使用して、ショット間で製品デザインの一貫性を保ちます。  \nCapCut Video Studio Director Modeを使用して、Seedance 2.0で生成されたビデオに内蔵の音響とナレーションを追加します。  \n最終編集の前に、Seedanceの出力をNVIDIA RTX 5060 Ti 16GBでComfyUIを介してローカルでNVIDIA RTX VSR（Video Super Resolution）でアップスケールします。\n---"
+    },
+    "ko": {
+      "content": "---\nDreamina Seedance 2.0을 Omni 참조 모드에서 스토리보드(캐릭터 시트 포함), 소품 시트, 제품 광고 포스터를 참조로 사용하여 CapCut Director Mode에서 멀티샷/연속샷 광고 생성을 제어하세요.  \n카메라 유형, 캐릭터, 소품, 장소/환경, 액션, 스토리라인, 내레이션, 시각 효과, 음향 효과를 명시한 상세한 스토리보드를 작성한 후 Seedance 2.0의 주요 Omni 참조로 사용하세요.  \n먼저 GPT Image 2.0으로 소품 시트와 제품 광고 포스터를 생성한 후, Seedance 2.0에서 Omni 참조로 사용하여 샷 간 제품 디자인의 일관성을 유지하세요.  \nCapCut Video Studio Director Mode를 사용하여 Seedance 2.0에서 생성된 비디오에 내장된 사운드와 내레이션을 추가하세요.  \n최종 편집 전에 NVIDIA RTX 5060 Ti 16GB에서 ComfyUI를 통해 로컬로 NVIDIA RTX VSR(Video Super Resolution)을 사용하여 Seedance 출력을 업스케일하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o Dreamina Seedance 2.0 no modo de referência Omni com um storyboard (incluindo folha de personagens), folha de adereços e pôsteres de publicidade de produtos como referências para controlar a geração de anúncios em múltiplos takes/takes contínuos no Modo Diretor do CapCut.  \nConstrua um storyboard detalhado que especifique tipo de câmera, personagens, adereços, locais/ambientes, ação, enredo, narração, efeitos visuais e efeitos sonoros, e então use-o como a principal referência Omni para o Seedance 2.0.  \nGere folhas de adereços e pôsteres de publicidade de produtos com o GPT Image 2.0 primeiro, e depois use-os como referências Omni no Seedance 2.0 para manter o design do produto consistente entre os takes.  \nUse o Modo Diretor do CapCut Video Studio para adicionar som e narração embutidos no vídeo gerado pelo Seedance 2.0.  \nAprimore as saídas do Seedance com NVIDIA RTX VSR (Super Resolução de Vídeo) localmente via ComfyUI em uma NVIDIA RTX 5060 Ti 16GB antes da edição final."
+    },
+    "zh": {
+      "content": "使用 Dreamina Seedance 2.0 在 Omni 参考模式下，结合分镜头脚本（包括角色表）、道具表和产品广告海报作为参考，在 CapCut 导演模式中控制多镜头/连续镜头广告生成。  \n构建一个详细的分镜头脚本，指定摄像机类型、角色、道具、地点/环境、动作、故事情节、旁白、视觉效果和音效，然后将其作为 Seedance 2.0 的主要 Omni 参考。  \n首先使用 GPT Image 2.0 生成道具表和产品广告海报，然后在 Seedance 2.0 中将其用作 Omni 参考，以保持产品设计在镜头间的一致性。  \n使用 CapCut 视频工作室导演模式在 Seedance 2.0 生成的视频上添加内置音效和旁白。  \n在最终编辑之前，通过 ComfyUI 在 NVIDIA RTX 5060 Ti 16GB 上本地使用 NVIDIA RTX VSR（视频超分辨率）对 Seedance 输出进行升级。"
+    }
+  }
+}

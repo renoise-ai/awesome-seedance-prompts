@@ -4,7 +4,7 @@
   "content": "Use a chat-based pipeline to produce a 60s motion piece: pull visual references → storyboard ~6 scenes → render the full sequence to video in Seedance.\n\nUse Pinterest to collect reference images, generate storyboard frames with GPT Images, then render the final video in Seedance.\n\nUse Seedance 2.0 when you want motion and audio generated together in a single render pass.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062073785688395776/img/7yZX-OsF8pB9o8n5.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2062073785688395776/vid/avc1/720x1280/IU2gMxREv1l--ldF.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062073872095248758.mp4",
   "sourceLink": "https://x.com/lagerskoy/status/2062073872095248758",
   "sourcePublishedAt": "2026-06-03",
   "author": {

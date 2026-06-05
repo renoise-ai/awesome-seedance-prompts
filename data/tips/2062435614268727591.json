@@ -1,0 +1,45 @@
+{
+  "id": "2062435614268727591",
+  "title": "Use an uploaded image as a terrain/route map reference and explicitly instruct…",
+  "content": "Use an uploaded image as a terrain/route map reference and explicitly instruct Seedance to remove any sketched path overlays (e.g., “the red line must be completely removed from the final video”).  \nSpecify a single continuous shot with exact duration and aspect ratio (e.g., 15-second, 16:9), and explicitly forbid cuts (“No cuts”).  \nLock camera style by prompting “cinematic FPV flight” and “invisible first-person drone camera only” to avoid showing rigs/drones.  \nEnforce continuous motion by giving timestamp waypoints (0s -> 3s -> 6s -> 9s -> 12s -> 15s) and stating it must feel like one uninterrupted forward flight (no landmark jumping).  \nMaintain subject continuity by specifying a persistent guide character (a small juvenile flying dragon slightly ahead of camera throughout) and explicitly banning disappearance/scale issues (“dragon disappearing,” “oversized dragon,” “pasted character look”).  \nPrevent unwanted artifacts by adding a negative list (no annotations/text/logos/map view/reverse flight/route jumping) and explicitly exclude common style drift elements (e.g., “no Alice in Wonderland elements”).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/pound75423/status/2062435614268727591",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Good FortuneX",
+    "link": "https://x.com/pound75423"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Animals",
+    "Creatures",
+    "Photoreal",
+    "Fantasy",
+    "FPV & Aerial",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Use an uploaded image as a terrain/route map reference and explicitly instruct Seedance to remove any sketched path overlays (e.g., “the red line must be completely removed from the final video”).  \nSpecify a single continuous shot with exact duration and aspect ratio (e.g., 15-second, 16:9), and explicitly forbid cuts (“No cuts”).  \nLock camera style by prompting “cinematic FPV flight” and “invisible first-person drone camera only” to avoid showing rigs/drones.  \nEnforce continuous motion by giving timestamp waypoints (0s -> 3s -> 6s -> 9s -> 12s -> 15s) and stating it must feel like one uninterrupted forward flight (no landmark jumping).  \nMaintain subject continuity by specifying a persistent guide character (a small juvenile flying dragon slightly ahead of camera throughout) and explicitly banning disappearance/scale issues (“dragon disappearing,” “oversized dragon,” “pasted character look”).  \nPrevent unwanted artifacts by adding a negative list (no annotations/text/logos/map view/reverse flight/route jumping) and explicitly exclude common style drift elements (e.g., “no Alice in Wonderland elements”).",
+  "translations": {
+    "es": {
+      "content": "Utiliza una imagen cargada como referencia de mapa de terreno/ruta e instruye explícitamente a Seedance para que elimine cualquier superposición de caminos esbozados (por ejemplo, “la línea roja debe ser completamente eliminada del video final”).  \nEspecifica una sola toma continua con duración y relación de aspecto exactas (por ejemplo, 15 segundos, 16:9), y prohíbe explícitamente los cortes (“No cuts”).  \nFija el estilo de cámara indicando “cinematic FPV flight” y “invisible first-person drone camera only” para evitar mostrar equipos/drones.  \nImpón un movimiento continuo proporcionando puntos de referencia de tiempo (0s -> 3s -> 6s -> 9s -> 12s -> 15s) y estableciendo que debe sentirse como un vuelo hacia adelante ininterrumpido (sin saltos de puntos de referencia).  \nMantén la continuidad del sujeto especificando un personaje guía persistente (un pequeño dragón juvenil volando ligeramente por delante de la cámara en todo momento) y prohíbe explícitamente problemas de desaparición/escala (“dragón desapareciendo,” “dragón sobredimensionado,” “apariencia de personaje pegado”).  \nPrevén artefactos no deseados añadiendo una lista negativa (sin anotaciones/texto/logos/vista de mapa/vuelo inverso/saltos de ruta) y excluye explícitamente elementos comunes de desviación de estilo (por ejemplo, “sin elementos de Alicia en el País de las Maravillas”)."
+    },
+    "fr": {
+      "content": "Utilisez une image téléchargée comme référence de terrain/carte de route et demandez explicitement à Seedance de supprimer toute superposition de chemin esquissé (par exemple, \"la ligne rouge doit être complètement retirée de la vidéo finale\").  \nSpécifiez un plan continu unique avec une durée et un format d'image exacts (par exemple, 15 secondes, 16:9), et interdisez explicitement les coupures (\"Pas de coupures\").  \nVerrouillez le style de la caméra en utilisant les prompts “cinematic FPV flight” et “invisible first-person drone camera only” pour éviter de montrer les équipements/drones.  \nImposez un mouvement continu en donnant des points de passage avec des horodatages (0s -> 3s -> 6s -> 9s -> 12s -> 15s) et en indiquant qu'il doit ressembler à un vol vers l'avant ininterrompu (pas de saut de repères).  \nMaintenez la continuité du sujet en spécifiant un personnage guide persistant (un petit dragon volant juvénile légèrement en avant de la caméra tout au long) et interdisez explicitement les problèmes de disparition/échelle (“dragon disappearing,” “oversized dragon,” “pasted character look”).  \nPrévenez les artefacts indésirables en ajoutant une liste négative (pas d'annotations/texte/logos/vue de carte/vol inversé/saut de route) et excluez explicitement les éléments communs de dérive de style (par exemple, “no Alice in Wonderland elements”)."
+    },
+    "ja": {
+      "content": "---\nアップロードした画像を地形/ルートマップの参照として使用し、Seedanceにスケッチされたパスオーバーレイを削除するよう明示的に指示します（例：「赤い線は最終ビデオから完全に削除されなければならない」）。  \n正確な持続時間とアスペクト比を指定して単一の連続ショットを指定し（例：15秒、16:9）、カットを明示的に禁止します（「カットなし」）。  \nカメラスタイルを「cinematic FPV flight」と「invisible first-person drone camera only」と指示してロックし、リグ/ドローンを表示しないようにします。  \nタイムスタンプのウェイポイントを指定して（0s -> 3s -> 6s -> 9s -> 12s -> 15s）、一貫した前進飛行のように感じられるようにし、ランドマークのジャンプを避けます。  \n持続的なガイドキャラクターを指定して（カメラの少し前を飛ぶ小さな若いドラゴン）、消失/スケールの問題を明示的に禁止します（「ドラゴンの消失」、「巨大化したドラゴン」、「貼り付けられたキャラクターの外観」）。  \n不要なアーティファクトを防ぐためにネガティブリストを追加し（注釈/テキスト/ロゴ/マップビュー/逆飛行/ルートジャンプなし）、一般的なスタイルのドリフト要素を明示的に除外します（例：「不思議の国のアリスの要素なし」）。  \n---"
+    },
+    "ko": {
+      "content": "업로드된 이미지를 지형/경로 지도 참조로 사용하고, Seedance에게 스케치된 경로 오버레이를 제거하도록 명확히 지시하세요 (예: \"최종 비디오에서 빨간 선은 완전히 제거되어야 합니다\").  \n정확한 지속 시간과 화면 비율로 단일 연속 촬영을 지정하고 (예: 15초, 16:9), 컷을 명확히 금지하세요 (\"컷 없음\").  \n카메라 스타일을 \"cinematic FPV flight\"와 \"invisible first-person drone camera only\"로 고정하여 장비/드론이 보이지 않도록 하세요.  \n타임스탬프 웨이포인트를 제공하여 연속적인 움직임을 강제하세요 (0s -> 3s -> 6s -> 9s -> 12s -> 15s) 그리고 하나의 끊기지 않는 전진 비행처럼 느껴져야 한다고 명시하세요 (랜드마크 점프 없음).  \n지속적인 가이드 캐릭터를 지정하여 주제의 연속성을 유지하세요 (카메라보다 약간 앞서 있는 작은 어린 비행 용) 그리고 사라짐/크기 문제를 명확히 금지하세요 (\"용 사라짐,\" \"과도하게 큰 용,\" \"붙여넣은 캐릭터 느낌\").  \n원치 않는 아티팩트를 방지하기 위해 부정 목록을 추가하세요 (주석/텍스트/로고/지도 보기/역방향 비행/경로 점프 없음) 그리고 일반적인 스타일 드리프트 요소를 명확히 제외하세요 (예: \"이상한 나라의 앨리스 요소 없음\")."
+    },
+    "pt": {
+      "content": "Use uma imagem carregada como referência de terreno/mapa de rota e instrua explicitamente o Seedance a remover quaisquer sobreposições de caminho esboçadas (por exemplo, “a linha vermelha deve ser completamente removida do vídeo final”).  \nEspecifique uma única tomada contínua com duração e proporção exatas (por exemplo, 15 segundos, 16:9), e proíba explicitamente cortes (“Sem cortes”).  \nTrave o estilo da câmera usando o prompt “cinematic FPV flight” e “invisible first-person drone camera only” para evitar mostrar equipamentos/drones.  \nGaranta movimento contínuo fornecendo waypoints com carimbo de tempo (0s -> 3s -> 6s -> 9s -> 12s -> 15s) e afirmando que deve parecer um voo contínuo e ininterrupto para frente (sem saltos de marcos).  \nMantenha a continuidade do sujeito especificando um personagem guia persistente (um pequeno dragão juvenil voando ligeiramente à frente da câmera durante todo o tempo) e proibindo explicitamente problemas de desaparecimento/escala (“dragão desaparecendo”, “dragão superdimensionado”, “aparência de personagem colado”).  \nEvite artefatos indesejados adicionando uma lista negativa (sem anotações/texto/logotipos/visualização de mapa/voo reverso/saltos de rota) e exclua explicitamente elementos comuns de desvio de estilo (por exemplo, “sem elementos de Alice no País das Maravilhas”)."
+    },
+    "zh": {
+      "content": "使用上传的图像作为地形/路线图参考，并明确指示Seedance移除任何绘制的路径覆盖（例如，“红线必须从最终视频中完全移除”）。  \n指定一个具有精确时长和纵横比的单一连续镜头（例如，15秒，16:9），并明确禁止剪辑（“No cuts”）。  \n通过提示“cinematic FPV flight”和“invisible first-person drone camera only”锁定摄像风格，以避免显示设备/无人机。  \n通过给出时间戳航点（0s -> 3s -> 6s -> 9s -> 12s -> 15s）并声明必须感觉像一次不间断的向前飞行（无地标跳跃）来强制连续运动。  \n通过指定一个持续的引导角色（一个小的幼年飞龙始终稍微领先于摄像机）并明确禁止消失/比例问题（“dragon disappearing”，“oversized dragon”，“pasted character look”）来保持主体连续性。  \n通过添加负面列表（无注释/文本/标志/地图视图/反向飞行/路线跳跃）并明确排除常见的风格漂移元素（例如，“no Alice in Wonderland elements”）来防止不需要的伪影。"
+    }
+  }
+}
