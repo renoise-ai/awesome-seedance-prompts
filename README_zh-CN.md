@@ -6019,4 +6019,4 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/showcase)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-05T05:06:22.142Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-05T08:12:59.987Z

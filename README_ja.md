@@ -7531,4 +7531,4 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/showcase)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-05T05:06:22.153Z
+🤖 この README は自動生成されています。最終更新： 2026-06-05T08:13:00.001Z
