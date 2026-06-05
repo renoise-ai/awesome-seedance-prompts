@@ -8,6 +8,8 @@
 
 精选 ByteDance Seedance 2.0 高质量视频生成提示词合集
 
+💡 **复制任意提示词，[在 Renoise 里一键生成 →](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** — 无需安装、无需配置。
+
 > ⚠️ **版权声明：所有提示词均来自社区，仅用于学习目的。如果您认为任何内容侵犯了您的权利，请提交 Issue，我们将及时删除。**
 
 ---
@@ -28,7 +30,7 @@
 
 ## 🌐 🎬 在画廊中查看
 
-**👉 [浏览画廊](https://renoise.ai/showcase)**
+**👉 [浏览画廊](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
 | 功能 | GitHub README | 在线画廊 |
 |---------|-------------|---------|
@@ -36,6 +38,8 @@
 | 🔍 搜索 | 仅 Ctrl+F | 多字段模糊搜索 |
 | 📱 移动端 | 基础 | 完全响应式 |
 | 🌍 多语言 | 5 | 5+ |
+
+**🚀 在 Renoise 探索更多:** [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [AI 电影预告片](https://renoise.ai/zh-CN/guides/ai-movie-trailer?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [AI 音乐视频](https://renoise.ai/zh-CN/guides/ai-music-video?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [AI 图片转视频](https://renoise.ai/zh-CN/guides/ai-photo-to-video?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)
 
 ---
 
@@ -5171,7 +5175,7 @@ Audio: cinematic orchestral build with deep percussion and primal energy, combin
 
 ### 🎯 1292 条提示词未在此显示
 
-**👉 [浏览画廊](https://renoise.ai/showcase)**
+**👉 [浏览画廊](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
 ---
 
@@ -5995,7 +5999,7 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 ---
 
-*... 以及另外 333 条技巧。 [在画廊中查看全部](https://renoise.ai/showcase)*
+*... 以及另外 333 条技巧。 [在画廊中查看全部](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
 
 ---
 
@@ -6017,6 +6021,6 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 ---
 
-**🌐 [🎬 在画廊中查看](https://renoise.ai/showcase)** • **📝 提交提示词** • **⭐ 点个 Star**
+**🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-05T08:12:59.987Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-05T10:07:55.699Z

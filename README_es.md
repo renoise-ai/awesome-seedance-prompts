@@ -8,6 +8,8 @@
 
 Colección curada de prompts de generación de video para el Seedance 2.0 de ByteDance
 
+💡 **Copia cualquier prompt y [genéralo al instante en Renoise →](https://renoise.ai/es/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** — sin instalación ni configuración.
+
 > ⚠️ **Aviso de Derechos de Autor: Todos los prompts fueron recopilados de la comunidad con fines educativos. Si cree que algún contenido infringe sus derechos, abra un issue y lo eliminaremos de inmediato.**
 
 ---
@@ -28,7 +30,7 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 
 ## 🌐 🎬 Ver en la Galería Web
 
-**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/showcase)**
+**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/es/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
 | Característica | GitHub README | Galería |
 |---------|-------------|---------|
@@ -36,6 +38,8 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 | 🔍 Búsqueda | Solo Ctrl+F | Búsqueda difusa multicampo |
 | 📱 Móvil | Básico | Totalmente responsivo |
 | 🌍 Idiomas | 5 | 5+ |
+
+**🚀 Explora más en Renoise:** [modelo Seedance 2.0](https://renoise.ai/es/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [Tráiler de Película con IA](https://renoise.ai/es/guides/ai-movie-trailer?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [Videoclip con IA](https://renoise.ai/es/guides/ai-music-video?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [Foto a Video con IA](https://renoise.ai/es/guides/ai-photo-to-video?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)
 
 ---
 
@@ -7664,7 +7668,7 @@ Audio: construcción orquestal cinematográfica con percusión profunda y energ�
 
 ### 🎯 1292 prompts adicionales no mostrados aquí
 
-**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/showcase)**
+**👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/es/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
 ---
 
@@ -8536,7 +8540,7 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 ---
 
-*... y 333 consejos más. [Ver todo en la Galería](https://renoise.ai/showcase)*
+*... y 333 consejos más. [Ver todo en la Galería](https://renoise.ai/es/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
 
 ---
 
@@ -8558,6 +8562,6 @@ Gracias a todos los creadores que compartieron sus prompts con la comunidad.
 
 ---
 
-**🌐 [🎬 Ver en la Galería Web](https://renoise.ai/showcase)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
+**🌐 [🎬 Ver en la Galería Web](https://renoise.ai/es/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [modelo Seedance 2.0](https://renoise.ai/es/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
 
-🤖 Este README se genera automáticamente. Última actualización: 2026-06-05T08:13:00.028Z
+🤖 Este README se genera automáticamente. Última actualización: 2026-06-05T10:07:55.715Z

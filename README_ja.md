@@ -8,6 +8,8 @@
 
 Seedance 2.0 の厳選ビデオ生成プロンプト集
 
+💡 **プロンプトをコピーして[Renoise ですぐに生成 →](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** — セットアップ・インストール不要。
+
 > ⚠️ **著作権に関するお知らせ：すべてのプロンプトは教育目的でコミュニティから収集されています。権利侵害に該当するコンテンツがある場合は、Issue を作成してください。速やかに対応いたします。**
 
 ---
@@ -28,7 +30,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 
 ## 🌐 🎬 ウェブギャラリーで閲覧
 
-**👉 [Renoise でプロンプトを閲覧](https://renoise.ai/showcase)**
+**👉 [Renoise でプロンプトを閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
 | 機能 | GitHub README | ギャラリー |
 |---------|-------------|---------|
@@ -36,6 +38,8 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 🔍 検索 | Ctrl+F のみ | 複数フィールドのあいまい検索 |
 | 📱 モバイル | 基本対応 | 完全レスポンシブ |
 | 🌍 言語 | 5 | 5+ |
+
+**🚀 Renoise でもっと見る:** [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [AI 映画予告編](https://renoise.ai/ja/guides/ai-movie-trailer?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [AI ミュージックビデオ](https://renoise.ai/ja/guides/ai-music-video?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts) · [AI 写真から動画](https://renoise.ai/ja/guides/ai-photo-to-video?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)
 
 ---
 
@@ -6618,7 +6622,7 @@ https://t.co/1S4Bt1A91X
 
 ### 🎯 1292 件のプロンプトが非表示
 
-**👉 [Renoise でプロンプトを閲覧](https://renoise.ai/showcase)**
+**👉 [Renoise でプロンプトを閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
 ---
 
@@ -7507,7 +7511,7 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 ---
 
-*... その他 333 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/showcase)*
+*... その他 333 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
 
 ---
 
@@ -7529,6 +7533,6 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 ---
 
-**🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/showcase)** • **📝 プロンプトを提出** • **⭐ Star する**
+**🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-05T08:13:00.001Z
+🤖 この README は自動生成されています。最終更新： 2026-06-05T10:07:55.704Z
