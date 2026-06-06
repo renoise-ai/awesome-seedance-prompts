@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **1392** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **363** |
-| 🔄 最終更新 | **2026-06-05** |
+| 🔄 最終更新 | **2026-06-06** |
 
 ---
 
@@ -7535,4 +7535,4 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-05T21:27:01.889Z
+🤖 この README は自動生成されています。最終更新： 2026-06-06T03:39:12.886Z
