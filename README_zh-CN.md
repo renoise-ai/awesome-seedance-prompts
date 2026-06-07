@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **1392** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **363** |
-| 🔄 最后更新 | **2026-06-06** |
+| 🔄 最后更新 | **2026-06-07** |
 
 ---
 
@@ -6023,4 +6023,4 @@ Sahne + gizli kamera rotası + yakın plan konuşmalar (diyalog) + duygu + final
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-06T21:06:49.024Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-07T04:06:22.716Z
