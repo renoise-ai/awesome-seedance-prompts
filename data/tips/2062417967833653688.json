@@ -1,0 +1,45 @@
+{
+  "id": "2062417967833653688",
+  "title": "在 Seedance 2.0 里补充镜头运动逻辑，指定一镜到底的第一人称 FPV 沉浸式镜头来生成古风游戏视角视频",
+  "content": "在 Seedance 2.0 里补充镜头运动逻辑，指定一镜到底的第一人称 FPV 沉浸式镜头来生成古风游戏视角视频  \n用红色箭头标注镜头移动路线作为运动参考，并确保该标注不出现在最终成片中",
+  "language": "zh",
+  "thumbnail": "",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062417967833653688.mp4",
+  "sourceLink": "https://x.com/liyue_ai/status/2062417967833653688",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "李岳",
+    "link": "https://x.com/liyue_ai"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "3D Animation",
+    "Historical",
+    "FPV & Aerial",
+    "POV",
+    "Game UI",
+    "Tutorial"
+  ],
+  "tips": "在 Seedance 2.0 里补充镜头运动逻辑，指定一镜到底的第一人称 FPV 沉浸式镜头来生成古风游戏视角视频  \n用红色箭头标注镜头移动路线作为运动参考，并确保该标注不出现在最终成片中",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.0, supplement the camera movement logic to specify a first-person FPV immersive shot for generating a video with an ancient style game perspective.  \nUse red arrows to indicate the camera movement path as a motion reference, and ensure that this annotation does not appear in the final cut."
+    },
+    "es": {
+      "content": "En Seedance 2.0, complementa la lógica de movimiento de cámara, especificando un plano secuencia en primera persona FPV para generar un video de perspectiva de juego de estilo antiguo.  \nUsa flechas rojas para marcar la ruta de movimiento de la cámara como referencia de movimiento y asegúrate de que esta marca no aparezca en el producto final."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.0, ajoutez la logique de mouvement de caméra, spécifiez un plan-séquence en vue à la première personne (FPV) immersif pour générer une vidéo de jeu à l'esthétique ancienne. Utilisez des flèches rouges pour indiquer la trajectoire de mouvement de la caméra comme référence, et assurez-vous que cette annotation n'apparaisse pas dans le produit final."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0において、カメラの動きのロジックを補完し、一人称視点のFPV（First-Person View）で没入感のあるシームレスなカメラショットを指定して、古風なゲーム視点のビデオを生成します。  \nカメラの移動ルートを示すために赤い矢印でマークし、このマークが最終的な映像に表示されないようにします。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 카메라 움직임 로직을 보완하여, 일체형 FPV 몰입형 카메라로 고전풍 게임 시점의 영상을 생성합니다.  \n카메라 이동 경로를 운동 참고로 삼기 위해 빨간색 화살표로 표시하고, 이 표시는 최종 영상에 나타나지 않도록 합니다."
+    },
+    "pt": {
+      "content": "No Seedance 2.0, complemente a lógica de movimento de câmera, especificando um plano-sequência em primeira pessoa FPV para gerar um vídeo de perspectiva de jogo de estilo antigo.  \nUse setas vermelhas para indicar a rota de movimento da câmera como referência de movimento e certifique-se de que essa marcação não apareça no produto final."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2063561249456099387",
+  "title": "Lock your character identity across all scenes by generating a consistent…",
+  "content": "Lock your character identity across all scenes by generating a consistent character reference with GPT Image 2 + Nano Banana Pro before animating shots in Seedance 2.0.  \nAnimate each shot individually in Seedance 2.0 (instead of generating the whole sequence at once) to maintain control per scene.  \nCut your final edit to the beat of the generated track to improve pacing and cohesion across scenes.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/lilidiai/status/2063561249456099387",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "Lilidi · AI",
+    "link": "https://x.com/lilidiai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Lock your character identity across all scenes by generating a consistent character reference with GPT Image 2 + Nano Banana Pro before animating shots in Seedance 2.0.  \nAnimate each shot individually in Seedance 2.0 (instead of generating the whole sequence at once) to maintain control per scene.  \nCut your final edit to the beat of the generated track to improve pacing and cohesion across scenes.",
+  "translations": {
+    "es": {
+      "content": "Bloquea la identidad de tu personaje en todas las escenas generando una referencia de personaje consistente con GPT Image 2 + Nano Banana Pro antes de animar las tomas en Seedance 2.0.  \nAnima cada toma individualmente en Seedance 2.0 (en lugar de generar toda la secuencia de una vez) para mantener el control por escena.  \nCorta tu edición final al ritmo de la pista generada para mejorar el ritmo y la cohesión entre escenas."
+    },
+    "fr": {
+      "content": "---\nVerrouillez l'identité de votre personnage dans toutes les scènes en générant une référence de personnage cohérente avec GPT Image 2 + Nano Banana Pro avant d'animer les plans dans Seedance 2.0.  \nAnimez chaque plan individuellement dans Seedance 2.0 (au lieu de générer toute la séquence en une seule fois) pour garder le contrôle par scène.  \nMontez votre montage final au rythme de la piste générée pour améliorer le rythme et la cohésion entre les scènes.\n---"
+    },
+    "ja": {
+      "content": "シードランス2.0でアニメーションを作成する前に、GPT Image 2 + Nano Banana Proを使用して一貫したキャラクターリファレンスを生成し、すべてのシーンでキャラクターのアイデンティティを固定します。  \nシードランス2.0では、シーケンス全体を一度に生成するのではなく、各ショットを個別にアニメーション化して、シーンごとのコントロールを維持します。  \n生成されたトラックのビートに合わせて最終編集をカットし、シーン全体のペーシングと一貫性を向上させます。"
+    },
+    "ko": {
+      "content": "애니메이션을 Seedance 2.0에서 시작하기 전에 GPT Image 2 + Nano Banana Pro로 일관된 캐릭터 참조를 생성하여 모든 장면에서 캐릭터 정체성을 고정하세요.  \n각 장면마다 개별적으로 Seedance 2.0에서 애니메이션을 제작하여 (전체 시퀀스를 한 번에 생성하는 대신) 장면별로 제어를 유지하세요.  \n생성된 트랙의 비트에 맞춰 최종 편집을 컷하여 장면 전반의 속도와 일관성을 향상시키세요."
+    },
+    "pt": {
+      "content": "Mantenha a identidade do seu personagem consistente em todas as cenas gerando uma referência de personagem consistente com GPT Image 2 + Nano Banana Pro antes de animar as cenas no Seedance 2.0.  \nAnime cada cena individualmente no Seedance 2.0 (em vez de gerar toda a sequência de uma vez) para manter o controle por cena.  \nCorte sua edição final no ritmo da faixa gerada para melhorar o ritmo e a coesão entre as cenas."
+    },
+    "zh": {
+      "content": "在动画制作Seedance 2.0中的镜头之前，通过GPT Image 2 + Nano Banana Pro生成一致的角色参考，以锁定角色身份在所有场景中的一致性。  \n在Seedance 2.0中单独为每个镜头进行动画制作（而不是一次生成整个序列），以便在每个场景中保持控制。  \n将最终剪辑剪辑到生成的音轨的节拍上，以提高场景之间的节奏和连贯性。"
+    }
+  }
+}

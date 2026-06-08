@@ -1,0 +1,42 @@
+{
+  "id": "2063439539927187764",
+  "title": "固定俯瞰のミニチュア住宅モデルをDreamina OctoのキャンバスでEnvironment登録し、左側の詳細記述をしっかり書いて右側プレビューで確認する",
+  "content": "固定俯瞰のミニチュア住宅モデルをDreamina OctoのキャンバスでEnvironment登録し、左側の詳細記述をしっかり書いて右側プレビューで確認する  \nEnvironmentをStory Elementとして保存し、以後MiniHouseModelのような名前で呼び出して一貫した構図（同じ環境）を再利用する  \n登録したEnvironmentをベースに、矢印アノテーション（指示）画像を参照させて動線を指示し、Seedance 2.0で人物が家の中を動き回る動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063439452513701888/img/a1Vz9Vw7jG3AsEbL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063439539927187764.mp4",
+  "sourceLink": "https://x.com/akiyoshisan/status/2063439539927187764",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "右よし左よし秋よし@AIエンタメ",
+    "link": "https://x.com/akiyoshisan"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Micro",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "固定俯瞰のミニチュア住宅モデルをDreamina OctoのキャンバスでEnvironment登録し、左側の詳細記述をしっかり書いて右側プレビューで確認する  \nEnvironmentをStory Elementとして保存し、以後MiniHouseModelのような名前で呼び出して一貫した構図（同じ環境）を再利用する  \n登録したEnvironmentをベースに、矢印アノテーション（指示）画像を参照させて動線を指示し、Seedance 2.0で人物が家の中を動き回る動画を生成する",
+  "translations": {
+    "en": {
+      "content": "---\nRegister a fixed overhead miniature house model as an Environment on Dreamina Octo's canvas, write detailed descriptions on the left side, and check them in the preview on the right side.  \nSave the Environment as a Story Element, and later call it by a name like MiniHouseModel to reuse a consistent composition (the same environment).  \nBased on the registered Environment, refer to arrow annotation images to instruct movement paths, and generate a video of a person moving around inside the house using Seedance 2.0.\n\n--- THREAD CONTINUATION ---\n[Thread 1] This is the screen where a fixed overhead miniature house model is registered as an Environment using Octo's canvas feature.  \nEnter detailed descriptions on the left side, and a preview is displayed on the right side. This is saved as a Story Element, allowing you to use a consistent composition just by calling it MiniHouseModel from now on.\n\nBased on this Environment, I referred to arrow annotation images to instruct Octo → generated a video with Seedance 2.0. #DreaminaOcto\n\n[Thread 2] I also wrote an article on note.  \nhttps://t.co/hMFlrpgS1u\n---"
+    },
+    "es": {
+      "content": "---\nRegistrar un modelo de casa en miniatura con vista fija en el lienzo de Dreamina Octo como Environment, escribir una descripción detallada en el lado izquierdo y verificar en la vista previa del lado derecho.  \nGuardar el Environment como Story Element y luego llamarlo con un nombre como MiniHouseModel para reutilizar una composición consistente (el mismo entorno).  \nBasándose en el Environment registrado, referenciar una imagen de anotación con flechas para indicar el flujo y generar un video con Seedance 2.0 donde las personas se mueven dentro de la casa.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Pantalla donde se ha registrado un modelo de casa en miniatura con vista fija como Environment usando la función de lienzo de Octo.  \nSe introduce una descripción detallada en el lado izquierdo y se muestra una vista previa en el lado derecho. Esto se guarda como Story Element, y en adelante, solo llamándolo MiniHouseModel se puede usar una composición consistente.\n\nBasándose en este Environment, se referenció una imagen de anotación con flechas para dar instrucciones a Octo → Se generó un video con Seedance 2.0. #DreaminaOcto\n\n[Hilo 2] También lo convertí en un artículo de note.  \nhttps://t.co/hMFlrpgS1u\n---"
+    },
+    "fr": {
+      "content": "---\nEnregistrez un modèle de maison miniature en vue plongeante fixe en tant qu'Environment sur la toile de Dreamina Octo, en écrivant une description détaillée sur le côté gauche et en vérifiant l'aperçu sur le côté droit.  \nSauvegardez l'Environment comme un élément d'histoire et réutilisez une composition cohérente (même environnement) en l'appelant par un nom tel que MiniHouseModel.  \nEn vous basant sur l'Environment enregistré, utilisez une image d'annotation avec des flèches pour indiquer les mouvements et générez une vidéo avec Seedance 2.0 où des personnages se déplacent à l'intérieur de la maison.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Voici l'écran où le modèle de maison miniature en vue plongeante fixe a été enregistré comme Environment en utilisant la fonction de toile d'Octo.  \nUne description détaillée est entrée sur le côté gauche, et un aperçu est affiché sur le côté droit. Cela est ensuite sauvegardé comme un élément d'histoire, et il suffit de l'appeler MiniHouseModel pour utiliser une composition cohérente.\n\nEn vous basant sur cet Environment, utilisez une image d'annotation avec des flèches pour donner des instructions à Octo → Vidéo générée avec Seedance 2.0. #DreaminaOcto\n\n[Fil 2] J'en ai aussi fait un article sur note.  \nhttps://t.co/hMFlrpgS1u\n---"
+    },
+    "ko": {
+      "content": "---\nDreamina Octo의 캔버스에서 고정된 조감 미니어처 주택 모델을 Environment로 등록하고, 왼쪽에 상세 설명을 꼼꼼히 작성한 후 오른쪽 미리보기에서 확인합니다.  \nEnvironment를 Story Element로 저장하고, 이후 MiniHouseModel과 같은 이름으로 호출하여 일관된 구도(같은 환경)를 재사용합니다.  \n등록한 Environment를 기반으로 화살표 주석(지시) 이미지를 참조하여 동선을 지시하고, Seedance 2.0으로 인물이 집 안을 돌아다니는 영상을 생성합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Octo의 캔버스 기능을 사용하여 고정된 조감 미니어처 주택 모델을 Environment로 등록한 화면입니다.  \n왼쪽에 상세 설명을 꼼꼼히 입력하고, 오른쪽에 미리보기가 표시됩니다. 이렇게 하면 Story Element로 저장되어 이후 MiniHouseModel이라고 부르기만 하면 일관된 구도를 사용할 수 있습니다.\n\n이 Environment를 기반으로 화살표 주석 이미지를 참조하여 Octo에 지시 → Seedance 2.0으로 영상 생성했습니다. #DreaminaOcto\n\n[Thread 2] note 기사로도 만들어 보았습니다.  \nhttps://t.co/hMFlrpgS1u\n---"
+    },
+    "pt": {
+      "content": "---\nRegistre o modelo de casa em miniatura com uma visão fixa de cima como um Environment na tela do Dreamina Octo, escreva uma descrição detalhada no lado esquerdo e verifique no lado direito a pré-visualização.  \nSalve o Environment como um Story Element e, a partir de então, chame-o por um nome como MiniHouseModel para reutilizar uma composição consistente (o mesmo ambiente).  \nCom base no Environment registrado, use uma imagem de anotação com setas para indicar o fluxo e gere um vídeo no Seedance 2.0 onde pessoas se movem dentro da casa.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Esta é a tela onde o modelo de casa em miniatura com uma visão fixa de cima foi registrado como um Environment usando a função de tela do Octo.  \nInsira uma descrição detalhada no lado esquerdo e a pré-visualização será exibida no lado direito. Isso é salvo como um Story Element e, a partir de então, você pode usar uma composição consistente apenas chamando de MiniHouseModel.\n\nCom base neste Environment, usei uma imagem de anotação com setas para dar instruções ao Octo → Gerei um vídeo no Seedance 2.0. #DreaminaOcto\n\n[Thread 2] Também fiz um artigo no note.  \nhttps://t.co/hMFlrpgS1u\n---"
+    },
+    "zh": {
+      "content": "---\n在Dreamina Octo的画布上将固定俯瞰的微型住宅模型注册为Environment，在左侧详细描述并在右侧预览中确认。  \n将Environment保存为Story Element，以后可以用类似MiniHouseModel的名字调用，重复使用一致的构图（相同环境）。  \n基于注册的Environment，参考箭头注释（指示）图像指示动线，并使用Seedance 2.0生成人物在房屋内移动的视频。\n\n--- 线程继续 ---\n[Thread 1] 使用Octo的画布功能注册为Environment的固定俯瞰微型住宅模型的画面。\n在左侧详细描述，右侧显示预览。这样保存为Story Element，以后只需称为MiniHouseModel即可使用一致的构图。\n\n基于这个Environment，参考箭头注释图像指示Octo → 使用Seedance 2.0生成视频。#DreaminaOcto\n\n[Thread 2] 我也在note上写了文章。\nhttps://t.co/hMFlrpgS1u\n---"
+    }
+  }
+}

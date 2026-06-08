@@ -1,0 +1,41 @@
+{
+  "id": "2063161122253910127",
+  "title": "Use two keyframes (opening-frame identity reference image + closing-frame…",
+  "content": "Use two keyframes (opening-frame identity reference image + closing-frame image) as reference assets to lock character identity and force the video to start/end on specific frames.  \nWrite a timestamped camera plan (e.g., [0.0s], [1.5s], [3s]…) describing exact camera behavior per beat to control follow-cam movement and pacing.  \nAdd explicit constraints like one continuous follow-cam oner/no cuts + avoid jitter/identity drift/temporal flicker + sharp clarity/no blur/ghosting/distortion to reduce common motion and consistency artifacts.  \nSpecify cinematic lens/lighting keywords (35mm film look, anamorphic wide lens, natural depth of field, early morning golden side light, warm lens flares, long shadows) to steer the visual style.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/lostsol/status/2063161122253910127",
+  "sourcePublishedAt": "2026-06-06",
+  "author": {
+    "name": "Lost 🎯",
+    "link": "https://x.com/lostsol"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use two keyframes (opening-frame identity reference image + closing-frame image) as reference assets to lock character identity and force the video to start/end on specific frames.  \nWrite a timestamped camera plan (e.g., [0.0s], [1.5s], [3s]…) describing exact camera behavior per beat to control follow-cam movement and pacing.  \nAdd explicit constraints like one continuous follow-cam oner/no cuts + avoid jitter/identity drift/temporal flicker + sharp clarity/no blur/ghosting/distortion to reduce common motion and consistency artifacts.  \nSpecify cinematic lens/lighting keywords (35mm film look, anamorphic wide lens, natural depth of field, early morning golden side light, warm lens flares, long shadows) to steer the visual style.",
+  "translations": {
+    "es": {
+      "content": "Usa dos fotogramas clave (imagen de referencia de identidad del fotograma de apertura + imagen del fotograma de cierre) como activos de referencia para fijar la identidad del personaje y forzar que el video comience/termine en fotogramas específicos.  \nEscribe un plan de cámara con marcas de tiempo (por ejemplo, [0.0s], [1.5s], [3s]…) describiendo el comportamiento exacto de la cámara por cada compás para controlar el movimiento de la cámara de seguimiento y el ritmo.  \nAñade restricciones explícitas como un seguimiento continuo de cámara sin cortes + evitar vibraciones/desviación de identidad/parpadeo temporal + claridad nítida/sin desenfoque/fantasmas/distorsión para reducir artefactos comunes de movimiento y consistencia.  \nEspecifica palabras clave de lentes/iluminación cinematográfica (apariencia de película de 35mm, lente anamórfico ancho, profundidad de campo natural, luz lateral dorada de la mañana temprano, destellos cálidos de lente, sombras largas) para guiar el estilo visual."
+    },
+    "fr": {
+      "content": "Utilisez deux images clés (image de référence d'identité du cadre d'ouverture + image du cadre de fermeture) comme ressources de référence pour verrouiller l'identité du personnage et forcer la vidéo à commencer/terminer sur des cadres spécifiques.  \nRédigez un plan de caméra horodaté (par exemple, [0.0s], [1.5s], [3s]…) décrivant le comportement exact de la caméra à chaque temps pour contrôler le mouvement de la caméra suiveuse et le rythme.  \nAjoutez des contraintes explicites comme un suivi continu de la caméra sans coupures + évitez les tremblements/dérives d'identité/clignotements temporels + une clarté nette/sans flou/fantômes/distorsion pour réduire les artefacts de mouvement et de cohérence courants.  \nSpécifiez des mots-clés pour les objectifs/éclairages cinématographiques (aspect film 35mm, objectif anamorphique grand angle, profondeur de champ naturelle, lumière dorée du matin, reflets chauds de l'objectif, longues ombres) pour orienter le style visuel."
+    },
+    "ja": {
+      "content": "---\n2つのキーフレーム（オープニングフレームのアイデンティティ参照画像 + クロージングフレーム画像）を参照資産として使用し、キャラクターのアイデンティティを固定し、特定のフレームでビデオを開始/終了させます。  \nタイムスタンプ付きのカメラプラン（例：[0.0s], [1.5s], [3s]…）を作成し、ビートごとの正確なカメラ動作を記述して、フォローカムの動きとペースを制御します。  \n1つの連続したフォローカムワンショット/カットなし + ジッター/アイデンティティのずれ/時間的ちらつきを避ける + 鮮明な明瞭さ/ぼかし/ゴースト/歪みなしなどの明確な制約を追加し、一般的な動きと一貫性のアーティファクトを減らします。  \n視覚スタイルを導くために、シネマティックレンズ/照明のキーワード（35mmフィルムルック、アナモルフィックワイドレンズ、自然な被写界深度、早朝のゴールデンサイドライト、暖かいレンズフレア、長い影）を指定します。  \n---"
+    },
+    "ko": {
+      "content": "두 개의 키프레임(시작 프레임의 정체성 참조 이미지 + 종료 프레임 이미지)을 참조 자산으로 사용하여 캐릭터의 정체성을 고정하고 비디오가 특정 프레임에서 시작/종료되도록 합니다.  \n타임스탬프가 있는 카메라 계획(예: [0.0s], [1.5s], [3s]…)을 작성하여 비트별로 정확한 카메라 동작을 설명하고, 따라가는 카메라의 움직임과 속도를 제어합니다.  \n하나의 연속적인 따라가는 카메라 촬영/컷 없음 + 흔들림/정체성 드리프트/시간적 깜박임 방지 + 선명한 화질/블러/고스트/왜곡 없음과 같은 명시적인 제약을 추가하여 일반적인 움직임 및 일관성 아티팩트를 줄입니다.  \n시네마틱 렌즈/조명 키워드(35mm 필름 룩, 아나모픽 와이드 렌즈, 자연스러운 심도, 이른 아침의 황금빛 측면 조명, 따뜻한 렌즈 플레어, 긴 그림자)를 지정하여 시각적 스타일을 조정합니다."
+    },
+    "pt": {
+      "content": "Use duas keyframes (imagem de referência de identidade do quadro de abertura + imagem do quadro de fechamento) como ativos de referência para fixar a identidade do personagem e forçar o vídeo a começar/terminar em quadros específicos.  \nEscreva um plano de câmera com marcação de tempo (por exemplo, [0.0s], [1.5s], [3s]...) descrevendo o comportamento exato da câmera por batida para controlar o movimento e o ritmo da câmera de acompanhamento.  \nAdicione restrições explícitas como uma única tomada contínua com câmera de acompanhamento/sem cortes + evitar trepidação/desvio de identidade/cintilação temporal + clareza nítida/sem desfoque/fantasmas/distorção para reduzir artefatos comuns de movimento e consistência.  \nEspecifique palavras-chave de lentes/iluminação cinematográficas (aparência de filme 35mm, lente anamórfica grande angular, profundidade de campo natural, luz lateral dourada de manhã cedo, flares de lente quentes, sombras longas) para direcionar o estilo visual."
+    },
+    "zh": {
+      "content": "使用两个关键帧（开场帧身份参考图像 + 结束帧图像）作为参考资产，以锁定角色身份并强制视频在特定帧开始/结束。  \n编写一个带时间戳的摄像机计划（例如，[0.0s]，[1.5s]，[3s]…），描述每个节拍的确切摄像机行为，以控制跟随摄像机的移动和节奏。  \n添加明确的限制条件，如一个连续的跟随摄像机长镜头/无剪切 + 避免抖动/身份漂移/时间闪烁 + 清晰锐利/无模糊/重影/失真，以减少常见的运动和一致性伪影。  \n指定电影镜头/照明关键词（35mm胶片外观，变形宽镜头，自然景深，清晨金色侧光，温暖的镜头光晕，长阴影）以引导视觉风格。"
+    }
+  }
+}

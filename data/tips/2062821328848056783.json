@@ -1,0 +1,43 @@
+{
+  "id": "2062821328848056783",
+  "title": "Use GPT Image 2 to generate a 9-frame storyboard from a single product photo…",
+  "content": "Use GPT Image 2 to generate a 9-frame storyboard from a single product photo plus one-sentence brief, then feed the storyboard into Seedance 2.0 to produce the finished video ad with sound.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062818528063873024/img/fK1-IlNQYynjsxkF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062821328848056783.mp4",
+  "sourceLink": "https://x.com/Sogni_Protocol/status/2062821328848056783",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "Sogni.ai",
+    "link": "https://x.com/Sogni_Protocol"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image 2 to generate a 9-frame storyboard from a single product photo plus one-sentence brief, then feed the storyboard into Seedance 2.0 to produce the finished video ad with sound.",
+  "translations": {
+    "es": {
+      "content": "Utiliza GPT Image 2 para generar un storyboard de 9 cuadros a partir de una sola foto del producto más una breve oración, luego introduce el storyboard en Seedance 2.0 para producir el anuncio de video terminado con sonido."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer un storyboard de 9 images à partir d'une seule photo de produit et d'un bref résumé d'une phrase, puis intégrez le storyboard dans Seedance 2.0 pour produire la publicité vidéo finale avec son."
+    },
+    "ja": {
+      "content": "GPT Image 2を使用して、1枚の製品写真と1文のブリーフから9フレームのストーリーボードを生成し、そのストーリーボードをSeedance 2.0に入力して、音声付きの完成したビデオ広告を制作します。"
+    },
+    "ko": {
+      "content": "GPT Image 2를 사용하여 단일 제품 사진과 한 문장 브리프에서 9프레임 스토리보드를 생성한 후, 그 스토리보드를 Seedance 2.0에 입력하여 사운드가 포함된 완성된 비디오 광고를 제작하세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar um storyboard de 9 quadros a partir de uma única foto do produto mais um breve resumo de uma frase, depois insira o storyboard no Seedance 2.0 para produzir o anúncio de vídeo finalizado com som."
+    },
+    "zh": {
+      "content": "使用GPT Image 2从单张产品照片和一句话简述生成一个9帧的故事板，然后将故事板输入Seedance 2.0制作带有声音的成品视频广告。"
+    }
+  }
+}

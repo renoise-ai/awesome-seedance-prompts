@@ -1,0 +1,42 @@
+{
+  "id": "2063195969794310332",
+  "title": "seedance.2.0fastでキャラクター設定資料を参照に入れ、ざっくりしたプロンプトでも戦闘シーンを生成する",
+  "content": "seedance.2.0fastでキャラクター設定資料を参照に入れ、ざっくりしたプロンプトでも戦闘シーンを生成する  \nプロンプトにシーン数・シーン構成・秒数指定・ストーリーの流れを入力して生成すると、構成そのものの表現を反映できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063195897291571200/img/d06hrtCiXB5B7_xn.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063195969794310332.mp4",
+  "sourceLink": "https://x.com/ryuto_hobby/status/2063195969794310332",
+  "sourcePublishedAt": "2026-06-06",
+  "author": {
+    "name": "リュウト/桜影物語",
+    "link": "https://x.com/ryuto_hobby"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "seedance.2.0fastでキャラクター設定資料を参照に入れ、ざっくりしたプロンプトでも戦闘シーンを生成する  \nプロンプトにシーン数・シーン構成・秒数指定・ストーリーの流れを入力して生成すると、構成そのものの表現を反映できる",
+  "translations": {
+    "en": {
+      "content": "---\nBy referencing character setting materials in seedance.2.0fast, you can generate battle scenes even with a rough prompt.  \nWhen you input the number of scenes, scene composition, duration, and story flow into the prompt and generate, you can reflect the expression of the composition itself.\n---"
+    },
+    "es": {
+      "content": "---\nEn seedance.2.0fast, al incluir las hojas de referencia de los personajes, se puede generar una escena de combate incluso con un prompt básico.  \nAl ingresar en el prompt el número de escenas, la estructura de las escenas, la duración en segundos y el flujo de la historia, se puede reflejar la expresión de la estructura misma.\n---"
+    },
+    "fr": {
+      "content": "---\nAvec seedance.2.0fast, intégrez les documents de référence des personnages pour générer des scènes de combat même avec un prompt sommaire.  \nEn entrant le nombre de scènes, la structure des scènes, la durée en secondes et le déroulement de l'histoire dans le prompt, vous pouvez refléter l'expression même de la structure.\n---"
+    },
+    "ko": {
+      "content": "---\nseedance.2.0fast에서 캐릭터 설정 자료를 참조에 넣고, 대략적인 프롬프트로도 전투 장면을 생성할 수 있습니다.  \n프롬프트에 장면 수, 장면 구성, 초 단위 지정, 스토리의 흐름을 입력하여 생성하면, 구성 자체의 표현을 반영할 수 있습니다.\n---"
+    },
+    "pt": {
+      "content": "---\nNo seedance.2.0fast, insira a referência do material de configuração do personagem para gerar cenas de batalha mesmo com um prompt básico.  \nAo inserir o número de cenas, a estrutura das cenas, a duração em segundos e o fluxo da história no prompt, é possível refletir a expressão da própria estrutura.\n---"
+    },
+    "zh": {
+      "content": "在seedance.2.0fast中参考角色设定资料，即使是粗略的prompt也能生成战斗场景  \n在prompt中输入场景数、场景构成、秒数指定、故事的流向进行生成，可以反映出构成本身的表现"
+    }
+  }
+}

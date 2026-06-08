@@ -1,0 +1,42 @@
+{
+  "id": "2062880005043142730",
+  "title": "Create reference images for each character and recurring background element…",
+  "content": "Create reference images for each character and recurring background element (e.g., using Midjourney or Nano Banana Pro) before generating scenes in Seedance.  \nIn Figma Weave, connect your character/element reference images to a Seedance 2 Reference node (not the regular Seedance 2 node) for each scene.  \nReuse the same connected references across all scenes to keep characters and background elements consistent.  \nUse Weave’s Extract Video Frame node to pull frames you can reuse as references for consistency.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062879492650237952/img/2WKMkxft11jKoBcZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062880005043142730.mp4",
+  "sourceLink": "https://x.com/thefinnmckenty/status/2062880005043142730",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "Finn McKenty",
+    "link": "https://x.com/thefinnmckenty"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create reference images for each character and recurring background element (e.g., using Midjourney or Nano Banana Pro) before generating scenes in Seedance.  \nIn Figma Weave, connect your character/element reference images to a Seedance 2 Reference node (not the regular Seedance 2 node) for each scene.  \nReuse the same connected references across all scenes to keep characters and background elements consistent.  \nUse Weave’s Extract Video Frame node to pull frames you can reuse as references for consistency.",
+  "translations": {
+    "es": {
+      "content": "Crea imágenes de referencia para cada personaje y elemento de fondo recurrente (por ejemplo, usando Midjourney o Nano Banana Pro) antes de generar escenas en Seedance.  \nEn Figma Weave, conecta tus imágenes de referencia de personajes/elementos a un nodo de Referencia Seedance 2 (no al nodo regular de Seedance 2) para cada escena.  \nReutiliza las mismas referencias conectadas en todas las escenas para mantener la consistencia de los personajes y elementos de fondo.  \nUsa el nodo Extract Video Frame de Weave para extraer fotogramas que puedas reutilizar como referencias para la consistencia.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @figmaweave Flujo de trabajo: https://t.co/9ZyWPpGKB3 https://t.co/hYL1XBGsTX"
+    },
+    "fr": {
+      "content": "Créez des images de référence pour chaque personnage et élément de fond récurrent (par exemple, en utilisant Midjourney ou Nano Banana Pro) avant de générer des scènes dans Seedance.  \nDans Figma Weave, connectez vos images de référence de personnage/élément à un nœud de référence Seedance 2 (et non le nœud Seedance 2 régulier) pour chaque scène.  \nRéutilisez les mêmes références connectées dans toutes les scènes pour maintenir la cohérence des personnages et des éléments de fond.  \nUtilisez le nœud Extract Video Frame de Weave pour extraire des images que vous pouvez réutiliser comme références pour la cohérence.\n\n--- SUITE DU FIL ---\n[Fil 1] @figmaweave Workflow : https://t.co/9ZyWPpGKB3 https://t.co/hYL1XBGsTX"
+    },
+    "ja": {
+      "content": "---\nSeedanceでシーンを生成する前に、各キャラクターや繰り返し登場する背景要素の参照画像を作成します（例：MidjourneyやNano Banana Proを使用）。  \nFigma Weaveでは、各シーンに対してキャラクター/要素の参照画像をSeedance 2 Referenceノード（通常のSeedance 2ノードではありません）に接続します。  \nすべてのシーンで同じ接続された参照を再利用し、キャラクターと背景要素の一貫性を保ちます。  \nWeaveのExtract Video Frameノードを使用して、再利用可能なフレームを取り出し、一貫性を保つための参照として使用します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @figmaweave ワークフロー: https://t.co/9ZyWPpGKB3 https://t.co/hYL1XBGsTX\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance에서 장면을 생성하기 전에 각 캐릭터와 반복되는 배경 요소에 대한 참조 이미지를 생성하세요 (예: Midjourney 또는 Nano Banana Pro 사용).  \nFigma Weave에서 각 장면에 대해 캐릭터/요소 참조 이미지를 Seedance 2 Reference 노드에 연결하세요 (일반 Seedance 2 노드가 아님).  \n모든 장면에서 동일한 연결된 참조를 재사용하여 캐릭터와 배경 요소의 일관성을 유지하세요.  \nWeave의 Extract Video Frame 노드를 사용하여 일관성을 위한 참조로 재사용할 수 있는 프레임을 추출하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @figmaweave Workflow: https://t.co/9ZyWPpGKB3 https://t.co/hYL1XBGsTX\n---"
+    },
+    "pt": {
+      "content": "Crie imagens de referência para cada personagem e elemento de fundo recorrente (por exemplo, usando Midjourney ou Nano Banana Pro) antes de gerar cenas no Seedance.  \nNo Figma Weave, conecte suas imagens de referência de personagem/elemento a um nó de Referência Seedance 2 (não o nó regular Seedance 2) para cada cena.  \nReutilize as mesmas referências conectadas em todas as cenas para manter a consistência dos personagens e elementos de fundo.  \nUse o nó Extract Video Frame do Weave para extrair quadros que você pode reutilizar como referências para consistência.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] @figmaweave Workflow: https://t.co/9ZyWPpGKB3 https://t.co/hYL1XBGsTX"
+    },
+    "zh": {
+      "content": "在使用Seedance生成场景之前，为每个角色和重复出现的背景元素创建参考图像（例如，使用Midjourney或Nano Banana Pro）。  \n在Figma Weave中，将你的角色/元素参考图像连接到每个场景的Seedance 2 Reference节点（不是常规的Seedance 2节点）。  \n在所有场景中重复使用相同的连接参考，以保持角色和背景元素的一致性。  \n使用Weave的Extract Video Frame节点提取帧，以便可以重复使用这些帧作为参考以保持一致性。\n\n--- 线程继续 ---\n[Thread 1] @figmaweave 工作流程: https://t.co/9ZyWPpGKB3 https://t.co/hYL1XBGsTX"
+    }
+  }
+}

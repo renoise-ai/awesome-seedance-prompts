@@ -1,0 +1,42 @@
+{
+  "id": "2063550694876143921",
+  "title": "参照画像とプロンプトで人物の相対位置（左右）と前後関係（手前/奥）を常に明示して、空間交差時のトークン混線を避ける",
+  "content": "参照画像とプロンプトで人物の相対位置（左右）と前後関係（手前/奥）を常に明示して、空間交差時のトークン混線を避ける  \nシナリオ段階で各人物の立ち位置を言語化してからSeedanceに渡す  \n人物配置の指示は抽象表現を避け、具体的な位置関係の記述にする  \n人物の立ち位置の文章化はOpenAI Codexに任せて精度と安全性を上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063540405443129344/img/s1GZE270qVooK8os.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063550694876143921.mp4",
+  "sourceLink": "https://x.com/CreativeEdge_CL/status/2063550694876143921",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "link": "https://x.com/CreativeEdge_CL"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "参照画像とプロンプトで人物の相対位置（左右）と前後関係（手前/奥）を常に明示して、空間交差時のトークン混線を避ける  \nシナリオ段階で各人物の立ち位置を言語化してからSeedanceに渡す  \n人物配置の指示は抽象表現を避け、具体的な位置関係の記述にする  \n人物の立ち位置の文章化はOpenAI Codexに任せて精度と安全性を上げる",
+  "translations": {
+    "en": {
+      "content": "Always specify the relative position (left/right) and depth (foreground/background) of people using reference images and prompts to avoid token confusion during spatial intersections.  \nVerbalize the position of each person at the scenario stage before passing it to Seedance.  \nAvoid abstract expressions for instructions on positioning people; use descriptions of specific positional relationships.  \nEntrust the verbalization of people's positions to OpenAI Codex to enhance accuracy and safety."
+    },
+    "es": {
+      "content": "---\nIndicar siempre la posición relativa de las personas (izquierda/derecha) y su relación de profundidad (delante/detrás) con la imagen de referencia y el prompt para evitar confusiones de tokens al cruzar espacios.  \nEn la etapa de guion, verbalizar la posición de cada persona antes de pasarla a Seedance.  \nEvitar expresiones abstractas en las instrucciones de ubicación de personas y optar por descripciones concretas de las relaciones espaciales.  \nDejar la verbalización de la posición de las personas a OpenAI Codex para aumentar la precisión y seguridad.  \n---"
+    },
+    "fr": {
+      "content": "---\nIndiquez toujours la position relative des personnages (gauche/droite) et leur relation avant/arrière par rapport à l'image de référence et au prompt pour éviter les interférences de tokens lors des croisements spatiaux.  \nÀ l'étape du scénario, verbalisez la position de chaque personnage avant de la transmettre à Seedance.  \nÉvitez les expressions abstraites pour les instructions de placement des personnages et optez pour une description précise des relations spatiales.  \nConfiez la verbalisation de la position des personnages à OpenAI Codex pour améliorer la précision et la sécurité.  \n---"
+    },
+    "ko": {
+      "content": "참조 이미지와 프롬프트에서 인물의 상대 위치(좌우)와 전후 관계(앞/뒤)를 항상 명시하여, 공간 교차 시 토큰 혼선을 피한다.  \n시나리오 단계에서 각 인물의 위치를 언어화한 후 Seedance에 전달한다.  \n인물 배치의 지시는 추상 표현을 피하고, 구체적인 위치 관계의 서술로 한다.  \n인물의 위치 서술은 OpenAI Codex에 맡겨 정확성과 안전성을 높인다."
+    },
+    "pt": {
+      "content": "---\nIndique sempre a posição relativa das pessoas (esquerda/direita) e a relação de profundidade (frente/trás) usando a imagem de referência e o prompt, para evitar confusão de tokens durante a interseção espacial.  \nNo estágio de roteiro, verbalize a posição de cada pessoa antes de passar para o Seedance.  \nEvite expressões abstratas nas instruções de posicionamento das pessoas, optando por descrições específicas das relações de posição.  \nDeixe a verbalização das posições das pessoas para o OpenAI Codex, para aumentar a precisão e a segurança.  \n---"
+    },
+    "zh": {
+      "content": "---\n在参考图像和prompt中始终明确人物的相对位置（左右）和前后关系（前/后），以避免空间交叉时的token混淆  \n在场景阶段将每个人物的位置语言化后再交给Seedance  \n人物配置的指示避免抽象表达，使用具体的位置关系描述  \n人物位置的文字化交给OpenAI Codex，以提高精度和安全性  \n---"
+    }
+  }
+}

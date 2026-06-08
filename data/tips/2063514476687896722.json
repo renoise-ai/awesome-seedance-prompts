@@ -1,0 +1,42 @@
+{
+  "id": "2063514476687896722",
+  "title": "自作MVスキルで楽曲をマルチモーダル解析し、タイムスタンプを抽出してSeedance 2.0のMV生成パイプラインに流し込む",
+  "content": "自作MVスキルで楽曲をマルチモーダル解析し、タイムスタンプを抽出してSeedance 2.0のMV生成パイプラインに流し込む",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063514373990264832/img/LKZpWzKMNGItSI5Z.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063514476687896722.mp4",
+  "sourceLink": "https://x.com/akiyoshisan/status/2063514476687896722",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "右よし左よし秋よし@AIエンタメ",
+    "link": "https://x.com/akiyoshisan"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "自作MVスキルで楽曲をマルチモーダル解析し、タイムスタンプを抽出してSeedance 2.0のMV生成パイプラインに流し込む",
+  "translations": {
+    "en": {
+      "content": "Using self-made MV skills to perform multimodal analysis on a song, extract timestamps, and feed them into the Seedance 2.0 MV generation pipeline.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Finally, I understood how to use it after registering my own skills. @Flovaai_Japan https://t.co/EWP3WtqAq2\n---"
+    },
+    "es": {
+      "content": "---\nCon habilidades de creación de MV, analiza la canción de manera multimodal, extrae las marcas de tiempo e intégralas en la tubería de generación de MV de Seedance 2.0\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Finalmente, entendí cómo usar las habilidades personalizadas después de registrarlas. @Flovaai_Japan https://t.co/EWP3WtqAq2\n---"
+    },
+    "fr": {
+      "content": "---\nAnalyser une chanson avec des compétences MV auto-créées pour une analyse multimodale, extraire des horodatages et les intégrer dans le pipeline de génération MV de Seedance 2.0\n\n--- SUITE DU FIL ---\n[Fil 1] Enfin, j'ai compris comment utiliser les compétences auto-créées après les avoir enregistrées. @Flovaai_Japan https://t.co/EWP3WtqAq2\n---"
+    },
+    "ko": {
+      "content": "自작 MV 스킬로 곡을 멀티모달 분석하여 타임스탬프를 추출하고 Seedance 2.0의 MV 생성 파이프라인에 입력합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 드디어, 자작 스킬을 등록한 후의 사용법을 이해했습니다. @Flovaai_Japan https://t.co/EWP3WtqAq2\n---"
+    },
+    "pt": {
+      "content": "Com a habilidade de criar seu próprio MV, analise a música de forma multimodal, extraia os timestamps e insira-os no pipeline de geração de MV do Seedance 2.0\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Finalmente, entendi como usar após registrar minha própria habilidade. @Flovaai_Japan https://t.co/EWP3WtqAq2"
+    },
+    "zh": {
+      "content": "---\n使用自制MV技能对歌曲进行多模态分析，提取时间戳并将其输入Seedance 2.0的MV生成管道\n\n--- THREAD CONTINUATION ---\n[Thread 1] 终于明白了注册自制技能后的使用方法。 @Flovaai_Japan https://t.co/EWP3WtqAq2\n---"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2063169607423475978",
+  "title": "街の鳥瞰図をGPT Image2で画像生成し、赤い線（走行ルート）を描き足してからSeedance/Viduで走らせる映像を作る",
+  "content": "街の鳥瞰図をGPT Image2で画像生成し、赤い線（走行ルート）を描き足してからSeedance/Viduで走らせる映像を作る  \n完全再現にこだわらず、生成後は編集で微調整して仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063166865040662528/img/JNyYlfK8cY9MgMAK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063169607423475978.mp4",
+  "sourceLink": "https://x.com/sankakuten91256/status/2063169607423475978",
+  "sourcePublishedAt": "2026-06-06",
+  "author": {
+    "name": "さんかくてん",
+    "link": "https://x.com/sankakuten91256"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "街の鳥瞰図をGPT Image2で画像生成し、赤い線（走行ルート）を描き足してからSeedance/Viduで走らせる映像を作る  \n完全再現にこだわらず、生成後は編集で微調整して仕上げる",
+  "translations": {
+    "en": {
+      "content": "Generate an aerial view of the city using GPT Image2, add a red line (route) to it, and then create a video with Seedance/Vidu.  \nDon't insist on perfect reproduction; make final adjustments through editing after generation."
+    },
+    "es": {
+      "content": "---\nGenerar una imagen de vista aérea de la ciudad con GPT Image2, añadir una línea roja (ruta de recorrido) y luego crear un video en Seedance/Vidu  \nNo te obsesiones con la reproducción exacta, después de generar realiza ajustes de edición para finalizarlo\n---"
+    },
+    "fr": {
+      "content": "---\nGénérez une vue aérienne de la ville avec GPT Image2, ajoutez une ligne rouge (itinéraire de parcours), puis créez une vidéo en utilisant Seedance/Vidu.  \nNe vous attachez pas à une reproduction parfaite, ajustez et finalisez par des modifications après la génération.\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image2로 도시의 조감도를 이미지 생성한 후, 빨간 선(주행 경로)을 추가하여 Seedance/Vidu로 실행하는 영상을 제작합니다.  \n완전한 재현에 집착하지 말고, 생성 후에는 편집으로 미세 조정하여 마무리합니다.\n---"
+    },
+    "pt": {
+      "content": "---\nGerar uma imagem de visão aérea da cidade com o GPT Image2, adicionar uma linha vermelha (rota de percurso) e depois criar um vídeo usando o Seedance/Vidu  \nNão se preocupe com a reprodução exata; após a geração, faça ajustes finos na edição para finalizar\n---"
+    },
+    "zh": {
+      "content": "使用GPT Image2生成街道的鸟瞰图，添加红线（行驶路线），然后在Seedance/Vidu中制作动画。  \n不必追求完全再现，生成后可以通过编辑进行微调以完成作品。"
+    }
+  }
+}

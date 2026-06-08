@@ -1,0 +1,42 @@
+{
+  "id": "2062842460527853995",
+  "title": "背景や光の情報をプロンプトに追加して、空間設定（世界観）を強めて没入感を出す",
+  "content": "背景や光の情報をプロンプトに追加して、空間設定（世界観）を強めて没入感を出す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062842266776137728/img/KvOp9eL0IHN_3Uq0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062842460527853995.mp4",
+  "sourceLink": "https://x.com/moframe2026/status/2062842460527853995",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "moframe | モフレーム",
+    "link": "https://x.com/moframe2026"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "背景や光の情報をプロンプトに追加して、空間設定（世界観）を強めて没入感を出す",
+  "translations": {
+    "en": {
+      "content": "Add background and lighting information to the prompt to enhance the spatial setting (worldview) and create a sense of immersion."
+    },
+    "es": {
+      "content": "Añade información sobre el fondo y la luz al prompt para fortalecer la ambientación (world-building) y aumentar la inmersión."
+    },
+    "fr": {
+      "content": "Ajoutez des informations sur l'arrière-plan et la lumière au prompt pour renforcer le cadre spatial (l'univers) et accroître l'immersion."
+    },
+    "ko": {
+      "content": "배경이나 조명의 정보를 프로ンプ트에 추가하여, 공간 설정(세계관)을 강화하고 몰입감을 높이세요."
+    },
+    "pt": {
+      "content": "Adicione informações de fundo e iluminação ao prompt para fortalecer a configuração do espaço (world-building) e aumentar a imersão."
+    },
+    "zh": {
+      "content": "通过在prompt中添加背景和光线信息，加强空间设置（世界观）以增强沉浸感。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2063395578357158336",
+  "title": "In Seedance 2.0, upload your character and setting images as reference images…",
+  "content": "In Seedance 2.0, upload your character and setting images as reference images before generating the video.  \nStructure your Seedance prompt as a multi-shot script using [cut] between scenes and include character dialogue lines to control actions and speech.  \nUse (@) tags (e.g., (@)Steve, (@)room1) in the prompt to bind actions and scenes to specific reference images.  \nAdd “no music” to the prompt to prevent background music from being generated.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Framer_X/status/2063395578357158336",
+  "sourcePublishedAt": "2026-06-06",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "link": "https://x.com/Framer_X"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "In Seedance 2.0, upload your character and setting images as reference images before generating the video.  \nStructure your Seedance prompt as a multi-shot script using [cut] between scenes and include character dialogue lines to control actions and speech.  \nUse (@) tags (e.g., (@)Steve, (@)room1) in the prompt to bind actions and scenes to specific reference images.  \nAdd “no music” to the prompt to prevent background music from being generated.",
+  "translations": {
+    "es": {
+      "content": "En Seedance 2.0, sube las imágenes de tus personajes y escenarios como imágenes de referencia antes de generar el video.  \nEstructura tu prompt de Seedance como un guion de múltiples tomas usando [cut] entre escenas e incluye líneas de diálogo de los personajes para controlar acciones y discursos.  \nUsa etiquetas (@) (por ejemplo, (@)Steve, (@)room1) en el prompt para vincular acciones y escenas a imágenes de referencia específicas.  \nAñade \"no music\" al prompt para evitar que se genere música de fondo."
+    },
+    "fr": {
+      "content": "---\nDans Seedance 2.0, téléchargez vos images de personnages et de décors comme images de référence avant de générer la vidéo.  \nStructurez votre prompt Seedance comme un script multi-shot en utilisant [cut] entre les scènes et incluez des lignes de dialogue de personnages pour contrôler les actions et les discours.  \nUtilisez des tags (@) (par exemple, (@)Steve, (@)room1) dans le prompt pour lier les actions et les scènes à des images de référence spécifiques.  \nAjoutez \"no music\" au prompt pour éviter que de la musique de fond ne soit générée.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0では、ビデオを生成する前にキャラクターと設定の画像を参照画像としてアップロードします。  \nSeedanceのプロンプトをマルチショットスクリプトとして構成し、シーン間に[cut]を使用し、キャラクターのセリフを含めてアクションとスピーチを制御します。  \nプロンプト内で(@)タグ（例: (@)Steve, (@)room1）を使用して、特定の参照画像にアクションとシーンを結び付けます。  \nバックグラウンドミュージックの生成を防ぐために、プロンプトに「no music」を追加します。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서는 비디오를 생성하기 전에 캐릭터와 설정 이미지를 참조 이미지로 업로드하세요.  \nSeedance 프롬프트를 여러 장면의 스크립트로 구성하고, 장면 사이에는 [cut]을 사용하며, 캐릭터 대사를 포함하여 행동과 말을 제어하세요.  \n프롬프트에서 (@) 태그(예: (@)Steve, (@)room1)를 사용하여 특정 참조 이미지에 행동과 장면을 연결하세요.  \n배경 음악이 생성되지 않도록 하려면 프롬프트에 \"no music\"을 추가하세요.\n---"
+    },
+    "pt": {
+      "content": "---\nNo Seedance 2.0, carregue suas imagens de personagem e cenário como imagens de referência antes de gerar o vídeo.  \nEstruture seu prompt do Seedance como um roteiro de múltiplas cenas usando [cut] entre as cenas e inclua linhas de diálogo dos personagens para controlar ações e falas.  \nUse tags (@) (por exemplo, (@)Steve, (@)room1) no prompt para vincular ações e cenas a imagens de referência específicas.  \nAdicione \"no music\" ao prompt para evitar que música de fundo seja gerada.\n---"
+    },
+    "zh": {
+      "content": "在Seedance 2.0中，上传你的角色和场景图像作为参考图像，然后生成视频。  \n将你的Seedance prompt结构化为多镜头脚本，使用[cut]在场景之间切换，并包含角色对话行以控制动作和语言。  \n在prompt中使用(@)标签（例如，(@)Steve, (@)room1）将动作和场景绑定到特定的参考图像。  \n在prompt中添加“no music”以防止生成背景音乐。"
+    }
+  }
+}

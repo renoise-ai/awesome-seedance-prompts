@@ -1,0 +1,42 @@
+{
+  "id": "2063492821102031049",
+  "title": "When a shot has multiple characters and layered action, generate the background…",
+  "content": "When a shot has multiple characters and layered action, generate the background action as its own clip first, then use that clip as a reference when generating the main shot.\n\nUse the background reference clip to carry dialogue/pacing so Seedance adapts the main shot timing (e.g., match the lead’s walking speed to the conversation length in the reference).\n\nKeep the main-shot prompt focused on foreground action while the reference clip handles background details to avoid overloaded prompts, maintain realism/quality, and preserve consistent architecture across shots.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063488414935293952/img/q9weB18b5mUPIyhl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063492821102031049.mp4",
+  "sourceLink": "https://x.com/HoromaFilms/status/2063492821102031049",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "Horoma Films",
+    "link": "https://x.com/HoromaFilms"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "When a shot has multiple characters and layered action, generate the background action as its own clip first, then use that clip as a reference when generating the main shot.\n\nUse the background reference clip to carry dialogue/pacing so Seedance adapts the main shot timing (e.g., match the lead’s walking speed to the conversation length in the reference).\n\nKeep the main-shot prompt focused on foreground action while the reference clip handles background details to avoid overloaded prompts, maintain realism/quality, and preserve consistent architecture across shots.",
+  "translations": {
+    "es": {
+      "content": "Cuando una toma tiene múltiples personajes y acción en capas, genera primero la acción de fondo como su propio clip, luego usa ese clip como referencia al generar la toma principal.\n\nUsa el clip de referencia de fondo para llevar el diálogo/ritmo para que Seedance adapte el tiempo de la toma principal (por ejemplo, igualar la velocidad de caminar del protagonista con la duración de la conversación en la referencia).\n\nMantén el prompt de la toma principal enfocado en la acción en primer plano mientras el clip de referencia maneja los detalles de fondo para evitar prompts sobrecargados, mantener el realismo/calidad y preservar una arquitectura consistente entre tomas.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Ombak es un cortometraje de 15 minutos hecho con Seedance 2: un thriller psicológico sobrenatural sobre una joven azafata indonesia varada en el mar, basado en el folclore local.\nLo usamos en Cannes el mes pasado como prueba de concepto para avanzar con el largometraje.\nPelícula completa: https://t.co/MqOEDnPXbX"
+    },
+    "fr": {
+      "content": "Lorsque qu'une scène comporte plusieurs personnages et des actions en couches, générez d'abord l'action de fond en tant que clip distinct, puis utilisez ce clip comme référence lors de la génération de la scène principale.\n\nUtilisez le clip de référence de fond pour porter le dialogue/le rythme afin que Seedance adapte le timing de la scène principale (par exemple, faire correspondre la vitesse de marche du protagoniste à la durée de la conversation dans la référence).\n\nGardez le prompt de la scène principale concentré sur l'action au premier plan tandis que le clip de référence gère les détails de fond pour éviter les prompts surchargés, maintenir le réalisme/la qualité et préserver une architecture cohérente entre les scènes.\n\n--- SUITE DU FIL ---\n[Fil 1] Ombak est un court métrage de 15 minutes réalisé avec Seedance 2 : un thriller psychologique surnaturel sur une jeune hôtesse de l'air indonésienne échouée en mer, ancré dans le folklore local. \nNous l'avons utilisé à Cannes le mois dernier comme preuve de concept pour faire avancer le long métrage. \nFilm complet : https://t.co/MqOEDnPXbX"
+    },
+    "ja": {
+      "content": "---\nショットに複数のキャラクターと層状のアクションがある場合、まず背景アクションを独自のクリップとして生成し、そのクリップを参照として使用してメインショットを生成します。\n\n背景参照クリップを使用して、Seedanceがメインショットのタイミングを適応させるように、対話/ペーシングを運びます（例：リードの歩行速度を参照の会話の長さに合わせる）。\n\nメインショットのプロンプトは前景のアクションに焦点を当て、参照クリップが背景の詳細を処理することで、プロンプトの過負荷を避け、リアリズム/品質を維持し、ショット間で一貫した構造を保ちます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] OmbakはSeedance 2を使用して作られた15分の短編映画です。若いインドネシアの客室乗務員が海に取り残される、地元の民間伝承に根ざした超自然的な心理スリラーです。\n先月、カンヌでコンセプトの証明として使用し、長編映画の前進を図りました。\nフルフィルム: https://t.co/MqOEDnPXbX\n---"
+    },
+    "ko": {
+      "content": "---\n촬영 장면에 여러 캐릭터와 복잡한 액션이 포함된 경우, 먼저 배경 액션을 별도의 클립으로 생성한 후, 그 클립을 참조하여 메인 샷을 생성하세요.\n\n배경 참조 클립을 사용하여 대화/속도를 조절하면 Seedance가 메인 샷의 타이밍을 조정합니다 (예: 참조 클립의 대화 길이에 맞춰 주인공의 걷는 속도를 조정).\n\n메인 샷의 프롬프트는 전경 액션에 집중하고, 참조 클립이 배경 세부 사항을 처리하도록 하여 과부하된 프롬프트를 피하고, 현실감/품질을 유지하며, 샷 간 일관된 구조를 보존하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Ombak은 Seedance 2로 제작된 15분짜리 단편 영화로, 바다에 고립된 젊은 인도네시아 승무원의 이야기를 다룬 초자연적 심리 스릴러입니다. 이 영화는 현지 민속에 뿌리를 두고 있습니다. 우리는 지난달 칸에서 이 영화를 개념 증명으로 사용하여 장편 영화로 발전시키기 위한 발판으로 삼았습니다. \n전체 영화: https://t.co/MqOEDnPXbX\n---"
+    },
+    "pt": {
+      "content": "Quando uma cena tem múltiplos personagens e ações em camadas, gere primeiro a ação de fundo como um clipe separado e, em seguida, use esse clipe como referência ao gerar a cena principal.\n\nUse o clipe de referência de fundo para conduzir o diálogo/ritmo para que o Seedance adapte o tempo da cena principal (por exemplo, combine a velocidade de caminhada do protagonista com a duração da conversa na referência).\n\nMantenha o prompt da cena principal focado na ação em primeiro plano, enquanto o clipe de referência lida com os detalhes de fundo para evitar prompts sobrecarregados, manter o realismo/qualidade e preservar a arquitetura consistente entre as cenas.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Ombak é um curta de 15 minutos feito com o Seedance 2: um thriller psicológico sobrenatural sobre uma jovem comissária de bordo indonésia perdida no mar, enraizado no folclore local.\nUsamos no mês passado em Cannes como prova de conceito para avançar com o longa-metragem.\nFilme completo: https://t.co/MqOEDnPXbX"
+    },
+    "zh": {
+      "content": "当一个镜头中有多个角色和层次分明的动作时，首先生成背景动作作为一个独立的剪辑，然后在生成主镜头时使用该剪辑作为参考。\n\n使用背景参考剪辑来承载对话/节奏，以便Seedance调整主镜头的时间（例如，将主角的步行速度与参考中的对话长度相匹配）。\n\n保持主镜头的prompt专注于前景动作，而参考剪辑处理背景细节，以避免过载的prompt，保持现实主义/质量，并在镜头之间保持一致的结构。\n\n--- 线程继续 ---\n[线程1] Ombak是一部用Seedance 2制作的15分钟短片：一部关于一名年轻的印尼空姐被困海上的超自然心理惊悚片，根植于当地民间传说。 \n我们上个月在戛纳将其用作概念验证，以推动长片的进展。\n完整影片：https://t.co/MqOEDnPXbX"
+    }
+  }
+}

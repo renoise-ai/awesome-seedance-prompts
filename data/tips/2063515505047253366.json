@@ -1,0 +1,41 @@
+{
+  "id": "2063515505047253366",
+  "title": "Avoid using the storyboard feature in Seedance V2 because it doesn’t follow…",
+  "content": "Avoid using the storyboard feature in Seedance V2 because it doesn’t follow storyboards well and can waste credits.  \nUse a character sheet plus a text prompt instead of a storyboard to get better results in Seedance V2.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/IamEmily2050/status/2063515505047253366",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "Emily",
+    "link": "https://x.com/IamEmily2050"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Avoid using the storyboard feature in Seedance V2 because it doesn’t follow storyboards well and can waste credits.  \nUse a character sheet plus a text prompt instead of a storyboard to get better results in Seedance V2.",
+  "translations": {
+    "es": {
+      "content": "Evita usar la función de storyboard en Seedance V2 porque no sigue bien los storyboards y puede desperdiciar créditos.  \nUsa una hoja de personajes más un text prompt en lugar de un storyboard para obtener mejores resultados en Seedance V2."
+    },
+    "fr": {
+      "content": "Évitez d'utiliser la fonctionnalité de storyboard dans Seedance V2 car elle ne suit pas bien les storyboards et peut gaspiller des crédits.  \nUtilisez une fiche de personnage ainsi qu'un prompt textuel au lieu d'un storyboard pour obtenir de meilleurs résultats dans Seedance V2."
+    },
+    "ja": {
+      "content": "Seedance V2ではストーリーボード機能を使用しないでください。ストーリーボードにうまく従わず、クレジットを無駄にする可能性があります。  \nSeedance V2でより良い結果を得るためには、ストーリーボードの代わりにキャラクターシートとテキストプロンプトを使用してください。"
+    },
+    "ko": {
+      "content": "Seedance V2에서는 스토리보드 기능을 사용하지 않는 것이 좋습니다. 스토리보드를 잘 따르지 않으며 크레딧을 낭비할 수 있습니다.  \n스토리보드 대신 캐릭터 시트와 텍스트 prompt를 사용하여 Seedance V2에서 더 나은 결과를 얻으세요."
+    },
+    "pt": {
+      "content": "Evite usar o recurso de storyboard no Seedance V2, pois ele não segue bem os storyboards e pode desperdiçar créditos.  \nUse uma ficha de personagem junto com um prompt de texto em vez de um storyboard para obter melhores resultados no Seedance V2."
+    },
+    "zh": {
+      "content": "在使用Seedance V2时，避免使用分镜功能，因为它不能很好地遵循分镜，并可能浪费积分。  \n使用角色表加上文本prompt代替分镜，以在Seedance V2中获得更好的效果。"
+    }
+  }
+}

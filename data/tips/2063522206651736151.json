@@ -1,0 +1,42 @@
+{
+  "id": "2063522206651736151",
+  "title": "実写参照のバトル系はプロンプトの書き方を調整して通りやすくする（通らない場合は表現を変えて再試行する）",
+  "content": "実写参照のバトル系はプロンプトの書き方を調整して通りやすくする（通らない場合は表現を変えて再試行する）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063522021720702976/img/30LjHIHCbdXSszee.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063522206651736151.mp4",
+  "sourceLink": "https://x.com/daichan_Std/status/2063522206651736151",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "だいちゃん",
+    "link": "https://x.com/daichan_Std"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "実写参照のバトル系はプロンプトの書き方を調整して通りやすくする（通らない場合は表現を変えて再試行する）",
+  "translations": {
+    "en": {
+      "content": "For battle scenes based on live-action references, adjust the prompt wording to make it more acceptable (if it doesn't work, change the expression and try again)."
+    },
+    "es": {
+      "content": "Para las referencias de batallas de acción en vivo, ajusta la redacción del prompt para que sea más aceptable (si no es aceptado, cambia la expresión y vuelve a intentarlo)."
+    },
+    "fr": {
+      "content": "Pour les références de batailles en prise de vue réelle, ajustez la rédaction du prompt pour qu'il soit plus facilement accepté (si cela ne passe pas, modifiez l'expression et réessayez)."
+    },
+    "ko": {
+      "content": "실사 참조의 배틀 계열은 prompt의 작성 방식을 조정하여 통과하기 쉽게 한다 (통과하지 않을 경우 표현을 바꿔서 재시도한다)"
+    },
+    "pt": {
+      "content": "Para referências de batalhas em live-action, ajuste a forma de escrever o prompt para facilitar a aprovação (se não for aprovado, altere a expressão e tente novamente)."
+    },
+    "zh": {
+      "content": "实拍参考的战斗系需要调整prompt的写法以提高通过率（如果不通过，则改变表达方式再试一次）"
+    }
+  }
+}

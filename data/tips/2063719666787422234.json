@@ -1,0 +1,43 @@
+{
+  "id": "2063719666787422234",
+  "title": "Upload a video into Seedance as the base clip to clone.",
+  "content": "Upload a video into Seedance as the base clip to clone.  \nUpload a reference image of the character you want to insert/replace into the video.  \nIn Seedance 2.0, prompt in plain English to replace the character in the uploaded video with the character from the reference image (no special secret prompt needed).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063719453796564992/img/1vw9UJ2yUjiQ3n1a.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063719666787422234.mp4",
+  "sourceLink": "https://x.com/whotanish/status/2063719666787422234",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "whotanish",
+    "link": "https://x.com/whotanish"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Upload a video into Seedance as the base clip to clone.  \nUpload a reference image of the character you want to insert/replace into the video.  \nIn Seedance 2.0, prompt in plain English to replace the character in the uploaded video with the character from the reference image (no special secret prompt needed).",
+  "translations": {
+    "es": {
+      "content": "Sube un video a Seedance como el clip base para clonar.  \nSube una imagen de referencia del personaje que deseas insertar/reemplazar en el video.  \nEn Seedance 2.0, utiliza un prompt en inglés sencillo para reemplazar el personaje en el video subido con el personaje de la imagen de referencia (no se necesita un prompt especial o secreto)."
+    },
+    "fr": {
+      "content": "Téléchargez une vidéo dans Seedance comme clip de base à cloner.  \nTéléchargez une image de référence du personnage que vous souhaitez insérer/remplacer dans la vidéo.  \nDans Seedance 2.0, utilisez un prompt en anglais simple pour remplacer le personnage dans la vidéo téléchargée par le personnage de l'image de référence (aucun prompt secret spécial n'est nécessaire)."
+    },
+    "ja": {
+      "content": "Seedanceにクローンするベースクリップとしてビデオをアップロードします。  \nビデオに挿入/置換したいキャラクターの参照画像をアップロードします。  \nSeedance 2.0では、アップロードしたビデオのキャラクターを参照画像のキャラクターに置き換えるために、特別なシークレットプロンプトは必要なく、シンプルな英語でプロンプトを入力します。"
+    },
+    "ko": {
+      "content": "Seedance에 복제할 기본 클립으로 비디오를 업로드하세요.  \n비디오에 삽입/교체할 캐릭터의 참고 이미지를 업로드하세요.  \nSeedance 2.0에서 업로드한 비디오의 캐릭터를 참고 이미지의 캐릭터로 교체하려면 간단한 영어로 프롬프트를 입력하세요 (특별한 비밀 프롬프트는 필요하지 않습니다)."
+    },
+    "pt": {
+      "content": "Carregue um vídeo no Seedance como o clipe base para clonar.  \nCarregue uma imagem de referência do personagem que você deseja inserir/substituir no vídeo.  \nNo Seedance 2.0, use um prompt em inglês simples para substituir o personagem no vídeo carregado pelo personagem da imagem de referência (não é necessário um prompt secreto especial)."
+    },
+    "zh": {
+      "content": "将视频上传到Seedance作为要克隆的基础剪辑。  \n上传你想在视频中插入/替换的角色的参考图像。  \n在Seedance 2.0中，用简单的英语提示将上传视频中的角色替换为参考图像中的角色（不需要特殊的秘密提示）。"
+    }
+  }
+}

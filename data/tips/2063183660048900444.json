@@ -1,0 +1,43 @@
+{
+  "id": "2063183660048900444",
+  "title": "Use a custom GPTs to generate an image board (イメージボード) and paste it into…",
+  "content": "Use a custom GPTs to generate an image board (イメージボード) and paste it into Seedance to quickly create multiple short videos, even with rough instructions.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063182815123099648/img/FrZ9hP9MigtdCWcs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063183660048900444.mp4",
+  "sourceLink": "https://x.com/matabee_GTO/status/2063183660048900444",
+  "sourcePublishedAt": "2026-06-06",
+  "author": {
+    "name": "またべえ＠AI副業アニメクリエイター",
+    "link": "https://x.com/matabee_GTO"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Use a custom GPTs to generate an image board (イメージボード) and paste it into Seedance to quickly create multiple short videos, even with rough instructions.",
+  "translations": {
+    "en": {
+      "content": "Use a custom GPTs to generate an image board (イメージボード) and paste it into Seedance to quickly create multiple short videos, even with rough instructions."
+    },
+    "es": {
+      "content": "Utiliza GPTs personalizados para generar un image board (イメージボード) y pégalo en Seedance para crear rápidamente múltiples videos cortos, incluso con instrucciones básicas."
+    },
+    "fr": {
+      "content": "Utilisez des GPTs personnalisés pour générer un image board (イメージボード) et collez-le dans Seedance pour créer rapidement plusieurs courtes vidéos, même avec des instructions sommaires."
+    },
+    "ko": {
+      "content": "커스텀 GPTs를 사용하여 이미지 보드 (イメージボード)를 생성하고 Seedance에 붙여 넣어, 대략적인 지시사항만으로도 여러 개의 짧은 비디오를 빠르게 제작하세요."
+    },
+    "pt": {
+      "content": "Use um GPTs personalizado para gerar um image board (イメージボード) e colá-lo no Seedance para criar rapidamente vários vídeos curtos, mesmo com instruções básicas."
+    },
+    "zh": {
+      "content": "使用自定义GPTs生成一个イメージボード，并将其粘贴到Seedance中，即使是粗略的指令也能快速创建多个短视频。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2063627334268182697",
+  "title": "Draw your desired camera movement path directly on the input image to tightly…",
+  "content": "Draw your desired camera movement path directly on the input image to tightly control camera motion in Seedance 2.  \nUse a one-chat workflow in Glif: generate the scene image (with any image model) → draw the camera movement on the image → run Seedance 2 via the agent.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063626420757176320/img/NCaSOmlmiLkWR_y1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063627334268182697.mp4",
+  "sourceLink": "https://x.com/heyglif/status/2063627334268182697",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "GLIF",
+    "link": "https://x.com/heyglif"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Draw your desired camera movement path directly on the input image to tightly control camera motion in Seedance 2.  \nUse a one-chat workflow in Glif: generate the scene image (with any image model) → draw the camera movement on the image → run Seedance 2 via the agent.",
+  "translations": {
+    "es": {
+      "content": "Dibuja la trayectoria de movimiento de cámara deseada directamente en la imagen de entrada para controlar con precisión el movimiento de cámara en Seedance 2.  \nUsa un flujo de trabajo de un solo chat en Glif: genera la imagen de la escena (con cualquier modelo de imagen) → dibuja el movimiento de cámara en la imagen → ejecuta Seedance 2 a través del agente.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] creemos que el truco original fue descubierto por @AIWarper - ¡así que felicitaciones a ellos!"
+    },
+    "fr": {
+      "content": "Dessinez le chemin de mouvement de la caméra souhaité directement sur l'image d'entrée pour contrôler précisément le mouvement de la caméra dans Seedance 2.  \nUtilisez un flux de travail en une seule conversation dans Glif : générez l'image de la scène (avec n'importe quel modèle d'image) → dessinez le mouvement de la caméra sur l'image → exécutez Seedance 2 via l'agent.\n\n--- SUITE DU FIL ---\n[Fil 1] nous pensons que le hack original a été découvert par @AIWarper - donc bravo à eux !"
+    },
+    "ja": {
+      "content": "---\nSeedance 2でカメラの動きを厳密に制御するために、入力画像に直接カメラの移動経路を描いてください。  \nGlifのワンチャットワークフローを使用します：シーン画像を生成（任意の画像モデルで）→画像にカメラの動きを描く→エージェントを介してSeedance 2を実行。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 元のハックは@AIWarperによって発見されたと信じています - 彼らに感謝します！\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2에서 카메라 움직임을 정확하게 제어하려면 입력 이미지에 원하는 카메라 이동 경로를 직접 그리세요.  \nGlif의 원채팅 워크플로우를 사용하세요: 장면 이미지를 생성하세요 (어떤 이미지 모델이든 사용 가능) → 이미지에 카메라 움직임을 그리세요 → 에이전트를 통해 Seedance 2를 실행하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 우리는 원래의 해킹이 @AIWarper에 의해 발견되었다고 믿습니다 - 그들에게 찬사를 보냅니다!\n---"
+    },
+    "pt": {
+      "content": "Desenhe o caminho de movimento desejado da câmera diretamente na imagem de entrada para controlar rigorosamente o movimento da câmera no Seedance 2.  \nUse um fluxo de trabalho de um chat no Glif: gere a imagem da cena (com qualquer modelo de imagem) → desenhe o movimento da câmera na imagem → execute o Seedance 2 via o agente.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] acreditamos que o hack original foi descoberto por @AIWarper - então, parabéns a eles!"
+    },
+    "zh": {
+      "content": "---\n在输入图像上直接绘制您想要的摄像机移动路径，以在Seedance 2中严格控制摄像机运动。  \n在Glif中使用单一聊天工作流程：生成场景图像（使用任何图像模型）→ 在图像上绘制摄像机移动 → 通过代理运行Seedance 2。\n\n--- 线程继续 ---\n[线程1] 我们相信最初的破解是由@AIWarper发现的 - 向他们致敬！\n---"
+    }
+  }
+}

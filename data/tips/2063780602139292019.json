@@ -1,0 +1,43 @@
+{
+  "id": "2063780602139292019",
+  "title": "Generate one storyboard image that maps the entire ad (all shots, angles, and…",
+  "content": "Generate one storyboard image that maps the entire ad (all shots, angles, and beats) before generating any video.  \nLock the creator, product, lighting, and overall look into that single storyboard image to prevent shot-to-shot drift.  \nFeed each storyboard panel into Seedance 2.0 as the reference image to keep the same face/product/world across clips.  \nStitch the resulting Seedance clips together to form one consistent multi-shot video ad.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063780550603845633/img/9p9VsOpqkhkHkw-N.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063780602139292019.mp4",
+  "sourceLink": "https://x.com/mikefutia/status/2063780602139292019",
+  "sourcePublishedAt": "2026-06-08",
+  "author": {
+    "name": "Mike Futia",
+    "link": "https://x.com/mikefutia"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Generate one storyboard image that maps the entire ad (all shots, angles, and beats) before generating any video.  \nLock the creator, product, lighting, and overall look into that single storyboard image to prevent shot-to-shot drift.  \nFeed each storyboard panel into Seedance 2.0 as the reference image to keep the same face/product/world across clips.  \nStitch the resulting Seedance clips together to form one consistent multi-shot video ad.",
+  "translations": {
+    "es": {
+      "content": "Genera una imagen de storyboard que mapee todo el anuncio (todas las tomas, ángulos y ritmos) antes de generar cualquier video.  \nBloquea al creador, producto, iluminación y apariencia general en esa única imagen de storyboard para evitar variaciones entre tomas.  \nIntroduce cada panel del storyboard en Seedance 2.0 como la imagen de referencia para mantener el mismo rostro/producto/mundo a lo largo de los clips.  \nUne los clips resultantes de Seedance para formar un anuncio en video consistente con múltiples tomas."
+    },
+    "fr": {
+      "content": "---\nGénérez une image de storyboard qui cartographie l'ensemble de la publicité (tous les plans, angles et rythmes) avant de générer une vidéo.  \nVerrouillez le créateur, le produit, l'éclairage et l'apparence générale dans cette seule image de storyboard pour éviter les dérives d'un plan à l'autre.  \nAlimentez chaque panneau du storyboard dans Seedance 2.0 comme image de référence pour conserver le même visage/produit/monde à travers les clips.  \nAssemblez les clips Seedance résultants pour former une publicité vidéo multi-plans cohérente."
+    },
+    "ja": {
+      "content": "---  \nビデオを生成する前に、広告全体（すべてのショット、アングル、ビート）をマッピングするストーリーボード画像を1枚生成します。  \nクリエイター、製品、照明、全体の外観をその単一のストーリーボード画像に固定し、ショット間のドリフトを防ぎます。  \n各ストーリーボードパネルをSeedance 2.0に参照画像として入力し、クリップ間で同じ顔/製品/世界を維持します。  \n結果として得られるSeedanceクリップをつなぎ合わせて、一貫したマルチショットのビデオ広告を形成します。  \n---"
+    },
+    "ko": {
+      "content": "---\n비디오를 생성하기 전에 광고 전체를 맵핑하는 하나의 스토리보드 이미지를 생성하세요 (모든 샷, 각도, 비트 포함).  \n크리에이터, 제품, 조명, 전체적인 룩을 단일 스토리보드 이미지에 고정하여 샷 간의 드리프트를 방지하세요.  \n각 스토리보드 패널을 Seedance 2.0에 참조 이미지로 입력하여 클립 전반에 걸쳐 동일한 얼굴/제품/세계를 유지하세요.  \n결과로 나온 Seedance 클립을 연결하여 일관된 멀티 샷 비디오 광고를 만드세요.\n---"
+    },
+    "pt": {
+      "content": "---\nGere uma imagem de storyboard que mapeie todo o anúncio (todos os planos, ângulos e batidas) antes de gerar qualquer vídeo.  \nFixe o criador, produto, iluminação e aparência geral nessa única imagem de storyboard para evitar variações de plano a plano.  \nAlimente cada painel do storyboard no Seedance 2.0 como a imagem de referência para manter o mesmo rosto/produto/mundo em todos os clipes.  \nCosture os clipes resultantes do Seedance para formar um único anúncio em vídeo consistente com múltiplos planos.\n---"
+    },
+    "zh": {
+      "content": "在生成任何视频之前，先生成一个故事板图像，映射整个广告（所有镜头、角度和节奏）。  \n将创作者、产品、灯光和整体外观锁定在单个故事板图像中，以防止镜头之间的偏差。  \n将每个故事板面板输入Seedance 2.0作为参考图像，以保持在各个片段中相同的面孔/产品/世界。  \n将生成的Seedance片段拼接在一起，形成一个一致的多镜头视频广告。"
+    }
+  }
+}

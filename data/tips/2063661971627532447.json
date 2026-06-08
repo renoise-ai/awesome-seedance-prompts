@@ -1,0 +1,41 @@
+{
+  "id": "2063661971627532447",
+  "title": "Specify duration and continuity explicitly (e.g., 15-second continuous…",
+  "content": "Specify duration and continuity explicitly (e.g., 15-second continuous single-shot; no cuts; no scene transitions) to enforce an unbroken take in Seedance 2.0.  \nStructure the prompt with timestamped beats (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) to control pacing and choreography across the clip.  \nDefine camera movement per beat (rush low across battlefield, follow shockwave, rise with jump, circle fighters, slow motion impact) to guide cinematic motion.  \nInclude a dedicated Sound design section with concrete SFX and constraints (e.g., wind, snow crunch, armor, impacts; no music; no dialogue) to steer audio generation.  \nUse a negative prompt that bans common failure modes and unwanted elements (no camera cuts, no dialogue/text/subtitles, no low-quality motion, no distorted anatomy, no duplicated limbs, no AI artifacts, no floating characters).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2063661971627532447",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify duration and continuity explicitly (e.g., 15-second continuous single-shot; no cuts; no scene transitions) to enforce an unbroken take in Seedance 2.0.  \nStructure the prompt with timestamped beats (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) to control pacing and choreography across the clip.  \nDefine camera movement per beat (rush low across battlefield, follow shockwave, rise with jump, circle fighters, slow motion impact) to guide cinematic motion.  \nInclude a dedicated Sound design section with concrete SFX and constraints (e.g., wind, snow crunch, armor, impacts; no music; no dialogue) to steer audio generation.  \nUse a negative prompt that bans common failure modes and unwanted elements (no camera cuts, no dialogue/text/subtitles, no low-quality motion, no distorted anatomy, no duplicated limbs, no AI artifacts, no floating characters).",
+  "translations": {
+    "es": {
+      "content": "Especifica la duración y continuidad explícitamente (por ejemplo, toma continua de 15 segundos; sin cortes; sin transiciones de escena) para asegurar una toma ininterrumpida en Seedance 2.0.  \nEstructura el prompt con ritmos marcados por tiempo (por ejemplo, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) para controlar el ritmo y la coreografía a lo largo del clip.  \nDefine el movimiento de cámara por cada ritmo (deslizarse bajo a través del campo de batalla, seguir la onda de choque, elevarse con el salto, rodear a los luchadores, impacto en cámara lenta) para guiar el movimiento cinematográfico.  \nIncluye una sección dedicada al diseño de sonido con efectos de sonido concretos y restricciones (por ejemplo, viento, crujido de nieve, armadura, impactos; sin música; sin diálogo) para dirigir la generación de audio.  \nUsa un prompt negativo que prohíba modos de falla comunes y elementos no deseados (sin cortes de cámara, sin diálogo/texto/subtítulos, sin movimiento de baja calidad, sin anatomía distorsionada, sin extremidades duplicadas, sin artefactos de IA, sin personajes flotantes)."
+    },
+    "fr": {
+      "content": "Spécifiez la durée et la continuité de manière explicite (par exemple, plan-séquence continu de 15 secondes ; pas de coupures ; pas de transitions de scène) pour imposer une prise continue dans Seedance 2.0.  \nStructurez le prompt avec des temps forts horodatés (par exemple, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) pour contrôler le rythme et la chorégraphie tout au long du clip.  \nDéfinissez le mouvement de la caméra par temps fort (se précipiter bas à travers le champ de bataille, suivre l'onde de choc, monter avec le saut, encercler les combattants, impact au ralenti) pour guider le mouvement cinématographique.  \nIncluez une section dédiée au design sonore avec des effets sonores concrets et des contraintes (par exemple, vent, craquement de neige, armure, impacts ; pas de musique ; pas de dialogue) pour orienter la génération audio.  \nUtilisez un prompt négatif qui interdit les modes d'échec courants et les éléments indésirables (pas de coupures de caméra, pas de dialogue/texte/sous-titres, pas de mouvement de mauvaise qualité, pas d'anatomie déformée, pas de membres dupliqués, pas d'artefacts IA, pas de personnages flottants)."
+    },
+    "ja": {
+      "content": "Seedance 2.0で途切れのないテイクを実現するために、明確に持続時間と連続性を指定します（例：15秒の連続ワンショット；カットなし；シーン遷移なし）。  \nクリップ全体のペースと振り付けを制御するために、タイムスタンプ付きのビートでプロンプトを構成します（例：0–3秒、3–6秒、6–9秒、9–12秒、12–15秒）。  \n各ビートごとにカメラの動きを定義します（戦場を低く急いで横切る、衝撃波を追う、ジャンプと共に上昇、戦闘員を円を描いて回る、スローモーションのインパクト）ことで、シネマティックな動きを導きます。  \n具体的なSFXと制約を含む専用のサウンドデザインセクションを含めます（例：風、雪のきしみ、鎧、衝撃；音楽なし；対話なし）ことで、オーディオ生成を導きます。  \n一般的な失敗モードや不要な要素を禁止するネガティブプロンプトを使用します（カメラカットなし、対話/テキスト/字幕なし、低品質の動きなし、歪んだ解剖学なし、重複した手足なし、AIアーティファクトなし、浮遊キャラクターなし）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 끊김 없는 촬영을 위해 명시적으로 지속 시간과 연속성을 지정하세요 (예: 15초 연속 단일 샷; 컷 없음; 장면 전환 없음).  \n클립 전반의 속도와 안무를 제어하기 위해 타임스탬프가 있는 비트로 프롬프트를 구성하세요 (예: 0–3초, 3–6초, 6–9초, 9–12초, 12–15초).  \n각 비트마다 카메라 움직임을 정의하세요 (전장 저공 돌진, 충격파 추적, 점프와 함께 상승, 전투원 주위를 원형으로 돌기, 슬로 모션 충격)하여 영화적 움직임을 안내하세요.  \n구체적인 SFX와 제약 조건이 포함된 전용 사운드 디자인 섹션을 포함하여 오디오 생성 방향을 설정하세요 (예: 바람, 눈 밟는 소리, 갑옷, 충격; 음악 없음; 대화 없음).  \n일반적인 실패 모드와 원치 않는 요소를 금지하는 부정적 프롬프트를 사용하세요 (카메라 컷 없음, 대화/텍스트/자막 없음, 저품질 움직임 없음, 왜곡된 해부학 없음, 중복된 팔다리 없음, AI 아티팩트 없음, 떠 있는 캐릭터 없음)."
+    },
+    "pt": {
+      "content": "Especifique a duração e a continuidade explicitamente (por exemplo, tomada única contínua de 15 segundos; sem cortes; sem transições de cena) para garantir uma tomada ininterrupta no Seedance 2.0.  \nEstruture o prompt com batidas cronometradas (por exemplo, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) para controlar o ritmo e a coreografia ao longo do clipe.  \nDefina o movimento da câmera por batida (corrida baixa pelo campo de batalha, seguir a onda de choque, subir com o salto, circular os lutadores, impacto em câmera lenta) para guiar o movimento cinematográfico.  \nInclua uma seção dedicada ao Design de Som com efeitos sonoros concretos e restrições (por exemplo, vento, rangido de neve, armadura, impactos; sem música; sem diálogo) para direcionar a geração de áudio.  \nUse um prompt negativo que proíba modos de falha comuns e elementos indesejados (sem cortes de câmera, sem diálogo/texto/legendas, sem movimento de baixa qualidade, sem anatomia distorcida, sem membros duplicados, sem artefatos de IA, sem personagens flutuantes)."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中明确指定时长和连续性（例如，15秒连续单镜头；无剪辑；无场景转换）以实现不间断拍摄。  \n用时间戳节拍结构化prompt（例如，0–3秒，3–6秒，6–9秒，9–12秒，12–15秒）以控制剪辑中的节奏和编排。  \n为每个节拍定义相机运动（低速穿越战场，跟随冲击波，随跳跃上升，环绕战斗者，慢动作冲击）以指导电影化运动。  \n包括一个专门的声音设计部分，提供具体的音效和限制条件（例如，风声、雪地踩踏声、盔甲碰撞声、冲击声；无音乐；无对话）以引导音频生成。  \n使用负面prompt禁止常见的失败模式和不需要的元素（无相机剪辑，无对话/文字/字幕，无低质量运动，无扭曲的解剖结构，无重复的肢体，无AI伪影，无漂浮角色）。"
+    }
+  }
+}

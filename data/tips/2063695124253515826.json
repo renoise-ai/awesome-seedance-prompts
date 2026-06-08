@@ -1,0 +1,42 @@
+{
+  "id": "2063695124253515826",
+  "title": "Draw a motion path directly on a still image (e.g., a line from the subject…",
+  "content": "Draw a motion path directly on a still image (e.g., a line from the subject through obstacles to the target) and use Seedance 2.0’s path-following feature to animate the action so the subject follows that exact drawn trajectory.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063694789225119745/img/ajkvuZiqDsovAksG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063695124253515826.mp4",
+  "sourceLink": "https://x.com/kircastudio/status/2063695124253515826",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "Yigit Kirca",
+    "link": "https://x.com/kircastudio"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Draw a motion path directly on a still image (e.g., a line from the subject through obstacles to the target) and use Seedance 2.0’s path-following feature to animate the action so the subject follows that exact drawn trajectory.",
+  "translations": {
+    "es": {
+      "content": "Dibuja una trayectoria de movimiento directamente sobre una imagen estática (por ejemplo, una línea desde el sujeto a través de obstáculos hasta el objetivo) y utiliza la función de seguimiento de trayectoria de Seedance 2.0 para animar la acción de manera que el sujeto siga exactamente esa trayectoria dibujada."
+    },
+    "fr": {
+      "content": "Dessinez un chemin de mouvement directement sur une image fixe (par exemple, une ligne allant du sujet à travers des obstacles jusqu'à la cible) et utilisez la fonction de suivi de trajectoire de Seedance 2.0 pour animer l'action afin que le sujet suive exactement cette trajectoire dessinée."
+    },
+    "ja": {
+      "content": "静止画像に直接動きのパスを描きます（例：被写体から障害物を通ってターゲットまでの線）。そして、Seedance 2.0のパスフォロー機能を使用して、その描かれた軌跡に沿って被写体が正確に動くようにアニメーション化します。"
+    },
+    "ko": {
+      "content": "정지 이미지 위에 직접 움직임 경로를 그리세요 (예: 피사체에서 장애물을 지나 목표까지의 선) 그리고 Seedance 2.0의 경로 추적 기능을 사용하여 피사체가 그 정확한 경로를 따라 움직이도록 애니메이션화하세요."
+    },
+    "pt": {
+      "content": "Desenhe um caminho de movimento diretamente em uma imagem estática (por exemplo, uma linha do sujeito através de obstáculos até o alvo) e use o recurso de acompanhamento de caminho do Seedance 2.0 para animar a ação, fazendo com que o sujeito siga exatamente a trajetória desenhada."
+    },
+    "zh": {
+      "content": "在静止图像上直接绘制运动路径（例如，从主体通过障碍物到目标的线），并使用Seedance 2.0的路径跟随功能来动画化动作，使主体沿着所绘制的轨迹精确移动。"
+    }
+  }
+}

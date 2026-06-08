@@ -1,0 +1,42 @@
+{
+  "id": "2063669318689161364",
+  "title": "Upload both the source video and a character image into Seedance 2 Omni-mode to…",
+  "content": "Upload both the source video and a character image into Seedance 2 Omni-mode to enable character replacement.  \nUse a prompt like Change the blue character in the video to X (your character) to swap the character in the video, then generate.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Framer_X/status/2063669318689161364",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "link": "https://x.com/Framer_X"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Upload both the source video and a character image into Seedance 2 Omni-mode to enable character replacement.  \nUse a prompt like Change the blue character in the video to X (your character) to swap the character in the video, then generate.",
+  "translations": {
+    "es": {
+      "content": "Sube tanto el video original como una imagen del personaje en Seedance 2 Omni-mode para habilitar el reemplazo de personajes.  \nUsa un prompt como Change the blue character in the video to X (your character) para intercambiar el personaje en el video, luego genera."
+    },
+    "fr": {
+      "content": "Téléchargez à la fois la vidéo source et une image de personnage dans Seedance 2 en mode Omni pour activer le remplacement de personnage.  \nUtilisez un prompt tel que Change the blue character in the video to X (your character) pour échanger le personnage dans la vidéo, puis générez."
+    },
+    "ja": {
+      "content": "ソースビデオとキャラクター画像の両方をSeedance 2 Omni-modeにアップロードして、キャラクターの置き換えを可能にします。  \nビデオ内の青いキャラクターをX（あなたのキャラクター）に変更するようなプロンプトを使用してキャラクターを交換し、その後生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2 Omni-mode에 원본 비디오와 캐릭터 이미지를 업로드하여 캐릭터 교체를 활성화하세요.  \n비디오의 파란색 캐릭터를 X(당신의 캐릭터)로 변경하는 것과 같은 prompt를 사용하여 비디오의 캐릭터를 교체한 후 생성하세요."
+    },
+    "pt": {
+      "content": "Carregue tanto o vídeo original quanto uma imagem do personagem no Seedance 2 Omni-mode para habilitar a substituição de personagens.  \nUse um prompt como Change the blue character in the video to X (your character) para trocar o personagem no vídeo, depois gere."
+    },
+    "zh": {
+      "content": "将源视频和角色图像上传到Seedance 2全能模式以启用角色替换。  \n使用类似于Change the blue character in the video to X (your character)的prompt来替换视频中的角色，然后生成。"
+    }
+  }
+}

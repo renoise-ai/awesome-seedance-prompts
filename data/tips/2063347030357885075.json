@@ -1,0 +1,43 @@
+{
+  "id": "2063347030357885075",
+  "title": "Specify duration and continuity explicitly (e.g., 15-second continuous…",
+  "content": "Specify duration and continuity explicitly (e.g., 15-second continuous single-shot; no cuts; no scene transitions) to enforce an unbroken take in Seedance 2.0.  \nStructure the prompt as a timed beat sheet (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) describing camera moves and scene evolution to guide pacing and progression.  \nInclude explicit camera direction per segment (e.g., slow push-in, follow beneath the board, swing around on descent, race alongside on landing) to control cinematography.  \nDefine a clear transformation arc (minimalist white line art on dark background gradually becoming a fully realized cinematic city and character) to drive coherent visual evolution.  \nAdd a dedicated sound design block with specific SFX and constraints (e.g., wheels rattling, wind, city ambience; no music; no dialogue) to control audio output.  \nUse a negative prompt to prevent common failures and enforce continuity (no falls/crashes, no broken anatomy/extra limbs, no duplicated skateboard, no floating objects, no text/logos/subtitles, no camera cuts, no low-quality motion artifacts).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2063347030357885075",
+  "sourcePublishedAt": "2026-06-06",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation",
+    "POV"
+  ],
+  "tips": "Specify duration and continuity explicitly (e.g., 15-second continuous single-shot; no cuts; no scene transitions) to enforce an unbroken take in Seedance 2.0.  \nStructure the prompt as a timed beat sheet (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) describing camera moves and scene evolution to guide pacing and progression.  \nInclude explicit camera direction per segment (e.g., slow push-in, follow beneath the board, swing around on descent, race alongside on landing) to control cinematography.  \nDefine a clear transformation arc (minimalist white line art on dark background gradually becoming a fully realized cinematic city and character) to drive coherent visual evolution.  \nAdd a dedicated sound design block with specific SFX and constraints (e.g., wheels rattling, wind, city ambience; no music; no dialogue) to control audio output.  \nUse a negative prompt to prevent common failures and enforce continuity (no falls/crashes, no broken anatomy/extra limbs, no duplicated skateboard, no floating objects, no text/logos/subtitles, no camera cuts, no low-quality motion artifacts).",
+  "translations": {
+    "es": {
+      "content": "Especifica la duración y continuidad explícitamente (por ejemplo, toma continua de 15 segundos; sin cortes; sin transiciones de escena) para asegurar una toma ininterrumpida en Seedance 2.0.  \nEstructura el prompt como una hoja de ritmo cronometrada (por ejemplo, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) describiendo los movimientos de cámara y la evolución de la escena para guiar el ritmo y la progresión.  \nIncluye dirección de cámara explícita por segmento (por ejemplo, acercamiento lento, seguir debajo de la tabla, girar al descender, correr al lado al aterrizar) para controlar la cinematografía.  \nDefine un arco de transformación claro (arte lineal minimalista blanco sobre fondo oscuro que gradualmente se convierte en una ciudad y personaje cinematográficos completamente realizados) para impulsar una evolución visual coherente.  \nAñade un bloque dedicado al diseño de sonido con efectos de sonido específicos y restricciones (por ejemplo, ruedas traqueteando, viento, ambiente de ciudad; sin música; sin diálogo) para controlar la salida de audio.  \nUsa un prompt negativo para prevenir fallos comunes y asegurar la continuidad (sin caídas/choques, sin anatomía rota/extremidades extra, sin duplicación de patineta, sin objetos flotantes, sin texto/logos/subtítulos, sin cortes de cámara, sin artefactos de movimiento de baja calidad)."
+    },
+    "fr": {
+      "content": "---\nSpécifiez la durée et la continuité de manière explicite (par exemple, plan-séquence continu de 15 secondes ; pas de coupures ; pas de transitions de scène) pour imposer une prise ininterrompue dans Seedance 2.0.  \nStructurez le prompt comme un beat sheet chronométré (par exemple, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) décrivant les mouvements de caméra et l'évolution de la scène pour guider le rythme et la progression.  \nIncluez une direction de caméra explicite par segment (par exemple, lent zoom avant, suivre sous la planche, balancer autour lors de la descente, courir à côté lors de l'atterrissage) pour contrôler la cinématographie.  \nDéfinissez un arc de transformation clair (art minimaliste en ligne blanche sur fond sombre devenant progressivement une ville et un personnage cinématographiques pleinement réalisés) pour conduire une évolution visuelle cohérente.  \nAjoutez un bloc de conception sonore dédié avec des SFX spécifiques et des contraintes (par exemple, roues qui vibrent, vent, ambiance de la ville ; pas de musique ; pas de dialogue) pour contrôler la sortie audio.  \nUtilisez un prompt négatif pour éviter les échecs courants et imposer la continuité (pas de chutes/accidents, pas d'anatomie cassée/membres supplémentaires, pas de skateboard dupliqué, pas d'objets flottants, pas de texte/logos/sous-titres, pas de coupures de caméra, pas d'artefacts de mouvement de mauvaise qualité)."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で途切れのないテイクを実現するために、明確に持続時間と連続性を指定してください（例：15秒間の連続ワンショット；カットなし；シーンの移行なし）。  \nプロンプトをタイムドビートシートとして構成し（例：0–3秒、3–6秒、6–9秒、9–12秒、12–15秒）、カメラの動きとシーンの進化を記述して、ペースと進行をガイドします。  \n各セグメントごとに明確なカメラ指示を含めてください（例：スロープッシュイン、ボードの下を追う、降下時に回り込む、着地時に並走する）ことで、撮影技術を制御します。  \n明確な変化のアークを定義し（暗い背景にミニマリストの白い線画が徐々に完全なシネマティックな都市とキャラクターになる）、一貫したビジュアルの進化を促進します。  \n特定のSFXと制約を持つ専用のサウンドデザインブロックを追加し（例：車輪のガタガタ音、風、都市の雰囲気；音楽なし；対話なし）、オーディオ出力を制御します。  \nネガティブプロンプトを使用して一般的な失敗を防ぎ、連続性を確保します（転倒/クラッシュなし、壊れた解剖学/余分な手足なし、重複したスケートボードなし、浮遊物なし、テキスト/ロゴ/字幕なし、カメラカットなし、低品質の動きのアーティファクトなし）。  \n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 끊김 없는 촬영을 위해 명시적으로 지속 시간과 연속성을 지정하세요 (예: 15초 연속 단일 샷; 컷 없음; 장면 전환 없음).  \n프롬프트를 타임드 비트 시트로 구성하여 (예: 0–3초, 3–6초, 6–9초, 9–12초, 12–15초) 카메라 움직임과 장면의 발전을 설명하여 페이싱과 진행을 안내하세요.  \n각 구간별로 명확한 카메라 지시를 포함하여 (예: 느린 푸시 인, 보드 아래를 따라가기, 하강 시 회전, 착륙 시 함께 달리기) 촬영 기법을 제어하세요.  \n명확한 변형 아크를 정의하여 (어두운 배경에 최소한의 흰색 선 아트가 점차 완전한 시네마틱 도시와 캐릭터로 변모) 일관된 시각적 발전을 유도하세요.  \n특정 SFX와 제약 조건이 포함된 전용 사운드 디자인 블록을 추가하여 (예: 바퀴 소리, 바람, 도시 배경음; 음악 없음; 대화 없음) 오디오 출력을 제어하세요.  \n부정적 프롬프트를 사용하여 일반적인 실패를 방지하고 연속성을 유지하세요 (추락/충돌 없음, 해부학적 오류/여분의 팔다리 없음, 중복된 스케이트보드 없음, 떠다니는 물체 없음, 텍스트/로고/자막 없음, 카메라 컷 없음, 저품질 모션 아티팩트 없음)."
+    },
+    "pt": {
+      "content": "Especifique a duração e a continuidade explicitamente (por exemplo, tomada única contínua de 15 segundos; sem cortes; sem transições de cena) para garantir uma tomada ininterrupta no Seedance 2.0.  \nEstruture o prompt como um roteiro cronometrado (por exemplo, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) descrevendo os movimentos de câmera e a evolução da cena para guiar o ritmo e o progresso.  \nInclua direção de câmera explícita por segmento (por exemplo, aproximação lenta, seguir por baixo da prancha, girar na descida, correr ao lado na aterrissagem) para controlar a cinematografia.  \nDefina um arco de transformação claro (arte de linha branca minimalista em fundo escuro gradualmente se tornando uma cidade e personagem cinematográficos totalmente realizados) para conduzir a evolução visual coerente.  \nAdicione um bloco dedicado de design de som com SFX específicos e restrições (por exemplo, rodas chacoalhando, vento, ambiente da cidade; sem música; sem diálogo) para controlar a saída de áudio.  \nUse um prompt negativo para evitar falhas comuns e garantir continuidade (sem quedas/acidentes, sem anatomia quebrada/membros extras, sem skate duplicado, sem objetos flutuantes, sem texto/logos/legendas, sem cortes de câmera, sem artefatos de movimento de baixa qualidade)."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中明确指定时长和连续性（例如，15秒连续单镜头；无剪辑；无场景转换）以确保镜头不间断。  \n将提示结构化为定时节拍表（例如，0–3秒，3–6秒，6–9秒，9–12秒，12–15秒），描述镜头移动和场景演变以指导节奏和进展。  \n在每个片段中包含明确的镜头指导（例如，慢推入，跟随板下，下降时环绕，着陆时并肩而行）以控制电影摄影。  \n定义明确的转变弧线（在深色背景上逐渐从极简白色线条艺术变为完全实现的电影城市和角色）以推动连贯的视觉演变。  \n添加专门的声音设计模块，包含特定的音效和限制（例如，车轮震动声、风声、城市环境声；无音乐；无对话）以控制音频输出。  \n使用负面提示来防止常见错误并确保连续性（无跌倒/撞击，无解剖结构错误/多余肢体，无重复滑板，无漂浮物体，无文字/标志/字幕，无镜头剪辑，无低质量运动伪影）。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2063119601941246063",
+  "title": "Midjourney等で作成したタイトル画像に指示コンテ（ストーリーボード指示）を組み合わせてSeedanceに入力し、タイトルアニメーションを生成する",
+  "content": "Midjourney等で作成したタイトル画像に指示コンテ（ストーリーボード指示）を組み合わせてSeedanceに入力し、タイトルアニメーションを生成する  \n生成後に速度調整とマスクでの切り抜きを行い、表現のバリエーションを増やす  \n文字が硬い場合はgpt-image2でイラストロゴをより自然に編集してからSeedanceでアニメーション化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063112590256226304/img/dMZoB74Bi8rNHhUq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063119601941246063.mp4",
+  "sourceLink": "https://x.com/IntLab0000/status/2063119601941246063",
+  "sourcePublishedAt": "2026-06-06",
+  "author": {
+    "name": "Int.Lab",
+    "link": "https://x.com/IntLab0000"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Midjourney等で作成したタイトル画像に指示コンテ（ストーリーボード指示）を組み合わせてSeedanceに入力し、タイトルアニメーションを生成する  \n生成後に速度調整とマスクでの切り抜きを行い、表現のバリエーションを増やす  \n文字が硬い場合はgpt-image2でイラストロゴをより自然に編集してからSeedanceでアニメーション化する",
+  "translations": {
+    "en": {
+      "content": "Combine the title images created with Midjourney and similar tools with storyboard instructions and input them into Seedance to generate title animations.  \nAfter generation, adjust the speed and use masking to cut out elements, increasing the variety of expressions.  \nIf the text appears too rigid, use gpt-image2 to edit the illustrated logo more naturally before animating it with Seedance."
+    },
+    "es": {
+      "content": "---\nCombina la imagen de título creada en Midjourney con instrucciones de storyboard e ingrésalas en Seedance para generar una animación de título.  \nDespués de la generación, ajusta la velocidad y realiza recortes con máscaras para aumentar la variedad de expresiones.  \nSi el texto es rígido, edita el logotipo ilustrado de manera más natural con gpt-image2 antes de animarlo en Seedance.  \n---"
+    },
+    "fr": {
+      "content": "---\nCombinez les images de titre créées avec Midjourney avec des storyboards (instructions de storyboard) et entrez-les dans Seedance pour générer une animation de titre.  \nAprès la génération, ajustez la vitesse et effectuez des découpes avec des masques pour augmenter les variations d'expression.  \nSi le texte est rigide, éditez le logo illustré de manière plus naturelle avec gpt-image2 avant de l'animer avec Seedance.  \n---"
+    },
+    "ko": {
+      "content": "---\nMidjourney 등에서 생성한 타이틀 이미지에 지시 콘티(스토리보드 지시)를 결합하여 Seedance에 입력하고, 타이틀 애니메이션을 생성합니다.  \n생성 후 속도 조정과 마스크로의 잘라내기를 통해 표현의 다양성을 증가시킵니다.  \n문자가 딱딱한 경우 gpt-image2로 일러스트 로고를 보다 자연스럽게 편집한 후 Seedance에서 애니메이션화합니다.\n---"
+    },
+    "pt": {
+      "content": "Combine a imagem de título criada no Midjourney com instruções de storyboard e insira no Seedance para gerar a animação de título.  \nApós a geração, ajuste a velocidade e use máscaras para recortar, aumentando a variedade de expressões.  \nSe o texto estiver rígido, edite o logotipo ilustrado de forma mais natural com o gpt-image2 antes de animá-lo no Seedance."
+    },
+    "zh": {
+      "content": "将Midjourney等生成的标题图像与指示分镜（故事板指示）结合输入到Seedance中，生成标题动画  \n生成后进行速度调整和使用蒙版进行剪切，以增加表现的多样性  \n如果文字显得生硬，可以使用gpt-image2更自然地编辑插图标志，然后在Seedance中进行动画化"
+    }
+  }
+}

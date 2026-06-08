@@ -1,0 +1,42 @@
+{
+  "id": "2062952159306457522",
+  "title": "Start with a storyboard (e.g., a 12-frame storyboard) before prompting Seedance…",
+  "content": "Start with a storyboard (e.g., a 12-frame storyboard) before prompting Seedance 2.0 so shots connect and the output doesn’t look warped/weird  \nUse Claude Opus 4.8 to generate a full 12-frame storyboard plus the corresponding GPT-Image-2 image prompts and Seedance 2.0 motion prompts in one pass to keep narrative continuity  \nGenerate consistent keyframes in GPT-Image-2 (same face, location, outfit, and lighting across all 12 frames) before animating to prevent the ad from “breaking” halfway through  \nIn Seedance 2.0, drop in the pre-generated frames and a motion prompt to produce smoother, more cinematic video than text-only prompting  \nRun GPT-Image-2 + Seedance 2.0 inside HeyOz by inputting your product URL to execute the storyboard→frames→video pipeline in one place",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062951919501422592/img/vTbOxdWy9oinI4Z-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062952159306457522.mp4",
+  "sourceLink": "https://x.com/HeyOz_AI/status/2062952159306457522",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "HeyOz",
+    "link": "https://x.com/HeyOz_AI"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start with a storyboard (e.g., a 12-frame storyboard) before prompting Seedance 2.0 so shots connect and the output doesn’t look warped/weird  \nUse Claude Opus 4.8 to generate a full 12-frame storyboard plus the corresponding GPT-Image-2 image prompts and Seedance 2.0 motion prompts in one pass to keep narrative continuity  \nGenerate consistent keyframes in GPT-Image-2 (same face, location, outfit, and lighting across all 12 frames) before animating to prevent the ad from “breaking” halfway through  \nIn Seedance 2.0, drop in the pre-generated frames and a motion prompt to produce smoother, more cinematic video than text-only prompting  \nRun GPT-Image-2 + Seedance 2.0 inside HeyOz by inputting your product URL to execute the storyboard→frames→video pipeline in one place",
+  "translations": {
+    "es": {
+      "content": "Comienza con un guion gráfico (por ejemplo, un guion gráfico de 12 cuadros) antes de usar Seedance 2.0 para que las tomas se conecten y el resultado no se vea distorsionado/raro.  \nUtiliza Claude Opus 4.8 para generar un guion gráfico completo de 12 cuadros más los prompts de imagen de GPT-Image-2 correspondientes y los prompts de movimiento de Seedance 2.0 en una sola pasada para mantener la continuidad narrativa.  \nGenera fotogramas clave consistentes en GPT-Image-2 (misma cara, ubicación, atuendo e iluminación en los 12 cuadros) antes de animar para evitar que el anuncio se \"rompa\" a mitad de camino.  \nEn Seedance 2.0, inserta los cuadros pre-generados y un prompt de movimiento para producir un video más fluido y cinematográfico que solo con prompts de texto.  \nEjecuta GPT-Image-2 + Seedance 2.0 dentro de HeyOz ingresando la URL de tu producto para ejecutar la línea de producción de guion gráfico→cuadros→video en un solo lugar."
+    },
+    "fr": {
+      "content": "Commencez par un storyboard (par exemple, un storyboard de 12 images) avant de lancer Seedance 2.0 afin que les plans soient connectés et que le résultat ne semble pas déformé/bizarre.  \nUtilisez Claude Opus 4.8 pour générer un storyboard complet de 12 images ainsi que les prompts d'image GPT-Image-2 correspondants et les prompts de mouvement Seedance 2.0 en une seule fois pour maintenir la continuité narrative.  \nGénérez des images clés cohérentes dans GPT-Image-2 (même visage, lieu, tenue et éclairage sur les 12 images) avant d'animer pour éviter que la publicité ne \"casse\" à mi-chemin.  \nDans Seedance 2.0, insérez les images pré-générées et un prompt de mouvement pour produire une vidéo plus fluide et plus cinématographique qu'avec un simple prompt textuel.  \nExécutez GPT-Image-2 + Seedance 2.0 dans HeyOz en entrant l'URL de votre produit pour réaliser le pipeline storyboard→images→vidéo en un seul endroit."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0をプロンプトする前に、ショットがつながり、出力が歪んだり奇妙に見えたりしないように、ストーリーボード（例：12フレームのストーリーボード）から始めましょう。  \nClaude Opus 4.8を使用して、12フレームのストーリーボード全体と対応するGPT-Image-2の画像プロンプトおよびSeedance 2.0のモーションプロンプトを一度に生成し、物語の連続性を保ちます。  \nアニメーション化する前に、GPT-Image-2で一貫したキーフレーム（すべての12フレームで同じ顔、場所、衣装、照明）を生成し、広告が途中で「壊れる」のを防ぎます。  \nSeedance 2.0では、事前に生成されたフレームとモーションプロンプトを投入して、テキストのみのプロンプトよりも滑らかでよりシネマティックなビデオを制作します。  \nHeyOz内でGPT-Image-2 + Seedance 2.0を実行し、製品URLを入力して、ストーリーボード→フレーム→ビデオのパイプラインを一か所で実行します。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0을 사용하기 전에 스토리보드(예: 12프레임 스토리보드)를 시작하여 샷이 연결되고 출력이 왜곡되거나 이상하게 보이지 않도록 하세요.  \nClaude Opus 4.8을 사용하여 전체 12프레임 스토리보드와 해당하는 GPT-Image-2 이미지 프롬프트 및 Seedance 2.0 모션 프롬프트를 한 번에 생성하여 서사적 연속성을 유지하세요.  \n광고가 중간에 \"깨지는\" 것을 방지하기 위해 애니메이션을 시작하기 전에 GPT-Image-2에서 일관된 키프레임(모든 12프레임에서 동일한 얼굴, 위치, 의상, 조명)을 생성하세요.  \nSeedance 2.0에서 사전 생성된 프레임과 모션 프롬프트를 삽입하여 텍스트 전용 프롬프트보다 부드럽고 더 시네마틱한 비디오를 제작하세요.  \nHeyOz 내에서 GPT-Image-2 + Seedance 2.0을 실행하여 제품 URL을 입력하여 스토리보드→프레임→비디오 파이프라인을 한 곳에서 실행하세요.  \n---"
+    },
+    "pt": {
+      "content": "---\nComece com um storyboard (por exemplo, um storyboard de 12 quadros) antes de usar o Seedance 2.0 para que as cenas se conectem e o resultado não pareça distorcido/estranho  \nUse o Claude Opus 4.8 para gerar um storyboard completo de 12 quadros, além dos prompts de imagem do GPT-Image-2 correspondentes e prompts de movimento do Seedance 2.0 em uma única etapa para manter a continuidade narrativa  \nGere keyframes consistentes no GPT-Image-2 (mesmo rosto, local, roupa e iluminação em todos os 12 quadros) antes de animar para evitar que o anúncio \"quebre\" no meio  \nNo Seedance 2.0, insira os quadros pré-gerados e um motion prompt para produzir um vídeo mais suave e cinematográfico do que apenas com prompts de texto  \nExecute GPT-Image-2 + Seedance 2.0 dentro do HeyOz inserindo o URL do seu produto para executar o pipeline storyboard→quadros→vídeo em um só lugar\n---"
+    },
+    "zh": {
+      "content": "---\n在提示Seedance 2.0之前，先制作一个故事板（例如，一个12帧的故事板），以确保镜头连接，输出不会显得扭曲/奇怪  \n使用Claude Opus 4.8生成完整的12帧故事板以及相应的GPT-Image-2图像提示和Seedance 2.0运动提示，一次性完成以保持叙事连贯性  \n在动画制作之前，在GPT-Image-2中生成一致的关键帧（相同的面孔、地点、服装和灯光贯穿所有12帧），以防止广告在中途“破裂”  \n在Seedance 2.0中，插入预生成的帧和一个运动提示，以制作出比仅文本提示更流畅、更具电影感的视频  \n在HeyOz中运行GPT-Image-2 + Seedance 2.0，通过输入您的产品URL来在一个地方执行故事板→帧→视频的流程  \n---"
+    }
+  }
+}

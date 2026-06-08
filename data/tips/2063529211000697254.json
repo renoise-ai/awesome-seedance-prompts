@@ -1,0 +1,41 @@
+{
+  "id": "2063529211000697254",
+  "title": "Use three-image prompting in Seedance 2.0: image_1 as a character reference to…",
+  "content": "Use three-image prompting in Seedance 2.0: image_1 as a character reference to maintain exact appearance, image_2 as the first frame, and image_3 as the final frame to anchor the start/end of the animation.  \nAdd an explicit constraint like Maintain character appearance based on image_1 throughout; avoid identity drift, jitter, bent limbs, temporal flicker, ghosting, watermark to improve temporal consistency and reduce artifacts.  \nStructure the prompt into timed beats (e.g., 0–2s, 2–12s, 12–15s) and specify camera behavior per beat (slow push-in → explosive handheld hyperspeed montage → slow push through entrance) to control pacing and motion.  \nFor a travel-vlog look, specify handheld iPhone energy with whip pans, snap zooms, tracking shots, SnorriCam moments, motion blur, overexposed highlights, and accidental framing to drive dynamic movement.  \nAllow quick insert cuts during the fast section by explicitly stating that quick insert cuts are permitted/encouraged to match the beat and flow.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/lostsol/status/2063529211000697254",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "Lost 🎯",
+    "link": "https://x.com/lostsol"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use three-image prompting in Seedance 2.0: image_1 as a character reference to maintain exact appearance, image_2 as the first frame, and image_3 as the final frame to anchor the start/end of the animation.  \nAdd an explicit constraint like Maintain character appearance based on image_1 throughout; avoid identity drift, jitter, bent limbs, temporal flicker, ghosting, watermark to improve temporal consistency and reduce artifacts.  \nStructure the prompt into timed beats (e.g., 0–2s, 2–12s, 12–15s) and specify camera behavior per beat (slow push-in → explosive handheld hyperspeed montage → slow push through entrance) to control pacing and motion.  \nFor a travel-vlog look, specify handheld iPhone energy with whip pans, snap zooms, tracking shots, SnorriCam moments, motion blur, overexposed highlights, and accidental framing to drive dynamic movement.  \nAllow quick insert cuts during the fast section by explicitly stating that quick insert cuts are permitted/encouraged to match the beat and flow.",
+  "translations": {
+    "es": {
+      "content": "---\nUtiliza la técnica de tres imágenes en Seedance 2.0: image_1 como referencia de personaje para mantener la apariencia exacta, image_2 como el primer fotograma, e image_3 como el fotograma final para anclar el inicio/fin de la animación.  \nAñade una restricción explícita como Mantener la apariencia del personaje basada en image_1 durante todo el proceso; evita el desvío de identidad, temblores, extremidades dobladas, parpadeo temporal, imágenes fantasma, marcas de agua para mejorar la consistencia temporal y reducir artefactos.  \nEstructura el prompt en ritmos temporizados (por ejemplo, 0–2s, 2–12s, 12–15s) y especifica el comportamiento de la cámara por ritmo (acercamiento lento → montaje explosivo a alta velocidad con cámara en mano → avance lento a través de la entrada) para controlar el ritmo y el movimiento.  \nPara un estilo de vlog de viaje, especifica energía de iPhone en mano con barridos rápidos, zooms instantáneos, tomas de seguimiento, momentos SnorriCam, desenfoque de movimiento, luces sobreexpuestas y encuadres accidentales para impulsar un movimiento dinámico.  \nPermite cortes rápidos insertados durante la sección rápida indicando explícitamente que los cortes rápidos insertados están permitidos/fomentados para coincidir con el ritmo y el flujo.\n---"
+    },
+    "fr": {
+      "content": "Utilisez le prompt à trois images dans Seedance 2.0 : image_1 comme référence de personnage pour maintenir l'apparence exacte, image_2 comme premier cadre, et image_3 comme cadre final pour ancrer le début/la fin de l'animation.  \nAjoutez une contrainte explicite comme Maintenir l'apparence du personnage basée sur image_1 tout au long ; évitez la dérive d'identité, les tremblements, les membres pliés, le scintillement temporel, les fantômes, les filigranes pour améliorer la cohérence temporelle et réduire les artefacts.  \nStructurez le prompt en temps forts (par exemple, 0–2s, 2–12s, 12–15s) et spécifiez le comportement de la caméra par temps fort (lente avancée → montage explosif à main levée à vitesse hyperspeed → lente avancée à travers l'entrée) pour contrôler le rythme et le mouvement.  \nPour un look de vlog de voyage, spécifiez une énergie iPhone à main levée avec des panoramiques rapides, des zooms instantanés, des plans de suivi, des moments SnorriCam, du flou de mouvement, des hautes lumières surexposées, et des cadrages accidentels pour stimuler le mouvement dynamique.  \nPermettez des coupes rapides insérées pendant la section rapide en déclarant explicitement que les coupes rapides insérées sont permises/encouragées pour correspondre au rythme et au flux."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で三枚の画像プロンプトを使用します：image_1をキャラクターの参照として正確な外見を維持し、image_2を最初のフレーム、image_3をアニメーションの開始/終了を固定する最終フレームとして使用します。  \n明確な制約を追加します。例として、image_1に基づいたキャラクターの外見を常に維持し、アイデンティティのドリフト、ジッター、曲がった手足、時間的なちらつき、ゴースティング、透かしを避けて時間的一貫性を改善し、アーティファクトを減らします。  \nプロンプトをタイミングに基づいたビートに構造化し（例：0–2秒、2–12秒、12–15秒）、各ビートごとにカメラの動作を指定します（スロープッシュイン → 爆発的なハンドヘルドハイスピードモンタージュ → エントランスを通過するスロープッシュ）でペースと動きを制御します。  \n旅行ブログ風の外観を求める場合、ハンドヘルドiPhoneのエネルギーを指定し、ウィップパン、スナップズーム、トラッキングショット、スノリカムの瞬間、モーションブラー、露出オーバーのハイライト、偶然のフレーミングを使用してダイナミックな動きを促進します。  \n速いセクションでは、クイックインサートカットを許可/奨励することを明示的に述べることで、ビートとフローに合わせます。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 세 이미지 프롬프트 사용: image_1을 캐릭터 참조로 사용하여 정확한 외모를 유지하고, image_2를 첫 번째 프레임으로, image_3을 마지막 프레임으로 사용하여 애니메이션의 시작/끝을 고정합니다.  \n명시적인 제약 조건을 추가하여 image_1을 기반으로 캐릭터 외모를 유지하고, 정체성 드리프트, 떨림, 구부러진 팔다리, 시간적 깜박임, 고스트 현상, 워터마크를 피하여 시간적 일관성을 개선하고 아티팩트를 줄입니다.  \n프롬프트를 시간에 맞춘 비트로 구조화하고 (예: 0–2초, 2–12초, 12–15초) 비트별 카메라 동작을 지정하여 (느린 푸시 인 → 폭발적인 핸드헬드 초고속 몽타주 → 입구를 통한 느린 푸시) 속도와 움직임을 제어합니다.  \n여행 브이로그 느낌을 위해 핸드헬드 아이폰 에너지를 휩팬, 스냅 줌, 트래킹 샷, SnorriCam 순간, 모션 블러, 과다 노출된 하이라이트, 우연한 프레이밍으로 지정하여 역동적인 움직임을 유도합니다.  \n빠른 섹션 동안 빠른 인서트 컷을 허용하여 비트와 흐름에 맞추기 위해 빠른 인서트 컷이 허용/권장된다고 명시합니다."
+    },
+    "pt": {
+      "content": "Use três imagens de prompt no Seedance 2.0: image_1 como referência de personagem para manter a aparência exata, image_2 como o primeiro quadro e image_3 como o quadro final para ancorar o início/fim da animação.  \nAdicione uma restrição explícita como Manter a aparência do personagem com base na image_1 ao longo de toda a animação; evite desvio de identidade, tremores, membros dobrados, cintilação temporal, fantasmas, marca d'água para melhorar a consistência temporal e reduzir artefatos.  \nEstruture o prompt em batidas temporizadas (por exemplo, 0–2s, 2–12s, 12–15s) e especifique o comportamento da câmera por batida (aproximação lenta → montagem explosiva de câmera na mão em hipervelocidade → avanço lento pela entrada) para controlar o ritmo e o movimento.  \nPara um visual de vlog de viagem, especifique energia de iPhone na mão com whip pans, zooms rápidos, planos de acompanhamento, momentos SnorriCam, desfoque de movimento, destaques superexpostos e enquadramento acidental para impulsionar o movimento dinâmico.  \nPermita cortes rápidos durante a seção rápida, afirmando explicitamente que cortes rápidos são permitidos/encorajados para corresponder ao ritmo e fluxo."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用三图提示：image_1作为角色参考以保持精确外观，image_2作为第一帧，image_3作为最后一帧以锚定动画的开始/结束。  \n添加明确的约束条件，例如在整个过程中基于image_1保持角色外观；避免身份漂移、抖动、弯曲肢体、时间闪烁、重影、水印，以提高时间一致性并减少伪影。  \n将提示结构化为定时节拍（例如，0–2秒，2–12秒，12–15秒），并在每个节拍中指定相机行为（慢推入→爆炸性的手持高速蒙太奇→慢推通过入口）以控制节奏和运动。  \n对于旅行视频日志风格，指定手持iPhone的能量，带有甩镜头、快速变焦、跟踪镜头、SnorriCam时刻、运动模糊、过曝高光和意外构图，以推动动态运动。  \n在快速部分允许快速插入剪辑，通过明确说明允许/鼓励快速插入剪辑以匹配节拍和流动。"
+    }
+  }
+}

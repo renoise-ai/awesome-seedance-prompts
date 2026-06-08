@@ -1,0 +1,43 @@
+{
+  "id": "2063666073988440407",
+  "title": "Take screenshots from a promo/reference video and convert them into a…",
+  "content": "Take screenshots from a promo/reference video and convert them into a three-view character reference (front/side/back) to guide character replacement.  \nIf motion control output feels unnatural, switch from Kling Motion Control to Seedance 2.0 to get smoother, more natural movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063664515573747712/img/5hmwn8u5PLy0WFNy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063666073988440407.mp4",
+  "sourceLink": "https://x.com/underwoodxie96/status/2063666073988440407",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "underwood",
+    "link": "https://x.com/underwoodxie96"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Take screenshots from a promo/reference video and convert them into a three-view character reference (front/side/back) to guide character replacement.  \nIf motion control output feels unnatural, switch from Kling Motion Control to Seedance 2.0 to get smoother, more natural movement.",
+  "translations": {
+    "es": {
+      "content": "Toma capturas de pantalla de un video promocional/de referencia y conviértelas en una referencia de personaje de tres vistas (frontal/lateral/trasera) para guiar el reemplazo de personajes.  \nSi la salida de control de movimiento se siente antinatural, cambia de Kling Motion Control a Seedance 2.0 para obtener un movimiento más suave y natural."
+    },
+    "fr": {
+      "content": "Prenez des captures d'écran d'une vidéo promotionnelle/de référence et convertissez-les en une référence de personnage à trois vues (avant/côté/arrière) pour guider le remplacement de personnage.  \nSi la sortie du contrôle de mouvement semble peu naturelle, passez de Kling Motion Control à Seedance 2.0 pour obtenir des mouvements plus fluides et naturels."
+    },
+    "ja": {
+      "content": "プロモーションビデオや参考ビデオからスクリーンショットを撮り、それを三面図のキャラクターリファレンス（正面/側面/背面）に変換して、キャラクターの置き換えをガイドします。  \nモーションコントロールの出力が不自然に感じる場合は、Kling Motion ControlからSeedance 2.0に切り替えて、よりスムーズで自然な動きを得てください。"
+    },
+    "ko": {
+      "content": "프로모션/참조 비디오에서 스크린샷을 찍어 캐릭터 교체를 안내할 수 있는 세 가지 뷰의 캐릭터 참조(앞/옆/뒤)로 변환하세요.  \n모션 컨트롤 출력이 부자연스럽게 느껴진다면, Kling Motion Control에서 Seedance 2.0으로 전환하여 더 부드럽고 자연스러운 움직임을 얻으세요."
+    },
+    "pt": {
+      "content": "Tire capturas de tela de um vídeo promocional/de referência e converta-as em uma referência de personagem em três vistas (frente/lado/costas) para guiar a substituição de personagens.  \nSe a saída do controle de movimento parecer não natural, mude do Kling Motion Control para o Seedance 2.0 para obter um movimento mais suave e natural."
+    },
+    "zh": {
+      "content": "从宣传/参考视频中截取截图，并将其转换为三视图角色参考（正面/侧面/背面），以指导角色替换。  \n如果运动控制输出感觉不自然，请从Kling Motion Control切换到Seedance 2.0，以获得更流畅、更自然的运动。"
+    }
+  }
+}

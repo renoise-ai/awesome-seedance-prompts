@@ -1,0 +1,41 @@
+{
+  "id": "2062822990266425359",
+  "title": "Use a detailed character sheet (full body + angles + close-ups) as the…",
+  "content": "Use a detailed character sheet (full body + angles + close-ups) as the reference image to lock in a character’s design for Seedance 2.0 animation.  \nIn Seedance 2.0, start the first sequence using only one character sheet as the reference image, then use the Extend feature to add a second character sheet in a later extension to introduce a new character.  \nAfter Seedance has “learned” both characters via reference images, extend the sequence further without uploading additional images to keep character consistency.  \nFor a continuous shot, explicitly prompt 15-second continuous single-shot with No cuts and No scene transitions.  \nUse a negative prompt to prevent common failures: No static poses, no standing still, no camera cuts, no frozen action, no extra limbs, no distorted anatomy, no text/logos/subtitles.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2062822990266425359",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a detailed character sheet (full body + angles + close-ups) as the reference image to lock in a character’s design for Seedance 2.0 animation.  \nIn Seedance 2.0, start the first sequence using only one character sheet as the reference image, then use the Extend feature to add a second character sheet in a later extension to introduce a new character.  \nAfter Seedance has “learned” both characters via reference images, extend the sequence further without uploading additional images to keep character consistency.  \nFor a continuous shot, explicitly prompt 15-second continuous single-shot with No cuts and No scene transitions.  \nUse a negative prompt to prevent common failures: No static poses, no standing still, no camera cuts, no frozen action, no extra limbs, no distorted anatomy, no text/logos/subtitles.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una hoja de personaje detallada (cuerpo completo + ángulos + primeros planos) como imagen de referencia para fijar el diseño de un personaje para la animación de Seedance 2.0.  \nEn Seedance 2.0, comienza la primera secuencia usando solo una hoja de personaje como imagen de referencia, luego utiliza la función Extender para añadir una segunda hoja de personaje en una extensión posterior para introducir un nuevo personaje.  \nDespués de que Seedance haya \"aprendido\" ambos personajes a través de imágenes de referencia, extiende la secuencia sin subir imágenes adicionales para mantener la consistencia de los personajes.  \nPara una toma continua, indica explícitamente un plano continuo de 15 segundos sin cortes y sin transiciones de escena.  \nUsa un prompt negativo para evitar fallos comunes: No poses estáticas, no quedarse quieto, no cortes de cámara, no acción congelada, no extremidades extra, no anatomía distorsionada, no texto/logos/subtítulos."
+    },
+    "fr": {
+      "content": "Utilisez une fiche de personnage détaillée (corps entier + angles + gros plans) comme image de référence pour verrouiller le design d'un personnage pour l'animation Seedance 2.0.  \nDans Seedance 2.0, commencez la première séquence en utilisant uniquement une fiche de personnage comme image de référence, puis utilisez la fonction Extend pour ajouter une deuxième fiche de personnage dans une extension ultérieure afin d'introduire un nouveau personnage.  \nAprès que Seedance ait « appris » les deux personnages via les images de référence, prolongez la séquence sans télécharger d'images supplémentaires pour maintenir la cohérence des personnages.  \nPour un plan continu, indiquez explicitement un plan continu de 15 secondes sans coupures et sans transitions de scène.  \nUtilisez un prompt négatif pour éviter les échecs courants : Pas de poses statiques, pas d'immobilité, pas de coupures de caméra, pas d'action figée, pas de membres supplémentaires, pas d'anatomie déformée, pas de texte/logos/sous-titres."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0アニメーションのキャラクターデザインを確定するために、詳細なキャラクターシート（全身＋角度＋クローズアップ）を参照画像として使用します。  \nSeedance 2.0では、最初のシーケンスを開始する際に、1枚のキャラクターシートのみを参照画像として使用し、その後の拡張で新しいキャラクターを導入するためにExtend機能を使って2枚目のキャラクターシートを追加します。  \nSeedanceが参照画像を通じて両方のキャラクターを「学習」した後は、キャラクターの一貫性を保つために追加の画像をアップロードせずにシーケンスをさらに拡張します。  \n連続ショットの場合は、15秒間の連続したシングルショットを明示的に指示し、カットなし、シーン遷移なしとします。  \n一般的な失敗を防ぐために、ネガティブプロンプトを使用します：静止ポーズなし、立ち止まらない、カメラカットなし、アクションの停止なし、余分な手足なし、歪んだ解剖学なし、テキスト/ロゴ/字幕なし。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0 애니메이션의 캐릭터 디자인을 고정하기 위해 자세한 캐릭터 시트(전신 + 각도 + 클로즈업)를 참조 이미지로 사용하세요.  \nSeedance 2.0에서 첫 번째 시퀀스를 시작할 때는 하나의 캐릭터 시트만 참조 이미지로 사용하고, 나중에 확장 기능을 사용하여 두 번째 캐릭터 시트를 추가하여 새로운 캐릭터를 소개하세요.  \nSeedance가 참조 이미지를 통해 두 캐릭터를 모두 \"학습\"한 후에는 추가 이미지를 업로드하지 않고 시퀀스를 더 확장하여 캐릭터의 일관성을 유지하세요.  \n연속 촬영을 위해서는 명확하게 15초 연속 단일 샷을 프롬프트하고 컷이나 장면 전환 없이 진행하세요.  \n일반적인 실패를 방지하기 위해 네거티브 프롬프트를 사용하세요: No static poses, no standing still, no camera cuts, no frozen action, no extra limbs, no distorted anatomy, no text/logos/subtitles.\n---"
+    },
+    "pt": {
+      "content": "Use uma folha de personagem detalhada (corpo inteiro + ângulos + close-ups) como imagem de referência para definir o design de um personagem para a animação Seedance 2.0.  \nNo Seedance 2.0, comece a primeira sequência usando apenas uma folha de personagem como imagem de referência, depois use o recurso Extend para adicionar uma segunda folha de personagem em uma extensão posterior para introduzir um novo personagem.  \nDepois que o Seedance tiver \"aprendido\" ambos os personagens através das imagens de referência, estenda a sequência ainda mais sem carregar imagens adicionais para manter a consistência dos personagens.  \nPara uma tomada contínua, use explicitamente o prompt 15-second continuous single-shot com No cuts e No scene transitions.  \nUse um negative prompt para evitar falhas comuns: No static poses, no standing still, no camera cuts, no frozen action, no extra limbs, no distorted anatomy, no text/logos/subtitles."
+    },
+    "zh": {
+      "content": "使用详细的角色表（全身+角度+特写）作为参考图像，以锁定Seedance 2.0动画中的角色设计。  \n在Seedance 2.0中，开始第一个序列时仅使用一个角色表作为参考图像，然后使用Extend功能在后续扩展中添加第二个角色表以引入新角色。  \n在Seedance通过参考图像“学习”了两个角色后，进一步扩展序列而不上传额外图像，以保持角色一致性。  \n对于连续镜头，明确提示15秒连续单镜头，无剪切和无场景转换。  \n使用负面提示以防止常见错误：No static poses, no standing still, no camera cuts, no frozen action, no extra limbs, no distorted anatomy, no text/logos/subtitles."
+    }
+  }
+}

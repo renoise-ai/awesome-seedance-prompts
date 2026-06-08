@@ -1,0 +1,46 @@
+{
+  "id": "2062982778736566477",
+  "title": "Use GPT Image to create a storyboard, then generate the final video in Seedance…",
+  "content": "Use GPT Image to create a storyboard, then generate the final video in Seedance 2.0 based on that storyboard.",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062982229177851904/img/IOm4ZyHUfyBsBPBQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062982778736566477.mp4",
+  "sourceLink": "https://x.com/0kncn/status/2062982778736566477",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "Okan Can",
+    "link": "https://x.com/0kncn"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use GPT Image to create a storyboard, then generate the final video in Seedance 2.0 based on that storyboard.",
+  "translations": {
+    "en": {
+      "content": "Utilize GPT Image para crear un storyboard, luego genera el video final en Seedance 2.0 basado en ese storyboard."
+    },
+    "es": {
+      "content": "Usa GPT Image para crear un storyboard, luego genera el video final en Seedance 2.0 basado en ese storyboard."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image pour créer un storyboard, puis générez la vidéo finale dans Seedance 2.0 en vous basant sur ce storyboard."
+    },
+    "ja": {
+      "content": "GPT Imageを使用してストーリーボードを作成し、そのストーリーボードに基づいてSeedance 2.0で最終ビデオを生成します。"
+    },
+    "ko": {
+      "content": "GPT Image를 사용하여 스토리보드를 만든 다음, Seedance 2.0에서 해당 스토리보드를 기반으로 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image para criar um storyboard, depois gere o vídeo final no Seedance 2.0 com base nesse storyboard."
+    },
+    "zh": {
+      "content": "使用GPT Image创建分镜，然后根据该分镜在Seedance 2.0中生成最终视频。"
+    }
+  }
+}

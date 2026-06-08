@@ -1,0 +1,42 @@
+{
+  "id": "2063499874256167145",
+  "title": "Use Kling 2.5 Turbo to generate short-form reaction/b-roll UGC videos at about…",
+  "content": "Use Kling 2.5 Turbo to generate short-form reaction/b-roll UGC videos at about $0.70 per 10 seconds.  \nPair those b-roll clips with a 30-second Seedance 2.0 talking-head video (about $25) to assemble an “influencer-style” UGC piece.  \nBudget an initial ~$200 to run hands-on experiments across models to learn which model fits which use case and how to get the best results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063499821563129856/img/uvvfcWWCJkjaSVXH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063499874256167145.mp4",
+  "sourceLink": "https://x.com/type_kshitij/status/2063499874256167145",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "Kshitij (Tjay) Dhyani",
+    "link": "https://x.com/type_kshitij"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Kling 2.5 Turbo to generate short-form reaction/b-roll UGC videos at about $0.70 per 10 seconds.  \nPair those b-roll clips with a 30-second Seedance 2.0 talking-head video (about $25) to assemble an “influencer-style” UGC piece.  \nBudget an initial ~$200 to run hands-on experiments across models to learn which model fits which use case and how to get the best results.",
+  "translations": {
+    "es": {
+      "content": "Usa Kling 2.5 Turbo para generar videos UGC de reacción/b-roll de corta duración a aproximadamente $0.70 por cada 10 segundos.  \nCombina esos clips b-roll con un video de Seedance 2.0 de 30 segundos de un \"talking-head\" (aproximadamente $25) para ensamblar una pieza UGC al estilo \"influencer\".  \nPresupuesta un inicial de ~$200 para realizar experimentos prácticos con diferentes modelos y aprender qué modelo se adapta a cada caso de uso y cómo obtener los mejores resultados."
+    },
+    "fr": {
+      "content": "Utilisez Kling 2.5 Turbo pour générer des vidéos UGC de réaction/b-roll de courte durée à environ 0,70 $ pour 10 secondes.  \nAssociez ces clips b-roll à une vidéo Seedance 2.0 de 30 secondes en mode talking-head (environ 25 $) pour assembler une pièce UGC de style \"influenceur\".  \nPrévoir un budget initial d'environ 200 $ pour mener des expériences pratiques sur différents modèles afin de déterminer quel modèle convient à quel cas d'utilisation et comment obtenir les meilleurs résultats."
+    },
+    "ja": {
+      "content": "---\nKling 2.5 Turboを使用して、約10秒あたり$0.70で短編のリアクション/BロールUGCビデオを生成します。  \nこれらのBロールクリップを30秒のSeedance 2.0トーキングヘッドビデオ（約$25）と組み合わせて、「インフルエンサー風」のUGC作品を作成します。  \nどのモデルがどのユースケースに適しているか、また最良の結果を得る方法を学ぶために、モデル間で実験を行うための初期予算として約$200を計上します。  \n---"
+    },
+    "ko": {
+      "content": "---\nKling 2.5 Turbo를 사용하여 약 $0.70로 10초 분량의 짧은 반응/비롤 UGC 비디오를 생성하세요.  \n이 비롤 클립을 30초 분량의 Seedance 2.0 토킹 헤드 비디오(약 $25)와 결합하여 \"인플루언서 스타일\" UGC 작품을 만드세요.  \n모델별로 어떤 모델이 어떤 용도에 적합한지, 최상의 결과를 얻기 위한 방법을 배우기 위해 초기 ~$200의 예산을 설정하여 직접 실험을 진행하세요.\n---"
+    },
+    "pt": {
+      "content": "Use Kling 2.5 Turbo para gerar vídeos UGC de reação/b-roll de curta duração por cerca de $0,70 a cada 10 segundos.  \nCombine esses clipes b-roll com um vídeo Seedance 2.0 de 30 segundos de talking-head (cerca de $25) para montar uma peça UGC no estilo “influenciador”.  \nOrce inicialmente cerca de $200 para realizar experimentos práticos em diferentes modelos para aprender qual modelo se adapta a qual caso de uso e como obter os melhores resultados."
+    },
+    "zh": {
+      "content": "使用 Kling 2.5 Turbo 生成短片反应/B-roll UGC 视频，每10秒大约$0.70。  \n将这些 B-roll 片段与一个30秒的 Seedance 2.0 讲话视频（大约$25）配对，组装成一个“网红风格”的UGC作品。  \n初步预算约$200，通过不同模型进行实践实验，以了解哪个模型适合哪个使用场景以及如何获得最佳效果。"
+    }
+  }
+}
