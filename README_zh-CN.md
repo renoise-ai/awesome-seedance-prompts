@@ -62,7 +62,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1545** |
+| 📝 提示词总数 | **1540** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **462** |
 | 🔄 最后更新 | **2026-06-08** |
@@ -4225,7 +4225,7 @@ End on sweetness, pride, warmth, and mission-complete emotional satisfaction.
 
 ## 📚 📚 更多提示词
 
-### 🎯 1445 条提示词未在此显示
+### 🎯 1440 条提示词未在此显示
 
 **👉 [浏览画廊](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
@@ -5111,4 +5111,4 @@ Add audio constraints directly in the prompt (e.g., no music; include footsteps,
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-08T06:30:17.165Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-08T06:36:42.513Z

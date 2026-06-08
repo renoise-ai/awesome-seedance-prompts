@@ -62,7 +62,7 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de Prompts | **1545** |
+| 📝 Total de Prompts | **1540** |
 | ⭐ Destacados | **0** |
 | 💡 Consejos & Tutoriales | **462** |
 | 🔄 Última Actualización | **2026-06-08** |
@@ -6296,7 +6296,7 @@ Crea un video en el que Bowser levanta una gran roca sobre su cabeza, Mario le h
 
 ## 📚 📚 Más Prompts
 
-### 🎯 1445 prompts adicionales no mostrados aquí
+### 🎯 1440 prompts adicionales no mostrados aquí
 
 **👉 [Ver todos los prompts Seedance 2.0 en Renoise](https://renoise.ai/es/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
@@ -7390,4 +7390,4 @@ Gracias a todos los creadores que compartieron sus prompts con la comunidad.
 
 **🌐 [🎬 Ver en la Galería Web](https://renoise.ai/es/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [modelo Seedance 2.0](https://renoise.ai/es/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
 
-🤖 Este README se genera automáticamente. Última actualización: 2026-06-08T06:30:17.200Z
+🤖 Este README se genera automáticamente. Última actualización: 2026-06-08T06:36:42.554Z

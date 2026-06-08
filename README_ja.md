@@ -62,7 +62,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1545** |
+| 📝 プロンプト総数 | **1540** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **462** |
 | 🔄 最終更新 | **2026-06-08** |
@@ -5942,7 +5942,7 @@ P05: 最初のジャンプ / 一つの命が剥がれる; エピックワイド�
 
 ## 📚 📚 さらに多くのプロンプト
 
-### 🎯 1445 件のプロンプトが非表示
+### 🎯 1440 件のプロンプトが非表示
 
 **👉 [Renoise でプロンプトを閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
@@ -7013,4 +7013,4 @@ Add audio constraints directly in the prompt (e.g., no music; include footsteps,
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-08T06:30:17.176Z
+🤖 この README は自動生成されています。最終更新： 2026-06-08T06:36:42.525Z

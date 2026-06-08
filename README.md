@@ -62,7 +62,7 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1545** |
+| 📝 Total Prompts | **1540** |
 | ⭐ Featured | **0** |
 | 💡 Tips & Tutorials | **462** |
 | 🔄 Last Updated | **2026-06-08** |
@@ -4225,7 +4225,7 @@ End on sweetness, pride, warmth, and mission-complete emotional satisfaction.
 
 ## 📚 📚 More Prompts
 
-### 🎯 1445 more prompts not shown here
+### 🎯 1440 more prompts not shown here
 
 **👉 [Browse all Seedance 2.0 prompts on Renoise](https://renoise.ai/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
@@ -5111,4 +5111,4 @@ Thanks to all the creators who shared their prompts with the community.
 
 **🌐 [View in Web Gallery](https://renoise.ai/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 model](https://renoise.ai/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-06-08T06:30:17.154Z
+🤖 This README is automatically generated. Last updated: 2026-06-08T06:36:42.499Z
