@@ -62,9 +62,9 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1595** |
+| 📝 プロンプト総数 | **1596** |
 | ⭐ 注目 | **0** |
-| 💡 ヒント & チュートリアル | **499** |
+| 💡 ヒント & チュートリアル | **500** |
 | 🔄 最終更新 | **2026-06-09** |
 
 ---
@@ -1265,6 +1265,37 @@ seedance 2.0で作成
 **作者:** [Anissa](https://x.com/SimplyAnnisa) | **ソース:** [Link](https://x.com/SimplyAnnisa/status/2063902348305678688) | **公開日:** 2026年6月8日
 
 `Sports` `Football` `Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `POV`
+
+---
+
+### Ancient primeval forest. Total stillness. Camera moves slowly through enormous…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+古代の原始の森。完全な静寂。カメラは巨大な古木の間をゆっくりと移動する。何かが見ている。鳥たちは静かになる。遠くの巨大な木が動き始める。シルヴァンが森の床から立ち上がる。古い木に見えたものが立ち上がる。古代の体から土と根が流れ落ちる。朝の霧の中で完全に姿を現す。カメラは彼の巨大な高さを上に向かって傾ける。鳥たちは角から飛び散る。彼は枯れかけた木に一つの巨大な根の手を置く。彼の輝く胸から腕を通じて緑のエネルギーが枯れかけた木に流れ込み、それは瞬時に開花し、数秒で成長の季節を迎える。花がスローモーションで開く。命が蘇る。彼は振り返り、森の中へと歩いて戻る。彼の足跡には花が咲き、草が生え、小さな動物たちが興味津々に後を追う。カメラは引いて空中からの視点に変わり、彼の道を追うように森に緑の生命の波が広がる。世界は再び息をする。
+
+--- THREAD CONTINUATION ---
+[Thread 1] GPT image prompt:- 「SYLVAN」の非常に詳細なリアルなキャラクターデザインシート。前面、側面、背面ビュー。生きた木でできた背の高い威圧的な姿、ひび割れに苔が生えた樹皮の肌、閉じ込められたホタルのような輝く琥珀色の目、頭から生える古代のオークの角に鳥が巣を作っている。胸の空洞には輝く緑の心臓、生きた種が見える。手：根の指を持つ巨大な手。カラーパレット：深い森の茶色、生きた緑、琥珀の金、淡い月光の銀、地球の黒。キャラクターステータスパネル。白い背景。リアルな3Dレンダースタイル。
+
+[Thread 2] Seedance 2.0 — 15 sec:
+
+[0-3s] 古代の原始の森。完全な静寂。カメラは巨大な古木の間をゆっくりと移動する。何かが見ている。鳥たちは静かになる。遠くの巨大な木が動き始める。
+[3-7s] シルヴァンが森の床から立ち上がる。古い木に見えたものが立ち上がる。古代の体から土と根が流れ落ちる。朝の霧の中で完全に姿を現す。カメラは彼の巨大な高さを上に向かって傾ける。鳥たちは角から飛び散る。
+[7-11s] 彼は枯れかけた木に一つの巨大な根の手を置く。彼の輝く胸から腕を通じて緑のエネルギーが枯れかけた木に流れ込み、それは瞬時に開花し、数秒で成長の季節を迎える。花がスローモーションで開く。命が蘇る。
+[11-15s] 彼は振り返り、森の中へと歩いて戻る。彼の足跡には花が咲き、草が生え、小さな動物たちが興味津々に後を追う。カメラは引いて空中からの視点に変わり、彼の道を追うように森に緑の生命の波が広がる。世界は再び息をする。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2063913520719372288/pu/img/5ZNDvDw63uvciuic.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063913642400337946.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063913642400337946.mp4)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2063913642400337946) | **公開日:** 2026年6月8日
+
+`Story` `Drama` `Photoreal` `Fantasy` `VFX` `Slow-Mo` `FPV & Aerial`
 
 ---
 
@@ -6453,30 +6484,9 @@ Final shot: Wendy sits on the ground defeated and disgusted while Ronald stands 
 
 ---
 
-### 经典的90年代迪士尼动画风格。 场景1：一只威猛强壮的老虎正挂在树枝上，前爪紧紧抓住树枝，腋窝敞开着，它正努力保持平衡，不让自己松手掉下去。
-
-#### 📝 プロンプト
-
-```
----
-クラシックな90年代ディズニーアニメーションスタイル。  
-シーン1：力強く威厳のある虎が木の枝にぶら下がっている。前足でしっかりと枝を掴み、脇を開いてバランスを保とうと必死になっている。手を離して落ちないように努力している。  
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2063748658030432257/img/sTd0u8MJvU-GwUIV.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063749025870778415.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063749025870778415.mp4)**
-
-**作者:** [migrok](https://x.com/migrok293703) | **ソース:** [Link](https://x.com/migrok293703/status/2063749025870778415) | **公開日:** 2026年6月7日
-
-`Animals` `Wildlife` `Anime 2D` `Realistic World`
-
----
-
 ## 📚 📚 さらに多くのプロンプト
 
-### 🎯 1495 件のプロンプトが非表示
+### 🎯 1496 件のプロンプトが非表示
 
 **👉 [Renoise でプロンプトを閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
@@ -6509,6 +6519,36 @@ ChatGPT Images 2.0でストーリーボード（1枚）を作成し、それをS
 **作者:** [akira](https://x.com/AIakira23) | **ソース:** [Link](https://x.com/AIakira23/status/2064137845594595347) | **公開日:** 2026年6月9日
 
 `Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Creative Asset` `Tutorial`
+
+---
+
+### 参照画像を1枚入力して、その雰囲気（こんな感じ）を元にSeedance 2.0で短編映画風の映像を生成する
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+#### 📝 プロンプト
+
+```
+参照画像を1枚入力して、その雰囲気（こんな感じ）を元にSeedance 2.0で短編映画風の映像を生成する  
+線（スケッチ）を描いてカメラ・人物・物体の動きを指定し、Seedance 2.0で構図やモーションをコントロールする  
+ファッションスケッチを入力してSeedance 2.0で製品映像（プロダクト動画）に変換する  
+Midjourney＋GPT Image 2で素材（ビジュアル）を作り、Seedance 2.0で動画化し、Sunoで音楽を付けるワークフローで作品を仕上げる
+```
+
+#### 💡 使い方のコツ
+
+参照画像を1枚入力して、その雰囲気（こんな感じ）を元にSeedance 2.0で短編映画風の映像を生成する  
+線（スケッチ）を描いてカメラ・人物・物体の動きを指定し、Seedance 2.0で構図やモーションをコントロールする  
+ファッションスケッチを入力してSeedance 2.0で製品映像（プロダクト動画）に変換する  
+Midjourney＋GPT Image 2で素材（ビジュアル）を作り、Seedance 2.0で動画化し、Sunoで音楽を付けるワークフローで作品を仕上げる
+
+[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2064139320827764736/pu/img/ODK6KCkRsx1S9_J7.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064139354180878718.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064139354180878718.mp4)**
+
+**作者:** [すてごん](https://x.com/1stegon_ai) | **ソース:** [Link](https://x.com/1stegon_ai/status/2064139354180878718) | **公開日:** 2026年6月9日
+
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
@@ -7560,38 +7600,7 @@ Seedanceで生成した動画にSunoで楽曲を付けて仕上げる
 
 ---
 
-### Use Midjourney’s reference character feature to create a consistent character…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-Midjourneyのリファレンスキャラクター機能を使用して、Seedance 2.0ビデオプロンプト用の一貫したキャラクターリファレンスを作成します。  
-MidjourneyのリファレンスキャラクターからChatGPT (GPT 2.0)でキャラクターアイデンティティシート/アイデンティティボードを生成し、それをSeedance 2.0のリファレンスキャラクター入力として使用します。
-
---- THREAD CONTINUATION ---
-[Thread 1] Midjourneyリファレンスキャラクターを使用して、GPT 2.0でシートアイデンティティボードを作成します https://t.co/cjhjZDtjBL
----
-```
-
-#### 💡 使い方のコツ
-
-Use Midjourney’s reference character feature to create a consistent character reference for your Seedance 2.0 video prompt  
-Generate a character identity sheet/identity board in ChatGPT (GPT 2.0) from the Midjourney reference character, then use it as the reference character input in Seedance 2.0
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2064014692398546944/img/Q7Sfo4Ql3LjckyY8.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064015903264829498.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064015903264829498.mp4)**
-
-**作者:** [Cia0](https://x.com/Cia0_exe) | **ソース:** [Link](https://x.com/Cia0_exe/status/2064015903264829498) | **公開日:** 2026年6月8日
-
-`Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
-
----
-
-*... その他 469 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
+*... その他 470 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
 
 ---
 
@@ -7615,4 +7624,4 @@ Generate a character identity sheet/identity board in ChatGPT (GPT 2.0) from the
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-09T05:21:22.608Z
+🤖 この README は自動生成されています。最終更新： 2026-06-09T05:55:39.837Z

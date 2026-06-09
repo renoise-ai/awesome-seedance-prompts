@@ -62,9 +62,9 @@ Coleção curada de prompts de geração de vídeo para o Seedance 2.0 da ByteDa
 
 | Métrica | Quantidade |
 |--------|-------|
-| 📝 Total de Prompts | **1595** |
+| 📝 Total de Prompts | **1596** |
 | ⭐ Destaques | **0** |
-| 💡 Dicas & Tutoriais | **499** |
+| 💡 Dicas & Tutoriais | **500** |
 | 🔄 Última Atualização | **2026-06-09** |
 
 ---
@@ -1012,6 +1012,26 @@ Camera Dynamics & Grading: Real smartphone vlog style, 16:9 aspect ratio, natura
 **Autor:** [Anissa](https://x.com/SimplyAnnisa) | **Fonte:** [Link](https://x.com/SimplyAnnisa/status/2063902348305678688) | **Publicado:** 8 de jun. de 2026
 
 `Sports` `Football` `Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `POV`
+
+---
+
+### Ancient primeval forest. Total stillness. Camera moves slowly through enormous…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 Prompt
+
+```
+Ancient primeval forest. Total stillness. Camera moves slowly through enormous old trees. Something is watching. Birds go silent. A massive tree in distance begins to move. Sylvan rises from the forest floor what appeared to be an old tree STANDS UP. Soil and roots cascading off ancient body. Full reveal in morning mist. Camera tilts up his full enormous height. Birds scatter from antlers. He places one massive root-hand on a dying tree. Green energy flows from his glowing chest through arm into dying tree it blooms instantly, seasons of growth in seconds. Flowers burst open in slow motion. Life restored. He turns and walks back into forest. With each step flowers bloom in his footprints, grass grows, small animals follow curiously. Camera pulls back into aerial view a wave of green life spreading through forest following his path. World breathes again.
+```
+
+[![Prévia do Vídeo](https://pbs.twimg.com/ext_tw_video_thumb/2063913520719372288/pu/img/5ZNDvDw63uvciuic.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063913642400337946.mp4)
+
+📥 *Clique na imagem para assistir o vídeo* | **[🎬 Assistir Vídeo →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063913642400337946.mp4)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2063913642400337946) | **Publicado:** 8 de jun. de 2026
+
+`Story` `Drama` `Photoreal` `Fantasy` `VFX` `Slow-Mo` `FPV & Aerial`
 
 ---
 
@@ -4780,27 +4800,9 @@ Final shot: Wendy sits on the ground defeated and disgusted while Ronald stands 
 
 ---
 
-### 经典的90年代迪士尼动画风格。 场景1：一只威猛强壮的老虎正挂在树枝上，前爪紧紧抓住树枝，腋窝敞开着，它正努力保持平衡，不让自己松手掉下去。
-
-#### 📝 Prompt
-
-```
-经典的90年代迪士尼动画风格。 场景1：一只威猛强壮的老虎正挂在树枝上，前爪紧紧抓住树枝，腋窝敞开着，它正努力保持平衡，不让自己松手掉下去。
-```
-
-[![Prévia do Vídeo](https://pbs.twimg.com/amplify_video_thumb/2063748658030432257/img/sTd0u8MJvU-GwUIV.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063749025870778415.mp4)
-
-📥 *Clique na imagem para assistir o vídeo* | **[🎬 Assistir Vídeo →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063749025870778415.mp4)**
-
-**Autor:** [migrok](https://x.com/migrok293703) | **Fonte:** [Link](https://x.com/migrok293703/status/2063749025870778415) | **Publicado:** 7 de jun. de 2026
-
-`Animals` `Wildlife` `Anime 2D` `Realistic World`
-
----
-
 ## 📚 📚 Mais Prompts
 
-### 🎯 1495 prompts adicionais não exibidos aqui
+### 🎯 1496 prompts adicionais não exibidos aqui
 
 **👉 [Ver todos os prompts Seedance 2.0 no Renoise](https://renoise.ai/pt-BR/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
@@ -4833,6 +4835,36 @@ ChatGPT Images 2.0でストーリーボード（1枚）を作成し、それをS
 **Autor:** [akira](https://x.com/AIakira23) | **Fonte:** [Link](https://x.com/AIakira23/status/2064137845594595347) | **Publicado:** 9 de jun. de 2026
 
 `Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Creative Asset` `Tutorial`
+
+---
+
+### 参照画像を1枚入力して、その雰囲気（こんな感じ）を元にSeedance 2.0で短編映画風の映像を生成する
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+#### 📝 Prompt
+
+```
+参照画像を1枚入力して、その雰囲気（こんな感じ）を元にSeedance 2.0で短編映画風の映像を生成する  
+線（スケッチ）を描いてカメラ・人物・物体の動きを指定し、Seedance 2.0で構図やモーションをコントロールする  
+ファッションスケッチを入力してSeedance 2.0で製品映像（プロダクト動画）に変換する  
+Midjourney＋GPT Image 2で素材（ビジュアル）を作り、Seedance 2.0で動画化し、Sunoで音楽を付けるワークフローで作品を仕上げる
+```
+
+#### 💡 Dicas
+
+参照画像を1枚入力して、その雰囲気（こんな感じ）を元にSeedance 2.0で短編映画風の映像を生成する  
+線（スケッチ）を描いてカメラ・人物・物体の動きを指定し、Seedance 2.0で構図やモーションをコントロールする  
+ファッションスケッチを入力してSeedance 2.0で製品映像（プロダクト動画）に変換する  
+Midjourney＋GPT Image 2で素材（ビジュアル）を作り、Seedance 2.0で動画化し、Sunoで音楽を付けるワークフローで作品を仕上げる
+
+[![Prévia do Vídeo](https://pbs.twimg.com/ext_tw_video_thumb/2064139320827764736/pu/img/ODK6KCkRsx1S9_J7.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064139354180878718.mp4)
+
+📥 *Clique na imagem para assistir o vídeo* | **[🎬 Assistir Vídeo →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064139354180878718.mp4)**
+
+**Autor:** [すてごん](https://x.com/1stegon_ai) | **Fonte:** [Link](https://x.com/1stegon_ai/status/2064139354180878718) | **Publicado:** 9 de jun. de 2026
+
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
@@ -5626,33 +5658,7 @@ Seedanceで生成した動画にSunoで楽曲を付けて仕上げる
 
 ---
 
-### Use Midjourney’s reference character feature to create a consistent character…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 Prompt
-
-```
-Use Midjourney’s reference character feature to create a consistent character reference for your Seedance 2.0 video prompt  
-Generate a character identity sheet/identity board in ChatGPT (GPT 2.0) from the Midjourney reference character, then use it as the reference character input in Seedance 2.0
-```
-
-#### 💡 Dicas
-
-Use Midjourney’s reference character feature to create a consistent character reference for your Seedance 2.0 video prompt  
-Generate a character identity sheet/identity board in ChatGPT (GPT 2.0) from the Midjourney reference character, then use it as the reference character input in Seedance 2.0
-
-[![Prévia do Vídeo](https://pbs.twimg.com/amplify_video_thumb/2064014692398546944/img/Q7Sfo4Ql3LjckyY8.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064015903264829498.mp4)
-
-📥 *Clique na imagem para assistir o vídeo* | **[🎬 Assistir Vídeo →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064015903264829498.mp4)**
-
-**Autor:** [Cia0](https://x.com/Cia0_exe) | **Fonte:** [Link](https://x.com/Cia0_exe/status/2064015903264829498) | **Publicado:** 8 de jun. de 2026
-
-`Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
-
----
-
-*... e mais 469 dicas. [Ver tudo na Galeria](https://renoise.ai/pt-BR/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
+*... e mais 470 dicas. [Ver tudo na Galeria](https://renoise.ai/pt-BR/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
 
 ---
 
@@ -5676,4 +5682,4 @@ Agradecemos a todos os criadores que compartilharam seus prompts com a comunidad
 
 **🌐 [🎬 Ver na Galeria Web](https://renoise.ai/pt-BR/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [modelo Seedance 2.0](https://renoise.ai/pt-BR/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 Enviar um Prompt** • **⭐ Dar Star**
 
-🤖 Este README é gerado automaticamente. Última atualização: 2026-06-09T05:21:22.621Z
+🤖 Este README é gerado automaticamente. Última atualização: 2026-06-09T05:55:39.851Z
