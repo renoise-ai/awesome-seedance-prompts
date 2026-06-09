@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **1540** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **462** |
-| 🔄 最終更新 | **2026-06-08** |
+| 🔄 最終更新 | **2026-06-09** |
 
 ---
 
@@ -7013,4 +7013,4 @@ Add audio constraints directly in the prompt (e.g., no music; include footsteps,
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-08T21:51:02.978Z
+🤖 この README は自動生成されています。最終更新： 2026-06-09T03:39:59.839Z
