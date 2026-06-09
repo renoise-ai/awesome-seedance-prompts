@@ -1,0 +1,42 @@
+{
+  "id": "2063923797477265557",
+  "title": "参照（リファレンス）を「役割分担」させて使うと、一貫性の破綻を減らせる",
+  "content": "参照（リファレンス）を「役割分担」させて使うと、一貫性の破綻を減らせる  \nストーリーボードで細部まで固めすぎるより、絵作りはSeedance2にある程度任せて自由度を残すと、修正コストを抑えつつ結果が良くなりやすい  \n被写体が「いる」ことが明確なカット構成にすると、一貫性を取りやすく破綻が少なくなる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063905969067978752/img/g9IYabnM0U50Ylnm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063923797477265557.mp4",
+  "sourceLink": "https://x.com/luta_ai/status/2063923797477265557",
+  "sourcePublishedAt": "2026-06-08",
+  "author": {
+    "name": "LUTA＠AI",
+    "link": "https://x.com/luta_ai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "参照（リファレンス）を「役割分担」させて使うと、一貫性の破綻を減らせる  \nストーリーボードで細部まで固めすぎるより、絵作りはSeedance2にある程度任せて自由度を残すと、修正コストを抑えつつ結果が良くなりやすい  \n被写体が「いる」ことが明確なカット構成にすると、一貫性を取りやすく破綻が少なくなる",
+  "translations": {
+    "en": {
+      "content": "Using references for \"role distribution\" can reduce inconsistencies  \nInstead of solidifying every detail in a storyboard, leaving some freedom to Seedance2 for image creation tends to yield better results while keeping revision costs low  \nWhen the composition of the cut clearly indicates the presence of a subject, it becomes easier to maintain consistency and reduce inconsistencies\n\n--- QUOTED TWEET ---\nI've been playing with Seedance2 on Runway lately, and it seems more cost-effective to allow for some degree of freedom with Seedance 🤔  \nI've tried various methods of solidifying with storyboards, but minor mistakes stand out, leading to increased revision costs, making it tough in terms of both cost and time...💦  \nRather, leaving some degree of image creation to Seedance2 has resulted in better outcomes 😊  \nWhen the presence is clear, as in this cut, it seems easier to maintain consistency and reduce inconsistencies  \n#ai #seedance2 #runway"
+    },
+    "es": {
+      "content": "---\nAl utilizar referencias para \"repartir roles\", se puede reducir la inconsistencia.  \nEn lugar de fijar todos los detalles en un storyboard, es mejor dejar cierta libertad a Seedance2 para la creación visual, lo que tiende a mejorar los resultados y reducir los costos de corrección.  \nSi se estructura el corte de manera que sea claro que hay un sujeto \"presente\", es más fácil mantener la consistencia y se reducen las rupturas.\n\n--- TWEET CITADO ---\nÚltimamente he estado jugando con Seedance2 de Runway, y parece que tener un cierto grado de libertad en Seedance es más rentable 🤔  \nHe probado varios métodos para fijar el storyboard, pero los errores en los detalles se destacan y los costos de corrección posteriores aumentan, lo que resulta difícil tanto en costos como en tiempo...💦  \nEn lugar de eso, dejar cierta libertad a Seedance2 para la creación visual ha resultado en mejores productos 😊  \nCuando el corte es claro como en este caso, es más fácil mantener la consistencia y hay menos rupturas.  \n#ai #seedance2 #runway\n---"
+    },
+    "fr": {
+      "content": "Utiliser les références en les « répartissant par rôles » peut réduire les incohérences.  \nPlutôt que de figer trop de détails dans le storyboard, laisser une certaine liberté à Seedance2 pour la création visuelle permet souvent d'améliorer le résultat tout en réduisant les coûts de correction.  \nEn structurant les plans de manière à ce que la présence du sujet soit claire, il est plus facile de maintenir la cohérence et de réduire les incohérences.\n\n--- TWEET CITÉ ---\nJe m'amuse avec Seedance2 de Runway ces derniers temps, et il semble que laisser une certaine liberté à Seedance soit plus rentable 🤔  \nJ'ai essayé plusieurs méthodes en fixant le storyboard, mais les erreurs dans les détails se multiplient, augmentant les coûts de correction et rendant le processus difficile en termes de coût et de temps... 💦  \nIl est préférable de confier une partie de la création visuelle à Seedance2, ce qui permet de produire de meilleurs résultats 😊  \nLorsque la présence est claire, comme dans ce plan, il est plus facile de maintenir la cohérence et de réduire les incohérences.  \n#ai #seedance2 #runway"
+    },
+    "ko": {
+      "content": "참조를 \"역할 분담\" 시켜 사용하면 일관성의 파탄을 줄일 수 있다.  \n스토리보드에서 세부 사항까지 너무 고정하기보다는, 그림 제작을 Seedance2에 어느 정도 맡겨 자유도를 남기면 수정 비용을 줄이면서 결과가 좋아지기 쉽다.  \n피사체가 \"있는\" 것이 명확한 컷 구성으로 하면, 일관성을 유지하기 쉬워지고 파탄이 적어진다.\n\n--- 인용된 트윗 ---\n최근 Runway의 Seedance2로 놀고 있는데, Seedance는 어느 정도 자유도가 있는 편이 비용 대비 효율이 좋을 것 같다🤔  \n스토리보드로 고정하는 방법도 여러 가지 해봤지만, 세부적인 부분에서의 실수가 두드러져 나중에 수정 비용이 늘어나고, 비용과 시간 모두에서 힘들다...💦  \n그보다는 어느 정도 그림 제작을 Seedance2에 맡기는 편이 결과가 좋은 작품을 만들 수 있다😊  \n이 컷처럼 \"있는\" 것이 명확하면, 일관성도 유지하기 쉽고 파탄이 적은 인상이다.  \n#ai #seedance2 #runway"
+    },
+    "pt": {
+      "content": "Usar referências para \"dividir funções\" pode reduzir a quebra de consistência.  \nEm vez de fixar todos os detalhes no storyboard, deixar a criação visual um pouco a cargo do Seedance2 pode resultar em melhores resultados, reduzindo os custos de correção.  \nQuando a composição do corte deixa claro que há um sujeito \"presente\", é mais fácil manter a consistência e há menos quebras.\n\n--- TWEET CITADO ---\nTenho brincado com o Seedance2 do Runway ultimamente, e parece que ter um certo grau de liberdade no Seedance é mais eficiente em termos de custo-benefício 🤔  \nJá tentei várias abordagens fixando tudo no storyboard, mas os erros nos detalhes se destacam, aumentando os custos de correção posteriormente, o que é desgastante tanto em termos de custo quanto de tempo...💦  \nÉ melhor deixar a criação visual um pouco a cargo do Seedance2, pois os resultados são melhores 😊  \nQuando a presença é clara, como neste corte, a consistência é mais fácil de manter e há menos quebras.  \n#ai #seedance2 #runway"
+    },
+    "zh": {
+      "content": "参照（参考）通过“角色分配”来使用，可以减少一致性崩溃  \n与其在分镜头脚本中过于细致地固定细节，不如在画面创作上适度依赖Seedance2，保留一定的自由度，这样可以降低修改成本，同时更容易获得良好的结果  \n如果将镜头构成明确为有“存在”的主体，更容易保持一致性，减少崩溃\n\n--- 引用推文 ---\n最近一直在用runway的seedance2玩，但似乎seedance在一定程度上保持自由度更具性价比🤔\n虽然也尝试过通过分镜头脚本来固定，但在细节上容易出现错误，后期修改成本增加，时间和成本都很吃力...💦\n相比之下，将画面创作适度交给seedance2，反而能制作出更好的结果😊\n像这个镜头这样明确“存在”的话，一致性更容易保持，崩溃也较少\n#ai #seedance2 #runway"
+    }
+  }
+}

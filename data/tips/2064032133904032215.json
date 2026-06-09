@@ -1,0 +1,44 @@
+{
+  "id": "2064032133904032215",
+  "title": "Use Claude Opus 4.8 to describe the exact beauty shot you want (e.g., dewy skin…",
+  "content": "Use Claude Opus 4.8 to describe the exact beauty shot you want (e.g., dewy skin macro, gloss-on-lips contact, ripple transition) and have it output a shot-by-shot storyboard plus a prompt for every frame  \nGenerate photoreal stills frame-by-frame in GPT Image 2 using the per-frame prompts from Claude  \nAnimate each generated still into a video clip in Seedance 2.0 to get a smooth slow-motion glide  \nAssemble the resulting Seedance clips into a finished ad in HeyOz  \nScale output by generating hundreds of variations (shades, models, hooks, transitions) once the workflow is dialed in",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064032015062536192/img/16-EeLV3xj_WCwr-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064032133904032215.mp4",
+  "sourceLink": "https://x.com/spect3ral/status/2064032133904032215",
+  "sourcePublishedAt": "2026-06-08",
+  "author": {
+    "name": "Ahad Shams",
+    "link": "https://x.com/spect3ral"
+  },
+  "tags": [
+    "Product Ad",
+    "Beauty",
+    "Photoreal",
+    "Realistic World",
+    "Macro",
+    "Slow-Mo",
+    "Tutorial"
+  ],
+  "tips": "Use Claude Opus 4.8 to describe the exact beauty shot you want (e.g., dewy skin macro, gloss-on-lips contact, ripple transition) and have it output a shot-by-shot storyboard plus a prompt for every frame  \nGenerate photoreal stills frame-by-frame in GPT Image 2 using the per-frame prompts from Claude  \nAnimate each generated still into a video clip in Seedance 2.0 to get a smooth slow-motion glide  \nAssemble the resulting Seedance clips into a finished ad in HeyOz  \nScale output by generating hundreds of variations (shades, models, hooks, transitions) once the workflow is dialed in",
+  "translations": {
+    "es": {
+      "content": "Usa Claude Opus 4.8 para describir el plano de belleza exacto que deseas (por ejemplo, macro de piel húmeda, brillo en los labios, transición ondulante) y obtén un guion gráfico plano por plano más un prompt para cada fotograma  \nGenera imágenes fotorrealistas fotograma a fotograma en GPT Image 2 usando los prompts por fotograma de Claude  \nAnima cada imagen generada en un clip de video en Seedance 2.0 para obtener un deslizamiento suave en cámara lenta  \nEnsambla los clips resultantes de Seedance en un anuncio terminado en HeyOz  \nEscala la producción generando cientos de variaciones (tonalidades, modelos, ganchos, transiciones) una vez que el flujo de trabajo esté afinado"
+    },
+    "fr": {
+      "content": "---\nUtilisez Claude Opus 4.8 pour décrire précisément le plan beauté que vous souhaitez (par exemple, macro de peau rosée, contact gloss-sur-lèvres, transition ondulée) et obtenez un storyboard plan par plan ainsi qu'un prompt pour chaque image  \nGénérez des images fixes photoréalistes image par image dans GPT Image 2 en utilisant les prompts par image de Claude  \nAnimez chaque image fixe générée en un clip vidéo dans Seedance 2.0 pour obtenir un glissement fluide au ralenti  \nAssemblez les clips Seedance résultants en une publicité finie dans HeyOz  \nAugmentez la production en générant des centaines de variations (nuances, modèles, accroches, transitions) une fois le flux de travail optimisé  \n---"
+    },
+    "ja": {
+      "content": "---\nClaude Opus 4.8を使用して、正確なビューティーショットを説明します（例：デューイ肌のマクロ、唇の光沢の接触、リップルトランジション）し、ショットごとのストーリーボードと各フレームのプロンプトを出力させます  \nClaudeからのフレームごとのプロンプトを使用して、GPT Image 2でフォトリアルな静止画をフレームごとに生成します  \n生成された各静止画をSeedance 2.0で動画クリップにアニメーション化し、スムーズなスローモーションのグライドを得ます  \n結果として得られたSeedanceクリップをHeyOzで完成した広告に組み立てます  \nワークフローが確立されたら、何百ものバリエーション（シェード、モデル、フック、トランジション）を生成して出力を拡大します  \n---"
+    },
+    "ko": {
+      "content": "---\nClaude Opus 4.8을 사용하여 원하는 정확한 뷰티 샷을 설명하세요 (예: 촉촉한 피부 매크로, 입술의 광택 접촉, 물결 전환) 그리고 각 프레임에 대한 프롬프트와 함께 샷별 스토리보드를 출력하세요  \nClaude에서 제공한 프레임별 프롬프트를 사용하여 GPT Image 2에서 프레임별로 사진처럼 실사 이미지를 생성하세요  \nSeedance 2.0에서 생성된 각 스틸 이미지를 비디오 클립으로 애니메이션화하여 부드러운 슬로우 모션 글라이드를 얻으세요  \n결과로 나온 Seedance 클립을 HeyOz에서 완성된 광고로 조립하세요  \n워크플로우가 조정되면 수백 가지 변형(색조, 모델, 후크, 전환)을 생성하여 출력을 확장하세요  \n---"
+    },
+    "pt": {
+      "content": "Use Claude Opus 4.8 para descrever o exato beauty shot que você deseja (por exemplo, macro de pele orvalhada, gloss nos lábios, transição ripple) e obtenha um storyboard quadro a quadro mais um prompt para cada frame  \nGere imagens fotorealistas quadro a quadro no GPT Image 2 usando os prompts por frame do Claude  \nAnime cada imagem gerada em um clipe de vídeo no Seedance 2.0 para obter um deslizamento suave em câmera lenta  \nMonte os clipes resultantes do Seedance em um anúncio final no HeyOz  \nEscalone a produção gerando centenas de variações (tons, modelos, ganchos, transições) uma vez que o fluxo de trabalho esteja ajustado"
+    },
+    "zh": {
+      "content": "使用 Claude Opus 4.8 描述您想要的精美镜头（例如，露珠般的肌肤特写、唇部光泽接触、波纹过渡），并输出逐镜头分镜图以及每帧的 prompt  \n在 GPT Image 2 中使用 Claude 提供的每帧 prompt 逐帧生成照片级真实感的静态图像  \n在 Seedance 2.0 中将每个生成的静态图像动画化为视频片段，以获得流畅的慢动作滑动效果  \n在 HeyOz 中将生成的 Seedance 片段组装成完整的广告  \n一旦工作流程调整到位，通过生成数百种变体（色调、模特、钩子、过渡）来扩大输出规模"
+    }
+  }
+}

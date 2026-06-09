@@ -1,0 +1,43 @@
+{
+  "id": "2064172984810504467",
+  "title": "Draw the desired FPV camera path as a line on a still photo in Seedance 2.0…",
+  "content": "Draw the desired FPV camera path as a line on a still photo in Seedance 2.0 (Higgsfield) to have it interpret the line as the camera move and generate the full FPV drone-style shot without using a drone.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064172812005163008/img/ggETSsPhmutIiFlJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064172984810504467.mp4",
+  "sourceLink": "https://x.com/dr_cintas/status/2064172984810504467",
+  "sourcePublishedAt": "2026-06-09",
+  "author": {
+    "name": "Alvaro Cintas",
+    "link": "https://x.com/dr_cintas"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Draw the desired FPV camera path as a line on a still photo in Seedance 2.0 (Higgsfield) to have it interpret the line as the camera move and generate the full FPV drone-style shot without using a drone.",
+  "translations": {
+    "es": {
+      "content": "Dibuja la trayectoria deseada de la cámara FPV como una línea en una foto fija en Seedance 2.0 (Higgsfield) para que interprete la línea como el movimiento de la cámara y genere la toma completa al estilo de un dron FPV sin usar un dron."
+    },
+    "fr": {
+      "content": "Dessinez le chemin souhaité de la caméra FPV sous forme de ligne sur une photo fixe dans Seedance 2.0 (Higgsfield) pour qu'il interprète la ligne comme le mouvement de la caméra et génère la prise de vue complète de style drone FPV sans utiliser de drone."
+    },
+    "ja": {
+      "content": "Seedance 2.0（Higgsfield）で静止写真に希望するFPVカメラのパスを線として描くことで、その線をカメラの動きとして解釈し、ドローンを使用せずにFPVドローンスタイルのショット全体を生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0 (Higgsfield)에서 정지 사진 위에 원하는 FPV 카메라 경로를 선으로 그려, 그 선을 카메라 움직임으로 해석하여 드론 없이 전체 FPV 드론 스타일 샷을 생성합니다."
+    },
+    "pt": {
+      "content": "Desenhe o caminho desejado da câmera FPV como uma linha em uma foto estática no Seedance 2.0 (Higgsfield) para que ele interprete a linha como o movimento da câmera e gere a filmagem completa no estilo de drone FPV sem usar um drone."
+    },
+    "zh": {
+      "content": "在Seedance 2.0 (Higgsfield)中，将所需的FPV相机路径绘制为静态照片上的一条线，以便它将该线解释为相机移动，并生成完整的FPV无人机风格镜头，而无需使用无人机。"
+    }
+  }
+}

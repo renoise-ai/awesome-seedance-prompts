@@ -1,0 +1,42 @@
+{
+  "id": "2063862290806710282",
+  "title": "Generate a base character with GPT Image 2, then use the chosen image as a…",
+  "content": "Generate a base character with GPT Image 2, then use the chosen image as a reference to create a professional character reference sheet using a prompt like: Create a professional CHARACTER REFERENCE SHEET for the attached woman reference image; premium film/game production character bible layout; minimal clean white background; black thin grid lines; editorial typography; realistic studio photography style.  \nUse the character reference sheet to generate a storyboard for the specific scenes and story you want to create.  \nIn Seedance 2.0, upload both the storyboard and the character sheet as reference inputs.  \nIn your Seedance 2.0 prompt, include the exact timing and actions from the storyboard to keep the output aligned with planned shots across scenes.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/D_studioproject/status/2063862290806710282",
+  "sourcePublishedAt": "2026-06-08",
+  "author": {
+    "name": "DStudioproject",
+    "link": "https://x.com/D_studioproject"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Generate a base character with GPT Image 2, then use the chosen image as a reference to create a professional character reference sheet using a prompt like: Create a professional CHARACTER REFERENCE SHEET for the attached woman reference image; premium film/game production character bible layout; minimal clean white background; black thin grid lines; editorial typography; realistic studio photography style.  \nUse the character reference sheet to generate a storyboard for the specific scenes and story you want to create.  \nIn Seedance 2.0, upload both the storyboard and the character sheet as reference inputs.  \nIn your Seedance 2.0 prompt, include the exact timing and actions from the storyboard to keep the output aligned with planned shots across scenes.",
+  "translations": {
+    "es": {
+      "content": "Genera un personaje base con GPT Image 2, luego utiliza la imagen elegida como referencia para crear una hoja de referencia de personaje profesional usando un prompt como: Create a professional CHARACTER REFERENCE SHEET for the attached woman reference image; premium film/game production character bible layout; minimal clean white background; black thin grid lines; editorial typography; realistic studio photography style.  \nUsa la hoja de referencia de personaje para generar un guion gráfico para las escenas y la historia específica que deseas crear.  \nEn Seedance 2.0, sube tanto el guion gráfico como la hoja de personaje como entradas de referencia.  \nEn tu prompt de Seedance 2.0, incluye el tiempo exacto y las acciones del guion gráfico para mantener la salida alineada con las tomas planificadas a lo largo de las escenas."
+    },
+    "fr": {
+      "content": "Générez un personnage de base avec GPT Image 2, puis utilisez l'image choisie comme référence pour créer une fiche de référence de personnage professionnelle en utilisant un prompt tel que : Create a professional CHARACTER REFERENCE SHEET for the attached woman reference image; premium film/game production character bible layout; minimal clean white background; black thin grid lines; editorial typography; realistic studio photography style.  \nUtilisez la fiche de référence de personnage pour générer un storyboard pour les scènes spécifiques et l'histoire que vous souhaitez créer.  \nDans Seedance 2.0, téléchargez à la fois le storyboard et la fiche de personnage comme entrées de référence.  \nDans votre prompt Seedance 2.0, incluez le minutage exact et les actions du storyboard pour que la sortie soit alignée avec les plans prévus à travers les scènes."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2を使用してベースキャラクターを生成し、選択した画像を参考にして、以下のようなプロンプトを使用してプロフェッショナルなキャラクターリファレンスシートを作成します: Create a professional CHARACTER REFERENCE SHEET for the attached woman reference image; premium film/game production character bible layout; minimal clean white background; black thin grid lines; editorial typography; realistic studio photography style.  \nキャラクターリファレンスシートを使用して、作成したい特定のシーンやストーリーのためのストーリーボードを生成します。  \nSeedance 2.0では、ストーリーボードとキャラクターシートの両方を参照入力としてアップロードします。  \nSeedance 2.0のプロンプトには、ストーリーボードからの正確なタイミングとアクションを含め、シーン全体で計画されたショットに合わせて出力を調整します。  \n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2를 사용하여 기본 캐릭터를 생성한 후, 선택한 이미지를 참조하여 다음과 같은 프롬프트를 사용하여 전문적인 캐릭터 참조 시트를 만드세요: Create a professional CHARACTER REFERENCE SHEET for the attached woman reference image; premium film/game production character bible layout; minimal clean white background; black thin grid lines; editorial typography; realistic studio photography style.  \n캐릭터 참조 시트를 사용하여 생성하고자 하는 특정 장면과 이야기의 스토리보드를 만드세요.  \nSeedance 2.0에서 스토리보드와 캐릭터 시트를 참조 입력으로 업로드하세요.  \nSeedance 2.0 프롬프트에 스토리보드의 정확한 타이밍과 동작을 포함하여 장면 전반에 걸쳐 계획된 샷과 일치하도록 출력을 유지하세요.\n---"
+    },
+    "pt": {
+      "content": "---\nGere um personagem base com o GPT Image 2, depois use a imagem escolhida como referência para criar uma folha de referência de personagem profissional usando um prompt como: Create a professional CHARACTER REFERENCE SHEET for the attached woman reference image; premium film/game production character bible layout; minimal clean white background; black thin grid lines; editorial typography; realistic studio photography style.  \nUse a folha de referência de personagem para gerar um storyboard para as cenas e a história específicas que você deseja criar.  \nNo Seedance 2.0, faça o upload tanto do storyboard quanto da folha de personagem como entradas de referência.  \nNo seu prompt do Seedance 2.0, inclua o tempo exato e as ações do storyboard para manter a saída alinhada com as tomadas planejadas ao longo das cenas.  \n---"
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成一个基础角色，然后使用所选图像作为参考，通过以下提示创建一个专业的角色参考表：Create a professional CHARACTER REFERENCE SHEET for the attached woman reference image; premium film/game production character bible layout; minimal clean white background; black thin grid lines; editorial typography; realistic studio photography style.  \n使用角色参考表为您想要创建的特定场景和故事生成分镜头脚本。  \n在Seedance 2.0中，上传分镜头脚本和角色表作为参考输入。  \n在您的Seedance 2.0提示中，包含分镜头脚本中的确切时间和动作，以确保输出与跨场景的计划镜头保持一致。"
+    }
+  }
+}

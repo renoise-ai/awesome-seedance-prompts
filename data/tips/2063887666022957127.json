@@ -1,0 +1,42 @@
+{
+  "id": "2063887666022957127",
+  "title": "Use GPT Image 2 to generate a clean hero product shot, then feed that image…",
+  "content": "Use GPT Image 2 to generate a clean hero product shot, then feed that image into Seedance 2 to generate a realistic model video.  \nHave an LLM write the motion description/prompt for Seedance 2 to control the animation.  \nPrompt Seedance 2 to start and end on the original product shot so the output loops seamlessly.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063887561735700480/img/id-_TlqgXClZDyd2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063887666022957127.mp4",
+  "sourceLink": "https://x.com/wireflowai/status/2063887666022957127",
+  "sourcePublishedAt": "2026-06-08",
+  "author": {
+    "name": "Wireflow AI",
+    "link": "https://x.com/wireflowai"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image 2 to generate a clean hero product shot, then feed that image into Seedance 2 to generate a realistic model video.  \nHave an LLM write the motion description/prompt for Seedance 2 to control the animation.  \nPrompt Seedance 2 to start and end on the original product shot so the output loops seamlessly.",
+  "translations": {
+    "es": {
+      "content": "Usa GPT Image 2 para generar una imagen limpia del producto principal, luego introduce esa imagen en Seedance 2 para generar un video de modelo realista.  \nHaz que un LLM escriba la descripción del movimiento/prompt para Seedance 2 para controlar la animación.  \nPrompt Seedance 2 para comenzar y terminar en la imagen original del producto para que la salida se repita sin interrupciones."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer une image propre du produit en tant que héros, puis intégrez cette image dans Seedance 2 pour générer une vidéo modèle réaliste.  \nDemandez à un LLM d'écrire la description du mouvement/prompt pour Seedance 2 afin de contrôler l'animation.  \nPrompt Seedance 2 pour commencer et terminer sur l'image originale du produit afin que la sortie boucle de manière fluide."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2を使用してクリーンなヒーロープロダクトショットを生成し、その画像をSeedance 2に入力してリアルなモデルビデオを生成します。  \nLLMにSeedance 2のアニメーションを制御するモーションの説明/プロンプトを書かせます。  \nSeedance 2にプロンプトを与え、出力がシームレスにループするように、元のプロダクトショットで開始し終了するようにします。\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2를 사용하여 깔끔한 히어로 제품 사진을 생성한 후, 해당 이미지를 Seedance 2에 입력하여 현실적인 모델 비디오를 생성하세요.  \nSeedance 2의 애니메이션을 제어하기 위해 LLM이 모션 설명/프롬프트를 작성하도록 하세요.  \nSeedance 2에 원래 제품 사진에서 시작하고 끝나도록 프롬프트를 주어 출력이 매끄럽게 반복되도록 하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar uma imagem limpa do produto principal, depois insira essa imagem no Seedance 2 para gerar um vídeo realista de modelo.  \nPeça a um LLM para escrever a descrição do movimento/prompt para o Seedance 2 controlar a animação.  \nPrompt Seedance 2 to start and end on the original product shot so the output loops seamlessly."
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成一个干净的主打产品照片，然后将该图像输入Seedance 2生成一个逼真的模型视频。  \n让一个LLM撰写运动描述/提示词，以控制Seedance 2的动画。  \n提示Seedance 2以原始产品照片开始和结束，以便输出无缝循环。"
+    }
+  }
+}

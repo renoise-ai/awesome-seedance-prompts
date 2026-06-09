@@ -1,0 +1,42 @@
+{
+  "id": "2063998313137910059",
+  "title": "Create a 3D blockout in Maya, paint over the render in Photoshop, animate the…",
+  "content": "Create a 3D blockout in Maya, paint over the render in Photoshop, animate the camera movement in Maya, then use Seedance 2 motion transfer to apply that camera motion to your final video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063998216593448960/img/UGbfMjJObevlWpd4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063998313137910059.mp4",
+  "sourceLink": "https://x.com/sylvainsarrailh/status/2063998313137910059",
+  "sourcePublishedAt": "2026-06-08",
+  "author": {
+    "name": "Tohad",
+    "link": "https://x.com/sylvainsarrailh"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a 3D blockout in Maya, paint over the render in Photoshop, animate the camera movement in Maya, then use Seedance 2 motion transfer to apply that camera motion to your final video.",
+  "translations": {
+    "es": {
+      "content": "Crea un bloque 3D en Maya, pinta sobre el render en Photoshop, anima el movimiento de la cámara en Maya, luego usa Seedance 2 motion transfer para aplicar ese movimiento de cámara a tu video final."
+    },
+    "fr": {
+      "content": "Créez un blockout 3D dans Maya, peignez sur le rendu dans Photoshop, animez le mouvement de la caméra dans Maya, puis utilisez Seedance 2 motion transfer pour appliquer ce mouvement de caméra à votre vidéo finale."
+    },
+    "ja": {
+      "content": "Mayaで3Dブロックアウトを作成し、Photoshopでレンダーにペイントを施し、Mayaでカメラの動きをアニメーション化します。その後、Seedance 2のモーショントランスファーを使用して、そのカメラの動きを最終ビデオに適用します。"
+    },
+    "ko": {
+      "content": "Maya에서 3D 블록아웃을 만들고, Photoshop에서 렌더링 위에 페인트한 후, Maya에서 카메라 움직임을 애니메이션화하세요. 그런 다음 Seedance 2 모션 전송을 사용하여 그 카메라 움직임을 최종 비디오에 적용하세요."
+    },
+    "pt": {
+      "content": "Crie um blockout 3D no Maya, pinte sobre o render no Photoshop, anime o movimento da câmera no Maya, e então use o Seedance 2 motion transfer para aplicar esse movimento de câmera ao seu vídeo final."
+    },
+    "zh": {
+      "content": "在Maya中创建3D初步模型，在Photoshop中对渲染图进行绘制，在Maya中动画化相机运动，然后使用Seedance 2运动转移将该相机运动应用到最终视频中。"
+    }
+  }
+}

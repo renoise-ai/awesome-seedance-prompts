@@ -1,0 +1,42 @@
+{
+  "id": "2063938450823184689",
+  "title": "Draw red arrows/scribbles on a still image to indicate desired camera movement…",
+  "content": "Draw red arrows/scribbles on a still image to indicate desired camera movement, then run it through Seedance 2.0 (on Higgsfield) to generate a cinematic flythrough without using a timeline or manual camera controls.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063938343633657856/img/P97ll9Xhf9TcCAp7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063938450823184689.mp4",
+  "sourceLink": "https://x.com/CharaspowerAI/status/2063938450823184689",
+  "sourcePublishedAt": "2026-06-08",
+  "author": {
+    "name": "Pierrick Chevallier | IA",
+    "link": "https://x.com/CharaspowerAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Draw red arrows/scribbles on a still image to indicate desired camera movement, then run it through Seedance 2.0 (on Higgsfield) to generate a cinematic flythrough without using a timeline or manual camera controls.",
+  "translations": {
+    "es": {
+      "content": "Dibuja flechas/garabatos rojos en una imagen fija para indicar el movimiento de cámara deseado, luego pásalo por Seedance 2.0 (en Higgsfield) para generar un recorrido cinematográfico sin usar una línea de tiempo o controles manuales de cámara."
+    },
+    "fr": {
+      "content": "Dessinez des flèches rouges/gribouillis sur une image fixe pour indiquer le mouvement de caméra souhaité, puis passez-la dans Seedance 2.0 (sur Higgsfield) pour générer un survol cinématique sans utiliser de chronologie ni de contrôles manuels de la caméra."
+    },
+    "ja": {
+      "content": "静止画像に赤い矢印や落書きを描いて、希望するカメラの動きを示します。その後、Seedance 2.0（Higgsfield上）を使用して、タイムラインや手動のカメラコントロールを使わずにシネマティックなフライスルーを生成します。"
+    },
+    "ko": {
+      "content": "정지된 이미지에 원하는 카메라 움직임을 나타내기 위해 빨간 화살표/낙서를 그린 후, Seedance 2.0 (Higgsfield에서 실행)을 통해 타임라인이나 수동 카메라 조작 없이 시네마틱 플라이쓰루를 생성하세요."
+    },
+    "pt": {
+      "content": "Desenhe setas/vermelhas ou rabiscos em uma imagem estática para indicar o movimento desejado da câmera, depois execute no Seedance 2.0 (no Higgsfield) para gerar um flythrough cinematográfico sem usar uma linha do tempo ou controles manuais de câmera."
+    },
+    "zh": {
+      "content": "在静止图像上画红色箭头/涂鸦以指示所需的相机移动，然后通过Seedance 2.0（在Higgsfield上）运行它，以生成不使用时间轴或手动相机控制的电影级飞行效果。"
+    }
+  }
+}

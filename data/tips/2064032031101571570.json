@@ -1,0 +1,41 @@
+{
+  "id": "2064032031101571570",
+  "title": "Attach a storyboard and instruct Seedance to use it as the exact visual…",
+  "content": "Attach a storyboard and instruct Seedance to use it as the exact visual reference and to follow a numbered shot list exactly.\n\nSpecify total duration and aspect ratio explicitly (e.g., 12 seconds, 16:9) to constrain the generation.\n\nLock continuity by repeating fixed character/wardrobe/location details across all shots (same vendor, white t‑shirt, red apron, same sunny cobblestone street).\n\nDefine camera framing per shot (wide, close-up, overhead, hero close-up) and summarize the camera plan to guide shot composition.\n\nEnforce a consistent style and lighting across the whole sequence with explicit constraints (Pixar 3D, bright vivid colors, “nothing dark or moody,” warm morning sunshine).\n\nDirect audio as a continuous bed plus synced SFX cues (continuous upbeat Spanish acoustic guitar with no breaks, add sizzle/bubbling/sugar roll/chocolate pour/crunch/exhale at the relevant shots).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TechieBySA/status/2064032031101571570",
+  "sourcePublishedAt": "2026-06-08",
+  "author": {
+    "name": "TechieSA",
+    "link": "https://x.com/TechieBySA"
+  },
+  "tags": [
+    "Food",
+    "Cooking",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Attach a storyboard and instruct Seedance to use it as the exact visual reference and to follow a numbered shot list exactly.\n\nSpecify total duration and aspect ratio explicitly (e.g., 12 seconds, 16:9) to constrain the generation.\n\nLock continuity by repeating fixed character/wardrobe/location details across all shots (same vendor, white t‑shirt, red apron, same sunny cobblestone street).\n\nDefine camera framing per shot (wide, close-up, overhead, hero close-up) and summarize the camera plan to guide shot composition.\n\nEnforce a consistent style and lighting across the whole sequence with explicit constraints (Pixar 3D, bright vivid colors, “nothing dark or moody,” warm morning sunshine).\n\nDirect audio as a continuous bed plus synced SFX cues (continuous upbeat Spanish acoustic guitar with no breaks, add sizzle/bubbling/sugar roll/chocolate pour/crunch/exhale at the relevant shots).",
+  "translations": {
+    "es": {
+      "content": "Adjunta un storyboard e instruye a Seedance para que lo use como referencia visual exacta y siga una lista de tomas numerada al pie de la letra.\n\nEspecifica la duración total y la relación de aspecto explícitamente (por ejemplo, 12 segundos, 16:9) para limitar la generación.\n\nAsegura la continuidad repitiendo detalles fijos de personajes/vestuario/ubicación en todas las tomas (mismo vendedor, camiseta blanca, delantal rojo, misma calle empedrada soleada).\n\nDefine el encuadre de cámara por toma (amplia, primer plano, vista aérea, primer plano heroico) y resume el plan de cámara para guiar la composición de las tomas.\n\nAplica un estilo y una iluminación consistentes en toda la secuencia con restricciones explícitas (3D de Pixar, colores brillantes y vivos, \"nada oscuro o melancólico\", cálida luz de la mañana).\n\nDirige el audio como una base continua más señales de efectos de sonido sincronizados (guitarra acústica española animada continua sin pausas, añade chisporroteo/burbujeo/rodillo de azúcar/vertido de chocolate/crujido/exhalación en las tomas relevantes)."
+    },
+    "fr": {
+      "content": "Joignez un storyboard et demandez à Seedance de l'utiliser comme référence visuelle exacte et de suivre une liste de plans numérotée à la lettre.\n\nSpécifiez la durée totale et le format d'image de manière explicite (par exemple, 12 secondes, 16:9) pour contraindre la génération.\n\nAssurez la continuité en répétant les détails fixes de personnage/garde-robe/emplacement à travers tous les plans (même vendeur, t-shirt blanc, tablier rouge, même rue pavée ensoleillée).\n\nDéfinissez le cadrage de la caméra pour chaque plan (large, gros plan, vue aérienne, gros plan héroïque) et résumez le plan de caméra pour guider la composition des plans.\n\nImposez un style et un éclairage cohérents sur l'ensemble de la séquence avec des contraintes explicites (3D Pixar, couleurs vives éclatantes, « rien de sombre ou de mélancolique », lumière chaude du matin).\n\nDirigez l'audio comme un fond continu avec des indices SFX synchronisés (guitare acoustique espagnole entraînante sans interruptions, ajoutez crépitement/bulles/roulement de sucre/versement de chocolat/craquement/exhalation aux plans pertinents)."
+    },
+    "ja": {
+      "content": "---\nストーリーボードを添付し、Seedanceにそれを正確なビジュアル参照として使用し、番号付きのショットリストを正確に従うよう指示します。\n\n生成を制約するために、総時間とアスペクト比を明確に指定します（例：12秒、16:9）。\n\nすべてのショットで固定されたキャラクター/衣装/ロケーションの詳細を繰り返すことで連続性を維持します（同じベンダー、白いTシャツ、赤いエプロン、同じ晴れた石畳の通り）。\n\n各ショットごとにカメラのフレーミングを定義し（ワイド、クローズアップ、オーバーヘッド、ヒーロークローズアップ）、ショット構成を導くためにカメラプランを要約します。\n\n明確な制約を持って一貫したスタイルと照明をシーケンス全体に強制します（ピクサー3D、明るく鮮やかな色、「暗くもムーディーでもない」、暖かい朝の日差し）。\n\nオーディオを連続したベッドとして指示し、同期されたSFXキューを追加します（連続したアップビートなスペインのアコースティックギターに中断なし、関連するショットでシズル/バブル/シュガーロール/チョコレートポア/クランチ/エクスヘイルを追加）。"
+    },
+    "ko": {
+      "content": "---\n스토리보드를 첨부하고 Seedance에게 이를 정확한 시각적 참고 자료로 사용하고 번호가 매겨진 샷 리스트를 정확히 따르도록 지시하십시오.\n\n생성을 제한하기 위해 총 지속 시간과 화면 비율을 명시적으로 지정하십시오 (예: 12초, 16:9).\n\n모든 샷에서 고정된 캐릭터/의상/장소 세부 사항을 반복하여 연속성을 고정하십시오 (같은 벤더, 흰 티셔츠, 빨간 앞치마, 같은 햇볕이 드는 자갈길).\n\n샷별 카메라 구도를 정의하고 (와이드, 클로즈업, 오버헤드, 히어로 클로즈업) 샷 구성을 안내하기 위해 카메라 계획을 요약하십시오.\n\n전체 시퀀스에 걸쳐 일관된 스타일과 조명을 명시적인 제약 조건으로 유지하십시오 (픽사 3D, 밝고 생생한 색상, \"어둡거나 우울한 것 없음,\" 따뜻한 아침 햇살).\n\n오디오를 연속적인 배경음과 동기화된 SFX 큐로 지시하십시오 (연속적인 경쾌한 스페인어 어쿠스틱 기타, 중단 없음, 관련 샷에서 지글지글/거품/설탕 롤/초콜릿 붓기/바삭/숨 내쉬기 추가)."
+    },
+    "pt": {
+      "content": "Anexe um storyboard e instrua o Seedance a usá-lo como referência visual exata e a seguir uma lista de tomadas numerada exatamente.\n\nEspecifique a duração total e a proporção de aspecto explicitamente (por exemplo, 12 segundos, 16:9) para restringir a geração.\n\nMantenha a continuidade repetindo detalhes fixos de personagem/figurino/localização em todas as tomadas (mesmo vendedor, camiseta branca, avental vermelho, mesma rua ensolarada de paralelepípedos).\n\nDefina o enquadramento da câmera por tomada (amplo, close-up, vista aérea, close-up heroico) e resuma o plano de câmera para guiar a composição das tomadas.\n\nImponha um estilo e iluminação consistentes em toda a sequência com restrições explícitas (3D Pixar, cores vivas e brilhantes, \"nada escuro ou sombrio\", sol da manhã quente).\n\nDirecione o áudio como uma cama contínua mais sinais de SFX sincronizados (guitarra acústica espanhola animada contínua sem pausas, adicione chiado/borbulhamento/rolagem de açúcar/despejo de chocolate/crocância/exalação nas tomadas relevantes)."
+    },
+    "zh": {
+      "content": "附上分镜，并指示Seedance将其用作精确的视觉参考，并严格遵循编号的镜头列表。\n\n明确指定总时长和纵横比（例如，12秒，16:9）以限制生成。\n\n通过在所有镜头中重复固定的角色/服装/地点细节来锁定连续性（同一供应商，白色T恤，红色围裙，相同的阳光下鹅卵石街道）。\n\n定义每个镜头的相机构图（广角、特写、俯拍、英雄特写），并总结相机计划以指导镜头构图。\n\n通过明确的限制（皮克斯3D，明亮生动的色彩，“没有黑暗或阴郁”，温暖的晨光）在整个序列中保持一致的风格和照明。\n\n将音频指引为连续的背景音乐加同步的音效提示（连续欢快的西班牙原声吉他无间断，添加滋滋声/冒泡声/糖滚动声/巧克力倒入声/嘎吱声/呼气声在相关镜头中）。"
+    }
+  }
+}
