@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **1596** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **500** |
-| 🔄 最后更新 | **2026-06-09** |
+| 🔄 最后更新 | **2026-06-10** |
 
 ---
 
@@ -5682,4 +5682,4 @@ Seedanceで生成した動画にSunoで楽曲を付けて仕上げる
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-09T21:48:49.119Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-10T03:54:37.253Z
