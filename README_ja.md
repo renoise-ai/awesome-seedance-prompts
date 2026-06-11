@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **1596** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **500** |
-| 🔄 最終更新 | **2026-06-10** |
+| 🔄 最終更新 | **2026-06-11** |
 
 ---
 
@@ -7624,4 +7624,4 @@ Seedanceで生成した動画にSunoで楽曲を付けて仕上げる
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-10T22:04:29.083Z
+🤖 この README は自動生成されています。最終更新： 2026-06-11T04:07:48.131Z
