@@ -6580,4 +6580,4 @@ Seedance 2.0에서 한 번에 9개의 샷을 하나의 프롬프트로 생성해
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-11T12:11:20.071Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-11T18:48:01.705Z
