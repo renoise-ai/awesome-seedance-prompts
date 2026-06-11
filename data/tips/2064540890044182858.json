@@ -1,0 +1,44 @@
+{
+  "id": "2064540890044182858",
+  "title": "動画内に入れたい文字（ロゴ・コピー）はSeedanceに任せず、GPT Image 2で作る静止画の段階で入れて完成させてからSeedance…",
+  "content": "動画内に入れたい文字（ロゴ・コピー）はSeedanceに任せず、GPT Image 2で作る静止画の段階で入れて完成させてからSeedance 2.0で動かす（動画生成だと文字が崩れやすいのを防げる）  \nSeedance 2.0に入れる動きのプロンプトは、AIに相談しながら壁打ちして指示文を詰めて作る  \nGPT Image 2で「広告ポスター（ロゴ・コピー入り）」と「サッカー選手のシュート画像」の2枚を生成し、Seedance 2.0でプロンプトを入れて動画化するワークフローで15分制作する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064539117971767297/img/Ow7aYgBtXRzx3eD6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064540890044182858.mp4",
+  "sourceLink": "https://x.com/malcchi/status/2064540890044182858",
+  "sourcePublishedAt": "2026-06-10",
+  "author": {
+    "name": "まるさん | AI時代の仕事術をマンガで楽しく",
+    "link": "https://x.com/malcchi"
+  },
+  "tags": [
+    "Sports",
+    "Football",
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "動画内に入れたい文字（ロゴ・コピー）はSeedanceに任せず、GPT Image 2で作る静止画の段階で入れて完成させてからSeedance 2.0で動かす（動画生成だと文字が崩れやすいのを防げる）  \nSeedance 2.0に入れる動きのプロンプトは、AIに相談しながら壁打ちして指示文を詰めて作る  \nGPT Image 2で「広告ポスター（ロゴ・コピー入り）」と「サッカー選手のシュート画像」の2枚を生成し、Seedance 2.0でプロンプトを入れて動画化するワークフローで15分制作する",
+  "translations": {
+    "en": {
+      "content": "---\nDo not rely on Seedance to add text (logos or copy) in the video. Instead, complete it during the still image creation stage with GPT Image 2, and then animate it with Seedance 2.0 (this prevents text distortion during video generation).  \nFor movement prompts in Seedance 2.0, consult with AI to refine the instructions through brainstorming.  \nGenerate two images with GPT Image 2: an \"advertisement poster (with logo and copy)\" and an \"image of a soccer player shooting,\" then use Seedance 2.0 to add prompts and animate them, completing the workflow in 15 minutes.\n\n--- THREAD CONTINUATION ---\n[Thread 1] The process is simple👇\n\n① Generate two images with GPT Image 2\n　・Advertisement poster (with logo and copy)\n　・Image of a soccer player shooting\n② Add prompts in Seedance 2.0 to animate\n\nEverything, including GPT Image 2 and Seedance 2.0, is done within\n@PolloAIJP ✨\n\n▼Try it now\nhttps://t.co/9ti0indOea\n\n#PolloAI\n\n[Thread 2] Two tips👇\n\n① \"Add text at the image stage\"\n　Video AI tends to distort text. Completing the logo poster first and then \"animating\" it prevents distortion.\n\n② \"Create prompts by consulting with AI\"\n　Anyone can easily create movement instructions by brainstorming with AI.\n\nWe've truly entered an era where individuals can create commercials...\n---"
+    },
+    "es": {
+      "content": "---\nNo dejes que Seedance se encargue del texto que quieres incluir en el video (como logotipos o copias); en su lugar, inclúyelo en la etapa de imagen fija creada con GPT Image 2 y luego anímalo con Seedance 2.0 (esto previene que el texto se distorsione durante la generación del video).  \nEl prompt de movimiento que se introduce en Seedance 2.0 se elabora consultando con la IA y refinando las instrucciones.  \nGenera dos imágenes con GPT Image 2: un \"póster publicitario (con logotipo y copia)\" y una \"imagen de un jugador de fútbol disparando\", y luego utiliza Seedance 2.0 para introducir el prompt y convertirlo en video en un flujo de trabajo de 15 minutos.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El proceso es simple👇\n\n① Genera 2 imágenes con GPT Image 2\n　・Póster publicitario (con logotipo y copia)\n　・Imagen de un jugador de fútbol disparando\n② Introduce el prompt en Seedance 2.0 para convertirlo en video\n\nTanto GPT Image 2 como Seedance 2.0 están completamente integrados en\n@PolloAIJP ✨\n\n▼Prueba ahora\nhttps://t.co/9ti0indOea\n\n#PolloAI\n\n[Hilo 2] Hay 2 consejos👇\n\n① \"Incluye el texto en la etapa de imagen\"\n　La IA de video tiende a distorsionar el texto. Completa el póster con logotipo primero y luego \"anímalo\" para evitar distorsiones.\n\n② \"Crea el prompt consultando con la IA\"\n　Cualquiera puede crear fácilmente instrucciones de movimiento consultando con la IA.\n\nYa hemos entrado de lleno en la era en la que cualquier persona puede crear comerciales...\n---"
+    },
+    "fr": {
+      "content": "---\nNe confiez pas l'insertion de texte (logo, slogan) dans la vidéo à Seedance, mais ajoutez-le à l'image fixe créée avec GPT Image 2 avant de l'animer avec Seedance 2.0 (cela évite que le texte se déforme lors de la génération vidéo).  \nPour le prompt de mouvement à insérer dans Seedance 2.0, consultez l'IA pour affiner les instructions en discutant avec elle.  \nGénérez deux images avec GPT Image 2 : une \"affiche publicitaire (avec logo et slogan)\" et une \"image d'un joueur de football en train de tirer\", puis utilisez Seedance 2.0 pour les transformer en vidéo en 15 minutes grâce à un prompt.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] La méthode est simple👇\n\n① Générez 2 images avec GPT Image 2\n　・Affiche publicitaire (avec logo et slogan)\n　・Image d'un joueur de football en train de tirer\n② Utilisez Seedance 2.0 pour ajouter un prompt et transformer en vidéo\n\nTout cela, GPT Image 2 et Seedance 2.0, se fait entièrement\ndans @PolloAIJP ✨\n\n▼ Essayez dès maintenant\nhttps://t.co/9ti0indOea\n\n#PolloAI\n\n[Fil 2] Deux astuces👇\n\n① \"Ajoutez le texte au stade de l'image\"\n　Les IA vidéo ont tendance à déformer le texte. Finalisez l'affiche avec logo\n　avant de l’“animer” pour éviter les déformations.\n\n② \"Créez le prompt en consultant l'IA\"\n　En discutant avec l'IA pour les instructions de mouvement, tout le monde peut y arriver facilement.\n\nNous sommes vraiment entrés dans une ère où les particuliers peuvent créer des publicités...\n---"
+    },
+    "ko": {
+      "content": "---\n영상에 넣고 싶은 글자(로고·카피)는 Seedance에 맡기지 않고, GPT Image 2로 만든 정지화면 단계에서 넣어 완성한 후 Seedance 2.0으로 움직이게 한다 (영상 생성 시 글자가 깨지기 쉬운 것을 방지할 수 있다)  \nSeedance 2.0에 넣을 움직임의 프롬프트는 AI와 상의하며 벽치기를 통해 지시문을 다듬어 만든다  \nGPT Image 2로 \"광고 포스터(로고·카피 포함)\"와 \"축구 선수의 슛 이미지\" 두 장을 생성하고, Seedance 2.0에서 프롬프트를 넣어 영상화하는 워크플로우로 15분 제작한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 만드는 방법은 간단합니다👇\n\n① GPT Image 2로 두 장 생성\n　・광고 포스터(로고·카피 포함)\n　・축구 선수의 슛 이미지\n② Seedance 2.0에서 프롬프트를 넣어 영상화\n\nGPT Image 2와 Seedance 2.0 모두\n@PolloAIJP 내에서 완결됩니다✨\n\n▼지금 바로 시도하기\nhttps://t.co/9ti0indOea\n\n#PolloAI\n\n[Thread 2] 팁은 두 가지입니다👇\n\n① \"글자는 이미지 단계에서 넣는다\"\n　영상 AI는 글자가 깨지기 쉽다. 로고가 포함된 포스터를\n　먼저 완성하여 '움직이게' 하면 깨지지 않는다.\n\n② \"프롬프트는 AI와 상의하며 만든다\"\n　움직임의 지시문을 AI와 벽치기하면 누구나 쉽게 할 수 있습니다.\n\n이제 개인이 CM을 만들 수 있는 시대에 본격적으로 돌입했네요...\n---"
+    },
+    "pt": {
+      "content": "---\nNão deixe a inserção de texto (logotipo ou slogan) no vídeo para o Seedance; em vez disso, adicione-o na fase de imagem estática criada com o GPT Image 2 e finalize antes de animar com o Seedance 2.0 (isso evita que o texto se deforme durante a geração do vídeo).  \nPara os prompts de movimento a serem inseridos no Seedance 2.0, consulte a IA e refine as instruções em colaboração.  \nGere duas imagens com o GPT Image 2: um \"cartaz publicitário (com logotipo e slogan)\" e uma \"imagem de um jogador de futebol chutando\", e transforme-as em vídeo com prompts no Seedance 2.0 em um fluxo de trabalho de 15 minutos.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] O processo é simples👇\n\n① Gere 2 imagens com o GPT Image 2\n　・Cartaz publicitário (com logotipo e slogan)\n　・Imagem de um jogador de futebol chutando\n② Insira os prompts no Seedance 2.0 para transformar em vídeo\n\nTanto o GPT Image 2 quanto o Seedance 2.0 são totalmente integrados no\n@PolloAIJP ✨\n\n▼Experimente agora\nhttps://t.co/9ti0indOea\n\n#PolloAI\n\n[Thread 2] Duas dicas👇\n\n① \"Insira o texto na fase de imagem\"\n　A IA de vídeo tende a deformar o texto. Finalize o cartaz com logotipo\n　antes de \"animar\" para evitar deformações.\n\n② \"Crie os prompts em colaboração com a IA\"\n　Qualquer um pode facilmente criar instruções de movimento consultando a IA.\n\nEntramos de vez na era em que qualquer pessoa pode criar comerciais...\n---"
+    },
+    "zh": {
+      "content": "---\n视频中需要加入的文字（如标志、文案）不要交给Seedance，而是在使用GPT Image 2制作静态图像时完成，然后再用Seedance 2.0进行动画处理（这样可以防止在视频生成时文字变形）。  \n在Seedance 2.0中加入的动作prompt，可以通过与AI讨论来完善指令。  \n使用GPT Image 2生成两张图像：“广告海报（含标志和文案）”和“足球运动员射门图像”，然后在Seedance 2.0中加入prompt进行视频化，整个工作流程在15分钟内完成。\n\n--- 线程继续 ---\n[线程1] 制作方法简单👇\n\n① 使用GPT Image 2生成两张图像\n　・广告海报（含标志和文案）\n　・足球运动员射门图像\n② 在Seedance 2.0中加入prompt进行视频化\n\nGPT Image 2和Seedance 2.0，全部都可以在\n@PolloAIJP 中完成✨\n\n▼立即尝试\nhttps://t.co/9ti0indOea\n\n#PolloAI\n\n[线程2] 有两个技巧👇\n\n①“在图像阶段加入文字”\n　视频AI容易导致文字变形。先完成带标志的海报再“动起来”就不会变形。\n\n②“与AI讨论制作prompt”\n　通过与AI讨论动作指令，任何人都可以轻松完成。\n\n个人制作广告的时代已经正式到来了...\n---"
+    }
+  }
+}

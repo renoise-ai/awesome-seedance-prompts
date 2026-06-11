@@ -1,0 +1,42 @@
+{
+  "id": "2064305560280031373",
+  "title": "배우(캐릭터)별로 와이드 샷과 클로즈업을 포함해 여러 장면을 미리 나눠 생성해두면 캐릭터 일관성을 유지하는 데 도움이 된다.",
+  "content": "배우(캐릭터)별로 와이드 샷과 클로즈업을 포함해 여러 장면을 미리 나눠 생성해두면 캐릭터 일관성을 유지하는 데 도움이 된다.  \nSeedance 2.0에서 한 번에 9개의 샷을 하나의 프롬프트로 생성해 분위기를 유지하면서 전체 퀄리티를 높인다.",
+  "language": "ko",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2063992437962661888/img/IxPZrIvz1b6yAjya.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064305560280031373.mp4",
+  "sourceLink": "https://x.com/lucas_flatwhite/status/2064305560280031373",
+  "sourcePublishedAt": "2026-06-09",
+  "author": {
+    "name": "lucas",
+    "link": "https://x.com/lucas_flatwhite"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "배우(캐릭터)별로 와이드 샷과 클로즈업을 포함해 여러 장면을 미리 나눠 생성해두면 캐릭터 일관성을 유지하는 데 도움이 된다.  \nSeedance 2.0에서 한 번에 9개의 샷을 하나의 프롬프트로 생성해 분위기를 유지하면서 전체 퀄리티를 높인다.",
+  "translations": {
+    "en": {
+      "content": "Creating multiple scenes in advance, including wide shots and close-ups for each actor (character), helps maintain character consistency.  \nIn Seedance 2.0, generating 9 shots at once with a single prompt enhances the overall quality while maintaining the atmosphere.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Pre-arranging with such diverse angles is a great help in maintaining character consistency.\n---"
+    },
+    "es": {
+      "content": "Si generas varias escenas por adelantado, incluyendo tomas amplias y primeros planos para cada actor (personaje), esto ayuda a mantener la consistencia del personaje.  \nEn Seedance 2.0, se pueden generar 9 tomas a la vez con un solo prompt, manteniendo la atmósfera y mejorando la calidad general.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Preparar de antemano con estos diversos ángulos es de gran ayuda para mantener la consistencia del personaje."
+    },
+    "fr": {
+      "content": "Pour chaque acteur (personnage), il est utile de générer à l'avance plusieurs scènes, y compris des plans larges et des gros plans, pour maintenir la cohérence des personnages.  \nDans Seedance 2.0, générer 9 prises en une seule fois avec un prompt permet de maintenir l'ambiance tout en augmentant la qualité globale.\n\n--- SUITE DU FIL ---\n[Fil 1] Préparer à l'avance avec ces différents angles aide grandement à maintenir la cohérence des personnages."
+    },
+    "ja": {
+      "content": "---\n俳優（キャラクター）ごとにワイドショットやクローズアップを含む複数のシーンを事前に生成しておくと、キャラクターの一貫性を維持するのに役立ちます。  \nSeedance 2.0では、一度に9つのショットを1つのプロンプトで生成し、雰囲気を維持しながら全体のクオリティを向上させます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] キャラクターの一貫性を維持するために、このように多様なアングルで事前に構成することが大いに役立ちます。\n---"
+    },
+    "pt": {
+      "content": "---\nSe você gerar várias cenas antecipadamente, incluindo wide shots e close-ups para cada ator (personagem), isso ajuda a manter a consistência dos personagens.  \nNo Seedance 2.0, você pode gerar 9 tomadas de uma só vez com um único prompt, mantendo a atmosfera e aumentando a qualidade geral.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Compor antecipadamente com esses ângulos variados ajuda muito a manter a consistência dos personagens.\n---"
+    },
+    "zh": {
+      "content": "---\n如果提前为每个演员（角色）生成包括广角镜头和特写镜头在内的多个场景，有助于保持角色的一致性。  \n在Seedance 2.0中，可以通过一个prompt一次生成9个镜头，在保持氛围的同时提高整体质量。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 为了保持角色的一致性，以这种多角度的方式提前构思非常有帮助。\n---"
+    }
+  }
+}

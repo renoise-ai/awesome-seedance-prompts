@@ -1,0 +1,43 @@
+{
+  "id": "2064693729047236691",
+  "title": "Use a Midjourney + Seedance 2.0 workflow by generating a vibrant 3D…",
+  "content": "Use a Midjourney + Seedance 2.0 workflow by generating a vibrant 3D illustration style concept in Midjourney and then animating it in Seedance 2.0  \nWrite your Seedance prompt as a multi-shot sequence with explicit actions and beats (chase → dodging cars → dead end → dialogue → snatch pizzas → flies away) to control story progression  \nInclude character dialogue lines directly in the prompt to guide narrative moments and timing",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/hedo_ist/status/2064693729047236691",
+  "sourcePublishedAt": "2026-06-10",
+  "author": {
+    "name": "hedoήist",
+    "link": "https://x.com/hedo_ist"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Story",
+    "Talk",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a Midjourney + Seedance 2.0 workflow by generating a vibrant 3D illustration style concept in Midjourney and then animating it in Seedance 2.0  \nWrite your Seedance prompt as a multi-shot sequence with explicit actions and beats (chase → dodging cars → dead end → dialogue → snatch pizzas → flies away) to control story progression  \nInclude character dialogue lines directly in the prompt to guide narrative moments and timing",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Midjourney + Seedance 2.0 generando un concepto de estilo de ilustración 3D vibrante en Midjourney y luego animándolo en Seedance 2.0  \nEscribe tu prompt de Seedance como una secuencia de múltiples tomas con acciones y ritmos explícitos (chase → dodging cars → dead end → dialogue → snatch pizzas → flies away) para controlar la progresión de la historia  \nIncluye líneas de diálogo de los personajes directamente en el prompt para guiar los momentos narrativos y el tiempo"
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail Midjourney + Seedance 2.0 en générant un concept de style d'illustration 3D vibrant dans Midjourney, puis en l'animant dans Seedance 2.0  \nÉcrivez votre prompt Seedance comme une séquence multi-plans avec des actions et des rythmes explicites (chase → dodging cars → dead end → dialogue → snatch pizzas → flies away) pour contrôler la progression de l'histoire  \nIncluez des lignes de dialogue des personnages directement dans le prompt pour guider les moments narratifs et le timing"
+    },
+    "ja": {
+      "content": "---\nMidjourneyで鮮やかな3Dイラストスタイルのコンセプトを生成し、Seedance 2.0でアニメーション化することで、Midjourney + Seedance 2.0のワークフローを使用します  \nSeedanceのプロンプトを、明確なアクションとビートを持つマルチショットシーケンスとして書き、ストーリーの進行を制御します（chase → dodging cars → dead end → dialogue → snatch pizzas → flies away）  \nキャラクターのセリフをプロンプトに直接含めて、物語の瞬間とタイミングをガイドします  \n---"
+    },
+    "ko": {
+      "content": "---\nMidjourney에서 생생한 3D 일러스트 스타일 컨셉을 생성하고 Seedance 2.0에서 이를 애니메이션화하여 Midjourney + Seedance 2.0 워크플로우를 사용하세요  \n스토리 진행을 제어하기 위해 명확한 행동과 비트를 포함한 멀티샷 시퀀스로 Seedance 프롬프트를 작성하세요 (chase → dodging cars → dead end → dialogue → snatch pizzas → flies away)  \n캐릭터의 대사 라인을 프롬프트에 직접 포함하여 내러티브 순간과 타이밍을 안내하세요  \n---"
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho Midjourney + Seedance 2.0 gerando um conceito de estilo de ilustração 3D vibrante no Midjourney e, em seguida, animando-o no Seedance 2.0  \nEscreva seu prompt Seedance como uma sequência de múltiplas cenas com ações e ritmos explícitos (chase → dodging cars → dead end → dialogue → snatch pizzas → flies away) para controlar a progressão da história  \nInclua linhas de diálogo dos personagens diretamente no prompt para guiar os momentos narrativos e o timing"
+    },
+    "zh": {
+      "content": "使用 Midjourney + Seedance 2.0 工作流程，在 Midjourney 中生成一个充满活力的3D插画风格概念，然后在 Seedance 2.0 中对其进行动画处理  \n将你的 Seedance prompt 写成一个多镜头序列，包含明确的动作和节奏（chase → dodging cars → dead end → dialogue → snatch pizzas → flies away）以控制故事进程  \n在 prompt 中直接包含角色对话，以指导叙事时刻和时间安排"
+    }
+  }
+}

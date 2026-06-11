@@ -1,0 +1,41 @@
+{
+  "id": "2064702144167432245",
+  "title": "Specify 15-second continuous single-shot with No cuts and No scene transitions…",
+  "content": "Specify 15-second continuous single-shot with No cuts and No scene transitions to enforce an unbroken take in Seedance 2.0  \nStructure the prompt with timestamped beats (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) to control pacing and action progression  \nExplicitly direct camera behavior per beat (rushes through street, follows the charge, spins around them, tracks beside them, time slows) to shape camera movement  \nInclude a dedicated Sound design section (ambient SFX list plus No music and No dialogue) to guide audio generation  \nUse a negative prompt that bans unwanted elements and artifacts (no extra zombies, no camera cuts/scene transitions, no subtitles/text, no duplicated limbs/distorted anatomy/floating characters, no low-quality motion) to reduce common failures",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2064702144167432245",
+  "sourcePublishedAt": "2026-06-10",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Horror",
+    "Monster Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify 15-second continuous single-shot with No cuts and No scene transitions to enforce an unbroken take in Seedance 2.0  \nStructure the prompt with timestamped beats (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) to control pacing and action progression  \nExplicitly direct camera behavior per beat (rushes through street, follows the charge, spins around them, tracks beside them, time slows) to shape camera movement  \nInclude a dedicated Sound design section (ambient SFX list plus No music and No dialogue) to guide audio generation  \nUse a negative prompt that bans unwanted elements and artifacts (no extra zombies, no camera cuts/scene transitions, no subtitles/text, no duplicated limbs/distorted anatomy/floating characters, no low-quality motion) to reduce common failures",
+  "translations": {
+    "es": {
+      "content": "Especificar un plano continuo de 15 segundos sin cortes y sin transiciones de escena para asegurar una toma ininterrumpida en Seedance 2.0  \nEstructurar el prompt con ritmos marcados por tiempo (por ejemplo, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) para controlar el ritmo y la progresión de la acción  \nDirigir explícitamente el comportamiento de la cámara por cada ritmo (atraviesa la calle, sigue la carga, gira alrededor de ellos, se mueve a su lado, el tiempo se ralentiza) para dar forma al movimiento de la cámara  \nIncluir una sección dedicada al diseño de sonido (lista de efectos de sonido ambientales más sin música y sin diálogo) para guiar la generación de audio  \nUsar un prompt negativo que prohíba elementos y artefactos no deseados (sin zombis extra, sin cortes de cámara/transiciones de escena, sin subtítulos/texto, sin extremidades duplicadas/anatomía distorsionada/personajes flotantes, sin movimiento de baja calidad) para reducir fallos comunes"
+    },
+    "fr": {
+      "content": "---\nSpécifiez une prise continue de 15 secondes sans coupures ni transitions de scène pour garantir une prise ininterrompue dans Seedance 2.0  \nStructurez le prompt avec des temps marqués (par exemple, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) pour contrôler le rythme et la progression de l'action  \nDirigez explicitement le comportement de la caméra par temps marqué (traverse la rue, suit la charge, tourne autour d'eux, suit à côté d'eux, le temps ralentit) pour façonner le mouvement de la caméra  \nIncluez une section dédiée au design sonore (liste d'effets sonores ambiants plus pas de musique et pas de dialogue) pour guider la génération audio  \nUtilisez un prompt négatif qui interdit les éléments et artefacts indésirables (pas de zombies supplémentaires, pas de coupures de caméra/transitions de scène, pas de sous-titres/texte, pas de membres dupliqués/anatomie déformée/personnages flottants, pas de mouvements de mauvaise qualité) pour réduire les échecs courants\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で15秒間の連続したワンショットを指定し、カットやシーンの切り替えを行わず、途切れないテイクを実現する  \nプロンプトをタイムスタンプ付きのビート（例：0–3秒、3–6秒、6–9秒、9–12秒、12–15秒）で構成し、ペースとアクションの進行を制御する  \n各ビートごとにカメラの動作を明示的に指示する（通りを駆け抜ける、突撃を追う、周りを回転する、横を追跡する、時間が遅くなる）ことでカメラの動きを形作る  \n音声生成をガイドするために、専用のサウンドデザインセクション（環境音効果リスト、音楽なし、対話なし）を含める  \n不要な要素やアーティファクトを禁止するネガティブプロンプトを使用し（余分なゾンビなし、カメラカット/シーン切り替えなし、字幕/テキストなし、重複した手足/歪んだ解剖学/浮遊するキャラクターなし、低品質な動きなし）、一般的な失敗を減らす\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 끊김 없는 촬영을 위해 15초 동안 연속적인 싱글 샷을 지정하고, 컷과 장면 전환 없이 진행합니다.  \n타임스탬프가 있는 비트(예: 0–3초, 3–6초, 6–9초, 9–12초, 12–15초)로 프롬프트를 구성하여 속도와 액션 진행을 제어합니다.  \n각 비트마다 카메라 동작을 명확하게 지시합니다 (거리로 돌진, 돌격을 따라감, 그들 주위를 회전, 옆에서 추적, 시간이 느려짐) 카메라 움직임을 형성합니다.  \n오디오 생성을 안내하기 위해 전용 사운드 디자인 섹션(주변 SFX 목록 및 음악 없음, 대화 없음)을 포함합니다.  \n원치 않는 요소와 아티팩트를 금지하는 네거티브 프롬프트를 사용하여 일반적인 실패를 줄입니다 (추가 좀비 없음, 카메라 컷/장면 전환 없음, 자막/텍스트 없음, 중복된 팔다리/왜곡된 해부학/떠다니는 캐릭터 없음, 저품질 모션 없음)."
+    },
+    "pt": {
+      "content": "Especifique um plano contínuo de 15 segundos sem cortes e sem transições de cena para garantir uma tomada ininterrupta no Seedance 2.0  \nEstruture o prompt com batidas cronometradas (por exemplo, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) para controlar o ritmo e a progressão da ação  \nDirecione explicitamente o comportamento da câmera por batida (atravessa a rua, segue a carga, gira ao redor deles, acompanha ao lado deles, o tempo desacelera) para moldar o movimento da câmera  \nInclua uma seção dedicada ao Design de Som (lista de efeitos sonoros ambientes mais Sem música e Sem diálogo) para guiar a geração de áudio  \nUse um prompt negativo que proíba elementos e artefatos indesejados (sem zumbis extras, sem cortes de câmera/transições de cena, sem legendas/texto, sem membros duplicados/anatomia distorcida/personagens flutuantes, sem movimento de baixa qualidade) para reduzir falhas comuns"
+    },
+    "zh": {
+      "content": "---\n在Seedance 2.0中指定15秒的连续单镜头，无剪切和无场景转换，以确保镜头的连贯性  \n用带时间戳的节拍结构化prompt（例如，0–3秒，3–6秒，6–9秒，9–12秒，12–15秒）来控制节奏和动作进展  \n明确指示每个节拍的摄像机行为（穿过街道，跟随冲锋，围绕他们旋转，跟踪他们旁边，时间减慢）以塑造摄像机运动  \n包括一个专门的声音设计部分（环境音效列表加上无音乐和无对话）来指导音频生成  \n使用负面prompt禁止不需要的元素和伪影（无额外的僵尸，无摄像机剪切/场景转换，无字幕/文字，无重复的肢体/扭曲的解剖/漂浮的角色，无低质量的运动）以减少常见的错误\n---"
+    }
+  }
+}

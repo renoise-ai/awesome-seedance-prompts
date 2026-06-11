@@ -1,0 +1,42 @@
+{
+  "id": "2064358576953729301",
+  "title": "同一プロンプトで品質比較するなら、Seedance 2.0を直回しとSupercomputer経由の両方で生成して差分を確認する",
+  "content": "同一プロンプトで品質比較するなら、Seedance 2.0を直回しとSupercomputer経由の両方で生成して差分を確認する  \n姿勢の安定性・重心の取り方・乗り物の沈み込み・表情/意図（撮影者への意識など）の作り込みを重視する場合は、Seedance 2.0をSupercomputer経由で回す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064346527213203456/img/RkjVzIOO3QWwG8_B.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064358576953729301.mp4",
+  "sourceLink": "https://x.com/CHAO2U_AI/status/2064358576953729301",
+  "sourcePublishedAt": "2026-06-09",
+  "author": {
+    "name": "CHAO2U AI",
+    "link": "https://x.com/CHAO2U_AI"
+  },
+  "tags": [
+    "Auto",
+    "Mod Showcase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "同一プロンプトで品質比較するなら、Seedance 2.0を直回しとSupercomputer経由の両方で生成して差分を確認する  \n姿勢の安定性・重心の取り方・乗り物の沈み込み・表情/意図（撮影者への意識など）の作り込みを重視する場合は、Seedance 2.0をSupercomputer経由で回す",
+  "translations": {
+    "en": {
+      "content": "If you want to compare quality using the same prompt, generate with both direct Seedance 2.0 and via Supercomputer to check the differences.  \nWhen focusing on stability of posture, center of gravity, vehicle immersion, and detailed expressions/intentions (such as awareness of the photographer), run Seedance 2.0 via Supercomputer."
+    },
+    "es": {
+      "content": "Para comparar la calidad con el mismo prompt, genera con Seedance 2.0 tanto directamente como a través de Supercomputer y verifica las diferencias.  \nSi se da prioridad a la estabilidad de la postura, el manejo del centro de gravedad, la inmersión del vehículo, y la elaboración de expresiones/intenciones (como la conciencia del fotógrafo), utiliza Seedance 2.0 a través de Supercomputer.\n\n--- QUOTED TWEET ---\nNew MUSAI-class Airboat  \n#CHAO2U_SC  \nby @higgsfield Supercomputer - Seedance 2.0  \n▼ base images / prompt https://t.co/w6vur1hzl1  \n---"
+    },
+    "fr": {
+      "content": "Pour comparer la qualité avec le même prompt, générez avec Seedance 2.0 directement et via Supercomputer pour vérifier les différences.  \nSi vous accordez de l'importance à la stabilité de la posture, à la gestion du centre de gravité, à l'enfoncement du véhicule, à l'expression/intention (comme la conscience du photographe), utilisez Seedance 2.0 via Supercomputer.\n\n--- TWEET CITÉ ---\nNouveau Airboat de classe MUSAI  \n#CHAO2U_SC  \npar @higgsfield Supercomputer - Seedance 2.0  \n▼ images de base / prompt https://t.co/w6vur1hzl1  \n---"
+    },
+    "ko": {
+      "content": "동일한 프롬프트로 품질을 비교하려면, Seedance 2.0을 직접 실행한 것과 Supercomputer를 경유한 것 모두를 생성하여 차이를 확인하세요.  \n자세의 안정성, 무게 중심의 잡기, 탈것의 침하, 표정/의도(촬영자에 대한 인식 등)의 디테일을 중시하는 경우, Seedance 2.0을 Supercomputer를 통해 실행하세요.\n\n--- QUOTED TWEET ---\nNew MUSAI-class Airboat\n#CHAO2U_SC \nby @higgsfield Supercomputer - Seedance 2.0\n▼ base images / prompt https://t.co/w6vur1hzl1\n---"
+    },
+    "pt": {
+      "content": "Para comparar a qualidade com o mesmo prompt, gere com o Seedance 2.0 diretamente e via Supercomputer para verificar as diferenças.  \nSe você der importância à estabilidade da postura, ao equilíbrio do centro de gravidade, à imersão do veículo e à elaboração de expressões/intenção (como a consciência do fotógrafo), execute o Seedance 2.0 via Supercomputer."
+    },
+    "zh": {
+      "content": "如果要用同一提示词进行质量比较，可以直接使用Seedance 2.0生成，也可以通过Supercomputer生成，然后对比差异。  \n如果重视姿势的稳定性、重心的把握、交通工具的下沉、表情/意图（如对摄影师的意识等）的细致程度，建议通过Supercomputer运行Seedance 2.0。"
+    }
+  }
+}

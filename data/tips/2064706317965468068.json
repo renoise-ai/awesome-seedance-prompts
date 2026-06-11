@@ -1,0 +1,41 @@
+{
+  "id": "2064706317965468068",
+  "title": "Attach a storyboard image and prompt Seedance to use it as an exact visual…",
+  "content": "Attach a storyboard image and prompt Seedance to use it as an exact visual reference and to follow a specified shot list exactly.  \nSpecify duration and aspect ratio explicitly (e.g., 12 seconds, 16:9) to constrain the output.  \nLock continuity by explicitly repeating key constants across shots (same character, same outfit, same location, same lighting throughout).  \nDefine each shot with concrete camera framing/movement constraints (e.g., wide opener, overhead locked, close-up, side angle, extreme close-up) to control cinematography.  \nInclude a per-shot action beat list (what the subject does in each shot) to enforce narrative progression.  \nSet a consistent style target in the prompt (e.g., Pixar 3D/CGI, warm golden morning light, “nothing dark”) to prevent unwanted tonal shifts.  \nSpecify a continuous music bed with “no breaks” plus layered diegetic SFX cues per action to guide audio generation.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TechieBySA/status/2064706317965468068",
+  "sourcePublishedAt": "2026-06-10",
+  "author": {
+    "name": "TechieSA",
+    "link": "https://x.com/TechieBySA"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Attach a storyboard image and prompt Seedance to use it as an exact visual reference and to follow a specified shot list exactly.  \nSpecify duration and aspect ratio explicitly (e.g., 12 seconds, 16:9) to constrain the output.  \nLock continuity by explicitly repeating key constants across shots (same character, same outfit, same location, same lighting throughout).  \nDefine each shot with concrete camera framing/movement constraints (e.g., wide opener, overhead locked, close-up, side angle, extreme close-up) to control cinematography.  \nInclude a per-shot action beat list (what the subject does in each shot) to enforce narrative progression.  \nSet a consistent style target in the prompt (e.g., Pixar 3D/CGI, warm golden morning light, “nothing dark”) to prevent unwanted tonal shifts.  \nSpecify a continuous music bed with “no breaks” plus layered diegetic SFX cues per action to guide audio generation.",
+  "translations": {
+    "es": {
+      "content": "Adjunta una imagen de storyboard y solicita a Seedance que la use como referencia visual exacta y que siga una lista de tomas especificada al pie de la letra.  \nEspecifica la duración y la relación de aspecto explícitamente (por ejemplo, 12 segundos, 16:9) para restringir el resultado.  \nAsegura la continuidad repitiendo explícitamente constantes clave a lo largo de las tomas (mismo personaje, mismo atuendo, misma ubicación, misma iluminación en todo momento).  \nDefine cada toma con restricciones concretas de encuadre/movimiento de cámara (por ejemplo, apertura amplia, fija desde arriba, primer plano, ángulo lateral, primerísimo plano) para controlar la cinematografía.  \nIncluye una lista de acciones por toma (lo que hace el sujeto en cada toma) para asegurar la progresión narrativa.  \nEstablece un objetivo de estilo consistente en el prompt (por ejemplo, Pixar 3D/CGI, luz cálida de la mañana dorada, \"nada oscuro\") para evitar cambios tonales no deseados.  \nEspecifica una cama musical continua con \"sin pausas\" más pistas de SFX diegéticos por acción para guiar la generación de audio."
+    },
+    "fr": {
+      "content": "Joignez une image de storyboard et demandez à Seedance de l'utiliser comme référence visuelle exacte et de suivre une liste de plans spécifiée à la lettre.  \nSpécifiez explicitement la durée et le format d'image (par exemple, 12 secondes, 16:9) pour contraindre le résultat.  \nAssurez la continuité en répétant explicitement les constantes clés à travers les plans (même personnage, même tenue, même lieu, même éclairage tout au long).  \nDéfinissez chaque plan avec des contraintes concrètes de cadrage/mouvement de caméra (par exemple, ouverture large, vue aérienne fixe, gros plan, angle latéral, très gros plan) pour contrôler la cinématographie.  \nIncluez une liste d'actions par plan (ce que fait le sujet dans chaque plan) pour imposer une progression narrative.  \nDéfinissez un style cohérent dans le prompt (par exemple, Pixar 3D/CGI, lumière dorée du matin, « rien de sombre ») pour éviter les changements de ton indésirables.  \nSpécifiez une musique de fond continue avec « pas de pauses » plus des indices SFX diégétiques superposés par action pour guider la génération audio."
+    },
+    "ja": {
+      "content": "---\nストーリーボード画像を添付し、Seedanceにそれを正確なビジュアルリファレンスとして使用し、指定されたショットリストを正確に従うように指示します。  \n出力を制約するために、明確に持続時間とアスペクト比を指定します（例：12秒、16:9）。  \n連続性を維持するために、ショット間で重要な定数（同じキャラクター、同じ衣装、同じ場所、同じ照明）を明示的に繰り返します。  \n各ショットを具体的なカメラフレーミング/動きの制約（例：ワイドオープナー、オーバーヘッドロック、クローズアップ、サイドアングル、エクストリームクローズアップ）で定義し、撮影技術を制御します。  \nショットごとのアクションビートリスト（各ショットで被写体が何をするか）を含め、物語の進行を強制します。  \nプロンプトで一貫したスタイルターゲットを設定し（例：ピクサー3D/CGI、暖かい黄金の朝の光、「暗いものはなし」）、不要なトーンの変化を防ぎます。  \nオーディオ生成をガイドするために、「途切れなし」の連続音楽ベッドと、アクションごとのレイヤードダイジェティックSFXキューを指定します。\n---"
+    },
+    "ko": {
+      "content": "스토리보드 이미지를 첨부하고 Seedance에 이를 정확한 시각적 참고 자료로 사용하도록 지시하며, 지정된 샷 리스트를 정확히 따르도록 합니다.  \n출력물을 제한하기 위해 지속 시간과 화면 비율을 명시적으로 지정합니다 (예: 12초, 16:9).  \n연속성을 유지하기 위해 각 샷에서 주요 상수를 명시적으로 반복합니다 (동일한 캐릭터, 동일한 의상, 동일한 장소, 동일한 조명).  \n촬영 기법을 제어하기 위해 각 샷을 구체적인 카메라 프레이밍/움직임 제약 조건으로 정의합니다 (예: 와이드 오프너, 오버헤드 고정, 클로즈업, 측면 각도, 극단적 클로즈업).  \n서사 진행을 강제하기 위해 샷별 액션 비트 리스트(각 샷에서 주제가 하는 일)를 포함합니다.  \n원치 않는 톤 변화를 방지하기 위해 프롬프트에서 일관된 스타일 목표를 설정합니다 (예: 픽사 3D/CGI, 따뜻한 황금빛 아침 조명, \"어두운 것 없음\").  \n오디오 생성을 안내하기 위해 \"중단 없음\"의 연속적인 음악 배경과 액션별로 레이어된 다이제틱 SFX 큐를 지정합니다."
+    },
+    "pt": {
+      "content": "Anexe uma imagem de storyboard e solicite ao Seedance que a use como referência visual exata e siga uma lista de tomadas especificada exatamente.  \nEspecifique a duração e a proporção de aspecto explicitamente (por exemplo, 12 segundos, 16:9) para restringir o resultado.  \nTrave a continuidade repetindo explicitamente constantes-chave entre as tomadas (mesmo personagem, mesma roupa, mesmo local, mesma iluminação ao longo).  \nDefina cada tomada com restrições concretas de enquadramento/movimento de câmera (por exemplo, abertura ampla, vista aérea fixa, close-up, ângulo lateral, close-up extremo) para controlar a cinematografia.  \nInclua uma lista de ações por tomada (o que o sujeito faz em cada tomada) para reforçar a progressão narrativa.  \nDefina um alvo de estilo consistente no prompt (por exemplo, Pixar 3D/CGI, luz dourada da manhã, \"nada escuro\") para evitar mudanças de tom indesejadas.  \nEspecifique uma trilha musical contínua com \"sem pausas\" além de pistas de SFX diegéticos em camadas por ação para guiar a geração de áudio."
+    },
+    "zh": {
+      "content": "附上分镜图像，并提示Seedance将其用作精确的视觉参考，并严格遵循指定的镜头列表。  \n明确指定持续时间和纵横比（例如，12秒，16:9）以限制输出。  \n通过在镜头之间明确重复关键常量（相同角色、相同服装、相同地点、相同灯光）来锁定连续性。  \n用具体的摄像机构图/运动限制定义每个镜头（例如，广角开场、俯视锁定、特写、侧角、极端特写）以控制电影摄影。  \n包括每个镜头的动作节拍列表（每个镜头中主体的动作）以确保叙事进展。  \n在提示中设定一致的风格目标（例如，皮克斯3D/CGI，温暖的金色晨光，“无黑暗”）以防止不必要的语调变化。  \n指定连续的音乐背景“无中断”以及每个动作的分层叙事音效提示以指导音频生成。"
+    }
+  }
+}

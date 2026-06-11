@@ -1,0 +1,42 @@
+{
+  "id": "2064279164929380713",
+  "title": "抽象的な演技意図（テンポ良く・楽しく等）はプロンプトに入れず、時間・人物・口・手・目線・小道具を分けて具体的に指示すると、複数被写体でのセマンティック・ドリフト…",
+  "content": "抽象的な演技意図（テンポ良く・楽しく等）はプロンプトに入れず、時間・人物・口・手・目線・小道具を分けて具体的に指示すると、複数被写体でのセマンティック・ドリフトを軽減できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064267507276673024/img/7GpN_vRV3QwPimTo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064279164929380713.mp4",
+  "sourceLink": "https://x.com/CreativeEdge_CL/status/2064279164929380713",
+  "sourcePublishedAt": "2026-06-09",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "link": "https://x.com/CreativeEdge_CL"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "抽象的な演技意図（テンポ良く・楽しく等）はプロンプトに入れず、時間・人物・口・手・目線・小道具を分けて具体的に指示すると、複数被写体でのセマンティック・ドリフトを軽減できる",
+  "translations": {
+    "en": {
+      "content": "By not including abstract acting intentions (such as \"lively\" or \"fun\") in the prompt and instead giving specific instructions on time, people, mouth, hands, gaze, and props, you can reduce semantic drift with multiple subjects."
+    },
+    "es": {
+      "content": "No incluyas intenciones de actuación abstractas (como \"rápido\" o \"divertido\") en el prompt. En su lugar, proporciona instrucciones específicas sobre tiempo, personas, boca, manos, mirada y utilería para reducir la deriva semántica en múltiples sujetos."
+    },
+    "fr": {
+      "content": "Ne pas inclure des intentions abstraites de jeu (comme un rythme rapide ou amusant) dans le prompt, mais donner des instructions spécifiques concernant le temps, les personnages, la bouche, les mains, le regard et les accessoires permet de réduire la dérive sémantique avec plusieurs sujets."
+    },
+    "ko": {
+      "content": "추상적인 연기 의도(템포 좋게, 즐겁게 등)는 프롬프트에 넣지 말고, 시간, 인물, 입, 손, 시선, 소도구를 나누어 구체적으로 지시하면, 여러 피사체에서의 의미적 드리프트를 경감할 수 있다."
+    },
+    "pt": {
+      "content": "Instruções abstratas de atuação (como ritmo rápido, divertido, etc.) não devem ser incluídas no prompt. Em vez disso, ao dividir e especificar tempo, pessoas, boca, mãos, olhar e adereços, é possível reduzir a deriva semântica com múltiplos sujeitos."
+    },
+    "zh": {
+      "content": "将抽象的表演意图（如节奏感强、愉快等）从prompt中去除，具体指示时间、人物、口、手、目光、小道具，可以减轻多主体的语义漂移。"
+    }
+  }
+}
