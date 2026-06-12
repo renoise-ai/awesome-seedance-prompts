@@ -1,0 +1,44 @@
+{
+  "id": "2065203729423605760",
+  "title": "Start by selecting a strong visual reference that defines the look (e.g…",
+  "content": "Start by selecting a strong visual reference that defines the look (e.g., monochrome palette, futuristic visor, oversized black fashion, clean white studio) to keep Seedance 2.0 outputs consistent.  \nGenerate ~10 AI images of the same character with the same outfit language but different poses to create shot variety while maintaining identity.  \nArrange the images into a storyboard sequence (e.g., Arrival → Dissolve → Runway → Descent → Side Walk → Motion → Visor → Contact → Stillness → Final Walk) before animating.  \nUse a frame-to-frame workflow by setting Image 1 as the starting frame and Image 2 as the ending frame, then chain transitions (Image 1→2, 2→3, etc.) to build the full video.  \nSet each image-to-image transition to ~2–4 seconds and prompt for slow motion, soft fabric movement, ghost blur, smoke, and cinematic camera movement to unify motion style.  \nAdd dark futuristic music (deep bass, minimal electronic pulse, metallic echoes, no vocals) to reinforce a premium fashion-film tone.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2065203025309007872/img/eELXMZJT7D2pdPOb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065203729423605760.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2065203729423605760",
+  "sourcePublishedAt": "2026-06-11",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial",
+    "Slow-Mo",
+    "Creative Asset"
+  ],
+  "tips": "Start by selecting a strong visual reference that defines the look (e.g., monochrome palette, futuristic visor, oversized black fashion, clean white studio) to keep Seedance 2.0 outputs consistent.  \nGenerate ~10 AI images of the same character with the same outfit language but different poses to create shot variety while maintaining identity.  \nArrange the images into a storyboard sequence (e.g., Arrival → Dissolve → Runway → Descent → Side Walk → Motion → Visor → Contact → Stillness → Final Walk) before animating.  \nUse a frame-to-frame workflow by setting Image 1 as the starting frame and Image 2 as the ending frame, then chain transitions (Image 1→2, 2→3, etc.) to build the full video.  \nSet each image-to-image transition to ~2–4 seconds and prompt for slow motion, soft fabric movement, ghost blur, smoke, and cinematic camera movement to unify motion style.  \nAdd dark futuristic music (deep bass, minimal electronic pulse, metallic echoes, no vocals) to reinforce a premium fashion-film tone.",
+  "translations": {
+    "es": {
+      "content": "Comienza seleccionando una referencia visual fuerte que defina el aspecto (por ejemplo, paleta monocromática, visor futurista, moda negra de gran tamaño, estudio blanco limpio) para mantener la consistencia en las salidas de Seedance 2.0.  \nGenera aproximadamente 10 imágenes de IA del mismo personaje con el mismo lenguaje de vestimenta pero en diferentes poses para crear variedad de tomas mientras se mantiene la identidad.  \nOrganiza las imágenes en una secuencia de storyboard (por ejemplo, Llegada → Disolución → Pasarela → Descenso → Acera → Movimiento → Visor → Contacto → Quietud → Paseo Final) antes de animar.  \nUtiliza un flujo de trabajo de cuadro a cuadro estableciendo la Imagen 1 como el cuadro inicial y la Imagen 2 como el cuadro final, luego encadena transiciones (Imagen 1→2, 2→3, etc.) para construir el video completo.  \nConfigura cada transición de imagen a imagen a aproximadamente 2–4 segundos y utiliza prompts para cámara lenta, movimiento suave de tela, desenfoque fantasma, humo y movimiento de cámara cinematográfico para unificar el estilo de movimiento.  \nAñade música futurista oscura (bajo profundo, pulso electrónico minimalista, ecos metálicos, sin voces) para reforzar un tono de película de moda premium."
+    },
+    "fr": {
+      "content": "Commencez par sélectionner une référence visuelle forte qui définit le look (par exemple, palette monochrome, visière futuriste, mode noire surdimensionnée, studio blanc épuré) pour assurer la cohérence des sorties de Seedance 2.0.  \nGénérez environ 10 images AI du même personnage avec le même langage vestimentaire mais dans des poses différentes pour créer une variété de prises tout en maintenant l'identité.  \nDisposez les images dans une séquence de storyboard (par exemple, Arrivée → Dissolution → Podium → Descente → Trottoir → Mouvement → Visière → Contact → Immobilité → Dernière Marche) avant d'animer.  \nUtilisez un flux de travail image par image en définissant l'Image 1 comme cadre de départ et l'Image 2 comme cadre d'arrivée, puis enchaînez les transitions (Image 1→2, 2→3, etc.) pour construire la vidéo complète.  \nRéglez chaque transition d'image à image sur environ 2 à 4 secondes et utilisez un prompt pour le ralenti, le mouvement doux des tissus, le flou fantôme, la fumée et le mouvement de caméra cinématique pour unifier le style de mouvement.  \nAjoutez une musique futuriste sombre (basse profonde, pulsation électronique minimale, échos métalliques, pas de voix) pour renforcer un ton de film de mode haut de gamme."
+    },
+    "ja": {
+      "content": "---\nまず、Seedance 2.0の出力を一貫性のあるものにするために、ビジュアルの基準となる強力なリファレンスを選びます（例：モノクロのパレット、未来的なバイザー、オーバーサイズの黒いファッション、清潔な白いスタジオ）。  \n同じキャラクターを同じ衣装の言語で、異なるポーズで約10枚のAI画像を生成し、アイデンティティを維持しながらショットのバリエーションを作成します。  \nアニメーション化する前に、画像をストーリーボードのシーケンスに配置します（例：Arrival → Dissolve → Runway → Descent → Side Walk → Motion → Visor → Contact → Stillness → Final Walk）。  \nフレーム間のワークフローを使用し、Image 1を開始フレーム、Image 2を終了フレームとして設定し、トランジションをチェーン（Image 1→2、2→3など）してフルビデオを構築します。  \n各画像間のトランジションを約2〜4秒に設定し、スローモーション、柔らかな布の動き、ゴーストブラー、煙、シネマティックなカメラの動きを促して、動きのスタイルを統一します。  \nプレミアムなファッションフィルムのトーンを強化するために、ダークで未来的な音楽（ディープベース、ミニマルな電子パルス、金属的なエコー、ボーカルなし）を追加します。\n---"
+    },
+    "ko": {
+      "content": "시작은 Seedance 2.0의 결과물을 일관되게 유지하기 위해 외형을 정의하는 강력한 시각적 참조(예: 모노크롬 팔레트, 미래적인 바이저, 오버사이즈 블랙 패션, 깨끗한 화이트 스튜디오)를 선택하는 것입니다.  \n같은 캐릭터의 같은 의상 언어를 사용하되 다른 포즈로 ~10개의 AI 이미지를 생성하여 정체성을 유지하면서 샷의 다양성을 만듭니다.  \n이미지를 스토리보드 시퀀스(예: Arrival → Dissolve → Runway → Descent → Side Walk → Motion → Visor → Contact → Stillness → Final Walk)로 배열한 후 애니메이션을 만듭니다.  \n이미지 1을 시작 프레임으로, 이미지 2를 종료 프레임으로 설정하여 프레임 간 워크플로를 사용한 후 전환을 연결(이미지 1→2, 2→3 등)하여 전체 비디오를 구축합니다.  \n각 이미지 간 전환을 ~2–4초로 설정하고 슬로우 모션, 부드러운 패브릭 움직임, 고스트 블러, 연기, 시네마틱 카메라 움직임을 프롬프트하여 모션 스타일을 통일합니다.  \n프리미엄 패션 필름 톤을 강화하기 위해 어두운 미래적인 음악(깊은 베이스, 최소한의 전자 펄스, 금속성 에코, 보컬 없음)을 추가합니다."
+    },
+    "pt": {
+      "content": "Comece selecionando uma referência visual forte que defina o visual (por exemplo, paleta monocromática, visor futurista, moda preta oversized, estúdio branco limpo) para manter os resultados do Seedance 2.0 consistentes.  \nGere cerca de 10 imagens de IA do mesmo personagem com a mesma linguagem de vestuário, mas em poses diferentes para criar variedade de cenas enquanto mantém a identidade.  \nOrganize as imagens em uma sequência de storyboard (por exemplo, Chegada → Dissolver → Passarela → Descida → Calçada → Movimento → Visor → Contato → Imobilidade → Caminhada Final) antes de animar.  \nUse um fluxo de trabalho quadro a quadro definindo a Imagem 1 como o quadro inicial e a Imagem 2 como o quadro final, depois encadeie as transições (Imagem 1→2, 2→3, etc.) para construir o vídeo completo.  \nDefina cada transição de imagem para imagem em cerca de 2–4 segundos e use prompt para câmera lenta, movimento suave de tecido, desfoque fantasma, fumaça e movimento de câmera cinematográfico para unificar o estilo de movimento.  \nAdicione música futurista escura (baixo profundo, pulso eletrônico minimalista, ecos metálicos, sem vocais) para reforçar um tom de filme de moda premium."
+    },
+    "zh": {
+      "content": "首先选择一个强烈的视觉参考来定义外观（例如，单色调、未来感面罩、超大黑色时尚、干净的白色工作室），以保持Seedance 2.0输出的一致性。  \n生成约10张同一角色的AI图像，保持相同的服装风格但不同的姿势，以在保持身份的同时创造镜头多样性。  \n将图像排列成故事板序列（例如，到达→溶解→跑道→下降→侧走→运动→面罩→接触→静止→最终走秀），然后再进行动画制作。  \n使用逐帧工作流程，将图像1设置为起始帧，图像2为结束帧，然后链接过渡（图像1→2，2→3，等等）以构建完整视频。  \n将每个图像到图像的过渡设置为约2-4秒，并提示慢动作、柔软的布料运动、幽灵模糊、烟雾和电影级摄像机运动，以统一运动风格。  \n添加黑暗未来感音乐（深沉低音、极简电子脉冲、金属回声、无人声）以强化高端时尚电影的氛围。"
+    }
+  }
+}

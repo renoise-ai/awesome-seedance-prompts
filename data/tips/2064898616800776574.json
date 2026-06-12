@@ -1,0 +1,42 @@
+{
+  "id": "2064898616800776574",
+  "title": "15秒以上の動画で声の一貫性を保つために、まずSeedanceでBGMなし・環境音なしの「キャラクターが喋るだけ」の5〜15秒動画を生成する",
+  "content": "15秒以上の動画で声の一貫性を保つために、まずSeedanceでBGMなし・環境音なしの「キャラクターが喋るだけ」の5〜15秒動画を生成する  \n生成した動画をmp3に変換し、そのmp3をSeedanceのキャラクターボイスのAudio refとして指定して長尺生成に使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2064898602087100416/pu/img/kAwCU73MWoZ4ktfH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064898616800776574.mp4",
+  "sourceLink": "https://x.com/Eris_Create_Lab/status/2064898616800776574",
+  "sourcePublishedAt": "2026-06-11",
+  "author": {
+    "name": "Eris Create Lab",
+    "link": "https://x.com/Eris_Create_Lab"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "15秒以上の動画で声の一貫性を保つために、まずSeedanceでBGMなし・環境音なしの「キャラクターが喋るだけ」の5〜15秒動画を生成する  \n生成した動画をmp3に変換し、そのmp3をSeedanceのキャラクターボイスのAudio refとして指定して長尺生成に使う",
+  "translations": {
+    "en": {
+      "content": "To maintain voice consistency in videos longer than 15 seconds, first generate a 5 to 15-second video in Seedance with no BGM or ambient sound, where the character only speaks.  \nConvert the generated video to mp3, and use that mp3 as the Audio ref for character voice in Seedance for longer video generation.\n\n--- QUOTED TWEET ---\n#AIart\nI finally managed to break through the 15-second barrier in Seedance on my own 🤣\nThe consistency of the character's voice was a challenge in videos longer than 15 seconds, but\n1. Generate a 5 to 15-second video in Seedance with no BGM or ambient sound, where the character only speaks.\n2. Convert that video to mp3.\n3. Use that mp3 as the Audio ref for character voice in Seedance.\n\nThis solved the issue ✨\n\nI'll share a reference video, but please focus only on the voice consistency as the direction is terribly poor this time 😅\n\nvia @get_artcraft\n---"
+    },
+    "es": {
+      "content": "Para mantener la consistencia de la voz en videos de más de 15 segundos, primero genera un video de 5 a 15 segundos en Seedance sin BGM ni sonidos ambientales, donde solo hable el personaje.  \nConvierte el video generado a mp3 y usa ese mp3 como referencia de audio para la voz del personaje en Seedance para la generación de videos más largos.\n\n--- TWEET CITADO ---\n#AIart\nFinalmente pude superar por mi cuenta la barrera de los 15 segundos en seedance🤣\nEn videos de más de 15 segundos, la consistencia de la voz del personaje era un problema, pero\n1. Generé un video de 5 a 15 segundos en seedance sin BGM ni sonidos ambientales, donde solo hable el personaje.\n2. Convertí ese video a mp3.\n3. Usé ese mp3 como referencia de audio para la voz del personaje en seedance.\n\nAsí lo resolví✨\n\nCompartiré un video como referencia, pero la dirección es tan mala que es mejor que solo se enfoquen en la consistencia de la voz en esta ocasión😅\n\nvia @get_artcraft\n---"
+    },
+    "fr": {
+      "content": "Pour maintenir la cohérence de la voix dans une vidéo de plus de 15 secondes, commencez par générer une vidéo de 5 à 15 secondes avec Seedance, sans BGM ni bruit de fond, où le personnage ne fait que parler.  \nConvertissez la vidéo générée en mp3, puis utilisez cet mp3 comme référence audio pour la voix du personnage dans Seedance pour la génération de longue durée.\n\n--- TWEET CITÉ ---\n#AIart\nJ'ai enfin réussi à franchir la barrière des 15 secondes de Seedance par moi-même🤣\nDans les vidéos de plus de 15 secondes, la cohérence de la voix du personnage était un problème, mais\n1. Générer une vidéo de 5 à 15 secondes avec Seedance, sans BGM ni bruit de fond, où le personnage ne fait que parler.\n2. Convertir cette vidéo en mp3\n3. Utiliser cet mp3 comme référence audio pour la voix du personnage dans Seedance.\n\nCela a résolu le problème✨\n\nJe partage une vidéo à titre de référence, mais la mise en scène est d'une qualité médiocre, donc concentrez-vous uniquement sur la cohérence de la voix lors du visionnage😅\n\nvia @get_artcraft\n---"
+    },
+    "ko": {
+      "content": "---\n15초 이상의 영상에서 목소리의 일관성을 유지하기 위해, 먼저 Seedance에서 BGM 없이, 환경음 없이 \"캐릭터가 말하는 것만\"의 5~15초 영상을 생성합니다.  \n생성한 영상을 mp3로 변환하고, 그 mp3를 Seedance의 캐릭터 보이스의 Audio ref로 지정하여 장시간 생성에 사용합니다.\n\n--- QUOTED TWEET ---\n#AIart\nseedance의 15초의 벽을 드디어, 스스로 돌파할 수 있었습니다🤣\n15초 이상의 영상에서는 캐릭터의 목소리 일관성이 문제였는데요\n1. seedance에서 5초~15초의 BGM 없이, 환경음 없이 캐릭터가 말하는 것만의 영상을 생성.\n2. 그 영상을 mp3로 변환\n3. 그 mp3를, seedance의 캐릭터 보이스의 Audio ref로 사용.\n\n으로 해결할 수 있었습니다✨\n\n참고로 영상을 공유하지만, 연출은 NG급으로 형편없으니, 이번에는 목소리의 일관성에만 주목해서 시청해 주세요😅\n\nvia @get_artcraft\n---"
+    },
+    "pt": {
+      "content": "Para manter a consistência da voz em vídeos com mais de 15 segundos, primeiro gere um vídeo de 5 a 15 segundos no Seedance, sem BGM e sem sons ambientais, onde \"o personagem apenas fala\".  \nConverta o vídeo gerado para mp3 e use esse mp3 como referência de áudio para a voz do personagem no Seedance para gerar vídeos mais longos.\n\n--- TWEET CITADO ---\n#AIart\nFinalmente consegui superar a barreira dos 15 segundos no Seedance por conta própria🤣\nEm vídeos com mais de 15 segundos, a consistência da voz do personagem era um problema, mas\n1. Gere um vídeo de 5 a 15 segundos no Seedance, sem BGM e sem sons ambientais, onde o personagem apenas fala.\n2. Converta esse vídeo para mp3.\n3. Use esse mp3 como referência de áudio para a voz do personagem no Seedance.\n\nIsso resolveu o problema✨\n\nVou compartilhar o vídeo como referência, mas a execução é péssima em termos de direção, então, desta vez, foque apenas na consistência da voz ao assistir😅\n\nvia @get_artcraft"
+    },
+    "zh": {
+      "content": "---\n为了在超过15秒的视频中保持声音的一致性，首先在Seedance中生成一个没有BGM和环境音的“仅角色讲话”的5〜15秒视频  \n将生成的视频转换为mp3，并将该mp3指定为Seedance角色声音的Audio ref，用于长时间生成\n\n--- QUOTED TWEET ---\n#AIart\n终于靠自己突破了seedance的15秒限制🤣\n在超过15秒的视频中，角色声音的一致性一直是个难题\n1. 在seedance中生成一个5秒～15秒的没有BGM和环境音的仅角色讲话的视频。\n2. 将该视频转换为mp3\n3. 将该mp3用作seedance角色声音的Audio ref。\n\n这样就解决了✨\n\n我会分享一个参考视频，但演出效果非常差劲，所以这次请只关注声音的一致性😅\n\nvia @get_artcraft\n---"
+    }
+  }
+}

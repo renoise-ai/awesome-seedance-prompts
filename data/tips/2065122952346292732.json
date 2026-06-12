@@ -1,0 +1,42 @@
+{
+  "id": "2065122952346292732",
+  "title": "Use a ComfyUI workflow that calls an LLM to expand a single idea into multiple…",
+  "content": "Use a ComfyUI workflow that calls an LLM to expand a single idea into multiple storyboard scenes, then feed those scenes into Seedance 2.0 for animation.\n\nAnimate in Seedance 2.0 using a reference image to guide the look/consistency of the generated video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2065122866321043456/img/Ag6V5WyD-sUmxMdW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065122952346292732.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2065122952346292732",
+  "sourcePublishedAt": "2026-06-11",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a ComfyUI workflow that calls an LLM to expand a single idea into multiple storyboard scenes, then feed those scenes into Seedance 2.0 for animation.\n\nAnimate in Seedance 2.0 using a reference image to guide the look/consistency of the generated video.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de ComfyUI que llama a un LLM para expandir una sola idea en múltiples escenas de storyboard, luego alimenta esas escenas en Seedance 2.0 para la animación.\n\nAnima en Seedance 2.0 usando una imagen de referencia para guiar el aspecto/consistencia del video generado.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/7GIKiolioU"
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail ComfyUI qui appelle un LLM pour développer une seule idée en plusieurs scènes de storyboard, puis intégrez ces scènes dans Seedance 2.0 pour l'animation.\n\nAnimez dans Seedance 2.0 en utilisant une image de référence pour guider l'apparence/la cohérence de la vidéo générée.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/7GIKiolioU"
+    },
+    "ja": {
+      "content": "---\nComfyUIのワークフローを使用して、LLMを呼び出し、単一のアイデアを複数のストーリーボードシーンに展開し、それらのシーンをSeedance 2.0に入力してアニメーション化します。\n\nSeedance 2.0でアニメーションを作成する際、参照画像を使用して生成されたビデオの外観/一貫性をガイドします。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/7GIKiolioU\n---"
+    },
+    "ko": {
+      "content": "ComfyUI 워크플로우를 사용하여 LLM을 호출해 하나의 아이디어를 여러 스토리보드 장면으로 확장한 다음, 그 장면들을 Seedance 2.0에 입력하여 애니메이션을 만드세요.\n\n참조 이미지를 사용하여 생성된 비디오의 외관/일관성을 안내하면서 Seedance 2.0에서 애니메이션을 만드세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/7GIKiolioU\n---"
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho ComfyUI que chama um LLM para expandir uma única ideia em várias cenas de storyboard, depois insira essas cenas no Seedance 2.0 para animação.\n\nAnime no Seedance 2.0 usando uma imagem de referência para guiar a aparência/consistência do vídeo gerado.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/7GIKiolioU"
+    },
+    "zh": {
+      "content": "使用一个ComfyUI工作流程，调用LLM将单个想法扩展为多个故事板场景，然后将这些场景输入Seedance 2.0进行动画制作。\n\n在Seedance 2.0中使用参考图像进行动画制作，以指导生成视频的外观和一致性。\n\n--- 线程继续 ---\n[线程 1] https://t.co/7GIKiolioU"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2065132155512996140",
+  "title": "Usa MeiGen-AI-Design-MCP para que, al pedirle a Claude Code crear 4 imágenes de…",
+  "content": "Usa MeiGen-AI-Design-MCP para que, al pedirle a Claude Code crear 4 imágenes de producto, suba una referencia, genere 4 prompts distintos y produzca 4 direcciones creativas en paralelo desde el terminal en menos de 2 minutos  \nElige el backend según tu flujo: MeiGen cloud, tu propia clave OpenAI o ComfyUI local en tu GPU (offline) para que las imágenes no salgan de tu máquina  \nActiva generación paralela vía subagentes para producir múltiples variantes sin saturar el contexto principal  \nAprovecha los 1.446 prompts curados (producto, editorial, moda, arquitectura, cinematográfico, anime) como base para redactar prompts de calidad de producción  \nSelecciona Seedance 2.0 como modelo dentro del MCP (junto a otros como GPT Image 2, Veo 3.1, etc.) según el tipo de salida que necesites",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2065132103532978176/pu/img/iGByuU6-nPi8qhlg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065132155512996140.mp4",
+  "sourceLink": "https://x.com/Fluyeporlaweb/status/2065132155512996140",
+  "sourcePublishedAt": "2026-06-11",
+  "author": {
+    "name": "PA13L0",
+    "link": "https://x.com/Fluyeporlaweb"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Usa MeiGen-AI-Design-MCP para que, al pedirle a Claude Code crear 4 imágenes de producto, suba una referencia, genere 4 prompts distintos y produzca 4 direcciones creativas en paralelo desde el terminal en menos de 2 minutos  \nElige el backend según tu flujo: MeiGen cloud, tu propia clave OpenAI o ComfyUI local en tu GPU (offline) para que las imágenes no salgan de tu máquina  \nActiva generación paralela vía subagentes para producir múltiples variantes sin saturar el contexto principal  \nAprovecha los 1.446 prompts curados (producto, editorial, moda, arquitectura, cinematográfico, anime) como base para redactar prompts de calidad de producción  \nSelecciona Seedance 2.0 como modelo dentro del MCP (junto a otros como GPT Image 2, Veo 3.1, etc.) según el tipo de salida que necesites",
+  "translations": {
+    "en": {
+      "content": "---\nUse MeiGen-AI-Design-MCP so that when you ask Claude Code to create 4 product images, it uploads a reference, generates 4 different prompts, and produces 4 creative directions in parallel from the terminal in less than 2 minutes.  \nChoose the backend according to your workflow: MeiGen cloud, your own OpenAI key, or local ComfyUI on your GPU (offline) so that the images don't leave your machine.  \nActivate parallel generation via subagents to produce multiple variants without saturating the main context.  \nTake advantage of the 1,446 curated prompts (product, editorial, fashion, architecture, cinematic, anime) as a base to draft production-quality prompts.  \nSelect Seedance 2.0 as the model within the MCP (alongside others like GPT Image 2, Veo 3.1, etc.) depending on the type of output you need.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/v8zn9poinS\n\nMore repos like this on Telegram: https://t.co/ANlD2Ch1y9\n---"
+    },
+    "fr": {
+      "content": "Utilisez MeiGen-AI-Design-MCP pour que, en demandant à Claude Code de créer 4 images de produit, vous puissiez télécharger une référence, générer 4 prompts distincts et produire 4 directions créatives en parallèle depuis le terminal en moins de 2 minutes.  \nChoisissez le backend selon votre flux : MeiGen cloud, votre propre clé OpenAI ou ComfyUI local sur votre GPU (hors ligne) pour que les images ne quittent pas votre machine.  \nActivez la génération parallèle via des sous-agents pour produire de multiples variantes sans saturer le contexte principal.  \nProfitez des 1.446 prompts sélectionnés (produit, éditorial, mode, architecture, cinématographique, anime) comme base pour rédiger des prompts de qualité de production.  \nSélectionnez Seedance 2.0 comme modèle dans le MCP (avec d'autres comme GPT Image 2, Veo 3.1, etc.) selon le type de sortie dont vous avez besoin.\n\n--- CONTINUATION DU FIL ---\n[Thread 1] https://t.co/v8zn9poinS\n\nPlus de dépôts comme ça sur Telegram : https://t.co/ANlD2Ch1y9"
+    },
+    "ja": {
+      "content": "---\nClaude Codeに4つの製品画像を作成させるために、MeiGen-AI-Design-MCPを使用し、参照をアップロードし、4つの異なるプロンプトを生成し、2分以内にターミナルから4つのクリエイティブな方向性を並行して生み出します。  \nワークフローに応じてバックエンドを選択してください：MeiGenクラウド、独自のOpenAIキー、またはGPU上のComfyUIローカル（オフライン）を使用して、画像があなたのマシンから出ないようにします。  \nサブエージェントを介した並列生成を有効にして、主要なコンテキストを飽和させることなく複数のバリエーションを生成します。  \n1,446のキュレーションされたプロンプト（製品、エディトリアル、ファッション、建築、シネマティック、アニメ）を活用して、プロダクション品質のプロンプトを作成する基盤とします。  \n必要な出力タイプに応じて、MCP内でSeedance 2.0をモデルとして選択します（他のモデルとしてGPT Image 2、Veo 3.1などもあります）。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/v8zn9poinS\n\nTelegramでさらに多くのリポジトリ: https://t.co/ANlD2Ch1y9\n---"
+    },
+    "ko": {
+      "content": "MeiGen-AI-Design-MCP를 사용하여 Claude Code에게 4개의 제품 이미지를 생성하도록 요청할 때, 참조를 업로드하고, 4개의 다른 프롬프트를 생성하며, 2분 이내에 터미널에서 4개의 창의적인 방향을 병렬로 생성하세요.  \n흐름에 따라 백엔드를 선택하세요: MeiGen 클라우드, 자신의 OpenAI 키 또는 로컬 GPU의 ComfyUI(오프라인)로 이미지를 기기에서 벗어나지 않게 하세요.  \n주요 컨텍스트를 포화시키지 않고 여러 변형을 생성하기 위해 서브 에이전트를 통한 병렬 생성을 활성화하세요.  \n1,446개의 큐레이션된 프롬프트(제품, 에디토리얼, 패션, 건축, 시네마틱, 애니메)를 활용하여 고품질의 프롬프트를 작성하는 기반으로 삼으세요.  \n필요한 출력 유형에 따라 MCP 내에서 Seedance 2.0을 모델로 선택하세요(GPT Image 2, Veo 3.1 등과 함께).\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/v8zn9poinS\n\n더 많은 저장소는 Telegram에서 확인하세요: https://t.co/ANlD2Ch1y9"
+    },
+    "pt": {
+      "content": "---\nUse MeiGen-AI-Design-MCP para que, ao pedir ao Claude Code criar 4 imagens de produto, faça o upload de uma referência, gere 4 prompts distintos e produza 4 direções criativas em paralelo a partir do terminal em menos de 2 minutos  \nEscolha o backend de acordo com seu fluxo: MeiGen cloud, sua própria chave OpenAI ou ComfyUI local na sua GPU (offline) para que as imagens não saiam da sua máquina  \nAtive a geração paralela via subagentes para produzir múltiplas variantes sem sobrecarregar o contexto principal  \nAproveite os 1.446 prompts curados (produto, editorial, moda, arquitetura, cinematográfico, anime) como base para redigir prompts de qualidade de produção  \nSelecione Seedance 2.0 como modelo dentro do MCP (junto a outros como GPT Image 2, Veo 3.1, etc.) conforme o tipo de saída que você precisar\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/v8zn9poinS\n\nMais repositórios assim no Telegram: https://t.co/ANlD2Ch1y9\n---"
+    },
+    "zh": {
+      "content": "使用MeiGen-AI-Design-MCP，当请求Claude Code创建4张产品图像时，上传一个参考，生成4个不同的prompts，并在不到2分钟内从终端产生4个平行的创意方向。  \n根据你的工作流程选择后端：MeiGen云、你自己的OpenAI密钥或在本地GPU上使用ComfyUI（离线），以确保图像不会离开你的机器。  \n通过子代理激活并行生成，以在不占用主要上下文的情况下生产多个变体。  \n利用1,446个精心策划的prompts（产品、编辑、时尚、建筑、电影、动漫）作为基础，撰写高质量的生产级prompts。  \n根据你需要的输出类型，在MCP中选择Seedance 2.0作为模型（以及其他如GPT Image 2、Veo 3.1等）。\n\n--- 线程继续 ---\n[线程1] https://t.co/v8zn9poinS\n\n更多这样的资源在Telegram：https://t.co/ANlD2Ch1y9"
+    }
+  }
+}
