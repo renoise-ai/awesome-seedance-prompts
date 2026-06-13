@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **1706** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **557** |
-| 🔄 最終更新 | **2026-06-12** |
+| 🔄 最終更新 | **2026-06-13** |
 
 ---
 
@@ -8862,4 +8862,4 @@ Use Seedance 2 specifically to animate still diffusion/VFX replacement renders, 
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-12T21:47:49.487Z
+🤖 この README は自動生成されています。最終更新： 2026-06-13T03:56:42.576Z
