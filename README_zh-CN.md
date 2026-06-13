@@ -6464,4 +6464,4 @@ Use Seedance 2 specifically to animate still diffusion/VFX replacement renders, 
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-13T10:31:16.784Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-13T14:03:11.571Z
