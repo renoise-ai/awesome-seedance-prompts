@@ -1,0 +1,42 @@
+{
+  "id": "2066650718162080135",
+  "title": "Use MidJourney to generate retro anime-style frames/images, then animate them…",
+  "content": "Use MidJourney to generate retro anime-style frames/images, then animate them in Seedance 2.0 to match the retro OVA animation style.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066649613021687809/img/kkcA2wuqoSoYaE-B.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066650718162080135.mp4",
+  "sourceLink": "https://x.com/jboogx_creative/status/2066650718162080135",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "jboogx.creative",
+    "link": "https://x.com/jboogx_creative"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use MidJourney to generate retro anime-style frames/images, then animate them in Seedance 2.0 to match the retro OVA animation style.",
+  "translations": {
+    "es": {
+      "content": "Usa MidJourney para generar fotogramas/imágenes de estilo anime retro, luego anímalos en Seedance 2.0 para que coincidan con el estilo de animación retro OVA."
+    },
+    "fr": {
+      "content": "Utilisez MidJourney pour générer des images/cadres de style anime rétro, puis animez-les dans Seedance 2.0 pour correspondre au style d'animation rétro OVA."
+    },
+    "ja": {
+      "content": "---\nMidJourneyを使用してレトロなアニメスタイルのフレーム/画像を生成し、それをSeedance 2.0でアニメーション化してレトロなOVAアニメーションスタイルに合わせましょう。\n---"
+    },
+    "ko": {
+      "content": "MidJourney를 사용하여 레트로 애니메이션 스타일의 프레임/이미지를 생성한 후, Seedance 2.0에서 이를 레트로 OVA 애니메이션 스타일에 맞게 애니메이션화하세요."
+    },
+    "pt": {
+      "content": "Use o MidJourney para gerar quadros/imagens em estilo anime retrô, depois anime-os no Seedance 2.0 para combinar com o estilo de animação OVA retrô."
+    },
+    "zh": {
+      "content": "使用 MidJourney 生成复古动漫风格的画面/图像，然后在 Seedance 2.0 中将其动画化，以匹配复古OVA动画风格。"
+    }
+  }
+}

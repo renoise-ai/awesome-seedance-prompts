@@ -1,0 +1,42 @@
+{
+  "id": "2066536215558721678",
+  "title": "Use an adaptive “generate-then-write” workflow: generate Seedance clips in 15s…",
+  "content": "Use an adaptive “generate-then-write” workflow: generate Seedance clips in 15s chunks and refine the story after each clip instead of locking the full script first  \nStart with a clear beginning and ending, then build the middle beats by iterating clip-by-clip as you generate  \nWhen Seedance deviates from your prompt, review the output for “beautiful mistakes” and incorporate the best unexpected results into the story rather than discarding them",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066389553192312832/img/8t6A8wSSC6mLQI21.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066536215558721678.mp4",
+  "sourceLink": "https://x.com/Dani__oros/status/2066536215558721678",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "Danioros",
+    "link": "https://x.com/Dani__oros"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an adaptive “generate-then-write” workflow: generate Seedance clips in 15s chunks and refine the story after each clip instead of locking the full script first  \nStart with a clear beginning and ending, then build the middle beats by iterating clip-by-clip as you generate  \nWhen Seedance deviates from your prompt, review the output for “beautiful mistakes” and incorporate the best unexpected results into the story rather than discarding them",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo adaptativo de \"generar y luego escribir\": genera clips de Seedance en fragmentos de 15 segundos y refina la historia después de cada clip en lugar de fijar el guion completo primero.  \nComienza con un inicio y un final claros, luego construye los puntos intermedios iterando clip por clip mientras generas.  \nCuando Seedance se desvía de tu prompt, revisa el resultado en busca de \"errores hermosos\" e incorpora los mejores resultados inesperados en la historia en lugar de descartarlos."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail adaptatif « générer-puis-écrire » : générez des clips Seedance par segments de 15 secondes et affinez l'histoire après chaque clip au lieu de verrouiller d'abord le script complet.  \nCommencez par un début et une fin clairs, puis construisez les étapes intermédiaires en itérant clip par clip au fur et à mesure que vous générez.  \nLorsque Seedance s'écarte de votre prompt, examinez le résultat pour y trouver des « erreurs magnifiques » et intégrez les meilleurs résultats inattendus dans l'histoire plutôt que de les écarter."
+    },
+    "ja": {
+      "content": "---\n適応型の「生成してから書く」ワークフローを使用します：Seedanceクリップを15秒のチャンクで生成し、最初に完全なスクリプトを固定するのではなく、各クリップの後にストーリーを洗練します  \n明確な始まりと終わりから始め、生成する際にクリップごとに中間のビートを構築します  \nSeedanceがプロンプトから逸脱した場合、「美しい間違い」として出力を見直し、予期しない最高の結果をストーリーに組み込むようにします  \n---"
+    },
+    "ko": {
+      "content": "적응형 \"생성 후 작성\" 워크플로우를 사용하세요: 전체 스크립트를 먼저 고정하는 대신 Seedance 클립을 15초 단위로 생성하고 각 클립 후에 이야기를 다듬으세요  \n명확한 시작과 끝을 설정한 후, 클립을 생성하면서 클립별로 중간 비트를 반복하여 구축하세요  \nSeedance가 당신의 프롬프트에서 벗어날 때, 출력물을 검토하여 \"아름다운 실수\"를 찾아내고, 예상치 못한 최고의 결과를 이야기 속에 통합하세요. 버리지 마세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho adaptativo de “gerar e depois escrever”: gere clipes Seedance em pedaços de 15s e refine a história após cada clipe, em vez de fixar o roteiro completo primeiro  \nComece com um início e um final claros, depois construa o meio iterando clipe por clipe à medida que você gera  \nQuando o Seedance se desviar do seu prompt, revise o resultado em busca de “erros bonitos” e incorpore os melhores resultados inesperados na história em vez de descartá-los"
+    },
+    "zh": {
+      "content": "使用自适应的“生成-然后-写作”工作流程：以15秒为一段生成Seedance片段，并在每个片段后完善故事，而不是先锁定完整剧本  \n从明确的开头和结尾开始，然后在生成过程中逐段迭代构建中间情节  \n当Seedance偏离你的prompt时，检查输出中的“美丽错误”，将最好的意外结果融入故事，而不是丢弃它们"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2066475906332565951",
+  "title": "GPT-Image-2でストーリーボード画像を作り、あえてラフなスケッチ調にして最終的な質感・スタイルはSeedanceのリファレンス画像適用で決める",
+  "content": "GPT-Image-2でストーリーボード画像を作り、あえてラフなスケッチ調にして最終的な質感・スタイルはSeedanceのリファレンス画像適用で決める  \nラフなストーリーボードを用意し、スタイル適用はSeedance側に任せるとリファレンス画像のスタイルが反映されやすい  \n狙い通りに生成できないカットは、そのカット専用のリファレンス画像（ラフスケッチでも可）を別途用意してSeedanceに渡し、雰囲気・質感はSeedance側で反映させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066472549085806592/img/a-nEfzmAnPYMS_rQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066475906332565951.mp4",
+  "sourceLink": "https://x.com/hasamaru_studio/status/2066475906332565951",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "はさまるスタジオ",
+    "link": "https://x.com/hasamaru_studio"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Hand-drawn",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "GPT-Image-2でストーリーボード画像を作り、あえてラフなスケッチ調にして最終的な質感・スタイルはSeedanceのリファレンス画像適用で決める  \nラフなストーリーボードを用意し、スタイル適用はSeedance側に任せるとリファレンス画像のスタイルが反映されやすい  \n狙い通りに生成できないカットは、そのカット専用のリファレンス画像（ラフスケッチでも可）を別途用意してSeedanceに渡し、雰囲気・質感はSeedance側で反映させる",
+  "translations": {
+    "en": {
+      "content": "---\nCreate storyboard images with GPT-Image-2, intentionally in a rough sketch style, and determine the final texture and style by applying Seedance reference images.  \nPrepare a rough storyboard and leave the style application to Seedance, as it makes it easier to reflect the style of the reference images.  \nFor cuts that cannot be generated as intended, prepare a separate reference image (even a rough sketch is fine) specifically for that cut and provide it to Seedance, allowing Seedance to reflect the atmosphere and texture.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Pollo AI is here👇\n#PolloAI @PolloAIJP\nhttps://t.co/GVlAVOHZ99\n\n[Thread 2] This time, we created images for the storyboard using GPT-Image-2.\n\nThe storyboard was intentionally created in a rough sketch style, with the final texture and style being reflected based on reference images on the Seedance side.\n\nI feel that preparing a rough storyboard and leaving the style application to the video generation side better reflects the style of the reference images.\n\nAdditionally, for this video, since Cut 10 could not be generated as intended, we prepared a separate reference image specifically for Cut 10.\n\nThis was also created as a rough sketch, with the final atmosphere and texture being reflected on the Seedance side.\n---"
+    },
+    "es": {
+      "content": "---\nCreando imágenes de storyboard con GPT-Image-2, intencionalmente en un estilo de boceto áspero, y determinando la textura y el estilo final aplicando imágenes de referencia de Seedance.  \nAl preparar un storyboard áspero y dejar la aplicación del estilo a Seedance, es más fácil que se refleje el estilo de las imágenes de referencia.  \nPara los cortes que no se pueden generar como se desea, prepare imágenes de referencia específicas para esos cortes (pueden ser bocetos ásperos) y entréguelas a Seedance para que refleje la atmósfera y textura.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Pollo AI está aquí👇\n#PolloAI @PolloAIJP\nhttps://t.co/GVlAVOHZ99\n\n[Hilo 2] Esta vez, creamos imágenes para el storyboard con GPT-Image-2.\n\nEl storyboard se creó intencionalmente en un estilo de boceto áspero, y la textura y el estilo finales se reflejan en Seedance basándose en las imágenes de referencia.\n\nSiento que al preparar un storyboard áspero y dejar la aplicación del estilo al lado de la generación de video, se puede reflejar mejor el estilo de las imágenes de referencia.\n\nAdemás, en el video de esta ocasión, el corte 10 no se pudo generar como se esperaba, por lo que hemos preparado una imagen de referencia específica para el corte 10.\n\nEsto también se creó como un boceto áspero, y la atmósfera y textura finales se reflejan en Seedance.\n---"
+    },
+    "fr": {
+      "content": "---\nCréer des images de storyboard avec GPT-Image-2 dans un style délibérément esquissé, puis déterminer la texture et le style final en appliquant des images de référence de Seedance.  \nPréparer un storyboard esquissé et laisser l'application du style à Seedance facilite la réflexion du style des images de référence.  \nPour les plans qui ne peuvent pas être générés comme prévu, préparer séparément une image de référence spécifique à ce plan (même sous forme d'esquisse) et la transmettre à Seedance pour que l'ambiance et la texture soient reflétées par Seedance.\n\n--- SUITE DU FIL ---\n[Fil 1] Voici Pollo AI 👇\n#PolloAI @PolloAIJP\nhttps://t.co/GVlAVOHZ99\n\n[Fil 2] Cette fois, nous avons créé des images pour le storyboard avec GPT-Image-2.\n\nLe storyboard est délibérément réalisé dans un style esquissé, et la texture et le style finaux sont reflétés par Seedance en utilisant des images de référence.\n\nJe pense qu'il est plus efficace de préparer un storyboard esquissé et de laisser l'application du style à la génération vidéo pour mieux refléter le style des images de référence.\n\nDe plus, dans la vidéo actuelle, le plan 10 n'a pas pu être généré comme prévu, nous avons donc préparé une image de référence séparée uniquement pour le plan 10.\n\nCelle-ci a également été réalisée sous forme d'esquisse, et l'ambiance et la texture finales sont reflétées par Seedance."
+    },
+    "ko": {
+      "content": "---\nGPT-Image-2로 스토리보드 이미지를 만들고, 일부러 러프한 스케치 스타일로 하여 최종적인 질감과 스타일은 Seedance의 레퍼런스 이미지를 적용하여 결정합니다.  \n러프한 스토리보드를 준비하고, 스타일 적용은 Seedance 측에 맡기면 레퍼런스 이미지의 스타일이 반영되기 쉽습니다.  \n의도대로 생성되지 않는 컷은 해당 컷 전용의 레퍼런스 이미지(러프 스케치도 가능)를 별도로 준비하여 Seedance에 전달하고, 분위기와 질감은 Seedance 측에서 반영시킵니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Pollo AI는 여기입니다👇\n#PolloAI @PolloAIJP\nhttps://t.co/GVlAVOHZ99\n\n[Thread 2] 이번에는, GPT-Image-2로 스토리보드용 이미지를 생성했습니다.\n\n스토리보드는 일부러 러프한 스케치 스타일로 생성하고, 최종적인 질감과 스타일은 Seedance 측에서 레퍼런스 이미지를 기반으로 반영하는 형태로 하고 있습니다.\n\n러프한 스토리보드를 준비하고, 스타일의 적용은 영상 생성 측에 맡기는 것이 레퍼런스 이미지의 스타일을 잘 반영할 수 있는 것 같습니다.\n\n또한, 이번 영상에서는 컷 10이 생각대로 생성되지 않았기 때문에, 컷 10만 별도로 레퍼런스용 이미지를 준비했습니다.\n\n이것도 마찬가지로 러프한 스케치로 생성하고, 최종적인 분위기와 질감은 Seedance 측에서 반영하는 형태로 했습니다.\n---"
+    },
+    "pt": {
+      "content": "---\nCrie imagens de storyboard com o GPT-Image-2, optando por um estilo de esboço propositalmente rústico, e a textura e o estilo finais serão decididos pela aplicação de imagens de referência do Seedance.  \nAo preparar um storyboard rústico e deixar a aplicação de estilo para o Seedance, o estilo das imagens de referência é mais facilmente refletido.  \nPara cortes que não podem ser gerados conforme desejado, prepare uma imagem de referência específica para esse corte (mesmo que seja um esboço rústico) e entregue ao Seedance, para que a atmosfera e a textura sejam refletidas pelo Seedance.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Pollo AI está aqui👇\n#PolloAI @PolloAIJP\nhttps://t.co/GVlAVOHZ99\n\n[Thread 2] Desta vez, criamos imagens para storyboard usando o GPT-Image-2.\n\nO storyboard foi criado propositalmente em um estilo de esboço rústico, e a textura e o estilo finais são refletidos pelo Seedance com base nas imagens de referência.\n\nAcredito que preparar um storyboard rústico e deixar a aplicação de estilo para o lado da geração de vídeo reflete melhor o estilo das imagens de referência.\n\nAlém disso, no vídeo desta vez, o corte 10 não pôde ser gerado como esperado, então preparamos uma imagem de referência separada apenas para o corte 10.\n\nEste também foi criado como um esboço rústico, e a atmosfera e a textura finais foram refletidas pelo Seedance.\n---"
+    },
+    "zh": {
+      "content": "---\n使用GPT-Image-2制作故事板图像，故意采用粗略的草图风格，最终的质感和风格通过Seedance的参考图像来决定  \n准备粗略的故事板，将风格应用交给Seedance，这样更容易反映参考图像的风格  \n对于无法按预期生成的镜头，单独准备该镜头专用的参考图像（即使是草图也可以），交给Seedance，以便在Seedance侧反映出氛围和质感\n\n--- THREAD CONTINUATION ---\n[Thread 1] Pollo AI 在这里👇\n#PolloAI @PolloAIJP\nhttps://t.co/GVlAVOHZ99\n\n[Thread 2] 这次使用GPT-Image-2创建了用于故事板的图像。\n\n故事板故意以粗略的草图风格制作，最终的质感和风格通过Seedance的参考图像来反映。\n\n准备粗略的故事板，将风格的应用交给视频生成方，我觉得这样更能良好地反映参考图像的风格。\n\n此外，由于这次视频中的第10个镜头很难按预期生成，因此单独为第10个镜头准备了参考用的图像。\n\n这也是以粗略的草图形式制作，最终的氛围和质感通过Seedance来反映。\n---"
+    }
+  }
+}

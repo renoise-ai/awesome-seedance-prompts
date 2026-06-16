@@ -1,0 +1,43 @@
+{
+  "id": "2066428775341129921",
+  "title": "Use GPT Image 2 to generate a storyboard, then feed the storyboard into…",
+  "content": "Use GPT Image 2 to generate a storyboard, then feed the storyboard into Seedance 2.0 to animate it into a video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066422864191094784/img/0cvj_RoevI5oEC9F.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066428775341129921.mp4",
+  "sourceLink": "https://x.com/renoiseai/status/2066428775341129921",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "Renoise",
+    "link": "https://x.com/renoiseai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use GPT Image 2 to generate a storyboard, then feed the storyboard into Seedance 2.0 to animate it into a video.",
+  "translations": {
+    "es": {
+      "content": "Usa GPT Image 2 para generar un storyboard, luego introduce el storyboard en Seedance 2.0 para animarlo en un video.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Comienza a crear ↓ https://t.co/3G0HTArbvH\n---"
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer un storyboard, puis intégrez le storyboard dans Seedance 2.0 pour l'animer en vidéo.\n\n--- SUITE DU FIL ---\n[Fil 1] Commencez à créer ↓ https://t.co/3G0HTArbvH\n---"
+    },
+    "ja": {
+      "content": "---\nGPT Image 2を使用してストーリーボードを生成し、そのストーリーボードをSeedance 2.0に入力して動画にアニメーション化します。\n\n--- スレッドの続き ---\n[スレッド1] 作成を開始 ↓ https://t.co/3G0HTArbvH\n---"
+    },
+    "ko": {
+      "content": "GPT Image 2를 사용하여 스토리보드를 생성한 후, Seedance 2.0에 스토리보드를 입력하여 비디오로 애니메이션화하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 시작하기 ↓ https://t.co/3G0HTArbvH\n---"
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar um storyboard, depois insira o storyboard no Seedance 2.0 para animá-lo em um vídeo.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Comece a criar ↓ https://t.co/3G0HTArbvH\n---"
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成分镜，然后将分镜输入Seedance 2.0，将其动画化为视频。\n\n--- 线程继续 ---\n[线程 1] 开始创建 ↓ https://t.co/3G0HTArbvH\n---"
+    }
+  }
+}

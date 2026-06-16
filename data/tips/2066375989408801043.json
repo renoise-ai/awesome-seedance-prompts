@@ -1,0 +1,42 @@
+{
+  "id": "2066375989408801043",
+  "title": "Improve Seedance output quality by writing highly detailed prompts rather than…",
+  "content": "Improve Seedance output quality by writing highly detailed prompts rather than short/generic ones.\nUse reference images in Seedance to guide and improve visual quality.\nCreate a clear workflow and storyboard before generating in Seedance to maintain coherence across shots.\nPlan for character consistency (e.g., consistent references/prompts) when generating multiple Seedance clips for an episode.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066375811436101632/img/eXhoCsQNwG2IOobl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066375989408801043.mp4",
+  "sourceLink": "https://x.com/Cia0_exe/status/2066375989408801043",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "Cia0",
+    "link": "https://x.com/Cia0_exe"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Improve Seedance output quality by writing highly detailed prompts rather than short/generic ones.\nUse reference images in Seedance to guide and improve visual quality.\nCreate a clear workflow and storyboard before generating in Seedance to maintain coherence across shots.\nPlan for character consistency (e.g., consistent references/prompts) when generating multiple Seedance clips for an episode.",
+  "translations": {
+    "es": {
+      "content": "---\nMejora la calidad de salida de Seedance escribiendo prompts altamente detallados en lugar de cortos o genéricos.  \nUsa imágenes de referencia en Seedance para guiar y mejorar la calidad visual.  \nCrea un flujo de trabajo claro y un guion gráfico antes de generar en Seedance para mantener la coherencia entre las tomas.  \nPlanifica la consistencia de los personajes (por ejemplo, referencias/prompts consistentes) al generar múltiples clips de Seedance para un episodio.  \n---"
+    },
+    "fr": {
+      "content": "---\nAméliorez la qualité des résultats de Seedance en rédigeant des prompts très détaillés plutôt que courts ou génériques. Utilisez des images de référence dans Seedance pour guider et améliorer la qualité visuelle. Créez un flux de travail clair et un storyboard avant de générer dans Seedance pour maintenir la cohérence entre les prises. Prévoyez une cohérence des personnages (par exemple, références/prompts cohérents) lors de la génération de plusieurs clips Seedance pour un épisode.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedanceの出力品質を向上させるためには、短く一般的なものではなく、詳細なプロンプトを書くことが重要です。\nSeedanceで参照画像を使用して、視覚的な品質を向上させましょう。\nSeedanceで生成する前に、明確なワークフローとストーリーボードを作成し、ショット全体の一貫性を維持します。\nエピソード用に複数のSeedanceクリップを生成する際には、キャラクターの一貫性（例：一貫した参照/プロンプト）を計画しましょう。\n---"
+    },
+    "ko": {
+      "content": "---\n짧고 일반적인 프롬프트보다 매우 상세한 프롬프트를 작성하여 Seedance 출력 품질을 향상시키세요.  \nSeedance에서 참조 이미지를 사용하여 시각적 품질을 안내하고 개선하세요.  \nSeedance에서 생성하기 전에 명확한 워크플로우와 스토리보드를 만들어 샷 간의 일관성을 유지하세요.  \n에피소드의 여러 Seedance 클립을 생성할 때 캐릭터 일관성을 계획하세요 (예: 일관된 참조/프롬프트).  \n---"
+    },
+    "pt": {
+      "content": "Melhore a qualidade de saída do Seedance escrevendo prompts altamente detalhados em vez de curtos/genéricos.  \nUse imagens de referência no Seedance para guiar e melhorar a qualidade visual.  \nCrie um fluxo de trabalho claro e um storyboard antes de gerar no Seedance para manter a coerência entre as cenas.  \nPlaneje a consistência dos personagens (por exemplo, referências/prompts consistentes) ao gerar vários clipes do Seedance para um episódio."
+    },
+    "zh": {
+      "content": "通过编写高度详细的prompts而不是简短/通用的prompts来提高Seedance的输出质量。  \n在Seedance中使用参考图像来指导和提高视觉质量。  \n在Seedance中生成之前创建一个清晰的工作流程和故事板，以保持镜头之间的一致性。  \n在为一集生成多个Seedance片段时，计划角色一致性（例如，一致的参考/ prompts）。"
+    }
+  }
+}

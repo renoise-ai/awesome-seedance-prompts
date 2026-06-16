@@ -1,0 +1,42 @@
+{
+  "id": "2066717915043275250",
+  "title": "Lock your character design before prompting scenes by generating a single…",
+  "content": "Lock your character design before prompting scenes by generating a single reference sheet once, then reuse that sheet as the input for every storyboard so every shot stays on-model in Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066717095593648128/img/1omSZEGasJ02PuYq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066717915043275250.mp4",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2066717915043275250",
+  "sourcePublishedAt": "2026-06-16",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Lock your character design before prompting scenes by generating a single reference sheet once, then reuse that sheet as the input for every storyboard so every shot stays on-model in Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Bloquea el diseño de tu personaje antes de generar escenas creando una hoja de referencia única una vez, luego reutiliza esa hoja como entrada para cada storyboard para que cada toma se mantenga fiel al modelo en Seedance 2.0."
+    },
+    "fr": {
+      "content": "Verrouillez le design de votre personnage avant de créer des scènes en générant une seule feuille de référence une fois, puis réutilisez cette feuille comme entrée pour chaque storyboard afin que chaque plan reste conforme au modèle dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "Seedance 2.0で各ショットがモデル通りになるように、シーンをプロンプトする前にキャラクターデザインを確定させ、1枚のリファレンスシートを生成してから、それをすべてのストーリーボードの入力として再利用してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 모든 장면이 모델에 맞게 유지되도록, 캐릭터 디자인을 잠그기 전에 단일 참고 시트를 생성하여 모든 스토리보드의 입력으로 그 시트를 재사용하세요."
+    },
+    "pt": {
+      "content": "Bloqueie o design do seu personagem antes de criar cenas gerando uma única folha de referência uma vez, depois reutilize essa folha como entrada para cada storyboard para que cada tomada permaneça no modelo no Seedance 2.0."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中，通过生成一个参考图来锁定你的角色设计，然后在每个分镜中重复使用该图作为输入，这样每个镜头都能保持一致的角色造型。"
+    }
+  }
+}

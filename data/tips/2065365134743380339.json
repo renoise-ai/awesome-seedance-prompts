@@ -1,0 +1,41 @@
+{
+  "id": "2065365134743380339",
+  "title": "Use Seedance 2.0 real-face support by supplying an authorized face reference to…",
+  "content": "Use Seedance 2.0 real-face support by supplying an authorized face reference to generate videos with consistent real-face identity.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/LocalGhost97665/status/2065365134743380339",
+  "sourcePublishedAt": "2026-06-12",
+  "author": {
+    "name": "Local_Ghost",
+    "link": "https://x.com/LocalGhost97665"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 real-face support by supplying an authorized face reference to generate videos with consistent real-face identity.",
+  "translations": {
+    "es": {
+      "content": "Utiliza el soporte de rostro real de Seedance 2.0 proporcionando una referencia de rostro autorizada para generar videos con una identidad de rostro real consistente."
+    },
+    "fr": {
+      "content": "Utilisez la prise en charge des visages réels de Seedance 2.0 en fournissant une référence de visage autorisée pour générer des vidéos avec une identité de visage réel cohérente."
+    },
+    "ja": {
+      "content": "Seedance 2.0のリアルフェイスサポートを利用して、認証された顔の参照を提供することで、一貫したリアルフェイスのアイデンティティを持つビデオを生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0의 실물 얼굴 지원 기능을 사용하여, 승인된 얼굴 참조를 제공함으로써 일관된 실물 얼굴 정체성을 가진 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use o suporte de rosto real do Seedance 2.0 fornecendo uma referência de rosto autorizada para gerar vídeos com identidade de rosto real consistente."
+    },
+    "zh": {
+      "content": "通过提供授权的人脸参考，使用Seedance 2.0的真实人脸支持生成具有一致真实人脸身份的视频。"
+    }
+  }
+}

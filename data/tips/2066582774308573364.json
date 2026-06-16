@@ -1,0 +1,42 @@
+{
+  "id": "2066582774308573364",
+  "title": "Attach 3 reference photos (character sheets) and prompt Seedance 2.0 to…",
+  "content": "Attach 3 reference photos (character sheets) and prompt Seedance 2.0 to generate the scene coverage instead of specifying closeups.  \nUse a plate-wide shot in your prompt to get more cinematic results in Dreamina Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066575805778653184/img/PCaQk53XKpjcjQPC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066582774308573364.mp4",
+  "sourceLink": "https://x.com/PJaccetturo/status/2066582774308573364",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "PJ Ace",
+    "link": "https://x.com/PJaccetturo"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Attach 3 reference photos (character sheets) and prompt Seedance 2.0 to generate the scene coverage instead of specifying closeups.  \nUse a plate-wide shot in your prompt to get more cinematic results in Dreamina Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Adjunta 3 fotos de referencia (hojas de personajes) y utiliza el prompt Seedance 2.0 para generar la cobertura de la escena en lugar de especificar primeros planos.  \nUsa un plano amplio en tu prompt para obtener resultados más cinematográficos en Dreamina Seedance 2.0."
+    },
+    "fr": {
+      "content": "Joignez 3 photos de référence (feuilles de personnage) et utilisez le prompt Seedance 2.0 pour générer la couverture de la scène au lieu de spécifier des gros plans.  \nUtilisez un plan large dans votre prompt pour obtenir des résultats plus cinématographiques dans Dreamina Seedance 2.0."
+    },
+    "ja": {
+      "content": "---\n3枚の参考写真（キャラクターシート）を添付し、クローズアップを指定する代わりにSeedance 2.0にシーンカバレッジを生成するように指示してください。  \nDreamina Seedance 2.0でよりシネマティックな結果を得るために、プロンプトでプレートワイドショットを使用してください。\n---"
+    },
+    "ko": {
+      "content": "3개의 참고 사진(캐릭터 시트)을 첨부하고 Seedance 2.0에 클로즈업을 지정하는 대신 장면 커버리지를 생성하도록 프롬프트하세요.  \nDreamina Seedance 2.0에서 더 영화적인 결과를 얻기 위해 프롬프트에 plate-wide shot을 사용하세요."
+    },
+    "pt": {
+      "content": "Anexe 3 fotos de referência (fichas de personagens) e use o prompt Seedance 2.0 para gerar a cobertura da cena em vez de especificar closes.  \nUse um plano geral no seu prompt para obter resultados mais cinematográficos no Dreamina Seedance 2.0."
+    },
+    "zh": {
+      "content": "附上3张参考照片（角色表），并提示Seedance 2.0生成场景覆盖，而不是指定特写镜头。  \n在您的prompt中使用全景镜头，以在Dreamina Seedance 2.0中获得更具电影感的效果。"
+    }
+  }
+}

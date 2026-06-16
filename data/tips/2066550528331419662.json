@@ -1,0 +1,42 @@
+{
+  "id": "2066550528331419662",
+  "title": "Generate a realistic character sheet first to lock the dancer’s face…",
+  "content": "Generate a realistic character sheet first to lock the dancer’s face, hairstyle, outfit, body proportions, skin texture, and expression style for identity consistency.  \nUse the character sheet to generate a 4x4 (16-panel) choreography storyboard to predefine motion beats before video generation.  \nSend both the character sheet and the 16-panel storyboard into Seedance so the character sheet preserves identity while the storyboard controls the dance structure.  \nFollow the sequence lock the person first, lock the motion second, then generate the video.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/MrLarus/status/2066550528331419662",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Generate a realistic character sheet first to lock the dancer’s face, hairstyle, outfit, body proportions, skin texture, and expression style for identity consistency.  \nUse the character sheet to generate a 4x4 (16-panel) choreography storyboard to predefine motion beats before video generation.  \nSend both the character sheet and the 16-panel storyboard into Seedance so the character sheet preserves identity while the storyboard controls the dance structure.  \nFollow the sequence lock the person first, lock the motion second, then generate the video.",
+  "translations": {
+    "es": {
+      "content": "---\nGenera primero una hoja de personaje realista para fijar el rostro del bailarín, peinado, atuendo, proporciones corporales, textura de piel y estilo de expresión para la consistencia de identidad.  \nUsa la hoja de personaje para generar un storyboard de coreografía de 4x4 (16 paneles) para predefinir los ritmos de movimiento antes de la generación de video.  \nEnvía tanto la hoja de personaje como el storyboard de 16 paneles a Seedance para que la hoja de personaje preserve la identidad mientras el storyboard controla la estructura de la danza.  \nSigue la secuencia: primero fija a la persona, luego fija el movimiento, y después genera el video.\n---"
+    },
+    "fr": {
+      "content": "---\nGénérez d'abord une fiche de personnage réaliste pour verrouiller le visage du danseur, sa coiffure, sa tenue, ses proportions corporelles, la texture de sa peau et son style d'expression pour assurer la cohérence de l'identité.  \nUtilisez la fiche de personnage pour générer un storyboard de chorégraphie 4x4 (16 panneaux) afin de prédéfinir les mouvements avant la génération de la vidéo.  \nEnvoyez à la fois la fiche de personnage et le storyboard de 16 panneaux dans Seedance pour que la fiche de personnage préserve l'identité tandis que le storyboard contrôle la structure de la danse.  \nSuivez la séquence : verrouillez d'abord la personne, verrouillez le mouvement ensuite, puis générez la vidéo.\n---"
+    },
+    "ja": {
+      "content": "---\n最初にリアルなキャラクターシートを生成し、ダンサーの顔、ヘアスタイル、衣装、体のプロポーション、肌の質感、表情スタイルを固定して、アイデンティティの一貫性を確保します。  \nキャラクターシートを使用して、ビデオ生成前に動きのビートを事前に定義するための4x4（16パネル）の振付ストーリーボードを生成します。  \nキャラクターシートと16パネルのストーリーボードの両方をSeedanceに送信し、キャラクターシートがアイデンティティを保持しながら、ストーリーボードがダンスの構造を制御します。  \nまず人物を固定し、次に動きを固定し、最後にビデオを生成するという順序に従ってください。  \n---"
+    },
+    "ko": {
+      "content": "---\n먼저 댄서의 얼굴, 헤어스타일, 의상, 신체 비율, 피부 질감, 표정 스타일을 고정하기 위해 현실적인 캐릭터 시트를 생성하세요.  \n캐릭터 시트를 사용하여 비디오 생성 전에 동작 비트를 미리 정의하기 위해 4x4 (16패널) 안무 스토리보드를 생성하세요.  \n캐릭터 시트는 정체성을 유지하고 스토리보드는 춤의 구조를 제어할 수 있도록 Seedance에 캐릭터 시트와 16패널 스토리보드를 모두 보내세요.  \n순서를 따라 먼저 사람을 고정하고, 그 다음 동작을 고정한 후 비디오를 생성하세요.  \n---"
+    },
+    "pt": {
+      "content": "---\nGere primeiro uma ficha de personagem realista para definir o rosto do dançarino, penteado, roupa, proporções corporais, textura da pele e estilo de expressão para consistência de identidade.  \nUse a ficha de personagem para gerar um storyboard de coreografia 4x4 (16 quadros) para predefinir os ritmos de movimento antes da geração do vídeo.  \nEnvie tanto a ficha de personagem quanto o storyboard de 16 quadros para o Seedance para que a ficha de personagem preserve a identidade enquanto o storyboard controla a estrutura da dança.  \nSiga a sequência: primeiro bloqueie a pessoa, depois bloqueie o movimento e, em seguida, gere o vídeo.  \n---"
+    },
+    "zh": {
+      "content": "首先生成一个逼真的角色表，以确定舞者的面部特征、发型、服装、身体比例、皮肤质感和表情风格，以保持身份一致性。  \n使用角色表生成一个4x4（16格）编舞分镜头脚本，以在视频生成之前预定义动作节奏。  \n将角色表和16格分镜头脚本发送到Seedance，以便角色表保持身份一致性，而分镜头脚本控制舞蹈结构。  \n遵循顺序，先锁定人物，再锁定动作，然后生成视频。"
+    }
+  }
+}

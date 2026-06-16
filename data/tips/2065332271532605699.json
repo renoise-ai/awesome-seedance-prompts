@@ -1,0 +1,43 @@
+{
+  "id": "2065332271532605699",
+  "title": "Use a workflow of: start with your image → generate a storyboard with GPT Image…",
+  "content": "Use a workflow of: start with your image → generate a storyboard with GPT Image 2.0 → animate it in Seedance 2.0 on Dreamina (@dreamina_ai)",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2065212496282279936/img/27hTEHwoT1OwssiR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065332271532605699.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2065332271532605699",
+  "sourcePublishedAt": "2026-06-12",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a workflow of: start with your image → generate a storyboard with GPT Image 2.0 → animate it in Seedance 2.0 on Dreamina (@dreamina_ai)",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de: comienza con tu imagen → genera un storyboard con GPT Image 2.0 → anímalo en Seedance 2.0 en Dreamina (@dreamina_ai)"
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail : commencez par votre image → générez un storyboard avec GPT Image 2.0 → animez-le dans Seedance 2.0 sur Dreamina (@dreamina_ai)"
+    },
+    "ja": {
+      "content": "---\nワークフローを使用します: 画像から始める → GPT Image 2.0でストーリーボードを生成 → Seedance 2.0でDreamina (@dreamina_ai)を使ってアニメーション化\n---"
+    },
+    "ko": {
+      "content": "이미지로 시작 → GPT Image 2.0으로 스토리보드 생성 → Dreamina (@dreamina_ai)에서 Seedance 2.0으로 애니메이션화하는 워크플로우를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de: comece com sua imagem → gere um storyboard com GPT Image 2.0 → anime-o no Seedance 2.0 no Dreamina (@dreamina_ai)"
+    },
+    "zh": {
+      "content": "使用以下工作流程：从您的图像开始 → 使用 GPT Image 2.0 生成分镜头脚本 → 在 Dreamina (@dreamina_ai) 上用 Seedance 2.0 将其动画化"
+    }
+  }
+}

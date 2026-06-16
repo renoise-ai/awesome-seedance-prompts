@@ -1,0 +1,40 @@
+{
+  "id": "2065374654420906387",
+  "title": "Reference the uploaded swimming pool image",
+  "content": "Reference the uploaded swimming pool image",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2065373800955514880/img/tzO0ZkZN9pIJt0kE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065374654420906387.mp4",
+  "sourceLink": "https://x.com/iX00AI/status/2065374654420906387",
+  "sourcePublishedAt": "2026-06-12",
+  "author": {
+    "name": "iX",
+    "link": "https://x.com/iX00AI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Landmark",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "en": {
+      "content": "Reference the uploaded swimming pool image"
+    },
+    "es": {
+      "content": "Referencia la imagen de la piscina cargada"
+    },
+    "fr": {
+      "content": "---\nRéférencez l'image de la piscine téléchargée\n---"
+    },
+    "ko": {
+      "content": "업로드된 수영장 이미지를 참조하세요."
+    },
+    "pt": {
+      "content": "---\nConsulte a imagem da piscina carregada\n---"
+    },
+    "zh": {
+      "content": "参考上传的游泳池图片"
+    }
+  }
+}

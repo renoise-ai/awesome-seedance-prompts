@@ -1,0 +1,41 @@
+{
+  "id": "2065406144915591461",
+  "title": "Use a background image plus per-scene character sheets as inputs when…",
+  "content": "Use a background image plus per-scene character sheets as inputs when generating Seedance videos.  \nIn an Omni-style workflow, tag/attach the background image first, then tag/attach the character sheets to improve overall output quality.  \nUse character sheets to maintain character consistency across multiple scenes.  \nPrefer 2D or 2.5D styles for a higher success rate; avoid mixing in photorealistic elements if you want easier, more reliable generations.  \nCombine Seedance 2.0 with ChatGPT Image 2 to generate/prepare assets as part of the workflow.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/oh53397957/status/2065406144915591461",
+  "sourcePublishedAt": "2026-06-12",
+  "author": {
+    "name": "oh",
+    "link": "https://x.com/oh53397957"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a background image plus per-scene character sheets as inputs when generating Seedance videos.  \nIn an Omni-style workflow, tag/attach the background image first, then tag/attach the character sheets to improve overall output quality.  \nUse character sheets to maintain character consistency across multiple scenes.  \nPrefer 2D or 2.5D styles for a higher success rate; avoid mixing in photorealistic elements if you want easier, more reliable generations.  \nCombine Seedance 2.0 with ChatGPT Image 2 to generate/prepare assets as part of the workflow.",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen de fondo más hojas de personajes por escena como entradas al generar videos de Seedance.  \nEn un flujo de trabajo estilo Omni, etiqueta/adjunta primero la imagen de fondo, luego etiqueta/adjunta las hojas de personajes para mejorar la calidad general del resultado.  \nUsa hojas de personajes para mantener la consistencia de los personajes a lo largo de múltiples escenas.  \nPrefiere estilos 2D o 2.5D para una tasa de éxito más alta; evita mezclar elementos fotorrealistas si deseas generaciones más fáciles y confiables.  \nCombina Seedance 2.0 con ChatGPT Image 2 para generar/preparar activos como parte del flujo de trabajo."
+    },
+    "fr": {
+      "content": "Utilisez une image de fond ainsi que des fiches de personnages par scène comme entrées lors de la génération de vidéos Seedance.  \nDans un flux de travail de style Omni, étiquetez/attachez d'abord l'image de fond, puis étiquetez/attachez les fiches de personnages pour améliorer la qualité globale du rendu.  \nUtilisez des fiches de personnages pour maintenir la cohérence des personnages à travers plusieurs scènes.  \nPrivilégiez les styles 2D ou 2.5D pour un taux de réussite plus élevé ; évitez de mélanger des éléments photoréalistes si vous souhaitez des générations plus faciles et plus fiables.  \nCombinez Seedance 2.0 avec ChatGPT Image 2 pour générer/préparer des ressources dans le cadre du flux de travail."
+    },
+    "ja": {
+      "content": "Seedanceビデオを生成する際には、背景画像とシーンごとのキャラクターシートを入力として使用します。  \nOmniスタイルのワークフローでは、まず背景画像をタグ付け/添付し、その後キャラクターシートをタグ付け/添付して全体の出力品質を向上させます。  \nキャラクターシートを使用して、複数のシーンにわたってキャラクターの一貫性を維持します。  \nより高い成功率を得るためには、2Dまたは2.5Dスタイルを好み、より簡単で信頼性の高い生成を望む場合はフォトリアリスティックな要素を混ぜないようにします。  \nSeedance 2.0とChatGPT Image 2を組み合わせて、ワークフローの一環としてアセットを生成/準備します。"
+    },
+    "ko": {
+      "content": "Seedance 비디오를 생성할 때 배경 이미지와 장면별 캐릭터 시트를 입력으로 사용하세요.  \nOmni 스타일 워크플로우에서는 배경 이미지를 먼저 태그/첨부한 후, 캐릭터 시트를 태그/첨부하여 전체 출력 품질을 향상시키세요.  \n캐릭터 시트를 사용하여 여러 장면에서 캐릭터 일관성을 유지하세요.  \n더 높은 성공률을 위해 2D 또는 2.5D 스타일을 선호하세요; 더 쉽고 신뢰할 수 있는 생성을 원한다면 사실적인 요소를 혼합하는 것을 피하세요.  \nSeedance 2.0을 ChatGPT Image 2와 결합하여 워크플로우의 일환으로 자산을 생성/준비하세요."
+    },
+    "pt": {
+      "content": "Use uma imagem de fundo mais folhas de personagem por cena como entradas ao gerar vídeos Seedance.  \nEm um fluxo de trabalho estilo Omni, marque/anexe primeiro a imagem de fundo, depois marque/anexe as folhas de personagem para melhorar a qualidade geral do resultado.  \nUse folhas de personagem para manter a consistência dos personagens em várias cenas.  \nPrefira estilos 2D ou 2.5D para uma taxa de sucesso maior; evite misturar elementos fotorrealistas se quiser gerações mais fáceis e confiáveis.  \nCombine Seedance 2.0 com ChatGPT Image 2 para gerar/preparar ativos como parte do fluxo de trabalho."
+    },
+    "zh": {
+      "content": "在生成Seedance视频时，使用背景图像加上每个场景的角色表作为输入。  \n在Omni风格的工作流程中，首先标记/附加背景图像，然后标记/附加角色表，以提高整体输出质量。  \n使用角色表可以在多个场景中保持角色一致性。  \n为了更高的成功率，优先选择2D或2.5D风格；如果希望更简单、更可靠的生成，请避免混入写实元素。  \n将Seedance 2.0与ChatGPT Image 2结合使用，以生成/准备资产作为工作流程的一部分。"
+    }
+  }
+}

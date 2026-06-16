@@ -1,0 +1,43 @@
+{
+  "id": "2066423713470230620",
+  "title": "Use this workflow to generate Seedance 2.0 prompts: start with your image →…",
+  "content": "Use this workflow to generate Seedance 2.0 prompts: start with your image → apply your custom instructions → generate a GPT Image 2.0 storyboard → convert the storyboard into Seedance 2.0 prompts.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066286629015400448/img/1WLwwVZTDPOW_2mb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066423713470230620.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2066423713470230620",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use this workflow to generate Seedance 2.0 prompts: start with your image → apply your custom instructions → generate a GPT Image 2.0 storyboard → convert the storyboard into Seedance 2.0 prompts.",
+  "translations": {
+    "es": {
+      "content": "Utiliza este flujo de trabajo para generar prompts de Seedance 2.0: comienza con tu imagen → aplica tus instrucciones personalizadas → genera un storyboard de GPT Image 2.0 → convierte el storyboard en prompts de Seedance 2.0."
+    },
+    "fr": {
+      "content": "---\nUtilisez ce flux de travail pour générer des prompts Seedance 2.0 : commencez par votre image → appliquez vos instructions personnalisées → générez un storyboard GPT Image 2.0 → convertissez le storyboard en prompts Seedance 2.0."
+    },
+    "ja": {
+      "content": "このワークフローを使用してSeedance 2.0のプロンプトを生成します：画像から始める → カスタム指示を適用する → GPT Image 2.0のストーリーボードを生成する → ストーリーボードをSeedance 2.0のプロンプトに変換する。"
+    },
+    "ko": {
+      "content": "이 워크플로우를 사용하여 Seedance 2.0 프롬프트를 생성하세요: 이미지로 시작 → 사용자 지정 지침 적용 → GPT Image 2.0 스토리보드 생성 → 스토리보드를 Seedance 2.0 프롬프트로 변환."
+    },
+    "pt": {
+      "content": "Use este fluxo de trabalho para gerar prompts Seedance 2.0: comece com sua imagem → aplique suas instruções personalizadas → gere um storyboard GPT Image 2.0 → converta o storyboard em prompts Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用此工作流程生成Seedance 2.0 prompts：从您的图像开始 → 应用您的自定义指令 → 生成GPT Image 2.0故事板 → 将故事板转换为Seedance 2.0 prompts。"
+    }
+  }
+}

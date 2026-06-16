@@ -1,0 +1,43 @@
+{
+  "id": "2066485484365177311",
+  "title": "Generate a storyboard from a single reference photo using GPT Image 2, then…",
+  "content": "Generate a storyboard from a single reference photo using GPT Image 2, then convert that storyboard into a video using Seedance 2.0 in the same chat workflow.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066484688022065152/img/J0kodo7MpiRQArcN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066485484365177311.mp4",
+  "sourceLink": "https://x.com/Sogni_Protocol/status/2066485484365177311",
+  "sourcePublishedAt": "2026-06-15",
+  "author": {
+    "name": "Sogni.ai",
+    "link": "https://x.com/Sogni_Protocol"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate a storyboard from a single reference photo using GPT Image 2, then convert that storyboard into a video using Seedance 2.0 in the same chat workflow.",
+  "translations": {
+    "es": {
+      "content": "Genera un storyboard a partir de una sola foto de referencia usando GPT Image 2, luego convierte ese storyboard en un video usando Seedance 2.0 en el mismo flujo de trabajo de chat."
+    },
+    "fr": {
+      "content": "---\nGénérez un storyboard à partir d'une seule photo de référence en utilisant GPT Image 2, puis convertissez ce storyboard en vidéo en utilisant Seedance 2.0 dans le même flux de travail de chat."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2を使用して1枚の参照写真からストーリーボードを生成し、そのストーリーボードを同じチャットワークフローでSeedance 2.0を使ってビデオに変換します。"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2를 사용하여 단일 참조 사진에서 스토리보드를 생성한 후, 같은 채팅 워크플로우에서 Seedance 2.0을 사용하여 그 스토리보드를 비디오로 변환하세요.\n---"
+    },
+    "pt": {
+      "content": "Gere um storyboard a partir de uma única foto de referência usando o GPT Image 2, depois converta esse storyboard em um vídeo usando o Seedance 2.0 no mesmo fluxo de trabalho de chat."
+    },
+    "zh": {
+      "content": "使用GPT Image 2从单张参考照片生成分镜，然后在同一聊天工作流程中使用Seedance 2.0将该分镜转换为视频。"
+    }
+  }
+}
