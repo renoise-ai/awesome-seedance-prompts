@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **1772** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **603** |
-| 🔄 最終更新 | **2026-06-17** |
+| 🔄 最終更新 | **2026-06-18** |
 
 ---
 
@@ -8718,4 +8718,4 @@ Buy the Pro plan via the CapCut app (during the launch offer) to get up to 60% o
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-17T22:01:55.637Z
+🤖 この README は自動生成されています。最終更新： 2026-06-18T04:09:19.582Z
