@@ -8718,4 +8718,4 @@ Buy the Pro plan via the CapCut app (during the launch offer) to get up to 60% o
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-19T04:27:03.793Z
+🤖 この README は自動生成されています。最終更新： 2026-06-19T12:07:33.093Z
