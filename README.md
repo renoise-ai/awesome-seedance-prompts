@@ -65,7 +65,7 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 | 📝 Total Prompts | **1772** |
 | ⭐ Featured | **0** |
 | 💡 Tips & Tutorials | **603** |
-| 🔄 Last Updated | **2026-06-20** |
+| 🔄 Last Updated | **2026-06-21** |
 
 ---
 
@@ -6118,4 +6118,4 @@ Thanks to all the creators who shared their prompts with the community.
 
 **🌐 [View in Web Gallery](https://renoise.ai/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 model](https://renoise.ai/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 Submit a Prompt** • **⭐ Star this repo**
 
-🤖 This README is automatically generated. Last updated: 2026-06-20T21:19:38.325Z
+🤖 This README is automatically generated. Last updated: 2026-06-21T04:22:24.902Z
