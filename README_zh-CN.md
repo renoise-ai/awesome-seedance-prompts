@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **1772** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **603** |
-| 🔄 最后更新 | **2026-06-21** |
+| 🔄 最后更新 | **2026-06-22** |
 
 ---
 
@@ -6118,4 +6118,4 @@ Buy the Pro plan via the CapCut app (during the launch offer) to get up to 60% o
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-21T21:15:52.329Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-22T04:24:56.075Z
