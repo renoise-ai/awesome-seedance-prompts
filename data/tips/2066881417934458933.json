@@ -1,0 +1,41 @@
+{
+  "id": "2066881417934458933",
+  "title": "Use a ChatGPT prompt template to generate multiple varied scene descriptions…",
+  "content": "Use a ChatGPT prompt template to generate multiple varied scene descriptions from a single reference image, then feed those scene descriptions into Seedance 2 to reduce repetitive shots and camera angles.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TraffAlex/status/2066881417934458933",
+  "sourcePublishedAt": "2026-06-16",
+  "author": {
+    "name": "AlexAImaginator",
+    "link": "https://x.com/TraffAlex"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a ChatGPT prompt template to generate multiple varied scene descriptions from a single reference image, then feed those scene descriptions into Seedance 2 to reduce repetitive shots and camera angles.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una plantilla de prompt de ChatGPT para generar múltiples descripciones de escenas variadas a partir de una sola imagen de referencia, luego introduce esas descripciones de escenas en Seedance 2 para reducir tomas y ángulos de cámara repetitivos."
+    },
+    "fr": {
+      "content": "Utilisez un modèle de prompt ChatGPT pour générer plusieurs descriptions de scènes variées à partir d'une seule image de référence, puis intégrez ces descriptions de scènes dans Seedance 2 pour réduire les plans et angles de caméra répétitifs."
+    },
+    "ja": {
+      "content": "---\nChatGPTのプロンプトテンプレートを使用して、1つの参照画像から複数の多様なシーン記述を生成し、それらのシーン記述をSeedance 2に入力して、繰り返しのショットやカメラアングルを減らします。"
+    },
+    "ko": {
+      "content": "ChatGPT 프롬프트 템플릿을 사용하여 단일 참조 이미지에서 다양한 장면 설명을 생성한 다음, 이러한 장면 설명을 Seedance 2에 입력하여 반복적인 샷과 카메라 앵글을 줄이세요."
+    },
+    "pt": {
+      "content": "Use um modelo de prompt do ChatGPT para gerar múltiplas descrições de cenas variadas a partir de uma única imagem de referência, em seguida, insira essas descrições de cenas no Seedance 2 para reduzir tomadas e ângulos de câmera repetitivos."
+    },
+    "zh": {
+      "content": "使用ChatGPT提示模板从单个参考图像生成多个不同的场景描述，然后将这些场景描述输入Seedance 2，以减少重复的镜头和摄像机角度。"
+    }
+  }
+}

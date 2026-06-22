@@ -1,0 +1,43 @@
+{
+  "id": "2067124647364378845",
+  "title": "Build a high-resolution 16:9 aerial bird’s-eye illustrated city map in GPT…",
+  "content": "Build a high-resolution 16:9 aerial bird’s-eye illustrated city map in GPT Image 2 using a prompt like Create a high-resolution 16:9 aerial bird’s-eye illustrated map of…, and split it into named districts so you can reference specific areas later in your video prompt.  \nImport the finished map into Seedance 2.0 as the visual source, then generate a cinematic FPV flight by writing a detailed FPV flight prompt that explicitly instructs the camera where to go and how to move through the city.  \nPrioritize iterating on the prompt (camera path/movement instructions) over adding travel lines, waypoints, or composites, since prompt specificity is what most affects the FPV flight result.  \nAdd logo animation separately in post rather than trying to generate it inside Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067124069653532672/img/X36e9uHuBTwaGZfW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067124647364378845.mp4",
+  "sourceLink": "https://x.com/DNA_PLAY/status/2067124647364378845",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "CreativeDNA",
+    "link": "https://x.com/DNA_PLAY"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Hand-drawn",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Build a high-resolution 16:9 aerial bird’s-eye illustrated city map in GPT Image 2 using a prompt like Create a high-resolution 16:9 aerial bird’s-eye illustrated map of…, and split it into named districts so you can reference specific areas later in your video prompt.  \nImport the finished map into Seedance 2.0 as the visual source, then generate a cinematic FPV flight by writing a detailed FPV flight prompt that explicitly instructs the camera where to go and how to move through the city.  \nPrioritize iterating on the prompt (camera path/movement instructions) over adding travel lines, waypoints, or composites, since prompt specificity is what most affects the FPV flight result.  \nAdd logo animation separately in post rather than trying to generate it inside Seedance.",
+  "translations": {
+    "es": {
+      "content": "Construye un mapa ilustrado de la ciudad en vista de pájaro de alta resolución 16:9 en GPT Image 2 usando un prompt como Create a high-resolution 16:9 aerial bird’s-eye illustrated map of…, y divídelo en distritos nombrados para que puedas referenciar áreas específicas más adelante en tu prompt de video.  \nImporta el mapa terminado en Seedance 2.0 como la fuente visual, luego genera un vuelo FPV cinematográfico escribiendo un prompt de vuelo FPV detallado que instruya explícitamente a la cámara dónde ir y cómo moverse por la ciudad.  \nPrioriza iterar en el prompt (instrucciones de ruta/movimiento de la cámara) sobre agregar líneas de viaje, puntos de referencia o composiciones, ya que la especificidad del prompt es lo que más afecta el resultado del vuelo FPV.  \nAñade la animación del logo por separado en postproducción en lugar de intentar generarla dentro de Seedance."
+    },
+    "fr": {
+      "content": "Créez une carte illustrée de la ville en vue aérienne à haute résolution au format 16:9 dans GPT Image 2 en utilisant un prompt tel que Create a high-resolution 16:9 aerial bird’s-eye illustrated map of…, et divisez-la en quartiers nommés afin de pouvoir référencer des zones spécifiques plus tard dans votre prompt vidéo.  \nImportez la carte terminée dans Seedance 2.0 comme source visuelle, puis générez un vol FPV cinématique en rédigeant un prompt de vol FPV détaillé qui indique explicitement à la caméra où aller et comment se déplacer à travers la ville.  \nPriorisez l'itération sur le prompt (instructions de chemin/mouvement de la caméra) plutôt que d'ajouter des lignes de voyage, des points de passage ou des composites, car la spécificité du prompt est ce qui affecte le plus le résultat du vol FPV.  \nAjoutez l'animation du logo séparément en post-production plutôt que d'essayer de la générer à l'intérieur de Seedance."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2を使用して、16:9の高解像度の鳥瞰図のイラストマップを作成します。プロンプトとして「Create a high-resolution 16:9 aerial bird’s-eye illustrated map of…」のように入力し、後でビデオプロンプトで特定のエリアを参照できるように、名前付きの地区に分割します。  \n完成したマップをSeedance 2.0にビジュアルソースとしてインポートし、詳細なFPVフライトプロンプトを書いて、カメラがどこに行き、どのように街を移動するかを明確に指示することで、シネマティックなFPVフライトを生成します。  \nFPVフライトの結果に最も影響を与えるのはプロンプトの具体性であるため、トラベルラインやウェイポイント、合成を追加するよりも、プロンプト（カメラの経路/動きの指示）の反復を優先します。  \nロゴアニメーションは、Seedance内で生成しようとするのではなく、ポストプロダクションで別途追加します。  \n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2에서 Create a high-resolution 16:9 aerial bird’s-eye illustrated map of…와 같은 프롬프트를 사용하여 고해상도 16:9 항공 조감도 도시 지도를 제작하고, 나중에 비디오 프롬프트에서 특정 지역을 참조할 수 있도록 이름이 지정된 구역으로 나누세요.  \n완성된 지도를 Seedance 2.0에 시각적 소스로 가져온 후, 카메라가 도시를 어떻게 이동하고 지나가야 하는지를 명확히 지시하는 상세한 FPV 비행 프롬프트를 작성하여 시네마틱 FPV 비행을 생성하세요.  \n여행 경로, 웨이포인트, 합성물을 추가하기보다는 프롬프트(카메라 경로/이동 지침)의 반복을 우선시하세요. 프롬프트의 구체성이 FPV 비행 결과에 가장 큰 영향을 미치기 때문입니다.  \n로고 애니메이션은 Seedance 내부에서 생성하려고 하지 말고, 후반 작업에서 별도로 추가하세요.\n---"
+    },
+    "pt": {
+      "content": "Construa um mapa ilustrado da cidade em alta resolução 16:9, visto de cima, no GPT Image 2 usando um prompt como Create a high-resolution 16:9 aerial bird’s-eye illustrated map of…, e divida-o em distritos nomeados para que você possa referenciar áreas específicas mais tarde em seu prompt de vídeo.  \nImporte o mapa finalizado para o Seedance 2.0 como a fonte visual, depois gere um voo cinematográfico FPV escrevendo um prompt detalhado de voo FPV que instrua explicitamente a câmera sobre onde ir e como se mover pela cidade.  \nPriorize a iteração no prompt (instruções de caminho/movimento da câmera) em vez de adicionar linhas de viagem, pontos de passagem ou composições, já que a especificidade do prompt é o que mais afeta o resultado do voo FPV.  \nAdicione a animação do logotipo separadamente na pós-produção, em vez de tentar gerá-la dentro do Seedance."
+    },
+    "zh": {
+      "content": "在GPT Image 2中使用类似Create a high-resolution 16:9 aerial bird’s-eye illustrated map of…的prompt构建一个高分辨率16:9俯视图城市地图，并将其分成命名的区域，以便在您的视频prompt中可以引用特定区域。  \n将完成的地图导入Seedance 2.0作为视觉来源，然后通过编写详细的FPV飞行prompt来生成一个电影级的FPV飞行，该prompt明确指示相机在城市中去哪里以及如何移动。  \n优先对prompt（相机路径/移动指令）进行迭代，而不是添加旅行线、航点或合成，因为prompt的具体性是最影响FPV飞行结果的因素。  \n在后期单独添加标志动画，而不是尝试在Seedance中生成它。"
+    }
+  }
+}

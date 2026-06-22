@@ -1,0 +1,42 @@
+{
+  "id": "2067516473057394949",
+  "title": "Pick a reference video and add your character image in Seedance 2.0…",
+  "content": "Pick a reference video and add your character image in Seedance 2.0 Character-to-Video to animate the character with the reference video’s motion and achieve more cinematic quality.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067516146820206592/img/mggFPRlx55Ku2AOH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067516473057394949.mp4",
+  "sourceLink": "https://x.com/DomoAI_/status/2067516473057394949",
+  "sourcePublishedAt": "2026-06-18",
+  "author": {
+    "name": "DomoAI official",
+    "link": "https://x.com/DomoAI_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Pick a reference video and add your character image in Seedance 2.0 Character-to-Video to animate the character with the reference video’s motion and achieve more cinematic quality.",
+  "translations": {
+    "es": {
+      "content": "Elige un video de referencia y añade la imagen de tu personaje en Seedance 2.0 Character-to-Video para animar al personaje con el movimiento del video de referencia y lograr una calidad más cinematográfica."
+    },
+    "fr": {
+      "content": "Choisissez une vidéo de référence et ajoutez l'image de votre personnage dans Seedance 2.0 Character-to-Video pour animer le personnage avec le mouvement de la vidéo de référence et obtenir une qualité plus cinématographique."
+    },
+    "ja": {
+      "content": "リファレンス動画を選び、Seedance 2.0 Character-to-Videoでキャラクター画像を追加して、リファレンス動画の動きでキャラクターをアニメーション化し、よりシネマティックな品質を実現します。"
+    },
+    "ko": {
+      "content": "참조 비디오를 선택하고 Seedance 2.0 Character-to-Video에서 캐릭터 이미지를 추가하여 참조 비디오의 동작으로 캐릭터를 애니메이션화하고 더 높은 시네마틱 품질을 달성하세요."
+    },
+    "pt": {
+      "content": "Escolha um vídeo de referência e adicione a imagem do seu personagem no Seedance 2.0 Character-to-Video para animar o personagem com o movimento do vídeo de referência e alcançar uma qualidade mais cinematográfica."
+    },
+    "zh": {
+      "content": "选择一个参考视频，并在Seedance 2.0的Character-to-Video中添加你的角色图像，以通过参考视频的动作为角色制作动画，从而实现更高的cinematic质量。"
+    }
+  }
+}

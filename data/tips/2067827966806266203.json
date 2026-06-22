@@ -1,0 +1,42 @@
+{
+  "id": "2067827966806266203",
+  "title": "Use a workflow of Image Reference → Custom Instructions → GPT Image 2.0…",
+  "content": "Use a workflow of Image Reference → Custom Instructions → GPT Image 2.0 Storyboard → Character Sheet → Seedance 2.0 to generate consistent videos in Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067726343639625728/img/z-0qsAcRURVwapyX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067827966806266203.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2067827966806266203",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a workflow of Image Reference → Custom Instructions → GPT Image 2.0 Storyboard → Character Sheet → Seedance 2.0 to generate consistent videos in Seedance.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Referencia de Imagen → Instrucciones Personalizadas → Storyboard de GPT Image 2.0 → Hoja de Personaje → Seedance 2.0 para generar videos consistentes en Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail de Référence d'Image → Instructions Personnalisées → Storyboard GPT Image 2.0 → Fiche de Personnage → Seedance 2.0 pour générer des vidéos cohérentes dans Seedance."
+    },
+    "ja": {
+      "content": "Seedanceで一貫したビデオを生成するために、Image Reference → Custom Instructions → GPT Image 2.0 Storyboard → Character Sheet → Seedance 2.0のワークフローを使用します。"
+    },
+    "ko": {
+      "content": "Seedance에서 일관된 비디오를 생성하려면 이미지 참조 → 사용자 지정 지침 → GPT Image 2.0 스토리보드 → 캐릭터 시트 → Seedance 2.0의 워크플로를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Referência de Imagem → Instruções Personalizadas → Storyboard GPT Image 2.0 → Ficha de Personagem → Seedance 2.0 para gerar vídeos consistentes no Seedance."
+    },
+    "zh": {
+      "content": "使用图像参考→自定义指令→GPT Image 2.0 分镜→角色表→Seedance 2.0 的工作流程，在Seedance中生成一致的视频。"
+    }
+  }
+}

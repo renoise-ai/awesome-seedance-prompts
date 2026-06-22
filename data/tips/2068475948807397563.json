@@ -1,0 +1,43 @@
+{
+  "id": "2068475948807397563",
+  "title": "本人のモーションデータを基準にして、モーショントラッキング→デプスマッピング→Seedance…",
+  "content": "本人のモーションデータを基準にして、モーショントラッキング→デプスマッピング→Seedance 2→リライティング→背景再構築→カラグレーディングの順で合成ワークフローを組む  \nSeedance 2の前段にデプスマッピングを挟み、奥行き情報を持たせた状態で生成・再構築する  \nComfyUI内でモーショントラッキング／デプスマッピング／Seedance 2／リライティング／背景再構築／カラグレーディングを一連のノードとして完結させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067668188545040384/img/QWXlTfKuWwVAKXhv.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068475948807397563.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2068475948807397563",
+  "sourcePublishedAt": "2026-06-20",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "本人のモーションデータを基準にして、モーショントラッキング→デプスマッピング→Seedance 2→リライティング→背景再構築→カラグレーディングの順で合成ワークフローを組む  \nSeedance 2の前段にデプスマッピングを挟み、奥行き情報を持たせた状態で生成・再構築する  \nComfyUI内でモーショントラッキング／デプスマッピング／Seedance 2／リライティング／背景再構築／カラグレーディングを一連のノードとして完結させる",
+  "translations": {
+    "en": {
+      "content": "Based on personal motion data, create a composite workflow in the order of motion tracking → depth mapping → Seedance 2 → rewriting → background reconstruction → color grading.  \nInsert depth mapping before Seedance 2 to generate and reconstruct with depth information.  \nComplete the sequence of motion tracking, depth mapping, Seedance 2, rewriting, background reconstruction, and color grading as a series of nodes within ComfyUI."
+    },
+    "es": {
+      "content": "---\nBasado en los datos de movimiento de la persona, se organiza un flujo de trabajo de composición en el siguiente orden: motion tracking → depth mapping → Seedance 2 → reescritura → reconstrucción de fondo → color grading.  \nSe inserta depth mapping antes de Seedance 2 para generar y reconstruir con información de profundidad.  \nDentro de ComfyUI, se completa el proceso de motion tracking, depth mapping, Seedance 2, reescritura, reconstrucción de fondo y color grading como una serie de nodos.  \n---"
+    },
+    "fr": {
+      "content": "En se basant sur les données de mouvement de la personne, établir un flux de travail de composition dans l'ordre suivant : motion tracking → depth mapping → Seedance 2 → rewriting → reconstruction de l'arrière-plan → color grading.  \nInsérer le depth mapping avant Seedance 2 pour générer et reconstruire avec des informations de profondeur.  \nDans ComfyUI, compléter le motion tracking, le depth mapping, Seedance 2, le rewriting, la reconstruction de l'arrière-plan et le color grading comme une série de nœuds."
+    },
+    "ko": {
+      "content": "본인의 모션 데이터를 기준으로 모션 트래킹→데프스 매핑→Seedance 2→리라이팅→배경 재구축→컬러 그레이딩의 순서로 합성 워크플로우를 구성  \nSeedance 2의 전 단계에 데프스 매핑을 삽입하여, 깊이 정보를 가진 상태로 생성 및 재구축  \nComfyUI 내에서 모션 트래킹／데프스 매핑／Seedance 2／리라이팅／배경 재구축／컬러 그레이딩을 일련의 노드로 완결시키기"
+    },
+    "pt": {
+      "content": "Com base nos dados de movimento da própria pessoa, organize um fluxo de trabalho de composição na seguinte ordem: rastreamento de movimento → mapeamento de profundidade → Seedance 2 → reescrita → reconstrução de fundo → correção de cor.  \nInsira o mapeamento de profundidade antes do Seedance 2, gerando e reconstruindo com informações de profundidade.  \nConclua o rastreamento de movimento / mapeamento de profundidade / Seedance 2 / reescrita / reconstrução de fundo / correção de cor como uma sequência de nós dentro do ComfyUI."
+    },
+    "zh": {
+      "content": "基于本人的动作数据，按照以下顺序进行合成工作流程：运动跟踪→深度映射→Seedance 2→重写→背景重构→色彩分级  \n在Seedance 2之前插入深度映射，以便在生成和重构时保留深度信息  \n在ComfyUI中，将运动跟踪／深度映射／Seedance 2／重写／背景重构／色彩分级作为一系列节点完成"
+    }
+  }
+}

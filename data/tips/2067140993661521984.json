@@ -1,0 +1,41 @@
+{
+  "id": "2067140993661521984",
+  "title": "Use Claude to generate multiple angles and scripts for a single visual concept…",
+  "content": "Use Claude to generate multiple angles and scripts for a single visual concept, then feed them into Seedance 2.0 to batch-generate dozens of video variations per concept.\n\nScale output by keeping the same video structure while swapping hooks and targeting different pain points/audiences, generating hundreds of Seedance videos per day.\n\nRun a rapid iteration loop in Seedance: hook → visualize → repeat, quickly replacing losing creatives with new variations.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/NahFlo2n/status/2067140993661521984",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "Florin",
+    "link": "https://x.com/NahFlo2n"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Claude to generate multiple angles and scripts for a single visual concept, then feed them into Seedance 2.0 to batch-generate dozens of video variations per concept.\n\nScale output by keeping the same video structure while swapping hooks and targeting different pain points/audiences, generating hundreds of Seedance videos per day.\n\nRun a rapid iteration loop in Seedance: hook → visualize → repeat, quickly replacing losing creatives with new variations.",
+  "translations": {
+    "es": {
+      "content": "---\nUtiliza Claude para generar múltiples ángulos y guiones para un solo concepto visual, luego introdúcelos en Seedance 2.0 para generar en lote docenas de variaciones de video por concepto.\n\nEscala la producción manteniendo la misma estructura de video mientras cambias los hooks y apuntas a diferentes puntos de dolor/públicos, generando cientos de videos de Seedance por día.\n\nEjecuta un ciclo de iteración rápida en Seedance: hook → visualizar → repetir, reemplazando rápidamente los creativos perdedores con nuevas variaciones.\n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez Claude pour générer plusieurs angles et scripts pour un seul concept visuel, puis intégrez-les dans Seedance 2.0 pour générer en lot des dizaines de variations vidéo par concept.\n\nAugmentez la production en conservant la même structure vidéo tout en changeant les accroches et en ciblant différents points de douleur/publics, générant ainsi des centaines de vidéos Seedance par jour.\n\nExécutez une boucle d'itération rapide dans Seedance : hook → visualize → repeat, en remplaçant rapidement les créations perdantes par de nouvelles variations.\n---"
+    },
+    "ja": {
+      "content": "---\nClaudeを使用して、単一のビジュアルコンセプトに対する複数のアングルとスクリプトを生成し、それらをSeedance 2.0に入力して、コンセプトごとに数十のビデオバリエーションをバッチ生成します。\n\nフックを入れ替え、異なる痛点やオーディエンスをターゲットにしながら、同じビデオ構造を維持することで出力を拡大し、1日に数百のSeedanceビデオを生成します。\n\nSeedanceで迅速な反復ループを実行します: hook → visualize → repeat、負けているクリエイティブを新しいバリエーションで素早く置き換えます。\n---"
+    },
+    "ko": {
+      "content": "---\nClaude를 사용하여 단일 비주얼 컨셉에 대한 여러 각도와 스크립트를 생성한 다음, Seedance 2.0에 입력하여 컨셉당 수십 개의 비디오 변형을 일괄 생성하세요.\n\n같은 비디오 구조를 유지하면서 훅을 교체하고 다른 고충점/청중을 타겟팅하여 출력 규모를 확장하고, 하루에 수백 개의 Seedance 비디오를 생성하세요.\n\nSeedance에서 빠른 반복 루프를 실행하세요: hook → visualize → repeat, 빠르게 성과가 낮은 크리에이티브를 새로운 변형으로 교체하세요.\n---"
+    },
+    "pt": {
+      "content": "Use Claude para gerar múltiplos ângulos e roteiros para um único conceito visual, depois insira-os no Seedance 2.0 para gerar em lote dezenas de variações de vídeo por conceito.\n\nEscalone a produção mantendo a mesma estrutura de vídeo enquanto troca ganchos e direciona para diferentes pontos de dor/públicos, gerando centenas de vídeos Seedance por dia.\n\nExecute um loop de iteração rápida no Seedance: hook → visualize → repeat, substituindo rapidamente criativos perdedores por novas variações."
+    },
+    "zh": {
+      "content": "使用Claude为单个视觉概念生成多个角度和脚本，然后将它们输入Seedance 2.0，以批量生成每个概念的数十种视频变体。\n\n通过保持相同的视频结构，同时更换hooks并针对不同的痛点/受众来扩大输出，每天生成数百个Seedance视频。\n\n在Seedance中运行快速迭代循环：hook → visualize → repeat，快速用新变体替换表现不佳的创意。"
+    }
+  }
+}

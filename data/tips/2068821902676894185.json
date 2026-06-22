@@ -1,0 +1,42 @@
+{
+  "id": "2068821902676894185",
+  "title": "キャラクターシート画像・Commerce Studioで生成した商品画像（MONA BEER）・Commerce…",
+  "content": "キャラクターシート画像・Commerce Studioで生成した商品画像（MONA BEER）・Commerce Studioで生成したバーチャル試着写真をSeedance 2.0にアップし、リファレンスから動画へ機能で動画生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2068821845265305600/img/sjNpeF-mQCo2Tbz1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068821902676894185.mp4",
+  "sourceLink": "https://x.com/xc5_/status/2068821902676894185",
+  "sourcePublishedAt": "2026-06-21",
+  "author": {
+    "name": "萌奈のおすそわけ♥️AI動画クリエイター🩷AI & Web3 KOL🧡💛💚",
+    "link": "https://x.com/xc5_"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラクターシート画像・Commerce Studioで生成した商品画像（MONA BEER）・Commerce Studioで生成したバーチャル試着写真をSeedance 2.0にアップし、リファレンスから動画へ機能で動画生成する",
+  "translations": {
+    "en": {
+      "content": "Upload character sheet images, product images generated in Commerce Studio (MONA BEER), and virtual fitting photos generated in Commerce Studio to Seedance 2.0, and use the \"generate from reference to video\" function to create videos."
+    },
+    "es": {
+      "content": "Sube la imagen de la hoja de personaje, la imagen del producto generada en Commerce Studio (MONA BEER) y la foto de prueba virtual generada en Commerce Studio a Seedance 2.0, y utiliza la función de generación de video desde referencia para crear un video."
+    },
+    "fr": {
+      "content": "---\nTéléchargez l'image de la feuille de personnage, l'image produit générée par Commerce Studio (MONA BEER) et la photo d'essayage virtuel générée par Commerce Studio dans Seedance 2.0, puis utilisez la fonction de génération de vidéo à partir de références pour créer une vidéo."
+    },
+    "ko": {
+      "content": "---\nキャラクター 시트 이미지, Commerce Studio에서 생성한 상품 이미지 (MONA BEER), Commerce Studio에서 생성한 가상 시착 사진을 Seedance 2.0에 업로드하고, 리퍼런스에서 비디오로 기능을 사용하여 비디오를 생성합니다.\n---"
+    },
+    "pt": {
+      "content": "Carregue a imagem da ficha de personagem, a imagem do produto gerada no Commerce Studio (MONA BEER) e a foto de prova virtual gerada no Commerce Studio no Seedance 2.0, e use a função de geração de vídeo a partir de referências para criar o vídeo."
+    },
+    "zh": {
+      "content": "将角色表图像、Commerce Studio生成的商品图像（MONA BEER）、Commerce Studio生成的虚拟试穿照片上传到Seedance 2.0，通过“从参考到视频”功能生成视频。"
+    }
+  }
+}

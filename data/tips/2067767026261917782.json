@@ -1,0 +1,42 @@
+{
+  "id": "2067767026261917782",
+  "title": "Seedance 2.0 Miniでリファレンス（参照素材）をきっちり揃えてから動画生成すると狙いに近い結果になりやすい",
+  "content": "Seedance 2.0 Miniでリファレンス（参照素材）をきっちり揃えてから動画生成すると狙いに近い結果になりやすい  \nラフ案はSeedance 2.0 Miniで作成し、後工程（仕上げ）は別工程で作るワークフローにすると効率的に制作できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067766932208836608/img/sPGkjibxq0KvpT2V.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067767026261917782.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2067767026261917782",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0 Miniでリファレンス（参照素材）をきっちり揃えてから動画生成すると狙いに近い結果になりやすい  \nラフ案はSeedance 2.0 Miniで作成し、後工程（仕上げ）は別工程で作るワークフローにすると効率的に制作できる",
+  "translations": {
+    "en": {
+      "content": "When using Seedance 2.0 Mini, aligning reference materials precisely before generating videos tends to yield results closer to your target.  \nCreating rough drafts with Seedance 2.0 Mini and then handling the finishing touches in a separate process allows for efficient production."
+    },
+    "es": {
+      "content": "Después de alinear cuidadosamente las referencias (material de referencia) en Seedance 2.0 Mini, es más probable que el resultado del video generado se acerque a lo deseado.  \nCrear un borrador con Seedance 2.0 Mini y luego realizar el proceso de acabado en una etapa separada permite una producción más eficiente."
+    },
+    "fr": {
+      "content": "---\nIl est plus facile d'obtenir un résultat proche de l'objectif en générant une vidéo avec Seedance 2.0 Mini après avoir bien aligné les références (matériaux de référence).  \nCréer une ébauche avec Seedance 2.0 Mini et effectuer les étapes ultérieures (finition) dans un processus séparé permet une production efficace."
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0 Mini에서 레퍼런스를 정확하게 준비한 후 영상 생성을 하면 목표에 가까운 결과를 얻기 쉽다  \n러프 안은 Seedance 2.0 Mini로 작성하고, 후공정(마무리)은 별도의 공정으로 만드는 워크플로우로 하면 효율적으로 제작할 수 있다\n---"
+    },
+    "pt": {
+      "content": "Depois de alinhar cuidadosamente as referências no Seedance 2.0 Mini, a geração de vídeo tende a resultar em algo mais próximo do desejado. Criar um esboço com o Seedance 2.0 Mini e realizar o acabamento em uma etapa separada permite um fluxo de trabalho mais eficiente."
+    },
+    "zh": {
+      "content": "在Seedance 2.0 Mini中先准备好参考素材后再进行视频生成，更容易得到接近预期的结果  \n草案可以在Seedance 2.0 Mini中创建，后续的精加工则在其他步骤中完成，这样的工作流程可以提高制作效率"
+    }
+  }
+}

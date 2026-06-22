@@ -1,0 +1,42 @@
+{
+  "id": "2068778347253911654",
+  "title": "Generate your character in Midjourney first, then use GPT Image 2 to create a…",
+  "content": "Generate your character in Midjourney first, then use GPT Image 2 to create a character sheet for consistent reference before moving to Seedance.  \nUse a custom Audition system prompt to generate role options, lines, and voice triggers, then feed those into Seedance 2.0 to generate the audition video.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/_OAK200/status/2068778347253911654",
+  "sourcePublishedAt": "2026-06-21",
+  "author": {
+    "name": "OAK",
+    "link": "https://x.com/_OAK200"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate your character in Midjourney first, then use GPT Image 2 to create a character sheet for consistent reference before moving to Seedance.  \nUse a custom Audition system prompt to generate role options, lines, and voice triggers, then feed those into Seedance 2.0 to generate the audition video.",
+  "translations": {
+    "es": {
+      "content": "Genera tu personaje en Midjourney primero, luego usa GPT Image 2 para crear una hoja de personaje como referencia consistente antes de pasar a Seedance.  \nUsa un prompt de Audition personalizado para generar opciones de roles, líneas y disparadores de voz, luego introduce esos datos en Seedance 2.0 para generar el video de audición."
+    },
+    "fr": {
+      "content": "Générez d'abord votre personnage dans Midjourney, puis utilisez GPT Image 2 pour créer une fiche de personnage comme référence cohérente avant de passer à Seedance.  \nUtilisez un prompt personnalisé du système Audition pour générer des options de rôle, des répliques et des déclencheurs vocaux, puis intégrez-les dans Seedance 2.0 pour générer la vidéo d'audition."
+    },
+    "ja": {
+      "content": "---\nまずMidjourneyでキャラクターを生成し、その後GPT Image 2を使用してキャラクターシートを作成し、Seedanceに移行する前に一貫した参照を確保します。  \nカスタムオーディションシステムプロンプトを使用して役のオプション、セリフ、ボイストリガーを生成し、それらをSeedance 2.0に入力してオーディションビデオを生成します。\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 Midjourney에서 캐릭터를 생성한 후, GPT Image 2를 사용하여 일관된 참조를 위한 캐릭터 시트를 만드세요. 그런 다음 Seedance로 이동합니다.  \n맞춤형 Audition 시스템 prompt를 사용하여 역할 옵션, 대사, 음성 트리거를 생성한 후, 이를 Seedance 2.0에 입력하여 오디션 비디오를 생성하세요.\n---"
+    },
+    "pt": {
+      "content": "Gere seu personagem no Midjourney primeiro, depois use o GPT Image 2 para criar uma ficha de personagem para referência consistente antes de passar para o Seedance.  \nUse um prompt de sistema de Audição personalizado para gerar opções de papéis, falas e gatilhos de voz, depois insira esses dados no Seedance 2.0 para gerar o vídeo de audição."
+    },
+    "zh": {
+      "content": "首先在 Midjourney 中生成你的角色，然后使用 GPT Image 2 创建角色表，以便在转到 Seedance 之前进行一致的参考。  \n使用自定义 Audition 系统 prompt 生成角色选项、台词和语音触发器，然后将这些输入到 Seedance 2.0 中生成试镜视频。"
+    }
+  }
+}

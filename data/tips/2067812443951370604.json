@@ -1,0 +1,40 @@
+{
+  "id": "2067812443951370604",
+  "title": "スタイル指定はスタイル:日本の作画枚数の多いアニメ。アクション映画の技法を使ったアニメ映画。アクションシーン。のように具体的な映像文脈（作画密度＋映画技法＋シー…",
+  "content": "スタイル指定はスタイル:日本の作画枚数の多いアニメ。アクション映画の技法を使ったアニメ映画。アクションシーン。のように具体的な映像文脈（作画密度＋映画技法＋シーン種別）まで書く  \n世界観/内容は世界観:画像1のキャラクターが宇宙空間でサイバーパンクな飛行機に乗りドッグファイトの末に敵のサイバーパンクな宇宙船を撃墜する。のように参照画像（画像1）＋舞台＋乗り物＋展開（ドッグファイト→撃墜）を時系列で明記する  \nネガティブ制約は※血の表現は絶対にしないでください。のように禁止事項を明確に追記して出力内容を制御する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/tokyo_Valentine/status/2067812443951370604",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "とすくん",
+    "link": "https://x.com/tokyo_Valentine"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Anime 2D",
+    "Sci-Fi"
+  ],
+  "tips": "スタイル指定はスタイル:日本の作画枚数の多いアニメ。アクション映画の技法を使ったアニメ映画。アクションシーン。のように具体的な映像文脈（作画密度＋映画技法＋シーン種別）まで書く  \n世界観/内容は世界観:画像1のキャラクターが宇宙空間でサイバーパンクな飛行機に乗りドッグファイトの末に敵のサイバーパンクな宇宙船を撃墜する。のように参照画像（画像1）＋舞台＋乗り物＋展開（ドッグファイト→撃墜）を時系列で明記する  \nネガティブ制約は※血の表現は絶対にしないでください。のように禁止事項を明確に追記して出力内容を制御する",
+  "translations": {
+    "en": {
+      "content": "Style specification should be written as: style: anime with a high number of frames in Japanese animation. An animated film using action movie techniques. Action scenes. Specify the visual context in detail (drawing density + film techniques + scene type).\n\nThe world/contents should be written as: world: the character from image 1 is in outer space piloting a cyberpunk aircraft, engaging in a dogfight and eventually shooting down the enemy's cyberpunk spaceship. Clearly state the reference image (image 1) + setting + vehicle + sequence of events (dogfight → shootdown) in chronological order.\n\nNegative constraints should be clearly added to control the output, such as: *Do not include any depiction of blood."
+    },
+    "es": {
+      "content": "Las reglas para la especificación de estilo son: estilo: anime japonés con un alto número de fotogramas. Película de anime que utiliza técnicas de cine de acción. Escena de acción. Escribe el contexto visual específico (densidad de fotogramas + técnicas cinematográficas + tipo de escena).  \nLa ambientación/contenido es: ambientación: el personaje de la imagen 1 está en el espacio exterior pilotando un avión ciberpunk y, tras un combate aéreo, derriba la nave espacial ciberpunk enemiga. Especifica claramente en orden cronológico la imagen de referencia (imagen 1) + escenario + vehículo + desarrollo (combate aéreo → derribo).  \nLas restricciones negativas son: ※ Por favor, no incluyas ninguna representación de sangre. Añade claramente las prohibiciones para controlar el contenido de salida."
+    },
+    "fr": {
+      "content": "---\nLes spécifications de style doivent être rédigées comme suit : style : anime japonais avec un grand nombre d'images. Film d'animation utilisant des techniques de film d'action. Scène d'action. Écrivez dans un contexte visuel spécifique (densité d'animation + techniques cinématographiques + type de scène).\n\nL'univers/contenu doit être rédigé comme suit : univers : le personnage de l'image 1 pilote un avion cyberpunk dans l'espace et, après un combat aérien, abat le vaisseau spatial cyberpunk ennemi. Indiquez clairement la référence de l'image (image 1) + le cadre + le véhicule + le déroulement (combat aérien → destruction) dans l'ordre chronologique.\n\nLes contraintes négatives doivent être ajoutées clairement pour contrôler le contenu de sortie, par exemple : ※ Ne représentez absolument pas de sang."
+    },
+    "ko": {
+      "content": "스타일 지정은 스타일: 일본의 작화 매수가 많은 애니메이션. 액션 영화의 기법을 사용한 애니메이션 영화. 액션 씬.과 같이 구체적인 영상 문맥(작화 밀도 + 영화 기법 + 씬 종류)까지 작성  \n세계관/내용은 세계관: 이미지1의 캐릭터가 우주 공간에서 사이버펑크 비행기를 타고 도그파이트 끝에 적의 사이버펑크 우주선을 격추하는.과 같이 참조 이미지(이미지1) + 무대 + 탈것 + 전개(도그파이트 → 격추)를 시간 순서대로 명기  \n네거티브 제약은 ※피의 표현은 절대 하지 마세요.와 같이 금지 사항을 명확히 추가하여 출력 내용을 제어"
+    },
+    "pt": {
+      "content": "---\nEspecificação de estilo: estilo: anime japonês com alta contagem de quadros. Filme de animação usando técnicas de filme de ação. Cena de ação. Escreva até o contexto visual específico (densidade de animação + técnicas de cinema + tipo de cena).\n\nMundo/Conteúdo: mundo: o personagem da imagem 1 está no espaço sideral pilotando uma aeronave cyberpunk e, após um combate aéreo, derruba a nave espacial inimiga cyberpunk. Especifique claramente em ordem cronológica a imagem de referência (imagem 1) + cenário + veículo + desenvolvimento (combate aéreo → derrubada).\n\nRestrições negativas: *Por favor, não inclua representações de sangue. Adicione claramente proibições como esta para controlar o conteúdo gerado.\n---"
+    },
+    "zh": {
+      "content": "---\n风格指定为风格：日本动画中作画帧数较多的动画。使用动作电影技巧的动画电影。动作场景。像这样具体的影像语境（作画密度＋电影技巧＋场景类型）要写清楚  \n世界观/内容为世界观：图像1中的角色在宇宙空间中驾驶赛博朋克风格的飞机，经过一场空战后击落敌人的赛博朋克宇宙飞船。像这样参考图像（图像1）＋舞台＋载具＋展开（空战→击落）按时间顺序明确写出  \n负面约束为※绝对不要表现血腥。像这样明确追加禁止事项来控制输出内容  \n---"
+    }
+  }
+}

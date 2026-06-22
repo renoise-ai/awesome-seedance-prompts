@@ -1,0 +1,42 @@
+{
+  "id": "2067112535132942452",
+  "title": "キャラの三面図（複数枚の正面・側面・背面など）を参照画像として用意してSeedance 2.0に渡し、キャラクターの一貫性を保つ",
+  "content": "キャラの三面図（複数枚の正面・側面・背面など）を参照画像として用意してSeedance 2.0に渡し、キャラクターの一貫性を保つ  \n絵コンテ（ショット構成・動きの指示）を画像で用意してSeedance 2.0に渡し、狙った展開・アクションの流れで短尺動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067112475041185792/img/kVlkEG7VgkFhf4WG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067112535132942452.mp4",
+  "sourceLink": "https://x.com/uRMS7Vm26qqEE5J/status/2067112535132942452",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "k k",
+    "link": "https://x.com/uRMS7Vm26qqEE5J"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラの三面図（複数枚の正面・側面・背面など）を参照画像として用意してSeedance 2.0に渡し、キャラクターの一貫性を保つ  \n絵コンテ（ショット構成・動きの指示）を画像で用意してSeedance 2.0に渡し、狙った展開・アクションの流れで短尺動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Prepare character orthographic views (multiple front, side, back views, etc.) as reference images and provide them to Seedance 2.0 to maintain character consistency.  \nPrepare storyboards (shot composition and movement instructions) as images and provide them to Seedance 2.0 to generate short videos with the intended sequence and flow of action."
+    },
+    "es": {
+      "content": "Proporcione vistas de tres lados del personaje (varias imágenes de frente, perfil, espalda, etc.) como imágenes de referencia a Seedance 2.0 para mantener la consistencia del personaje.  \nPrepare un storyboard (composición de tomas, instrucciones de movimiento) en imágenes y páselo a Seedance 2.0 para generar un video corto con el flujo de acción y desarrollo deseado."
+    },
+    "fr": {
+      "content": "Préparez des vues à trois faces du personnage (plusieurs images de face, de côté, de dos, etc.) comme images de référence et transmettez-les à Seedance 2.0 pour maintenir la cohérence du personnage.  \nPréparez un storyboard (composition des plans, instructions de mouvement) sous forme d'images et transmettez-le à Seedance 2.0 pour générer une courte vidéo avec le déroulement et les actions ciblés."
+    },
+    "ko": {
+      "content": "---\n캐릭터의 삼면도(여러 장의 정면, 측면, 후면 등)를 참조 이미지로 준비하여 Seedance 2.0에 전달하고, 캐릭터의 일관성을 유지  \n스토리보드(샷 구성, 움직임 지시)를 이미지로 준비하여 Seedance 2.0에 전달하고, 목표한 전개 및 액션 흐름으로 단편 영상을 생성  \n---"
+    },
+    "pt": {
+      "content": "Prepare várias vistas do personagem (como múltiplas imagens de frente, lado e costas) como imagens de referência e forneça ao Seedance 2.0 para manter a consistência do personagem.  \nPrepare storyboards (composição de cenas e instruções de movimento) em imagem e forneça ao Seedance 2.0 para gerar um vídeo curto com o fluxo de ação e desenvolvimento desejado."
+    },
+    "zh": {
+      "content": "将角色的三面图（多张正面、侧面、背面等）作为参考图像准备好并传递给Seedance 2.0，以保持角色的一致性  \n将分镜头脚本（镜头构成、动作指示）以图像形式准备好并传递给Seedance 2.0，以生成符合预期发展和动作流程的短视频"
+    }
+  }
+}

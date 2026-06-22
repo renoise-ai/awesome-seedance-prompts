@@ -1,0 +1,42 @@
+{
+  "id": "2067059150572376244",
+  "title": "Use the workflow Image Reference → Custom Instructions → GPT Image 2.0…",
+  "content": "Use the workflow Image Reference → Custom Instructions → GPT Image 2.0 Storyboard → Seedance 2.0 Prompts to create cinematic Seedance videos with better visual consistency.  \nSet up custom instructions that convert any image into a director-style storyboard, then translate that storyboard into detailed Seedance 2.0 prompts for more consistent cinematic results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067019642431057920/img/zZTrQedHDmXj1tGC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067059150572376244.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2067059150572376244",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the workflow Image Reference → Custom Instructions → GPT Image 2.0 Storyboard → Seedance 2.0 Prompts to create cinematic Seedance videos with better visual consistency.  \nSet up custom instructions that convert any image into a director-style storyboard, then translate that storyboard into detailed Seedance 2.0 prompts for more consistent cinematic results.",
+  "translations": {
+    "es": {
+      "content": "Utiliza el flujo de trabajo Referencia de Imagen → Instrucciones Personalizadas → Storyboard de GPT Image 2.0 → Prompts de Seedance 2.0 para crear videos cinematográficos de Seedance con mejor consistencia visual.  \nConfigura instrucciones personalizadas que conviertan cualquier imagen en un storyboard al estilo de un director, luego traduce ese storyboard en prompts detallados de Seedance 2.0 para obtener resultados cinematográficos más consistentes."
+    },
+    "fr": {
+      "content": "Utilisez le flux de travail Référence d'image → Instructions personnalisées → Storyboard GPT Image 2.0 → Prompts Seedance 2.0 pour créer des vidéos Seedance cinématographiques avec une meilleure cohérence visuelle.  \nConfigurez des instructions personnalisées qui transforment n'importe quelle image en un storyboard de style réalisateur, puis traduisez ce storyboard en prompts Seedance 2.0 détaillés pour des résultats cinématographiques plus cohérents."
+    },
+    "ja": {
+      "content": "画像参照 → カスタム指示 → GPT Image 2.0 ストーリーボード → Seedance 2.0 プロンプトのワークフローを使用して、視覚的一貫性のあるシネマティックなSeedanceビデオを作成します。  \nカスタム指示を設定し、任意の画像をディレクタースタイルのストーリーボードに変換し、そのストーリーボードを詳細なSeedance 2.0プロンプトに翻訳して、より一貫したシネマティックな結果を得ます。"
+    },
+    "ko": {
+      "content": "이미지 참조 → 사용자 지정 지침 → GPT 이미지 2.0 스토리보드 → Seedance 2.0 프롬프트 워크플로를 사용하여 시네마틱한 Seedance 비디오를 더 나은 시각적 일관성으로 만드세요.  \n모든 이미지를 감독 스타일의 스토리보드로 변환하는 사용자 지정 지침을 설정한 후, 그 스토리보드를 상세한 Seedance 2.0 프롬프트로 번역하여 더 일관된 시네마틱 결과를 얻으세요."
+    },
+    "pt": {
+      "content": "Use o fluxo de trabalho Referência de Imagem → Instruções Personalizadas → Storyboard GPT Image 2.0 → Prompts Seedance 2.0 para criar vídeos Seedance cinematográficos com melhor consistência visual.  \nConfigure instruções personalizadas que convertam qualquer imagem em um storyboard estilo diretor, depois traduza esse storyboard em prompts Seedance 2.0 detalhados para resultados cinematográficos mais consistentes."
+    },
+    "zh": {
+      "content": "使用工作流程：图像参考 → 自定义指令 → GPT Image 2.0 Storyboard → Seedance 2.0 Prompts，创建具有更好视觉一致性的电影风格Seedance视频。  \n设置自定义指令，将任何图像转换为导演风格的分镜，然后将该分镜翻译为详细的Seedance 2.0 prompts，以获得更一致的电影效果。"
+    }
+  }
+}

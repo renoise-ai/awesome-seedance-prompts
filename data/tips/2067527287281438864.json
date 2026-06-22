@@ -1,0 +1,42 @@
+{
+  "id": "2067527287281438864",
+  "title": "Use Midjourney style references in your Seedance workflow by generating visuals…",
+  "content": "Use Midjourney style references in your Seedance workflow by generating visuals with --sref 2348226196 --sv 4 --v 7 to enrich and transform a concept before animating it in Seedance 2.0 Fast.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067526220258897920/img/sXKKtInOy2OPp6Al.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067527287281438864.mp4",
+  "sourceLink": "https://x.com/Dustfinger2077/status/2067527287281438864",
+  "sourcePublishedAt": "2026-06-18",
+  "author": {
+    "name": "DUST",
+    "link": "https://x.com/Dustfinger2077"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Midjourney style references in your Seedance workflow by generating visuals with --sref 2348226196 --sv 4 --v 7 to enrich and transform a concept before animating it in Seedance 2.0 Fast.",
+  "translations": {
+    "es": {
+      "content": "Utiliza referencias de estilo de Midjourney en tu flujo de trabajo de Seedance generando visuales con --sref 2348226196 --sv 4 --v 7 para enriquecer y transformar un concepto antes de animarlo en Seedance 2.0 Fast."
+    },
+    "fr": {
+      "content": "Utilisez des références de style Midjourney dans votre flux de travail Seedance en générant des visuels avec --sref 2348226196 --sv 4 --v 7 pour enrichir et transformer un concept avant de l'animer dans Seedance 2.0 Fast."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0 Fastでアニメーション化する前に、Midjourneyスタイルのリファレンスを使用して、--sref 2348226196 --sv 4 --v 7を用いてビジュアルを生成し、コンセプトを豊かに変換します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0 Fast에서 애니메이션을 시작하기 전에 개념을 풍부하게 하고 변형하기 위해 --sref 2348226196 --sv 4 --v 7로 비주얼을 생성하여 Seedance 워크플로우에 Midjourney 스타일 참조를 사용하세요."
+    },
+    "pt": {
+      "content": "Use referências de estilo do Midjourney no seu fluxo de trabalho Seedance gerando visuais com --sref 2348226196 --sv 4 --v 7 para enriquecer e transformar um conceito antes de animá-lo no Seedance 2.0 Fast."
+    },
+    "zh": {
+      "content": "在您的Seedance工作流程中使用Midjourney风格参考，通过生成视觉效果 --sref 2348226196 --sv 4 --v 7 来丰富和转化概念，然后在Seedance 2.0 Fast中进行动画制作。"
+    }
+  }
+}

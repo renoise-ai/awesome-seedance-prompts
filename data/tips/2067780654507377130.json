@@ -1,0 +1,43 @@
+{
+  "id": "2067780654507377130",
+  "title": "Use this workflow: start with an Image Reference, add Custom Instructions…",
+  "content": "Use this workflow: start with an Image Reference, add Custom Instructions, generate a storyboard with GPT Image 2.0, then convert the storyboard into a Seedance 2.0 prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067735493874507776/img/U1A9fSDwE66Q0GH4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067780654507377130.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2067780654507377130",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use this workflow: start with an Image Reference, add Custom Instructions, generate a storyboard with GPT Image 2.0, then convert the storyboard into a Seedance 2.0 prompt.",
+  "translations": {
+    "es": {
+      "content": "Utiliza este flujo de trabajo: comienza con una Referencia de Imagen, añade Instrucciones Personalizadas, genera un storyboard con GPT Image 2.0, luego convierte el storyboard en un prompt de Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez ce flux de travail : commencez par une Référence d'Image, ajoutez des Instructions Personnalisées, générez un storyboard avec GPT Image 2.0, puis convertissez le storyboard en un prompt Seedance 2.0."
+    },
+    "ja": {
+      "content": "このワークフローを使用します：Image Referenceから始め、Custom Instructionsを追加し、GPT Image 2.0でストーリーボードを生成し、そのストーリーボードをSeedance 2.0 promptに変換します。"
+    },
+    "ko": {
+      "content": "이 워크플로우를 사용하세요: 이미지 참조로 시작하고, 사용자 정의 지침을 추가한 후, GPT Image 2.0으로 스토리보드를 생성하고, 그 스토리보드를 Seedance 2.0 prompt로 변환합니다."
+    },
+    "pt": {
+      "content": "Use este fluxo de trabalho: comece com uma Referência de Imagem, adicione Instruções Personalizadas, gere um storyboard com GPT Image 2.0, depois converta o storyboard em um prompt Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用此工作流程：从图像参考开始，添加自定义指令，使用GPT Image 2.0生成分镜，然后将分镜转换为Seedance 2.0 prompt。"
+    }
+  }
+}

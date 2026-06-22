@@ -1,0 +1,44 @@
+{
+  "id": "2067344067185590707",
+  "title": "Use Hyper POV + Seedance 2 in ComfyUI to generate a complete cinematic space…",
+  "content": "Use Hyper POV + Seedance 2 in ComfyUI to generate a complete cinematic space traversal from a single still image as the source of truth.\nGenerate an aggressive first-person orbit camera move through the full environment from one input image using Hyper POV + Seedance 2.\nCreate an inhabiting fly-through (not just a recording-style move) from a single image by driving camera movement with Hyper POV + Seedance 2.\nAdd motion blur and enforce single-take continuity to maintain a cinematic feel end-to-end when generating from one still frame.\nKeep the sequence as one continuous shot (no cuts) by using a single image input and generating the entire traversal in one take with Hyper POV + Seedance 2.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067340683594313728/img/ZU-LKgnfrhuCUAKm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067344067185590707.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2067344067185590707",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Sci-Fi",
+    "POV",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use Hyper POV + Seedance 2 in ComfyUI to generate a complete cinematic space traversal from a single still image as the source of truth.\nGenerate an aggressive first-person orbit camera move through the full environment from one input image using Hyper POV + Seedance 2.\nCreate an inhabiting fly-through (not just a recording-style move) from a single image by driving camera movement with Hyper POV + Seedance 2.\nAdd motion blur and enforce single-take continuity to maintain a cinematic feel end-to-end when generating from one still frame.\nKeep the sequence as one continuous shot (no cuts) by using a single image input and generating the entire traversal in one take with Hyper POV + Seedance 2.",
+  "translations": {
+    "es": {
+      "content": "Usa Hyper POV + Seedance 2 en ComfyUI para generar una completa travesía espacial cinematográfica a partir de una sola imagen fija como fuente de verdad.  \nGenera un movimiento de cámara en órbita en primera persona agresivo a través de todo el entorno desde una imagen de entrada usando Hyper POV + Seedance 2.  \nCrea un recorrido inmersivo (no solo un movimiento de estilo grabación) desde una sola imagen impulsando el movimiento de la cámara con Hyper POV + Seedance 2.  \nAñade desenfoque de movimiento y asegura la continuidad de una sola toma para mantener una sensación cinematográfica de principio a fin al generar desde un solo fotograma fijo.  \nMantén la secuencia como una toma continua (sin cortes) usando una sola imagen de entrada y generando toda la travesía en una sola toma con Hyper POV + Seedance 2.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Creadores IG: https://t.co/9F5NPGiis0"
+    },
+    "fr": {
+      "content": "Utilisez Hyper POV + Seedance 2 dans ComfyUI pour générer une traversée spatiale cinématographique complète à partir d'une seule image fixe comme source de vérité.  \nGénérez un mouvement de caméra en orbite à la première personne à travers l'environnement complet à partir d'une image d'entrée en utilisant Hyper POV + Seedance 2.  \nCréez un survol immersif (et non pas simplement un mouvement de type enregistrement) à partir d'une seule image en dirigeant le mouvement de la caméra avec Hyper POV + Seedance 2.  \nAjoutez du flou de mouvement et assurez la continuité d'une seule prise pour maintenir une sensation cinématographique de bout en bout lors de la génération à partir d'une image fixe.  \nGardez la séquence comme un plan continu (sans coupures) en utilisant une seule image d'entrée et en générant toute la traversée en une seule prise avec Hyper POV + Seedance 2.\n\n--- SUITE DU FIL ---\n[Fil 1] Créateurs IG : https://t.co/9F5NPGiis0"
+    },
+    "ja": {
+      "content": "---\nComfyUIでHyper POV + Seedance 2を使用して、1枚の静止画像を真実の源として完全なシネマティックな宇宙横断を生成します。\nHyper POV + Seedance 2を使用して、1枚の入力画像から環境全体を通して攻撃的な一人称視点の軌道カメラ移動を生成します。\nHyper POV + Seedance 2でカメラの動きを駆動し、1枚の画像から居住するようなフライスルー（単なる録画スタイルの動きではなく）を作成します。\n1枚の静止フレームから生成する際に、モーションブラーを追加し、シネマティックな感覚を終始維持するためにワンテイクの連続性を強制します。\nHyper POV + Seedance 2を使用して、1枚の画像入力でシーケンスを1つの連続したショット（カットなし）として維持し、全体の横断をワンテイクで生成します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Creators IG: https://t.co/9F5NPGiis0\n---"
+    },
+    "ko": {
+      "content": "---\nComfyUI에서 Hyper POV + Seedance 2를 사용하여 단일 정지 이미지를 진실의 원천으로 하여 완전한 시네마틱 우주 탐사를 생성하세요.  \nHyper POV + Seedance 2를 사용하여 하나의 입력 이미지에서 전체 환경을 통해 공격적인 1인칭 궤도 카메라 이동을 생성하세요.  \nHyper POV + Seedance 2로 카메라 움직임을 구동하여 단일 이미지에서 단순한 녹화 스타일의 이동이 아닌, 공간을 탐험하는 플라이 스루를 만드세요.  \n단일 정지 프레임에서 생성할 때 시네마틱한 느낌을 유지하기 위해 모션 블러를 추가하고 단일 테이크 연속성을 적용하세요.  \nHyper POV + Seedance 2를 사용하여 단일 이미지 입력으로 전체 탐사를 한 번의 테이크로 생성하여 시퀀스를 하나의 연속적인 샷으로 유지하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Creators IG: https://t.co/9F5NPGiis0\n---"
+    },
+    "pt": {
+      "content": "---\nUse Hyper POV + Seedance 2 no ComfyUI para gerar uma travessia espacial cinematográfica completa a partir de uma única imagem estática como fonte de verdade.  \nGere um movimento de câmera em órbita agressivo em primeira pessoa através do ambiente completo a partir de uma imagem de entrada usando Hyper POV + Seedance 2.  \nCrie um voo habitante (não apenas um movimento estilo gravação) a partir de uma única imagem, dirigindo o movimento da câmera com Hyper POV + Seedance 2.  \nAdicione desfoque de movimento e garanta a continuidade de uma única tomada para manter uma sensação cinematográfica de ponta a ponta ao gerar a partir de um único quadro estático.  \nMantenha a sequência como uma única tomada contínua (sem cortes) usando uma única imagem de entrada e gerando toda a travessia em uma única tomada com Hyper POV + Seedance 2.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Criadores IG: https://t.co/9F5NPGiis0\n---"
+    },
+    "zh": {
+      "content": "---\n在ComfyUI中使用Hyper POV + Seedance 2，从单个静态图像生成完整的电影级太空穿越。\n\n使用Hyper POV + Seedance 2，从一张输入图像生成一个激进的第一人称轨道摄像机移动，穿越整个环境。\n\n通过Hyper POV + Seedance 2驱动摄像机运动，从单个图像创建一个身临其境的飞行穿越（不仅仅是录制风格的移动）。\n\n添加运动模糊，并在从一个静态帧生成时强制单镜头连续性，以保持从头到尾的电影感。\n\n通过使用单个图像输入并在一次拍摄中生成整个穿越，保持序列为一个连续镜头（无剪切）。\n\n--- 线程继续 ---\n[Thread 1] 创作者IG: https://t.co/9F5NPGiis0\n---"
+    }
+  }
+}

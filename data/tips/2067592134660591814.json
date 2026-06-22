@@ -1,0 +1,41 @@
+{
+  "id": "2067592134660591814",
+  "title": "Use Claude MCP → Higgsfield to design and “soul train” your characters before…",
+  "content": "Use Claude MCP → Higgsfield to design and “soul train” your characters before generating video in Seedance  \nCreate a 3D mesh via Higgsfield → Tripo, then import into Blender to assemble the world/characters, then return to Higgsfield’s Seedance integration to generate the final videos  \nAutomate an end-to-end short-form video pipeline by chaining Claude MCP → Higgsfield → Tripo → Blender → Higgsfield (Seedance hookup)",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Pipeline_papi/status/2067592134660591814",
+  "sourcePublishedAt": "2026-06-18",
+  "author": {
+    "name": "Pipeline Papi",
+    "link": "https://x.com/Pipeline_papi"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Use Claude MCP → Higgsfield to design and “soul train” your characters before generating video in Seedance  \nCreate a 3D mesh via Higgsfield → Tripo, then import into Blender to assemble the world/characters, then return to Higgsfield’s Seedance integration to generate the final videos  \nAutomate an end-to-end short-form video pipeline by chaining Claude MCP → Higgsfield → Tripo → Blender → Higgsfield (Seedance hookup)",
+  "translations": {
+    "es": {
+      "content": "---\nUsa Claude MCP → Higgsfield para diseñar y \"soul train\" tus personajes antes de generar video en Seedance  \nCrea una malla 3D a través de Higgsfield → Tripo, luego importa en Blender para ensamblar el mundo/personajes, y después regresa a la integración Seedance de Higgsfield para generar los videos finales  \nAutomatiza una cadena de producción de video de formato corto de principio a fin encadenando Claude MCP → Higgsfield → Tripo → Blender → Higgsfield (conexión Seedance)  \n---"
+    },
+    "fr": {
+      "content": "Utilisez Claude MCP → Higgsfield pour concevoir et \"soul train\" vos personnages avant de générer une vidéo dans Seedance  \nCréez un maillage 3D via Higgsfield → Tripo, puis importez-le dans Blender pour assembler le monde/personnages, puis retournez à l'intégration Seedance de Higgsfield pour générer les vidéos finales  \nAutomatisez un pipeline vidéo de bout en bout en enchaînant Claude MCP → Higgsfield → Tripo → Blender → Higgsfield (connexion Seedance)"
+    },
+    "ja": {
+      "content": "---\nClaude MCP → Higgsfieldを使用して、キャラクターをデザインし、「ソウルトレイン」してからSeedanceでビデオを生成します  \nHiggsfield → Tripoを通じて3Dメッシュを作成し、Blenderにインポートして世界/キャラクターを組み立て、HiggsfieldのSeedance統合に戻って最終ビデオを生成します  \nClaude MCP → Higgsfield → Tripo → Blender → Higgsfield（Seedance接続）を連鎖させて、短編ビデオのエンドツーエンドのパイプラインを自動化します  \n---"
+    },
+    "ko": {
+      "content": "---\nClaude MCP → Higgsfield를 사용하여 Seedance에서 비디오를 생성하기 전에 캐릭터를 디자인하고 \"soul train\" 하세요  \nHiggsfield → Tripo를 통해 3D 메쉬를 생성한 후 Blender로 가져와 세계/캐릭터를 조립한 다음 Higgsfield의 Seedance 통합으로 돌아가 최종 비디오를 생성하세요  \nClaude MCP → Higgsfield → Tripo → Blender → Higgsfield (Seedance 연결)을 연결하여 단편 비디오 파이프라인을 자동화하세요  \n---"
+    },
+    "pt": {
+      "content": "Use Claude MCP → Higgsfield para projetar e “soul train” seus personagens antes de gerar vídeo no Seedance  \nCrie uma malha 3D via Higgsfield → Tripo, depois importe para o Blender para montar o mundo/personagens, e então retorne à integração Seedance do Higgsfield para gerar os vídeos finais  \nAutomatize um pipeline de vídeo de formato curto de ponta a ponta encadeando Claude MCP → Higgsfield → Tripo → Blender → Higgsfield (conexão Seedance)"
+    },
+    "zh": {
+      "content": "使用 Claude MCP → Higgsfield 来设计和“灵魂训练”你的角色，然后在 Seedance 中生成视频  \n通过 Higgsfield → Tripo 创建一个 3D 网格，然后导入 Blender 组装世界/角色，然后返回到 Higgsfield 的 Seedance 集成中生成最终视频  \n通过链接 Claude MCP → Higgsfield → Tripo → Blender → Higgsfield（Seedance 集成）来自动化端到端短视频制作流程"
+    }
+  }
+}

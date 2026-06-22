@@ -1,0 +1,43 @@
+{
+  "id": "2067984686648062325",
+  "title": "Generate multiple material/style variations of the same object while keeping…",
+  "content": "Generate multiple material/style variations of the same object while keeping the silhouette and composition consistent, then use those variations as shots for a single sequence.  \nRemove the background from each generated render before bringing them into Seedance to keep transitions clean.  \nUse Seedance morph transitions between the different style/material renders to smoothly transform the object across looks.  \nSequence the morphed clips into a short motion piece to showcase multiple render styles from one object.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067984613235191808/img/pd9PcD-PsINBsf7j.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067984686648062325.mp4",
+  "sourceLink": "https://x.com/Anujatk14/status/2067984686648062325",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "Anu Anuja",
+    "link": "https://x.com/Anujatk14"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "3D Animation",
+    "Realistic World",
+    "Transformation",
+    "Tutorial"
+  ],
+  "tips": "Generate multiple material/style variations of the same object while keeping the silhouette and composition consistent, then use those variations as shots for a single sequence.  \nRemove the background from each generated render before bringing them into Seedance to keep transitions clean.  \nUse Seedance morph transitions between the different style/material renders to smoothly transform the object across looks.  \nSequence the morphed clips into a short motion piece to showcase multiple render styles from one object.",
+  "translations": {
+    "es": {
+      "content": "Genera múltiples variaciones de material/estilo del mismo objeto manteniendo la silueta y la composición consistentes, luego utiliza esas variaciones como tomas para una sola secuencia.  \nElimina el fondo de cada render generado antes de llevarlos a Seedance para mantener las transiciones limpias.  \nUsa transiciones morph de Seedance entre los diferentes renders de estilo/material para transformar suavemente el objeto a través de los diferentes looks.  \nSecuencia los clips transformados en una breve pieza de movimiento para mostrar múltiples estilos de render de un solo objeto."
+    },
+    "fr": {
+      "content": "---\nGénérez plusieurs variations de matériaux/styles du même objet tout en gardant la silhouette et la composition cohérentes, puis utilisez ces variations comme prises de vue pour une seule séquence.  \nSupprimez l'arrière-plan de chaque rendu généré avant de les importer dans Seedance pour maintenir des transitions fluides.  \nUtilisez les transitions morphing de Seedance entre les différents rendus de style/matériau pour transformer l'objet en douceur à travers les apparences.  \nSéquencez les clips morphés dans une courte pièce animée pour présenter plusieurs styles de rendu à partir d'un seul objet.\n---"
+    },
+    "ja": {
+      "content": "---\n同じオブジェクトのシルエットと構図を一貫させながら、複数の素材/スタイルのバリエーションを生成し、それらのバリエーションを単一のシーケンスのショットとして使用します。  \n生成された各レンダーから背景を削除し、Seedanceに取り込む前にトランジションをクリーンに保ちます。  \n異なるスタイル/素材のレンダー間でSeedanceのモーフトランジションを使用して、オブジェクトをスムーズに変形させます。  \nモーフされたクリップを短いモーションピースにシーケンス化し、1つのオブジェクトから複数のレンダースタイルを披露します。\n---"
+    },
+    "ko": {
+      "content": "---\n같은 객체의 실루엣과 구성을 일관되게 유지하면서 여러 가지 재질/스타일 변형을 생성한 후, 이러한 변형을 단일 시퀀스의 샷으로 사용하십시오.  \n각 생성된 렌더에서 배경을 제거한 후 Seedance에 가져와 전환을 깔끔하게 유지하십시오.  \n다양한 스타일/재질 렌더 간에 Seedance morph 전환을 사용하여 객체를 부드럽게 변형하십시오.  \n변형된 클립을 짧은 모션 작품으로 시퀀스하여 하나의 객체에서 여러 렌더 스타일을 선보이십시오.\n---"
+    },
+    "pt": {
+      "content": "---\nGere várias variações de material/estilo do mesmo objeto enquanto mantém a silhueta e a composição consistentes, depois use essas variações como tomadas para uma única sequência.  \nRemova o fundo de cada renderização gerada antes de trazê-las para o Seedance para manter as transições limpas.  \nUse transições morph do Seedance entre os diferentes renders de estilo/material para transformar suavemente o objeto entre os visuais.  \nSequencie os clipes transformados em uma curta peça de movimento para exibir múltiplos estilos de renderização de um único objeto.\n---"
+    },
+    "zh": {
+      "content": "---\n生成同一对象的多种材质/风格变体，同时保持轮廓和构图一致，然后将这些变体用作单个序列的镜头。  \n在将每个生成的渲染导入Seedance之前，移除背景以保持过渡的干净。  \n使用Seedance的变形过渡在不同风格/材质渲染之间平滑地转换对象的外观。  \n将变形后的剪辑编排成一个简短的动态作品，以展示一个对象的多种渲染风格。\n---"
+    }
+  }
+}

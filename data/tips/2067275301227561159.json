@@ -1,0 +1,42 @@
+{
+  "id": "2067275301227561159",
+  "title": "Create a storyboard image in Pollo AI, then use that storyboard image as the…",
+  "content": "Create a storyboard image in Pollo AI, then use that storyboard image as the input/reference to generate a Seedance 2.0 video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067275234680672256/img/x48cVcsBHnUMYkeT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067275301227561159.mp4",
+  "sourceLink": "https://x.com/abxxai/status/2067275301227561159",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "Abdul Șhakoor",
+    "link": "https://x.com/abxxai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a storyboard image in Pollo AI, then use that storyboard image as the input/reference to generate a Seedance 2.0 video.",
+  "translations": {
+    "es": {
+      "content": "Crea una imagen de storyboard en Pollo AI, luego usa esa imagen de storyboard como entrada/referencia para generar un video Seedance 2.0."
+    },
+    "fr": {
+      "content": "Créez une image de storyboard dans Pollo AI, puis utilisez cette image de storyboard comme entrée/référence pour générer une vidéo Seedance 2.0."
+    },
+    "ja": {
+      "content": "---\nPollo AIでストーリーボード画像を作成し、そのストーリーボード画像を入力/参照として使用してSeedance 2.0ビデオを生成します。"
+    },
+    "ko": {
+      "content": "Pollo AI에서 스토리보드 이미지를 생성한 후, 그 스토리보드 이미지를 입력/참조로 사용하여 Seedance 2.0 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Crie uma imagem de storyboard no Pollo AI, depois use essa imagem de storyboard como entrada/referência para gerar um vídeo Seedance 2.0."
+    },
+    "zh": {
+      "content": "在Pollo AI中创建一个分镜图像，然后使用该分镜图像作为输入/参考来生成一个Seedance 2.0视频。"
+    }
+  }
+}

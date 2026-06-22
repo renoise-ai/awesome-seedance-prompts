@@ -1,0 +1,42 @@
+{
+  "id": "2067253432189100334",
+  "title": "Control Seedance 2 camera movement by drawing a camera path line directly on…",
+  "content": "Control Seedance 2 camera movement by drawing a camera path line directly on the input image instead of describing the camera in the prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066499058869706752/img/17tvbmfl03waw-hW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067253432189100334.mp4",
+  "sourceLink": "https://x.com/FloyoAI/status/2067253432189100334",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "FloyoAI",
+    "link": "https://x.com/FloyoAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Micro",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Control Seedance 2 camera movement by drawing a camera path line directly on the input image instead of describing the camera in the prompt.",
+  "translations": {
+    "es": {
+      "content": "Controla el movimiento de la cámara en Seedance 2 dibujando una línea de trayectoria de la cámara directamente sobre la imagen de entrada en lugar de describir la cámara en el prompt."
+    },
+    "fr": {
+      "content": "Contrôlez le mouvement de la caméra Seedance 2 en dessinant une ligne de trajectoire de la caméra directement sur l'image d'entrée au lieu de décrire la caméra dans le prompt."
+    },
+    "ja": {
+      "content": "入力画像に直接カメラパスラインを描くことで、Seedance 2のカメラ動作を制御し、プロンプトでカメラを説明する必要がありません。"
+    },
+    "ko": {
+      "content": "Seedance 2의 카메라 움직임을 프롬프트에서 카메라를 설명하는 대신 입력 이미지에 직접 카메라 경로 선을 그려 제어하세요."
+    },
+    "pt": {
+      "content": "Controle o movimento da câmera no Seedance 2 desenhando uma linha de trajetória da câmera diretamente na imagem de entrada, em vez de descrever a câmera no prompt."
+    },
+    "zh": {
+      "content": "通过直接在输入图像上绘制摄像机路径线来控制Seedance 2的摄像机运动，而不是在prompt中描述摄像机。"
+    }
+  }
+}

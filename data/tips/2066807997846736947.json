@@ -1,0 +1,43 @@
+{
+  "id": "2066807997846736947",
+  "title": "ChatGPTで企画・構成を壁打ちしてCM（モーショングラフィックス）の設計を固める",
+  "content": "ChatGPTで企画・構成を壁打ちしてCM（モーショングラフィックス）の設計を固める  \nイメージ2.0でキービジュアル（絵コンテ）を生成してSeedance用の素材を作る  \n生成したキービジュアル（絵コンテ）をSeedance 2.0にアップロードして動画化する  \nSeedance 2.0の動き（モーション）プロンプトはChatGPTに作らせてそのまま使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066750361046773760/img/0VMKCbGZppeyKnzX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066807997846736947.mp4",
+  "sourceLink": "https://x.com/mov_nakanohito/status/2066807997846736947",
+  "sourcePublishedAt": "2026-06-16",
+  "author": {
+    "name": "P@動画編集の中の人",
+    "link": "https://x.com/mov_nakanohito"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "ChatGPTで企画・構成を壁打ちしてCM（モーショングラフィックス）の設計を固める  \nイメージ2.0でキービジュアル（絵コンテ）を生成してSeedance用の素材を作る  \n生成したキービジュアル（絵コンテ）をSeedance 2.0にアップロードして動画化する  \nSeedance 2.0の動き（モーション）プロンプトはChatGPTに作らせてそのまま使う",
+  "translations": {
+    "en": {
+      "content": "Refine the planning and structure for a commercial (motion graphics) using ChatGPT  \nGenerate key visuals (storyboards) with Image 2.0 to create materials for Seedance  \nUpload the generated key visuals (storyboards) to Seedance 2.0 to convert them into videos  \nUse motion prompts created by ChatGPT directly in Seedance 2.0"
+    },
+    "es": {
+      "content": "---\nRefinar el diseño del CM (motion graphics) utilizando ChatGPT para el desarrollo y la estructura del concepto  \nGenerar el key visual (storyboard) con Imagen 2.0 para crear materiales para Seedance  \nSubir el key visual (storyboard) generado a Seedance 2.0 para convertirlo en video  \nUtilizar directamente el prompt de movimiento de Seedance 2.0 creado por ChatGPT  \n---"
+    },
+    "fr": {
+      "content": "---\nDiscuter et structurer le projet avec ChatGPT pour finaliser la conception du spot publicitaire (motion graphics)  \nGénérer les visuels clés (storyboard) avec Image 2.0 pour créer des matériaux pour Seedance  \nTélécharger les visuels clés (storyboard) générés sur Seedance 2.0 pour les transformer en vidéo  \nUtiliser directement le prompt de mouvement de Seedance 2.0 créé par ChatGPT  \n---"
+    },
+    "ko": {
+      "content": "ChatGPT로 기획 및 구성을 브레인스토밍하여 CM(모션 그래픽스)의 설계를 확정한다  \n이미지 2.0으로 키 비주얼(스토리보드)을 생성하여 Seedance용 소재를 만든다  \n생성한 키 비주얼(스토리보드)을 Seedance 2.0에 업로드하여 영상화한다  \nSeedance 2.0의 모션 프롬프트는 ChatGPT로 생성하여 그대로 사용한다"
+    },
+    "pt": {
+      "content": "ChatGPTで企画・構成を壁打ちしてCM（モーショングラフィックス）の設計を固める  \nGerar o key visual (storyboard) com Imagem 2.0 para criar materiais para Seedance  \nFazer upload do key visual (storyboard) gerado para o Seedance 2.0 e transformá-lo em vídeo  \nUsar o prompt de movimento do Seedance 2.0 criado pelo ChatGPT diretamente"
+    },
+    "zh": {
+      "content": "---\n使用ChatGPT进行企划和构思的头脑风暴，以确定CM（动态图形）的设计  \n使用Image 2.0生成关键视觉（分镜），为Seedance制作素材  \n将生成的关键视觉（分镜）上传到Seedance 2.0进行视频化  \nSeedance 2.0的动作（运动）prompt由ChatGPT生成并直接使用  \n---"
+    }
+  }
+}

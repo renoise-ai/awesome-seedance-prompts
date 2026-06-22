@@ -1,0 +1,45 @@
+{
+  "id": "2067195638157353308",
+  "title": "物理的に正確な光学シミュレーションをかけすぎて2Dキャラが不気味の谷に入らないよう、Seedanceではあえてキャラクターの動きを抑える演出指示にする",
+  "content": "物理的に正確な光学シミュレーションをかけすぎて2Dキャラが不気味の谷に入らないよう、Seedanceではあえてキャラクターの動きを抑える演出指示にする  \n車外のアクションと車内のリアクションを交互に見せるインターカット構成をプロンプトで指定して、動きの少なさを演出で補う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067195520616169472/img/J9GwzlCFkeR2dyEK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067195638157353308.mp4",
+  "sourceLink": "https://x.com/CreativeEdge_CL/status/2067195638157353308",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "link": "https://x.com/CreativeEdge_CL"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Action",
+    "Chase",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial",
+    "POV"
+  ],
+  "tips": "物理的に正確な光学シミュレーションをかけすぎて2Dキャラが不気味の谷に入らないよう、Seedanceではあえてキャラクターの動きを抑える演出指示にする  \n車外のアクションと車内のリアクションを交互に見せるインターカット構成をプロンプトで指定して、動きの少なさを演出で補う",
+  "translations": {
+    "en": {
+      "content": "To prevent 2D characters from falling into the uncanny valley due to overly accurate physical optical simulations, Seedance deliberately uses direction instructions to restrain character movements.  \nSpecify an intercut structure in the prompt that alternates between action outside the car and reactions inside the car to compensate for the lack of movement through direction."
+    },
+    "es": {
+      "content": "Para evitar que los personajes 2D caigan en el valle inquietante debido a una simulación óptica físicamente precisa excesiva, en Seedance se opta por instrucciones de dirección que limitan deliberadamente el movimiento de los personajes.  \nSe especifica en el prompt una estructura de intercalado que muestra alternadamente la acción fuera del coche y la reacción dentro del coche, para compensar la falta de movimiento con la dirección."
+    },
+    "fr": {
+      "content": "---\nPour éviter que les personnages 2D ne tombent dans la vallée de l'étrange en raison d'une simulation optique trop physiquement précise, Seedance choisit intentionnellement de limiter les mouvements des personnages dans les instructions de mise en scène.  \nSpécifiez dans le prompt une structure d'intercoupure qui montre alternativement l'action à l'extérieur de la voiture et la réaction à l'intérieur, afin de compenser le manque de mouvement par la mise en scène.  \n---"
+    },
+    "ko": {
+      "content": "---\n物리적으로 정확한 광학 시뮬레이션을 과하게 적용하여 2D 캐릭터가 불쾌한 골짜기에 빠지지 않도록, Seedance에서는 일부러 캐릭터의 움직임을 억제하는 연출 지시를 한다.  \n차 외부의 액션과 내부의 리액션을 번갈아 보여주는 인터컷 구성을 프롬프트로 지정하여, 움직임의 부족함을 연출로 보완한다.\n---"
+    },
+    "pt": {
+      "content": "Para evitar que os personagens 2D entrem no vale da estranheza devido a simulações ópticas fisicamente precisas excessivas, o Seedance opta por instruções de direção que restringem intencionalmente o movimento dos personagens.  \nEspecifique no prompt uma estrutura de intercorte que mostre alternadamente a ação fora do carro e a reação dentro do carro, compensando a falta de movimento com a direção."
+    },
+    "zh": {
+      "content": "为了避免2D角色因过于物理精确的光学模拟而陷入恐怖谷，Seedance故意使用限制角色动作的演出指示  \n通过在prompt中指定车外动作和车内反应交替展示的交叉剪辑结构，以演出方式弥补动作的不足"
+    }
+  }
+}

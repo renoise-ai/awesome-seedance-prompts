@@ -1,0 +1,41 @@
+{
+  "id": "2066784118411805159",
+  "title": "Upload a character sheet as a reference image in Seedance 2.0 to lock character…",
+  "content": "Upload a character sheet as a reference image in Seedance 2.0 to lock character identity and outfit consistency across the video  \nExplicitly instruct perfect character consistency by listing fixed traits (face, eyes, skin tone, hair, accessories, outfit, surfboard design) and repeating stability constraints (stable face/ponytail/sunglasses/surf shorts/surfboard design)  \nSpecify the exact shot format to control continuity: one continuous 15-second single-take shot with no cuts, transitions, or montage  \nControl camera behavior by detailing a single uninterrupted move (start extreme close-up, circle to behind, then drop to surfboard height and stay low in a tight chase-cam)  \nPrevent common artifacts by adding negative constraints: no extra limbs, no face distortion, no outfit change, no duplicate character, no text/logos/subtitles/watermark",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/renoiseai/status/2066784118411805159",
+  "sourcePublishedAt": "2026-06-16",
+  "author": {
+    "name": "Renoise",
+    "link": "https://x.com/renoiseai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload a character sheet as a reference image in Seedance 2.0 to lock character identity and outfit consistency across the video  \nExplicitly instruct perfect character consistency by listing fixed traits (face, eyes, skin tone, hair, accessories, outfit, surfboard design) and repeating stability constraints (stable face/ponytail/sunglasses/surf shorts/surfboard design)  \nSpecify the exact shot format to control continuity: one continuous 15-second single-take shot with no cuts, transitions, or montage  \nControl camera behavior by detailing a single uninterrupted move (start extreme close-up, circle to behind, then drop to surfboard height and stay low in a tight chase-cam)  \nPrevent common artifacts by adding negative constraints: no extra limbs, no face distortion, no outfit change, no duplicate character, no text/logos/subtitles/watermark",
+  "translations": {
+    "es": {
+      "content": "Sube una hoja de personaje como imagen de referencia en Seedance 2.0 para asegurar la identidad del personaje y la consistencia del atuendo a lo largo del video  \nInstruye explícitamente la consistencia perfecta del personaje enumerando rasgos fijos (cara, ojos, tono de piel, cabello, accesorios, atuendo, diseño de la tabla de surf) y repitiendo las restricciones de estabilidad (cara estable/cola de caballo/gafas de sol/pantalones cortos de surf/diseño de la tabla de surf)  \nEspecifica el formato exacto de la toma para controlar la continuidad: una toma continua de 15 segundos sin cortes, transiciones ni montaje  \nControla el comportamiento de la cámara detallando un único movimiento ininterrumpido (comienza con un primer plano extremo, gira hacia atrás, luego baja a la altura de la tabla de surf y permanece bajo en una cámara de persecución ajustada)  \nPreviene artefactos comunes añadiendo restricciones negativas: sin extremidades extra, sin distorsión facial, sin cambio de atuendo, sin personajes duplicados, sin texto/logos/subtítulos/marca de agua"
+    },
+    "fr": {
+      "content": "Téléchargez une feuille de personnage comme image de référence dans Seedance 2.0 pour verrouiller l'identité du personnage et la cohérence de la tenue tout au long de la vidéo  \nInstruisez explicitement une cohérence parfaite du personnage en énumérant les traits fixes (visage, yeux, teint de peau, cheveux, accessoires, tenue, design de la planche de surf) et en répétant les contraintes de stabilité (visage stable/queue de cheval/lunettes de soleil/short de surf/design de la planche de surf)  \nSpécifiez le format de prise de vue exact pour contrôler la continuité : une prise unique continue de 15 secondes sans coupures, transitions ou montage  \nContrôlez le comportement de la caméra en détaillant un mouvement unique et ininterrompu (commencez par un gros plan extrême, faites un cercle vers l'arrière, puis descendez à la hauteur de la planche de surf et restez bas dans une caméra de poursuite serrée)  \nPrévenez les artefacts courants en ajoutant des contraintes négatives : pas de membres supplémentaires, pas de distorsion du visage, pas de changement de tenue, pas de personnage dupliqué, pas de texte/logos/sous-titres/filigrane"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0にキャラクターシートを参照画像としてアップロードし、ビデオ全体でキャラクターのアイデンティティと衣装の一貫性を固定します。  \n固定された特性（顔、目、肌の色、髪、アクセサリー、衣装、サーフボードのデザイン）を列挙し、安定性の制約（安定した顔/ポニーテール/サングラス/サーフショーツ/サーフボードデザイン）を繰り返すことで、完璧なキャラクターの一貫性を明示的に指示します。  \n連続性を制御するために、正確なショット形式を指定します：カット、トランジション、モンタージュなしの15秒間の連続したワンテイクショット。  \nカメラの動作を制御するために、単一の途切れない動きを詳細に説明します（極端なクローズアップから始め、後ろに回り込み、サーフボードの高さまで下がり、低くタイトなチェイスカムで維持）。  \n一般的なアーティファクトを防ぐために、否定的な制約を追加します：余分な手足なし、顔の歪みなし、衣装の変更なし、キャラクターの重複なし、テキスト/ロゴ/字幕/ウォーターマークなし。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에 참조 이미지로 캐릭터 시트를 업로드하여 비디오 전반에 걸쳐 캐릭터의 정체성과 의상 일관성을 고정합니다.  \n고정된 특성(얼굴, 눈, 피부 톤, 머리, 액세서리, 의상, 서핑보드 디자인)을 나열하고 안정성 제약 조건(안정적인 얼굴/포니테일/선글라스/서핑 반바지/서핑보드 디자인)을 반복하여 완벽한 캐릭터 일관성을 명확히 지시합니다.  \n연속성을 제어하기 위해 정확한 샷 형식을 지정합니다: 컷, 전환, 몽타주 없이 하나의 연속적인 15초 단일 테이크 샷  \n카메라 동작을 제어하기 위해 단일 중단 없는 움직임을 자세히 설명합니다 (극단적인 클로즈업에서 시작하여 뒤로 원을 그리며 이동한 후 서핑보드 높이로 내려가 낮은 위치에서 타이트한 추적 카메라로 유지)  \n부정적인 제약 조건을 추가하여 일반적인 아티팩트를 방지합니다: 추가 팔다리 없음, 얼굴 왜곡 없음, 의상 변경 없음, 중복 캐릭터 없음, 텍스트/로고/자막/워터마크 없음  \n---"
+    },
+    "pt": {
+      "content": "Carregue uma folha de personagem como imagem de referência no Seedance 2.0 para fixar a identidade do personagem e a consistência do traje ao longo do vídeo  \nInstrua explicitamente a consistência perfeita do personagem listando traços fixos (rosto, olhos, tom de pele, cabelo, acessórios, traje, design da prancha de surfe) e repetindo as restrições de estabilidade (rosto estável/rabo de cavalo/óculos de sol/bermuda de surfe/design da prancha de surfe)  \nEspecifique o formato exato da cena para controlar a continuidade: uma única tomada contínua de 15 segundos sem cortes, transições ou montagem  \nControle o comportamento da câmera detalhando um único movimento ininterrupto (comece com um close-up extremo, circule para trás, depois desça à altura da prancha de surfe e mantenha-se baixo em uma câmera de perseguição apertada)  \nEvite artefatos comuns adicionando restrições negativas: sem membros extras, sem distorção facial, sem troca de roupa, sem personagens duplicados, sem texto/logos/legendas/marca d'água"
+    },
+    "zh": {
+      "content": "在Seedance 2.0中上传角色表作为参考图像，以锁定角色身份和服装一致性  \n通过列出固定特征（面部、眼睛、肤色、头发、配饰、服装、冲浪板设计）并重复稳定性约束（稳定的面部/马尾/太阳镜/冲浪短裤/冲浪板设计）明确指示完美的角色一致性  \n指定精确的镜头格式以控制连续性：一个连续的15秒单镜头拍摄，没有剪切、过渡或蒙太奇  \n通过详细说明单一不间断的移动来控制摄像机行为（从极近距离开始，绕到后面，然后下降到冲浪板高度并保持低位紧跟拍摄）  \n通过添加负面约束来防止常见的伪影：没有多余的肢体，没有面部扭曲，没有服装更换，没有重复角色，没有文字/标志/字幕/水印"
+    }
+  }
+}

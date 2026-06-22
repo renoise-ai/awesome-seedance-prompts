@@ -1,0 +1,42 @@
+{
+  "id": "2068000499438379444",
+  "title": "Use LTX 2.3 + Ideogram 4 to generate storyboard images with full control on a…",
+  "content": "Use LTX 2.3 + Ideogram 4 to generate storyboard images with full control on a 6GB VRAM GPU, then animate the scenes from those storyboards to create Seedance-style cinematic videos.\nGenerate storyboard images first and use them as shot references to maintain better visual consistency across scenes when animating.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067999586623668224/img/HhMsoLT3X_knCTTU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068000499438379444.mp4",
+  "sourceLink": "https://x.com/SD_Tutorial/status/2068000499438379444",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "Stable Diffusion Tutorials",
+    "link": "https://x.com/SD_Tutorial"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use LTX 2.3 + Ideogram 4 to generate storyboard images with full control on a 6GB VRAM GPU, then animate the scenes from those storyboards to create Seedance-style cinematic videos.\nGenerate storyboard images first and use them as shot references to maintain better visual consistency across scenes when animating.",
+  "translations": {
+    "es": {
+      "content": "Utiliza LTX 2.3 + Ideogram 4 para generar imágenes de storyboard con control total en una GPU de 6GB VRAM, luego anima las escenas de esos storyboards para crear videos cinematográficos al estilo Seedance. Genera primero las imágenes del storyboard y úsalas como referencias de tomas para mantener una mejor consistencia visual a lo largo de las escenas al animar."
+    },
+    "fr": {
+      "content": "Utilisez LTX 2.3 + Ideogram 4 pour générer des images de storyboard avec un contrôle total sur un GPU de 6GB VRAM, puis animez les scènes de ces storyboards pour créer des vidéos cinématiques de style Seedance. Générez d'abord les images de storyboard et utilisez-les comme références de prise de vue pour maintenir une meilleure cohérence visuelle entre les scènes lors de l'animation."
+    },
+    "ja": {
+      "content": "---\nLTX 2.3 + Ideogram 4を使用して、6GB VRAM GPUでストーリーボード画像を完全にコントロールしながら生成し、そのストーリーボードからシーンをアニメーション化して、Seedanceスタイルのシネマティックなビデオを作成します。\nまずストーリーボード画像を生成し、それらをショットの参照として使用して、アニメーション化する際にシーン全体でより良い視覚的一貫性を維持します。\n---"
+    },
+    "ko": {
+      "content": "---\nLTX 2.3 + Ideogram 4를 사용하여 6GB VRAM GPU에서 스토리보드 이미지를 생성하고, 그런 다음 그 스토리보드에서 장면을 애니메이션화하여 Seedance 스타일의 시네마틱 비디오를 만드세요.  \n먼저 스토리보드 이미지를 생성하고 이를 샷 참조로 사용하여 애니메이션화할 때 장면 간의 시각적 일관성을 더 잘 유지하세요.\n---"
+    },
+    "pt": {
+      "content": "Use LTX 2.3 + Ideogram 4 para gerar imagens de storyboard com controle total em uma GPU de 6GB VRAM, depois anime as cenas desses storyboards para criar vídeos cinematográficos no estilo Seedance.  \nGere primeiro as imagens do storyboard e use-as como referências de tomadas para manter uma melhor consistência visual entre as cenas ao animar."
+    },
+    "zh": {
+      "content": "使用LTX 2.3 + Ideogram 4在6GB VRAM GPU上生成分镜图像，完全掌控，然后从这些分镜图像中动画化场景，以创建Seedance风格的电影视频。  \n首先生成分镜图像，并将其用作拍摄参考，以在动画化时保持场景之间更好的视觉一致性。"
+    }
+  }
+}

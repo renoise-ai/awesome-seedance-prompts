@@ -1,0 +1,41 @@
+{
+  "id": "2067064319620391363",
+  "title": "Use a production workflow where AI first breaks your script into storyboards…",
+  "content": "Use a production workflow where AI first breaks your script into storyboards and per-shot prompts before generating in Seedance  \nUpload predefined character reference images and scene reference images to Seedance to keep characters and environments consistent across shots  \nAfter Seedance generates clips, focus human effort on reviewing outputs and selecting usable scenes rather than manual animation/editing",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ruima/status/2067064319620391363",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "Rui Ma",
+    "link": "https://x.com/ruima"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a production workflow where AI first breaks your script into storyboards and per-shot prompts before generating in Seedance  \nUpload predefined character reference images and scene reference images to Seedance to keep characters and environments consistent across shots  \nAfter Seedance generates clips, focus human effort on reviewing outputs and selecting usable scenes rather than manual animation/editing",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de producción donde la IA primero descomponga tu guion en storyboards y prompts por toma antes de generar en Seedance.  \nSube imágenes de referencia de personajes y escenas predefinidas a Seedance para mantener la consistencia de los personajes y entornos a lo largo de las tomas.  \nDespués de que Seedance genere los clips, enfoca el esfuerzo humano en revisar los resultados y seleccionar las escenas utilizables en lugar de animación/edición manual."
+    },
+    "fr": {
+      "content": "Utilisez un flux de production où l'IA décompose d'abord votre script en storyboards et en prompts par plan avant de générer dans Seedance  \nTéléchargez des images de référence de personnages prédéfinies et des images de référence de scènes dans Seedance pour maintenir la cohérence des personnages et des environnements à travers les plans  \nAprès que Seedance ait généré des clips, concentrez l'effort humain sur la révision des sorties et la sélection des scènes utilisables plutôt que sur l'animation/montage manuel"
+    },
+    "ja": {
+      "content": "---\nAIが最初にあなたの脚本をストーリーボードとショットごとのプロンプトに分解し、Seedanceで生成するプロダクションワークフローを使用する  \nキャラクターの参照画像やシーンの参照画像を事前にSeedanceにアップロードし、ショット間でキャラクターと環境を一貫させる  \nSeedanceがクリップを生成した後は、手動のアニメーションや編集ではなく、出力をレビューし、使用可能なシーンを選択することに人間の労力を集中させる  \n---"
+    },
+    "ko": {
+      "content": "AI가 먼저 스크립트를 스토리보드와 샷별 프롬프트로 나눈 후 Seedance에서 생성하는 제작 워크플로우를 사용하세요.  \n캐릭터와 환경을 샷 전반에 걸쳐 일관되게 유지하기 위해 미리 정의된 캐릭터 참조 이미지와 장면 참조 이미지를 Seedance에 업로드하세요.  \nSeedance가 클립을 생성한 후에는 수작업 애니메이션/편집보다는 출력물을 검토하고 사용할 수 있는 장면을 선택하는 데 인간의 노력을 집중하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de produção onde a IA primeiro divide seu roteiro em storyboards e prompts por cena antes de gerar no Seedance  \nCarregue imagens de referência de personagens e cenas predefinidas no Seedance para manter a consistência dos personagens e ambientes em todas as cenas  \nApós o Seedance gerar os clipes, concentre o esforço humano na revisão dos resultados e na seleção de cenas utilizáveis em vez de animação/edição manual"
+    },
+    "zh": {
+      "content": "使用一种制作流程，首先让AI将你的剧本分解为分镜头和每个镜头的prompt，然后在Seedance中生成  \n上传预定义的角色参考图像和场景参考图像到Seedance，以保持角色和环境在镜头之间的一致性  \n在Seedance生成剪辑后，将人力集中在审查输出和选择可用场景上，而不是手动动画/编辑"
+    }
+  }
+}

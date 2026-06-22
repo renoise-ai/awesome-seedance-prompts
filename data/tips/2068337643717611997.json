@@ -1,0 +1,43 @@
+{
+  "id": "2068337643717611997",
+  "title": "Use an Image Reference, then apply your created ChatGPT Custom Instructions…",
+  "content": "Use an Image Reference, then apply your created ChatGPT Custom Instructions, generate a storyboard with GPT Image 2.0, and turn that into a Seedance 2.0 prompt to create the final video (e.g., in CapCut).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2068337381758177280/img/upMHgUF-TbQX0Kaf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068337643717611997.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2068337643717611997",
+  "sourcePublishedAt": "2026-06-20",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use an Image Reference, then apply your created ChatGPT Custom Instructions, generate a storyboard with GPT Image 2.0, and turn that into a Seedance 2.0 prompt to create the final video (e.g., in CapCut).",
+  "translations": {
+    "es": {
+      "content": "Utiliza una referencia de imagen, luego aplica tus Instrucciones Personalizadas de ChatGPT, genera un storyboard con GPT Image 2.0, y conviértelo en un prompt de Seedance 2.0 para crear el video final (por ejemplo, en CapCut)."
+    },
+    "fr": {
+      "content": "Utilisez une référence d'image, puis appliquez vos instructions personnalisées ChatGPT créées, générez un storyboard avec GPT Image 2.0, et transformez-le en un prompt Seedance 2.0 pour créer la vidéo finale (par exemple, dans CapCut)."
+    },
+    "ja": {
+      "content": "画像参照を使用し、その後に作成したChatGPTカスタム指示を適用して、GPT Image 2.0でストーリーボードを生成し、それをSeedance 2.0プロンプトに変換して最終ビデオを作成します（例：CapCutで）。"
+    },
+    "ko": {
+      "content": "이미지 참조를 사용한 후, 생성한 ChatGPT 맞춤 지침을 적용하여 GPT Image 2.0으로 스토리보드를 생성하고, 이를 Seedance 2.0 프롬프트로 변환하여 최종 비디오를 제작하세요 (예: CapCut에서)."
+    },
+    "pt": {
+      "content": "Use uma Referência de Imagem, depois aplique suas Instruções Personalizadas do ChatGPT criadas, gere um storyboard com GPT Image 2.0, e transforme isso em um prompt Seedance 2.0 para criar o vídeo final (por exemplo, no CapCut)."
+    },
+    "zh": {
+      "content": "使用图像参考，然后应用您创建的ChatGPT自定义指令，使用GPT Image 2.0生成分镜头脚本，并将其转化为Seedance 2.0 prompt以创建最终视频（例如，在CapCut中）。"
+    }
+  }
+}

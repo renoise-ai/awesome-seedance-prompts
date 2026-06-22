@@ -1,0 +1,41 @@
+{
+  "id": "2068340045660995790",
+  "title": "Use a structured prompt framework with Theme, Character, Scene, and a…",
+  "content": "Use a structured prompt framework with Theme, Character, Scene, and a beat-by-beat Choreography list to guide Seedance generation.  \nUse a character sheet plus a storyboard in Seedance to lock identity and sequence the dance.  \nSpecify one continuous dance take to prevent random cuts.  \nPrompt for full-body motion plus natural facial details (blinking, small smile changes) and light breathing at the ending.  \nAdd negative constraints to avoid random cuts, plastic skin, frozen smile, face drift, and tiny repeated movements.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/MrLarus/status/2068340045660995790",
+  "sourcePublishedAt": "2026-06-20",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a structured prompt framework with Theme, Character, Scene, and a beat-by-beat Choreography list to guide Seedance generation.  \nUse a character sheet plus a storyboard in Seedance to lock identity and sequence the dance.  \nSpecify one continuous dance take to prevent random cuts.  \nPrompt for full-body motion plus natural facial details (blinking, small smile changes) and light breathing at the ending.  \nAdd negative constraints to avoid random cuts, plastic skin, frozen smile, face drift, and tiny repeated movements.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un marco de prompt estructurado con Tema, Personaje, Escena y una lista de Coreografía paso a paso para guiar la generación de Seedance.  \nUsa una hoja de personaje más un guion gráfico en Seedance para fijar la identidad y secuenciar la danza.  \nEspecifica una toma continua de baile para evitar cortes aleatorios.  \nPrompt para movimiento corporal completo más detalles faciales naturales (parpadeo, pequeños cambios de sonrisa) y respiración ligera al final.  \nAñade restricciones negativas para evitar cortes aleatorios, piel plástica, sonrisa congelada, deslizamiento facial y movimientos pequeños repetidos."
+    },
+    "fr": {
+      "content": "---\nUtilisez un cadre de prompt structuré avec Thème, Personnage, Scène, et une liste de Chorégraphie pas à pas pour guider la génération Seedance.  \nUtilisez une fiche de personnage ainsi qu'un storyboard dans Seedance pour verrouiller l'identité et séquencer la danse.  \nSpécifiez une prise de danse continue pour éviter les coupures aléatoires.  \nPrompt pour un mouvement corporel complet plus des détails faciaux naturels (clignements, petits changements de sourire) et une respiration légère à la fin.  \nAjoutez des contraintes négatives pour éviter les coupures aléatoires, la peau plastique, le sourire figé, la dérive du visage, et les petits mouvements répétés.\n---"
+    },
+    "ja": {
+      "content": "---\nテーマ、キャラクター、シーン、そして一連の振り付けリストを含む構造化されたプロンプトフレームワークを使用して、Seedanceの生成をガイドします。  \nキャラクターシートとストーリーボードをSeedanceで使用し、アイデンティティを固定し、ダンスのシーケンスを決定します。  \nランダムなカットを防ぐために、一続きのダンステイクを指定します。  \n全身の動きに加え、自然な顔のディテール（まばたき、小さな笑顔の変化）と、終わりに軽い呼吸をプロンプトします。  \nランダムなカット、プラスチックのような肌、凍った笑顔、顔のずれ、小さな繰り返しの動きを避けるためのネガティブ制約を追加します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 생성을 안내하기 위해 테마, 캐릭터, 장면, 그리고 비트별 안무 목록을 포함한 구조화된 프롬프트 프레임워크를 사용하세요.  \nSeedance에서 캐릭터 시트와 스토리보드를 사용하여 정체성을 고정하고 춤의 순서를 정하세요.  \n무작위 컷을 방지하기 위해 하나의 연속적인 춤 테이크를 지정하세요.  \n전신 움직임과 자연스러운 얼굴 세부사항(눈 깜박임, 작은 미소 변화) 및 끝부분에서의 가벼운 호흡을 프롬프트하세요.  \n무작위 컷, 플라스틱 피부, 고정된 미소, 얼굴 이동, 작은 반복 움직임을 피하기 위한 부정적 제약을 추가하세요.\n---"
+    },
+    "pt": {
+      "content": "Use uma estrutura de prompt com Tema, Personagem, Cena e uma lista de Coreografia passo a passo para guiar a geração no Seedance.  \nUse uma ficha de personagem e um storyboard no Seedance para definir a identidade e sequenciar a dança.  \nEspecifique uma tomada contínua de dança para evitar cortes aleatórios.  \nPrompt para movimento corporal completo mais detalhes faciais naturais (piscar, pequenas mudanças de sorriso) e respiração leve no final.  \nAdicione restrições negativas para evitar cortes aleatórios, pele plástica, sorriso congelado, desvio facial e pequenos movimentos repetidos."
+    },
+    "zh": {
+      "content": "使用包含主题、角色、场景和逐步编排列表的结构化提示框架来指导Seedance生成。  \n在Seedance中使用角色表和故事板来锁定身份并排列舞蹈顺序。  \n指定一个连续的舞蹈镜头以防止随机剪切。  \n提示全身动作加上自然的面部细节（眨眼、微笑变化）和结尾时的轻微呼吸。  \n添加负面约束以避免随机剪切、塑料皮肤、僵硬的微笑、面部漂移和细小的重复动作。"
+    }
+  }
+}

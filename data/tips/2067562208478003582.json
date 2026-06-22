@@ -1,0 +1,42 @@
+{
+  "id": "2067562208478003582",
+  "title": "プロンプト入力→GPT-Image2でベース画像生成→マルチアングルで別カット化→テキスト編集でプラカード文言を書き換え→オブジェクト移動でビール位置を調整→最…",
+  "content": "プロンプト入力→GPT-Image2でベース画像生成→マルチアングルで別カット化→テキスト編集でプラカード文言を書き換え→オブジェクト移動でビール位置を調整→最後にSeedance 2.0で動画化するワークフローで制作する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067561718281359360/img/tAXSbO8RwgxxfDmH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067562208478003582.mp4",
+  "sourceLink": "https://x.com/Kashiko_AIart/status/2067562208478003582",
+  "sourcePublishedAt": "2026-06-18",
+  "author": {
+    "name": "かし子🍩",
+    "link": "https://x.com/Kashiko_AIart"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "プロンプト入力→GPT-Image2でベース画像生成→マルチアングルで別カット化→テキスト編集でプラカード文言を書き換え→オブジェクト移動でビール位置を調整→最後にSeedance 2.0で動画化するワークフローで制作する",
+  "translations": {
+    "en": {
+      "content": "Enter prompt → Generate base image with GPT-Image2 → Create different cuts with multi-angle → Rewrite placard text with text editing → Adjust beer position with object movement → Finally, produce a video with Seedance 2.0 using this workflow."
+    },
+    "es": {
+      "content": "Entrada de prompt → Generación de imagen base con GPT-Image2 → Conversión a diferentes tomas con múltiples ángulos → Edición de texto para reescribir el mensaje del cartel → Ajuste de la posición de la cerveza mediante el movimiento de objetos → Finalmente, producción de video con Seedance 2.0."
+    },
+    "fr": {
+      "content": "Saisie du prompt → Génération de l'image de base avec GPT-Image2 → Transformation en différents angles avec des coupes multiples → Modification du texte pour réécrire le message sur le panneau → Ajustement de la position de la bière par déplacement d'objet → Enfin, création de la vidéo avec Seedance 2.0 dans le cadre du workflow de production."
+    },
+    "ko": {
+      "content": "프로ンプ트 입력→GPT-Image2로 베이스 이미지 생성→멀티 앵글로 다른 컷으로 변환→텍스트 편집으로 플래카드 문구를 수정→오브젝트 이동으로 맥주 위치를 조정→마지막으로 Seedance 2.0으로 영상화하는 워크플로우로 제작합니다."
+    },
+    "pt": {
+      "content": "Entrada do prompt → Geração de imagem base com GPT-Image2 → Transformação em cortes diferentes com multiângulo → Edição de texto para reescrever o conteúdo do cartaz → Ajuste da posição da cerveja com movimentação de objetos → Finalmente, produção de vídeo com Seedance 2.0."
+    },
+    "zh": {
+      "content": "输入prompt→使用GPT-Image2生成基础图像→通过多角度转换为不同镜头→通过文本编辑更改标语文字→通过对象移动调整啤酒位置→最后使用Seedance 2.0将其视频化的工作流程进行制作"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2067990996194062515",
+  "title": "Create a storyboard first, then feed the storyboard into Seedance 2.0 to guide…",
+  "content": "Create a storyboard first, then feed the storyboard into Seedance 2.0 to guide the video generation for more control and consistency.  \nUse an LLM to analyze your storyboard and convert it into higher-quality Seedance prompts before generating the video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067990922332442624/img/RtAE96Kw6VubM-Ic.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067990996194062515.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2067990996194062515",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a storyboard first, then feed the storyboard into Seedance 2.0 to guide the video generation for more control and consistency.  \nUse an LLM to analyze your storyboard and convert it into higher-quality Seedance prompts before generating the video.",
+  "translations": {
+    "es": {
+      "content": "Crea un guion gráfico primero, luego introduce el guion gráfico en Seedance 2.0 para guiar la generación del video y obtener más control y consistencia.  \nUtiliza un LLM para analizar tu guion gráfico y convertirlo en prompts de Seedance de mayor calidad antes de generar el video.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/x6XdT9wNPr"
+    },
+    "fr": {
+      "content": "Créez d'abord un storyboard, puis intégrez-le dans Seedance 2.0 pour guider la génération de la vidéo afin d'obtenir plus de contrôle et de cohérence.  \nUtilisez un LLM pour analyser votre storyboard et le convertir en prompts Seedance de meilleure qualité avant de générer la vidéo.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/x6XdT9wNPr"
+    },
+    "ja": {
+      "content": "---\nまずストーリーボードを作成し、それをSeedance 2.0に入力してビデオ生成をより制御し、一貫性を持たせます。  \nストーリーボードを分析し、より高品質なSeedanceプロンプトに変換するためにLLMを使用してからビデオを生成します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/x6XdT9wNPr\n---"
+    },
+    "ko": {
+      "content": "먼저 스토리보드를 작성한 후, Seedance 2.0에 스토리보드를 입력하여 비디오 생성 시 더 많은 제어와 일관성을 확보하세요.  \nLLM을 사용하여 스토리보드를 분석하고, 비디오 생성 전에 이를 더 높은 품질의 Seedance 프롬프트로 변환하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/x6XdT9wNPr\n---"
+    },
+    "pt": {
+      "content": "Crie um storyboard primeiro, depois insira o storyboard no Seedance 2.0 para guiar a geração de vídeo, proporcionando mais controle e consistência.  \nUse um LLM para analisar seu storyboard e convertê-lo em prompts Seedance de alta qualidade antes de gerar o vídeo.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/x6XdT9wNPr"
+    },
+    "zh": {
+      "content": "首先创建一个故事板，然后将故事板输入到Seedance 2.0中，以便在视频生成过程中获得更多的控制和一致性。  \n使用LLM分析你的故事板，并在生成视频之前将其转换为更高质量的Seedance prompts。\n\n--- 线程继续 ---\n[线程 1] https://t.co/x6XdT9wNPr"
+    }
+  }
+}

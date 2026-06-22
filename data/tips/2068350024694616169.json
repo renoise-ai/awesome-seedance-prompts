@@ -1,0 +1,41 @@
+{
+  "id": "2068350024694616169",
+  "title": "Use Grok/GPT (or another low-cost model) to generate a base image and style…",
+  "content": "Use Grok/GPT (or another low-cost model) to generate a base image and style, then upload that image to Seedance as a reference image for high-fidelity action/dance scenes.  \nAsk Grok/GPT to produce a prompt framework for your Seedance prompt, then manually tweak the framework to fit your scene.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Nightowl_Vt/status/2068350024694616169",
+  "sourcePublishedAt": "2026-06-20",
+  "author": {
+    "name": "NightowlVt |🐴🍃🍌☕🦅|",
+    "link": "https://x.com/Nightowl_Vt"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Grok/GPT (or another low-cost model) to generate a base image and style, then upload that image to Seedance as a reference image for high-fidelity action/dance scenes.  \nAsk Grok/GPT to produce a prompt framework for your Seedance prompt, then manually tweak the framework to fit your scene.",
+  "translations": {
+    "es": {
+      "content": "Usa Grok/GPT (u otro modelo de bajo costo) para generar una imagen base y estilo, luego sube esa imagen a Seedance como imagen de referencia para escenas de acción/baile de alta fidelidad.  \nPide a Grok/GPT que produzca un marco de prompt para tu prompt de Seedance, luego ajusta manualmente el marco para que se adapte a tu escena."
+    },
+    "fr": {
+      "content": "Utilisez Grok/GPT (ou un autre modèle à faible coût) pour générer une image de base et un style, puis téléchargez cette image sur Seedance comme image de référence pour des scènes d'action/danse haute fidélité.  \nDemandez à Grok/GPT de produire un cadre de prompt pour votre prompt Seedance, puis ajustez manuellement le cadre pour qu'il corresponde à votre scène."
+    },
+    "ja": {
+      "content": "---\nGrok/GPT（または他の低コストモデル）を使用してベースイメージとスタイルを生成し、そのイメージをSeedanceに参照画像としてアップロードして高精細なアクション/ダンスシーンを作成します。  \nGrok/GPTにSeedanceプロンプトのためのプロンプトフレームワークを作成させ、そのフレームワークを手動で調整してシーンに合わせます。\n---"
+    },
+    "ko": {
+      "content": "Grok/GPT(또는 다른 저비용 모델)을 사용하여 기본 이미지와 스타일을 생성한 후, 그 이미지를 Seedance에 참조 이미지로 업로드하여 고품질의 액션/댄스 장면을 만드세요.  \nGrok/GPT에게 Seedance 프롬프트를 위한 프롬프트 프레임워크를 생성하도록 요청한 후, 프레임워크를 수동으로 조정하여 장면에 맞추세요."
+    },
+    "pt": {
+      "content": "Use Grok/GPT (ou outro modelo de baixo custo) para gerar uma imagem base e estilo, depois faça o upload dessa imagem para o Seedance como uma imagem de referência para cenas de ação/dança de alta fidelidade.  \nPeça ao Grok/GPT para produzir uma estrutura de prompt para o seu prompt do Seedance, depois ajuste manualmente a estrutura para se adequar à sua cena."
+    },
+    "zh": {
+      "content": "使用 Grok/GPT（或其他低成本模型）生成基础图像和风格，然后将该图像上传到 Seedance 作为高保真动作/舞蹈场景的参考图像。  \n让 Grok/GPT 生成一个 Seedance prompt 的提示框架，然后手动调整框架以适应您的场景。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2067916128303874409",
+  "title": "Generate a 3x3 high‑resolution storyboard image of numbered, captioned…",
+  "content": "Generate a 3x3 high‑resolution storyboard image of numbered, captioned photorealistic keyframes first, then use it as the reference to lock shot composition and cut timing for the Seedance 2.0 video.\n\nSpecify an exact timed sequence (e.g., 0.0–4.8s, 4.8–6.2s, etc.) with shot-by-shot camera angles and actions to control pacing and edits in a 15‑second Seedance commercial.\n\nEnforce character consistency by repeating fixed identifiers across all shots (age, hair, jersey colors, crest/swoosh placement, and “#7” only in stadium scenes) directly in the prompt.\n\nAdd explicit technical constraints (24 fps, photorealistic detail, realistic fabric movement, natural skin texture/sweat, HDR, subtle film grain, filmic color grading) to push Seedance toward live‑action cinematic realism.\n\nPrevent unwanted overlays by stating “no extra text or logos except the final [logo]” and reserving branding for a specific end segment (e.g., final 0.5s fade to black with centered logo hold).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/rovvmut_/status/2067916128303874409",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "Heisenberg",
+    "link": "https://x.com/rovvmut_"
+  },
+  "tags": [
+    "Product Ad",
+    "Fitness",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Generate a 3x3 high‑resolution storyboard image of numbered, captioned photorealistic keyframes first, then use it as the reference to lock shot composition and cut timing for the Seedance 2.0 video.\n\nSpecify an exact timed sequence (e.g., 0.0–4.8s, 4.8–6.2s, etc.) with shot-by-shot camera angles and actions to control pacing and edits in a 15‑second Seedance commercial.\n\nEnforce character consistency by repeating fixed identifiers across all shots (age, hair, jersey colors, crest/swoosh placement, and “#7” only in stadium scenes) directly in the prompt.\n\nAdd explicit technical constraints (24 fps, photorealistic detail, realistic fabric movement, natural skin texture/sweat, HDR, subtle film grain, filmic color grading) to push Seedance toward live‑action cinematic realism.\n\nPrevent unwanted overlays by stating “no extra text or logos except the final [logo]” and reserving branding for a specific end segment (e.g., final 0.5s fade to black with centered logo hold).",
+  "translations": {
+    "es": {
+      "content": "Genera una imagen de storyboard de alta resolución de 3x3 con fotogramas clave numerados y con subtítulos fotorealistas primero, luego úsala como referencia para fijar la composición de las tomas y el tiempo de corte para el video Seedance 2.0.\n\nEspecifica una secuencia cronometrada exacta (por ejemplo, 0.0–4.8s, 4.8–6.2s, etc.) con ángulos de cámara y acciones toma por toma para controlar el ritmo y las ediciones en un comercial de Seedance de 15 segundos.\n\nAsegura la consistencia de los personajes repitiendo identificadores fijos en todas las tomas (edad, cabello, colores de la camiseta, colocación del escudo/swoosh, y “#7” solo en escenas de estadio) directamente en el prompt.\n\nAñade restricciones técnicas explícitas (24 fps, detalle fotorealista, movimiento realista de la tela, textura natural de la piel/sudor, HDR, grano de película sutil, gradación de color cinematográfica) para llevar a Seedance hacia un realismo cinematográfico de acción en vivo.\n\nEvita superposiciones no deseadas indicando “sin texto o logotipos adicionales excepto el [logo] final” y reservando la marca para un segmento final específico (por ejemplo, desvanecimiento a negro en los últimos 0.5s con el logo centrado)."
+    },
+    "fr": {
+      "content": "Générez d'abord une image de storyboard haute résolution 3x3 de photogrammes clés photoréalistes numérotés et légendés, puis utilisez-la comme référence pour verrouiller la composition des plans et le timing des coupes pour la vidéo Seedance 2.0.\n\nSpécifiez une séquence chronométrée exacte (par exemple, 0.0–4.8s, 4.8–6.2s, etc.) avec des angles de caméra et des actions plan par plan pour contrôler le rythme et les montages dans une publicité Seedance de 15 secondes.\n\nAssurez la cohérence des personnages en répétant des identifiants fixes dans tous les plans (âge, cheveux, couleurs du maillot, placement du blason/swoosh, et “#7” uniquement dans les scènes de stade) directement dans le prompt.\n\nAjoutez des contraintes techniques explicites (24 fps, détail photoréaliste, mouvement réaliste des tissus, texture de peau naturelle/transpiration, HDR, grain subtil de film, étalonnage des couleurs cinématographique) pour pousser Seedance vers un réalisme cinématographique en prise de vue réelle.\n\nEmpêchez les superpositions indésirables en indiquant “pas de texte ou de logos supplémentaires sauf le [logo] final” et réservez le branding pour un segment final spécifique (par exemple, fondu au noir final de 0,5s avec maintien du logo centré)."
+    },
+    "ja": {
+      "content": "---\n最初に番号付きキャプションが付いたフォトリアリスティックなキーフレームの3x3高解像度ストーリーボード画像を生成し、それを基にSeedance 2.0ビデオのショット構成とカットタイミングを固定します。\n\n15秒のSeedanceコマーシャルにおいて、ペーシングと編集を制御するために、ショットごとのカメラアングルとアクションを指定し、正確なタイムシーケンス（例：0.0–4.8秒、4.8–6.2秒など）を指定します。\n\nすべてのショットで固定された識別子（年齢、髪、ジャージの色、クレスト/スウッシュの配置、スタジアムシーンのみでの「#7」）を繰り返すことでキャラクターの一貫性を保ちます。\n\nSeedanceをライブアクションのシネマティックリアリズムに近づけるために、明示的な技術的制約（24 fps、フォトリアリスティックなディテール、リアルな布の動き、自然な肌の質感/汗、HDR、微妙なフィルムグレイン、フィルム的なカラーグレーディング）を追加します。\n\n「最終[ロゴ]以外の余分なテキストやロゴはなし」と明記し、特定のエンドセグメント（例：最終0.5秒のフェードアウトで中央にロゴを保持）にブランディングを予約することで、不要なオーバーレイを防ぎます。"
+    },
+    "ko": {
+      "content": "---\n먼저 번호가 매겨지고 캡션이 붙은 사실적인 키프레임의 3x3 고해상도 스토리보드 이미지를 생성한 후, 이를 Seedance 2.0 비디오의 샷 구성과 컷 타이밍을 고정하는 참고 자료로 사용하세요.\n\n정확한 시간 순서(예: 0.0–4.8초, 4.8–6.2초 등)를 지정하여 15초 Seedance 광고에서 샷별 카메라 각도와 동작을 통해 페이싱과 편집을 제어하세요.\n\n모든 샷에서 고정 식별자를 반복하여 캐릭터 일관성을 유지하세요 (나이, 머리카락, 유니폼 색상, 문장/스우시 배치, 그리고 경기장 장면에서만 “#7”)를 프롬프트에 직접 포함하세요.\n\nSeedance를 실사 영화적 사실주의로 밀어붙이기 위해 명확한 기술적 제약(24 fps, 사실적인 디테일, 현실적인 직물 움직임, 자연스러운 피부 질감/땀, HDR, 미세한 필름 그레인, 영화적 색상 그레이딩)을 추가하세요.\n\n원치 않는 오버레이를 방지하기 위해 “최종 [로고] 외에 추가 텍스트나 로고 없음”을 명시하고, 특정 엔드 세그먼트(예: 마지막 0.5초 페이드 아웃 후 중앙 로고 유지)에 브랜드를 예약하세요."
+    },
+    "pt": {
+      "content": "---\nGere uma imagem de storyboard de alta resolução 3x3 com keyframes fotorealistas numerados e legendados primeiro, depois use-a como referência para definir a composição das cenas e o tempo de corte para o vídeo Seedance 2.0.\n\nEspecifique uma sequência de tempo exata (por exemplo, 0.0–4.8s, 4.8–6.2s, etc.) com ângulos de câmera e ações cena a cena para controlar o ritmo e as edições em um comercial de 15 segundos da Seedance.\n\nGaranta a consistência dos personagens repetindo identificadores fixos em todas as cenas (idade, cabelo, cores do uniforme, posicionamento do escudo/swoosh e “#7” apenas em cenas de estádio) diretamente no prompt.\n\nAdicione restrições técnicas explícitas (24 fps, detalhe fotorealista, movimento realista de tecido, textura natural da pele/suor, HDR, granulação sutil de filme, gradação de cor cinematográfica) para levar a Seedance em direção ao realismo cinematográfico de ação ao vivo.\n\nEvite sobreposições indesejadas afirmando “sem texto ou logotipos extras, exceto o [logo] final” e reserve a marca para um segmento final específico (por exemplo, fade para preto nos últimos 0.5s com logotipo centralizado)."
+    },
+    "zh": {
+      "content": "生成一个3x3高分辨率的分镜图像，包含编号和说明的照片级关键帧，然后以此作为参考来锁定Seedance 2.0视频的镜头构图和剪辑时机。\n\n指定一个精确的时间序列（例如，0.0–4.8秒，4.8–6.2秒等），通过逐镜头的摄像机角度和动作来控制15秒Seedance广告的节奏和剪辑。\n\n通过在所有镜头中重复固定标识符（年龄、头发、球衣颜色、徽章/勾形标志的位置，以及仅在体育场场景中的“#7”）来强制保持角色一致性，直接在prompt中体现。\n\n添加明确的技术约束（24 fps，照片级细节，真实的织物运动，自然的皮肤纹理/汗水，HDR，细微的胶片颗粒，电影色彩分级）以推动Seedance向真人电影般的现实主义发展。\n\n通过声明“除最终[logo]外无额外文字或标志”来防止不需要的叠加，并将品牌展示保留在特定的结束段落（例如，最后0.5秒淡出至黑色并居中保持logo）。"
+    }
+  }
+}

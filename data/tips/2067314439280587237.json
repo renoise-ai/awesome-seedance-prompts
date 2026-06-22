@@ -1,0 +1,42 @@
+{
+  "id": "2067314439280587237",
+  "title": "Use the burst frame technique: start from a single reference image, generate…",
+  "content": "Use the burst frame technique: start from a single reference image, generate many new scenes/locations/characters in the same visual style, then extract key frames from those outputs to build new video scenes in Seedance.  \nIf your outputs look too clean, add grunge/vintage styling in the prompt or post-process to match an older film look.  \nFor more rhythmic burst-frame results in Seedance 2, generate shorter snippet lengths per burst to get tighter pacing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067312975942500352/img/GYBAn3PRINIGlD6A.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067314439280587237.mp4",
+  "sourceLink": "https://x.com/ChrisGwinnLA/status/2067314439280587237",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "Christopher Gwinn | Grindhouse Glitch",
+    "link": "https://x.com/ChrisGwinnLA"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the burst frame technique: start from a single reference image, generate many new scenes/locations/characters in the same visual style, then extract key frames from those outputs to build new video scenes in Seedance.  \nIf your outputs look too clean, add grunge/vintage styling in the prompt or post-process to match an older film look.  \nFor more rhythmic burst-frame results in Seedance 2, generate shorter snippet lengths per burst to get tighter pacing.",
+  "translations": {
+    "es": {
+      "content": "Usa la técnica de burst frame: comienza con una sola imagen de referencia, genera muchas nuevas escenas/ubicaciones/personajes en el mismo estilo visual, luego extrae fotogramas clave de esos resultados para construir nuevas escenas de video en Seedance.  \nSi tus resultados se ven demasiado limpios, añade un estilo grunge/vintage en el prompt o en el post-proceso para que coincida con el aspecto de una película antigua.  \nPara obtener resultados de burst-frame más rítmicos en Seedance 2, genera fragmentos más cortos por burst para lograr un ritmo más ajustado."
+    },
+    "fr": {
+      "content": "---\nUtilisez la technique du burst frame : partez d'une seule image de référence, générez de nombreuses nouvelles scènes/lieux/personnages dans le même style visuel, puis extrayez des images clés de ces résultats pour créer de nouvelles scènes vidéo dans Seedance.  \nSi vos résultats semblent trop propres, ajoutez un style grunge/vintage dans le prompt ou en post-traitement pour correspondre à l'apparence d'un film ancien.  \nPour des résultats de burst-frame plus rythmiques dans Seedance 2, générez des longueurs de séquences plus courtes par burst pour obtenir un rythme plus serré."
+    },
+    "ja": {
+      "content": "---\nバーストフレーム技法を使用します: 単一の参照画像から始めて、同じビジュアルスタイルで多くの新しいシーン/場所/キャラクターを生成し、それらの出力からキーフレームを抽出してSeedanceで新しいビデオシーンを構築します。  \n出力があまりにもクリーンに見える場合は、プロンプトにグランジ/ヴィンテージスタイルを追加するか、ポストプロセスで古い映画の外観に合わせてください。  \nSeedance 2でよりリズミカルなバーストフレームの結果を得るには、バーストごとに短いスニペットの長さを生成して、ペースを引き締めます。  \n---"
+    },
+    "ko": {
+      "content": "---\n버스트 프레임 기법을 사용하세요: 하나의 참조 이미지에서 시작하여 동일한 시각적 스타일로 많은 새로운 장면/장소/캐릭터를 생성한 다음, 이러한 출력물에서 주요 프레임을 추출하여 Seedance에서 새로운 비디오 장면을 만드세요.  \n출력물이 너무 깔끔해 보인다면, 프롬프트나 후처리에서 그룬지/빈티지 스타일링을 추가하여 오래된 영화 느낌에 맞추세요.  \nSeedance 2에서 더 리드미컬한 버스트 프레임 결과를 얻으려면, 버스트당 짧은 스니펫 길이를 생성하여 더 타이트한 페이싱을 얻으세요.  \n---"
+    },
+    "pt": {
+      "content": "Use a técnica de burst frame: comece a partir de uma única imagem de referência, gere muitas novas cenas/localizações/personagens no mesmo estilo visual, depois extraia quadros-chave desses resultados para construir novas cenas de vídeo no Seedance.  \nSe seus resultados parecerem muito limpos, adicione um estilo grunge/vintage no prompt ou pós-processe para combinar com a aparência de um filme antigo.  \nPara resultados de burst-frame mais rítmicos no Seedance 2, gere comprimentos de trechos mais curtos por burst para obter um ritmo mais apertado."
+    },
+    "zh": {
+      "content": "使用爆发帧技术：从单个参考图像开始，生成许多具有相同视觉风格的新场景/位置/角色，然后从这些输出中提取关键帧，以在Seedance中构建新的视频场景。  \n如果你的输出看起来太干净，可以在prompt中添加污迹/复古风格，或在后期处理中调整，以匹配旧电影的外观。  \n为了在Seedance 2中获得更有节奏感的爆发帧效果，每次爆发生成较短的片段长度，以获得更紧凑的节奏。"
+    }
+  }
+}

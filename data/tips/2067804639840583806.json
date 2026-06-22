@@ -1,0 +1,44 @@
+{
+  "id": "2067804639840583806",
+  "title": "歌詞をグリーンバックにした画像をGPT Image 2で作成してSeedanceの素材にする",
+  "content": "歌詞をグリーンバックにした画像をGPT Image 2で作成してSeedanceの素材にする  \nSeedanceの開始フレーム用に単色グリーンの画像を別途用意する  \n歌詞グリーンバック画像と単色グリーン開始フレームを使ってSeedanceで歌詞アニメーションを生成する  \n生成した動画をクロマキー処理して背景と合成し、After Effectsなしでリリックモーションを作る",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2067800881350000640/pu/img/DgNNsC2ZLh46sTVF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067804639840583806.mp4",
+  "sourceLink": "https://x.com/yachimat_manga/status/2067804639840583806",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "yachimat - AI Short Anime",
+    "link": "https://x.com/yachimat_manga"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "VFX",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "歌詞をグリーンバックにした画像をGPT Image 2で作成してSeedanceの素材にする  \nSeedanceの開始フレーム用に単色グリーンの画像を別途用意する  \n歌詞グリーンバック画像と単色グリーン開始フレームを使ってSeedanceで歌詞アニメーションを生成する  \n生成した動画をクロマキー処理して背景と合成し、After Effectsなしでリリックモーションを作る",
+  "translations": {
+    "en": {
+      "content": "Create an image with lyrics on a green screen using GPT Image 2 to use as material for Seedance.  \nPrepare a separate solid green image for the starting frame of Seedance.  \nGenerate a lyrics animation in Seedance using the lyrics green screen image and the solid green starting frame.  \nProcess the generated video with chroma key to combine it with the background and create lyric motion without using After Effects.\n\n--- THREAD CONTINUATION ---\n[Thread 1] There's a tutorial video on how to do this in the latter part, so check it out 😁"
+    },
+    "es": {
+      "content": "---\nCrear una imagen con la letra de la canción sobre un fondo verde usando GPT Image 2 para utilizarla como material en Seedance  \nPreparar por separado una imagen de color verde sólido para el fotograma de inicio de Seedance  \nGenerar una animación de la letra en Seedance utilizando la imagen de la letra con fondo verde y el fotograma de inicio de color verde sólido  \nProcesar el video generado con croma key para combinarlo con el fondo y crear un motion de la letra sin usar After Effects\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Hay un video de cómo hacerlo en la segunda mitad, así que échale un vistazo😁\n---"
+    },
+    "fr": {
+      "content": "---\nCréer une image avec les paroles sur fond vert à l'aide de GPT Image 2 pour l'utiliser comme matériel dans Seedance  \nPréparer une image de couleur verte unie pour le cadre de départ de Seedance  \nUtiliser l'image des paroles sur fond vert et le cadre de départ vert uni pour générer une animation des paroles dans Seedance  \nTraiter la vidéo générée avec le chroma key et la combiner avec un arrière-plan pour créer un mouvement lyrique sans After Effects\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Il y a une vidéo explicative sur la façon de faire dans la deuxième partie, alors n'hésitez pas à la vérifier 😁\n---"
+    },
+    "ko": {
+      "content": "---\n노래 가사를 그린백 이미지로 GPT Image 2에서 생성하여 Seedance의 소재로 사용  \nSeedance의 시작 프레임용으로 단색 그린 이미지를 별도로 준비  \n노래 가사 그린백 이미지와 단색 그린 시작 프레임을 사용하여 Seedance에서 가사 애니메이션 생성  \n생성된 영상을 크로마키 처리하여 배경과 합성하고, After Effects 없이 리릭 모션을 제작\n\n--- THREAD CONTINUATION ---\n[Thread 1] 후반에 제작 방법 영상이 있으니 확인해 보세요😁\n---"
+    },
+    "pt": {
+      "content": "---\nCriar uma imagem com letras em fundo verde usando o GPT Image 2 para usar como material no Seedance  \nPreparar uma imagem de cor verde sólida separadamente para o quadro inicial do Seedance  \nUsar a imagem com letras em fundo verde e o quadro inicial verde sólido para gerar animação de letras no Seedance  \nProcessar o vídeo gerado com chroma key e combinar com o fundo para criar motion de letras sem usar After Effects\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Há um vídeo de como fazer na segunda metade, então dê uma olhada 😁\n---"
+    },
+    "zh": {
+      "content": "---\n使用GPT Image 2制作带有歌词绿幕的图像，作为Seedance的素材  \n为Seedance的开始帧单独准备一个纯绿色图像  \n使用歌词绿幕图像和纯绿色开始帧在Seedance中生成歌词动画  \n对生成的视频进行抠像处理，与背景合成，在不使用After Effects的情况下制作歌词动画\n\n--- THREAD CONTINUATION ---\n[Thread 1] 后半部分有制作方法的视频，请查看😁\n---"
+    }
+  }
+}

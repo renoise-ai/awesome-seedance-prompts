@@ -1,0 +1,41 @@
+{
+  "id": "2068411861163221144",
+  "title": "Use the Midjourney V8.1 style reference parameter --sref 949907162 to get a…",
+  "content": "Use the Midjourney V8.1 style reference parameter --sref 949907162 to get a modern Western TV animation look (clean linework, simple cel shading) for character-focused Seedance 2.0/AI video workflows.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2068411861163221144",
+  "sourcePublishedAt": "2026-06-20",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the Midjourney V8.1 style reference parameter --sref 949907162 to get a modern Western TV animation look (clean linework, simple cel shading) for character-focused Seedance 2.0/AI video workflows.",
+  "translations": {
+    "es": {
+      "content": "Usa el parámetro de referencia de estilo Midjourney V8.1 --sref 949907162 para obtener un aspecto de animación de TV occidental moderna (líneas limpias, sombreado simple tipo cel) para flujos de trabajo de video Seedance 2.0/AI enfocados en personajes."
+    },
+    "fr": {
+      "content": "Utilisez le paramètre de référence de style Midjourney V8.1 --sref 949907162 pour obtenir un look d'animation télévisée occidentale moderne (traits de contour nets, ombrage simple en celluloïd) pour les flux de travail vidéo Seedance 2.0/IA axés sur les personnages."
+    },
+    "ja": {
+      "content": "Midjourney V8.1のスタイル参照パラメータ --sref 949907162 を使用して、キャラクターに焦点を当てたSeedance 2.0/AIビデオワークフローのために、現代の西洋TVアニメーションの外観（クリーンな線画、シンプルなセルシェーディング）を得ることができます。"
+    },
+    "ko": {
+      "content": "Midjourney V8.1 스타일 참조 매개변수 --sref 949907162를 사용하여 현대적인 서양 TV 애니메이션 느낌(깨끗한 선 작업, 간단한 셀 셰이딩)을 캐릭터 중심의 Seedance 2.0/AI 비디오 워크플로우에 적용하세요."
+    },
+    "pt": {
+      "content": "Use o parâmetro de referência de estilo Midjourney V8.1 --sref 949907162 para obter um visual de animação de TV ocidental moderna (traços limpos, sombreamento cel simples) para fluxos de trabalho de vídeo focados em personagens no Seedance 2.0/IA."
+    },
+    "zh": {
+      "content": "使用 Midjourney V8.1 风格参考参数 --sref 949907162，以获得现代西方电视动画风格（干净的线条，简单的平面着色），适用于以角色为中心的 Seedance 2.0/AI 视频工作流程。"
+    }
+  }
+}

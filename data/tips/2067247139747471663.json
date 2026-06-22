@@ -1,0 +1,43 @@
+{
+  "id": "2067247139747471663",
+  "title": "Start from a single image, expand it into a detailed storyboard, then convert…",
+  "content": "Start from a single image, expand it into a detailed storyboard, then convert each storyboard beat into strong Seedance 2.0 prompts for generating the video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067020997602226176/img/nuv8ii4yaX0d5kp6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067247139747471663.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2067247139747471663",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Start from a single image, expand it into a detailed storyboard, then convert each storyboard beat into strong Seedance 2.0 prompts for generating the video.",
+  "translations": {
+    "es": {
+      "content": "Comienza con una sola imagen, expándela en un guion gráfico detallado, luego convierte cada escena del guion gráfico en potentes prompts de Seedance 2.0 para generar el video."
+    },
+    "fr": {
+      "content": "Commencez à partir d'une seule image, développez-la en un storyboard détaillé, puis convertissez chaque étape du storyboard en prompts Seedance 2.0 puissants pour générer la vidéo."
+    },
+    "ja": {
+      "content": "---\n単一の画像から始めて、それを詳細なストーリーボードに展開し、各ストーリーボードのビートを強力なSeedance 2.0プロンプトに変換してビデオを生成します。"
+    },
+    "ko": {
+      "content": "단일 이미지에서 시작하여 이를 상세한 스토리보드로 확장한 다음, 각 스토리보드 비트를 강력한 Seedance 2.0 프롬프트로 변환하여 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Comece com uma única imagem, expanda-a em um storyboard detalhado e, em seguida, converta cada cena do storyboard em prompts fortes do Seedance 2.0 para gerar o vídeo."
+    },
+    "zh": {
+      "content": "从单一图像开始，将其扩展为详细的分镜，然后将每个分镜节拍转换为强大的Seedance 2.0 prompts，用于生成视频。"
+    }
+  }
+}

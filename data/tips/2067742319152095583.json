@@ -1,0 +1,43 @@
+{
+  "id": "2067742319152095583",
+  "title": "Sketch a simple line drawing of the desired camera/drone path (e.g., circling…",
+  "content": "Sketch a simple line drawing of the desired camera/drone path (e.g., circling key landmarks) and use it as a guidance input in Seedance to influence camera movement for more cinematic motion.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067738881781579776/img/ZVuL64n00jZ2y9nT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067742319152095583.mp4",
+  "sourceLink": "https://x.com/CuriousRefuge/status/2067742319152095583",
+  "sourcePublishedAt": "2026-06-18",
+  "author": {
+    "name": "Curious Refuge",
+    "link": "https://x.com/CuriousRefuge"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Landmark",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Sketch a simple line drawing of the desired camera/drone path (e.g., circling key landmarks) and use it as a guidance input in Seedance to influence camera movement for more cinematic motion.",
+  "translations": {
+    "es": {
+      "content": "Dibuja un boceto simple de la trayectoria deseada de la cámara/dron (por ejemplo, rodeando puntos de referencia clave) y utilízalo como entrada de guía en Seedance para influir en el movimiento de la cámara y lograr un movimiento más cinematográfico."
+    },
+    "fr": {
+      "content": "Dessinez un croquis simple du trajet souhaité de la caméra/drone (par exemple, encerclant des points de repère clés) et utilisez-le comme entrée de guidage dans Seedance pour influencer le mouvement de la caméra et obtenir un mouvement plus cinématographique."
+    },
+    "ja": {
+      "content": "カメラやドローンの望ましい経路を示す簡単な線画をスケッチし（例：主要なランドマークを回る）、それをSeedanceのガイダンス入力として使用して、よりシネマティックな動きをカメラに影響させます。"
+    },
+    "ko": {
+      "content": "원하는 카메라/드론 경로의 간단한 선 그림을 스케치하고 (예: 주요 랜드마크를 도는 경로), 이를 Seedance에서 카메라 움직임에 영향을 주어 보다 영화적인 움직임을 만들기 위한 가이드 입력으로 사용하세요."
+    },
+    "pt": {
+      "content": "Desenhe um esboço simples do trajeto desejado da câmera/drone (por exemplo, circulando pontos de referência importantes) e use-o como um input de orientação no Seedance para influenciar o movimento da câmera e obter um movimento mais cinematográfico."
+    },
+    "zh": {
+      "content": "绘制一幅简单的线条图，表示所需的摄像机/无人机路径（例如，围绕关键地标旋转），并将其用作Seedance中的指导输入，以影响摄像机运动，实现更具电影感的运动。"
+    }
+  }
+}

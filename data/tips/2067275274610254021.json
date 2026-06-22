@@ -1,0 +1,41 @@
+{
+  "id": "2067275274610254021",
+  "title": "Use a Midjourney style reference with --raw --sref 1151865433 to lock in a…",
+  "content": "Use a Midjourney style reference with --raw --sref 1151865433 to lock in a steampunk zeppelin look before generating in Seedance 2.0  \nStructure Seedance prompts as a timed shot list (e.g., 0–2s, 2–4s, etc.) with explicit camera directions (wide aerial, tracking shot, fly-through) to control pacing and edits  \nSpecify Multiple cuts and Dynamic editing in the Seedance prompt to force montage-style sequencing and faster transitions  \nInclude a dedicated Style block with concrete art direction (steampunk fantasy, hand-drawn concept art, warm sunlight above clouds, detailed mechanical animation, dynamic camera work) to steer visual consistency  \nAdd a Sound design block listing specific SFX and music cues (wind rigging, creaking wood, propeller hum, orchestral build) to guide audio generation  \nUse a negative prompt that explicitly bans unwanted elements (no photorealism, no sci‑fi spacecraft, no text/subtitles, no extra vehicles, no AI artifacts, no distorted perspective) to reduce off-style outputs",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2067275274610254021",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Hand-drawn",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Use a Midjourney style reference with --raw --sref 1151865433 to lock in a steampunk zeppelin look before generating in Seedance 2.0  \nStructure Seedance prompts as a timed shot list (e.g., 0–2s, 2–4s, etc.) with explicit camera directions (wide aerial, tracking shot, fly-through) to control pacing and edits  \nSpecify Multiple cuts and Dynamic editing in the Seedance prompt to force montage-style sequencing and faster transitions  \nInclude a dedicated Style block with concrete art direction (steampunk fantasy, hand-drawn concept art, warm sunlight above clouds, detailed mechanical animation, dynamic camera work) to steer visual consistency  \nAdd a Sound design block listing specific SFX and music cues (wind rigging, creaking wood, propeller hum, orchestral build) to guide audio generation  \nUse a negative prompt that explicitly bans unwanted elements (no photorealism, no sci‑fi spacecraft, no text/subtitles, no extra vehicles, no AI artifacts, no distorted perspective) to reduce off-style outputs",
+  "translations": {
+    "es": {
+      "content": "Utiliza una referencia de estilo Midjourney con --raw --sref 1151865433 para asegurar un aspecto de zepelín steampunk antes de generar en Seedance 2.0  \nEstructura los prompts de Seedance como una lista de tomas cronometradas (por ejemplo, 0–2s, 2–4s, etc.) con direcciones de cámara explícitas (aérea amplia, toma de seguimiento, fly-through) para controlar el ritmo y las ediciones  \nEspecifica múltiples cortes y edición dinámica en el prompt de Seedance para forzar una secuenciación estilo montaje y transiciones más rápidas  \nIncluye un bloque de Estilo dedicado con dirección artística concreta (fantasía steampunk, arte conceptual dibujado a mano, luz cálida del sol sobre las nubes, animación mecánica detallada, trabajo de cámara dinámico) para dirigir la consistencia visual  \nAñade un bloque de Diseño de sonido que liste efectos de sonido específicos y señales musicales (viento en el aparejo, madera crujiente, zumbido de hélice, construcción orquestal) para guiar la generación de audio  \nUsa un prompt negativo que prohíba explícitamente elementos no deseados (sin fotorealismo, sin naves espaciales de ciencia ficción, sin texto/subtítulos, sin vehículos extra, sin artefactos de IA, sin perspectiva distorsionada) para reducir salidas fuera de estilo"
+    },
+    "fr": {
+      "content": "Utilisez une référence de style Midjourney avec --raw --sref 1151865433 pour verrouiller un look de zeppelin steampunk avant de générer dans Seedance 2.0  \nStructurez les prompts Seedance comme une liste de plans chronométrés (par exemple, 0–2s, 2–4s, etc.) avec des directions de caméra explicites (vue aérienne large, travelling, passage à travers) pour contrôler le rythme et le montage  \nSpécifiez plusieurs coupes et un montage dynamique dans le prompt Seedance pour forcer un séquençage de style montage et des transitions plus rapides  \nIncluez un bloc de Style dédié avec une direction artistique concrète (fantaisie steampunk, concept art dessiné à la main, lumière chaude du soleil au-dessus des nuages, animation mécanique détaillée, travail de caméra dynamique) pour orienter la cohérence visuelle  \nAjoutez un bloc de Conception sonore listant des effets sonores et des indices musicaux spécifiques (vent dans le gréement, bois qui grince, bourdonnement d'hélice, montée orchestrale) pour guider la génération audio  \nUtilisez un prompt négatif qui interdit explicitement les éléments indésirables (pas de photoréalisme, pas de vaisseaux spatiaux de science-fiction, pas de texte/sous-titres, pas de véhicules supplémentaires, pas d'artefacts IA, pas de perspective déformée) pour réduire les sorties hors style"
+    },
+    "ja": {
+      "content": "---\nMidjourneyスタイルの参照を使用し、--raw --sref 1151865433を指定して、Seedance 2.0で生成する前にスチームパンクの飛行船の外観を固定します。  \nSeedanceのプロンプトは、タイムショットリスト（例：0–2秒、2–4秒など）として構成し、ペースと編集を制御するために明確なカメラ指示（ワイドエアリアル、トラッキングショット、フライスルー）を含めます。  \nSeedanceプロンプトで複数のカットとダイナミックな編集を指定し、モンタージュスタイルのシーケンシングと高速なトランジションを強制します。  \n視覚的一貫性を導くために、具体的なアートディレクション（スチームパンクファンタジー、手描きのコンセプトアート、雲の上の暖かい日差し、詳細な機械アニメーション、ダイナミックなカメラワーク）を含む専用のスタイルブロックを追加します。  \nオーディオ生成をガイドするために、特定のSFXと音楽キュー（風のリギング、きしむ木材、プロペラのハム、オーケストラのビルド）をリストしたサウンドデザインブロックを追加します。  \nオフスタイルの出力を減らすために、不要な要素を明示的に禁止するネガティブプロンプトを使用します（フォトリアリズムなし、SF宇宙船なし、テキスト/字幕なし、余分な車両なし、AIアーティファクトなし、歪んだ視点なし）。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 생성하기 전에 스팀펑크 비행선 외형을 고정하기 위해 --raw --sref 1151865433을 사용하여 Midjourney 스타일 참조를 사용하세요.  \nSeedance 프롬프트를 시간별 촬영 목록(예: 0–2초, 2–4초 등)으로 구조화하고 명확한 카메라 지시(와이드 항공, 트래킹 샷, 플라이 스루)를 포함하여 페이싱과 편집을 제어하세요.  \nSeedance 프롬프트에서 다중 컷과 동적 편집을 지정하여 몽타주 스타일의 시퀀싱과 빠른 전환을 강제하세요.  \n시각적 일관성을 유도하기 위해 구체적인 아트 디렉션(스팀펑크 판타지, 손으로 그린 컨셉 아트, 구름 위의 따뜻한 햇빛, 세밀한 기계 애니메이션, 동적 카메라 작업)을 포함한 전용 스타일 블록을 추가하세요.  \n오디오 생성을 안내하기 위해 특정 SFX 및 음악 큐(바람 장비, 삐걱거리는 나무, 프로펠러 소리, 오케스트라 빌드)를 나열한 사운드 디자인 블록을 추가하세요.  \n부정적 프롬프트를 사용하여 원하지 않는 요소를 명시적으로 금지하세요(포토리얼리즘 없음, 공상과학 우주선 없음, 텍스트/자막 없음, 추가 차량 없음, AI 아티팩트 없음, 왜곡된 관점 없음) 스타일에서 벗어난 출력을 줄이기 위해."
+    },
+    "pt": {
+      "content": "Use uma referência de estilo Midjourney com --raw --sref 1151865433 para fixar uma aparência de zepelim steampunk antes de gerar no Seedance 2.0  \nEstruture os prompts do Seedance como uma lista de tomadas cronometradas (por exemplo, 0–2s, 2–4s, etc.) com direções de câmera explícitas (aérea ampla, tomada de rastreamento, fly-through) para controlar o ritmo e as edições  \nEspecifique Múltiplos cortes e Edição dinâmica no prompt do Seedance para forçar uma sequência em estilo de montagem e transições mais rápidas  \nInclua um bloco de Estilo dedicado com direção de arte concreta (fantasia steampunk, arte conceitual desenhada à mão, luz do sol quente acima das nuvens, animação mecânica detalhada, trabalho de câmera dinâmico) para direcionar a consistência visual  \nAdicione um bloco de Design de som listando SFX específicos e sugestões de música (vento nas cordas, madeira rangendo, zumbido de hélice, construção orquestral) para guiar a geração de áudio  \nUse um prompt negativo que proíba explicitamente elementos indesejados (sem fotorrealismo, sem espaçonaves de ficção científica, sem texto/legendas, sem veículos extras, sem artefatos de IA, sem perspectiva distorcida) para reduzir saídas fora de estilo"
+    },
+    "zh": {
+      "content": "使用Midjourney风格参考，添加--raw --sref 1151865433，以在Seedance 2.0中生成之前锁定蒸汽朋克飞艇外观。  \n将Seedance提示结构化为定时镜头列表（例如，0–2秒，2–4秒等），并包含明确的摄像机指示（广角航拍、跟踪镜头、飞越镜头）以控制节奏和剪辑。  \n在Seedance提示中指定多次剪辑和动态编辑，以强制蒙太奇风格的序列和更快的过渡。  \n包括一个专门的风格块，提供具体的艺术指导（蒸汽朋克幻想、手绘概念艺术、云上温暖的阳光、详细的机械动画、动态摄像机工作）以引导视觉一致性。  \n添加一个声音设计块，列出特定的音效和音乐提示（风声索具、吱吱作响的木头、螺旋桨嗡嗡声、管弦乐构建）以指导音频生成。  \n使用一个负面提示，明确禁止不需要的元素（无写实主义、无科幻飞船、无文本/字幕、无额外车辆、无AI伪影、无扭曲透视）以减少风格偏离的输出。"
+    }
+  }
+}

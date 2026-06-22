@@ -1,0 +1,44 @@
+{
+  "id": "2068043468287468000",
+  "title": "Vezměte původní prompt, nahrajte fotografie svého města a požádejte AI, aby…",
+  "content": "Vezměte původní prompt, nahrajte fotografie svého města a požádejte AI, aby prompt přepsala podle přiložených fotek.  \nV generátoru podporujícím Seedance přiložte referenční fotografie + nově upravený prompt a spusťte generování.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/lukasersil/status/2068043468287468000",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "Lukáš Eršil",
+    "link": "https://x.com/lukasersil"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Vezměte původní prompt, nahrajte fotografie svého města a požádejte AI, aby prompt přepsala podle přiložených fotek.  \nV generátoru podporujícím Seedance přiložte referenční fotografie + nově upravený prompt a spusťte generování.",
+  "translations": {
+    "en": {
+      "content": "Take the original prompt, upload photos of your city, and ask the AI to rewrite the prompt based on the attached photos.  \nIn a generator supporting Seedance, attach the reference photos + the newly adjusted prompt and start the generation."
+    },
+    "es": {
+      "content": "Tome el prompt original, cargue fotografías de su ciudad y pida a la IA que reescriba el prompt según las fotos adjuntas.  \nEn el generador que admite Seedance, adjunte las fotografías de referencia + el prompt recién ajustado y comience la generación."
+    },
+    "fr": {
+      "content": "Prenez le prompt original, téléchargez des photos de votre ville et demandez à l'IA de réécrire le prompt selon les photos jointes.  \nDans un générateur prenant en charge Seedance, joignez les photos de référence + le prompt nouvellement modifié et lancez la génération."
+    },
+    "ja": {
+      "content": "元のプロンプトを取り、あなたの街の写真をアップロードし、AIに添付された写真に基づいてプロンプトを書き直すよう依頼してください。  \nSeedanceをサポートするジェネレーターに参照写真と新しく調整されたプロンプトを添付し、生成を開始します。"
+    },
+    "ko": {
+      "content": "원래의 prompt를 가져와서, 당신의 도시 사진을 업로드하고 AI에게 첨부된 사진에 따라 prompt를 다시 작성하도록 요청하세요.  \nSeedance를 지원하는 생성기에서 참조 사진 + 새로 수정된 prompt를 첨부하고 생성을 시작하세요."
+    },
+    "pt": {
+      "content": "Pegue o prompt original, carregue fotos da sua cidade e peça à IA para reescrever o prompt de acordo com as fotos anexadas.  \nNo gerador que suporta Seedance, anexe as fotos de referência + o prompt recém-ajustado e inicie a geração."
+    },
+    "zh": {
+      "content": "请将原始prompt上传，并上传您所在城市的照片，要求AI根据附加的照片重写prompt。  \n在支持Seedance的生成器中附上参考照片和新调整的prompt，然后开始生成。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2067226320166146161",
+  "title": "Create a character reference sheet (face, outfit, hairstyle, body shape…",
+  "content": "Create a character reference sheet (face, outfit, hairstyle, body shape, expression style) and feed it into Seedance to keep the dancer consistent across the video.  \nMake a 16-panel storyboard/choreography board before generation and send it into Seedance to guide motion and avoid random dancing.  \nUse a 3-step workflow: build character sheet → build storyboard → upload both into Seedance for generation.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/MrLarus/status/2067226320166146161",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a character reference sheet (face, outfit, hairstyle, body shape, expression style) and feed it into Seedance to keep the dancer consistent across the video.  \nMake a 16-panel storyboard/choreography board before generation and send it into Seedance to guide motion and avoid random dancing.  \nUse a 3-step workflow: build character sheet → build storyboard → upload both into Seedance for generation.",
+  "translations": {
+    "es": {
+      "content": "Crea una hoja de referencia de personaje (rostro, atuendo, peinado, forma del cuerpo, estilo de expresión) e introdúcela en Seedance para mantener la consistencia del bailarín a lo largo del video.  \nHaz un storyboard/tablero de coreografía de 16 paneles antes de la generación y envíalo a Seedance para guiar el movimiento y evitar bailes aleatorios.  \nUsa un flujo de trabajo de 3 pasos: construir hoja de personaje → construir storyboard → subir ambos a Seedance para la generación."
+    },
+    "fr": {
+      "content": "Créez une fiche de référence de personnage (visage, tenue, coiffure, morphologie, style d'expression) et intégrez-la dans Seedance pour maintenir la cohérence du danseur tout au long de la vidéo.  \nRéalisez un storyboard/choreography board de 16 panneaux avant la génération et envoyez-le dans Seedance pour guider le mouvement et éviter les danses aléatoires.  \nUtilisez un flux de travail en 3 étapes : créer la fiche de personnage → créer le storyboard → télécharger les deux dans Seedance pour la génération."
+    },
+    "ja": {
+      "content": "---\nキャラクターのリファレンスシート（顔、衣装、ヘアスタイル、体型、表情スタイル）を作成し、Seedanceに入力してビデオ全体でダンサーの一貫性を保ちます。  \n生成前に16パネルのストーリーボード/振付ボードを作成し、Seedanceに送信して動きをガイドし、ランダムなダンスを避けます。  \n3ステップのワークフローを使用します：キャラクターシートを作成 → ストーリーボードを作成 → 両方をSeedanceにアップロードして生成します。  \n---"
+    },
+    "ko": {
+      "content": "---\n캐릭터 참조 시트(얼굴, 의상, 헤어스타일, 체형, 표현 스타일)를 만들어 Seedance에 입력하여 비디오 전반에 걸쳐 댄서의 일관성을 유지하세요.  \n생성 전에 16패널 스토리보드/안무 보드를 만들어 Seedance에 보내 움직임을 안내하고 무작위 춤을 피하세요.  \n3단계 워크플로를 사용하세요: 캐릭터 시트 작성 → 스토리보드 작성 → 둘 다 Seedance에 업로드하여 생성.  \n---"
+    },
+    "pt": {
+      "content": "Crie uma folha de referência de personagem (rosto, roupa, penteado, forma do corpo, estilo de expressão) e insira no Seedance para manter a consistência do dançarino ao longo do vídeo.  \nFaça um storyboard/quadro de coreografia de 16 painéis antes da geração e envie para o Seedance para guiar o movimento e evitar danças aleatórias.  \nUse um fluxo de trabalho em 3 etapas: construir folha de personagem → construir storyboard → enviar ambos para o Seedance para geração."
+    },
+    "zh": {
+      "content": "创建一个角色参考表（面部、服装、发型、身体形状、表情风格），并将其输入Seedance，以保持舞者在视频中的一致性。  \n在生成之前制作一个16面板的分镜/编舞板，并将其发送到Seedance，以指导动作并避免随机舞蹈。  \n使用三步工作流程：构建角色表 → 构建分镜板 → 将两者上传到Seedance进行生成。"
+    }
+  }
+}

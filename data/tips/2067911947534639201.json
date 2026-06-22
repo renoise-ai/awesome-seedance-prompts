@@ -1,0 +1,42 @@
+{
+  "id": "2067911947534639201",
+  "title": "Seedance2.0で15sのサッカー関連CM案を出すときは、参照画像（1〜6枚）をそのまま動かす目的ではなくキャラクター資料としてだけ使い、架空のCMアイデ…",
+  "content": "Seedance2.0で15sのサッカー関連CM案を出すときは、参照画像（1〜6枚）をそのまま動かす目的ではなくキャラクター資料としてだけ使い、架空のCMアイデアをランダム生成する内容のプロンプトにする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067906533741182976/img/iqVVbqbQlrvEy0Nk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067911947534639201.mp4",
+  "sourceLink": "https://x.com/sailorv321/status/2067911947534639201",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "C’est La Vie | AI Director",
+    "link": "https://x.com/sailorv321"
+  },
+  "tags": [
+    "Sports",
+    "Football",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.0で15sのサッカー関連CM案を出すときは、参照画像（1〜6枚）をそのまま動かす目的ではなくキャラクター資料としてだけ使い、架空のCMアイデアをランダム生成する内容のプロンプトにする",
+  "translations": {
+    "en": {
+      "content": "When proposing a 15-second soccer-related commercial idea with Seedance2.0, use reference images (1 to 6) solely as character material, not for animating them directly, and create a prompt that randomly generates a fictional commercial idea."
+    },
+    "es": {
+      "content": "Cuando uses Seedance2.0 para generar una propuesta de un comercial de 15 segundos relacionado con el fútbol, utiliza las imágenes de referencia (de 1 a 6) solo como material de personajes y no con el propósito de moverlas tal cual. El objetivo es crear un prompt que genere aleatoriamente una idea de un comercial ficticio."
+    },
+    "fr": {
+      "content": "Lors de la création d'une proposition de spot publicitaire de 15 secondes sur le thème du football avec Seedance2.0, utilisez les images de référence (1 à 6) uniquement comme matériel de personnage et non pour les animer directement. Le but est de générer aléatoirement une idée de publicité fictive avec le prompt."
+    },
+    "ko": {
+      "content": "---\nSeedance2.0에서 15초짜리 축구 관련 광고 아이디어를 제안할 때는, 참조 이미지(1~6장)를 그대로 움직이는 목적이 아니라 캐릭터 자료로만 사용하고, 가상의 광고 아이디어를 무작위로 생성하는 내용의 prompt로 설정하세요.\n---"
+    },
+    "pt": {
+      "content": "Ao usar o Seedance2.0 para criar uma proposta de comercial de 15 segundos relacionado ao futebol, utilize as imagens de referência (1 a 6) apenas como material de referência para personagens, e não com o objetivo de animá-las diretamente. O foco deve ser em criar um prompt que gere aleatoriamente ideias de comerciais fictícios."
+    },
+    "zh": {
+      "content": "---\n在使用Seedance2.0提出15秒的足球相关广告创意时，参照图像（1〜6张）仅作为角色资料使用，而不是直接移动图像，生成一个随机的虚构广告创意的prompt。"
+    }
+  }
+}

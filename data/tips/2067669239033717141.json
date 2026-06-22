@@ -1,0 +1,43 @@
+{
+  "id": "2067669239033717141",
+  "title": "Use a ComfyUI pipeline of Motion Tracking → Depth Mapping → AI Edit (Seedance…",
+  "content": "Use a ComfyUI pipeline of Motion Tracking → Depth Mapping → AI Edit (Seedance 2) → AI Relighting → Background Reconstruction → Cinematic Color Grading to rebuild a live performance with intentional control instead of “generate and hope.”  \nUse the performer’s actual motion-tracking data as conditioning to drive frame-by-frame changes to background mood, lighting, and spatial depth in Seedance 2.  \nGenerate/derive depth maps and use them to guide spatial depth and background reconstruction when editing footage with Seedance 2 inside ComfyUI.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067668188545040384/img/QWXlTfKuWwVAKXhv.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067669239033717141.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2067669239033717141",
+  "sourcePublishedAt": "2026-06-18",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use a ComfyUI pipeline of Motion Tracking → Depth Mapping → AI Edit (Seedance 2) → AI Relighting → Background Reconstruction → Cinematic Color Grading to rebuild a live performance with intentional control instead of “generate and hope.”  \nUse the performer’s actual motion-tracking data as conditioning to drive frame-by-frame changes to background mood, lighting, and spatial depth in Seedance 2.  \nGenerate/derive depth maps and use them to guide spatial depth and background reconstruction when editing footage with Seedance 2 inside ComfyUI.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una canalización de ComfyUI de Motion Tracking → Depth Mapping → AI Edit (Seedance 2) → AI Relighting → Background Reconstruction → Cinematic Color Grading para reconstruir una actuación en vivo con control intencional en lugar de \"generar y esperar\".  \nUsa los datos reales de seguimiento de movimiento del intérprete como condicionamiento para impulsar cambios cuadro por cuadro en el estado de ánimo del fondo, la iluminación y la profundidad espacial en Seedance 2.  \nGenera/deriva mapas de profundidad y úsalos para guiar la profundidad espacial y la reconstrucción del fondo al editar metraje con Seedance 2 dentro de ComfyUI.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Creadores IG: https://t.co/9F5NPGiis0"
+    },
+    "fr": {
+      "content": "Utilisez un pipeline ComfyUI de Suivi de Mouvement → Cartographie de Profondeur → Édition IA (Seedance 2) → Relighting IA → Reconstruction de l'Arrière-plan → Étalonnage Cinématographique pour reconstruire une performance en direct avec un contrôle intentionnel au lieu de « générer et espérer ».  \nUtilisez les données réelles de suivi de mouvement du performeur comme conditionnement pour piloter les changements image par image de l'ambiance de l'arrière-plan, de l'éclairage et de la profondeur spatiale dans Seedance 2.  \nGénérez/dérivez des cartes de profondeur et utilisez-les pour guider la profondeur spatiale et la reconstruction de l'arrière-plan lors de l'édition de séquences avec Seedance 2 dans ComfyUI.\n\n--- SUITE DU FIL ---\n[Fil 1] Créateurs IG : https://t.co/9F5NPGiis0"
+    },
+    "ja": {
+      "content": "---\nMotion Tracking → Depth Mapping → AI Edit (Seedance 2) → AI Relighting → Background Reconstruction → Cinematic Color GradingのComfyUIパイプラインを使用して、「生成して祈る」のではなく、意図的なコントロールでライブパフォーマンスを再構築します。  \nパフォーマーの実際のモーショントラッキングデータを条件として使用し、Seedance 2で背景のムード、照明、空間的深度をフレームごとに変化させます。  \n深度マップを生成/導出し、それを使用してComfyUI内でSeedance 2を使用して映像を編集する際の空間的深度と背景再構築をガイドします。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Creators IG: https://t.co/9F5NPGiis0\n---"
+    },
+    "ko": {
+      "content": "---\nMotion Tracking → Depth Mapping → AI Edit (Seedance 2) → AI Relighting → Background Reconstruction → Cinematic Color Grading의 ComfyUI 파이프라인을 사용하여 \"생성하고 기대하는\" 대신 의도적인 제어로 라이브 공연을 재구성하십시오.  \n공연자의 실제 모션 트래킹 데이터를 조건으로 사용하여 Seedance 2에서 프레임별로 배경 분위기, 조명 및 공간 깊이의 변화를 유도하십시오.  \n깊이 맵을 생성/파생하고 이를 사용하여 ComfyUI 내에서 Seedance 2로 영상을 편집할 때 공간 깊이 및 배경 재구성을 안내하십시오.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Creators IG: https://t.co/9F5NPGiis0\n---"
+    },
+    "pt": {
+      "content": "Use um pipeline ComfyUI de Motion Tracking → Depth Mapping → AI Edit (Seedance 2) → AI Relighting → Background Reconstruction → Cinematic Color Grading para reconstruir uma performance ao vivo com controle intencional em vez de \"gerar e torcer\".  \nUse os dados reais de motion tracking do performer como condicionamento para conduzir mudanças quadro a quadro no humor do fundo, iluminação e profundidade espacial no Seedance 2.  \nGere/derive mapas de profundidade e use-os para guiar a profundidade espacial e a reconstrução do fundo ao editar filmagens com Seedance 2 dentro do ComfyUI.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Criadores IG: https://t.co/9F5NPGiis0"
+    },
+    "zh": {
+      "content": "使用一个ComfyUI流程：Motion Tracking → Depth Mapping → AI Edit (Seedance 2) → AI Relighting → Background Reconstruction → Cinematic Color Grading，以有意图的控制重建现场表演，而不是“生成并希望”。  \n使用表演者的实际运动追踪数据作为条件，驱动Seedance 2中逐帧改变背景情绪、灯光和空间深度。  \n生成/导出深度图，并在ComfyUI中使用Seedance 2编辑素材时，利用它们指导空间深度和背景重建。\n\n--- 线程继续 ---\n[线程 1] 创作者 IG: https://t.co/9F5NPGiis0"
+    }
+  }
+}

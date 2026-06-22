@@ -1,0 +1,43 @@
+{
+  "id": "2067135906163589517",
+  "title": "Start with an image, convert it into a storyboard using custom instructions…",
+  "content": "Start with an image, convert it into a storyboard using custom instructions, then turn the storyboard into detailed Seedance 2.0 prompts to generate more consistent cinematic videos.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067020431866097664/img/eXhC1Ia-xXFDbc9u.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067135906163589517.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2067135906163589517",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Start with an image, convert it into a storyboard using custom instructions, then turn the storyboard into detailed Seedance 2.0 prompts to generate more consistent cinematic videos.",
+  "translations": {
+    "es": {
+      "content": "Comienza con una imagen, conviértela en un guion gráfico usando instrucciones personalizadas, luego transforma el guion gráfico en prompts detallados de Seedance 2.0 para generar videos cinematográficos más consistentes."
+    },
+    "fr": {
+      "content": "Commencez par une image, transformez-la en storyboard à l'aide d'instructions personnalisées, puis convertissez le storyboard en prompts Seedance 2.0 détaillés pour générer des vidéos cinématographiques plus cohérentes."
+    },
+    "ja": {
+      "content": "---\n画像から始めて、それをカスタム指示を使ってストーリーボードに変換し、そのストーリーボードを詳細なSeedance 2.0のプロンプトに変えて、より一貫したシネマティックなビデオを生成します。"
+    },
+    "ko": {
+      "content": "이미지를 시작으로, 사용자 지정 지침을 사용하여 스토리보드로 변환한 후, 스토리보드를 자세한 Seedance 2.0 프롬프트로 전환하여 더 일관된 시네마틱 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Comece com uma imagem, converta-a em um storyboard usando instruções personalizadas, depois transforme o storyboard em prompts detalhados do Seedance 2.0 para gerar vídeos cinematográficos mais consistentes."
+    },
+    "zh": {
+      "content": "从一张图像开始，使用自定义指令将其转换为分镜，然后将分镜转化为详细的Seedance 2.0 prompts，以生成更一致的电影级视频。"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2068584257946337384",
+  "title": "Dùng hiệu ứng thị sai (parallax effect) trong Seedance 2.0 để tạo cảm giác…",
+  "content": "Dùng hiệu ứng thị sai (parallax effect) trong Seedance 2.0 để tạo cảm giác chiều sâu cho khung hình và làm cảnh bớt phẳng như ảnh 2D",
+  "language": "vi",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2068584040975011841/img/XoYS8VNVrVl7MTLa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068584257946337384.mp4",
+  "sourceLink": "https://x.com/shuigvn/status/2068584257946337384",
+  "sourcePublishedAt": "2026-06-21",
+  "author": {
+    "name": "DUC",
+    "link": "https://x.com/shuigvn"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Micro",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Dùng hiệu ứng thị sai (parallax effect) trong Seedance 2.0 để tạo cảm giác chiều sâu cho khung hình và làm cảnh bớt phẳng như ảnh 2D",
+  "translations": {
+    "en": {
+      "content": "Use the parallax effect in Seedance 2.0 to create a sense of depth in the frame and make the scene less flat like a 2D image."
+    },
+    "es": {
+      "content": "Utiliza el efecto de paralaje (parallax effect) en Seedance 2.0 para crear una sensación de profundidad en el encuadre y hacer que la escena sea menos plana como una imagen 2D."
+    },
+    "fr": {
+      "content": "Utilisez l'effet de parallaxe (parallax effect) dans Seedance 2.0 pour créer une sensation de profondeur dans le cadre et rendre la scène moins plate comme une image 2D."
+    },
+    "ja": {
+      "content": "Seedance 2.0で視差効果（parallax effect）を使用して、フレームに奥行き感を与え、シーンを2D画像のように平坦にしないようにします。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 시차 효과(parallax effect)를 사용하여 화면에 깊이감을 주고 장면이 2D 이미지처럼 평면적이지 않게 만드세요."
+    },
+    "pt": {
+      "content": "Use o efeito de paralaxe (parallax effect) no Seedance 2.0 para criar uma sensação de profundidade no quadro e fazer a cena parecer menos plana como uma imagem 2D."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用视差效果（parallax effect）为画面营造深度感，使场景不再像2D图像那样平面。"
+    }
+  }
+}

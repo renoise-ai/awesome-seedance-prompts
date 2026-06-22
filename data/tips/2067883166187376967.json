@@ -1,0 +1,44 @@
+{
+  "id": "2067883166187376967",
+  "title": "Feed an action video you like to Claude/ChatGPT and ask it to break down the…",
+  "content": "Feed an action video you like to Claude/ChatGPT and ask it to break down the choreography into character actions and camera movements to use as a base plan.  \nPrompt Seedance to generate the action scene as one continuous shot first, focusing your prompt on character actions plus simple framing/movement, and let Seedance handle the detailed camera motion.  \nGenerate early iterations at 480p to save credits while refining the prompt, then switch to 720p for the final generation once you’re confident.  \nPlan to stitch together the best segments from multiple Seedance generations in editing instead of trying to get a perfect full sequence from one prompt.  \nUse Suno to generate background music, and if you’re unsure how to prompt it, upload your video to ChatGPT/Claude and ask it to write a Suno prompt based on the video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067882981075931136/img/LcSfv15ylvqgiVWG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067883166187376967.mp4",
+  "sourceLink": "https://x.com/suji_pop/status/2067883166187376967",
+  "sourcePublishedAt": "2026-06-19",
+  "author": {
+    "name": "SujiPop",
+    "link": "https://x.com/suji_pop"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Feed an action video you like to Claude/ChatGPT and ask it to break down the choreography into character actions and camera movements to use as a base plan.  \nPrompt Seedance to generate the action scene as one continuous shot first, focusing your prompt on character actions plus simple framing/movement, and let Seedance handle the detailed camera motion.  \nGenerate early iterations at 480p to save credits while refining the prompt, then switch to 720p for the final generation once you’re confident.  \nPlan to stitch together the best segments from multiple Seedance generations in editing instead of trying to get a perfect full sequence from one prompt.  \nUse Suno to generate background music, and if you’re unsure how to prompt it, upload your video to ChatGPT/Claude and ask it to write a Suno prompt based on the video.",
+  "translations": {
+    "es": {
+      "content": "---\nAlimenta un video de acción que te guste a Claude/ChatGPT y pídele que descomponga la coreografía en acciones de personajes y movimientos de cámara para usar como plan base.  \nPrompt Seedance para generar la escena de acción como una toma continua primero, enfocando tu prompt en las acciones de los personajes más un encuadre/movimiento simple, y deja que Seedance maneje el movimiento detallado de la cámara.  \nGenera iteraciones tempranas en 480p para ahorrar créditos mientras refinas el prompt, luego cambia a 720p para la generación final una vez que estés seguro.  \nPlanea unir los mejores segmentos de múltiples generaciones de Seedance en la edición en lugar de intentar obtener una secuencia completa perfecta de un solo prompt.  \nUsa Suno para generar música de fondo, y si no estás seguro de cómo hacer el prompt, sube tu video a ChatGPT/Claude y pídele que escriba un prompt de Suno basado en el video.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Si estás buscando una plataforma limpia y asequible para comenzar tu viaje en IA, pruébala en @get_artcraft. Es de código abierto. Vale la pena mencionar que tienen una versión menos filtrada de Seedance, lo cual es realmente raro.\n\nhttps://t.co/GIV0awfkL9\n---"
+    },
+    "fr": {
+      "content": "---\nAlimentez une vidéo d'action que vous aimez à Claude/ChatGPT et demandez-lui de décomposer la chorégraphie en actions de personnages et mouvements de caméra pour l'utiliser comme plan de base.  \nDemandez à Seedance de générer la scène d'action en un seul plan continu d'abord, en concentrant votre prompt sur les actions des personnages ainsi que sur un cadrage/mouvement simple, et laissez Seedance gérer le mouvement détaillé de la caméra.  \nGénérez des itérations préliminaires en 480p pour économiser des crédits tout en affinant le prompt, puis passez à 720p pour la génération finale une fois que vous êtes confiant.  \nPrévoyez de rassembler les meilleurs segments de plusieurs générations Seedance lors du montage au lieu d'essayer d'obtenir une séquence complète parfaite à partir d'un seul prompt.  \nUtilisez Suno pour générer la musique de fond, et si vous ne savez pas comment le solliciter, téléchargez votre vidéo sur ChatGPT/Claude et demandez-lui d'écrire un prompt Suno basé sur la vidéo.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Si vous cherchez une plateforme propre et abordable pour commencer votre aventure IA, essayez-la sur @get_artcraft. C'est open source. Il est à noter qu'ils ont une version moins filtrée de Seedance, ce qui est vraiment rare.\n\nhttps://t.co/GIV0awfkL9\n---"
+    },
+    "ja": {
+      "content": "---\n好きなアクションビデオをClaude/ChatGPTに入力し、キャラクターの動作とカメラの動きを分解して基本プランとして使用するように依頼します。  \nSeedanceにアクションシーンを最初に一続きのショットとして生成するように促し、プロンプトをキャラクターの動作と簡単なフレーミング/動きに集中させ、詳細なカメラの動きはSeedanceに任せます。  \nプロンプトを洗練させる間、クレジットを節約するために480pで初期の反復を生成し、自信が持てたら最終生成のために720pに切り替えます。  \n一つのプロンプトから完璧なフルシーケンスを得ようとするのではなく、編集で複数のSeedance生成から最良のセグメントをつなぎ合わせる計画を立てます。  \nSunoを使用してバックグラウンドミュージックを生成し、プロンプトの方法がわからない場合は、ビデオをChatGPT/Claudeにアップロードして、そのビデオに基づいたSunoプロンプトを書いてもらいます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] AIの旅を始めるためのクリーンで手頃なプラットフォームを探しているなら、@get_artcraftを試してみてください。オープンソースです。特筆すべきは、Seedanceのフィルタリングが少ないバージョンがあることで、これは非常に珍しいです。\n\nhttps://t.co/GIV0awfkL9\n---"
+    },
+    "ko": {
+      "content": "---\n좋아하는 액션 비디오를 Claude/ChatGPT에 입력하고, 이를 캐릭터 동작과 카메라 움직임으로 나누어 기본 계획으로 사용할 수 있도록 요청하세요.  \nSeedance에 액션 장면을 하나의 연속적인 샷으로 생성하도록 프롬프트를 주되, 캐릭터 동작과 간단한 프레이밍/움직임에 초점을 맞추고, 자세한 카메라 움직임은 Seedance에 맡기세요.  \n프롬프트를 다듬는 동안 크레딧을 절약하기 위해 초기 반복은 480p로 생성하고, 자신감이 생기면 최종 생성은 720p로 전환하세요.  \n하나의 프롬프트로 완벽한 전체 시퀀스를 얻으려 하기보다는, 편집에서 여러 Seedance 생성물의 최고의 세그먼트를 연결할 계획을 세우세요.  \n배경 음악을 생성하기 위해 Suno를 사용하고, 프롬프트 방법이 확실하지 않다면, 비디오를 ChatGPT/Claude에 업로드하고 비디오를 기반으로 Suno 프롬프트를 작성해 달라고 요청하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] AI 여정을 시작하기 위한 깨끗하고 저렴한 플랫폼을 찾고 있다면, @get_artcraft에서 시도해 보세요. 오픈 소스입니다. 언급할 가치가 있는 것은 Seedance의 필터링이 덜 된 버전을 제공한다는 점인데, 이는 정말 드문 일입니다.\n\nhttps://t.co/GIV0awfkL9\n---"
+    },
+    "pt": {
+      "content": "Alimente um vídeo de ação que você goste para o Claude/ChatGPT e peça para ele decompor a coreografia em ações dos personagens e movimentos de câmera para usar como plano base.  \nPeça ao Seedance para gerar a cena de ação como um único take contínuo primeiro, focando seu prompt nas ações dos personagens e enquadramento/movimento simples, e deixe o Seedance lidar com o movimento detalhado da câmera.  \nGere iterações iniciais em 480p para economizar créditos enquanto refina o prompt, depois mude para 720p para a geração final quando estiver confiante.  \nPlaneje juntar os melhores segmentos de várias gerações do Seedance na edição, em vez de tentar obter uma sequência completa perfeita de um único prompt.  \nUse o Suno para gerar música de fundo, e se não souber como criar um prompt, faça o upload do seu vídeo para o ChatGPT/Claude e peça para ele escrever um prompt para o Suno com base no vídeo.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Se você está procurando uma plataforma limpa e acessível para começar sua jornada em IA, experimente no @get_artcraft. É de código aberto. Vale mencionar que eles têm uma versão menos filtrada do Seedance, o que é realmente raro.\n\nhttps://t.co/GIV0awfkL9"
+    },
+    "zh": {
+      "content": "---\n将你喜欢的动作视频输入Claude/ChatGPT，并让它分解出角色动作和摄像机运动，以此作为基础计划。  \nPrompt Seedance生成动作场景，首先作为一个连续镜头，专注于角色动作加上简单的构图/运动，让Seedance处理详细的摄像机运动。  \n在早期迭代时以480p生成，以节省积分，同时完善prompt，一旦有信心后再切换到720p进行最终生成。  \n计划在编辑中拼接多个Seedance生成的最佳片段，而不是试图通过一个prompt获得完美的完整序列。  \n使用Suno生成背景音乐，如果不确定如何prompt，可以将视频上传到ChatGPT/Claude，并让它根据视频撰写一个Suno prompt。\n\n--- 线程继续 ---\n[线程1] 如果你正在寻找一个干净、实惠的平台来开始你的AI之旅，可以在@get_artcraft上试试。它是开源的。值得一提的是，他们有一个过滤较少的Seedance版本，这非常罕见。\n\nhttps://t.co/GIV0awfkL9\n---"
+    }
+  }
+}

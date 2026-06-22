@@ -1,0 +1,42 @@
+{
+  "id": "2067259190804979827",
+  "title": "Use Midjourney style references in Seedance by adding an --sref style ID (e.g…",
+  "content": "Use Midjourney style references in Seedance by adding an --sref style ID (e.g., --sref 3733128026) and a model version flag (e.g., --v 7) to transform a base concept into a cohesive visual world.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067258794359377920/img/zEcZ5hUt9GgdrfBf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067259190804979827.mp4",
+  "sourceLink": "https://x.com/Dustfinger2077/status/2067259190804979827",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "DUST",
+    "link": "https://x.com/Dustfinger2077"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Midjourney style references in Seedance by adding an --sref style ID (e.g., --sref 3733128026) and a model version flag (e.g., --v 7) to transform a base concept into a cohesive visual world.",
+  "translations": {
+    "es": {
+      "content": "Utiliza referencias de estilo de Midjourney en Seedance añadiendo un ID de estilo --sref (por ejemplo, --sref 3733128026) y una bandera de versión de modelo (por ejemplo, --v 7) para transformar un concepto base en un mundo visual cohesivo."
+    },
+    "fr": {
+      "content": "Utilisez les références de style Midjourney dans Seedance en ajoutant un identifiant de style --sref (par exemple, --sref 3733128026) et un indicateur de version de modèle (par exemple, --v 7) pour transformer un concept de base en un univers visuel cohérent."
+    },
+    "ja": {
+      "content": "SeedanceでMidjourneyスタイルの参照を使用するには、--srefスタイルID（例: --sref 3733128026）とモデルバージョンフラグ（例: --v 7）を追加して、基本コンセプトを統一された視覚的な世界に変換します。"
+    },
+    "ko": {
+      "content": "Seedance에서 Midjourney 스타일 참조를 사용하려면 --sref 스타일 ID(예: --sref 3733128026)와 모델 버전 플래그(예: --v 7)를 추가하여 기본 개념을 통합된 시각적 세계로 변환하세요."
+    },
+    "pt": {
+      "content": "Use referências de estilo do Midjourney no Seedance adicionando um ID de estilo --sref (por exemplo, --sref 3733128026) e uma bandeira de versão do modelo (por exemplo, --v 7) para transformar um conceito base em um mundo visual coeso."
+    },
+    "zh": {
+      "content": "在Seedance中使用Midjourney风格参考，通过添加--sref风格ID（例如，--sref 3733128026）和模型版本标志（例如，--v 7），将基础概念转化为一个连贯的视觉世界。"
+    }
+  }
+}

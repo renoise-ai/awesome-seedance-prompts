@@ -1,0 +1,43 @@
+{
+  "id": "2068663368878113216",
+  "title": "Use Seedance to rapidly test VFX ideas/concepts, then rebuild and refine the…",
+  "content": "Use Seedance to rapidly test VFX ideas/concepts, then rebuild and refine the chosen results by hand in your traditional workflow.\nCombine Seedance with DaVinci Resolve to iterate on and test music video VFX effects quickly.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2068662961627967488/img/UHhWaYDZPgmEG68E.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068663368878113216.mp4",
+  "sourceLink": "https://x.com/ibexdream/status/2068663368878113216",
+  "sourcePublishedAt": "2026-06-21",
+  "author": {
+    "name": "ibexdream",
+    "link": "https://x.com/ibexdream"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "VFX",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance to rapidly test VFX ideas/concepts, then rebuild and refine the chosen results by hand in your traditional workflow.\nCombine Seedance with DaVinci Resolve to iterate on and test music video VFX effects quickly.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Seedance para probar rápidamente ideas/conceptos de VFX, luego reconstruye y refina los resultados elegidos manualmente en tu flujo de trabajo tradicional.  \nCombina Seedance con DaVinci Resolve para iterar y probar efectos de VFX en videos musicales de manera rápida."
+    },
+    "fr": {
+      "content": "Utilisez Seedance pour tester rapidement des idées/concepts de VFX, puis reconstruisez et affinez les résultats choisis à la main dans votre flux de travail traditionnel. Combinez Seedance avec DaVinci Resolve pour itérer et tester rapidement les effets VFX de vidéoclips musicaux."
+    },
+    "ja": {
+      "content": "---\nSeedanceを使用してVFXのアイデアやコンセプトを迅速にテストし、選ばれた結果を従来のワークフローで手作業で再構築し、洗練させます。\nSeedanceをDaVinci Resolveと組み合わせて、ミュージックビデオのVFX効果を迅速に反復し、テストします。\n---"
+    },
+    "ko": {
+      "content": "Seedance를 사용하여 VFX 아이디어/컨셉을 빠르게 테스트한 후, 전통적인 워크플로우에서 선택된 결과를 수작업으로 재구성하고 정제하세요.  \nSeedance와 DaVinci Resolve를 결합하여 뮤직 비디오 VFX 효과를 빠르게 반복하고 테스트하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance para testar rapidamente ideias/conceitos de VFX e, em seguida, reconstruir e refinar os resultados escolhidos manualmente no seu fluxo de trabalho tradicional.  \nCombine o Seedance com o DaVinci Resolve para iterar e testar rapidamente efeitos de VFX em videoclipes musicais."
+    },
+    "zh": {
+      "content": "使用Seedance快速测试VFX创意/概念，然后在传统工作流程中手动重建和完善选定的结果。  \n将Seedance与DaVinci Resolve结合使用，以快速迭代和测试音乐视频的VFX效果。"
+    }
+  }
+}

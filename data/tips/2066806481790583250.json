@@ -1,0 +1,43 @@
+{
+  "id": "2066806481790583250",
+  "title": "CapCutでSeedance 2.0 miniと通常版を同条件で比較し、動きの速い移動中シーンでもminiの動き・キャラ・質感が十分か確認して用途判断する",
+  "content": "CapCutでSeedance 2.0 miniと通常版を同条件で比較し、動きの速い移動中シーンでもminiの動き・キャラ・質感が十分か確認して用途判断する  \n会話シーンや通常シーンはSeedance 2.0 miniを優先的に使って生成コストを下げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2066804924659511296/img/CZH_aO3IzRfQTtxl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2066806481790583250.mp4",
+  "sourceLink": "https://x.com/wakawakkachan/status/2066806481790583250",
+  "sourcePublishedAt": "2026-06-16",
+  "author": {
+    "name": "WAKA WAKKA ✦ AIアニメ",
+    "link": "https://x.com/wakawakkachan"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "CapCutでSeedance 2.0 miniと通常版を同条件で比較し、動きの速い移動中シーンでもminiの動き・キャラ・質感が十分か確認して用途判断する  \n会話シーンや通常シーンはSeedance 2.0 miniを優先的に使って生成コストを下げる",
+  "translations": {
+    "en": {
+      "content": "Compare Seedance 2.0 mini and the standard version under the same conditions in CapCut to verify if the movement, character, and texture of the mini are sufficient even in fast-moving scenes, and determine its usability.  \nPrioritize using Seedance 2.0 mini for conversation and regular scenes to reduce generation costs."
+    },
+    "es": {
+      "content": "---\nComparar en CapCut el Seedance 2.0 mini y la versión normal bajo las mismas condiciones, para verificar si el movimiento, los personajes y la textura del mini son suficientes incluso en escenas de movimiento rápido, y así determinar su uso.  \nEn escenas de conversación o escenas normales, priorizar el uso de Seedance 2.0 mini para reducir los costos de generación.\n---"
+    },
+    "fr": {
+      "content": "Comparer Seedance 2.0 mini et la version normale dans CapCut dans les mêmes conditions, et vérifier si les mouvements, les personnages et la texture du mini sont suffisants même dans des scènes de déplacement rapide pour déterminer son utilisation.  \nPour les scènes de conversation ou les scènes normales, utiliser de préférence Seedance 2.0 mini pour réduire les coûts de génération."
+    },
+    "ko": {
+      "content": "CapCut에서 Seedance 2.0 mini와 일반 버전을 동일한 조건으로 비교하여, 빠르게 이동하는 장면에서도 mini의 움직임, 캐릭터, 질감이 충분한지 확인하고 용도를 판단합니다.  \n대화 장면이나 일반 장면에서는 Seedance 2.0 mini를 우선적으로 사용하여 생성 비용을 줄입니다."
+    },
+    "pt": {
+      "content": "Compare o Seedance 2.0 mini e a versão normal no CapCut sob as mesmas condições, e verifique se o movimento, os personagens e a textura do mini são suficientes em cenas de movimento rápido para determinar seu uso.  \nEm cenas de conversa ou cenas normais, use o Seedance 2.0 mini prioritariamente para reduzir os custos de geração."
+    },
+    "zh": {
+      "content": "在CapCut中以相同条件比较Seedance 2.0 mini和常规版，确认在快速移动场景中mini的动作、角色和质感是否足够，以便判断用途  \n在对话场景或常规场景中优先使用Seedance 2.0 mini以降低生成成本"
+    }
+  }
+}

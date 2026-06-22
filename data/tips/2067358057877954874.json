@@ -1,0 +1,42 @@
+{
+  "id": "2067358057877954874",
+  "title": "Write a marketing brief, convert it into a Seedance prompt, and generate the ad…",
+  "content": "Write a marketing brief, convert it into a Seedance prompt, and generate the ad spot directly from the prompt.  \nFeed Seedance a product photo as a reference to animate the product without filming a shoot.  \nGenerate native audio and video in the same pass so voiceover and lip-sync are baked into the output.  \nFor multilingual versions, reuse the same video generation and swap to a different audio track per language.  \nUse a single spokesperson reference to keep the same on-screen person consistent across every cut.  \nBatch-generate many variations of the same scene (e.g., 40 versions) and pick the best-performing one.  \nWire an agent to automatically review/sort batch outputs and select the keepers for delivery.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067357971605344256/img/kygPrYg3CWLatJ2z.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2067358057877954874.mp4",
+  "sourceLink": "https://x.com/rohit4verse/status/2067358057877954874",
+  "sourcePublishedAt": "2026-06-17",
+  "author": {
+    "name": "Rohit",
+    "link": "https://x.com/rohit4verse"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Write a marketing brief, convert it into a Seedance prompt, and generate the ad spot directly from the prompt.  \nFeed Seedance a product photo as a reference to animate the product without filming a shoot.  \nGenerate native audio and video in the same pass so voiceover and lip-sync are baked into the output.  \nFor multilingual versions, reuse the same video generation and swap to a different audio track per language.  \nUse a single spokesperson reference to keep the same on-screen person consistent across every cut.  \nBatch-generate many variations of the same scene (e.g., 40 versions) and pick the best-performing one.  \nWire an agent to automatically review/sort batch outputs and select the keepers for delivery.",
+  "translations": {
+    "es": {
+      "content": "Escribe un resumen de marketing, conviértelo en un prompt de Seedance y genera el anuncio directamente desde el prompt.  \nProporciona a Seedance una foto del producto como referencia para animar el producto sin necesidad de filmar.  \nGenera audio y video nativos en el mismo proceso para que la voz en off y la sincronización labial estén integradas en el resultado.  \nPara versiones multilingües, reutiliza la misma generación de video y cambia a una pista de audio diferente por idioma.  \nUsa una única referencia de portavoz para mantener a la misma persona en pantalla consistente en cada corte.  \nGenera en lote muchas variaciones de la misma escena (por ejemplo, 40 versiones) y elige la que mejor funcione.  \nConecta un agente para revisar/clasificar automáticamente las salidas en lote y seleccionar las mejores para la entrega.\n\n--- TWEET CITADO ---\nSeedance ilimitado por 30 días, comenzando hoy.\n\nHiggsfield es el único lugar con Seedance realmente ilimitado, impulsado por una asociación oficial con @BytePlusGlobal.\n\nCompra ahora y obtén Seedance ilimitado por 30 días. https://t.co/VI8D7ygpcU"
+    },
+    "fr": {
+      "content": "Rédigez un brief marketing, convertissez-le en prompt Seedance, et générez le spot publicitaire directement à partir du prompt.  \nFournissez à Seedance une photo du produit comme référence pour animer le produit sans tourner de séquence.  \nGénérez l'audio et la vidéo natifs en une seule passe pour que la voix off et la synchronisation labiale soient intégrées dans le résultat.  \nPour les versions multilingues, réutilisez la même génération vidéo et changez de piste audio pour chaque langue.  \nUtilisez une seule référence de porte-parole pour garder la même personne à l'écran cohérente dans chaque coupe.  \nGénérez par lots de nombreuses variations de la même scène (par exemple, 40 versions) et choisissez celle qui fonctionne le mieux.  \nConnectez un agent pour examiner/trier automatiquement les sorties par lots et sélectionner les meilleures pour la livraison.\n\n--- TWEET CITÉ ---\nSeedance illimité pendant 30 jours, à partir d'aujourd'hui.\n\nHiggsfield est le seul endroit avec un vrai Seedance illimité, propulsé par un partenariat officiel avec @BytePlusGlobal.\n\nAchetez maintenant et obtenez Seedance illimité pendant 30 jours. https://t.co/VI8D7ygpcU"
+    },
+    "ja": {
+      "content": "---\nマーケティングブリーフを書き、それをSeedanceのプロンプトに変換し、プロンプトから直接広告スポットを生成します。  \nSeedanceに製品写真をフィードし、撮影せずに製品をアニメーション化します。  \nネイティブオーディオとビデオを同時に生成し、ナレーションとリップシンクを出力に組み込みます。  \n多言語バージョンの場合、同じビデオ生成を再利用し、言語ごとに異なるオーディオトラックに切り替えます。  \n単一のスポークスパーソンの参照を使用して、すべてのカットで同じ画面上の人物を一貫して保持します。  \n同じシーンの多くのバリエーションを一括生成し（例：40バージョン）、最もパフォーマンスの良いものを選びます。  \nエージェントを接続してバッチ出力を自動的にレビュー/ソートし、配信用のキーパーを選択します。\n\n--- 引用ツイート ---\n今日から30日間、無制限のSeedance。\n\nHiggsfieldは、公式の@BytePlusGlobalパートナーシップによって強化された、唯一の本物の無制限Seedanceを提供する場所です。\n\n今すぐ購入して、30日間無制限のSeedanceを手に入れましょう。https://t.co/VI8D7ygpcU\n---"
+    },
+    "ko": {
+      "content": "마케팅 브리프를 작성하고, 이를 Seedance 프롬프트로 변환한 후, 프롬프트에서 직접 광고 스팟을 생성하세요.  \n제품 사진을 Seedance에 입력하여 촬영 없이 제품을 애니메이션화하세요.  \n음성과 비디오를 동시에 생성하여 나레이션과 립싱크가 출력물에 포함되도록 하세요.  \n다국어 버전의 경우, 동일한 비디오 생성물을 사용하고 각 언어에 맞는 오디오 트랙으로 교체하세요.  \n단일 대변인 참고 자료를 사용하여 모든 컷에서 동일한 화면 인물을 일관되게 유지하세요.  \n같은 장면의 여러 변형을 대량 생성(예: 40가지 버전)하고 가장 성과가 좋은 것을 선택하세요.  \n에이전트를 연결하여 대량 출력물을 자동으로 검토/정렬하고, 전달할 최종본을 선택하세요.\n\n--- 인용 트윗 ---\n오늘부터 30일 동안 무제한 Seedance.\n\nHiggsfield는 공식 @BytePlusGlobal 파트너십을 통해 진정한 무제한 Seedance를 제공하는 유일한 곳입니다.\n\n지금 구매하고 30일 동안 무제한 Seedance를 이용하세요. https://t.co/VI8D7ygpcU\n---"
+    },
+    "pt": {
+      "content": "Escreva um briefing de marketing, converta-o em um prompt Seedance e gere o anúncio diretamente do prompt.  \nForneça ao Seedance uma foto do produto como referência para animar o produto sem filmar uma sessão.  \nGere áudio e vídeo nativos na mesma passagem para que a narração e a sincronização labial sejam incorporadas ao resultado.  \nPara versões multilíngues, reutilize a mesma geração de vídeo e troque para uma faixa de áudio diferente por idioma.  \nUse uma única referência de porta-voz para manter a mesma pessoa na tela consistente em todos os cortes.  \nGere em lote muitas variações da mesma cena (por exemplo, 40 versões) e escolha a que tiver o melhor desempenho.  \nConecte um agente para revisar/classificar automaticamente as saídas em lote e selecionar as melhores para entrega.\n\n--- TWEET CITADO ---\nSeedance ilimitado por 30 dias, começando hoje.\n\nHiggsfield é o único lugar com Seedance realmente ilimitado, impulsionado por uma parceria oficial com @BytePlusGlobal.\n\nCompre agora e obtenha Seedance ilimitado por 30 dias. https://t.co/VI8D7ygpcU"
+    },
+    "zh": {
+      "content": "撰写一个营销简报，将其转换为Seedance prompt，并直接从prompt生成广告片。  \n将产品照片作为参考输入Seedance，以便在不拍摄的情况下动画化产品。  \n在同一过程中生成原生音频和视频，以便旁白和口型同步嵌入输出中。  \n对于多语言版本，重复使用相同的视频生成，并为每种语言更换不同的音轨。  \n使用单一代言人参考，以确保每个剪辑中屏幕上的人物一致。  \n批量生成同一场景的多个变体（例如，40个版本），并选择表现最佳的一个。  \n连接一个代理自动审核/排序批量输出，并选择保留的版本进行交付。\n\n--- 引用推文 ---\n从今天开始，享受30天无限制的Seedance。\n\nHiggsfield是唯一提供真正无限制Seedance的地方，由官方@BytePlusGlobal合作伙伴提供支持。\n\n立即购买，享受30天无限制的Seedance。https://t.co/VI8D7ygpcU"
+    }
+  }
+}

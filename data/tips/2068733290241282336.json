@@ -1,0 +1,42 @@
+{
+  "id": "2068733290241282336",
+  "title": "Prompt a single character within a crowd to perform an individual action while…",
+  "content": "Prompt a single character within a crowd to perform an individual action while keeping the rest of the crowd coherent (no blurring) in Seedance 2 Mini.\nUse Seedance 2 Mini for normal scenes without a lot of fast movement for better results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2068732936304918528/img/cn_-7_eQwDjLk1MW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068733290241282336.mp4",
+  "sourceLink": "https://x.com/SparkfulArt/status/2068733290241282336",
+  "sourcePublishedAt": "2026-06-21",
+  "author": {
+    "name": "Sparkful",
+    "link": "https://x.com/SparkfulArt"
+  },
+  "tags": [
+    "Sports",
+    "Crowd & Fans",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Prompt a single character within a crowd to perform an individual action while keeping the rest of the crowd coherent (no blurring) in Seedance 2 Mini.\nUse Seedance 2 Mini for normal scenes without a lot of fast movement for better results.",
+  "translations": {
+    "es": {
+      "content": "---\nPrompt a un solo personaje dentro de una multitud para realizar una acción individual mientras mantienes el resto de la multitud coherente (sin desenfoque) en Seedance 2 Mini. Usa Seedance 2 Mini para escenas normales sin mucho movimiento rápido para obtener mejores resultados.\n---"
+    },
+    "fr": {
+      "content": "---\nDemandez à un seul personnage au sein d'une foule d'effectuer une action individuelle tout en gardant le reste de la foule cohérent (sans flou) dans Seedance 2 Mini. Utilisez Seedance 2 Mini pour des scènes normales sans beaucoup de mouvements rapides pour de meilleurs résultats.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2 Miniで、群衆の中の単一のキャラクターに個別のアクションを行わせるようにプロンプトし、群衆の他の部分を一貫性を保ちながら（ぼかさずに）維持します。\nSeedance 2 Miniを使用して、速い動きが少ない通常のシーンでより良い結果を得ることができます。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2 Mini에서 군중 속의 단일 캐릭터가 개별 행동을 수행하도록 프롬프트하면서 나머지 군중은 일관성을 유지하도록 하세요 (블러링 없음). Seedance 2 Mini를 사용하여 빠른 움직임이 많지 않은 일반 장면에서 더 나은 결과를 얻으세요.\n---"
+    },
+    "pt": {
+      "content": "---\nPeça a um único personagem dentro de uma multidão para realizar uma ação individual enquanto mantém o restante da multidão coerente (sem desfoque) no Seedance 2 Mini. Use o Seedance 2 Mini para cenas normais sem muito movimento rápido para obter melhores resultados.\n---"
+    },
+    "zh": {
+      "content": "在Seedance 2 Mini中提示一个人群中的单个角色执行一个独立的动作，同时保持其他人群的连贯性（无模糊）。  \n使用Seedance 2 Mini处理没有大量快速运动的普通场景，以获得更好的效果。"
+    }
+  }
+}
