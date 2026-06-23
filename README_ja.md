@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **2077** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **792** |
-| 🔄 最終更新 | **2026-06-22** |
+| 🔄 最終更新 | **2026-06-23** |
 
 ---
 
@@ -7398,4 +7398,4 @@ Upload an Amazon product image into Pippit using Seedance 2.0 Mini to generate a
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-22T22:04:11.025Z
+🤖 この README は自動生成されています。最終更新： 2026-06-23T03:42:00.183Z
