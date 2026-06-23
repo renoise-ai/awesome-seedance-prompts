@@ -5172,4 +5172,4 @@ Upload an Amazon product image into Pippit using Seedance 2.0 Mini to generate a
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-23T07:51:27.341Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-23T11:18:49.226Z
