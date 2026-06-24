@@ -1,0 +1,42 @@
+{
+  "id": "2065376109948997845",
+  "title": "Construis un workflow multi-étapes pour une campagne 30s en enchaînant…",
+  "content": "Construis un workflow multi-étapes pour une campagne 30s en enchaînant moodboard → prompts cinématiques → validation → resize multi-ratios (4:3, 9:16, 16:9) → grilles storyboard 3×3 → Seedance 2.0 pour animer les images statiques en vidéo tout en gardant une direction artistique cohérente.",
+  "language": "fr",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/thismacapital/status/2065376109948997845",
+  "sourcePublishedAt": "2026-06-12",
+  "author": {
+    "name": "THISMA",
+    "link": "https://x.com/thismacapital"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Construis un workflow multi-étapes pour une campagne 30s en enchaînant moodboard → prompts cinématiques → validation → resize multi-ratios (4:3, 9:16, 16:9) → grilles storyboard 3×3 → Seedance 2.0 pour animer les images statiques en vidéo tout en gardant une direction artistique cohérente.",
+  "translations": {
+    "en": {
+      "content": "Build a multi-step workflow for a 30-second campaign by chaining moodboard → cinematic prompts → validation → multi-ratio resize (4:3, 9:16, 16:9) → 3×3 storyboard grids → Seedance 2.0 to animate static images into video while maintaining a consistent artistic direction."
+    },
+    "es": {
+      "content": "Construye un flujo de trabajo de múltiples etapas para una campaña de 30 segundos encadenando moodboard → prompts cinemáticos → validación → redimensionar a múltiples proporciones (4:3, 9:16, 16:9) → cuadrículas de storyboard 3×3 → Seedance 2.0 para animar las imágenes estáticas en video manteniendo una dirección artística coherente."
+    },
+    "ja": {
+      "content": "---\nムードボード → prompts cinématiques → 承認 → マルチ比率リサイズ (4:3, 9:16, 16:9) → ストーリーボードグリッド 3×3 → Seedance 2.0 を使用して静止画像を動画にアニメーション化し、一貫したアートディレクションを維持する30秒キャンペーンのためのマルチステップワークフローを構築します。\n---"
+    },
+    "ko": {
+      "content": "30초 캠페인을 위한 다단계 워크플로우를 구축하세요: moodboard → prompts cinématiques → validation → resize multi-ratios (4:3, 9:16, 16:9) → 3×3 storyboard grids → Seedance 2.0을 사용하여 정적인 이미지를 일관된 아트 디렉션으로 애니메이션 비디오로 변환."
+    },
+    "pt": {
+      "content": "Construa um fluxo de trabalho em múltiplas etapas para uma campanha de 30 segundos encadeando moodboard → prompts cinemáticos → validação → redimensionamento em múltiplas proporções (4:3, 9:16, 16:9) → grades de storyboard 3×3 → Seedance 2.0 para animar as imagens estáticas em vídeo, mantendo uma direção artística coerente."
+    },
+    "zh": {
+      "content": "构建一个多步骤的工作流程，用于制作30秒的广告活动，步骤包括：情绪板 → prompts cinématiques → 验证 → 多比例调整（4:3, 9:16, 16:9） → 3×3故事板网格 → 使用Seedance 2.0将静态图像动画化为视频，同时保持一致的艺术指导。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2065824940868198411",
+  "title": "Write your lyrics in Gemini to match the story, then paste a Seedance 2.0…",
+  "content": "Write your lyrics in Gemini to match the story, then paste a Seedance 2.0 prompt block that specifies genre/energy, exact BPM, key (e.g., E Minor), language, and include an instruction like The woman lip-syncs the lyrics precisely to sync lip movements to the lyrics.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2065823480956723200/img/J6RQ94nIGAH7RU9I.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065824940868198411.mp4",
+  "sourceLink": "https://x.com/Kiber_Alla/status/2065824940868198411",
+  "sourcePublishedAt": "2026-06-13",
+  "author": {
+    "name": "Kiber Alla",
+    "link": "https://x.com/Kiber_Alla"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Write your lyrics in Gemini to match the story, then paste a Seedance 2.0 prompt block that specifies genre/energy, exact BPM, key (e.g., E Minor), language, and include an instruction like The woman lip-syncs the lyrics precisely to sync lip movements to the lyrics.",
+  "translations": {
+    "es": {
+      "content": "Escribe tus letras en Gemini para que coincidan con la historia, luego pega un bloque de prompt de Seedance 2.0 que especifique género/energía, BPM exacto, tonalidad (por ejemplo, Mi menor), idioma, e incluye una instrucción como La mujer sincroniza los labios con las letras precisamente para sincronizar los movimientos labiales con las letras."
+    },
+    "fr": {
+      "content": "Écrivez vos paroles en Gemini pour correspondre à l'histoire, puis collez un bloc de prompt Seedance 2.0 qui spécifie le genre/l'énergie, le BPM exact, la tonalité (par exemple, Mi mineur), la langue, et incluez une instruction comme The woman lip-syncs the lyrics precisely to sync lip movements to the lyrics."
+    },
+    "ja": {
+      "content": "---\n物語に合わせてGeminiで歌詞を書き、その後にSeedance 2.0のプロンプトブロックを貼り付けてください。そこにはジャンル/エネルギー、正確なBPM、キー（例：E Minor）、言語を指定し、The woman lip-syncs the lyrics precisely to sync lip movements to the lyricsのような指示を含めてください。"
+    },
+    "ko": {
+      "content": "Gemini에 맞춰 가사를 작성한 후, Seedance 2.0 프롬프트 블록을 붙여넣으세요. 이 프롬프트 블록에는 장르/에너지, 정확한 BPM, 키 (예: E Minor), 언어를 지정하고, \"The woman lip-syncs the lyrics precisely to sync lip movements to the lyrics\"와 같은 지시사항을 포함하세요."
+    },
+    "pt": {
+      "content": "Escreva suas letras em Gemini para combinar com a história, depois cole um bloco de prompt Seedance 2.0 que especifique gênero/energia, BPM exato, tonalidade (por exemplo, Mi Menor), idioma, e inclua uma instrução como A mulher dubla as letras precisamente para sincronizar os movimentos labiais com as letras."
+    },
+    "zh": {
+      "content": "用双子座写下你的歌词以匹配故事，然后粘贴一个Seedance 2.0 prompt块，指定类型/能量、确切的BPM、调（例如，E小调）、语言，并包括一个指令，如The woman lip-syncs the lyrics precisely to sync lip movements to the lyrics。"
+    }
+  }
+}

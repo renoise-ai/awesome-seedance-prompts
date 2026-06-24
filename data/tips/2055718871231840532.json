@@ -1,0 +1,41 @@
+{
+  "id": "2055718871231840532",
+  "title": "Use Seedance 2.0 with only reference images as input to generate alternative…",
+  "content": "Use Seedance 2.0 with only reference images as input to generate alternative camera angles for a clip (no reference video needed).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Soulmotionlabs/status/2055718871231840532",
+  "sourcePublishedAt": "2026-05-16",
+  "author": {
+    "name": "Soul Motion labs",
+    "link": "https://x.com/Soulmotionlabs"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 with only reference images as input to generate alternative camera angles for a clip (no reference video needed).",
+  "translations": {
+    "es": {
+      "content": "Utiliza Seedance 2.0 solo con imágenes de referencia como entrada para generar ángulos de cámara alternativos para un clip (no se necesita video de referencia)."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 avec uniquement des images de référence comme entrée pour générer des angles de caméra alternatifs pour un clip (aucune vidéo de référence nécessaire)."
+    },
+    "ja": {
+      "content": "Seedance 2.0を使用して、参照画像のみを入力としてクリップの代替カメラアングルを生成します（参照ビデオは不要です）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 사용하여 참조 이미지들만 입력으로 사용하여 클립의 대체 카메라 앵글을 생성하세요 (참조 비디오는 필요하지 않음)."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 apenas com imagens de referência como entrada para gerar ângulos de câmera alternativos para um clipe (não é necessário vídeo de referência)."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0，仅需参考图像作为输入即可为剪辑生成替代镜头角度（无需参考视频）。"
+    }
+  }
+}

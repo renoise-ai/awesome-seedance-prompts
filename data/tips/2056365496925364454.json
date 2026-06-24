@@ -1,0 +1,42 @@
+{
+  "id": "2056365496925364454",
+  "title": "Upload a reference product image into GPT Image 2 and prompt make a 3x3…",
+  "content": "Upload a reference product image into GPT Image 2 and prompt make a 3x3 storyboard from this reference image to generate a cast-and-scenes storyboard quickly.  \nUpload the generated 3x3 storyboard into Seedance 2.0 to generate a cinematic video cut by cut and shot by shot.  \nAdd timestamps in your Seedance prompt to control and perfect shot timing.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/socialwithaayan/status/2056365496925364454",
+  "sourcePublishedAt": "2026-05-18",
+  "author": {
+    "name": "Muhammad Ayan",
+    "link": "https://x.com/socialwithaayan"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Upload a reference product image into GPT Image 2 and prompt make a 3x3 storyboard from this reference image to generate a cast-and-scenes storyboard quickly.  \nUpload the generated 3x3 storyboard into Seedance 2.0 to generate a cinematic video cut by cut and shot by shot.  \nAdd timestamps in your Seedance prompt to control and perfect shot timing.",
+  "translations": {
+    "es": {
+      "content": "Sube una imagen de producto de referencia en GPT Image 2 y utiliza el prompt para crear un storyboard de 3x3 a partir de esta imagen de referencia para generar rápidamente un storyboard de elenco y escenas.  \nSube el storyboard de 3x3 generado en Seedance 2.0 para generar un video cinematográfico corte por corte y toma por toma.  \nAñade marcas de tiempo en tu prompt de Seedance para controlar y perfeccionar el tiempo de las tomas."
+    },
+    "fr": {
+      "content": "Téléchargez une image de produit de référence dans GPT Image 2 et utilisez le prompt pour créer un storyboard 3x3 à partir de cette image de référence afin de générer rapidement un storyboard de distribution et de scènes.  \nTéléchargez le storyboard 3x3 généré dans Seedance 2.0 pour générer une vidéo cinématographique, coupe par coupe et plan par plan.  \nAjoutez des horodatages dans votre prompt Seedance pour contrôler et perfectionner le timing des plans."
+    },
+    "ja": {
+      "content": "---\n参照製品画像をGPT Image 2にアップロードし、この参照画像から3x3のストーリーボードを作成するようにpromptを入力して、キャストとシーンのストーリーボードを迅速に生成します。  \n生成された3x3ストーリーボードをSeedance 2.0にアップロードして、カットごと、ショットごとにシネマティックなビデオを生成します。  \nSeedanceのpromptにタイムスタンプを追加して、ショットのタイミングをコントロールし、完璧に調整します。  \n---"
+    },
+    "ko": {
+      "content": "---\n참조 제품 이미지를 GPT Image 2에 업로드하고 이 참조 이미지를 기반으로 3x3 스토리보드를 생성하도록 프롬프트하여 캐스트 및 장면 스토리보드를 빠르게 생성합니다.  \n생성된 3x3 스토리보드를 Seedance 2.0에 업로드하여 컷별, 샷별로 시네마틱 비디오를 생성합니다.  \nSeedance 프롬프트에 타임스탬프를 추가하여 샷 타이밍을 제어하고 완벽하게 조정합니다.\n---"
+    },
+    "pt": {
+      "content": "Carregue uma imagem de produto de referência no GPT Image 2 e use o prompt para criar um storyboard 3x3 a partir dessa imagem de referência para gerar rapidamente um storyboard de elenco e cenas.  \nCarregue o storyboard 3x3 gerado no Seedance 2.0 para gerar um vídeo cinematográfico corte por corte e cena por cena.  \nAdicione timestamps no seu prompt do Seedance para controlar e aperfeiçoar o tempo das cenas."
+    },
+    "zh": {
+      "content": "将参考产品图像上传到GPT Image 2，并使用prompt从该参考图像快速生成一个3x3故事板，以生成演员和场景的故事板。  \n将生成的3x3故事板上传到Seedance 2.0，以逐个镜头生成电影剪辑。  \n在您的Seedance prompt中添加时间戳，以控制和完善镜头时间。"
+    }
+  }
+}

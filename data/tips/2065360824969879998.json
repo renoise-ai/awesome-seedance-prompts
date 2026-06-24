@@ -1,0 +1,42 @@
+{
+  "id": "2065360824969879998",
+  "title": "用七张参考图作为输入来生成视频",
+  "content": "用七张参考图作为输入来生成视频  \n在Seedance 2.0提示词里明确风格为世界杯热血宣传片（FIFA Hype Reel）+ 动感快闪卡点（Kinetic Typography + Rapid Cuts）以获得快节奏剪辑效果  \n在提示词中加入电视演播室级画质、8K超清、高帧率来提升清晰度与运动流畅度  \n将视频时长设置为15秒",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2065360592420970496/img/8WQHFxXWl-d92AxO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065360824969879998.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2065360824969879998",
+  "sourcePublishedAt": "2026-06-12",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Sports",
+    "Football",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用七张参考图作为输入来生成视频  \n在Seedance 2.0提示词里明确风格为世界杯热血宣传片（FIFA Hype Reel）+ 动感快闪卡点（Kinetic Typography + Rapid Cuts）以获得快节奏剪辑效果  \n在提示词中加入电视演播室级画质、8K超清、高帧率来提升清晰度与运动流畅度  \n将视频时长设置为15秒",
+  "translations": {
+    "en": {
+      "content": "Generate a video using seven reference images as input.  \nIn the Seedance 2.0 prompt, specify the style as a FIFA Hype Reel + Kinetic Typography + Rapid Cuts to achieve a fast-paced editing effect.  \nInclude TV studio-grade quality, 8K ultra-clear resolution, and high frame rate in the prompt to enhance clarity and motion smoothness.  \nSet the video duration to 15 seconds."
+    },
+    "es": {
+      "content": "---\nUsar siete imágenes de referencia como entrada para generar el video  \nEn el prompt de Seedance 2.0, especificar el estilo como un \"FIFA Hype Reel\" + \"Kinetic Typography + Rapid Cuts\" para lograr un efecto de edición de ritmo rápido  \nIncluir en el prompt calidad de imagen a nivel de estudio de televisión, 8K ultra HD, alta tasa de fotogramas para mejorar la claridad y la fluidez del movimiento  \nEstablecer la duración del video en 15 segundos\n\n--- QUOTED TWEET ---\nFIFA World Cup en Estados Unidos, Canadá y México. Elige tu equipo favorito.⚽️ https://t.co/KAKso4ga6G\n---"
+    },
+    "fr": {
+      "content": "Utilisez sept images de référence comme entrée pour générer une vidéo  \nDans le prompt de Seedance 2.0, précisez le style comme étant une bande-annonce de la Coupe du Monde FIFA (FIFA Hype Reel) + typographie cinétique et coupes rapides (Kinetic Typography + Rapid Cuts) pour obtenir un effet de montage rapide  \nAjoutez dans le prompt une qualité d'image de niveau studio télévisé, une ultra haute définition 8K et un taux de rafraîchissement élevé pour améliorer la clarté et la fluidité du mouvement  \nRéglez la durée de la vidéo à 15 secondes\n\n--- TWEET CITÉ ---\nCoupe du Monde de la FIFA aux États-Unis, au Canada et au Mexique. Choisissez votre équipe préférée.⚽️ https://t.co/KAKso4ga6G"
+    },
+    "ja": {
+      "content": "7枚の参考画像を入力として使用して動画を生成  \nSeedance 2.0のプロンプトでスタイルをワールドカップ熱血プロモーションビデオ（FIFA Hype Reel）+ 動感快闪卡点（Kinetic Typography + Rapid Cuts）として明確にし、テンポの速い編集効果を得る  \nプロンプトにテレビスタジオ品質、8K超高精細、高フレームレートを追加して、鮮明度と動きの滑らかさを向上させる  \n動画の長さを15秒に設定する\n\n--- QUOTED TWEET ---\nFIFA World Cup in the United States, Canada and Mexico. Choose your favorite team.⚽️ https://t.co/KAKso4ga6G\n---"
+    },
+    "ko": {
+      "content": "7장의 참고 이미지를 입력으로 사용하여 비디오 생성  \nSeedance 2.0 프롬프트에서 스타일을 월드컵 열정 홍보 영상(FIFA Hype Reel) + 동적 타이포그래피 + 빠른 컷(Rapid Cuts)으로 명시하여 빠른 편집 효과를 얻습니다  \n프롬프트에 TV 스튜디오급 화질, 8K 초고화질, 고프레임 속도를 추가하여 선명도와 움직임의 부드러움을 향상시킵니다  \n비디오 길이를 15초로 설정합니다\n\n--- 인용 트윗 ---\n미국, 캐나다, 멕시코에서 열리는 FIFA 월드컵. 좋아하는 팀을 선택하세요.⚽️ https://t.co/KAKso4ga6G"
+    },
+    "pt": {
+      "content": "Usar sete imagens de referência como entrada para gerar um vídeo  \nNo prompt do Seedance 2.0, especifique o estilo como um FIFA Hype Reel + Kinetic Typography + Rapid Cuts para obter um efeito de edição rápida  \nInclua no prompt qualidade de estúdio de televisão, 8K ultra HD, alta taxa de quadros para melhorar a clareza e a fluidez do movimento  \nDefina a duração do vídeo para 15 segundos\n\n--- TWEET CITADO ---\nCopa do Mundo FIFA nos Estados Unidos, Canadá e México. Escolha seu time favorito.⚽️ https://t.co/KAKso4ga6G"
+    }
+  }
+}

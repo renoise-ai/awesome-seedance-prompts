@@ -1,0 +1,41 @@
+{
+  "id": "2056332054598717705",
+  "title": "Use a Video Reference workflow: feed an existing ecommerce video as the…",
+  "content": "Use a Video Reference workflow: feed an existing ecommerce video as the reference so the system extracts pacing, transitions, camera behavior, and narrative flow, then re-apply that structure to a different product to generate a new video (reference → structured reuse → new output).\nUse Seedance 2.0 identity consistency to keep characters/products consistent when generating cross-market variants, paired with built-in translation for easier localization.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Isonwardster/status/2056332054598717705",
+  "sourcePublishedAt": "2026-05-18",
+  "author": {
+    "name": "Ison Ward",
+    "link": "https://x.com/Isonwardster"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a Video Reference workflow: feed an existing ecommerce video as the reference so the system extracts pacing, transitions, camera behavior, and narrative flow, then re-apply that structure to a different product to generate a new video (reference → structured reuse → new output).\nUse Seedance 2.0 identity consistency to keep characters/products consistent when generating cross-market variants, paired with built-in translation for easier localization.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Video Reference: introduce un video de comercio electrónico existente como referencia para que el sistema extraiga el ritmo, las transiciones, el comportamiento de la cámara y el flujo narrativo, y luego vuelva a aplicar esa estructura a un producto diferente para generar un nuevo video (reference → structured reuse → new output).  \nUtiliza la consistencia de identidad de Seedance 2.0 para mantener la coherencia de los personajes/productos al generar variantes para diferentes mercados, junto con la traducción incorporada para facilitar la localización."
+    },
+    "fr": {
+      "content": "---\nUtilisez un flux de travail de référence vidéo : fournissez une vidéo de commerce électronique existante comme référence afin que le système en extraie le rythme, les transitions, le comportement de la caméra et le flux narratif, puis réapplique cette structure à un produit différent pour générer une nouvelle vidéo (référence → réutilisation structurée → nouvelle sortie). Utilisez la cohérence d'identité de Seedance 2.0 pour maintenir la cohérence des personnages/produits lors de la génération de variantes inter-marchés, associée à une traduction intégrée pour faciliter la localisation.\n---"
+    },
+    "ja": {
+      "content": "---\nビデオリファレンスワークフローを使用します：既存のeコマースビデオをリファレンスとして入力し、システムがペーシング、トランジション、カメラの動き、ナラティブの流れを抽出し、その構造を異なる製品に再適用して新しいビデオを生成します（リファレンス → 構造の再利用 → 新しい出力）。  \nSeedance 2.0のアイデンティティ一貫性を使用して、クロスマーケットバリアントを生成する際にキャラクターや製品を一貫して保ち、組み込みの翻訳機能と組み合わせてローカライズを容易にします。  \n---"
+    },
+    "ko": {
+      "content": "비디오 참조 워크플로우 사용: 기존 전자상거래 비디오를 참조로 입력하여 시스템이 속도, 전환, 카메라 동작 및 내러티브 흐름을 추출한 다음, 그 구조를 다른 제품에 재적용하여 새로운 비디오를 생성합니다 (참조 → 구조적 재사용 → 새로운 출력).  \nSeedance 2.0의 정체성 일관성을 사용하여 시장 간 변형을 생성할 때 캐릭터/제품의 일관성을 유지하고, 내장된 번역 기능과 함께 사용하여 더 쉬운 현지화를 지원합니다."
+    },
+    "pt": {
+      "content": "---\nUse um fluxo de trabalho de Referência de Vídeo: forneça um vídeo de ecommerce existente como referência para que o sistema extraia o ritmo, transições, comportamento da câmera e fluxo narrativo, e então reaplique essa estrutura a um produto diferente para gerar um novo vídeo (reference → structured reuse → new output).  \nUse a consistência de identidade do Seedance 2.0 para manter personagens/produtos consistentes ao gerar variantes para diferentes mercados, combinado com tradução integrada para facilitar a localização.  \n---"
+    },
+    "zh": {
+      "content": "使用视频参考工作流程：将现有的电商视频作为参考输入系统，以提取节奏、转场、镜头运动和叙事流，然后将该结构重新应用于不同的产品以生成新视频（reference → structured reuse → new output）。  \n使用Seedance 2.0的身份一致性功能，在生成跨市场变体时保持角色/产品的一致性，并结合内置翻译以便于本地化。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2055406489188336032",
+  "title": "Use GPT Image 2.0 to generate the game UI, then use Seedance 2.0 video to add…",
+  "content": "Use GPT Image 2.0 to generate the game UI, then use Seedance 2.0 video to add motion and make specific regions clickable to build an interactive video-based game without code or 3D models.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055399504682315776/img/fFY4_RwX073GtFa_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055406489188336032.mp4",
+  "sourceLink": "https://x.com/olivy2333/status/2055406489188336032",
+  "sourcePublishedAt": "2026-05-15",
+  "author": {
+    "name": "Olivia Fu",
+    "link": "https://x.com/olivy2333"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Game UI",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image 2.0 to generate the game UI, then use Seedance 2.0 video to add motion and make specific regions clickable to build an interactive video-based game without code or 3D models.",
+  "translations": {
+    "es": {
+      "content": "Usa GPT Image 2.0 para generar la interfaz de usuario del juego, luego utiliza Seedance 2.0 video para añadir movimiento y hacer que regiones específicas sean clicables, con el fin de crear un juego interactivo basado en video sin necesidad de código o modelos 3D."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2.0 pour générer l'interface utilisateur du jeu, puis utilisez Seedance 2.0 video pour ajouter du mouvement et rendre certaines régions cliquables afin de créer un jeu interactif basé sur la vidéo sans code ni modèles 3D."
+    },
+    "ja": {
+      "content": "GPT Image 2.0を使用してゲームUIを生成し、その後、Seedance 2.0ビデオを使用して動きを追加し、特定の領域をクリック可能にして、コードや3Dモデルを使用せずにインタラクティブなビデオベースのゲームを構築します。"
+    },
+    "ko": {
+      "content": "GPT Image 2.0을 사용하여 게임 UI를 생성한 후, Seedance 2.0 비디오를 사용하여 모션을 추가하고 특정 영역을 클릭 가능하게 만들어 코드나 3D 모델 없이 인터랙티브 비디오 기반 게임을 구축하세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image 2.0 para gerar a interface do usuário do jogo, depois use o Seedance 2.0 video para adicionar movimento e tornar regiões específicas clicáveis, criando um jogo interativo baseado em vídeo sem código ou modelos 3D."
+    },
+    "zh": {
+      "content": "使用GPT Image 2.0生成游戏UI，然后使用Seedance 2.0视频添加运动效果，并使特定区域可点击，以便在无需代码或3D模型的情况下构建交互式视频游戏。"
+    }
+  }
+}

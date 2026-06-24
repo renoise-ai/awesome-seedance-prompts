@@ -1,0 +1,42 @@
+{
+  "id": "2056291056413528312",
+  "title": "Create a stylized 3D character sheet first (e.g., in GPT Image 2) and use it as…",
+  "content": "Create a stylized 3D character sheet first (e.g., in GPT Image 2) and use it as the character reference in Seedance 2.0 Omni to keep the character consistent across shots.\n\nCreate a storyboard sheet and pass it into Seedance 2.0 Omni as a reference, explicitly instructing it to use the storyboard as the exact sequential visual keyframe reference and to follow it shot-by-shot.\n\nIn your Seedance prompt, tell the model to treat each storyboard panel as an independent cinematic shot (not a single image) to enforce per-shot composition and continuity.\n\nInclude explicit negative constraints in the Seedance prompt (No text, no label, no watermark, no logo; No background score, no music) to prevent unwanted overlays and audio.\n\nWrite the Seedance prompt as a numbered shot list (Shot 01…Shot 12) with concrete camera framing/moves (extreme close-up, low-angle, overhead, side tracking, push-in) and action beats to control pacing and cinematography.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aimikoda/status/2056291056413528312",
+  "sourcePublishedAt": "2026-05-18",
+  "author": {
+    "name": "Kōda",
+    "link": "https://x.com/aimikoda"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "3D Animation",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a stylized 3D character sheet first (e.g., in GPT Image 2) and use it as the character reference in Seedance 2.0 Omni to keep the character consistent across shots.\n\nCreate a storyboard sheet and pass it into Seedance 2.0 Omni as a reference, explicitly instructing it to use the storyboard as the exact sequential visual keyframe reference and to follow it shot-by-shot.\n\nIn your Seedance prompt, tell the model to treat each storyboard panel as an independent cinematic shot (not a single image) to enforce per-shot composition and continuity.\n\nInclude explicit negative constraints in the Seedance prompt (No text, no label, no watermark, no logo; No background score, no music) to prevent unwanted overlays and audio.\n\nWrite the Seedance prompt as a numbered shot list (Shot 01…Shot 12) with concrete camera framing/moves (extreme close-up, low-angle, overhead, side tracking, push-in) and action beats to control pacing and cinematography.",
+  "translations": {
+    "es": {
+      "content": "Crea primero una hoja de personaje 3D estilizada (por ejemplo, en GPT Image 2) y úsala como referencia del personaje en Seedance 2.0 Omni para mantener la consistencia del personaje en todos los planos.\n\nCrea una hoja de storyboard y pásala a Seedance 2.0 Omni como referencia, instruyéndole explícitamente que use el storyboard como la referencia visual secuencial exacta de los fotogramas clave y que lo siga plano por plano.\n\nEn tu prompt de Seedance, dile al modelo que trate cada panel del storyboard como un plano cinematográfico independiente (no una sola imagen) para reforzar la composición y continuidad por plano.\n\nIncluye restricciones negativas explícitas en el prompt de Seedance (No texto, no etiqueta, no marca de agua, no logo; Sin música de fondo, sin música) para evitar superposiciones y audio no deseados.\n\nEscribe el prompt de Seedance como una lista numerada de planos (Plano 01…Plano 12) con encuadres/movimientos de cámara concretos (primerísimo primer plano, ángulo bajo, vista aérea, seguimiento lateral, acercamiento) y momentos de acción para controlar el ritmo y la cinematografía."
+    },
+    "fr": {
+      "content": "Créez d'abord une feuille de personnage 3D stylisée (par exemple, dans GPT Image 2) et utilisez-la comme référence de personnage dans Seedance 2.0 Omni pour maintenir la cohérence du personnage à travers les prises de vue.\n\nCréez une feuille de storyboard et intégrez-la dans Seedance 2.0 Omni en tant que référence, en lui demandant explicitement d'utiliser le storyboard comme référence visuelle séquentielle exacte et de le suivre plan par plan.\n\nDans votre prompt Seedance, indiquez au modèle de traiter chaque panneau du storyboard comme un plan cinématographique indépendant (et non comme une seule image) pour imposer une composition et une continuité par plan.\n\nIncluez des contraintes négatives explicites dans le prompt Seedance (Pas de texte, pas d'étiquette, pas de filigrane, pas de logo ; Pas de musique de fond, pas de musique) pour éviter les superpositions et l'audio indésirables.\n\nRédigez le prompt Seedance sous forme de liste de plans numérotés (Plan 01…Plan 12) avec des cadrages/mouvements de caméra concrets (gros plan extrême, contre-plongée, vue aérienne, suivi latéral, zoom avant) et des temps forts d'action pour contrôler le rythme et la cinématographie."
+    },
+    "ja": {
+      "content": "---\nまず、スタイライズされた3Dキャラクターシートを作成し（例：GPT Image 2で）、Seedance 2.0 Omniでキャラクターを一貫して表現するためのキャラクターリファレンスとして使用します。\n\nストーリーボードシートを作成し、Seedance 2.0 Omniにリファレンスとして渡し、ストーリーボードを正確なシーケンシャルビジュアルキーフレームリファレンスとして使用し、ショットごとにそれに従うように明示的に指示します。\n\nSeedanceのプロンプトで、モデルに各ストーリーボードパネルを独立したシネマティックショット（単一の画像ではなく）として扱うように指示し、ショットごとの構図と連続性を強化します。\n\nSeedanceのプロンプトに明示的なネガティブ制約を含めます（テキストなし、ラベルなし、透かしなし、ロゴなし；背景音楽なし、音楽なし）で、不要なオーバーレイやオーディオを防ぎます。\n\nSeedanceのプロンプトを具体的なカメラフレーミング/動き（極端なクローズアップ、ローアングル、オーバーヘッド、サイドトラッキング、プッシュイン）とアクションビートを含む番号付きショットリスト（ショット01…ショット12）として書き、ペーシングとシネマトグラフィーを制御します。"
+    },
+    "ko": {
+      "content": "먼저 스타일화된 3D 캐릭터 시트를 생성하고(예: GPT Image 2에서) 이를 Seedance 2.0 Omni에서 캐릭터 참조로 사용하여 샷 전반에 걸쳐 캐릭터의 일관성을 유지하세요.\n\n스토리보드 시트를 생성하여 Seedance 2.0 Omni에 참조로 전달하고, 스토리보드를 정확한 순차적 비주얼 키프레임 참조로 사용하도록 명확히 지시하며 샷별로 따르도록 하세요.\n\nSeedance 프롬프트에서 모델에게 각 스토리보드 패널을 독립적인 시네마틱 샷으로 취급하도록 지시하여 샷별 구성과 연속성을 강화하세요.\n\nSeedance 프롬프트에 명시적인 부정적 제약 조건을 포함하세요 (텍스트 없음, 라벨 없음, 워터마크 없음, 로고 없음; 배경 음악 없음, 음악 없음) 불필요한 오버레이와 오디오를 방지하기 위해.\n\nSeedance 프롬프트를 번호가 매겨진 샷 리스트(Shot 01…Shot 12)로 작성하고 구체적인 카메라 프레이밍/움직임(극단적 클로즈업, 로우 앵글, 오버헤드, 사이드 트래킹, 푸시 인)과 액션 비트를 포함하여 페이싱과 촬영 기법을 제어하세요."
+    },
+    "pt": {
+      "content": "Crie primeiro uma folha de personagem 3D estilizada (por exemplo, no GPT Image 2) e use-a como referência de personagem no Seedance 2.0 Omni para manter a consistência do personagem em todas as cenas.\n\nCrie uma folha de storyboard e passe-a para o Seedance 2.0 Omni como referência, instruindo explicitamente para usar o storyboard como referência visual sequencial exata de keyframes e segui-lo cena por cena.\n\nNo seu prompt do Seedance, diga ao modelo para tratar cada painel do storyboard como uma cena cinematográfica independente (não uma única imagem) para garantir a composição e continuidade por cena.\n\nInclua restrições negativas explícitas no prompt do Seedance (Sem texto, sem rótulo, sem marca d'água, sem logotipo; Sem trilha sonora, sem música) para evitar sobreposições indesejadas e áudio.\n\nEscreva o prompt do Seedance como uma lista de cenas numeradas (Cena 01…Cena 12) com enquadramentos/movimentos de câmera concretos (close-up extremo, ângulo baixo, vista aérea, rastreamento lateral, push-in) e momentos de ação para controlar o ritmo e a cinematografia."
+    },
+    "zh": {
+      "content": "首先创建一个风格化的3D角色图（例如，在GPT Image 2中），并在Seedance 2.0 Omni中将其用作角色参考，以确保角色在不同镜头中的一致性。\n\n创建一个分镜表，并将其导入Seedance 2.0 Omni作为参考，明确指示其使用分镜作为精确的顺序视觉关键帧参考，并逐镜头遵循。\n\n在您的Seedance prompt中，告诉模型将每个分镜面板视为独立的cinematic镜头（而不是单一图像），以加强每个镜头的构图和连续性。\n\n在Seedance prompt中包含明确的负面约束（无文字、无标签、无水印、无标志；无背景音乐、无音乐），以防止不需要的叠加和音频。\n\n将Seedance prompt写成编号的镜头列表（Shot 01…Shot 12），包含具体的相机构图/移动（极近景、低角度、俯拍、侧面跟踪、推进）和动作节奏，以控制节奏和摄影。"
+    }
+  }
+}

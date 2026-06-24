@@ -1,0 +1,42 @@
+{
+  "id": "2049190660297871677",
+  "title": "Lock the first and last frame in Seedance 2.0 (HeyGen) to control AI B-roll…",
+  "content": "Lock the first and last frame in Seedance 2.0 (HeyGen) to control AI B-roll continuity.  \nUse reference images/clips in Seedance 2.0 (HeyGen) to expand them into full scenes.  \nUse a 5-part prompt system in Seedance 2.0 (HeyGen) to structure prompts and reduce randomness in B-roll generation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2049182504238899200/img/r4gtvMX2D-PBYA3Y.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2049190660297871677.mp4",
+  "sourceLink": "https://x.com/HeyGen/status/2049190660297871677",
+  "sourcePublishedAt": "2026-04-28",
+  "author": {
+    "name": "HeyGen",
+    "link": "https://x.com/HeyGen"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Lock the first and last frame in Seedance 2.0 (HeyGen) to control AI B-roll continuity.  \nUse reference images/clips in Seedance 2.0 (HeyGen) to expand them into full scenes.  \nUse a 5-part prompt system in Seedance 2.0 (HeyGen) to structure prompts and reduce randomness in B-roll generation.",
+  "translations": {
+    "es": {
+      "content": "Bloquea el primer y último fotograma en Seedance 2.0 (HeyGen) para controlar la continuidad del B-roll de IA.  \nUsa imágenes/clips de referencia en Seedance 2.0 (HeyGen) para expandirlos en escenas completas.  \nUtiliza un sistema de prompts de 5 partes en Seedance 2.0 (HeyGen) para estructurar los prompts y reducir la aleatoriedad en la generación de B-roll."
+    },
+    "fr": {
+      "content": "---\nVerrouillez le premier et le dernier cadre dans Seedance 2.0 (HeyGen) pour contrôler la continuité des plans B générés par l'IA.  \nUtilisez des images/clips de référence dans Seedance 2.0 (HeyGen) pour les développer en scènes complètes.  \nUtilisez un système de prompt en 5 parties dans Seedance 2.0 (HeyGen) pour structurer les prompts et réduire l'aléatoire dans la génération des plans B.  \n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0 (HeyGen)で最初と最後のフレームを固定し、AI Bロールの連続性を制御します。  \nSeedance 2.0 (HeyGen)で参照画像/クリップを使用して、それらを完全なシーンに拡張します。  \nSeedance 2.0 (HeyGen)で5部構成のプロンプトシステムを使用して、プロンプトを構築し、Bロール生成のランダム性を減らします。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0 (HeyGen)에서 첫 번째와 마지막 프레임을 고정하여 AI B-roll의 연속성을 제어하세요.  \nSeedance 2.0 (HeyGen)에서 참조 이미지/클립을 사용하여 전체 장면으로 확장하세요.  \nSeedance 2.0 (HeyGen)에서 5단계 프롬프트 시스템을 사용하여 프롬프트를 구조화하고 B-roll 생성의 무작위성을 줄이세요."
+    },
+    "pt": {
+      "content": "---\nTrave o primeiro e o último quadro no Seedance 2.0 (HeyGen) para controlar a continuidade do B-roll da IA.  \nUse imagens/clipes de referência no Seedance 2.0 (HeyGen) para expandi-los em cenas completas.  \nUse um sistema de prompt em 5 partes no Seedance 2.0 (HeyGen) para estruturar prompts e reduzir a aleatoriedade na geração de B-roll.\n---"
+    },
+    "zh": {
+      "content": "在Seedance 2.0 (HeyGen)中锁定首尾帧以控制AI B-roll的连续性。  \n在Seedance 2.0 (HeyGen)中使用参考图像/剪辑将其扩展为完整场景。  \n在Seedance 2.0 (HeyGen)中使用五部分提示系统来构建提示，并减少B-roll生成中的随机性。"
+    }
+  }
+}

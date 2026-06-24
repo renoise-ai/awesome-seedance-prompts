@@ -1,0 +1,42 @@
+{
+  "id": "2059522723865641134",
+  "title": "Storyboard your video first by mapping scenes on an infinite canvas, visually…",
+  "content": "Storyboard your video first by mapping scenes on an infinite canvas, visually refine scene transitions (Figma-style), then generate the final video using Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2059522629749657600/pu/img/EaFJjHb7HrGc1diQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059522723865641134.mp4",
+  "sourceLink": "https://x.com/AIwithSynthia/status/2059522723865641134",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Synthia",
+    "link": "https://x.com/AIwithSynthia"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Storyboard your video first by mapping scenes on an infinite canvas, visually refine scene transitions (Figma-style), then generate the final video using Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Primero, crea un guion gráfico de tu video mapeando las escenas en un lienzo infinito, refina visualmente las transiciones de escena (al estilo Figma), luego genera el video final usando Seedance 2.0."
+    },
+    "fr": {
+      "content": "Commencez par créer le storyboard de votre vidéo en cartographiant les scènes sur une toile infinie, affinez visuellement les transitions entre les scènes (à la manière de Figma), puis générez la vidéo finale en utilisant Seedance 2.0."
+    },
+    "ja": {
+      "content": "まず、無限キャンバス上でシーンをマッピングしてビデオのストーリーボードを作成し、シーンのトランジションを視覚的に洗練（Figmaスタイル）した後、Seedance 2.0を使用して最終ビデオを生成します。"
+    },
+    "ko": {
+      "content": "먼저 무한 캔버스에 장면을 배치하여 비디오의 스토리보드를 작성하고, 장면 전환을 시각적으로 세련되게 다듬은 후 Seedance 2.0을 사용하여 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Primeiro, faça o storyboard do seu vídeo mapeando as cenas em uma tela infinita, refine visualmente as transições de cena (estilo Figma), e então gere o vídeo final usando o Seedance 2.0."
+    },
+    "zh": {
+      "content": "首先在无限画布上绘制视频的分镜头，通过视觉方式优化场景转换（类似Figma风格），然后使用Seedance 2.0生成最终视频。"
+    }
+  }
+}

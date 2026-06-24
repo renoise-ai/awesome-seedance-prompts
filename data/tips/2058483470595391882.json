@@ -1,0 +1,42 @@
+{
+  "id": "2058483470595391882",
+  "title": "Donner une image à GPT pour générer un storyboard, puis animer ce storyboard…",
+  "content": "Donner une image à GPT pour générer un storyboard, puis animer ce storyboard avec Seedance 2.0 pour produire une vidéo (format storyboard animé).",
+  "language": "fr",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Simk933/status/2058483470595391882",
+  "sourcePublishedAt": "2026-05-24",
+  "author": {
+    "name": "Simk",
+    "link": "https://x.com/Simk933"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Donner une image à GPT pour générer un storyboard, puis animer ce storyboard avec Seedance 2.0 pour produire une vidéo (format storyboard animé).",
+  "translations": {
+    "en": {
+      "content": "Provide an image to GPT to generate a storyboard, then animate this storyboard with Seedance 2.0 to produce a video (animated storyboard format)."
+    },
+    "es": {
+      "content": "Dar una imagen a GPT para generar un storyboard, luego animar este storyboard con Seedance 2.0 para producir un video (formato storyboard animado)."
+    },
+    "ja": {
+      "content": "GPTに画像を提供してストーリーボードを生成し、そのストーリーボードをSeedance 2.0でアニメーション化して動画（アニメーションストーリーボード形式）を制作する。"
+    },
+    "ko": {
+      "content": "GPT에 이미지를 제공하여 스토리보드를 생성한 후, Seedance 2.0을 사용하여 이 스토리보드를 애니메이션으로 만들어 비디오를 제작합니다 (애니메이션 스토리보드 형식)."
+    },
+    "pt": {
+      "content": "Dar uma imagem ao GPT para gerar um storyboard, depois animar esse storyboard com o Seedance 2.0 para produzir um vídeo (formato de storyboard animado)."
+    },
+    "zh": {
+      "content": "将图像提供给GPT以生成分镜，然后使用Seedance 2.0将该分镜动画化，制作视频（动画分镜格式）。"
+    }
+  }
+}

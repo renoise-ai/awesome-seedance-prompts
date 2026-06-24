@@ -1,0 +1,43 @@
+{
+  "id": "2056211620700016838",
+  "title": "Create a full storyboard sheet first (characters, shots, camera moves, timing…",
+  "content": "Create a full storyboard sheet first (characters, shots, camera moves, timing, and visual direction) using GPT Image 2, then feed that storyboard into Seedance 2.0 to generate the final 15s animation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056211351010459648/img/3BhLPGSOeCcWqBeb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056211620700016838.mp4",
+  "sourceLink": "https://x.com/gptproto/status/2056211620700016838",
+  "sourcePublishedAt": "2026-05-18",
+  "author": {
+    "name": "GPTProto Official",
+    "link": "https://x.com/gptproto"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a full storyboard sheet first (characters, shots, camera moves, timing, and visual direction) using GPT Image 2, then feed that storyboard into Seedance 2.0 to generate the final 15s animation.",
+  "translations": {
+    "es": {
+      "content": "Crea primero una hoja de storyboard completa (personajes, tomas, movimientos de cámara, tiempo y dirección visual) usando GPT Image 2, luego introduce ese storyboard en Seedance 2.0 para generar la animación final de 15 segundos."
+    },
+    "fr": {
+      "content": "Créez d'abord une feuille de storyboard complète (personnages, plans, mouvements de caméra, timing et direction visuelle) en utilisant GPT Image 2, puis intégrez ce storyboard dans Seedance 2.0 pour générer l'animation finale de 15 secondes."
+    },
+    "ja": {
+      "content": "---\nまず、GPT Image 2を使用して、フルストーリーボードシート（キャラクター、ショット、カメラの動き、タイミング、ビジュアルディレクション）を作成し、そのストーリーボードをSeedance 2.0に入力して最終的な15秒のアニメーションを生成します。\n---"
+    },
+    "ko": {
+      "content": "먼저 GPT Image 2를 사용하여 전체 스토리보드 시트를 만드세요 (캐릭터, 샷, 카메라 움직임, 타이밍 및 시각적 방향 포함). 그런 다음 그 스토리보드를 Seedance 2.0에 입력하여 최종 15초 애니메이션을 생성하세요."
+    },
+    "pt": {
+      "content": "Crie primeiro uma folha de storyboard completa (personagens, cenas, movimentos de câmera, tempo e direção visual) usando o GPT Image 2, depois insira esse storyboard no Seedance 2.0 para gerar a animação final de 15 segundos."
+    },
+    "zh": {
+      "content": "首先使用GPT Image 2创建完整的分镜表（角色、镜头、摄像机移动、时间安排和视觉方向），然后将该分镜表输入Seedance 2.0生成最终的15秒动画。"
+    }
+  }
+}

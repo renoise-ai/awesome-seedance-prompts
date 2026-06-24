@@ -1,0 +1,43 @@
+{
+  "id": "2056687979037405206",
+  "title": "Use a pre-production pipeline before Seedance 2.0: have Claude Code pull visual…",
+  "content": "Use a pre-production pipeline before Seedance 2.0: have Claude Code pull visual references from Pinterest, build a mood/style direction, then generate a 6-scene storyboard with GPT Images 2.0 (via Higgsfield MCP) including on-screen text, and only then animate those scenes in Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056687924050104320/img/QrXs2XgJHnCU824v.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056687979037405206.mp4",
+  "sourceLink": "https://x.com/adityarao310/status/2056687979037405206",
+  "sourcePublishedAt": "2026-05-19",
+  "author": {
+    "name": "Aditya ⚡Rao",
+    "link": "https://x.com/adityarao310"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a pre-production pipeline before Seedance 2.0: have Claude Code pull visual references from Pinterest, build a mood/style direction, then generate a 6-scene storyboard with GPT Images 2.0 (via Higgsfield MCP) including on-screen text, and only then animate those scenes in Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una línea de producción previa antes de Seedance 2.0: haz que Claude Code extraiga referencias visuales de Pinterest, construye una dirección de estilo/ambiente, luego genera un storyboard de 6 escenas con GPT Images 2.0 (a través de Higgsfield MCP) incluyendo texto en pantalla, y solo entonces anima esas escenas en Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez un pipeline de pré-production avant Seedance 2.0 : demandez à Claude Code de récupérer des références visuelles sur Pinterest, construisez une direction de style/ambiance, puis générez un storyboard de 6 scènes avec GPT Images 2.0 (via Higgsfield MCP) incluant du texte à l'écran, et seulement ensuite animez ces scènes dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "Seedance 2.0の前にプリプロダクションパイプラインを使用します。Claude Codeを使ってPinterestからビジュアルリファレンスを引き出し、ムード/スタイルの方向性を構築し、その後、Higgsfield MCPを介してGPT Images 2.0で6シーンのストーリーボードを生成し（画面上のテキストを含む）、そのシーンをSeedance 2.0でアニメーション化します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0 이전에 사전 제작 파이프라인을 사용하세요: Claude Code가 Pinterest에서 시각적 참고 자료를 가져오고, 분위기/스타일 방향을 설정한 다음, Higgsfield MCP를 통해 GPT Images 2.0으로 6개의 장면 스토리보드를 생성하고 화면 텍스트를 포함한 후에만 Seedance 2.0에서 해당 장면을 애니메이션화하세요."
+    },
+    "pt": {
+      "content": "Use um pipeline de pré-produção antes do Seedance 2.0: peça ao Claude Code para buscar referências visuais no Pinterest, construa uma direção de humor/estilo, depois gere um storyboard de 6 cenas com o GPT Images 2.0 (via Higgsfield MCP) incluindo texto na tela, e só então anime essas cenas no Seedance 2.0."
+    },
+    "zh": {
+      "content": "在使用Seedance 2.0之前，先进行预制作流程：让Claude Code从Pinterest提取视觉参考，建立情绪/风格方向，然后通过Higgsfield MCP使用GPT Images 2.0生成包含屏幕文本的6场景分镜脚本，最后在Seedance 2.0中对这些场景进行动画制作。"
+    }
+  }
+}

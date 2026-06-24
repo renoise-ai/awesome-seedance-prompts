@@ -1,0 +1,43 @@
+{
+  "id": "2068956150079639732",
+  "title": "Use a workflow of Image Reference → GPT Custom Instructions → GPT Image 2.0…",
+  "content": "Use a workflow of Image Reference → GPT Custom Instructions → GPT Image 2.0 Storyboard → Seedance 2.0 Prompt to turn a reference image into a storyboard and then into a Seedance-ready prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2068835327859679232/img/bEXnALVjiWS5he9I.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068956150079639732.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2068956150079639732",
+  "sourcePublishedAt": "2026-06-22",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a workflow of Image Reference → GPT Custom Instructions → GPT Image 2.0 Storyboard → Seedance 2.0 Prompt to turn a reference image into a storyboard and then into a Seedance-ready prompt.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Referencia de Imagen → Instrucciones Personalizadas de GPT → Storyboard de GPT Imagen 2.0 → Seedance 2.0 Prompt para convertir una imagen de referencia en un storyboard y luego en un prompt listo para Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail composé de Référence d'image → Instructions personnalisées GPT → Storyboard GPT Image 2.0 → Seedance 2.0 Prompt pour transformer une image de référence en storyboard, puis en un prompt prêt pour Seedance."
+    },
+    "ja": {
+      "content": "画像参照 → GPTカスタム指示 → GPTイメージ2.0ストーリーボード → Seedance 2.0 Promptのワークフローを使用して、参照画像をストーリーボードに変換し、その後Seedance対応のプロンプトに変換します。"
+    },
+    "ko": {
+      "content": "이미지 참조 → GPT 사용자 정의 지침 → GPT 이미지 2.0 스토리보드 → Seedance 2.0 프롬프트의 워크플로를 사용하여 참조 이미지를 스토리보드로 변환한 다음 Seedance 준비 프롬프트로 전환하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Referência de Imagem → Instruções Personalizadas do GPT → Storyboard do GPT Image 2.0 → Seedance 2.0 Prompt para transformar uma imagem de referência em um storyboard e, em seguida, em um prompt pronto para Seedance."
+    },
+    "zh": {
+      "content": "使用以下工作流程：图像参考 → GPT 自定义指令 → GPT 图像 2.0 分镜头脚本 → Seedance 2.0 Prompt，将参考图像转化为分镜头脚本，然后转化为适合 Seedance 的提示。"
+    }
+  }
+}

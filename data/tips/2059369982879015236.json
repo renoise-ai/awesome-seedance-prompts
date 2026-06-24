@@ -1,0 +1,43 @@
+{
+  "id": "2059369982879015236",
+  "title": "Use a storyboard workflow: sketch ideas visually, generate key frames with…",
+  "content": "Use a storyboard workflow: sketch ideas visually, generate key frames with GPT-image-2, arrange scenes on an infinite collaborative canvas, then animate/bring the storyboard to life in Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059369923848417280/img/qAA9Ki-L6wfn1B5d.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059369982879015236.mp4",
+  "sourceLink": "https://x.com/jamescoder12/status/2059369982879015236",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "James",
+    "link": "https://x.com/jamescoder12"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a storyboard workflow: sketch ideas visually, generate key frames with GPT-image-2, arrange scenes on an infinite collaborative canvas, then animate/bring the storyboard to life in Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de storyboard: esboza ideas visualmente, genera fotogramas clave con GPT-image-2, organiza escenas en un lienzo colaborativo infinito, luego anima/da vida al storyboard en Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail de storyboard : esquissez des idées visuellement, générez des images clés avec GPT-image-2, organisez les scènes sur une toile collaborative infinie, puis animez/donnez vie au storyboard dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "ストーリーボードのワークフローを使用します。アイデアを視覚的にスケッチし、GPT-image-2でキーフレームを生成し、無限のコラボレーションキャンバス上にシーンを配置し、その後、Seedance 2.0でストーリーボードをアニメーション化/実現します。"
+    },
+    "ko": {
+      "content": "스토리보드 워크플로우를 사용하세요: 아이디어를 시각적으로 스케치하고, GPT-image-2로 주요 프레임을 생성한 후, 무한 협업 캔버스에 장면을 배열하고, Seedance 2.0에서 스토리보드를 애니메이션으로 생동감 있게 만드세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de storyboard: esboce ideias visualmente, gere quadros-chave com GPT-image-2, organize cenas em uma tela colaborativa infinita e, em seguida, anime/dê vida ao storyboard no Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用分镜头工作流程：将想法以视觉方式草图化，使用GPT-image-2生成关键帧，在无限协作画布上排列场景，然后在Seedance 2.0中动画化/赋予分镜头生命。"
+    }
+  }
+}

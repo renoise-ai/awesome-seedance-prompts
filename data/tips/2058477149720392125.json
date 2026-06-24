@@ -1,0 +1,42 @@
+{
+  "id": "2058477149720392125",
+  "title": "Use character turnaround sheets (front/side/back views) as the image input in…",
+  "content": "Use character turnaround sheets (front/side/back views) as the image input in Seedance 2.0 to reduce realistic face moderation issues.\n\nIn your canvas workflow, drag your character image from the Assets tab, click Character Turnaround to auto-generate a 3-view sheet, then create a new video node and feed the turnaround sheet into Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058474024662081536/img/WvXNbDHgM4ETMv_B.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058477149720392125.mp4",
+  "sourceLink": "https://x.com/underwoodxie96/status/2058477149720392125",
+  "sourcePublishedAt": "2026-05-24",
+  "author": {
+    "name": "underwood",
+    "link": "https://x.com/underwoodxie96"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use character turnaround sheets (front/side/back views) as the image input in Seedance 2.0 to reduce realistic face moderation issues.\n\nIn your canvas workflow, drag your character image from the Assets tab, click Character Turnaround to auto-generate a 3-view sheet, then create a new video node and feed the turnaround sheet into Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Utiliza hojas de rotación de personajes (vistas frontal/lateral/trasera) como la imagen de entrada en Seedance 2.0 para reducir problemas de moderación de rostros realistas.\n\nEn tu flujo de trabajo de lienzo, arrastra la imagen de tu personaje desde la pestaña de Activos, haz clic en Character Turnaround para generar automáticamente una hoja de 3 vistas, luego crea un nuevo nodo de video e introduce la hoja de rotación en Seedance 2.0."
+    },
+    "fr": {
+      "content": "---\nUtilisez des feuilles de rotation de personnage (vues de face/côté/dos) comme entrée d'image dans Seedance 2.0 pour réduire les problèmes de modération des visages réalistes.\n\nDans votre flux de travail sur toile, faites glisser l'image de votre personnage depuis l'onglet Assets, cliquez sur Character Turnaround pour générer automatiquement une feuille à 3 vues, puis créez un nouveau nœud vidéo et intégrez la feuille de rotation dans Seedance 2.0.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0でキャラクターのターンアラウンドシート（正面/側面/背面ビュー）を画像入力として使用し、リアルな顔のモデレーション問題を軽減します。\n\nキャンバスワークフローでは、Assetsタブからキャラクター画像をドラッグし、Character Turnaroundをクリックして3ビューシートを自動生成します。その後、新しいビデオノードを作成し、ターンアラウンドシートをSeedance 2.0に入力します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 현실적인 얼굴 조정 문제를 줄이기 위해 캐릭터 턴어라운드 시트(앞/옆/뒤 보기)를 이미지 입력으로 사용하세요.\n\n캔버스 워크플로우에서 Assets 탭에서 캐릭터 이미지를 드래그하고, Character Turnaround를 클릭하여 3-뷰 시트를 자동 생성한 다음, 새로운 비디오 노드를 생성하고 턴어라운드 시트를 Seedance 2.0에 입력하세요.\n---"
+    },
+    "pt": {
+      "content": "Use folhas de turnaround de personagem (vistas frontal/lateral/traseira) como entrada de imagem no Seedance 2.0 para reduzir problemas de moderação de rostos realistas.\n\nNo seu fluxo de trabalho de canvas, arraste a imagem do seu personagem da aba Assets, clique em Character Turnaround para gerar automaticamente uma folha de 3 vistas, depois crie um novo nó de vídeo e insira a folha de turnaround no Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用角色旋转图（正面/侧面/背面视图）作为Seedance 2.0中的图像输入，以减少真实面部审核问题。\n\n在您的画布工作流程中，从资产标签中拖动角色图像，点击Character Turnaround自动生成3视图图纸，然后创建一个新的视频节点并将旋转图纸输入Seedance 2.0。"
+    }
+  }
+}

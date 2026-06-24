@@ -1,0 +1,44 @@
+{
+  "id": "2056059196961947748",
+  "title": "Base prompt → storyboard/image generation → prompt refinement → Seedance 2.0…",
+  "content": "Base prompt → storyboard/image generation → prompt refinement → Seedance 2.0 video node şeklinde bir pipeline kurarak fikirden görsele, görselden videoya kontrollü ilerle  \nRenoise AI Canvas içinde node’ları birbirine bağlayıp Seedance 2.0 video node’u en sona koyarak önce storyboard/görsel üret, sonra prompt’u rafine edip videoya geç",
+  "language": "tr",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/0kncn/status/2056059196961947748",
+  "sourcePublishedAt": "2026-05-17",
+  "author": {
+    "name": "Okan Can",
+    "link": "https://x.com/0kncn"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Base prompt → storyboard/image generation → prompt refinement → Seedance 2.0 video node şeklinde bir pipeline kurarak fikirden görsele, görselden videoya kontrollü ilerle  \nRenoise AI Canvas içinde node’ları birbirine bağlayıp Seedance 2.0 video node’u en sona koyarak önce storyboard/görsel üret, sonra prompt’u rafine edip videoya geç",
+  "translations": {
+    "en": {
+      "content": "By setting up a pipeline in the form of base prompt → storyboard/image generation → prompt refinement → Seedance 2.0 video node, progress from idea to visual, and from visual to video in a controlled manner.  \nWithin the Renoise AI Canvas, connect the nodes to each other and place the Seedance 2.0 video node at the end to first produce the storyboard/image, then refine the prompt and move on to video."
+    },
+    "es": {
+      "content": "Base prompt → storyboard/image generation → prompt refinement → Seedance 2.0 video node şeklinde bir pipeline kurarak fikirden görsele, görselden videoya kontrollü ilerle  \nRenoise AI Canvas içinde node’ları birbirine bağlayıp Seedance 2.0 video node’u en sona koyarak önce storyboard/görsel üret, sonra prompt’u rafine edip videoya geç"
+    },
+    "fr": {
+      "content": "---\nBase prompt → génération de storyboard/image → raffinement du prompt → établir un pipeline sous la forme d'un nœud vidéo Seedance 2.0 pour avancer de manière contrôlée de l'idée à l'image, de l'image à la vidéo  \nDans Renoise AI Canvas, connectez les nœuds entre eux et placez le nœud vidéo Seedance 2.0 à la fin pour d'abord produire le storyboard/l'image, puis affiner le prompt et passer à la vidéo  \n---"
+    },
+    "ja": {
+      "content": "---\nBase prompt → storyboard/image generation → prompt refinement → Seedance 2.0 video node という形でパイプラインを構築し、アイデアからビジュアルへ、ビジュアルからビデオへとコントロールされた進行を行う  \nRenoise AI Canvas 内でノードを互いに接続し、Seedance 2.0 video node を最後に配置して、まずストーリーボード/ビジュアルを生成し、その後プロンプトを洗練してビデオに移行する  \n---"
+    },
+    "ko": {
+      "content": "---\nBase prompt → storyboard/image generation → prompt refinement → Seedance 2.0 video node 형태로 파이프라인을 구축하여 아이디어에서 이미지로, 이미지에서 비디오로 통제된 진행  \nRenoise AI Canvas 안에서 노드들을 서로 연결하고 Seedance 2.0 video node를 맨 끝에 배치하여 먼저 스토리보드/이미지를 생성하고, 그 후 prompt를 정제하여 비디오로 전환  \n---"
+    },
+    "pt": {
+      "content": "Base prompt → storyboard/image generation → prompt refinement → Seedance 2.0 video node em um pipeline para avançar de ideia para visual, de visual para vídeo de forma controlada  \nDentro do Renoise AI Canvas, conecte os nodes e coloque o node de vídeo Seedance 2.0 no final para primeiro produzir o storyboard/visual, depois refine o prompt e passe para o vídeo"
+    },
+    "zh": {
+      "content": "---\n通过建立一个从基础提示→故事板/图像生成→提示优化→Seedance 2.0视频节点的流水线，从想法到图像，从图像到视频，进行有序控制  \n在Renoise AI Canvas中将节点连接起来，把Seedance 2.0视频节点放在最后，先生成故事板/图像，然后优化提示再转到视频  \n---"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2059133929093783728",
+  "title": "Create a quick Seedance workflow by turning a single input image into a GPT…",
+  "content": "Create a quick Seedance workflow by turning a single input image into a GPT Image 2.0 storyboard, then generating the final video in Seedance 2.0 (via yapper_so).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059027610450182144/img/9J_HvBn3kKjwYt9d.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059133929093783728.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2059133929093783728",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Create a quick Seedance workflow by turning a single input image into a GPT Image 2.0 storyboard, then generating the final video in Seedance 2.0 (via yapper_so).",
+  "translations": {
+    "es": {
+      "content": "Crea un flujo de trabajo rápido en Seedance convirtiendo una sola imagen de entrada en un storyboard de GPT Image 2.0, y luego genera el video final en Seedance 2.0 (a través de yapper_so)."
+    },
+    "fr": {
+      "content": "Créez un flux de travail Seedance rapide en transformant une seule image d'entrée en un storyboard GPT Image 2.0, puis générez la vidéo finale dans Seedance 2.0 (via yapper_so)."
+    },
+    "ja": {
+      "content": "---\n単一の入力画像をGPT Image 2.0のストーリーボードに変換し、次にSeedance 2.0（yapper_so経由）で最終ビデオを生成することで、迅速なSeedanceワークフローを作成します。"
+    },
+    "ko": {
+      "content": "단일 입력 이미지를 GPT Image 2.0 스토리보드로 변환한 후, Seedance 2.0에서 최종 비디오를 생성하여 빠른 Seedance 워크플로우를 만드세요 (yapper_so를 통해)."
+    },
+    "pt": {
+      "content": "Crie um fluxo de trabalho rápido no Seedance transformando uma única imagem de entrada em um storyboard do GPT Image 2.0, e depois gerando o vídeo final no Seedance 2.0 (via yapper_so)."
+    },
+    "zh": {
+      "content": "通过将单个输入图像转换为GPT Image 2.0分镜，然后在Seedance 2.0中生成最终视频（通过yapper_so），创建一个快速的Seedance工作流程。"
+    }
+  }
+}

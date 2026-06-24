@@ -1,0 +1,42 @@
+{
+  "id": "2042316457623564783",
+  "title": "Structure your Seedance 2.0 prompt in layers: subject details first…",
+  "content": "Structure your Seedance 2.0 prompt in layers: subject details first (who/wardrobe/setting), then ONE action verb (avoid stacked verbs), then camera movement early, then a lighting anchor, then a quality suffix.  \nAlways end prompts with: 4K, Ultra HD, Rich details, Cinematic texture, Natural colors to avoid a drop in sharpness.  \nUse Seedance’s reference system by loading up to 9 images + 3 videos + 3 audio files, and place your most important reference in the first image slot because it carries the most weight.  \nFor consistent characters, upload 3 separate face angles (front, three-quarter, profile) as individual images rather than a grid collage.  \nFor image-to-video, don’t describe the character in text—let the reference image define identity; only describe action + environment and keep the prompt under 80 words to prevent the text from fighting the image.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2042315911835582464/img/GHoFMDkw4hQHOo55.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2042316457623564783.mp4",
+  "sourceLink": "https://x.com/knoxtwts/status/2042316457623564783",
+  "sourcePublishedAt": "2026-04-09",
+  "author": {
+    "name": "KNOX",
+    "link": "https://x.com/knoxtwts"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Structure your Seedance 2.0 prompt in layers: subject details first (who/wardrobe/setting), then ONE action verb (avoid stacked verbs), then camera movement early, then a lighting anchor, then a quality suffix.  \nAlways end prompts with: 4K, Ultra HD, Rich details, Cinematic texture, Natural colors to avoid a drop in sharpness.  \nUse Seedance’s reference system by loading up to 9 images + 3 videos + 3 audio files, and place your most important reference in the first image slot because it carries the most weight.  \nFor consistent characters, upload 3 separate face angles (front, three-quarter, profile) as individual images rather than a grid collage.  \nFor image-to-video, don’t describe the character in text—let the reference image define identity; only describe action + environment and keep the prompt under 80 words to prevent the text from fighting the image.",
+  "translations": {
+    "es": {
+      "content": "Estructura tu prompt de Seedance 2.0 en capas: primero los detalles del sujeto (quién/vestuario/escenario), luego UN verbo de acción (evita verbos apilados), después el movimiento de cámara temprano, luego un ancla de iluminación, y finalmente un sufijo de calidad.  \nSiempre termina los prompts con: 4K, Ultra HD, Rich details, Cinematic texture, Natural colors para evitar una caída en la nitidez.  \nUtiliza el sistema de referencia de Seedance cargando hasta 9 imágenes + 3 videos + 3 archivos de audio, y coloca tu referencia más importante en el primer espacio de imagen porque tiene más peso.  \nPara personajes consistentes, sube 3 ángulos de cara separados (frontal, tres cuartos, perfil) como imágenes individuales en lugar de un collage en cuadrícula.  \nPara imagen a video, no describas al personaje en texto—deja que la imagen de referencia defina la identidad; solo describe la acción + el entorno y mantén el prompt bajo 80 palabras para evitar que el texto compita con la imagen."
+    },
+    "fr": {
+      "content": "Structurez votre prompt Seedance 2.0 en couches : détails du sujet d'abord (qui/garde-robe/cadre), puis UN verbe d'action (évitez les verbes empilés), puis un mouvement de caméra tôt, puis un ancrage d'éclairage, puis un suffixe de qualité.  \nTerminez toujours les prompts par : 4K, Ultra HD, Détails riches, Texture cinématographique, Couleurs naturelles pour éviter une baisse de netteté.  \nUtilisez le système de référence de Seedance en chargeant jusqu'à 9 images + 3 vidéos + 3 fichiers audio, et placez votre référence la plus importante dans le premier emplacement d'image car elle a le plus de poids.  \nPour des personnages cohérents, téléchargez 3 angles de visage séparés (face, trois-quarts, profil) en tant qu'images individuelles plutôt qu'une mosaïque.  \nPour l'image-vidéo, ne décrivez pas le personnage dans le texte—laissez l'image de référence définir l'identité ; décrivez uniquement l'action + l'environnement et gardez le prompt sous 80 mots pour éviter que le texte ne lutte contre l'image."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0のプロンプトを層構造で組み立てましょう：まず主題の詳細（誰/衣装/設定）、次に1つの動詞（動詞の重複は避ける）、次にカメラの動き、次に照明のアンカー、最後に品質の接尾辞を追加します。  \nプロンプトの最後には常に「4K, Ultra HD, Rich details, Cinematic texture, Natural colors」と記載し、シャープネスの低下を防ぎます。  \nSeedanceの参照システムを使用して、最大9枚の画像＋3本の動画＋3つの音声ファイルを読み込み、最も重要な参照を最初の画像スロットに配置してください。これは最も重みを持ちます。  \n一貫したキャラクターのためには、3つの異なる顔の角度（正面、3/4、横顔）を個別の画像としてアップロードし、グリッドコラージュは避けてください。  \n画像から動画への変換では、テキストでキャラクターを説明せず、参照画像がアイデンティティを定義するようにし、アクション＋環境のみを説明し、プロンプトを80語以内に抑えてテキストが画像と競合しないようにします。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0 프롬프트를 계층 구조로 구성하세요: 주제 세부 사항을 먼저 작성하세요 (누구/의상/배경), 그런 다음 하나의 동사 (동사를 중첩하지 마세요), 그런 다음 카메라 움직임을 초기에, 그런 다음 조명 앵커, 그런 다음 품질 접미사를 추가하세요.  \n프롬프트는 항상 다음으로 끝내세요: 4K, Ultra HD, Rich details, Cinematic texture, Natural colors, 선명도가 떨어지지 않도록.  \nSeedance의 참조 시스템을 사용하여 최대 9개의 이미지 + 3개의 비디오 + 3개의 오디오 파일을 로드하고, 가장 중요한 참조를 첫 번째 이미지 슬롯에 배치하세요. 첫 번째 이미지 슬롯이 가장 큰 비중을 차지하기 때문입니다.  \n일관된 캐릭터를 위해, 3개의 개별 이미지로 각각의 얼굴 각도 (정면, 3/4, 프로필)를 업로드하세요. 격자 콜라주로 업로드하지 마세요.  \n이미지-비디오 변환의 경우, 텍스트로 캐릭터를 설명하지 마세요—참조 이미지가 정체성을 정의하도록 하세요; 행동 + 환경만 설명하고 프롬프트를 80단어 이하로 유지하여 텍스트가 이미지와 충돌하지 않도록 하세요."
+    },
+    "pt": {
+      "content": "Estruture seu prompt Seedance 2.0 em camadas: detalhes do sujeito primeiro (quem/figurino/cenário), depois UM verbo de ação (evite verbos empilhados), depois o movimento de câmera cedo, depois um ponto de iluminação, e então um sufixo de qualidade.  \nSempre termine os prompts com: 4K, Ultra HD, Detalhes ricos, Textura cinematográfica, Cores naturais para evitar uma queda na nitidez.  \nUse o sistema de referência do Seedance carregando até 9 imagens + 3 vídeos + 3 arquivos de áudio, e coloque sua referência mais importante no primeiro slot de imagem, pois ela tem mais peso.  \nPara personagens consistentes, carregue 3 ângulos de rosto separados (frontal, três quartos, perfil) como imagens individuais em vez de uma colagem em grade.  \nPara imagem-para-vídeo, não descreva o personagem em texto—deixe a imagem de referência definir a identidade; descreva apenas a ação + ambiente e mantenha o prompt com menos de 80 palavras para evitar que o texto entre em conflito com a imagem."
+    },
+    "zh": {
+      "content": "---\n将您的Seedance 2.0 prompt分层结构化：首先是主体细节（谁/服装/场景），然后是一个动作动词（避免堆叠动词），接着是早期的镜头运动，然后是光线锚点，最后是质量后缀。  \n始终以以下内容结束提示：4K，Ultra HD，丰富细节，电影质感，自然色彩，以避免清晰度下降。  \n使用Seedance的参考系统，最多加载9张图片+3个视频+3个音频文件，并将最重要的参考放在第一个图像槽中，因为它的权重最大。  \n为了保持角色一致性，上传3个独立的面部角度（正面、三分之四、侧面）作为单独的图像，而不是网格拼贴。  \n对于图像到视频，不要在文本中描述角色——让参考图像定义身份；只描述动作+环境，并将提示保持在80个字以内，以防止文本与图像争斗。\n---"
+    }
+  }
+}

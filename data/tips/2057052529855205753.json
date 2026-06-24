@@ -1,0 +1,39 @@
+{
+  "id": "2057052529855205753",
+  "title": "Generate UGC-style ad batches for the same product by varying creator types…",
+  "content": "Generate UGC-style ad batches for the same product by varying creator types, settings, and buying angles (e.g., glam selfie creator, dress-up lifestyle angle, gym-floor product proof) instead of making a single ad.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057052510989230080/img/AAAeWJD6msUvtCn7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057052529855205753.mp4",
+  "sourceLink": "https://x.com/davidfigeira/status/2057052529855205753",
+  "sourcePublishedAt": "2026-05-20",
+  "author": {
+    "name": "David",
+    "link": "https://x.com/davidfigeira"
+  },
+  "tags": [
+    "Product Ad",
+    "Beauty",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate UGC-style ad batches for the same product by varying creator types, settings, and buying angles (e.g., glam selfie creator, dress-up lifestyle angle, gym-floor product proof) instead of making a single ad.",
+  "translations": {
+    "es": {
+      "content": "Genera lotes de anuncios estilo UGC para el mismo producto variando los tipos de creadores, configuraciones y ángulos de compra (por ejemplo, creador de selfies glam, ángulo de estilo de vida de vestimenta, prueba de producto en el gimnasio) en lugar de hacer un solo anuncio."
+    },
+    "ja": {
+      "content": "---\n同じ製品のUGCスタイルの広告バッチを、クリエイターのタイプ、設定、購入アングルを変えて生成します（例：グラムセルフィークリエイター、ドレスアップライフスタイルアングル、ジムフロアでの製品証明）一つの広告を作るのではなく。"
+    },
+    "ko": {
+      "content": "하나의 광고를 만드는 대신, 다양한 창작자 유형, 설정, 구매 각도를 변화시켜 동일한 제품에 대한 UGC 스타일의 광고 배치를 생성하세요 (예: 글램 셀피 창작자, 드레스업 라이프스타일 각도, 체육관 바닥 제품 증명)."
+    },
+    "pt": {
+      "content": "Gere lotes de anúncios no estilo UGC para o mesmo produto, variando tipos de criadores, cenários e ângulos de compra (por exemplo, criador de selfies glam, ângulo de estilo de vida com troca de roupa, prova de produto no chão da academia) em vez de fazer um único anúncio."
+    },
+    "zh": {
+      "content": "通过改变创作者类型、场景和购买角度（例如，魅力自拍创作者、装扮生活方式角度、健身房产品证明），为同一产品生成UGC风格的广告批次，而不是制作单一广告。"
+    }
+  }
+}

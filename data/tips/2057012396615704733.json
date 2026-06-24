@@ -1,0 +1,41 @@
+{
+  "id": "2057012396615704733",
+  "title": "Start your Seedance workflow with visual inputs (reference images) before…",
+  "content": "Start your Seedance workflow with visual inputs (reference images) before generating video to guide the result.\n\nDefine the style, mood, and creative direction up front in your prompt/settings before running Seedance 2.0.\n\nUse Seedance 2.0 to generate the video from those visual inputs to maintain consistent world/scene continuity instead of disjointed shots.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/heyDhavall/status/2057012396615704733",
+  "sourcePublishedAt": "2026-05-20",
+  "author": {
+    "name": "Dhaval Makwana",
+    "link": "https://x.com/heyDhavall"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start your Seedance workflow with visual inputs (reference images) before generating video to guide the result.\n\nDefine the style, mood, and creative direction up front in your prompt/settings before running Seedance 2.0.\n\nUse Seedance 2.0 to generate the video from those visual inputs to maintain consistent world/scene continuity instead of disjointed shots.",
+  "translations": {
+    "es": {
+      "content": "Comienza tu flujo de trabajo en Seedance con entradas visuales (imágenes de referencia) antes de generar el video para guiar el resultado.\n\nDefine el estilo, el ambiente y la dirección creativa desde el principio en tu prompt/configuraciones antes de ejecutar Seedance 2.0.\n\nUsa Seedance 2.0 para generar el video a partir de esas entradas visuales para mantener la continuidad del mundo/escena en lugar de tomas inconexas."
+    },
+    "fr": {
+      "content": "---\nCommencez votre flux de travail Seedance avec des entrées visuelles (images de référence) avant de générer la vidéo pour orienter le résultat.\n\nDéfinissez le style, l'ambiance et la direction créative dès le départ dans votre prompt/réglages avant de lancer Seedance 2.0.\n\nUtilisez Seedance 2.0 pour générer la vidéo à partir de ces entrées visuelles afin de maintenir une continuité cohérente du monde/scène au lieu de plans disjoints.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedanceのワークフローを開始する際は、ビデオを生成する前に視覚的な入力（参照画像）を使用して結果を導きます。\n\nSeedance 2.0を実行する前に、プロンプト/設定でスタイル、ムード、クリエイティブな方向性を事前に定義してください。\n\nこれらの視覚的な入力からビデオを生成するためにSeedance 2.0を使用し、バラバラなショットではなく、一貫した世界/シーンの連続性を維持します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 워크플로우를 시작할 때, 결과를 안내하기 위해 비디오 생성 전에 시각적 입력(참조 이미지)을 사용하세요.\n\nSeedance 2.0을 실행하기 전에 프롬프트/설정에서 스타일, 분위기 및 창의적 방향을 미리 정의하세요.\n\nSeedance 2.0을 사용하여 이러한 시각적 입력에서 비디오를 생성하여 일관된 세계/장면 연속성을 유지하고 분리된 샷을 피하세요.\n---"
+    },
+    "pt": {
+      "content": "Inicie seu fluxo de trabalho Seedance com entradas visuais (imagens de referência) antes de gerar o vídeo para orientar o resultado.\n\nDefina o estilo, o clima e a direção criativa antecipadamente no seu prompt/configurações antes de executar o Seedance 2.0.\n\nUse o Seedance 2.0 para gerar o vídeo a partir dessas entradas visuais para manter a continuidade consistente do mundo/cena em vez de tomadas desconexas."
+    },
+    "zh": {
+      "content": "在生成视频之前，使用视觉输入（参考图像）启动您的Seedance工作流程，以指导结果。\n\n在运行Seedance 2.0之前，在您的prompt/设置中预先定义风格、情绪和创意方向。\n\n使用Seedance 2.0从这些视觉输入生成视频，以保持一致的世界/场景连续性，而不是不连贯的镜头。"
+    }
+  }
+}

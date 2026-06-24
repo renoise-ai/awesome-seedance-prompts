@@ -1,0 +1,42 @@
+{
+  "id": "2035815017568743442",
+  "title": "Screenshot the first frame/reference image you want to match before generating…",
+  "content": "Screenshot the first frame/reference image you want to match before generating the animation  \nUpload the screenshot to Claude and prompt: help me replicate this image, no texts only the realistic anatomy while maintaing the style 1:1  \nAnimate the replicated image using Seedance 1.5 Pro (or Kling 2.6) to create the medical animation",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035814937000570880/img/TP2t-x1jod_sIawJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2035815017568743442.mp4",
+  "sourceLink": "https://x.com/0xROAS/status/2035815017568743442",
+  "sourcePublishedAt": "2026-03-22",
+  "author": {
+    "name": "0x ROAS",
+    "link": "https://x.com/0xROAS"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Screenshot the first frame/reference image you want to match before generating the animation  \nUpload the screenshot to Claude and prompt: help me replicate this image, no texts only the realistic anatomy while maintaing the style 1:1  \nAnimate the replicated image using Seedance 1.5 Pro (or Kling 2.6) to create the medical animation",
+  "translations": {
+    "es": {
+      "content": "Captura la primera imagen de referencia que deseas igualar antes de generar la animación  \nSube la captura de pantalla a Claude y prompt: help me replicate this image, no texts only the realistic anatomy while maintaining the style 1:1  \nAnima la imagen replicada usando Seedance 1.5 Pro (o Kling 2.6) para crear la animación médica\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] únete a 730 miembros escalando anuncios de IA:\n\nhttps://t.co/5LX53O1ZZY"
+    },
+    "fr": {
+      "content": "---\nCapturez une capture d'écran de la première image de référence que vous souhaitez reproduire avant de générer l'animation.  \nTéléchargez la capture d'écran sur Claude et prompt : help me replicate this image, no texts only the realistic anatomy while maintaining the style 1:1  \nAnimez l'image reproduite en utilisant Seedance 1.5 Pro (ou Kling 2.6) pour créer l'animation médicale.\n\n--- SUITE DU FIL ---\n[Fil 1] rejoignez 730 membres en développant des publicités AI :\n\nhttps://t.co/5LX53O1ZZY\n---"
+    },
+    "ja": {
+      "content": "---\nアニメーションを生成する前に、マッチさせたい最初のフレーム/参照画像のスクリーンショットを撮ります。  \nスクリーンショットをClaudeにアップロードし、次のようにプロンプトを入力します: help me replicate this image, no texts only the realistic anatomy while maintaining the style 1:1  \nSeedance 1.5 Pro（またはKling 2.6）を使用して、複製した画像をアニメーション化し、医療アニメーションを作成します。\n\n--- THREAD CONTINUATION ---\n[スレッド1] 730人のメンバーがAI広告をスケーリングに参加:\n\nhttps://t.co/5LX53O1ZZY\n---"
+    },
+    "ko": {
+      "content": "---\n애니메이션을 생성하기 전에 일치시키고 싶은 첫 번째 프레임/참조 이미지를 스크린샷으로 찍으세요.  \n스크린샷을 Claude에 업로드하고 다음과 같이 프롬프트하세요: help me replicate this image, no texts only the realistic anatomy while maintaining the style 1:1  \n복제된 이미지를 Seedance 1.5 Pro (또는 Kling 2.6)을 사용하여 의료 애니메이션으로 만드세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 730명의 회원과 함께 AI 광고 확장하기:\n\nhttps://t.co/5LX53O1ZZY\n---"
+    },
+    "pt": {
+      "content": "Capture a tela do primeiro quadro/imagem de referência que você deseja igualar antes de gerar a animação  \nEnvie a captura de tela para o Claude e use o prompt: help me replicate this image, no texts only the realistic anatomy while maintaining the style 1:1  \nAnime a imagem replicada usando Seedance 1.5 Pro (ou Kling 2.6) para criar a animação médica\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] junte-se a 730 membros ampliando anúncios de IA:\n\nhttps://t.co/5LX53O1ZZY"
+    },
+    "zh": {
+      "content": "---\n在生成动画之前，截取你想要匹配的第一帧/参考图像  \n将截图上传到Claude并提示：help me replicate this image, no texts only the realistic anatomy while maintaining the style 1:1  \n使用Seedance 1.5 Pro（或Kling 2.6）对复制的图像进行动画处理，以创建医学动画\n\n--- 线程继续 ---\n[线程1] 加入730名成员扩展AI广告：\n\nhttps://t.co/5LX53O1ZZY\n---"
+    }
+  }
+}

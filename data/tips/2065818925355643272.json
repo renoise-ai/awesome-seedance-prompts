@@ -1,0 +1,42 @@
+{
+  "id": "2065818925355643272",
+  "title": "Use LTX with ComfyUI to generate high-quality lip sync for music videos locally…",
+  "content": "Use LTX with ComfyUI to generate high-quality lip sync for music videos locally on your PC instead of relying on Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/media/HKtCzDFXMAAlw2P.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065818925355643272.mp4",
+  "sourceLink": "https://x.com/deadsun_0/status/2065818925355643272",
+  "sourcePublishedAt": "2026-06-13",
+  "author": {
+    "name": "Dead Sun",
+    "link": "https://x.com/deadsun_0"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use LTX with ComfyUI to generate high-quality lip sync for music videos locally on your PC instead of relying on Seedance.",
+  "translations": {
+    "es": {
+      "content": "Usa LTX con ComfyUI para generar sincronización labial de alta calidad para videos musicales localmente en tu PC en lugar de depender de Seedance."
+    },
+    "fr": {
+      "content": "Utilisez LTX avec ComfyUI pour générer une synchronisation labiale de haute qualité pour les clips musicaux localement sur votre PC au lieu de vous fier à Seedance."
+    },
+    "ja": {
+      "content": "Seedanceに頼るのではなく、PC上で音楽ビデオの高品質なリップシンクを生成するために、ComfyUIとLTXを使用してください。"
+    },
+    "ko": {
+      "content": "Seedance에 의존하지 않고 PC에서 음악 비디오의 고품질 립싱크를 생성하려면 ComfyUI와 함께 LTX를 사용하세요."
+    },
+    "pt": {
+      "content": "Use LTX com ComfyUI para gerar sincronização labial de alta qualidade para videoclipes localmente no seu PC em vez de depender do Seedance."
+    },
+    "zh": {
+      "content": "使用LTX与ComfyUI在本地PC上生成高质量的音乐视频口型同步，而不是依赖Seedance。"
+    }
+  }
+}

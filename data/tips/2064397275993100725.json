@@ -1,0 +1,43 @@
+{
+  "id": "2064397275993100725",
+  "title": "Use a ComfyUI workflow that leverages an LLM to turn a simple idea into a…",
+  "content": "Use a ComfyUI workflow that leverages an LLM to turn a simple idea into a storyboard by structuring prompts into storyboard-ready scenes that define the video’s progression.  \nPair the generated storyboard with reference images, then send it directly into Seedance 2.0 to generate the video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064397198562062336/img/X8YqxIPZouvHMmyG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064397275993100725.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2064397275993100725",
+  "sourcePublishedAt": "2026-06-09",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a ComfyUI workflow that leverages an LLM to turn a simple idea into a storyboard by structuring prompts into storyboard-ready scenes that define the video’s progression.  \nPair the generated storyboard with reference images, then send it directly into Seedance 2.0 to generate the video.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de ComfyUI que aprovecha un LLM para convertir una idea simple en un guion gráfico estructurando prompts en escenas listas para el guion gráfico que definen la progresión del video.  \nEmpareja el guion gráfico generado con imágenes de referencia, luego envíalo directamente a Seedance 2.0 para generar el video.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/MUR4YuyERj"
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail ComfyUI qui exploite un LLM pour transformer une idée simple en un storyboard en structurant des prompts en scènes prêtes pour le storyboard qui définissent la progression de la vidéo.  \nAssociez le storyboard généré à des images de référence, puis envoyez-le directement dans Seedance 2.0 pour générer la vidéo.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/MUR4YuyERj"
+    },
+    "ja": {
+      "content": "ComfyUIのワークフローを使用して、シンプルなアイデアをLLMを活用してストーリーボードに変換し、プロンプトをストーリーボード対応のシーンに構造化してビデオの進行を定義します。  \n生成されたストーリーボードを参照画像と組み合わせ、Seedance 2.0に直接送信してビデオを生成します。\n\n--- スレッドの続き ---\n[スレッド 1] https://t.co/MUR4YuyERj"
+    },
+    "ko": {
+      "content": "ComfyUI 워크플로우를 사용하여 간단한 아이디어를 스토리보드로 전환하는데, 이는 LLM을 활용하여 프롬프트를 스토리보드 준비가 된 장면으로 구조화하여 비디오의 진행을 정의합니다.  \n생성된 스토리보드를 참고 이미지와 짝지은 후, Seedance 2.0으로 직접 보내 비디오를 생성합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/MUR4YuyERj"
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho ComfyUI que aproveita um LLM para transformar uma ideia simples em um storyboard, estruturando prompts em cenas prontas para o storyboard que definem a progressão do vídeo.  \nEmparelhe o storyboard gerado com imagens de referência e, em seguida, envie-o diretamente para o Seedance 2.0 para gerar o vídeo.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/MUR4YuyERj"
+    },
+    "zh": {
+      "content": "使用一个ComfyUI工作流程，利用LLM将简单的想法转化为分镜，通过将prompts结构化为分镜准备好的场景来定义视频的进程。  \n将生成的分镜与参考图像配对，然后直接发送到Seedance 2.0生成视频。\n\n--- 线程继续 ---\n[线程 1] https://t.co/MUR4YuyERj"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2055650164061192251",
+  "title": "Use a workflow of Idea → GPT Image 2.0 storyboard → build a coherent…",
+  "content": "Use a workflow of Idea → GPT Image 2.0 storyboard → build a coherent multi-scene structure → write Seedance 2.0 animation prompts per scene to produce a connected sequence with continuity.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055640992162676736/img/sWOVo634dkYNsh0B.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055650164061192251.mp4",
+  "sourceLink": "https://x.com/mad_mask/status/2055650164061192251",
+  "sourcePublishedAt": "2026-05-16",
+  "author": {
+    "name": "Mad Mask ( Le labo de l’IA avec Max )",
+    "link": "https://x.com/mad_mask"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a workflow of Idea → GPT Image 2.0 storyboard → build a coherent multi-scene structure → write Seedance 2.0 animation prompts per scene to produce a connected sequence with continuity.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Idea → storyboard de GPT Image 2.0 → construye una estructura coherente de múltiples escenas → escribe Seedance 2.0 animation prompts por escena para producir una secuencia conectada con continuidad."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail allant de l'idée → storyboard avec GPT Image 2.0 → construire une structure multi-scènes cohérente → écrire des prompts d'animation Seedance 2.0 par scène pour produire une séquence connectée avec continuité."
+    },
+    "ja": {
+      "content": "アイデア → GPT Image 2.0 ストーリーボード → 一貫したマルチシーン構造を構築 → 各シーンごとに Seedance 2.0 アニメーションプロンプトを書き、連続性のあるシーケンスを生成するワークフローを使用します。"
+    },
+    "ko": {
+      "content": "아이디어 → GPT Image 2.0 스토리보드 → 일관된 다중 장면 구조 구축 → 각 장면에 대해 Seedance 2.0 애니메이션 프롬프트 작성하여 연속성을 가진 연결된 시퀀스 생성의 워크플로우를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Ideia → storyboard do GPT Image 2.0 → construa uma estrutura coerente de múltiplas cenas → escreva prompts de animação Seedance 2.0 por cena para produzir uma sequência conectada com continuidade."
+    },
+    "zh": {
+      "content": "使用以下工作流程：想法 → GPT Image 2.0 分镜 → 构建连贯的多场景结构 → 为每个场景编写 Seedance 2.0 动画 prompts，以生成具有连续性的连接序列。"
+    }
+  }
+}

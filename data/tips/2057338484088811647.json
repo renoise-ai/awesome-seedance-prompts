@@ -1,0 +1,41 @@
+{
+  "id": "2057338484088811647",
+  "title": "Upload a photo of your own face to Seedance 2.0 as the reference, then generate…",
+  "content": "Upload a photo of your own face to Seedance 2.0 as the reference, then generate the video using a detailed cinematic prompt.\n\nSpecify the exact duration in the prompt (e.g., 15 seconds) to match the intended clip length.\n\nLock character continuity by explicitly stating constraints like “only main character,” “must remain visually dominant throughout,” “no costume changes,” and “sunglasses never break.”\n\nConstrain the setting by stating a single environment rule (e.g., “Single rooftop environment only”) to prevent unwanted scene changes.\n\nControl audio output by explicitly prompting “No background music—only natural rain/impact/wind sounds.”\n\nPrevent unwanted content by adding negative constraints such as “No blood or gore” and “No subtitles or text.”",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ai_am_furufuru/status/2057338484088811647",
+  "sourcePublishedAt": "2026-05-21",
+  "author": {
+    "name": "ふるふるの大冒険/Furufuru’s Epic Adventure",
+    "link": "https://x.com/ai_am_furufuru"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload a photo of your own face to Seedance 2.0 as the reference, then generate the video using a detailed cinematic prompt.\n\nSpecify the exact duration in the prompt (e.g., 15 seconds) to match the intended clip length.\n\nLock character continuity by explicitly stating constraints like “only main character,” “must remain visually dominant throughout,” “no costume changes,” and “sunglasses never break.”\n\nConstrain the setting by stating a single environment rule (e.g., “Single rooftop environment only”) to prevent unwanted scene changes.\n\nControl audio output by explicitly prompting “No background music—only natural rain/impact/wind sounds.”\n\nPrevent unwanted content by adding negative constraints such as “No blood or gore” and “No subtitles or text.”",
+  "translations": {
+    "es": {
+      "content": "Sube una foto de tu propio rostro a Seedance 2.0 como referencia, luego genera el video usando un prompt cinematográfico detallado.\n\nEspecifica la duración exacta en el prompt (por ejemplo, 15 segundos) para que coincida con la longitud del clip deseado.\n\nAsegura la continuidad del personaje indicando explícitamente restricciones como “solo personaje principal,” “debe permanecer visualmente dominante en todo momento,” “sin cambios de vestuario,” y “las gafas de sol nunca se rompen.”\n\nRestringe el escenario estableciendo una única regla de entorno (por ejemplo, “Solo entorno de azotea”) para evitar cambios de escena no deseados.\n\nControla la salida de audio indicando explícitamente “Sin música de fondo—solo sonidos naturales de lluvia/impacto/viento.”\n\nEvita contenido no deseado añadiendo restricciones negativas como “Sin sangre o violencia” y “Sin subtítulos o texto.”"
+    },
+    "fr": {
+      "content": "Téléchargez une photo de votre propre visage sur Seedance 2.0 comme référence, puis générez la vidéo en utilisant un prompt cinématographique détaillé.\n\nSpécifiez la durée exacte dans le prompt (par exemple, 15 secondes) pour correspondre à la longueur du clip souhaité.\n\nAssurez la continuité du personnage en indiquant explicitement des contraintes telles que « seulement le personnage principal », « doit rester visuellement dominant tout au long », « pas de changements de costume » et « les lunettes de soleil ne se cassent jamais ».\n\nLimitez le décor en énonçant une seule règle d'environnement (par exemple, « Uniquement un environnement de toit ») pour éviter les changements de scène indésirables.\n\nContrôlez la sortie audio en demandant explicitement « Pas de musique de fond—seulement des sons naturels de pluie/impact/vent ».\n\nÉvitez le contenu indésirable en ajoutant des contraintes négatives telles que « Pas de sang ou de gore » et « Pas de sous-titres ou de texte »."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0に自分の顔写真をアップロードし、参照として使用した後、詳細なシネマティックプロンプトを使用してビデオを生成します。\n\nプロンプトで正確な時間（例：15秒）を指定して、意図したクリップの長さに合わせます。\n\n「メインキャラクターのみ」「視覚的に常に優勢であること」「衣装の変更なし」「サングラスは壊れない」などの制約を明示的に述べることで、キャラクターの連続性を確保します。\n\n「単一の屋上環境のみ」などの単一の環境ルールを述べることで、不要なシーンの変更を防ぎます。\n\n「背景音楽なし—自然の雨/衝撃/風の音のみ」と明示的にプロンプトすることで、音声出力を制御します。\n\n「血やゴアなし」「字幕やテキストなし」などの否定的な制約を追加することで、不要なコンテンツを防ぎます。"
+    },
+    "ko": {
+      "content": "자신의 얼굴 사진을 Seedance 2.0에 참조로 업로드한 후, 상세한 시네마틱 프롬프트를 사용하여 비디오를 생성하세요.\n\n프롬프트에 정확한 지속 시간을 명시하여 (예: 15초) 의도한 클립 길이에 맞추세요.\n\n“주인공만,” “시각적으로 계속 두드러져야 함,” “의상 변경 없음,” “선글라스는 절대 깨지지 않음”과 같은 제약을 명시하여 캐릭터의 연속성을 유지하세요.\n\n“단일 옥상 환경만”과 같은 단일 환경 규칙을 명시하여 원치 않는 장면 변화를 방지하세요.\n\n“배경 음악 없음—자연의 비/충격/바람 소리만”과 같이 명시적으로 프롬프트하여 오디오 출력을 제어하세요.\n\n“피나 잔혹한 장면 없음” 및 “자막이나 텍스트 없음”과 같은 부정적 제약을 추가하여 원치 않는 콘텐츠를 방지하세요."
+    },
+    "pt": {
+      "content": "Carregue uma foto do seu próprio rosto no Seedance 2.0 como referência e, em seguida, gere o vídeo usando um prompt cinematográfico detalhado.\n\nEspecifique a duração exata no prompt (por exemplo, 15 segundos) para corresponder ao comprimento pretendido do clipe.\n\nMantenha a continuidade do personagem declarando explicitamente restrições como “apenas personagem principal”, “deve permanecer visualmente dominante durante todo o tempo”, “sem trocas de figurino” e “os óculos de sol nunca quebram”.\n\nRestrinja o cenário declarando uma única regra de ambiente (por exemplo, “Apenas ambiente de telhado único”) para evitar mudanças indesejadas de cena.\n\nControle a saída de áudio explicitamente solicitando “Sem música de fundo—apenas sons naturais de chuva/impacto/vento.”\n\nEvite conteúdo indesejado adicionando restrições negativas como “Sem sangue ou violência” e “Sem legendas ou texto.”"
+    },
+    "zh": {
+      "content": "将您自己的面部照片上传到Seedance 2.0作为参考，然后使用详细的cinematic prompt生成视频。\n\n在prompt中指定确切的时长（例如，15秒）以匹配预期的剪辑长度。\n\n通过明确说明约束条件来锁定角色连续性，例如“仅限主角”，“必须始终在视觉上占主导地位”，“无服装更换”和“太阳镜永不破损”。\n\n通过规定单一环境规则（例如，“仅限单一屋顶环境”）来限制设置，以防止不必要的场景变化。\n\n通过明确提示“无背景音乐——仅自然雨声/撞击声/风声”来控制音频输出。\n\n通过添加负面约束来防止不需要的内容，例如“无血腥或暴力”和“无字幕或文字”。"
+    }
+  }
+}

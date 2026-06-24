@@ -1,0 +1,42 @@
+{
+  "id": "2041540709745049877",
+  "title": "Open Dreamina and upload a reference video to guide the scene for Seedance 2.0…",
+  "content": "Open Dreamina and upload a reference video to guide the scene for Seedance 2.0 generation.  \nUpload the image of the creature as a visual reference before generating.  \nEnable Omni Reference mode to combine the reference video and creature image for consistent placement.  \nIn your prompt, explicitly tell Dreamina Seedance 2.0 where and how to place the creature in the scene.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2041540652425789440/img/ymMw0OiWYl4IQKvO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2041540709745049877.mp4",
+  "sourceLink": "https://x.com/egeberkina/status/2041540709745049877",
+  "sourcePublishedAt": "2026-04-07",
+  "author": {
+    "name": "Ege",
+    "link": "https://x.com/egeberkina"
+  },
+  "tags": [
+    "Animals",
+    "Creatures",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Open Dreamina and upload a reference video to guide the scene for Seedance 2.0 generation.  \nUpload the image of the creature as a visual reference before generating.  \nEnable Omni Reference mode to combine the reference video and creature image for consistent placement.  \nIn your prompt, explicitly tell Dreamina Seedance 2.0 where and how to place the creature in the scene.",
+  "translations": {
+    "es": {
+      "content": "Abre Dreamina y sube un video de referencia para guiar la escena en la generación de Seedance 2.0.  \nSube la imagen de la criatura como referencia visual antes de generar.  \nHabilita el modo Omni Reference para combinar el video de referencia y la imagen de la criatura para una colocación consistente.  \nEn tu prompt, indica explícitamente a Dreamina Seedance 2.0 dónde y cómo colocar la criatura en la escena."
+    },
+    "fr": {
+      "content": "---\nOuvrez Dreamina et téléchargez une vidéo de référence pour guider la scène pour la génération Seedance 2.0.  \nTéléchargez l'image de la créature comme référence visuelle avant de générer.  \nActivez le mode Omni Reference pour combiner la vidéo de référence et l'image de la créature pour un placement cohérent.  \nDans votre prompt, indiquez explicitement à Dreamina Seedance 2.0 où et comment placer la créature dans la scène.\n---"
+    },
+    "ja": {
+      "content": "---\nDreaminaを開き、Seedance 2.0の生成のためのシーンをガイドする参照ビデオをアップロードします。  \n生成する前に、クリーチャーの画像を視覚的な参照としてアップロードします。  \nOmni Referenceモードを有効にして、参照ビデオとクリーチャー画像を組み合わせ、一貫した配置を実現します。  \nIn your prompt, explicitly tell Dreamina Seedance 2.0 where and how to place the creature in the scene.  \n---"
+    },
+    "ko": {
+      "content": "---\nDreamina를 열고 Seedance 2.0 생성을 위한 장면 지침으로 참조 비디오를 업로드하세요.  \n생성 전에 생물의 이미지를 시각적 참조로 업로드하세요.  \nOmni Reference 모드를 활성화하여 참조 비디오와 생물 이미지를 결합하여 일관된 배치를 유지하세요.  \nIn your prompt, explicitly tell Dreamina Seedance 2.0 where and how to place the creature in the scene."
+    },
+    "pt": {
+      "content": "Abra o Dreamina e carregue um vídeo de referência para guiar a cena na geração do Seedance 2.0.  \nCarregue a imagem da criatura como referência visual antes de gerar.  \nHabilite o modo Omni Reference para combinar o vídeo de referência e a imagem da criatura para um posicionamento consistente.  \nNo seu prompt, diga explicitamente ao Dreamina Seedance 2.0 onde e como colocar a criatura na cena."
+    },
+    "zh": {
+      "content": "打开Dreamina并上传一个参考视频，以指导Seedance 2.0的场景生成。  \n在生成之前，上传生物的图像作为视觉参考。  \n启用Omni Reference模式，以便结合参考视频和生物图像，实现一致的放置。  \n在你的prompt中，明确告诉Dreamina Seedance 2.0在场景中何处以及如何放置生物。"
+    }
+  }
+}

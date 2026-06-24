@@ -1,0 +1,43 @@
+{
+  "id": "2059275251738120216",
+  "title": "Storyboard scenes with GPT-image-2 first, arrange and sequence the shots on a…",
+  "content": "Storyboard scenes with GPT-image-2 first, arrange and sequence the shots on a canvas, then generate the final video using Seedance 2.0 instead of relying on a single prompt-box generation",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2059274811067760640/pu/img/K8p2MAa9px-KeNl-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059275251738120216.mp4",
+  "sourceLink": "https://x.com/ZephyraLeigh/status/2059275251738120216",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "Zephyra Leigh",
+    "link": "https://x.com/ZephyraLeigh"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Storyboard scenes with GPT-image-2 first, arrange and sequence the shots on a canvas, then generate the final video using Seedance 2.0 instead of relying on a single prompt-box generation",
+  "translations": {
+    "es": {
+      "content": "Primero, crea escenas de storyboard con GPT-image-2, organiza y secuencia las tomas en un lienzo, luego genera el video final usando Seedance 2.0 en lugar de depender de una única generación de prompt-box."
+    },
+    "fr": {
+      "content": "---\nCréez d'abord des scènes de storyboard avec GPT-image-2, organisez et séquencez les prises de vue sur une toile, puis générez la vidéo finale en utilisant Seedance 2.0 au lieu de vous fier à une génération unique par boîte de prompt."
+    },
+    "ja": {
+      "content": "まずGPT-image-2でストーリーボードのシーンを作成し、キャンバス上でショットを配置して順序を決めてから、単一のプロンプトボックス生成に頼るのではなく、Seedance 2.0を使用して最終的なビデオを生成します。"
+    },
+    "ko": {
+      "content": "먼저 GPT-image-2로 스토리보드 장면을 만들고, 캔버스에 샷을 배열하고 순서를 정한 다음, 단일 프롬프트 박스 생성에 의존하지 않고 Seedance 2.0을 사용하여 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Primeiro, crie cenas de storyboard com o GPT-image-2, organize e sequencie as tomadas em uma tela, depois gere o vídeo final usando o Seedance 2.0 em vez de depender de uma única geração de prompt-box."
+    },
+    "zh": {
+      "content": "首先使用GPT-image-2创建分镜场景，在画布上安排和排序镜头，然后使用Seedance 2.0生成最终视频，而不是依赖单一的prompt-box生成。"
+    }
+  }
+}

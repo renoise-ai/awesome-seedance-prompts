@@ -1,0 +1,42 @@
+{
+  "id": "2060942267964367002",
+  "title": "Use Seedance 2.0 with built-in face input (via Wizstar’s AI video translation…",
+  "content": "Use Seedance 2.0 with built-in face input (via Wizstar’s AI video translation workflow) to keep character facial consistency and lip sync when localizing a single ad into multiple languages.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060942203334344704/img/JmIAWmojbsJsRTgY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060942267964367002.mp4",
+  "sourceLink": "https://x.com/kate_osita_/status/2060942267964367002",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "KATE",
+    "link": "https://x.com/kate_osita_"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 with built-in face input (via Wizstar’s AI video translation workflow) to keep character facial consistency and lip sync when localizing a single ad into multiple languages.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Seedance 2.0 con entrada facial incorporada (a través del flujo de trabajo de traducción de video de IA de Wizstar) para mantener la consistencia facial de los personajes y la sincronización labial al localizar un solo anuncio en múltiples idiomas."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 avec entrée faciale intégrée (via le flux de travail de traduction vidéo AI de Wizstar) pour maintenir la cohérence faciale des personnages et la synchronisation labiale lors de la localisation d'une seule publicité en plusieurs langues."
+    },
+    "ja": {
+      "content": "Seedance 2.0を使用し、WizstarのAIビデオ翻訳ワークフローを通じて組み込まれた顔入力を利用することで、単一の広告を複数の言語にローカライズする際にキャラクターの顔の一貫性とリップシンクを維持します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 사용하여 Wizstar의 AI 비디오 번역 워크플로를 통해 얼굴 입력을 내장하여 단일 광고를 여러 언어로 현지화할 때 캐릭터의 얼굴 일관성과 립싱크를 유지하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 com entrada facial integrada (através do fluxo de trabalho de tradução de vídeo por IA da Wizstar) para manter a consistência facial dos personagens e a sincronização labial ao localizar um único anúncio em vários idiomas."
+    },
+    "zh": {
+      "content": "使用Seedance 2.0与内置面部输入（通过Wizstar的AI视频翻译工作流程）在将单个广告本地化为多种语言时保持角色面部一致性和唇同步。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2059363964551844077",
+  "title": "Use a storyboard-first workflow: plan scenes visually on an infinite canvas…",
+  "content": "Use a storyboard-first workflow: plan scenes visually on an infinite canvas (Figma-like) before generating the final video with Seedance 2.0  \nRefine scene ideas with an AI agent during the planning stage, then generate the full video in Seedance 2.0 after the flow is organized",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059363546685915136/img/ax7rORa8AqK4JIMp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059363964551844077.mp4",
+  "sourceLink": "https://x.com/ShamiWeb3/status/2059363964551844077",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "Shami",
+    "link": "https://x.com/ShamiWeb3"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard-first workflow: plan scenes visually on an infinite canvas (Figma-like) before generating the final video with Seedance 2.0  \nRefine scene ideas with an AI agent during the planning stage, then generate the full video in Seedance 2.0 after the flow is organized",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo basado en storyboard: planifica las escenas visualmente en un lienzo infinito (similar a Figma) antes de generar el video final con Seedance 2.0  \nRefina las ideas de las escenas con un agente de IA durante la etapa de planificación, luego genera el video completo en Seedance 2.0 una vez que el flujo esté organizado"
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail basé sur le storyboard : planifiez les scènes visuellement sur une toile infinie (similaire à Figma) avant de générer la vidéo finale avec Seedance 2.0  \nAffinez les idées de scènes avec un agent IA pendant la phase de planification, puis générez la vidéo complète dans Seedance 2.0 une fois le flux organisé"
+    },
+    "ja": {
+      "content": "---\nストーリーボードを最初に使うワークフローを採用：無限キャンバス（Figmaのような）上でシーンを視覚的に計画し、Seedance 2.0で最終ビデオを生成します  \n計画段階でAIエージェントを使ってシーンのアイデアを洗練し、フローが整理された後にSeedance 2.0で完全なビデオを生成します  \n---"
+    },
+    "ko": {
+      "content": "스토리보드 우선 워크플로우를 사용하세요: Seedance 2.0으로 최종 비디오를 생성하기 전에 무한 캔버스(Figma와 유사)에서 시각적으로 장면을 계획하세요  \n계획 단계에서 AI 에이전트를 사용하여 장면 아이디어를 다듬고, 흐름이 정리된 후 Seedance 2.0에서 전체 비디오를 생성하세요"
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho baseado em storyboard: planeje cenas visualmente em uma tela infinita (semelhante ao Figma) antes de gerar o vídeo final com o Seedance 2.0  \nRefine ideias de cenas com um agente de IA durante a fase de planejamento, depois gere o vídeo completo no Seedance 2.0 após o fluxo estar organizado"
+    },
+    "zh": {
+      "content": "使用以故事板为先的工作流程：在生成最终视频之前，先在无限画布（类似Figma）上以视觉方式规划场景  \n在规划阶段与AI代理一起完善场景创意，然后在流程组织好后在Seedance 2.0中生成完整视频"
+    }
+  }
+}

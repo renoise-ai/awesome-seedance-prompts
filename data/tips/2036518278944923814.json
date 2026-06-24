@@ -1,0 +1,42 @@
+{
+  "id": "2036518278944923814",
+  "title": "Use Omni-Reference with Seedance 2 to transfer multiple characters into a…",
+  "content": "Use Omni-Reference with Seedance 2 to transfer multiple characters into a single scene for better results.  \nFeed your generated clips into Omni-Reference to extend the scene indefinitely.  \nLeverage Omni-Reference’s training on your previous generations to improve continuity/consistency (may not apply to the API version).  \nWhen Seedance 2 can’t generate something due to censors, switch to Kling 3.0 for those shots and use both models together in a complementary workflow.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2036514017754202112/img/lyWtsE6UJxqXKdhG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2036518278944923814.mp4",
+  "sourceLink": "https://x.com/GrimfelOfficial/status/2036518278944923814",
+  "sourcePublishedAt": "2026-03-24",
+  "author": {
+    "name": "𝔊𝔯𝔦𝔪𝔣𝔢𝔩",
+    "link": "https://x.com/GrimfelOfficial"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Omni-Reference with Seedance 2 to transfer multiple characters into a single scene for better results.  \nFeed your generated clips into Omni-Reference to extend the scene indefinitely.  \nLeverage Omni-Reference’s training on your previous generations to improve continuity/consistency (may not apply to the API version).  \nWhen Seedance 2 can’t generate something due to censors, switch to Kling 3.0 for those shots and use both models together in a complementary workflow.",
+  "translations": {
+    "es": {
+      "content": "---\nUsa Omni-Reference con Seedance 2 para transferir múltiples personajes a una sola escena para obtener mejores resultados.  \nIntroduce tus clips generados en Omni-Reference para extender la escena indefinidamente.  \nAprovecha el entrenamiento de Omni-Reference en tus generaciones anteriores para mejorar la continuidad/consistencia (puede que no se aplique a la versión API).  \nCuando Seedance 2 no pueda generar algo debido a censuras, cambia a Kling 3.0 para esas tomas y utiliza ambos modelos juntos en un flujo de trabajo complementario.\n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez Omni-Reference avec Seedance 2 pour transférer plusieurs personnages dans une seule scène pour de meilleurs résultats.  \nIntégrez vos clips générés dans Omni-Reference pour prolonger la scène indéfiniment.  \nExploitez l'entraînement d'Omni-Reference sur vos générations précédentes pour améliorer la continuité/la cohérence (peut ne pas s'appliquer à la version API).  \nLorsque Seedance 2 ne peut pas générer quelque chose en raison de censeurs, passez à Kling 3.0 pour ces prises et utilisez les deux modèles ensemble dans un flux de travail complémentaire.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2とOmni-Referenceを使用して、複数のキャラクターを1つのシーンに移行し、より良い結果を得る。  \n生成したクリップをOmni-Referenceに入力して、シーンを無限に拡張する。  \nOmni-Referenceのトレーニングを以前の生成に活用して、連続性/一貫性を向上させる（APIバージョンには適用されない場合があります）。  \nSeedance 2が検閲のために何かを生成できない場合は、Kling 3.0に切り替えてそのショットを撮影し、両方のモデルを補完的なワークフローで一緒に使用する。  \n---"
+    },
+    "ko": {
+      "content": "Omni-Reference를 Seedance 2와 함께 사용하여 여러 캐릭터를 하나의 장면으로 전환하여 더 나은 결과를 얻으세요.  \n생성된 클립을 Omni-Reference에 입력하여 장면을 무한히 확장하세요.  \nOmni-Reference의 이전 생성물에 대한 학습을 활용하여 연속성/일관성을 향상시키세요 (API 버전에는 적용되지 않을 수 있음).  \nSeedance 2가 검열로 인해 무언가를 생성할 수 없을 때는 Kling 3.0으로 전환하여 해당 장면을 촬영하고 두 모델을 보완적인 워크플로우로 함께 사용하세요."
+    },
+    "pt": {
+      "content": "Use Omni-Reference com Seedance 2 para transferir vários personagens em uma única cena para obter melhores resultados.  \nAlimente seus clipes gerados no Omni-Reference para estender a cena indefinidamente.  \nAproveite o treinamento do Omni-Reference em suas gerações anteriores para melhorar a continuidade/consistência (pode não se aplicar à versão da API).  \nQuando o Seedance 2 não conseguir gerar algo devido a censuras, mude para o Kling 3.0 para essas tomadas e use ambos os modelos juntos em um fluxo de trabalho complementar."
+    },
+    "zh": {
+      "content": "使用Omni-Reference与Seedance 2将多个角色转移到单个场景中以获得更好的效果。  \n将您生成的剪辑输入Omni-Reference以无限延长场景。  \n利用Omni-Reference对您之前生成内容的训练来提高连续性/一致性（可能不适用于API版本）。  \n当Seedance 2因审查无法生成某些内容时，切换到Kling 3.0来完成这些镜头，并在互补的工作流程中同时使用这两个模型。"
+    }
+  }
+}

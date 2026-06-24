@@ -1,0 +1,40 @@
+{
+  "id": "2057185827332173878",
+  "title": "Generate a storyboard panel in GPT Image 2.0 that includes multiple shots with…",
+  "content": "Generate a storyboard panel in GPT Image 2.0 that includes multiple shots with exact timing breakdowns, then use that storyboard image as the input reference in Seedance 2.0 to generate a cinematic previz video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057178079416692736/img/mgdCNhVN-AgXA9EQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057185827332173878.mp4",
+  "sourceLink": "https://x.com/CuriousRefuge/status/2057185827332173878",
+  "sourcePublishedAt": "2026-05-20",
+  "author": {
+    "name": "Curious Refuge",
+    "link": "https://x.com/CuriousRefuge"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate a storyboard panel in GPT Image 2.0 that includes multiple shots with exact timing breakdowns, then use that storyboard image as the input reference in Seedance 2.0 to generate a cinematic previz video.",
+  "translations": {
+    "es": {
+      "content": "Genera un panel de storyboard en GPT Image 2.0 que incluya múltiples tomas con desgloses de tiempo exactos, luego utiliza esa imagen de storyboard como referencia de entrada en Seedance 2.0 para generar un video previz cinematográfico."
+    },
+    "fr": {
+      "content": "---\nGénérez un panneau de storyboard dans GPT Image 2.0 qui inclut plusieurs prises avec des décompositions temporelles précises, puis utilisez cette image de storyboard comme référence d'entrée dans Seedance 2.0 pour générer une vidéo de prévisualisation cinématographique."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2.0で複数のショットを含むタイミングの詳細なブレイクダウンを持つストーリーボードパネルを生成し、そのストーリーボード画像をSeedance 2.0の入力リファレンスとして使用して、シネマティックなプレビズビデオを生成します。"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2.0에서 여러 샷과 정확한 타이밍 분해를 포함한 스토리보드 패널을 생성한 후, 그 스토리보드 이미지를 Seedance 2.0의 입력 참조로 사용하여 시네마틱 프리비즈 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Gere um painel de storyboard no GPT Image 2.0 que inclua múltiplas cenas com detalhamento exato de tempo, depois use essa imagem de storyboard como referência de entrada no Seedance 2.0 para gerar um vídeo previz cinematográfico."
+    }
+  }
+}

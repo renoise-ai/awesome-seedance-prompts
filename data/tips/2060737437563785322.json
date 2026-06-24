@@ -1,0 +1,41 @@
+{
+  "id": "2060737437563785322",
+  "title": "Use Seedance 2.0 as the video generation step in an AI UGC workflow where you…",
+  "content": "Use Seedance 2.0 as the video generation step in an AI UGC workflow where you write scripts in Claude first, then generate the video in Seedance, then distribute cross-platform.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/johnvirality/status/2060737437563785322",
+  "sourcePublishedAt": "2026-05-30",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnvirality"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 as the video generation step in an AI UGC workflow where you write scripts in Claude first, then generate the video in Seedance, then distribute cross-platform.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.0 como el paso de generación de video en un flujo de trabajo de UGC de IA donde primero escribes guiones en Claude, luego generas el video en Seedance y después distribuyes en múltiples plataformas."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 comme étape de génération vidéo dans un flux de travail UGC d'IA où vous rédigez d'abord des scripts dans Claude, puis générez la vidéo dans Seedance, puis distribuez-la sur plusieurs plateformes."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0をAI UGCワークフローのビデオ生成ステップとして使用します。最初にClaudeでスクリプトを書き、次にSeedanceでビデオを生成し、その後クロスプラットフォームで配信します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 AI 사용자 생성 콘텐츠(UGC) 워크플로우의 비디오 생성 단계로 사용하세요. 먼저 Claude에서 스크립트를 작성한 다음 Seedance에서 비디오를 생성하고, 이후 여러 플랫폼에 배포하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 como a etapa de geração de vídeo em um fluxo de trabalho de UGC de IA onde você escreve os roteiros no Claude primeiro, depois gera o vídeo no Seedance e, em seguida, distribui em várias plataformas."
+    },
+    "zh": {
+      "content": "在AI用户生成内容工作流程中使用Seedance 2.0作为视频生成步骤，首先在Claude中编写脚本，然后在Seedance中生成视频，最后进行跨平台分发。"
+    }
+  }
+}

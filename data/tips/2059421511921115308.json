@@ -1,0 +1,43 @@
+{
+  "id": "2059421511921115308",
+  "title": "Generate key visual frames first, then arrange and sequence them as scenes on a…",
+  "content": "Generate key visual frames first, then arrange and sequence them as scenes on a storyboard/infinite canvas before rendering the final video in Seedance 2.0 to improve planning and reduce wasted credits.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2059421455889391616/pu/img/jKhjaaN3QQB9ipq4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059421511921115308.mp4",
+  "sourceLink": "https://x.com/Taaruk_/status/2059421511921115308",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "Taaruk",
+    "link": "https://x.com/Taaruk_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate key visual frames first, then arrange and sequence them as scenes on a storyboard/infinite canvas before rendering the final video in Seedance 2.0 to improve planning and reduce wasted credits.",
+  "translations": {
+    "es": {
+      "content": "Genera primero los fotogramas visuales clave, luego organízalos y secuéncialos como escenas en un storyboard/lienzo infinito antes de renderizar el video final en Seedance 2.0 para mejorar la planificación y reducir el desperdicio de créditos."
+    },
+    "fr": {
+      "content": "Générez d'abord les cadres visuels clés, puis organisez-les et séquencez-les en tant que scènes sur un storyboard/toile infinie avant de rendre la vidéo finale dans Seedance 2.0 pour améliorer la planification et réduire le gaspillage de crédits."
+    },
+    "ja": {
+      "content": "まず主要なビジュアルフレームを生成し、それをシーンとしてストーリーボードや無限キャンバスに配置・順序付けしてから、Seedance 2.0で最終ビデオをレンダリングします。これにより、計画が改善され、無駄なクレジットが削減されます。"
+    },
+    "ko": {
+      "content": "먼저 주요 비주얼 프레임을 생성한 후, 이를 스토리보드/무한 캔버스에 장면으로 배열하고 시퀀싱하여 Seedance 2.0에서 최종 비디오를 렌더링하기 전에 계획을 개선하고 불필요한 크레딧 낭비를 줄이세요."
+    },
+    "pt": {
+      "content": "Gere os quadros visuais principais primeiro, depois organize e sequencie-os como cenas em um storyboard/tela infinita antes de renderizar o vídeo final no Seedance 2.0 para melhorar o planejamento e reduzir o desperdício de créditos."
+    },
+    "zh": {
+      "content": "首先生成关键视觉帧，然后将它们作为场景排列和排序在分镜头脚本/无限画布上，再在Seedance 2.0中渲染最终视频，以改进规划并减少浪费的积分。"
+    }
+  }
+}

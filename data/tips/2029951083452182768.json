@@ -1,0 +1,39 @@
+{
+  "id": "2029951083452182768",
+  "title": "Create Seedance 1.5 videos entirely from text prompts by generating visuals in…",
+  "content": "Create Seedance 1.5 videos entirely from text prompts by generating visuals in Higgsfield without using reference photos.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2029950848063709184/pu/img/xFwtAoQ-8zZNoYve.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2029951083452182768.mp4",
+  "sourceLink": "https://x.com/Onoja_Cee/status/2029951083452182768",
+  "sourcePublishedAt": "2026-03-06",
+  "author": {
+    "name": "Shy🌊",
+    "link": "https://x.com/Onoja_Cee"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create Seedance 1.5 videos entirely from text prompts by generating visuals in Higgsfield without using reference photos.",
+  "translations": {
+    "es": {
+      "content": "Crea videos de Seedance 1.5 completamente a partir de prompts de texto generando visuales en Higgsfield sin usar fotos de referencia."
+    },
+    "fr": {
+      "content": "Créez des vidéos Seedance 1.5 entièrement à partir de prompts textuels en générant des visuels dans Higgsfield sans utiliser de photos de référence."
+    },
+    "ja": {
+      "content": "---\nSeedance 1.5の動画を、リファレンス写真を使用せずにHiggsfieldでビジュアルを生成することによって、テキストプロンプトから完全に作成します。"
+    },
+    "ko": {
+      "content": "참조 사진을 사용하지 않고 Higgsfield에서 비주얼을 생성하여 텍스트 프롬프트만으로 Seedance 1.5 비디오를 만드세요."
+    },
+    "zh": {
+      "content": "通过在Higgsfield中生成视觉效果，仅使用文本提示创建Seedance 1.5视频，无需使用参考照片。"
+    }
+  }
+}

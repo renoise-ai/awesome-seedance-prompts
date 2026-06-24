@@ -1,0 +1,42 @@
+{
+  "id": "2051287287342784833",
+  "title": "Feed your location photo plus the provided JSON template to an LLM…",
+  "content": "Feed your location photo plus the provided JSON template to an LLM (Claude/GPT-4o) and instruct it: Rewrite this prompt to match my location photo, keep the board structure, and replace all scene descriptions with what you actually see in my image.  \nRun image-to-image in GPT Image 2 on HiggsField using your original location photo as the base to generate a clean output board.  \nUpload the clean output board to Seedance on HiggsField as @[image] and reference Prop ① ② ③ ④ in your video prompt to map to the board’s prop tiles and lock their exact positions in the shot.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Iancu_ai/status/2051287287342784833",
+  "sourcePublishedAt": "2026-05-04",
+  "author": {
+    "name": "Mr.Iancu",
+    "link": "https://x.com/Iancu_ai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Feed your location photo plus the provided JSON template to an LLM (Claude/GPT-4o) and instruct it: Rewrite this prompt to match my location photo, keep the board structure, and replace all scene descriptions with what you actually see in my image.  \nRun image-to-image in GPT Image 2 on HiggsField using your original location photo as the base to generate a clean output board.  \nUpload the clean output board to Seedance on HiggsField as @[image] and reference Prop ① ② ③ ④ in your video prompt to map to the board’s prop tiles and lock their exact positions in the shot.",
+  "translations": {
+    "es": {
+      "content": "---\nAlimenta tu foto de ubicación más la plantilla JSON proporcionada a un LLM (Claude/GPT-4o) e instrúyelo: Rewrite this prompt to match my location photo, keep the board structure, and replace all scene descriptions with what you actually see in my image.  \nEjecuta image-to-image en GPT Image 2 en HiggsField usando tu foto de ubicación original como base para generar un tablero de salida limpio.  \nSube el tablero de salida limpio a Seedance en HiggsField como @[image] y referencia Prop ① ② ③ ④ en tu prompt de video para mapear a las fichas de utilería del tablero y fijar sus posiciones exactas en la toma.\n---"
+    },
+    "fr": {
+      "content": "---\nAlimentez votre photo de localisation ainsi que le modèle JSON fourni à un LLM (Claude/GPT-4o) et demandez-lui : Rewrite this prompt to match my location photo, keep the board structure, and replace all scene descriptions with what you actually see in my image.  \nExécutez l'image-à-image dans GPT Image 2 sur HiggsField en utilisant votre photo de localisation originale comme base pour générer un tableau de sortie propre.  \nTéléchargez le tableau de sortie propre sur Seedance sur HiggsField en tant que @[image] et faites référence à Prop ① ② ③ ④ dans votre prompt vidéo pour mapper aux tuiles de props du tableau et verrouiller leurs positions exactes dans le plan.\n---"
+    },
+    "ja": {
+      "content": "---\n場所の写真と提供されたJSONテンプレートをLLM（Claude/GPT-4o）に入力し、次のように指示します：このプロンプトを私の場所の写真に合わせて書き直し、ボードの構造を維持し、シーンの説明を実際に私の画像で見えるものに置き換えてください。  \nHiggsFieldでGPT Image 2を使用して、元の場所の写真をベースにして、クリーンな出力ボードを生成します。  \nクリーンな出力ボードをHiggsFieldのSeedanceに@[image]としてアップロードし、ビデオプロンプトでProp ① ② ③ ④を参照して、ボードのプロップタイルにマッピングし、ショット内でその正確な位置を固定します。\n---"
+    },
+    "ko": {
+      "content": "---\n위치 사진과 제공된 JSON 템플릿을 LLM(Claude/GPT-4o)에 입력하고 다음과 같이 지시하세요: 이 프롬프트를 내 위치 사진에 맞게 다시 작성하되, 보드 구조는 유지하고 장면 설명은 내 이미지에서 실제로 보이는 것으로 교체하세요.  \nHiggsField에서 GPT Image 2를 사용하여 원래 위치 사진을 기반으로 이미지-투-이미지를 실행하여 깨끗한 출력 보드를 생성하세요.  \n깨끗한 출력 보드를 HiggsField의 Seedance에 @[image]로 업로드하고, 비디오 프롬프트에서 Prop ① ② ③ ④를 참조하여 보드의 소품 타일에 매핑하고 촬영에서 정확한 위치를 고정하세요.\n---"
+    },
+    "pt": {
+      "content": "Alimente sua foto de localização mais o modelo JSON fornecido a um LLM (Claude/GPT-4o) e instrua-o: Rewrite this prompt to match my location photo, keep the board structure, and replace all scene descriptions with what you actually see in my image.  \nExecute image-to-image no GPT Image 2 no HiggsField usando sua foto de localização original como base para gerar um quadro de saída limpo.  \nCarregue o quadro de saída limpo no Seedance no HiggsField como @[image] e faça referência ao Prop ① ② ③ ④ no seu prompt de vídeo para mapear para os azulejos de props do quadro e fixar suas posições exatas na cena."
+    },
+    "zh": {
+      "content": "将您的位置照片和提供的JSON模板输入到LLM（Claude/GPT-4o），并指示它：重写此prompt以匹配我的位置照片，保持板结构，并用您在我的图像中实际看到的内容替换所有场景描述。  \n在HiggsField上的GPT Image 2中运行图像到图像，使用您原始的位置照片作为基础生成一个干净的输出板。  \n将干净的输出板上传到HiggsField上的Seedance，作为@[image]，并在您的视频prompt中引用Prop ① ② ③ ④，以映射到板的道具块并锁定它们在镜头中的确切位置。"
+    }
+  }
+}

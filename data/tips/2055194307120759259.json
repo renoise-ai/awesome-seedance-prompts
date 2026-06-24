@@ -1,0 +1,41 @@
+{
+  "id": "2055194307120759259",
+  "title": "Use Seedance 2.0 with a single character sheet as the reference frame and one…",
+  "content": "Use Seedance 2.0 with a single character sheet as the reference frame and one prompt to generate an anime-style video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2055194259049811968/pu/img/cCGNFKjWw-wKvPOl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055194307120759259.mp4",
+  "sourceLink": "https://x.com/CartoonverseAi/status/2055194307120759259",
+  "sourcePublishedAt": "2026-05-15",
+  "author": {
+    "name": "Cartoonverse AI",
+    "link": "https://x.com/CartoonverseAi"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Realistic World"
+  ],
+  "tips": "Use Seedance 2.0 with a single character sheet as the reference frame and one prompt to generate an anime-style video.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.0 con una sola hoja de personaje como marco de referencia y un prompt para generar un video de estilo anime."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 avec une seule feuille de personnage comme cadre de référence et un prompt pour générer une vidéo de style anime."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0を使用して、1枚のキャラクターシートを参照フレームとし、1つのプロンプトでアニメスタイルのビデオを生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 사용하여 단일 캐릭터 시트를 참조 프레임으로 하고 하나의 prompt로 애니메이션 스타일의 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 com uma única folha de personagem como quadro de referência e um prompt para gerar um vídeo em estilo anime."
+    },
+    "zh": {
+      "content": "使用Seedance 2.0，以单个角色表作为参考框架，并使用一个prompt生成动漫风格的视频。"
+    }
+  }
+}

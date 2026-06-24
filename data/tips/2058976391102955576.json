@@ -1,0 +1,42 @@
+{
+  "id": "2058976391102955576",
+  "title": "Generate your first clip in Seedance 2.0, then upload it into Seedance Extend…",
+  "content": "Generate your first clip in Seedance 2.0, then upload it into Seedance Extend to continue the video beyond the 15-second limit.  \nIn Seedance Extend, enter the next prompt to extend the uploaded clip scene-by-scene while maintaining motion, atmosphere, and visual consistency across shots.  \nRepeat the Seedance Extend cycle (upload latest clip → prompt next scene) to build longer cinematic sequences with continuous storytelling.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058917873180106752/img/fjn1zhPS4Dlc3TZc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058976391102955576.mp4",
+  "sourceLink": "https://x.com/wavespeed_ai/status/2058976391102955576",
+  "sourcePublishedAt": "2026-05-25",
+  "author": {
+    "name": "WaveSpeedAI",
+    "link": "https://x.com/wavespeed_ai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate your first clip in Seedance 2.0, then upload it into Seedance Extend to continue the video beyond the 15-second limit.  \nIn Seedance Extend, enter the next prompt to extend the uploaded clip scene-by-scene while maintaining motion, atmosphere, and visual consistency across shots.  \nRepeat the Seedance Extend cycle (upload latest clip → prompt next scene) to build longer cinematic sequences with continuous storytelling.",
+  "translations": {
+    "es": {
+      "content": "Genera tu primer clip en Seedance 2.0, luego súbelo a Seedance Extend para continuar el video más allá del límite de 15 segundos.  \nEn Seedance Extend, ingresa el siguiente prompt para extender el clip subido escena por escena mientras mantienes el movimiento, la atmósfera y la consistencia visual a lo largo de las tomas.  \nRepite el ciclo de Seedance Extend (sube el último clip → prompt de la siguiente escena) para construir secuencias cinematográficas más largas con una narrativa continua."
+    },
+    "fr": {
+      "content": "---\nGénérez votre premier clip dans Seedance 2.0, puis téléchargez-le dans Seedance Extend pour continuer la vidéo au-delà de la limite de 15 secondes.  \nDans Seedance Extend, entrez le prochain prompt pour prolonger le clip téléchargé scène par scène tout en maintenant le mouvement, l'atmosphère et la cohérence visuelle entre les prises.  \nRépétez le cycle Seedance Extend (téléchargez le dernier clip → prompt la scène suivante) pour créer des séquences cinématiques plus longues avec une narration continue.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で最初のクリップを生成し、それをSeedance Extendにアップロードして15秒の制限を超えてビデオを続けましょう。  \nSeedance Extendでは、アップロードしたクリップをシーンごとに拡張するための次のプロンプトを入力し、ショット全体で動き、雰囲気、視覚的一貫性を維持します。  \nSeedance Extendサイクル（最新のクリップをアップロード → 次のシーンをプロンプト）を繰り返して、連続したストーリーテリングを持つ長いシネマティックシーケンスを構築します。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 첫 클립을 생성한 후, Seedance Extend에 업로드하여 15초 제한을 넘어서 비디오를 계속하세요.  \nSeedance Extend에서 다음 prompt를 입력하여 업로드된 클립을 장면별로 확장하면서 움직임, 분위기, 시각적 일관성을 유지하세요.  \nSeedance Extend 사이클(최신 클립 업로드 → 다음 장면 prompt)을 반복하여 연속적인 스토리텔링이 있는 더 긴 시네마틱 시퀀스를 구축하세요.\n---"
+    },
+    "pt": {
+      "content": "Gere seu primeiro clipe no Seedance 2.0, depois faça o upload no Seedance Extend para continuar o vídeo além do limite de 15 segundos.  \nNo Seedance Extend, insira o próximo prompt para estender o clipe carregado cena por cena, mantendo o movimento, a atmosfera e a consistência visual entre as tomadas.  \nRepita o ciclo do Seedance Extend (faça o upload do clipe mais recente → prompt da próxima cena) para construir sequências cinematográficas mais longas com narrativa contínua."
+    },
+    "zh": {
+      "content": "在 Seedance 2.0 中生成您的第一个片段，然后将其上传到 Seedance Extend，以便将视频延长至超过15秒的限制。  \n在 Seedance Extend 中，输入下一个 prompt，以逐场景扩展上传的片段，同时保持镜头之间的动作、氛围和视觉一致性。  \n重复 Seedance Extend 循环（上传最新片段 → prompt 下一场景），以构建具有连续叙事的更长电影序列。"
+    }
+  }
+}

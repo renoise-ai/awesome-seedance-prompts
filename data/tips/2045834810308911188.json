@@ -1,0 +1,43 @@
+{
+  "id": "2045834810308911188",
+  "title": "Upload your image in Seedance 2.0, generate a storyboard, then add your prompt…",
+  "content": "Upload your image in Seedance 2.0, generate a storyboard, then add your prompt to produce a multi-shot video with consistent, cinematic shots.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2045720528066060288/img/ydNuuXsayKPpIZYV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2045834810308911188.mp4",
+  "sourceLink": "https://x.com/itsPolloAI/status/2045834810308911188",
+  "sourcePublishedAt": "2026-04-19",
+  "author": {
+    "name": "Pollo AI",
+    "link": "https://x.com/itsPolloAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Upload your image in Seedance 2.0, generate a storyboard, then add your prompt to produce a multi-shot video with consistent, cinematic shots.",
+  "translations": {
+    "es": {
+      "content": "Sube tu imagen en Seedance 2.0, genera un storyboard, luego añade tu prompt para producir un video con múltiples tomas consistentes y cinematográficas."
+    },
+    "fr": {
+      "content": "Téléchargez votre image dans Seedance 2.0, générez un storyboard, puis ajoutez votre prompt pour produire une vidéo multi-shot avec des plans cinématographiques cohérents."
+    },
+    "ja": {
+      "content": "Seedance 2.0に画像をアップロードし、ストーリーボードを生成した後、プロンプトを追加して、一貫したシネマティックなショットで構成されたマルチショットビデオを制作してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에 이미지를 업로드하고 스토리보드를 생성한 다음, 프롬프트를 추가하여 일관된 시네마틱 샷으로 구성된 멀티 샷 비디오를 제작하세요."
+    },
+    "pt": {
+      "content": "Carregue sua imagem no Seedance 2.0, gere um storyboard e adicione seu prompt para produzir um vídeo com múltiplas tomadas consistentes e cinematográficas."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中上传您的图像，生成故事板，然后添加您的prompt以制作具有一致性和电影感镜头的多镜头视频。"
+    }
+  }
+}

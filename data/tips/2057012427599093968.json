@@ -1,0 +1,41 @@
+{
+  "id": "2057012427599093968",
+  "title": "Start with reference images to establish the base look before generating video…",
+  "content": "Start with reference images to establish the base look before generating video in Seedance.  \nBuild the mood, character, and visual direction in your references/prompt before animating.  \nUse Seedance 2.0 to animate the prepared references into a single connected scene rather than generating disconnected clips.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/JaynitMakwana/status/2057012427599093968",
+  "sourcePublishedAt": "2026-05-20",
+  "author": {
+    "name": "Jaynit Makwana",
+    "link": "https://x.com/JaynitMakwana"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start with reference images to establish the base look before generating video in Seedance.  \nBuild the mood, character, and visual direction in your references/prompt before animating.  \nUse Seedance 2.0 to animate the prepared references into a single connected scene rather than generating disconnected clips.",
+  "translations": {
+    "es": {
+      "content": "Comienza con imágenes de referencia para establecer la apariencia base antes de generar video en Seedance.  \nConstruye el ambiente, el carácter y la dirección visual en tus referencias/prompt antes de animar.  \nUsa Seedance 2.0 para animar las referencias preparadas en una sola escena conectada en lugar de generar clips desconectados."
+    },
+    "fr": {
+      "content": "---\nCommencez par des images de référence pour établir l'apparence de base avant de générer la vidéo dans Seedance.  \nConstruisez l'ambiance, le caractère et la direction visuelle dans vos références/prompt avant d'animer.  \nUtilisez Seedance 2.0 pour animer les références préparées en une scène unique et connectée plutôt que de générer des clips déconnectés.  \n---"
+    },
+    "ja": {
+      "content": "Seedanceでビデオを生成する前に、基礎となる外観を確立するために参照画像を使用します。  \nアニメーション化する前に、参照画像やプロンプトでムード、キャラクター、ビジュアルの方向性を構築します。  \nSeedance 2.0を使用して、準備した参照を単一の連続したシーンにアニメートし、切り離されたクリップを生成しないようにします。"
+    },
+    "ko": {
+      "content": "Seedance에서 비디오를 생성하기 전에 참조 이미지를 사용하여 기본 외관을 설정하세요.  \n애니메이션을 시작하기 전에 참조/프롬프트에서 분위기, 캐릭터, 시각적 방향을 구축하세요.  \nSeedance 2.0을 사용하여 준비된 참조를 단일 연결된 장면으로 애니메이션화하고, 분리된 클립을 생성하지 마세요."
+    },
+    "pt": {
+      "content": "---\nComece com imagens de referência para estabelecer a aparência base antes de gerar o vídeo no Seedance.  \nConstrua o clima, o personagem e a direção visual em suas referências/prompt antes de animar.  \nUse o Seedance 2.0 para animar as referências preparadas em uma cena única e conectada, em vez de gerar clipes desconectados.\n---"
+    },
+    "zh": {
+      "content": "在使用Seedance生成视频之前，先使用参考图像来建立基础外观。  \n在动画制作之前，通过参考图像/提示词来构建情绪、角色和视觉方向。  \n使用Seedance 2.0将准备好的参考图像动画化为一个连贯的场景，而不是生成不相关的片段。"
+    }
+  }
+}

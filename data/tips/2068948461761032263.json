@@ -1,0 +1,41 @@
+{
+  "id": "2068948461761032263",
+  "title": "Use @ Image 2 as the main character reference for the girl to keep her identity…",
+  "content": "Use @ Image 2 as the main character reference for the girl to keep her identity consistent across the video.  \nUse @ Image 1 as the creature reference for the mantis creatures to lock in their design.  \nUse @ Image 3 as the opening composition reference and exact start frame to control the first frame and shot layout.  \nUse @ Image 4 as a storyboard reference but explicitly instruct Seedance not to render any text, arrows, or numbers from the storyboard.  \nAdd an explicit continuity constraint like start exactly from the previous final frame and preserve continuity to force seamless shot-to-shot transitions.  \nSpecify a timecoded shot list (e.g., 0:00–0:15 with 2-second beats) to control pacing, camera angles, and action progression.  \nInclude explicit camera directives (low side angle, interior first-person, tracking shot, overhead) to steer camera movement and shot variety.  \nAdd negative constraints like No text, no subtitles, no storyboard panels to prevent unwanted overlays in the render.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/mdmadeit/status/2068948461761032263",
+  "sourcePublishedAt": "2026-06-22",
+  "author": {
+    "name": "MD",
+    "link": "https://x.com/mdmadeit"
+  },
+  "tags": [
+    "Horror",
+    "Monster Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use @ Image 2 as the main character reference for the girl to keep her identity consistent across the video.  \nUse @ Image 1 as the creature reference for the mantis creatures to lock in their design.  \nUse @ Image 3 as the opening composition reference and exact start frame to control the first frame and shot layout.  \nUse @ Image 4 as a storyboard reference but explicitly instruct Seedance not to render any text, arrows, or numbers from the storyboard.  \nAdd an explicit continuity constraint like start exactly from the previous final frame and preserve continuity to force seamless shot-to-shot transitions.  \nSpecify a timecoded shot list (e.g., 0:00–0:15 with 2-second beats) to control pacing, camera angles, and action progression.  \nInclude explicit camera directives (low side angle, interior first-person, tracking shot, overhead) to steer camera movement and shot variety.  \nAdd negative constraints like No text, no subtitles, no storyboard panels to prevent unwanted overlays in the render.",
+  "translations": {
+    "es": {
+      "content": "Usa @ Imagen 2 como referencia principal para el personaje de la chica para mantener su identidad consistente a lo largo del video.  \nUsa @ Imagen 1 como referencia para las criaturas mantis para fijar su diseño.  \nUsa @ Imagen 3 como referencia para la composición de apertura y el cuadro de inicio exacto para controlar el primer cuadro y la disposición de la toma.  \nUsa @ Imagen 4 como referencia de storyboard pero instruye explícitamente a Seedance que no renderice ningún texto, flechas o números del storyboard.  \nAñade una restricción de continuidad explícita como comenzar exactamente desde el cuadro final anterior y preservar la continuidad para forzar transiciones fluidas de toma a toma.  \nEspecifica una lista de tomas con código de tiempo (por ejemplo, 0:00–0:15 con intervalos de 2 segundos) para controlar el ritmo, los ángulos de cámara y la progresión de la acción.  \nIncluye directrices explícitas de cámara (ángulo lateral bajo, interior en primera persona, toma de seguimiento, vista aérea) para dirigir el movimiento de la cámara y la variedad de tomas.  \nAñade restricciones negativas como Sin texto, sin subtítulos, sin paneles de storyboard para evitar superposiciones no deseadas en el renderizado."
+    },
+    "fr": {
+      "content": "Utilisez @ Image 2 comme référence principale pour le personnage de la fille afin de maintenir son identité cohérente tout au long de la vidéo.  \nUtilisez @ Image 1 comme référence pour les créatures mantis afin de verrouiller leur design.  \nUtilisez @ Image 3 comme référence pour la composition d'ouverture et le cadre de départ exact pour contrôler le premier cadre et la disposition de la prise de vue.  \nUtilisez @ Image 4 comme référence de storyboard mais indiquez explicitement à Seedance de ne pas rendre de texte, flèches ou numéros du storyboard.  \nAjoutez une contrainte de continuité explicite comme commencer exactement à partir du dernier cadre précédent et préserver la continuité pour forcer des transitions fluides de plan à plan.  \nSpécifiez une liste de plans avec timecode (par exemple, 0:00–0:15 avec des battements de 2 secondes) pour contrôler le rythme, les angles de caméra et la progression de l'action.  \nIncluez des directives de caméra explicites (angle bas de côté, intérieur en première personne, prise de vue en suivi, vue de dessus) pour orienter le mouvement de la caméra et la variété des prises de vue.  \nAjoutez des contraintes négatives comme Pas de texte, pas de sous-titres, pas de panneaux de storyboard pour éviter les superpositions indésirables dans le rendu."
+    },
+    "ja": {
+      "content": "---\n@ Image 2を女の子のメインキャラクターの参照として使用し、ビデオ全体で彼女のアイデンティティを一貫させます。  \n@ Image 1をマンティスクリーチャーの参照として使用し、そのデザインを固定します。  \n@ Image 3をオープニング構成の参照として使用し、最初のフレームとショットレイアウトを制御するために正確な開始フレームを指定します。  \n@ Image 4をストーリーボードの参照として使用しますが、Seedanceにストーリーボードからテキスト、矢印、数字をレンダリングしないように明示的に指示します。  \n前の最終フレームから正確に開始し、連続性を維持してシームレスなショット間の移行を強制するような明確な連続性制約を追加します。  \nペーシング、カメラアングル、アクションの進行を制御するために、タイムコード付きのショットリスト（例：0:00–0:15、2秒ビート）を指定します。  \nカメラの動きとショットの多様性を導くために、明確なカメラ指示（低いサイドアングル、インテリアの一人称視点、トラッキングショット、オーバーヘッド）を含めます。  \nレンダリングに不要なオーバーレイを防ぐために、No text、no subtitles、no storyboard panelsのような否定的な制約を追加します。\n---"
+    },
+    "ko": {
+      "content": "@ Image 2를 소녀의 주요 캐릭터 참조로 사용하여 비디오 전반에 걸쳐 그녀의 정체성을 일관되게 유지하세요.  \n@ Image 1을 사마귀 생물의 참조로 사용하여 그들의 디자인을 고정하세요.  \n@ Image 3을 오프닝 구성 참조 및 정확한 시작 프레임으로 사용하여 첫 번째 프레임과 샷 레이아웃을 제어하세요.  \n@ Image 4를 스토리보드 참조로 사용하되, Seedance에게 스토리보드의 텍스트, 화살표 또는 숫자를 렌더링하지 않도록 명시적으로 지시하세요.  \n정확히 이전의 마지막 프레임에서 시작하고 연속성을 유지하여 매끄러운 샷 전환을 강제하는 명시적인 연속성 제약을 추가하세요.  \n타임코드가 지정된 샷 목록(예: 0:00–0:15, 2초 비트)을 지정하여 속도, 카메라 각도 및 액션 진행을 제어하세요.  \n카메라 움직임과 샷의 다양성을 유도하기 위해 명시적인 카메라 지시사항(낮은 측면 각도, 내부 1인칭, 추적 샷, 오버헤드)을 포함하세요.  \n렌더링에서 원치 않는 오버레이를 방지하기 위해 No text, no subtitles, no storyboard panels와 같은 부정적 제약을 추가하세요."
+    },
+    "pt": {
+      "content": "Use @ Image 2 como referência principal para o personagem da garota para manter sua identidade consistente ao longo do vídeo.  \nUse @ Image 1 como referência para as criaturas mantis para definir o design delas.  \nUse @ Image 3 como referência para a composição de abertura e quadro inicial exato para controlar o primeiro quadro e o layout da cena.  \nUse @ Image 4 como referência de storyboard, mas instrua explicitamente o Seedance a não renderizar nenhum texto, setas ou números do storyboard.  \nAdicione uma restrição de continuidade explícita, como começar exatamente do quadro final anterior e preservar a continuidade para forçar transições suaves de cena para cena.  \nEspecifique uma lista de cenas com marcação de tempo (por exemplo, 0:00–0:15 com intervalos de 2 segundos) para controlar o ritmo, ângulos de câmera e progressão da ação.  \nInclua diretrizes explícitas de câmera (ângulo lateral baixo, interior em primeira pessoa, plano de acompanhamento, vista aérea) para direcionar o movimento da câmera e a variedade de cenas.  \nAdicione restrições negativas como Sem texto, sem legendas, sem painéis de storyboard para evitar sobreposições indesejadas na renderização."
+    },
+    "zh": {
+      "content": "使用@ Image 2作为女孩的主要角色参考，以保持她在视频中的身份一致。  \n使用@ Image 1作为螳螂生物的参考，以固定它们的设计。  \n使用@ Image 3作为开场构图参考和精确的起始帧，以控制第一帧和镜头布局。  \n使用@ Image 4作为分镜参考，但明确指示Seedance不要渲染分镜中的任何文字、箭头或数字。  \n添加一个明确的连续性约束，比如从前一个最终帧开始，并保持连续性，以强制实现无缝的镜头转换。  \n指定一个带时间码的镜头列表（例如，0:00–0:15，2秒节拍）来控制节奏、镜头角度和动作进展。  \n包括明确的摄像机指令（低侧角、内部第一人称、跟踪镜头、俯拍）以引导摄像机运动和镜头多样性。  \n添加负面约束，如无文字、无字幕、无分镜面板，以防止渲染中出现不需要的覆盖。"
+    }
+  }
+}

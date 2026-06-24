@@ -1,0 +1,42 @@
+{
+  "id": "2059420890840854690",
+  "title": "Use a storyboard-first workflow: plan the full video visually in Topview…",
+  "content": "Use a storyboard-first workflow: plan the full video visually in Topview Canvas, then set scene-by-scene controls, and only then generate the final video in Seedance 2.0  \nClean up/refine the storyboard and scene plan with an agent before running Seedance 2.0 generation",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059420739392962562/img/izmwfTflVNidpIuK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059420890840854690.mp4",
+  "sourceLink": "https://x.com/alex_verem/status/2059420890840854690",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "Alex Veremeyenko",
+    "link": "https://x.com/alex_verem"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard-first workflow: plan the full video visually in Topview Canvas, then set scene-by-scene controls, and only then generate the final video in Seedance 2.0  \nClean up/refine the storyboard and scene plan with an agent before running Seedance 2.0 generation",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo basado en storyboard: planifica visualmente todo el video en Topview Canvas, luego establece controles escena por escena, y solo entonces genera el video final en Seedance 2.0  \nLimpia/refina el storyboard y el plan de escenas con un agente antes de ejecutar la generación en Seedance 2.0"
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail basé sur le storyboard : planifiez la vidéo complète visuellement dans Topview Canvas, puis définissez les contrôles scène par scène, et seulement ensuite générez la vidéo finale dans Seedance 2.0  \nNettoyez/affinez le storyboard et le plan de scène avec un agent avant de lancer la génération Seedance 2.0"
+    },
+    "ja": {
+      "content": "---\nストーリーボード優先のワークフローを使用します。まず、Topview Canvasでビジュアル的に全体のビデオを計画し、その後シーンごとのコントロールを設定し、最後にSeedance 2.0で最終ビデオを生成します。  \nSeedance 2.0の生成を実行する前に、エージェントと共にストーリーボードとシーンプランをクリーンアップ/改善します。  \n---"
+    },
+    "ko": {
+      "content": "스토리보드 우선 워크플로우를 사용하세요: Topview Canvas에서 전체 비디오를 시각적으로 계획한 후, 장면별로 컨트롤을 설정하고, 마지막으로 Seedance 2.0에서 최종 비디오를 생성하세요.  \nSeedance 2.0 생성을 실행하기 전에 에이전트를 통해 스토리보드와 장면 계획을 정리/개선하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho baseado em storyboard: planeje todo o vídeo visualmente no Topview Canvas, depois defina os controles cena por cena, e só então gere o vídeo final no Seedance 2.0  \nLimpe/refine o storyboard e o plano de cena com um agente antes de executar a geração no Seedance 2.0"
+    },
+    "zh": {
+      "content": "使用以故事板为先的工作流程：首先在Topview Canvas中以视觉方式规划完整视频，然后设置逐场景的控制，最后在Seedance 2.0中生成最终视频  \n在运行Seedance 2.0生成之前，与代理一起清理/完善故事板和场景计划"
+    }
+  }
+}

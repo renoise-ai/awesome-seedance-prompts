@@ -1,0 +1,42 @@
+{
+  "id": "2064794770858299607",
+  "title": "Use ChatGPT 2.0 to generate character sheets, then tag each character in your…",
+  "content": "Use ChatGPT 2.0 to generate character sheets, then tag each character in your Seedance 2.0 prompt to lock their look and performance consistently across shots  \nUpload audio as a voice reference to guide the character’s voice/performance",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064793802770919424/img/dFFKzHX4Bcmo83Yl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064794770858299607.mp4",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2064794770858299607",
+  "sourcePublishedAt": "2026-06-10",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use ChatGPT 2.0 to generate character sheets, then tag each character in your Seedance 2.0 prompt to lock their look and performance consistently across shots  \nUpload audio as a voice reference to guide the character’s voice/performance",
+  "translations": {
+    "es": {
+      "content": "Utiliza ChatGPT 2.0 para generar fichas de personajes, luego etiqueta a cada personaje en tu prompt de Seedance 2.0 para asegurar que su apariencia y actuación sean consistentes en todas las tomas  \nSube audio como referencia de voz para guiar la voz/actuación del personaje"
+    },
+    "fr": {
+      "content": "Utilisez ChatGPT 2.0 pour générer des fiches de personnages, puis étiquetez chaque personnage dans votre prompt Seedance 2.0 pour verrouiller leur apparence et leur performance de manière cohérente à travers les plans.  \nTéléchargez un fichier audio comme référence vocale pour guider la voix/la performance du personnage."
+    },
+    "ja": {
+      "content": "---\nChatGPT 2.0を使用してキャラクターシートを生成し、それぞれのキャラクターをSeedance 2.0のプロンプトでタグ付けして、ショット全体で外見とパフォーマンスを一貫して維持します  \n音声をアップロードして、キャラクターの声やパフォーマンスのガイドとして使用します\n---"
+    },
+    "ko": {
+      "content": "---\nChatGPT 2.0을 사용하여 캐릭터 시트를 생성한 후, Seedance 2.0 prompt에서 각 캐릭터를 태그하여 샷 전반에 걸쳐 그들의 외모와 연기를 일관되게 유지하세요.  \n캐릭터의 목소리/연기를 안내하기 위해 음성을 참조로 업로드하세요.  \n---"
+    },
+    "pt": {
+      "content": "Use o ChatGPT 2.0 para gerar fichas de personagens, depois marque cada personagem no seu prompt do Seedance 2.0 para fixar sua aparência e desempenho de forma consistente em todas as cenas  \nCarregue áudio como referência de voz para guiar a voz/desempenho do personagem"
+    },
+    "zh": {
+      "content": "使用ChatGPT 2.0生成角色表，然后在你的Seedance 2.0 prompt中标记每个角色，以在镜头中保持他们的外观和表现一致  \n上传音频作为语音参考，以指导角色的声音/表现"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2056726073900138630",
+  "title": "Use Seedance 2.0 face input to improve character consistency across longer…",
+  "content": "Use Seedance 2.0 face input to improve character consistency across longer sequences  \nUse Seedance 2.0 multi-model orchestration to improve scene stability across longer sequences",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056724453451825152/img/svdEy9eL_NjlAfvM.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056726073900138630.mp4",
+  "sourceLink": "https://x.com/Leoreedmax/status/2056726073900138630",
+  "sourcePublishedAt": "2026-05-19",
+  "author": {
+    "name": "Leo Reed",
+    "link": "https://x.com/Leoreedmax"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 face input to improve character consistency across longer sequences  \nUse Seedance 2.0 multi-model orchestration to improve scene stability across longer sequences",
+  "translations": {
+    "es": {
+      "content": "Utiliza la entrada de rostro de Seedance 2.0 para mejorar la consistencia de los personajes a lo largo de secuencias más largas  \nUtiliza la orquestación multimodelo de Seedance 2.0 para mejorar la estabilidad de la escena a lo largo de secuencias más largas"
+    },
+    "fr": {
+      "content": "Utilisez l'entrée faciale de Seedance 2.0 pour améliorer la cohérence des personnages sur des séquences plus longues  \nUtilisez l'orchestration multi-modèles de Seedance 2.0 pour améliorer la stabilité des scènes sur des séquences plus longues"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0のフェイス入力を使用して、長いシーケンスにわたるキャラクターの一貫性を向上させる  \nSeedance 2.0のマルチモデルオーケストレーションを使用して、長いシーケンスにわたるシーンの安定性を向上させる  \n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0 얼굴 입력을 사용하여 더 긴 시퀀스에서 캐릭터 일관성을 향상  \nSeedance 2.0 다중 모델 오케스트레이션을 사용하여 더 긴 시퀀스에서 장면 안정성을 향상"
+    },
+    "pt": {
+      "content": "Use a entrada de rosto do Seedance 2.0 para melhorar a consistência dos personagens em sequências mais longas  \nUse a orquestração multi-modelo do Seedance 2.0 para melhorar a estabilidade da cena em sequências mais longas"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0 面部输入来提高长序列中的角色一致性  \n使用 Seedance 2.0 多模型编排来提高长序列中的场景稳定性"
+    }
+  }
+}

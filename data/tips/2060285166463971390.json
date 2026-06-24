@@ -1,0 +1,42 @@
+{
+  "id": "2060285166463971390",
+  "title": "Add an explicit ending instruction in your prompt (e.g., make them say bye bye…",
+  "content": "Add an explicit ending instruction in your prompt (e.g., make them say bye bye at the end) to force a funny closing beat in Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2060282451927134209/img/JodIme_u38gtDUd3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060285166463971390.mp4",
+  "sourceLink": "https://x.com/LumeFlowAI/status/2060285166463971390",
+  "sourcePublishedAt": "2026-05-29",
+  "author": {
+    "name": "LumeFlow AI Official",
+    "link": "https://x.com/LumeFlowAI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add an explicit ending instruction in your prompt (e.g., make them say bye bye at the end) to force a funny closing beat in Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Añade una instrucción de cierre explícita en tu prompt (por ejemplo, haz que digan bye bye al final) para forzar un cierre cómico en Seedance 2.0."
+    },
+    "fr": {
+      "content": "Ajoutez une instruction explicite de fin dans votre prompt (par exemple, faites-les dire bye bye à la fin) pour forcer une conclusion humoristique dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "Seedance 2.0で面白い締めくくりを強制するために、プロンプトに明確な終了指示を追加してください（例：最後に「バイバイ」と言わせる）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 재미있는 마무리 장면을 만들기 위해, 프롬프트에 명시적인 종료 지시를 추가하세요 (예: 끝에 'bye bye'라고 말하게 하기)."
+    },
+    "pt": {
+      "content": "Adicione uma instrução de encerramento explícita no seu prompt (por exemplo, faça-os dizer \"bye bye\" no final) para forçar um desfecho engraçado no Seedance 2.0."
+    },
+    "zh": {
+      "content": "在你的prompt中添加一个明确的结束指令（例如，让他们在最后说bye bye），以在Seedance 2.0中强制产生一个有趣的结尾。"
+    }
+  }
+}

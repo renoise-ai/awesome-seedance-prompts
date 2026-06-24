@@ -1,0 +1,42 @@
+{
+  "id": "2065167197048119367",
+  "title": "Create a single character+location reference sheet in GPT Image (one image…",
+  "content": "Create a single character+location reference sheet in GPT Image (one image containing all references) and generate all storyboards/shots against that sheet to keep characters and environments consistent.  \nStoryboard first (e.g., 4 boards × 8 shots) and then animate each storyboarded shot in Seedance 2.0 to maintain continuity across a 60-second short.  \nPrompt Seedance with explicit duration and structure (e.g., 15 seconds, multishot, fast cuts) and enumerate each shot with timestamps to control pacing within a single generation.  \nSpecify camera direction per scene (e.g., drifting aerial → grounded handheld, push-ins on specific shots, crane-up, sweeping aerial) directly in the prompt to guide motion and framing.  \nLock visual style and palette in every scene prompt (e.g., Pixar-quality 3D animated fantasy, ink-and-gold palette, warm gold vs deep blue night) to keep the look consistent across shots.  \nFor a no-edit workflow, generate each shot as a single Seedance generation; for higher-stakes projects, generate multiple takes per shot and edit/select later with music.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2065167197048119367",
+  "sourcePublishedAt": "2026-06-11",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Fantasy",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a single character+location reference sheet in GPT Image (one image containing all references) and generate all storyboards/shots against that sheet to keep characters and environments consistent.  \nStoryboard first (e.g., 4 boards × 8 shots) and then animate each storyboarded shot in Seedance 2.0 to maintain continuity across a 60-second short.  \nPrompt Seedance with explicit duration and structure (e.g., 15 seconds, multishot, fast cuts) and enumerate each shot with timestamps to control pacing within a single generation.  \nSpecify camera direction per scene (e.g., drifting aerial → grounded handheld, push-ins on specific shots, crane-up, sweeping aerial) directly in the prompt to guide motion and framing.  \nLock visual style and palette in every scene prompt (e.g., Pixar-quality 3D animated fantasy, ink-and-gold palette, warm gold vs deep blue night) to keep the look consistent across shots.  \nFor a no-edit workflow, generate each shot as a single Seedance generation; for higher-stakes projects, generate multiple takes per shot and edit/select later with music.",
+  "translations": {
+    "es": {
+      "content": "Crea una hoja de referencia de personaje+ubicación en GPT Image (una imagen que contenga todas las referencias) y genera todos los storyboards/tomas contra esa hoja para mantener la consistencia de personajes y entornos.  \nPrimero haz el storyboard (por ejemplo, 4 tableros × 8 tomas) y luego anima cada toma del storyboard en Seedance 2.0 para mantener la continuidad en un corto de 60 segundos.  \nPrompt Seedance con duración y estructura explícitas (por ejemplo, 15 segundos, multishot, cortes rápidos) y enumera cada toma con marcas de tiempo para controlar el ritmo dentro de una sola generación.  \nEspecifica la dirección de la cámara por escena (por ejemplo, aérea en deriva → mano alzada en tierra, acercamientos en tomas específicas, elevación de grúa, aérea barrida) directamente en el prompt para guiar el movimiento y el encuadre.  \nFija el estilo visual y la paleta en cada prompt de escena (por ejemplo, fantasía animada en 3D de calidad Pixar, paleta de tinta y oro, oro cálido vs azul noche profundo) para mantener la apariencia consistente en todas las tomas.  \nPara un flujo de trabajo sin edición, genera cada toma como una sola generación de Seedance; para proyectos de mayor envergadura, genera múltiples tomas por cada toma y edita/selecciona más tarde con música."
+    },
+    "fr": {
+      "content": "Créer une feuille de référence personnage+lieu unique dans GPT Image (une image contenant toutes les références) et générer tous les storyboards/plans en fonction de cette feuille pour maintenir la cohérence des personnages et des environnements.  \nStoryboardez d'abord (par exemple, 4 planches × 8 plans) puis animez chaque plan storyboardé dans Seedance 2.0 pour maintenir la continuité sur un court-métrage de 60 secondes.  \nPrompt Seedance avec une durée et une structure explicites (par exemple, 15 secondes, multishot, coupes rapides) et énumérez chaque plan avec des horodatages pour contrôler le rythme au sein d'une seule génération.  \nSpécifiez la direction de la caméra par scène (par exemple, aérien dérivant → caméra à main levée au sol, zooms sur des plans spécifiques, montée en grue, aérien panoramique) directement dans le prompt pour guider le mouvement et le cadrage.  \nVerrouillez le style visuel et la palette dans chaque prompt de scène (par exemple, animation 3D de qualité Pixar, palette encre et or, or chaud contre nuit bleu profond) pour garder l'apparence cohérente à travers les plans.  \nPour un flux de travail sans montage, générez chaque plan comme une seule génération Seedance ; pour des projets à enjeux plus élevés, générez plusieurs prises par plan et éditez/sélectionnez plus tard avec de la musique."
+    },
+    "ja": {
+      "content": "---\nGPT Imageで単一のキャラクター＋ロケーションのリファレンスシートを作成し（すべてのリファレンスを含む1つの画像）、そのシートに対してすべてのストーリーボード/ショットを生成して、キャラクターと環境の一貫性を保ちます。  \nまずストーリーボードを作成し（例：4ボード×8ショット）、その後、Seedance 2.0で各ストーリーボードされたショットをアニメーション化して、60秒のショートフィルム全体での連続性を維持します。  \nSeedanceに明確な時間と構造を指示（例：15秒、マルチショット、ファストカット）し、各ショットをタイムスタンプで列挙して、単一の生成内でペースを制御します。  \nシーンごとにカメラの方向を指定（例：漂う空撮→地上のハンドヘルド、特定のショットでのプッシュイン、クレーンアップ、スウィーピング空撮）し、動きとフレーミングをガイドするためにプロンプトに直接記載します。  \n各シーンのプロンプトでビジュアルスタイルとパレットを固定（例：ピクサークオリティの3Dアニメーションファンタジー、インクとゴールドのパレット、暖かいゴールド対深い青の夜）して、ショット全体での外観の一貫性を保ちます。  \n編集なしのワークフローの場合、各ショットを単一のSeedance生成として生成します。より重要なプロジェクトの場合、各ショットに対して複数のテイクを生成し、後で音楽と共に編集/選択します。\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image에서 단일 캐릭터+장소 참조 시트를 생성하고 모든 스토리보드/샷을 해당 시트에 맞춰 생성하여 캐릭터와 환경의 일관성을 유지합니다.  \n먼저 스토리보드를 작성합니다 (예: 4개의 보드 × 8개의 샷) 그런 다음 Seedance 2.0에서 각 스토리보드 샷을 애니메이션화하여 60초 단편 전반에 걸쳐 연속성을 유지합니다.  \nSeedance에 명시적인 지속 시간과 구조를 지정하여 프롬프트합니다 (예: 15초, 멀티샷, 빠른 컷) 그리고 단일 생성 내에서 페이싱을 제어하기 위해 타임스탬프로 각 샷을 열거합니다.  \n장면별 카메라 방향을 프롬프트에 직접 지정하여 동작과 구도를 안내합니다 (예: 공중에서 지상으로 이동하는 핸드헬드, 특정 샷에서의 푸시인, 크레인 업, 공중 스위핑).  \n각 장면 프롬프트에서 시각적 스타일과 팔레트를 고정합니다 (예: 픽사 품질의 3D 애니메이션 판타지, 잉크와 골드 팔레트, 따뜻한 금색 대 깊은 파란색 밤) 샷 전반에 걸쳐 일관된 외관을 유지합니다.  \n편집 없는 워크플로우를 위해 각 샷을 단일 Seedance 생성으로 생성합니다; 더 중요한 프로젝트의 경우, 샷당 여러 테이크를 생성하고 나중에 음악과 함께 편집/선택합니다.  \n---"
+    },
+    "pt": {
+      "content": "Crie uma folha de referência de personagem+localização única no GPT Image (uma imagem contendo todas as referências) e gere todos os storyboards/takes com base nessa folha para manter a consistência dos personagens e ambientes.  \nFaça o storyboard primeiro (por exemplo, 4 quadros × 8 takes) e depois anime cada take do storyboard no Seedance 2.0 para manter a continuidade em um curta de 60 segundos.  \nPrompt Seedance com duração e estrutura explícitas (por exemplo, 15 segundos, multishot, cortes rápidos) e enumere cada take com timestamps para controlar o ritmo dentro de uma única geração.  \nEspecifique a direção da câmera por cena (por exemplo, aérea flutuante → câmera de mão no chão, push-ins em takes específicos, subida de grua, aérea varrida) diretamente no prompt para guiar o movimento e o enquadramento.  \nTrave o estilo visual e a paleta em cada prompt de cena (por exemplo, fantasia animada em 3D de qualidade Pixar, paleta de tinta e ouro, ouro quente vs azul profundo da noite) para manter a aparência consistente entre os takes.  \nPara um fluxo de trabalho sem edição, gere cada take como uma única geração Seedance; para projetos de maior importância, gere várias tomadas por take e edite/selecione depois com música."
+    },
+    "zh": {
+      "content": "在GPT Image中创建一个角色+地点参考表（一个包含所有参考的图像），并根据该表生成所有分镜/镜头，以保持角色和环境的一致性。  \n首先进行分镜（例如，4个板×8个镜头），然后在Seedance 2.0中为每个分镜镜头制作动画，以在60秒短片中保持连续性。  \n用明确的时长和结构提示Seedance（例如，15秒，多镜头，快速剪辑），并用时间戳枚举每个镜头，以在单次生成中控制节奏。  \n在提示中直接指定每个场景的摄像机方向（例如，漂移的空中→地面手持，特定镜头的推入，起重机上升，扫过的空中）以指导运动和构图。  \n在每个场景提示中锁定视觉风格和调色板（例如，皮克斯质量的3D动画奇幻，墨水和金色调色板，温暖的金色对比深蓝色的夜晚），以保持镜头之间的一致外观。  \n对于无编辑工作流程，将每个镜头生成为单个Seedance生成；对于更高要求的项目，为每个镜头生成多个版本，并在后期编辑/选择时配上音乐。"
+    }
+  }
+}

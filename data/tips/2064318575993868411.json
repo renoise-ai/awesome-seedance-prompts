@@ -1,0 +1,42 @@
+{
+  "id": "2064318575993868411",
+  "title": "Generate a two-part sequence by creating Part A first, then use the Part A…",
+  "content": "Generate a two-part sequence by creating Part A first, then use the Part A output as the reference input for Part B to maintain character/scene continuity.\n\nStructure your Seedance prompt into explicit sections (Subject, Action/Emotion, Environment, Camera, Lighting & Mood, Technical) to control story, cinematography, and visual style.\n\nWrite the prompt as timecoded shot beats (e.g., SHOT 1 0–3s, SHOT 2 3–6s) with specific camera moves (handheld chase, low-angle tracking, drone fly-through, speed ramps, bullet-time, whip pans, crash zooms) to guide pacing and motion.\n\nGenerate at Seedance’s native output, then upscale to 4K in post using Topaz rather than relying solely on in-model 4K generation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064318281658576896/img/DW-oe6O4wRkAytuZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064318575993868411.mp4",
+  "sourceLink": "https://x.com/rahulnanda86/status/2064318575993868411",
+  "sourcePublishedAt": "2026-06-09",
+  "author": {
+    "name": "Rahul Nanda",
+    "link": "https://x.com/rahulnanda86"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a two-part sequence by creating Part A first, then use the Part A output as the reference input for Part B to maintain character/scene continuity.\n\nStructure your Seedance prompt into explicit sections (Subject, Action/Emotion, Environment, Camera, Lighting & Mood, Technical) to control story, cinematography, and visual style.\n\nWrite the prompt as timecoded shot beats (e.g., SHOT 1 0–3s, SHOT 2 3–6s) with specific camera moves (handheld chase, low-angle tracking, drone fly-through, speed ramps, bullet-time, whip pans, crash zooms) to guide pacing and motion.\n\nGenerate at Seedance’s native output, then upscale to 4K in post using Topaz rather than relying solely on in-model 4K generation.",
+  "translations": {
+    "es": {
+      "content": "Genera una secuencia de dos partes creando primero la Parte A, luego utiliza la salida de la Parte A como la entrada de referencia para la Parte B para mantener la continuidad de personajes/escenas.\n\nEstructura tu prompt de Seedance en secciones explícitas (Sujeto, Acción/Emoción, Entorno, Cámara, Iluminación y Ambiente, Técnico) para controlar la historia, la cinematografía y el estilo visual.\n\nEscribe el prompt como beats de tomas con código de tiempo (por ejemplo, SHOT 1 0–3s, SHOT 2 3–6s) con movimientos de cámara específicos (persecución a mano, seguimiento en ángulo bajo, vuelo de dron, rampas de velocidad, tiempo bala, barridos rápidos, zooms de choque) para guiar el ritmo y el movimiento.\n\nGenera en la salida nativa de Seedance, luego mejora a 4K en postproducción usando Topaz en lugar de depender únicamente de la generación 4K en el modelo."
+    },
+    "fr": {
+      "content": "---\nGénérez une séquence en deux parties en créant d'abord la Partie A, puis utilisez la sortie de la Partie A comme entrée de référence pour la Partie B afin de maintenir la continuité des personnages/scènes.\n\nStructurez votre prompt Seedance en sections explicites (Sujet, Action/Émotion, Environnement, Caméra, Éclairage & Ambiance, Technique) pour contrôler l'histoire, la cinématographie et le style visuel.\n\nRédigez le prompt sous forme de battements de plans chronométrés (par exemple, SHOT 1 0–3s, SHOT 2 3–6s) avec des mouvements de caméra spécifiques (poursuite à main levée, suivi en contre-plongée, passage en drone, accélérations, bullet-time, panoramiques rapides, zooms brusques) pour guider le rythme et le mouvement.\n\nGénérez à la sortie native de Seedance, puis upscalez en 4K en post-production avec Topaz plutôt que de vous fier uniquement à la génération 4K dans le modèle."
+    },
+    "ja": {
+      "content": "---\nまずパートAを作成し、その出力をパートBの参照入力として使用して、キャラクターやシーンの連続性を維持しながら2部構成のシーケンスを生成します。\n\nSeedanceのプロンプトを明確なセクション（Subject, Action/Emotion, Environment, Camera, Lighting & Mood, Technical）に構成し、ストーリー、撮影技法、ビジュアルスタイルを制御します。\n\nプロンプトをタイムコード付きのショットビート（例：SHOT 1 0–3s, SHOT 2 3–6s）として書き、特定のカメラ動作（ハンドヘルドチェイス、ローアングルトラッキング、ドローンフライスルー、スピードランプ、バレットタイム、ウィップパン、クラッシュズーム）を指定して、ペースと動きをガイドします。\n\nSeedanceのネイティブ出力で生成し、その後、Topazを使用してポストで4Kにアップスケールし、モデル内の4K生成にのみ依存しないようにします。"
+    },
+    "ko": {
+      "content": "---\nPart A를 먼저 생성한 후, Part A의 출력을 Part B의 참조 입력으로 사용하여 캐릭터/장면의 연속성을 유지하면서 두 부분으로 구성된 시퀀스를 생성하세요.\n\nSeedance 프롬프트를 명확한 섹션(주제, 행동/감정, 환경, 카메라, 조명 및 분위기, 기술)으로 구조화하여 이야기, 촬영 기법 및 시각적 스타일을 제어하세요.\n\n프롬프트를 시간 코드가 있는 샷 비트(예: SHOT 1 0–3s, SHOT 2 3–6s)로 작성하고 특정 카메라 움직임(핸드헬드 추적, 로우 앵글 트래킹, 드론 플라이 스루, 속도 램프, 불릿 타임, 휩 팬, 크래시 줌)을 포함하여 페이싱과 움직임을 안내하세요.\n\nSeedance의 기본 출력으로 생성한 후, 모델 내 4K 생성에만 의존하지 않고 Topaz를 사용하여 포스트에서 4K로 업스케일하세요.\n---"
+    },
+    "pt": {
+      "content": "---\nGere uma sequência em duas partes criando primeiro a Parte A e, em seguida, use a saída da Parte A como entrada de referência para a Parte B, a fim de manter a continuidade de personagem/cena.\n\nEstruture seu prompt Seedance em seções explícitas (Assunto, Ação/Emoção, Ambiente, Câmera, Iluminação & Humor, Técnico) para controlar a história, cinematografia e estilo visual.\n\nEscreva o prompt como batidas de cena com marcação de tempo (por exemplo, SHOT 1 0–3s, SHOT 2 3–6s) com movimentos de câmera específicos (perseguição com câmera na mão, rastreamento em ângulo baixo, sobrevoo de drone, rampas de velocidade, bullet-time, whip pans, zooms rápidos) para guiar o ritmo e o movimento.\n\nGere na saída nativa do Seedance e, em seguida, faça o upscale para 4K na pós-produção usando o Topaz, em vez de depender apenas da geração 4K no modelo."
+    },
+    "zh": {
+      "content": "---\n生成一个两部分的序列，首先创建A部分，然后使用A部分的输出作为B部分的参考输入，以保持角色/场景的连续性。\n\n将你的Seedance prompt结构分为明确的部分（主题、动作/情感、环境、摄像机、灯光与情绪、技术），以控制故事、电影摄影和视觉风格。\n\n将prompt写成带时间码的镜头节拍（例如，SHOT 1 0–3s，SHOT 2 3–6s），并包含具体的摄像机移动（手持追逐、低角度跟踪、无人机飞行穿越、速度变化、子弹时间、快速摇镜、冲击变焦）以指导节奏和运动。\n\n在Seedance的原生输出中生成，然后在后期使用Topaz升至4K，而不是仅依赖于模型内的4K生成。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2061360343138664571",
+  "title": "Use RoboNeo Agent Teams to keep characters consistent across scenes and…",
+  "content": "Use RoboNeo Agent Teams to keep characters consistent across scenes and maintain continuity in multi-character action sequences  \nUse GPT-2 for scene structuring/storyboarding, then generate cinematic motion with Seedance 2 for smoother, more cinematic movement across the sequence",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ShamiWeb3/status/2061360343138664571",
+  "sourcePublishedAt": "2026-06-01",
+  "author": {
+    "name": "Shami",
+    "link": "https://x.com/ShamiWeb3"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use RoboNeo Agent Teams to keep characters consistent across scenes and maintain continuity in multi-character action sequences  \nUse GPT-2 for scene structuring/storyboarding, then generate cinematic motion with Seedance 2 for smoother, more cinematic movement across the sequence",
+  "translations": {
+    "es": {
+      "content": "Utiliza los Equipos de Agentes RoboNeo para mantener la coherencia de los personajes a lo largo de las escenas y asegurar la continuidad en secuencias de acción con múltiples personajes.  \nUsa GPT-2 para estructurar escenas/storyboarding, luego genera movimiento cinematográfico con Seedance 2 para un movimiento más fluido y cinematográfico a lo largo de la secuencia."
+    },
+    "fr": {
+      "content": "Utilisez les équipes d'agents RoboNeo pour maintenir la cohérence des personnages à travers les scènes et assurer la continuité dans les séquences d'action multi-personnages  \nUtilisez GPT-2 pour la structuration des scènes/storyboarding, puis générez un mouvement cinématographique avec Seedance 2 pour un mouvement plus fluide et plus cinématographique tout au long de la séquence"
+    },
+    "ja": {
+      "content": "---\nRoboNeo Agent Teamsを使用して、シーン全体でキャラクターの一貫性を保ち、複数キャラクターのアクションシーケンスでの連続性を維持します  \nシーンの構成やストーリーボードにはGPT-2を使用し、その後、Seedance 2でシーケンス全体にわたるより滑らかで映画的な動きを生成します\n---"
+    },
+    "ko": {
+      "content": "RoboNeo Agent Teams를 사용하여 장면 전반에 걸쳐 캐릭터의 일관성을 유지하고 다중 캐릭터 액션 시퀀스에서 연속성을 유지하십시오.  \n장면 구조화/스토리보드를 위해 GPT-2를 사용한 다음, Seedance 2로 시퀀스 전반에 걸쳐 더 부드럽고 영화 같은 움직임을 생성하십시오."
+    },
+    "pt": {
+      "content": "Use RoboNeo Agent Teams para manter a consistência dos personagens em várias cenas e garantir a continuidade em sequências de ação com múltiplos personagens  \nUse o GPT-2 para estruturar cenas/storyboarding, depois gere movimento cinematográfico com o Seedance 2 para um movimento mais suave e cinematográfico ao longo da sequência"
+    },
+    "zh": {
+      "content": "使用RoboNeo Agent Teams在多个角色的动作序列中保持角色的一致性和连续性  \n使用GPT-2进行场景结构化/分镜，然后使用Seedance 2生成电影般的运动，以实现整个序列更流畅、更具电影感的运动"
+    }
+  }
+}

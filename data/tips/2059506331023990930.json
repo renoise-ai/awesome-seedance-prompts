@@ -1,0 +1,42 @@
+{
+  "id": "2059506331023990930",
+  "title": "Use a storyboard-first workflow: build and organize scenes visually on an…",
+  "content": "Use a storyboard-first workflow: build and organize scenes visually on an infinite canvas before generating the full sequence with Seedance 2.0.\nCollaborate with an AI agent to refine scene ideas and flow prior to running Seedance 2.0 generation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059506162568212482/img/9MG9zHg7Wn06IoKA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059506331023990930.mp4",
+  "sourceLink": "https://x.com/Just_sharon7/status/2059506331023990930",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Sharon Riley",
+    "link": "https://x.com/Just_sharon7"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard-first workflow: build and organize scenes visually on an infinite canvas before generating the full sequence with Seedance 2.0.\nCollaborate with an AI agent to refine scene ideas and flow prior to running Seedance 2.0 generation.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo basado en storyboards: construye y organiza escenas visualmente en un lienzo infinito antes de generar la secuencia completa con Seedance 2.0. Colabora con un agente de IA para refinar las ideas y el flujo de las escenas antes de ejecutar la generación con Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail axé sur le storyboard : construisez et organisez visuellement les scènes sur une toile infinie avant de générer la séquence complète avec Seedance 2.0. Collaborez avec un agent IA pour affiner les idées de scènes et le déroulement avant de lancer la génération Seedance 2.0."
+    },
+    "ja": {
+      "content": "ストーリーボードを最初に使うワークフローを採用しましょう。無限キャンバス上でシーンを視覚的に構築・整理し、Seedance 2.0で完全なシーケンスを生成する前に準備します。AIエージェントと協力して、Seedance 2.0の生成を実行する前にシーンのアイデアや流れを洗練させましょう。"
+    },
+    "ko": {
+      "content": "스토리보드 우선 워크플로우를 사용하세요: Seedance 2.0으로 전체 시퀀스를 생성하기 전에 무한 캔버스에서 장면을 시각적으로 구성하고 정리합니다. Seedance 2.0 생성을 실행하기 전에 AI 에이전트와 협력하여 장면 아이디어와 흐름을 개선하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho baseado em storyboard: construa e organize cenas visualmente em uma tela infinita antes de gerar a sequência completa com o Seedance 2.0. Colabore com um agente de IA para refinar ideias de cenas e o fluxo antes de executar a geração do Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用以分镜头为先的工作流程：在生成完整序列之前，先在无限画布上可视化地构建和组织场景，然后使用Seedance 2.0。与AI代理合作，在运行Seedance 2.0生成之前，完善场景创意和流程。"
+    }
+  }
+}

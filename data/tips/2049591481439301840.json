@@ -1,0 +1,42 @@
+{
+  "id": "2049591481439301840",
+  "title": "Use Seedance to generate additional shots of the same character from multiple…",
+  "content": "Use Seedance to generate additional shots of the same character from multiple angles, then extract frames from those sequences to create a consistent set of reference “ingredients” that locks the character’s style across outputs.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2049590617056088064/img/K36MOguyqSvNsG8l.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2049591481439301840.mp4",
+  "sourceLink": "https://x.com/henrydaubrez/status/2049591481439301840",
+  "sourcePublishedAt": "2026-04-29",
+  "author": {
+    "name": "Henry Daubrez 🌸💀",
+    "link": "https://x.com/henrydaubrez"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance to generate additional shots of the same character from multiple angles, then extract frames from those sequences to create a consistent set of reference “ingredients” that locks the character’s style across outputs.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Seedance para generar tomas adicionales del mismo personaje desde múltiples ángulos, luego extrae fotogramas de esas secuencias para crear un conjunto consistente de “ingredientes” de referencia que mantenga el estilo del personaje en todas las salidas.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Inspirado por la técnica de ráfaga de @kaigani. Mismo enfoque, solo enfócate en la cobertura del personaje."
+    },
+    "fr": {
+      "content": "Utilisez Seedance pour générer des prises supplémentaires du même personnage sous plusieurs angles, puis extrayez des images de ces séquences pour créer un ensemble cohérent d'« ingrédients » de référence qui verrouille le style du personnage à travers les rendus.\n\n--- SUITE DU FIL ---\n[Fil 1] Inspiré par la technique de rafale de @kaigani. Même approche, concentrez-vous simplement sur la couverture du personnage."
+    },
+    "ja": {
+      "content": "---\nSeedanceを使用して、同じキャラクターの追加ショットを複数の角度から生成し、それらのシーケンスからフレームを抽出して、出力全体でキャラクターのスタイルを固定する一貫した参照「材料」のセットを作成します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @kaigani のバースト技法に触発されました。同じアプローチですが、キャラクターのカバレッジに焦点を当てます\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance를 사용하여 동일한 캐릭터의 추가 샷을 여러 각도에서 생성한 다음, 이러한 시퀀스에서 프레임을 추출하여 출력 전반에 걸쳐 캐릭터의 스타일을 고정하는 일관된 참조 \"재료\" 세트를 만드세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @kaigani의 버스트 기법에서 영감을 받았습니다. 동일한 접근 방식이지만, 캐릭터 커버리지에 집중하세요\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance para gerar tomadas adicionais do mesmo personagem a partir de múltiplos ângulos, depois extraia quadros dessas sequências para criar um conjunto consistente de “ingredientes” de referência que mantenha o estilo do personagem consistente em todas as saídas.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Inspirado pela técnica de explosão de @kaigani. Mesma abordagem, apenas foque na cobertura do personagem"
+    },
+    "zh": {
+      "content": "使用 Seedance 从多个角度生成同一角色的额外镜头，然后从这些序列中提取帧，以创建一组一致的参考“元素”，确保角色风格在输出中的一致性。\n\n--- 线程继续 ---\n[线程 1] 受 @kaigani 的爆发技术启发。相同的方法，只是专注于角色覆盖。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2058975958871535727",
+  "title": "Open Flova’s Story Driven Video Skill, select Seedance 2.0 as the video model…",
+  "content": "Open Flova’s Story Driven Video Skill, select Seedance 2.0 as the video model, upload character images plus environment reference images, then paste your script to have the agent build the filmmaking pipeline automatically.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058975907231252480/img/SBoo3CLriFxPXYAD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058975958871535727.mp4",
+  "sourceLink": "https://x.com/egeberkina/status/2058975958871535727",
+  "sourcePublishedAt": "2026-05-25",
+  "author": {
+    "name": "Ege",
+    "link": "https://x.com/egeberkina"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Open Flova’s Story Driven Video Skill, select Seedance 2.0 as the video model, upload character images plus environment reference images, then paste your script to have the agent build the filmmaking pipeline automatically.",
+  "translations": {
+    "es": {
+      "content": "Abre la habilidad de video impulsada por historias de Flova, selecciona Seedance 2.0 como el modelo de video, sube imágenes de personajes más imágenes de referencia del entorno, luego pega tu guion para que el agente construya automáticamente la cadena de producción cinematográfica."
+    },
+    "fr": {
+      "content": "Ouvrez la compétence vidéo axée sur l'histoire de Flova, sélectionnez Seedance 2.0 comme modèle vidéo, téléchargez les images des personnages ainsi que les images de référence de l'environnement, puis collez votre script pour que l'agent construise automatiquement le pipeline de réalisation."
+    },
+    "ja": {
+      "content": "Flovaのストーリードリブンビデオスキルを開き、ビデオモデルとしてSeedance 2.0を選択し、キャラクター画像と環境参照画像をアップロードします。その後、スクリプトを貼り付けると、エージェントが自動的に映画制作のパイプラインを構築します。"
+    },
+    "ko": {
+      "content": "플로바의 스토리 주도 비디오 스킬을 열고, 비디오 모델로 Seedance 2.0을 선택한 후, 캐릭터 이미지와 환경 참조 이미지를 업로드하세요. 그런 다음, 스크립트를 붙여넣으면 에이전트가 자동으로 영화 제작 파이프라인을 구축합니다."
+    },
+    "pt": {
+      "content": "Abra a habilidade de Vídeo Orientado por História do Flova, selecione Seedance 2.0 como o modelo de vídeo, carregue imagens de personagens e imagens de referência do ambiente, depois cole seu roteiro para que o agente construa automaticamente o pipeline de filmagem."
+    },
+    "zh": {
+      "content": "打开Flova的故事驱动视频技能，选择Seedance 2.0作为视频模型，上传角色图像和环境参考图像，然后粘贴你的剧本，让代理自动构建电影制作流程。"
+    }
+  }
+}

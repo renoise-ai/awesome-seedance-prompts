@@ -1,0 +1,42 @@
+{
+  "id": "2058533956740428178",
+  "title": "Use a storyboard workflow in Seedance 2.0 by breaking the video into multiple…",
+  "content": "Use a storyboard workflow in Seedance 2.0 by breaking the video into multiple boards/scenes and generating each board separately.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058527147782742017/img/5RpcbPM7Bh0B-KYA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058533956740428178.mp4",
+  "sourceLink": "https://x.com/monicajsurrena/status/2058533956740428178",
+  "sourcePublishedAt": "2026-05-24",
+  "author": {
+    "name": "MJ Surrena",
+    "link": "https://x.com/monicajsurrena"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard workflow in Seedance 2.0 by breaking the video into multiple boards/scenes and generating each board separately.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de storyboard en Seedance 2.0 dividiendo el video en múltiples tableros/escenas y generando cada tablero por separado."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail de storyboard dans Seedance 2.0 en divisant la vidéo en plusieurs planches/scènes et en générant chaque planche séparément."
+    },
+    "ja": {
+      "content": "Seedance 2.0では、ビデオを複数のボード/シーンに分割し、それぞれのボードを個別に生成することで、ストーリーボードワークフローを使用します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 스토리보드 워크플로우를 사용하여 비디오를 여러 보드/장면으로 나누고 각 보드를 개별적으로 생성하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de storyboard no Seedance 2.0 dividindo o vídeo em múltiplos quadros/cenas e gerando cada quadro separadamente."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用分镜头工作流程，将视频分成多个板块/场景，并分别生成每个板块。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2062806357699338464",
+  "title": "Use ChatGPT to turn a high-level Seedance video concept into a complete…",
+  "content": "Use ChatGPT to turn a high-level Seedance video concept into a complete narrative before prompting.  \nBreak the narrative into a scene-by-scene, shot-by-shot commercial timeline/storyboard to guide Seedance generations.  \nTranslate each shot into detailed Seedance prompts that include camera directions/movement, lighting setup, slow-motion notes, environment details, and character positioning.  \nConvert your shot prompts into structured JSON prompts to maintain consistency across the full Seedance project.  \nGenerate a storyboard reference image for every scene and use those images as visual reference frames when generating video sequences in Seedance 2.0.  \nIterate with multiple Seedance generations and revisions, refining results frame by frame.  \nEdit the generated sequences together afterward to refine pacing, sync transitions, and add music for a seamless final commercial.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2062806139922731008/pu/img/1WWTstTytKfVG9qt.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062806357699338464.mp4",
+  "sourceLink": "https://x.com/JuliaClarky/status/2062806357699338464",
+  "sourcePublishedAt": "2026-06-05",
+  "author": {
+    "name": "Julia Clark",
+    "link": "https://x.com/JuliaClarky"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use ChatGPT to turn a high-level Seedance video concept into a complete narrative before prompting.  \nBreak the narrative into a scene-by-scene, shot-by-shot commercial timeline/storyboard to guide Seedance generations.  \nTranslate each shot into detailed Seedance prompts that include camera directions/movement, lighting setup, slow-motion notes, environment details, and character positioning.  \nConvert your shot prompts into structured JSON prompts to maintain consistency across the full Seedance project.  \nGenerate a storyboard reference image for every scene and use those images as visual reference frames when generating video sequences in Seedance 2.0.  \nIterate with multiple Seedance generations and revisions, refining results frame by frame.  \nEdit the generated sequences together afterward to refine pacing, sync transitions, and add music for a seamless final commercial.",
+  "translations": {
+    "es": {
+      "content": "Usa ChatGPT para convertir un concepto de video de Seedance de alto nivel en una narrativa completa antes de hacer el prompt.  \nDivide la narrativa en una línea de tiempo/comercial guionizada escena por escena, toma por toma, para guiar las generaciones de Seedance.  \nTraduce cada toma en prompts detallados de Seedance que incluyan direcciones/movimientos de cámara, configuración de iluminación, notas de cámara lenta, detalles del entorno y posicionamiento de personajes.  \nConvierte tus prompts de toma en prompts estructurados en JSON para mantener la consistencia a lo largo de todo el proyecto de Seedance.  \nGenera una imagen de referencia de storyboard para cada escena y usa esas imágenes como marcos de referencia visual al generar secuencias de video en Seedance 2.0.  \nItera con múltiples generaciones y revisiones de Seedance, refinando los resultados cuadro por cuadro.  \nEdita las secuencias generadas posteriormente para refinar el ritmo, sincronizar transiciones y añadir música para un comercial final sin fisuras."
+    },
+    "fr": {
+      "content": "Utilisez ChatGPT pour transformer un concept vidéo Seedance de haut niveau en un récit complet avant de créer un prompt.  \nDécomposez le récit en une chronologie/histoire commerciale scène par scène, plan par plan, pour guider les générations Seedance.  \nTraduisez chaque plan en prompts Seedance détaillés incluant les directions/mouvements de caméra, la configuration de l'éclairage, les notes de ralenti, les détails de l'environnement et le positionnement des personnages.  \nConvertissez vos prompts de plans en prompts JSON structurés pour maintenir la cohérence sur l'ensemble du projet Seedance.  \nGénérez une image de référence de storyboard pour chaque scène et utilisez ces images comme cadres de référence visuels lors de la génération de séquences vidéo dans Seedance 2.0.  \nItérez avec plusieurs générations et révisions Seedance, en affinant les résultats image par image.  \nMontez ensuite les séquences générées ensemble pour affiner le rythme, synchroniser les transitions et ajouter de la musique pour un spot publicitaire final homogène."
+    },
+    "ja": {
+      "content": "---\nChatGPTを使用して、高度なSeedanceビデオコンセプトをプロンプトする前に完全な物語に変換します。  \n物語をシーンごと、ショットごとの商業的なタイムライン/ストーリーボードに分解し、Seedanceの生成をガイドします。  \n各ショットを、カメラの指示/動き、照明の設定、スローモーションのメモ、環境の詳細、キャラクターの配置を含む詳細なSeedanceプロンプトに翻訳します。  \nショットプロンプトを構造化されたJSONプロンプトに変換し、Seedanceプロジェクト全体での一貫性を維持します。  \n各シーンのストーリーボード参照画像を生成し、それらの画像をSeedance 2.0でビデオシーケンスを生成する際の視覚的参照フレームとして使用します。  \n複数のSeedance生成と改訂を繰り返し、フレームごとに結果を洗練します。  \n生成されたシーケンスを後で編集し、ペーシングを洗練し、トランジションを同期し、音楽を追加してシームレスな最終的なコマーシャルにします。\n---"
+    },
+    "ko": {
+      "content": "---\nChatGPT를 사용하여 고수준의 Seedance 비디오 개념을 완전한 서사로 전환한 후 프롬프트를 작성하세요.  \n서사를 장면별, 샷별 상업 타임라인/스토리보드로 나누어 Seedance 생성에 대한 지침을 제공합니다.  \n각 샷을 카메라 방향/움직임, 조명 설정, 슬로우 모션 메모, 환경 세부 사항, 캐릭터 위치를 포함한 자세한 Seedance 프롬프트로 번역하세요.  \n샷 프롬프트를 구조화된 JSON 프롬프트로 변환하여 전체 Seedance 프로젝트의 일관성을 유지하세요.  \n각 장면에 대한 스토리보드 참조 이미지를 생성하고, Seedance 2.0에서 비디오 시퀀스를 생성할 때 이러한 이미지를 시각적 참조 프레임으로 사용하세요.  \n여러 Seedance 생성 및 수정과 함께 반복하여 결과를 프레임별로 세밀하게 조정하세요.  \n생성된 시퀀스를 나중에 편집하여 페이싱을 세밀하게 조정하고, 전환을 동기화하며, 음악을 추가하여 매끄러운 최종 광고를 만드세요.\n---"
+    },
+    "pt": {
+      "content": "Use o ChatGPT para transformar um conceito de vídeo Seedance de alto nível em uma narrativa completa antes de criar o prompt.  \nDivida a narrativa em uma linha do tempo/roteiro comercial cena por cena, tomada por tomada, para guiar as gerações Seedance.  \nTraduza cada tomada em prompts Seedance detalhados que incluam direções/movimentos de câmera, configuração de iluminação, notas de câmera lenta, detalhes do ambiente e posicionamento dos personagens.  \nConverta seus prompts de tomada em prompts estruturados em JSON para manter a consistência em todo o projeto Seedance.  \nGere uma imagem de referência de storyboard para cada cena e use essas imagens como quadros de referência visual ao gerar sequências de vídeo no Seedance 2.0.  \nItere com múltiplas gerações e revisões Seedance, refinando os resultados quadro a quadro.  \nEdite as sequências geradas posteriormente para refinar o ritmo, sincronizar transições e adicionar música para um comercial final sem emendas."
+    },
+    "zh": {
+      "content": "使用ChatGPT将高级Seedance视频概念转化为完整的叙述，然后再进行提示。  \n将叙述分解为逐场景、逐镜头的商业时间线/故事板，以指导Seedance生成。  \n将每个镜头翻译成详细的Seedance提示，包括摄像机方向/移动、灯光设置、慢动作说明、环境细节和角色定位。  \n将您的镜头提示转换为结构化的JSON提示，以在整个Seedance项目中保持一致性。  \n为每个场景生成一个故事板参考图像，并在Seedance 2.0中生成视频序列时使用这些图像作为视觉参考框架。  \n通过多次Seedance生成和修订进行迭代，逐帧优化结果。  \n之后编辑生成的序列，以优化节奏、同步过渡，并添加音乐，使最终的商业广告无缝衔接。"
+    }
+  }
+}

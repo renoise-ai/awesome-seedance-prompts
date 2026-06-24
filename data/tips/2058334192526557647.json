@@ -1,0 +1,43 @@
+{
+  "id": "2058334192526557647",
+  "title": "Create a character sheet as a single reference image showing the same character…",
+  "content": "Create a character sheet as a single reference image showing the same character from three angles, with a defined color palette, outfit details, and signature features, then use it as the consistent reference asset for all Seedance 2.0 scenes to maintain identity across shots.  \nWhen a Seedance scene drifts from the intended character, fix the character sheet/reference asset upstream rather than trying to correct the generated output downstream.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058333878499065857/img/8aMy22rrIfIRzpv-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058334192526557647.mp4",
+  "sourceLink": "https://x.com/TheKnowledgeJar/status/2058334192526557647",
+  "sourcePublishedAt": "2026-05-23",
+  "author": {
+    "name": "The Knowledge Jar",
+    "link": "https://x.com/TheKnowledgeJar"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a character sheet as a single reference image showing the same character from three angles, with a defined color palette, outfit details, and signature features, then use it as the consistent reference asset for all Seedance 2.0 scenes to maintain identity across shots.  \nWhen a Seedance scene drifts from the intended character, fix the character sheet/reference asset upstream rather than trying to correct the generated output downstream.",
+  "translations": {
+    "es": {
+      "content": "Crea una hoja de personaje como una imagen de referencia única que muestre al mismo personaje desde tres ángulos, con una paleta de colores definida, detalles del atuendo y características distintivas, y luego úsala como el recurso de referencia consistente para todas las escenas de Seedance 2.0 para mantener la identidad a través de las tomas.  \nCuando una escena de Seedance se desvíe del personaje previsto, corrige la hoja de personaje/recurso de referencia en la fase inicial en lugar de intentar corregir la salida generada posteriormente."
+    },
+    "fr": {
+      "content": "Créez une fiche de personnage sous forme d'image de référence unique montrant le même personnage sous trois angles, avec une palette de couleurs définie, des détails de tenue et des caractéristiques distinctives, puis utilisez-la comme ressource de référence cohérente pour toutes les scènes Seedance 2.0 afin de maintenir l'identité à travers les prises de vue.  \nLorsque qu'une scène Seedance s'écarte du personnage prévu, corrigez la fiche de personnage/ressource de référence en amont plutôt que d'essayer de corriger le résultat généré en aval."
+    },
+    "ja": {
+      "content": "---\n同じキャラクターを3つの角度から見せる単一の参照画像としてキャラクターシートを作成し、定義されたカラーパレット、衣装の詳細、および特徴的な特徴を示します。それをすべてのSeedance 2.0シーンの一貫した参照資産として使用し、ショット全体でアイデンティティを維持します。  \nSeedanceシーンが意図したキャラクターから逸脱した場合、生成された出力を下流で修正しようとするのではなく、上流でキャラクターシート/参照資産を修正してください。"
+    },
+    "ko": {
+      "content": "캐릭터 시트를 단일 참조 이미지로 만들어 동일한 캐릭터를 세 가지 각도에서 보여주고, 정의된 색상 팔레트, 의상 세부 사항, 시그니처 특징을 포함시킨 후, 모든 Seedance 2.0 장면에서 일관된 참조 자산으로 사용하여 샷 전반에 걸쳐 정체성을 유지하세요.  \nSeedance 장면이 의도된 캐릭터에서 벗어날 경우, 생성된 결과물을 수정하려고 하기보다는 캐릭터 시트/참조 자산을 상류에서 수정하세요."
+    },
+    "pt": {
+      "content": "Crie uma ficha de personagem como uma imagem de referência única mostrando o mesmo personagem de três ângulos, com uma paleta de cores definida, detalhes do traje e características marcantes, e use-a como o ativo de referência consistente para todas as cenas do Seedance 2.0 para manter a identidade entre os takes.  \nQuando uma cena do Seedance se desviar do personagem pretendido, corrija a ficha de personagem/ativo de referência na origem, em vez de tentar corrigir o resultado gerado posteriormente."
+    },
+    "zh": {
+      "content": "创建一个角色表，作为单一参考图像，展示同一角色的三个角度，包含明确的色彩搭配、服装细节和标志性特征，然后将其用作所有Seedance 2.0场景的一致参考资产，以在镜头间保持身份一致性。  \n当Seedance场景偏离预期角色时，应在上游修正角色表/参考资产，而不是试图在下游纠正生成的输出。"
+    }
+  }
+}

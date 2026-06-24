@@ -1,0 +1,42 @@
+{
+  "id": "2056419248608620687",
+  "title": "Create a storyboard reference with GPT Image 2 and use it as the visual…",
+  "content": "Create a storyboard reference with GPT Image 2 and use it as the visual base/reference input for your Seedance 2.0 video workflow  \nGenerate each scene separately in Seedance 2.0, then edit the individual clips together into one short sequence",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056418476328185856/img/T34u_d5W0lYKs8mt.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056419248608620687.mp4",
+  "sourceLink": "https://x.com/KscYusuf/status/2056419248608620687",
+  "sourcePublishedAt": "2026-05-18",
+  "author": {
+    "name": "Yusuf K",
+    "link": "https://x.com/KscYusuf"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a storyboard reference with GPT Image 2 and use it as the visual base/reference input for your Seedance 2.0 video workflow  \nGenerate each scene separately in Seedance 2.0, then edit the individual clips together into one short sequence",
+  "translations": {
+    "es": {
+      "content": "Crea una referencia de storyboard con GPT Image 2 y úsala como base visual/referencia de entrada para tu flujo de trabajo de video Seedance 2.0  \nGenera cada escena por separado en Seedance 2.0, luego edita los clips individuales juntos en una secuencia corta."
+    },
+    "fr": {
+      "content": "Créez une référence de storyboard avec GPT Image 2 et utilisez-la comme base visuelle/référence pour votre flux de travail vidéo Seedance 2.0  \nGénérez chaque scène séparément dans Seedance 2.0, puis montez les clips individuels ensemble pour former une séquence courte."
+    },
+    "ja": {
+      "content": "GPT Image 2を使用してストーリーボードの参照を作成し、それをSeedance 2.0ビデオワークフローの視覚的なベース/参照入力として使用します  \n各シーンをSeedance 2.0で個別に生成し、その後、個々のクリップを編集して1つの短いシーケンスにまとめます"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2로 스토리보드 레퍼런스를 만들고 이를 Seedance 2.0 비디오 워크플로우의 시각적 기반/참조 입력으로 사용하세요  \n각 장면을 Seedance 2.0에서 개별적으로 생성한 후, 개별 클립을 하나의 짧은 시퀀스로 편집하세요\n---"
+    },
+    "pt": {
+      "content": "Crie uma referência de storyboard com o GPT Image 2 e use-a como base visual/referência de entrada para o seu fluxo de trabalho de vídeo Seedance 2.0  \nGere cada cena separadamente no Seedance 2.0, depois edite os clipes individuais juntos em uma sequência curta"
+    },
+    "zh": {
+      "content": "使用GPT Image 2创建一个分镜参考，并将其用作Seedance 2.0视频工作流程的视觉基础/参考输入  \n在Seedance 2.0中分别生成每个场景，然后将各个剪辑编辑成一个短片段"
+    }
+  }
+}

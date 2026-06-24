@@ -1,0 +1,42 @@
+{
+  "id": "2059446310777000168",
+  "title": "Use a storyboard-first workflow: map scenes visually on an infinite canvas…",
+  "content": "Use a storyboard-first workflow: map scenes visually on an infinite canvas, refine the sequence/flow, then generate the final video with Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2059446226886815744/pu/img/e07i8siCY6dmxmPz.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059446310777000168.mp4",
+  "sourceLink": "https://x.com/rovvmut_/status/2059446310777000168",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Heisenberg",
+    "link": "https://x.com/rovvmut_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard-first workflow: map scenes visually on an infinite canvas, refine the sequence/flow, then generate the final video with Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo basado en storyboard: mapea las escenas visualmente en un lienzo infinito, refina la secuencia/flujo, luego genera el video final con Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail axé sur le storyboard : cartographiez les scènes visuellement sur une toile infinie, affinez la séquence/le flux, puis générez la vidéo finale avec Seedance 2.0."
+    },
+    "ja": {
+      "content": "ストーリーボードを最初に使用するワークフローを採用してください：無限キャンバス上でシーンを視覚的にマッピングし、シーケンス/フローを洗練させてから、Seedance 2.0で最終ビデオを生成します。"
+    },
+    "ko": {
+      "content": "스토리보드 우선 워크플로우를 사용하세요: 무한 캔버스에 장면을 시각적으로 배치하고, 시퀀스/흐름을 다듬은 후 Seedance 2.0으로 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho baseado em storyboard: mapeie as cenas visualmente em uma tela infinita, refine a sequência/fluxo e, em seguida, gere o vídeo final com o Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用以故事板为先的工作流程：在无限画布上可视化地映射场景，优化顺序/流程，然后使用Seedance 2.0生成最终视频。"
+    }
+  }
+}

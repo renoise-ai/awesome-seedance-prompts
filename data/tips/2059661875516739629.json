@@ -1,0 +1,43 @@
+{
+  "id": "2059661875516739629",
+  "title": "Use a workflow canvas to keep characters, prompts, references, and video steps…",
+  "content": "Use a workflow canvas to keep characters, prompts, references, and video steps in one visual flow instead of managing separate files/chats when generating Seedance 2.0 videos.\nStart with a GPT Image 2 HUD scene and then continue/extend it in the workflow canvas using Seedance 2.0 to produce sequential rounds (e.g., Round 1 and Round 2) while maintaining character consistency.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059661710370156544/img/USEzD4tVtkfoozkQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059661875516739629.mp4",
+  "sourceLink": "https://x.com/KscYusuf/status/2059661875516739629",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Yusuf K",
+    "link": "https://x.com/KscYusuf"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Game UI"
+  ],
+  "tips": "Use a workflow canvas to keep characters, prompts, references, and video steps in one visual flow instead of managing separate files/chats when generating Seedance 2.0 videos.\nStart with a GPT Image 2 HUD scene and then continue/extend it in the workflow canvas using Seedance 2.0 to produce sequential rounds (e.g., Round 1 and Round 2) while maintaining character consistency.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un lienzo de flujo de trabajo para mantener personajes, prompts, referencias y pasos de video en un solo flujo visual en lugar de gestionar archivos/chats separados al generar videos con Seedance 2.0. Comienza con una escena GPT Image 2 HUD y luego continúa/extiéndela en el lienzo de flujo de trabajo usando Seedance 2.0 para producir rondas secuenciales (por ejemplo, Ronda 1 y Ronda 2) mientras mantienes la consistencia de los personajes."
+    },
+    "fr": {
+      "content": "---\nUtilisez un canevas de flux de travail pour garder les personnages, prompts, références et étapes vidéo dans un flux visuel unique au lieu de gérer des fichiers/chats séparés lors de la génération de vidéos Seedance 2.0. Commencez par une scène GPT Image 2 HUD, puis continuez/étendez-la dans le canevas de flux de travail en utilisant Seedance 2.0 pour produire des tours séquentiels (par exemple, Round 1 et Round 2) tout en maintenant la cohérence des personnages."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0のビデオを生成する際に、キャラクター、プロンプト、参考資料、ビデオのステップを別々のファイルやチャットで管理するのではなく、ワークフローキャンバスを使用して一つのビジュアルフローにまとめましょう。  \nまず、GPT Image 2 HUDシーンから始めて、Seedance 2.0を使用してワークフローキャンバスでそれを続けたり拡張したりしながら、キャラクターの一貫性を保ちながら連続したラウンド（例：ラウンド1とラウンド2）を生成します。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0 비디오를 생성할 때 별도의 파일이나 채팅을 관리하는 대신, 워크플로우 캔버스를 사용하여 캐릭터, 프롬프트, 참고 자료, 비디오 단계를 하나의 시각적 흐름으로 유지하세요.  \nGPT Image 2 HUD 장면으로 시작한 후, Seedance 2.0을 사용하여 워크플로우 캔버스에서 이를 계속 확장하여 캐릭터의 일관성을 유지하면서 순차적인 라운드(예: Round 1 및 Round 2)를 생성하세요.\n---"
+    },
+    "pt": {
+      "content": "Use um canvas de fluxo de trabalho para manter personagens, prompts, referências e etapas de vídeo em um único fluxo visual, em vez de gerenciar arquivos/chats separados ao gerar vídeos Seedance 2.0. Comece com uma cena GPT Image 2 HUD e depois continue/estenda-a no canvas de fluxo de trabalho usando Seedance 2.0 para produzir rodadas sequenciais (por exemplo, Rodada 1 e Rodada 2) enquanto mantém a consistência dos personagens."
+    },
+    "zh": {
+      "content": "使用工作流程画布将角色、prompts、参考资料和视频步骤整合在一个视觉流程中，而不是在生成Seedance 2.0视频时管理单独的文件或聊天。  \n从一个GPT Image 2 HUD场景开始，然后在工作流程画布中使用Seedance 2.0继续/扩展它，以生成连续的回合（例如，第1回合和第2回合），同时保持角色的一致性。"
+    }
+  }
+}

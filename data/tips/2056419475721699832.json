@@ -1,0 +1,42 @@
+{
+  "id": "2056419475721699832",
+  "title": "Use GPT Image 2 to generate a storyboard reference, then split it into separate…",
+  "content": "Use GPT Image 2 to generate a storyboard reference, then split it into separate scene images before generating video.  \nGenerate each shot with Seedance 2.0 video nodes using the corresponding scene image as reference.  \nControl the animation scene-by-scene in Seedance (generate and refine each scene individually) before doing the final edit.  \nKeep your idea, reference images, prompts, and Seedance outputs connected on one canvas (e.g., in @blyth_ai) to maintain continuity across scenes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056419344679157760/img/PgpFryIxg-dl7NHA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056419475721699832.mp4",
+  "sourceLink": "https://x.com/KscYusuf/status/2056419475721699832",
+  "sourcePublishedAt": "2026-05-18",
+  "author": {
+    "name": "Yusuf K",
+    "link": "https://x.com/KscYusuf"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image 2 to generate a storyboard reference, then split it into separate scene images before generating video.  \nGenerate each shot with Seedance 2.0 video nodes using the corresponding scene image as reference.  \nControl the animation scene-by-scene in Seedance (generate and refine each scene individually) before doing the final edit.  \nKeep your idea, reference images, prompts, and Seedance outputs connected on one canvas (e.g., in @blyth_ai) to maintain continuity across scenes.",
+  "translations": {
+    "es": {
+      "content": "Utiliza GPT Image 2 para generar una referencia de storyboard, luego divídelo en imágenes de escenas separadas antes de generar el video.  \nGenera cada toma con nodos de video Seedance 2.0 usando la imagen de la escena correspondiente como referencia.  \nControla la animación escena por escena en Seedance (genera y refina cada escena individualmente) antes de hacer la edición final.  \nMantén tu idea, imágenes de referencia, prompts y salidas de Seedance conectados en un solo lienzo (por ejemplo, en @blyth_ai) para mantener la continuidad entre escenas."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer une référence de storyboard, puis divisez-la en images de scènes séparées avant de générer la vidéo.  \nGénérez chaque plan avec les nœuds vidéo Seedance 2.0 en utilisant l'image de scène correspondante comme référence.  \nContrôlez l'animation scène par scène dans Seedance (générez et affinez chaque scène individuellement) avant de procéder au montage final.  \nGardez votre idée, vos images de référence, vos prompts et vos sorties Seedance connectés sur une seule toile (par exemple, dans @blyth_ai) pour maintenir la continuité entre les scènes."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2を使用してストーリーボードの参考を生成し、それを個別のシーン画像に分割してからビデオを生成します。  \n各ショットをSeedance 2.0のビデオノードで生成し、対応するシーン画像を参考にします。  \nSeedanceでアニメーションをシーンごとに制御し（各シーンを個別に生成および洗練）、最終編集を行う前に調整します。  \nアイデア、参考画像、プロンプト、Seedanceの出力を一つのキャンバス（例：@blyth_ai）にまとめて、シーン間の連続性を維持します。  \n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2를 사용하여 스토리보드 참조를 생성한 다음, 비디오를 생성하기 전에 개별 장면 이미지로 분할하세요.  \n각 샷은 해당 장면 이미지를 참조하여 Seedance 2.0 비디오 노드를 사용하여 생성하세요.  \n최종 편집을 하기 전에 Seedance에서 장면별로 애니메이션을 제어하세요 (각 장면을 개별적으로 생성하고 수정).  \n아이디어, 참조 이미지, 프롬프트, Seedance 출력을 하나의 캔버스(@blyth_ai 등)에 연결하여 장면 간의 연속성을 유지하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar uma referência de storyboard, depois divida em imagens de cenas separadas antes de gerar o vídeo.  \nGere cada tomada com os nós de vídeo do Seedance 2.0 usando a imagem da cena correspondente como referência.  \nControle a animação cena por cena no Seedance (gere e refine cada cena individualmente) antes de fazer a edição final.  \nMantenha sua ideia, imagens de referência, prompts e saídas do Seedance conectados em uma única tela (por exemplo, no @blyth_ai) para manter a continuidade entre as cenas."
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成分镜参考，然后将其拆分为单独的场景图像，再生成视频。  \n使用Seedance 2.0视频节点生成每个镜头，并以相应的场景图像作为参考。  \n在Seedance中逐场景控制动画（单独生成和完善每个场景），然后进行最终编辑。  \n将你的创意、参考图像、prompts和Seedance输出连接在一个画布上（例如，在@blyth_ai中），以保持场景之间的连贯性。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2059603344906231969",
+  "title": "Use Topview Canvas to generate storyboard frames from a single prompt, lay them…",
+  "content": "Use Topview Canvas to generate storyboard frames from a single prompt, lay them out on an infinite canvas, and visually refine the sequence before generating any video.  \nUse the built-in agent to brainstorm, reorder, and finalize scenes in the storyboard, then send the completed storyboard to Seedance 2.0 to render the video.  \nStart your Seedance workflow with visual storyboard planning instead of iterating via trial-and-error prompting.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Shawnife/status/2059603344906231969",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Iseunife The First",
+    "link": "https://x.com/Shawnife"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use Topview Canvas to generate storyboard frames from a single prompt, lay them out on an infinite canvas, and visually refine the sequence before generating any video.  \nUse the built-in agent to brainstorm, reorder, and finalize scenes in the storyboard, then send the completed storyboard to Seedance 2.0 to render the video.  \nStart your Seedance workflow with visual storyboard planning instead of iterating via trial-and-error prompting.",
+  "translations": {
+    "es": {
+      "content": "---\nUtiliza Topview Canvas para generar fotogramas de storyboard a partir de un solo prompt, colócalos en un lienzo infinito y refina visualmente la secuencia antes de generar cualquier video.  \nUsa el agente incorporado para hacer una lluvia de ideas, reordenar y finalizar las escenas en el storyboard, luego envía el storyboard completo a Seedance 2.0 para renderizar el video.  \nComienza tu flujo de trabajo en Seedance con la planificación visual del storyboard en lugar de iterar mediante prueba y error con prompts."
+    },
+    "fr": {
+      "content": "---\nUtilisez Topview Canvas pour générer des cadres de storyboard à partir d'un seul prompt, les disposer sur une toile infinie, et affiner visuellement la séquence avant de générer une vidéo.  \nUtilisez l'agent intégré pour brainstormer, réorganiser et finaliser les scènes du storyboard, puis envoyez le storyboard complété à Seedance 2.0 pour rendre la vidéo.  \nCommencez votre flux de travail Seedance avec une planification visuelle du storyboard au lieu d'itérer par essais et erreurs de prompt.  \n---"
+    },
+    "ja": {
+      "content": "---\nTopview Canvasを使用して、単一のプロンプトからストーリーボードのフレームを生成し、それらを無限キャンバス上に配置して、ビデオを生成する前にシーケンスを視覚的に洗練します。  \n組み込みのエージェントを使用して、ストーリーボード内のシーンをブレインストーミング、並べ替え、最終化し、完成したストーリーボードをSeedance 2.0に送信してビデオをレンダリングします。  \n試行錯誤のプロンプトを繰り返すのではなく、視覚的なストーリーボードの計画からSeedanceのワークフローを開始しましょう。"
+    },
+    "ko": {
+      "content": "---\n단일 프롬프트로부터 스토리보드 프레임을 생성하고, 이를 무한 캔버스에 배치하여 비디오를 생성하기 전에 시퀀스를 시각적으로 다듬으세요.  \n내장된 에이전트를 사용하여 스토리보드에서 장면을 브레인스토밍하고, 재배치하고, 최종화한 후, 완성된 스토리보드를 Seedance 2.0에 보내 비디오를 렌더링하세요.  \n시드댄스 워크플로우를 시도와 오류를 통한 프롬프트 반복 대신 시각적 스토리보드 계획으로 시작하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o Topview Canvas para gerar quadros de storyboard a partir de um único prompt, organizá-los em uma tela infinita e refinar visualmente a sequência antes de gerar qualquer vídeo.  \nUse o agente integrado para fazer brainstorming, reordenar e finalizar cenas no storyboard, depois envie o storyboard completo para o Seedance 2.0 para renderizar o vídeo.  \nInicie seu fluxo de trabalho no Seedance com o planejamento visual do storyboard em vez de iterar por tentativa e erro com prompts."
+    },
+    "zh": {
+      "content": "使用Topview Canvas从单个prompt生成故事板帧，将它们布局在无限画布上，并在生成任何视频之前直观地优化序列。  \n使用内置代理进行头脑风暴、重新排序和最终确定故事板中的场景，然后将完成的故事板发送到Seedance 2.0以渲染视频。  \n通过视觉故事板规划开始您的Seedance工作流程，而不是通过反复试验的prompt进行迭代。"
+    }
+  }
+}

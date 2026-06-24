@@ -1,0 +1,43 @@
+{
+  "id": "2057034119612150216",
+  "title": "Use a storyboard-to-video pipeline by generating storyboard images with GPT…",
+  "content": "Use a storyboard-to-video pipeline by generating storyboard images with GPT Image 2, then converting those frames into video with Seedance 2.0.\n\nPrompt your agent (Claude, Codex, or Hermes) to make a 6-shot storyboard and turn it into video to run the full Seedance 2.0 pipeline end-to-end.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2057017424256352256/img/opeJU8MJXJD7LtmO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2057034119612150216.mp4",
+  "sourceLink": "https://x.com/Sogni_Protocol/status/2057034119612150216",
+  "sourcePublishedAt": "2026-05-20",
+  "author": {
+    "name": "Sogni.ai",
+    "link": "https://x.com/Sogni_Protocol"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a storyboard-to-video pipeline by generating storyboard images with GPT Image 2, then converting those frames into video with Seedance 2.0.\n\nPrompt your agent (Claude, Codex, or Hermes) to make a 6-shot storyboard and turn it into video to run the full Seedance 2.0 pipeline end-to-end.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una línea de producción de storyboard a video generando imágenes de storyboard con GPT Image 2, luego convierte esos fotogramas en video con Seedance 2.0.\n\nPrompt your agent (Claude, Codex, or Hermes) to make a 6-shot storyboard and turn it into video to run the full Seedance 2.0 pipeline end-to-end."
+    },
+    "fr": {
+      "content": "Utilisez un pipeline de storyboard à vidéo en générant des images de storyboard avec GPT Image 2, puis en convertissant ces images en vidéo avec Seedance 2.0.\n\nPrompt your agent (Claude, Codex, or Hermes) to make a 6-shot storyboard and turn it into video to run the full Seedance 2.0 pipeline end-to-end."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2でストーリーボード画像を生成し、それらのフレームをSeedance 2.0でビデオに変換することで、ストーリーボードからビデオへのパイプラインを使用します。\n\nエージェント（Claude、Codex、またはHermes）に6ショットのストーリーボードを作成し、それをビデオに変換して、Seedance 2.0パイプラインをエンドツーエンドで実行するように指示します。\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2로 스토리보드 이미지를 생성한 후, Seedance 2.0을 사용하여 해당 프레임을 비디오로 변환하여 스토리보드-비디오 파이프라인을 사용하세요.\n\n에이전트(Claude, Codex, 또는 Hermes)에게 6개의 샷으로 구성된 스토리보드를 만들고 이를 비디오로 변환하여 Seedance 2.0 파이프라인을 처음부터 끝까지 실행하도록 지시하세요.\n---"
+    },
+    "pt": {
+      "content": "---\nUse um pipeline de storyboard para vídeo gerando imagens de storyboard com o GPT Image 2, depois convertendo esses quadros em vídeo com o Seedance 2.0.\n\nPrompt your agent (Claude, Codex, or Hermes) to make a 6-shot storyboard and turn it into video to run the full Seedance 2.0 pipeline end-to-end.\n---"
+    },
+    "zh": {
+      "content": "使用分镜头脚本到视频的流程，首先通过GPT Image 2生成分镜头图像，然后使用Seedance 2.0将这些帧转换为视频。\n\n提示你的代理（Claude、Codex或Hermes）制作一个6镜头的分镜头脚本，并将其转换为视频，以运行完整的Seedance 2.0流程。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2059228388599246916",
+  "title": "Generate a single storyboard image with GPT Image 2 and use it as the input to…",
+  "content": "Generate a single storyboard image with GPT Image 2 and use it as the input to Seedance 2.0 to create an animated cooking video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059227133445353472/img/s3oIs2lNh-PLDxCY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059228388599246916.mp4",
+  "sourceLink": "https://x.com/Mayz1169/status/2059228388599246916",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "Kiki",
+    "link": "https://x.com/Mayz1169"
+  },
+  "tags": [
+    "Food",
+    "Cooking",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a single storyboard image with GPT Image 2 and use it as the input to Seedance 2.0 to create an animated cooking video.",
+  "translations": {
+    "es": {
+      "content": "Genera una sola imagen de storyboard con GPT Image 2 y úsala como entrada en Seedance 2.0 para crear un video de cocina animado."
+    },
+    "fr": {
+      "content": "Générez une seule image de storyboard avec GPT Image 2 et utilisez-la comme entrée pour Seedance 2.0 afin de créer une vidéo de cuisine animée."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2で単一のストーリーボード画像を生成し、それをSeedance 2.0に入力してアニメーション料理ビデオを作成します。"
+    },
+    "ko": {
+      "content": "GPT Image 2로 단일 스토리보드 이미지를 생성하고 이를 Seedance 2.0에 입력하여 애니메이션 요리 비디오를 만드세요."
+    },
+    "pt": {
+      "content": "Gere uma única imagem de storyboard com o GPT Image 2 e use-a como entrada no Seedance 2.0 para criar um vídeo de culinária animado."
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成一个单一的分镜图像，并将其用作Seedance 2.0的输入，以创建一个动画烹饪视频。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2058571166135030240",
+  "title": "Generate album art with GPT Image 2 (or another image model), then animate the…",
+  "content": "Generate album art with GPT Image 2 (or another image model), then animate the cover art with Seedance 2.0 (or another video generation model) to turn a static image into a video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058570058540941312/img/jI4Hvst7rIKNHdny.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058571166135030240.mp4",
+  "sourceLink": "https://x.com/acedatacloud/status/2058571166135030240",
+  "sourcePublishedAt": "2026-05-24",
+  "author": {
+    "name": "AceDataCloud",
+    "link": "https://x.com/acedatacloud"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate album art with GPT Image 2 (or another image model), then animate the cover art with Seedance 2.0 (or another video generation model) to turn a static image into a video.",
+  "translations": {
+    "es": {
+      "content": "Genera arte de álbum con GPT Image 2 (u otro modelo de imagen), luego anima la portada con Seedance 2.0 (u otro modelo de generación de video) para convertir una imagen estática en un video."
+    },
+    "fr": {
+      "content": "Générez une pochette d'album avec GPT Image 2 (ou un autre modèle d'image), puis animez la pochette avec Seedance 2.0 (ou un autre modèle de génération vidéo) pour transformer une image statique en vidéo."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2（または他の画像モデル）を使用してアルバムアートを生成し、そのカバーアートをSeedance 2.0（または他のビデオ生成モデル）でアニメーション化して、静止画像をビデオに変換します。"
+    },
+    "ko": {
+      "content": "앨범 아트를 GPT Image 2 (또는 다른 이미지 모델)로 생성한 후, Seedance 2.0 (또는 다른 비디오 생성 모델)로 커버 아트를 애니메이션하여 정적인 이미지를 비디오로 변환하세요."
+    },
+    "pt": {
+      "content": "Gere a arte do álbum com o GPT Image 2 (ou outro modelo de imagem), depois anime a capa do álbum com o Seedance 2.0 (ou outro modelo de geração de vídeo) para transformar uma imagem estática em um vídeo."
+    },
+    "zh": {
+      "content": "使用GPT Image 2（或其他图像模型）生成专辑封面，然后使用Seedance 2.0（或其他视频生成模型）将封面艺术动画化，将静态图像转换为视频。"
+    }
+  }
+}

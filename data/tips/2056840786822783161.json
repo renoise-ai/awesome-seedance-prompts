@@ -1,0 +1,46 @@
+{
+  "id": "2056840786822783161",
+  "title": "استخدم Claude Code مع Higgsfield MCP لتنسيق pipeline موشن ديزاين يتضمن سحب…",
+  "content": "استخدم Claude Code مع Higgsfield MCP لتنسيق pipeline موشن ديزاين يتضمن سحب references من Pinterest ثم بناء storyboard عبر GPT Images ثم تحويل المشاهد إلى motion عبر Seedance 2.0 من داخل Claude Code",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056840713216634880/img/ikekxFzHQz84bQe0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056840786822783161.mp4",
+  "sourceLink": "https://x.com/SamiBizConsult/status/2056840786822783161",
+  "sourcePublishedAt": "2026-05-19",
+  "author": {
+    "name": "سامي المحيميد | مستشار تطوير أعمال وكفاءة تشغيلية",
+    "link": "https://x.com/SamiBizConsult"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "استخدم Claude Code مع Higgsfield MCP لتنسيق pipeline موشن ديزاين يتضمن سحب references من Pinterest ثم بناء storyboard عبر GPT Images ثم تحويل المشاهد إلى motion عبر Seedance 2.0 من داخل Claude Code",
+  "translations": {
+    "en": {
+      "content": "Use Claude Code with Higgsfield MCP to coordinate a motion design pipeline that involves pulling references from Pinterest, then building a storyboard through GPT Images, and finally converting the scenes into motion using Seedance 2.0 within Claude Code."
+    },
+    "es": {
+      "content": "---\nUtiliza Claude Code con Higgsfield MCP para coordinar un pipeline de diseño de movimiento que incluye extraer referencias de Pinterest, luego construir un storyboard a través de GPT Images y finalmente convertir las escenas en motion mediante Seedance 2.0 desde dentro de Claude Code."
+    },
+    "fr": {
+      "content": "Utilisez Claude Code avec Higgsfield MCP pour coordonner un pipeline de motion design qui inclut la récupération de références depuis Pinterest, puis la création d'un storyboard via GPT Images, et enfin la conversion des scènes en motion via Seedance 2.0 depuis Claude Code."
+    },
+    "ja": {
+      "content": "Claude CodeとHiggsfield MCPを使用して、Pinterestからのリファレンスを取り込み、GPT Imagesでストーリーボードを構築し、Claude Code内のSeedance 2.0を通じてシーンをモーションに変換するモーションデザインのパイプラインを調整します。"
+    },
+    "ko": {
+      "content": "Claude Code와 Higgsfield MCP를 사용하여 모션 디자인 파이프라인을 조정합니다. 이 과정에는 Pinterest에서 참조 자료를 가져오고, GPT Images를 통해 스토리보드를 작성한 후, Seedance 2.0을 통해 장면을 모션으로 변환하는 작업이 포함됩니다. 이 모든 작업은 Claude Code 내에서 이루어집니다."
+    },
+    "pt": {
+      "content": "Use Claude Code com Higgsfield MCP para coordenar um pipeline de motion design que inclui a coleta de referências do Pinterest, a construção de um storyboard através do GPT Images e a conversão das cenas em motion via Seedance 2.0 dentro do Claude Code."
+    },
+    "zh": {
+      "content": "使用Claude Code与Higgsfield MCP协调pipeline运动设计，包括从Pinterest提取参考，然后通过GPT Images构建storyboard，再通过Seedance 2.0将场景转换为motion，所有操作均在Claude Code内完成。"
+    }
+  }
+}

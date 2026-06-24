@@ -1,0 +1,43 @@
+{
+  "id": "2056009619760464220",
+  "title": "Use GPT Image 2 to generate a single storyboard, then animate it with Seedance…",
+  "content": "Use GPT Image 2 to generate a single storyboard, then animate it with Seedance 2.0 via Hedra to create a 2D funky animation  \nEnable the High Quality setting in Hedra’s Seedance 2.0 UI for better output quality",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2056002958853386240/img/UY_IBAvuHNuO0kyQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2056009619760464220.mp4",
+  "sourceLink": "https://x.com/ShamsAmin56/status/2056009619760464220",
+  "sourcePublishedAt": "2026-05-17",
+  "author": {
+    "name": "Shams",
+    "link": "https://x.com/ShamsAmin56"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use GPT Image 2 to generate a single storyboard, then animate it with Seedance 2.0 via Hedra to create a 2D funky animation  \nEnable the High Quality setting in Hedra’s Seedance 2.0 UI for better output quality",
+  "translations": {
+    "es": {
+      "content": "Usa GPT Image 2 para generar un solo storyboard, luego anímalo con Seedance 2.0 a través de Hedra para crear una animación 2D funky  \nHabilita la configuración de Alta Calidad en la interfaz de usuario de Seedance 2.0 de Hedra para obtener una mejor calidad de salida"
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer un seul storyboard, puis animez-le avec Seedance 2.0 via Hedra pour créer une animation 2D funky.  \nActivez le paramètre Haute Qualité dans l'interface utilisateur de Seedance 2.0 de Hedra pour une meilleure qualité de sortie."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2を使用して単一のストーリーボードを生成し、それをSeedance 2.0を通じてHedraでアニメーション化して2Dのファンキーなアニメーションを作成します  \nHedraのSeedance 2.0 UIで高品質設定を有効にして、より良い出力品質を得ましょう\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2를 사용하여 단일 스토리보드를 생성한 다음, Seedance 2.0을 통해 Hedra로 애니메이션화하여 2D 펑키 애니메이션을 만드세요.  \n더 나은 출력 품질을 위해 Hedra의 Seedance 2.0 UI에서 고품질 설정을 활성화하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar um único storyboard, depois anime-o com o Seedance 2.0 via Hedra para criar uma animação 2D funky  \nAtive a configuração de Alta Qualidade na interface do Seedance 2.0 do Hedra para uma melhor qualidade de saída"
+    },
+    "zh": {
+      "content": "使用 GPT Image 2 生成一个单一分镜，然后通过 Hedra 使用 Seedance 2.0 将其动画化，创建一个二维的时尚动画  \n在 Hedra 的 Seedance 2.0 用户界面中启用高质量设置，以获得更好的输出质量"
+    }
+  }
+}

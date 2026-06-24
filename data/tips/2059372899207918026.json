@@ -1,0 +1,38 @@
+{
+  "id": "2059372899207918026",
+  "title": "Collect a company’s employees’ profile pictures plus company context (posts…",
+  "content": "Collect a company’s employees’ profile pictures plus company context (posts, focus areas, internal news), generate a funny internal storyline with an AI model, then feed that storyline into Seedance to produce the outreach video.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TheChowdhary/status/2059372899207918026",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "Abhilash Chowdhary",
+    "link": "https://x.com/TheChowdhary"
+  },
+  "tags": [
+    "Story",
+    "Sitcom",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Collect a company’s employees’ profile pictures plus company context (posts, focus areas, internal news), generate a funny internal storyline with an AI model, then feed that storyline into Seedance to produce the outreach video.",
+  "translations": {
+    "es": {
+      "content": "Recopila las fotos de perfil de los empleados de una empresa junto con el contexto de la empresa (publicaciones, áreas de enfoque, noticias internas), genera una historia interna divertida con un modelo de IA, luego introduce esa historia en Seedance para producir el video de divulgación."
+    },
+    "fr": {
+      "content": "Collectez les photos de profil des employés d'une entreprise ainsi que le contexte de l'entreprise (publications, domaines de concentration, actualités internes), générez un scénario interne amusant avec un modèle d'IA, puis intégrez ce scénario dans Seedance pour produire la vidéo de sensibilisation."
+    },
+    "ja": {
+      "content": "会社の従業員のプロフィール写真と会社のコンテキスト（投稿、重点分野、内部ニュース）を収集し、AIモデルを使って面白い内部ストーリーを生成し、そのストーリーをSeedanceに入力してアウトリーチビデオを制作します。"
+    },
+    "pt": {
+      "content": "Colete as fotos de perfil dos funcionários de uma empresa, juntamente com o contexto da empresa (postagens, áreas de foco, notícias internas), gere uma história interna engraçada com um modelo de IA e, em seguida, insira essa história no Seedance para produzir o vídeo de divulgação."
+    },
+    "zh": {
+      "content": "收集一家公司的员工头像以及公司背景信息（帖子、重点领域、内部新闻），用AI模型生成一个有趣的内部故事情节，然后将该故事情节输入Seedance以制作外联视频。"
+    }
+  }
+}

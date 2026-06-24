@@ -1,0 +1,43 @@
+{
+  "id": "2058941507764457524",
+  "title": "Create a 6-panel storyboard image in GPT Image 2 using your character sheet +…",
+  "content": "Create a 6-panel storyboard image in GPT Image 2 using your character sheet + product photo as references, then upload the storyboard + character sheet to Seedance 2 to auto-generate a full multi-shot sequence from the panels (instead of prompting each shot separately).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058941448586997760/img/R9raTPTwzW2XGxSn.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2058941507764457524.mp4",
+  "sourceLink": "https://x.com/mikefutia/status/2058941507764457524",
+  "sourcePublishedAt": "2026-05-25",
+  "author": {
+    "name": "Mike Futia",
+    "link": "https://x.com/mikefutia"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a 6-panel storyboard image in GPT Image 2 using your character sheet + product photo as references, then upload the storyboard + character sheet to Seedance 2 to auto-generate a full multi-shot sequence from the panels (instead of prompting each shot separately).",
+  "translations": {
+    "es": {
+      "content": "Crea una imagen de storyboard de 6 paneles en GPT Image 2 usando tu hoja de personaje + foto del producto como referencias, luego sube el storyboard + hoja de personaje a Seedance 2 para generar automáticamente una secuencia completa de múltiples tomas a partir de los paneles (en lugar de solicitar cada toma por separado)."
+    },
+    "fr": {
+      "content": "Créez une image de storyboard en 6 panneaux dans GPT Image 2 en utilisant votre fiche de personnage + photo de produit comme références, puis téléchargez le storyboard + la fiche de personnage sur Seedance 2 pour générer automatiquement une séquence complète multi-plans à partir des panneaux (au lieu de demander chaque plan séparément)."
+    },
+    "ja": {
+      "content": "---\nキャラクターシートと商品写真を参照にして、GPT Image 2で6パネルのストーリーボード画像を作成し、そのストーリーボードとキャラクターシートをSeedance 2にアップロードして、各ショットを個別にプロンプトする代わりにパネルから自動でフルマルチショットシーケンスを生成します。"
+    },
+    "ko": {
+      "content": "---\n캐릭터 시트와 제품 사진을 참고하여 GPT Image 2에서 6개의 패널로 구성된 스토리보드 이미지를 만드세요. 그런 다음 스토리보드와 캐릭터 시트를 Seedance 2에 업로드하여 각 샷을 개별적으로 프롬프트하는 대신 패널에서 전체 멀티 샷 시퀀스를 자동 생성하세요.\n---"
+    },
+    "pt": {
+      "content": "Crie uma imagem de storyboard de 6 quadros no GPT Image 2 usando sua folha de personagem + foto do produto como referências, depois faça o upload do storyboard + folha de personagem para o Seedance 2 para gerar automaticamente uma sequência completa de múltiplas tomadas a partir dos quadros (em vez de solicitar cada tomada separadamente)."
+    },
+    "zh": {
+      "content": "使用您的角色表和产品照片作为参考，在GPT Image 2中创建一个6格分镜图像，然后将分镜图像和角色表上传到Seedance 2，以从这些面板自动生成完整的多镜头序列（而不是单独提示每个镜头）。"
+    }
+  }
+}

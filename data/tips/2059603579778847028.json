@@ -1,0 +1,43 @@
+{
+  "id": "2059603579778847028",
+  "title": "Generate storyboard frames with GPT-Image 2 first, then convert the finished…",
+  "content": "Generate storyboard frames with GPT-Image 2 first, then convert the finished storyboard into video with Seedance 2.0 instead of starting prompt-first.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059603218036862978/img/kUsQ0xk7FEHjNAI1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059603579778847028.mp4",
+  "sourceLink": "https://x.com/FutureStacked/status/2059603579778847028",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Future Stacked",
+    "link": "https://x.com/FutureStacked"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate storyboard frames with GPT-Image 2 first, then convert the finished storyboard into video with Seedance 2.0 instead of starting prompt-first.",
+  "translations": {
+    "es": {
+      "content": "Genera los fotogramas del storyboard con GPT-Image 2 primero, luego convierte el storyboard terminado en video con Seedance 2.0 en lugar de comenzar con el prompt."
+    },
+    "fr": {
+      "content": "Générez d'abord des cadres de storyboard avec GPT-Image 2, puis convertissez le storyboard terminé en vidéo avec Seedance 2.0 au lieu de commencer par le prompt."
+    },
+    "ja": {
+      "content": "---\n最初にGPT-Image 2でストーリーボードのフレームを生成し、完成したストーリーボードをSeedance 2.0でビデオに変換します。最初からプロンプトを使用するのではなく。"
+    },
+    "ko": {
+      "content": "먼저 GPT-Image 2로 스토리보드 프레임을 생성한 후, 시작 프롬프트 대신 Seedance 2.0을 사용하여 완성된 스토리보드를 비디오로 변환하세요."
+    },
+    "pt": {
+      "content": "Gere quadros de storyboard com o GPT-Image 2 primeiro, depois converta o storyboard final em vídeo com o Seedance 2.0 em vez de começar com o prompt."
+    },
+    "zh": {
+      "content": "首先使用GPT-Image 2生成分镜头画面，然后将完成的分镜头转换为视频，使用Seedance 2.0，而不是从prompt开始。"
+    }
+  }
+}

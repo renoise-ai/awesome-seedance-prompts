@@ -1,0 +1,39 @@
+{
+  "id": "2063633897565675769",
+  "title": "Structure your Seedance prompt into labeled sections like [Character], [Place]…",
+  "content": "Structure your Seedance prompt into labeled sections like [Character], [Place], [Camera], [Story – 15 Seconds], and [Rule] to control subject, environment, cinematography, duration, and narrative beats in one prompt  \nAdd same face as reference image to your prompt to keep the character’s face consistent with an uploaded reference image  \nSpecify camera and lens details like Cinematic close-up shot, shallow depth of field, soft background blur, and 85mm cinematic lens to steer framing and depth-of-field  \nInclude explicit lighting and style keywords such as cinematic fantasy style, dramatic lighting, and cinematic sunset lighting to push a cinematic look  \nCall out quality/detail targets like ultra realistic face, highly detailed textures, realistic 4K scenery, and 4K quality to bias toward higher realism and detail  \nDefine the clip length and story arc directly (e.g., Story – 15 Seconds with a dramatic ending shot) to guide pacing and an ending beat",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2063633188761821185/pu/img/inYVoSVFevRpZ4q9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2063633897565675769.mp4",
+  "sourceLink": "https://x.com/oju689/status/2063633897565675769",
+  "sourcePublishedAt": "2026-06-07",
+  "author": {
+    "name": "strike",
+    "link": "https://x.com/oju689"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Structure your Seedance prompt into labeled sections like [Character], [Place], [Camera], [Story – 15 Seconds], and [Rule] to control subject, environment, cinematography, duration, and narrative beats in one prompt  \nAdd same face as reference image to your prompt to keep the character’s face consistent with an uploaded reference image  \nSpecify camera and lens details like Cinematic close-up shot, shallow depth of field, soft background blur, and 85mm cinematic lens to steer framing and depth-of-field  \nInclude explicit lighting and style keywords such as cinematic fantasy style, dramatic lighting, and cinematic sunset lighting to push a cinematic look  \nCall out quality/detail targets like ultra realistic face, highly detailed textures, realistic 4K scenery, and 4K quality to bias toward higher realism and detail  \nDefine the clip length and story arc directly (e.g., Story – 15 Seconds with a dramatic ending shot) to guide pacing and an ending beat",
+  "translations": {
+    "es": {
+      "content": "Estructura tu prompt de Seedance en secciones etiquetadas como [Character], [Place], [Camera], [Story – 15 Seconds] y [Rule] para controlar el sujeto, el entorno, la cinematografía, la duración y los ritmos narrativos en un solo prompt.  \nAñade la misma cara que la imagen de referencia a tu prompt para mantener el rostro del personaje consistente con una imagen de referencia cargada.  \nEspecifica detalles de cámara y lente como Cinematic close-up shot, shallow depth of field, soft background blur y 85mm cinematic lens para dirigir el encuadre y la profundidad de campo.  \nIncluye palabras clave explícitas de iluminación y estilo como cinematic fantasy style, dramatic lighting y cinematic sunset lighting para impulsar un aspecto cinematográfico.  \nMenciona objetivos de calidad/detalle como ultra realistic face, highly detailed textures, realistic 4K scenery y 4K quality para inclinarse hacia un mayor realismo y detalle.  \nDefine directamente la duración del clip y el arco de la historia (por ejemplo, Story – 15 Seconds con un disparo final dramático) para guiar el ritmo y un golpe final.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] pruébalo aquí https://t.co/4joVurWJkB"
+    },
+    "fr": {
+      "content": "Structurez votre prompt Seedance en sections étiquetées comme [Character], [Place], [Camera], [Story – 15 Seconds], et [Rule] pour contrôler le sujet, l'environnement, la cinématographie, la durée et les temps narratifs en un seul prompt.  \nAjoutez le même visage que l'image de référence à votre prompt pour garder le visage du personnage cohérent avec une image de référence téléchargée.  \nSpécifiez les détails de la caméra et de l'objectif comme Cinematic close-up shot, shallow depth of field, soft background blur, et 85mm cinematic lens pour orienter le cadrage et la profondeur de champ.  \nIncluez des mots-clés explicites pour l'éclairage et le style tels que cinematic fantasy style, dramatic lighting, et cinematic sunset lighting pour renforcer un aspect cinématographique.  \nMentionnez des objectifs de qualité/détail comme ultra realistic face, highly detailed textures, realistic 4K scenery, et 4K quality pour tendre vers un réalisme et un détail accrus.  \nDéfinissez directement la durée du clip et l'arc narratif (par exemple, Story – 15 Seconds with a dramatic ending shot) pour guider le rythme et une conclusion marquante.\n\n--- SUITE DU FIL ---\n[Thread 1] essayez-le ici https://t.co/4joVurWJkB"
+    },
+    "ja": {
+      "content": "---\nSeedanceのプロンプトを[Character]、[Place]、[Camera]、[Story – 15 Seconds]、[Rule]のようにラベル付けされたセクションに構成し、1つのプロンプトで被写体、環境、撮影技法、時間、物語の展開を制御します。  \nプロンプトに参照画像と同じ顔を追加して、アップロードされた参照画像とキャラクターの顔を一致させます。  \nCinematic close-up shot、shallow depth of field、soft background blur、85mm cinematic lensのようなカメラとレンズの詳細を指定して、フレーミングと被写界深度を調整します。  \ncinematic fantasy style、dramatic lighting、cinematic sunset lightingなどの明確なライティングとスタイルのキーワードを含めて、シネマティックな外観を強調します。  \nultra realistic face、highly detailed textures、realistic 4K scenery、4K qualityのような品質/詳細の目標を明示して、より高いリアリズムと詳細を目指します。  \nクリップの長さと物語のアークを直接定義します（例：Story – 15 Seconds with a dramatic ending shot）で、ペースとエンディングのビートをガイドします。\n\n--- THREAD CONTINUATION ---\n[Thread 1] try it here https://t.co/4joVurWJkB\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 프롬프트를 [Character], [Place], [Camera], [Story – 15 Seconds], [Rule]와 같은 레이블 섹션으로 구조화하여 하나의 프롬프트에서 주제, 환경, 촬영 기법, 지속 시간, 서사적 요소를 제어하십시오.  \n업로드한 참조 이미지와 일치하도록 프롬프트에 동일한 얼굴을 추가하여 캐릭터의 얼굴을 일관되게 유지하십시오.  \n촬영과 심도 조절을 위해 Cinematic close-up shot, shallow depth of field, soft background blur, 85mm cinematic lens와 같은 카메라 및 렌즈 세부 사항을 지정하십시오.  \ncinematic fantasy style, dramatic lighting, cinematic sunset lighting과 같은 명확한 조명 및 스타일 키워드를 포함하여 영화적인 느낌을 강조하십시오.  \nultra realistic face, highly detailed textures, realistic 4K scenery, 4K quality와 같은 품질/세부 목표를 명시하여 더 높은 현실감과 세부 사항을 지향하십시오.  \n클립 길이와 스토리 아크를 직접 정의하여 (예: Story – 15 Seconds with a dramatic ending shot) 페이싱과 엔딩 비트를 안내하십시오.\n\n--- THREAD CONTINUATION ---\n[Thread 1] try it here https://t.co/4joVurWJkB\n---"
+    },
+    "zh": {
+      "content": "将您的Seedance提示结构化为标记部分，如[Character]、[Place]、[Camera]、[Story – 15 Seconds]和[Rule]，以在一个提示中控制主体、环境、摄影、时长和叙事节奏  \n在您的提示中添加与参考图像相同的面孔，以保持角色的面孔与上传的参考图像一致  \n指定相机和镜头细节，如Cinematic close-up shot、shallow depth of field、soft background blur和85mm cinematic lens，以引导构图和景深  \n包括明确的灯光和风格关键词，如cinematic fantasy style、dramatic lighting和cinematic sunset lighting，以推动电影化外观  \n指出质量/细节目标，如ultra realistic face、highly detailed textures、realistic 4K scenery和4K quality，以偏向更高的真实感和细节  \n直接定义剪辑长度和故事弧线（例如，Story – 15 Seconds with a dramatic ending shot）以指导节奏和结尾节拍\n\n--- THREAD CONTINUATION ---\n[Thread 1] try it here https://t.co/4joVurWJkB"
+    }
+  }
+}

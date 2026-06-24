@@ -1,0 +1,43 @@
+{
+  "id": "2059828378119594128",
+  "title": "Transform the same source footage into multiple styles by prompting text edits…",
+  "content": "Transform the same source footage into multiple styles by prompting text edits (e.g., Realistic → Rainstorm → Alien sci‑fi → Pixar‑style animation) to create consistent variations without reshooting.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2059828203355869184/pu/img/SknW4pza4ozxnnhB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059828378119594128.mp4",
+  "sourceLink": "https://x.com/aleenaamiir/status/2059828378119594128",
+  "sourcePublishedAt": "2026-05-28",
+  "author": {
+    "name": "Aleena Amir",
+    "link": "https://x.com/aleenaamiir"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Transform the same source footage into multiple styles by prompting text edits (e.g., Realistic → Rainstorm → Alien sci‑fi → Pixar‑style animation) to create consistent variations without reshooting.",
+  "translations": {
+    "es": {
+      "content": "Transforma el mismo metraje original en múltiples estilos mediante la edición de texto con prompts (por ejemplo, Realistic → Rainstorm → Alien sci‑fi → Pixar‑style animation) para crear variaciones consistentes sin necesidad de volver a filmar."
+    },
+    "fr": {
+      "content": "Transformez les mêmes séquences sources en plusieurs styles en utilisant des modifications de texte par prompt (e.g., Realistic → Rainstorm → Alien sci‑fi → Pixar‑style animation) pour créer des variations cohérentes sans avoir à refaire le tournage."
+    },
+    "ja": {
+      "content": "同じソース映像を、テキスト編集のプロンプトを使って複数のスタイルに変換します（例：Realistic → Rainstorm → Alien sci‑fi → Pixar‑style animation）。再撮影することなく、一貫したバリエーションを作成します。"
+    },
+    "ko": {
+      "content": "동일한 소스 영상을 여러 스타일로 변환하려면 텍스트 편집을 통해 프롬프트를 입력하세요 (예: Realistic → Rainstorm → Alien sci-fi → Pixar-style animation). 재촬영 없이 일관된 변화를 만들어낼 수 있습니다."
+    },
+    "pt": {
+      "content": "Transforme o mesmo material de origem em múltiplos estilos ao solicitar edições de texto (por exemplo, Realistic → Rainstorm → Alien sci‑fi → Pixar‑style animation) para criar variações consistentes sem regravar."
+    },
+    "zh": {
+      "content": "通过提示文本编辑（例如，Realistic → Rainstorm → Alien sci-fi → Pixar-style animation），将相同的源素材转换为多种风格，以在不重新拍摄的情况下创建一致的变体。"
+    }
+  }
+}

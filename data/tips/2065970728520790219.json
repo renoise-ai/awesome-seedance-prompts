@@ -1,0 +1,43 @@
+{
+  "id": "2065970728520790219",
+  "title": "Use a simple workflow: start with your image, generate a storyboard using GPT…",
+  "content": "Use a simple workflow: start with your image, generate a storyboard using GPT Image 2.0, then feed the storyboard into Seedance 2.0 to create the video",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2065908043049734144/img/hNAcohHEK4y9uaSN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065970728520790219.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2065970728520790219",
+  "sourcePublishedAt": "2026-06-14",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a simple workflow: start with your image, generate a storyboard using GPT Image 2.0, then feed the storyboard into Seedance 2.0 to create the video",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo sencillo: comienza con tu imagen, genera un storyboard usando GPT Image 2.0, luego introduce el storyboard en Seedance 2.0 para crear el video."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail simple : commencez avec votre image, générez un storyboard à l'aide de GPT Image 2.0, puis intégrez le storyboard dans Seedance 2.0 pour créer la vidéo."
+    },
+    "ja": {
+      "content": "シンプルなワークフローを使用します：まず画像を用意し、GPT Image 2.0を使用してストーリーボードを生成し、そのストーリーボードをSeedance 2.0に入力してビデオを作成します。"
+    },
+    "ko": {
+      "content": "간단한 워크플로우를 사용하세요: 이미지로 시작하여 GPT Image 2.0을 사용해 스토리보드를 생성한 후, Seedance 2.0에 스토리보드를 입력하여 비디오를 만드세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho simples: comece com sua imagem, gere um storyboard usando o GPT Image 2.0, depois insira o storyboard no Seedance 2.0 para criar o vídeo."
+    },
+    "zh": {
+      "content": "使用一个简单的工作流程：从你的图像开始，使用GPT Image 2.0生成分镜，然后将分镜输入Seedance 2.0以创建视频。"
+    }
+  }
+}

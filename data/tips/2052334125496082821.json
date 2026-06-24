@@ -1,0 +1,38 @@
+{
+  "id": "2052334125496082821",
+  "title": "Create an “emotional beat sheet” for your Seedance prompt by defining SCENE…",
+  "content": "Create an “emotional beat sheet” for your Seedance prompt by defining SCENE, DURATION (e.g., 8 seconds), and BEAT_COUNT (e.g., 12) to map frame-accurate emotional changes across the clip  \nFor each beat, specify internal thought/feeling, external micro-expression/gesture, and an audio cue (breath, pause, voice crack, silence) to guide performance timing  \nStructure the emotion arc explicitly as baseline state → trigger recognition → denial micro-expression → realization dawning → emotional peak → suppression attempt → new baseline  \nFor each beat, define a keyframe facial snapshot, the delta from the previous beat, hold_duration for the expression, and the transition type (hard cut / blend / tremor) to control continuity  \nAdd physiological performance notes (pupil dilation, breathing rhythm, micro-gesture catalog) and align them to a timeline layout with an emotion graph and audio waveform overlay",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Gdgtify/status/2052334125496082821",
+  "sourcePublishedAt": "2026-05-07",
+  "author": {
+    "name": "Gadgetify",
+    "link": "https://x.com/Gdgtify"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create an “emotional beat sheet” for your Seedance prompt by defining SCENE, DURATION (e.g., 8 seconds), and BEAT_COUNT (e.g., 12) to map frame-accurate emotional changes across the clip  \nFor each beat, specify internal thought/feeling, external micro-expression/gesture, and an audio cue (breath, pause, voice crack, silence) to guide performance timing  \nStructure the emotion arc explicitly as baseline state → trigger recognition → denial micro-expression → realization dawning → emotional peak → suppression attempt → new baseline  \nFor each beat, define a keyframe facial snapshot, the delta from the previous beat, hold_duration for the expression, and the transition type (hard cut / blend / tremor) to control continuity  \nAdd physiological performance notes (pupil dilation, breathing rhythm, micro-gesture catalog) and align them to a timeline layout with an emotion graph and audio waveform overlay",
+  "translations": {
+    "es": {
+      "content": "Crea una \"hoja de ritmos emocionales\" para tu prompt de Seedance definiendo ESCENA, DURACIÓN (por ejemplo, 8 segundos) y BEAT_COUNT (por ejemplo, 12) para mapear cambios emocionales precisos en el clip.  \nPara cada ritmo, especifica pensamiento/sentimiento interno, micro-expresión/gesto externo y una señal de audio (respiración, pausa, quiebre de voz, silencio) para guiar el tiempo de la actuación.  \nEstructura el arco emocional explícitamente como estado base → reconocimiento del desencadenante → micro-expresión de negación → realización emergente → pico emocional → intento de supresión → nuevo estado base.  \nPara cada ritmo, define una instantánea facial clave, el delta del ritmo anterior, duración de mantenimiento para la expresión, y el tipo de transición (corte brusco / mezcla / temblor) para controlar la continuidad.  \nAñade notas de rendimiento fisiológico (dilatación de pupilas, ritmo de respiración, catálogo de micro-gestos) y alinéalas a un diseño de línea de tiempo con un gráfico emocional y superposición de forma de onda de audio."
+    },
+    "fr": {
+      "content": "Créez une \"feuille de rythme émotionnel\" pour votre prompt Seedance en définissant SCÈNE, DURÉE (par exemple, 8 secondes) et NOMBRE_DE_RYTHMES (par exemple, 12) pour cartographier les changements émotionnels précis à chaque image du clip.  \nPour chaque rythme, spécifiez la pensée/sensation interne, la micro-expression/gestuelle externe, et un indice audio (respiration, pause, voix qui se brise, silence) pour guider le timing de la performance.  \nStructurez l'arc émotionnel explicitement comme état de base → reconnaissance du déclencheur → micro-expression de déni → prise de conscience → pic émotionnel → tentative de suppression → nouveau état de base.  \nPour chaque rythme, définissez un instantané facial clé, le delta par rapport au rythme précédent, la durée de maintien de l'expression, et le type de transition (coupe franche / fondu / tremblement) pour contrôler la continuité.  \nAjoutez des notes de performance physiologique (dilatation des pupilles, rythme respiratoire, catalogue de micro-gestes) et alignez-les sur une mise en page chronologique avec un graphique émotionnel et une superposition de forme d'onde audio."
+    },
+    "ja": {
+      "content": "---\nSeedanceプロンプトのために「感情ビートシート」を作成し、SCENE、DURATION（例：8秒）、BEAT_COUNT（例：12）を定義して、クリップ全体のフレーム単位での感情変化をマッピングします。  \n各ビートについて、内面的な思考/感情、外面的な微表情/ジェスチャー、パフォーマンスのタイミングを導くための音声キュー（息、間、声のひび割れ、沈黙）を指定します。  \n感情のアークを明確に構造化し、基準状態 → トリガー認識 → 否定の微表情 → 気づきの到来 → 感情のピーク → 抑制の試み → 新しい基準状態とします。  \n各ビートについて、キーフレームの顔のスナップショット、前のビートからの変化量、表情の保持時間、継続性を制御するための遷移タイプ（ハードカット / ブレンド / 震え）を定義します。  \n生理的なパフォーマンスノート（瞳孔の拡張、呼吸のリズム、微ジェスチャーカタログ）を追加し、感情グラフと音声波形オーバーレイを含むタイムラインレイアウトに合わせます。  \n---"
+    },
+    "pt": {
+      "content": "Crie uma \"folha de batidas emocionais\" para o seu prompt Seedance definindo CENA, DURAÇÃO (por exemplo, 8 segundos) e CONTAGEM_DE_BATIDAS (por exemplo, 12) para mapear mudanças emocionais precisas no clipe  \nPara cada batida, especifique pensamento/sentimento interno, microexpressão/gesto externo e uma dica de áudio (respiração, pausa, falha na voz, silêncio) para guiar o tempo da performance  \nEstruture o arco emocional explicitamente como estado base → reconhecimento do gatilho → microexpressão de negação → percepção surgindo → pico emocional → tentativa de supressão → novo estado base  \nPara cada batida, defina uma captura facial de quadro-chave, o delta em relação à batida anterior, duração_de_sustentação para a expressão e o tipo de transição (corte brusco / fusão / tremor) para controlar a continuidade  \nAdicione notas de performance fisiológica (dilatação da pupila, ritmo respiratório, catálogo de microgestos) e alinhe-as a um layout de linha do tempo com um gráfico emocional e sobreposição de forma de onda de áudio"
+    },
+    "zh": {
+      "content": "为您的Seedance prompt创建一个“情感节拍表”，通过定义SCENE、DURATION（例如，8秒）和BEAT_COUNT（例如，12）来映射剪辑中帧准确的情感变化。  \n对于每个节拍，指定内部思维/感觉、外部微表情/动作，以及音频提示（呼吸、停顿、声音破裂、沉默）以指导表演时机。  \n明确构建情感弧线为基线状态 → 触发识别 → 否认微表情 → 领悟显现 → 情感高峰 → 压制尝试 → 新基线。  \n对于每个节拍，定义一个关键帧面部快照、与前一个节拍的差异、表情的保持时间，以及过渡类型（硬切/混合/颤动）以控制连续性。  \n添加生理表演笔记（瞳孔扩张、呼吸节奏、微动作目录），并将它们与时间线布局对齐，包含情感图和音频波形叠加。"
+    }
+  }
+}

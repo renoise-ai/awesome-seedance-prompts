@@ -1,0 +1,43 @@
+{
+  "id": "2059352041072582859",
+  "title": "Plan your video on a Figma-style canvas, generate storyboard frames with…",
+  "content": "Plan your video on a Figma-style canvas, generate storyboard frames with GPT-Image-2, refine each scene with an AI agent, then generate the final video with Seedance 2.0 to preview what you’re building before rendering.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059351981253414913/img/EzBRx0I2tL4eEIoh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059352041072582859.mp4",
+  "sourceLink": "https://x.com/socialwithaayan/status/2059352041072582859",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "Muhammad Ayan",
+    "link": "https://x.com/socialwithaayan"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Plan your video on a Figma-style canvas, generate storyboard frames with GPT-Image-2, refine each scene with an AI agent, then generate the final video with Seedance 2.0 to preview what you’re building before rendering.",
+  "translations": {
+    "es": {
+      "content": "Planifica tu video en un lienzo al estilo Figma, genera cuadros de storyboard con GPT-Image-2, refina cada escena con un agente de IA, luego genera el video final con Seedance 2.0 para previsualizar lo que estás construyendo antes de renderizar."
+    },
+    "fr": {
+      "content": "Planifiez votre vidéo sur une toile de style Figma, générez des cadres de storyboard avec GPT-Image-2, peaufinez chaque scène avec un agent IA, puis générez la vidéo finale avec Seedance 2.0 pour prévisualiser ce que vous construisez avant le rendu."
+    },
+    "ja": {
+      "content": "---\nFigmaスタイルのキャンバスでビデオを計画し、GPT-Image-2でストーリーボードのフレームを生成し、AIエージェントで各シーンを洗練させ、Seedance 2.0で最終ビデオを生成して、レンダリング前に構築しているものをプレビューします。"
+    },
+    "ko": {
+      "content": "Figma 스타일의 캔버스에서 비디오를 계획하고, GPT-Image-2로 스토리보드 프레임을 생성한 후, AI 에이전트를 사용하여 각 장면을 세밀하게 조정하세요. 그런 다음 Seedance 2.0으로 최종 비디오를 생성하여 렌더링 전에 제작 중인 내용을 미리 볼 수 있습니다."
+    },
+    "pt": {
+      "content": "Planeje seu vídeo em uma tela no estilo Figma, gere quadros de storyboard com o GPT-Image-2, refine cada cena com um agente de IA e, em seguida, gere o vídeo final com o Seedance 2.0 para visualizar o que você está criando antes de renderizar."
+    },
+    "zh": {
+      "content": "在类似Figma的画布上规划您的视频，使用GPT-Image-2生成分镜头画面，通过AI代理优化每个场景，然后使用Seedance 2.0生成最终视频，以便在渲染之前预览您正在构建的内容。"
+    }
+  }
+}

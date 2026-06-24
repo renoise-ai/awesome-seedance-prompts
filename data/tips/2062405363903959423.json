@@ -1,0 +1,42 @@
+{
+  "id": "2062405363903959423",
+  "title": "Use a detailed, structured prompt that explicitly specifies scene…",
+  "content": "Use a detailed, structured prompt that explicitly specifies scene, camera/lens/motion, lighting, effects, and choreography timeline to get more cinematic, realistic Seedance results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2062405311919747072/pu/img/mdpAh7vC6-jNmrAq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062405363903959423.mp4",
+  "sourceLink": "https://x.com/oju689/status/2062405363903959423",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "strike",
+    "link": "https://x.com/oju689"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a detailed, structured prompt that explicitly specifies scene, camera/lens/motion, lighting, effects, and choreography timeline to get more cinematic, realistic Seedance results.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un prompt detallado y estructurado que especifique explícitamente la escena, cámara/lente/movimiento, iluminación, efectos y cronograma de coreografía para obtener resultados de Seedance más cinematográficos y realistas."
+    },
+    "fr": {
+      "content": "Utilisez un prompt détaillé et structuré qui spécifie explicitement la scène, la caméra/lentille/mouvement, l'éclairage, les effets et la chronologie de la chorégraphie pour obtenir des résultats Seedance plus cinématographiques et réalistes."
+    },
+    "ja": {
+      "content": "シーダンスでよりシネマティックでリアルな結果を得るためには、シーン、カメラ/レンズ/モーション、照明、エフェクト、振付のタイムラインを明確に指定した詳細で構造化されたプロンプトを使用してください。"
+    },
+    "ko": {
+      "content": "더 시네마틱하고 현실적인 Seedance 결과를 얻기 위해, 장면, 카메라/렌즈/모션, 조명, 효과, 안무 타임라인을 명확히 지정하는 자세하고 구조화된 프롬프트를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um prompt detalhado e estruturado que especifique explicitamente cena, câmera/lente/movimento, iluminação, efeitos e cronograma de coreografia para obter resultados Seedance mais cinematográficos e realistas."
+    },
+    "zh": {
+      "content": "使用详细且结构化的prompt，明确指定场景、相机/镜头/运动、灯光、效果和编舞时间线，以获得更具电影感和现实感的Seedance结果。"
+    }
+  }
+}

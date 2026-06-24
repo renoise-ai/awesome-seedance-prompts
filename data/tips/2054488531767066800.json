@@ -1,0 +1,41 @@
+{
+  "id": "2054488531767066800",
+  "title": "Build each Seedance shot prompt as a full cinematographic brief that specifies…",
+  "content": "Build each Seedance shot prompt as a full cinematographic brief that specifies shot type, lens, and lighting direction.  \nLock character identity consistently across Seedance shots by explicitly including a character identity lock in every prompt.  \nAdd negative prompts to each Seedance shot to prevent unwanted artifacts or styles.  \nSpecify motion physics in Seedance prompts to control how movement behaves in the scene.  \nIterate on prompts shot-by-shot in Seedance rather than relying on a single prompt for the whole sequence.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/zioaxie/status/2054488531767066800",
+  "sourcePublishedAt": "2026-05-13",
+  "author": {
+    "name": "Zio.ron | KIND 💫",
+    "link": "https://x.com/zioaxie"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Build each Seedance shot prompt as a full cinematographic brief that specifies shot type, lens, and lighting direction.  \nLock character identity consistently across Seedance shots by explicitly including a character identity lock in every prompt.  \nAdd negative prompts to each Seedance shot to prevent unwanted artifacts or styles.  \nSpecify motion physics in Seedance prompts to control how movement behaves in the scene.  \nIterate on prompts shot-by-shot in Seedance rather than relying on a single prompt for the whole sequence.",
+  "translations": {
+    "es": {
+      "content": "Construye cada prompt de Seedance como un informe cinematográfico completo que especifique el tipo de toma, lente y dirección de iluminación.  \nMantén la identidad del personaje de manera consistente en las tomas de Seedance incluyendo explícitamente un bloqueo de identidad de personaje en cada prompt.  \nAñade prompts negativos a cada toma de Seedance para evitar artefactos o estilos no deseados.  \nEspecifica la física del movimiento en los prompts de Seedance para controlar cómo se comporta el movimiento en la escena.  \nItera en los prompts toma por toma en Seedance en lugar de depender de un solo prompt para toda la secuencia."
+    },
+    "fr": {
+      "content": "---\nConstruisez chaque prompt de prise Seedance comme un brief cinématographique complet qui spécifie le type de prise, l'objectif et la direction de l'éclairage.  \nVerrouillez l'identité du personnage de manière cohérente à travers les prises Seedance en incluant explicitement un verrou d'identité de personnage dans chaque prompt.  \nAjoutez des prompts négatifs à chaque prise Seedance pour éviter les artefacts ou styles indésirables.  \nSpécifiez la physique du mouvement dans les prompts Seedance pour contrôler le comportement du mouvement dans la scène.  \nItérez sur les prompts prise par prise dans Seedance plutôt que de vous fier à un seul prompt pour toute la séquence.\n---"
+    },
+    "ja": {
+      "content": "---\n各Seedanceショットのプロンプトを、ショットタイプ、レンズ、ライティングの方向を指定した完全な映画撮影ブリーフとして構築します。  \n各Seedanceショットでキャラクターのアイデンティティを一貫して保持するために、すべてのプロンプトにキャラクターアイデンティティロックを明示的に含めます。  \n不要なアーティファクトやスタイルを防ぐために、各Seedanceショットにネガティブプロンプトを追加します。  \nシーン内での動きの挙動を制御するために、Seedanceプロンプトでモーションフィジックスを指定します。  \nシーケンス全体に単一のプロンプトに頼るのではなく、Seedanceでショットごとにプロンプトを反復します。  \n---"
+    },
+    "ko": {
+      "content": "각 Seedance 샷 프롬프트를 샷 유형, 렌즈, 조명 방향을 명시하는 완전한 영화 촬영 브리프로 작성하십시오.  \n모든 프롬프트에 캐릭터 정체성 잠금을 명시적으로 포함하여 Seedance 샷 전반에 걸쳐 캐릭터 정체성을 일관되게 유지하십시오.  \n원치 않는 아티팩트나 스타일을 방지하기 위해 각 Seedance 샷에 네거티브 프롬프트를 추가하십시오.  \n장면에서 움직임이 어떻게 작용하는지 제어하기 위해 Seedance 프롬프트에 운동 물리학을 명시하십시오.  \n전체 시퀀스에 단일 프롬프트에 의존하기보다는 Seedance에서 샷별로 프롬프트를 반복하십시오."
+    },
+    "pt": {
+      "content": "Crie cada prompt de tomada Seedance como um briefing cinematográfico completo que especifique o tipo de tomada, lente e direção de iluminação.  \nMantenha a identidade do personagem consistente em todas as tomadas Seedance, incluindo explicitamente um bloqueio de identidade de personagem em cada prompt.  \nAdicione prompts negativos a cada tomada Seedance para evitar artefatos ou estilos indesejados.  \nEspecifique a física do movimento nos prompts Seedance para controlar como o movimento se comporta na cena.  \nItere nos prompts tomada por tomada no Seedance, em vez de depender de um único prompt para toda a sequência."
+    },
+    "zh": {
+      "content": "---\n将每个 Seedance 镜头提示构建为完整的电影摄影简报，具体说明镜头类型、镜头和光线方向。  \n通过在每个提示中明确包含角色身份锁定，确保 Seedance 镜头中的角色身份一致。  \n在每个 Seedance 镜头中添加负面提示，以防止出现不需要的伪影或风格。  \n在 Seedance 提示中指定运动物理，以控制场景中运动的表现。  \n在 Seedance 中逐镜头迭代提示，而不是依赖单一提示完成整个序列。  \n---"
+    }
+  }
+}

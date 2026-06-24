@@ -1,0 +1,41 @@
+{
+  "id": "2059688496906805459",
+  "title": "Use a storyboard-first workflow (e.g., in Topview Canvas) by mapping scenes…",
+  "content": "Use a storyboard-first workflow (e.g., in Topview Canvas) by mapping scenes with GPT-Image-2 and arranging them via drag-and-drop before rendering in Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/saidstetic/status/2059688496906805459",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "said",
+    "link": "https://x.com/saidstetic"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard-first workflow (e.g., in Topview Canvas) by mapping scenes with GPT-Image-2 and arranging them via drag-and-drop before rendering in Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo basado en storyboard (por ejemplo, en Topview Canvas) mapeando escenas con GPT-Image-2 y organizándolas mediante arrastrar y soltar antes de renderizar en Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail basé sur le storyboard (par exemple, dans Topview Canvas) en cartographiant les scènes avec GPT-Image-2 et en les organisant par glisser-déposer avant de les rendre dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "ストーリーボードを最初に使用するワークフロー（例：Topview Canvas）を活用し、GPT-Image-2でシーンをマッピングし、Seedance 2.0でレンダリングする前にドラッグ＆ドロップで配置します。"
+    },
+    "ko": {
+      "content": "스토리보드 우선 워크플로우를 사용하세요 (예: Topview Canvas에서). GPT-Image-2로 장면을 매핑하고 Seedance 2.0에서 렌더링하기 전에 드래그 앤 드롭으로 배열합니다."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho baseado em storyboard (por exemplo, no Topview Canvas) mapeando cenas com o GPT-Image-2 e organizando-as via arrastar e soltar antes de renderizar no Seedance 2.0."
+    },
+    "zh": {
+      "content": "通过使用以故事板为先的工作流程（例如在Topview Canvas中），先用GPT-Image-2绘制场景，并通过拖放方式进行排列，然后在Seedance 2.0中进行渲染。"
+    }
+  }
+}

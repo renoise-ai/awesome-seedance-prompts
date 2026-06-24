@@ -1,0 +1,39 @@
+{
+  "id": "2064497390099247256",
+  "title": "Pre-write your lyrics with Gemini (or another LLM) before generating music in…",
+  "content": "Pre-write your lyrics with Gemini (or another LLM) before generating music in Seedance 2.0 to avoid unexpected/garbled words.  \nIn Seedance 2.0 music prompts, specify exact musical attributes (e.g., ~132 BPM, A Major, “coloratura soprano” timbre) instead of only a genre like “pop” to get more accurate results.  \nWhen generating a music video with lyrics, put audio details (BPM, key, timbre) in a separate block of the prompt for better control.  \nDon’t rely on BPM control in prompts for non-music video generations (e.g., “FORMAT: 15s / 150 BPM / 15 SHOTS”)—Seedance 2.0 often won’t respect BPM in that context.  \nVerify Seedance 2.0’s BPM/key accuracy by analyzing the output with an external BPM/key detection tool.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064490421976268800/img/BFmMU7yK2P98GUS-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064497390099247256.mp4",
+  "sourceLink": "https://x.com/Kiber_Alla/status/2064497390099247256",
+  "sourcePublishedAt": "2026-06-09",
+  "author": {
+    "name": "Kiber Alla",
+    "link": "https://x.com/Kiber_Alla"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Pre-write your lyrics with Gemini (or another LLM) before generating music in Seedance 2.0 to avoid unexpected/garbled words.  \nIn Seedance 2.0 music prompts, specify exact musical attributes (e.g., ~132 BPM, A Major, “coloratura soprano” timbre) instead of only a genre like “pop” to get more accurate results.  \nWhen generating a music video with lyrics, put audio details (BPM, key, timbre) in a separate block of the prompt for better control.  \nDon’t rely on BPM control in prompts for non-music video generations (e.g., “FORMAT: 15s / 150 BPM / 15 SHOTS”)—Seedance 2.0 often won’t respect BPM in that context.  \nVerify Seedance 2.0’s BPM/key accuracy by analyzing the output with an external BPM/key detection tool.",
+  "translations": {
+    "fr": {
+      "content": "---\nPré-écrivez vos paroles avec Gemini (ou un autre LLM) avant de générer de la musique dans Seedance 2.0 pour éviter des mots inattendus ou incompréhensibles.  \nDans les prompts musicaux de Seedance 2.0, spécifiez des attributs musicaux exacts (par exemple, ~132 BPM, La Majeur, timbre “coloratura soprano”) au lieu de seulement un genre comme “pop” pour obtenir des résultats plus précis.  \nLors de la génération d'un clip musical avec paroles, placez les détails audio (BPM, tonalité, timbre) dans un bloc séparé du prompt pour un meilleur contrôle.  \nNe vous fiez pas au contrôle du BPM dans les prompts pour les générations de vidéos non musicales (par exemple, “FORMAT : 15s / 150 BPM / 15 PLANS”)—Seedance 2.0 ne respecte souvent pas le BPM dans ce contexte.  \nVérifiez l'exactitude du BPM/tonalité de Seedance 2.0 en analysant le résultat avec un outil externe de détection de BPM/tonalité.\n\n--- SUITE DU FIL ---\n[Fil 1] Si vous réalisez un clip musical avec paroles, il est beaucoup mieux de mettre les détails audio (BPM, tonalité, timbre) dans un bloc séparé dans votre prompt🎶\n\nCependant, si vous générez une vidéo non musicale et essayez de contrôler la musique de fond en écrivant quelque chose comme : FORMAT : 15s / 150 BPM / 15 PLANS — dans la plupart des cas, le BPM ne sera pas respecté.\n\nVous voulez vérifier à quel point Seedance 2.0 a respecté le BPM et la tonalité ?\nOutil gratuit ici :\nhttps://t.co/ZwY5F0ONI7\n\nAvez-vous essayé de contrôler le BPM dans vos prompts ? Quels résultats avez-vous obtenus ?\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で音楽を生成する前に、Gemini（または他のLLM）を使用して歌詞を事前に書いておくことで、予期しない/意味不明な言葉を避けることができます。  \nSeedance 2.0の音楽プロンプトでは、「ポップ」のようなジャンルだけでなく、正確な音楽属性（例：~132 BPM、Aメジャー、「コロラトゥーラソプラノ」の音色）を指定することで、より正確な結果を得ることができます。  \n歌詞付きのミュージックビデオを生成する際は、オーディオの詳細（BPM、キー、音色）をプロンプトの別のブロックに入れることで、より良いコントロールが可能です。  \n非ミュージックビデオの生成時にプロンプトでBPMコントロールに頼らないでください（例：「FORMAT: 15s / 150 BPM / 15 SHOTS」）—その文脈では、Seedance 2.0はBPMを尊重しないことが多いです。  \nSeedance 2.0のBPM/キーの正確さを確認するには、外部のBPM/キー検出ツールで出力を分析してください。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 歌詞付きのミュージックビデオを作る場合、オーディオの詳細（BPM、キー、音色）をプロンプトの別のブロックに入れる方がはるかに良いです🎶\n\nしかし、非ミュージックビデオを生成し、バックグラウンドミュージックを制御しようとして「FORMAT: 15s / 150 BPM / 15 SHOTS」と書くと、多くの場合、BPMは尊重されません。\n\nSeedance 2.0がBPMとキーをどれだけ正確に一致させたか確認したいですか？\n無料ツールはこちら：\nhttps://t.co/ZwY5F0ONI7\n\nプロンプトでBPMを制御しようとしたことがありますか？どんな結果が得られましたか？\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 음악을 생성하기 전에 Gemini(또는 다른 LLM)로 가사를 미리 작성하여 예상치 못한/이해할 수 없는 단어를 피하세요.  \nSeedance 2.0 음악 프롬프트에서는 \"pop\"과 같은 장르만 지정하는 대신, 정확한 음악 속성(예: ~132 BPM, A Major, “coloratura soprano” 음색)을 명시하여 더 정확한 결과를 얻으세요.  \n가사가 있는 뮤직 비디오를 생성할 때, 오디오 세부 사항(BPM, 키, 음색)을 프롬프트의 별도 블록에 넣어 더 나은 제어를 하세요.  \n뮤직 비디오가 아닌 비디오 생성 시 프롬프트에서 BPM 제어에 의존하지 마세요 (예: “FORMAT: 15s / 150 BPM / 15 SHOTS”)—Seedance 2.0은 그 맥락에서 BPM을 잘 준수하지 않습니다.  \n외부 BPM/키 감지 도구를 사용하여 Seedance 2.0의 BPM/키 정확성을 확인하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 가사가 있는 뮤직 비디오를 만들 때, 오디오 세부 사항(BPM, 키, 음색)을 프롬프트의 별도 블록에 넣는 것이 훨씬 좋습니다🎶\n\n그러나 뮤직 비디오가 아닌 비디오를 생성하고 배경 음악을 제어하려고 다음과 같이 작성하면: FORMAT: 15s / 150 BPM / 15 SHOTS — 대부분의 경우 BPM이 준수되지 않습니다.\n\nSeedance 2.0이 BPM과 키를 얼마나 정확하게 맞췄는지 확인하고 싶으신가요?\n무료 도구는 여기에서 확인하세요:\nhttps://t.co/ZwY5F0ONI7\n\n프롬프트에서 BPM을 제어해 보셨나요? 어떤 결과를 얻으셨나요?\n---"
+    },
+    "pt": {
+      "content": "---\nPré-escreva suas letras com o Gemini (ou outro LLM) antes de gerar música no Seedance 2.0 para evitar palavras inesperadas/desordenadas.  \nNos prompts de música do Seedance 2.0, especifique atributos musicais exatos (por exemplo, ~132 BPM, A Maior, timbre de “soprano coloratura”) em vez de apenas um gênero como “pop” para obter resultados mais precisos.  \nAo gerar um videoclipe com letras, coloque detalhes de áudio (BPM, tonalidade, timbre) em um bloco separado do prompt para melhor controle.  \nNão confie no controle de BPM em prompts para gerações de vídeos não musicais (por exemplo, “FORMAT: 15s / 150 BPM / 15 SHOTS”)—o Seedance 2.0 muitas vezes não respeitará o BPM nesse contexto.  \nVerifique a precisão do BPM/tonalidade do Seedance 2.0 analisando a saída com uma ferramenta externa de detecção de BPM/tonalidade.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Se você está fazendo um videoclipe com letras, é muito melhor colocar detalhes de áudio (BPM, tonalidade, timbre) em um bloco separado no seu prompt🎶\n\nNo entanto, se você está gerando um vídeo não musical e tenta controlar a música de fundo escrevendo algo como: FORMAT: 15s / 150 BPM / 15 SHOTS — na maioria dos casos, o BPM não será respeitado.\n\nQuer verificar quão precisamente o Seedance 2.0 correspondeu ao BPM e à tonalidade?\nFerramenta gratuita aqui:\nhttps://t.co/ZwY5F0ONI7\n\nVocê já tentou controlar o BPM nos seus prompts? Quais resultados você obteve?\n---"
+    },
+    "zh": {
+      "content": "在使用Seedance 2.0生成音乐之前，先用Gemini（或其他LLM）预写歌词，以避免出现意外或乱码。  \n在Seedance 2.0的音乐提示中，指定确切的音乐属性（例如，~132 BPM，A大调，“花腔女高音”音色），而不仅仅是一个流派如“流行”，以获得更准确的结果。  \n在生成带歌词的音乐视频时，将音频细节（BPM、调、音色）放在提示的单独部分，以便更好地控制。  \n不要依赖于在提示中控制BPM来生成非音乐视频（例如，“FORMAT: 15s / 150 BPM / 15 SHOTS”）——在这种情况下，Seedance 2.0通常不会遵循BPM。  \n通过外部BPM/调检测工具分析输出，验证Seedance 2.0的BPM/调准确性。\n\n--- 线程继续 ---\n[线程1] 如果你正在制作带歌词的音乐视频，最好将音频细节（BPM、调、音色）放在提示的单独部分🎶\n\n然而，如果你正在生成非音乐视频，并尝试通过写类似于FORMAT: 15s / 150 BPM / 15 SHOTS来控制背景音乐——在大多数情况下，BPM不会被遵循。\n\n想检查Seedance 2.0匹配BPM和调的准确性吗？\n免费工具在这里：\nhttps://t.co/ZwY5F0ONI7\n\n你尝试过在提示中控制BPM吗？你得到了什么结果？"
+    }
+  }
+}

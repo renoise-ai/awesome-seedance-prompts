@@ -1,0 +1,35 @@
+{
+  "id": "2035129619872149867",
+  "title": "Use character sheets without a close-up face image (e.g., a full-figure…",
+  "content": "Use character sheets without a close-up face image (e.g., a full-figure three-view front/side/back) when using Seedance 2.0 to improve character-sheet img2vid reliability.  \nFor img2vid, cut out/remove the face from your character reference sheet and use only the body reference.  \nGenerate your character sheet with a prompt like: Photorealism, character sheet, three-view (front, side, back), full figure, white background, [add your description here].",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/mxvdxn/status/2035129619872149867",
+  "sourcePublishedAt": "2026-03-20",
+  "author": {
+    "name": "DAN · MXVDXN",
+    "link": "https://x.com/mxvdxn"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use character sheets without a close-up face image (e.g., a full-figure three-view front/side/back) when using Seedance 2.0 to improve character-sheet img2vid reliability.  \nFor img2vid, cut out/remove the face from your character reference sheet and use only the body reference.  \nGenerate your character sheet with a prompt like: Photorealism, character sheet, three-view (front, side, back), full figure, white background, [add your description here].",
+  "translations": {
+    "ja": {
+      "content": "Seedance 2.0を使用する際、キャラクターシートの信頼性を向上させるために、クローズアップの顔画像を含まないキャラクターシート（例：全身の三面図、前/側/後）を使用してください。  \nimg2vidの場合、キャラクターの参照シートから顔を切り取って削除し、体の参照のみを使用してください。  \n次のようなプロンプトでキャラクターシートを生成します: Photorealism, character sheet, three-view (front, side, back), full figure, white background, [add your description here].\n\n--- 引用ツイート ---\n@mxvdxn @yapper_so Soraでいじっていてimg2vidをするためのいくつかのトリックを見つけました。\n\n一番簡単なのは、キャラクターの参照シートを取り、顔を切り取って体の参照だけを使用することです。 https://t.co/ade8T93TSp\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0을 사용할 때 캐릭터 시트의 img2vid 신뢰성을 높이기 위해 얼굴 클로즈업 이미지 없이 캐릭터 시트를 사용하세요 (예: 전신 3면도 앞/옆/뒤).  \nimg2vid를 위해 캐릭터 참조 시트에서 얼굴을 잘라내거나 제거하고 몸 참조만 사용하세요.  \n다음과 같은 프롬프트로 캐릭터 시트를 생성하세요: Photorealism, character sheet, three-view (front, side, back), full figure, white background, [add your description here].\n\n--- 인용 트윗 ---\n@mxvdxn @yapper_so Sora에서 실험하면서 배운 img2vid를 하는 몇 가지 요령이 있습니다.\n\n가장 쉬운 방법은 캐릭터 참조 시트를 가져와 얼굴을 잘라내고 몸 참조만 사용하는 것입니다. https://t.co/ade8T93TSp\n---"
+    },
+    "pt": {
+      "content": "Use folhas de personagem sem uma imagem de rosto em close-up (por exemplo, uma visão de três ângulos da figura completa: frente/lado/costas) ao usar o Seedance 2.0 para melhorar a confiabilidade do img2vid em folhas de personagem.  \nPara img2vid, recorte/remova o rosto da sua folha de referência de personagem e use apenas a referência do corpo.  \nGere sua folha de personagem com um prompt como: Photorealism, character sheet, three-view (front, side, back), full figure, white background, [add your description here].\n\n--- TWEET CITADO ---\n@mxvdxn @yapper_so Existem alguns truques para fazer img2vid que aprendi mexendo no Sora.\n\nO mais fácil é pegar suas folhas de referência de personagem e recortar o rosto, usar apenas a referência do corpo https://t.co/ade8T93TSp\n---"
+    },
+    "zh": {
+      "content": "使用没有特写面部图像的角色表（例如，完整的三视图：正面/侧面/背面）在使用Seedance 2.0时可以提高角色表img2vid的可靠性。  \n对于img2vid，从你的角色参考表中剪掉/移除面部，只使用身体参考。  \n生成你的角色表时使用这样的prompt：Photorealism, character sheet, three-view (front, side, back), full figure, white background, [add your description here].\n\n--- 引用推文 ---\n@mxvdxn @yapper_so 我在Sora中尝试时学到了一些img2vid的小技巧。\n\n最简单的方法是拿你的角色参考表，剪掉面部，只使用身体参考 https://t.co/ade8T93TSp\n---"
+    }
+  }
+}

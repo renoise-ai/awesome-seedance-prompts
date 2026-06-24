@@ -1,0 +1,42 @@
+{
+  "id": "2059632636637622286",
+  "title": "Generate and refine a storyboard first (instead of relying on prompt-only…",
+  "content": "Generate and refine a storyboard first (instead of relying on prompt-only generation) to improve control and results, then generate the final video in Seedance 2.0 once the storyboard is locked.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/hytmIA/status/2059632636637622286",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "haytam",
+    "link": "https://x.com/hytmIA"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate and refine a storyboard first (instead of relying on prompt-only generation) to improve control and results, then generate the final video in Seedance 2.0 once the storyboard is locked.",
+  "translations": {
+    "es": {
+      "content": "Primero genera y perfecciona un storyboard (en lugar de depender únicamente de la generación por prompt) para mejorar el control y los resultados, luego genera el video final en Seedance 2.0 una vez que el storyboard esté definido."
+    },
+    "fr": {
+      "content": "Générez et peaufinez d'abord un storyboard (au lieu de vous fier uniquement à la génération par prompt) pour améliorer le contrôle et les résultats, puis générez la vidéo finale dans Seedance 2.0 une fois le storyboard finalisé."
+    },
+    "ja": {
+      "content": "まず、プロンプトのみの生成に頼るのではなく、ストーリーボードを生成して洗練させることで、コントロールと結果を改善し、ストーリーボードが確定したらSeedance 2.0で最終ビデオを生成します。"
+    },
+    "ko": {
+      "content": "먼저 스토리보드를 생성하고 수정하여 (프롬프트만으로 생성하는 것에 의존하는 대신) 제어와 결과를 개선한 후, 스토리보드가 확정되면 Seedance 2.0에서 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Primeiro, gere e refine um storyboard (em vez de depender apenas da geração por prompt) para melhorar o controle e os resultados. Em seguida, gere o vídeo final no Seedance 2.0 assim que o storyboard estiver definido."
+    },
+    "zh": {
+      "content": "首先生成并完善分镜头脚本（而不是仅依赖于prompt生成），以提高控制力和结果，然后在分镜头脚本确定后，在Seedance 2.0中生成最终视频。"
+    }
+  }
+}

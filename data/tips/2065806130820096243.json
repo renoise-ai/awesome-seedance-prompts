@@ -1,0 +1,43 @@
+{
+  "id": "2065806130820096243",
+  "title": "Write prompts as a hyper-realistic screen recording with explicit UI elements…",
+  "content": "Write prompts as a hyper-realistic screen recording with explicit UI elements (e.g., Omegle logo/UI visible) plus artifacts like slight lag, compression, and webcam-quality to sell realism  \nUse a split-screen layout description and specify what appears on each side (Left/Right) to control composition and character placement  \nStoryboard the full clip with a timed beat-by-beat scene outline (e.g., 15s with connect flicker → dialogue → reveal → next user → end) to control pacing and continuity  \nInclude exact on-screen text/prop requirements (e.g., note flips to reveal HAIR DRYER in marker) to enforce readable, consistent text across frames  \nAdd a negative prompt targeting common giveaways (no AI look, filters, cinematic lighting, VFX, warped hands, morphing text, exaggerated acting, inconsistent note text) to reduce artifacts and maintain realism",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2065806096892125184/pu/img/lcrDcFy-RSO9emTn.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2065806130820096243.mp4",
+  "sourceLink": "https://x.com/doctorwasif/status/2065806130820096243",
+  "sourcePublishedAt": "2026-06-13",
+  "author": {
+    "name": "WasifAI",
+    "link": "https://x.com/doctorwasif"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Game UI"
+  ],
+  "tips": "Write prompts as a hyper-realistic screen recording with explicit UI elements (e.g., Omegle logo/UI visible) plus artifacts like slight lag, compression, and webcam-quality to sell realism  \nUse a split-screen layout description and specify what appears on each side (Left/Right) to control composition and character placement  \nStoryboard the full clip with a timed beat-by-beat scene outline (e.g., 15s with connect flicker → dialogue → reveal → next user → end) to control pacing and continuity  \nInclude exact on-screen text/prop requirements (e.g., note flips to reveal HAIR DRYER in marker) to enforce readable, consistent text across frames  \nAdd a negative prompt targeting common giveaways (no AI look, filters, cinematic lighting, VFX, warped hands, morphing text, exaggerated acting, inconsistent note text) to reduce artifacts and maintain realism",
+  "translations": {
+    "es": {
+      "content": "Escribe prompts como una grabación de pantalla hiperrealista con elementos de interfaz de usuario explícitos (por ejemplo, logo/UI de Omegle visible) además de artefactos como un ligero retraso, compresión y calidad de cámara web para vender realismo.  \nUsa una descripción de diseño de pantalla dividida y especifica lo que aparece en cada lado (Izquierda/Derecha) para controlar la composición y la colocación de personajes.  \nHaz un guion gráfico del clip completo con un esquema de escenas cronometrado paso a paso (por ejemplo, 15s con parpadeo de conexión → diálogo → revelación → siguiente usuario → fin) para controlar el ritmo y la continuidad.  \nIncluye requisitos exactos de texto/prop en pantalla (por ejemplo, notas que se voltean para revelar SECADOR DE PELO en marcador) para asegurar texto legible y consistente en todos los cuadros.  \nAñade un prompt negativo dirigido a los indicios comunes (sin apariencia de IA, filtros, iluminación cinematográfica, VFX, manos deformadas, texto que se deforma, actuación exagerada, texto de notas inconsistente) para reducir artefactos y mantener el realismo."
+    },
+    "fr": {
+      "content": "Écrivez des prompts comme un enregistrement d'écran hyper-réaliste avec des éléments d'interface utilisateur explicites (par exemple, logo/UI Omegle visible) plus des artefacts comme un léger décalage, une compression et une qualité de webcam pour renforcer le réalisme.  \nUtilisez une description de mise en page en écran partagé et spécifiez ce qui apparaît de chaque côté (Gauche/Droite) pour contrôler la composition et le placement des personnages.  \nRéalisez un storyboard du clip complet avec un plan de scène chronométré étape par étape (par exemple, 15s avec scintillement de connexion → dialogue → révélation → utilisateur suivant → fin) pour contrôler le rythme et la continuité.  \nIncluez des exigences exactes de texte/propriétés à l'écran (par exemple, note qui se retourne pour révéler SÈCHE-CHEVEUX au marqueur) pour imposer un texte lisible et cohérent à travers les cadres.  \nAjoutez un prompt négatif ciblant les indices courants (pas d'apparence IA, filtres, éclairage cinématographique, VFX, mains déformées, texte changeant, jeu d'acteur exagéré, texte de note incohérent) pour réduire les artefacts et maintenir le réalisme."
+    },
+    "ja": {
+      "content": "プロンプトを、明示的なUI要素（例：Omegleのロゴ/UIが見える）や、わずかなラグ、圧縮、ウェブカメラ品質のアーティファクトを含むハイパーリアリスティックな画面録画として作成してください。リアリズムを演出するために、スプリットスクリーンレイアウトの説明を使用し、各側（左/右）に何が表示されるかを指定して、構図とキャラクターの配置を制御します。クリップ全体をストーリーボード化し、タイミングに基づいたシーンのアウトライン（例：15秒で接続のちらつき→対話→明かし→次のユーザー→終了）を作成して、ペースと連続性を制御します。フレーム全体で読みやすく一貫したテキストを強制するために、画面上の正確なテキスト/小道具の要件（例：HAIR DRYERとマーカーで書かれたメモのめくり）を含めてください。一般的な見破りポイントをターゲットにしたネガティブプロンプトを追加し（AIの外観なし、フィルター、シネマティックライティング、VFX、歪んだ手、変形するテキスト、誇張された演技、一貫性のないメモテキスト）、アーティファクトを減らしリアリズムを維持します。"
+    },
+    "ko": {
+      "content": "---\n프롬프트를 하이퍼 리얼리틱 스크린 녹화로 작성하세요. 명확한 UI 요소(예: Omegle 로고/UI가 보임)와 약간의 지연, 압축, 웹캠 품질과 같은 아티팩트를 포함하여 현실감을 더하세요.  \n구성을 제어하고 캐릭터 배치를 조절하기 위해 스플릿 스크린 레이아웃 설명을 사용하고 각 측면(왼쪽/오른쪽)에 무엇이 나타나는지 지정하세요.  \n전체 클립을 스토리보드로 작성하고 타이밍에 맞춘 장면 개요(예: 15초 동안 연결 깜박임 → 대화 → 공개 → 다음 사용자 → 종료)를 통해 페이싱과 연속성을 제어하세요.  \n프레임 전반에 걸쳐 읽기 쉽고 일관된 텍스트를 유지하기 위해 정확한 화면 텍스트/소품 요구 사항(예: 마커로 HAIR DRYER를 드러내는 노트 뒤집기)을 포함하세요.  \n아티팩트를 줄이고 현실감을 유지하기 위해 일반적인 단서를 겨냥한 부정적 프롬프트를 추가하세요 (AI 느낌 없음, 필터 없음, 시네마틱 조명 없음, VFX 없음, 왜곡된 손 없음, 변형된 텍스트 없음, 과장된 연기 없음, 일관성 없는 노트 텍스트 없음)."
+    },
+    "pt": {
+      "content": "Escreva prompts como uma gravação de tela hiper-realista com elementos de UI explícitos (por exemplo, logo/UI do Omegle visível) além de artefatos como leve atraso, compressão e qualidade de webcam para vender o realismo  \nUse uma descrição de layout de tela dividida e especifique o que aparece em cada lado (Esquerda/Direita) para controlar a composição e a colocação dos personagens  \nCrie um storyboard do clipe completo com um esboço de cena cronometrado passo a passo (por exemplo, 15s com piscada de conexão → diálogo → revelação → próximo usuário → fim) para controlar o ritmo e a continuidade  \nInclua requisitos exatos de texto/prop na tela (por exemplo, notas viram para revelar SECADOR DE CABELO em marcador) para garantir texto legível e consistente em todos os quadros  \nAdicione um prompt negativo direcionado a sinais comuns (sem aparência de IA, filtros, iluminação cinematográfica, VFX, mãos distorcidas, texto deformado, atuação exagerada, texto de nota inconsistente) para reduzir artefatos e manter o realismo"
+    },
+    "zh": {
+      "content": "将提示写成一个超现实的屏幕录制，包含明确的UI元素（例如，Omegle标志/UI可见）以及轻微的延迟、压缩和网络摄像头质量等伪影，以增强真实感  \n使用分屏布局描述，并指定每一侧（左/右）出现的内容，以控制构图和角色位置  \n为完整的剪辑制作分镜头脚本，包含按时间节拍的场景大纲（例如，15秒的连接闪烁→对话→揭示→下一个用户→结束），以控制节奏和连贯性  \n包括屏幕上精确的文本/道具要求（例如，笔记翻转以显示用记号笔写的HAIR DRYER），以确保跨帧的文本可读性和一致性  \n添加一个负面提示，针对常见的破绽（无AI外观、滤镜、电影灯光、特效、扭曲的手、变形的文本、夸张的表演、不一致的笔记文本）以减少伪影并保持真实感"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2061087852189102259",
+  "title": "Design and model your mech in Plasticity, then import it into 3ds Max to…",
+  "content": "Design and model your mech in Plasticity, then import it into 3ds Max to animate manually before using Seedance 2.  \nRender and export a monochrome version of your 3ds Max model animation to use as the input for Seedance 2.  \nCreate a final high-quality reference render and provide it to Seedance 2 so it can re-render the monochrome animation to match the reference look.  \nUse Seedance 2 primarily as a time-saving renderer for an already-animated sequence rather than expecting it to generate complex mech animation from scratch.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2061086224811692032/img/a-Wc-CJsvizMIqmN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2061087852189102259.mp4",
+  "sourceLink": "https://x.com/las91214/status/2061087852189102259",
+  "sourcePublishedAt": "2026-05-31",
+  "author": {
+    "name": "LAS91214",
+    "link": "https://x.com/las91214"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Design and model your mech in Plasticity, then import it into 3ds Max to animate manually before using Seedance 2.  \nRender and export a monochrome version of your 3ds Max model animation to use as the input for Seedance 2.  \nCreate a final high-quality reference render and provide it to Seedance 2 so it can re-render the monochrome animation to match the reference look.  \nUse Seedance 2 primarily as a time-saving renderer for an already-animated sequence rather than expecting it to generate complex mech animation from scratch.",
+  "translations": {
+    "es": {
+      "content": "Diseña y modela tu mech en Plasticity, luego impórtalo en 3ds Max para animarlo manualmente antes de usar Seedance 2.  \nRenderiza y exporta una versión monocromática de la animación de tu modelo en 3ds Max para usarla como entrada para Seedance 2.  \nCrea un render de referencia final de alta calidad y proporciónalo a Seedance 2 para que pueda volver a renderizar la animación monocromática para que coincida con el aspecto de referencia.  \nUsa Seedance 2 principalmente como un renderizador que ahorra tiempo para una secuencia ya animada en lugar de esperar que genere una animación compleja de mech desde cero."
+    },
+    "fr": {
+      "content": "---\nConcevez et modélisez votre mech dans Plasticity, puis importez-le dans 3ds Max pour l'animer manuellement avant d'utiliser Seedance 2.  \nRendez et exportez une version monochrome de l'animation de votre modèle 3ds Max pour l'utiliser comme entrée pour Seedance 2.  \nCréez un rendu de référence final de haute qualité et fournissez-le à Seedance 2 afin qu'il puisse re-rendre l'animation monochrome pour correspondre à l'apparence de la référence.  \nUtilisez Seedance 2 principalement comme un moteur de rendu économiseur de temps pour une séquence déjà animée plutôt que de s'attendre à ce qu'il génère une animation complexe de mech à partir de zéro.  \n---"
+    },
+    "ja": {
+      "content": "---\nPlasticityでメカをデザインしモデリングした後、3ds Maxにインポートして手動でアニメーションを作成し、Seedance 2を使用します。  \n3ds Maxモデルのアニメーションをモノクロバージョンでレンダリングし、Seedance 2の入力としてエクスポートします。  \n最終的な高品質のリファレンスレンダーを作成し、Seedance 2に提供して、モノクロアニメーションをリファレンスの外観に合わせて再レンダリングさせます。  \nSeedance 2は、複雑なメカアニメーションをゼロから生成することを期待するのではなく、すでにアニメーション化されたシーケンスの時間を節約するレンダラーとして主に使用します。  \n---"
+    },
+    "ko": {
+      "content": "Plasticity에서 메카를 디자인하고 모델링한 후, 3ds Max로 가져와 수동으로 애니메이션을 만든 다음 Seedance 2를 사용하세요.  \n3ds Max 모델 애니메이션의 단색 버전을 렌더링하고 내보내 Seedance 2의 입력으로 사용하세요.  \n최종 고품질 참조 렌더를 생성하고 Seedance 2에 제공하여 단색 애니메이션을 참조 렌더와 일치하도록 다시 렌더링할 수 있게 하세요.  \nSeedance 2를 주로 이미 애니메이션된 시퀀스의 시간 절약 렌더러로 사용하고, 복잡한 메카 애니메이션을 처음부터 생성할 것으로 기대하지 마세요."
+    },
+    "pt": {
+      "content": "Desenhe e modele seu mech no Plasticity, depois importe-o para o 3ds Max para animar manualmente antes de usar o Seedance 2.  \nRenderize e exporte uma versão monocromática da animação do seu modelo no 3ds Max para usar como entrada no Seedance 2.  \nCrie uma renderização de referência final de alta qualidade e forneça-a ao Seedance 2 para que ele possa re-renderizar a animação monocromática para corresponder ao visual de referência.  \nUse o Seedance 2 principalmente como um renderizador que economiza tempo para uma sequência já animada, em vez de esperar que ele gere uma animação complexa de mech do zero."
+    },
+    "zh": {
+      "content": "在Plasticity中设计和建模你的机甲，然后导入到3ds Max中进行手动动画制作，再使用Seedance 2。  \n渲染并导出你的3ds Max模型动画的单色版本，以用作Seedance 2的输入。  \n创建一个最终的高质量参考渲染，并提供给Seedance 2，以便它可以重新渲染单色动画以匹配参考外观。  \n主要将Seedance 2用作已动画序列的节省时间的渲染器，而不是期望它从头生成复杂的机甲动画。"
+    }
+  }
+}

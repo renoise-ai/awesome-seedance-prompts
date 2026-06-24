@@ -1,0 +1,41 @@
+{
+  "id": "2045218144176771498",
+  "title": "Use Seedance 2.0 parametric prompts with multiple opponents by defining…",
+  "content": "Use Seedance 2.0 parametric prompts with multiple opponents by defining CHARACTERS for each side (e.g., A: [ref_image] assassin; B: armored guards) and specifying ENVIRONMENT plus a FIGHT PROFILE with STYLE, ENERGY, WEAPONS, and INTENT.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/LinusEkenstam/status/2045218144176771498",
+  "sourcePublishedAt": "2026-04-17",
+  "author": {
+    "name": "Linus ✦ Ekenstam",
+    "link": "https://x.com/LinusEkenstam"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 parametric prompts with multiple opponents by defining CHARACTERS for each side (e.g., A: [ref_image] assassin; B: armored guards) and specifying ENVIRONMENT plus a FIGHT PROFILE with STYLE, ENERGY, WEAPONS, and INTENT.",
+  "translations": {
+    "es": {
+      "content": "Utiliza los prompts paramétricos de Seedance 2.0 con múltiples oponentes definiendo PERSONAJES para cada lado (por ejemplo, A: [ref_image] asesino; B: guardias armados) y especificando el ENTORNO más un PERFIL DE COMBATE con ESTILO, ENERGÍA, ARMAS e INTENCIÓN.\n\n--- TWEET CITADO ---\nEste prompt paramétrico de Seedance 2.0 también funciona con múltiples oponentes. El prompt está en el post citado. 👇\n\nParámetros utilizados:\n\nPERSONAJES:\nA: [ref_image] un asesino con una hoja y movimientos fluidos\nB: guardias armados con escudos y ataques coordinados\n\nENTORNO\ncorredor de palacio tenuemente iluminado con pilares y suelo de piedra pulida\n\nPERFIL DE COMBATE\nESTILO: elegante\nENERGÍA: alta\nARMAS: cuerpo a cuerpo\nINTENCIÓN: asesinato"
+    },
+    "fr": {
+      "content": "Utilisez les prompts paramétriques de Seedance 2.0 avec plusieurs adversaires en définissant les PERSONNAGES pour chaque camp (par exemple, A : [ref_image] assassin ; B : gardes en armure) et en spécifiant l'ENVIRONNEMENT ainsi qu'un PROFIL DE COMBAT avec STYLE, ÉNERGIE, ARMES et INTENTION.\n\n--- TWEET CITÉ ---\nCe prompt paramétrique Seedance 2.0 fonctionne également avec plusieurs adversaires. Le prompt est dans le post cité. 👇\n\nParamètres utilisés :\n\nPERSONNAGES :\nA : [ref_image] un assassin avec une lame et des mouvements fluides\nB : gardes en armure avec des attaques coordonnées\n\nENVIRONNEMENT\ncouloir de palais faiblement éclairé avec des colonnes et un sol en pierre polie\n\nPROFIL DE COMBAT\nSTYLE : élégant\nÉNERGIE : élevée\nARMES : corps à corps\nINTENTION : assassinat"
+    },
+    "ja": {
+      "content": "Seedance 2.0のパラメトリックプロンプトを使用して、各側のCHARACTERS（例：A: [ref_image] 暗殺者; B: 装甲ガード）を定義し、ENVIRONMENTとSTYLE、ENERGY、WEAPONS、INTENTを含むFIGHT PROFILEを指定することで、複数の対戦相手と対峙します。\n\n--- 引用ツイート ---\nこのSeedance 2.0のパラメトリックプロンプトは、複数の対戦相手にも対応しています。プロンプトは引用投稿にあります。👇\n\n使用されたパラメータ:\n\nCHARACTERS:\nA: [ref_image] 刃を持ち、流れるような動きの暗殺者\nB: 盾を持ち、連携攻撃を行う装甲ガード\n\nENVIRONMENT\n薄暗い宮殿の廊下、柱と磨かれた石の床\n\nFIGHT PROFILE\nSTYLE: 優雅\nENERGY: 高い\nWEAPONS: 近接\nINTENT: 暗殺"
+    },
+    "ko": {
+      "content": "Seedance 2.0의 파라메트릭 프롬프트를 사용하여 각 측면의 캐릭터를 정의하고 (예: A: [ref_image] 암살자; B: 갑옷을 입은 경비병) 환경과 스타일, 에너지, 무기, 의도를 포함한 전투 프로필을 지정하여 여러 상대와 함께 사용할 수 있습니다.\n\n--- 인용된 트윗 ---\n이 Seedance 2.0 파라메트릭 프롬프트는 여러 상대와 함께 작동합니다. 프롬프트는 인용된 게시물에 있습니다. 👇\n\n사용된 매개변수:\n\nCHARACTERS:\nA: [ref_image] 칼과 유연한 움직임을 가진 암살자\nB: 방패와 협력 공격을 하는 갑옷을 입은 경비병\n\nENVIRONMENT\n기둥과 광택 있는 돌바닥이 있는 어둡게 조명된 궁전 복도\n\nFIGHT PROFILE\nSTYLE: 우아한\nENERGY: 높은\nWEAPONS: 근접 무기\nINTENT: 암살"
+    },
+    "pt": {
+      "content": "Use prompts paramétricos do Seedance 2.0 com múltiplos oponentes definindo PERSONAGENS para cada lado (por exemplo, A: [ref_image] assassino; B: guardas armadurados) e especificando o AMBIENTE, além de um PERFIL DE LUTA com ESTILO, ENERGIA, ARMAS e INTENÇÃO.\n\n--- TWEET CITADO ---\nEste prompt paramétrico do Seedance 2.0 também funciona com múltiplos oponentes. O prompt está no post citado. 👇\n\nParâmetros usados:\n\nPERSONAGENS:\nA: [ref_image] um assassino com uma lâmina e movimentos fluidos\nB: guardas armadurados com escudos e ataques coordenados\n\nAMBIENTE\ncorredor de palácio mal iluminado com pilares e piso de pedra polida\n\nPERFIL DE LUTA\nESTILO: elegante\nENERGIA: alta\nARMAS: corpo a corpo\nINTENÇÃO: assassinato"
+    },
+    "zh": {
+      "content": "使用Seedance 2.0参数化提示，通过为每一方定义角色（例如，A: [ref_image] 刺客；B: 装甲卫兵）并指定环境以及战斗档案，包括风格、能量、武器和意图，来处理多个对手。\n\n--- 引用推文 ---\n这个Seedance 2.0参数化提示也适用于多个对手。提示在引用的帖子中。👇\n\n使用的参数：\n\n角色：\nA: [ref_image] 持刀刺客，动作流畅\nB: 装甲卫兵，持盾牌，攻击协调\n\n环境：\n光线昏暗的宫殿走廊，带有柱子和抛光的石地板\n\n战斗档案：\n风格：优雅\n能量：高\n武器：近战\n意图：暗杀"
+    }
+  }
+}

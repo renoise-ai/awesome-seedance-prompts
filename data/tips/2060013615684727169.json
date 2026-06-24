@@ -1,0 +1,44 @@
+{
+  "id": "2060013615684727169",
+  "title": "Upload existing footage and use simple text prompts to change elements like…",
+  "content": "Upload existing footage and use simple text prompts to change elements like product design, mood/style, or generate multiple creative versions from the same clip while preserving the original motion, lighting, and framing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2060013456607375360/pu/img/zSZAtESx_yBhghwF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2060013615684727169.mp4",
+  "sourceLink": "https://x.com/TechWith_Nova/status/2060013615684727169",
+  "sourcePublishedAt": "2026-05-28",
+  "author": {
+    "name": "NOVA",
+    "link": "https://x.com/TechWith_Nova"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "Transformation"
+  ],
+  "tips": "Upload existing footage and use simple text prompts to change elements like product design, mood/style, or generate multiple creative versions from the same clip while preserving the original motion, lighting, and framing.",
+  "translations": {
+    "es": {
+      "content": "Sube metraje existente y utiliza prompts de texto simples para cambiar elementos como el diseño del producto, el estado de ánimo/estilo, o generar múltiples versiones creativas del mismo clip mientras se preserva el movimiento, la iluminación y el encuadre originales."
+    },
+    "fr": {
+      "content": "Téléchargez des séquences existantes et utilisez des prompts textuels simples pour modifier des éléments tels que le design du produit, l'ambiance/style, ou générer plusieurs versions créatives à partir du même clip tout en préservant le mouvement, l'éclairage et le cadrage d'origine."
+    },
+    "ja": {
+      "content": "既存の映像をアップロードし、シンプルなテキストプロンプトを使用して、製品デザインやムード/スタイルなどの要素を変更したり、同じクリップから複数のクリエイティブなバージョンを生成したりできます。これにより、元の動き、照明、フレーミングを維持しながら編集が可能です。"
+    },
+    "ko": {
+      "content": "기존 영상을 업로드하고 간단한 텍스트 프롬프트를 사용하여 제품 디자인, 분위기/스타일 등의 요소를 변경하거나 동일한 클립에서 여러 창의적인 버전을 생성하면서 원래의 움직임, 조명, 구도를 유지하세요."
+    },
+    "pt": {
+      "content": "Carregue filmagens existentes e use prompts de texto simples para alterar elementos como design de produto, humor/estilo, ou gerar várias versões criativas do mesmo clipe enquanto preserva o movimento, iluminação e enquadramento originais."
+    },
+    "zh": {
+      "content": "上传现有素材，并使用简单的文本提示来更改元素，如产品设计、情绪/风格，或从同一片段生成多个创意版本，同时保留原始的运动、光线和构图。"
+    }
+  }
+}

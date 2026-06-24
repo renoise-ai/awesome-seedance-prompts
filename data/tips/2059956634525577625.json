@@ -1,0 +1,43 @@
+{
+  "id": "2059956634525577625",
+  "title": "Use a storyboard-first workflow: build storyboard frames on a canvas, use an AI…",
+  "content": "Use a storyboard-first workflow: build storyboard frames on a canvas, use an AI agent to refine the flow, then generate the final video from the approved storyboard using Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059956573917863936/img/znP155vRyqRhDf0j.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059956634525577625.mp4",
+  "sourceLink": "https://x.com/madzadev/status/2059956634525577625",
+  "sourcePublishedAt": "2026-05-28",
+  "author": {
+    "name": "Madza 👨‍💻⚡",
+    "link": "https://x.com/madzadev"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a storyboard-first workflow: build storyboard frames on a canvas, use an AI agent to refine the flow, then generate the final video from the approved storyboard using Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo basado en storyboard: crea los fotogramas del storyboard en un lienzo, usa un agente de IA para refinar el flujo, luego genera el video final a partir del storyboard aprobado usando Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail axé sur le storyboard : créez des cadres de storyboard sur une toile, utilisez un agent IA pour affiner le flux, puis générez la vidéo finale à partir du storyboard approuvé en utilisant Seedance 2.0."
+    },
+    "ja": {
+      "content": "ストーリーボード優先のワークフローを使用します。キャンバス上でストーリーボードフレームを作成し、AIエージェントを使用して流れを洗練し、承認されたストーリーボードからSeedance 2.0を使用して最終ビデオを生成します。"
+    },
+    "ko": {
+      "content": "스토리보드 우선 워크플로우를 사용하세요: 캔버스에 스토리보드 프레임을 만들고, AI 에이전트를 사용하여 흐름을 다듬은 다음, 승인된 스토리보드를 기반으로 Seedance 2.0을 사용하여 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho baseado em storyboard: construa quadros de storyboard em uma tela, use um agente de IA para refinar o fluxo e, em seguida, gere o vídeo final a partir do storyboard aprovado usando o Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用以故事板为先的工作流程：在画布上构建故事板框架，使用AI代理优化流程，然后使用Seedance 2.0从批准的故事板生成最终视频。"
+    }
+  }
+}

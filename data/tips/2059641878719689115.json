@@ -1,0 +1,42 @@
+{
+  "id": "2059641878719689115",
+  "title": "Use the previously generated scene as a reference video in Seedance 2 for the…",
+  "content": "Use the previously generated scene as a reference video in Seedance 2 for the next scene to improve cinematic continuity (motion, framing, lighting, character consistency) versus relying on storyboard/static frames.  \nWhen chaining video-to-video references in Seedance 2, periodically upscale key scenes before reusing them as references to prevent compounded quality degradation across generations.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059640504099405824/img/LlLgHz0gfDRoby7n.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059641878719689115.mp4",
+  "sourceLink": "https://x.com/rahulnanda86/status/2059641878719689115",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Rahul Nanda",
+    "link": "https://x.com/rahulnanda86"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the previously generated scene as a reference video in Seedance 2 for the next scene to improve cinematic continuity (motion, framing, lighting, character consistency) versus relying on storyboard/static frames.  \nWhen chaining video-to-video references in Seedance 2, periodically upscale key scenes before reusing them as references to prevent compounded quality degradation across generations.",
+  "translations": {
+    "es": {
+      "content": "Usa la escena generada previamente como un video de referencia en Seedance 2 para la siguiente escena, con el fin de mejorar la continuidad cinematográfica (movimiento, encuadre, iluminación, consistencia de personajes) en lugar de depender de storyboards o cuadros estáticos.  \nAl encadenar referencias de video a video en Seedance 2, escala periódicamente las escenas clave antes de reutilizarlas como referencias para evitar la degradación compuesta de calidad a lo largo de las generaciones."
+    },
+    "fr": {
+      "content": "---\nUtilisez la scène précédemment générée comme vidéo de référence dans Seedance 2 pour la scène suivante afin d'améliorer la continuité cinématographique (mouvement, cadrage, éclairage, cohérence des personnages) par rapport à l'utilisation de storyboards/cadres statiques.  \nLors de l'enchaînement de références vidéo-à-vidéo dans Seedance 2, effectuez périodiquement une mise à l'échelle des scènes clés avant de les réutiliser comme références pour éviter une dégradation de qualité cumulée au fil des générations.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2で次のシーンを作成する際、前に生成したシーンを参照ビデオとして使用し、ストーリーボードや静止フレームに頼るのではなく、シネマティックな連続性（動き、フレーミング、照明、キャラクターの一貫性）を向上させます。  \nSeedance 2でビデオからビデオへの参照を連鎖する際、世代を重ねるごとに品質の劣化を防ぐため、再利用する前に定期的に主要なシーンをアップスケールします。\n---"
+    },
+    "ko": {
+      "content": "이전에 생성된 장면을 Seedance 2에서 다음 장면의 참조 비디오로 사용하여 시네마틱 연속성(동작, 프레이밍, 조명, 캐릭터 일관성)을 개선하세요. 스토리보드/정적 프레임에 의존하는 것보다 효과적입니다.  \nSeedance 2에서 비디오 간 참조를 연결할 때, 세대 간 품질 저하가 누적되는 것을 방지하기 위해 주요 장면을 주기적으로 업스케일한 후 참조로 재사용하세요."
+    },
+    "pt": {
+      "content": "Use a cena gerada anteriormente como um vídeo de referência no Seedance 2 para a próxima cena, a fim de melhorar a continuidade cinematográfica (movimento, enquadramento, iluminação, consistência dos personagens) em vez de depender de storyboard/quadros estáticos.  \nAo encadear referências de vídeo para vídeo no Seedance 2, faça upscale periodicamente das cenas-chave antes de reutilizá-las como referências para evitar a degradação de qualidade acumulada ao longo das gerações."
+    },
+    "zh": {
+      "content": "在Seedance 2中使用先前生成的场景作为参考视频，以提高下一个场景的电影连续性（运动、构图、灯光、角色一致性），而不是依赖分镜头/静态画面。  \n在Seedance 2中链接视频到视频的参考时，定期对关键场景进行升级，然后再将其用作参考，以防止在多次生成中出现质量递减。"
+    }
+  }
+}

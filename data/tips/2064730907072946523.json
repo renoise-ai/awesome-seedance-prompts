@@ -1,0 +1,42 @@
+{
+  "id": "2064730907072946523",
+  "title": "Use Flova AI to auto-split a single prompt into story frames, then animate each…",
+  "content": "Use Flova AI to auto-split a single prompt into story frames, then animate each frame/scene with Seedance 2.0.  \nIf a scene doesn’t work, regenerate only that specific shot instead of redoing the whole video.  \nAdd music within the same Flova/Seedance workflow after generating the scenes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064730852899311616/img/mwUKprKz5VIlG8Qc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2064730907072946523.mp4",
+  "sourceLink": "https://x.com/CodeByPoonam/status/2064730907072946523",
+  "sourcePublishedAt": "2026-06-10",
+  "author": {
+    "name": "Poonam Soni",
+    "link": "https://x.com/CodeByPoonam"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Flova AI to auto-split a single prompt into story frames, then animate each frame/scene with Seedance 2.0.  \nIf a scene doesn’t work, regenerate only that specific shot instead of redoing the whole video.  \nAdd music within the same Flova/Seedance workflow after generating the scenes.",
+  "translations": {
+    "es": {
+      "content": "Usa Flova AI para dividir automáticamente un solo prompt en cuadros de historia, luego anima cada cuadro/escena con Seedance 2.0.  \nSi una escena no funciona, regenera solo esa toma específica en lugar de rehacer todo el video.  \nAñade música dentro del mismo flujo de trabajo de Flova/Seedance después de generar las escenas."
+    },
+    "fr": {
+      "content": "Utilisez Flova AI pour diviser automatiquement un seul prompt en cadres d'histoire, puis animez chaque cadre/scène avec Seedance 2.0.  \nSi une scène ne fonctionne pas, régénérez uniquement ce plan spécifique au lieu de refaire toute la vidéo.  \nAjoutez de la musique dans le même flux de travail Flova/Seedance après avoir généré les scènes."
+    },
+    "ja": {
+      "content": "---\nFlova AIを使用して、単一のプロンプトをストーリーフレームに自動分割し、各フレーム/シーンをSeedance 2.0でアニメーション化します。  \nシーンがうまくいかない場合は、ビデオ全体をやり直すのではなく、その特定のショットのみを再生成します。  \nシーンを生成した後、同じFlova/Seedanceワークフロー内で音楽を追加します。\n---"
+    },
+    "ko": {
+      "content": "---\nFlova AI를 사용하여 하나의 prompt를 스토리 프레임으로 자동 분할한 후, Seedance 2.0으로 각 프레임/장면을 애니메이션화하세요.  \n장면이 잘 작동하지 않으면, 전체 비디오를 다시 만드는 대신 특정 샷만 재생성하세요.  \n장면을 생성한 후 Flova/Seedance 워크플로 내에서 음악을 추가하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o Flova AI para dividir automaticamente um único prompt em quadros de história, depois anime cada quadro/cena com o Seedance 2.0.  \nSe uma cena não funcionar, regenere apenas aquela tomada específica em vez de refazer todo o vídeo.  \nAdicione música dentro do mesmo fluxo de trabalho Flova/Seedance após gerar as cenas."
+    },
+    "zh": {
+      "content": "使用 Flova AI 将单个 prompt 自动分割成故事帧，然后使用 Seedance 2.0 为每个帧/场景制作动画。  \n如果某个场景效果不佳，只需重新生成该特定镜头，而无需重做整个视频。  \n在生成场景后，在同一 Flova/Seedance 工作流程中添加音乐。"
+    }
+  }
+}

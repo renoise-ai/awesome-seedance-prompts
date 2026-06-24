@@ -1,0 +1,43 @@
+{
+  "id": "2059260852134625631",
+  "title": "Generate storyboard frames with GPT-image-2 first, arrange/refine them on an…",
+  "content": "Generate storyboard frames with GPT-image-2 first, arrange/refine them on an infinite canvas, then convert the finalized storyboard into video using Seedance 2.0 instead of starting from a single text prompt",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059260701450141696/img/inuGL96Va6KLItTK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059260852134625631.mp4",
+  "sourceLink": "https://x.com/TopviewAIhq/status/2059260852134625631",
+  "sourcePublishedAt": "2026-05-26",
+  "author": {
+    "name": "TopviewAI",
+    "link": "https://x.com/TopviewAIhq"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate storyboard frames with GPT-image-2 first, arrange/refine them on an infinite canvas, then convert the finalized storyboard into video using Seedance 2.0 instead of starting from a single text prompt",
+  "translations": {
+    "es": {
+      "content": "Genera cuadros de storyboard con GPT-image-2 primero, arréglalos/refínalos en un lienzo infinito, luego convierte el storyboard finalizado en video usando Seedance 2.0 en lugar de comenzar desde un único prompt de texto."
+    },
+    "fr": {
+      "content": "Générez d'abord des cadres de storyboard avec GPT-image-2, organisez/affinez-les sur une toile infinie, puis convertissez le storyboard finalisé en vidéo en utilisant Seedance 2.0 au lieu de commencer à partir d'un simple prompt textuel."
+    },
+    "ja": {
+      "content": "まず、GPT-image-2を使用してストーリーボードのフレームを生成し、それらを無限キャンバス上で配置/修正します。次に、単一のテキストプロンプトから始めるのではなく、最終的なストーリーボードをSeedance 2.0を使用してビデオに変換します。"
+    },
+    "ko": {
+      "content": "---\n먼저 GPT-image-2로 스토리보드 프레임을 생성하고, 무한 캔버스에서 배열/수정한 후, 단일 텍스트 프롬프트에서 시작하는 대신 Seedance 2.0을 사용하여 최종 스토리보드를 비디오로 변환합니다.\n---"
+    },
+    "pt": {
+      "content": "Gere quadros de storyboard com o GPT-image-2 primeiro, organize/refine-os em uma tela infinita, depois converta o storyboard finalizado em vídeo usando o Seedance 2.0 em vez de começar a partir de um único prompt de texto."
+    },
+    "zh": {
+      "content": "首先使用GPT-image-2生成分镜头画面，在无限画布上排列/优化它们，然后使用Seedance 2.0将最终的分镜头转换为视频，而不是从单一文本prompt开始。"
+    }
+  }
+}

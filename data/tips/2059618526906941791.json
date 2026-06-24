@@ -1,0 +1,42 @@
+{
+  "id": "2059618526906941791",
+  "title": "Use Seedance 2.0 to generate UGC-style video ads.",
+  "content": "Use Seedance 2.0 to generate UGC-style video ads.  \nRun Seedance 2.0 natively inside MakeUGC to replicate an end-to-end ad creative workflow quickly.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059618477032550400/img/zwyYhNSLvy9LRi_o.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059618526906941791.mp4",
+  "sourceLink": "https://x.com/printinesperad/status/2059618526906941791",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Oliver",
+    "link": "https://x.com/printinesperad"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 to generate UGC-style video ads.  \nRun Seedance 2.0 natively inside MakeUGC to replicate an end-to-end ad creative workflow quickly.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.0 para generar anuncios en video estilo UGC.  \nEjecuta Seedance 2.0 de forma nativa dentro de MakeUGC para replicar rápidamente un flujo de trabajo creativo de anuncios de principio a fin."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 pour générer des publicités vidéo de style UGC.  \nExécutez Seedance 2.0 directement dans MakeUGC pour reproduire rapidement un flux de travail créatif publicitaire de bout en bout."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0を使用してUGCスタイルの動画広告を生成します。  \nMakeUGC内でSeedance 2.0をネイティブに実行し、エンドツーエンドの広告クリエイティブワークフローを迅速に再現します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0을 사용하여 UGC 스타일의 비디오 광고를 생성하세요.  \nMakeUGC 내에서 Seedance 2.0을 네이티브로 실행하여 엔드 투 엔드 광고 크리에이티브 워크플로우를 빠르게 복제하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 para gerar anúncios em vídeo no estilo UGC.  \nExecute o Seedance 2.0 nativamente dentro do MakeUGC para replicar rapidamente um fluxo de trabalho criativo de anúncios de ponta a ponta."
+    },
+    "zh": {
+      "content": "使用Seedance 2.0生成UGC风格的视频广告。  \n在MakeUGC中本地运行Seedance 2.0，以快速复制端到端广告创意工作流程。"
+    }
+  }
+}

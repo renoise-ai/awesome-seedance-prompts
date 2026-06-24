@@ -1,0 +1,45 @@
+{
+  "id": "2059969313424003113",
+  "title": "Gunakan environment reference image (mis. dari GPT Image 2) saat generate di…",
+  "content": "Gunakan environment reference image (mis. dari GPT Image 2) saat generate di Seedance 2.0 untuk menjaga konsistensi mood, lighting, texture, style dunia, dan cinematic feel antar scene  \nJangan lepas reference image jika ingin hasil tidak berubah jadi generic stylized 3D; pertahankan reference image per scene agar worldbuilding dan vibe tetap konsisten",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059969240829181952/img/YgqGaIQ0W6aF3gbU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059969313424003113.mp4",
+  "sourceLink": "https://x.com/stellarprtcol/status/2059969313424003113",
+  "sourcePublishedAt": "2026-05-28",
+  "author": {
+    "name": "stellar protocol",
+    "link": "https://x.com/stellarprtcol"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Gunakan environment reference image (mis. dari GPT Image 2) saat generate di Seedance 2.0 untuk menjaga konsistensi mood, lighting, texture, style dunia, dan cinematic feel antar scene  \nJangan lepas reference image jika ingin hasil tidak berubah jadi generic stylized 3D; pertahankan reference image per scene agar worldbuilding dan vibe tetap konsisten",
+  "translations": {
+    "en": {
+      "content": "Use an environment reference image (e.g., from GPT Image 2) when generating in Seedance 2.0 to maintain consistency in mood, lighting, texture, world style, and cinematic feel between scenes.  \nDo not remove the reference image if you want the result to avoid becoming generic stylized 3D; keep the reference image per scene to ensure consistent worldbuilding and vibe."
+    },
+    "es": {
+      "content": "---\nUtiliza una imagen de referencia del entorno (por ejemplo, de GPT Image 2) al generar en Seedance 2.0 para mantener la consistencia del ambiente, iluminación, textura, estilo del mundo y el sentimiento cinematográfico entre escenas.  \nNo quites la imagen de referencia si deseas que el resultado no se convierta en un 3D estilizado genérico; mantén la imagen de referencia por escena para que la construcción del mundo y la vibra permanezcan consistentes.\n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez une image de référence d'environnement (par exemple, de GPT Image 2) lors de la génération dans Seedance 2.0 pour maintenir la cohérence de l'ambiance, de l'éclairage, de la texture, du style du monde et de l'effet cinématographique entre les scènes.  \nNe retirez pas l'image de référence si vous souhaitez éviter que le résultat ne devienne un 3D stylisé générique ; maintenez l'image de référence par scène afin que la construction du monde et l'atmosphère restent cohérentes.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で生成する際に、環境参照画像（例：GPT Image 2）を使用して、シーン間のムード、ライティング、テクスチャ、世界のスタイル、シネマティックな感覚の一貫性を保ちます。  \n参照画像を外すと、結果が一般的なスタイライズされた3Dに変わってしまうので、ワールドビルディングと雰囲気を一貫して保つために、シーンごとに参照画像を維持してください。  \n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 생성할 때 환경 참조 이미지를 사용하세요 (예: GPT Image 2) 장면 간의 분위기, 조명, 질감, 세계 스타일, 그리고 cinematic 느낌의 일관성을 유지하기 위해  \n결과가 일반적인 스타일화된 3D로 변하지 않도록 참조 이미지를 제거하지 마세요; 세계 구축과 분위기가 일관되도록 각 장면마다 참조 이미지를 유지하세요"
+    },
+    "pt": {
+      "content": "Use a imagem de referência do ambiente (por exemplo, do GPT Image 2) ao gerar no Seedance 2.0 para manter a consistência de humor, iluminação, textura, estilo do mundo e sensação cinematográfica entre as cenas  \nNão remova a imagem de referência se quiser evitar que o resultado se torne um 3D estilizado genérico; mantenha a imagem de referência por cena para que a construção do mundo e a vibração permaneçam consistentes"
+    },
+    "zh": {
+      "content": "在 Seedance 2.0 中生成时，使用环境参考图像（例如来自 GPT Image 2）以保持场景之间的情绪、一致的光照、纹理、世界风格和电影感。  \n如果希望结果不变得通用化的风格化3D，不要移除参考图像；每个场景都要保持参考图像，以确保世界构建和氛围的一致性。"
+    }
+  }
+}

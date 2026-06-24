@@ -1,0 +1,41 @@
+{
+  "id": "2025903489054888339",
+  "title": "Describe the clip/b-roll you need to Gemini or Claude, have it generate a video…",
+  "content": "Describe the clip/b-roll you need to Gemini or Claude, have it generate a video prompt, then paste that prompt into Seedance to create the footage.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/yt_igm/status/2025903489054888339",
+  "sourcePublishedAt": "2026-02-23",
+  "author": {
+    "name": "igorm",
+    "link": "https://x.com/yt_igm"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Describe the clip/b-roll you need to Gemini or Claude, have it generate a video prompt, then paste that prompt into Seedance to create the footage.",
+  "translations": {
+    "es": {
+      "content": "Describe el clip/b-roll que necesitas a Gemini o Claude, haz que genere un video prompt, luego pega ese prompt en Seedance para crear el metraje."
+    },
+    "fr": {
+      "content": "Décrivez le clip/b-roll dont vous avez besoin à Gemini ou Claude, faites-le générer un prompt vidéo, puis collez ce prompt dans Seedance pour créer les séquences."
+    },
+    "ja": {
+      "content": "クリップやBロールの説明をGeminiやClaudeに伝え、ビデオプロンプトを生成させ、そのプロンプトをSeedanceに貼り付けて映像を作成します。"
+    },
+    "ko": {
+      "content": "Gemini나 Claude에게 필요한 클립/비롤을 설명하고, 비디오 프롬프트를 생성하도록 한 다음, 그 프롬프트를 Seedance에 붙여 넣어 영상을 만드세요."
+    },
+    "pt": {
+      "content": "Descreva o clipe/b-roll que você precisa para o Gemini ou Claude, peça para gerar um video prompt, e então cole esse prompt no Seedance para criar a filmagem."
+    },
+    "zh": {
+      "content": "描述您需要的剪辑/B-roll给Gemini或Claude，让它生成一个视频prompt，然后将该prompt粘贴到Seedance中以创建素材。"
+    }
+  }
+}

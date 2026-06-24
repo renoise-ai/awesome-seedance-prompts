@@ -1,0 +1,41 @@
+{
+  "id": "2058522325101040008",
+  "title": "Use two images as the FIRST and LAST frames in Seedance 2.0 to generate a…",
+  "content": "Use two images as the FIRST and LAST frames in Seedance 2.0 to generate a 10–15s in-between video.  \nUse a prompt structure: Show what happens in between. [CUSTOM action description]. 5 different camera angles. No music.  \nKeep Show what happens in between and 5 different camera angles as default prompt clauses, and only change the middle sentence to specify the custom action you want generated.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Framer_X/status/2058522325101040008",
+  "sourcePublishedAt": "2026-05-24",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "link": "https://x.com/Framer_X"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use two images as the FIRST and LAST frames in Seedance 2.0 to generate a 10–15s in-between video.  \nUse a prompt structure: Show what happens in between. [CUSTOM action description]. 5 different camera angles. No music.  \nKeep Show what happens in between and 5 different camera angles as default prompt clauses, and only change the middle sentence to specify the custom action you want generated.",
+  "translations": {
+    "es": {
+      "content": "Usa dos imágenes como los PRIMEROS y ÚLTIMOS fotogramas en Seedance 2.0 para generar un video intermedio de 10-15 segundos.  \nUsa una estructura de prompt: Show what happens in between. [CUSTOM action description]. 5 different camera angles. No music.  \nMantén Show what happens in between y 5 different camera angles como cláusulas predeterminadas del prompt, y solo cambia la oración del medio para especificar la acción personalizada que deseas generar."
+    },
+    "fr": {
+      "content": "Utilisez deux images comme PREMIÈRE et DERNIÈRE images dans Seedance 2.0 pour générer une vidéo intermédiaire de 10 à 15 secondes.  \nUtilisez une structure de prompt : Show what happens in between. [CUSTOM action description]. 5 different camera angles. No music.  \nGardez Show what happens in between et 5 different camera angles comme clauses par défaut du prompt, et ne changez que la phrase du milieu pour spécifier l'action personnalisée que vous souhaitez générer."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で最初と最後のフレームとして2つの画像を使用し、10〜15秒の中間ビデオを生成します。  \nプロンプト構造を使用します: Show what happens in between. [CUSTOM action description]. 5 different camera angles. No music.  \nShow what happens in betweenと5 different camera anglesをデフォルトのプロンプト句として保持し、生成したいカスタムアクションを指定するために中間の文のみを変更します。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 첫 번째와 마지막 프레임으로 두 이미지를 사용하여 10–15초의 중간 영상을 생성하세요.  \n프롬프트 구조를 사용하세요: Show what happens in between. [CUSTOM action description]. 5 different camera angles. No music.  \nShow what happens in between과 5 different camera angles를 기본 프롬프트 구문으로 유지하고, 생성하고자 하는 맞춤형 동작을 지정하기 위해 중간 문장만 변경하세요."
+    },
+    "pt": {
+      "content": "Use duas imagens como os PRIMEIROS e ÚLTIMOS quadros no Seedance 2.0 para gerar um vídeo intermediário de 10 a 15 segundos.  \nUse uma estrutura de prompt: Show what happens in between. [CUSTOM action description]. 5 different camera angles. No music.  \nMantenha Show what happens in between e 5 different camera angles como cláusulas padrão do prompt, e apenas altere a frase do meio para especificar a ação personalizada que você deseja gerar."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用两张图像作为第一个和最后一个帧，生成一个10-15秒的中间视频。  \n使用提示结构：Show what happens in between. [CUSTOM action description]. 5 different camera angles. No music.  \n保持Show what happens in between和5 different camera angles作为默认提示条款，只更改中间句子以指定您想生成的自定义动作。"
+    }
+  }
+}

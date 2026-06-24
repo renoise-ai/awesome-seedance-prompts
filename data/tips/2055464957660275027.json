@@ -1,0 +1,42 @@
+{
+  "id": "2055464957660275027",
+  "title": "Use GPTImage2 to generate character reference images and storyboard frames…",
+  "content": "Use GPTImage2 to generate character reference images and storyboard frames, then feed them into Seedance 2.0 as image reference + storyboard reference along with script prompts in a reference-to-video workflow (e.g., via ComfyUI/ComfyCloud).  \nBuild the final piece from multiple short renders (e.g., three 15-second generations) and assemble them in an editor (e.g., Premiere) instead of trying to generate one long video.  \nExpect later shots to need iterative “wrestling” (edits/assists) and use an additional tool like LTX 2.3 to refine or fix problematic renders before final assembly.  \nFor budget/time planning, target ~15 minutes and ~$2 per 15-second Seedance render to keep a 45-second spot near ~$6 in generation costs.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2055463798665048064/img/ERQVTB4fxNvwUuJy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2055464957660275027.mp4",
+  "sourceLink": "https://x.com/EnidPinxit/status/2055464957660275027",
+  "sourcePublishedAt": "2026-05-16",
+  "author": {
+    "name": "Enid Pinxit",
+    "link": "https://x.com/EnidPinxit"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use GPTImage2 to generate character reference images and storyboard frames, then feed them into Seedance 2.0 as image reference + storyboard reference along with script prompts in a reference-to-video workflow (e.g., via ComfyUI/ComfyCloud).  \nBuild the final piece from multiple short renders (e.g., three 15-second generations) and assemble them in an editor (e.g., Premiere) instead of trying to generate one long video.  \nExpect later shots to need iterative “wrestling” (edits/assists) and use an additional tool like LTX 2.3 to refine or fix problematic renders before final assembly.  \nFor budget/time planning, target ~15 minutes and ~$2 per 15-second Seedance render to keep a 45-second spot near ~$6 in generation costs.",
+  "translations": {
+    "es": {
+      "content": "Usa GPTImage2 para generar imágenes de referencia de personajes y fotogramas de storyboard, luego introdúcelos en Seedance 2.0 como referencia de imagen + referencia de storyboard junto con prompts de guion en un flujo de trabajo de referencia a video (por ejemplo, a través de ComfyUI/ComfyCloud).  \nConstruye la pieza final a partir de múltiples renders cortos (por ejemplo, tres generaciones de 15 segundos) y ensámblalos en un editor (por ejemplo, Premiere) en lugar de intentar generar un video largo.  \nEspera que los planos posteriores necesiten \"lucha\" iterativa (ediciones/asistencias) y utiliza una herramienta adicional como LTX 2.3 para refinar o corregir renders problemáticos antes del ensamblaje final.  \nPara la planificación de presupuesto/tiempo, apunta a ~15 minutos y ~$2 por render de 15 segundos de Seedance para mantener un spot de 45 segundos cerca de ~$6 en costos de generación."
+    },
+    "fr": {
+      "content": "Utilisez GPTImage2 pour générer des images de référence de personnages et des cadres de storyboard, puis intégrez-les dans Seedance 2.0 en tant que référence d'image + référence de storyboard avec des prompts de script dans un flux de travail de référence-à-vidéo (par exemple, via ComfyUI/ComfyCloud).  \nConstruisez la pièce finale à partir de plusieurs rendus courts (par exemple, trois générations de 15 secondes) et assemblez-les dans un éditeur (par exemple, Premiere) au lieu d'essayer de générer une longue vidéo.  \nAttendez-vous à ce que les plans ultérieurs nécessitent un \"combat\" itératif (modifications/assistances) et utilisez un outil supplémentaire comme LTX 2.3 pour affiner ou corriger les rendus problématiques avant l'assemblage final.  \nPour la planification du budget/temps, visez environ 15 minutes et environ 2 $ par rendu Seedance de 15 secondes pour maintenir un spot de 45 secondes à environ 6 $ en coûts de génération."
+    },
+    "ja": {
+      "content": "---\nGPTImage2を使用してキャラクターの参考画像やストーリーボードのフレームを生成し、それらをSeedance 2.0に画像参照＋ストーリーボード参照として、スクリプトプロンプトと共にリファレンス・トゥ・ビデオのワークフローで入力します（例：ComfyUI/ComfyCloud経由）。  \n最終作品は複数の短いレンダー（例：15秒の生成を3回）から構築し、長いビデオを生成しようとするのではなく、エディター（例：Premiere）で組み立てます。  \n後のショットは反復的な「格闘」（編集/アシスト）が必要になることを予想し、最終組み立て前に問題のあるレンダーを修正または改善するためにLTX 2.3のような追加ツールを使用します。  \n予算/時間の計画では、15分間で約15秒のSeedanceレンダーを約2ドルに設定し、45秒のスポットを生成コスト約6ドルに抑えることを目指します。  \n---"
+    },
+    "ko": {
+      "content": "---\nGPTImage2를 사용하여 캐릭터 참조 이미지와 스토리보드 프레임을 생성한 후, 이를 Seedance 2.0에 이미지 참조 + 스토리보드 참조로 입력하고 스크립트 프롬프트와 함께 참조-비디오 워크플로우로 활용하세요 (예: ComfyUI/ComfyCloud를 통해).  \n최종 작품은 여러 개의 짧은 렌더(예: 15초 생성 3개)로부터 제작하고, 하나의 긴 비디오를 생성하려고 하기보다는 편집기(예: Premiere)에서 조립하세요.  \n후반 샷은 반복적인 \"레슬링\"(편집/보조)이 필요할 수 있으며, 최종 조립 전에 LTX 2.3과 같은 추가 도구를 사용하여 문제 있는 렌더를 수정하거나 개선하세요.  \n예산/시간 계획을 위해, 15초 Seedance 렌더당 약 15분과 약 $2를 목표로 하여 45초 광고를 생성하는 데 드는 비용을 약 $6로 유지하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o GPTImage2 para gerar imagens de referência de personagens e quadros de storyboard, depois insira-os no Seedance 2.0 como referência de imagem + referência de storyboard junto com prompts de script em um fluxo de trabalho de referência-para-vídeo (por exemplo, via ComfyUI/ComfyCloud).  \nConstrua a peça final a partir de múltiplas renderizações curtas (por exemplo, três gerações de 15 segundos) e monte-as em um editor (por exemplo, Premiere) em vez de tentar gerar um vídeo longo.  \nEspere que tomadas posteriores precisem de \"luta\" iterativa (edições/assistências) e use uma ferramenta adicional como o LTX 2.3 para refinar ou corrigir renderizações problemáticas antes da montagem final.  \nPara planejamento de orçamento/tempo, mire em ~15 minutos e ~$2 por renderização de 15 segundos no Seedance para manter um spot de 45 segundos próximo de ~$6 em custos de geração."
+    },
+    "zh": {
+      "content": "使用GPTImage2生成角色参考图像和故事板帧，然后将它们与脚本提示一起输入Seedance 2.0，作为图像参考和故事板参考，在参考到视频的工作流程中使用（例如，通过ComfyUI/ComfyCloud）。  \n将最终作品从多个短渲染片段构建（例如，三个15秒的生成），并在编辑器中组装它们（例如，Premiere），而不是尝试生成一个长视频。  \n预计后期镜头需要反复“调整”（编辑/辅助），并使用像LTX 2.3这样的附加工具在最终组装前优化或修复有问题的渲染。  \n在预算/时间规划中，目标是每15秒的Seedance渲染约15分钟和约2美元，以保持45秒的广告生成成本接近6美元。"
+    }
+  }
+}

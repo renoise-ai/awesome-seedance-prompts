@@ -1,0 +1,43 @@
+{
+  "id": "2059767591892398188",
+  "title": "Construye primero un storyboard en un canvas tipo Figma (Topview Canvas) antes…",
+  "content": "Construye primero un storyboard en un canvas tipo Figma (Topview Canvas) antes de generar video, para definir escenas y flujo antes de animar.  \nRefina cada escena dentro del canvas (ajusta composición/orden) antes de enviarla a Seedance 2.0 para la generación final.  \nTrabaja el flujo/narrativa con un agente dentro de Topview Canvas y luego exporta/envía el storyboard completo a Seedance 2.0 como pipeline de producción.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059767532639379456/img/VirDy0Jb0LUEdIYh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2059767591892398188.mp4",
+  "sourceLink": "https://x.com/ecommartinez/status/2059767591892398188",
+  "sourcePublishedAt": "2026-05-27",
+  "author": {
+    "name": "Alejo",
+    "link": "https://x.com/ecommartinez"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Construye primero un storyboard en un canvas tipo Figma (Topview Canvas) antes de generar video, para definir escenas y flujo antes de animar.  \nRefina cada escena dentro del canvas (ajusta composición/orden) antes de enviarla a Seedance 2.0 para la generación final.  \nTrabaja el flujo/narrativa con un agente dentro de Topview Canvas y luego exporta/envía el storyboard completo a Seedance 2.0 como pipeline de producción.",
+  "translations": {
+    "en": {
+      "content": "First, build a storyboard on a Figma-type canvas (Topview Canvas) before generating video, to define scenes and flow before animating.  \nRefine each scene within the canvas (adjust composition/order) before sending it to Seedance 2.0 for final generation.  \nWork on the flow/narrative with an agent within Topview Canvas and then export/send the complete storyboard to Seedance 2.0 as a production pipeline."
+    },
+    "fr": {
+      "content": "Commencez par construire un storyboard sur un canvas de type Figma (Topview Canvas) avant de générer la vidéo, afin de définir les scènes et le flux avant d'animer.  \nAffinez chaque scène dans le canvas (ajustez la composition/l'ordre) avant de l'envoyer à Seedance 2.0 pour la génération finale.  \nTravaillez le flux/la narration avec un agent dans Topview Canvas puis exportez/envoyez le storyboard complet à Seedance 2.0 comme pipeline de production."
+    },
+    "ja": {
+      "content": "---\nビデオを生成する前に、まずFigmaタイプのキャンバス（Topview Canvas）でストーリーボードを作成し、シーンとフローを定義します。  \nアニメーション化する前に、キャンバス内で各シーンを洗練させ（構図/順序を調整）、最終生成のためにSeedance 2.0に送信します。  \nTopview Canvas内でエージェントと共にフロー/ナラティブを作業し、その後、ストーリーボード全体をSeedance 2.0に生産パイプラインとしてエクスポート/送信します。\n---"
+    },
+    "ko": {
+      "content": "비디오를 생성하기 전에 Figma 유형의 캔버스(Topview Canvas)에서 먼저 스토리보드를 구축하여 장면과 흐름을 정의하세요.  \n애니메이션을 시작하기 전에 캔버스 내에서 각 장면을 정교하게 다듬고(구성/순서 조정) Seedance 2.0에 최종 생성용으로 보냅니다.  \nTopview Canvas 내에서 에이전트와 함께 흐름/서사를 작업한 후 전체 스토리보드를 Seedance 2.0에 생산 파이프라인으로 내보내거나 전송하세요."
+    },
+    "pt": {
+      "content": "Primeiro, construa um storyboard em um canvas tipo Figma (Topview Canvas) antes de gerar o vídeo, para definir cenas e fluxo antes de animar.  \nRefine cada cena dentro do canvas (ajuste composição/ordem) antes de enviá-la para o Seedance 2.0 para a geração final.  \nTrabalhe o fluxo/narrativa com um agente dentro do Topview Canvas e depois exporte/envie o storyboard completo para o Seedance 2.0 como pipeline de produção."
+    },
+    "zh": {
+      "content": "在生成视频之前，先在类似Figma的画布（Topview Canvas）上构建一个故事板，以便在动画制作前定义场景和流程。  \n在将其发送到Seedance 2.0进行最终生成之前，在画布内优化每个场景（调整构图/顺序）。  \n在Topview Canvas中与代理一起处理流程/叙述，然后将完整的故事板导出/发送到Seedance 2.0作为生产管道。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2068715987004961244",
+  "title": "ChatGPTで雑学アニメの台本と構成を作り、ネタ選び・カット割り・ナレーション原稿まで壁打ちして固めてからSeedanceに回す",
+  "content": "ChatGPTで雑学アニメの台本と構成を作り、ネタ選び・カット割り・ナレーション原稿まで壁打ちして固めてからSeedanceに回す  \nイメージ2.0でアニメ調のキャラと背景を生成し、キャラは参照画像で固定してSeedance 2.0の動画化に使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2068703331158290434/img/aZic9OY28DBQXBGf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2068715987004961244.mp4",
+  "sourceLink": "https://x.com/mov_nakanohito/status/2068715987004961244",
+  "sourcePublishedAt": "2026-06-21",
+  "author": {
+    "name": "P@動画編集の中の人",
+    "link": "https://x.com/mov_nakanohito"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ChatGPTで雑学アニメの台本と構成を作り、ネタ選び・カット割り・ナレーション原稿まで壁打ちして固めてからSeedanceに回す  \nイメージ2.0でアニメ調のキャラと背景を生成し、キャラは参照画像で固定してSeedance 2.0の動画化に使う",
+  "translations": {
+    "en": {
+      "content": "Create the script and structure for a trivia anime using ChatGPT, finalize the topic selection, shot breakdown, and narration script through brainstorming, and then pass it to Seedance.  \nGenerate anime-style characters and backgrounds with Image 2.0, fix the characters using reference images, and use them for video production with Seedance 2.0."
+    },
+    "es": {
+      "content": "Crear el guion y la estructura de un anime de trivia con ChatGPT, eligiendo los temas, dividiendo las escenas y afinando el guion de la narración antes de pasarlo a Seedance.  \nGenerar personajes y fondos de estilo anime con Imagen 2.0, fijando los personajes con imágenes de referencia para usarlos en la creación de videos con Seedance 2.0."
+    },
+    "fr": {
+      "content": "Créer le script et la structure d'un anime de trivia avec ChatGPT, en affinant le choix des sujets, le découpage des scènes et le script de la narration avant de le passer à Seedance.  \nGénérer des personnages et des arrière-plans de style anime avec Image 2.0, en fixant les personnages à l'aide d'images de référence pour les utiliser dans la création de vidéos avec Seedance 2.0."
+    },
+    "ko": {
+      "content": "ChatGPT에서 잡학 애니메이션의 대본과 구성을 만들고, 주제 선택, 카메라 컷, 내레이션 원고까지 벽치기를 통해 확정한 후 Seedance에 넘긴다  \n이미지 2.0으로 애니메이션 스타일의 캐릭터와 배경을 생성하고, 캐릭터는 참조 이미지를 통해 고정하여 Seedance 2.0의 영상화에 사용한다"
+    },
+    "pt": {
+      "content": "Crie o roteiro e a estrutura de um anime de curiosidades no ChatGPT, escolha os temas, divida as cenas e finalize o script de narração antes de passar para o Seedance.  \nUse o Imagem 2.0 para gerar personagens e cenários em estilo anime, fixando os personagens com imagens de referência para usar na criação de vídeos com o Seedance 2.0."
+    },
+    "zh": {
+      "content": "在ChatGPT中制作杂学动画的脚本和结构，从选择主题、分镜设计到旁白稿件都经过反复推敲后再交给Seedance。  \n使用Image 2.0生成动画风格的角色和背景，角色通过参考图像固定，然后用于Seedance 2.0的视频化。"
+    }
+  }
+}

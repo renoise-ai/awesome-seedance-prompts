@@ -1,0 +1,42 @@
+{
+  "id": "2054569972178010407",
+  "title": "Upload a product photo, generate a storyboard from it, then use Seedance 2.0 to…",
+  "content": "Upload a product photo, generate a storyboard from it, then use Seedance 2.0 to turn the storyboard into a cinematic commercial.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054569918499291136/img/bmwl5BK8lAfKnFcG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054569972178010407.mp4",
+  "sourceLink": "https://x.com/HeyAbhishek/status/2054569972178010407",
+  "sourcePublishedAt": "2026-05-13",
+  "author": {
+    "name": "Abhishek",
+    "link": "https://x.com/HeyAbhishek"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload a product photo, generate a storyboard from it, then use Seedance 2.0 to turn the storyboard into a cinematic commercial.",
+  "translations": {
+    "es": {
+      "content": "Sube una foto del producto, genera un storyboard a partir de ella y luego utiliza Seedance 2.0 para convertir el storyboard en un comercial cinematográfico."
+    },
+    "fr": {
+      "content": "Téléchargez une photo de produit, générez un storyboard à partir de celle-ci, puis utilisez Seedance 2.0 pour transformer le storyboard en une publicité cinématographique."
+    },
+    "ja": {
+      "content": "製品写真をアップロードし、それからストーリーボードを生成し、Seedance 2.0を使用してそのストーリーボードをシネマティックなコマーシャルに変換します。"
+    },
+    "ko": {
+      "content": "제품 사진을 업로드하고, 이를 바탕으로 스토리보드를 생성한 후, Seedance 2.0을 사용하여 스토리보드를 시네마틱 광고로 변환하세요."
+    },
+    "pt": {
+      "content": "Carregue uma foto do produto, gere um storyboard a partir dela e, em seguida, use o Seedance 2.0 para transformar o storyboard em um comercial cinematográfico."
+    },
+    "zh": {
+      "content": "上传产品照片，从中生成分镜头脚本，然后使用Seedance 2.0将分镜头脚本转化为电影级商业广告。"
+    }
+  }
+}

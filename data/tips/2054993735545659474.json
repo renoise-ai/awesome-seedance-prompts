@@ -1,0 +1,41 @@
+{
+  "id": "2054993735545659474",
+  "title": "Use a single OpenAI GPT Image 2.0 character sheet as the reference input to…",
+  "content": "Use a single OpenAI GPT Image 2.0 character sheet as the reference input to generate a multi-shot cinematic sequence in Seedance 2.0 for improved character consistency.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2054990417406590976/img/F2B8i_Trhr7asXoC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2054993735545659474.mp4",
+  "sourceLink": "https://x.com/CuriousRefuge/status/2054993735545659474",
+  "sourcePublishedAt": "2026-05-14",
+  "author": {
+    "name": "Curious Refuge",
+    "link": "https://x.com/CuriousRefuge"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "Use a single OpenAI GPT Image 2.0 character sheet as the reference input to generate a multi-shot cinematic sequence in Seedance 2.0 for improved character consistency.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una sola hoja de personaje de OpenAI GPT Image 2.0 como referencia de entrada para generar una secuencia cinematográfica de múltiples tomas en Seedance 2.0 para mejorar la consistencia del personaje."
+    },
+    "fr": {
+      "content": "Utilisez une seule feuille de personnage OpenAI GPT Image 2.0 comme référence d'entrée pour générer une séquence cinématographique multi-shot dans Seedance 2.0 pour améliorer la cohérence des personnages."
+    },
+    "ja": {
+      "content": "Seedance 2.0でキャラクターの一貫性を向上させるために、単一のOpenAI GPT Image 2.0キャラクターシートを参照入力として使用し、マルチショットのシネマティックシーケンスを生成します。"
+    },
+    "ko": {
+      "content": "OpenAI GPT Image 2.0 캐릭터 시트를 참조 입력으로 사용하여 Seedance 2.0에서 멀티 샷 시네마틱 시퀀스를 생성하여 캐릭터 일관성을 향상시킵니다."
+    },
+    "pt": {
+      "content": "Use uma única folha de personagem do OpenAI GPT Image 2.0 como referência de entrada para gerar uma sequência cinematográfica de múltiplas tomadas no Seedance 2.0, visando melhorar a consistência do personagem."
+    },
+    "zh": {
+      "content": "使用一个OpenAI GPT Image 2.0角色表作为参考输入，在Seedance 2.0中生成多镜头cinematic序列，以提高角色一致性。"
+    }
+  }
+}

@@ -10,6 +10,13 @@
     "name": "AIVersePlay",
     "link": "https://x.com/AIVersePlay"
   },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
   "tips": "Set aspect ratio to 9:16 vertical and explicitly say it’s optimized for TikTok/Instagram Reels/YouTube Shorts to get the right framing.\n\nSpecify a target duration (e.g., 12–15 seconds) in the prompt to control clip length.\n\nUse a shot-by-shot prompt (Camera shot 1…8 + Final shot) describing camera angles, transitions, and movement to structure the video like a storyboard.\n\nMix camera styles in the prompt (e.g., high-end action camera + 85mm cinematic shots) to guide lens/footage aesthetics.\n\nAdd explicit camera movement instructions (slow push-in, wide shot, underwater transition, tracking shot, underwater glide; “no shaky camera unless naturally underwater”) to stabilize motion.\n\nInclude realism/physics constraints (realistic water physics, bubbles, underwater caustics, physically accurate movement) to reduce “AI-looking” artifacts.\n\nLock character/prop consistency by specifying gear details and adding negatives like inconsistent character, changing wetsuit, changing boat, missing scuba tank, incorrect diving gear.\n\nUse safety/behavior rules as hard constraints (proper giant stride entry; hold mask and regulator; no backflip; no panic) to prevent unwanted actions.\n\nControl animal interaction by stating ethical constraints (dolphin approaches voluntarily; no chasing/grabbing/riding/harming) to avoid problematic behavior.\n\nAdd a detailed negative prompt list (e.g., low quality, blurry, CGI look, unrealistic water, bad anatomy, extra limbs, logos/watermarks/subtitles, glitch/flicker) to suppress common failure modes.",
   "translations": {
     "en": {

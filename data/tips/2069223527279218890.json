@@ -1,0 +1,45 @@
+{
+  "id": "2069223527279218890",
+  "title": "Set your Seedance prompt to a 15-second cinematic sequence at 24fps to lock…",
+  "content": "Set your Seedance prompt to a 15-second cinematic sequence at 24fps to lock timing and motion cadence.  \nAdd ARRI/RED camera look + anamorphic lenses + shallow depth of field + natural motion blur to push a live-action cinematic aesthetic.  \nInclude stadium broadcast realism + realistic physics + physically accurate ball movement and collisions to improve sports-action believability.  \nSpecify strict character identity consistency across all frames to keep the main subject consistent across shots.  \nUse a second-by-second storyboard (e.g., [0–2s], [2–4s], etc.) inside the prompt to control shot progression and pacing across the 15 seconds.  \nCall out specific shot types and camera moves per segment (aerial drone dive, extreme close-up with pullback, low tracking follow, ultra slow-motion strike, wide crowd shot, quick cuts) to guide Seedance cinematography.  \nAdd concrete realism constraints (natural skin texture with pores, sweat realism, no CGI look, no animation artifacts) to reduce synthetic artifacts.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069129276180631552/img/xlq4auI3JpIt3ctY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069223527279218890.mp4",
+  "sourceLink": "https://x.com/ShamiWeb3/status/2069223527279218890",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "Shami",
+    "link": "https://x.com/ShamiWeb3"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "FPV & Aerial",
+    "Macro",
+    "Slow-Mo"
+  ],
+  "tips": "Set your Seedance prompt to a 15-second cinematic sequence at 24fps to lock timing and motion cadence.  \nAdd ARRI/RED camera look + anamorphic lenses + shallow depth of field + natural motion blur to push a live-action cinematic aesthetic.  \nInclude stadium broadcast realism + realistic physics + physically accurate ball movement and collisions to improve sports-action believability.  \nSpecify strict character identity consistency across all frames to keep the main subject consistent across shots.  \nUse a second-by-second storyboard (e.g., [0–2s], [2–4s], etc.) inside the prompt to control shot progression and pacing across the 15 seconds.  \nCall out specific shot types and camera moves per segment (aerial drone dive, extreme close-up with pullback, low tracking follow, ultra slow-motion strike, wide crowd shot, quick cuts) to guide Seedance cinematography.  \nAdd concrete realism constraints (natural skin texture with pores, sweat realism, no CGI look, no animation artifacts) to reduce synthetic artifacts.",
+  "translations": {
+    "es": {
+      "content": "Configura tu prompt de Seedance para una secuencia cinematográfica de 15 segundos a 24fps para fijar el tiempo y la cadencia del movimiento.  \nAñade un look de cámara ARRI/RED + lentes anamórficas + poca profundidad de campo + desenfoque de movimiento natural para impulsar una estética cinematográfica de acción en vivo.  \nIncluye realismo de transmisión de estadio + física realista + movimiento y colisiones de balón físicamente precisos para mejorar la credibilidad de la acción deportiva.  \nEspecifica una consistencia estricta de identidad de personaje en todos los fotogramas para mantener al sujeto principal consistente en todos los planos.  \nUtiliza un guion gráfico segundo a segundo (por ejemplo, [0–2s], [2–4s], etc.) dentro del prompt para controlar la progresión de los planos y el ritmo a lo largo de los 15 segundos.  \nMenciona tipos de planos específicos y movimientos de cámara por segmento (inmersión de dron aéreo, primerísimo plano con retroceso, seguimiento bajo, golpeo en cámara lenta ultra, plano amplio de la multitud, cortes rápidos) para guiar la cinematografía de Seedance.  \nAñade restricciones de realismo concreto (textura natural de la piel con poros, realismo del sudor, sin apariencia de CGI, sin artefactos de animación) para reducir los artefactos sintéticos.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @kinovi_ai Hoja de Guion Gráfico https://t.co/OjdqWj1EN3"
+    },
+    "fr": {
+      "content": "Réglez votre prompt Seedance sur une séquence cinématographique de 15 secondes à 24fps pour verrouiller le timing et le rythme du mouvement.  \nAjoutez un look caméra ARRI/RED + objectifs anamorphiques + faible profondeur de champ + flou de mouvement naturel pour renforcer une esthétique cinématographique en prise de vue réelle.  \nIncluez un réalisme de diffusion de stade + une physique réaliste + un mouvement de balle et des collisions physiquement précis pour améliorer la crédibilité de l'action sportive.  \nSpécifiez une cohérence stricte de l'identité des personnages sur tous les plans pour maintenir le sujet principal cohérent à travers les prises.  \nUtilisez un storyboard seconde par seconde (par exemple, [0–2s], [2–4s], etc.) dans le prompt pour contrôler la progression des prises et le rythme sur les 15 secondes.  \nIndiquez des types de prises de vue spécifiques et des mouvements de caméra par segment (plongée de drone aérien, gros plan extrême avec recul, suivi bas en mouvement, frappe au ralenti ultra, plan large de la foule, coupes rapides) pour guider la cinématographie Seedance.  \nAjoutez des contraintes de réalisme concret (texture de peau naturelle avec pores, réalisme de la sueur, pas d'aspect CGI, pas d'artefacts d'animation) pour réduire les artefacts synthétiques.\n\n--- SUITE DU FIL ---\n[Fil 1] @kinovi_ai Feuille de Storyboard https://t.co/OjdqWj1EN3"
+    },
+    "ja": {
+      "content": "---\nSeedanceのプロンプトを15秒のシネマティックシーケンスに設定し、24fpsでタイミングと動きのリズムを固定します。  \nARRI/REDカメラのルック + アナモルフィックレンズ + 浅い被写界深度 + 自然なモーションブラーを追加して、実写のシネマティックな美学を推進します。  \nスタジアム放送のリアリズム + 現実的な物理学 + 物理的に正確なボールの動きと衝突を含めて、スポーツアクションの信憑性を向上させます。  \nすべてのフレームでキャラクターのアイデンティティの一貫性を厳密に指定し、ショット全体でメインの被写体を一貫させます。  \nプロンプト内で秒ごとのストーリーボード（例：[0–2s], [2–4s], など）を使用して、15秒間のショットの進行とペースを制御します。  \n各セグメントごとに特定のショットタイプとカメラの動きを指定（空撮ドローンダイブ、極端なクローズアップと引き、低い追跡フォロー、超スローモーションストライク、広い観客ショット、クイックカット）して、Seedanceの撮影をガイドします。  \n具体的なリアリズムの制約（自然な肌の質感と毛穴、汗のリアリズム、CGIルックなし、アニメーションのアーティファクトなし）を追加して、合成アーティファクトを減少させます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @kinovi_ai ストーリーボードシート https://t.co/OjdqWj1EN3\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 프롬프트를 24fps의 15초 시네마틱 시퀀스로 설정하여 타이밍과 모션 리듬을 고정하세요.  \nARRI/RED 카메라 룩 + 아나모픽 렌즈 + 얕은 심도 + 자연스러운 모션 블러를 추가하여 실사 시네마틱 미학을 강화하세요.  \n경기장 방송의 현실감 + 현실적인 물리학 + 물리적으로 정확한 공의 움직임과 충돌을 포함하여 스포츠 액션의 신뢰성을 높이세요.  \n모든 프레임에서 엄격한 캐릭터 정체성 일관성을 지정하여 주요 피사체가 샷 전반에 걸쳐 일관되도록 유지하세요.  \n프롬프트 내에 초 단위 스토리보드(예: [0–2s], [2–4s] 등)를 사용하여 15초 동안 샷 진행과 속도를 제어하세요.  \n각 세그먼트별로 특정 샷 유형과 카메라 움직임(공중 드론 다이브, 극단적 클로즈업 후 풀백, 낮은 추적 팔로우, 초슬로모션 스트라이크, 넓은 군중 샷, 빠른 컷)을 명시하여 Seedance 촬영을 안내하세요.  \n구체적인 현실감 제약(자연스러운 피부 질감과 모공, 땀의 현실감, CGI 룩 없음, 애니메이션 아티팩트 없음)을 추가하여 합성 아티팩트를 줄이세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @kinovi_ai 스토리보드 시트 https://t.co/OjdqWj1EN3\n---"
+    },
+    "pt": {
+      "content": "Configure seu prompt Seedance para uma sequência cinematográfica de 15 segundos a 24fps para fixar o tempo e a cadência do movimento.  \nAdicione aparência de câmera ARRI/RED + lentes anamórficas + profundidade de campo rasa + desfoque de movimento natural para impulsionar uma estética cinematográfica de ação ao vivo.  \nInclua realismo de transmissão de estádio + física realista + movimento e colisões de bola fisicamente precisos para melhorar a credibilidade da ação esportiva.  \nEspecifique consistência estrita de identidade de personagem em todos os quadros para manter o sujeito principal consistente em todas as tomadas.  \nUse um storyboard segundo a segundo (por exemplo, [0–2s], [2–4s], etc.) dentro do prompt para controlar a progressão e o ritmo das tomadas ao longo dos 15 segundos.  \nIndique tipos específicos de tomadas e movimentos de câmera por segmento (mergulho de drone aéreo, close-up extremo com recuo, acompanhamento de rastreamento baixo, golpe em ultra câmera lenta, tomada ampla da multidão, cortes rápidos) para guiar a cinematografia Seedance.  \nAdicione restrições de realismo concreto (textura natural da pele com poros, realismo do suor, sem aparência de CGI, sem artefatos de animação) para reduzir artefatos sintéticos.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] @kinovi_ai Folha de Storyboard https://t.co/OjdqWj1EN3"
+    },
+    "zh": {
+      "content": "将您的Seedance提示设置为15秒的电影序列，帧率为24fps，以锁定时间和运动节奏。  \n添加ARRI/RED相机外观 + 变形镜头 + 浅景深 + 自然运动模糊，以增强真人电影美学。  \n包括体育场广播的现实感 + 真实的物理效果 + 物理准确的球运动和碰撞，以提高体育动作的可信度。  \n在所有帧中指定严格的角色身份一致性，以保持主要对象在镜头中的一致性。  \n在提示中使用逐秒分镜表（例如，[0–2s]，[2–4s]，等）来控制镜头进展和15秒内的节奏。  \n在每个片段中指出特定的镜头类型和相机移动（航拍无人机俯冲、极端特写后拉、低位跟踪跟随、超慢动作击打、广角人群镜头、快速剪辑）以指导Seedance的电影摄影。  \n添加具体的现实主义约束（自然的皮肤纹理和毛孔、汗水的真实感、无CGI外观、无动画伪影）以减少合成伪影。\n\n--- 线程继续 ---\n[线程1] @kinovi_ai 分镜表 https://t.co/OjdqWj1EN3"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2062518907098013841",
+  "title": "Use a gpt-image-2 image as the starting frame and add a path in Seedance 2.0 to…",
+  "content": "Use a gpt-image-2 image as the starting frame and add a path in Seedance 2.0 to generate a POV perspective video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062518114777206784/img/Bqr6rspQGQ21dwju.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2062518907098013841.mp4",
+  "sourceLink": "https://x.com/pound75423/status/2062518907098013841",
+  "sourcePublishedAt": "2026-06-04",
+  "author": {
+    "name": "Good FortuneX",
+    "link": "https://x.com/pound75423"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Use a gpt-image-2 image as the starting frame and add a path in Seedance 2.0 to generate a POV perspective video.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una imagen de gpt-image-2 como el fotograma inicial y añade un camino en Seedance 2.0 para generar un video en perspectiva POV."
+    },
+    "fr": {
+      "content": "Utilisez une image gpt-image-2 comme cadre de départ et ajoutez un chemin dans Seedance 2.0 pour générer une vidéo en perspective POV."
+    },
+    "ja": {
+      "content": "---\ngpt-image-2の画像を開始フレームとして使用し、Seedance 2.0でパスを追加してPOV視点のビデオを生成します。"
+    },
+    "ko": {
+      "content": "gpt-image-2 이미지를 시작 프레임으로 사용하고 Seedance 2.0에서 경로를 추가하여 POV 시점의 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use uma imagem gpt-image-2 como o quadro inicial e adicione um caminho no Seedance 2.0 para gerar um vídeo em perspectiva POV."
+    },
+    "zh": {
+      "content": "使用gpt-image-2图像作为起始帧，并在Seedance 2.0中添加路径以生成POV视角视频。"
+    }
+  }
+}

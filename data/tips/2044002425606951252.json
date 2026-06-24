@@ -1,0 +1,42 @@
+{
+  "id": "2044002425606951252",
+  "title": "Create an infographic/collage canvas and keep each realistic face image small…",
+  "content": "Create an infographic/collage canvas and keep each realistic face image small so Seedance’s face detector doesn’t trigger (≈200 px max face size in a 2K image; ≈800 px max in a 6K image).  \nSurround face images with text/instructions so Seedance interprets the upload as an infographic rather than a person photo, allowing the realistic image filter to work.  \nUse a single 6K collage with multiple small labeled reference images (name under each) and reference them in Omni mode as if they were separately uploaded images.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/voxelplot/status/2044002425606951252",
+  "sourcePublishedAt": "2026-04-14",
+  "author": {
+    "name": "VoxelPlot",
+    "link": "https://x.com/voxelplot"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Create an infographic/collage canvas and keep each realistic face image small so Seedance’s face detector doesn’t trigger (≈200 px max face size in a 2K image; ≈800 px max in a 6K image).  \nSurround face images with text/instructions so Seedance interprets the upload as an infographic rather than a person photo, allowing the realistic image filter to work.  \nUse a single 6K collage with multiple small labeled reference images (name under each) and reference them in Omni mode as if they were separately uploaded images.",
+  "translations": {
+    "es": {
+      "content": "Crea un lienzo de infografía/collage y mantén cada imagen de rostro realista pequeña para que el detector de rostros de Seedance no se active (tamaño máximo de rostro ≈200 px en una imagen de 2K; ≈800 px máximo en una imagen de 6K).  \nRodea las imágenes de rostros con texto/instrucciones para que Seedance interprete la carga como una infografía en lugar de una foto de persona, permitiendo que el filtro de imagen realista funcione.  \nUsa un solo collage de 6K con múltiples imágenes de referencia pequeñas etiquetadas (nombre debajo de cada una) y refiérete a ellas en modo Omni como si fueran imágenes cargadas por separado."
+    },
+    "fr": {
+      "content": "Créez une toile d'infographie/collage et gardez chaque image de visage réaliste petite pour que le détecteur de visage de Seedance ne se déclenche pas (taille de visage max ≈200 px dans une image 2K ; ≈800 px max dans une image 6K).  \nEntourez les images de visage avec du texte/instructions pour que Seedance interprète le téléchargement comme une infographie plutôt qu'une photo de personne, permettant ainsi au filtre d'image réaliste de fonctionner.  \nUtilisez un seul collage 6K avec plusieurs petites images de référence étiquetées (nom en dessous de chacune) et référencez-les en mode Omni comme s'il s'agissait d'images téléchargées séparément."
+    },
+    "ja": {
+      "content": "---\nインフォグラフィック/コラージュキャンバスを作成し、Seedanceの顔検出器が反応しないように各リアルな顔画像を小さく保ちます（2K画像では顔サイズ最大約200ピクセル、6K画像では最大約800ピクセル）。  \n顔画像をテキスト/指示で囲み、Seedanceがアップロードを人物写真ではなくインフォグラフィックとして解釈するようにし、リアルな画像フィルターが機能するようにします。  \n複数の小さなラベル付き参照画像（各画像の下に名前を記載）を持つ単一の6Kコラージュを使用し、それらを別々にアップロードされた画像であるかのようにOmniモードで参照します。\n---"
+    },
+    "ko": {
+      "content": "인포그래픽/콜라주 캔버스를 만들고, Seedance의 얼굴 감지기가 작동하지 않도록 각 현실적인 얼굴 이미지를 작게 유지하세요 (2K 이미지에서는 얼굴 크기 최대 약 200px; 6K 이미지에서는 최대 약 800px).  \n얼굴 이미지를 텍스트/지침으로 둘러싸 Seedance가 업로드를 인포그래픽으로 해석하게 하여, 현실적인 이미지 필터가 작동하도록 하세요.  \n여러 개의 작은 레이블이 붙은 참조 이미지를 포함한 단일 6K 콜라주를 사용하고, 각각의 이름을 아래에 적어 놓고, Omni 모드에서 별도로 업로드된 이미지인 것처럼 참조하세요."
+    },
+    "pt": {
+      "content": "Crie uma tela de infográfico/colagem e mantenha cada imagem de rosto realista pequena para que o detector de rostos do Seedance não seja acionado (tamanho máximo do rosto de ≈200 px em uma imagem 2K; ≈800 px máximo em uma imagem 6K).  \nCerque as imagens de rosto com texto/instruções para que o Seedance interprete o upload como um infográfico em vez de uma foto de pessoa, permitindo que o filtro de imagem realista funcione.  \nUse uma única colagem 6K com várias pequenas imagens de referência rotuladas (nome embaixo de cada uma) e faça referência a elas no modo Omni como se fossem imagens carregadas separadamente."
+    },
+    "zh": {
+      "content": "创建信息图/拼贴画画布，并保持每个真实面部图像较小，以免触发Seedance的面部检测（在2K图像中面部最大尺寸约为200像素；在6K图像中最大约为800像素）。  \n在面部图像周围添加文本/说明，使Seedance将上传内容解释为信息图而非人物照片，从而使真实图像过滤器正常工作。  \n使用单个6K拼贴画，其中包含多个小型标记参考图像（每个图像下方标注名称），并在Omni模式中引用它们，就像它们是分别上传的图像一样。"
+    }
+  }
+}
