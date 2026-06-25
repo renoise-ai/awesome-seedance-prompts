@@ -1,0 +1,41 @@
+{
+  "id": "2069353587323314256",
+  "title": "Upload your own reference images in Seedance to guide the generated video’s…",
+  "content": "Upload your own reference images in Seedance to guide the generated video’s look/style.\n\nSpecify camera framing and angle explicitly (e.g., high-angle aerial view looking down) to control composition.\n\nDescribe each character separately with clear identifiers (CENTER/LEFT/RIGHT) and detailed attributes (skin tone, hair, clothing, pose) to keep multiple subjects consistent.\n\nInclude an explicit constraint like All three characters are fully visible from head to toe, evenly spaced, facing forward to enforce full-body framing and spacing.\n\nAdd style directives (studio anime art style, clean bold ink outlines, flat cel-shading, vibrant colors, 2D animation style, no realism) to lock the visual style.\n\nTo include more characters, extend the prompt by adding additional labeled character blocks with the same level of detail.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/CartoonverseAi/status/2069353587323314256",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "Cartoonverse AI",
+    "link": "https://x.com/CartoonverseAi"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload your own reference images in Seedance to guide the generated video’s look/style.\n\nSpecify camera framing and angle explicitly (e.g., high-angle aerial view looking down) to control composition.\n\nDescribe each character separately with clear identifiers (CENTER/LEFT/RIGHT) and detailed attributes (skin tone, hair, clothing, pose) to keep multiple subjects consistent.\n\nInclude an explicit constraint like All three characters are fully visible from head to toe, evenly spaced, facing forward to enforce full-body framing and spacing.\n\nAdd style directives (studio anime art style, clean bold ink outlines, flat cel-shading, vibrant colors, 2D animation style, no realism) to lock the visual style.\n\nTo include more characters, extend the prompt by adding additional labeled character blocks with the same level of detail.",
+  "translations": {
+    "es": {
+      "content": "Sube tus propias imágenes de referencia en Seedance para guiar el aspecto/estilo del video generado.\n\nEspecifica el encuadre y ángulo de la cámara explícitamente (por ejemplo, vista aérea en ángulo alto mirando hacia abajo) para controlar la composición.\n\nDescribe cada personaje por separado con identificadores claros (CENTRO/IZQUIERDA/DERECHA) y atributos detallados (tono de piel, cabello, vestimenta, pose) para mantener la consistencia entre múltiples sujetos.\n\nIncluye una restricción explícita como Los tres personajes son completamente visibles de pies a cabeza, equidistantes, mirando hacia adelante para asegurar un encuadre de cuerpo completo y espaciado.\n\nAñade directrices de estilo (estilo de arte anime de estudio, contornos de tinta limpios y audaces, sombreado plano tipo cel, colores vibrantes, estilo de animación 2D, sin realismo) para fijar el estilo visual.\n\nPara incluir más personajes, extiende el prompt añadiendo bloques de personajes etiquetados adicionales con el mismo nivel de detalle."
+    },
+    "fr": {
+      "content": "Téléchargez vos propres images de référence dans Seedance pour guider l'apparence/le style de la vidéo générée.\n\nSpécifiez explicitement le cadrage et l'angle de la caméra (par exemple, vue aérienne en plongée) pour contrôler la composition.\n\nDécrivez chaque personnage séparément avec des identifiants clairs (CENTRE/GAUCHE/DROITE) et des attributs détaillés (teint de peau, cheveux, vêtements, pose) pour maintenir la cohérence entre plusieurs sujets.\n\nIncluez une contrainte explicite comme Les trois personnages sont entièrement visibles de la tête aux pieds, espacés uniformément, face à l'avant pour imposer un cadrage et un espacement en plein corps.\n\nAjoutez des directives de style (style artistique anime de studio, contours d'encre nets et audacieux, ombrage plat en celluloïd, couleurs vives, style d'animation 2D, pas de réalisme) pour verrouiller le style visuel.\n\nPour inclure plus de personnages, étendez le prompt en ajoutant des blocs de personnages supplémentaires étiquetés avec le même niveau de détail."
+    },
+    "ja": {
+      "content": "Seedanceに自分の参照画像をアップロードして、生成されるビデオの外観/スタイルをガイドします。\n\n構図を制御するために、カメラのフレーミングと角度を明確に指定します（例：高角度の空撮ビューで下を見下ろす）。\n\n各キャラクターを個別に、明確な識別子（CENTER/LEFT/RIGHT）と詳細な属性（肌の色、髪、服装、ポーズ）で説明し、複数の被写体を一貫させます。\n\n全身フレーミングと間隔を強制するために、すべてのキャラクターが頭からつま先まで完全に見え、均等に配置され、前を向いているなどの明確な制約を含めます。\n\nビジュアルスタイルを固定するために、スタイル指示（スタジオアニメアートスタイル、クリーンで太いインクの輪郭、フラットなセルシェーディング、鮮やかな色、2Dアニメーションスタイル、リアリズムなし）を追加します。\n\nより多くのキャラクターを含めるには、同じレベルの詳細で追加のラベル付きキャラクターブロックを追加してプロンプトを拡張します。"
+    },
+    "ko": {
+      "content": "Seedance에 자신의 참조 이미지를 업로드하여 생성된 비디오의 외관/스타일을 안내하세요.\n\n구도를 제어하기 위해 카메라 프레이밍과 각도를 명확하게 지정하세요 (예: 하이 앵글 항공 뷰로 내려다보는 시점).\n\n각 캐릭터를 명확한 식별자(CENTER/LEFT/RIGHT)와 세부 속성(피부 톤, 머리, 의상, 자세)으로 개별적으로 설명하여 여러 주제를 일관되게 유지하세요.\n\n모든 세 캐릭터가 머리부터 발끝까지 완전히 보이고, 균등하게 간격을 두고, 정면을 향하고 있다는 명시적 제약을 포함하여 전신 프레이밍과 간격을 강제하세요.\n\n시각적 스타일을 고정하기 위해 스타일 지시사항(스튜디오 애니메이션 아트 스타일, 깨끗하고 굵은 잉크 윤곽선, 평면 셀 셰이딩, 생생한 색상, 2D 애니메이션 스타일, 사실주의 없음)을 추가하세요.\n\n더 많은 캐릭터를 포함하려면 동일한 수준의 세부 사항을 가진 추가 레이블 캐릭터 블록을 추가하여 프롬프트를 확장하세요."
+    },
+    "pt": {
+      "content": "Carregue suas próprias imagens de referência no Seedance para guiar o visual/estilo do vídeo gerado.\n\nEspecifique o enquadramento e o ângulo da câmera explicitamente (por exemplo, vista aérea em ângulo alto olhando para baixo) para controlar a composição.\n\nDescreva cada personagem separadamente com identificadores claros (CENTRO/ESQUERDA/DIREITA) e atributos detalhados (tom de pele, cabelo, roupa, pose) para manter múltiplos sujeitos consistentes.\n\nInclua uma restrição explícita como Todos os três personagens estão totalmente visíveis da cabeça aos pés, espaçados uniformemente, voltados para frente para garantir o enquadramento e espaçamento de corpo inteiro.\n\nAdicione diretrizes de estilo (estilo de arte de anime de estúdio, contornos de tinta limpos e ousados, sombreamento plano tipo cel-shading, cores vibrantes, estilo de animação 2D, sem realismo) para definir o estilo visual.\n\nPara incluir mais personagens, estenda o prompt adicionando blocos de personagens adicionais rotulados com o mesmo nível de detalhe."
+    },
+    "zh": {
+      "content": "在Seedance中上传您自己的参考图像，以指导生成视频的外观/风格。\n\n明确指定相机的构图和角度（例如，高角度俯视图）以控制构图。\n\n分别描述每个角色，并使用清晰的标识符（CENTER/LEFT/RIGHT）和详细的属性（肤色、发型、服装、姿势）来保持多个主体的一致性。\n\n包括一个明确的约束条件，例如所有三个角色从头到脚完全可见，间距均匀，面向前方，以确保全身构图和间距。\n\n添加风格指令（工作室动漫艺术风格、干净大胆的墨线、平面赛璐璐着色、鲜艳的色彩、2D动画风格、无现实主义）以锁定视觉风格。\n\n要包括更多角色，请通过添加具有相同详细级别的额外标记角色块来扩展prompt。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2069482804824420651",
+  "title": "Explicitly specify the character’s exact hand/action (e.g., “the man picks up…",
+  "content": "Explicitly specify the character’s exact hand/action (e.g., “the man picks up the spoon with his left hand”) to force Seedance to break from the source frame and correctly bind object motion to the character.  \nUse @img1 as a clean start frame and instruct “Don’t change anything about the frame” to preserve the initial composition.  \nUse @vid1 as a camera motion reference and tell Seedance to follow the reference camera movement exactly while adding handheld camera shake.  \nAdd “No music” to prevent Seedance from generating background music.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/reidhannaford/status/2069482804824420651",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "Reid Hannaford",
+    "link": "https://x.com/reidhannaford"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Explicitly specify the character’s exact hand/action (e.g., “the man picks up the spoon with his left hand”) to force Seedance to break from the source frame and correctly bind object motion to the character.  \nUse @img1 as a clean start frame and instruct “Don’t change anything about the frame” to preserve the initial composition.  \nUse @vid1 as a camera motion reference and tell Seedance to follow the reference camera movement exactly while adding handheld camera shake.  \nAdd “No music” to prevent Seedance from generating background music.",
+  "translations": {
+    "es": {
+      "content": "Especifica explícitamente la mano/acción exacta del personaje (por ejemplo, “el hombre recoge la cuchara con su mano izquierda”) para forzar a Seedance a romper con el marco de origen y vincular correctamente el movimiento del objeto al personaje.  \nUsa @img1 como un marco de inicio limpio e instruye “Don’t change anything about the frame” para preservar la composición inicial.  \nUsa @vid1 como referencia de movimiento de cámara y dile a Seedance que siga exactamente el movimiento de la cámara de referencia mientras añade el temblor de cámara en mano.  \nAñade “No music” para evitar que Seedance genere música de fondo."
+    },
+    "fr": {
+      "content": "Indiquez explicitement la main/action exacte du personnage (par exemple, « l'homme prend la cuillère de la main gauche ») pour forcer Seedance à se détacher du cadre source et à lier correctement le mouvement de l'objet au personnage.  \nUtilisez @img1 comme cadre de départ propre et indiquez « Ne changez rien au cadre » pour préserver la composition initiale.  \nUtilisez @vid1 comme référence de mouvement de caméra et demandez à Seedance de suivre exactement le mouvement de la caméra de référence tout en ajoutant un tremblement de caméra à main levée.  \nAjoutez « Pas de musique » pour empêcher Seedance de générer de la musique de fond."
+    },
+    "ja": {
+      "content": "---\nキャラクターの具体的な手や動作を明確に指定してください（例：「その男は左手でスプーンを拾う」）。これにより、Seedanceがソースフレームから離れ、オブジェクトの動きをキャラクターに正しく結びつけることができます。  \n@img1をクリーンなスタートフレームとして使用し、「フレームについて何も変更しないでください」と指示して、初期の構図を保持します。  \n@vid1をカメラモーションの参照として使用し、Seedanceに参照カメラの動きを正確に追従させながら、手持ちカメラの揺れを追加するよう指示します。  \n「No music」と追加して、Seedanceがバックグラウンドミュージックを生成しないようにします。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance가 소스 프레임에서 벗어나 객체의 움직임을 캐릭터에 정확히 연결하도록 하기 위해 캐릭터의 정확한 손/행동을 명시적으로 지정하세요 (예: \"남자가 왼손으로 숟가락을 집는다\").  \n초기 구성을 보존하기 위해 @img1을 깨끗한 시작 프레임으로 사용하고 \"프레임에 대해 아무것도 변경하지 마세요\"라고 지시하세요.  \n@vid1을 카메라 움직임 참조로 사용하고 Seedance에게 참조 카메라 움직임을 정확히 따르면서 핸드헬드 카메라 흔들림을 추가하라고 지시하세요.  \n배경 음악 생성을 방지하기 위해 \"No music\"를 추가하세요.  \n---"
+    },
+    "pt": {
+      "content": "Especifique explicitamente a mão/ação exata do personagem (por exemplo, \"o homem pega a colher com a mão esquerda\") para forçar o Seedance a se desvincular do quadro de origem e vincular corretamente o movimento do objeto ao personagem.  \nUse @img1 como um quadro inicial limpo e instrua “Não mude nada no quadro” para preservar a composição inicial.  \nUse @vid1 como referência de movimento de câmera e diga ao Seedance para seguir exatamente o movimento da câmera de referência enquanto adiciona tremor de câmera manual.  \nAdicione “Sem música” para evitar que o Seedance gere música de fundo."
+    },
+    "zh": {
+      "content": "明确指定角色的具体手/动作（例如，“这个男人用左手拿起勺子”），以迫使Seedance脱离源帧并正确绑定物体运动到角色。  \n使用@img1作为干净的起始帧，并指示“不要改变帧的任何内容”以保持初始构图。  \n使用@vid1作为摄像机运动参考，并告诉Seedance精确遵循参考摄像机的运动，同时添加手持摄像机抖动。  \n添加“No music”以防止Seedance生成背景音乐。"
+    }
+  }
+}

@@ -34,6 +34,9 @@
     },
     "zh": {
       "content": "---\n使用Seedance 2.0的多模态输入，通过准备一个特定的文本prompt加上参考图像和短音频片段来生成。  \n编写高度具体的prompts（主题、动作、环境，以及电影般的描述词如电影灯光和背景细节）以提高照片级真实感效果。  \n在Image Guidance中上传参考图像，以在Seedance 2.0中保持角色相似性/身份一致性。  \n上传音频片段以启用Seedance 2.0的唇同步功能，使口型动作与语音匹配。  \n在Seedance 2.0中选择电影风格预设，并调整灯光和摄像机角度设置以引导外观。  \n使用Seedance 2.0的多镜头合成，通过规划多个摄像机角度和过渡来实现逼真的序列。  \n通过在查看每个输出后重新生成和完善prompt措辞和设置进行迭代，直到真实感提高。  \n在生成前后使用像Adobe Podcast Enhance这样的AI工具增强音频，以提高感知质量。  \n在像DaVinci Resolve这样的编辑器中完成，进行颜色校正、视觉特效和音乐以进行最终润色。\n---"
+    },
+    "pt": {
+      "content": "---\nUse as entradas multimodais do Seedance 2.0 preparando um prompt de texto específico, além de uma imagem de referência e um clipe de áudio curto antes de gerar.  \nEscreva prompts altamente específicos (sujeito, ação, ambiente e descritores cinematográficos como iluminação cinematográfica e detalhes de fundo) para melhorar os resultados fotorrealistas.  \nCarregue uma imagem de referência em Image Guidance para manter a semelhança/consistência de identidade do personagem no Seedance 2.0.  \nCarregue um clipe de áudio para habilitar a sincronização labial do Seedance 2.0, de modo que os movimentos da boca correspondam à fala.  \nSelecione o estilo cinematográfico predefinido no Seedance 2.0 e ajuste as configurações de iluminação e ângulo da câmera para direcionar o visual.  \nUse a composição multi-shot do Seedance 2.0 planejando múltiplos ângulos de câmera e transições para uma sequência realista.  \nItere regenerando e refinando tanto a redação do prompt quanto as configurações após revisar cada saída até que o realismo melhore.  \nMelhore o áudio com uma ferramenta de IA como o Adobe Podcast Enhance antes/depois da geração para melhorar a qualidade percebida.  \nFinalize em um editor como o DaVinci Resolve com correção de cor, VFX e música para o polimento final.\n---"
     }
   }
 }

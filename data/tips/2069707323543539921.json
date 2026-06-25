@@ -1,0 +1,41 @@
+{
+  "id": "2069707323543539921",
+  "title": "Feed Seedance 2 a storyboard as the prompt by generating the storyboard…",
+  "content": "Feed Seedance 2 a storyboard as the prompt by generating the storyboard frame-by-frame with GPT Image 2, then turn each frame into a separate Seedance clip and assemble them into a video ad.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ant0ni0_r0mer0/status/2069707323543539921",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "Antonio Romero",
+    "link": "https://x.com/ant0ni0_r0mer0"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Feed Seedance 2 a storyboard as the prompt by generating the storyboard frame-by-frame with GPT Image 2, then turn each frame into a separate Seedance clip and assemble them into a video ad.",
+  "translations": {
+    "es": {
+      "content": "---\nAlimenta a Seedance 2 con un storyboard como prompt generando el storyboard cuadro por cuadro con GPT Image 2, luego convierte cada cuadro en un clip separado de Seedance y ensámblalos en un anuncio de video."
+    },
+    "fr": {
+      "content": "---\nAlimentez Seedance 2 avec un storyboard comme prompt en générant le storyboard image par image avec GPT Image 2, puis transformez chaque image en un clip Seedance distinct et assemblez-les en une publicité vidéo.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2にストーリーボードをプロンプトとして提供し、GPT Image 2でフレームごとにストーリーボードを生成し、それぞれのフレームを個別のSeedanceクリップに変換してビデオ広告に組み立てます。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2에 스토리보드를 프롬프트로 제공하여 GPT Image 2로 프레임별로 스토리보드를 생성한 후, 각 프레임을 개별 Seedance 클립으로 변환하고 이를 조합하여 비디오 광고로 만드세요."
+    },
+    "pt": {
+      "content": "Alimente o Seedance 2 com um storyboard como prompt, gerando o storyboard quadro a quadro com o GPT Image 2, depois transforme cada quadro em um clipe separado do Seedance e monte-os em um anúncio em vídeo."
+    },
+    "zh": {
+      "content": "通过使用GPT Image 2逐帧生成故事板，将其作为prompt输入Seedance 2，然后将每一帧转换为单独的Seedance剪辑，并将它们组装成一个视频广告。"
+    }
+  }
+}

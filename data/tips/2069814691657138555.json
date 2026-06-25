@@ -1,0 +1,43 @@
+{
+  "id": "2069814691657138555",
+  "title": "Use a pipeline of Image Reference → Custom GPT Instructions → GPT Image 2.0…",
+  "content": "Use a pipeline of Image Reference → Custom GPT Instructions → GPT Image 2.0 Storyboard → Character Sheet → Seedance 2.0 prompt to turn a still image reference into a 15-second cinematic animation in Seedance 2.0",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069814619888377856/img/huc_RbfBmLnvssP9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069814691657138555.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2069814691657138555",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a pipeline of Image Reference → Custom GPT Instructions → GPT Image 2.0 Storyboard → Character Sheet → Seedance 2.0 prompt to turn a still image reference into a 15-second cinematic animation in Seedance 2.0",
+  "translations": {
+    "es": {
+      "content": "Utiliza una secuencia de Referencia de Imagen → Instrucciones Personalizadas de GPT → Storyboard de GPT Image 2.0 → Hoja de Personaje → prompt de Seedance 2.0 para convertir una imagen de referencia estática en una animación cinematográfica de 15 segundos en Seedance 2.0\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Prueba ahora https://t.co/bGMSxLH31Z"
+    },
+    "fr": {
+      "content": "Utilisez un pipeline de Référence d'Image → Instructions GPT Personnalisées → Storyboard GPT Image 2.0 → Fiche de Personnage → prompt Seedance 2.0 pour transformer une image fixe de référence en une animation cinématique de 15 secondes dans Seedance 2.0\n\n--- SUITE DU FIL ---\n[Fil 1] Essayez maintenant https://t.co/bGMSxLH31Z"
+    },
+    "ja": {
+      "content": "画像参照 → カスタムGPT指示 → GPT Image 2.0 ストーリーボード → キャラクターシート → Seedance 2.0 prompt のパイプラインを使用して、静止画像参照をSeedance 2.0で15秒のシネマティックアニメーションに変換します。\n\n--- スレッドの続き ---\n[スレッド1] 今すぐ試す https://t.co/bGMSxLH31Z"
+    },
+    "ko": {
+      "content": "이미지 참조 → 맞춤형 GPT 지침 → GPT 이미지 2.0 스토리보드 → 캐릭터 시트 → Seedance 2.0 프롬프트의 파이프라인을 사용하여 정지 이미지 참조를 Seedance 2.0에서 15초 시네마틱 애니메이션으로 변환하십시오.\n\n--- 스레드 계속 ---\n[스레드 1] 지금 시도해 보세요 https://t.co/bGMSxLH31Z"
+    },
+    "pt": {
+      "content": "Use um pipeline de Referência de Imagem → Instruções Personalizadas GPT → Storyboard GPT Image 2.0 → Ficha de Personagem → prompt Seedance 2.0 para transformar uma imagem de referência estática em uma animação cinematográfica de 15 segundos no Seedance 2.0\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Experimente agora https://t.co/bGMSxLH31Z"
+    },
+    "zh": {
+      "content": "使用图像参考 → 自定义 GPT 指令 → GPT Image 2.0 分镜头脚本 → 角色表 → Seedance 2.0 prompt 的流程，将静态图像参考转换为 Seedance 2.0 中的 15 秒电影动画\n\n--- 线程继续 ---\n[线程 1] 立即尝试 https://t.co/bGMSxLH31Z"
+    }
+  }
+}

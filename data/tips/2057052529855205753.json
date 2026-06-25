@@ -34,6 +34,9 @@
     },
     "zh": {
       "content": "通过改变创作者类型、场景和购买角度（例如，魅力自拍创作者、装扮生活方式角度、健身房产品证明），为同一产品生成UGC风格的广告批次，而不是制作单一广告。"
+    },
+    "fr": {
+      "content": "Générez des lots de publicités de style UGC pour le même produit en variant les types de créateurs, les contextes et les angles d'achat (par exemple, créateur de selfie glamour, angle lifestyle habillage, preuve de produit sur le sol de la salle de sport) au lieu de créer une seule publicité."
     }
   }
 }

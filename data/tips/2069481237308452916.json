@@ -1,0 +1,41 @@
+{
+  "id": "2069481237308452916",
+  "title": "Block out the exact camera and character motion in Blender (or similar) and…",
+  "content": "Block out the exact camera and character motion in Blender (or similar) and feed that animation as a motion/blocking reference video to Seedance to nail specific shots.\n\nAttach environment reference images plus separate character reference images, then prompt Seedance to “re-skin” the motion-reference figures into those characters while placing the action into the environment reference.\n\nUse explicit character-lock mapping in the prompt (e.g., “@ Video1 contains exactly two figures: BLUE/TEAL runner = KAITO, RED flier = RIKO”) and repeat the mapping across the prompt to keep identities consistent across cuts.\n\nAdd detailed negative constraints to prevent identity swaps and extra subjects (e.g., no swapping/gender swap, no duplicate/third figure, forbid specific traits/outfits on the wrong character, no watermarks/timestamps, no night/rain/green tint).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/AIWarper/status/2069481237308452916",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "A.I.Warper",
+    "link": "https://x.com/AIWarper"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Block out the exact camera and character motion in Blender (or similar) and feed that animation as a motion/blocking reference video to Seedance to nail specific shots.\n\nAttach environment reference images plus separate character reference images, then prompt Seedance to “re-skin” the motion-reference figures into those characters while placing the action into the environment reference.\n\nUse explicit character-lock mapping in the prompt (e.g., “@ Video1 contains exactly two figures: BLUE/TEAL runner = KAITO, RED flier = RIKO”) and repeat the mapping across the prompt to keep identities consistent across cuts.\n\nAdd detailed negative constraints to prevent identity swaps and extra subjects (e.g., no swapping/gender swap, no duplicate/third figure, forbid specific traits/outfits on the wrong character, no watermarks/timestamps, no night/rain/green tint).",
+  "translations": {
+    "es": {
+      "content": "Bloquea el movimiento exacto de la cámara y los personajes en Blender (o similar) y utiliza esa animación como un video de referencia de movimiento/bloqueo para Seedance para clavar tomas específicas.\n\nAdjunta imágenes de referencia del entorno más imágenes de referencia separadas de los personajes, luego pide a Seedance que \"re-skin\" las figuras de referencia de movimiento en esos personajes mientras coloca la acción en el entorno de referencia.\n\nUsa un mapeo explícito de bloqueo de personajes en el prompt (por ejemplo, “@ Video1 contains exactly two figures: BLUE/TEAL runner = KAITO, RED flier = RIKO”) y repite el mapeo a lo largo del prompt para mantener las identidades consistentes a través de los cortes.\n\nAñade restricciones negativas detalladas para evitar intercambios de identidad y sujetos extra (por ejemplo, no intercambios/cambio de género, no duplicados/tercera figura, prohibir rasgos/atuendos específicos en el personaje incorrecto, sin marcas de agua/fechas, sin tintes nocturnos/lluvia/verde)."
+    },
+    "fr": {
+      "content": "Bloquez le mouvement exact de la caméra et des personnages dans Blender (ou similaire) et utilisez cette animation comme vidéo de référence de mouvement/de blocage pour Seedance afin de réussir des prises de vue spécifiques.\n\nJoignez des images de référence de l'environnement ainsi que des images de référence séparées des personnages, puis demandez à Seedance de \"re-skinner\" les figures de référence de mouvement en ces personnages tout en plaçant l'action dans l'environnement de référence.\n\nUtilisez un mappage explicite de verrouillage des personnages dans le prompt (par exemple, “@ Video1 contains exactly two figures: BLUE/TEAL runner = KAITO, RED flier = RIKO”) et répétez le mappage dans le prompt pour maintenir la cohérence des identités à travers les coupes.\n\nAjoutez des contraintes négatives détaillées pour éviter les échanges d'identité et les sujets supplémentaires (par exemple, pas d'échange/changement de genre, pas de figure en double/troisième figure, interdiction de traits/tenues spécifiques sur le mauvais personnage, pas de filigranes/timestamps, pas de teinte verte/nuit/pluie)."
+    },
+    "ja": {
+      "content": "Blender（または類似のソフトウェア）でカメラとキャラクターの動きを正確にブロックアウトし、そのアニメーションをモーション/ブロッキング参照ビデオとしてSeedanceに入力して特定のショットを確実に捉えます。\n\n環境参照画像とキャラクター参照画像を別々に添付し、Seedanceにモーション参照フィギュアをそれらのキャラクターに「リスキン」し、アクションを環境参照に配置するように指示します。\n\nプロンプトで明確なキャラクターロックマッピングを使用します（例：「@ Video1には正確に2つのフィギュアが含まれています：BLUE/TEALランナー = KAITO、REDフライヤー = RIKO」）そして、カットをまたいで一貫性を保つためにプロンプト全体でマッピングを繰り返します。\n\nアイデンティティの入れ替えや余分な被写体を防ぐために詳細なネガティブ制約を追加します（例：入れ替え/性別の入れ替え禁止、重複/第三のフィギュア禁止、特定の特徴/衣装を間違ったキャラクターに禁止、透かし/タイムスタンプ禁止、夜/雨/緑の色合い禁止）。"
+    },
+    "ko": {
+      "content": "Blender(또는 유사한 프로그램)에서 정확한 카메라와 캐릭터의 움직임을 차단하고, 그 애니메이션을 Seedance에 모션/차단 참조 비디오로 제공하여 특정 샷을 정확히 잡아냅니다.\n\n환경 참조 이미지와 별도의 캐릭터 참조 이미지를 첨부한 후, Seedance에 모션 참조 피규어를 해당 캐릭터로 \"재스킨\"하고, 액션을 환경 참조에 배치하도록 프롬프트합니다.\n\n프롬프트에서 명확한 캐릭터-잠금 매핑을 사용합니다 (예: “@ Video1 contains exactly two figures: BLUE/TEAL runner = KAITO, RED flier = RIKO”) 그리고 컷 사이에서 정체성을 일관되게 유지하기 위해 프롬프트 전반에 걸쳐 매핑을 반복합니다.\n\n정체성 교환 및 추가 주제를 방지하기 위해 상세한 부정적 제약을 추가합니다 (예: 교환/성별 교환 금지, 중복/세 번째 인물 금지, 특정 특성/의상을 잘못된 캐릭터에 금지, 워터마크/타임스탬프 금지, 야간/비/녹색 색조 금지)."
+    },
+    "pt": {
+      "content": "Bloqueie o movimento exato da câmera e dos personagens no Blender (ou similar) e forneça essa animação como um vídeo de referência de movimento/bloqueio para o Seedance para acertar tomadas específicas.\n\nAnexe imagens de referência do ambiente, além de imagens de referência separadas dos personagens, e então solicite ao Seedance para \"re-skin\" as figuras de referência de movimento nesses personagens enquanto coloca a ação no ambiente de referência.\n\nUse mapeamento explícito de bloqueio de personagens no prompt (por exemplo, “@ Video1 contains exactly two figures: BLUE/TEAL runner = KAITO, RED flier = RIKO”) e repita o mapeamento ao longo do prompt para manter as identidades consistentes entre os cortes.\n\nAdicione restrições negativas detalhadas para evitar trocas de identidade e sujeitos extras (por exemplo, sem troca de gênero, sem duplicatas/terceira figura, proibir traços/roupas específicas no personagem errado, sem marcas d'água/carimbos de data/hora, sem tom verde/noite/chuva)."
+    },
+    "zh": {
+      "content": "在Blender（或类似软件）中精确地规划出摄像机和角色的运动，并将该动画作为动作/阻挡参考视频提供给Seedance，以实现特定镜头。\n\n附上环境参考图像和单独的角色参考图像，然后提示Seedance将动作参考中的人物“重新皮肤”成这些角色，同时将动作置于环境参考中。\n\n在提示中使用明确的角色锁定映射（例如，“@ Video1 contains exactly two figures: BLUE/TEAL runner = KAITO, RED flier = RIKO”），并在提示中重复映射，以保持在剪辑中身份的一致性。\n\n添加详细的负面约束以防止身份交换和额外的主体（例如，不交换/性别交换，不重复/第三个角色，禁止在错误角色上出现特定特征/服装，没有水印/时间戳，没有夜晚/雨天/绿色色调）。"
+    }
+  }
+}

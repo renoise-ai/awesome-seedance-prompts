@@ -1,0 +1,42 @@
+{
+  "id": "2069752561226453047",
+  "title": "Use Seedance 2.0 in 4K mode to generate UGC-style product videos.",
+  "content": "Use Seedance 2.0 in 4K mode to generate UGC-style product videos.  \nIn Magnific Spaces, build a custom product workflow by uploading or creating a product image, then use the Assistant node to draft prompts and the Video node to generate UGC videos for different platforms.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069752469194985472/img/Rfler1gQ5COXAugg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069752561226453047.mp4",
+  "sourceLink": "https://x.com/jerrod_lew/status/2069752561226453047",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "Jerrod Lew",
+    "link": "https://x.com/jerrod_lew"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 in 4K mode to generate UGC-style product videos.  \nIn Magnific Spaces, build a custom product workflow by uploading or creating a product image, then use the Assistant node to draft prompts and the Video node to generate UGC videos for different platforms.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Seedance 2.0 en modo 4K para generar videos de productos estilo UGC.  \nEn Magnific Spaces, construye un flujo de trabajo personalizado para productos subiendo o creando una imagen del producto, luego usa el nodo Assistant para redactar prompts y el nodo Video para generar videos UGC para diferentes plataformas."
+    },
+    "fr": {
+      "content": "---\nUtilisez Seedance 2.0 en mode 4K pour générer des vidéos de produits de style UGC.  \nDans Magnific Spaces, créez un flux de travail produit personnalisé en téléchargeant ou en créant une image de produit, puis utilisez le nœud Assistant pour rédiger des prompts et le nœud Vidéo pour générer des vidéos UGC pour différentes plateformes.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0を4Kモードで使用してUGCスタイルの製品ビデオを生成します。  \nMagnific Spacesでは、製品画像をアップロードまたは作成し、カスタム製品ワークフローを構築します。その後、Assistantノードを使用してプロンプトを作成し、Videoノードを使用して異なるプラットフォーム向けのUGCビデオを生成します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0을 4K 모드로 사용하여 UGC 스타일의 제품 비디오를 생성하세요.  \nMagnific Spaces에서 제품 이미지를 업로드하거나 생성하여 맞춤형 제품 워크플로를 구축한 다음, Assistant 노드를 사용하여 프롬프트를 작성하고 Video 노드를 사용하여 다양한 플랫폼에 맞는 UGC 비디오를 생성하세요.\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 no modo 4K para gerar vídeos de produtos no estilo UGC.  \nNo Magnific Spaces, construa um fluxo de trabalho personalizado de produtos carregando ou criando uma imagem de produto, depois use o nó Assistant para elaborar prompts e o nó Video para gerar vídeos UGC para diferentes plataformas."
+    },
+    "zh": {
+      "content": "使用Seedance 2.0的4K模式生成UGC风格的产品视频。  \n在Magnific Spaces中，通过上传或创建产品图像来构建自定义产品工作流程，然后使用Assistant节点起草prompts，并使用Video节点为不同平台生成UGC视频。"
+    }
+  }
+}

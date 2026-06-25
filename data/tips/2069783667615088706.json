@@ -1,0 +1,42 @@
+{
+  "id": "2069783667615088706",
+  "title": "Structure your Seedance prompt as a beat-by-beat shot list (e.g., Beat 1–9) to…",
+  "content": "Structure your Seedance prompt as a beat-by-beat shot list (e.g., Beat 1–9) to control pacing, edits, and scene progression across a 15-second commercial.  \nSpecify editing techniques directly in the prompt (speed ramping, whip pans, crash zooms, motion blur, dynamic camera shakes) to drive a high-intensity, aggressive cut style.  \nAdd explicit camera directions per shot (extreme close-up, push-in, rear tracking shot, drone whip-pan, FPV forward rush, crane-up reveal) to control camera movement and framing.  \nInclude lighting and realism constraints in the prompt (grounded physics, IMAX-scale realism, natural lighting only, no neon/no cyberpunk) to steer the model toward gritty real-world automotive tone.  \nUse brand/style references (Ducati/BMW Motorrad/Top Gear, Netflix automotive intensity) as style anchors to lock in a specific commercial aesthetic.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069783603395858432/img/Q_kF4TBeTRX-nM8t.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069783667615088706.mp4",
+  "sourceLink": "https://x.com/auqibhabib/status/2069783667615088706",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "auqib",
+    "link": "https://x.com/auqibhabib"
+  },
+  "tags": [
+    "Auto",
+    "Racing",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Structure your Seedance prompt as a beat-by-beat shot list (e.g., Beat 1–9) to control pacing, edits, and scene progression across a 15-second commercial.  \nSpecify editing techniques directly in the prompt (speed ramping, whip pans, crash zooms, motion blur, dynamic camera shakes) to drive a high-intensity, aggressive cut style.  \nAdd explicit camera directions per shot (extreme close-up, push-in, rear tracking shot, drone whip-pan, FPV forward rush, crane-up reveal) to control camera movement and framing.  \nInclude lighting and realism constraints in the prompt (grounded physics, IMAX-scale realism, natural lighting only, no neon/no cyberpunk) to steer the model toward gritty real-world automotive tone.  \nUse brand/style references (Ducati/BMW Motorrad/Top Gear, Netflix automotive intensity) as style anchors to lock in a specific commercial aesthetic.",
+  "translations": {
+    "es": {
+      "content": "Estructura tu prompt de Seedance como una lista de tomas beat por beat (por ejemplo, Beat 1–9) para controlar el ritmo, los cortes y la progresión de la escena en un comercial de 15 segundos.  \nEspecifica técnicas de edición directamente en el prompt (speed ramping, whip pans, crash zooms, motion blur, dynamic camera shakes) para lograr un estilo de corte de alta intensidad y agresivo.  \nAñade direcciones de cámara explícitas por toma (extreme close-up, push-in, rear tracking shot, drone whip-pan, FPV forward rush, crane-up reveal) para controlar el movimiento de la cámara y el encuadre.  \nIncluye restricciones de iluminación y realismo en el prompt (física realista, realismo a escala IMAX, solo iluminación natural, sin neón/sin cyberpunk) para guiar al modelo hacia un tono automotriz realista y crudo.  \nUtiliza referencias de marca/estilo (Ducati/BMW Motorrad/Top Gear, intensidad automotriz de Netflix) como anclas de estilo para fijar una estética comercial específica."
+    },
+    "fr": {
+      "content": "Structurez votre prompt Seedance comme une liste de plans détaillée par étapes (par exemple, Étape 1–9) pour contrôler le rythme, les montages et la progression des scènes dans une publicité de 15 secondes.  \nSpécifiez les techniques de montage directement dans le prompt (accélération, whip pans, crash zooms, flou de mouvement, secousses dynamiques de la caméra) pour obtenir un style de coupe intense et agressif.  \nAjoutez des directions de caméra explicites par plan (gros plan extrême, zoom avant, plan de suivi arrière, whip-pan de drone, ruée avant en FPV, révélation par grue) pour contrôler le mouvement et le cadrage de la caméra.  \nIncluez des contraintes d'éclairage et de réalisme dans le prompt (physique réaliste, réalisme à l'échelle IMAX, éclairage naturel uniquement, pas de néon/pas de cyberpunk) pour orienter le modèle vers un ton automobile réaliste et brut.  \nUtilisez des références de marque/style (Ducati/BMW Motorrad/Top Gear, intensité automobile de Netflix) comme ancres stylistiques pour verrouiller une esthétique commerciale spécifique."
+    },
+    "ja": {
+      "content": "---\nSeedanceのプロンプトを、15秒のコマーシャルにおけるペーシング、編集、シーンの進行を制御するために、ビートごとのショットリスト（例：ビート1–9）として構成します。  \nプロンプト内で編集技法を直接指定し（スピードランピング、ウィップパン、クラッシュズーム、モーションブラー、ダイナミックなカメラシェイク）、高強度で攻撃的なカットスタイルを推進します。  \n各ショットごとに明確なカメラ指示（極端なクローズアップ、プッシュイン、リアトラッキングショット、ドローンウィップパン、FPVフォワードラッシュ、クレーンアップリビール）を追加し、カメラの動きとフレーミングを制御します。  \nプロンプトに照明とリアリズムの制約を含め（地に足のついた物理、IMAXスケールのリアリズム、自然光のみ、ネオンなし/サイバーパンクなし）、モデルをリアルな自動車のトーンに導きます。  \nブランド/スタイルの参照（Ducati/BMW Motorrad/Top Gear、Netflixの自動車の強度）をスタイルアンカーとして使用し、特定のコマーシャル美学を固定します。\n---"
+    },
+    "ko": {
+      "content": "Seedance 프롬프트를 15초 광고의 페이싱, 편집, 장면 진행을 제어하기 위해 비트별 샷 리스트(예: 비트 1–9)로 구성하세요.  \n편집 기술을 프롬프트에 직접 명시하세요 (속도 램핑, 휩 팬, 크래시 줌, 모션 블러, 다이내믹 카메라 쉐이크)하여 높은 강도의 공격적인 컷 스타일을 구동합니다.  \n각 샷마다 명확한 카메라 지시사항을 추가하세요 (극단적 클로즈업, 푸시-인, 후방 추적 샷, 드론 휩-팬, FPV 전방 돌진, 크레인-업 리빌)하여 카메라 움직임과 구도를 제어합니다.  \n프롬프트에 조명 및 현실성 제약 조건을 포함하세요 (기초 물리학, IMAX 규모의 현실성, 자연 조명만, 네온/사이버펑크 없음)하여 모델을 사실적인 자동차 톤으로 유도합니다.  \n브랜드/스타일 참조를 사용하세요 (두카티/BMW 모토라드/탑 기어, 넷플릭스 자동차 강도)하여 특정 광고 미학을 고정하는 스타일 앵커로 활용합니다."
+    },
+    "pt": {
+      "content": "Estruture seu prompt Seedance como uma lista de cenas beat-by-beat (por exemplo, Beat 1–9) para controlar o ritmo, edições e progressão de cena em um comercial de 15 segundos.  \nEspecifique técnicas de edição diretamente no prompt (speed ramping, whip pans, crash zooms, motion blur, dynamic camera shakes) para criar um estilo de corte de alta intensidade e agressivo.  \nAdicione direções de câmera explícitas por tomada (extreme close-up, push-in, rear tracking shot, drone whip-pan, FPV forward rush, crane-up reveal) para controlar o movimento e enquadramento da câmera.  \nInclua restrições de iluminação e realismo no prompt (física fundamentada, realismo em escala IMAX, apenas iluminação natural, sem neon/sem cyberpunk) para direcionar o modelo em direção a um tom automotivo realista e cru.  \nUse referências de marca/estilo (Ducati/BMW Motorrad/Top Gear, intensidade automotiva da Netflix) como âncoras de estilo para definir uma estética comercial específica."
+    },
+    "zh": {
+      "content": "将您的Seedance prompt结构化为逐拍镜头列表（例如，第1-9拍），以控制15秒广告中的节奏、剪辑和场景进展。  \n在prompt中直接指定剪辑技术（速度变化、快速摇镜、快速变焦、运动模糊、动态镜头抖动）以推动高强度、激进的剪辑风格。  \n为每个镜头添加明确的摄像机指示（极近景、推进、后方跟踪镜头、无人机快速摇镜、FPV前冲、起重机上升揭示）以控制摄像机运动和构图。  \n在prompt中包含照明和现实主义限制（基础物理、IMAX规模现实主义、仅自然光、无霓虹/无赛博朋克）以引导模型朝向真实世界的汽车风格。  \n使用品牌/风格参考（Ducati/BMW Motorrad/Top Gear，Netflix汽车强度）作为风格锚点，以锁定特定的商业美学。"
+    }
+  }
+}

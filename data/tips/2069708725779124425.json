@@ -1,0 +1,45 @@
+{
+  "id": "2069708725779124425",
+  "title": "حرکت و مسیر دوربین را در Blender پیاده‌سازی کن و یک فریم/عکس اول از محیط…",
+  "content": "حرکت و مسیر دوربین را در Blender پیاده‌سازی کن و یک فریم/عکس اول از محیط دلخواهت آماده کن، سپس هر دو (camera motion + first frame) را به Seedance بده تا ویدئو را با همان حرکت دوربین تولید کند.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069074144986021888/img/LTeFNB-CAVVIAuLF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069708725779124425.mp4",
+  "sourceLink": "https://x.com/0xKaveh/status/2069708725779124425",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "Kaveh",
+    "link": "https://x.com/0xKaveh"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "حرکت و مسیر دوربین را در Blender پیاده‌سازی کن و یک فریم/عکس اول از محیط دلخواهت آماده کن، سپس هر دو (camera motion + first frame) را به Seedance بده تا ویدئو را با همان حرکت دوربین تولید کند.",
+  "translations": {
+    "en": {
+      "content": "Implement the camera motion and path in Blender and prepare a first frame/photo of your desired environment. Then, provide both (camera motion + first frame) to Seedance to produce the video with the same camera movement."
+    },
+    "es": {
+      "content": "Implementa el movimiento y la trayectoria de la cámara en Blender y prepara un primer fotograma/imagen del entorno de tu elección, luego proporciona ambos (camera motion + first frame) a Seedance para que genere el video con el mismo movimiento de cámara."
+    },
+    "fr": {
+      "content": "Implémente le mouvement et la trajectoire de la caméra dans Blender et prépare une première image/photo de l'environnement de ton choix, puis donne les deux (camera motion + first frame) à Seedance pour qu'il produise la vidéo avec le même mouvement de caméra."
+    },
+    "ja": {
+      "content": "Blenderでカメラの動きと経路を実装し、好きな環境の最初のフレーム/写真を準備します。その後、両方（camera motion + first frame）をSeedanceに渡して、同じカメラの動きでビデオを生成します。"
+    },
+    "ko": {
+      "content": "Blender에서 카메라 움직임과 경로를 구현하고 원하는 환경의 첫 번째 프레임/사진을 준비하세요. 그런 다음 두 가지 (camera motion + first frame)를 Seedance에 제공하여 동일한 카메라 움직임으로 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Implemente o movimento e o trajeto da câmera no Blender e prepare um primeiro quadro/imagem do ambiente de sua escolha, depois forneça ambos (camera motion + first frame) ao Seedance para que o vídeo seja produzido com o mesmo movimento de câmera."
+    },
+    "zh": {
+      "content": "在Blender中实现相机的运动和路径，并准备一个你所选择环境的第一帧/照片，然后将两者（camera motion + first frame）交给Seedance，以便生成具有相同相机运动的视频。"
+    }
+  }
+}

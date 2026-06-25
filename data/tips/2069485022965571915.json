@@ -1,0 +1,42 @@
+{
+  "id": "2069485022965571915",
+  "title": "Use Seedance 2.0 to render a phone-shot talking-head UGC ad from a consistent…",
+  "content": "Use Seedance 2.0 to render a phone-shot talking-head UGC ad from a consistent creator image (same face every clip) generated in GPT Image 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069484912231731200/img/LeNgrdfgun4-eEZa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069485022965571915.mp4",
+  "sourceLink": "https://x.com/spect3ral/status/2069485022965571915",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "Ahad Shams",
+    "link": "https://x.com/spect3ral"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase"
+  ],
+  "tips": "Use Seedance 2.0 to render a phone-shot talking-head UGC ad from a consistent creator image (same face every clip) generated in GPT Image 2.0.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.0 para renderizar un anuncio UGC de tipo \"talking-head\" grabado con teléfono, a partir de una imagen de creador consistente (misma cara en cada clip) generada en GPT Image 2.0."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 pour créer une publicité UGC de type \"talking-head\" filmée avec un téléphone, à partir d'une image de créateur cohérente (même visage à chaque clip) générée dans GPT Image 2.0."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0を使用して、GPT Image 2.0で生成された一貫したクリエイターのイメージ（すべてのクリップで同じ顔）から、スマホ撮影のトーキングヘッドUGC広告をレンダリングします。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 사용하여 GPT Image 2.0에서 생성된 일관된 크리에이터 이미지(모든 클립에서 동일한 얼굴)로부터 휴대폰 촬영의 토킹 헤드 UGC 광고를 렌더링하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 para renderizar um anúncio UGC no formato talking-head filmado por telefone a partir de uma imagem consistente do criador (mesmo rosto em cada clipe) gerada no GPT Image 2.0."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0 从 GPT Image 2.0 生成的统一创作者形象（每个片段相同的面孔）中渲染一个手机拍摄的谈话头 UGC 广告。"
+    }
+  }
+}

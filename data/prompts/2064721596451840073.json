@@ -30,6 +30,12 @@
     },
     "pt": {
       "content": "Palácio infinito contendo portas que levam a realidades alternativas, cada sala exibindo uma versão diferente do mesmo mundo, a câmera passa continuamente por portais sem cortes, transições suaves entre universos."
+    },
+    "ja": {
+      "content": "---\n無限の宮殿には、異なる現実に通じる扉があり、各部屋には同じ世界の異なるバージョンが展示されています。カメラはカットなしでポータルを通り抜け、宇宙間をシームレスに移行します。\n---"
+    },
+    "zh": {
+      "content": "无限宫殿，包含通往替代现实的门，每个房间展示同一个世界的不同版本，摄像机连续穿过门户，无剪辑，无缝过渡于各个宇宙之间。"
     }
   }
 }

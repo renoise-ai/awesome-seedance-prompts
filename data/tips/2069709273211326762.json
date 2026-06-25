@@ -1,0 +1,42 @@
+{
+  "id": "2069709273211326762",
+  "title": "If Seedance refuses to generate a storyboard because the character looks too…",
+  "content": "If Seedance refuses to generate a storyboard because the character looks too much like a real person, first convert the storyboard into an illustrated version to avoid the likeness issue.  \nThen use Seedance 2.0 to generate a realistic-looking person by prompting it to base the character on your illustrated drawing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069706247343853569/img/gnCyF8GJ4GmcLKlp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069709273211326762.mp4",
+  "sourceLink": "https://x.com/Sogni_Protocol/status/2069709273211326762",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "Sogni.ai",
+    "link": "https://x.com/Sogni_Protocol"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "If Seedance refuses to generate a storyboard because the character looks too much like a real person, first convert the storyboard into an illustrated version to avoid the likeness issue.  \nThen use Seedance 2.0 to generate a realistic-looking person by prompting it to base the character on your illustrated drawing.",
+  "translations": {
+    "es": {
+      "content": "Si Seedance se niega a generar un storyboard porque el personaje se parece demasiado a una persona real, primero convierte el storyboard en una versión ilustrada para evitar el problema de semejanza.  \nLuego utiliza Seedance 2.0 para generar una persona de apariencia realista pidiéndole que base el personaje en tu dibujo ilustrado."
+    },
+    "fr": {
+      "content": "Si Seedance refuse de générer un storyboard parce que le personnage ressemble trop à une personne réelle, commencez par convertir le storyboard en une version illustrée pour éviter le problème de ressemblance.  \nEnsuite, utilisez Seedance 2.0 pour générer une personne d'apparence réaliste en lui demandant de baser le personnage sur votre dessin illustré."
+    },
+    "ja": {
+      "content": "---\nSeedanceがキャラクターが実在の人物に似すぎているためにストーリーボードの生成を拒否する場合、まずそのストーリーボードをイラスト版に変換して類似性の問題を回避してください。  \nその後、Seedance 2.0を使用して、イラストに基づいてキャラクターを生成するようにプロンプトを設定し、リアルな外見の人物を生成します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance가 캐릭터가 실제 인물과 너무 유사하다는 이유로 스토리보드를 생성하지 않는다면, 먼저 스토리보드를 일러스트 버전으로 변환하여 유사성 문제를 피하세요.  \n그런 다음 Seedance 2.0을 사용하여 일러스트된 그림을 기반으로 캐릭터를 생성하도록 프롬프트하여 현실감 있는 인물을 생성하세요.\n---"
+    },
+    "pt": {
+      "content": "Se o Seedance se recusar a gerar um storyboard porque o personagem se parece muito com uma pessoa real, primeiro converta o storyboard em uma versão ilustrada para evitar o problema de semelhança.  \nEm seguida, use o Seedance 2.0 para gerar uma pessoa com aparência realista, solicitando que ele baseie o personagem no seu desenho ilustrado."
+    },
+    "zh": {
+      "content": "如果Seedance拒绝生成分镜头，因为角色看起来太像真人，首先将分镜头转换为插图版本以避免相似性问题。  \n然后使用Seedance 2.0，通过提示它基于你的插图绘画来生成一个看起来真实的人物。"
+    }
+  }
+}

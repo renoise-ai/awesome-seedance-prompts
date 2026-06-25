@@ -34,6 +34,9 @@
     },
     "zh": {
       "content": "---\n将品牌简报中撰写的视频prompt（例如，由Claude生成的）输入Seedance 2.0，以生成UGC风格的剪辑、AI演员格式和产品展示视频广告，而无需拍摄。"
+    },
+    "es": {
+      "content": "Alimenta Seedance 2.0 con prompts de video escritos a partir de un resumen de marca (por ejemplo, generados por Claude) para producir clips al estilo UGC, formatos de actores de IA y anuncios de video de exhibición de productos sin necesidad de filmar."
     }
   }
 }

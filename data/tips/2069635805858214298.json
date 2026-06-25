@@ -1,0 +1,42 @@
+{
+  "id": "2069635805858214298",
+  "title": "Midjourneyで開始フレーム（初期画像）を作ってからSeedanceに渡し、映像の方向性を固定する",
+  "content": "Midjourneyで開始フレーム（初期画像）を作ってからSeedanceに渡し、映像の方向性を固定する  \nBlenderでキャラクターのポーズとカメラ位置／角度を合わせた3Dレイアウトを作り、その構図をSeedanceで映像化して会話シーンとカメラワークを狙い通りに制御する  \nMidjourney→Blender（ポーズ＋カメラ調整）→Seedanceの順で制作し、2人キャラの動き・会話・カメラワークを意図的にコントロールする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069409826589818880/img/MvTs6wNs_QGpTAWg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069635805858214298.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2069635805858214298",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Midjourneyで開始フレーム（初期画像）を作ってからSeedanceに渡し、映像の方向性を固定する  \nBlenderでキャラクターのポーズとカメラ位置／角度を合わせた3Dレイアウトを作り、その構図をSeedanceで映像化して会話シーンとカメラワークを狙い通りに制御する  \nMidjourney→Blender（ポーズ＋カメラ調整）→Seedanceの順で制作し、2人キャラの動き・会話・カメラワークを意図的にコントロールする",
+  "translations": {
+    "en": {
+      "content": "Create the initial frame (starting image) in Midjourney, then pass it to Seedance to fix the direction of the video.  \nCreate a 3D layout in Blender that matches the character's pose and the camera position/angle, and use Seedance to turn that composition into a video, controlling the conversation scenes and camera work as intended.  \nProduce in the order of Midjourney → Blender (pose + camera adjustment) → Seedance, intentionally controlling the movements, conversations, and camera work of the two characters."
+    },
+    "es": {
+      "content": "---\nCrear un fotograma inicial (imagen inicial) en Midjourney y luego pasarlo a Seedance para fijar la dirección del video.  \nCrear un diseño 3D en Blender que combine la pose del personaje y la posición/ángulo de la cámara, y luego usar Seedance para convertir esa composición en video, controlando las escenas de conversación y el trabajo de cámara según lo previsto.  \nProducir en el orden de Midjourney→Blender (ajuste de pose + cámara)→Seedance, controlando intencionalmente el movimiento, la conversación y el trabajo de cámara de los dos personajes.\n---"
+    },
+    "fr": {
+      "content": "Créer un cadre de départ (image initiale) avec Midjourney, puis le transférer à Seedance pour fixer la direction visuelle.  \nCréer une mise en page 3D dans Blender en ajustant la pose des personnages et la position/l'angle de la caméra, puis utiliser cette composition dans Seedance pour visualiser la scène de conversation et contrôler précisément le mouvement de la caméra.  \nProduire dans l'ordre suivant : Midjourney → Blender (ajustement de la pose + caméra) → Seedance, afin de contrôler intentionnellement les mouvements, les dialogues et le travail de caméra des deux personnages."
+    },
+    "ko": {
+      "content": "Midjourney에서 시작 프레임(초기 이미지)을 만든 후 Seedance에 전달하여 영상의 방향성을 고정합니다.  \nBlender에서 캐릭터의 포즈와 카메라 위치/각도를 맞춘 3D 레이아웃을 만들어, 그 구도를 Seedance에서 영상화하여 대화 장면과 카메라 워크를 의도대로 제어합니다.  \nMidjourney→Blender(포즈＋카메라 조정)→Seedance의 순서로 제작하여, 두 캐릭터의 움직임·대화·카메라 워크를 의도적으로 컨트롤합니다."
+    },
+    "pt": {
+      "content": "Comece criando um quadro inicial (imagem inicial) no Midjourney e depois passe para o Seedance para fixar a direção do vídeo.  \nNo Blender, crie um layout 3D ajustando a pose do personagem e a posição/ângulo da câmera, e use essa composição no Seedance para transformar em vídeo, controlando cenas de diálogo e movimentos de câmera conforme desejado.  \nProduza na ordem Midjourney→Blender (ajuste de pose + câmera)→Seedance, controlando intencionalmente os movimentos, diálogos e trabalho de câmera dos dois personagens."
+    },
+    "zh": {
+      "content": "在Midjourney中创建初始帧（初始图像）后，将其传递给Seedance，以固定影片的方向性。  \n在Blender中制作与角色姿势和相机位置/角度匹配的3D布局，然后在Seedance中将该构图影像化，以便按照预期控制对话场景和相机运作。  \n按照Midjourney→Blender（姿势+相机调整）→Seedance的顺序制作，有意控制两个人物的动作、对话和相机运作。"
+    }
+  }
+}

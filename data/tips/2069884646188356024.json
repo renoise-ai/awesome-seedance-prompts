@@ -1,0 +1,42 @@
+{
+  "id": "2069884646188356024",
+  "title": "Add prompt instructions that force slight line jitter to mimic “boiling,” e.g…",
+  "content": "Add prompt instructions that force slight line jitter to mimic “boiling,” e.g., specify outlines redrawing 1–2px between frames.  \nPrompt for a breathing canvas texture underneath all surfaces to create subtle frame-to-frame vibration.  \nUse hand-painted animation wording like “no two frames identical” to reduce temporal sameness.  \nPrompt continuous brushstroke turnover (brushstrokes turning over and re-laying continuously) to simulate boiling motion.  \nDescribe edge behavior explicitly (object edges crawl, dissolve, and re-form) to induce animated outline instability.  \nFeed Seedance 2.0 style references from a Midjourney look that already has vibrating brushstrokes (e.g., garden/cloud/girl refs) to reinforce the boiling effect.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069884288837820416/img/by-ujh8NbRzuad3r.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069884646188356024.mp4",
+  "sourceLink": "https://x.com/AleRVG/status/2069884646188356024",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "AlexandrIA",
+    "link": "https://x.com/AleRVG"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Hand-drawn",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add prompt instructions that force slight line jitter to mimic “boiling,” e.g., specify outlines redrawing 1–2px between frames.  \nPrompt for a breathing canvas texture underneath all surfaces to create subtle frame-to-frame vibration.  \nUse hand-painted animation wording like “no two frames identical” to reduce temporal sameness.  \nPrompt continuous brushstroke turnover (brushstrokes turning over and re-laying continuously) to simulate boiling motion.  \nDescribe edge behavior explicitly (object edges crawl, dissolve, and re-form) to induce animated outline instability.  \nFeed Seedance 2.0 style references from a Midjourney look that already has vibrating brushstrokes (e.g., garden/cloud/girl refs) to reinforce the boiling effect.",
+  "translations": {
+    "es": {
+      "content": "Añade instrucciones de prompt que obliguen a un ligero temblor de línea para imitar el \"boiling\", por ejemplo, especifica el redibujo de contornos de 1–2px entre fotogramas.  \nPrompt para una textura de lienzo que respira debajo de todas las superficies para crear una vibración sutil de fotograma a fotograma.  \nUsa un lenguaje de animación pintada a mano como \"no hay dos fotogramas idénticos\" para reducir la uniformidad temporal.  \nPrompt para un cambio continuo de pinceladas (pinceladas que se vuelcan y se vuelven a colocar continuamente) para simular el movimiento de boiling.  \nDescribe el comportamiento de los bordes explícitamente (los bordes de los objetos se arrastran, disuelven y reforman) para inducir inestabilidad en los contornos animados.  \nAlimenta referencias de estilo Seedance 2.0 de un look de Midjourney que ya tenga pinceladas vibrantes (por ejemplo, referencias de jardín/nube/chica) para reforzar el efecto de boiling."
+    },
+    "fr": {
+      "content": "Ajoutez des instructions de prompt qui forcent un léger tremblement des lignes pour imiter le \"bouillonnement\", par exemple, spécifiez le redessin des contours de 1 à 2 pixels entre les images.  \nPrompt pour une texture de toile respirante sous toutes les surfaces afin de créer une vibration subtile d'une image à l'autre.  \nUtilisez un langage d'animation peint à la main comme \"aucune image identique\" pour réduire l'uniformité temporelle.  \nPrompt pour un renouvellement continu des coups de pinceau (les coups de pinceau se retournant et se réappliquant continuellement) pour simuler un mouvement de bouillonnement.  \nDécrivez explicitement le comportement des bords (les bords des objets rampent, se dissolvent et se reforment) pour induire une instabilité des contours animés.  \nAlimentez Seedance 2.0 avec des références de style d'un look Midjourney qui a déjà des coups de pinceau vibrants (par exemple, références jardin/nuage/fille) pour renforcer l'effet de bouillonnement."
+    },
+    "ja": {
+      "content": "---\nわずかなラインの揺れを強制するプロンプト指示を追加し、「ボイリング」を模倣します。例えば、フレーム間でアウトラインを1–2px描き直すように指定します。  \nすべての表面の下に呼吸するキャンバステクスチャをプロンプトし、フレーム間の微妙な振動を作り出します。  \n「どのフレームも同一ではない」といった手描きアニメーションの表現を使用し、時間的な同一性を減らします。  \nボイリングモーションをシミュレートするために、連続的な筆跡の回転（筆跡が連続的に回転して再配置される）をプロンプトします。  \nアニメーションされたアウトラインの不安定さを誘発するために、エッジの動作を明示的に説明します（オブジェクトのエッジが這い、溶け、再形成される）。  \nSeedance 2.0にMidjourneyのルックからのスタイル参照をフィードし、すでに振動する筆跡を持つ（例：庭/雲/少女の参照）ボイリング効果を強化します。  \n---"
+    },
+    "ko": {
+      "content": "---\n약간의 선 떨림을 강제하여 \"boiling\"을 모방하는 프롬프트 지침을 추가하세요. 예를 들어, 프레임 간에 윤곽선을 1-2px 다시 그리도록 지정합니다.  \n모든 표면 아래에 숨쉬는 캔버스 질감을 프롬프트하여 프레임 간 미세한 진동을 만듭니다.  \n\"no two frames identical\"와 같은 손으로 그린 애니메이션 용어를 사용하여 시간적 동일성을 줄입니다.  \n끊임없는 붓질 전환(붓질이 계속해서 뒤집히고 다시 깔리는)을 프롬프트하여 boiling motion을 시뮬레이션합니다.  \n애니메이션 윤곽선 불안정을 유도하기 위해 가장자리 동작을 명확하게 설명합니다 (객체 가장자리가 기어가고, 녹고, 다시 형성됨).  \nSeedance 2.0 스타일 참조를 Midjourney의 이미 진동하는 붓질을 가진 룩에서 가져와 (예: 정원/구름/소녀 참조) boiling 효과를 강화합니다.\n---"
+    },
+    "pt": {
+      "content": "Adicione instruções de prompt que forcem uma leve oscilação nas linhas para imitar o “boiling”, por exemplo, especifique o redesenho dos contornos de 1–2px entre os quadros.  \nPrompt para uma textura de tela respirante sob todas as superfícies para criar uma vibração sutil de quadro a quadro.  \nUse termos de animação pintada à mão como “nenhum quadro idêntico” para reduzir a uniformidade temporal.  \nPrompt para uma rotação contínua de pinceladas (pinceladas girando e se relançando continuamente) para simular o movimento de boiling.  \nDescreva o comportamento das bordas explicitamente (bordas dos objetos rastejam, se dissolvem e se reformam) para induzir instabilidade nas linhas animadas.  \nAlimente referências de estilo Seedance 2.0 de um visual Midjourney que já tenha pinceladas vibrantes (por exemplo, referências de jardim/nuvem/menina) para reforçar o efeito de boiling."
+    },
+    "zh": {
+      "content": "添加提示指令，强制轻微的线条抖动以模拟“沸腾”，例如，指定轮廓在帧之间重绘1-2像素。  \n提示在所有表面下方创建呼吸画布纹理，以产生微妙的帧间振动。  \n使用手绘动画词汇，如“没有两个帧是相同的”来减少时间上的相似性。  \n提示连续的笔触翻转（笔触不断翻转和重新铺设）以模拟沸腾运动。  \n明确描述边缘行为（对象边缘爬行、溶解和重组）以引发动画轮廓的不稳定性。  \n从Midjourney风格中提供Seedance 2.0风格参考，这些风格已经具有振动的笔触（例如，花园/云/女孩参考）以加强沸腾效果。"
+    }
+  }
+}

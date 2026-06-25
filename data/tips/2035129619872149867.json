@@ -30,6 +30,12 @@
     },
     "zh": {
       "content": "使用没有特写面部图像的角色表（例如，完整的三视图：正面/侧面/背面）在使用Seedance 2.0时可以提高角色表img2vid的可靠性。  \n对于img2vid，从你的角色参考表中剪掉/移除面部，只使用身体参考。  \n生成你的角色表时使用这样的prompt：Photorealism, character sheet, three-view (front, side, back), full figure, white background, [add your description here].\n\n--- 引用推文 ---\n@mxvdxn @yapper_so 我在Sora中尝试时学到了一些img2vid的小技巧。\n\n最简单的方法是拿你的角色参考表，剪掉面部，只使用身体参考 https://t.co/ade8T93TSp\n---"
+    },
+    "es": {
+      "content": "Utiliza hojas de personajes sin una imagen de rostro en primer plano (por ejemplo, una vista completa de tres ángulos: frente/lado/espalda) al usar Seedance 2.0 para mejorar la fiabilidad de img2vid en hojas de personajes.  \nPara img2vid, recorta/elimina el rostro de tu hoja de referencia de personaje y utiliza solo la referencia del cuerpo.  \nGenera tu hoja de personaje con un prompt como: Photorealism, character sheet, three-view (front, side, back), full figure, white background, [add your description here].\n\n--- TWEET CITADO ---\n@mxvdxn @yapper_so Hay algunos trucos para hacer img2vid que aprendí experimentando en Sora.\n\nEl más fácil es tomar tus hojas de referencia de personajes y recortar el rostro, solo usar la referencia del cuerpo https://t.co/ade8T93TSp"
+    },
+    "fr": {
+      "content": "Utilisez des fiches de personnages sans image en gros plan du visage (par exemple, une vue complète en trois vues avant/côté/dos) lorsque vous utilisez Seedance 2.0 pour améliorer la fiabilité de la conversion img2vid des fiches de personnages.  \nPour img2vid, découpez/enlevez le visage de votre fiche de référence de personnage et utilisez uniquement la référence du corps.  \nGénérez votre fiche de personnage avec un prompt tel que : Photorealism, character sheet, three-view (front, side, back), full figure, white background, [ajoutez votre description ici].\n\n--- TWEET CITÉ ---\n@mxvdxn @yapper_so Il y a quelques astuces pour faire du img2vid que j'ai apprises en expérimentant dans Sora.\n\nLa plus simple est de prendre vos fiches de référence de personnages et de découper le visage, en utilisant uniquement la référence du corps https://t.co/ade8T93TSp"
     }
   }
 }

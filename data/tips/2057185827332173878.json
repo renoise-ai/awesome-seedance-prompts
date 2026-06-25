@@ -35,6 +35,9 @@
     },
     "pt": {
       "content": "Gere um painel de storyboard no GPT Image 2.0 que inclua múltiplas cenas com detalhamento exato de tempo, depois use essa imagem de storyboard como referência de entrada no Seedance 2.0 para gerar um vídeo previz cinematográfico."
+    },
+    "zh": {
+      "content": "在GPT Image 2.0中生成一个分镜头面板，其中包含多个镜头和精确的时间分解，然后使用该分镜头图像作为Seedance 2.0中的输入参考，生成一个cinematic previz视频。"
     }
   }
 }

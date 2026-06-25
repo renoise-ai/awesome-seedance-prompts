@@ -1,0 +1,42 @@
+{
+  "id": "2069650081733570856",
+  "title": "先用Blender在3D场景里精确编辑/预设好相机运动，再把该相机运动作为参考交给Seedance 2.0生成视频，以解决纯AI视频相机运动不精确的问题",
+  "content": "先用Blender在3D场景里精确编辑/预设好相机运动，再把该相机运动作为参考交给Seedance 2.0生成视频，以解决纯AI视频相机运动不精确的问题  \n用Blender + Midjourney + Seedance 2.0的混合工作流：Midjourney出风格/画面参考，Blender定镜头运动，Seedance 2.0负责最终视频生成",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069074144986021888/img/LTeFNB-CAVVIAuLF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069650081733570856.mp4",
+  "sourceLink": "https://x.com/block0_eth/status/2069650081733570856",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "block0",
+    "link": "https://x.com/block0_eth"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先用Blender在3D场景里精确编辑/预设好相机运动，再把该相机运动作为参考交给Seedance 2.0生成视频，以解决纯AI视频相机运动不精确的问题  \n用Blender + Midjourney + Seedance 2.0的混合工作流：Midjourney出风格/画面参考，Blender定镜头运动，Seedance 2.0负责最终视频生成",
+  "translations": {
+    "en": {
+      "content": "First, use Blender to precisely edit/preset the camera movement in a 3D scene, then provide this camera movement as a reference to Seedance 2.0 to generate the video, addressing the issue of imprecise camera movement in pure AI videos.  \nUsing a hybrid workflow of Blender + Midjourney + Seedance 2.0: Midjourney provides style/image references, Blender determines camera movement, and Seedance 2.0 is responsible for the final video generation."
+    },
+    "es": {
+      "content": "Primero, edita o preestablece con precisión el movimiento de la cámara en un escenario 3D usando Blender, luego utiliza ese movimiento de cámara como referencia para que Seedance 2.0 genere el video, con el fin de resolver el problema de la falta de precisión en el movimiento de cámara en videos generados puramente por IA.  \nFlujo de trabajo híbrido con Blender + Midjourney + Seedance 2.0: Midjourney proporciona el estilo/referencia visual, Blender define el movimiento de la cámara, Seedance 2.0 se encarga de la generación final del video."
+    },
+    "fr": {
+      "content": "---\nCommencez par éditer/préconfigurer précisément le mouvement de la caméra dans une scène 3D avec Blender, puis utilisez ce mouvement de caméra comme référence pour Seedance 2.0 afin de générer la vidéo, résolvant ainsi le problème d'imprécision du mouvement de caméra dans les vidéos purement IA.  \nFlux de travail hybride avec Blender + Midjourney + Seedance 2.0 : Midjourney fournit le style/référence visuelle, Blender définit le mouvement de la caméra, Seedance 2.0 s'occupe de la génération finale de la vidéo.\n---"
+    },
+    "ja": {
+      "content": "---\nまずBlenderで3Dシーン内のカメラの動きを正確に編集/プリセットし、そのカメラの動きを参考としてSeedance 2.0に渡して動画を生成します。これにより、純粋なAI動画のカメラの動きが不正確である問題を解決します。  \nBlender + Midjourney + Seedance 2.0のハイブリッドワークフロー：Midjourneyでスタイル/ビジュアルの参考を出し、Blenderでカメラの動きを決定し、Seedance 2.0が最終的な動画生成を担当します。\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 Blender에서 3D 장면 내에서 카메라 움직임을 정확하게 편집/설정한 후, 해당 카메라 움직임을 참조로 Seedance 2.0에 전달하여 순수 AI 비디오의 카메라 움직임이 정확하지 않은 문제를 해결합니다.  \nBlender + Midjourney + Seedance 2.0의 혼합 워크플로우: Midjourney는 스타일/화면 참조를 제공하고, Blender는 카메라 움직임을 설정하며, Seedance 2.0은 최종 비디오 생성을 담당합니다.\n---"
+    },
+    "pt": {
+      "content": "Primeiro, edite/prepare com precisão o movimento da câmera em um cenário 3D no Blender, depois use esse movimento de câmera como referência para o Seedance 2.0 gerar o vídeo, a fim de resolver o problema de imprecisão do movimento de câmera em vídeos puramente gerados por IA.  \nFluxo de trabalho híbrido com Blender + Midjourney + Seedance 2.0: Midjourney fornece o estilo/referência visual, Blender define o movimento da câmera, Seedance 2.0 é responsável pela geração final do vídeo."
+    }
+  }
+}

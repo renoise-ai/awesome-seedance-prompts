@@ -34,6 +34,9 @@
     },
     "zh": {
       "content": "将您的Seedance提示结构化为标记部分，如[Character]、[Place]、[Camera]、[Story – 15 Seconds]和[Rule]，以在一个提示中控制主体、环境、摄影、时长和叙事节奏  \n在您的提示中添加与参考图像相同的面孔，以保持角色的面孔与上传的参考图像一致  \n指定相机和镜头细节，如Cinematic close-up shot、shallow depth of field、soft background blur和85mm cinematic lens，以引导构图和景深  \n包括明确的灯光和风格关键词，如cinematic fantasy style、dramatic lighting和cinematic sunset lighting，以推动电影化外观  \n指出质量/细节目标，如ultra realistic face、highly detailed textures、realistic 4K scenery和4K quality，以偏向更高的真实感和细节  \n直接定义剪辑长度和故事弧线（例如，Story – 15 Seconds with a dramatic ending shot）以指导节奏和结尾节拍\n\n--- THREAD CONTINUATION ---\n[Thread 1] try it here https://t.co/4joVurWJkB"
+    },
+    "pt": {
+      "content": "Estruture seu prompt Seedance em seções rotuladas como [Character], [Place], [Camera], [Story – 15 Seconds] e [Rule] para controlar o sujeito, ambiente, cinematografia, duração e batidas narrativas em um único prompt  \nAdicione o mesmo rosto como imagem de referência ao seu prompt para manter o rosto do personagem consistente com uma imagem de referência carregada  \nEspecifique detalhes de câmera e lente como Cinematic close-up shot, shallow depth of field, soft background blur e 85mm cinematic lens para direcionar o enquadramento e a profundidade de campo  \nInclua palavras-chave explícitas de iluminação e estilo, como cinematic fantasy style, dramatic lighting e cinematic sunset lighting para impulsionar um visual cinematográfico  \nMencione metas de qualidade/detalhe como ultra realistic face, highly detailed textures, realistic 4K scenery e 4K quality para tender a um maior realismo e detalhe  \nDefina diretamente a duração do clipe e o arco da história (por exemplo, Story – 15 Seconds with a dramatic ending shot) para guiar o ritmo e uma batida final\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Thread 1] experimente aqui https://t.co/4joVurWJkB"
     }
   }
 }

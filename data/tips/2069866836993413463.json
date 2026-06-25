@@ -1,0 +1,41 @@
+{
+  "id": "2069866836993413463",
+  "title": "Attach a bird’s-eye wide top-shot image of the environment/map as a reference…",
+  "content": "Attach a bird’s-eye wide top-shot image of the environment/map as a reference and write a proper prompt to simplify scene setup instead of manually mapping run cycles/turns/buildings/stairs.\n\nUse a 3D previz (or similar layout/animation planning) only when you need Seedance to follow a fixed camera trajectory with preserved motion/camera control.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/DaraChaww/status/2069866836993413463",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "Dara Chaw",
+    "link": "https://x.com/DaraChaww"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Attach a bird’s-eye wide top-shot image of the environment/map as a reference and write a proper prompt to simplify scene setup instead of manually mapping run cycles/turns/buildings/stairs.\n\nUse a 3D previz (or similar layout/animation planning) only when you need Seedance to follow a fixed camera trajectory with preserved motion/camera control.",
+  "translations": {
+    "es": {
+      "content": "Adjunta una imagen de vista aérea amplia del entorno/mapa como referencia y escribe un prompt adecuado para simplificar la configuración de la escena en lugar de mapear manualmente ciclos de carrera/giros/edificios/escaleras.\n\nUsa un previz 3D (o planificación de diseño/animación similar) solo cuando necesites que Seedance siga una trayectoria de cámara fija con control de movimiento/cámara preservado.\n\n--- TWEET CITADO ---\n¡Increíble ver lo que un animador profesional puede hacer con video de IA!\n\nCreó un previz 3D y luego hizo que Seedance renderizara el anime real, ¡con el movimiento y control de cámara preservados!\n\n(hecho por @craftcapitallab) https://t.co/pCA760dYli\n---"
+    },
+    "fr": {
+      "content": "Joignez une image en plongée de l'environnement/carte vue de dessus comme référence et rédigez un prompt approprié pour simplifier la configuration de la scène au lieu de cartographier manuellement les cycles de course/tours/bâtiments/escaliers.\n\nUtilisez un previz 3D (ou une planification de mise en page/animation similaire) uniquement lorsque vous avez besoin que Seedance suive une trajectoire de caméra fixe avec un contrôle du mouvement/caméra préservé.\n\n--- TWEET CITÉ ---\nIncroyable de voir ce qu'un animateur professionnel peut faire avec une vidéo AI.\n\nIl a créé un previz 3D et ensuite Seedance a rendu l'anime réel - avec le mouvement et le contrôle de la caméra préservés !\n\n(créé par @craftcapitallab) https://t.co/pCA760dYli\n---"
+    },
+    "ja": {
+      "content": "---\n環境/地図の鳥瞰図の広いトップショット画像を参考として添付し、シーン設定を簡略化するために適切なプロンプトを書いてください。手動でランサイクル/ターン/建物/階段をマッピングする代わりに。\n\nSeedanceが固定されたカメラの軌道を追い、動きやカメラの制御を保持する必要がある場合のみ、3Dプレヴィズ（または同様のレイアウト/アニメーション計画）を使用してください。\n\n--- QUOTED TWEET ---\nプロのアニメーターがAIビデオで何ができるかを見るのは驚くべきことです。\n\n彼は3Dプレヴィズを作成し、その後Seedanceに実際のアニメをレンダリングさせました - 動きとカメラの制御が保持されています！\n\n(made by @craftcapitallab) https://t.co/pCA760dYli\n---"
+    },
+    "ko": {
+      "content": "환경/지도의 조감도 이미지를 참조용으로 첨부하고, 장면 설정을 단순화하기 위해 적절한 프롬프트를 작성하여 주기적으로 달리기/회전/건물/계단을 수동으로 매핑하는 대신 사용하세요.\n\nSeedance가 고정된 카메라 경로를 따르면서 모션/카메라 제어를 유지해야 할 때만 3D 프리비즈(또는 유사한 레이아웃/애니메이션 계획)를 사용하세요.\n\n--- 인용 트윗 ---\nAI 비디오로 전문 애니메이터가 할 수 있는 일을 보는 것은 놀랍습니다.\n\n그는 3D 프리비즈를 만들고 나서 Seedance가 실제 애니메이션을 렌더링하도록 했습니다 - 모션과 카메라 제어가 유지된 상태로!\n\n(@craftcapitallab 제작) https://t.co/pCA760dYli\n---"
+    },
+    "pt": {
+      "content": "Anexe uma imagem de visão aérea ampla do ambiente/mapa como referência e escreva um prompt adequado para simplificar a configuração da cena, em vez de mapear manualmente ciclos de corrida/curvas/prédios/escadas.\n\nUse um previz 3D (ou planejamento de layout/animação similar) apenas quando precisar que o Seedance siga uma trajetória de câmera fixa com controle de movimento/câmera preservado.\n\n--- TWEET CITADO ---\nIncrível ver o que um animador profissional pode fazer com vídeo de IA.\n\nEle criou um previz 3D e depois fez o Seedance renderizar o anime real - com o movimento e controle de câmera preservados!\n\n(feito por @craftcapitallab) https://t.co/pCA760dYli\n---"
+    },
+    "zh": {
+      "content": "附上一张鸟瞰视角的环境/地图宽幅顶视图作为参考，并编写一个合适的prompt，以简化场景设置，而不是手动映射运行周期/转弯/建筑物/楼梯。\n\n仅在需要Seedance遵循固定的摄像机轨迹并保留运动/摄像机控制时，使用3D预览（或类似的布局/动画规划）。\n\n--- 引用推文 ---\n令人难以置信的是，专业动画师可以用AI视频做到什么。\n\n他创建了一个3D预览，然后让Seedance渲染实际的动画——并保留了运动和摄像机控制！\n\n（由@craftcapitallab制作）https://t.co/pCA760dYli\n---"
+    }
+  }
+}

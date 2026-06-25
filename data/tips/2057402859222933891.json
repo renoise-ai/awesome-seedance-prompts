@@ -34,6 +34,9 @@
     },
     "zh": {
       "content": "使用 GPT Image 2 生成图像和故事板，然后再转到 Seedance 2.0  \n在 Seedance 2.0 中使用面向动画电影的 prompt 来动画化故事板，以在场景之间创建一个连贯的史诗预告片  \n在 EaseMate 中集中整个流程（故事板 → 动画 → 剪辑），以便在一个地方制作完整的作品，而不是零散的片段"
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer les images et le storyboard avant de passer à Seedance 2.0  \nAnimez le storyboard dans Seedance 2.0 en utilisant un prompt orienté à l'animation cinématographique pour créer une bande-annonce épique cohérente entre les scènes  \nCentralisez le flux complet (storyboard → animation → montage) dans EaseMate pour produire une pièce complète en un seul endroit au lieu de clips séparés"
     }
   }
 }

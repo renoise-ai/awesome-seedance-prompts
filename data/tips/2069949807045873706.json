@@ -1,0 +1,42 @@
+{
+  "id": "2069949807045873706",
+  "title": "プロンプト入力→画像生成→編集→動画化までを1つのキャンバス上で完結させるワークフローにする",
+  "content": "プロンプト入力→画像生成→編集→動画化までを1つのキャンバス上で完結させるワークフローにする  \nマルチアングル機能を使って角度（カメラ視点）を一発で変更する  \n編集でボール（被写体）を動かして動きのある素材を作る  \n画像内テキスト（例：「めがらい」）をそのまま打ち替えて差し替える  \n仕上げにSeedance 2.0で動画化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069948864032075776/img/IU141AgynJyae4et.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069949807045873706.mp4",
+  "sourceLink": "https://x.com/Glasses_Lion/status/2069949807045873706",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "めがらい🦁株式会社サムネバカ",
+    "link": "https://x.com/Glasses_Lion"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "プロンプト入力→画像生成→編集→動画化までを1つのキャンバス上で完結させるワークフローにする  \nマルチアングル機能を使って角度（カメラ視点）を一発で変更する  \n編集でボール（被写体）を動かして動きのある素材を作る  \n画像内テキスト（例：「めがらい」）をそのまま打ち替えて差し替える  \n仕上げにSeedance 2.0で動画化する",
+  "translations": {
+    "en": {
+      "content": "Create a workflow that completes from prompt input to image generation, editing, and video conversion on a single canvas.  \nUse the multi-angle feature to instantly change the angle (camera perspective).  \nMove the ball (subject) during editing to create dynamic material.  \nDirectly replace in-image text (e.g., \"めがらい\") by retyping it.  \nFinish by converting to video with Seedance 2.0."
+    },
+    "es": {
+      "content": "---\nCrear un flujo de trabajo que complete desde la entrada del prompt, generación de imágenes, edición hasta la creación de videos en un solo lienzo  \nUtilizar la función de multiángulo para cambiar el ángulo (punto de vista de la cámara) de un solo golpe  \nMover la bola (sujeto) en la edición para crear material con movimiento  \nReemplazar directamente el texto dentro de la imagen (ejemplo: \"めがらい\")  \nFinalizar convirtiendo en video con Seedance 2.0  \n---"
+    },
+    "fr": {
+      "content": "---\nSaisir le prompt → Générer une image → Éditer → Transformer en vidéo, le tout sur une seule toile  \nUtiliser la fonction multi-angle pour changer d'angle (point de vue de la caméra) en un seul geste  \nDéplacer la balle (sujet) lors de l'édition pour créer un matériau animé  \nRemplacer directement le texte dans l'image (exemple : « めがらい »)  \nFinaliser en transformant en vidéo avec Seedance 2.0  \n---"
+    },
+    "ko": {
+      "content": "프로ンプ트 입력→이미지 생성→편집→영상화까지를 하나의 캔버스에서 완결시키는 워크플로우로 만들기  \n멀티 앵글 기능을 사용하여 각도(카메라 시점)를 한 번에 변경하기  \n편집에서 볼(피사체)을 움직여 움직임이 있는 소재를 만들기  \n이미지 내 텍스트(예: \"めがらい\")를 그대로 입력하여 교체하기  \n마무리로 Seedance 2.0으로 영상화하기"
+    },
+    "pt": {
+      "content": "---\nTransformar o fluxo de trabalho em um único canvas que vai desde a entrada do prompt, geração de imagem, edição até a conversão em vídeo  \nUsar a função de multiângulo para mudar o ângulo (ponto de vista da câmera) de uma só vez  \nMover a bola (sujeito) na edição para criar material com movimento  \nSubstituir diretamente o texto dentro da imagem (exemplo: \"めがらい\")  \nFinalizar convertendo em vídeo com Seedance 2.0  \n---"
+    },
+    "zh": {
+      "content": "将从输入Prompt到图像生成、编辑、再到视频化的整个流程在一个画布上完成  \n使用多角度功能一键更改角度（摄像机视角）  \n通过编辑移动球体（主体）来制作动态素材  \n直接替换图像内文本（例如：“めがらい”）  \n最后使用Seedance 2.0进行视频化"
+    }
+  }
+}

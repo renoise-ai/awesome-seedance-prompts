@@ -1,0 +1,43 @@
+{
+  "id": "2069482222571389071",
+  "title": "Use Seedance 2.5’s 3D white model input rendering to generate atmospheric…",
+  "content": "Use Seedance 2.5’s 3D white model input rendering to generate atmospheric previs directly from a locked layout before lighting/texturing, enabling faster iteration and cheaper creative revisions.  \nFeed a high‑poly (~100k‑face) 3D spacecraft animation plus style reference images into Seedance 2.5 to produce fully rendered footage while keeping structure/proportions stable and preserving the original layout in dynamic shots.  \nUse Seedance 2.5’s 3D white model input rendering to quickly produce secondary shots (distant setups/alternates) to reduce traditional render time and manpower.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069480229022965760/img/UGUOt8SspJci3YRa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069482222571389071.mp4",
+  "sourceLink": "https://x.com/alisaqqt/status/2069482222571389071",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "Alisa Qian",
+    "link": "https://x.com/alisaqqt"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Use Seedance 2.5’s 3D white model input rendering to generate atmospheric previs directly from a locked layout before lighting/texturing, enabling faster iteration and cheaper creative revisions.  \nFeed a high‑poly (~100k‑face) 3D spacecraft animation plus style reference images into Seedance 2.5 to produce fully rendered footage while keeping structure/proportions stable and preserving the original layout in dynamic shots.  \nUse Seedance 2.5’s 3D white model input rendering to quickly produce secondary shots (distant setups/alternates) to reduce traditional render time and manpower.",
+  "translations": {
+    "es": {
+      "content": "Utiliza el renderizado de entrada de modelo blanco 3D de Seedance 2.5 para generar previs atmosférico directamente desde un diseño bloqueado antes de la iluminación/texturización, permitiendo iteraciones más rápidas y revisiones creativas más económicas.  \nIntroduce una animación de nave espacial 3D de alta poligonización (~100k caras) más imágenes de referencia de estilo en Seedance 2.5 para producir metraje completamente renderizado mientras mantienes la estructura/proporciones estables y preservas el diseño original en tomas dinámicas.  \nUtiliza el renderizado de entrada de modelo blanco 3D de Seedance 2.5 para producir rápidamente tomas secundarias (configuraciones/distantes alternativas) y reducir el tiempo de renderizado tradicional y la mano de obra."
+    },
+    "fr": {
+      "content": "Utilisez le rendu d'entrée du modèle blanc 3D de Seedance 2.5 pour générer des prévisualisations atmosphériques directement à partir d'une mise en page verrouillée avant l'éclairage/la texturation, permettant ainsi une itération plus rapide et des révisions créatives moins coûteuses.  \nIntégrez une animation de vaisseau spatial 3D haute résolution (~100k faces) ainsi que des images de référence de style dans Seedance 2.5 pour produire des séquences entièrement rendues tout en maintenant la structure/les proportions stables et en préservant la mise en page originale dans les plans dynamiques.  \nUtilisez le rendu d'entrée du modèle blanc 3D de Seedance 2.5 pour produire rapidement des plans secondaires (configurations/alternatives éloignées) afin de réduire le temps de rendu traditionnel et la main-d'œuvre."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.5の3Dホワイトモデル入力レンダリングを使用して、ライティングやテクスチャリングの前にロックされたレイアウトから直接雰囲気のあるプリビズを生成し、より速い反復と安価なクリエイティブな修正を可能にします。  \n高ポリゴン（約10万フェイス）の3D宇宙船アニメーションとスタイル参照画像をSeedance 2.5に入力し、構造やプロポーションを安定させ、動的ショットで元のレイアウトを保持しながら完全にレンダリングされた映像を生成します。  \nSeedance 2.5の3Dホワイトモデル入力レンダリングを使用して、伝統的なレンダー時間と人手を削減するために、二次ショット（遠距離セットアップ/代替）を迅速に生成します。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 3D 화이트 모델 입력 렌더링을 사용하여 조명/텍스처링 전에 고정된 레이아웃에서 직접 분위기 있는 previs를 생성하여 더 빠른 반복과 저렴한 창의적 수정을 가능하게 합니다.  \n고해상도 (~100k-face) 3D 우주선 애니메이션과 스타일 참조 이미지를 Seedance 2.5에 입력하여 구조/비율을 안정적으로 유지하고 동적 샷에서 원래 레이아웃을 보존하면서 완전히 렌더링된 영상을 생성합니다.  \nSeedance 2.5의 3D 화이트 모델 입력 렌더링을 사용하여 보조 샷(원거리 설정/대안)을 빠르게 생성하여 전통적인 렌더링 시간과 인력을 줄입니다."
+    },
+    "pt": {
+      "content": "Use o render de entrada de modelo branco 3D do Seedance 2.5 para gerar previs atmosférico diretamente de um layout bloqueado antes da iluminação/texturização, permitindo iterações mais rápidas e revisões criativas mais baratas.  \nAlimente uma animação de espaçonave 3D de alta poligonal (~100k faces) mais imagens de referência de estilo no Seedance 2.5 para produzir filmagens totalmente renderizadas enquanto mantém a estrutura/proporções estáveis e preserva o layout original em tomadas dinâmicas.  \nUse o render de entrada de modelo branco 3D do Seedance 2.5 para produzir rapidamente tomadas secundárias (configurações distantes/alternativas) para reduzir o tempo de renderização tradicional e a mão de obra."
+    },
+    "zh": {
+      "content": "使用Seedance 2.5的3D白模输入渲染，从锁定布局中直接生成大气的预览，在照明/纹理处理之前，实现更快的迭代和更低成本的创意修改。  \n将一个高多边形（约10万面）3D宇宙飞船动画和风格参考图像输入Seedance 2.5，以生成完全渲染的镜头，同时保持结构/比例稳定，并在动态镜头中保留原始布局。  \n使用Seedance 2.5的3D白模输入渲染，快速生成次要镜头（远景设置/替代镜头），以减少传统渲染时间和人力。"
+    }
+  }
+}

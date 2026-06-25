@@ -33,6 +33,9 @@
     },
     "zh": {
       "content": "第三人称视角，一镜到底跟随白猫沿着红色路径前进。严格按照提供图像中描绘的红色路径。猫根据红色路径跳到人身上。画面中不显示路径线、箭头或跳切——仅一个连续镜头。"
+    },
+    "pt": {
+      "content": "POV em terceira pessoa, uma única tomada seguindo o gato branco enquanto ele segue o caminho vermelho. Siga estritamente o caminho vermelho representado na imagem fornecida. O gato pula sobre as pessoas de acordo com o caminho vermelho. Sem linhas de caminho na tela, sem setas, sem cortes — UMA TOMADA CONTÍNUA."
     }
   }
 }

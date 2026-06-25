@@ -32,6 +32,12 @@
     },
     "pt": {
       "content": "Use o Seedance 2.0 no modo de imagem para vídeo com uma única imagem de quadro-chave inicial para conduzir todo o clipe.\n\nCole um prompt de transformação detalhado que especifique o sujeito, ambiente, mecânicas de metamorfose passo a passo, mapeamento de materiais/partes (por exemplo, para-brisa→óculos, para-choque→queixo), batidas de ação e movimento de câmera para controlar a sequência.\n\nInclua diretrizes explícitas de estilo e áudio no prompt (por exemplo, estilo visual realista, tom humorístico e ao mesmo tempo aterrorizante, música de fundo intensa/chocante).\n\n--- TWEET CITADO ---\ntoda a indústria cinematográfica acabou de ser substituída em menos de vinte segundos. https://t.co/W9KacoeDxh\n---"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 en mode image-à-vidéo avec une seule image clé initiale pour diriger l'ensemble du clip.\n\nCollez un prompt de transformation détaillé qui spécifie le sujet, l'environnement, les mécanismes de morphing étape par étape, la correspondance des matériaux/parties (par exemple, pare-brise→lunettes, pare-chocs→menton), les temps forts de l'action et le mouvement de la caméra pour contrôler la séquence.\n\nIncluez des directives explicites de style et d'audio dans le prompt (par exemple, style visuel réaliste, ton humoristique mais terrifiant, musique de fond intense/choquante).\n\n--- TWEET CITÉ ---\ntoute l'industrie cinématographique vient d'être remplacée en moins de vingt secondes. https://t.co/W9KacoeDxh\n---"
+    },
+    "zh": {
+      "content": "使用Seedance 2.0的图像到视频模式，通过单个首帧图像驱动整个剪辑。\n\n粘贴一个详细的转换提示，指定主体、环境、逐步变形机制、材料/部件映射（例如，挡风玻璃→眼镜，保险杠→下巴）、动作节奏和摄像机运动以控制序列。\n\n在提示中包含明确的风格和音频指令（例如，现实主义视觉风格，幽默而又恐怖的语调，激烈/震撼的背景音乐）。\n\n--- 引用推文 ---\n整个电影行业在不到二十秒内就被取代了。https://t.co/W9KacoeDxh\n---"
     }
   }
 }

@@ -1,0 +1,42 @@
+{
+  "id": "2069407057812521143",
+  "title": "実写アイコン用に作ったプロンプトをイラスト参照で使い回すと実写寄りに出るので、参照画像のスタイル（イラスト/実写）に合わせてプロンプトも作り直す",
+  "content": "実写アイコン用に作ったプロンプトをイラスト参照で使い回すと実写寄りに出るので、参照画像のスタイル（イラスト/実写）に合わせてプロンプトも作り直す  \n実写になった場合はイラストバージョンで再生成してスタイルを合わせる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069403323560796160/img/LsTws_vQMlpdsrcF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069407057812521143.mp4",
+  "sourceLink": "https://x.com/misakin883/status/2069407057812521143",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "ミサキ",
+    "link": "https://x.com/misakin883"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "実写アイコン用に作ったプロンプトをイラスト参照で使い回すと実写寄りに出るので、参照画像のスタイル（イラスト/実写）に合わせてプロンプトも作り直す  \n実写になった場合はイラストバージョンで再生成してスタイルを合わせる",
+  "translations": {
+    "en": {
+      "content": "When reusing a prompt created for live-action icons with illustration references, it tends to result in a more live-action style. Therefore, adjust the prompt according to the style of the reference image (illustration/live-action). If it turns out live-action, regenerate it in the illustration version to match the style.\n\n--- QUOTED TWEET ---\nSeedance 2.0 Mini is now available on Lovart!\nI used an illustration as the reference image for the icon, but when I made it into a video, it turned out live-action lol https://t.co/UUoI25gTa1\n\n--- THREAD CONTINUATION ---\n[Thread 1] I prefer this movement lol\n---"
+    },
+    "es": {
+      "content": "Para los iconos de estilo realista, si reutilizas un prompt diseñado para ilustraciones, el resultado tiende a ser más realista. Por lo tanto, es necesario ajustar el prompt según el estilo de la imagen de referencia (ilustración/realista).  \nSi el resultado es realista, vuelve a generar la versión ilustrada para que coincida con el estilo.\n\n--- QUOTED TWEET ---\n¡Seedance 2.0 Mini llega a Lovart!\nUsé una imagen de referencia como icono de ilustración, pero al convertirlo en video, se volvió realista jaja https://t.co/UUoI25gTa1\n\n--- THREAD CONTINUATION ---\n[Thread 1] Me gusta más este movimiento jaja\n---"
+    },
+    "fr": {
+      "content": "Lorsque vous réutilisez un prompt créé pour une icône en live-action en vous basant sur une illustration, le résultat tendra vers le live-action. Il est donc nécessaire de recréer le prompt en fonction du style de l'image de référence (illustration/live-action).  \nSi le résultat est en live-action, régénérez-le en version illustration pour harmoniser le style.\n\n--- TWEET CITÉ ---\nLovart présente Seedance 2.0 Mini !\nJ'ai utilisé une image de référence pour une icône d'illustration, mais quand j'ai fait une vidéo, c'est devenu du live-action w https://t.co/UUoI25gTa1\n\n--- SUITE DU FIL ---\n[Thread 1] Je préfère ce mouvement-là w"
+    },
+    "ko": {
+      "content": "실사 아이콘용으로 만든 프롬프트를 일러스트 참조로 사용하면 실사에 가깝게 나오므로, 참조 이미지의 스타일(일러스트/실사)에 맞춰 프롬프트도 다시 작성해야 합니다.  \n실사로 나온 경우에는 일러스트 버전으로 다시 생성하여 스타일을 맞춥니다.\n\n--- QUOTED TWEET ---\nLovart에 Seedance 2.0 Mini 등장!\n참조 이미지는 일러스트 아이콘으로 했지만, 영상으로 만들었더니 실사가 되어버렸어요w https://t.co/UUoI25gTa1\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이쪽 움직임이 더 마음에 드네요w"
+    },
+    "pt": {
+      "content": "Quando você reutiliza um prompt criado para ícones em live-action com referência de ilustração, o resultado tende a ser mais realista. Portanto, é importante recriar o prompt para alinhar com o estilo da imagem de referência (ilustração/live-action). Se o resultado for em live-action, regenere na versão de ilustração para ajustar o estilo.\n\n--- QUOTED TWEET ---\nLovart apresenta Seedance 2.0 Mini!\nUsei uma imagem de referência como ícone de ilustração, mas quando transformei em vídeo, ficou em live-action! https://t.co/UUoI25gTa1\n\n--- THREAD CONTINUATION ---\n[Thread 1] Eu gosto mais desse movimento! rs\n---"
+    },
+    "zh": {
+      "content": "为实拍图标制作的prompt如果用在插图参考上，会更偏向实拍。因此，需要根据参考图像的风格（插图/实拍）重新制作prompt。  \n如果生成的是实拍版本，则需要用插图版本重新生成以匹配风格。\n\n--- QUOTED TWEET ---\nLovart推出了Seedance 2.0 Mini！  \n参考图像是插图图标，但生成视频时变成了实拍w https://t.co/UUoI25gTa1\n\n--- THREAD CONTINUATION ---\n[Thread 1] 我更喜欢这个动作w"
+    }
+  }
+}

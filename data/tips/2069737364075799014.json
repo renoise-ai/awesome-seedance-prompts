@@ -1,0 +1,42 @@
+{
+  "id": "2069737364075799014",
+  "title": "Use Seedance video-to-video to texture a 3D render by supplying only a text…",
+  "content": "Use Seedance video-to-video to texture a 3D render by supplying only a text prompt.  \nCombine a text prompt with image reference(s) in Seedance video-to-video to more tightly guide the final look/style of a 3D render.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2069737337500647424/pu/img/rxuMS7heYnVnLVrw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069737364075799014.mp4",
+  "sourceLink": "https://x.com/CharaspowerAI/status/2069737364075799014",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "Pierrick Chevallier | IA",
+    "link": "https://x.com/CharaspowerAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance video-to-video to texture a 3D render by supplying only a text prompt.  \nCombine a text prompt with image reference(s) in Seedance video-to-video to more tightly guide the final look/style of a 3D render.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance video-to-video para texturizar un render 3D proporcionando solo un prompt de texto.  \nCombina un prompt de texto con referencia(s) de imagen en Seedance video-to-video para guiar de manera más precisa el aspecto/estilo final de un render 3D."
+    },
+    "fr": {
+      "content": "Utilisez Seedance video-to-video pour texturer un rendu 3D en fournissant uniquement un prompt textuel.  \nCombinez un prompt textuel avec des références d'images dans Seedance video-to-video pour guider plus précisément l'apparence/style final d'un rendu 3D."
+    },
+    "ja": {
+      "content": "Seedanceのvideo-to-videoを使用して、テキストプロンプトだけで3Dレンダーにテクスチャを付けます。  \nSeedanceのvideo-to-videoでテキストプロンプトと画像参照を組み合わせて、3Dレンダーの最終的な外観/スタイルをより厳密にガイドします。"
+    },
+    "ko": {
+      "content": "Seedance video-to-video를 사용하여 텍스트 프롬프트만 제공하여 3D 렌더링에 텍스처를 추가하세요.  \nSeedance video-to-video에서 텍스트 프롬프트와 이미지 참조를 결합하여 3D 렌더링의 최종 외관/스타일을 더 정확하게 안내하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance video-to-video para texturizar um render 3D fornecendo apenas um prompt de texto.  \nCombine um prompt de texto com referência(s) de imagem no Seedance video-to-video para guiar de forma mais precisa o visual/estilo final de um render 3D."
+    },
+    "zh": {
+      "content": "使用 Seedance 的视频转视频功能，通过仅提供文本 prompt 为 3D 渲染添加纹理。  \n在 Seedance 的视频转视频功能中，将文本 prompt 与图像参考结合使用，以更精确地引导 3D 渲染的最终外观/风格。"
+    }
+  }
+}

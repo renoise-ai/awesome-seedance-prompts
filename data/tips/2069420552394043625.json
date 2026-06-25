@@ -1,0 +1,42 @@
+{
+  "id": "2069420552394043625",
+  "title": "Generate a start frame in Midjourney, recreate/match the character poses and…",
+  "content": "Generate a start frame in Midjourney, recreate/match the character poses and animate the camera move in Blender, then feed both the start frame and the Blender camera/pose reference into Seedance to get precise camera tracking with consistent multi-character performance and dialogue.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069409826589818880/img/MvTs6wNs_QGpTAWg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069420552394043625.mp4",
+  "sourceLink": "https://x.com/reidhannaford/status/2069420552394043625",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "Reid Hannaford",
+    "link": "https://x.com/reidhannaford"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a start frame in Midjourney, recreate/match the character poses and animate the camera move in Blender, then feed both the start frame and the Blender camera/pose reference into Seedance to get precise camera tracking with consistent multi-character performance and dialogue.",
+  "translations": {
+    "es": {
+      "content": "Genera un fotograma inicial en Midjourney, recrea/iguala las poses de los personajes y anima el movimiento de la cámara en Blender, luego introduce tanto el fotograma inicial como la referencia de cámara/pose de Blender en Seedance para obtener un seguimiento preciso de la cámara con un rendimiento y diálogo consistente de múltiples personajes."
+    },
+    "fr": {
+      "content": "---\nGénérez une image de départ dans Midjourney, recréez/ajustez les poses des personnages et animez le mouvement de la caméra dans Blender, puis intégrez à la fois l'image de départ et la référence de caméra/pose de Blender dans Seedance pour obtenir un suivi de caméra précis avec une performance multi-personnages cohérente et des dialogues."
+    },
+    "ja": {
+      "content": "---\nMidjourneyでスタートフレームを生成し、キャラクターのポーズを再現/一致させ、Blenderでカメラの動きをアニメーション化します。その後、スタートフレームとBlenderのカメラ/ポーズのリファレンスをSeedanceに入力して、複数キャラクターの一貫したパフォーマンスとダイアログを伴う正確なカメラトラッキングを取得します。"
+    },
+    "ko": {
+      "content": "---\nMidjourney에서 시작 프레임을 생성하고, Blender에서 캐릭터 포즈를 재현/매치하여 카메라 움직임을 애니메이션화한 다음, 시작 프레임과 Blender 카메라/포즈 참조를 Seedance에 입력하여 일관된 다중 캐릭터 퍼포먼스와 대화가 있는 정밀한 카메라 트래킹을 얻으세요.\n---"
+    },
+    "pt": {
+      "content": "Gere um quadro inicial no Midjourney, recrie/iguale as poses dos personagens e anime o movimento da câmera no Blender, depois insira tanto o quadro inicial quanto a referência de câmera/pose do Blender no Seedance para obter um rastreamento de câmera preciso com desempenho e diálogo consistentes de múltiplos personagens."
+    },
+    "zh": {
+      "content": "在Midjourney中生成一个起始帧，重现/匹配角色姿势并在Blender中动画化摄像机移动，然后将起始帧和Blender摄像机/姿势参考输入Seedance，以获得精确的摄像机跟踪，并实现一致的多角色表演和对话。"
+    }
+  }
+}

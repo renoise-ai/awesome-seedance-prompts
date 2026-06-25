@@ -34,6 +34,9 @@
     },
     "zh": {
       "content": "通过在Higgsfield中生成视觉效果，仅使用文本提示创建Seedance 1.5视频，无需使用参考照片。"
+    },
+    "pt": {
+      "content": "Crie vídeos Seedance 1.5 inteiramente a partir de prompts de texto, gerando visuais no Higgsfield sem usar fotos de referência."
     }
   }
 }

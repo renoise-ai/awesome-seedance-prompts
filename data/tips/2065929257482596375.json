@@ -35,6 +35,9 @@
     },
     "pt": {
       "content": "Estruture seu prompt Seedance 2.0 como uma lista de cenas passo a passo (por exemplo, Wide aerial → First crack → Break → Aggressive dive → Chain collapse → Close call → Blind turn → Near-impact → Recovery → Final escape) para controlar o ritmo e garantir uma progressão de ação coerente.\n\nAdicione dicas explícitas de enquadramento e movimento de câmera (por exemplo, Wide aerial, high-speed traversal, aggressive dive, skimming the ground) para guiar o movimento cinematográfico e a legibilidade.\n\nEspecifique a causa e efeito ambiental progressivo (subtle fracture → massive slab detaches → chain collapse → canyon narrowing) para tornar o perigo crescente claro e fundamentado.\n\nInclua detalhes de visibilidade/oclusão (neve caindo e detritos bloqueando a visibilidade) para motivar transições de cena como curvas cegas e quase colisões.\n\nTermine com um desfecho claro (ship bursts out as canyon seals behind it) para dar à sequência um final definitivo."
+    },
+    "zh": {
+      "content": "将您的Seedance 2.0 prompt结构化为逐拍镜头列表（例如，Wide aerial → First crack → Break → Aggressive dive → Chain collapse → Close call → Blind turn → Near-impact → Recovery → Final escape），以控制节奏并确保动作进展连贯。\n\n添加明确的镜头构图和运动提示（例如，Wide aerial, high-speed traversal, aggressive dive, skimming the ground），以指导电影化的运动和可读性。\n\n指定渐进的环境因果关系（subtle fracture → massive slab detaches → chain collapse → canyon narrowing），以使不断升级的危险清晰且有依据。\n\n包括可见性/遮挡细节（falling snow and debris blocking visibility），以推动场景过渡，如blind turns和near-misses。\n\n以明确的解决节拍结束（ship bursts out as canyon seals behind it），为序列提供一个明确的结局。"
     }
   }
 }

@@ -35,6 +35,9 @@
     },
     "zh": {
       "content": "使用参考图像在Seedance 2.0生成中保持角色和场景的一致性  \n使用OMI模型生成Seedance 2.0视频以实现电影级渲染  \n使用分镜参考图像提高Seedance 2.0中场景间的一致性  \n通过生成更长、更慢节奏的Seedance镜头后再进行剪辑，以更长的电影节奏剪辑预告片  \n在Seedance渲染后在CapCut中应用LUTs和电影色彩调整，以达到专业级别"
+    },
+    "pt": {
+      "content": "Use imagens de referência para manter a continuidade de personagens e cenas nas gerações do Seedance 2.0  \nGere vídeos Seedance 2.0 com o Modelo OMI para renderização cinematográfica  \nUse imagens de referência de storyboard para melhorar a consistência de cena a cena no Seedance 2.0  \nCorte trailers com um ritmo cinematográfico mais longo gerando tomadas Seedance mais longas e de ritmo mais lento antes da edição  \nAplique LUTs e ajustes de cor cinematográficos no CapCut após as renderizações do Seedance para alcançar um nível profissional"
     }
   }
 }

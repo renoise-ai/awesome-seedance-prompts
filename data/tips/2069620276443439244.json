@@ -1,0 +1,41 @@
+{
+  "id": "2069620276443439244",
+  "title": "Generate up to a 30‑second video in a single run by setting the duration to 30s.",
+  "content": "Generate up to a 30‑second video in a single run by setting the duration to 30s.  \nUse Seedance 2.5’s multi‑reference feature by supplying up to 50 reference assets (images, videos, and audio) to guide the generation.  \nOutput in 4K by selecting 4K quality for the final render.  \nEdit the generated video by issuing simple text instructions to apply changes.  \nCreate a 30‑second commercial by providing a product photo plus a music track as inputs and prompting it to produce a 30s ad.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/RoundtableSpace/status/2069620276443439244",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "0xMarioNawfal",
+    "link": "https://x.com/RoundtableSpace"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate up to a 30‑second video in a single run by setting the duration to 30s.  \nUse Seedance 2.5’s multi‑reference feature by supplying up to 50 reference assets (images, videos, and audio) to guide the generation.  \nOutput in 4K by selecting 4K quality for the final render.  \nEdit the generated video by issuing simple text instructions to apply changes.  \nCreate a 30‑second commercial by providing a product photo plus a music track as inputs and prompting it to produce a 30s ad.",
+  "translations": {
+    "es": {
+      "content": "Genera un video de hasta 30 segundos en una sola ejecución configurando la duración a 30s.  \nUtiliza la función de múltiples referencias de Seedance 2.5 proporcionando hasta 50 activos de referencia (imágenes, videos y audio) para guiar la generación.  \nSal a 4K seleccionando calidad 4K para el render final.  \nEdita el video generado emitiendo instrucciones de texto simples para aplicar cambios.  \nCrea un comercial de 30 segundos proporcionando una foto del producto más una pista de música como entradas y pidiéndole que produzca un anuncio de 30s.\n\n--- TWEET CITADO ---\nBytedance anunció hoy Seedance 2.5, se espera que esté disponible al público a principios de julio.\n\nEn Seedance 2.5, principalmente se han mejorado los siguientes tres puntos:\n\n1. Puede generar videos de hasta 30 segundos de duración en una sola vez.\n\n2. Puede utilizar hasta 50 materiales de referencia, como imágenes, videos y audio.\n\n3. Puede salir en calidad 4K y editar videos simplemente con instrucciones de texto.\n\nPor ejemplo, solo con dar la instrucción \"Usa la foto de este producto y música para crear un video comercial de 30 segundos\", se puede crear un video de alta calidad de manera instantánea."
+    },
+    "fr": {
+      "content": "Générez une vidéo de 30 secondes en une seule fois en réglant la durée sur 30s.  \nUtilisez la fonction multi-référence de Seedance 2.5 en fournissant jusqu'à 50 ressources de référence (images, vidéos et audio) pour guider la génération.  \nSortez en 4K en sélectionnant la qualité 4K pour le rendu final.  \nModifiez la vidéo générée en émettant des instructions textuelles simples pour appliquer des changements.  \nCréez une publicité de 30 secondes en fournissant une photo de produit ainsi qu'une piste musicale comme entrées et en demandant de produire une annonce de 30s.\n\n--- TWEET CITÉ ---\nBytedance a annoncé aujourd'hui Seedance 2.5, dont la sortie publique est prévue pour début juillet.\n\nSeedance 2.5 a principalement évolué sur les trois points suivants :\n\n1. Capacité à générer des vidéos de 30 secondes maximum en une seule fois\n\n2. Possibilité d'utiliser jusqu'à 50 éléments de référence tels que des images, vidéos et audio\n\n3. Sortie en qualité 4K et possibilité de modifier la vidéo simplement en donnant des instructions textuelles\n\nPar exemple, il suffit de dire \"Créez une vidéo publicitaire de 30 secondes en utilisant la photo de ce produit et de la musique\" pour obtenir une vidéo de haute qualité en un instant."
+    },
+    "ja": {
+      "content": "---\n30秒の動画を一度に生成するには、30秒に設定してください。  \nSeedance 2.5のマルチリファレンス機能を使用して、最大50個のリファレンスアセット（画像、動画、音声）を提供し、生成をガイドします。  \n最終レンダリングのために4K品質を選択して4Kで出力します。  \n生成された動画を編集するには、簡単なテキスト指示を出して変更を適用します。  \n商品写真と音楽トラックを入力として提供し、30秒の広告を生成するように指示して、30秒のコマーシャルを作成します。\n\n--- QUOTED TWEET ---\nBytedanceが今日、Seedance2.5を発表しました、一般公開は7月上旬あたりになる予定\n\nSeedance 2.5では、主に次の3点が進化してます：\n\n1、最長30秒の動画を一度に生成できる\n\n2、画像・動画・音声など、最大50個の素材を参考にできる\n\n3、4K画質で出力でき、文字で指示するだけで動画を編集できる\n\nたとえば、「この商品の写真と音楽を使って、30秒のCM動画を作って」と指示するだけで、完成度の高い映像を一気に作れるようになります\n---"
+    },
+    "ko": {
+      "content": "---\n지속 시간을 30초로 설정하여 한 번에 최대 30초의 비디오를 생성하세요.  \nSeedance 2.5의 멀티 레퍼런스 기능을 사용하여 최대 50개의 참조 자산(이미지, 비디오, 오디오)을 제공하여 생성을 안내하세요.  \n최종 렌더링을 위해 4K 품질을 선택하여 4K로 출력하세요.  \n생성된 비디오를 간단한 텍스트 지시를 통해 편집하여 변경 사항을 적용하세요.  \n제품 사진과 음악 트랙을 입력으로 제공하고 30초 광고를 제작하도록 프롬프트하여 30초 상업 광고를 만드세요.\n\n--- 인용된 트윗 ---\n바이트댄스가 오늘 Seedance 2.5를 발표했으며, 일반 공개는 7월 초로 예정되어 있습니다.\n\nSeedance 2.5에서는 주로 다음의 세 가지 점이 발전했습니다:\n\n1. 최대 30초의 비디오를 한 번에 생성할 수 있습니다.\n\n2. 이미지, 비디오, 오디오 등 최대 50개의 자료를 참고할 수 있습니다.\n\n3. 4K 화질로 출력할 수 있으며, 문자로 지시하기만 하면 비디오를 편집할 수 있습니다.\n\n예를 들어, \"이 제품의 사진과 음악을 사용하여 30초의 광고 영상을 만들어 줘\"라고 지시하기만 하면, 완성도 높은 영상을 한 번에 만들 수 있습니다.\n---"
+    },
+    "pt": {
+      "content": "Gere um vídeo de até 30 segundos em uma única execução definindo a duração para 30s.  \nUse o recurso de múltiplas referências do Seedance 2.5 fornecendo até 50 ativos de referência (imagens, vídeos e áudio) para guiar a geração.  \nSaída em 4K selecionando a qualidade 4K para o render final.  \nEdite o vídeo gerado emitindo instruções de texto simples para aplicar alterações.  \nCrie um comercial de 30 segundos fornecendo uma foto do produto mais uma faixa de música como entradas e solicitando que produza um anúncio de 30s.\n\n--- TWEET CITADO ---\nA Bytedance anunciou hoje o Seedance 2.5, com lançamento público previsto para o início de julho.\n\nNo Seedance 2.5, principalmente três pontos evoluíram:\n\n1. Capacidade de gerar vídeos de até 30 segundos de uma só vez\n\n2. Possibilidade de usar até 50 materiais de referência, como imagens, vídeos e áudio\n\n3. Capacidade de saída em qualidade 4K e edição de vídeo apenas com instruções de texto\n\nPor exemplo, basta instruir \"Crie um vídeo comercial de 30 segundos usando a foto deste produto e música\" para gerar um vídeo de alta qualidade de forma rápida."
+    },
+    "zh": {
+      "content": "---\n通过将时长设置为30秒，一次生成最长30秒的视频。  \n使用Seedance 2.5的多参考功能，提供最多50个参考素材（图像、视频和音频）来指导生成。  \n选择4K质量进行最终渲染，以4K输出。  \n通过简单的文本指令编辑生成的视频以应用更改。  \n通过提供产品照片和音乐轨道作为输入，并提示生成30秒广告，创建30秒的商业广告。\n\n--- 引用推文 ---\n字节跳动今天发布了Seedance 2.5，预计将在7月上旬公开发布。\n\nSeedance 2.5主要在以下三点上进行了改进：\n\n1、可以一次生成最长30秒的视频\n\n2、可以参考最多50个素材，包括图像、视频和音频\n\n3、可以以4K画质输出，只需通过文字指令即可编辑视频\n\n例如，只需指示“使用这张产品照片和音乐制作一个30秒的广告视频”，就能一气呵成地制作出高完成度的视频\n---"
+    }
+  }
+}

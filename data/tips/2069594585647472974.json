@@ -1,0 +1,42 @@
+{
+  "id": "2069594585647472974",
+  "title": "Block out your camera move in Blender and export it as a motion reference to…",
+  "content": "Block out your camera move in Blender and export it as a motion reference to drive precise camera control in Seedance.  \nGenerate a start frame in Midjourney that matches the desired pose and composition, then use it as the start frame input in Seedance.  \nFeed both the Blender motion reference and the Midjourney start frame into Seedance to closely track the planned camera move.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069594523873705984/img/-D0AorhnabfNIjDU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069594585647472974.mp4",
+  "sourceLink": "https://x.com/RoundtableSpace/status/2069594585647472974",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "0xMarioNawfal",
+    "link": "https://x.com/RoundtableSpace"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Block out your camera move in Blender and export it as a motion reference to drive precise camera control in Seedance.  \nGenerate a start frame in Midjourney that matches the desired pose and composition, then use it as the start frame input in Seedance.  \nFeed both the Blender motion reference and the Midjourney start frame into Seedance to closely track the planned camera move.",
+  "translations": {
+    "es": {
+      "content": "Bloquea el movimiento de tu cámara en Blender y expórtalo como una referencia de movimiento para controlar con precisión la cámara en Seedance.  \nGenera un fotograma inicial en Midjourney que coincida con la pose y composición deseadas, luego úsalo como el fotograma inicial de entrada en Seedance.  \nIntroduce tanto la referencia de movimiento de Blender como el fotograma inicial de Midjourney en Seedance para seguir de cerca el movimiento de cámara planificado."
+    },
+    "fr": {
+      "content": "Bloquez votre mouvement de caméra dans Blender et exportez-le comme référence de mouvement pour contrôler précisément la caméra dans Seedance.  \nGénérez une image de départ dans Midjourney qui correspond à la pose et à la composition souhaitées, puis utilisez-la comme image de départ dans Seedance.  \nIntégrez à la fois la référence de mouvement de Blender et l'image de départ de Midjourney dans Seedance pour suivre de près le mouvement de caméra planifié."
+    },
+    "ja": {
+      "content": "Blenderでカメラの動きをブロックアウトし、正確なカメラ制御を行うためのモーションリファレンスとしてSeedanceにエクスポートします。  \nMidjourneyで希望するポーズと構図に合ったスタートフレームを生成し、それをSeedanceのスタートフレーム入力として使用します。  \nBlenderのモーションリファレンスとMidjourneyのスタートフレームの両方をSeedanceに入力し、計画されたカメラの動きを正確に追跡します。"
+    },
+    "ko": {
+      "content": "Blender에서 카메라 움직임을 블록 아웃하고 이를 Seedance에서 정밀한 카메라 제어를 위한 모션 참조로 내보내세요.  \nMidjourney에서 원하는 포즈와 구도에 맞는 시작 프레임을 생성한 후, 이를 Seedance의 시작 프레임 입력으로 사용하세요.  \nBlender 모션 참조와 Midjourney 시작 프레임을 모두 Seedance에 입력하여 계획된 카메라 움직임을 정확하게 추적하세요."
+    },
+    "pt": {
+      "content": "Bloqueie o movimento da sua câmera no Blender e exporte-o como uma referência de movimento para controlar a câmera com precisão no Seedance.  \nGere um quadro inicial no Midjourney que corresponda à pose e composição desejadas, depois use-o como entrada de quadro inicial no Seedance.  \nAlimente tanto a referência de movimento do Blender quanto o quadro inicial do Midjourney no Seedance para acompanhar de perto o movimento planejado da câmera."
+    },
+    "zh": {
+      "content": "在Blender中规划你的镜头移动，并将其导出为运动参考，以在Seedance中实现精确的镜头控制。  \n在Midjourney中生成一个与所需姿势和构图相匹配的起始帧，然后将其用作Seedance中的起始帧输入。  \n将Blender运动参考和Midjourney起始帧都输入到Seedance中，以紧密跟踪计划的镜头移动。"
+    }
+  }
+}

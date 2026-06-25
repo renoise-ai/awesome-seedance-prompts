@@ -1,0 +1,42 @@
+{
+  "id": "2069344517531324851",
+  "title": "Seedance2.0（またはHappyHorse 1.1）で戦闘アニメーションを作る際は、参照画像はキャラクターシート1枚だけにして、残りの動きや演出はプロン…",
+  "content": "Seedance2.0（またはHappyHorse 1.1）で戦闘アニメーションを作る際は、参照画像はキャラクターシート1枚だけにして、残りの動きや演出はプロンプトで制御する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069343740549029888/img/4W9GAe-aj0-gPGq6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069344517531324851.mp4",
+  "sourceLink": "https://x.com/Ryuki_Yano/status/2069344517531324851",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "ヤノ",
+    "link": "https://x.com/Ryuki_Yano"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.0（またはHappyHorse 1.1）で戦闘アニメーションを作る際は、参照画像はキャラクターシート1枚だけにして、残りの動きや演出はプロンプトで制御する",
+  "translations": {
+    "en": {
+      "content": "When creating combat animations with Seedance2.0 (or HappyHorse 1.1), use only one character sheet as a reference image, and control the remaining movements and effects through prompts.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Tools Used\n#PolloAI \n@PolloAIJP\n\n[Thread 2] @PolloAIJP https://t.co/72XqpYcZZr\n---"
+    },
+    "es": {
+      "content": "---\nAl crear animaciones de combate con Seedance2.0 (o HappyHorse 1.1), utiliza solo una hoja de personaje como imagen de referencia, y controla el resto de los movimientos y efectos con el prompt.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Herramientas utilizadas\n#PolloAI \n@PolloAIJP\n\n[Hilo 2] @PolloAIJP https://t.co/72XqpYcZZr\n---"
+    },
+    "fr": {
+      "content": "---\nLors de la création d'une animation de combat avec Seedance2.0 (ou HappyHorse 1.1), utilisez une seule feuille de personnage comme image de référence, et contrôlez le reste des mouvements et des effets avec le prompt.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Outils utilisés\n#PolloAI \n@PolloAIJP\n\n[Fil 2] @PolloAIJP https://t.co/72XqpYcZZr\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance2.0（또는 HappyHorse 1.1）로 전투 애니메이션을 만들 때는, 참조 이미지는 캐릭터 시트 1장만 사용하고, 나머지 동작이나 연출은 프롬프트로 제어합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 사용 도구\n#PolloAI \n@PolloAIJP\n\n[Thread 2] @PolloAIJP https://t.co/72XqpYcZZr\n---"
+    },
+    "pt": {
+      "content": "---\nAo criar animações de combate com Seedance2.0 (ou HappyHorse 1.1), use apenas uma folha de personagem como imagem de referência, e controle o restante dos movimentos e efeitos através do prompt.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Ferramentas utilizadas\n#PolloAI \n@PolloAIJP\n\n[Tópico 2] @PolloAIJP https://t.co/72XqpYcZZr\n---"
+    },
+    "zh": {
+      "content": "---\n在使用Seedance2.0（或HappyHorse 1.1）制作战斗动画时，参考图像只用一张角色表，其余的动作和演出通过prompt来控制。\n\n--- 线程继续 ---\n[线程 1] 使用工具\n#PolloAI \n@PolloAIJP\n\n[线程 2] @PolloAIJP https://t.co/72XqpYcZZr\n---"
+    }
+  }
+}

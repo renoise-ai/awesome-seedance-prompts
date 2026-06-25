@@ -1,0 +1,43 @@
+{
+  "id": "2069783215829569746",
+  "title": "Generate a start frame in Midjourney, then feed that image to Seedance as the…",
+  "content": "Generate a start frame in Midjourney, then feed that image to Seedance as the initial frame for the shot  \nBlock out the scene in Blender using simple boxes/basic shapes to represent characters and environment, and animate the camera to define the shot  \nExport/use the Blender blockout as a 3D/reference input and feed it together with the Midjourney start frame into Seedance to drive a precise multi-character shot  \nUse low-fidelity 3D references (they don’t need to look good) as long as they capture correct layout and camera motion before sending to Seedance",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069773155426619392/img/74xz_I7ebnYpqFje.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2069783215829569746.mp4",
+  "sourceLink": "https://x.com/reidhannaford/status/2069783215829569746",
+  "sourcePublishedAt": "2026-06-24",
+  "author": {
+    "name": "Reid Hannaford",
+    "link": "https://x.com/reidhannaford"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Generate a start frame in Midjourney, then feed that image to Seedance as the initial frame for the shot  \nBlock out the scene in Blender using simple boxes/basic shapes to represent characters and environment, and animate the camera to define the shot  \nExport/use the Blender blockout as a 3D/reference input and feed it together with the Midjourney start frame into Seedance to drive a precise multi-character shot  \nUse low-fidelity 3D references (they don’t need to look good) as long as they capture correct layout and camera motion before sending to Seedance",
+  "translations": {
+    "es": {
+      "content": "Genera un fotograma inicial en Midjourney, luego utiliza esa imagen en Seedance como el fotograma inicial para la toma  \nBloquea la escena en Blender usando cajas simples/formas básicas para representar personajes y el entorno, y anima la cámara para definir la toma  \nExporta/usa el bloque de Blender como una entrada 3D/de referencia y aliméntalo junto con el fotograma inicial de Midjourney en Seedance para lograr una toma precisa de múltiples personajes  \nUsa referencias 3D de baja fidelidad (no necesitan verse bien) siempre que capturen el diseño correcto y el movimiento de la cámara antes de enviarlo a Seedance"
+    },
+    "fr": {
+      "content": "Générez une image de départ dans Midjourney, puis utilisez cette image dans Seedance comme image initiale pour la prise de vue  \nBloquez la scène dans Blender en utilisant des boîtes simples/formes basiques pour représenter les personnages et l'environnement, et animez la caméra pour définir la prise de vue  \nExportez/utilisez le blocage de Blender comme entrée 3D/référence et combinez-le avec l'image de départ de Midjourney dans Seedance pour réaliser une prise de vue précise avec plusieurs personnages  \nUtilisez des références 3D de basse fidélité (elles n'ont pas besoin d'être esthétiques) tant qu'elles capturent correctement la disposition et le mouvement de la caméra avant de les envoyer à Seedance"
+    },
+    "ja": {
+      "content": "---\nMidjourneyでスタートフレームを生成し、その画像をSeedanceに初期フレームとして入力します  \nBlenderでシンプルなボックスや基本形状を使ってキャラクターや環境を表現し、カメラをアニメートしてショットを定義します  \nBlenderのブロックアウトを3D/参照入力としてエクスポート/使用し、Midjourneyのスタートフレームと一緒にSeedanceに入力して、正確なマルチキャラクターショットを実現します  \nSeedanceに送信する前に、正しいレイアウトとカメラの動きを捉えていれば、低忠実度の3D参照（見栄えは重要ではありません）を使用します  \n---"
+    },
+    "ko": {
+      "content": "---\nMidjourney에서 시작 프레임을 생성한 후 그 이미지를 Seedance에 초기 프레임으로 입력합니다.  \nBlender에서 간단한 박스/기본 형태를 사용하여 캐릭터와 환경을 나타내고, 카메라를 애니메이션하여 샷을 정의합니다.  \nBlender 블록아웃을 3D/참조 입력으로 내보내거나 사용하고, Midjourney 시작 프레임과 함께 Seedance에 입력하여 정밀한 다중 캐릭터 샷을 구동합니다.  \nSeedance에 보내기 전에 올바른 레이아웃과 카메라 움직임을 캡처하는 한, 저해상도의 3D 참조(보기 좋을 필요는 없음)를 사용합니다.  \n---"
+    },
+    "pt": {
+      "content": "Gere um quadro inicial no Midjourney, depois alimente essa imagem no Seedance como o quadro inicial para a cena  \nBloqueie a cena no Blender usando caixas simples/formas básicas para representar personagens e ambiente, e anime a câmera para definir a cena  \nExporte/use o bloqueio do Blender como uma entrada 3D/referência e alimente-o junto com o quadro inicial do Midjourney no Seedance para conduzir uma cena precisa com vários personagens  \nUse referências 3D de baixa fidelidade (não precisam ter boa aparência) desde que capturem o layout correto e o movimento da câmera antes de enviar para o Seedance"
+    },
+    "zh": {
+      "content": "在Midjourney中生成一个起始帧，然后将该图像作为镜头的初始帧输入到Seedance  \n在Blender中使用简单的盒子/基本形状来表示角色和环境，封锁场景，并通过动画化摄像机来定义镜头  \n将Blender的封锁场景导出/用作3D/参考输入，并与Midjourney的起始帧一起输入到Seedance，以驱动精确的多角色镜头  \n使用低保真度的3D参考（它们不需要看起来很好），只要它们在发送到Seedance之前捕捉到正确的布局和摄像机运动即可"
+    }
+  }
+}
