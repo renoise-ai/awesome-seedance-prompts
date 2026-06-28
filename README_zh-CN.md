@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **2497** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **1158** |
-| 🔄 最后更新 | **2026-06-27** |
+| 🔄 最后更新 | **2026-06-28** |
 
 ---
 
@@ -4996,4 +4996,4 @@ Use brand/style references (Ducati/BMW Motorrad/Top Gear, Netflix automotive int
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-06-27T21:05:22.403Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-06-28T03:59:31.825Z
