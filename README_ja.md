@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **2497** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **1158** |
-| 🔄 最終更新 | **2026-06-28** |
+| 🔄 最終更新 | **2026-06-29** |
 
 ---
 
@@ -7190,4 +7190,4 @@ Use brand/style references (Ducati/BMW Motorrad/Top Gear, Netflix automotive int
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-28T21:03:23.871Z
+🤖 この README は自動生成されています。最終更新： 2026-06-29T04:05:34.978Z
