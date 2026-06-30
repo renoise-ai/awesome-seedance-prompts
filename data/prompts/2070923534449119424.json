@@ -1,0 +1,40 @@
+{
+  "id": "2070923534449119424",
+  "title": "Create a short conversation between a museum guide and a confused visitor. The…",
+  "content": "Create a short conversation between a museum guide and a confused visitor. The guide must explain why the phrase ‘crossing the Rubicon’ means passing a point of no return.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070922637551759361/img/I8mymCV2pfhWARo9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070923534449119424.mp4",
+  "sourceLink": "https://x.com/TomLikesRobots/status/2070923534449119424",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "TomLikesRobots🤖",
+    "link": "https://x.com/TomLikesRobots"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "---\nCrea una breve conversación entre un guía de museo y un visitante confundido. El guía debe explicar por qué la frase 'cruzar el Rubicón' significa pasar un punto sin retorno."
+    },
+    "fr": {
+      "content": "Créez une courte conversation entre un guide de musée et un visiteur perplexe. Le guide doit expliquer pourquoi l'expression « crossing the Rubicon » signifie passer un point de non-retour."
+    },
+    "ja": {
+      "content": "---\n博物館のガイドと困惑した訪問者の間の短い会話を作成してください。ガイドは、「ルビコン川を渡る」というフレーズが、戻れない地点を通過することを意味する理由を説明しなければなりません。"
+    },
+    "ko": {
+      "content": "---\n박물관 가이드와 혼란스러운 방문자 간의 짧은 대화를 만들어 보세요. 가이드는 '루비콘 강을 건넌다'는 표현이 왜 되돌릴 수 없는 지점을 넘는 것을 의미하는지 설명해야 합니다."
+    },
+    "pt": {
+      "content": "Crie uma breve conversa entre um guia de museu e um visitante confuso. O guia deve explicar por que a expressão \"crossing the Rubicon\" significa passar um ponto sem retorno."
+    },
+    "zh": {
+      "content": "创作一段博物馆导游和一位困惑游客之间的简短对话。导游必须解释为什么短语“crossing the Rubicon”意味着越过了无法回头的界限。"
+    }
+  }
+}

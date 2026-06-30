@@ -1,0 +1,42 @@
+{
+  "id": "2070531875236647285",
+  "title": "Type a story or paste your script into the agent to auto-generate a…",
+  "content": "Type a story or paste your script into the agent to auto-generate a minutes-long film using Seedance 2.0 in 4K quality  \nUse the generated prompts and reference images to edit individual clips, characters, and voice after the film is generated",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070531810795364352/img/VXgWr6HsLsJADgqF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070531875236647285.mp4",
+  "sourceLink": "https://x.com/EHuanglu/status/2070531875236647285",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "el.cine",
+    "link": "https://x.com/EHuanglu"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Type a story or paste your script into the agent to auto-generate a minutes-long film using Seedance 2.0 in 4K quality  \nUse the generated prompts and reference images to edit individual clips, characters, and voice after the film is generated",
+  "translations": {
+    "es": {
+      "content": "Escribe una historia o pega tu guion en el agente para generar automáticamente una película de varios minutos usando Seedance 2.0 en calidad 4K  \nUtiliza los prompts generados y las imágenes de referencia para editar clips individuales, personajes y voces después de que la película sea generada"
+    },
+    "fr": {
+      "content": "Tapez une histoire ou collez votre script dans l'agent pour générer automatiquement un film de plusieurs minutes en utilisant Seedance 2.0 en qualité 4K  \nUtilisez les prompts générés et les images de référence pour éditer les clips individuels, les personnages et la voix après la génération du film"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0を使用して、4K品質で数分間の映画を自動生成するために、ストーリーを入力するか、スクリプトをエージェントに貼り付けてください  \n映画が生成された後、生成されたプロンプトと参照画像を使用して、個々のクリップ、キャラクター、声を編集します  \n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 사용하여 4K 품질의 몇 분짜리 영화를 자동 생성하려면 이야기를 입력하거나 스크립트를 에이전트에 붙여넣으세요  \n영화가 생성된 후 생성된 프롬프트와 참고 이미지를 사용하여 개별 클립, 캐릭터 및 음성을 편집하세요"
+    },
+    "pt": {
+      "content": "Digite uma história ou cole seu roteiro no agente para gerar automaticamente um filme de minutos usando o Seedance 2.0 em qualidade 4K  \nUse os prompts gerados e imagens de referência para editar clipes individuais, personagens e voz após o filme ser gerado"
+    },
+    "zh": {
+      "content": "在代理中输入一个故事或粘贴你的剧本，使用Seedance 2.0自动生成一部时长数分钟的4K质量电影  \n在电影生成后，使用生成的prompts和参考图像编辑单个片段、角色和声音"
+    }
+  }
+}

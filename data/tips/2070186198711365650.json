@@ -1,0 +1,41 @@
+{
+  "id": "2070186198711365650",
+  "title": "Assign each character a unique hex color on their bounding box, then state in…",
+  "content": "Assign each character a unique hex color on their bounding box, then state in your Seedance prompt which character corresponds to which hex color to keep identities consistent.\n\nWhen using character “ingredients” across shots, color-code the character boxes with hex colors and reference those colors in the prompt for reliable control.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/PJaccetturo/status/2070186198711365650",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "PJ Ace",
+    "link": "https://x.com/PJaccetturo"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Assign each character a unique hex color on their bounding box, then state in your Seedance prompt which character corresponds to which hex color to keep identities consistent.\n\nWhen using character “ingredients” across shots, color-code the character boxes with hex colors and reference those colors in the prompt for reliable control.",
+  "translations": {
+    "es": {
+      "content": "Asigna a cada personaje un color hexagonal único en su cuadro delimitador, luego indica en tu prompt de Seedance qué personaje corresponde a qué color hexagonal para mantener las identidades consistentes.\n\nAl usar \"ingredientes\" de personajes en diferentes tomas, codifica con colores los cuadros de los personajes con colores hexagonales y referencia esos colores en el prompt para un control confiable."
+    },
+    "fr": {
+      "content": "Attribuez à chaque personnage une couleur hexadécimale unique sur leur boîte de délimitation, puis indiquez dans votre prompt Seedance quel personnage correspond à quelle couleur hexadécimale pour maintenir la cohérence des identités.\n\nLors de l'utilisation des \"ingrédients\" de personnage à travers les prises de vue, codez par couleur les boîtes des personnages avec des couleurs hexadécimales et faites référence à ces couleurs dans le prompt pour un contrôle fiable."
+    },
+    "ja": {
+      "content": "---\n各キャラクターのバウンディングボックスにユニークな16進数カラーを割り当て、それぞれのキャラクターがどの16進数カラーに対応するかをSeedanceプロンプトで指定し、アイデンティティを一貫して保ちます。\n\nショット間でキャラクターの「要素」を使用する際には、キャラクターボックスを16進数カラーで色分けし、そのカラーをプロンプトで参照して信頼性のあるコントロールを実現します。\n---"
+    },
+    "ko": {
+      "content": "각 캐릭터의 경계 상자에 고유한 헥스 색상을 지정한 다음, Seedance 프롬프트에서 어떤 캐릭터가 어떤 헥스 색상에 해당하는지 명시하여 정체성을 일관되게 유지하세요.\n\n장면 전환 시 캐릭터 \"재료\"를 사용할 때, 캐릭터 상자를 헥스 색상으로 색상 코딩하고 프롬프트에서 해당 색상을 참조하여 신뢰할 수 있는 제어를 확보하세요."
+    },
+    "pt": {
+      "content": "Atribua a cada personagem uma cor hexagonal única em sua caixa delimitadora, e então indique em seu prompt Seedance qual personagem corresponde a qual cor hexagonal para manter as identidades consistentes.\n\nAo usar \"ingredientes\" de personagens em diferentes cenas, codifique as caixas dos personagens com cores hexagonais e faça referência a essas cores no prompt para um controle confiável."
+    },
+    "zh": {
+      "content": "为每个角色的边界框分配一个独特的十六进制颜色，然后在您的 Seedance prompt 中说明哪个角色对应哪个十六进制颜色，以保持身份一致。\n\n在跨镜头使用角色“成分”时，用十六进制颜色对角色框进行颜色编码，并在 prompt 中引用这些颜色以实现可靠的控制。"
+    }
+  }
+}

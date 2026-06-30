@@ -1,0 +1,43 @@
+{
+  "id": "2071023469861712294",
+  "title": "ClaudeとBlenderのMCG連携で3Dシーンに動きやカメラワークを付けて素材を作り、完成したらその素材をSeedanceに読み込んで動画生成に使う",
+  "content": "ClaudeとBlenderのMCG連携で3Dシーンに動きやカメラワークを付けて素材を作り、完成したらその素材をSeedanceに読み込んで動画生成に使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2070522943478571008/pu/img/EuDPX1_nNLgodmiX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071023469861712294.mp4",
+  "sourceLink": "https://x.com/tkz_aiart/status/2071023469861712294",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "たくぞー｜AI動画最新情報",
+    "link": "https://x.com/tkz_aiart"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "ClaudeとBlenderのMCG連携で3Dシーンに動きやカメラワークを付けて素材を作り、完成したらその素材をSeedanceに読み込んで動画生成に使う",
+  "translations": {
+    "en": {
+      "content": "Create materials by adding motion and camera work to a 3D scene using the integration of Claude and Blender's MCG, and once completed, import those materials into Seedance for video generation."
+    },
+    "es": {
+      "content": "Con la integración de Claude y Blender MCG, se pueden añadir movimientos y trabajo de cámara a una escena 3D para crear materiales. Una vez completados, esos materiales se cargan en Seedance para usarlos en la generación de videos."
+    },
+    "fr": {
+      "content": "Créer des matériaux en ajoutant des mouvements et des effets de caméra à une scène 3D en utilisant l'intégration de Claude avec Blender MCG, puis importer ces matériaux dans Seedance pour générer des vidéos."
+    },
+    "ko": {
+      "content": "Claude와 Blender의 MCG 연계를 통해 3D 씬에 동작과 카메라 워크를 추가하여 소재를 만들고, 완성되면 그 소재를 Seedance에 불러와 비디오 생성에 사용합니다."
+    },
+    "pt": {
+      "content": "Com a integração do Claude e do Blender com o MCG, crie materiais adicionando movimento e trabalho de câmera a cenas 3D. Quando estiverem prontos, importe esses materiais para o Seedance para usar na geração de vídeos."
+    },
+    "zh": {
+      "content": "利用Claude和Blender的MCG联动为3D场景添加动作和摄像机运作来制作素材，完成后将这些素材导入Seedance用于视频生成。"
+    }
+  }
+}

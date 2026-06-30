@@ -1,0 +1,42 @@
+{
+  "id": "2070780881372090822",
+  "title": "ストーリーボードを使ってキャラクターや背景の雰囲気（リファレンスの一貫性）を維持したまま、同じシーンを複数のカメラアングルで動画化するテストを行う",
+  "content": "ストーリーボードを使ってキャラクターや背景の雰囲気（リファレンスの一貫性）を維持したまま、同じシーンを複数のカメラアングルで動画化するテストを行う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070780826296709120/img/WQX3cColgCS6oZKT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070780881372090822.mp4",
+  "sourceLink": "https://x.com/hasamaru_studio/status/2070780881372090822",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "はさまるスタジオ (Hasamaru Studio)",
+    "link": "https://x.com/hasamaru_studio"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ストーリーボードを使ってキャラクターや背景の雰囲気（リファレンスの一貫性）を維持したまま、同じシーンを複数のカメラアングルで動画化するテストを行う",
+  "translations": {
+    "en": {
+      "content": "Conduct a test to create a video of the same scene from multiple camera angles using a storyboard, while maintaining the atmosphere of the characters and background (consistency with references)."
+    },
+    "es": {
+      "content": "Se realizará una prueba para convertir la misma escena en video desde múltiples ángulos de cámara, utilizando un storyboard para mantener la atmósfera de los personajes y el fondo (consistencia de referencia)."
+    },
+    "fr": {
+      "content": "---\nTester la création de vidéos à partir de la même scène avec plusieurs angles de caméra, tout en utilisant un storyboard pour maintenir l'ambiance des personnages et des arrière-plans (cohérence des références)."
+    },
+    "ko": {
+      "content": "스토리보드를 사용하여 캐릭터와 배경의 분위기(참조의 일관성)를 유지하면서, 동일한 장면을 여러 카메라 앵글로 영상화하는 테스트를 진행합니다."
+    },
+    "pt": {
+      "content": "Realizar um teste para transformar a mesma cena em vídeo com múltiplos ângulos de câmera, usando storyboards para manter a atmosfera dos personagens e do fundo (consistência de referência)."
+    },
+    "zh": {
+      "content": "---\n进行测试，通过使用分镜头脚本在保持角色和背景氛围（参考的一致性）的同时，以多个摄像机角度将同一场景视频化。"
+    }
+  }
+}

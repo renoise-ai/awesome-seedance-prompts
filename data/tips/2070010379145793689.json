@@ -1,0 +1,41 @@
+{
+  "id": "2070010379145793689",
+  "title": "Seedance2を使うとキャラクターデザインを正確に保持しやすい（Seedance2以外のモデルでは保持が難しい）",
+  "content": "Seedance2を使うとキャラクターデザインを正確に保持しやすい（Seedance2以外のモデルでは保持が難しい）  \nKling3で動きが良い動画を先に作り、その動画をSeedance2のモーション参照として使う  \nモーション参照に使う前にGemini Omniで動画をマネキン化し、元動画のスタイル細部まで模倣されるのを防ぐ  \nマネキン化で再現できない部分はSeedance2のプロンプトで補完する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/nbykos/status/2070010379145793689",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "NOBU",
+    "link": "https://x.com/nbykos"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2を使うとキャラクターデザインを正確に保持しやすい（Seedance2以外のモデルでは保持が難しい）  \nKling3で動きが良い動画を先に作り、その動画をSeedance2のモーション参照として使う  \nモーション参照に使う前にGemini Omniで動画をマネキン化し、元動画のスタイル細部まで模倣されるのを防ぐ  \nマネキン化で再現できない部分はSeedance2のプロンプトで補完する",
+  "translations": {
+    "en": {
+      "content": "Using Seedance2 makes it easier to accurately maintain character design (which is difficult to maintain with models other than Seedance2).  \nFirst, create a video with good movement using Kling3, and then use that video as a motion reference for Seedance2.  \nBefore using it as a motion reference, convert the video into a mannequin using Gemini Omni to prevent the original video's style details from being imitated.  \nParts that cannot be reproduced through mannequin conversion are supplemented with a Seedance2 prompt.\n\n--- QUOTED TWEET ---\nExperimenting with bringing Kling's movements into Seedance2\n\nCreate a video with good movement using Kling3  \n↓  \nConvert to mannequin with Gemini Omni  \n(Without this, the style details would be imitated)  \n↓  \nUse as a motion reference in Seedance2\n\nParts that cannot be reproduced with the mannequin are substituted with prompts, but the challenge is that those parts become stiff. https://t.co/FYlNEQ3Kio"
+    },
+    "es": {
+      "content": "---\nCon Seedance2 es más fácil mantener el diseño del personaje con precisión (es difícil de mantener con modelos que no sean Seedance2)  \nPrimero, crea un video con buen movimiento usando Kling3 y luego úsalo como referencia de movimiento para Seedance2  \nAntes de usarlo como referencia de movimiento, conviértelo en un maniquí con Gemini Omni para evitar que se imiten los detalles del estilo del video original  \nLas partes que no se pueden reproducir con la maniquinización se complementan con un prompt de Seedance2\n\n--- TWEET CITADO ---\nExperimento de llevar el movimiento de Kling a Seedance2\n\nCrear un video con buen movimiento usando Kling3\n↓\nConvertir en maniquí con Gemini Omni\n(Si no se hace esto, se imitan los detalles del estilo)\n↓\nReferencia de movimiento en Seedance2\n\nLas partes que no se pueden reproducir con el maniquí se sustituyen con un prompt, pero el problema es que esas partes se vuelven rígidas. https://t.co/FYlNEQ3Kio\n---"
+    },
+    "fr": {
+      "content": "---\nAvec Seedance2, il est plus facile de maintenir avec précision le design des personnages (ce qui est difficile à faire avec d'autres modèles que Seedance2).  \nCréez d'abord une vidéo avec de bons mouvements en utilisant Kling3, puis utilisez cette vidéo comme référence de mouvement pour Seedance2.  \nAvant d'utiliser la vidéo comme référence de mouvement, transformez-la en mannequin avec Gemini Omni pour éviter que les détails du style de la vidéo originale ne soient imités.  \nLes parties qui ne peuvent pas être reproduites par la transformation en mannequin sont complétées par un prompt dans Seedance2.\n\n--- TWEET CITÉ ---\nExpérimentation pour amener les mouvements de Kling dans Seedance2\n\nCréez une vidéo avec de bons mouvements en utilisant Kling3\n↓\nTransformez en mannequin avec Gemini Omni\n(Si vous ne le faites pas, les détails du style seront imités)\n↓\nRéférence de mouvement avec Seedance2\n\nLes parties qui ne peuvent pas être reproduites par le mannequin sont remplacées par un prompt, mais cela rend ces parties rigides, ce qui est un problème. https://t.co/FYlNEQ3Kio\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance2를 사용하면 캐릭터 디자인을 정확하게 유지하기 쉽습니다 (Seedance2 외의 모델에서는 유지하기 어려움)  \nKling3로 좋은 움직임의 영상을 먼저 만들고, 그 영상을 Seedance2의 모션 참조로 사용합니다  \n모션 참조로 사용하기 전에 Gemini Omni로 영상을 마네킹화하여 원본 영상의 스타일 세부 사항까지 모방되는 것을 방지합니다  \n마네킹화로 재현할 수 없는 부분은 Seedance2의 프롬프트로 보완합니다\n\n--- QUOTED TWEET ---\nKling의 움직임을 Seedance2에 가져오는 실험\n\nKling3로 좋은 움직임의 영상을 만듭니다\n↓\nGemini Omni로 마네킹화\n(이 작업을 하지 않으면 스타일의 세부 사항까지 모방됩니다)\n↓\nSeedance2로 모션 참조\n\n마네킹으로 재현할 수 없는 부분은 프롬프트로 대체하고 있지만, 그 부분이 딱딱해지는 것이 과제입니다. https://t.co/FYlNEQ3Kio\n---"
+    },
+    "pt": {
+      "content": "---\nUsar o Seedance2 facilita a manutenção precisa do design de personagens (algo difícil de manter com outros modelos além do Seedance2).  \nCrie primeiro um vídeo com bons movimentos usando o Kling3 e use esse vídeo como referência de movimento para o Seedance2.  \nAntes de usar como referência de movimento, transforme o vídeo em manequim com o Gemini Omni para evitar que os detalhes do estilo do vídeo original sejam imitados.  \nAs partes que não podem ser reproduzidas na transformação em manequim são complementadas com o prompt do Seedance2.\n\n--- TWEET CITADO ---\nExperimento de trazer os movimentos do Kling para o Seedance2\n\nCrie um vídeo com bons movimentos usando o Kling3\n↓\nTransforme em manequim com o Gemini Omni\n(se não fizer isso, os detalhes do estilo serão imitados)\n↓\nReferência de movimento no Seedance2\n\nAs partes que não podem ser reproduzidas no manequim são substituídas por prompts, mas isso faz com que essas partes fiquem rígidas, o que é um desafio. https://t.co/FYlNEQ3Kio\n---"
+    },
+    "zh": {
+      "content": "使用Seedance2可以更容易地准确保持角色设计（其他模型难以保持）  \n先用Kling3制作动作良好的视频，然后将该视频用作Seedance2的动作参考  \n在用作动作参考之前，使用Gemini Omni将视频转化为人体模型，以防止模仿原视频的风格细节  \n无法通过人体模型再现的部分用Seedance2的prompt进行补充\n\n--- 引用推文 ---\n将Kling的动作引入Seedance2的实验\n\n用Kling3制作动作良好的视频\n↓\n用Gemini Omni进行人体模型化\n（如果不这样做，会模仿风格的细节）\n↓\n在Seedance2中用作动作参考\n\n人体模型无法再现的部分用prompt替代，但这部分会变得僵硬，这是一个问题。 https://t.co/FYlNEQ3Kio"
+    }
+  }
+}

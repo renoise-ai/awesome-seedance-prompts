@@ -1,0 +1,42 @@
+{
+  "id": "2071598123693273284",
+  "title": "GPT-Image2でキャラ画像を先に作り、Seedance 2.0で<image1>として参照画像に指定して日本語プロンプトで動画生成する",
+  "content": "GPT-Image2でキャラ画像を先に作り、Seedance 2.0で<image1>として参照画像に指定して日本語プロンプトで動画生成する  \n4K化は現時点ではSeedanceネイティブを使わず、Astra（Starlight Precise 2.5）やローカル環境でアップスケールする  \nSeedance 2.0の生成は#Topviewを使う（他プラットフォームで実写系人物が出にくい場合でもTopviewだと生成できることがある）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071597138891681792/img/LqF5oY9-0UmsxxR0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071598123693273284.mp4",
+  "sourceLink": "https://x.com/old_pgmrs_will/status/2071598123693273284",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "いにしえ@AI Director & Creator｜Will Oldgram",
+    "link": "https://x.com/old_pgmrs_will"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "GPT-Image2でキャラ画像を先に作り、Seedance 2.0で<image1>として参照画像に指定して日本語プロンプトで動画生成する  \n4K化は現時点ではSeedanceネイティブを使わず、Astra（Starlight Precise 2.5）やローカル環境でアップスケールする  \nSeedance 2.0の生成は#Topviewを使う（他プラットフォームで実写系人物が出にくい場合でもTopviewだと生成できることがある）",
+  "translations": {
+    "en": {
+      "content": "Create character images first with GPT-Image2, then specify them as reference images with <image1> in Seedance 2.0 to generate videos using Japanese prompts.  \nFor 4K upscaling, do not use Seedance native at this point; instead, upscale using Astra (Starlight Precise 2.5) or a local environment.  \nUse #Topview for generation in Seedance 2.0 (even if other platforms struggle to generate realistic human figures, Topview might succeed).\n\n--- THREAD CONTINUATION ---\n[Thread 1] Note that Seedance 2.0 generation uses #Topview\nWhile other platforms might struggle to generate realistic human figures, Topview can generate them normally, which is great\n(It seems to be a proprietary technology)\n---"
+    },
+    "es": {
+      "content": "---\nPrimero crea una imagen de personaje con GPT-Image2 y luego usa Seedance 2.0 para generar un video con un prompt en japonés, especificando la imagen de referencia como <image1>.  \nPara convertir a 4K, no uses Seedance nativo por ahora; en su lugar, usa Astra (Starlight Precise 2.5) o un entorno local para escalar.  \nPara la generación en Seedance 2.0, utiliza #Topview (incluso si en otras plataformas es difícil generar personajes realistas, con Topview a veces es posible).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Además, la generación en Seedance 2.0 utiliza #Topview\nEn otras plataformas puede ser difícil generar personajes realistas, pero con Topview se puede generar normalmente, lo cual es bueno\n(Parece ser una tecnología propia)\n---"
+    },
+    "fr": {
+      "content": "---\nCréer d'abord une image de personnage avec GPT-Image2, puis la spécifier comme <image1> dans Seedance 2.0 en tant qu'image de référence pour générer une vidéo avec un prompt en japonais.  \nPour la conversion en 4K, ne pas utiliser Seedance natif pour le moment, mais plutôt Astra (Starlight Precise 2.5) ou un environnement local pour l'upscaling.  \nPour la génération avec Seedance 2.0, utiliser #Topview (même si sur d'autres plateformes il est difficile de générer des personnages réalistes, avec Topview, cela peut être possible).\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] À noter que la génération avec Seedance 2.0 utilise #Topview.  \nSur d'autres plateformes, il peut être difficile de générer des personnages réalistes, mais avec Topview, cela fonctionne normalement, ce qui est appréciable.  \n(Il semblerait que ce soit une technologie propriétaire)\n---"
+    },
+    "ko": {
+      "content": "---\nGPT-Image2에서 캐릭터 이미지를 먼저 만들고, Seedance 2.0에서 <image1>로 참조 이미지를 지정하여 일본어 프롬프트로 영상 생성  \n4K화는 현재 시점에서는 Seedance 네이티브를 사용하지 않고, Astra(Starlight Precise 2.5)나 로컬 환경에서 업스케일  \nSeedance 2.0의 생성은 #Topview를 사용 (#Topview를 사용하면 다른 플랫폼에서 실사형 인물이 잘 생성되지 않을 때도 생성 가능)\n\n--- THREAD CONTINUATION ---\n[Thread 1] 참고로 Seedance 2.0의 생성은 #Topview를 이용\n다른 플랫폼에서는 실사형 인물이 생성되지 않지만, Topview에서는 일반적으로 생성 가능하여 좋음\n(독자 기술인 듯)\n---"
+    },
+    "pt": {
+      "content": "GPT-Image2でキャラ画像を先に作り、Seedance 2.0で<image1>として参照画像に指定して日本語プロンプトで動画生成する  \n4K化は現時点ではSeedanceネイティブを使わず、Astra（Starlight Precise 2.5）やローカル環境でアップスケールする  \nSeedance 2.0の生成は#Topviewを使う（他プラットフォームで実写系人物が出にくい場合でもTopviewだと生成できることがある）\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] なお Seedance 2.0 の生成は #Topview を利用\n他のプラットフォームだと実写系人物が生成できなかったりするけど、Topview だと普通に生成できるので良き\n（独自技術らしい）"
+    },
+    "zh": {
+      "content": "---\n在GPT-Image2中先创建角色图像，然后在Seedance 2.0中将其指定为<image1>参考图像，并使用日语prompt生成视频  \n目前4K化不使用Seedance原生功能，而是通过Astra（Starlight Precise 2.5）或本地环境进行升级  \nSeedance 2.0的生成使用#Topview（即使在其他平台上难以生成真人风格人物，使用Topview也可能生成）\n\n--- THREAD CONTINUATION ---\n[Thread 1] 另外，Seedance 2.0 的生成使用 #Topview\n在其他平台上可能无法生成真人风格人物，但使用Topview则可以正常生成，效果不错\n（据说是独有技术）\n---"
+    }
+  }
+}

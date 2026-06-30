@@ -1,0 +1,42 @@
+{
+  "id": "2071089762497380755",
+  "title": "GPT-Image 2で作った画像をSeedance 2.0 Proに渡して動画化する",
+  "content": "GPT-Image 2で作った画像をSeedance 2.0 Proに渡して動画化する  \nTopviewを使って映像化（トップビュー視点）を指定する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071087894773850112/img/vGby1m-M3GaaDZYA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071089762497380755.mp4",
+  "sourceLink": "https://x.com/old_pgmrs_will/status/2071089762497380755",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "いにしえ@AI Director & Creator｜Will Oldgram",
+    "link": "https://x.com/old_pgmrs_will"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "GPT-Image 2で作った画像をSeedance 2.0 Proに渡して動画化する  \nTopviewを使って映像化（トップビュー視点）を指定する",
+  "translations": {
+    "en": {
+      "content": "Pass the image created with GPT-Image 2 to Seedance 2.0 Pro to convert it into a video  \nSpecify using Topview for visualization (top-view perspective)"
+    },
+    "es": {
+      "content": "---\nPasar la imagen creada con GPT-Image 2 a Seedance 2.0 Pro para convertirla en video  \nEspecificar la visualización usando Topview (vista desde arriba)\n---"
+    },
+    "fr": {
+      "content": "---\nTransformer l'image créée avec GPT-Image 2 en vidéo avec Seedance 2.0 Pro  \nUtiliser Topview pour spécifier la visualisation (vue de dessus)\n---"
+    },
+    "ko": {
+      "content": "GPT-Image 2로 만든 이미지를 Seedance 2.0 Pro에 전달하여 영상화하기  \nTopview를 사용하여 영상화(탑뷰 시점)를 지정하기"
+    },
+    "pt": {
+      "content": "Passar a imagem criada com o GPT-Image 2 para o Seedance 2.0 Pro para transformá-la em vídeo  \nUsar Topview para especificar a visualização (perspectiva de visão superior)"
+    },
+    "zh": {
+      "content": "将使用GPT-Image 2制作的图像传递给Seedance 2.0 Pro进行视频化  \n指定使用Topview进行影像化（顶视图视角）"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2070832324422553711",
+  "title": "Midjourneyで生成したキャラクターをBlenderに配置してカメラワークを組み、そのシーンをSeedanceで統合して一本の映像にまとめる",
+  "content": "Midjourneyで生成したキャラクターをBlenderに配置してカメラワークを組み、そのシーンをSeedanceで統合して一本の映像にまとめる  \n荒々しいハンドヘルド（手持ちカメラ）質感を再現したい場合は、Seedanceで統合する工程にハンドヘルド風の揺れ・質感を反映させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070507396921733120/img/JhK-314omNXBgvtx.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070832324422553711.mp4",
+  "sourceLink": "https://x.com/Botan_cr/status/2070832324422553711",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "Crunio | CGメディア",
+    "link": "https://x.com/Botan_cr"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Midjourneyで生成したキャラクターをBlenderに配置してカメラワークを組み、そのシーンをSeedanceで統合して一本の映像にまとめる  \n荒々しいハンドヘルド（手持ちカメラ）質感を再現したい場合は、Seedanceで統合する工程にハンドヘルド風の揺れ・質感を反映させる",
+  "translations": {
+    "en": {
+      "content": "Place the character generated in Midjourney into Blender, set up the camera work, and integrate the scene into a single video using Seedance.  \nIf you want to recreate a rough handheld camera texture, incorporate a handheld-like shake and texture during the integration process in Seedance."
+    },
+    "es": {
+      "content": "Coloca el personaje generado en Midjourney en Blender y organiza el trabajo de cámara, luego integra esa escena en Seedance para crear un video completo.  \nSi deseas recrear una textura áspera de cámara en mano, refleja el movimiento y la textura de cámara en mano en el proceso de integración en Seedance."
+    },
+    "fr": {
+      "content": "---\nPlacer le personnage généré par Midjourney dans Blender, organiser le travail de caméra, puis intégrer cette scène dans Seedance pour en faire un film unique.  \nSi vous souhaitez reproduire une texture brute de type caméra à main (handheld), intégrez dans Seedance des mouvements et textures imitant le style handheld lors de l'étape d'intégration.\n---"
+    },
+    "ko": {
+      "content": "Midjourney에서 생성한 캐릭터를 Blender에 배치하고 카메라워크를 구성한 후, 그 장면을 Seedance에서 통합하여 하나의 영상으로 완성합니다.  \n거친 핸드헬드(손으로 들고 촬영하는 카메라) 질감을 재현하고 싶다면, Seedance에서 통합하는 과정에 핸드헬드 스타일의 흔들림과 질감을 반영하세요."
+    },
+    "pt": {
+      "content": "Colocar o personagem gerado no Midjourney no Blender, configurar o trabalho de câmera e integrar a cena no Seedance para compor um único vídeo.  \nSe você deseja recriar a textura áspera de uma câmera de mão, reflita a oscilação e a textura no estilo handheld durante o processo de integração no Seedance."
+    },
+    "zh": {
+      "content": "在Blender中放置在Midjourney生成的角色并设置摄像机运动，然后在Seedance中整合这些场景，汇总成一部影片  \n如果想要再现粗犷的手持摄像机质感，可以在Seedance整合过程中加入手持风格的晃动和质感"
+    }
+  }
+}

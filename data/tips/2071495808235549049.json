@@ -1,0 +1,43 @@
+{
+  "id": "2071495808235549049",
+  "title": "Use one character, one reference image, and the exact same prompt across models…",
+  "content": "Use one character, one reference image, and the exact same prompt across models to run a fair comparison test  \nGenerate a fixed set of emotions (anger, sadness, happiness, disgust) to evaluate how well a model handles realistic emotional expressions",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071495716568969216/img/SwK4vcAXdHtNTYcw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071495808235549049.mp4",
+  "sourceLink": "https://x.com/AmControo/status/2071495808235549049",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "FATHELA ESQ",
+    "link": "https://x.com/AmControo"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Use one character, one reference image, and the exact same prompt across models to run a fair comparison test  \nGenerate a fixed set of emotions (anger, sadness, happiness, disgust) to evaluate how well a model handles realistic emotional expressions",
+  "translations": {
+    "es": {
+      "content": "Usa un personaje, una imagen de referencia y el mismo prompt en todos los modelos para realizar una prueba de comparación justa  \nGenera un conjunto fijo de emociones (ira, tristeza, felicidad, disgusto) para evaluar qué tan bien maneja un modelo las expresiones emocionales realistas"
+    },
+    "fr": {
+      "content": "Utilisez un personnage, une image de référence et le même prompt à travers différents modèles pour effectuer un test de comparaison équitable  \nGénérez un ensemble fixe d'émotions (colère, tristesse, joie, dégoût) pour évaluer la capacité d'un modèle à gérer des expressions émotionnelles réalistes"
+    },
+    "ja": {
+      "content": "1つのキャラクター、1つの参照画像、そして同じプロンプトを使用して、モデル間で公平な比較テストを行います  \n固定された感情セット（怒り、悲しみ、幸福、嫌悪）を生成して、モデルがリアルな感情表現をどれだけうまく処理できるかを評価します"
+    },
+    "ko": {
+      "content": "하나의 캐릭터, 하나의 참조 이미지, 동일한 프롬프트를 사용하여 모델 간 공정한 비교 테스트를 수행하십시오  \n고정된 감정 세트(분노, 슬픔, 행복, 혐오)를 생성하여 모델이 현실적인 감정 표현을 얼마나 잘 처리하는지 평가하십시오"
+    },
+    "pt": {
+      "content": "Use um personagem, uma imagem de referência e o mesmo prompt em todos os modelos para realizar um teste de comparação justo  \nGere um conjunto fixo de emoções (raiva, tristeza, felicidade, desgosto) para avaliar quão bem um modelo lida com expressões emocionais realistas"
+    },
+    "zh": {
+      "content": "使用一个角色、一张参考图像和完全相同的prompt在不同模型中运行公平的对比测试  \n生成一组固定的情绪（愤怒、悲伤、快乐、厌恶）以评估模型处理真实情感表达的能力"
+    }
+  }
+}

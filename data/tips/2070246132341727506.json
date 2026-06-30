@@ -1,0 +1,42 @@
+{
+  "id": "2070246132341727506",
+  "title": "Use your original multi-clip Seedance video as input to an agent (Claude Code…",
+  "content": "Use your original multi-clip Seedance video as input to an agent (Claude Code or Codex) via a FAL API key to generate a multi-stem soundscape with ffmpeg from screenshots/video frames.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070245820671365120/img/qtdBrDjAOvFf8918.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070246132341727506.mp4",
+  "sourceLink": "https://x.com/gavinpurcell/status/2070246132341727506",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "Gavin Purcell",
+    "link": "https://x.com/gavinpurcell"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use your original multi-clip Seedance video as input to an agent (Claude Code or Codex) via a FAL API key to generate a multi-stem soundscape with ffmpeg from screenshots/video frames.",
+  "translations": {
+    "es": {
+      "content": "Usa tu video original de múltiples clips de Seedance como entrada para un agente (Claude Code o Codex) a través de una clave API de FAL para generar un paisaje sonoro de múltiples pistas con ffmpeg a partir de capturas de pantalla/marcos de video.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Claude Code pasó por el proceso e hizo un trabajo *aceptable*, pero muchos de los efectos de sonido no coinciden exactamente... aunque, para ser justos, lo está haciendo a través de capturas de pantalla y ffmpeg.\n\nel audio está... bien? pero de nuevo, este es el agente tratando de crear un paisaje sonoro en audio de múltiples pistas, así que ¿no está mal? https://t.co/kXAsKrACAx\n\n[Hilo 2] Codex lo hizo un poco mejor, hay más efectos de sonido claros en lugares casi correctos, pero extrañamente incluyó el audio de las palabras en... ¿ruso? no estoy seguro, tal vez sea un galimatías.\n\nde todos modos, esto es principalmente una mirada temprana a lo que podría ser tener un diseñador de sonido de IA en proyectos más grandes\n\nespero que *quizás* BIDI de openai ayude"
+    },
+    "fr": {
+      "content": "Utilisez votre vidéo Seedance multi-clip originale comme entrée pour un agent (Claude Code ou Codex) via une clé API FAL pour générer un paysage sonore multi-stem avec ffmpeg à partir de captures d'écran/images vidéo.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Claude Code a suivi le processus et a fait *correctement* mais beaucoup des effets sonores ne correspondent pas exactement... cependant, pour être juste, il le fait via des captures d'écran et ffmpeg.\n\nl'audio est... correct ? mais encore une fois, c'est l'agent qui essaie de créer un paysage sonore en audio multi-stem donc pas mal ? https://t.co/kXAsKrACAx\n\n[Fil 2] Codex a fait un peu mieux, il y a plus d'effets sonores clairs presque aux bons endroits mais a étrangement incité l'audio des mots en... russe ? pas sûr, peut-être du charabia.\n\nde toute façon, c'est surtout un aperçu de ce que pourrait être un concepteur sonore IA sur des projets plus importants\n\nj'espère que *peut-être* le BIDI d'OpenAI aidera"
+    },
+    "ja": {
+      "content": "---\nオリジナルのマルチクリップSeedanceビデオをFAL APIキーを介してエージェント（Claude CodeまたはCodex）に入力し、スクリーンショット/ビデオフレームからffmpegを使用してマルチステムのサウンドスケープを生成します。\n\n--- スレッドの続き ---\n[スレッド1] claude codeはプロセスを通過し、*まあまあ*でしたが、多くのSFXが正確には一致していません... ただし、公平に言えば、これはスクリーンショットとffmpegを介して行っています\n\nオーディオは... 良い？ でも、これはエージェントがマルチステムオーディオでサウンドスケープを作成しようとしているので、悪くない？ https://t.co/kXAsKrACAx\n\n[スレッド2] codexは少し良くなり、より明確なSFXがほぼ正しい場所にありますが、奇妙に音声を... ロシア語で？ かどうかは不明ですが、たぶん意味不明。\n\nとにかく、これは主にAIサウンドデザイナーが大規模なプロジェクトで何ができるかの初期の見通しです\n\n*もしかしたら* openaiのBIDIが役立つことを願っています\n---"
+    },
+    "ko": {
+      "content": "당신의 원본 멀티 클립 Seedance 비디오를 FAL API 키를 통해 에이전트(Claude Code 또는 Codex)에 입력하여 스크린샷/비디오 프레임에서 ffmpeg로 멀티 스템 사운드스케이프를 생성하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Claude Code는 과정을 거쳤고 *괜찮게* 했지만 많은 SFX가 정확히 일치하지는 않았습니다... 하지만 공정하게 말하자면, 이것은 스크린샷과 ffmpeg를 통해 수행되고 있습니다.\n\n오디오가... 괜찮나요? 하지만 다시 말하지만, 이것은 에이전트가 멀티 스템 오디오로 사운드스케이프를 만들려고 하는 것이므로 나쁘지 않나요? https://t.co/kXAsKrACAx\n\n[Thread 2] Codex는 조금 더 잘했으며, 더 명확한 SFX가 거의 올바른 위치에 있지만 이상하게도 오디오의 단어를... 러시아어로? 아마도 횡설수설일지도 모릅니다.\n\n어쨌든 주로 이것은 더 큰 프로젝트에서 AI 사운드 디자이너를 갖는 것이 어떤 것일지에 대한 초기 모습입니다.\n\n저는 *아마도* OpenAI의 BIDI가 도움이 되기를 바랍니다."
+    },
+    "pt": {
+      "content": "Use seu vídeo original multi-clip Seedance como entrada para um agente (Claude Code ou Codex) via uma chave de API FAL para gerar uma paisagem sonora multi-stem com ffmpeg a partir de capturas de tela/quadros de vídeo.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] o claude code passou pelo processo e fez *ok*, mas muitos dos SFX não correspondem exatamente... no entanto, para ser justo, está fazendo isso via captura de tela e ffmpeg\n\no áudio está... bom? mas novamente, este é o agente tentando criar uma paisagem sonora em áudio multi-stem, então não está ruim? https://t.co/kXAsKrACAx\n\n[Tópico 2] o codex fez um pouco melhor, há mais SFX claros em lugares quase certos, mas estranhamente gerou o áudio das palavras em... russo? não tenho certeza, talvez seja um disparate.\n\nde qualquer forma, isso é principalmente uma visão inicial do que poderia ser ter um designer de som de IA em projetos maiores\n\nespero que *talvez* o BIDI da openai ajude"
+    },
+    "zh": {
+      "content": "使用您的原创多片段Seedance视频作为输入，通过FAL API密钥将其传递给代理（Claude Code或Codex），以从截图/视频帧中使用ffmpeg生成多干声景。\n\n--- 线程继续 ---\n[线程1] Claude Code经过了这个过程，表现还算*可以*，但很多音效并不完全匹配……不过公平地说，它是通过截图和ffmpeg来实现的。\n\n音频……还行？但同样，这是代理尝试在多干音频中创建声景，所以还不错？https://t.co/kXAsKrACAx\n\n[线程2] Codex表现稍好一些，音效在接近正确的位置更清晰，但奇怪的是提示的单词音频是……俄语？不确定，也许是胡言乱语。\n\n总之，这主要是对AI声音设计师在大型项目中可能发挥作用的早期观察。\n\n我希望*也许* OpenAI的BIDI会有所帮助。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2070053407251898778",
+  "title": "Use a structured prompt framework (Theme + Character + Scene + detailed…",
+  "content": "Use a structured prompt framework (Theme + Character + Scene + detailed choreography beat list) to guide Seedance video generation.  \nUse a character sheet and storyboard in Seedance to lock character consistency and planned motion.  \nPrompt for one continuous dance take to avoid cuts and maintain a single uninterrupted performance.  \nExplicitly instruct eye contact, controlled movement, camera tracking, natural blinking, and a breathy ending to improve realism.  \nAdd negative constraints to avoid random cuts, fixed-camera feel, plastic skin, frozen smile, face drift, and repeated tiny movements.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/MrLarus/status/2070053407251898778",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a structured prompt framework (Theme + Character + Scene + detailed choreography beat list) to guide Seedance video generation.  \nUse a character sheet and storyboard in Seedance to lock character consistency and planned motion.  \nPrompt for one continuous dance take to avoid cuts and maintain a single uninterrupted performance.  \nExplicitly instruct eye contact, controlled movement, camera tracking, natural blinking, and a breathy ending to improve realism.  \nAdd negative constraints to avoid random cuts, fixed-camera feel, plastic skin, frozen smile, face drift, and repeated tiny movements.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un marco de prompt estructurado (Tema + Personaje + Escena + lista detallada de coreografía) para guiar la generación de video en Seedance.  \nUsa una hoja de personaje y un storyboard en Seedance para asegurar la consistencia del personaje y el movimiento planificado.  \nPrompt para una toma continua de baile para evitar cortes y mantener una única actuación ininterrumpida.  \nInstruye explícitamente el contacto visual, el movimiento controlado, el seguimiento de cámara, el parpadeo natural y un final con respiración para mejorar el realismo.  \nAñade restricciones negativas para evitar cortes aleatorios, sensación de cámara fija, piel plástica, sonrisa congelada, deslizamiento facial y movimientos pequeños repetidos."
+    },
+    "fr": {
+      "content": "Utilisez un cadre de prompt structuré (Thème + Personnage + Scène + liste détaillée des mouvements chorégraphiques) pour guider la génération de vidéos Seedance.  \nUtilisez une fiche de personnage et un storyboard dans Seedance pour assurer la cohérence des personnages et le mouvement planifié.  \nDemandez une prise de danse continue pour éviter les coupures et maintenir une performance ininterrompue.  \nInstruisez explicitement le contact visuel, le mouvement contrôlé, le suivi de la caméra, le clignement naturel et une fin respirante pour améliorer le réalisme.  \nAjoutez des contraintes négatives pour éviter les coupures aléatoires, l'effet de caméra fixe, la peau plastique, le sourire figé, le glissement du visage et les mouvements répétitifs minuscules."
+    },
+    "ja": {
+      "content": "---\nSeedanceのビデオ生成をガイドするために、構造化されたプロンプトフレームワーク（テーマ + キャラクター + シーン + 詳細な振付ビートリスト）を使用します。  \nキャラクターの一貫性と計画された動きを確保するために、Seedanceでキャラクターシートとストーリーボードを使用します。  \nカットを避け、単一の途切れないパフォーマンスを維持するために、1回の連続したダンステイクをプロンプトします。  \nリアリズムを向上させるために、アイコンタクト、制御された動き、カメラトラッキング、自然なまばたき、息をのむようなエンディングを明示的に指示します。  \nランダムなカット、固定カメラの感覚、プラスチックのような肌、凍った笑顔、顔のずれ、繰り返される小さな動きを避けるために、ネガティブな制約を追加します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 비디오 생성에 구조화된 프롬프트 프레임워크(테마 + 캐릭터 + 장면 + 상세한 안무 비트 리스트)를 사용하세요.  \n캐릭터 일람표와 스토리보드를 Seedance에서 사용하여 캐릭터의 일관성과 계획된 동작을 고정하세요.  \n컷을 피하고 하나의 끊김 없는 공연을 유지하기 위해 하나의 연속적인 춤 테이크를 프롬프트 하세요.  \n현실감을 높이기 위해 눈 맞춤, 제어된 움직임, 카메라 트래킹, 자연스러운 눈 깜박임, 숨결이 있는 마무리를 명시적으로 지시하세요.  \n무작위 컷, 고정된 카메라 느낌, 플라스틱 피부, 얼어붙은 미소, 얼굴 이동, 반복적인 작은 움직임을 피하기 위한 부정적 제약을 추가하세요.\n---"
+    },
+    "pt": {
+      "content": "Use uma estrutura de prompt (Tema + Personagem + Cena + lista detalhada de movimentos coreográficos) para guiar a geração de vídeo no Seedance.  \nUse uma ficha de personagem e storyboard no Seedance para garantir a consistência do personagem e o movimento planejado.  \nPrompt para uma única tomada contínua de dança para evitar cortes e manter uma performance ininterrupta.  \nInstrua explicitamente o contato visual, movimento controlado, acompanhamento de câmera, piscadas naturais e um final suave para melhorar o realismo.  \nAdicione restrições negativas para evitar cortes aleatórios, sensação de câmera fixa, pele plástica, sorriso congelado, desvio de rosto e movimentos pequenos repetidos."
+    },
+    "zh": {
+      "content": "使用结构化的提示框架（主题 + 角色 + 场景 + 详细的舞蹈动作列表）来指导Seedance视频生成。  \n在Seedance中使用角色表和分镜头脚本以确保角色一致性和计划动作。  \n提示进行一次连续的舞蹈拍摄，以避免剪辑并保持单一不间断的表演。  \n明确指示眼神交流、控制动作、摄像机跟踪、自然眨眼和带有呼吸感的结尾以提高真实感。  \n添加负面约束以避免随机剪辑、固定摄像机感、塑料皮肤、僵硬的微笑、面部漂移和重复的小动作。"
+    }
+  }
+}

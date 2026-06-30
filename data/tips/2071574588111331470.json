@@ -1,0 +1,42 @@
+{
+  "id": "2071574588111331470",
+  "title": "2人以上を安定させたい場合は、キャラクター再現プロンプト（同一人物の特徴を固定する記述）を追加して一貫性を上げる",
+  "content": "2人以上を安定させたい場合は、キャラクター再現プロンプト（同一人物の特徴を固定する記述）を追加して一貫性を上げる  \n5人など多人数で「同じ人物が複数出る」崩れが出る場合は、特徴空間の衝突・平均化を避けるために各人物の位置情報（例：左/中央/右、前列/後列など）をプロンプトに明示して分離する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071565815489650688/img/YH2hXinAA9BHGZn4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071574588111331470.mp4",
+  "sourceLink": "https://x.com/CreativeEdge_CL/status/2071574588111331470",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "link": "https://x.com/CreativeEdge_CL"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "2人以上を安定させたい場合は、キャラクター再現プロンプト（同一人物の特徴を固定する記述）を追加して一貫性を上げる  \n5人など多人数で「同じ人物が複数出る」崩れが出る場合は、特徴空間の衝突・平均化を避けるために各人物の位置情報（例：左/中央/右、前列/後列など）をプロンプトに明示して分離する",
+  "translations": {
+    "en": {
+      "content": "If you want to stabilize more than two people, add a character reproduction prompt (a description that fixes the characteristics of the same person) to increase consistency.  \nIn cases where there are many people, such as five, and there is a breakdown where \"the same person appears multiple times,\" explicitly specify the positional information of each person in the prompt (e.g., left/center/right, front row/back row, etc.) to separate them and avoid collision or averaging in the feature space."
+    },
+    "es": {
+      "content": "Para estabilizar a más de dos personas, añade un prompt de recreación de personajes (una descripción que fije las características de la misma persona) para aumentar la consistencia.  \nSi hay un problema de \"la misma persona aparece varias veces\" con grupos grandes como de 5 personas, para evitar colisiones o promedios en el espacio de características, especifica en el prompt la información de ubicación de cada persona (ejemplo: izquierda/centro/derecha, fila delantera/fila trasera, etc.) para separarlas."
+    },
+    "fr": {
+      "content": "Pour stabiliser plus de deux personnes, ajoutez un prompt de recréation de personnage (une description qui fixe les caractéristiques de la même personne) pour augmenter la cohérence.  \nSi, avec un groupe de cinq personnes ou plus, il y a un problème de \"même personnage apparaissant plusieurs fois\", pour éviter les collisions ou l'uniformisation dans l'espace des caractéristiques, spécifiez clairement dans le prompt les informations de position de chaque personnage (exemple : gauche/centre/droite, première rangée/deuxième rangée, etc.) pour les séparer."
+    },
+    "ko": {
+      "content": "2명 이상의 인물을 안정적으로 표현하고 싶다면, 캐릭터 재현 프롬프트(동일 인물의 특징을 고정하는 설명)를 추가하여 일관성을 높이세요.  \n5명 등 다수의 인물에서 \"같은 인물이 여러 번 등장하는\" 문제가 발생할 경우, 특징 공간의 충돌 및 평균화를 피하기 위해 각 인물의 위치 정보(예: 왼쪽/중앙/오른쪽, 전열/후열 등)를 프롬프트에 명시하여 분리하세요."
+    },
+    "pt": {
+      "content": "Para estabilizar mais de duas pessoas, adicione um prompt de recriação de personagem (descrição que fixa as características da mesma pessoa) para aumentar a consistência.  \nSe houver distorções como \"a mesma pessoa aparecendo várias vezes\" em grupos grandes, como cinco pessoas, especifique a localização de cada personagem no prompt (ex.: esquerda/centro/direita, fila da frente/fila de trás, etc.) para evitar colisões e a média no espaço de características."
+    },
+    "zh": {
+      "content": "如果想要稳定2人以上，可以添加角色再现prompt（固定同一人物特征的描述）以提高一致性  \n如果出现像5人等多人数时“同一人物出现多次”的问题，为了避免特征空间的冲突和平均化，可以在prompt中明确各人物的位置信息（例如：左/中/右，前排/后排等）以进行分离"
+    }
+  }
+}

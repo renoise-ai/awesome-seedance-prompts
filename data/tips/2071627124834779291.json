@@ -1,0 +1,42 @@
+{
+  "id": "2071627124834779291",
+  "title": "When doing character replacement in Seedance 2.0, explicitly specify which…",
+  "content": "When doing character replacement in Seedance 2.0, explicitly specify which traits to keep from the source character (skin, hair, outfit color) and which to adopt from the target character (body size/height, pose/position, composition, mood, body dynamics, head-to-body ratio).  \nControl the look by explicitly describing camera angles, shadows (with clear reference descriptions), lighting, and environment in your prompt for more consistent character replacement results.  \nTo reduce copyright flagging, avoid making the output too closely match a specific reference movie; increase stylistic/visual differences when it starts triggering flags.  \nUse Seedance 2.0 to extract/repurpose actions and motion/behavioral patterns from existing footage as reusable resources to insert between your own video segments.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2071627064617156611/pu/img/wvSwZ8h1XU6tEYoR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071627124834779291.mp4",
+  "sourceLink": "https://x.com/CartoonverseAi/status/2071627124834779291",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "Cartoonverse AI",
+    "link": "https://x.com/CartoonverseAi"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "When doing character replacement in Seedance 2.0, explicitly specify which traits to keep from the source character (skin, hair, outfit color) and which to adopt from the target character (body size/height, pose/position, composition, mood, body dynamics, head-to-body ratio).  \nControl the look by explicitly describing camera angles, shadows (with clear reference descriptions), lighting, and environment in your prompt for more consistent character replacement results.  \nTo reduce copyright flagging, avoid making the output too closely match a specific reference movie; increase stylistic/visual differences when it starts triggering flags.  \nUse Seedance 2.0 to extract/repurpose actions and motion/behavioral patterns from existing footage as reusable resources to insert between your own video segments.",
+  "translations": {
+    "es": {
+      "content": "Cuando realices el reemplazo de personajes en Seedance 2.0, especifica explícitamente qué características mantener del personaje fuente (piel, cabello, color del atuendo) y cuáles adoptar del personaje objetivo (tamaño/altura del cuerpo, pose/posición, composición, estado de ánimo, dinámica corporal, proporción cabeza-cuerpo).  \nControla el aspecto describiendo explícitamente los ángulos de cámara, sombras (con descripciones de referencia claras), iluminación y entorno en tu prompt para obtener resultados más consistentes en el reemplazo de personajes.  \nPara reducir las alertas de derechos de autor, evita que el resultado coincida demasiado con una película de referencia específica; aumenta las diferencias estilísticas/visuales cuando empiece a activar alertas.  \nUtiliza Seedance 2.0 para extraer/reutilizar acciones y patrones de movimiento/comportamiento de metraje existente como recursos reutilizables para insertar entre tus propios segmentos de video.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @Framer_X Aviso: Esto es solo con fines educativos.\n\n[Hilo 2] @Framer_X https://t.co/vb2hODXU4H\n\n[Hilo 3] @Framer_X https://t.co/Yq88JyBJTd"
+    },
+    "fr": {
+      "content": "---\nLors du remplacement de personnage dans Seedance 2.0, spécifiez explicitement quels traits conserver du personnage source (peau, cheveux, couleur de la tenue) et lesquels adopter du personnage cible (taille/corpulence, pose/position, composition, humeur, dynamique corporelle, ratio tête-corps).  \nContrôlez l'apparence en décrivant explicitement les angles de caméra, les ombres (avec des descriptions de référence claires), l'éclairage et l'environnement dans votre prompt pour des résultats de remplacement de personnage plus cohérents.  \nPour réduire les signalements de droits d'auteur, évitez que le résultat ne corresponde trop étroitement à un film de référence spécifique ; augmentez les différences stylistiques/visuelles lorsque cela commence à déclencher des signalements.  \nUtilisez Seedance 2.0 pour extraire/réutiliser des actions et des motifs de mouvement/comportement à partir de séquences existantes comme ressources réutilisables à insérer entre vos propres segments vidéo.\n\n--- SUITE DU FIL ---\n[Fil 1] @Framer_X Avertissement : Ceci est uniquement à des fins éducatives.\n\n[Fil 2] @Framer_X https://t.co/vb2hODXU4H\n\n[Fil 3] @Framer_X https://t.co/Yq88JyBJTd\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0でキャラクターの置き換えを行う際、ソースキャラクターから保持する特性（肌、髪、衣装の色）と、ターゲットキャラクターから採用する特性（体のサイズ/高さ、ポーズ/位置、構図、ムード、体の動き、頭と体の比率）を明確に指定してください。  \nキャラクター置き換えの結果をより一貫性のあるものにするために、カメラアングル、影（明確な参照説明付き）、照明、環境をプロンプトで明確に記述して外観をコントロールします。  \n著作権の警告を減らすために、出力が特定の参照映画にあまりにも近づかないようにし、フラグが立ち始めたらスタイルやビジュアルの違いを増やしてください。  \nSeedance 2.0を使用して、既存の映像からアクションや動作/行動パターンを抽出/再利用可能なリソースとして取り出し、自分のビデオセグメントの間に挿入します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @Framer_X 免責事項: これは教育目的のみです。\n\n[Thread 2] @Framer_X https://t.co/vb2hODXU4H\n\n[Thread 3] @Framer_X https://t.co/Yq88JyBJTd\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 캐릭터 교체를 할 때, 소스 캐릭터에서 유지할 특성(피부, 머리카락, 의상 색상)과 타겟 캐릭터에서 채택할 특성(몸 크기/키, 포즈/위치, 구성, 분위기, 신체 역학, 머리와 몸의 비율)을 명확히 지정하세요.  \n카메라 각도, 그림자(명확한 참조 설명 포함), 조명, 환경을 명확히 설명하여 캐릭터 교체 결과의 일관성을 높이세요.  \n저작권 경고를 줄이기 위해 출력물이 특정 참조 영화와 너무 유사하지 않도록 하고, 경고가 발생하기 시작하면 스타일/시각적 차이를 늘리세요.  \nSeedance 2.0을 사용하여 기존 영상에서 동작 및 행동 패턴을 추출/재사용 가능한 자원으로 활용하여 자신의 비디오 세그먼트 사이에 삽입하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @Framer_X Disclaimer: This is just for Educational purposes only.\n\n[Thread 2] @Framer_X https://t.co/vb2hODXU4H\n\n[Thread 3] @Framer_X https://t.co/Yq88JyBJTd\n---"
+    },
+    "pt": {
+      "content": "---\nAo fazer substituição de personagens no Seedance 2.0, especifique explicitamente quais traços manter do personagem de origem (pele, cabelo, cor da roupa) e quais adotar do personagem alvo (tamanho/altura do corpo, pose/posição, composição, humor, dinâmica corporal, proporção cabeça-corpo).  \nControle a aparência descrevendo explicitamente ângulos de câmera, sombras (com descrições de referência claras), iluminação e ambiente no seu prompt para resultados mais consistentes na substituição de personagens.  \nPara reduzir a sinalização de direitos autorais, evite que o resultado final se assemelhe muito a um filme de referência específico; aumente as diferenças estilísticas/visuais quando começar a acionar sinalizações.  \nUse o Seedance 2.0 para extrair/reaproveitar ações e padrões de movimento/comportamento de filmagens existentes como recursos reutilizáveis para inserir entre seus próprios segmentos de vídeo.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] @Framer_X Aviso: Isso é apenas para fins educacionais.\n\n[Thread 2] @Framer_X https://t.co/vb2hODXU4H\n\n[Thread 3] @Framer_X https://t.co/Yq88JyBJTd\n---"
+    },
+    "zh": {
+      "content": "---\n在Seedance 2.0中进行角色替换时，明确指定要从源角色保留哪些特征（皮肤、头发、服装颜色），以及要从目标角色采用哪些特征（身体大小/高度、姿势/位置、构图、情绪、身体动态、头身比例）。  \n通过在prompt中明确描述相机角度、阴影（带有清晰的参考描述）、灯光和环境来控制外观，以获得更一致的角色替换效果。  \n为了减少版权标记，避免输出与特定参考电影过于相似；当开始触发标记时，增加风格/视觉差异。  \n使用Seedance 2.0从现有素材中提取/重新利用动作和运动/行为模式，作为可重复使用的资源插入到您自己的视频片段之间。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @Framer_X 免责声明：仅供教育用途。\n\n[Thread 2] @Framer_X https://t.co/vb2hODXU4H\n\n[Thread 3] @Framer_X https://t.co/Yq88JyBJTd\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2070660792765346138",
+  "title": "アニメ作品を参照として100点満点の評価基準を設定し、シーンごとに生成結果を採点して基準値未満なら同シーンを再生成するループを組む",
+  "content": "アニメ作品を参照として100点満点の評価基準を設定し、シーンごとに生成結果を採点して基準値未満なら同シーンを再生成するループを組む  \nSeedanceでの動画生成前に脚本・キャラシート・オブジェクト/背景画像・音楽素材を用意して、素材駆動でシーン単位に生成→編集で全体を組み上げるワークフローにする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070660686074851328/img/ktlgw1z4IFNbqgqi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070660792765346138.mp4",
+  "sourceLink": "https://x.com/onofumi_AI/status/2070660792765346138",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "おのふみ| 動画生成AI×個人開発",
+    "link": "https://x.com/onofumi_AI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "アニメ作品を参照として100点満点の評価基準を設定し、シーンごとに生成結果を採点して基準値未満なら同シーンを再生成するループを組む  \nSeedanceでの動画生成前に脚本・キャラシート・オブジェクト/背景画像・音楽素材を用意して、素材駆動でシーン単位に生成→編集で全体を組み上げるワークフローにする",
+  "translations": {
+    "en": {
+      "content": "Set a 100-point evaluation standard referencing anime works, and create a loop to regenerate scenes if the generated results score below the standard.  \nBefore generating videos with Seedance, prepare scripts, character sheets, object/background images, and music materials to drive the workflow. Generate scene-by-scene and then assemble the whole through editing."
+    },
+    "es": {
+      "content": "---\nEstablecer un criterio de evaluación de 100 puntos basado en obras de anime y calificar los resultados generados escena por escena. Si están por debajo del valor de referencia, configurar un bucle para regenerar la misma escena.  \nAntes de la generación de video en Seedance, preparar el guion, hojas de personajes, imágenes de objetos/fondos y material musical, y utilizar un flujo de trabajo impulsado por material para generar por escenas y luego ensamblar todo mediante edición.\n---"
+    },
+    "fr": {
+      "content": "Avant de générer des vidéos avec Seedance, préparez le script, les fiches de personnages, les images d'objets/fonds et les matériaux musicaux, puis adoptez un flux de travail où la génération se fait scène par scène en fonction des matériaux, suivie du montage pour assembler l'ensemble."
+    },
+    "ko": {
+      "content": "---\n애니메이션 작품을 참조하여 100점 만점의 평가 기준을 설정하고, 씬마다 생성 결과를 채점하여 기준치 미만이면 동일 씬을 재생성하는 루프를 구성합니다.  \nSeedance에서의 영상 생성 전에 대본, 캐릭터 시트, 오브젝트/배경 이미지, 음악 소재를 준비하여, 소재 기반으로 씬 단위로 생성한 후 편집을 통해 전체를 조립하는 워크플로우로 만듭니다.\n---"
+    },
+    "pt": {
+      "content": "Defina um critério de avaliação de 100 pontos com base em obras de anime e avalie os resultados gerados cena por cena. Se estiver abaixo do valor de referência, reexecute a geração da mesma cena em um loop.  \nAntes de gerar vídeos no Seedance, prepare o roteiro, fichas de personagens, imagens de objetos/fundo e materiais musicais, e adote um fluxo de trabalho onde a geração é feita cena por cena com base nos materiais, para depois montar o todo na edição."
+    },
+    "zh": {
+      "content": "在参考动漫作品的基础上设定100分满分的评价标准，对每个场景的生成结果进行评分，如果低于基准值则重新生成该场景的循环。  \n在Seedance进行视频生成之前，准备好剧本、角色表、对象/背景图像、音乐素材，以素材驱动的方式按场景生成→通过编辑组合整体的工作流程。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2070828037147369720",
+  "title": "Use VFX-focused prompting in Seedance 2.0 by explicitly adding terms like…",
+  "content": "Use VFX-focused prompting in Seedance 2.0 by explicitly adding terms like subsurface scattering on crystals, volumetric god rays, and fluid lava simulations to push toward a film-like render.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070827591649419264/img/Q-KaqtZCDfljAXaE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070828037147369720.mp4",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2070828037147369720",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Fantasy",
+    "VFX",
+    "Tutorial"
+  ],
+  "tips": "Use VFX-focused prompting in Seedance 2.0 by explicitly adding terms like subsurface scattering on crystals, volumetric god rays, and fluid lava simulations to push toward a film-like render.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un prompting enfocado en VFX en Seedance 2.0 añadiendo explícitamente términos como subsurface scattering en cristales, volumetric god rays y simulaciones de lava fluida para avanzar hacia un render con apariencia cinematográfica."
+    },
+    "fr": {
+      "content": "Utilisez des prompts axés sur les VFX dans Seedance 2.0 en ajoutant explicitement des termes tels que subsurface scattering on crystals, volumetric god rays, et fluid lava simulations pour tendre vers un rendu cinématographique."
+    },
+    "ja": {
+      "content": "Seedance 2.0でVFXに焦点を当てたプロンプトを使用する際には、クリスタルのサブサーフェス・スキャッタリング、ボリュメトリック・ゴッドレイ、流体溶岩シミュレーションなどの用語を明示的に追加することで、映画のようなレンダリングを目指します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 VFX 중심의 프롬프트를 사용하여 결정의 서브서피스 스캐터링, 볼류메트릭 갓 레이, 유체 용암 시뮬레이션과 같은 용어를 명시적으로 추가하여 영화 같은 렌더링을 추구하십시오."
+    },
+    "pt": {
+      "content": "Use o prompting focado em VFX no Seedance 2.0 adicionando explicitamente termos como subsurface scattering on crystals, volumetric god rays e fluid lava simulations para alcançar uma renderização semelhante a um filme."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用以VFX为重点的prompt，通过明确添加诸如subsurface scattering on crystals、volumetric god rays和fluid lava simulations等术语，推动实现电影般的渲染效果。"
+    }
+  }
+}

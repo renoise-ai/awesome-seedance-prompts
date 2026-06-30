@@ -1,0 +1,43 @@
+{
+  "id": "2070258132840796579",
+  "title": "Use a Blender previz as a guide input in Comfy to push Seedance 2 camera…",
+  "content": "Use a Blender previz as a guide input in Comfy to push Seedance 2 camera control and improve motion adherence.  \nProvide three inputs to Seedance 2: (1) the Blender previz, (2) a reference frame for the upright world, and (3) a reference frame for the upside-down world to control orientation changes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070258074795868160/img/vwFski7tmSbPobdj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070258132840796579.mp4",
+  "sourceLink": "https://x.com/JMSvid/status/2070258132840796579",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "JMS.vid",
+    "link": "https://x.com/JMSvid"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use a Blender previz as a guide input in Comfy to push Seedance 2 camera control and improve motion adherence.  \nProvide three inputs to Seedance 2: (1) the Blender previz, (2) a reference frame for the upright world, and (3) a reference frame for the upside-down world to control orientation changes.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un previz de Blender como guía de entrada en Comfy para impulsar el control de cámara de Seedance 2 y mejorar la adherencia al movimiento.  \nProporciona tres entradas a Seedance 2: (1) el previz de Blender, (2) un fotograma de referencia para el mundo en posición vertical, y (3) un fotograma de referencia para el mundo al revés para controlar los cambios de orientación."
+    },
+    "fr": {
+      "content": "Utilisez une prévisualisation Blender comme guide d'entrée dans Comfy pour améliorer le contrôle de la caméra Seedance 2 et renforcer l'adhérence des mouvements.  \nFournissez trois entrées à Seedance 2 : (1) la prévisualisation Blender, (2) un cadre de référence pour le monde à l'endroit, et (3) un cadre de référence pour le monde à l'envers afin de contrôler les changements d'orientation."
+    },
+    "ja": {
+      "content": "BlenderのプリビズをComfyでのガイド入力として使用し、Seedance 2のカメラコントロールを強化し、動きの適合性を向上させます。  \nSeedance 2に次の3つの入力を提供します: (1) Blenderのプリビズ、(2) 正立した世界の参照フレーム、(3) 逆さまの世界の参照フレームで、方向の変化を制御します。"
+    },
+    "ko": {
+      "content": "Comfy에서 Seedance 2의 카메라 제어를 강화하고 모션 적합성을 개선하기 위해 Blender previz를 가이드 입력으로 사용하세요.  \nSeedance 2에 세 가지 입력을 제공합니다: (1) Blender previz, (2) 수직 세계의 기준 프레임, (3) 방향 변경을 제어하기 위한 거꾸로 된 세계의 기준 프레임."
+    },
+    "pt": {
+      "content": "Use uma previz do Blender como entrada guia no Comfy para impulsionar o controle de câmera do Seedance 2 e melhorar a aderência ao movimento.  \nForneça três entradas para o Seedance 2: (1) a previz do Blender, (2) um quadro de referência para o mundo em pé, e (3) um quadro de referência para o mundo de cabeça para baixo para controlar as mudanças de orientação."
+    },
+    "zh": {
+      "content": "在Comfy中使用Blender预览作为指导输入，以推动Seedance 2的摄像机控制并改善运动贴合性。  \n为Seedance 2提供三个输入：（1）Blender预览，（2）正立世界的参考帧，以及（3）倒置世界的参考帧，以控制方向变化。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2070806410821349804",
+  "title": "ChatGPTで絵コンテ（ストーリーボード）を作ってからSeedance 2.0に渡して動画化するワークフローを使う",
+  "content": "ChatGPTで絵コンテ（ストーリーボード）を作ってからSeedance 2.0に渡して動画化するワークフローを使う  \nSeedanceでは文字表現が崩れやすいので、テキスト要素を入れない（文字なし）構成で生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070805225271918592/img/q_icuN4VCPrbvoXJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070806410821349804.mp4",
+  "sourceLink": "https://x.com/koharutameiki/status/2070806410821349804",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "小春のため息",
+    "link": "https://x.com/koharutameiki"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ChatGPTで絵コンテ（ストーリーボード）を作ってからSeedance 2.0に渡して動画化するワークフローを使う  \nSeedanceでは文字表現が崩れやすいので、テキスト要素を入れない（文字なし）構成で生成する",
+  "translations": {
+    "en": {
+      "content": "Use a workflow where you create a storyboard with ChatGPT and then pass it to Seedance 2.0 for video production.  \nSince text expressions can easily become distorted in Seedance, generate a composition without text elements (text-free)."
+    },
+    "es": {
+      "content": "---\nUtilizar un flujo de trabajo en el que se crea un storyboard con ChatGPT y luego se pasa a Seedance 2.0 para convertirlo en video  \nEn Seedance, la representación de texto tiende a distorsionarse, por lo que se genera una composición sin elementos de texto (sin letras)\n---"
+    },
+    "fr": {
+      "content": "Utiliser un flux de travail où vous créez un storyboard avec ChatGPT avant de le transmettre à Seedance 2.0 pour le transformer en vidéo  \nDans Seedance, les expressions textuelles ont tendance à se déformer, donc générez une composition sans éléments textuels (sans texte)."
+    },
+    "ko": {
+      "content": "ChatGPT에서 스토리보드를 만든 후 Seedance 2.0에 전달하여 영상화하는 워크플로우를 사용하기  \nSeedance에서는 텍스트 표현이 쉽게 깨질 수 있으므로, 텍스트 요소를 넣지 않은 (문자 없는) 구성으로 생성하기"
+    },
+    "pt": {
+      "content": "Usar o fluxo de trabalho de criar storyboards no ChatGPT e depois passar para o Seedance 2.0 para transformar em vídeo  \nNo Seedance, como a representação de texto pode se distorcer facilmente, gerar uma composição sem elementos de texto (sem texto)."
+    },
+    "zh": {
+      "content": "使用ChatGPT创建分镜图（故事板）后，将其传递给Seedance 2.0进行视频化的工作流程  \n由于Seedance中的文字表达容易失真，因此生成时采用不含文字的（文字なし）构成"
+    }
+  }
+}

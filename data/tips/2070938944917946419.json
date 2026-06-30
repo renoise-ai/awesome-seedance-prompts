@@ -1,0 +1,41 @@
+{
+  "id": "2070938944917946419",
+  "title": "Prompt your video scene-by-scene instead of trying to generate the whole…",
+  "content": "Prompt your video scene-by-scene instead of trying to generate the whole sequence in one prompt.  \nUse an iterative workflow: have the system draft a prompt, generate multiple variations, review results, then refine and repeat.  \nUse a Seedance 2 prompting system/template so Claude can write Seedance-ready prompts you can paste directly into Seedance.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/gavinpurcell/status/2070938944917946419",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "Gavin Purcell",
+    "link": "https://x.com/gavinpurcell"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Prompt your video scene-by-scene instead of trying to generate the whole sequence in one prompt.  \nUse an iterative workflow: have the system draft a prompt, generate multiple variations, review results, then refine and repeat.  \nUse a Seedance 2 prompting system/template so Claude can write Seedance-ready prompts you can paste directly into Seedance.",
+  "translations": {
+    "es": {
+      "content": "Indica tu video escena por escena en lugar de intentar generar toda la secuencia en un solo prompt.  \nUtiliza un flujo de trabajo iterativo: haz que el sistema redacte un prompt, genere múltiples variaciones, revise los resultados, luego refine y repita.  \nUsa un sistema/plantilla de prompts de Seedance 2 para que Claude pueda escribir prompts listos para Seedance que puedas pegar directamente en Seedance."
+    },
+    "fr": {
+      "content": "---\nProposez votre vidéo scène par scène au lieu d'essayer de générer toute la séquence en un seul prompt.  \nUtilisez un flux de travail itératif : demandez au système de rédiger un prompt, générez plusieurs variations, examinez les résultats, puis affinez et répétez.  \nUtilisez un système/modèle de prompt Seedance 2 pour que Claude puisse rédiger des prompts prêts à l'emploi pour Seedance que vous pouvez coller directement dans Seedance.\n---"
+    },
+    "ja": {
+      "content": "---\nビデオシーンを一度に全体のシーケンスを生成しようとするのではなく、シーンごとにプロンプトを作成してください。  \n反復的なワークフローを使用します：システムにプロンプトを作成させ、複数のバリエーションを生成し、結果をレビューし、改善して繰り返します。  \nSeedance 2 プロンプトシステム/テンプレートを使用して、Claude が Seedance に直接貼り付け可能な Seedance-ready プロンプトを作成できるようにします。  \n---"
+    },
+    "ko": {
+      "content": "비디오를 한 번에 전체 시퀀스를 생성하려고 하기보다는 장면별로 프롬프트하세요.  \n반복적인 워크플로우를 사용하세요: 시스템이 프롬프트를 초안으로 작성하게 하고, 여러 변형을 생성한 후 결과를 검토하고, 정제하여 반복하세요.  \nClaude가 Seedance에 바로 붙여넣을 수 있는 Seedance-ready 프롬프트를 작성할 수 있도록 Seedance 2 프롬프트 시스템/템플릿을 사용하세요."
+    },
+    "pt": {
+      "content": "Solicite seu vídeo cena por cena em vez de tentar gerar toda a sequência em um único prompt.  \nUse um fluxo de trabalho iterativo: peça ao sistema para elaborar um prompt, gerar múltiplas variações, revisar os resultados, depois refinar e repetir.  \nUse um sistema/modelo de prompting Seedance 2 para que Claude possa escrever prompts prontos para Seedance que você pode colar diretamente no Seedance."
+    },
+    "zh": {
+      "content": "---\n逐个场景地提示您的视频，而不是尝试在一个提示中生成整个序列。  \n使用迭代工作流程：让系统起草一个提示，生成多个变体，审查结果，然后进行改进和重复。  \n使用Seedance 2提示系统/模板，这样Claude可以编写Seedance-ready的提示，您可以直接粘贴到Seedance中。  \n---"
+    }
+  }
+}

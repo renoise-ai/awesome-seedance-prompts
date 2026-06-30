@@ -1,0 +1,42 @@
+{
+  "id": "2070701695869612201",
+  "title": "先用 GPT Image 2.0 生成广告所需的画面资产（背景、产品、角色、道具），再进入视频生成流程",
+  "content": "先用 GPT Image 2.0 生成广告所需的画面资产（背景、产品、角色、道具），再进入视频生成流程  \n用 Claude Skill 编写剧本，把广告脚本、镜头语言和产品展示节奏整理成可直接用于 Seedance 的视频提示词  \n在 Seedance 2.0 中用上述静态画面资产作为输入生成视频，把静态画面转成完整广告片",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070701611622764544/img/nm2TEAOyLhmTw3NX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070701695869612201.mp4",
+  "sourceLink": "https://x.com/Chengzilhy/status/2070701695869612201",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "小宇Chengzi",
+    "link": "https://x.com/Chengzilhy"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先用 GPT Image 2.0 生成广告所需的画面资产（背景、产品、角色、道具），再进入视频生成流程  \n用 Claude Skill 编写剧本，把广告脚本、镜头语言和产品展示节奏整理成可直接用于 Seedance 的视频提示词  \n在 Seedance 2.0 中用上述静态画面资产作为输入生成视频，把静态画面转成完整广告片",
+  "translations": {
+    "en": {
+      "content": "First, use GPT Image 2.0 to generate the visual assets needed for the advertisement (background, product, characters, props), then proceed to the video generation process.  \nUse Claude Skill to write the script, organizing the ad script, cinematic language, and product display rhythm into video prompts that can be directly used in Seedance.  \nIn Seedance 2.0, use the above static visual assets as input to generate the video, transforming the static images into a complete advertisement."
+    },
+    "es": {
+      "content": "Primero, utiliza GPT Image 2.0 para generar los activos visuales necesarios para el anuncio (fondo, producto, personajes, props), luego procede al proceso de generación de video.  \nUsa Claude Skill para escribir el guion, organizando el guion del anuncio, el lenguaje de cámara y el ritmo de presentación del producto en prompts de video que se pueden usar directamente en Seedance.  \nEn Seedance 2.0, utiliza los activos visuales estáticos mencionados como entrada para generar el video, convirtiendo las imágenes estáticas en un anuncio completo."
+    },
+    "fr": {
+      "content": "---\nCommencez par utiliser GPT Image 2.0 pour générer les éléments visuels nécessaires à la publicité (arrière-plan, produit, personnages, accessoires), puis passez au processus de génération vidéo.  \nUtilisez Claude Skill pour rédiger le scénario, en organisant le script publicitaire, le langage cinématographique et le rythme de présentation du produit en prompts vidéo directement utilisables dans Seedance.  \nDans Seedance 2.0, utilisez les éléments visuels statiques mentionnés ci-dessus comme entrée pour générer la vidéo, transformant ainsi les images statiques en un film publicitaire complet.\n---"
+    },
+    "ja": {
+      "content": "---\nまず、GPT Image 2.0 を使用して広告に必要なビジュアルアセット（背景、製品、キャラクター、小道具）を生成し、その後ビデオ生成プロセスに進みます。  \nClaude Skill を用いて脚本を作成し、広告スクリプト、カメラワーク、製品展示のリズムを整理して、Seedance で直接使用できるビデオプロンプトにします。  \nSeedance 2.0 で上記の静的ビジュアルアセットを入力として使用し、ビデオを生成し、静的なビジュアルを完全な広告ビデオに変換します。  \n---"
+    },
+    "ko": {
+      "content": "---\n먼저 GPT Image 2.0을 사용하여 광고에 필요한 이미지 자산(배경, 제품, 캐릭터, 소품)을 생성한 후, 비디오 생성 프로세스로 이동합니다.  \nClaude Skill을 사용하여 대본을 작성하고, 광고 스크립트, 카메라 언어 및 제품 전시 리듬을 Seedance의 비디오 프롬프트로 직접 사용할 수 있도록 정리합니다.  \nSeedance 2.0에서 위의 정적 이미지 자산을 입력으로 사용하여 비디오를 생성하고, 정적 이미지를 완전한 광고 영상으로 변환합니다.\n---"
+    },
+    "pt": {
+      "content": "Primeiro, use o GPT Image 2.0 para gerar os ativos visuais necessários para o anúncio (fundo, produto, personagens, adereços), depois entre no processo de geração de vídeo.  \nUse o Claude Skill para escrever o roteiro, organizando o script do anúncio, a linguagem de câmera e o ritmo de apresentação do produto em prompts de vídeo que podem ser usados diretamente no Seedance.  \nNo Seedance 2.0, use os ativos visuais estáticos mencionados como entrada para gerar o vídeo, transformando as imagens estáticas em um anúncio completo."
+    }
+  }
+}

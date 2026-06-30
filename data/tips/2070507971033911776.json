@@ -1,0 +1,41 @@
+{
+  "id": "2070507971033911776",
+  "title": "Use a clean start-frame image as [image1] and do not modify anything about that…",
+  "content": "Use a clean start-frame image as [image1] and do not modify anything about that frame.  \nUse a reference video as [video1] to control camera motion, and match the reference exactly (including handheld follow and the pan/whip-pan left).  \nSpecify precise camera behavior in the prompt (shaky handheld following behind the subject, then a whip pan left to reveal the highway).  \nInclude explicit audio direction in the prompt (No music).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/reidhannaford/status/2070507971033911776",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "Reid Hannaford",
+    "link": "https://x.com/reidhannaford"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "POV"
+  ],
+  "tips": "Use a clean start-frame image as [image1] and do not modify anything about that frame.  \nUse a reference video as [video1] to control camera motion, and match the reference exactly (including handheld follow and the pan/whip-pan left).  \nSpecify precise camera behavior in the prompt (shaky handheld following behind the subject, then a whip pan left to reveal the highway).  \nInclude explicit audio direction in the prompt (No music).",
+  "translations": {
+    "es": {
+      "content": "---\nUsa una imagen de inicio limpia como [image1] y no modifiques nada de ese cuadro.  \nUsa un video de referencia como [video1] para controlar el movimiento de la cámara y coincide exactamente con la referencia (incluyendo el seguimiento manual y el pan/whip-pan a la izquierda).  \nEspecifica el comportamiento preciso de la cámara en el prompt (seguimiento manual tembloroso detrás del sujeto, luego un whip pan a la izquierda para revelar la autopista).  \nIncluye dirección de audio explícita en el prompt (No música).\n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez une image de départ propre comme [image1] et ne modifiez rien de ce cadre.  \nUtilisez une vidéo de référence comme [video1] pour contrôler le mouvement de la caméra, et faites correspondre exactement la référence (y compris le suivi à main levée et le pan/whip-pan à gauche).  \nSpécifiez un comportement précis de la caméra dans le prompt (suivi à main levée tremblant derrière le sujet, puis un whip pan à gauche pour révéler l'autoroute).  \nIncluez une direction audio explicite dans le prompt (Pas de musique).\n---"
+    },
+    "ja": {
+      "content": "---\nクリーンなスタートフレーム画像を[image1]として使用し、そのフレームについては何も変更しないでください。  \nカメラの動きを制御するために[video1]として参照ビデオを使用し、参照を正確に一致させてください（手持ちのフォローや左へのパン/ウィップパンを含む）。  \nプロンプトで正確なカメラの動作を指定してください（被写体の後ろを追う揺れる手持ち、そして左へのウィップパンで高速道路を明らかにする）。  \nプロンプトに明確なオーディオ指示を含めてください（音楽なし）。  \n---"
+    },
+    "ko": {
+      "content": "---\n깨끗한 시작 프레임 이미지를 [image1]로 사용하고 해당 프레임에 대해 아무것도 수정하지 마십시오.  \n카메라 움직임을 제어하기 위해 참조 비디오를 [video1]로 사용하고, 참조를 정확히 일치시키십시오 (핸드헬드 팔로우 및 왼쪽으로 팬/휘핑 팬 포함).  \n프롬프트에 정확한 카메라 동작을 지정하십시오 (피사체 뒤를 따라가는 흔들리는 핸드헬드, 그런 다음 고속 팬 왼쪽으로 고속도로를 드러냄).  \n프롬프트에 명확한 오디오 지시를 포함하십시오 (음악 없음).\n---"
+    },
+    "pt": {
+      "content": "Use uma imagem inicial limpa como [image1] e não modifique nada sobre esse quadro.  \nUse um vídeo de referência como [video1] para controlar o movimento da câmera e combine exatamente com a referência (incluindo o acompanhamento manual e o pan/whip-pan para a esquerda).  \nEspecifique o comportamento preciso da câmera no prompt (seguindo de forma instável atrás do sujeito, depois um whip pan para a esquerda para revelar a rodovia).  \nInclua direção de áudio explícita no prompt (Sem música)."
+    },
+    "zh": {
+      "content": "使用干净的起始帧图像作为[image1]，并且不要修改该帧的任何内容。  \n使用参考视频作为[video1]来控制相机运动，并精确匹配参考视频（包括手持跟随和左侧的平移/快速平移）。  \n在prompt中指定精确的相机行为（摇晃的手持跟随在主体后面，然后快速左移平移以揭示高速公路）。  \n在prompt中包含明确的音频指示（无音乐）。"
+    }
+  }
+}

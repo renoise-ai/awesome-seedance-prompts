@@ -1,0 +1,40 @@
+{
+  "id": "2070058161680384262",
+  "title": "a 90's commercial for frosted flinks",
+  "content": "a 90's commercial for frosted flinks",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069968896711430144/img/E4r6Xs2GKxZfK3f_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070058161680384262.mp4",
+  "sourceLink": "https://x.com/markgadala/status/2070058161680384262",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "Mark Gadala-Maria",
+    "link": "https://x.com/markgadala"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Retro Film",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "un comercial de los años 90 para frosted flinks"
+    },
+    "fr": {
+      "content": "une publicité des années 90 pour les frosted flinks"
+    },
+    "ja": {
+      "content": "90年代のフロステッド・フリンクスのコマーシャル"
+    },
+    "ko": {
+      "content": "90년대 프로스티드 플링크 광고"
+    },
+    "pt": {
+      "content": "um comercial dos anos 90 para frosted flinks"
+    },
+    "zh": {
+      "content": "90年代糖霜Flinks的广告"
+    }
+  }
+}

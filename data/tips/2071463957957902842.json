@@ -1,0 +1,43 @@
+{
+  "id": "2071463957957902842",
+  "title": "Use GPT Image 2 to generate a 12-shot storyboard that defines one continuous…",
+  "content": "Use GPT Image 2 to generate a 12-shot storyboard that defines one continuous camera path through the interior.  \nAnimate that exact camera path in Seedance 2.0 to produce a continuous 12-second walkthrough with no cuts.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071463854278873088/img/KtX3WrJNekRp2lWH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071463957957902842.mp4",
+  "sourceLink": "https://x.com/AndyAI_/status/2071463957957902842",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "AndyAI",
+    "link": "https://x.com/AndyAI_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use GPT Image 2 to generate a 12-shot storyboard that defines one continuous camera path through the interior.  \nAnimate that exact camera path in Seedance 2.0 to produce a continuous 12-second walkthrough with no cuts.",
+  "translations": {
+    "es": {
+      "content": "Utiliza GPT Image 2 para generar un storyboard de 12 tomas que defina un recorrido continuo de cámara a través del interior.  \nAnima ese recorrido exacto de cámara en Seedance 2.0 para producir un recorrido continuo de 12 segundos sin cortes."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer un storyboard de 12 plans qui définit un chemin de caméra continu à travers l'intérieur.  \nAnimez ce chemin de caméra exact dans Seedance 2.0 pour produire une visite continue de 12 secondes sans coupures."
+    },
+    "ja": {
+      "content": "GPT Image 2を使用して、インテリアを通る連続したカメラパスを定義する12ショットのストーリーボードを生成します。  \nSeedance 2.0でその正確なカメラパスをアニメーション化し、カットなしの連続した12秒のウォークスルーを作成します。"
+    },
+    "ko": {
+      "content": "GPT Image 2를 사용하여 내부를 통해 하나의 연속적인 카메라 경로를 정의하는 12개의 샷으로 구성된 스토리보드를 생성하세요.  \nSeedance 2.0에서 그 정확한 카메라 경로를 애니메이션화하여 컷 없이 연속적인 12초짜리 워크스루를 제작하세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar um storyboard de 12 cenas que define um caminho contínuo de câmera pelo interior.  \nAnime esse caminho exato de câmera no Seedance 2.0 para produzir um passeio contínuo de 12 segundos sem cortes."
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成一个12镜头的分镜头脚本，定义一个连续的摄像机路径穿过室内。  \n在Seedance 2.0中动画化该精确的摄像机路径，以制作一个连续的12秒无剪辑的漫游。"
+    }
+  }
+}

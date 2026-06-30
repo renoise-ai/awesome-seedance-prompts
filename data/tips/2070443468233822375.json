@@ -1,0 +1,42 @@
+{
+  "id": "2070443468233822375",
+  "title": "GPT Image 2でキャラクターシート（参照画像）を作成し、それを元にSeedance 2.0 Fastで動画生成してキャラクターの一貫性を保つ",
+  "content": "GPT Image 2でキャラクターシート（参照画像）を作成し、それを元にSeedance 2.0 Fastで動画生成してキャラクターの一貫性を保つ  \nClaudeにSeedance用の動画プロンプト案を作らせてからSeedance 2.0 Fastに投入するワークフローでプロンプト作成を効率化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070443317163397120/img/91sfZxlk7D_uGo33.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070443468233822375.mp4",
+  "sourceLink": "https://x.com/58works/status/2070443468233822375",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "ごっぱち［58works］",
+    "link": "https://x.com/58works"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "GPT Image 2でキャラクターシート（参照画像）を作成し、それを元にSeedance 2.0 Fastで動画生成してキャラクターの一貫性を保つ  \nClaudeにSeedance用の動画プロンプト案を作らせてからSeedance 2.0 Fastに投入するワークフローでプロンプト作成を効率化する",
+  "translations": {
+    "en": {
+      "content": "Create a character sheet (reference image) with GPT Image 2, and use it as a basis to generate videos with Seedance 2.0 Fast to maintain character consistency.  \nStreamline prompt creation by having Claude draft video prompt ideas for Seedance, then input them into Seedance 2.0 Fast in the workflow."
+    },
+    "es": {
+      "content": "Crear una hoja de personaje (imagen de referencia) con GPT Image 2 y, basándose en ella, generar un video con Seedance 2.0 Fast para mantener la consistencia del personaje.  \nEficientizar la creación de prompts haciendo que Claude genere propuestas de prompts de video para Seedance y luego introducirlas en Seedance 2.0 Fast."
+    },
+    "fr": {
+      "content": "Créer une feuille de personnage (image de référence) avec GPT Image 2, puis générer une vidéo avec Seedance 2.0 Fast pour maintenir la cohérence du personnage.  \nOptimiser la création de prompts en utilisant Claude pour générer des idées de prompts vidéo pour Seedance, puis les intégrer dans Seedance 2.0 Fast."
+    },
+    "ko": {
+      "content": "---\nGPT Image 2에서 캐릭터 시트(참조 이미지)를 작성하고, 그것을 바탕으로 Seedance 2.0 Fast에서 영상 생성하여 캐릭터의 일관성을 유지  \nClaude에게 Seedance용 영상 프롬프트 안을 작성하게 한 후 Seedance 2.0 Fast에 투입하는 워크플로우로 프롬프트 작성 효율화\n---"
+    },
+    "pt": {
+      "content": "Crie uma folha de personagem (imagem de referência) com o GPT Image 2 e, em seguida, use o Seedance 2.0 Fast para gerar vídeos, mantendo a consistência do personagem.  \nOtimize a criação de prompts no fluxo de trabalho fazendo com que Claude crie sugestões de prompts de vídeo para o Seedance, antes de inseri-los no Seedance 2.0 Fast."
+    },
+    "zh": {
+      "content": "在GPT Image 2中创建角色表（参考图像），然后使用Seedance 2.0 Fast生成视频以保持角色的一致性  \n通过让Claude为Seedance创建视频prompt方案，然后将其投入Seedance 2.0 Fast的工作流程来提高prompt创建的效率"
+    }
+  }
+}

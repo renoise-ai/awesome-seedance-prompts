@@ -1,0 +1,42 @@
+{
+  "id": "2070664995776393575",
+  "title": "Generate the talking-head in Seedance 2.0 with the mouth/lip movement created…",
+  "content": "Generate the talking-head in Seedance 2.0 with the mouth/lip movement created natively in the same pass as head movement (don’t add a separate lip-sync/mouth layer afterward) to avoid uncanny results and sync issues  \nAfter generating the native talking-mouth video, swap the voice by running the audio through ElevenLabs speech-to-speech to convert it to the character’s locked voice while preserving timing so the original mouth animation stays in sync  \nFix “AI-plastic” lighting by applying a film emulation/film-stack grade (soften highlights, add grain) to restore skin texture before/after the Seedance pass  \nUse this end-to-end workflow: GPT Image 2 film-stack keyframe → Seedance 2.0 native talking mouth → ElevenLabs speech-to-speech re-voice → mux the final clip",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070663893152645120/img/UIeyT1aJK_mYsNdE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070664995776393575.mp4",
+  "sourceLink": "https://x.com/JustinPerea/status/2070664995776393575",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "Justin",
+    "link": "https://x.com/JustinPerea"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate the talking-head in Seedance 2.0 with the mouth/lip movement created natively in the same pass as head movement (don’t add a separate lip-sync/mouth layer afterward) to avoid uncanny results and sync issues  \nAfter generating the native talking-mouth video, swap the voice by running the audio through ElevenLabs speech-to-speech to convert it to the character’s locked voice while preserving timing so the original mouth animation stays in sync  \nFix “AI-plastic” lighting by applying a film emulation/film-stack grade (soften highlights, add grain) to restore skin texture before/after the Seedance pass  \nUse this end-to-end workflow: GPT Image 2 film-stack keyframe → Seedance 2.0 native talking mouth → ElevenLabs speech-to-speech re-voice → mux the final clip",
+  "translations": {
+    "es": {
+      "content": "---\nGenera el talking-head en Seedance 2.0 con el movimiento de boca/labios creado nativamente en el mismo paso que el movimiento de cabeza (no añadas una capa separada de sincronización de labios/boca después) para evitar resultados extraños y problemas de sincronización.  \nDespués de generar el video de boca parlante nativo, cambia la voz ejecutando el audio a través de ElevenLabs speech-to-speech para convertirlo a la voz bloqueada del personaje mientras se preserva el tiempo para que la animación original de la boca permanezca sincronizada.  \nCorrige la iluminación \"AI-plastic\" aplicando una emulación de película/grado de pila de película (suaviza los reflejos, añade grano) para restaurar la textura de la piel antes/después del paso de Seedance.  \nUtiliza este flujo de trabajo de extremo a extremo: GPT Image 2 film-stack keyframe → Seedance 2.0 native talking mouth → ElevenLabs speech-to-speech re-voice → mezcla el clip final\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] También hice un artículo + cómo todo encaja en mi sitio web: https://t.co/YIc2bjOMZl\n---"
+    },
+    "fr": {
+      "content": "---\nGénérez le talking-head dans Seedance 2.0 avec le mouvement de la bouche/des lèvres créé nativement dans le même passage que le mouvement de la tête (ne pas ajouter une couche de synchronisation labiale/bouche séparée par la suite) pour éviter des résultats étranges et des problèmes de synchronisation.  \nAprès avoir généré la vidéo de la bouche parlante native, échangez la voix en passant l'audio par ElevenLabs speech-to-speech pour la convertir en la voix verrouillée du personnage tout en préservant le timing afin que l'animation originale de la bouche reste synchronisée.  \nCorrigez l'éclairage \"AI-plastic\" en appliquant une émulation de film/grade de film-stack (adoucir les hautes lumières, ajouter du grain) pour restaurer la texture de la peau avant/après le passage Seedance.  \nUtilisez ce flux de travail de bout en bout : GPT Image 2 film-stack keyframe → Seedance 2.0 native talking mouth → ElevenLabs speech-to-speech re-voice → mux du clip final\n\n--- SUITE DU FIL ---\n[Fil 1] J'ai aussi fait un article + comment tout cela s'assemble sur mon site web : https://t.co/YIc2bjOMZl\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0でトーキングヘッドを生成し、口や唇の動きを頭の動きと同じパスでネイティブに作成します（後から別のリップシンク/口のレイヤーを追加しないでください）。これにより、不自然な結果や同期の問題を避けます。  \nネイティブのトーキングマウスビデオを生成した後、ElevenLabsのspeech-to-speechを使用して音声をキャラクターの固定された声に変換し、タイミングを維持して元の口のアニメーションが同期するようにします。  \n「AIプラスチック」な照明を修正するために、フィルムエミュレーション/フィルムスタックグレードを適用し（ハイライトを柔らかくし、粒子を追加）、Seedanceパスの前後で肌の質感を復元します。  \nこのエンドツーエンドのワークフローを使用します：GPT Image 2 フィルムスタックキーフレーム → Seedance 2.0 ネイティブトーキングマウス → ElevenLabs speech-to-speech リボイス → 最終クリップをマックス\n\n--- THREAD CONTINUATION ---\n[Thread 1] また、私のウェブサイトで全体の流れとその組み合わせについての書き込みも行いました: https://t.co/YIc2bjOMZl\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 헤드 움직임과 동일한 패스에서 본래 생성된 입/입술 움직임으로 토킹 헤드를 생성하세요 (이후에 별도의 립싱크/입 레이어를 추가하지 마세요) 불쾌한 결과와 동기화 문제를 피하기 위해  \n본래의 토킹-마우스 비디오를 생성한 후, ElevenLabs의 speech-to-speech를 통해 오디오를 실행하여 캐릭터의 고정된 목소리로 변환하면서 타이밍을 유지하여 원래의 입 애니메이션이 동기화되도록 하세요  \n\"AI-플라스틱\" 조명을 수정하기 위해 필름 에뮬레이션/필름-스택 그레이드를 적용하여 (하이라이트를 부드럽게 하고, 그레인을 추가하여) Seedance 패스 전후에 피부 질감을 복원하세요  \n이 엔드-투-엔드 워크플로우를 사용하세요: GPT Image 2 필름-스택 키프레임 → Seedance 2.0 본래의 토킹 마우스 → ElevenLabs speech-to-speech 리-보이스 → 최종 클립을 믹스\n\n--- THREAD CONTINUATION ---\n[Thread 1] 제 웹사이트에 이 모든 것이 어떻게 맞물리는지에 대한 글도 작성했습니다: https://t.co/YIc2bjOMZl\n---"
+    },
+    "pt": {
+      "content": "---\nGere o talking-head no Seedance 2.0 com o movimento da boca/lábios criado nativamente na mesma passagem que o movimento da cabeça (não adicione uma camada separada de sincronização labial/boca depois) para evitar resultados estranhos e problemas de sincronização.  \nApós gerar o vídeo nativo do talking-mouth, troque a voz rodando o áudio pelo ElevenLabs speech-to-speech para convertê-lo para a voz fixa do personagem enquanto preserva o tempo para que a animação original da boca permaneça sincronizada.  \nCorrija a iluminação \"plástica de IA\" aplicando uma emulação de filme/graduação de pilha de filme (suavize os destaques, adicione granulação) para restaurar a textura da pele antes/depois da passagem do Seedance.  \nUse este fluxo de trabalho de ponta a ponta: GPT Image 2 film-stack keyframe → Seedance 2.0 native talking mouth → ElevenLabs speech-to-speech re-voice → mux o clipe final\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Também fiz um artigo + como tudo se encaixa no meu site: https://t.co/YIc2bjOMZl\n---"
+    },
+    "zh": {
+      "content": "---\n在Seedance 2.0中生成talking-head时，嘴唇/口部动作与头部动作在同一过程中原生创建（不要在之后添加单独的唇同步/口部图层），以避免不自然的效果和同步问题。  \n生成原生talking-mouth视频后，通过ElevenLabs的speech-to-speech功能转换音频，将其转换为角色的固定声音，同时保留时间同步，以确保原始口部动画保持同步。  \n通过应用胶片模拟/胶片堆栈调色（柔化高光，添加颗粒）来修复“AI塑料”光照，以在Seedance处理前后恢复皮肤纹理。  \n使用此端到端工作流程：GPT Image 2胶片堆栈关键帧 → Seedance 2.0原生talking mouth → ElevenLabs speech-to-speech重新配音 → 合并最终剪辑\n\n--- 线程续集 ---\n[线程1] 我还在我的网站上写了一篇文章+如何将这一切结合在一起：https://t.co/YIc2bjOMZl\n---"
+    }
+  }
+}

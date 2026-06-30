@@ -1,0 +1,43 @@
+{
+  "id": "2071451152600760635",
+  "title": "Generate a reference frame in Midjourney, then input that frame into Seedance…",
+  "content": "Generate a reference frame in Midjourney, then input that frame into Seedance 2.0 as the visual target for the shot.  \nBlock out the action in Blender using basic placeholder geometry (stick-figure-level), then feed the Blender blocking into Seedance 2.0 to transfer your timing and spatial layout into a live-action render.  \nUse Blender to explicitly control choreography (motion, timing, and camera logic) and rely on Seedance 2.0 only for visual translation, rather than prompting the model to invent the action.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071451129582329856/img/9e2DhHSZZ09wTflB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071451152600760635.mp4",
+  "sourceLink": "https://x.com/adityarao310/status/2071451152600760635",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "Aditya ⚡Rao",
+    "link": "https://x.com/adityarao310"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Generate a reference frame in Midjourney, then input that frame into Seedance 2.0 as the visual target for the shot.  \nBlock out the action in Blender using basic placeholder geometry (stick-figure-level), then feed the Blender blocking into Seedance 2.0 to transfer your timing and spatial layout into a live-action render.  \nUse Blender to explicitly control choreography (motion, timing, and camera logic) and rely on Seedance 2.0 only for visual translation, rather than prompting the model to invent the action.",
+  "translations": {
+    "es": {
+      "content": "Genera un cuadro de referencia en Midjourney, luego introduce ese cuadro en Seedance 2.0 como el objetivo visual para la toma.  \nBloquea la acción en Blender usando geometría básica de marcador de posición (nivel de figura de palo), luego introduce el bloqueo de Blender en Seedance 2.0 para transferir tu sincronización y disposición espacial a una representación de acción en vivo.  \nUsa Blender para controlar explícitamente la coreografía (movimiento, sincronización y lógica de cámara) y confía en Seedance 2.0 solo para la traducción visual, en lugar de solicitar al modelo que invente la acción."
+    },
+    "fr": {
+      "content": "---\nGénérez un cadre de référence dans Midjourney, puis entrez ce cadre dans Seedance 2.0 comme cible visuelle pour la prise de vue.  \nBloquez l'action dans Blender en utilisant une géométrie de base en guise de substitut (niveau bonhomme allumette), puis intégrez le blocage de Blender dans Seedance 2.0 pour transférer votre timing et votre disposition spatiale dans un rendu en prise de vue réelle.  \nUtilisez Blender pour contrôler explicitement la chorégraphie (mouvement, timing et logique de la caméra) et comptez sur Seedance 2.0 uniquement pour la traduction visuelle, plutôt que de demander au modèle d'inventer l'action.\n---"
+    },
+    "ja": {
+      "content": "---\nMidjourneyで参照フレームを生成し、そのフレームをSeedance 2.0に入力してショットのビジュアルターゲットとします。  \nBlenderで基本的なプレースホルダーのジオメトリ（スティックフィギュアレベル）を使用してアクションをブロックアウトし、そのBlenderのブロッキングをSeedance 2.0に入力して、タイミングと空間レイアウトをライブアクションレンダーに転送します。  \nBlenderを使用して振付（動き、タイミング、カメラロジック）を明示的に制御し、Seedance 2.0には視覚的な翻訳のみを依頼し、モデルにアクションを発明させるプロンプトは使用しないでください。  \n---"
+    },
+    "ko": {
+      "content": "---\nMidjourney에서 참조 프레임을 생성한 후, 그 프레임을 Seedance 2.0에 입력하여 샷의 시각적 목표로 사용하세요.  \nBlender에서 기본적인 플레이스홀더 기하학(스틱 피겨 수준)을 사용하여 동작을 블록 아웃한 다음, Blender 블로킹을 Seedance 2.0에 입력하여 타이밍과 공간 레이아웃을 실사 렌더링으로 전환하세요.  \nBlender를 사용하여 안무(동작, 타이밍, 카메라 논리)를 명시적으로 제어하고, Seedance 2.0은 시각적 번역에만 의존하며 모델이 동작을 창작하도록 프롬프트하지 마세요.\n---"
+    },
+    "pt": {
+      "content": "Gere um quadro de referência no Midjourney, depois insira esse quadro no Seedance 2.0 como o alvo visual para a cena.  \nBloqueie a ação no Blender usando geometria básica de substituição (nível de boneco de palito), em seguida, alimente o bloqueio do Blender no Seedance 2.0 para transferir seu tempo e layout espacial para uma renderização em live-action.  \nUse o Blender para controlar explicitamente a coreografia (movimento, tempo e lógica de câmera) e confie no Seedance 2.0 apenas para tradução visual, em vez de solicitar ao modelo que invente a ação."
+    },
+    "zh": {
+      "content": "在Midjourney中生成一个参考帧，然后将该帧输入到Seedance 2.0中，作为镜头的视觉目标。  \n使用Blender中的基本占位几何体（类似火柴人级别）来阻挡动作，然后将Blender的阻挡输入到Seedance 2.0中，以将您的时间和空间布局转移到实景渲染中。  \n使用Blender明确控制编舞（动作、时间和镜头逻辑），仅依靠Seedance 2.0进行视觉翻译，而不是提示模型自行创造动作。"
+    }
+  }
+}

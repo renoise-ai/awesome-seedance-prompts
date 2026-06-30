@@ -1,0 +1,42 @@
+{
+  "id": "2071693328362443238",
+  "title": "Compare Seedance 2.0 outputs by evaluating three criteria: EXECUTION (how…",
+  "content": "Compare Seedance 2.0 outputs by evaluating three criteria: EXECUTION (how accurately it reproduces the reference), INTERPRETATION (what creative decisions it adds on its own), and DIRECTION (whether the final scene becomes stronger).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071692965492269056/img/Jbp7H24bjSmdFPj6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071693328362443238.mp4",
+  "sourceLink": "https://x.com/voyzlab/status/2071693328362443238",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "Voyz",
+    "link": "https://x.com/voyzlab"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Compare Seedance 2.0 outputs by evaluating three criteria: EXECUTION (how accurately it reproduces the reference), INTERPRETATION (what creative decisions it adds on its own), and DIRECTION (whether the final scene becomes stronger).",
+  "translations": {
+    "es": {
+      "content": "Compara los resultados de Seedance 2.0 evaluando tres criterios: EJECUCIÓN (qué tan precisamente reproduce la referencia), INTERPRETACIÓN (qué decisiones creativas añade por sí mismo) y DIRECCIÓN (si la escena final se fortalece)."
+    },
+    "fr": {
+      "content": "Comparez les résultats de Seedance 2.0 en évaluant trois critères : EXÉCUTION (à quel point il reproduit fidèlement la référence), INTERPRÉTATION (quelles décisions créatives il ajoute de lui-même), et DIRECTION (si la scène finale devient plus forte)."
+    },
+    "ja": {
+      "content": "Seedance 2.0の出力を比較する際には、以下の3つの基準で評価します：EXECUTION（参照をどれだけ正確に再現しているか）、INTERPRETATION（独自に加えた創造的な判断）、DIRECTION（最終的なシーンがより強くなるかどうか）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0의 결과물을 세 가지 기준으로 비교하세요: 실행(참조를 얼마나 정확하게 재현하는지), 해석(자체적으로 추가하는 창의적 결정), 방향(최종 장면이 더 강력해지는지 여부)."
+    },
+    "pt": {
+      "content": "Compare as saídas do Seedance 2.0 avaliando três critérios: EXECUÇÃO (quão precisamente ele reproduz a referência), INTERPRETAÇÃO (quais decisões criativas ele adiciona por conta própria) e DIREÇÃO (se a cena final se torna mais forte)."
+    },
+    "zh": {
+      "content": "通过评估三个标准来比较Seedance 2.0的输出：EXECUTION（它再现参考的准确性）、INTERPRETATION（它自身添加了哪些创意决策）和DIRECTION（最终场景是否变得更强）。"
+    }
+  }
+}

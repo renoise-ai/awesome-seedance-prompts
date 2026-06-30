@@ -1,0 +1,43 @@
+{
+  "id": "2070442695554920955",
+  "title": "Build a visual plan before prompting Seedance 2.0: start from an image…",
+  "content": "Build a visual plan before prompting Seedance 2.0: start from an image reference, create storyboard direction, generate a 12‑panel cinematic storyboard, then make a character reference sheet, and only then write the Seedance 2.0 video prompt.  \nUse a storyboard-first workflow for Seedance 2.0: storyboard first, lock character consistency second (via a character reference sheet), and write the final video prompt last.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070241628191940608/img/2QLi5-HA7zU6yj_Y.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070442695554920955.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2070442695554920955",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Build a visual plan before prompting Seedance 2.0: start from an image reference, create storyboard direction, generate a 12‑panel cinematic storyboard, then make a character reference sheet, and only then write the Seedance 2.0 video prompt.  \nUse a storyboard-first workflow for Seedance 2.0: storyboard first, lock character consistency second (via a character reference sheet), and write the final video prompt last.",
+  "translations": {
+    "es": {
+      "content": "Construye un plan visual antes de solicitar Seedance 2.0: comienza con una referencia de imagen, crea una dirección de storyboard, genera un storyboard cinematográfico de 12 paneles, luego haz una hoja de referencia de personajes, y solo entonces escribe el prompt de video de Seedance 2.0.  \nUtiliza un flujo de trabajo basado en storyboard para Seedance 2.0: primero el storyboard, asegura la consistencia de los personajes en segundo lugar (a través de una hoja de referencia de personajes), y escribe el prompt final del video al final."
+    },
+    "fr": {
+      "content": "---\nÉlaborez un plan visuel avant de lancer Seedance 2.0 : commencez par une référence d'image, créez une direction de storyboard, générez un storyboard cinématographique de 12 panneaux, puis réalisez une fiche de référence de personnage, et seulement ensuite rédigez le prompt vidéo Seedance 2.0.  \nUtilisez un flux de travail axé sur le storyboard pour Seedance 2.0 : storyboard d'abord, verrouillez la cohérence des personnages ensuite (via une fiche de référence de personnage), et rédigez le prompt vidéo final en dernier.\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.0をプロンプトする前にビジュアルプランを構築します：画像参照から始め、ストーリーボードの方向性を作成し、12パネルのシネマティックストーリーボードを生成し、キャラクター参照シートを作成してから、Seedance 2.0のビデオプロンプトを書きます。  \nSeedance 2.0にはストーリーボードファーストのワークフローを使用します：まずストーリーボードを作成し、次にキャラクター参照シートを通じてキャラクターの一貫性を確保し、最後にビデオプロンプトを書きます。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 프롬프트하기 전에 시각적 계획을 세우세요: 이미지 참조에서 시작하여 스토리보드 방향을 설정하고, 12패널 시네마틱 스토리보드를 생성한 다음 캐릭터 참조 시트를 만들고, 그 후에야 Seedance 2.0 비디오 프롬프트를 작성하세요.  \nSeedance 2.0을 위한 스토리보드 우선 워크플로우를 사용하세요: 먼저 스토리보드를 작성하고, 두 번째로 캐릭터 참조 시트를 통해 캐릭터 일관성을 고정하고, 마지막으로 최종 비디오 프롬프트를 작성하세요."
+    },
+    "pt": {
+      "content": "Crie um plano visual antes de iniciar o Seedance 2.0: comece com uma referência de imagem, crie a direção do storyboard, gere um storyboard cinematográfico de 12 painéis, depois faça uma folha de referência de personagem, e só então escreva o prompt de vídeo do Seedance 2.0.  \nUse um fluxo de trabalho baseado em storyboard para o Seedance 2.0: primeiro o storyboard, depois garanta a consistência dos personagens (através de uma folha de referência de personagem), e por último escreva o prompt final do vídeo."
+    },
+    "zh": {
+      "content": "在提示Seedance 2.0之前，先建立一个视觉计划：从图像参考开始，创建分镜头方向，生成一个12格的电影分镜头板，然后制作角色参考表，最后才编写Seedance 2.0的视频提示。  \n使用以分镜头为先的工作流程进行Seedance 2.0：首先制作分镜头板，其次通过角色参考表锁定角色一致性，最后编写最终的视频提示。"
+    }
+  }
+}

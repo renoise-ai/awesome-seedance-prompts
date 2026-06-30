@@ -1,0 +1,42 @@
+{
+  "id": "2071002775719436428",
+  "title": "Renoise Canvasのノード型キャンバスで生成した画像・動画を並べて整理しながら制作フローを組む",
+  "content": "Renoise Canvasのノード型キャンバスで生成した画像・動画を並べて整理しながら制作フローを組む  \n実写調にしたい場合は参照画像として使うためにFacePassを実施する  \nSeedance 2.0で15秒動画を3本生成し、編集でつないで30秒動画にまとめる  \n絵コンテで人物や舞台の一貫性が出ない場合は、重要要素（例：カウガール達、サルーン外観）だけを先に固めて参照素材として用意する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071001948669763584/img/jEShfvBALN9FWuMf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071002775719436428.mp4",
+  "sourceLink": "https://x.com/Naonekozamurai/status/2071002775719436428",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "なお",
+    "link": "https://x.com/Naonekozamurai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Renoise Canvasのノード型キャンバスで生成した画像・動画を並べて整理しながら制作フローを組む  \n実写調にしたい場合は参照画像として使うためにFacePassを実施する  \nSeedance 2.0で15秒動画を3本生成し、編集でつないで30秒動画にまとめる  \n絵コンテで人物や舞台の一貫性が出ない場合は、重要要素（例：カウガール達、サルーン外観）だけを先に固めて参照素材として用意する",
+  "translations": {
+    "en": {
+      "content": "---\n\nOrganize and arrange images and videos generated on the node-based canvas of Renoise Canvas while setting up the production flow.  \nIf you want a realistic style, conduct a FacePass to use as reference images.  \nGenerate three 15-second videos with Seedance 2.0 and edit them together into a 30-second video.  \nIf the storyboard lacks consistency in characters or setting, solidify only the key elements (e.g., cowgirls, saloon exterior) first and prepare them as reference materials.\n\n--- QUOTED TWEET ---\nThe Renoise Challenge on @Contra is live! 9 days to make something in Renoise with an unexpected plot twist. $10,500 in prizes for the people who do the best at it.\n\nJune 22–30. Register at link in replies! #RenoiseChallenge https://t.co/Mb3QX8Eovw\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here's what the canvas used for video generation looks like this time↓\n\nIt's a type that connects in node format.  \nYou can arrange and organize the created images and videos, making it very user-friendly!!\n\nThis time, since it's in a realistic style, we conducted a FacePass to use as reference images✨\n\nWe generated three 15-second videos with Seedance 2.0 and edited them into a 30-second video https://t.co/t3RjY8mrrn\n---"
+    },
+    "es": {
+      "content": "---\nOrganizar imágenes y videos generados en el lienzo de nodos de Renoise Canvas mientras se estructura el flujo de producción.  \nSi se desea un estilo realista, se debe realizar FacePass para usarlo como imagen de referencia.  \nGenerar tres videos de 15 segundos con Seedance 2.0 y editarlos para crear un video de 30 segundos.  \nSi no hay consistencia en los personajes o el escenario en el storyboard, primero se deben definir elementos clave (por ejemplo: las vaqueras, la fachada del salón) y prepararlos como material de referencia.\n\n--- TWEET CITADO ---\n¡El Desafío Renoise en @Contra está en vivo! 9 días para crear algo en Renoise con un giro inesperado en la trama. $10,500 en premios para quienes lo hagan mejor.\n\nDel 22 al 30 de junio. ¡Regístrate en el enlace en las respuestas! #RenoiseChallenge https://t.co/Mb3QX8Eovw\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Así es como se ve el lienzo que usamos para la generación de videos en esta ocasión↓\n\nTipo de conexión en formato de nodos.  \nEs muy fácil de usar ya que permite organizar las imágenes y videos generados.\n\nEn esta ocasión, como es de estilo realista, realizamos FacePass para usarlo como imagen de referencia✨\n\nGeneramos tres videos de 15 segundos con Seedance 2.0 y los editamos para crear un video de 30 segundos https://t.co/t3RjY8mrrn\n---"
+    },
+    "fr": {
+      "content": "---\nOrganiser les images et vidéos générées sur le canvas nodal de Renoise Canvas tout en structurant le flux de production.  \nSi vous souhaitez un style réaliste, effectuez un FacePass pour l'utiliser comme image de référence.  \nGénérez trois vidéos de 15 secondes avec Seedance 2.0, puis montez-les pour créer une vidéo de 30 secondes.  \nSi la continuité des personnages ou du décor ne se retrouve pas dans le storyboard, fixez d'abord les éléments clés (ex : les cowgirls, l'extérieur du saloon) et préparez-les comme matériel de référence.\n\n--- TWEET CITÉ ---\nLe Renoise Challenge sur @Contra est en direct ! 9 jours pour créer quelque chose dans Renoise avec un rebondissement inattendu. 10 500 $ de prix pour ceux qui réussissent le mieux.\n\nDu 22 au 30 juin. Inscrivez-vous via le lien dans les réponses ! #RenoiseChallenge https://t.co/Mb3QX8Eovw\n\n--- SUITE DU FIL ---\n[Fil 1] Voici à quoi ressemble le canvas utilisé pour la génération de vidéos cette fois-ci↓\n\nUn type qui se connecte en format nodal.  \nIl est très pratique car on peut organiser les images et vidéos générées en les alignant !!\n\nCette fois-ci, c'était en style réaliste, donc nous avons effectué un FacePass pour l'utiliser comme image de référence✨\n\nNous avons généré trois vidéos de 15 secondes avec Seedance 2.0 et les avons montées pour créer une vidéo de 30 secondes https://t.co/t3RjY8mrrn\n---"
+    },
+    "ko": {
+      "content": "---\nRenoise Canvas의 노드형 캔버스에서 생성한 이미지와 동영상을 나란히 정리하면서 제작 흐름을 구성  \n실사 느낌으로 만들고 싶다면 참조 이미지로 사용하기 위해 FacePass를 실시  \nSeedance 2.0으로 15초 동영상을 3개 생성하고, 편집으로 연결하여 30초 동영상으로 요약  \n스토리보드에서 인물이나 무대의 일관성이 나오지 않을 경우, 중요한 요소(예: 카우걸들, 살룬 외관)만 먼저 확정하여 참조 자료로 준비\n\n--- QUOTED TWEET ---\n@Contra에서 Renoise Challenge가 시작되었습니다! 예상치 못한 플롯 트위스트로 Renoise에서 무언가를 만들기 위해 9일이 주어집니다. 가장 잘하는 사람들에게는 $10,500의 상금이 주어집니다.\n\n6월 22일–30일. 답글의 링크에서 등록하세요! #RenoiseChallenge https://t.co/Mb3QX8Eovw\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이번 동영상 생성에 사용한 캔버스는 이런 느낌↓\n\n노드 형식으로 연결하는 타입.\n생성된 이미지나 동영상을 나란히 정리할 수 있어서 매우 사용하기 편리하네요!!\n\n이번에는 실사 느낌이어서, 참조 이미지로 사용하기 위해 FacePass를 실시했습니다✨\n\nSeedance 2.0의 15초 동영상을 3개 생성하고, 편집으로 30초 동영상으로 요약했습니다 https://t.co/t3RjY8mrrn\n---"
+    },
+    "pt": {
+      "content": "---\nOrganize imagens e vídeos gerados no canvas de nós do Renoise Canvas enquanto estrutura o fluxo de produção  \nSe quiser um estilo mais realista, realize o FacePass para usar como imagem de referência  \nGere três vídeos de 15 segundos no Seedance 2.0 e edite-os juntos para criar um vídeo de 30 segundos  \nSe não houver consistência nos personagens ou cenários no storyboard, fixe primeiro os elementos importantes (ex.: cowgirls, fachada do saloon) e prepare-os como material de referência\n\n--- TWEET CITADO ---\nO Desafio Renoise no @Contra está ao vivo! 9 dias para criar algo no Renoise com uma reviravolta inesperada na trama. $10.500 em prêmios para quem se sair melhor.\n\n22 a 30 de junho. Inscreva-se no link nas respostas! #RenoiseChallenge https://t.co/Mb3QX8Eovw\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Este é o canvas que usamos para gerar o vídeo desta vez↓\n\nTipo conectado em formato de nó.\nÉ muito fácil de usar, pois permite organizar as imagens e vídeos gerados!!\n\nDesta vez, como é em estilo realista, realizamos o FacePass para usar como imagem de referência✨\n\nGeramos três vídeos de 15 segundos no Seedance 2.0 e os editamos para criar um vídeo de 30 segundos https://t.co/t3RjY8mrrn\n---"
+    },
+    "zh": {
+      "content": "---\n在Renoise Canvas的节点型画布上生成的图像和视频进行排列整理，同时构建制作流程  \n如果想要实拍风格，可以进行FacePass以便用作参考图像  \n使用Seedance 2.0生成3个15秒的视频，通过编辑合成为一个30秒的视频  \n如果在分镜中人物或舞台的一致性不够，可以先确定重要元素（例如：牛仔女孩们、酒馆外观），并准备为参考素材\n\n--- 引用推文 ---\n@Contra上的Renoise挑战赛正在进行中！9天时间在Renoise中制作一个带有意外情节转折的作品。为表现最佳者提供$10,500的奖金。\n\n6月22日至30日。请在回复中的链接注册！#RenoiseChallenge https://t.co/Mb3QX8Eovw\n\n--- 线程继续 ---\n[线程 1] 这次视频生成使用的画布是这样的↓\n\n节点形式连接的类型。\n可以排列整理生成的图像和视频，非常好用！！\n\n这次是实拍风格，所以进行了FacePass以便用作参考图像✨\n\n使用Seedance 2.0生成了3个15秒的视频，通过编辑合成为一个30秒的视频 https://t.co/t3RjY8mrrn\n---"
+    }
+  }
+}

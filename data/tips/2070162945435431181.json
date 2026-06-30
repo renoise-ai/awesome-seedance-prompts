@@ -1,0 +1,41 @@
+{
+  "id": "2070162945435431181",
+  "title": "Use an attached motion reference video and explicitly instruct Seedance to…",
+  "content": "Use an attached motion reference video and explicitly instruct Seedance to follow its motion, blocking, and camera orbit 1:1, frame-for-frame to preserve exact timing and spatial relationships.  \nReplace placeholder subjects in the motion reference by specifying exact swaps (e.g., blue mannequin → described woman; orange placeholder car → dark green reference car) while matching their path, gait, position, and orientation to the reference.  \nLock scene continuity by directing Seedance to preserve the reference’s gait, orbiting camera move, and timing while changing only the environment (e.g., set the scene in a dusk brutalist concrete parking garage overlooking a city skyline and river).  \nControl audio output by specifying no music and requesting only natural foley (footsteps echoing on concrete, faint ambient city hum, subtle wind).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/AIWarper/status/2070162945435431181",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "A.I.Warper",
+    "link": "https://x.com/AIWarper"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an attached motion reference video and explicitly instruct Seedance to follow its motion, blocking, and camera orbit 1:1, frame-for-frame to preserve exact timing and spatial relationships.  \nReplace placeholder subjects in the motion reference by specifying exact swaps (e.g., blue mannequin → described woman; orange placeholder car → dark green reference car) while matching their path, gait, position, and orientation to the reference.  \nLock scene continuity by directing Seedance to preserve the reference’s gait, orbiting camera move, and timing while changing only the environment (e.g., set the scene in a dusk brutalist concrete parking garage overlooking a city skyline and river).  \nControl audio output by specifying no music and requesting only natural foley (footsteps echoing on concrete, faint ambient city hum, subtle wind).",
+  "translations": {
+    "es": {
+      "content": "Utiliza un video de referencia de movimiento adjunto e instruye explícitamente a Seedance para que siga su movimiento, bloqueo y órbita de cámara 1:1, cuadro por cuadro, para preservar el tiempo y las relaciones espaciales exactas.  \nReemplaza los sujetos de marcador de posición en la referencia de movimiento especificando intercambios exactos (por ejemplo, maniquí azul → mujer descrita; coche de marcador de posición naranja → coche de referencia verde oscuro) mientras coinciden con su trayectoria, paso, posición y orientación con la referencia.  \nAsegura la continuidad de la escena dirigiendo a Seedance para que preserve el paso, el movimiento de cámara en órbita y el tiempo de la referencia mientras solo cambia el entorno (por ejemplo, ambienta la escena en un garaje de concreto brutalista al anochecer con vista al horizonte de la ciudad y al río).  \nControla la salida de audio especificando sin música y solicitando solo efectos de sonido naturales (pasos resonando en concreto, leve zumbido ambiental de la ciudad, viento sutil)."
+    },
+    "fr": {
+      "content": "Utilisez une vidéo de référence de mouvement jointe et demandez explicitement à Seedance de suivre son mouvement, son blocage et son orbite de caméra 1:1, image par image, pour préserver le timing et les relations spatiales exactes.  \nRemplacez les sujets de remplacement dans la référence de mouvement en spécifiant des échanges exacts (par exemple, mannequin bleu → femme décrite ; voiture de remplacement orange → voiture de référence vert foncé) tout en correspondant à leur trajectoire, démarche, position et orientation par rapport à la référence.  \nAssurez la continuité de la scène en dirigeant Seedance pour préserver la démarche de la référence, le mouvement de caméra en orbite et le timing tout en ne changeant que l'environnement (par exemple, placez la scène dans un parking en béton brutaliste au crépuscule surplombant une ligne d'horizon de ville et une rivière).  \nContrôlez la sortie audio en spécifiant pas de musique et en demandant uniquement des effets sonores naturels (bruits de pas résonnant sur le béton, léger bourdonnement ambiant de la ville, vent subtil)."
+    },
+    "ja": {
+      "content": "---\n添付されたモーションリファレンスビデオを使用し、Seedanceにそのモーション、ブロッキング、カメラオービットを1:1でフレームごとに正確なタイミングと空間関係を保持するように明示的に指示します。  \nモーションリファレンスのプレースホルダーの被写体を正確な交換指定（例：青いマネキン → 描写された女性、オレンジのプレースホルダーの車 → ダークグリーンのリファレンスカー）で置き換え、その経路、歩行、位置、方向をリファレンスに合わせます。  \nシーンの連続性を維持するために、Seedanceにリファレンスの歩行、オービットカメラの動き、タイミングを保持しながら、環境のみを変更するように指示します（例：シーンを都市のスカイラインと川を見下ろす夕暮れのブルータリストコンクリート駐車場に設定）。  \nオーディオ出力を制御し、音楽なしを指定し、自然なフォーリー（コンクリート上での足音の反響、かすかな都市の環境音、微かな風）だけを要求します。  \n---"
+    },
+    "ko": {
+      "content": "첨부된 모션 참조 비디오를 사용하여 Seedance에게 모션, 블로킹, 카메라 오빗을 1:1로 프레임별로 따라가도록 명확히 지시하여 정확한 타이밍과 공간적 관계를 보존하십시오.  \n모션 참조의 플레이스홀더 대상을 정확한 교체로 지정하여 교체하십시오 (예: 파란색 마네킹 → 묘사된 여성; 주황색 플레이스홀더 자동차 → 짙은 녹색 참조 자동차) 참조의 경로, 걸음걸이, 위치, 방향을 일치시키면서.  \nSeedance에게 참조의 걸음걸이, 오빗 카메라 움직임, 타이밍을 유지하면서 환경만 변경하도록 지시하여 장면 연속성을 고정하십시오 (예: 장면을 도시 스카이라인과 강을 내려다보는 황혼의 브루탈리스트 콘크리트 주차장으로 설정).  \n음악 없이 자연스러운 폴리만 요청하여 오디오 출력을 제어하십시오 (콘크리트 위에 울리는 발소리, 희미한 도시의 앰비언트 소음, 미묘한 바람 소리)."
+    },
+    "pt": {
+      "content": "Use um vídeo de referência de movimento anexado e instrua explicitamente o Seedance a seguir seu movimento, bloqueio e órbita de câmera 1:1, quadro a quadro, para preservar o tempo e as relações espaciais exatas.  \nSubstitua os sujeitos de espaço reservado na referência de movimento especificando trocas exatas (por exemplo, manequim azul → mulher descrita; carro laranja de espaço reservado → carro de referência verde escuro) enquanto combina seu caminho, andar, posição e orientação com a referência.  \nMantenha a continuidade da cena direcionando o Seedance para preservar o andar da referência, o movimento de câmera em órbita e o tempo, mudando apenas o ambiente (por exemplo, configure a cena em uma garagem brutalista de concreto ao entardecer com vista para o horizonte da cidade e rio).  \nControle a saída de áudio especificando sem música e solicitando apenas efeitos sonoros naturais (passos ecoando no concreto, leve zumbido ambiente da cidade, vento sutil)."
+    },
+    "zh": {
+      "content": "使用附带的动作参考视频，并明确指示Seedance 1:1地遵循其动作、阻挡和相机轨迹，逐帧保持精确的时间和空间关系。  \n通过指定确切的替换来替换动作参考中的占位符对象（例如，蓝色人体模型→描述的女性；橙色占位符汽车→深绿色参考汽车），同时匹配它们的路径、步态、位置和方向与参考一致。  \n通过指示Seedance保持参考的步态、轨道相机移动和时间来锁定场景连续性，同时仅更改环境（例如，将场景设置在俯瞰城市天际线和河流的黄昏野兽派混凝土停车场中）。  \n通过指定无音乐并仅请求自然拟音（脚步声在混凝土上回响，微弱的城市环境嗡嗡声，微风）来控制音频输出。"
+    }
+  }
+}

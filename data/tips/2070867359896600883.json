@@ -1,0 +1,42 @@
+{
+  "id": "2070867359896600883",
+  "title": "Add your own images as input, then use Filmbrain to generate a multi-shot…",
+  "content": "Add your own images as input, then use Filmbrain to generate a multi-shot prompt for Seedance 2 and edit/adapt the prompt to match your idea.  \nExpand a project by using a still-frames → video workflow (start from still images and generate video from them) in Seedance 2.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070866285877936128/img/gjJJLbiaIA96WP6S.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070867359896600883.mp4",
+  "sourceLink": "https://x.com/filmbrain_io/status/2070867359896600883",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "filmbrain.io",
+    "link": "https://x.com/filmbrain_io"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add your own images as input, then use Filmbrain to generate a multi-shot prompt for Seedance 2 and edit/adapt the prompt to match your idea.  \nExpand a project by using a still-frames → video workflow (start from still images and generate video from them) in Seedance 2.",
+  "translations": {
+    "es": {
+      "content": "Añade tus propias imágenes como entrada, luego utiliza Filmbrain para generar un prompt de múltiples tomas para Seedance 2 y edita/adapta el prompt para que coincida con tu idea.  \nExpande un proyecto utilizando un flujo de trabajo de fotogramas fijos → video (comienza con imágenes fijas y genera video a partir de ellas) en Seedance 2."
+    },
+    "fr": {
+      "content": "Ajoutez vos propres images en tant qu'entrée, puis utilisez Filmbrain pour générer un multi-shot prompt pour Seedance 2 et éditez/adaptez le prompt pour correspondre à votre idée.  \nDéveloppez un projet en utilisant un flux de travail images fixes → vidéo (commencez par des images fixes et générez une vidéo à partir de celles-ci) dans Seedance 2."
+    },
+    "ja": {
+      "content": "自分の画像を入力として追加し、Filmbrainを使用してSeedance 2用のマルチショットプロンプトを生成し、そのプロンプトを自分のアイデアに合わせて編集/適応させてください。  \nSeedance 2で静止画→ビデオのワークフローを使用してプロジェクトを拡張します（静止画像から始めて、それらからビデオを生成します）。"
+    },
+    "ko": {
+      "content": "자신의 이미지를 입력으로 추가한 다음, Filmbrain을 사용하여 Seedance 2용 다중 샷 프롬프트를 생성하고 프롬프트를 편집/조정하여 자신의 아이디어에 맞추세요.  \nSeedance 2에서 정지 프레임 → 비디오 워크플로우를 사용하여 프로젝트를 확장하세요 (정지 이미지를 시작으로 비디오를 생성)."
+    },
+    "pt": {
+      "content": "Adicione suas próprias imagens como entrada, depois use o Filmbrain para gerar um prompt multi-shot para o Seedance 2 e edite/adapte o prompt para corresponder à sua ideia.  \nExpanda um projeto usando um fluxo de trabalho de quadros estáticos → vídeo (comece a partir de imagens estáticas e gere vídeo a partir delas) no Seedance 2."
+    },
+    "zh": {
+      "content": "添加您自己的图像作为输入，然后使用Filmbrain为Seedance 2生成一个多镜头prompt，并编辑/调整prompt以匹配您的想法。  \n通过在Seedance 2中使用静帧→视频工作流程（从静态图像开始并从中生成视频）来扩展项目。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2071519039604863215",
+  "title": "ChatGPTで動きのプロンプト（カット割り・カメラ指示まで）を作ってからSeedanceに使う",
+  "content": "ChatGPTで動きのプロンプト（カット割り・カメラ指示まで）を作ってからSeedanceに使う  \n原型画像を1枚作って固定し、キャラや世界観のブレを防いでから生成する  \nSeedance 2.0に原型画像をアップし、出力設定を4Kにして4K動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071445433680109568/img/fTlnwusMyO-NDHMB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071519039604863215.mp4",
+  "sourceLink": "https://x.com/mov_nakanohito/status/2071519039604863215",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "P@動画編集の中の人",
+    "link": "https://x.com/mov_nakanohito"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ChatGPTで動きのプロンプト（カット割り・カメラ指示まで）を作ってからSeedanceに使う  \n原型画像を1枚作って固定し、キャラや世界観のブレを防いでから生成する  \nSeedance 2.0に原型画像をアップし、出力設定を4Kにして4K動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Create a motion prompt with ChatGPT (including cuts and camera instructions) and then use it in Seedance.  \nCreate a prototype image and fix it to prevent character and world inconsistencies before generating.  \nUpload the prototype image to Seedance 2.0, set the output to 4K, and generate a 4K video."
+    },
+    "es": {
+      "content": "---\nCrear un prompt de movimiento en ChatGPT (incluyendo cortes y direcciones de cámara) y luego usarlo en Seedance  \nCrear una imagen base y fijarla para evitar variaciones en los personajes y el mundo antes de generar  \nSubir la imagen base a Seedance 2.0, configurar la salida a 4K y generar un video en 4K  \n---"
+    },
+    "fr": {
+      "content": "Créer un prompt de mouvement (y compris le découpage et les instructions de caméra) avec ChatGPT, puis l'utiliser dans Seedance.  \nCréer une image prototype et la fixer pour éviter les variations de personnages et d'univers avant de générer.  \nTélécharger l'image prototype dans Seedance 2.0, régler les paramètres de sortie sur 4K pour générer une vidéo 4K."
+    },
+    "ko": {
+      "content": "---\nChatGPT에서 움직임의 prompt(컷 분할 및 카메라 지시까지)를 만들어 Seedance에 사용  \n원형 이미지를 한 장 만들어 고정하고, 캐릭터나 세계관의 흔들림을 방지한 후 생성  \nSeedance 2.0에 원형 이미지를 업로드하고 출력 설정을 4K로 하여 4K 동영상을 생성  \n---"
+    },
+    "pt": {
+      "content": "---\nCriar um prompt de movimento no ChatGPT (incluindo cortes e instruções de câmera) e depois usar no Seedance  \nCriar uma imagem base e fixá-la para evitar variações nos personagens e no mundo antes de gerar  \nFazer upload da imagem base no Seedance 2.0, configurar a saída para 4K e gerar um vídeo em 4K  \n---"
+    },
+    "zh": {
+      "content": "在ChatGPT中创建动作的prompt（包括剪辑和摄像机指示），然后用于Seedance  \n制作一张原型图像并固定，以防止角色和世界观的偏差，然后进行生成  \n将原型图像上传到Seedance 2.0，将输出设置为4K以生成4K视频"
+    }
+  }
+}

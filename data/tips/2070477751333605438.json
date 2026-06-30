@@ -1,0 +1,43 @@
+{
+  "id": "2070477751333605438",
+  "title": "Write “prompt cinematography” prompts that explicitly script camera moves and…",
+  "content": "Write “prompt cinematography” prompts that explicitly script camera moves and effects (e.g., zooms, transitions) so they’re generated in Seedance rather than edited in post.  \nUse a static poster/reference image as the input to generate a full cinematic sequence in Seedance 2.0 4K (including camera zooms, lip-sync, and transitions).  \nScript a macro eye-zoom sequence directly in the prompt as a chained shot plan: macro pull into the pupil → futuristic neural montage → flashbang transition → wide trophy-lift shot.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2070477693666103296/pu/img/mAzIEs4vcmZShWMY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070477751333605438.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2070477751333605438",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "GenFlick | Making Movies with AI |",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Sci-Fi",
+    "Macro",
+    "Tutorial"
+  ],
+  "tips": "Write “prompt cinematography” prompts that explicitly script camera moves and effects (e.g., zooms, transitions) so they’re generated in Seedance rather than edited in post.  \nUse a static poster/reference image as the input to generate a full cinematic sequence in Seedance 2.0 4K (including camera zooms, lip-sync, and transitions).  \nScript a macro eye-zoom sequence directly in the prompt as a chained shot plan: macro pull into the pupil → futuristic neural montage → flashbang transition → wide trophy-lift shot.",
+  "translations": {
+    "es": {
+      "content": "Escribe \"prompts de cinematografía\" que guionen explícitamente los movimientos y efectos de cámara (por ejemplo, zooms, transiciones) para que se generen en Seedance en lugar de editarse en postproducción.  \nUsa una imagen estática de póster/referencia como entrada para generar una secuencia cinematográfica completa en Seedance 2.0 4K (incluyendo zooms de cámara, sincronización labial y transiciones).  \nGuiona una secuencia de zoom macro al ojo directamente en el prompt como un plan de tomas encadenadas: macro acercamiento a la pupila → montaje neural futurista → transición de destello → toma amplia de levantamiento de trofeo."
+    },
+    "fr": {
+      "content": "---\nRédigez des \"prompts de cinématographie\" qui scriptent explicitement les mouvements et effets de caméra (par exemple, zooms, transitions) afin qu'ils soient générés dans Seedance plutôt qu'édités en post-production.  \nUtilisez une image statique d'affiche/référence comme entrée pour générer une séquence cinématographique complète dans Seedance 2.0 4K (y compris les zooms de caméra, la synchronisation labiale et les transitions).  \nScénarisez une séquence de zoom macro sur l'œil directement dans le prompt comme un plan de prise de vue enchaîné : macro tirage dans la pupille → montage neural futuriste → transition flashbang → plan large de levée de trophée.  \n---"
+    },
+    "ja": {
+      "content": "---\n「プロンプトシネマトグラフィー」のプロンプトを作成し、カメラの動きや効果（例：ズーム、トランジション）を明示的にスクリプト化して、ポストプロダクションで編集するのではなく、Seedanceで生成されるようにします。  \n静的なポスター/参照画像を入力として使用し、Seedance 2.0 4Kでフルシネマティックシーケンスを生成します（カメラズーム、リップシンク、トランジションを含む）。  \nプロンプト内でマクロアイズームシーケンスを直接スクリプト化し、連鎖ショットプランとして計画します：マクロプルイン・イントゥ・ザ・ピューピル → 未来的なニューロモンタージュ → フラッシュバングトランジション → ワイドトロフィーリフトショット。  \n---"
+    },
+    "ko": {
+      "content": "---\n카메라 움직임과 효과(예: 줌, 전환)를 명시적으로 스크립트하여 포스트 프로덕션에서 편집하는 대신 Seedance에서 생성되는 \"prompt cinematography\" 프롬프트를 작성하세요.  \n정지 포스터/참조 이미지를 입력으로 사용하여 Seedance 2.0 4K에서 전체 시네마틱 시퀀스를 생성하세요 (카메라 줌, 립싱크, 전환 포함).  \n프롬프트에서 매크로 눈 줌 시퀀스를 체인 샷 계획으로 직접 스크립트하세요: 매크로 풀 인투 더 퓨필 → 미래적인 뉴럴 몽타주 → 플래시뱅 전환 → 와이드 트로피 리프트 샷.  \n---"
+    },
+    "pt": {
+      "content": "Escreva prompts de “prompt cinematography” que roteirizem explicitamente movimentos e efeitos de câmera (por exemplo, zooms, transições) para que sejam gerados no Seedance em vez de editados na pós-produção.  \nUse uma imagem estática de pôster/referência como entrada para gerar uma sequência cinematográfica completa no Seedance 2.0 4K (incluindo zooms de câmera, sincronização labial e transições).  \nRoteirize uma sequência de zoom macro no olho diretamente no prompt como um plano de tomadas encadeadas: macro puxar para dentro da pupila → montagem neural futurista → transição flashbang → tomada ampla de levantamento de troféu."
+    },
+    "zh": {
+      "content": "编写“prompt cinematography”提示，明确编写镜头移动和效果（例如，变焦、转场），以便它们在Seedance中生成，而不是在后期编辑中完成。  \n使用静态海报/参考图像作为输入，在Seedance 2.0 4K中生成完整的电影序列（包括镜头变焦、唇同步和转场）。  \n在提示中直接编写一个宏观眼部变焦序列作为链式镜头计划：宏观拉入瞳孔 → 未来神经蒙太奇 → 闪光弹转场 → 广角奖杯举起镜头。"
+    }
+  }
+}

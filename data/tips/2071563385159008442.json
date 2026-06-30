@@ -1,0 +1,42 @@
+{
+  "id": "2071563385159008442",
+  "title": "Seedance 2.0 miniはAPI経由で5〜15秒クリップを約20本まとめて生成し、後で切り貼りしてMVに編集する",
+  "content": "Seedance 2.0 miniはAPI経由で5〜15秒クリップを約20本まとめて生成し、後で切り貼りしてMVに編集する  \nコストを抑えるためにSeedance 2.0 miniは480p・15秒で生成し、アップスケールは後処理に回す  \n短尺（例：5秒）クリップを使うと生成コストをさらに下げられる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071562514241036288/img/yG6wWErGc-rmrm2_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071563385159008442.mp4",
+  "sourceLink": "https://x.com/IHayato/status/2071563385159008442",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "🍺 イケハヤ@アニメ作る人",
+    "link": "https://x.com/IHayato"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0 miniはAPI経由で5〜15秒クリップを約20本まとめて生成し、後で切り貼りしてMVに編集する  \nコストを抑えるためにSeedance 2.0 miniは480p・15秒で生成し、アップスケールは後処理に回す  \n短尺（例：5秒）クリップを使うと生成コストをさらに下げられる",
+  "translations": {
+    "en": {
+      "content": "Seedance 2.0 mini generates approximately 20 clips of 5 to 15 seconds each via API, which can later be edited into a music video.  \nTo keep costs down, Seedance 2.0 mini generates at 480p and 15 seconds, with upscaling handled in post-processing.  \nUsing shorter clips (e.g., 5 seconds) can further reduce generation costs.\n\n--- QUOTED TWEET ---\nTesting Seedance 2.0 mini.\n\n480p for 15 seconds costs about $1. That's cheap!\n\nSo, for 5 seconds, it might be around $0.3?\n\nIf upscaling is handled later, this is quite cost-effective.\n\nI think I'll make the next animation with Seedance 2.0 mini. https://t.co/9xedMXxyFd"
+    },
+    "es": {
+      "content": "Seedance 2.0 mini genera aproximadamente 20 clips de 5 a 15 segundos a través de la API, que luego se pueden editar en un MV.  \nPara reducir costos, Seedance 2.0 mini genera en 480p y 15 segundos, dejando el escalado para el procesamiento posterior.  \nUsar clips cortos (por ejemplo, de 5 segundos) puede reducir aún más los costos de generación.\n\n--- TWEET CITADO ---\nPrueba de Seedance 2.0 mini.\n\n480p 15 segundos, cuesta aproximadamente 1 dólar. ¡Es barato!\n\n¿Entonces 5 segundos serían alrededor de 0.3 dólares?\n\nSi el escalado se procesa después, esto es bastante aceptable en términos de costo.\n\nPlaneo hacer el próximo anime con Seedance 2.0 mini. https://t.co/9xedMXxyFd\n---"
+    },
+    "fr": {
+      "content": "Seedance 2.0 mini génère environ 20 clips de 5 à 15 secondes via l'API, qui sont ensuite montés pour créer un clip vidéo.  \nPour réduire les coûts, Seedance 2.0 mini génère en 480p et 15 secondes, et l'upscaling est effectué en post-traitement.  \nL'utilisation de clips courts (par exemple : 5 secondes) permet de réduire encore plus les coûts de génération.\n\n--- TWEET CITÉ ---\nÉvaluation de Seedance 2.0 mini.\n\n480p pour 15 secondes, environ 1 dollar. C'est bon marché !\n\nDonc, pour 5 secondes, ce serait environ 0,3 dollar ?\n\nEn traitant l'upscaling plus tard, cela devient vraiment abordable en termes de coûts.\n\nJe pense créer le prochain anime avec Seedance 2.0 mini. https://t.co/9xedMXxyFd"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0 mini는 API를 통해 5~15초 클립을 약 20개 생성하여 나중에 편집하여 MV로 제작합니다.  \n비용을 절감하기 위해 Seedance 2.0 mini는 480p, 15초로 생성하고, 업스케일은 후처리에 맡깁니다.  \n짧은 길이(예: 5초) 클립을 사용하면 생성 비용을 더욱 낮출 수 있습니다.\n\n--- 인용 트윗 ---\nSeedance2.0 mini 검증.\n\n480p 15초에, 딱 1달러 정도. 저렴하네요!\n\n그렇다면 5초면 0.3달러 정도일까요?\n\n업스케일은 나중에 처리하도록 하면, 이는 상당히 비용적으로 허용 가능합니다.\n\n다음 애니메이션은 Seedance 2.0 mini로 만들려고 합니다. https://t.co/9xedMXxyFd\n---"
+    },
+    "pt": {
+      "content": "Seedance 2.0 mini gera cerca de 20 clipes de 5 a 15 segundos via API, que podem ser posteriormente editados em um videoclipe.  \nPara reduzir custos, o Seedance 2.0 mini gera em 480p e 15 segundos, deixando a upscale para o pós-processamento.  \nUsar clipes curtos (ex: 5 segundos) pode reduzir ainda mais o custo de geração.\n\n--- TWEET CITADO ---\nTeste do Seedance 2.0 mini.\n\n480p 15 segundos, custa cerca de 1 dólar. Barato!\n\nEntão, se for 5 segundos, deve custar cerca de 0,3 dólar?\n\nSe a upscale for feita depois, isso é bastante aceitável em termos de custo.\n\nEstou pensando em fazer o próximo anime com o Seedance 2.0 mini. https://t.co/9xedMXxyFd"
+    },
+    "zh": {
+      "content": "---\nSeedance 2.0 mini通过API生成大约20个5到15秒的剪辑，然后进行剪辑和编辑成MV。  \n为了降低成本，Seedance 2.0 mini以480p、15秒的格式生成，放大处理留到后期。  \n使用短片（例如：5秒）可以进一步降低生成成本。\n\n--- QUOTED TWEET ---\nSeedance2.0 mini测试。\n\n480p 15秒，成本大约1美元。很便宜！\n\n那么5秒的话大概是0.3美元？\n\n如果把放大处理留到后期，这在成本上是相当可接受的。\n\n下次的动画我打算用Seedance 2.0 mini来制作。 https://t.co/9xedMXxyFd\n---"
+    }
+  }
+}

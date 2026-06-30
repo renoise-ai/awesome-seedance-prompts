@@ -1,0 +1,41 @@
+{
+  "id": "2071125379797205001",
+  "title": "Use Chinese prompts in Seedance 2.0 Fast to improve results (e.g., translate…",
+  "content": "Use Chinese prompts in Seedance 2.0 Fast to improve results (e.g., translate your scene prompt to Chinese before generating).  \nUse Seedance 2.0 Fast without a storyboard by prompting a full film scene description directly.  \nCombine Midjourney V7 (to create reference images) + GPT-2 in ChatGPT (to draft/refine a Chinese prompt) before running Seedance 2.0 Fast.  \nUse multiple reference images in the prompt (e.g., @image1 for the main character design and @image2 for the zombie/scene reference) to control visual consistency.  \nSpecify “完全依照该参考图呈现,不进行任何重新设计” to force Seedance to follow the reference image exactly and avoid redesigning the character.",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Cia0_exe/status/2071125379797205001",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "Cia0",
+    "link": "https://x.com/Cia0_exe"
+  },
+  "tags": [
+    "Horror",
+    "Undead",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Chinese prompts in Seedance 2.0 Fast to improve results (e.g., translate your scene prompt to Chinese before generating).  \nUse Seedance 2.0 Fast without a storyboard by prompting a full film scene description directly.  \nCombine Midjourney V7 (to create reference images) + GPT-2 in ChatGPT (to draft/refine a Chinese prompt) before running Seedance 2.0 Fast.  \nUse multiple reference images in the prompt (e.g., @image1 for the main character design and @image2 for the zombie/scene reference) to control visual consistency.  \nSpecify “完全依照该参考图呈现,不进行任何重新设计” to force Seedance to follow the reference image exactly and avoid redesigning the character.",
+  "translations": {
+    "en": {
+      "content": "使用中文提示在 Seedance 2.0 Fast 中提升结果（例如，在生成之前将您的场景提示翻译成中文）。  \n在没有故事板的情况下使用 Seedance 2.0 Fast，直接提示完整的电影场景描述。  \n在运行 Seedance 2.0 Fast 之前，结合使用 Midjourney V7（创建参考图像）+ ChatGPT 中的 GPT-2（起草/完善中文提示）。  \n在提示中使用多个参考图像（例如，@image1 用于主角设计，@image2 用于僵尸/场景参考）以控制视觉一致性。  \n指定“完全依照该参考图呈现,不进行任何重新设计”以强制 Seedance 完全遵循参考图像，避免重新设计角色。"
+    },
+    "es": {
+      "content": "Usa prompts en chino en Seedance 2.0 Fast para mejorar los resultados (por ejemplo, traduce tu prompt de escena al chino antes de generar).  \nUsa Seedance 2.0 Fast sin un storyboard al proporcionar directamente una descripción completa de la escena cinematográfica.  \nCombina Midjourney V7 (para crear imágenes de referencia) + GPT-2 en ChatGPT (para redactar/refinar un prompt en chino) antes de ejecutar Seedance 2.0 Fast.  \nUsa múltiples imágenes de referencia en el prompt (por ejemplo, @image1 para el diseño del personaje principal y @image2 para la referencia del zombi/escena) para controlar la consistencia visual.  \nEspecifica “完全依照该参考图呈现,不进行任何重新设计” para obligar a Seedance a seguir exactamente la imagen de referencia y evitar rediseñar el personaje.\n\n--- TWEET CITADO ---\nseedance 2.0 fast sin storyboard \n\nEscena de película de IA, Vyra rodeada de zombis \n\ncombo Midjourney V7 + GPT 2 en ChatGPT y prompt en chino ↓ también puedes intentar hacer uno https://t.co/jAJPCoEg1f"
+    },
+    "fr": {
+      "content": "Utilisez des prompts en chinois dans Seedance 2.0 Fast pour améliorer les résultats (par exemple, traduisez votre prompt de scène en chinois avant de générer).  \nUtilisez Seedance 2.0 Fast sans storyboard en proposant directement une description complète de la scène de film.  \nCombinez Midjourney V7 (pour créer des images de référence) + GPT-2 dans ChatGPT (pour rédiger/affiner un prompt en chinois) avant de lancer Seedance 2.0 Fast.  \nUtilisez plusieurs images de référence dans le prompt (par exemple, @image1 pour le design du personnage principal et @image2 pour la référence zombie/scène) pour contrôler la cohérence visuelle.  \nSpécifiez “完全依照该参考图呈现,不进行任何重新设计” pour obliger Seedance à suivre exactement l'image de référence et éviter de redessiner le personnage.\n\n--- TWEET CITÉ ---\nseedance 2.0 fast sans storyboard \n\nScène de film AI, Vyra entourée de zombies \n\ncombo Midjourney V7 + GPT 2 sur ChatGPT et prompt en chinois ↓ vous pouvez aussi essayer d'en créer un https://t.co/jAJPCoEg1f"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0 Fastで結果を改善するために中国語のプロンプトを使用する（例：生成前にシーンプロンプトを中国語に翻訳する）。  \nストーリーボードなしでSeedance 2.0 Fastを使用し、映画のシーン全体の説明を直接プロンプトする。  \nSeedance 2.0 Fastを実行する前に、Midjourney V7（参考画像を作成するため）とChatGPTのGPT-2（中国語のプロンプトを作成/洗練するため）を組み合わせる。  \nプロンプトで複数の参考画像を使用する（例：@image1をメインキャラクターデザインに、@image2をゾンビ/シーンの参考に）ことで、視覚的一貫性を制御する。  \n「完全依照该参考图呈现,不进行任何重新设计」と指定して、Seedanceが参考画像を正確に従い、キャラクターの再設計を避けるようにする。\n\n--- QUOTED TWEET ---\nseedance 2.0 fast without storyboard \n\nAI film scene, Vyra surrounded by zombies \n\ncombo Midjourney V7 + GPT 2 on ChatGPT and Chinese prompt ↓ you can also try making one https://t.co/jAJPCoEg1f\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0 Fast에서 결과를 개선하기 위해 중국어 프롬프트를 사용하세요 (예: 장면 프롬프트를 생성하기 전에 중국어로 번역).  \n스토리보드 없이 Seedance 2.0 Fast를 사용하여 전체 영화 장면 설명을 직접 프롬프트하세요.  \nSeedance 2.0 Fast를 실행하기 전에 Midjourney V7(참조 이미지를 생성하기 위해) + ChatGPT의 GPT-2(중국어 프롬프트를 초안/수정하기 위해)를 결합하세요.  \n프롬프트에 여러 참조 이미지를 사용하여 시각적 일관성을 제어하세요 (예: @image1은 주요 캐릭터 디자인을 위해, @image2는 좀비/장면 참조를 위해).  \n\"完全依照该参考图呈现,不进行任何重新设计\"를 지정하여 Seedance가 참조 이미지를 정확히 따르고 캐릭터를 재설계하지 않도록 강제하세요.\n\n--- 인용된 트윗 ---\n스토리보드 없이 seedance 2.0 fast\n\nAI 영화 장면, 좀비에게 둘러싸인 Vyra\n\nMidjourney V7 + GPT 2를 ChatGPT와 중국어 프롬프트로 조합 ↓ 당신도 하나 만들어볼 수 있습니다 https://t.co/jAJPCoEg1f\n---"
+    },
+    "pt": {
+      "content": "Use prompts em chinês no Seedance 2.0 Fast para melhorar os resultados (por exemplo, traduza seu prompt de cena para chinês antes de gerar).  \nUse o Seedance 2.0 Fast sem um storyboard, solicitando uma descrição completa da cena do filme diretamente.  \nCombine Midjourney V7 (para criar imagens de referência) + GPT-2 no ChatGPT (para elaborar/refinar um prompt em chinês) antes de executar o Seedance 2.0 Fast.  \nUse várias imagens de referência no prompt (por exemplo, @image1 para o design do personagem principal e @image2 para a referência de zumbi/cena) para controlar a consistência visual.  \nEspecifique “完全依照该参考图呈现,不进行任何重新设计” para forçar o Seedance a seguir exatamente a imagem de referência e evitar redesenhar o personagem.\n\n--- TWEET CITADO ---\nseedance 2.0 fast without storyboard \n\nCena de filme de IA, Vyra cercada por zumbis \n\ncombo Midjourney V7 + GPT 2 no ChatGPT e prompt em chinês ↓ você também pode tentar fazer um https://t.co/jAJPCoEg1f"
+    }
+  }
+}

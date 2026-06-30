@@ -1,0 +1,43 @@
+{
+  "id": "2070947270221295943",
+  "title": "Drop 4 outfit shots plus a logo into GPT Image + Seedance 2.0 to generate a…",
+  "content": "Drop 4 outfit shots plus a logo into GPT Image + Seedance 2.0 to generate a lookbook video with seamless street→beach→escalator transitions.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070448379423870976/img/AeaQgbYEmYehWQtQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070947270221295943.mp4",
+  "sourceLink": "https://x.com/Medeo_AI/status/2070947270221295943",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "Medeo_AI",
+    "link": "https://x.com/Medeo_AI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Transformation",
+    "Tutorial"
+  ],
+  "tips": "Drop 4 outfit shots plus a logo into GPT Image + Seedance 2.0 to generate a lookbook video with seamless street→beach→escalator transitions.",
+  "translations": {
+    "es": {
+      "content": "Inserta 4 fotos de atuendos más un logo en GPT Image + Seedance 2.0 para generar un video lookbook con transiciones fluidas de calle→playa→escalera mecánica."
+    },
+    "fr": {
+      "content": "Déposez 4 photos de tenues plus un logo dans GPT Image + Seedance 2.0 pour générer une vidéo de lookbook avec des transitions fluides rue→plage→escalator."
+    },
+    "ja": {
+      "content": "4つの衣装ショットとロゴをGPT Image + Seedance 2.0に投入し、ストリート→ビーチ→エスカレーターのシームレスなトランジションを持つルックブックビデオを生成します。"
+    },
+    "ko": {
+      "content": "4개의 의상 사진과 로고를 GPT Image + Seedance 2.0에 넣어 매끄러운 거리→해변→에스컬레이터 전환이 있는 룩북 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Insira 4 fotos de roupas mais um logotipo no GPT Image + Seedance 2.0 para gerar um vídeo de lookbook com transições suaves de rua→praia→escada rolante."
+    },
+    "zh": {
+      "content": "将4张服装照片和一个标志放入GPT Image + Seedance 2.0中，以生成一本具有无缝街道→海滩→自动扶梯过渡的lookbook视频。"
+    }
+  }
+}

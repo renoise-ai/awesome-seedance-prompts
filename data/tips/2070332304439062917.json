@@ -1,0 +1,42 @@
+{
+  "id": "2070332304439062917",
+  "title": "当香蕉 image2 难以维持东方人物人脸一致性时，只生成“人脸虚化”的全身三视图，把人脸一致性交给 Seedance 来处理",
+  "content": "当香蕉 image2 难以维持东方人物人脸一致性时，只生成“人脸虚化”的全身三视图，把人脸一致性交给 Seedance 来处理  \n需要保留人物一致性时，将参考图左侧面部区域直接截图完整保留，右侧人脸做虚化处理，再交给 Seedance 维持人脸一致性",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TanLuAI/status/2070332304439062917",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "探路AI",
+    "link": "https://x.com/TanLuAI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "当香蕉 image2 难以维持东方人物人脸一致性时，只生成“人脸虚化”的全身三视图，把人脸一致性交给 Seedance 来处理  \n需要保留人物一致性时，将参考图左侧面部区域直接截图完整保留，右侧人脸做虚化处理，再交给 Seedance 维持人脸一致性",
+  "translations": {
+    "en": {
+      "content": "When the banana image2 struggles to maintain consistency in the faces of Eastern characters, generate only a \"blurred face\" full-body three-view and leave the face consistency to Seedance to handle.  \nTo preserve character consistency, take a screenshot of the left side of the reference image's face area and keep it intact, while blurring the right side of the face, then let Seedance maintain face consistency.\n\n--- QUOTED TWEET ---\nXiang Yu vs. the Traitor Ying Bu\n\nDuo fighting prompt 👇👇👇 https://t.co/Otdh9zYGko"
+    },
+    "es": {
+      "content": "Cuando la imagen de banana image2 tiene dificultades para mantener la consistencia de los rostros de personajes orientales, solo genera una vista de tres cuartos del cuerpo completo con \"rostro difuminado\", dejando la consistencia del rostro a Seedance para que lo maneje.  \nCuando se necesita preservar la consistencia del personaje, toma una captura de pantalla completa de la región facial izquierda de la imagen de referencia, manteniéndola intacta, y difumina el rostro del lado derecho antes de entregarlo a Seedance para mantener la consistencia del rostro.\n\n--- TWEET CITADO ---\nBatalla de Xiang Yu contra el traidor Ying Bu\n\nPrompt de pelea de dos personas 👇👇👇 https://t.co/Otdh9zYGko"
+    },
+    "fr": {
+      "content": "Lorsque l'image2 de la banane a du mal à maintenir la cohérence des visages des personnages orientaux, ne générez qu'une vue d'ensemble en trois perspectives avec des \"visages flous\", et confiez la cohérence des visages à Seedance pour le traitement.  \nPour conserver la cohérence des personnages, capturez directement la zone faciale gauche de l'image de référence pour la conserver intégralement, floutez le visage droit, puis confiez à Seedance le maintien de la cohérence des visages.\n\n--- TWEET CITÉ ---\nBataille de Xiang Yu contre Ying Bu le traître\n\nPrompt de combat à deux personnages 👇👇👇 https://t.co/Otdh9zYGko\n---"
+    },
+    "ja": {
+      "content": "当香蕉 image2 が東洋のキャラクターの顔の一貫性を維持するのが難しい場合、「顔がぼやけた」全身三面図を生成し、顔の一貫性の維持は Seedance に任せます。  \nキャラクターの一貫性を保つ必要がある場合、参考画像の左側の顔の領域を直接スクリーンショットして完全に保持し、右側の顔をぼやかしてから、顔の一貫性を維持するために Seedance に渡します。\n\n--- QUOTED TWEET ---\n項羽大战反骨仔 英布 \n\n双人对打提示词👇👇👇 https://t.co/Otdh9zYGko\n---"
+    },
+    "ko": {
+      "content": "바나나 image2가 동양 인물의 얼굴 일관성을 유지하기 어려울 때, \"얼굴 흐림\"의 전신 삼면도를 생성하고, 얼굴 일관성은 Seedance에 맡기세요.  \n인물 일관성을 유지해야 할 경우, 참고 이미지의 왼쪽 얼굴 영역을 직접 캡처하여 완전히 보존하고, 오른쪽 얼굴은 흐림 처리한 후 Seedance에 맡겨 얼굴 일관성을 유지하세요.\n\n--- QUOTED TWEET ---\n항우 대 반골자 영포\n\n2인 대전 프롬프트👇👇👇 https://t.co/Otdh9zYGko"
+    },
+    "pt": {
+      "content": "Quando a imagem de banana2 tem dificuldade em manter a consistência facial de personagens orientais, gere apenas uma \"visão completa desfocada\" de três vistas do corpo inteiro, deixando a consistência facial para o Seedance lidar.  \nQuando for necessário manter a consistência do personagem, capture diretamente a área facial esquerda da imagem de referência e mantenha-a completa, desfocando o lado direito do rosto, e então entregue ao Seedance para manter a consistência facial.\n\n--- TWEET CITADO ---\nBatalha de Xiang Yu contra o traidor Ying Bu\n\nPrompt de luta entre duas pessoas 👇👇👇 https://t.co/Otdh9zYGko"
+    }
+  }
+}

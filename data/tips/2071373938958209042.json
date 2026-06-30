@@ -1,0 +1,42 @@
+{
+  "id": "2071373938958209042",
+  "title": "同一人物の声に揃えたい場合はIrodori-TTSで音声を作成してからSeedance 2.0にアップロードする",
+  "content": "同一人物の声に揃えたい場合はIrodori-TTSで音声を作成してからSeedance 2.0にアップロードする  \nSeedance 2.0で日本語音声を喋らせたい場合は作成した音声ファイルをアップロードして出力に反映させる  \nChatGPTで絵コンテを作ってSeedance 2.0にアップロードし、漢字が原因になりそうなら絵コンテ内の文字をひらがなに置き換える",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071372209621544960/img/rYEmEr7YiCkd8tnj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071373938958209042.mp4",
+  "sourceLink": "https://x.com/koharutameiki/status/2071373938958209042",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "小春のため息",
+    "link": "https://x.com/koharutameiki"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "同一人物の声に揃えたい場合はIrodori-TTSで音声を作成してからSeedance 2.0にアップロードする  \nSeedance 2.0で日本語音声を喋らせたい場合は作成した音声ファイルをアップロードして出力に反映させる  \nChatGPTで絵コンテを作ってSeedance 2.0にアップロードし、漢字が原因になりそうなら絵コンテ内の文字をひらがなに置き換える",
+  "translations": {
+    "en": {
+      "content": "If you want to match the voice of the same character, create the audio with Irodori-TTS and then upload it to Seedance 2.0.  \nIf you want to have Japanese audio spoken in Seedance 2.0, upload the created audio file and reflect it in the output.  \nCreate a storyboard with ChatGPT and upload it to Seedance 2.0. If kanji might cause issues, replace the characters in the storyboard with hiragana."
+    },
+    "es": {
+      "content": "---\nSi deseas unificar la voz de un mismo personaje, crea el audio con Irodori-TTS y luego súbelo a Seedance 2.0  \nSi quieres que Seedance 2.0 hable en japonés, sube el archivo de audio creado para reflejarlo en la salida  \nCrea un storyboard con ChatGPT y súbelo a Seedance 2.0; si los kanjis pueden causar problemas, reemplaza los caracteres en el storyboard por hiragana  \n---"
+    },
+    "fr": {
+      "content": "Si vous souhaitez harmoniser la voix d'un même personnage, créez l'audio avec Irodori-TTS avant de le télécharger sur Seedance 2.0.  \nSi vous voulez que Seedance 2.0 parle en japonais, téléchargez le fichier audio créé pour l'intégrer dans la sortie.  \nCréez un storyboard avec ChatGPT et téléchargez-le sur Seedance 2.0. Si les kanjis posent problème, remplacez les caractères dans le storyboard par des hiraganas."
+    },
+    "ko": {
+      "content": "---\n同一 인물의 목소리를 맞추고 싶다면 Irodori-TTS로 음성을 생성한 후 Seedance 2.0에 업로드하세요.  \nSeedance 2.0에서 일본어 음성을 사용하고 싶다면 생성한 음성 파일을 업로드하여 출력에 반영하세요.  \nChatGPT로 스토리보드를 만들어 Seedance 2.0에 업로드하고, 한자가 문제가 될 것 같다면 스토리보드 내의 문자를 히라가나로 바꾸세요.\n---"
+    },
+    "pt": {
+      "content": "---\nSe você deseja unificar a voz de um mesmo personagem, crie o áudio com o Irodori-TTS e depois faça o upload para o Seedance 2.0  \nSe quiser que o Seedance 2.0 fale em japonês, faça o upload do arquivo de áudio criado e reflita isso na saída  \nCrie um storyboard com o ChatGPT e faça o upload para o Seedance 2.0; se os kanjis parecerem problemáticos, substitua os caracteres no storyboard por hiragana  \n---"
+    },
+    "zh": {
+      "content": "如果想要统一人物的声音，可以使用Irodori-TTS生成音频，然后上传到Seedance 2.0  \n如果想在Seedance 2.0中使用日语语音，可以上传已创建的音频文件并将其反映在输出中  \n使用ChatGPT制作分镜图并上传到Seedance 2.0，如果汉字可能导致问题，可以将分镜图中的文字替换为平假名"
+    }
+  }
+}

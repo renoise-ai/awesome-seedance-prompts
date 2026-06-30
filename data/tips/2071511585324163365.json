@@ -1,0 +1,43 @@
+{
+  "id": "2071511585324163365",
+  "title": "Use a rough Blender scene with characters as flat planes (not detailed 3D…",
+  "content": "Use a rough Blender scene with characters as flat planes (not detailed 3D models) to predefine camera movement, subject placement, and on-screen flow before generating in Seedance.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071335743570444288/img/2nRBHpPTvni1pDKH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071511585324163365.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2071511585324163365",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a rough Blender scene with characters as flat planes (not detailed 3D models) to predefine camera movement, subject placement, and on-screen flow before generating in Seedance.",
+  "translations": {
+    "en": {
+      "content": "Use a rough Blender scene with characters as flat planes (not detailed 3D models) to predefine camera movement, subject placement, and on-screen flow before generating in Seedance."
+    },
+    "es": {
+      "content": "Utiliza una escena básica de Blender con personajes como planos planos (no modelos 3D detallados) para predefinir el movimiento de la cámara, la colocación de los sujetos y el flujo en pantalla antes de generar en Seedance."
+    },
+    "fr": {
+      "content": "Utilisez une scène rudimentaire dans Blender avec des personnages sous forme de plans plats (et non des modèles 3D détaillés) pour prédéfinir le mouvement de la caméra, le placement des sujets et le flux à l'écran avant de générer dans Seedance."
+    },
+    "ko": {
+      "content": "Seedance에서 생성하기 전에 카메라 움직임, 피사체 배치, 화면 흐름을 미리 정의하기 위해 캐릭터를 평면으로 표현한 대략적인 Blender 장면을 사용하세요 (자세한 3D 모델이 아님)."
+    },
+    "pt": {
+      "content": "Use uma cena básica no Blender com personagens como planos achatados (não modelos 3D detalhados) para predefinir o movimento da câmera, a colocação dos sujeitos e o fluxo na tela antes de gerar no Seedance."
+    },
+    "zh": {
+      "content": "在使用Seedance生成之前，使用一个粗略的Blender场景，其中角色为平面（而非详细的3D模型），以预定义摄像机运动、主体位置和屏幕流动。"
+    }
+  }
+}

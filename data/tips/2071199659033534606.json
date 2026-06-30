@@ -1,0 +1,42 @@
+{
+  "id": "2071199659033534606",
+  "title": "Structure your Seedance prompt as a timestamped shot list (e.g., [00:00–00:02]…",
+  "content": "Structure your Seedance prompt as a timestamped shot list (e.g., [00:00–00:02], [00:02–00:04]) to control pacing, camera behavior, and story beats across the clip.  \nSet Duration to 15s and Aspect ratio to 16:9 for this style of cinematic POV sequence.  \nUse Motion intensity: High to emphasize speed, shake, and motion blur during fast-action segments.  \nSet Camera to GoPro Handheld POV to get first-person action-cam movement and framing.  \nSet Realism to Photorealistic for lifelike textures, lighting, and water effects.  \nUpload a generated image as the Starting frame reference to lock in the initial POV composition and subject details (legs/slippers/slide).  \nEnable Audio and specify sound elements (wind, water, screaming, splash) to match the on-screen action beats.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ShamsAmin56/status/2071199659033534606",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "Shams",
+    "link": "https://x.com/ShamsAmin56"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Structure your Seedance prompt as a timestamped shot list (e.g., [00:00–00:02], [00:02–00:04]) to control pacing, camera behavior, and story beats across the clip.  \nSet Duration to 15s and Aspect ratio to 16:9 for this style of cinematic POV sequence.  \nUse Motion intensity: High to emphasize speed, shake, and motion blur during fast-action segments.  \nSet Camera to GoPro Handheld POV to get first-person action-cam movement and framing.  \nSet Realism to Photorealistic for lifelike textures, lighting, and water effects.  \nUpload a generated image as the Starting frame reference to lock in the initial POV composition and subject details (legs/slippers/slide).  \nEnable Audio and specify sound elements (wind, water, screaming, splash) to match the on-screen action beats.",
+  "translations": {
+    "es": {
+      "content": "Estructura tu prompt de Seedance como una lista de tomas con marcas de tiempo (por ejemplo, [00:00–00:02], [00:02–00:04]) para controlar el ritmo, el comportamiento de la cámara y los momentos clave de la historia a lo largo del clip.  \nEstablece la Duración en 15s y la Relación de aspecto en 16:9 para este estilo de secuencia cinematográfica en POV.  \nUsa Intensidad de movimiento: Alta para enfatizar la velocidad, el temblor y el desenfoque de movimiento durante los segmentos de acción rápida.  \nConfigura la Cámara en GoPro Handheld POV para obtener movimiento y encuadre de cámara de acción en primera persona.  \nEstablece el Realismo en Fotorrealista para texturas, iluminación y efectos de agua realistas.  \nSube una imagen generada como referencia del fotograma inicial para fijar la composición inicial del POV y los detalles del sujeto (piernas/zapatillas/tobogán).  \nHabilita el Audio y especifica elementos de sonido (viento, agua, gritos, chapoteo) para que coincidan con los momentos de acción en pantalla."
+    },
+    "fr": {
+      "content": "Structurez votre prompt Seedance comme une liste de plans horodatés (par exemple, [00:00–00:02], [00:02–00:04]) pour contrôler le rythme, le comportement de la caméra et les temps forts de l'histoire tout au long du clip.  \nRéglez la Durée à 15s et le Format d'image à 16:9 pour ce style de séquence POV cinématographique.  \nUtilisez une Intensité de mouvement : Élevée pour accentuer la vitesse, les secousses et le flou de mouvement pendant les segments d'action rapide.  \nRéglez la Caméra sur GoPro Handheld POV pour obtenir un mouvement et un cadrage de caméra d'action à la première personne.  \nRéglez le Réalisme sur Photorealistic pour des textures, un éclairage et des effets d'eau réalistes.  \nTéléchargez une image générée comme référence de la première image pour verrouiller la composition initiale du POV et les détails du sujet (jambes/chaussons/toboggan).  \nActivez l'Audio et spécifiez les éléments sonores (vent, eau, cris, éclaboussures) pour correspondre aux temps forts de l'action à l'écran."
+    },
+    "ja": {
+      "content": "---\nSeedanceのプロンプトをタイムスタンプ付きのショットリスト（例：[00:00–00:02], [00:02–00:04]）として構成し、クリップ全体のペース、カメラの動き、ストーリービートをコントロールします。  \nこのシネマティックなPOVシーケンススタイルのために、Durationを15秒、Aspect ratioを16:9に設定します。  \n高速アクションセグメント中のスピード、揺れ、モーションブラーを強調するために、Motion intensityをHighに設定します。  \nカメラをGoPro Handheld POVに設定し、一人称のアクションカムの動きとフレーミングを得ます。  \nリアリズムをPhotorealisticに設定し、リアルな質感、照明、水の効果を実現します。  \n生成された画像をStarting frame referenceとしてアップロードし、初期のPOV構成と被写体の詳細（脚/スリッパ/スライド）を固定します。  \nオーディオを有効にし、画面上のアクションビートに合わせて音の要素（風、水、叫び声、スプラッシュ）を指定します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance prompt를 타임스탬프가 있는 샷 리스트로 구성하세요 (예: [00:00–00:02], [00:02–00:04]) 클립 전반의 속도, 카메라 동작, 스토리 비트를 제어하기 위해.  \n이 스타일의 시네마틱 POV 시퀀스를 위해 Duration을 15초, Aspect ratio를 16:9로 설정하세요.  \n빠른 액션 세그먼트 동안 속도, 흔들림, 모션 블러를 강조하기 위해 Motion intensity: High를 사용하세요.  \n카메라를 GoPro Handheld POV로 설정하여 1인칭 액션캠 움직임과 구도를 얻으세요.  \nRealism을 Photorealistic로 설정하여 생생한 질감, 조명, 물 효과를 구현하세요.  \n생성된 이미지를 Starting frame reference로 업로드하여 초기 POV 구성과 주제 세부사항(다리/슬리퍼/슬라이드)을 고정하세요.  \nAudio를 활성화하고 화면상의 액션 비트에 맞는 사운드 요소(바람, 물, 비명, 스플래시)를 지정하세요.\n---"
+    },
+    "pt": {
+      "content": "Estruture seu prompt Seedance como uma lista de tomadas com marcação de tempo (por exemplo, [00:00–00:02], [00:02–00:04]) para controlar o ritmo, comportamento da câmera e momentos-chave da história ao longo do clipe.  \nDefina a Duração para 15s e a Proporção de tela para 16:9 para este estilo de sequência cinematográfica em POV.  \nUse Intensidade de movimento: Alta para enfatizar velocidade, tremor e desfoque de movimento durante segmentos de ação rápida.  \nDefina a Câmera para GoPro Handheld POV para obter movimento e enquadramento de câmera de ação em primeira pessoa.  \nDefina Realismo para Fotorrealista para texturas, iluminação e efeitos de água realistas.  \nCarregue uma imagem gerada como referência do quadro inicial para fixar a composição inicial do POV e detalhes do sujeito (pernas/chinelos/escorregador).  \nHabilite Áudio e especifique elementos sonoros (vento, água, gritos, respingo) para corresponder aos momentos de ação na tela."
+    },
+    "zh": {
+      "content": "---\n将您的Seedance prompt结构化为带时间戳的镜头列表（例如，[00:00–00:02]，[00:02–00:04]），以控制剪辑中的节奏、摄像机行为和故事节拍。  \n将持续时间设置为15秒，纵横比设置为16:9，以适应这种风格的电影视角序列。  \n使用运动强度：高，以在快速动作片段中强调速度、抖动和运动模糊。  \n将摄像机设置为GoPro Handheld POV，以获得第一人称动作相机的运动和构图。  \n将现实主义设置为Photorealistic，以获得逼真的纹理、光照和水效。  \n上传生成的图像作为起始帧参考，以锁定初始视角构图和主体细节（腿/拖鞋/滑动）。  \n启用音频并指定声音元素（风、水、尖叫、溅水），以匹配屏幕上的动作节拍。"
+    }
+  }
+}

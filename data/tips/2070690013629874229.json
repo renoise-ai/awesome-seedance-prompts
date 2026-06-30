@@ -1,0 +1,43 @@
+{
+  "id": "2070690013629874229",
+  "title": "プリビズでカメラアングルやモーションを参照指示し、Seedanceで本番動画を生成するワークフローを使う",
+  "content": "プリビズでカメラアングルやモーションを参照指示し、Seedanceで本番動画を生成するワークフローを使う  \n3DCG環境が作れない場合はCodexにThree.jsでカメラワーク込みのプリビズを組ませて参照素材として用意する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070682982739062784/img/J54zM1oqxhTCq5SV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070690013629874229.mp4",
+  "sourceLink": "https://x.com/IntLab0000/status/2070690013629874229",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "Int.Lab",
+    "link": "https://x.com/IntLab0000"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "プリビズでカメラアングルやモーションを参照指示し、Seedanceで本番動画を生成するワークフローを使う  \n3DCG環境が作れない場合はCodexにThree.jsでカメラワーク込みのプリビズを組ませて参照素材として用意する",
+  "translations": {
+    "en": {
+      "content": "Use a workflow where you reference camera angles and motion in the previz and generate the final video with Seedance.  \nIf you can't create a 3DCG environment, have Codex assemble a previz with camera work included using Three.js and prepare it as reference material."
+    },
+    "es": {
+      "content": "---\nUtilizar un flujo de trabajo en el que se indiquen referencias de ángulos de cámara y movimiento en el previsualizado, y se genere el video final con Seedance.  \nSi no se puede crear un entorno 3DCG, usar Codex para montar un previsualizado con Three.js que incluya el trabajo de cámara y prepararlo como material de referencia.\n---"
+    },
+    "fr": {
+      "content": "---\nUtiliser un flux de travail où les angles de caméra et les mouvements sont référencés dans la prévisualisation, puis générer la vidéo finale avec Seedance.  \nSi un environnement 3DCG ne peut pas être créé, utiliser Codex pour assembler une prévisualisation avec Three.js incluant le travail de caméra, et l'utiliser comme matériel de référence.\n---"
+    },
+    "ko": {
+      "content": "---\n프리비즈에서 카메라 앵글과 모션을 참조 지시하고, Seedance에서 본방송 영상을 생성하는 워크플로우를 사용한다  \n3DCG 환경을 만들 수 없는 경우 Codex에 Three.js로 카메라 워크를 포함한 프리비즈를 구성하여 참조 자료로 준비한다\n---"
+    },
+    "pt": {
+      "content": "---\nUse o fluxo de trabalho para indicar ângulos de câmera e movimentos no pré-visualização e gerar o vídeo final no Seedance  \nCaso não seja possível criar um ambiente 3DCG, use o Codex para montar uma pré-visualização com Three.js incluindo o trabalho de câmera e prepare como material de referência\n---"
+    },
+    "zh": {
+      "content": "在プリビズ中参考指示相机角度和运动，并使用Seedance生成最终视频的工作流程  \n如果无法创建3DCG环境，则使用Codex通过Three.js制作包含相机运动的プリビズ作为参考素材准备"
+    }
+  }
+}

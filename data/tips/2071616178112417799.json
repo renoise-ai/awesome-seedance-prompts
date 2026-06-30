@@ -1,0 +1,42 @@
+{
+  "id": "2071616178112417799",
+  "title": "Create a camera orbit (or other camera move) around your 3D scene in Spline…",
+  "content": "Create a camera orbit (or other camera move) around your 3D scene in Spline, then use that exported clip as a video reference in Seedance to control camera movement.\n\nSet Seedance output to 4K when generating from a Spline camera-move reference video for higher-resolution results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071509825981456384/img/eINroxeU8T0h_5qp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071616178112417799.mp4",
+  "sourceLink": "https://x.com/jrmyjlee/status/2071616178112417799",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "Jeremy Lee",
+    "link": "https://x.com/jrmyjlee"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a camera orbit (or other camera move) around your 3D scene in Spline, then use that exported clip as a video reference in Seedance to control camera movement.\n\nSet Seedance output to 4K when generating from a Spline camera-move reference video for higher-resolution results.",
+  "translations": {
+    "es": {
+      "content": "Crea una órbita de cámara (u otro movimiento de cámara) alrededor de tu escena 3D en Spline, luego usa ese clip exportado como referencia de video en Seedance para controlar el movimiento de la cámara.\n\nConfigura la salida de Seedance a 4K al generar desde un video de referencia de movimiento de cámara de Spline para obtener resultados de mayor resolución."
+    },
+    "fr": {
+      "content": "Créez une orbite de caméra (ou un autre mouvement de caméra) autour de votre scène 3D dans Spline, puis utilisez ce clip exporté comme référence vidéo dans Seedance pour contrôler le mouvement de la caméra.\n\nRéglez la sortie Seedance sur 4K lors de la génération à partir d'une vidéo de référence de mouvement de caméra Spline pour obtenir des résultats en haute résolution."
+    },
+    "ja": {
+      "content": "---\nSplineで3Dシーンの周囲にカメラオービット（または他のカメラ移動）を作成し、そのエクスポートされたクリップをSeedanceでのカメラ移動を制御するためのビデオリファレンスとして使用します。\n\nSplineのカメラ移動リファレンスビデオから生成する際には、Seedanceの出力を4Kに設定して、高解像度の結果を得るようにしてください。\n---"
+    },
+    "ko": {
+      "content": "---\nSpline에서 3D 장면 주위를 카메라 오빗(또는 다른 카메라 이동)을 생성한 후, 그 내보낸 클립을 Seedance에서 비디오 참조로 사용하여 카메라 움직임을 제어하세요.\n\nSpline 카메라 이동 참조 비디오에서 생성할 때 Seedance 출력을 4K로 설정하여 고해상도 결과를 얻으세요.\n---"
+    },
+    "pt": {
+      "content": "Crie uma órbita de câmera (ou outro movimento de câmera) ao redor da sua cena 3D no Spline, depois use esse clipe exportado como referência de vídeo no Seedance para controlar o movimento da câmera.\n\nDefina a saída do Seedance para 4K ao gerar a partir de um vídeo de referência de movimento de câmera do Spline para obter resultados em alta resolução."
+    },
+    "zh": {
+      "content": "在 Spline 中围绕您的 3D 场景创建一个相机轨道（或其他相机移动），然后使用导出的剪辑作为 Seedance 中的视频参考来控制相机运动。\n\n当从 Spline 相机移动参考视频生成时，将 Seedance 输出设置为 4K，以获得更高分辨率的结果。"
+    }
+  }
+}

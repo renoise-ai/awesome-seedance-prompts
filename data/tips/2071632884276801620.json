@@ -1,0 +1,41 @@
+{
+  "id": "2071632884276801620",
+  "title": "Create a start image in Midjourney, then block out the scene and animate the…",
+  "content": "Create a start image in Midjourney, then block out the scene and animate the camera in Blender, and feed both the start image and the Blender previs to Seedance to guide the generated shot.  \nUse Blender previs to experiment with staging, timing, and camera movement before running Seedance so you can solve the scene before generating the final video.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aifilmmaker/status/2071632884276801620",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "Ian Sharar",
+    "link": "https://x.com/aifilmmaker"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a start image in Midjourney, then block out the scene and animate the camera in Blender, and feed both the start image and the Blender previs to Seedance to guide the generated shot.  \nUse Blender previs to experiment with staging, timing, and camera movement before running Seedance so you can solve the scene before generating the final video.",
+  "translations": {
+    "es": {
+      "content": "Crea una imagen inicial en Midjourney, luego bloquea la escena y anima la cámara en Blender, y alimenta tanto la imagen inicial como el previs de Blender a Seedance para guiar la toma generada.  \nUsa el previs de Blender para experimentar con la puesta en escena, el tiempo y el movimiento de la cámara antes de ejecutar Seedance para que puedas resolver la escena antes de generar el video final.\n\n--- TWEET CITADO ---\nSeedance 2.0 es una locura.\n\nEl previs de Blender está teniendo un momento en la cinematografía de IA por una razón.\n\nQuería ver hasta dónde podía llevar el flujo de trabajo más allá de un simple movimiento de cámara en una escena de emboscada.\n\nEl flujo de trabajo:\n\n1. Crea una imagen inicial en Midjourney\n\n2. Bloquéala en Blender, anima la cámara\n\n3. Alimenta ambos a Seedance\n\nCuanto más pruebo esta línea de trabajo, más convencido estoy de que las líneas de trabajo híbridas son el futuro. La conversación avanza rápido, pero el previs es uno de los desbloqueos más claros hasta ahora.\n\nSeedance aún no es perfecto en igualar la referencia, pero está cerca.\n\nPuedes experimentar con la puesta en escena, el tiempo y el movimiento de la cámara antes de tocar el modelo de video.\n\nResuelve la escena antes de generar la toma."
+    },
+    "fr": {
+      "content": "Créez une image de départ dans Midjourney, puis bloquez la scène et animez la caméra dans Blender, et fournissez à la fois l'image de départ et le prévisualisation Blender à Seedance pour guider le plan généré.  \nUtilisez le prévisualisation Blender pour expérimenter la mise en scène, le timing et le mouvement de la caméra avant de lancer Seedance afin de pouvoir résoudre la scène avant de générer la vidéo finale.\n\n--- TWEET CITÉ ---\nSeedance 2.0 est incroyable.\n\nLe prévisualisation Blender connaît un moment dans le cinéma AI pour une raison.\n\nJe voulais voir jusqu'où je pouvais pousser le flux de travail au-delà d'un simple mouvement de caméra dans une scène d'embuscade.\n\nLe flux de travail :\n\n1. Créez une image de départ dans Midjourney\n\n2. Bloquez-la dans Blender, animez la caméra\n\n3. Fournissez les deux à Seedance\n\nPlus je teste ce pipeline, plus je suis convaincu que les pipelines hybrides sont l'avenir. La conversation évolue rapidement, mais le prévisualisation est l'une des avancées les plus claires jusqu'à présent.\n\nSeedance n'est toujours pas parfait pour correspondre à la référence, mais il s'en rapproche.\n\nVous pouvez expérimenter la mise en scène, le timing et le mouvement de la caméra avant même de toucher au modèle vidéo.\n\nRésolvez la scène avant de générer le plan."
+    },
+    "ja": {
+      "content": "---\nMidjourneyでスタートイメージを作成し、Blenderでシーンをブロックアウトしてカメラをアニメートし、スタートイメージとBlenderのプリビズをSeedanceに入力して生成されたショットをガイドします。  \nBlenderのプリビズを使用して、Seedanceを実行する前にステージング、タイミング、カメラの動きを実験し、最終ビデオを生成する前にシーンを解決できます。\n\n--- 引用ツイート ---\nSeedance 2.0は驚異的です。\n\nBlenderのプリビズがAI映画制作で注目されているのには理由があります。\n\n待ち伏せシーンでの単純なカメラ移動を超えて、このワークフローをどこまで押し進められるか見てみたかったのです。\n\nワークフロー:\n\n1. Midjourneyでスタートイメージを作成\n\n2. Blenderでブロックアウトし、カメラをアニメート\n\n3. 両方をSeedanceに入力\n\nこのパイプラインをテストすればするほど、ハイブリッドパイプラインが未来であると確信しています。会話は急速に進んでいますが、プリビズはこれまでで最も明確な解決策の一つです。\n\nSeedanceはまだ参照に完全には一致しませんが、かなり近いです。\n\nビデオモデルに触れる前に、ステージング、タイミング、カメラの動きを実験できます。\n\nショットを生成する前にシーンを解決してください。\n---"
+    },
+    "ko": {
+      "content": "Midjourney에서 시작 이미지를 생성한 다음 Blender에서 장면을 차단하고 카메라를 애니메이션화하여 시작 이미지와 Blender previs를 Seedance에 입력하여 생성된 샷을 안내합니다.  \nBlender previs를 사용하여 Seedance를 실행하기 전에 무대 설정, 타이밍 및 카메라 움직임을 실험하여 최종 비디오를 생성하기 전에 장면을 해결할 수 있습니다.\n\n--- 인용 트윗 ---\nSeedance 2.0은 정말 대단합니다.\n\nBlender previs가 AI 영화 제작에서 주목받고 있는 이유가 있습니다.\n\n매복 장면에서 단순한 카메라 움직임을 넘어 워크플로우를 얼마나 멀리 밀어붙일 수 있는지 보고 싶었습니다.\n\n워크플로우:\n\n1. Midjourney에서 시작 이미지 만들기\n\n2. Blender에서 차단하고 카메라 애니메이션화\n\n3. 둘 다 Seedance에 입력\n\n이 파이프라인을 테스트할수록 하이브리드 파이프라인이 미래라는 확신이 듭니다. 대화는 빠르게 진행되고 있지만, previs는 지금까지 가장 분명한 해제 중 하나입니다.\n\nSeedance는 여전히 참조와 완벽하게 일치하지는 않지만, 거의 근접합니다.\n\n비디오 모델을 만지기 전에 무대 설정, 타이밍 및 카메라 움직임을 실험할 수 있습니다.\n\n샷을 생성하기 전에 장면을 해결하세요."
+    },
+    "pt": {
+      "content": "Crie uma imagem inicial no Midjourney, depois bloqueie a cena e anime a câmera no Blender, e forneça tanto a imagem inicial quanto o previs do Blender para o Seedance para guiar a cena gerada.  \nUse o previs do Blender para experimentar com a encenação, o tempo e o movimento da câmera antes de rodar o Seedance, assim você pode resolver a cena antes de gerar o vídeo final.\n\n--- TWEET CITADO ---\nSeedance 2.0 é insano.\n\nO previs do Blender está tendo seu momento no cinema de IA por um motivo.\n\nEu queria ver até onde eu poderia levar o fluxo de trabalho além de um simples movimento de câmera em uma cena de emboscada.\n\nO fluxo de trabalho:\n\n1. Faça uma imagem inicial no Midjourney\n\n2. Bloqueie no Blender, anime a câmera\n\n3. Forneça ambos para o Seedance\n\nQuanto mais eu testo esse pipeline, mais convencido estou de que pipelines híbridos são o futuro. A conversa está avançando rapidamente, mas o previs é um dos desbloqueios mais claros até agora.\n\nO Seedance ainda não é perfeito em corresponder à referência, mas está próximo.\n\nVocê pode experimentar com a encenação, o tempo e o movimento da câmera antes mesmo de tocar no modelo de vídeo.\n\nResolva a cena antes de gerar a tomada."
+    },
+    "zh": {
+      "content": "在Midjourney中创建一个起始图像，然后在Blender中搭建场景并动画化摄像机，将起始图像和Blender预演输入Seedance以指导生成的镜头。  \n在运行Seedance之前，使用Blender预演来实验布景、时间安排和摄像机运动，以便在生成最终视频之前解决场景问题。\n\n--- 引用推文 ---\nSeedance 2.0 太疯狂了。\n\nBlender预演在AI电影制作中正风靡一时是有原因的。\n\n我想看看在伏击场景中，除了简单的摄像机移动之外，我能将工作流程推到多远。\n\n工作流程：\n\n1. 在Midjourney中制作一个起始图像\n\n2. 在Blender中搭建场景，动画化摄像机\n\n3. 将两者输入Seedance\n\n我测试这个流程越多，就越相信混合流程是未来。讨论进展很快，但预演是迄今为止最明显的突破之一。\n\nSeedance在匹配参考方面仍不完美，但已经很接近了。\n\n在接触视频模型之前，您可以实验布景、时间安排和摄像机运动。\n\n在生成镜头之前解决场景问题。\n---"
+    }
+  }
+}

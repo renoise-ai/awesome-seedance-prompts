@@ -1,0 +1,42 @@
+{
+  "id": "2071346400349327541",
+  "title": "Keyframe camera moves in Martini with Seedance 2.0 instead of describing them…",
+  "content": "Keyframe camera moves in Martini with Seedance 2.0 instead of describing them in the prompt to directly control camera motion.\n\nUse Martini keyframes to set specific camera parameters like dolly-ins, Dutch angles, focal length, speed, and easing functions for expressive camera work.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071302445784027136/img/eVtzcQgQA2HyNDIL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071346400349327541.mp4",
+  "sourceLink": "https://x.com/martini_film/status/2071346400349327541",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "Martini",
+    "link": "https://x.com/martini_film"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Keyframe camera moves in Martini with Seedance 2.0 instead of describing them in the prompt to directly control camera motion.\n\nUse Martini keyframes to set specific camera parameters like dolly-ins, Dutch angles, focal length, speed, and easing functions for expressive camera work.",
+  "translations": {
+    "es": {
+      "content": "Los movimientos de cámara en Martini con Seedance 2.0 se realizan mediante fotogramas clave en lugar de describirlos en el prompt para controlar directamente el movimiento de la cámara.\n\nUtiliza los fotogramas clave de Martini para establecer parámetros específicos de la cámara como dolly-ins, ángulos holandeses, longitud focal, velocidad y funciones de suavizado para un trabajo de cámara expresivo."
+    },
+    "fr": {
+      "content": "---\nUtilisez les mouvements de caméra par images clés dans Martini avec Seedance 2.0 au lieu de les décrire dans le prompt pour contrôler directement le mouvement de la caméra.\n\nUtilisez les images clés de Martini pour définir des paramètres spécifiques de la caméra tels que les dolly-ins, les angles inclinés, la longueur focale, la vitesse et les fonctions d'assouplissement pour un travail de caméra expressif.\n---"
+    },
+    "ja": {
+      "content": "---\nカメラの動きをプロンプトで説明するのではなく、Seedance 2.0を使用してMartiniでキーフレームカメラの動きを設定し、カメラの動きを直接制御します。\n\nMartiniのキーフレームを使用して、ドリーイン、ダッチアングル、焦点距離、速度、イージング関数などの特定のカメラパラメータを設定し、表現力豊かなカメラワークを実現します。\n---"
+    },
+    "ko": {
+      "content": "카메라 움직임을 직접 제어하기 위해 Seedance 2.0의 Martini에서 키프레임 카메라 움직임을 사용하세요.\n\nMartini 키프레임을 사용하여 돌리 인, 더치 앵글, 초점 거리, 속도, 이징 함수와 같은 특정 카메라 매개변수를 설정하여 표현력 있는 카메라 작업을 수행하세요."
+    },
+    "pt": {
+      "content": "Movimentos de câmera em keyframe no Martini com Seedance 2.0 em vez de descrevê-los no prompt para controlar diretamente o movimento da câmera.\n\nUse keyframes do Martini para definir parâmetros específicos da câmera, como dolly-ins, ângulos holandeses, comprimento focal, velocidade e funções de easing para um trabalho de câmera expressivo."
+    },
+    "zh": {
+      "content": "在Martini中使用Seedance 2.0的关键帧相机移动，而不是在prompt中描述它们，以直接控制相机运动。\n\n使用Martini关键帧设置特定的相机参数，如推进、荷兰角度、焦距、速度和缓动函数，以实现富有表现力的相机工作。"
+    }
+  }
+}

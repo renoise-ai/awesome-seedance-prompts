@@ -1,0 +1,42 @@
+{
+  "id": "2071199018370080922",
+  "title": "先用 ChatGPT-Image2 生成 12 宫格故事板，提前锁定场景、人物、动作动线和高潮镜头",
+  "content": "先用 ChatGPT-Image2 生成 12 宫格故事板，提前锁定场景、人物、动作动线和高潮镜头  \n把生成的故事板输入 Seedance，让它参考镜头顺序、人物调度、动作逻辑和高潮推进来生成视频  \n在 Seedance 的视频提示词中明确要求不要保留分镜格子、编号、标题和文字，并指定最终输出为连续的真实电影画面",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/MrLarus/status/2071199018370080922",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "先用 ChatGPT-Image2 生成 12 宫格故事板，提前锁定场景、人物、动作动线和高潮镜头  \n把生成的故事板输入 Seedance，让它参考镜头顺序、人物调度、动作逻辑和高潮推进来生成视频  \n在 Seedance 的视频提示词中明确要求不要保留分镜格子、编号、标题和文字，并指定最终输出为连续的真实电影画面",
+  "translations": {
+    "en": {
+      "content": "First, use ChatGPT-Image2 to generate a 12-panel storyboard to pre-determine scenes, characters, action flow, and climax shots.  \nInput the generated storyboard into Seedance, allowing it to reference the shot sequence, character blocking, action logic, and climax progression to create the video.  \nIn the Seedance video prompt, clearly specify not to retain storyboard grids, numbers, titles, and text, and designate the final output as a continuous real movie scene."
+    },
+    "es": {
+      "content": "Primero, utiliza ChatGPT-Image2 para generar un storyboard de 12 cuadros, fijando de antemano las escenas, personajes, líneas de acción y tomas culminantes.  \nIntroduce el storyboard generado en Seedance, para que este pueda generar un video tomando como referencia la secuencia de tomas, la disposición de personajes, la lógica de las acciones y el desarrollo del clímax.  \nEn el prompt de video de Seedance, especifica claramente que no se deben conservar los cuadros del storyboard, números, títulos ni texto, y que la salida final debe ser una secuencia continua de imágenes cinematográficas reales."
+    },
+    "fr": {
+      "content": "Commencez par utiliser ChatGPT-Image2 pour générer un storyboard de 12 cases, afin de verrouiller à l'avance les scènes, les personnages, les lignes d'action et les plans culminants.  \nEnsuite, entrez le storyboard généré dans Seedance, pour qu'il se réfère à l'ordre des plans, à la mise en scène des personnages, à la logique des actions et à la progression du climax pour générer la vidéo.  \nDans les prompts vidéo de Seedance, demandez explicitement de ne pas conserver les cases du storyboard, les numéros, les titres et le texte, et spécifiez que le rendu final doit être une séquence de film réaliste et continue."
+    },
+    "ja": {
+      "content": "まず、ChatGPT-Image2を使用して12宮格のストーリーボードを生成し、シーン、キャラクター、アクションの動線、クライマックスショットを事前に固定します。  \n生成されたストーリーボードをSeedanceに入力し、カメラの順序、キャラクターの配置、アクションの論理、クライマックスの進行を参考にしてビデオを生成させます。  \nSeedanceのビデオプロンプトでは、分割されたフレーム、番号、タイトル、テキストを残さないように明確に要求し、最終出力を連続したリアルな映画映像に指定します。"
+    },
+    "ko": {
+      "content": "먼저 ChatGPT-Image2를 사용하여 12컷 스토리보드를 생성하고, 장면, 인물, 동작 동선 및 클라이맥스 샷을 미리 확정합니다.  \n생성된 스토리보드를 Seedance에 입력하여, 카메라 순서, 인물 배치, 동작 논리 및 클라이맥스 진행을 참고하여 영상을 생성합니다.  \nSeedance의 비디오 프롬프트에서 분할된 프레임, 번호, 제목 및 텍스트를 보존하지 말 것을 명확히 요구하고, 최종 출력이 연속적인 실제 영화 화면이 되도록 지정합니다."
+    },
+    "pt": {
+      "content": "Primeiro, use o ChatGPT-Image2 para gerar um storyboard de 12 quadros, definindo previamente o cenário, personagens, linha de ação e clímax das cenas.  \nInsira o storyboard gerado no Seedance, permitindo que ele use a sequência de cenas, movimentação dos personagens, lógica de ação e progressão do clímax para gerar o vídeo.  \nNos prompts de vídeo do Seedance, especifique claramente que não devem ser mantidos os quadros do storyboard, números, títulos e textos, e indique que a saída final deve ser uma sequência contínua de cenas de filme real."
+    }
+  }
+}

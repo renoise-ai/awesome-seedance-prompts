@@ -1,0 +1,42 @@
+{
+  "id": "2071737307376603418",
+  "title": "Use a noise modifier in Blender’s Graph Editor to create handheld-style camera…",
+  "content": "Use a noise modifier in Blender’s Graph Editor to create handheld-style camera movement and reduce guesswork while keeping focus.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071736707234574336/img/Gr5nT0V_C0OHi4qL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071737307376603418.mp4",
+  "sourceLink": "https://x.com/ObsceneSelene/status/2071737307376603418",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "Obscene Selene",
+    "link": "https://x.com/ObsceneSelene"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a noise modifier in Blender’s Graph Editor to create handheld-style camera movement and reduce guesswork while keeping focus.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un modificador de ruido en el Editor de Gráficas de Blender para crear movimiento de cámara estilo handheld y reducir las conjeturas mientras mantienes el enfoque."
+    },
+    "fr": {
+      "content": "Utilisez un modificateur de bruit dans l'éditeur de graphes de Blender pour créer un mouvement de caméra de style à main levée et réduire les approximations tout en gardant le focus."
+    },
+    "ja": {
+      "content": "Blenderのグラフエディターでノイズモディファイアを使用して、ハンドヘルドスタイルのカメラ動作を作成し、フォーカスを維持しながら推測作業を減らします。"
+    },
+    "ko": {
+      "content": "Blender의 Graph Editor에서 노이즈 수정자를 사용하여 핸드헬드 스타일의 카메라 움직임을 만들고, 초점을 유지하면서 추측 작업을 줄이세요."
+    },
+    "pt": {
+      "content": "Use um modificador de ruído no Editor de Gráficos do Blender para criar movimento de câmera no estilo handheld e reduzir a adivinhação enquanto mantém o foco."
+    },
+    "zh": {
+      "content": "在Blender的图形编辑器中使用噪声修改器来创建手持风格的摄像机运动，减少猜测，同时保持焦点。"
+    }
+  }
+}

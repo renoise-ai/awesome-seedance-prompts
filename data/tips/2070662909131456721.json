@@ -1,0 +1,44 @@
+{
+  "id": "2070662909131456721",
+  "title": "同じ絵コンテ（同一プロンプト/構成）を使ってSeedance 2.0 fastと他モデル（例：Grok…",
+  "content": "同じ絵コンテ（同一プロンプト/構成）を使ってSeedance 2.0 fastと他モデル（例：Grok Imagine）の生成結果を並べて比較し、モデル差を評価する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070662134535766016/img/b1CaoHgE2Ww3--Rp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070662909131456721.mp4",
+  "sourceLink": "https://x.com/KeepSoraInMind/status/2070662909131456721",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "🄺𝕖𝕖𝕡 🅂𝕠𝕣𝕒 🄸𝕟 🄼𝕚𝕟𝕕",
+    "link": "https://x.com/KeepSoraInMind"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase",
+    "Creative Asset"
+  ],
+  "tips": "同じ絵コンテ（同一プロンプト/構成）を使ってSeedance 2.0 fastと他モデル（例：Grok Imagine）の生成結果を並べて比較し、モデル差を評価する",
+  "translations": {
+    "en": {
+      "content": "Compare the generation results of Seedance 2.0 fast and other models (e.g., Grok Imagine) using the same storyboard (identical prompt/structure) to evaluate the differences between models."
+    },
+    "es": {
+      "content": "---\nComparar los resultados generados utilizando el mismo storyboard (mismo prompt/estructura) con Seedance 2.0 fast y otros modelos (por ejemplo: Grok Imagine) para evaluar las diferencias entre los modelos."
+    },
+    "fr": {
+      "content": "Comparer les résultats de génération en utilisant le même storyboard (même prompt/structure) entre Seedance 2.0 fast et d'autres modèles (ex : Grok Imagine) pour évaluer les différences entre les modèles."
+    },
+    "ko": {
+      "content": "동일한 스토리보드(동일한 prompt/구성)을 사용하여 Seedance 2.0 fast와 다른 모델(예: Grok Imagine)의 생성 결과를 나란히 비교하고, 모델 차이를 평가합니다."
+    },
+    "pt": {
+      "content": "Compare os resultados gerados usando o mesmo storyboard (mesmo prompt/estrutura) entre o Seedance 2.0 fast e outros modelos (ex.: Grok Imagine) para avaliar as diferenças entre os modelos."
+    },
+    "zh": {
+      "content": "使用相同的分镜（同一prompt/构成）对Seedance 2.0 fast和其他模型（例如：Grok Imagine）的生成结果进行并排比较，以评估模型差异。"
+    }
+  }
+}

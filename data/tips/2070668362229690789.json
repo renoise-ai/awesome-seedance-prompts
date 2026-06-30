@@ -1,0 +1,42 @@
+{
+  "id": "2070668362229690789",
+  "title": "Use Blender’s Viewport to direct and control scene composition before…",
+  "content": "Use Blender’s Viewport to direct and control scene composition before generating in Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070668077209985025/img/Wg2xMAxAX_vpmZJH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070668362229690789.mp4",
+  "sourceLink": "https://x.com/KimAkiyama81/status/2070668362229690789",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "Hero Syndicate",
+    "link": "https://x.com/KimAkiyama81"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Blender’s Viewport to direct and control scene composition before generating in Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Utiliza el Viewport de Blender para dirigir y controlar la composición de la escena antes de generar en Seedance 2.0."
+    },
+    "fr": {
+      "content": "Utilisez le Viewport de Blender pour diriger et contrôler la composition de la scène avant de générer dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "Seedance 2.0で生成する前に、Blenderのビューポートを使用してシーンの構成を指示し、制御します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 생성하기 전에 Blender의 Viewport를 사용하여 장면 구성을 지시하고 제어하세요."
+    },
+    "pt": {
+      "content": "Use o Viewport do Blender para dirigir e controlar a composição da cena antes de gerar no Seedance 2.0."
+    },
+    "zh": {
+      "content": "在使用Seedance 2.0生成之前，利用Blender的Viewport来指导和控制场景构图。"
+    }
+  }
+}

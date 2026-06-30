@@ -1,0 +1,42 @@
+{
+  "id": "2070851042661810551",
+  "title": "Blenderで作ったモーションコンテ（絵コンテ）をSeedance 2.0の動画生成に入力して、動きのベースとして使う",
+  "content": "Blenderで作ったモーションコンテ（絵コンテ）をSeedance 2.0の動画生成に入力して、動きのベースとして使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070850937321889792/img/_hjKdflh6tlnxHXS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070851042661810551.mp4",
+  "sourceLink": "https://x.com/dave392750/status/2070851042661810551",
+  "sourcePublishedAt": "2026-06-27",
+  "author": {
+    "name": "楽園",
+    "link": "https://x.com/dave392750"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blenderで作ったモーションコンテ（絵コンテ）をSeedance 2.0の動画生成に入力して、動きのベースとして使う",
+  "translations": {
+    "en": {
+      "content": "Using motion storyboards (storyboards) created in Blender as input for video generation in Seedance 2.0, utilizing them as the basis for movement.\n\n--- QUOTED TWEET ---\nSince Tetetsurou was using motion storyboards created in Blender for video generation in Seedance 2.0, I wanted to try it and have been working on it since yesterday.\n\nBeing a complete beginner with no knowledge of 3D imagery, I struggled a lot.\nFor now, please be considerate as this is my first attempt at a motion storyboard using Blender m(__)m\n\n#pixversecpp\n@PixVerse_"
+    },
+    "es": {
+      "content": "---\nUsar el motion conte (storyboard) creado en Blender como base de movimiento al ingresarlo en la generación de video de Seedance 2.0\n\n--- TWEET CITADO ---\nComo Tetetsurou-san estaba usando un motion conte hecho en Blender para la generación de video en Seedance 2.0, quise intentarlo y he estado trabajando en ello desde ayer.\n\nFue un desafío porque es mi primer intento con imágenes 3D y soy un completo principiante que no entiende nada.\nPor ahora, es mi primer trabajo de motion conte usando Blender, así que agradezco su comprensión m(__)m\n\n#pixversecpp\n@PixVerse_\n---"
+    },
+    "fr": {
+      "content": "Utiliser le motion conte (storyboard) créé avec Blender comme base de mouvement pour la génération vidéo de Seedance 2.0\n\n--- TWEET CITÉ ---\nComme Tetetsurou-san utilisait le motion conte créé avec Blender pour la génération vidéo de Seedance 2.0, j'ai voulu essayer et j'y travaille depuis hier.\n\nÉtant donné que c'est ma première tentative avec des images 3D et que je suis un parfait débutant, cela a été difficile.\nEn tout cas, c'est ma première œuvre de motion conte avec Blender, donc je vous demande votre indulgence m(__)m\n\n#pixversecpp\n@PixVerse_"
+    },
+    "ko": {
+      "content": "Blender로 만든 모션 콘티(스토리보드)를 Seedance 2.0의 비디오 생성에 입력하여 움직임의 베이스로 사용\n\n--- 인용 트윗 ---\n테테츠로우 씨가 Blender를 사용한 모션 콘티를 Seedance 2.0의 비디오 생성에 사용하고 있어서, 저도 해보고 싶어 어제부터 계속 시도하고 있었습니다.\n\n3D 영상은 처음 시도하는 것이라 아무것도 모르는 초보자라서 고생했습니다.\n일단, Blender를 사용한 모션 콘티 첫 작품이므로, 양해 부탁드립니다 m(__)m\n\n#pixversecpp\n@PixVerse_"
+    },
+    "pt": {
+      "content": "Usar o motion conte (storyboard) criado no Blender como base de movimento na geração de vídeo do Seedance 2.0\n\n--- TWEET CITADO ---\nComo o Tetetsurou estava usando motion conte feito no Blender na geração de vídeo do Seedance 2.0, eu quis tentar e estou fazendo isso desde ontem.\n\nFoi um desafio, pois sou um completo iniciante em 3D e não entendo nada disso.\nDe qualquer forma, este é meu primeiro motion conte feito no Blender, então peço sua compreensão m(__)m\n\n#pixversecpp\n@PixVerse_"
+    },
+    "zh": {
+      "content": "在Blender中制作的动作分镜（故事板）被输入到Seedance 2.0的视频生成中，作为动作的基础。\n\n--- 引用推文 ---\n因为看到ててつろう先生使用Blender制作的动作分镜用于Seedance 2.0的视频生成，我也想尝试，所以从昨天开始一直在做。\n\n由于这是我第一次尝试3D影像，完全是个门外汉，所以遇到了很多困难。\n无论如何，这是我用Blender制作的第一个动作分镜作品，敬请多多包涵m(__)m\n\n#pixversecpp\n@PixVerse_"
+    }
+  }
+}

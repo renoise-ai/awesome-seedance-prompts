@@ -1,0 +1,40 @@
+{
+  "id": "2070627006279237877",
+  "title": "Cinematic close-up from behind a racecar driver",
+  "content": "Cinematic close-up from behind a racecar driver",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070626947005300736/img/L4wS0oRM8fOoDb6Y.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070627006279237877.mp4",
+  "sourceLink": "https://x.com/Designarena/status/2070627006279237877",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "Design Arena",
+    "link": "https://x.com/Designarena"
+  },
+  "tags": [
+    "Auto",
+    "Racing",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Primer plano cinematográfico desde detrás de un piloto de carreras"
+    },
+    "fr": {
+      "content": "Gros plan cinématographique de dos d'un pilote de course"
+    },
+    "ja": {
+      "content": "レースカーのドライバーを背後から捉えたシネマティックなクローズアップ"
+    },
+    "ko": {
+      "content": "경주차 운전자의 뒤에서 촬영한 영화 같은 클로즈업"
+    },
+    "pt": {
+      "content": "Close-up cinematográfico por trás de um piloto de corrida"
+    },
+    "zh": {
+      "content": "从赛车手背后拍摄的电影式特写镜头"
+    }
+  }
+}

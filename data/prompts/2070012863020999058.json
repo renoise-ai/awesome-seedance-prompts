@@ -1,0 +1,40 @@
+{
+  "id": "2070012863020999058",
+  "title": "a 90's commercial for doritos",
+  "content": "a 90's commercial for doritos",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069967681860612096/img/cPZemLahb-FtLl1J.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070012863020999058.mp4",
+  "sourceLink": "https://x.com/markgadala/status/2070012863020999058",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "Mark Gadala-Maria",
+    "link": "https://x.com/markgadala"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Retro Film",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "un comercial de los 90 para Doritos"
+    },
+    "fr": {
+      "content": "une publicité des années 90 pour Doritos"
+    },
+    "ja": {
+      "content": "---\n90年代のドリトスのコマーシャル\n---"
+    },
+    "ko": {
+      "content": "90년대 도리토스 광고"
+    },
+    "pt": {
+      "content": "um comercial dos anos 90 para doritos"
+    },
+    "zh": {
+      "content": "90年代多力多滋广告"
+    }
+  }
+}

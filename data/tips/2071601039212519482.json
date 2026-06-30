@@ -1,0 +1,42 @@
+{
+  "id": "2071601039212519482",
+  "title": "用Seedance做双人角色卡视频时，如果两个人物效果不佳，改为单人物角色卡或纯文生视频通常效果更好",
+  "content": "用Seedance做双人角色卡视频时，如果两个人物效果不佳，改为单人物角色卡或纯文生视频通常效果更好  \n用Seedance 2.0生成约15秒的横屏16:9 4K写实真人电影感爱情短剧时，在提示词中明确加入中文台词对口型以实现口型同步",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071600750711496704/img/7QB6857flp4HCL9C.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071601039212519482.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2071601039212519482",
+  "sourcePublishedAt": "2026-06-29",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用Seedance做双人角色卡视频时，如果两个人物效果不佳，改为单人物角色卡或纯文生视频通常效果更好  \n用Seedance 2.0生成约15秒的横屏16:9 4K写实真人电影感爱情短剧时，在提示词中明确加入中文台词对口型以实现口型同步",
+  "translations": {
+    "en": {
+      "content": "When creating a dual character card video with Seedance, if the effect of the two characters is not satisfactory, switching to a single character card or a pure text-to-video usually yields better results.  \nWhen generating a roughly 15-second horizontal 16:9 4K realistic live-action cinematic love short film with Seedance 2.0, explicitly include Chinese dialogue in the prompt to achieve lip-syncing."
+    },
+    "es": {
+      "content": "Al crear un video de tarjeta de personaje doble con Seedance, si los efectos de los dos personajes no son óptimos, cambiar a una tarjeta de personaje individual o a un video puramente textual suele dar mejores resultados.  \nAl generar un cortometraje romántico realista de aproximadamente 15 segundos en pantalla horizontal 16:9 4K con Seedance 2.0, incluya claramente diálogos en chino en el prompt para lograr la sincronización labial."
+    },
+    "fr": {
+      "content": "Lors de la création de vidéos de cartes de personnages à deux personnes avec Seedance, si l'effet des deux personnages n'est pas satisfaisant, il est généralement préférable de passer à une carte de personnage unique ou à une vidéo purement textuelle.  \nLors de la génération d'un court-métrage romantique réaliste de 15 secondes en format horizontal 16:9 4K avec Seedance 2.0, il est important d'inclure explicitement des dialogues en chinois dans le prompt pour assurer la synchronisation labiale."
+    },
+    "ja": {
+      "content": "---\nSeedanceで二人のキャラクターカード動画を作成する際、二人の人物の効果が良くない場合、単一のキャラクターカードやテキスト生成動画に変更する方が通常は効果的です。  \nSeedance 2.0を使用して約15秒の横向き16:9 4Kリアルな映画風の恋愛短編を生成する際、プロンプトに中国語の台詞を明確に含めて口の動きを同期させます。  \n---"
+    },
+    "ko": {
+      "content": "Seedance로 두 사람의 캐릭터 카드 영상을 만들 때, 두 인물의 효과가 좋지 않다면 단일 인물 캐릭터 카드나 순수 텍스트 생성 영상으로 변경하는 것이 보통 더 나은 결과를 가져옵니다.  \nSeedance 2.0을 사용하여 약 15초 길이의 가로형 16:9 4K 실사 영화 감성의 사랑 단편극을 생성할 때, 프롬프트에 중국어 대사를 명확히 포함시켜 립싱크를 실현합니다."
+    },
+    "pt": {
+      "content": "Ao fazer vídeos de cartões de personagens duplos com o Seedance, se os efeitos dos dois personagens não forem satisfatórios, geralmente é melhor mudar para um cartão de personagem único ou um vídeo puramente baseado em texto.  \nAo gerar um curta-metragem romântico realista de aproximadamente 15 segundos em 4K, formato horizontal 16:9, com o Seedance 2.0, inclua claramente diálogos em chinês no prompt para sincronizar os movimentos labiais."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2070586390702629249",
+  "title": "Generate longer scenes as multiple shorter clips (e.g., 2×15s) and stitch the…",
+  "content": "Generate longer scenes as multiple shorter clips (e.g., 2×15s) and stitch the best takes together in DaVinci Resolve  \nMaintain continuity across clips by explicitly prompting “continue directly from the previous clip” and repeating exact wardrobe, positions, mood, lighting, and camera style  \nControl framing by instructing the model to keep the camera facing the characters the entire time and forbidding reverse shots/wide reveals to keep an off-screen object unseen  \nIncrease realism by specifying handheld camera micro-behaviors (subtle sway, operator breathing, imperfect framing, reactive reframing, focus breathing, soft rack focus, natural motion blur)  \nUse brief insert close-ups (hands tightening, eyes flicking, swallowing, ribbon moving) within a mostly frontal medium shot to add tension without changing the main composition  \nDrive atmosphere with explicit audio direction: no music, immersive natural sound only (wind, branches creaking, leaf litter, cloth movement, breathing, tiny mouth/throat sounds)",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/VictorInFocus/status/2070586390702629249",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "V",
+    "link": "https://x.com/VictorInFocus"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "ASMR",
+    "Macro"
+  ],
+  "tips": "Generate longer scenes as multiple shorter clips (e.g., 2×15s) and stitch the best takes together in DaVinci Resolve  \nMaintain continuity across clips by explicitly prompting “continue directly from the previous clip” and repeating exact wardrobe, positions, mood, lighting, and camera style  \nControl framing by instructing the model to keep the camera facing the characters the entire time and forbidding reverse shots/wide reveals to keep an off-screen object unseen  \nIncrease realism by specifying handheld camera micro-behaviors (subtle sway, operator breathing, imperfect framing, reactive reframing, focus breathing, soft rack focus, natural motion blur)  \nUse brief insert close-ups (hands tightening, eyes flicking, swallowing, ribbon moving) within a mostly frontal medium shot to add tension without changing the main composition  \nDrive atmosphere with explicit audio direction: no music, immersive natural sound only (wind, branches creaking, leaf litter, cloth movement, breathing, tiny mouth/throat sounds)",
+  "translations": {
+    "es": {
+      "content": "Generar escenas más largas como múltiples clips más cortos (por ejemplo, 2×15s) y unir las mejores tomas en DaVinci Resolve  \nMantener la continuidad entre los clips indicando explícitamente “continuar directamente desde el clip anterior” y repitiendo exactamente el vestuario, posiciones, estado de ánimo, iluminación y estilo de cámara  \nControlar el encuadre instruyendo al modelo para que mantenga la cámara enfocada en los personajes todo el tiempo y prohibiendo tomas inversas/revelaciones amplias para mantener un objeto fuera de pantalla sin ser visto  \nAumentar el realismo especificando micro-comportamientos de cámara en mano (balanceo sutil, respiración del operador, encuadre imperfecto, reencuadre reactivo, respiración del enfoque, enfoque suave, desenfoque de movimiento natural)  \nUsar breves insertos de primeros planos (manos apretando, ojos parpadeando, tragando, cinta moviéndose) dentro de una toma media principalmente frontal para añadir tensión sin cambiar la composición principal  \nImpulsar la atmósfera con dirección de audio explícita: sin música, solo sonido natural inmersivo (viento, crujido de ramas, hojarasca, movimiento de tela, respiración, pequeños sonidos de boca/garganta)"
+    },
+    "fr": {
+      "content": "Générez des scènes plus longues sous forme de plusieurs clips plus courts (par exemple, 2×15s) et assemblez les meilleures prises dans DaVinci Resolve  \nMaintenez la continuité entre les clips en demandant explicitement de « continuer directement à partir du clip précédent » et en répétant exactement la garde-robe, les positions, l'ambiance, l'éclairage et le style de caméra  \nContrôlez le cadrage en instruisant le modèle de garder la caméra face aux personnages tout le temps et en interdisant les plans inversés/révélations larges pour garder un objet hors champ invisible  \nAugmentez le réalisme en spécifiant des micro-comportements de caméra à main levée (balancement subtil, respiration de l'opérateur, cadrage imparfait, recadrage réactif, respiration de la mise au point, mise au point douce, flou de mouvement naturel)  \nUtilisez de brefs gros plans d'insertion (mains qui se serrent, yeux qui clignotent, déglutition, ruban qui bouge) dans un plan moyen principalement frontal pour ajouter de la tension sans changer la composition principale  \nCréez l'atmosphère avec une direction audio explicite : pas de musique, uniquement des sons naturels immersifs (vent, craquement des branches, litière de feuilles, mouvement du tissu, respiration, petits sons de bouche/gorge)"
+    },
+    "ja": {
+      "content": "長いシーンを複数の短いクリップ（例：2×15秒）として生成し、DaVinci Resolveでベストテイクをつなぎ合わせる  \nクリップ間の連続性を維持するために、「前のクリップから直接続ける」と明示的に指示し、衣装、位置、ムード、照明、カメラスタイルを正確に繰り返す  \nフレーミングを制御するために、モデルに対してカメラを常にキャラクターに向け続けるよう指示し、逆ショットや広いリビールを禁止してオフスクリーンのオブジェクトを見えないようにする  \nリアリズムを高めるために、手持ちカメラの微細な動作（微妙な揺れ、オペレーターの呼吸、不完全なフレーミング、反応的なリフレーミング、フォーカスブリージング、ソフトなラックフォーカス、自然なモーションブラー）を指定する  \n主に正面の中間ショットの中で、緊張感を加えるために短いインサートのクローズアップ（手が締まる、目が動く、飲み込む、リボンが動く）を使用し、メインの構図を変えずに  \n明確なオーディオ指示で雰囲気を演出する：音楽なし、没入感のある自然音のみ（風、枝のきしみ、落ち葉、布の動き、呼吸、小さな口/喉の音）"
+    },
+    "ko": {
+      "content": "---\n더 긴 장면을 여러 개의 짧은 클립(예: 2×15초)으로 생성하고 DaVinci Resolve에서 최고의 테이크를 연결하세요.  \n각 클립 간의 연속성을 유지하기 위해 “이전 클립에서 직접 계속”이라고 명시적으로 프롬프트하고 정확한 의상, 위치, 분위기, 조명 및 카메라 스타일을 반복하세요.  \n모델에게 카메라가 캐릭터를 계속 향하도록 지시하고 역샷/와이드 리빌을 금지하여 화면 밖의 객체가 보이지 않도록 프레이밍을 제어하세요.  \n손으로 들고 있는 카메라의 미세한 동작(미묘한 흔들림, 촬영자의 호흡, 불완전한 프레이밍, 반응형 리프레이밍, 포커스 브리딩, 부드러운 랙 포커스, 자연스러운 모션 블러)을 지정하여 현실감을 높이세요.  \n주로 정면의 중간 샷 내에서 짧은 삽입 클로즈업(손을 꽉 쥐기, 눈 깜빡임, 삼키기, 리본 움직임)을 사용하여 주요 구성을 변경하지 않고 긴장감을 더하세요.  \n명시적인 오디오 지시로 분위기를 조성하세요: 음악 없이 몰입감 있는 자연 소리만 사용 (바람, 나뭇가지 삐걱거림, 낙엽 소리, 천 움직임, 호흡, 작은 입/목소리 소리)."
+    },
+    "pt": {
+      "content": "Gere cenas mais longas como múltiplos clipes curtos (por exemplo, 2×15s) e una as melhores tomadas no DaVinci Resolve  \nMantenha a continuidade entre os clipes ao instruir explicitamente “continue diretamente do clipe anterior” e repetir exatamente o figurino, posições, humor, iluminação e estilo de câmera  \nControle o enquadramento instruindo o modelo a manter a câmera voltada para os personagens o tempo todo e proibindo tomadas reversas/revelações amplas para manter um objeto fora de cena invisível  \nAumente o realismo especificando microcomportamentos de câmera de mão (balanço sutil, respiração do operador, enquadramento imperfeito, reenquadramento reativo, respiração do foco, foco suave, desfoque de movimento natural)  \nUse breves closes de inserção (mãos apertando, olhos piscando, engolindo, fita se movendo) dentro de um plano médio principalmente frontal para adicionar tensão sem mudar a composição principal  \nCrie atmosfera com direção de áudio explícita: sem música, apenas som natural imersivo (vento, rangido de galhos, folhas secas, movimento de tecido, respiração, pequenos sons de boca/garganta)"
+    },
+    "zh": {
+      "content": "---\n生成较长的场景为多个较短的片段（例如，2×15秒），并在DaVinci Resolve中将最佳镜头拼接在一起  \n通过明确提示“直接从上一个片段继续”并重复相同的服装、位置、情绪、灯光和摄像风格来保持片段之间的连续性  \n通过指示模型始终将摄像机对准角色并禁止反向镜头/广角揭示来控制构图，以保持屏幕外物体不被看到  \n通过指定手持摄像机的微行为（微妙的摇摆、操作员呼吸、不完美的构图、反应性重新构图、焦点呼吸、柔和的焦点转换、自然的运动模糊）来增加现实感  \n在主要正面中景镜头中使用简短的插入特写（手部紧握、眼睛闪动、吞咽、丝带移动）以增加紧张感而不改变主要构图  \n通过明确的音频指导来营造氛围：无音乐，仅沉浸式自然声音（风声、树枝嘎吱声、落叶声、布料移动声、呼吸声、微小的口腔/喉咙声音）  \n---"
+    }
+  }
+}

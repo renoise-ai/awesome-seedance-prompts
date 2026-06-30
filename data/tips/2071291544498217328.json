@@ -1,0 +1,42 @@
+{
+  "id": "2071291544498217328",
+  "title": "Generate a 9-panel film-strip storyboard image first, then in Seedance 2.0…",
+  "content": "Generate a 9-panel film-strip storyboard image first, then in Seedance 2.0 prompt: Use @image as storyboard reference for content/style while explicitly instructing the model to ignore the grid layout and output a sequential full-screen 16:9 video.  \nAdd a critical composition rule in the Seedance prompt: NEVER show grids/collages/split-screens; show exactly one scene at a time; each shot must fill the entire frame.  \nProvide a strict timecoded shot list (e.g., Shot 1 0–1.7s … Shot 9 13.3–15.0s) to control pacing and enforce scene order in a 15-second sequence.  \nInclude negative constraints like NO frames, borders, film strips, numbers, UI, or text anywhere to prevent unwanted overlays in the generated video.  \nReinforce style consistency by repeating key style tokens (cinematic sci-fi, deep blue & gold palette, holographic interfaces, volumetric lighting, photorealistic) in both the storyboard prompt and the Seedance video prompt.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/churvikv/status/2071291544498217328",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "Viki",
+    "link": "https://x.com/churvikv"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Sci-Fi",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Generate a 9-panel film-strip storyboard image first, then in Seedance 2.0 prompt: Use @image as storyboard reference for content/style while explicitly instructing the model to ignore the grid layout and output a sequential full-screen 16:9 video.  \nAdd a critical composition rule in the Seedance prompt: NEVER show grids/collages/split-screens; show exactly one scene at a time; each shot must fill the entire frame.  \nProvide a strict timecoded shot list (e.g., Shot 1 0–1.7s … Shot 9 13.3–15.0s) to control pacing and enforce scene order in a 15-second sequence.  \nInclude negative constraints like NO frames, borders, film strips, numbers, UI, or text anywhere to prevent unwanted overlays in the generated video.  \nReinforce style consistency by repeating key style tokens (cinematic sci-fi, deep blue & gold palette, holographic interfaces, volumetric lighting, photorealistic) in both the storyboard prompt and the Seedance video prompt.",
+  "translations": {
+    "es": {
+      "content": "Genera primero una imagen de storyboard de 9 paneles en formato de tira de película, luego en Seedance 2.0 prompt: Use @image como referencia de storyboard para contenido/estilo mientras instruye explícitamente al modelo que ignore el diseño de cuadrícula y produzca un video secuencial en pantalla completa 16:9.  \nAñade una regla crítica de composición en el prompt de Seedance: NUNCA mostrar cuadrículas/collages/pantallas divididas; mostrar exactamente una escena a la vez; cada toma debe llenar todo el encuadre.  \nProporciona una lista de tomas estrictamente cronometrada (por ejemplo, Toma 1 0–1.7s … Toma 9 13.3–15.0s) para controlar el ritmo y asegurar el orden de las escenas en una secuencia de 15 segundos.  \nIncluye restricciones negativas como NO marcos, bordes, tiras de película, números, UI o texto en ninguna parte para evitar superposiciones no deseadas en el video generado.  \nRefuerza la consistencia de estilo repitiendo tokens clave de estilo (cinematic sci-fi, paleta azul profundo y dorado, interfaces holográficas, iluminación volumétrica, fotorrealista) tanto en el prompt del storyboard como en el prompt del video de Seedance."
+    },
+    "fr": {
+      "content": "---\nGénérez d'abord une image de storyboard en bande de film de 9 panneaux, puis dans Seedance 2.0 prompt : Utilisez @image comme référence de storyboard pour le contenu/style tout en instruisant explicitement le modèle d'ignorer la disposition en grille et de produire une vidéo plein écran séquentielle au format 16:9.  \nAjoutez une règle de composition critique dans le prompt Seedance : NE JAMAIS montrer de grilles/collages/écrans partagés ; montrez exactement une scène à la fois ; chaque plan doit remplir tout le cadre.  \nFournissez une liste de plans minutée stricte (par exemple, Plan 1 0–1,7s … Plan 9 13,3–15,0s) pour contrôler le rythme et imposer l'ordre des scènes dans une séquence de 15 secondes.  \nIncluez des contraintes négatives comme PAS de cadres, bordures, bandes de film, numéros, UI ou texte n'importe où pour éviter les superpositions indésirables dans la vidéo générée.  \nRenforcez la cohérence du style en répétant des mots-clés de style (cinématique sci-fi, palette bleu profond & or, interfaces holographiques, éclairage volumétrique, photoréaliste) à la fois dans le prompt du storyboard et dans le prompt vidéo Seedance.\n---"
+    },
+    "ja": {
+      "content": "---\n最初に9パネルのフィルムストリップのストーリーボード画像を生成し、その後、Seedance 2.0のプロンプトで: Use @image as storyboard reference for content/style while explicitly instructing the model to ignore the grid layout and output a sequential full-screen 16:9 video.  \nSeedanceプロンプトに重要な構図ルールを追加: NEVER show grids/collages/split-screens; show exactly one scene at a time; each shot must fill the entire frame.  \n15秒のシーケンスでペーシングを制御し、シーンの順序を強制するために、厳密なタイムコード付きのショットリスト（例: Shot 1 0–1.7s … Shot 9 13.3–15.0s）を提供します。  \n生成されたビデオに不要なオーバーレイを防ぐために、NO frames, borders, film strips, numbers, UI, or text anywhereといった否定的な制約を含めます。  \nストーリーボードプロンプトとSeedanceビデオプロンプトの両方で、スタイルの一貫性を強化するために、キーとなるスタイルトークン（cinematic sci-fi, deep blue & gold palette, holographic interfaces, volumetric lighting, photorealistic）を繰り返します。"
+    },
+    "ko": {
+      "content": "---\n먼저 9패널 필름 스트립 스토리보드 이미지를 생성한 후, Seedance 2.0 프롬프트에서: @image를 콘텐츠/스타일의 스토리보드 참조로 사용하되, 모델에게 그리드 레이아웃을 무시하고 순차적인 풀스크린 16:9 비디오를 출력하도록 명확히 지시합니다.  \nSeedance 프롬프트에 중요한 구성 규칙을 추가하세요: 절대 그리드/콜라주/분할 화면을 보여주지 마세요; 한 번에 정확히 하나의 장면만 보여주세요; 각 샷은 전체 프레임을 채워야 합니다.  \n15초 시퀀스에서 페이싱을 제어하고 장면 순서를 강제하기 위해 엄격한 타임코드 샷 리스트(예: 샷 1 0–1.7초 … 샷 9 13.3–15.0초)를 제공하세요.  \n생성된 비디오에 원치 않는 오버레이를 방지하기 위해 프레임, 테두리, 필름 스트립, 숫자, UI 또는 텍스트가 어디에도 없도록 하는 부정적 제약 조건을 포함하세요.  \n스토리보드 프롬프트와 Seedance 비디오 프롬프트 모두에서 주요 스타일 토큰(시네마틱 SF, 딥 블루 & 골드 팔레트, 홀로그래픽 인터페이스, 볼류메트릭 조명, 포토리얼리스틱)을 반복하여 스타일 일관성을 강화하세요.\n---"
+    },
+    "pt": {
+      "content": "---\nGere primeiro uma imagem de storyboard em formato de tira de filme com 9 painéis, depois no prompt do Seedance 2.0: Use @image como referência de storyboard para conteúdo/estilo, instruindo explicitamente o modelo a ignorar o layout de grade e gerar um vídeo sequencial em tela cheia 16:9.  \nAdicione uma regra crítica de composição no prompt do Seedance: NUNCA mostre grades/colagens/telas divididas; mostre exatamente uma cena por vez; cada tomada deve preencher todo o quadro.  \nForneça uma lista de tomadas com tempo codificado estritamente (por exemplo, Tomada 1 0–1.7s … Tomada 9 13.3–15.0s) para controlar o ritmo e impor a ordem das cenas em uma sequência de 15 segundos.  \nInclua restrições negativas como SEM quadros, bordas, tiras de filme, números, UI ou texto em qualquer lugar para evitar sobreposições indesejadas no vídeo gerado.  \nReforce a consistência de estilo repetindo tokens de estilo chave (cinematic sci-fi, paleta azul profundo e dourado, interfaces holográficas, iluminação volumétrica, fotorrealista) tanto no prompt do storyboard quanto no prompt de vídeo do Seedance.\n---"
+    },
+    "zh": {
+      "content": "---\n首先生成一个9格胶片故事板图像，然后在Seedance 2.0提示中：使用@image作为内容/风格的故事板参考，同时明确指示模型忽略网格布局并输出顺序全屏16:9视频。  \n在Seedance提示中添加一个关键的构图规则：绝不要显示网格/拼贴/分屏；每次只显示一个场景；每个镜头必须填满整个画面。  \n提供一个严格的时间编码镜头列表（例如，镜头1 0–1.7秒 … 镜头9 13.3–15.0秒）以控制节奏并在15秒的序列中强制执行场景顺序。  \n包括负面约束，如禁止使用框架、边框、胶片条、数字、UI或文本，以防止生成视频中出现不需要的覆盖。  \n通过在故事板提示和Seedance视频提示中重复关键风格标记（电影级科幻、深蓝和金色调、全息界面、体积光照、照片级真实感）来加强风格一致性。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2070224020520218783",
+  "title": "Use Seedance 2.0 in ComfyUI to generate video at native 4K output",
+  "content": "Use Seedance 2.0 in ComfyUI to generate video at native 4K output  \nLeverage ComfyUI’s node graph workflow at 4K to mask, route, and composite shots at final delivery resolution",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070223935065452544/img/eLOmsosUGyO1j848.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070224020520218783.mp4",
+  "sourceLink": "https://x.com/robinjhuang/status/2070224020520218783",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "Robin Huang",
+    "link": "https://x.com/robinjhuang"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 in ComfyUI to generate video at native 4K output  \nLeverage ComfyUI’s node graph workflow at 4K to mask, route, and composite shots at final delivery resolution",
+  "translations": {
+    "es": {
+      "content": "---\nUsa Seedance 2.0 en ComfyUI para generar video en salida nativa 4K  \nAprovecha el flujo de trabajo de gráficos de nodos de ComfyUI en 4K para enmascarar, enrutar y componer tomas a la resolución final de entrega\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Gran salto para un modelo que era 1080p hasta esta semana. 4K nativo, color de 10 bits, una sola pasada.\n\n[Hilo 2] Pero la razón por la que importa aquí es más simple. A 4K, la toma sigue siendo un nodo en tu gráfico.\n\nTodavía estás enmascarando, enroutando, componiendo, tomando decisiones, ahora a la resolución que un cliente realmente entrega.\n\n[Hilo 3] Un modelo puede crear los píxeles. El juicio que los hace valer algo proviene del humano en el proceso.\n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez Seedance 2.0 dans ComfyUI pour générer des vidéos en sortie native 4K  \nExploitez le flux de travail du graphe de nœuds de ComfyUI en 4K pour masquer, router et composer des plans à la résolution finale de livraison\n\n--- CONTINUATION DU FIL DE DISCUSSION ---\n[Fil 1] Grand saut pour un modèle qui était en 1080p jusqu'à cette semaine. 4K natif, couleur 10 bits, en une seule passe.\n\n[Fil 2] Mais la raison pour laquelle c'est important ici est plus simple. En 4K, le plan est toujours un nœud dans votre graphe.\n\nVous continuez à masquer, router, composer, prendre les décisions, maintenant à la résolution qu'un client utilise réellement.\n\n[Fil 3] Un modèle peut créer les pixels. Le jugement qui leur donne de la valeur vient de l'humain dans la boucle.\n---"
+    },
+    "ja": {
+      "content": "---\nComfyUIでSeedance 2.0を使用して、ネイティブ4K出力でビデオを生成  \nComfyUIのノードグラフワークフローを4Kで活用し、最終納品解像度でショットをマスク、ルート、合成\n\n--- スレッド継続 ---\n[スレッド1] 今週まで1080pだったモデルにとって大きな飛躍。ネイティブ4K、10ビットカラー、ワンパス。\n\n[スレッド2] しかし、ここで重要なのはもっとシンプルです。4Kでもショットはグラフ内のノードです。\n\nマスキング、ルーティング、合成、判断を行い、クライアントが実際に出荷する解像度で作業します。\n\n[スレッド3] モデルはピクセルを生成できます。それに価値を与える判断は、ループ内の人間から来ます。\n---"
+    },
+    "ko": {
+      "content": "---\nComfyUI에서 Seedance 2.0을 사용하여 네이티브 4K 출력으로 비디오 생성  \nComfyUI의 노드 그래프 워크플로우를 활용하여 4K에서 마스킹, 라우팅, 합성하여 최종 전달 해상도로 샷을 구성\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이번 주까지 1080p였던 모델의 큰 도약. 네이티브 4K, 10비트 색상, 한 번의 패스.\n\n[Thread 2] 하지만 여기서 중요한 이유는 더 간단합니다. 4K에서도 샷은 여전히 그래프의 노드입니다.\n\n여전히 마스킹, 라우팅, 합성, 결정을 내리고 있으며, 이제는 실제로 클라이언트가 전달하는 해상도로 작업합니다.\n\n[Thread 3] 모델은 픽셀을 만들 수 있습니다. 그것들을 가치 있게 만드는 판단은 루프 안의 인간에게서 나옵니다.\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 no ComfyUI para gerar vídeo em saída nativa 4K  \nAproveite o fluxo de trabalho de gráfico de nós do ComfyUI em 4K para mascarar, rotear e compor cenas na resolução final de entrega\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Grande salto para um modelo que era 1080p até esta semana. 4K nativo, cor de 10 bits, em uma única passagem.\n\n[Thread 2] Mas a razão pela qual isso importa aqui é mais simples. Em 4K, a cena ainda é um nó no seu gráfico.\n\nVocê ainda está mascarando, roteando, compondo, tomando as decisões, agora na resolução que um cliente realmente entrega.\n\n[Thread 3] Um modelo pode criar os pixels. O julgamento que os torna valiosos vem do humano no processo."
+    },
+    "zh": {
+      "content": "---\n在ComfyUI中使用Seedance 2.0生成原生4K输出视频  \n利用ComfyUI的节点图工作流程在4K下进行遮罩、路由和合成镜头，以达到最终交付分辨率\n\n--- 线程继续 ---\n[线程1] 对于一个直到本周还停留在1080p的模型来说，这是一个巨大的飞跃。原生4K，10位色彩，一次通过。\n\n[线程2] 但这里重要的原因更简单。在4K下，镜头仍然是你图中的一个节点。\n\n你仍然在进行遮罩、路由、合成、做出决策，现在是在客户实际交付的分辨率下。\n\n[线程3] 模型可以生成像素。让这些像素有价值的判断来自于循环中的人。"
+    }
+  }
+}

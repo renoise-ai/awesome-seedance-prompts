@@ -1,0 +1,41 @@
+{
+  "id": "2070181850128281609",
+  "title": "In Seedance 2.0, upload a character sheet image, a setting image, and a blank…",
+  "content": "In Seedance 2.0, upload a character sheet image, a setting image, and a blank video as references before prompting.  \nUse @ (image) tags in the prompt to bind specific shots to the uploaded character sheet and setting images.  \nSpecify camera direction explicitly (e.g., low-angle shot, low-angle dolly shot, slowly rises along the outside of the tub) to control movement and reveal.  \nUse [Cut] in the prompt to force a transition to a new shot with a different camera angle/composition.  \nAdd dialogue/lyrics in the prompt for the character to sing (e.g., waiting for light).  \nUse @ (video) to reference and reuse the exact audio from an attached video.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Framer_X/status/2070181850128281609",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "link": "https://x.com/Framer_X"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "In Seedance 2.0, upload a character sheet image, a setting image, and a blank video as references before prompting.  \nUse @ (image) tags in the prompt to bind specific shots to the uploaded character sheet and setting images.  \nSpecify camera direction explicitly (e.g., low-angle shot, low-angle dolly shot, slowly rises along the outside of the tub) to control movement and reveal.  \nUse [Cut] in the prompt to force a transition to a new shot with a different camera angle/composition.  \nAdd dialogue/lyrics in the prompt for the character to sing (e.g., waiting for light).  \nUse @ (video) to reference and reuse the exact audio from an attached video.",
+  "translations": {
+    "es": {
+      "content": "En Seedance 2.0, sube una imagen de hoja de personaje, una imagen del escenario y un video en blanco como referencias antes de hacer el prompt.  \nUsa etiquetas @ (imagen) en el prompt para vincular tomas específicas a las imágenes de la hoja de personaje y del escenario subidas.  \nEspecifica la dirección de la cámara explícitamente (por ejemplo, toma en ángulo bajo, toma dolly en ángulo bajo, sube lentamente a lo largo del exterior de la bañera) para controlar el movimiento y la revelación.  \nUsa [Cut] en el prompt para forzar una transición a una nueva toma con un ángulo/composición de cámara diferente.  \nAñade diálogo/letras en el prompt para que el personaje cante (por ejemplo, waiting for light).  \nUsa @ (video) para referenciar y reutilizar el audio exacto de un video adjunto."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.0, téléchargez une image de feuille de personnage, une image de décor et une vidéo vierge comme références avant de lancer le prompt.  \nUtilisez les balises @ (image) dans le prompt pour lier des plans spécifiques aux images de feuille de personnage et de décor téléchargées.  \nSpécifiez explicitement la direction de la caméra (par exemple, prise de vue en contre-plongée, travelling en contre-plongée, monte lentement le long de l'extérieur de la baignoire) pour contrôler le mouvement et la révélation.  \nUtilisez [Cut] dans le prompt pour forcer une transition vers un nouveau plan avec un angle/composition de caméra différent.  \nAjoutez des dialogues/paroles dans le prompt pour que le personnage chante (par exemple, waiting for light).  \nUtilisez @ (video) pour référencer et réutiliser l'audio exact d'une vidéo jointe."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0では、プロンプトを入力する前にキャラクターシート画像、設定画像、空白のビデオを参照としてアップロードします。  \nプロンプト内で@(image)タグを使用して、アップロードしたキャラクターシートと設定画像に特定のショットを結びつけます。  \nカメラの方向を明確に指定して（例：ローアングルショット、ローアングルドリーショット、浴槽の外側に沿ってゆっくりと上昇する）、動きと演出をコントロールします。  \nプロンプト内で[Cut]を使用して、異なるカメラアングル/構図で新しいショットへのトランジションを強制します。  \nキャラクターが歌うためのセリフ/歌詞をプロンプトに追加します（例：waiting for light）。  \n@(video)を使用して、添付されたビデオから正確なオーディオを参照して再利用します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서는 프롬프트를 입력하기 전에 캐릭터 시트 이미지, 배경 이미지, 빈 비디오를 참조로 업로드하세요.  \n프롬프트에서 @(image) 태그를 사용하여 업로드한 캐릭터 시트와 배경 이미지에 특정 샷을 연결하세요.  \n카메라 방향을 명확히 지정하여 (예: 로우 앵글 샷, 로우 앵글 돌리 샷, 욕조 외부를 따라 천천히 상승) 움직임과 노출을 제어하세요.  \n프롬프트에서 [Cut]을 사용하여 다른 카메라 각도/구성으로 새로운 샷으로 전환을 강제하세요.  \n캐릭터가 노래할 대사/가사를 프롬프트에 추가하세요 (예: waiting for light).  \n@(video)를 사용하여 첨부된 비디오의 정확한 오디오를 참조하고 재사용하세요.\n---"
+    },
+    "pt": {
+      "content": "---\nNo Seedance 2.0, carregue uma imagem de ficha de personagem, uma imagem de cenário e um vídeo em branco como referências antes de iniciar o prompt.  \nUse tags @ (imagem) no prompt para vincular tomadas específicas às imagens de ficha de personagem e cenário carregadas.  \nEspecifique a direção da câmera explicitamente (por exemplo, low-angle shot, low-angle dolly shot, slowly rises along the outside of the tub) para controlar o movimento e a revelação.  \nUse [Cut] no prompt para forçar uma transição para uma nova tomada com um ângulo/composição de câmera diferente.  \nAdicione diálogo/letras no prompt para o personagem cantar (por exemplo, waiting for light).  \nUse @ (vídeo) para referenciar e reutilizar o áudio exato de um vídeo anexado.\n---"
+    },
+    "zh": {
+      "content": "在Seedance 2.0中，上传角色表图像、场景图像和空白视频作为提示前的参考。  \n在提示中使用@（图像）标签将特定镜头绑定到上传的角色表和场景图像。  \n明确指定摄像机方向（例如，低角度镜头、低角度移动镜头、沿浴缸外侧缓慢上升）以控制运动和揭示。  \n在提示中使用[Cut]强制过渡到具有不同摄像机角度/构图的新镜头。  \n在提示中添加角色要唱的对话/歌词（例如，waiting for light）。  \n使用@（视频）引用并重用附加视频中的确切音频。"
+    }
+  }
+}

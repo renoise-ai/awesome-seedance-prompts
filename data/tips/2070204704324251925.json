@@ -1,0 +1,41 @@
+{
+  "id": "2070204704324251925",
+  "title": "Use a storyboard sheet as a reference image and instruct Seedance to follow it…",
+  "content": "Use a storyboard sheet as a reference image and instruct Seedance to follow it exactly for shot order, camera grammar, staging, and prop continuity.  \nTreat each storyboard panel as a separate shot and explicitly tell Seedance not to merge multiple panel poses into one shot.  \nUse a separate character design reference image as the sole authority for the character’s final appearance (face/body/wardrobe/materials/likeness) while using the storyboard only for staging.  \nLock camera and lens per beat (e.g., specify 85mm and the exact angle like low-angle/canted/bird’s-eye/worm’s-eye) to keep consistent camera language across the sequence.  \nDefine per-beat action and effect continuity (e.g., ink trail morphing into crow silhouettes) so Seedance preserves the same effect as a single evolving instance rather than duplicating entities.  \nSpecify audio constraints directly (e.g., no music; only diegetic swooshes, wing flutters, wind) to control the generated sound design.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aimikoda/status/2070204704324251925",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "Kōda",
+    "link": "https://x.com/aimikoda"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard sheet as a reference image and instruct Seedance to follow it exactly for shot order, camera grammar, staging, and prop continuity.  \nTreat each storyboard panel as a separate shot and explicitly tell Seedance not to merge multiple panel poses into one shot.  \nUse a separate character design reference image as the sole authority for the character’s final appearance (face/body/wardrobe/materials/likeness) while using the storyboard only for staging.  \nLock camera and lens per beat (e.g., specify 85mm and the exact angle like low-angle/canted/bird’s-eye/worm’s-eye) to keep consistent camera language across the sequence.  \nDefine per-beat action and effect continuity (e.g., ink trail morphing into crow silhouettes) so Seedance preserves the same effect as a single evolving instance rather than duplicating entities.  \nSpecify audio constraints directly (e.g., no music; only diegetic swooshes, wing flutters, wind) to control the generated sound design.",
+  "translations": {
+    "es": {
+      "content": "Usa una hoja de guion gráfico como imagen de referencia e instruye a Seedance para que la siga exactamente en el orden de las tomas, la gramática de la cámara, la puesta en escena y la continuidad de los objetos.  \nTrata cada panel del guion gráfico como una toma separada e indica explícitamente a Seedance que no fusione múltiples poses de panel en una sola toma.  \nUsa una imagen de referencia de diseño de personajes separada como la única autoridad para la apariencia final del personaje (cara/cuerpo/vestuario/materiales/parecido) mientras usas el guion gráfico solo para la puesta en escena.  \nFija la cámara y el lente por cada beat (por ejemplo, especifica 85mm y el ángulo exacto como ángulo bajo/inclinado/vista de pájaro/vista de gusano) para mantener un lenguaje de cámara consistente a lo largo de la secuencia.  \nDefine la continuidad de acción y efecto por cada beat (por ejemplo, rastro de tinta transformándose en siluetas de cuervos) para que Seedance preserve el mismo efecto como una sola instancia en evolución en lugar de duplicar entidades.  \nEspecifica las restricciones de audio directamente (por ejemplo, sin música; solo sonidos diegéticos como silbidos, aleteos de alas, viento) para controlar el diseño de sonido generado."
+    },
+    "fr": {
+      "content": "Utilisez une feuille de storyboard comme image de référence et demandez à Seedance de la suivre exactement pour l'ordre des prises, la grammaire de la caméra, la mise en scène et la continuité des accessoires.  \nTraitez chaque panneau du storyboard comme une prise distincte et indiquez explicitement à Seedance de ne pas fusionner plusieurs poses de panneaux en une seule prise.  \nUtilisez une image de référence de design de personnage distincte comme seule autorité pour l'apparence finale du personnage (visage/corps/garde-robe/matériaux/ressemblance) tout en utilisant le storyboard uniquement pour la mise en scène.  \nVerrouillez la caméra et l'objectif par temps fort (par exemple, spécifiez 85mm et l'angle exact comme contre-plongée/incliné/vue d'oiseau/vue de ver) pour maintenir un langage de caméra cohérent tout au long de la séquence.  \nDéfinissez la continuité de l'action et des effets par temps fort (par exemple, une traînée d'encre se transformant en silhouettes de corbeaux) afin que Seedance préserve le même effet comme une instance évolutive unique plutôt que de dupliquer les entités.  \nSpécifiez directement les contraintes audio (par exemple, pas de musique ; seulement des sifflements diégétiques, des battements d'ailes, du vent) pour contrôler le design sonore généré."
+    },
+    "ja": {
+      "content": "---\nストーリーボードシートを参照画像として使用し、Seedanceにショット順、カメラ文法、ステージング、プロップの連続性を正確に従わせます。  \n各ストーリーボードパネルを別々のショットとして扱い、複数のパネルポーズを1つのショットに統合しないようにSeedanceに明示的に指示します。  \nキャラクターの最終的な外観（顔/体/衣装/素材/類似性）については、別のキャラクターデザイン参照画像を唯一の基準として使用し、ステージングにはストーリーボードのみを使用します。  \nカメラとレンズをビートごとに固定し（例：85mmを指定し、低角度/斜め/俯瞰/虫の目などの正確な角度を指定）、シーケンス全体で一貫したカメラ言語を維持します。  \nビートごとのアクションとエフェクトの連続性を定義し（例：インクの軌跡がカラスのシルエットに変化する）、Seedanceが同じエフェクトを単一の進化するインスタンスとして保持し、エンティティを複製しないようにします。  \n生成されるサウンドデザインを制御するために、オーディオの制約を直接指定します（例：音楽なし; ダイジェティックなスウッシュ、翼の羽ばたき、風のみ）。  \n---"
+    },
+    "ko": {
+      "content": "---\n스토리보드 시트를 참조 이미지로 사용하고 Seedance에게 샷 순서, 카메라 문법, 무대 설정, 소품 연속성을 정확히 따르도록 지시하세요.  \n각 스토리보드 패널을 개별 샷으로 취급하고, Seedance에게 여러 패널 포즈를 하나의 샷으로 합치지 않도록 명확히 지시하세요.  \n캐릭터의 최종 외형(얼굴/몸/의상/재료/유사성)에 대한 유일한 권위로 별도의 캐릭터 디자인 참조 이미지를 사용하고, 스토리보드는 무대 설정에만 사용하세요.  \n시퀀스 전반에 걸쳐 일관된 카메라 언어를 유지하기 위해 비트별로 카메라와 렌즈를 고정하세요 (예: 85mm 및 정확한 각도 지정, 저각/기울어진/조감/벌레 시점 등).  \n비트별 액션과 효과의 연속성을 정의하세요 (예: 잉크 자국이 까마귀 실루엣으로 변형되는 것) Seedance가 동일한 효과를 단일 진화 인스턴스로 유지하도록 하여 개체를 중복하지 않도록 하세요.  \n생성된 사운드 디자인을 제어하기 위해 오디오 제약 조건을 직접 지정하세요 (예: 음악 없음; 다이제틱 스우시, 날개 퍼덕임, 바람 소리만).  \n---"
+    },
+    "pt": {
+      "content": "Use uma folha de storyboard como imagem de referência e instrua o Seedance a segui-la exatamente para a ordem dos planos, gramática de câmera, encenação e continuidade de adereços.  \nTrate cada painel do storyboard como um plano separado e diga explicitamente ao Seedance para não mesclar poses de múltiplos painéis em um único plano.  \nUse uma imagem de referência de design de personagem separada como a única autoridade para a aparência final do personagem (rosto/corpo/guarda-roupa/materiais/semelhança), enquanto usa o storyboard apenas para encenação.  \nTrave a câmera e a lente por batida (por exemplo, especifique 85mm e o ângulo exato como ângulo baixo/inclinado/olho de pássaro/olho de minhoca) para manter uma linguagem de câmera consistente ao longo da sequência.  \nDefina a continuidade de ação e efeito por batida (por exemplo, trilha de tinta se transformando em silhuetas de corvos) para que o Seedance preserve o mesmo efeito como uma única instância em evolução em vez de duplicar entidades.  \nEspecifique restrições de áudio diretamente (por exemplo, sem música; apenas sons diegéticos como assobios, batidas de asas, vento) para controlar o design de som gerado."
+    },
+    "zh": {
+      "content": "使用分镜表作为参考图像，并指示Seedance严格按照其进行镜头顺序、镜头语法、场景布置和道具连续性。  \n将每个分镜板视为一个独立的镜头，并明确告知Seedance不要将多个分镜板的姿势合并为一个镜头。  \n使用单独的人物设计参考图像作为人物最终外观（面部/身体/服装/材料/相似度）的唯一依据，同时仅将分镜表用于场景布置。  \n在每个节拍中锁定相机和镜头（例如，指定85mm和确切的角度，如低角度/倾斜/鸟瞰/虫瞰）以保持整个序列的一致镜头语言。  \n定义每个节拍的动作和效果连续性（例如，墨迹轨迹变形为乌鸦剪影），以便Seedance将相同的效果保留为一个不断演变的实例，而不是复制实体。  \n直接指定音频限制（例如，无音乐；仅有声源的呼啸声、翅膀拍打声、风声）以控制生成的声音设计。"
+    }
+  }
+}

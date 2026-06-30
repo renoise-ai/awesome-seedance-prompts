@@ -1,0 +1,42 @@
+{
+  "id": "2070105840619757931",
+  "title": "Seedance 2.0で720p設定を使って生成する",
+  "content": "Seedance 2.0で720p設定を使って生成する  \n同じ内容の長文プロンプトでも構造（書き方・並べ方）を変えて複数パターン（例：15秒×3本）を作り、出力の違いを比較する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HLp-nRjbsAAB3Lp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070105840619757931.mp4",
+  "sourceLink": "https://x.com/Ryuki_Yano/status/2070105840619757931",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "ヤノ",
+    "link": "https://x.com/Ryuki_Yano"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0で720p設定を使って生成する  \n同じ内容の長文プロンプトでも構造（書き方・並べ方）を変えて複数パターン（例：15秒×3本）を作り、出力の違いを比較する",
+  "translations": {
+    "en": {
+      "content": "Generate using Seedance 2.0 with 720p settings  \nCreate multiple patterns by changing the structure (writing style and arrangement) of the same long prompt content (e.g., 15 seconds x 3 clips) and compare the differences in output\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/5J56XKD6iA\n---"
+    },
+    "es": {
+      "content": "---\nGenerar usando Seedance 2.0 con la configuración de 720p  \nCrear múltiples patrones (ejemplo: 15 segundos × 3) cambiando la estructura (forma de escribir y ordenar) del mismo contenido de un prompt largo, y comparar las diferencias en la salida\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/5J56XKD6iA\n---"
+    },
+    "fr": {
+      "content": "---\nGénérer avec Seedance 2.0 en utilisant les paramètres 720p  \nMême pour un long prompt identique, changer la structure (façon d'écrire et d'organiser) pour créer plusieurs variantes (ex : 15 secondes × 3) et comparer les différences de sortie\n\n--- CONTINUATION DU FIL ---\n[Thread 1] https://t.co/5J56XKD6iA\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 720p 설정을 사용하여 생성하기  \n같은 내용의 긴 프로ンプ트라도 구조(작성 방식 및 배열 방식)를 바꾸어 여러 패턴(예: 15초 × 3개)을 만들고, 출력의 차이를 비교하기\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/5J56XKD6iA\n---"
+    },
+    "pt": {
+      "content": "---\nGerar usando Seedance 2.0 na configuração 720p  \nMesmo para prompts longos com o mesmo conteúdo, altere a estrutura (forma de escrita e ordem) para criar múltiplos padrões (ex.: 15 segundos x 3 vídeos) e compare as diferenças de saída\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] https://t.co/5J56XKD6iA\n---"
+    },
+    "zh": {
+      "content": "使用Seedance 2.0以720p设置进行生成  \n即使是相同内容的长文prompt，也可以通过改变结构（写法和排列方式）来创建多个模式（例如：15秒×3个），以比较输出的差异\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/5J56XKD6iA\n---"
+    }
+  }
+}

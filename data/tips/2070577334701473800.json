@@ -1,0 +1,42 @@
+{
+  "id": "2070577334701473800",
+  "title": "Use mocap (e.g., Quick Magic) for complex movements, then clean up the motion…",
+  "content": "Use mocap (e.g., Quick Magic) for complex movements, then clean up the motion in Blender instead of hand-animating every frame  \nIn Blender, set keyframes to Constant, delete in-between frames, and push poses to create a hand-animated feel",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070577119541755904/img/vPuJh2rnhTl0iy9u.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070577334701473800.mp4",
+  "sourceLink": "https://x.com/fatboypink/status/2070577334701473800",
+  "sourcePublishedAt": "2026-06-26",
+  "author": {
+    "name": "abokalypsis",
+    "link": "https://x.com/fatboypink"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use mocap (e.g., Quick Magic) for complex movements, then clean up the motion in Blender instead of hand-animating every frame  \nIn Blender, set keyframes to Constant, delete in-between frames, and push poses to create a hand-animated feel",
+  "translations": {
+    "es": {
+      "content": "Usa mocap (por ejemplo, Quick Magic) para movimientos complejos, luego limpia el movimiento en Blender en lugar de animar a mano cada fotograma.  \nEn Blender, configura los fotogramas clave en Constante, elimina los fotogramas intermedios y ajusta las poses para crear una sensación de animación a mano.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El mayor avance para esta publicación, aparte de la física de la tela, fue el uso de mocap para movimientos complejos. En lugar de animar a mano cada fotograma, utilicé quick magic para obtener un mocap fuerte y luego simplemente lo limpié en Blender.\n\nPuedes configurar los fotogramas clave en constante, eliminar los intermedios y ajustar las poses para obtener esa sensación de animación a mano."
+    },
+    "fr": {
+      "content": "Utilisez la capture de mouvement (par exemple, Quick Magic) pour les mouvements complexes, puis nettoyez le mouvement dans Blender au lieu d'animer chaque image à la main.  \nDans Blender, réglez les images clés sur Constant, supprimez les images intermédiaires et poussez les poses pour créer une sensation d'animation à la main.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] La plus grande avancée pour ce post, en dehors de la physique des tissus, a été l'utilisation de la capture de mouvement pour les mouvements complexes. Au lieu d'animer chaque image à la main, j'ai utilisé Quick Magic pour obtenir une capture de mouvement solide, puis je l'ai simplement nettoyée dans Blender.\n\nVous pouvez régler les images clés sur constant, supprimer les intermédiaires et pousser les poses pour obtenir cette sensation d'animation à la main."
+    },
+    "ja": {
+      "content": "モーションキャプチャ（例：Quick Magic）を使用して複雑な動きを取得し、Blenderでモーションを修正することで、すべてのフレームを手動でアニメーション化する代わりに済ませる  \nBlenderでは、キーフレームをConstantに設定し、中間フレームを削除して、ポーズを強調することで手描きアニメーションの感触を作り出す\n\n--- THREAD CONTINUATION ---\n[Thread 1] この投稿で布の物理演算以外で最大の進展は、複雑な動きに対するモーションキャプチャの使用でした。すべてのフレームを手動でアニメーション化する代わりに、Quick Magicを使用して強力なモーションキャプチャを取得し、その後Blenderで修正しました。\n\nキーフレームをConstantに設定し、中間フレームを削除し、ポーズを強調することで、手描きアニメーションの感触を得ることができます。"
+    },
+    "ko": {
+      "content": "복잡한 움직임을 위해 모캡(예: Quick Magic)을 사용하고, 모든 프레임을 손으로 애니메이션하는 대신 Blender에서 모션을 정리하세요.  \nBlender에서 키프레임을 Constant로 설정하고, 중간 프레임을 삭제한 후 포즈를 강조하여 손으로 애니메이션한 느낌을 만드세요.\n\n--- 스레드 계속 ---\n[스레드 1] 이 게시물에서 옷 물리 외에 가장 큰 돌파구는 복잡한 움직임을 위한 모캡 사용이었습니다. 모든 프레임을 손으로 애니메이션하는 대신, Quick Magic을 사용하여 강력한 모캡을 얻고, Blender에서 정리만 했습니다.\n\n키프레임을 Constant로 설정하고, 중간 프레임을 삭제한 후 포즈를 강조하여 손으로 애니메이션한 느낌을 얻을 수 있습니다."
+    },
+    "pt": {
+      "content": "Use mocap (por exemplo, Quick Magic) para movimentos complexos, depois limpe o movimento no Blender em vez de animar manualmente cada quadro.  \nNo Blender, defina os keyframes para Constante, exclua os quadros intermediários e ajuste as poses para criar uma sensação de animação manual.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] A maior descoberta para este post, além da física de tecido, foi o uso de mocap para movimentos complexos. Em vez de animar manualmente cada quadro, usei quick magic para obter um mocap forte e depois apenas limpei no Blender.\n\nVocê pode definir os keyframes para constante, excluir os intermediários e ajustar as poses para obter aquela sensação de animação manual."
+    },
+    "zh": {
+      "content": "使用动作捕捉（例如，Quick Magic）来处理复杂动作，然后在Blender中清理动作，而不是手动逐帧动画  \n在Blender中，将关键帧设置为Constant，删除中间帧，并推动姿势以创造手动画的感觉\n\n--- 线程继续 ---\n[线程 1] 除了布料物理效果之外，这篇文章最大的突破是使用动作捕捉来处理复杂动作。与其手动逐帧动画，我使用了Quick Magic来获取强大的动作捕捉，然后在Blender中进行清理。\n\n你可以将关键帧设置为Constant，删除中间帧，并推动姿势以获得手动画的感觉。"
+    }
+  }
+}

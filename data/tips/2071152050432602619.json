@@ -1,0 +1,43 @@
+{
+  "id": "2071152050432602619",
+  "title": "iPhoneで好きなカメラムーブでARプリビズを撮影し、その映像を切り取ってSeedanceに参照として渡すと、同じカメラ動きのまま動画生成できる",
+  "content": "iPhoneで好きなカメラムーブでARプリビズを撮影し、その映像を切り取ってSeedanceに参照として渡すと、同じカメラ動きのまま動画生成できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071151806336704512/img/2oENSNToI1FU01uc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071152050432602619.mp4",
+  "sourceLink": "https://x.com/IntLab0000/status/2071152050432602619",
+  "sourcePublishedAt": "2026-06-28",
+  "author": {
+    "name": "Int.Lab",
+    "link": "https://x.com/IntLab0000"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV"
+  ],
+  "tips": "iPhoneで好きなカメラムーブでARプリビズを撮影し、その映像を切り取ってSeedanceに参照として渡すと、同じカメラ動きのまま動画生成できる",
+  "translations": {
+    "en": {
+      "content": "---\nBy shooting AR previsualization with your favorite camera moves on an iPhone and providing that footage as a reference to Seedance, you can generate videos with the same camera movements.\n\n--- THREAD CONTINUATION ---\n[Thread 1] While posting, I wondered if there might be a use for compositing previsualization with live-action footage...? It might be possible to specify something like, \"I want to composite an object from the reference image around this area of the live-action.\" I'll try it out next time.\n---"
+    },
+    "es": {
+      "content": "---\nPuedes grabar una previsualización en AR con tu movimiento de cámara favorito en un iPhone, y luego recortar ese metraje para pasarlo a Seedance como referencia, permitiendo generar un video con el mismo movimiento de cámara.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Al publicar, me preguntaba si tiene sentido usar la previsualización compuesta con metraje real... Puede que sea posible especificar algo como \"quiero que este objeto de la imagen de referencia se componga en esta parte del metraje real\". Intentaré probarlo en otra ocasión.\n---"
+    },
+    "fr": {
+      "content": "---\nEn utilisant votre iPhone pour capturer une prévisualisation AR avec votre mouvement de caméra préféré, vous pouvez découper cette séquence et la fournir à Seedance comme référence pour générer une vidéo avec le même mouvement de caméra.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] En postant cela, je me suis demandé si cela pourrait être utile de combiner la prévisualisation avec des prises de vue réelles...? Peut-être qu'il est possible de spécifier « Je voudrais intégrer l'objet de l'image de référence à cet endroit précis de la prise de vue réelle ». Je pense essayer cela une prochaine fois.\n---"
+    },
+    "ko": {
+      "content": "---\niPhone에서 좋아하는 카메라 무브로 AR 프리비즈를 촬영하고, 그 영상을 잘라 Seedance에 참조로 전달하면, 동일한 카메라 움직임으로 영상 생성이 가능합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 게시하면서, 프리비즈를 실사에 합성해서 사용할 수 있을까...? 라고 스스로 생각했는데, \"이 실사의 이 부분에 참조 이미지의 오브젝트를 합성해 주세요\"라는 식의 지정은 가능할지도 모르겠네요. 다음에 한번 시도해보려고 합니다.\n---"
+    },
+    "pt": {
+      "content": "---\nVocê pode filmar uma pré-visualização em AR no iPhone com seu movimento de câmera favorito, cortar essa filmagem e fornecê-la como referência para o Seedance, que então pode gerar um vídeo com o mesmo movimento de câmera.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Enquanto postava, pensei comigo mesmo se há alguma utilidade em compor a pré-visualização com filmagens reais...? Talvez seja possível especificar algo como \"quero compor o objeto da imagem de referência nesta parte da filmagem real\". Vou tentar isso da próxima vez.\n---"
+    },
+    "zh": {
+      "content": "---\n使用iPhone拍摄您喜欢的相机移动的AR预览，并将该视频剪辑传递给Seedance作为参考，可以在保持相同相机运动的情况下生成视频。\n\n--- 线程继续 ---\n[线程 1] 发帖时，我自己在想，将预览合成到实拍中是否有用呢...? 也许可以指定“在这段实拍的这个位置合成参考图像的对象”。下次我打算试试看。\n---"
+    }
+  }
+}
