@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **2805** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **1368** |
-| 🔄 最終更新 | **2026-06-30** |
+| 🔄 最終更新 | **2026-07-01** |
 
 ---
 
@@ -7601,4 +7601,4 @@ Specify an “Audio Profile” with explicit ambient elements (wind noise, seagu
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-06-30T21:40:14.718Z
+🤖 この README は自動生成されています。最終更新： 2026-07-01T04:03:28.286Z
