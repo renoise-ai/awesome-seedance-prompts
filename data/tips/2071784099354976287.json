@@ -1,0 +1,45 @@
+{
+  "id": "2071784099354976287",
+  "title": "プロンプトに「モーションブラー、足元のダストトレイル」を入れて動きのブラーと足元の砂埃の軌跡を付ける",
+  "content": "プロンプトに「モーションブラー、足元のダストトレイル」を入れて動きのブラーと足元の砂埃の軌跡を付ける  \nプロンプトに「ホワイトフラッシュ、バレットタイム」を入れて白フラッシュ演出とバレットタイム効果を出す  \nプロンプトに「POV 被弾視点」を入れて一人称の被弾視点（POV）演出にする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071783896962961408/img/iFWIIzj63nKBcJLA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071784099354976287.mp4",
+  "sourceLink": "https://x.com/Nezko2026/status/2071784099354976287",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "Nezko2026",
+    "link": "https://x.com/Nezko2026"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "Slow-Mo",
+    "POV"
+  ],
+  "tips": "プロンプトに「モーションブラー、足元のダストトレイル」を入れて動きのブラーと足元の砂埃の軌跡を付ける  \nプロンプトに「ホワイトフラッシュ、バレットタイム」を入れて白フラッシュ演出とバレットタイム効果を出す  \nプロンプトに「POV 被弾視点」を入れて一人称の被弾視点（POV）演出にする",
+  "translations": {
+    "en": {
+      "content": "Include \"motion blur, dust trail at feet\" in the prompt to add motion blur and a trail of dust at the feet.  \nInclude \"white flash, bullet time\" in the prompt to create a white flash effect and bullet time effect.  \nInclude \"POV hit perspective\" in the prompt to create a first-person hit perspective (POV) effect."
+    },
+    "es": {
+      "content": "Incluye en el prompt \"motion blur, dust trail at the feet\" para añadir desenfoque de movimiento y una estela de polvo en los pies.  \nIncluye en el prompt \"white flash, bullet time\" para crear un efecto de destello blanco y bullet time.  \nIncluye en el prompt \"POV 被弾視点\" para lograr una perspectiva de impacto en primera persona (POV)."
+    },
+    "fr": {
+      "content": "Ajoutez dans le prompt « motion blur, dust trail at feet » pour inclure un flou de mouvement et une traînée de poussière au sol.  \nAjoutez dans le prompt « white flash, bullet time » pour obtenir un effet de flash blanc et un effet bullet time.  \nAjoutez dans le prompt « POV 被弾視点 » pour créer une mise en scène en vue subjective de l'impact (POV)."
+    },
+    "ko": {
+      "content": "프로ンプ트에 \"모션블러, 발밑의 더스트트레일\"을 넣어 움직임의 블러와 발밑의 모래먼지 궤적을 추가하기  \n프로ンプ트에 \"화이트플래시, 불릿타임\"을 넣어 화이트 플래시 연출과 불릿타임 효과를 내기  \n프로ンプ트에 \"POV 피탄 시점\"을 넣어 1인칭 피탄 시점(POV) 연출로 만들기"
+    },
+    "pt": {
+      "content": "- Insira \"motion blur, dust trail at feet\" no prompt para adicionar o desfoque de movimento e a trilha de poeira nos pés  \n- Insira \"white flash, bullet time\" no prompt para criar o efeito de flash branco e bullet time  \n- Insira \"POV hit perspective\" no prompt para criar uma cena em primeira pessoa com a perspectiva de ser atingido (POV)"
+    },
+    "zh": {
+      "content": "在prompt中加入「モーションブラー、足元のダストトレイル」以添加运动模糊和足下的沙尘轨迹  \n在prompt中加入「ホワイトフラッシュ、バレットタイム」以实现白色闪光效果和子弹时间效果  \n在prompt中加入「POV 被弾視点」以呈现第一人称的被弹视角（POV）演出"
+    }
+  }
+}

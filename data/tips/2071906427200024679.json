@@ -1,0 +1,42 @@
+{
+  "id": "2071906427200024679",
+  "title": "構築したワークフロー上で仮想メンバーのオーディション（候補生成→比較→選定）を回してMV用キャラクターを決める",
+  "content": "構築したワークフロー上で仮想メンバーのオーディション（候補生成→比較→選定）を回してMV用キャラクターを決める  \n特徴空間の衝突を避けるため、Seedance 2.0生成時にビジュアル強化リファレンス（強めの参照画像/スタイル参照）を併用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071896387470397440/img/3Mhe0P2oTOxMSvY7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071906427200024679.mp4",
+  "sourceLink": "https://x.com/CreativeEdge_CL/status/2071906427200024679",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "link": "https://x.com/CreativeEdge_CL"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "構築したワークフロー上で仮想メンバーのオーディション（候補生成→比較→選定）を回してMV用キャラクターを決める  \n特徴空間の衝突を避けるため、Seedance 2.0生成時にビジュアル強化リファレンス（強めの参照画像/スタイル参照）を併用する",
+  "translations": {
+    "en": {
+      "content": "Run auditions for virtual members (candidate generation → comparison → selection) on the constructed workflow to decide on the MV character.  \nTo avoid collisions in the feature space, use visual enhancement references (strong reference images/style references) alongside Seedance 2.0 generation."
+    },
+    "es": {
+      "content": "---\nRealizar audiciones de miembros virtuales en el flujo de trabajo construido (generación de candidatos → comparación → selección) para decidir el personaje del MV  \nPara evitar colisiones en el espacio de características, utilizar referencias visuales de refuerzo (imágenes de referencia fuertes/estilo de referencia) al generar con Seedance 2.0\n---"
+    },
+    "fr": {
+      "content": "---\nFaire passer une audition pour les membres virtuels (génération de candidats → comparaison → sélection) sur le workflow construit pour déterminer les personnages de MV  \nAfin d'éviter les collisions dans l'espace des caractéristiques, utiliser des références visuelles renforcées (images de référence fortes/références de style) lors de la génération avec Seedance 2.0\n---"
+    },
+    "ko": {
+      "content": "구축한 워크플로우에서 가상 멤버의 오디션(후보 생성→비교→선정)을 진행하여 MV용 캐릭터를 결정합니다.  \n특징 공간의 충돌을 피하기 위해, Seedance 2.0 생성 시 비주얼 강화 레퍼런스(강한 참조 이미지/스타일 참조)를 병행합니다."
+    },
+    "pt": {
+      "content": "No fluxo de trabalho construído, realizamos audições para membros virtuais (geração de candidatos → comparação → seleção) para decidir os personagens do MV.  \nPara evitar colisões no espaço de características, utilizamos referências visuais de reforço (imagens de referência fortes/estilo de referência) durante a geração do Seedance 2.0."
+    },
+    "zh": {
+      "content": "在构建的工作流程上进行虚拟成员的试镜（候选生成→比较→选定），以确定MV用角色。  \n为了避免特征空间的冲突，在Seedance 2.0生成时，结合视觉增强参考（强烈的参考图像/风格参考）。"
+    }
+  }
+}

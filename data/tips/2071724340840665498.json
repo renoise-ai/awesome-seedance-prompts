@@ -4,7 +4,7 @@
   "content": "Feed a single reference image (e.g., your main character) into Seedance 2.0 as the input image, then write a detailed video prompt to generate the first shots.\n\nGrab a still image of an object/vehicle (e.g., a car) and combine it with your character reference image as inputs in Seedance 2.0 to generate new shots (e.g., driving through a city).\n\nGenerate entirely new characters in Seedance 2.0 by describing them directly in the video prompt (no reference image required).\n\nExtract still frames from your generated videos and reuse them as reference images for subsequent scenes to maintain continuity while mixing/combining characters across scenes.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/media/HMA_CTOXUAA4glK.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2071719848531329024/vid/avc1/1920x1080/twRke9r8bxWddqUC.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071724340840665498.mp4",
   "sourceLink": "https://x.com/techhalla/status/2071724340840665498",
   "sourcePublishedAt": "2026-06-29",
   "author": {

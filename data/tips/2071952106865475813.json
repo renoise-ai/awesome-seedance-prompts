@@ -1,0 +1,42 @@
+{
+  "id": "2071952106865475813",
+  "title": "Feed your source clip into Seedance 2.0 as a motion reference to preserve the…",
+  "content": "Feed your source clip into Seedance 2.0 as a motion reference to preserve the original performance timing.  \nPrompt Seedance to generate different camera perspectives while keeping the character singing.  \nExplicitly instruct Seedance to keep the exact rhythm and lip sync from the original clip.  \nRinse and repeat the same motion-reference workflow to generate additional alternate camera angles.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071951886161211392/img/Q6SnlHTvU9Vkexgm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071952106865475813.mp4",
+  "sourceLink": "https://x.com/techhalla/status/2071952106865475813",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "TechHalla",
+    "link": "https://x.com/techhalla"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Feed your source clip into Seedance 2.0 as a motion reference to preserve the original performance timing.  \nPrompt Seedance to generate different camera perspectives while keeping the character singing.  \nExplicitly instruct Seedance to keep the exact rhythm and lip sync from the original clip.  \nRinse and repeat the same motion-reference workflow to generate additional alternate camera angles.",
+  "translations": {
+    "es": {
+      "content": "Introduce tu clip fuente en Seedance 2.0 como una referencia de movimiento para preservar el tiempo de ejecución original.  \nPrompt Seedance to generate different camera perspectives while keeping the character singing.  \nInstruye explícitamente a Seedance para mantener el ritmo exacto y la sincronización labial del clip original.  \nRepite el mismo flujo de trabajo de referencia de movimiento para generar ángulos de cámara alternativos adicionales."
+    },
+    "fr": {
+      "content": "---\nIntégrez votre clip source dans Seedance 2.0 comme référence de mouvement pour préserver le timing de la performance originale.  \nPrompt Seedance pour générer différentes perspectives de caméra tout en gardant le personnage en train de chanter.  \nInstruisez explicitement Seedance de conserver le rythme exact et la synchronisation labiale du clip original.  \nRépétez le même flux de travail de référence de mouvement pour générer des angles de caméra alternatifs supplémentaires.\n---"
+    },
+    "ja": {
+      "content": "---\nオリジナルのパフォーマンスのタイミングを保持するために、ソースクリップをSeedance 2.0にモーションリファレンスとして入力します。  \nキャラクターが歌い続けるようにしながら、異なるカメラ視点を生成するようにSeedanceに指示します。  \nオリジナルクリップの正確なリズムとリップシンクを保持するようにSeedanceに明示的に指示します。  \n同じモーションリファレンスのワークフローを繰り返して、追加の代替カメラアングルを生成します。\n---"
+    },
+    "ko": {
+      "content": "---\n원본 클립을 Seedance 2.0에 모션 참조로 입력하여 원래의 퍼포먼스 타이밍을 유지하세요.  \nSeedance에 캐릭터가 노래를 부르는 동안 다양한 카메라 시점을 생성하도록 프롬프트를 입력하세요.  \nSeedance에 원본 클립의 정확한 리듬과 립싱크를 유지하도록 명확히 지시하세요.  \n같은 모션 참조 워크플로우를 반복하여 추가적인 대체 카메라 앵글을 생성하세요.\n---"
+    },
+    "pt": {
+      "content": "Insira seu clipe de origem no Seedance 2.0 como uma referência de movimento para preservar o tempo de execução original.  \nPrompt Seedance to generate different camera perspectives while keeping the character singing.  \nInstrua explicitamente o Seedance a manter o ritmo exato e a sincronização labial do clipe original.  \nRepita o mesmo fluxo de trabalho de referência de movimento para gerar ângulos de câmera alternativos adicionais."
+    },
+    "zh": {
+      "content": "将您的源剪辑输入Seedance 2.0作为运动参考，以保留原始表演的时间。  \nPrompt Seedance to generate different camera perspectives while keeping the character singing.  \n明确指示Seedance保持原始剪辑中的确切节奏和口型同步。  \n重复相同的运动参考工作流程，以生成其他备用摄像机角度。"
+    }
+  }
+}

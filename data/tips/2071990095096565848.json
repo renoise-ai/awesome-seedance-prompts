@@ -1,0 +1,42 @@
+{
+  "id": "2071990095096565848",
+  "title": "Create simple looping motion in Blender (via MCP/Claude Code), export it as a…",
+  "content": "Create simple looping motion in Blender (via MCP/Claude Code), export it as a reference video, then upload/pass that ref video into Seedance to stylize the loop.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071989913801940992/img/_IP88W5f7-BMRKHZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071990095096565848.mp4",
+  "sourceLink": "https://x.com/AIWarper/status/2071990095096565848",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "A.I.Warper",
+    "link": "https://x.com/AIWarper"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create simple looping motion in Blender (via MCP/Claude Code), export it as a reference video, then upload/pass that ref video into Seedance to stylize the loop.",
+  "translations": {
+    "es": {
+      "content": "Crea un movimiento de bucle simple en Blender (a través de MCP/Claude Code), expórtalo como un video de referencia, luego sube/pasa ese video de referencia a Seedance para estilizar el bucle."
+    },
+    "fr": {
+      "content": "Créez un mouvement simple en boucle dans Blender (via MCP/Claude Code), exportez-le en tant que vidéo de référence, puis téléchargez/passez cette vidéo de référence dans Seedance pour styliser la boucle."
+    },
+    "ja": {
+      "content": "Blenderでシンプルなループモーションを作成し（MCP/Claude Codeを使用）、それをリファレンスビデオとしてエクスポートします。その後、そのリファレンスビデオをSeedanceにアップロード/渡してループをスタイライズします。"
+    },
+    "ko": {
+      "content": "Blender에서 간단한 루핑 모션을 생성하고(MCP/Claude Code 사용), 이를 참조 비디오로 내보낸 후, 그 참조 비디오를 Seedance에 업로드/전달하여 루프를 스타일화하세요."
+    },
+    "pt": {
+      "content": "Crie um movimento simples em loop no Blender (via MCP/Claude Code), exporte-o como um vídeo de referência, depois faça o upload/passe esse vídeo de referência para o Seedance para estilizar o loop."
+    },
+    "zh": {
+      "content": "在Blender中创建简单的循环动画（通过MCP/Claude Code），将其导出为参考视频，然后上传/传递该参考视频到Seedance以对循环进行风格化处理。"
+    }
+  }
+}

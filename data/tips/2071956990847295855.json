@@ -1,0 +1,42 @@
+{
+  "id": "2071956990847295855",
+  "title": "Generate a start frame in Midjourney, then use it as the initial visual…",
+  "content": "Generate a start frame in Midjourney, then use it as the initial visual reference for your Seedance shot.  \nBlock out the scene in Blender and animate the camera to lock in precise camera movement before generating video.  \nFeed Seedance both the Midjourney start frame and the Blender previs/camera animation to transfer your planned composition and timing into the AI video.  \nUse Blender previs to solve composition, timing, and spatial clarity before running Seedance so the video model focuses on rendering rather than shot design.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071933582398939136/img/jXXJZ4xkT1CnA_7Q.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071956990847295855.mp4",
+  "sourceLink": "https://x.com/reidhannaford/status/2071956990847295855",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "Reid Hannaford",
+    "link": "https://x.com/reidhannaford"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a start frame in Midjourney, then use it as the initial visual reference for your Seedance shot.  \nBlock out the scene in Blender and animate the camera to lock in precise camera movement before generating video.  \nFeed Seedance both the Midjourney start frame and the Blender previs/camera animation to transfer your planned composition and timing into the AI video.  \nUse Blender previs to solve composition, timing, and spatial clarity before running Seedance so the video model focuses on rendering rather than shot design.",
+  "translations": {
+    "es": {
+      "content": "Genera un fotograma inicial en Midjourney, luego úsalo como referencia visual inicial para tu toma de Seedance.  \nBloquea la escena en Blender y anima la cámara para asegurar un movimiento de cámara preciso antes de generar el video.  \nProporciona a Seedance tanto el fotograma inicial de Midjourney como la previs/animación de cámara de Blender para transferir tu composición y sincronización planificadas al video de IA.  \nUtiliza la previs de Blender para resolver la composición, el tiempo y la claridad espacial antes de ejecutar Seedance, de modo que el modelo de video se concentre en el renderizado en lugar del diseño de la toma."
+    },
+    "fr": {
+      "content": "---\nGénérez une image de départ dans Midjourney, puis utilisez-la comme référence visuelle initiale pour votre prise Seedance.  \nBloquez la scène dans Blender et animez la caméra pour verrouiller un mouvement précis de la caméra avant de générer la vidéo.  \nFournissez à Seedance à la fois l'image de départ de Midjourney et l'animation de prévisualisation/caméra de Blender pour transférer votre composition et votre timing planifiés dans la vidéo AI.  \nUtilisez la prévisualisation de Blender pour résoudre la composition, le timing et la clarté spatiale avant de lancer Seedance afin que le modèle vidéo se concentre sur le rendu plutôt que sur la conception de la prise de vue."
+    },
+    "ja": {
+      "content": "---\nMidjourneyでスタートフレームを生成し、それをSeedanceショットの初期ビジュアルリファレンスとして使用します。  \nBlenderでシーンをブロックアウトし、カメラをアニメートして正確なカメラの動きを固定し、ビデオを生成する前に準備します。  \nMidjourneyのスタートフレームとBlenderのプレビズ/カメラアニメーションの両方をSeedanceに入力し、計画した構図とタイミングをAIビデオに転送します。  \nBlenderのプレビズを使用して、Seedanceを実行する前に構図、タイミング、空間の明確さを解決し、ビデオモデルがショットデザインではなくレンダリングに集中できるようにします。\n---"
+    },
+    "ko": {
+      "content": "---\nMidjourney에서 시작 프레임을 생성한 후, 이를 Seedance 촬영의 초기 시각적 참조로 사용하세요.  \nBlender에서 장면을 블록 아웃하고 카메라를 애니메이션하여 비디오를 생성하기 전에 정확한 카메라 움직임을 고정하세요.  \nSeedance에 Midjourney 시작 프레임과 Blender의 previs/카메라 애니메이션을 입력하여 계획된 구성과 타이밍을 AI 비디오에 전송하세요.  \nBlender previs를 사용하여 Seedance를 실행하기 전에 구성, 타이밍 및 공간 명확성을 해결하여 비디오 모델이 샷 디자인보다는 렌더링에 집중할 수 있도록 하세요.\n---"
+    },
+    "pt": {
+      "content": "Gere um quadro inicial no Midjourney e use-o como referência visual inicial para sua cena no Seedance.  \nBloqueie a cena no Blender e anime a câmera para definir movimentos precisos antes de gerar o vídeo.  \nForneça ao Seedance tanto o quadro inicial do Midjourney quanto a pré-visualização/animação de câmera do Blender para transferir sua composição e timing planejados para o vídeo de IA.  \nUse a pré-visualização do Blender para resolver composição, timing e clareza espacial antes de rodar o Seedance, para que o modelo de vídeo se concentre em renderizar em vez de projetar a cena."
+    },
+    "zh": {
+      "content": "在Midjourney中生成一个起始帧，然后将其用作Seedance镜头的初始视觉参考。  \n在Blender中搭建场景，并动画化相机以锁定精确的相机运动，然后再生成视频。  \n将Midjourney的起始帧和Blender的预演/相机动画输入Seedance，以将您计划的构图和时间传递到AI视频中。  \n在运行Seedance之前，使用Blender预演解决构图、时间和空间清晰度问题，以便视频模型专注于渲染而不是镜头设计。"
+    }
+  }
+}

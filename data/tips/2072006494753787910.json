@@ -1,0 +1,43 @@
+{
+  "id": "2072006494753787910",
+  "title": "Klingで感情のこもった実写風の演技動画を生成してから、その動画をKlingの動画参照に入れてグレーのポリゴン3D風に変換する",
+  "content": "Klingで感情のこもった実写風の演技動画を生成してから、その動画をKlingの動画参照に入れてグレーのポリゴン3D風に変換する  \nポリゴン3D化した動画をSeedanceの動画参照にし、アニメ用の静止画リファレンスも併用して生成すると感情豊かなアニメ風動画になりやすい  \nRunway経由のSeedanceではポリゴン化動画が性的判定で弾かれることがあるため、その場合は別経路でSeedanceを使うか入力動画を調整する  \nKlingは実写演技と3D化は得意だがアニメ化は苦手なので、アニメ化工程はSeedance（またはDomo AIなど）に任せる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072005883744440321/img/hptKnhXp6laLNBdr.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072006494753787910.mp4",
+  "sourceLink": "https://x.com/IntLab0000/status/2072006494753787910",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "Int.Lab",
+    "link": "https://x.com/IntLab0000"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Klingで感情のこもった実写風の演技動画を生成してから、その動画をKlingの動画参照に入れてグレーのポリゴン3D風に変換する  \nポリゴン3D化した動画をSeedanceの動画参照にし、アニメ用の静止画リファレンスも併用して生成すると感情豊かなアニメ風動画になりやすい  \nRunway経由のSeedanceではポリゴン化動画が性的判定で弾かれることがあるため、その場合は別経路でSeedanceを使うか入力動画を調整する  \nKlingは実写演技と3D化は得意だがアニメ化は苦手なので、アニメ化工程はSeedance（またはDomo AIなど）に任せる",
+  "translations": {
+    "en": {
+      "content": "---\nGenerate an emotionally charged live-action style video using Kling, then input that video into Kling's video reference to convert it into a gray polygon 3D style.  \nWhen you use the polygon 3D video as a reference in Seedance, along with still image references for anime, it tends to result in an emotionally rich anime-style video.  \nIn Seedance via Runway, polygonized videos may be rejected due to sexual content detection, so in such cases, either use Seedance through a different route or adjust the input video.  \nKling excels at live-action performance and 3D conversion but struggles with anime conversion, so leave the anime conversion process to Seedance (or Domo AI, etc.).\n\n--- THREAD CONTINUATION ---\n[Thread 1] Polygonization is quite a challenge. With videos like the attached one, (via Runway's Seedance) they are deemed sexual and cannot be generated.\n\nAdditionally, while Kling is natural with live-action performance and has very high accuracy in 3D conversion, it struggles with anime conversion. Although I haven't used it myself, Domo AI or others might yield good results besides Seedance. https://t.co/zl24sP8EDM\n---"
+    },
+    "es": {
+      "content": "---\nDespués de generar un video con actuación realista y emotiva en Kling, inserta ese video como referencia en Kling para convertirlo a un estilo 3D de polígonos grises.  \nSi usas el video convertido a 3D de polígonos como referencia en Seedance, y también utilizas referencias de imágenes estáticas para anime, es más probable que generes un video estilo anime lleno de emociones.  \nEn Seedance a través de Runway, el video convertido a polígonos puede ser rechazado por considerarse de contenido sexual, por lo que en ese caso, usa Seedance por otra vía o ajusta el video de entrada.  \nKling es experto en actuación realista y conversión a 3D, pero no es bueno en la animación, por lo que el proceso de animación debe dejarse a Seedance (o Domo AI, entre otros).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] La conversión a polígonos es bastante complicada. Con un video como el adjunto, (a través de Runway en Seedance) se considera sexual y no se puede generar.\n\nAdemás, Kling es natural en la actuación realista y la precisión de la conversión a 3D es muy alta, pero no es bueno en la animación. Aunque no lo he usado, fuera de Seedance, Domo AI podría dar buenos resultados. https://t.co/zl24sP8EDM\n---"
+    },
+    "fr": {
+      "content": "---\nAprès avoir généré une vidéo d'acteur en style réaliste avec Kling, insérez cette vidéo comme référence dans Kling pour la convertir en un style 3D de polygones gris.  \nEn utilisant la vidéo convertie en 3D de polygones comme référence dans Seedance, et en combinant également une référence d'image fixe pour l'animation, il est plus facile de générer une vidéo animée riche en émotions.  \nDans Seedance via Runway, la vidéo convertie en polygones peut être rejetée pour des raisons de contenu sexuel, donc dans ce cas, utilisez Seedance par un autre moyen ou ajustez la vidéo d'entrée.  \nKling est compétent pour les performances en direct et la conversion en 3D, mais a des difficultés avec l'animation, donc il est préférable de confier l'étape d'animation à Seedance (ou Domo AI, etc.).\n\n--- CONTINUATION DU FIL ---\n[Fil 1] La conversion en polygones est assez délicate. Avec une vidéo comme celle jointe, (via Runway dans Seedance) elle est considérée comme sexuelle et ne peut pas être générée.\n\nDe plus, Kling est naturel pour les performances en direct, et la précision de la conversion en 3D est très élevée, mais il a des difficultés avec l'animation. Je ne l'ai pas utilisé moi-même, mais en dehors de Seedance, Domo AI pourrait donner de bons résultats. https://t.co/zl24sP8EDM\n---"
+    },
+    "ko": {
+      "content": "---\nKling에서 감정이 담긴 실사풍 연기 영상을 생성한 후, 그 영상을 Kling의 영상 참조에 넣어 회색 폴리곤 3D 스타일로 변환합니다.  \n폴리곤 3D화한 영상을 Seedance의 영상 참조로 사용하고, 애니메이션용 정지화면 참조도 병행하여 생성하면 감정이 풍부한 애니메이션 스타일의 영상이 되기 쉽습니다.  \nRunway 경유의 Seedance에서는 폴리곤화 영상이 성적 판정으로 거부될 수 있으므로, 그 경우에는 다른 경로로 Seedance를 사용하거나 입력 영상을 조정해야 합니다.  \nKling은 실사 연기와 3D화는 뛰어나지만 애니메이션화는 약하기 때문에, 애니메이션화 과정은 Seedance(또는 Domo AI 등)에 맡기는 것이 좋습니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 폴리곤화는 꽤 어려운 부분입니다. 첨부된 것과 같은 영상은 (Runway 경유의 Seedance에서는) 성적으로 간주되어 생성할 수 없습니다.\n\n또한, Kling은 실사 연기가 자연스럽고, 3D화의 정확도도 매우 높지만, 애니메이션화는 약합니다. 저는 사용해보지 않았지만, Seedance 외에는 Domo AI 등에서 좋은 결과가 나올 수 있을지도 모릅니다. https://t.co/zl24sP8EDM\n---"
+    },
+    "pt": {
+      "content": "---\nGere um vídeo de atuação realista e emocional com Kling e, em seguida, insira esse vídeo como referência no Kling para convertê-lo em um estilo 3D de polígonos cinza.  \nAo usar o vídeo convertido em 3D de polígonos como referência no Seedance, juntamente com referências de imagens estáticas para anime, é mais provável que se obtenha um vídeo animado rico em emoções.  \nNo Seedance via Runway, o vídeo convertido em polígonos pode ser rejeitado por ser considerado de natureza sexual; nesse caso, use outra rota para o Seedance ou ajuste o vídeo de entrada.  \nKling é excelente em atuação realista e conversão para 3D, mas não é bom em animação, então a etapa de animação deve ser deixada para o Seedance (ou Domo AI, entre outros).\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] A conversão para polígonos é bastante desafiadora. Com vídeos como o anexo, (via Seedance no Runway) eles são considerados de natureza sexual e não podem ser gerados.\n\nAlém disso, o Kling é natural em atuação realista e a precisão da conversão para 3D é muito alta, mas ele não é bom em animação. Eu não usei, mas fora o Seedance, talvez o Domo AI possa dar bons resultados. https://t.co/zl24sP8EDM\n---"
+    },
+    "zh": {
+      "content": "---\n在Kling中生成带有情感的真人风格演技视频，然后将该视频输入Kling的视频参考中，转换为灰色多边形3D风格。  \n将多边形3D化的视频作为Seedance的视频参考，同时结合动画用的静止图像参考进行生成，更容易得到情感丰富的动画风格视频。  \n通过Runway的Seedance可能会因为多边形化视频被判定为色情而被拒绝生成，这种情况下，可以通过其他途径使用Seedance或调整输入视频。  \nKling擅长真人演技和3D化，但不擅长动画化，因此动画化过程可以交给Seedance（或Domo AI等）来完成。\n\n--- 线程继续 ---\n[线程 1] 多边形化是个难点。像附件中的视频，（通过Runway的Seedance）会被视为色情而无法生成。\n\n另外，Kling的真人演技自然，3D化的精度也非常高，但不擅长动画化。虽然我没有使用过，但除了Seedance，Domo AI等可能会有不错的结果。 https://t.co/zl24sP8EDM\n---"
+    }
+  }
+}

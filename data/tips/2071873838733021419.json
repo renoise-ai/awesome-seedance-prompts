@@ -1,0 +1,42 @@
+{
+  "id": "2071873838733021419",
+  "title": "ステップ1：最初の1枚の画像を生成して、物語の雰囲気と色彩スタイル（世界観）を先に固定する",
+  "content": "ステップ1：最初の1枚の画像を生成して、物語の雰囲気と色彩スタイル（世界観）を先に固定する  \nステップ2：その1枚を基準にキャラクター設定と絵コンテを作り、Seedance 2.0で連続した映像（ショート動画）に変換する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071860788424331265/img/BOrlYF8ffxASR634.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071873838733021419.mp4",
+  "sourceLink": "https://x.com/PolloAIJP/status/2071873838733021419",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "Pollo AI 日本公式",
+    "link": "https://x.com/PolloAIJP"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "ステップ1：最初の1枚の画像を生成して、物語の雰囲気と色彩スタイル（世界観）を先に固定する  \nステップ2：その1枚を基準にキャラクター設定と絵コンテを作り、Seedance 2.0で連続した映像（ショート動画）に変換する",
+  "translations": {
+    "en": {
+      "content": "Step 1: Generate the first image to establish the mood and color style (worldview) of the story  \nStep 2: Based on that image, create character settings and a storyboard, and convert it into a continuous video (short video) using Seedance 2.0"
+    },
+    "es": {
+      "content": "Paso 1: Generar la primera imagen para fijar primero la atmósfera de la historia y el estilo de color (mundo visual)  \nPaso 2: Basándose en esa imagen, crear la configuración de los personajes y el storyboard, y convertirlo en un video continuo (corto) con Seedance 2.0"
+    },
+    "fr": {
+      "content": "Étape 1 : Générer la première image pour fixer d'abord l'ambiance de l'histoire et le style colorimétrique (univers visuel).  \nÉtape 2 : Utiliser cette image comme référence pour créer les paramètres des personnages et le storyboard, puis les convertir en une séquence vidéo continue (court-métrage) avec Seedance 2.0."
+    },
+    "ko": {
+      "content": "스텝 1: 첫 번째 이미지 한 장을 생성하여 이야기의 분위기와 색채 스타일(세계관)을 먼저 고정합니다.  \n스텝 2: 그 한 장을 기준으로 캐릭터 설정과 스토리보드를 만들어 Seedance 2.0으로 연속된 영상(쇼트 비디오)으로 변환합니다."
+    },
+    "pt": {
+      "content": "Passo 1: Gere a primeira imagem para definir antecipadamente a atmosfera da história e o estilo de cores (mundo visual)  \nPasso 2: Com base nessa imagem, crie a configuração dos personagens e o storyboard, e converta em um vídeo contínuo (curta-metragem) usando o Seedance 2.0"
+    },
+    "zh": {
+      "content": "步骤1：生成第一张图像，先固定故事的氛围和色彩风格（世界观）  \n步骤2：以那一张为基准，进行角色设定和分镜制作，并使用Seedance 2.0转换为连续的影像（短视频）"
+    }
+  }
+}

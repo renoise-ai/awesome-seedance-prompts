@@ -1,0 +1,42 @@
+{
+  "id": "2071831165116330380",
+  "title": "Use CHARACTER REFS in Seedance 2.0 to lock a character’s identity for…",
+  "content": "Use CHARACTER REFS in Seedance 2.0 to lock a character’s identity for frame-by-frame consistency (no face swap, no outfit change) by specifying the character name/description and attaching a reference image/link.",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071829144011206656/img/ZxWsAm2s0gEtnVxH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071831165116330380.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2071831165116330380",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use CHARACTER REFS in Seedance 2.0 to lock a character’s identity for frame-by-frame consistency (no face swap, no outfit change) by specifying the character name/description and attaching a reference image/link.",
+  "translations": {
+    "en": {
+      "content": "Utiliza CHARACTER REFS en Seedance 2.0 para fijar la identidad de un personaje y asegurar la consistencia cuadro por cuadro (sin cambio de rostro ni de vestuario) especificando el nombre/descripción del personaje y adjuntando una imagen de referencia/enlace."
+    },
+    "es": {
+      "content": "Utiliza CHARACTER REFS en Seedance 2.0 para fijar la identidad de un personaje y asegurar la consistencia cuadro por cuadro (sin cambio de rostro, sin cambio de vestuario) especificando el nombre/descripción del personaje y adjuntando una imagen/enlace de referencia."
+    },
+    "fr": {
+      "content": "Utilisez CHARACTER REFS dans Seedance 2.0 pour verrouiller l'identité d'un personnage afin d'assurer une cohérence image par image (pas de changement de visage, pas de changement de tenue) en spécifiant le nom/la description du personnage et en joignant une image de référence/lien."
+    },
+    "ja": {
+      "content": "Seedance 2.0のCHARACTER REFSを使用して、キャラクター名/説明を指定し、参照画像/リンクを添付することで、フレームごとの一貫性を保ち、キャラクターのアイデンティティを固定します（顔の入れ替えや衣装の変更なし）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 CHARACTER REFS를 사용하여 캐릭터 이름/설명을 지정하고 참조 이미지/링크를 첨부하여 프레임별 일관성을 위해 캐릭터의 정체성을 고정하세요 (얼굴 교체 없음, 의상 변경 없음)."
+    },
+    "pt": {
+      "content": "Use CHARACTER REFS no Seedance 2.0 para fixar a identidade de um personagem para consistência quadro a quadro (sem troca de rosto, sem mudança de roupa) especificando o nome/descrição do personagem e anexando uma imagem/link de referência."
+    }
+  }
+}

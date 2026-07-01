@@ -1,0 +1,42 @@
+{
+  "id": "2071896528323830150",
+  "title": "ChatGPTでキャラ設定（髪型・服・色・特徴）を文章で確定してからSeedanceに使う",
+  "content": "ChatGPTでキャラ設定（髪型・服・色・特徴）を文章で確定してからSeedanceに使う  \n確定したキャラ設定で原型画像を1枚生成し、その画像を全カットの基準（参照）としてSeedanceで使って顔ブレを抑える",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071866192587784192/img/NdgPiY0NfYQgcqbQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2071896528323830150.mp4",
+  "sourceLink": "https://x.com/mov_nakanohito/status/2071896528323830150",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "P@動画編集の中の人",
+    "link": "https://x.com/mov_nakanohito"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ChatGPTでキャラ設定（髪型・服・色・特徴）を文章で確定してからSeedanceに使う  \n確定したキャラ設定で原型画像を1枚生成し、その画像を全カットの基準（参照）としてSeedanceで使って顔ブレを抑える",
+  "translations": {
+    "en": {
+      "content": "---\nAfter finalizing character settings (hairstyle, clothing, color, features) in text with ChatGPT, use them in Seedance.  \nGenerate a prototype image with the finalized character settings and use that image as a reference for all cuts in Seedance to minimize facial inconsistencies.\n---"
+    },
+    "es": {
+      "content": "---\nDespués de confirmar la configuración del personaje (peinado, ropa, color, características) en ChatGPT, utilízala en Seedance.  \nGenera una imagen prototipo con la configuración confirmada del personaje y úsala como referencia para todas las tomas en Seedance para minimizar las inconsistencias faciales.\n---"
+    },
+    "fr": {
+      "content": "Après avoir défini les paramètres du personnage (coiffure, vêtements, couleurs, caractéristiques) dans ChatGPT, utilisez-les dans Seedance.  \nGénérez une image prototype avec les paramètres définis et utilisez cette image comme référence pour toutes les scènes dans Seedance afin de minimiser les variations de visage."
+    },
+    "ko": {
+      "content": "ChatGPT에서 캐릭터 설정(헤어스타일, 의상, 색상, 특징)을 문장으로 확정한 후 Seedance에 사용  \n확정된 캐릭터 설정으로 원형 이미지를 1장 생성하고, 그 이미지를 모든 컷의 기준(참조)으로 Seedance에서 사용하여 얼굴 변화를 줄임"
+    },
+    "pt": {
+      "content": "---\nApós definir as configurações do personagem (cabelo, roupa, cor, características) no ChatGPT, use-as no Seedance  \nGere uma imagem protótipo com as configurações definidas e use essa imagem como referência para todos os cortes no Seedance para minimizar a variação facial\n---"
+    },
+    "zh": {
+      "content": "在ChatGPT中用文字确定角色设定（发型、服装、颜色、特点），然后用于Seedance  \n用确定的角色设定生成一张原型图片，并在Seedance中将该图片作为所有镜头的基准（参考），以减少面部变化"
+    }
+  }
+}

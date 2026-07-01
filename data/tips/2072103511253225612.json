@@ -1,0 +1,41 @@
+{
+  "id": "2072103511253225612",
+  "title": "Use a Midjourney-generated still as Seedance’s reference image to animate a…",
+  "content": "Use a Midjourney-generated still as Seedance’s reference image to animate a scene.\n\nInclude “Use the provided reference image as the only visual reference” to force Seedance to follow the uploaded image.\n\nAdd explicit locking instructions (Lock exact character designs, body proportions, skin texture, armor and overall aesthetic) to keep characters consistent across the clip.\n\nStructure the prompt as a timed shot list (e.g., 0–4s, 4–7s, etc.) with named camera moves (Dynamic Low-Angle Tracking Shot, Slow-Motion Push-In, Sharp Cut, Rack Focus) to control pacing and cinematography.\n\nSpecify output/quality targets in the prompt (perfect FHD resolution, Unreal Engine 5 photorealistic CGI, dramatic volumetric lighting, intense contrast, perfect motion blur, heavy particle simulation, no artifacts) to push for cinematic realism and cleaner renders.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/techhalla/status/2072103511253225612",
+  "sourcePublishedAt": "2026-06-30",
+  "author": {
+    "name": "TechHalla",
+    "link": "https://x.com/techhalla"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a Midjourney-generated still as Seedance’s reference image to animate a scene.\n\nInclude “Use the provided reference image as the only visual reference” to force Seedance to follow the uploaded image.\n\nAdd explicit locking instructions (Lock exact character designs, body proportions, skin texture, armor and overall aesthetic) to keep characters consistent across the clip.\n\nStructure the prompt as a timed shot list (e.g., 0–4s, 4–7s, etc.) with named camera moves (Dynamic Low-Angle Tracking Shot, Slow-Motion Push-In, Sharp Cut, Rack Focus) to control pacing and cinematography.\n\nSpecify output/quality targets in the prompt (perfect FHD resolution, Unreal Engine 5 photorealistic CGI, dramatic volumetric lighting, intense contrast, perfect motion blur, heavy particle simulation, no artifacts) to push for cinematic realism and cleaner renders.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una imagen fija generada por Midjourney como imagen de referencia de Seedance para animar una escena.\n\nIncluye “Use the provided reference image as the only visual reference” para obligar a Seedance a seguir la imagen cargada.\n\nAñade instrucciones explícitas de bloqueo (Lock exact character designs, body proportions, skin texture, armor and overall aesthetic) para mantener la consistencia de los personajes a lo largo del clip.\n\nEstructura el prompt como una lista de tomas cronometradas (por ejemplo, 0–4s, 4–7s, etc.) con movimientos de cámara nombrados (Dynamic Low-Angle Tracking Shot, Slow-Motion Push-In, Sharp Cut, Rack Focus) para controlar el ritmo y la cinematografía.\n\nEspecifica objetivos de salida/calidad en el prompt (perfect FHD resolution, Unreal Engine 5 photorealistic CGI, dramatic volumetric lighting, intense contrast, perfect motion blur, heavy particle simulation, no artifacts) para impulsar el realismo cinematográfico y obtener renders más limpios."
+    },
+    "fr": {
+      "content": "Utilisez une image fixe générée par Midjourney comme image de référence pour Seedance afin d'animer une scène.\n\nIncluez « Use the provided reference image as the only visual reference » pour obliger Seedance à suivre l'image téléchargée.\n\nAjoutez des instructions explicites de verrouillage (Lock exact character designs, body proportions, skin texture, armor and overall aesthetic) pour maintenir la cohérence des personnages tout au long du clip.\n\nStructurez le prompt comme une liste de plans chronométrés (par exemple, 0–4s, 4–7s, etc.) avec des mouvements de caméra nommés (Dynamic Low-Angle Tracking Shot, Slow-Motion Push-In, Sharp Cut, Rack Focus) pour contrôler le rythme et la cinématographie.\n\nSpécifiez les objectifs de sortie/qualité dans le prompt (perfect FHD resolution, Unreal Engine 5 photorealistic CGI, dramatic volumetric lighting, intense contrast, perfect motion blur, heavy particle simulation, no artifacts) pour viser un réalisme cinématographique et des rendus plus propres."
+    },
+    "ja": {
+      "content": "---\nMidjourneyで生成された静止画をSeedanceの参照画像として使用し、シーンをアニメーション化します。\n\n「提供された参照画像を唯一のビジュアル参照として使用する」と記載し、Seedanceがアップロードされた画像に従うようにします。\n\nキャラクターの一貫性を保つために、明確なロック指示（正確なキャラクターデザイン、体の比率、肌の質感、鎧、全体的な美学をロック）を追加します。\n\nプロンプトをタイムショットリスト（例：0–4秒、4–7秒など）として構成し、カメラの動きを名前付きで指定（Dynamic Low-Angle Tracking Shot, Slow-Motion Push-In, Sharp Cut, Rack Focus）し、ペースと撮影技術を制御します。\n\nプロンプトで出力/品質目標を指定（完璧なFHD解像度、Unreal Engine 5のフォトリアリスティックCGI、劇的なボリュメトリックライティング、強烈なコントラスト、完璧なモーションブラー、重いパーティクルシミュレーション、アーティファクトなし）し、映画的リアリズムとクリーンなレンダリングを追求します。"
+    },
+    "ko": {
+      "content": "Midjourney로 생성된 스틸 이미지를 Seedance의 참조 이미지로 사용하여 장면을 애니메이션화합니다.\n\nSeedance가 업로드된 이미지를 따르도록 하기 위해 \"Use the provided reference image as the only visual reference\"를 포함하세요.\n\n클립 전반에 걸쳐 캐릭터의 일관성을 유지하기 위해 명확한 잠금 지침(정확한 캐릭터 디자인, 신체 비율, 피부 질감, 갑옷 및 전반적인 미학 잠금)을 추가하세요.\n\n프롬프트를 타이밍된 샷 리스트(예: 0–4초, 4–7초 등)로 구성하고, 명명된 카메라 이동(Dynamic Low-Angle Tracking Shot, Slow-Motion Push-In, Sharp Cut, Rack Focus)을 포함하여 페이싱과 촬영 기법을 제어하세요.\n\n프롬프트에 출력/품질 목표(완벽한 FHD 해상도, Unreal Engine 5의 포토리얼리스틱 CGI, 극적인 볼류메트릭 조명, 강렬한 대비, 완벽한 모션 블러, 강력한 입자 시뮬레이션, 아티팩트 없음)를 명시하여 영화적 리얼리즘과 더 깨끗한 렌더링을 추구하세요."
+    },
+    "pt": {
+      "content": "Use uma imagem estática gerada pelo Midjourney como imagem de referência do Seedance para animar uma cena.\n\nInclua “Use the provided reference image as the only visual reference” para forçar o Seedance a seguir a imagem carregada.\n\nAdicione instruções explícitas de bloqueio (Lock exact character designs, body proportions, skin texture, armor and overall aesthetic) para manter a consistência dos personagens ao longo do clipe.\n\nEstruture o prompt como uma lista de tomadas cronometradas (por exemplo, 0–4s, 4–7s, etc.) com movimentos de câmera nomeados (Dynamic Low-Angle Tracking Shot, Slow-Motion Push-In, Sharp Cut, Rack Focus) para controlar o ritmo e a cinematografia.\n\nEspecifique metas de saída/qualidade no prompt (perfect FHD resolution, Unreal Engine 5 photorealistic CGI, dramatic volumetric lighting, intense contrast, perfect motion blur, heavy particle simulation, no artifacts) para buscar realismo cinematográfico e renderizações mais limpas."
+    },
+    "zh": {
+      "content": "使用 Midjourney 生成的静态图像作为 Seedance 的参考图像来动画一个场景。\n\n包括“Use the provided reference image as the only visual reference”以强制 Seedance 遵循上传的图像。\n\n添加明确的锁定指令（锁定精确的角色设计、身体比例、皮肤纹理、盔甲和整体美学）以保持角色在整个剪辑中的一致性。\n\n将提示结构化为一个定时镜头列表（例如，0–4秒，4–7秒等），并命名摄像机移动（Dynamic Low-Angle Tracking Shot, Slow-Motion Push-In, Sharp Cut, Rack Focus）以控制节奏和摄影。\n\n在提示中指定输出/质量目标（完美的 FHD 分辨率，Unreal Engine 5 逼真 CGI，戏剧性的体积照明，强烈的对比度，完美的运动模糊，重粒子模拟，无瑕疵）以推动电影般的真实感和更清晰的渲染。"
+    }
+  }
+}
