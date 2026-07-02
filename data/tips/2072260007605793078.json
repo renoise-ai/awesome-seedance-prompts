@@ -1,0 +1,45 @@
+{
+  "id": "2072260007605793078",
+  "title": "Generate a storyboard first with GPT Images 2.0, then feed those storyboard…",
+  "content": "Generate a storyboard first with GPT Images 2.0, then feed those storyboard frames/scenes into Seedance 2.0 to drive the video generation.\n\nUse Higgsfield MCP to connect your agent (e.g., Claude Sonnet 5 or Opus 4.8) to Seedance 2.0 so it can inject scenes and control the multi-modal video pipeline end-to-end.\n\nFor a faster, lower-cost Seedance 2.0 output with an action-film feel, instruct the directing agent to use fast cuts and dynamic pacing.\n\nFor a more “cinematic” Seedance 2.0 output, instruct the directing agent to prioritize motion physics, lighting detail, and depth control.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/EngMoElgaraihy/status/2072260007605793078",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "Mo Elgaraihy",
+    "link": "https://x.com/EngMoElgaraihy"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate a storyboard first with GPT Images 2.0, then feed those storyboard frames/scenes into Seedance 2.0 to drive the video generation.\n\nUse Higgsfield MCP to connect your agent (e.g., Claude Sonnet 5 or Opus 4.8) to Seedance 2.0 so it can inject scenes and control the multi-modal video pipeline end-to-end.\n\nFor a faster, lower-cost Seedance 2.0 output with an action-film feel, instruct the directing agent to use fast cuts and dynamic pacing.\n\nFor a more “cinematic” Seedance 2.0 output, instruct the directing agent to prioritize motion physics, lighting detail, and depth control.",
+  "translations": {
+    "en": {
+      "content": "---\nFirst, generate a storyboard with GPT Images 2.0, then input those storyboard frames/scenes into Seedance 2.0 to guide the video generation.\n\nUse Higgsfield MCP to connect your agent (e.g., Claude Sonnet 5 or Opus 4.8) to Seedance 2.0 so it can inject scenes and control the multi-modal video pipeline from start to finish.\n\nFor a faster, lower-cost Seedance 2.0 output with an action-film feel, instruct the directing agent to use fast cuts and dynamic pacing.\n\nFor a more “cinematic” Seedance 2.0 output, instruct the directing agent to prioritize motion physics, lighting detail, and depth control.\n\n--- QUOTED TWEET ---\nSonnet 5 vs Opus 4.8 on another agentic video pipeline.\n\nBoth generated a storyboard with GPT Images 2.0, then fed it into Seedance 2.0, all through Higgsfield MCP on Claude.\n\nSame quality, but each directed Seedance 2.0 completely differently. https://t.co/nMmOi77juf\n---"
+    },
+    "es": {
+      "content": "Genera un storyboard primero con GPT Images 2.0, luego introduce esos fotogramas/escenas del storyboard en Seedance 2.0 para impulsar la generación de video.\n\nUsa Higgsfield MCP para conectar tu agente (por ejemplo, Claude Sonnet 5 u Opus 4.8) a Seedance 2.0 para que pueda inyectar escenas y controlar la canalización de video multimodal de principio a fin.\n\nPara una salida de Seedance 2.0 más rápida y económica con una sensación de película de acción, instruye al agente director para que use cortes rápidos y un ritmo dinámico.\n\nPara una salida de Seedance 2.0 más \"cinematográfica\", instruye al agente director para que priorice la física del movimiento, el detalle de la iluminación y el control de la profundidad.\n\n--- TWEET CITADO ---\nSonnet 5 vs Opus 4.8 en otra canalización de video agencial.\n\nAmbos generaron un storyboard con GPT Images 2.0, luego lo introdujeron en Seedance 2.0, todo a través de Higgsfield MCP en Claude.\n\nMisma calidad, pero cada uno dirigió Seedance 2.0 de manera completamente diferente. https://t.co/nMmOi77juf"
+    },
+    "fr": {
+      "content": "Générez d'abord un storyboard avec GPT Images 2.0, puis intégrez ces cadres/scènes de storyboard dans Seedance 2.0 pour piloter la génération vidéo.\n\nUtilisez Higgsfield MCP pour connecter votre agent (par exemple, Claude Sonnet 5 ou Opus 4.8) à Seedance 2.0 afin qu'il puisse injecter des scènes et contrôler le pipeline vidéo multimodal de bout en bout.\n\nPour une sortie Seedance 2.0 plus rapide et moins coûteuse avec une ambiance de film d'action, instruisez l'agent de réalisation d'utiliser des coupes rapides et un rythme dynamique.\n\nPour une sortie Seedance 2.0 plus « cinématographique », instruisez l'agent de réalisation de privilégier la physique du mouvement, le détail de l'éclairage et le contrôle de la profondeur.\n\n--- TWEET CITÉ ---\nSonnet 5 vs Opus 4.8 sur un autre pipeline vidéo agentique.\n\nLes deux ont généré un storyboard avec GPT Images 2.0, puis l'ont intégré dans Seedance 2.0, le tout via Higgsfield MCP sur Claude.\n\nMême qualité, mais chacun a dirigé Seedance 2.0 de manière complètement différente. https://t.co/nMmOi77juf"
+    },
+    "ja": {
+      "content": "---\nまずGPT Images 2.0でストーリーボードを生成し、そのストーリーボードのフレーム/シーンをSeedance 2.0に入力してビデオ生成を行います。\n\nHiggsfield MCPを使用して、エージェント（例：Claude Sonnet 5またはOpus 4.8）をSeedance 2.0に接続し、シーンを挿入し、マルチモーダルビデオパイプラインをエンドツーエンドで制御できるようにします。\n\nアクション映画のような感覚で、より速く、低コストのSeedance 2.0出力を得るためには、演出エージェントにファストカットとダイナミックなペーシングを使用するよう指示します。\n\nより「シネマティック」なSeedance 2.0出力を得るためには、演出エージェントにモーションフィジックス、ライティングの詳細、深度制御を優先するよう指示します。\n\n--- QUOTED TWEET ---\nSonnet 5 vs Opus 4.8 on another agentic video pipeline.\n\nBoth generated a storyboard with GPT Images 2.0, then fed it into Seedance 2.0, all through Higgsfield MCP on Claude.\n\nSame quality, but each directed Seedance 2.0 completely differently. https://t.co/nMmOi77juf\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 GPT Images 2.0으로 스토리보드를 생성한 후, 그 스토리보드 프레임/장면을 Seedance 2.0에 입력하여 비디오 생성에 활용하세요.\n\nHiggsfield MCP를 사용하여 에이전트(예: Claude Sonnet 5 또는 Opus 4.8)를 Seedance 2.0에 연결하면 장면을 삽입하고 멀티모달 비디오 파이프라인을 처음부터 끝까지 제어할 수 있습니다.\n\n액션 영화 느낌의 빠르고 저렴한 Seedance 2.0 출력을 원한다면, 연출 에이전트에게 빠른 컷과 역동적인 페이싱을 사용하도록 지시하세요.\n\n더 \"시네마틱\"한 Seedance 2.0 출력을 원한다면, 연출 에이전트에게 모션 물리학, 조명 디테일, 깊이 제어를 우선시하도록 지시하세요.\n\n--- 인용된 트윗 ---\nSonnet 5 vs Opus 4.8 또 다른 에이전틱 비디오 파이프라인에서.\n\n둘 다 GPT Images 2.0으로 스토리보드를 생성한 후, Claude를 통해 Higgsfield MCP로 Seedance 2.0에 입력했습니다.\n\n같은 품질이지만, 각각 Seedance 2.0을 완전히 다르게 연출했습니다. https://t.co/nMmOi77juf\n---"
+    },
+    "pt": {
+      "content": "Gere um storyboard primeiro com o GPT Images 2.0, depois insira esses quadros/cenas do storyboard no Seedance 2.0 para conduzir a geração do vídeo.\n\nUse o Higgsfield MCP para conectar seu agente (por exemplo, Claude Sonnet 5 ou Opus 4.8) ao Seedance 2.0 para que ele possa injetar cenas e controlar o pipeline de vídeo multimodal de ponta a ponta.\n\nPara uma saída do Seedance 2.0 mais rápida e de menor custo com uma sensação de filme de ação, instrua o agente diretor a usar cortes rápidos e ritmo dinâmico.\n\nPara uma saída do Seedance 2.0 mais “cinematográfica”, instrua o agente diretor a priorizar a física do movimento, detalhes de iluminação e controle de profundidade.\n\n--- TWEET CITADO ---\nSonnet 5 vs Opus 4.8 em outro pipeline de vídeo agentic.\n\nAmbos geraram um storyboard com o GPT Images 2.0, depois o inseriram no Seedance 2.0, tudo através do Higgsfield MCP no Claude.\n\nMesma qualidade, mas cada um dirigiu o Seedance 2.0 de maneira completamente diferente. https://t.co/nMmOi77juf"
+    },
+    "zh": {
+      "content": "首先使用GPT Images 2.0生成分镜，然后将这些分镜/场景输入Seedance 2.0以驱动视频生成。\n\n使用Higgsfield MCP将您的代理（例如Claude Sonnet 5或Opus 4.8）连接到Seedance 2.0，以便它可以注入场景并端到端控制多模态视频管道。\n\n为了获得更快、更低成本且具有动作电影风格的Seedance 2.0输出，指示导演代理使用快速剪辑和动态节奏。\n\n为了获得更“电影化”的Seedance 2.0输出，指示导演代理优先考虑运动物理、光照细节和深度控制。\n\n--- 引用推文 ---\nSonnet 5与Opus 4.8在另一个代理视频管道上。\n\n两者都使用GPT Images 2.0生成了分镜，然后通过Claude上的Higgsfield MCP将其输入Seedance 2.0。\n\n质量相同，但每个都以完全不同的方式指导了Seedance 2.0。https://t.co/nMmOi77juf"
+    }
+  }
+}

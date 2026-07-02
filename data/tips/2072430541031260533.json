@@ -1,0 +1,42 @@
+{
+  "id": "2072430541031260533",
+  "title": "Add basic camera movement and simple subject animation in your 3D animation…",
+  "content": "Add basic camera movement and simple subject animation in your 3D animation software, then use Seedance to recreate the same camera movement and subject animation closely.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072430118576828416/img/7qJKQ_AYVEbyIEU8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072430541031260533.mp4",
+  "sourceLink": "https://x.com/GumVue/status/2072430541031260533",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "Gumvue Studio",
+    "link": "https://x.com/GumVue"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add basic camera movement and simple subject animation in your 3D animation software, then use Seedance to recreate the same camera movement and subject animation closely.",
+  "translations": {
+    "es": {
+      "content": "Agrega movimiento básico de cámara y animación simple del sujeto en tu software de animación 3D, luego utiliza Seedance para recrear el mismo movimiento de cámara y animación del sujeto de manera cercana."
+    },
+    "fr": {
+      "content": "Ajoutez un mouvement de caméra basique et une animation simple du sujet dans votre logiciel d'animation 3D, puis utilisez Seedance pour recréer de manière fidèle le même mouvement de caméra et l'animation du sujet."
+    },
+    "ja": {
+      "content": "3Dアニメーションソフトウェアで基本的なカメラの動きと簡単な被写体のアニメーションを追加し、その後、Seedanceを使用して同じカメラの動きと被写体のアニメーションを忠実に再現してください。"
+    },
+    "ko": {
+      "content": "3D 애니메이션 소프트웨어에서 기본적인 카메라 움직임과 간단한 주제 애니메이션을 추가한 후, Seedance를 사용하여 동일한 카메라 움직임과 주제 애니메이션을 가깝게 재현하세요."
+    },
+    "pt": {
+      "content": "Adicione movimento básico de câmera e animação simples de sujeito no seu software de animação 3D, depois use o Seedance para recriar o mesmo movimento de câmera e animação de sujeito de forma aproximada."
+    },
+    "zh": {
+      "content": "在你的3D动画软件中添加基本的镜头移动和简单的主体动画，然后使用Seedance尽可能精确地重现相同的镜头移动和主体动画。"
+    }
+  }
+}

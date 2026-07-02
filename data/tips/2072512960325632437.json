@@ -1,0 +1,42 @@
+{
+  "id": "2072512960325632437",
+  "title": "Use Seedance 2.0 with a clean motion-rig blocking/reference to transfer the…",
+  "content": "Use Seedance 2.0 with a clean motion-rig blocking/reference to transfer the exact pose and motion into a stylized 4K output (e.g., preserving cape sway, landing weight, and punch follow-through).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072511839733448704/img/vehxtOs61TQiqjp_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072512960325632437.mp4",
+  "sourceLink": "https://x.com/PixVerse_/status/2072512960325632437",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "PixVerse",
+    "link": "https://x.com/PixVerse_"
+  },
+  "tags": [
+    "Action",
+    "Superpower",
+    "3D Animation",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 with a clean motion-rig blocking/reference to transfer the exact pose and motion into a stylized 4K output (e.g., preserving cape sway, landing weight, and punch follow-through).",
+  "translations": {
+    "es": {
+      "content": "Utiliza Seedance 2.0 con un bloqueo/referencia de movimiento limpio para transferir la pose y el movimiento exactos a una salida estilizada en 4K (por ejemplo, preservando el movimiento de la capa, el peso al aterrizar y el seguimiento del golpe)."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 avec un blocage/référence de mouvement propre pour transférer la pose et le mouvement exacts dans une sortie stylisée en 4K (par exemple, en préservant le mouvement de la cape, le poids à l'atterrissage et le suivi du coup de poing)."
+    },
+    "ja": {
+      "content": "Seedance 2.0を使用して、クリーンなモーションリグのブロッキング/リファレンスを用い、正確なポーズと動きをスタイライズされた4K出力に転送します（例：マントの揺れ、着地の重み、パンチのフォロースルーを保持）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 사용하여 깨끗한 모션 리그 블로킹/레퍼런스를 통해 정확한 포즈와 동작을 스타일화된 4K 출력으로 전환하세요 (예: 망토의 흔들림, 착지 시 무게감, 펀치의 팔로우 스루를 보존)."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 com um bloqueio/referência de movimento limpo para transferir a pose e o movimento exatos para uma saída estilizada em 4K (por exemplo, preservando o balanço da capa, o peso do pouso e o seguimento do soco)."
+    },
+    "zh": {
+      "content": "使用Seedance 2.0结合干净的运动装置阻挡/参考，将精确的姿势和动作转移到风格化的4K输出中（例如，保留斗篷摆动、着陆重量和拳击后续动作）。"
+    }
+  }
+}

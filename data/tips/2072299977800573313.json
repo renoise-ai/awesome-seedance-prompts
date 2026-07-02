@@ -1,0 +1,42 @@
+{
+  "id": "2072299977800573313",
+  "title": "Use BlenderMCP with Claude to generate cinematic camera-movement video assets…",
+  "content": "Use BlenderMCP with Claude to generate cinematic camera-movement video assets in Seedance 2.0 automatically (run it as a long batch job to produce ready-to-go clips).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072298398691270656/img/7j8x1XBj2BOKJq91.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072299977800573313.mp4",
+  "sourceLink": "https://x.com/byaiden_vu/status/2072299977800573313",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "Aiden Vu",
+    "link": "https://x.com/byaiden_vu"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use BlenderMCP with Claude to generate cinematic camera-movement video assets in Seedance 2.0 automatically (run it as a long batch job to produce ready-to-go clips).",
+  "translations": {
+    "es": {
+      "content": "Utiliza BlenderMCP con Claude para generar automáticamente activos de video con movimientos de cámara cinematográficos en Seedance 2.0 (ejecútalo como un trabajo por lotes prolongado para producir clips listos para usar)."
+    },
+    "fr": {
+      "content": "Utilisez BlenderMCP avec Claude pour générer automatiquement des ressources vidéo de mouvements de caméra cinématiques dans Seedance 2.0 (exécutez-le comme une tâche par lots longue pour produire des clips prêts à l'emploi)."
+    },
+    "ja": {
+      "content": "BlenderMCPをClaudeと組み合わせて、Seedance 2.0でシネマティックなカメラムーブメントのビデオアセットを自動生成します（長時間のバッチジョブとして実行し、すぐに使用できるクリップを作成します）。"
+    },
+    "ko": {
+      "content": "BlenderMCP와 Claude를 사용하여 Seedance 2.0에서 시네마틱 카메라 무브먼트 비디오 에셋을 자동으로 생성하세요 (긴 배치 작업으로 실행하여 바로 사용할 수 있는 클립을 제작합니다)."
+    },
+    "pt": {
+      "content": "Use o BlenderMCP com o Claude para gerar automaticamente ativos de vídeo com movimentos de câmera cinematográficos no Seedance 2.0 (execute como um trabalho em lote longo para produzir clipes prontos para uso)."
+    },
+    "zh": {
+      "content": "使用BlenderMCP与Claude在Seedance 2.0中自动生成电影级别的摄像机运动视频素材（将其作为长批处理任务运行，以生成可直接使用的剪辑）。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2072131445502640467",
+  "title": "Use a 3D wireframe previs to lock camera tracks and character layouts before…",
+  "content": "Use a 3D wireframe previs to lock camera tracks and character layouts before rendering in Seedance 2.0  \nSolve/block the full scene (camera + staging) first, then generate the final shot in Seedance 2.0",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072130608999043072/img/hmOXXH3EnNa8g9st.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072131445502640467.mp4",
+  "sourceLink": "https://x.com/Deevid_AI/status/2072131445502640467",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "Deevid AI",
+    "link": "https://x.com/Deevid_AI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a 3D wireframe previs to lock camera tracks and character layouts before rendering in Seedance 2.0  \nSolve/block the full scene (camera + staging) first, then generate the final shot in Seedance 2.0",
+  "translations": {
+    "es": {
+      "content": "Utiliza un previs de wireframe 3D para fijar las trayectorias de la cámara y las disposiciones de los personajes antes de renderizar en Seedance 2.0  \nResuelve/bloquea la escena completa (cámara + puesta en escena) primero, luego genera la toma final en Seedance 2.0"
+    },
+    "fr": {
+      "content": "Utilisez un prévisualisation en fil de fer 3D pour verrouiller les trajectoires de caméra et les dispositions des personnages avant le rendu dans Seedance 2.0  \nRésolvez/bloquez d'abord la scène complète (caméra + mise en scène), puis générez le plan final dans Seedance 2.0"
+    },
+    "ja": {
+      "content": "Seedance 2.0でレンダリングする前に、3Dワイヤーフレームのプリビズを使用してカメラトラックとキャラクターレイアウトを確定します。  \nまずシーン全体（カメラ + ステージング）を解決/ブロックし、その後Seedance 2.0で最終ショットを生成します。"
+    },
+    "ko": {
+      "content": "렌더링 전에 Seedance 2.0에서 카메라 트랙과 캐릭터 레이아웃을 고정하기 위해 3D 와이어프레임 프리비즈를 사용하세요.  \n전체 장면(카메라 + 스테이징)을 먼저 해결/블록한 후, Seedance 2.0에서 최종 샷을 생성하세요."
+    },
+    "pt": {
+      "content": "Use um previs de wireframe 3D para definir as trilhas de câmera e os layouts dos personagens antes de renderizar no Seedance 2.0  \nResolva/bloqueie a cena completa (câmera + encenação) primeiro, depois gere a tomada final no Seedance 2.0"
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用3D线框预演来锁定摄像机轨迹和角色布局，然后再进行渲染  \n首先解决/封锁整个场景（摄像机+布景），然后在Seedance 2.0中生成最终镜头"
+    }
+  }
+}

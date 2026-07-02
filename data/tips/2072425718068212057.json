@@ -1,0 +1,41 @@
+{
+  "id": "2072425718068212057",
+  "title": "Use the Midjourney prompt from the image ALT as a reference when writing your…",
+  "content": "Use the Midjourney prompt from the image ALT as a reference when writing your Seedance 2.0 prompt to match the look/style.\n\nUse the provided reference image as the sole visual reference and explicitly list the exact elements to preserve (character appearance from behind, clothing, red-glowing headphones, record player, pose, landscape, composition) to maintain consistency.\n\nSpecify a static locked-off wide shot in the prompt to keep the camera fixed and improve stability.\n\nWrite a timecoded shot plan (e.g., 0–3s, 3–6s, 6–9s, 9–12s) describing precise actions and micro-movements to control animation beats.\n\nFor seamless looping, instruct that the final frame must be identical to the first frame for infinite looping.\n\nCreate a loop by reusing the same single generation repeatedly, or mix in new generations to vary the loop while keeping the same setup.\n\nSwap or remove the animal by editing that part of the prompt (change the animal or omit it) while keeping the rest of the scene instructions intact.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/techhalla/status/2072425718068212057",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "TechHalla",
+    "link": "https://x.com/techhalla"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the Midjourney prompt from the image ALT as a reference when writing your Seedance 2.0 prompt to match the look/style.\n\nUse the provided reference image as the sole visual reference and explicitly list the exact elements to preserve (character appearance from behind, clothing, red-glowing headphones, record player, pose, landscape, composition) to maintain consistency.\n\nSpecify a static locked-off wide shot in the prompt to keep the camera fixed and improve stability.\n\nWrite a timecoded shot plan (e.g., 0–3s, 3–6s, 6–9s, 9–12s) describing precise actions and micro-movements to control animation beats.\n\nFor seamless looping, instruct that the final frame must be identical to the first frame for infinite looping.\n\nCreate a loop by reusing the same single generation repeatedly, or mix in new generations to vary the loop while keeping the same setup.\n\nSwap or remove the animal by editing that part of the prompt (change the animal or omit it) while keeping the rest of the scene instructions intact.",
+  "translations": {
+    "es": {
+      "content": "Utiliza el prompt de Midjourney de la imagen ALT como referencia al escribir tu prompt de Seedance 2.0 para que coincida con el aspecto/estilo.\n\nUsa la imagen de referencia proporcionada como la única referencia visual y enumera explícitamente los elementos exactos a preservar (apariencia del personaje desde atrás, vestimenta, auriculares que brillan en rojo, tocadiscos, pose, paisaje, composición) para mantener la consistencia.\n\nEspecifica un plano amplio estático en el prompt para mantener la cámara fija y mejorar la estabilidad.\n\nEscribe un plan de tomas con código de tiempo (por ejemplo, 0–3s, 3–6s, 6–9s, 9–12s) describiendo acciones precisas y micro-movimientos para controlar los ritmos de la animación.\n\nPara un bucle continuo, indica que el fotograma final debe ser idéntico al primer fotograma para un bucle infinito.\n\nCrea un bucle reutilizando la misma generación única repetidamente, o mezcla nuevas generaciones para variar el bucle manteniendo la misma configuración.\n\nIntercambia o elimina el animal editando esa parte del prompt (cambia el animal o omítelo) mientras mantienes intactas las instrucciones del resto de la escena."
+    },
+    "fr": {
+      "content": "Utilisez le prompt Midjourney de l'ALT de l'image comme référence lors de l'écriture de votre prompt Seedance 2.0 pour correspondre à l'apparence/style.\n\nUtilisez l'image de référence fournie comme seule référence visuelle et listez explicitement les éléments exacts à préserver (apparence du personnage de dos, vêtements, écouteurs rouges lumineux, tourne-disque, pose, paysage, composition) pour maintenir la cohérence.\n\nSpécifiez un plan large fixe dans le prompt pour garder la caméra immobile et améliorer la stabilité.\n\nRédigez un plan de prise de vue avec minutage (par exemple, 0–3s, 3–6s, 6–9s, 9–12s) décrivant des actions précises et des micro-mouvements pour contrôler les rythmes de l'animation.\n\nPour une boucle sans couture, indiquez que la dernière image doit être identique à la première pour une boucle infinie.\n\nCréez une boucle en réutilisant la même génération unique à plusieurs reprises, ou mélangez de nouvelles générations pour varier la boucle tout en gardant le même cadre.\n\nÉchangez ou retirez l'animal en modifiant cette partie du prompt (changez l'animal ou omettez-le) tout en gardant intactes les autres instructions de la scène."
+    },
+    "ja": {
+      "content": "---\n画像のALTからMidjourneyのプロンプトを参照し、Seedance 2.0のプロンプトを書く際にその外観/スタイルに合わせてください。\n\n提供された参照画像を唯一のビジュアル参照として使用し、維持する正確な要素（後ろから見たキャラクターの外観、衣装、赤く光るヘッドフォン、レコードプレーヤー、ポーズ、風景、構図）を明示的にリストアップして、一貫性を保ちます。\n\nプロンプトで静的な固定されたワイドショットを指定し、カメラを固定して安定性を向上させます。\n\nタイムコード付きのショットプラン（例：0–3秒、3–6秒、6–9秒、9–12秒）を書き、正確なアクションとマイクロムーブメントを記述してアニメーションのビートを制御します。\n\nシームレスなループのために、最終フレームが最初のフレームと同一であることを指示し、無限ループを実現します。\n\n同じ単一の生成を繰り返し使用してループを作成するか、新しい生成を混ぜてループに変化を持たせつつ、同じセットアップを維持します。\n\nプロンプトのその部分を編集して動物を交換または削除し（動物を変更するか省略する）、シーンの他の指示をそのままにします。"
+    },
+    "ko": {
+      "content": "이미지 ALT의 Midjourney 프롬프트를 Seedance 2.0 프롬프트 작성 시 참고하여 외관/스타일을 맞추세요.\n\n제공된 참조 이미지를 유일한 시각적 참조로 사용하고, 일관성을 유지하기 위해 보존할 정확한 요소들(뒤에서 본 캐릭터 외모, 의상, 빨간 빛이 나는 헤드폰, 레코드 플레이어, 포즈, 풍경, 구성)을 명시적으로 나열하세요.\n\n카메라를 고정하고 안정성을 높이기 위해 프롬프트에 정적인 고정 와이드 샷을 지정하세요.\n\n정확한 동작과 미세한 움직임을 제어하기 위해 시간 코드가 있는 샷 계획(예: 0–3초, 3–6초, 6–9초, 9–12초)을 작성하세요.\n\n무한 루프를 위해 마지막 프레임이 첫 번째 프레임과 동일해야 한다고 지시하여 매끄러운 루프를 만드세요.\n\n동일한 단일 생성을 반복적으로 사용하여 루프를 만들거나, 동일한 설정을 유지하면서 새로운 생성을 혼합하여 루프를 다양화하세요.\n\n장면 지침의 나머지를 그대로 유지하면서 프롬프트의 해당 부분을 편집하여 동물을 교체하거나 제거하세요(동물을 변경하거나 생략)."
+    },
+    "pt": {
+      "content": "Use o prompt do Midjourney da imagem ALT como referência ao escrever seu prompt Seedance 2.0 para combinar com o visual/estilo.\n\nUse a imagem de referência fornecida como a única referência visual e liste explicitamente os elementos exatos a serem preservados (aparência do personagem por trás, roupa, fones de ouvido com brilho vermelho, toca-discos, pose, paisagem, composição) para manter a consistência.\n\nEspecifique um plano geral estático fixo no prompt para manter a câmera fixa e melhorar a estabilidade.\n\nEscreva um plano de filmagem com marcação de tempo (por exemplo, 0–3s, 3–6s, 6–9s, 9–12s) descrevendo ações precisas e micro-movimentos para controlar os ritmos da animação.\n\nPara um loop contínuo, instrua que o quadro final deve ser idêntico ao primeiro quadro para um loop infinito.\n\nCrie um loop reutilizando a mesma geração única repetidamente, ou misture novas gerações para variar o loop enquanto mantém o mesmo cenário.\n\nTroque ou remova o animal editando essa parte do prompt (mude o animal ou omita-o) enquanto mantém o restante das instruções da cena intactas."
+    },
+    "zh": {
+      "content": "使用图像ALT中的Midjourney prompt作为参考，在编写Seedance 2.0 prompt时匹配外观/风格。\n\n使用提供的参考图像作为唯一的视觉参考，并明确列出要保留的确切元素（从后面看角色的外观、服装、红色发光耳机、唱片机、姿势、风景、构图）以保持一致性。\n\n在prompt中指定一个静态锁定的广角镜头，以保持相机固定并提高稳定性。\n\n编写一个带时间码的镜头计划（例如，0–3秒，3–6秒，6–9秒，9–12秒），描述精确的动作和微小的移动，以控制动画节奏。\n\n为了实现无缝循环，指示最后一帧必须与第一帧相同，以实现无限循环。\n\n通过重复使用同一个生成来创建循环，或者混合新的生成以在保持相同设置的同时改变循环。\n\n通过编辑prompt的那部分来交换或移除动物（更改动物或省略它），同时保持场景指令的其余部分不变。"
+    }
+  }
+}

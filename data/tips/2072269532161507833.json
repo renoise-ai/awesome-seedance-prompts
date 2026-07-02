@@ -1,0 +1,42 @@
+{
+  "id": "2072269532161507833",
+  "title": "GPT Images 2.0でコンテ（絵コンテ）を作成してから、そのコンテを入力としてSeedance 2.0で動画生成する",
+  "content": "GPT Images 2.0でコンテ（絵コンテ）を作成してから、そのコンテを入力としてSeedance 2.0で動画生成する  \nhiggsfield_aiのMCPを使ってClaude上からSeedance 2.0の制作フローを実行する  \nClaudeのコストを考慮し、エージェント型AI動画制作ではSonnet 5でも十分な場面があるため用途に応じてモデルを選ぶ",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072161756747845633/img/g0AvGGIMC0i9zyfg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072269532161507833.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2072269532161507833",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "GPT Images 2.0でコンテ（絵コンテ）を作成してから、そのコンテを入力としてSeedance 2.0で動画生成する  \nhiggsfield_aiのMCPを使ってClaude上からSeedance 2.0の制作フローを実行する  \nClaudeのコストを考慮し、エージェント型AI動画制作ではSonnet 5でも十分な場面があるため用途に応じてモデルを選ぶ",
+  "translations": {
+    "en": {
+      "content": "Create storyboards (絵コンテ) with GPT Images 2.0, then use those storyboards as input to generate videos with Seedance 2.0.  \nExecute the Seedance 2.0 production flow on Claude using higgsfield_ai's MCP.  \nConsidering the cost of Claude, Sonnet 5 may be sufficient for agent-based AI video production in some cases, so choose the model according to the purpose."
+    },
+    "es": {
+      "content": "---\nCrear un storyboard con GPT Images 2.0 y luego usar ese storyboard como entrada para generar videos con Seedance 2.0  \nEjecutar el flujo de producción de Seedance 2.0 desde Claude utilizando el MCP de higgsfield_ai  \nConsiderando el costo de Claude, en la producción de videos con IA de tipo agente, Sonnet 5 puede ser suficiente en algunos casos, por lo que se debe elegir el modelo según el uso\n---"
+    },
+    "fr": {
+      "content": "---\nCréer un storyboard avec GPT Images 2.0, puis utiliser ce storyboard comme entrée pour générer une vidéo avec Seedance 2.0  \nExécuter le flux de production de Seedance 2.0 depuis Claude en utilisant le MCP de higgsfield_ai  \nEn tenant compte du coût de Claude, il y a des situations où Sonnet 5 est suffisant pour la production vidéo par IA de type agent, donc choisir le modèle en fonction de l'utilisation\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Images 2.0에서 콘티(絵コンテ)를 작성한 후, 그 콘티를 입력으로 Seedance 2.0에서 영상 생성하기  \nhiggsfield_ai의 MCP를 사용하여 Claude에서 Seedance 2.0의 제작 흐름 실행하기  \nClaude의 비용을 고려하여, 에이전트형 AI 영상 제작에서는 Sonnet 5로도 충분한 경우가 있으므로 용도에 맞게 모델 선택하기  \n---"
+    },
+    "pt": {
+      "content": "---\nCriar storyboards com o GPT Images 2.0 e, em seguida, usar esses storyboards como entrada para gerar vídeos com o Seedance 2.0  \nExecutar o fluxo de produção do Seedance 2.0 a partir do Claude usando o MCP do higgsfield_ai  \nConsiderando o custo do Claude, em algumas situações de produção de vídeo com IA baseada em agentes, o Sonnet 5 é suficiente, portanto, escolha o modelo de acordo com a aplicação\n---"
+    },
+    "zh": {
+      "content": "---\n在GPT Images 2.0中创建分镜（絵コンテ），然后将该分镜作为输入在Seedance 2.0中生成视频  \n使用higgsfield_ai的MCP从Claude上执行Seedance 2.0的制作流程  \n考虑到Claude的成本，在代理型AI视频制作中，Sonnet 5在某些场合已经足够，因此根据用途选择模型  \n---"
+    }
+  }
+}

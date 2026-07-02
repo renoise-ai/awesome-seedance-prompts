@@ -1,0 +1,42 @@
+{
+  "id": "2072348925093408908",
+  "title": "Feed rough grey 3D blockout scenes (no textures or lighting) into Seedance 2.0…",
+  "content": "Feed rough grey 3D blockout scenes (no textures or lighting) into Seedance 2.0 to generate finished, fully rendered shots.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072348681253347329/img/5HAuxI82QtdY9r9J.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072348925093408908.mp4",
+  "sourceLink": "https://x.com/FloyoAI/status/2072348925093408908",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "FloyoAI",
+    "link": "https://x.com/FloyoAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Feed rough grey 3D blockout scenes (no textures or lighting) into Seedance 2.0 to generate finished, fully rendered shots.",
+  "translations": {
+    "es": {
+      "content": "Introduce escenas preliminares en 3D de color gris (sin texturas ni iluminación) en Seedance 2.0 para generar tomas terminadas y completamente renderizadas."
+    },
+    "fr": {
+      "content": "---\nIntégrez des scènes de blocage 3D grises et rudimentaires (sans textures ni éclairage) dans Seedance 2.0 pour générer des plans finis et entièrement rendus.\n---"
+    },
+    "ja": {
+      "content": "粗いグレーの3Dブロックアウトシーン（テクスチャやライティングなし）をSeedance 2.0に入力して、完成したフルレンダリングのショットを生成します。"
+    },
+    "ko": {
+      "content": "거친 회색 3D 블록아웃 장면(텍스처나 조명이 없는)을 Seedance 2.0에 입력하여 완성된, 완전히 렌더링된 샷을 생성하세요."
+    },
+    "pt": {
+      "content": "Alimente cenas brutas de blocagem 3D cinza (sem texturas ou iluminação) no Seedance 2.0 para gerar tomadas finalizadas e totalmente renderizadas."
+    },
+    "zh": {
+      "content": "将粗糙的灰色3D初步场景（无纹理或灯光）输入Seedance 2.0，以生成完成的、完全渲染的镜头。"
+    }
+  }
+}

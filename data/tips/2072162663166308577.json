@@ -1,0 +1,42 @@
+{
+  "id": "2072162663166308577",
+  "title": "15秒動画なら、チラシを1/8カットした裏書き程度の短いプロンプト量でも成立するので、まず短文プロンプト＋15秒設定で試す",
+  "content": "15秒動画なら、チラシを1/8カットした裏書き程度の短いプロンプト量でも成立するので、まず短文プロンプト＋15秒設定で試す\n狙い通りにならない場合は複数テイクを回して選別する（例：この動画は3テイク目）\n参照Z-imageの元絵にない要素（例：制服の女性をワカメちゃん風にする、見える撮り方）が出ることがあるので、出力を確認してNGなら撮り直す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072162599853273088/img/TN81fUm7Kxwqk00J.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072162663166308577.mp4",
+  "sourceLink": "https://x.com/881tension/status/2072162663166308577",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "てんしょんまる",
+    "link": "https://x.com/881tension"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "15秒動画なら、チラシを1/8カットした裏書き程度の短いプロンプト量でも成立するので、まず短文プロンプト＋15秒設定で試す\n狙い通りにならない場合は複数テイクを回して選別する（例：この動画は3テイク目）\n参照Z-imageの元絵にない要素（例：制服の女性をワカメちゃん風にする、見える撮り方）が出ることがあるので、出力を確認してNGなら撮り直す",
+  "translations": {
+    "en": {
+      "content": "---\nFor a 15-second video, a short prompt equivalent to the back of a flyer cut into 1/8 can suffice, so first try with a short prompt + 15-second setting.  \nIf it doesn't turn out as intended, take multiple shots and select the best one (e.g., this video is the third take).  \nElements not present in the original Z-image reference (e.g., making a woman in uniform look like Wakame-chan, visible shooting style) may appear, so check the output and reshoot if it's not acceptable.\n\n--- THREAD CONTINUATION ---\n[Thread 1] The flavor of the video is different from the Sora2 used before. I prefer Sora2.\n\n[Thread 2] It's amazing that a video prompt from generative AI, with a volume equivalent to the back of a flyer cut into 1/8, can achieve this much in a 15-second video. If it could be about a minute, you could create a short drama without human editing.\n\n[Thread 3] This video is the third take.  \nWhether it's the director of Seedance, the cameraman's preference, or the actress, there are attempts to make the woman in uniform look like Wakame-chan, and sometimes they shoot in a way that makes it visible.  \nIt's just on the edge of what can be uploaded on X. Even though the original Z-image reference doesn't have such elements.\n---"
+    },
+    "es": {
+      "content": "---\nPara un video de 15 segundos, es suficiente con una cantidad de prompt tan breve como el reverso de un folleto cortado en 1/8, así que primero prueba con un prompt corto + configuración de 15 segundos.  \nSi no se logra el objetivo, realiza múltiples tomas y selecciona (ejemplo: este video es la tercera toma).  \nA veces aparecen elementos que no están en la imagen de referencia Z-image original (ejemplo: hacer que una mujer con uniforme se vea como Wakame-chan, o el ángulo de la cámara), por lo que verifica la salida y si no es adecuada, vuelve a grabar.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El sabor del video es diferente al de Sora2 que usé antes. Prefiero Sora2.\n\n[Hilo 2] El prompt de video de la IA generativa en sí es tan breve como el reverso de un folleto cortado en 1/8, y es increíble lo que se puede lograr en un video de 15 segundos.  \nSi se pudiera hacer de un minuto, se podría crear un corto sin edición humana.\n\n[Hilo 3] Este video es la tercera toma.  \nNo sé si es el director de seedance, el gusto del camarógrafo o la actriz, pero intentan hacer que la mujer con uniforme se vea como Wakame-chan y a veces eligen ese tipo de ángulo de cámara.  \nEs lo máximo que se puede subir en X. Aunque la imagen de referencia Z-image original no tiene nada de eso.  \n---"
+    },
+    "fr": {
+      "content": "---\nPour une vidéo de 15 secondes, une quantité de texte aussi courte qu'une note au dos d'un flyer découpé en 1/8 peut suffire, donc commencez par un prompt court + réglage de 15 secondes pour essayer.  \nSi le résultat ne correspond pas à vos attentes, faites plusieurs prises et sélectionnez la meilleure (exemple : cette vidéo est la 3ème prise).  \nIl peut arriver que des éléments non présents dans l'image de référence Z-image (exemple : transformer une femme en uniforme en style \"Wakame-chan\", ou une manière de filmer visible) apparaissent, donc vérifiez le rendu et refaites la prise si nécessaire.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Le style est différent de celui de Sora2 utilisé précédemment. Je préfère Sora2.\n\n[Fil 2] Le prompt vidéo généré par l'IA est d'une quantité équivalente à une note au dos d'un flyer découpé en 1/8, et pour une vidéo de 15 secondes, c'est impressionnant ce qu'on peut faire.  \nSi on pouvait faire une minute, on pourrait créer un court-métrage sans montage humain.\n\n[Fil 3] Cette vidéo, 3ème prise.  \nEst-ce le réalisateur de seedance, le goût du caméraman, ou l'actrice qui essaie de transformer la femme en uniforme en \"Wakame-chan\", et filme de cette manière visible.  \nC'est à la limite de ce qui peut être téléchargé sur X. Pourtant, l'image de référence Z-image d'origine n'a rien de tel.  \n---"
+    },
+    "ko": {
+      "content": "---\n15초 영상이라면, 전단지를 1/8로 잘라서 뒷면에 적는 정도의 짧은 프롬프트 양으로도 성립되므로, 먼저 짧은 문장 프롬프트 + 15초 설정으로 시도해보세요.  \n의도대로 되지 않는 경우에는 여러 테이크를 촬영하여 선택합니다 (예: 이 영상은 3번째 테이크).  \n참조 Z-image의 원 그림에 없는 요소 (예: 교복을 입은 여성을 와카메짱 스타일로, 보이는 촬영 방식)가 나올 수 있으므로, 출력을 확인하고 NG라면 다시 촬영합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 전에 사용한 Sora2와 영상의 맛이 다르네요. 개인적으로는 Sora2가 더 좋습니다.\n\n[Thread 2] 생성 AI의 영상 프롬프트 자체는, 전단지를 1/8로 잘라서 뒷면에 적는 정도의 분량으로, 15초 영상에서 이 정도까지 할 수 있다는 것이 놀랍습니다.  \n1분 정도가 된다면, 사람의 편집 없이도 쇼트 드라마가 가능하겠네요.\n\n[Thread 3] 이 영상, 3번째 테이크입니다.  \nseedance의 감독인지, 카메라맨의 취향인지, 배우인 여성인지, 교복을 입은 여성을 와카메짱으로 만들려고 하고, 그런 보이는 촬영 방식을 할 때가 있습니다.  \nX에 업로드할 수 있는 아슬아슬한 것. 참조하는 Z-image의 원 그림은 그런 것이 아닌데도.\n---"
+    },
+    "pt": {
+      "content": "---\nPara um vídeo de 15 segundos, é possível usar um prompt curto, equivalente ao verso de um panfleto cortado em 1/8, então comece testando com um prompt curto + configuração de 15 segundos.  \nSe o resultado não for o esperado, faça várias tomadas e selecione a melhor (exemplo: este vídeo é a terceira tomada).  \nElementos que não estão na imagem de referência Z-image original (exemplo: transformar uma mulher de uniforme em estilo \"Wakame-chan\", ou o ângulo de filmagem) podem aparecer, então verifique a saída e refaça se necessário.  \n\n--- CONTINUAÇÃO DO TÓPICO ---  \n[Tópico 1] O sabor do vídeo é diferente do Sora2 usado anteriormente. Prefiro o Sora2.  \n\n[Tópico 2] O próprio prompt de vídeo gerado por IA, com a quantidade de texto equivalente ao verso de um panfleto cortado em 1/8, para um vídeo de 15 segundos, é impressionante.  \nSe conseguir fazer um vídeo de cerca de 1 minuto, dá para criar um curta-metragem sem edição humana.  \n\n[Tópico 3] Este vídeo, terceira tomada.  \nNão sei se é o diretor do seedance, o gosto do cameraman ou da atriz, mas tentam transformar a mulher de uniforme em \"Wakame-chan\" e fazem esse tipo de filmagem.  \nÉ o limite do que pode ser postado no X. Mesmo que a imagem de referência Z-image original não tenha nada disso.  \n---"
+    },
+    "zh": {
+      "content": "---\n15秒视频的话，即使是传单1/8剪裁的背面书写程度的短促量也能成立，所以首先尝试短句prompt+15秒设置。\n如果不如预期，可以多拍几次进行筛选（例：这个视频是第3次拍摄）。\n有时会出现参照Z-image的原图中没有的元素（例：将制服女性拍成若草物语风格，显露的拍摄方式），所以需要确认输出，如果不合适就重新拍摄。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 之前用的Sora2和视频的风格不一样。我更喜欢Sora2。\n\n[Thread 2] 生成AI的视频prompt本身就像传单1/8剪裁的背面书写程度的分量，15秒视频能做到这样已经很厉害了。\n如果能做到1分钟左右，就能制作出无需人工编辑的短剧了。\n\n[Thread 3] 这个视频，第3次拍摄。\n不知是seedance的导演，还是摄影师的爱好，或者是演员的女性，总是想把制服女性拍成若草物语风格，并采用这种显露的拍摄方式。\n在X上能上传的极限。参照的Z-image的原图并没有这样的内容。\n---"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2072333228074283252",
+  "title": "Specify “Maintain consistent identity, clothing, hairstyle, and appearance…",
+  "content": "Specify “Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video” to keep the character consistent across all shots.  \nAdd a detailed “Camera Style” block (e.g., early-2000s DV camcorder: heavy handheld shake, autofocus hunting, lens breathing, exposure pumping, rolling shutter, mild compression artifacts, faded colors, sensor noise) and explicitly state “No stabilization” and “No cinematic camera moves” to enforce a home-video look.  \nBreak the prompt into timestamped beats (e.g., 00:00–00:02, 00:02–00:04, etc.) with concrete actions and camera behavior per segment to control scene progression and pacing.  \nConstrain the environment with explicit negatives (e.g., “No stores, advertisements, cafés, crowds, or commercial activity”) to keep the location purely residential.  \nSpecify “Audio: Natural ambient sound only… No music. No sound design. No narration.” to keep audio realistic and documentary-like.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/chinesegroyper/status/2072333228074283252",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "Adolf Chinkler",
+    "link": "https://x.com/chinesegroyper"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify “Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video” to keep the character consistent across all shots.  \nAdd a detailed “Camera Style” block (e.g., early-2000s DV camcorder: heavy handheld shake, autofocus hunting, lens breathing, exposure pumping, rolling shutter, mild compression artifacts, faded colors, sensor noise) and explicitly state “No stabilization” and “No cinematic camera moves” to enforce a home-video look.  \nBreak the prompt into timestamped beats (e.g., 00:00–00:02, 00:02–00:04, etc.) with concrete actions and camera behavior per segment to control scene progression and pacing.  \nConstrain the environment with explicit negatives (e.g., “No stores, advertisements, cafés, crowds, or commercial activity”) to keep the location purely residential.  \nSpecify “Audio: Natural ambient sound only… No music. No sound design. No narration.” to keep audio realistic and documentary-like.",
+  "translations": {
+    "es": {
+      "content": "Especifica “Mantener identidad, vestimenta, peinado y apariencia consistentes a lo largo de todo el video” para mantener al personaje consistente en todas las tomas.  \nAñade un bloque detallado de “Estilo de Cámara” (por ejemplo, videocámara DV de principios de los 2000: fuerte movimiento de mano, búsqueda de enfoque automático, respiración de lente, bombeo de exposición, obturador rodante, artefactos de compresión leves, colores desvaídos, ruido del sensor) y declara explícitamente “Sin estabilización” y “Sin movimientos de cámara cinematográficos” para reforzar un aspecto de video casero.  \nDivide el prompt en ritmos con marcas de tiempo (por ejemplo, 00:00–00:02, 00:02–00:04, etc.) con acciones concretas y comportamiento de cámara por segmento para controlar la progresión y el ritmo de la escena.  \nRestringe el entorno con negativos explícitos (por ejemplo, “Sin tiendas, anuncios, cafés, multitudes o actividad comercial”) para mantener la ubicación puramente residencial.  \nEspecifica “Audio: Solo sonido ambiental natural… Sin música. Sin diseño de sonido. Sin narración.” para mantener el audio realista y con estilo documental."
+    },
+    "fr": {
+      "content": "Spécifiez « Maintenir une identité, des vêtements, une coiffure et une apparence cohérents tout au long de la vidéo » pour garder le personnage cohérent dans tous les plans.  \nAjoutez un bloc détaillé « Style de caméra » (par exemple, caméscope DV du début des années 2000 : forte secousse à main levée, recherche de mise au point automatique, respiration de l'objectif, pompage d'exposition, obturateur roulant, artefacts de compression légers, couleurs délavées, bruit du capteur) et indiquez explicitement « Pas de stabilisation » et « Pas de mouvements de caméra cinématographiques » pour renforcer un aspect de vidéo maison.  \nDécomposez le prompt en séquences horodatées (par exemple, 00:00–00:02, 00:02–00:04, etc.) avec des actions concrètes et un comportement de caméra par segment pour contrôler la progression et le rythme de la scène.  \nContraignez l'environnement avec des négatifs explicites (par exemple, « Pas de magasins, publicités, cafés, foules ou activité commerciale ») pour que le lieu reste purement résidentiel.  \nSpécifiez « Audio : Son ambiant naturel uniquement… Pas de musique. Pas de design sonore. Pas de narration. » pour que l'audio reste réaliste et de type documentaire."
+    },
+    "ja": {
+      "content": "---\nキャラクターを全てのショットで一貫させるために、「ビデオ全体を通じて一貫したアイデンティティ、衣装、ヘアスタイル、外見を維持する」と指定してください。  \n詳細な「カメラスタイル」ブロックを追加します（例：2000年代初期のDVカムコーダー：激しい手持ちの揺れ、オートフォーカスのハンティング、レンズブリージング、露出のポンピング、ローリングシャッター、軽度の圧縮アーティファクト、色あせた色、センサーノイズ）と明示的に「No stabilization」と「No cinematic camera moves」を指定してホームビデオの外観を強調します。  \nプロンプトをタイムスタンプ付きのビートに分割します（例：00:00–00:02、00:02–00:04など）。各セグメントごとに具体的なアクションとカメラの動作を設定し、シーンの進行とペースを制御します。  \n環境を明確な否定で制約します（例：「店舗、広告、カフェ、群衆、商業活動なし」）として、場所を純粋に住宅地に保ちます。  \n「オーディオ：自然な環境音のみ… 音楽なし。サウンドデザインなし。ナレーションなし。」と指定して、音声をリアルでドキュメンタリー風に保ちます。"
+    },
+    "ko": {
+      "content": "---\n\"Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video\"를 지정하여 모든 장면에서 캐릭터의 일관성을 유지하십시오.  \n상세한 \"Camera Style\" 블록을 추가하십시오 (예: 2000년대 초 DV 캠코더: 강한 핸드헬드 흔들림, 자동 초점 사냥, 렌즈 호흡, 노출 펌핑, 롤링 셔터, 약간의 압축 아티팩트, 바랜 색상, 센서 노이즈) 및 \"No stabilization\"과 \"No cinematic camera moves\"를 명시적으로 언급하여 홈 비디오 느낌을 강화하십시오.  \n프롬프트를 타임스탬프가 있는 비트로 나누십시오 (예: 00:00–00:02, 00:02–00:04 등) 각 구간에 대한 구체적인 행동과 카메라 동작을 포함하여 장면 진행과 속도를 제어하십시오.  \n환경을 명확한 부정어로 제한하십시오 (예: \"No stores, advertisements, cafés, crowds, or commercial activity\") 순수하게 주거 지역으로 위치를 유지하십시오.  \n\"Audio: Natural ambient sound only… No music. No sound design. No narration.\"을 지정하여 오디오를 현실적이고 다큐멘터리처럼 유지하십시오."
+    },
+    "pt": {
+      "content": "Especifique “Manter identidade, roupa, penteado e aparência consistentes ao longo de todo o vídeo” para manter o personagem consistente em todas as cenas.  \nAdicione um bloco detalhado de “Estilo de Câmera” (por exemplo, filmadora DV do início dos anos 2000: forte tremor de mão, busca de foco automático, respiração da lente, bombeamento de exposição, obturador rolante, artefatos de compressão leve, cores desbotadas, ruído do sensor) e declare explicitamente “Sem estabilização” e “Sem movimentos de câmera cinematográficos” para reforçar uma aparência de vídeo caseiro.  \nDivida o prompt em batidas com marcação de tempo (por exemplo, 00:00–00:02, 00:02–00:04, etc.) com ações concretas e comportamento da câmera por segmento para controlar a progressão e o ritmo da cena.  \nRestrinja o ambiente com negativos explícitos (por exemplo, “Sem lojas, anúncios, cafés, multidões ou atividade comercial”) para manter o local puramente residencial.  \nEspecifique “Áudio: Som ambiente natural apenas… Sem música. Sem design de som. Sem narração.” para manter o áudio realista e com estilo documental."
+    },
+    "zh": {
+      "content": "指定“在整个视频中保持一致的身份、服装、发型和外貌”以确保角色在所有镜头中保持一致性。  \n添加一个详细的“Camera Style”模块（例如，2000年代初的DV摄像机：强烈的手持抖动、自动对焦搜索、镜头呼吸、曝光变化、滚动快门、轻微的压缩伪影、褪色的颜色、传感器噪声），并明确说明“无稳定”及“无cinematic camera moves”以营造家庭录像的效果。  \n将prompt分解为带时间戳的节拍（例如，00:00–00:02，00:02–00:04等），每个片段都有具体的动作和相机行为，以控制场景进展和节奏。  \n通过明确的否定限制环境（例如，“无商店、广告、咖啡馆、人群或商业活动”）以保持地点纯粹为住宅区。  \n指定“Audio: Natural ambient sound only… No music. No sound design. No narration.”以保持音频的真实感和纪录片风格。"
+    }
+  }
+}

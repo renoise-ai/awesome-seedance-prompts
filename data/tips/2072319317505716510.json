@@ -1,0 +1,43 @@
+{
+  "id": "2072319317505716510",
+  "title": "Seedanceで自分の猫の写真/動画をリファレンスとして指定して、同じ猫が料理しているような動画を生成する",
+  "content": "Seedanceで自分の猫の写真/動画をリファレンスとして指定して、同じ猫が料理しているような動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072318682131472384/img/WLFstnxD9XqMtcmN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072319317505716510.mp4",
+  "sourceLink": "https://x.com/resonancediva/status/2072319317505716510",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "ゆーき@Resonance_Diva",
+    "link": "https://x.com/resonancediva"
+  },
+  "tags": [
+    "Animals",
+    "Pets",
+    "Food",
+    "Cooking",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "Seedanceで自分の猫の写真/動画をリファレンスとして指定して、同じ猫が料理しているような動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Specify a photo/video of your own cat as a reference in Seedance to generate a video where the same cat appears to be cooking."
+    },
+    "es": {
+      "content": "Especifica una foto/video de tu propio gato como referencia en Seedance para generar un video donde el mismo gato parece estar cocinando."
+    },
+    "fr": {
+      "content": "Dans Seedance, spécifiez une photo/vidéo de votre propre chat comme référence pour générer une vidéo où le même chat semble cuisiner."
+    },
+    "ko": {
+      "content": "Seedance에서 자신의 고양이 사진/동영상을 참조로 지정하여, 같은 고양이가 요리하고 있는 것 같은 동영상을 생성하기"
+    },
+    "pt": {
+      "content": "Use o Seedance para especificar uma foto/vídeo de referência do seu próprio gato e gerar um vídeo como se o mesmo gato estivesse cozinhando."
+    },
+    "zh": {
+      "content": "在Seedance中，将您自己的猫的照片/视频作为参考指定，生成同一只猫在做饭的视频。"
+    }
+  }
+}
