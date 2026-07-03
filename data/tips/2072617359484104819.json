@@ -1,0 +1,42 @@
+{
+  "id": "2072617359484104819",
+  "title": "キャラシート・背景・小物（ギター等）の資料を参照素材として用意し、Seedance 2.0で一貫した短編アニメを生成する",
+  "content": "キャラシート・背景・小物（ギター等）の資料を参照素材として用意し、Seedance 2.0で一貫した短編アニメを生成する  \n各カットを1本ずつ生成→確認→修正を繰り返してから、最後にタイムラインで組み立てて約45秒のMV導入アニメに仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072615593929584640/img/bo2FXIENWmHrzWU-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072617359484104819.mp4",
+  "sourceLink": "https://x.com/wtry1102/status/2072617359484104819",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "WTR",
+    "link": "https://x.com/wtry1102"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラシート・背景・小物（ギター等）の資料を参照素材として用意し、Seedance 2.0で一貫した短編アニメを生成する  \n各カットを1本ずつ生成→確認→修正を繰り返してから、最後にタイムラインで組み立てて約45秒のMV導入アニメに仕上げる",
+  "translations": {
+    "en": {
+      "content": "Prepare reference materials such as character sheets, backgrounds, and props (e.g., guitar) to use as reference material, and generate a consistent short animation with Seedance 2.0.  \nGenerate each cut one by one → review → make corrections, and then finally assemble them on the timeline to create an approximately 45-second MV introduction animation."
+    },
+    "es": {
+      "content": "---\nPrepare reference materials such as character sheets, backgrounds, and props (like guitars) to use as reference material, and generate a consistent short animation with Seedance 2.0.  \nGenerate each cut one by one → review → make corrections repeatedly, then finally assemble them on the timeline to create an approximately 45-second MV intro animation.\n---"
+    },
+    "fr": {
+      "content": "Préparez des feuilles de personnage, des arrière-plans et des accessoires (comme une guitare) en tant que matériel de référence, et générez un court métrage d'animation cohérent avec Seedance 2.0.  \nGénérez chaque plan un par un → vérifiez → corrigez, puis assemblez-les sur une timeline pour créer une introduction d'environ 45 secondes pour un clip musical."
+    },
+    "ko": {
+      "content": "---\n캐릭터 시트, 배경, 소품(기타 등)의 자료를 참조 자료로 준비하고, Seedance 2.0으로 일관된 단편 애니메이션을 생성한다  \n각 컷을 하나씩 생성→확인→수정을 반복한 후, 마지막에 타임라인에서 조립하여 약 45초의 MV 도입 애니메이션으로 완성한다\n---"
+    },
+    "pt": {
+      "content": "Prepare reference materials such as character sheets, backgrounds, and props (like guitars) to use as reference material, and generate a consistent short animation with Seedance 2.0  \nGerar cada cena uma por uma → verificar → corrigir repetidamente, e depois montar na linha do tempo para finalizar em uma animação de introdução de MV de aproximadamente 45 segundos"
+    },
+    "zh": {
+      "content": "---\n准备角色表、背景、小物件（如吉他等）的参考资料，使用Seedance 2.0生成一致的短篇动画  \n每个镜头逐一生成→确认→修正，然后在时间线上组装，最终制作成约45秒的MV引入动画\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2072687732401279464",
+  "title": "In Blender, adjust the Noise settings (e.g., on camera motion/F-Curves) to add…",
+  "content": "In Blender, adjust the Noise settings (e.g., on camera motion/F-Curves) to add natural-looking camera movement before using it with Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072687503597867009/img/Jz0H9kAngyY84Heg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072687732401279464.mp4",
+  "sourceLink": "https://x.com/Flagiuss/status/2072687732401279464",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "Flagius",
+    "link": "https://x.com/Flagiuss"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "In Blender, adjust the Noise settings (e.g., on camera motion/F-Curves) to add natural-looking camera movement before using it with Seedance.",
+  "translations": {
+    "es": {
+      "content": "En Blender, ajusta la configuración de Noise (por ejemplo, en el movimiento de cámara/F-Curves) para añadir un movimiento de cámara de aspecto natural antes de usarlo con Seedance."
+    },
+    "fr": {
+      "content": "Dans Blender, ajustez les paramètres de Noise (par exemple, sur le mouvement de la caméra/F-Curves) pour ajouter un mouvement de caméra d'apparence naturelle avant de l'utiliser avec Seedance."
+    },
+    "ja": {
+      "content": "Blenderで、Seedanceを使用する前にカメラの動きやFカーブのノイズ設定を調整して、自然なカメラの動きを追加します。"
+    },
+    "ko": {
+      "content": "Blender에서 Seedance를 사용하기 전에 자연스러운 카메라 움직임을 추가하기 위해 노이즈 설정(예: 카메라 모션/F-Curves)을 조정하세요."
+    },
+    "pt": {
+      "content": "No Blender, ajuste as configurações de Noise (por exemplo, no movimento da câmera/F-Curves) para adicionar um movimento de câmera com aparência natural antes de usá-lo com o Seedance."
+    },
+    "zh": {
+      "content": "在 Blender 中，调整噪声设置（例如，在相机运动/F-Curves 上）以添加自然的相机运动，然后再与 Seedance 一起使用。"
+    }
+  }
+}

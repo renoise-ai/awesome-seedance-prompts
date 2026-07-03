@@ -1,0 +1,42 @@
+{
+  "id": "2072630862148235748",
+  "title": "Use a video reference plus a carefully written prompt to lock/maintain the…",
+  "content": "Use a video reference plus a carefully written prompt to lock/maintain the intended camera movement in Seedance.  \nPrefer Seedance 2.0 Fast when you need correct/accurate camera movement; Seedance 2.0 with a weak prompt can produce unwanted motion.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072629772556120065/img/UZUFXarQM2Sv7zqN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072630862148235748.mp4",
+  "sourceLink": "https://x.com/byaiden_vu/status/2072630862148235748",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "Aiden Vu",
+    "link": "https://x.com/byaiden_vu"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a video reference plus a carefully written prompt to lock/maintain the intended camera movement in Seedance.  \nPrefer Seedance 2.0 Fast when you need correct/accurate camera movement; Seedance 2.0 with a weak prompt can produce unwanted motion.",
+  "translations": {
+    "es": {
+      "content": "Usa una referencia de video más un prompt cuidadosamente escrito para fijar/mantener el movimiento de cámara deseado en Seedance.  \nPrefiere Seedance 2.0 Fast cuando necesites un movimiento de cámara correcto/preciso; Seedance 2.0 con un prompt débil puede producir movimientos no deseados."
+    },
+    "fr": {
+      "content": "Utilisez une référence vidéo ainsi qu'un prompt soigneusement rédigé pour verrouiller/maintenir le mouvement de caméra souhaité dans Seedance.  \nPréférez Seedance 2.0 Fast lorsque vous avez besoin d'un mouvement de caméra correct/précis ; Seedance 2.0 avec un prompt faible peut produire des mouvements indésirables."
+    },
+    "ja": {
+      "content": "---\nSeedanceで意図したカメラの動きを固定/維持するために、ビデオ参照と慎重に書かれたプロンプトを使用します。  \n正確なカメラの動きが必要な場合は、Seedance 2.0 Fastを優先してください。弱いプロンプトでは、Seedance 2.0が望ましくない動きを生むことがあります。\n---"
+    },
+    "ko": {
+      "content": "비디오 참조와 신중하게 작성된 prompt를 사용하여 Seedance에서 의도한 카메라 움직임을 고정/유지하세요.  \n정확한 카메라 움직임이 필요할 때는 Seedance 2.0 Fast를 선호하세요. Seedance 2.0은 약한 prompt로 인해 원치 않는 움직임을 생성할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use uma referência de vídeo mais um prompt cuidadosamente escrito para travar/manter o movimento de câmera pretendido no Seedance.  \nPrefira Seedance 2.0 Fast quando precisar de um movimento de câmera correto/preciso; Seedance 2.0 com um prompt fraco pode produzir movimentos indesejados."
+    },
+    "zh": {
+      "content": "使用视频参考加上精心编写的prompt来锁定/保持Seedance中的预期相机运动。  \n当您需要正确/准确的相机运动时，优先选择Seedance 2.0 Fast；使用Seedance 2.0时，如果prompt不够强，可能会产生不需要的运动。"
+    }
+  }
+}

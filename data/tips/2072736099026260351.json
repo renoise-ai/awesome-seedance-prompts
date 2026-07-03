@@ -1,0 +1,41 @@
+{
+  "id": "2072736099026260351",
+  "title": "Use an @Image storyboard as the reference for Seedance 2.0 prompt-to-video, and…",
+  "content": "Use an @Image storyboard as the reference for Seedance 2.0 prompt-to-video, and specify it should be used as the first shot (Shot 01) to enforce the intended sequence.\n\nWhen using a storyboard grid as reference, explicitly instruct Seedance to ignore the grid layout and render seamless full-screen cinematic shots (e.g., “Absolutely NO frames/borders/numbers/UI/text; ignore grid layout completely”).\n\nBreak a 15-second video into time-coded shots (e.g., 0–3s, 3–6s, etc.) and map each shot to specific storyboard panels in strict order (e.g., “Shot 1: Panel 01→02 … Shot 5: Panel 08→09”).\n\nAdd camera-direction instructions per shot (e.g., “camera pushes in smoothly,” “camera orbits gently,” “camera holds steady,” “camera pulls back slowly”) to control motion and continuity.\n\nReinforce style and constraints at the end of the prompt (e.g., “seamless morphing transitions, cinematic slow-to-fast pacing, photorealistic … ZERO TEXT”) to reduce unwanted overlays and keep consistency.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/churvikv/status/2072736099026260351",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "Viki",
+    "link": "https://x.com/churvikv"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an @Image storyboard as the reference for Seedance 2.0 prompt-to-video, and specify it should be used as the first shot (Shot 01) to enforce the intended sequence.\n\nWhen using a storyboard grid as reference, explicitly instruct Seedance to ignore the grid layout and render seamless full-screen cinematic shots (e.g., “Absolutely NO frames/borders/numbers/UI/text; ignore grid layout completely”).\n\nBreak a 15-second video into time-coded shots (e.g., 0–3s, 3–6s, etc.) and map each shot to specific storyboard panels in strict order (e.g., “Shot 1: Panel 01→02 … Shot 5: Panel 08→09”).\n\nAdd camera-direction instructions per shot (e.g., “camera pushes in smoothly,” “camera orbits gently,” “camera holds steady,” “camera pulls back slowly”) to control motion and continuity.\n\nReinforce style and constraints at the end of the prompt (e.g., “seamless morphing transitions, cinematic slow-to-fast pacing, photorealistic … ZERO TEXT”) to reduce unwanted overlays and keep consistency.",
+  "translations": {
+    "es": {
+      "content": "Usa un storyboard de @Image como referencia para el prompt-to-video de Seedance 2.0, y especifica que debe usarse como la primera toma (Shot 01) para asegurar la secuencia deseada.\n\nAl usar una cuadrícula de storyboard como referencia, instruye explícitamente a Seedance para que ignore el diseño de la cuadrícula y renderice tomas cinematográficas a pantalla completa sin interrupciones (por ejemplo, “Absolutely NO frames/borders/numbers/UI/text; ignore grid layout completely”).\n\nDivide un video de 15 segundos en tomas con códigos de tiempo (por ejemplo, 0–3s, 3–6s, etc.) y asigna cada toma a paneles específicos del storyboard en orden estricto (por ejemplo, “Shot 1: Panel 01→02 … Shot 5: Panel 08→09”).\n\nAñade instrucciones de dirección de cámara por toma (por ejemplo, “camera pushes in smoothly,” “camera orbits gently,” “camera holds steady,” “camera pulls back slowly”) para controlar el movimiento y la continuidad.\n\nRefuerza el estilo y las restricciones al final del prompt (por ejemplo, “seamless morphing transitions, cinematic slow-to-fast pacing, photorealistic … ZERO TEXT”) para reducir superposiciones no deseadas y mantener la consistencia."
+    },
+    "fr": {
+      "content": "Utilisez un storyboard @Image comme référence pour le prompt-to-video de Seedance 2.0, et spécifiez qu'il doit être utilisé comme le premier plan (Plan 01) pour imposer la séquence souhaitée.\n\nLors de l'utilisation d'une grille de storyboard comme référence, instruisez explicitement Seedance d'ignorer la disposition de la grille et de rendre des plans cinématographiques en plein écran sans interruption (par exemple, « Absolument AUCUN cadre/bordure/numéro/UI/texte ; ignorez complètement la disposition de la grille »).\n\nDivisez une vidéo de 15 secondes en plans codés par le temps (par exemple, 0–3s, 3–6s, etc.) et associez chaque plan à des panneaux de storyboard spécifiques dans un ordre strict (par exemple, « Plan 1 : Panneau 01→02 … Plan 5 : Panneau 08→09 »).\n\nAjoutez des instructions de direction de caméra par plan (par exemple, « la caméra avance doucement », « la caméra orbite doucement », « la caméra reste stable », « la caméra recule lentement ») pour contrôler le mouvement et la continuité.\n\nRenforcez le style et les contraintes à la fin du prompt (par exemple, « transitions morphing fluides, rythme cinématographique lent-à-rapide, photoréaliste … ZÉRO TEXTE ») pour réduire les superpositions indésirables et maintenir la cohérence."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0のプロンプトからビデオを生成する際、@Imageのストーリーボードを参照として使用し、それを最初のショット（ショット01）として指定して、意図したシーケンスを強化します。\n\nストーリーボードグリッドを参照として使用する場合、Seedanceにグリッドレイアウトを無視し、シームレスなフルスクリーンのシネマティックショットをレンダリングするよう明示的に指示します（例：「フレーム/ボーダー/番号/UI/テキストは絶対に使用しない; グリッドレイアウトを完全に無視する」）。\n\n15秒のビデオをタイムコード付きのショットに分割し（例：0–3秒、3–6秒など）、各ショットを特定のストーリーボードパネルに厳密な順序でマッピングします（例：「ショット1: パネル01→02 … ショット5: パネル08→09」）。\n\n各ショットにカメラの動きの指示を追加します（例：「カメラがスムーズにプッシュインする」、「カメラが優しくオービットする」、「カメラが安定している」、「カメラがゆっくりと引く」）ことで、動きと連続性を制御します。\n\nプロンプトの最後にスタイルと制約を強化します（例：「シームレスなモーフィングトランジション、シネマティックなスローからファストへのペーシング、フォトリアリスティック … テキストは一切なし」）ことで、不要なオーバーレイを減らし、一貫性を保ちます。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0의 프롬프트-투-비디오에 대한 참조로 @Image 스토리보드를 사용하고, 이를 첫 번째 샷(Shot 01)으로 지정하여 의도한 순서를 강화하십시오.\n\n스토리보드 그리드를 참조로 사용할 때, Seedance에게 그리드 레이아웃을 무시하고 매끄러운 풀스크린 시네마틱 샷을 렌더링하도록 명확히 지시하십시오 (예: “Absolutely NO frames/borders/numbers/UI/text; ignore grid layout completely”).\n\n15초 비디오를 시간 코드가 있는 샷으로 나누고 (예: 0–3초, 3–6초 등) 각 샷을 특정 스토리보드 패널에 엄격한 순서로 매핑하십시오 (예: “Shot 1: Panel 01→02 … Shot 5: Panel 08→09”).\n\n각 샷에 대한 카메라 방향 지침을 추가하여 (예: “camera pushes in smoothly,” “camera orbits gently,” “camera holds steady,” “camera pulls back slowly”) 움직임과 연속성을 제어하십시오.\n\n프롬프트의 끝에서 스타일과 제약 조건을 강화하여 (예: “seamless morphing transitions, cinematic slow-to-fast pacing, photorealistic … ZERO TEXT”) 불필요한 오버레이를 줄이고 일관성을 유지하십시오.\n---"
+    },
+    "pt": {
+      "content": "---\nUse um storyboard @Image como referência para o prompt-to-video do Seedance 2.0 e especifique que ele deve ser usado como a primeira cena (Shot 01) para garantir a sequência pretendida.\n\nAo usar um grid de storyboard como referência, instrua explicitamente o Seedance a ignorar o layout do grid e renderizar cenas cinematográficas em tela cheia e sem interrupções (por exemplo, “Absolutely NO frames/borders/numbers/UI/text; ignore grid layout completely”).\n\nDivida um vídeo de 15 segundos em cenas com códigos de tempo (por exemplo, 0–3s, 3–6s, etc.) e mapeie cada cena para painéis específicos do storyboard em ordem estrita (por exemplo, “Shot 1: Panel 01→02 … Shot 5: Panel 08→09”).\n\nAdicione instruções de direção de câmera por cena (por exemplo, “camera pushes in smoothly,” “camera orbits gently,” “camera holds steady,” “camera pulls back slowly”) para controlar o movimento e a continuidade.\n\nReforce o estilo e as restrições no final do prompt (por exemplo, “seamless morphing transitions, cinematic slow-to-fast pacing, photorealistic … ZERO TEXT”) para reduzir sobreposições indesejadas e manter a consistência."
+    },
+    "zh": {
+      "content": "使用@Image分镜作为Seedance 2.0提示生成视频的参考，并指定其应作为第一个镜头（镜头01）以确保预期的顺序。\n\n当使用分镜网格作为参考时，明确指示Seedance忽略网格布局，并渲染无缝全屏电影镜头（例如，“绝对不允许有框架/边框/数字/UI/文本；完全忽略网格布局”）。\n\n将15秒的视频分解为带时间码的镜头（例如，0–3秒，3–6秒等），并严格按顺序将每个镜头映射到特定的分镜面板（例如，“镜头1：面板01→02 … 镜头5：面板08→09”）。\n\n为每个镜头添加摄像机方向指令（例如，“摄像机平稳推进”，“摄像机轻柔环绕”，“摄像机保持稳定”，“摄像机缓慢拉回”）以控制运动和连续性。\n\n在提示的结尾强化风格和限制（例如，“无缝变形过渡，电影般的慢到快节奏，照片级真实感……绝对无文本”）以减少不必要的覆盖并保持一致性。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2072729782606025021",
+  "title": "Avoid using official tournament names, team logos, or player faces in your…",
+  "content": "Avoid using official tournament names, team logos, or player faces in your Seedance prompts; generate generic football atmosphere instead (crowds, watch parties, city nights, match-day energy) for safer brand-usable content.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072729720014475264/img/KvjagzKq0-5Y3CIF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072729782606025021.mp4",
+  "sourceLink": "https://x.com/ginacostag_/status/2072729782606025021",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "Gina Acosta",
+    "link": "https://x.com/ginacostag_"
+  },
+  "tags": [
+    "Sports",
+    "Crowd & Fans",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Avoid using official tournament names, team logos, or player faces in your Seedance prompts; generate generic football atmosphere instead (crowds, watch parties, city nights, match-day energy) for safer brand-usable content.",
+  "translations": {
+    "es": {
+      "content": "Evita usar nombres oficiales de torneos, logotipos de equipos o rostros de jugadores en tus prompts de Seedance; en su lugar, genera una atmósfera genérica de fútbol (multitudes, fiestas para ver partidos, noches en la ciudad, energía del día del partido) para obtener contenido más seguro y utilizable por marcas."
+    },
+    "fr": {
+      "content": "Évitez d'utiliser les noms officiels des tournois, les logos des équipes ou les visages des joueurs dans vos prompts Seedance ; générez plutôt une ambiance de football générique (foules, soirées de visionnage, nuits en ville, énergie des jours de match) pour un contenu plus sûr et utilisable par les marques."
+    },
+    "ja": {
+      "content": "公式トーナメント名、チームのロゴ、選手の顔をSeedanceのプロンプトで使用しないでください。代わりに、ブランドで使用可能な安全なコンテンツを生成するために、一般的なサッカーの雰囲気（観客、観戦パーティー、街の夜、試合日のエネルギー）を生成してください。"
+    },
+    "ko": {
+      "content": "Seedance 프롬프트에서 공식 토너먼트 이름, 팀 로고, 선수 얼굴을 사용하지 마세요. 대신 브랜드 사용에 안전한 콘텐츠를 위해 일반적인 축구 분위기(관중, 시청 파티, 도시의 밤, 경기일의 에너지)를 생성하세요."
+    },
+    "pt": {
+      "content": "Evite usar nomes oficiais de torneios, logotipos de equipes ou rostos de jogadores em seus prompts do Seedance; em vez disso, gere uma atmosfera genérica de futebol (multidões, festas para assistir, noites na cidade, energia do dia do jogo) para um conteúdo mais seguro e utilizável por marcas."
+    },
+    "zh": {
+      "content": "在你的Seedance prompts中避免使用官方比赛名称、球队标志或球员面孔；生成通用的足球氛围（人群、观赛派对、城市夜景、比赛日的活力），以便创造更安全的品牌可用内容。"
+    }
+  }
+}

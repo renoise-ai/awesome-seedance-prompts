@@ -1,0 +1,42 @@
+{
+  "id": "2072724586496659699",
+  "title": "Use GPT Image 2 to create character/prop/set images, then use Seedance 2.0 to…",
+  "content": "Use GPT Image 2 to create character/prop/set images, then use Seedance 2.0 to generate 4K videos from those assets.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072724526413250560/img/OXWdQg9NVYKF42nk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072724586496659699.mp4",
+  "sourceLink": "https://x.com/EHuanglu/status/2072724586496659699",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "el.cine",
+    "link": "https://x.com/EHuanglu"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image 2 to create character/prop/set images, then use Seedance 2.0 to generate 4K videos from those assets.",
+  "translations": {
+    "es": {
+      "content": "Usa GPT Image 2 para crear imágenes de personajes/objetos/escenarios, luego utiliza Seedance 2.0 para generar videos en 4K a partir de esos recursos."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour créer des images de personnages/accessoires/décors, puis utilisez Seedance 2.0 pour générer des vidéos 4K à partir de ces éléments."
+    },
+    "ja": {
+      "content": "GPT Image 2を使用してキャラクター/プロップ/セットの画像を作成し、それらのアセットからSeedance 2.0を使用して4Kビデオを生成します。"
+    },
+    "ko": {
+      "content": "GPT Image 2를 사용하여 캐릭터/소품/세트 이미지를 생성한 후, Seedance 2.0을 사용하여 해당 자산으로부터 4K 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para criar imagens de personagens/objetos/cenários, depois use o Seedance 2.0 para gerar vídeos em 4K a partir desses ativos."
+    },
+    "zh": {
+      "content": "使用GPT Image 2创建角色/道具/场景图像，然后使用Seedance 2.0从这些素材生成4K视频。"
+    }
+  }
+}

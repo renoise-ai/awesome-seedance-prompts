@@ -1,0 +1,42 @@
+{
+  "id": "2072651500430786648",
+  "title": "Use a single reference image to lock character appearance in Seedance 2.0",
+  "content": "Use a single reference image to lock character appearance in Seedance 2.0  \nUse a 3D reference/grey-model motion clip as the motion source to drive animation in Seedance 2.0  \nKeep the environment consistent across shots by reusing the same environment reference/settings for every shot in Seedance 2.0",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072608988282372096/img/Jy9tsYw34XAj2ugl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072651500430786648.mp4",
+  "sourceLink": "https://x.com/PixVerse_/status/2072651500430786648",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "PixVerse",
+    "link": "https://x.com/PixVerse_"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a single reference image to lock character appearance in Seedance 2.0  \nUse a 3D reference/grey-model motion clip as the motion source to drive animation in Seedance 2.0  \nKeep the environment consistent across shots by reusing the same environment reference/settings for every shot in Seedance 2.0",
+  "translations": {
+    "es": {
+      "content": "---\nUsa una sola imagen de referencia para fijar la apariencia del personaje en Seedance 2.0  \nUsa un clip de movimiento de referencia 3D/modelo gris como fuente de movimiento para impulsar la animación en Seedance 2.0  \nMantén el entorno consistente en todas las tomas reutilizando la misma referencia/configuración de entorno para cada toma en Seedance 2.0  \n---"
+    },
+    "fr": {
+      "content": "Utilisez une seule image de référence pour verrouiller l'apparence du personnage dans Seedance 2.0  \nUtilisez un clip de mouvement de référence 3D/modèle gris comme source de mouvement pour animer dans Seedance 2.0  \nGardez l'environnement cohérent entre les prises en réutilisant la même référence/environnement pour chaque prise dans Seedance 2.0"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0でキャラクターの外見を固定するために単一の参照画像を使用  \nSeedance 2.0でアニメーションを駆動するために3D参照/グレーモデルのモーションクリップをモーションソースとして使用  \nSeedance 2.0で各ショットで同じ環境参照/設定を再利用して環境を一貫させる  \n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 캐릭터 외형을 고정하려면 단일 참조 이미지를 사용하세요.  \nSeedance 2.0에서 애니메이션을 구동하기 위해 3D 참조/그레이 모델 모션 클립을 모션 소스로 사용하세요.  \nSeedance 2.0에서 모든 샷에 동일한 환경 참조/설정을 재사용하여 환경을 일관되게 유지하세요."
+    },
+    "pt": {
+      "content": "Use uma única imagem de referência para fixar a aparência do personagem no Seedance 2.0  \nUse um clipe de movimento de referência 3D/modelo cinza como fonte de movimento para conduzir a animação no Seedance 2.0  \nMantenha o ambiente consistente em todas as cenas reutilizando a mesma referência/configurações de ambiente para cada cena no Seedance 2.0"
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用单个参考图像锁定角色外观  \n在Seedance 2.0中使用3D参考/灰模动作剪辑作为动作源驱动动画  \n通过在Seedance 2.0的每个镜头中重复使用相同的环境参考/设置，保持环境一致性"
+    }
+  }
+}

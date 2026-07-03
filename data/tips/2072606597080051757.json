@@ -1,0 +1,42 @@
+{
+  "id": "2072606597080051757",
+  "title": "用 Seedance 2.0 fast 复刻参考视频时，将参考视频控制在 10 秒内可获得最佳复刻效果",
+  "content": "用 Seedance 2.0 fast 复刻参考视频时，将参考视频控制在 10 秒内可获得最佳复刻效果  \n在提示词中明确要求复刻参考视频的动作、运镜、背景与 BGM，同时把主体人物替换为自己的形象",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072606168531247104/img/rK63VMjHOUCaUDHf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072606597080051757.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2072606597080051757",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用 Seedance 2.0 fast 复刻参考视频时，将参考视频控制在 10 秒内可获得最佳复刻效果  \n在提示词中明确要求复刻参考视频的动作、运镜、背景与 BGM，同时把主体人物替换为自己的形象",
+  "translations": {
+    "en": {
+      "content": "When using Seedance 2.0 fast to replicate a reference video, keep the reference video under 10 seconds for the best replication results.  \nIn the prompt, clearly specify the replication of the reference video's actions, camera movements, background, and BGM, while replacing the main character with your own image."
+    },
+    "es": {
+      "content": "Al usar Seedance 2.0 fast para recrear un video de referencia, mantén el video de referencia dentro de los 10 segundos para obtener el mejor efecto de recreación.  \nEn el prompt, especifica claramente la acción del video de referencia, el movimiento de cámara, el fondo y la BGM, mientras reemplazas al personaje principal con tu propia imagen."
+    },
+    "fr": {
+      "content": "Lors de la recréation d'une vidéo de référence avec Seedance 2.0 fast, il est préférable de limiter la vidéo de référence à 10 secondes pour obtenir le meilleur effet de recréation.  \nDans le prompt, précisez clairement la demande de recréer les actions, le mouvement de caméra, l'arrière-plan et la BGM de la vidéo de référence, tout en remplaçant le personnage principal par votre propre image."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0 fastを使用して参考動画を復刻する際、参考動画を10秒以内に抑えると最良の復刻効果が得られます。  \nプロンプトで参考動画の動作、カメラワーク、背景、BGMを明確に要求し、主体人物を自分のイメージに置き換えてください。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0 fast를 사용하여 참고 영상을 복제할 때, 참고 영상을 10초 이내로 유지하면 최상의 복제 효과를 얻을 수 있습니다.  \n프롬프트에서 참고 영상의 동작, 카메라 움직임, 배경 및 BGM을 명확히 요구하고, 주인공을 자신의 이미지로 교체하십시오.\n---"
+    },
+    "pt": {
+      "content": "Ao usar o Seedance 2.0 fast para recriar um vídeo de referência, mantenha o vídeo de referência com menos de 10 segundos para obter o melhor efeito de recriação.  \nNo prompt, especifique claramente a recriação das ações do vídeo de referência, movimentos de câmera, cenário e BGM, substituindo o personagem principal pela sua própria imagem."
+    }
+  }
+}

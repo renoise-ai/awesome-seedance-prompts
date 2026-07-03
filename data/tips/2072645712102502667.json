@@ -1,0 +1,43 @@
+{
+  "id": "2072645712102502667",
+  "title": "Create a full character design sheet in ChatGPT Image 2 (multiple angles…",
+  "content": "Create a full character design sheet in ChatGPT Image 2 (multiple angles, multiple expressions, one outfit) and use it as the consistency anchor before generating in Seedance 2.0  \nStoryboard every shot in ChatGPT Image 2 (camera angle, action, mood) and lock a single color palette + lighting mood (e.g., golden afternoon, soft warm tones, dramatic shadows) before moving to Seedance  \nIn Seedance 2.0, use each storyboard frame as the reference image and generate one clip per frame  \nIn Seedance, keep the text prompt focused on motion and camera only; let the reference image define the scene/character  \nLimit Seedance shots to 4–6 seconds to reduce face/motion drift  \nAvoid repeating the same camera move in consecutive clips (e.g., if clip 1 dollies in, make clip 2 hold or pull back)  \nRepeat the same color palette/lighting language in every Seedance prompt with no exceptions to keep clips consistent",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072602933196177408/img/IwAun7UfaEGRzydC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072645712102502667.mp4",
+  "sourceLink": "https://x.com/NexlowX/status/2072645712102502667",
+  "sourcePublishedAt": "2026-07-02",
+  "author": {
+    "name": "Nexlow",
+    "link": "https://x.com/NexlowX"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a full character design sheet in ChatGPT Image 2 (multiple angles, multiple expressions, one outfit) and use it as the consistency anchor before generating in Seedance 2.0  \nStoryboard every shot in ChatGPT Image 2 (camera angle, action, mood) and lock a single color palette + lighting mood (e.g., golden afternoon, soft warm tones, dramatic shadows) before moving to Seedance  \nIn Seedance 2.0, use each storyboard frame as the reference image and generate one clip per frame  \nIn Seedance, keep the text prompt focused on motion and camera only; let the reference image define the scene/character  \nLimit Seedance shots to 4–6 seconds to reduce face/motion drift  \nAvoid repeating the same camera move in consecutive clips (e.g., if clip 1 dollies in, make clip 2 hold or pull back)  \nRepeat the same color palette/lighting language in every Seedance prompt with no exceptions to keep clips consistent",
+  "translations": {
+    "es": {
+      "content": "Crea una hoja de diseño de personaje completa en ChatGPT Image 2 (múltiples ángulos, múltiples expresiones, un solo atuendo) y úsala como ancla de consistencia antes de generar en Seedance 2.0  \nHaz un storyboard de cada toma en ChatGPT Image 2 (ángulo de cámara, acción, estado de ánimo) y fija una sola paleta de colores + estado de ánimo de iluminación (por ejemplo, tarde dorada, tonos cálidos suaves, sombras dramáticas) antes de pasar a Seedance  \nEn Seedance 2.0, utiliza cada cuadro del storyboard como imagen de referencia y genera un clip por cuadro  \nEn Seedance, mantén el prompt de texto enfocado solo en el movimiento y la cámara; deja que la imagen de referencia defina la escena/personaje  \nLimita las tomas de Seedance a 4–6 segundos para reducir el desvío de rostro/movimiento  \nEvita repetir el mismo movimiento de cámara en clips consecutivos (por ejemplo, si el clip 1 avanza, haz que el clip 2 se mantenga o retroceda)  \nRepite la misma paleta de colores/lenguaje de iluminación en cada prompt de Seedance sin excepciones para mantener los clips consistentes"
+    },
+    "fr": {
+      "content": "Créez une feuille de conception de personnage complète dans ChatGPT Image 2 (plusieurs angles, plusieurs expressions, une tenue) et utilisez-la comme ancre de cohérence avant de générer dans Seedance 2.0  \nRéalisez un storyboard de chaque plan dans ChatGPT Image 2 (angle de caméra, action, ambiance) et fixez une palette de couleurs unique + une ambiance lumineuse (par exemple, après-midi doré, tons chauds doux, ombres dramatiques) avant de passer à Seedance  \nDans Seedance 2.0, utilisez chaque image du storyboard comme image de référence et générez un clip par image  \nDans Seedance, concentrez le prompt texte uniquement sur le mouvement et la caméra ; laissez l'image de référence définir la scène/le personnage  \nLimitez les plans Seedance à 4–6 secondes pour réduire la dérive du visage/mouvement  \nÉvitez de répéter le même mouvement de caméra dans des clips consécutifs (par exemple, si le clip 1 avance en travelling, faites en sorte que le clip 2 soit fixe ou recule)  \nRépétez la même palette de couleurs/langage d'éclairage dans chaque prompt Seedance sans exception pour garder les clips cohérents"
+    },
+    "ja": {
+      "content": "---\nChatGPT Image 2でフルキャラクターデザインシートを作成し（複数の角度、複数の表情、1つの衣装）、Seedance 2.0で生成する前に一貫性のアンカーとして使用します。  \nChatGPT Image 2で各ショットのストーリーボードを作成し（カメラアングル、アクション、ムード）、Seedanceに移行する前に単一のカラーパレットとライティングムードを固定します（例：黄金の午後、柔らかい暖色調、劇的な影）。  \nSeedance 2.0では、各ストーリーボードフレームを参照画像として使用し、フレームごとに1つのクリップを生成します。  \nSeedanceでは、テキストプロンプトを動きとカメラにのみ集中させ、参照画像がシーン/キャラクターを定義するようにします。  \nSeedanceのショットは4〜6秒に制限し、顔や動きのドリフトを減らします。  \n連続するクリップで同じカメラの動きを繰り返さないようにします（例：クリップ1がドリーインする場合、クリップ2はホールドまたはプルバックにします）。  \nすべてのSeedanceプロンプトで同じカラーパレット/ライティング言語を繰り返し、クリップを一貫性のあるものに保つために例外を設けません。  \n---"
+    },
+    "ko": {
+      "content": "---\nChatGPT Image 2에서 전체 캐릭터 디자인 시트를 생성하세요 (여러 각도, 여러 표정, 하나의 의상) 그리고 Seedance 2.0에서 생성하기 전에 일관성 앵커로 사용하세요.  \nChatGPT Image 2에서 모든 샷을 스토리보드로 작성하세요 (카메라 각도, 액션, 분위기) 그리고 Seedance로 이동하기 전에 단일 색상 팔레트 + 조명 분위기 (예: 황금빛 오후, 부드러운 따뜻한 톤, 극적인 그림자)를 고정하세요.  \nSeedance 2.0에서는 각 스토리보드 프레임을 참조 이미지로 사용하고 프레임당 하나의 클립을 생성하세요.  \nSeedance에서는 텍스트 프롬프트를 움직임과 카메라에만 집중하고, 참조 이미지가 장면/캐릭터를 정의하도록 하세요.  \nSeedance 샷은 4–6초로 제한하여 얼굴/움직임 드리프트를 줄이세요.  \n연속적인 클립에서 동일한 카메라 움직임을 반복하지 마세요 (예: 클립 1이 돌리 인이면, 클립 2는 고정하거나 뒤로 당기세요).  \n모든 Seedance 프롬프트에서 동일한 색상 팔레트/조명 언어를 반복하여 클립의 일관성을 유지하세요.  \n---"
+    },
+    "pt": {
+      "content": "Crie uma folha de design de personagem completa no ChatGPT Image 2 (múltiplos ângulos, múltiplas expressões, um traje) e use-a como âncora de consistência antes de gerar no Seedance 2.0  \nFaça o storyboard de cada cena no ChatGPT Image 2 (ângulo de câmera, ação, humor) e defina uma única paleta de cores + clima de iluminação (por exemplo, tarde dourada, tons quentes suaves, sombras dramáticas) antes de passar para o Seedance  \nNo Seedance 2.0, use cada quadro do storyboard como imagem de referência e gere um clipe por quadro  \nNo Seedance, mantenha o prompt de texto focado apenas em movimento e câmera; deixe a imagem de referência definir a cena/personagem  \nLimite os clipes do Seedance a 4–6 segundos para reduzir o desvio de rosto/movimento  \nEvite repetir o mesmo movimento de câmera em clipes consecutivos (por exemplo, se o clipe 1 faz um dolly in, faça o clipe 2 manter ou recuar)  \nRepita a mesma linguagem de paleta de cores/iluminação em cada prompt do Seedance sem exceções para manter os clipes consistentes"
+    },
+    "zh": {
+      "content": "在ChatGPT Image 2中创建完整的角色设计图（多个角度、多个表情、一套服装），并在Seedance 2.0生成之前将其用作一致性锚点。  \n在ChatGPT Image 2中为每个镜头制作分镜图（镜头角度、动作、情绪），并在进入Seedance之前锁定单一的色彩调色板和光照情绪（例如，金色下午、柔和暖色调、戏剧性阴影）。  \n在Seedance 2.0中，使用每个分镜图帧作为参考图像，并为每个帧生成一个片段。  \n在Seedance中，保持文本prompt仅专注于运动和镜头；让参考图像定义场景/角色。  \n将Seedance镜头限制在4-6秒，以减少面部/运动漂移。  \n避免在连续的片段中重复相同的镜头移动（例如，如果片段1是推镜头，片段2则保持或拉远）。  \n在每个Seedance prompt中重复相同的色彩调色板/光照语言，无例外，以保持片段一致性。"
+    }
+  }
+}
