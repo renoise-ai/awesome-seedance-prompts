@@ -6652,4 +6652,4 @@ Upload a single product image in CapCut, enter a prompt, select Seedance 2.0 4K,
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-04T03:18:30.610Z
+🤖 この README は自動生成されています。最終更新： 2026-07-04T06:48:08.270Z
