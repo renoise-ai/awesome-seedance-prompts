@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **3019** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **1503** |
-| 🔄 最后更新 | **2026-07-03** |
+| 🔄 最后更新 | **2026-07-04** |
 
 ---
 
@@ -5012,4 +5012,4 @@ Upload a single product image in CapCut, enter a prompt, select Seedance 2.0 4K,
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-07-03T21:09:02.707Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-07-04T03:18:30.597Z
