@@ -1,0 +1,41 @@
+{
+  "id": "2073357498124484880",
+  "title": "Build one clean reference image for the character and reuse it across all shots…",
+  "content": "Build one clean reference image for the character and reuse it across all shots instead of regenerating the face each time.  \nUse image-to-video mode for character consistency; relying on text-to-video alone will cause identity drift.  \nRepeat the character identity description exactly the same way in every prompt (same hair, wardrobe, age, word-for-word).  \nLimit reference images; too many references will average faces and change the character, so use fewer.  \nLock the seed once you generate a face you want to keep consistent.  \nRe-anchor the character every 8–10 shots to counteract drift over longer sequences.  \nUse negative prompts to suppress small unwanted changes before they accumulate across shots.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/beginnersblog1/status/2073357498124484880",
+  "sourcePublishedAt": "2026-07-04",
+  "author": {
+    "name": "Beginnersblog",
+    "link": "https://x.com/beginnersblog1"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Build one clean reference image for the character and reuse it across all shots instead of regenerating the face each time.  \nUse image-to-video mode for character consistency; relying on text-to-video alone will cause identity drift.  \nRepeat the character identity description exactly the same way in every prompt (same hair, wardrobe, age, word-for-word).  \nLimit reference images; too many references will average faces and change the character, so use fewer.  \nLock the seed once you generate a face you want to keep consistent.  \nRe-anchor the character every 8–10 shots to counteract drift over longer sequences.  \nUse negative prompts to suppress small unwanted changes before they accumulate across shots.",
+  "translations": {
+    "es": {
+      "content": "Construye una imagen de referencia limpia para el personaje y reutilízala en todas las tomas en lugar de regenerar el rostro cada vez.  \nUsa el modo de imagen a video para mantener la consistencia del personaje; depender solo de texto a video causará desvío de identidad.  \nRepite la descripción de la identidad del personaje exactamente de la misma manera en cada prompt (mismo cabello, vestuario, edad, palabra por palabra).  \nLimita las imágenes de referencia; demasiadas referencias promediarán los rostros y cambiarán al personaje, así que usa menos.  \nFija la semilla una vez que generes un rostro que quieras mantener consistente.  \nReancla al personaje cada 8-10 tomas para contrarrestar el desvío en secuencias más largas.  \nUsa prompts negativos para suprimir pequeños cambios no deseados antes de que se acumulen a lo largo de las tomas.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Únete a mi Boletín: https://t.co/6GedxPDouP\n\n[Hilo 2] @grok resume esto en 4 líneas\n\n[Hilo 3] @grok ¿algún otro consejo?"
+    },
+    "fr": {
+      "content": "Construisez une image de référence propre pour le personnage et réutilisez-la dans tous les plans au lieu de régénérer le visage à chaque fois.  \nUtilisez le mode image-to-video pour assurer la cohérence du personnage ; se fier uniquement au mode text-to-video entraînera une dérive d'identité.  \nRépétez la description de l'identité du personnage exactement de la même manière dans chaque prompt (même coiffure, garde-robe, âge, mot pour mot).  \nLimitez les images de référence ; trop de références vont moyenner les visages et modifier le personnage, donc utilisez-en moins.  \nVerrouillez la graine une fois que vous avez généré un visage que vous souhaitez garder cohérent.  \nRé-ancrez le personnage tous les 8 à 10 plans pour contrer la dérive sur de plus longues séquences.  \nUtilisez des prompts négatifs pour supprimer les petits changements indésirables avant qu'ils ne s'accumulent au fil des plans.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Rejoignez ma Newsletter : https://t.co/6GedxPDouP\n\n[Fil 2] @grok résume ça en 4 lignes\n\n[Fil 3] @grok d'autres conseils"
+    },
+    "ja": {
+      "content": "---\nキャラクターの一貫性を保つために、1つのクリーンな参照画像を作成し、すべてのショットで再利用し、毎回顔を再生成しないようにします。  \nキャラクターの一貫性を保つために、image-to-videoモードを使用します。text-to-videoだけに頼ると、アイデンティティがずれてしまいます。  \nキャラクターのアイデンティティの説明は、すべてのプロンプトでまったく同じ方法で繰り返します（同じ髪型、衣装、年齢、言葉通り）。  \n参照画像を制限します。参照が多すぎると、顔が平均化され、キャラクターが変わってしまうので、少なくします。  \n保持したい顔を生成したら、シードを固定します。  \n長いシーケンスでのドリフトを防ぐために、8〜10ショットごとにキャラクターを再アンカーします。  \nネガティブプロンプトを使用して、ショット全体で蓄積する前に小さな不要な変化を抑制します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 私のニュースレターに参加してください: https://t.co/6GedxPDouP\n\n[Thread 2] @grok これを4行で要約してください\n\n[Thread 3] @grok 他に何かヒントはありますか\n---"
+    },
+    "ko": {
+      "content": "---\n캐릭터의 깨끗한 참조 이미지를 하나 만들어 모든 샷에서 재사용하고, 매번 얼굴을 재생성하지 마세요.  \n캐릭터 일관성을 위해 이미지-비디오 모드를 사용하세요; 텍스트-비디오에만 의존하면 정체성 드리프트가 발생합니다.  \n모든 프롬프트에서 캐릭터 정체성 설명을 정확히 동일하게 반복하세요 (같은 머리, 의상, 나이, 단어 그대로).  \n참조 이미지를 제한하세요; 참조가 너무 많으면 얼굴이 평균화되고 캐릭터가 변하므로 적게 사용하세요.  \n유지하고 싶은 얼굴을 생성한 후에는 시드를 고정하세요.  \n긴 시퀀스에서 드리프트를 상쇄하기 위해 8-10 샷마다 캐릭터를 다시 고정하세요.  \n부정적 프롬프트를 사용하여 샷 전반에 걸쳐 누적되기 전에 작은 원치 않는 변화를 억제하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 제 뉴스레터에 가입하세요: https://t.co/6GedxPDouP\n\n[Thread 2] @grok 이 내용을 4줄로 요약해 주세요\n\n[Thread 3] @grok 다른 팁이 있나요\n---"
+    },
+    "pt": {
+      "content": "Crie uma imagem de referência limpa para o personagem e reutilize-a em todas as cenas, em vez de regenerar o rosto a cada vez.  \nUse o modo imagem-para-vídeo para manter a consistência do personagem; confiar apenas no texto-para-vídeo causará desvio de identidade.  \nRepita a descrição da identidade do personagem exatamente da mesma forma em cada prompt (mesmo cabelo, guarda-roupa, idade, palavra por palavra).  \nLimite as imagens de referência; muitas referências vão fazer uma média dos rostos e mudar o personagem, então use menos.  \nTrave a seed assim que gerar um rosto que você deseja manter consistente.  \nReancore o personagem a cada 8–10 cenas para combater o desvio em sequências mais longas.  \nUse prompts negativos para suprimir pequenas mudanças indesejadas antes que se acumulem ao longo das cenas.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Inscreva-se na minha Newsletter: https://t.co/6GedxPDouP\n\n[Thread 2] @grok resuma isso em 4 linhas\n\n[Thread 3] @grok outras dicas"
+    },
+    "zh": {
+      "content": "---\n为角色建立一个干净的参考图像，并在所有镜头中重复使用，而不是每次都重新生成面部。  \n使用图像到视频模式以保持角色一致性；仅依赖文本到视频会导致身份漂移。  \n在每个prompt中完全相同地重复角色身份描述（相同的发型、服装、年龄、逐字逐句）。  \n限制参考图像的数量；过多的参考会平均面部并改变角色，因此应使用较少的参考。  \n一旦生成了想要保持一致的面孔，就锁定种子。  \n每8-10个镜头重新锚定角色，以抵消较长序列中的漂移。  \n使用负面prompts来抑制小的、不需要的变化，以防止它们在镜头间累积。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 加入我的新闻通讯: https://t.co/6GedxPDouP\n\n[Thread 2] @grok 用4行总结这个\n\n[Thread 3] @grok 还有其他建议吗\n---"
+    }
+  }
+}

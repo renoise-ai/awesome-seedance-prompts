@@ -1,0 +1,42 @@
+{
+  "id": "2073370487867215982",
+  "title": "Upload a character sheet (turnaround, expressions, wardrobe) once and reuse it…",
+  "content": "Upload a character sheet (turnaround, expressions, wardrobe) once and reuse it as a reference so the same face/scars/clothing stay consistent across all shots.  \nUse Seedance 2.0’s multi-reference input by adding text + images + video + audio (up to 12 files) in a single generation to lock character and style consistency.  \nWrite prompts like a shot list with cinematography details (e.g., CLOSE-UP, slow push-in) plus an explicit emotion/expression to control framing, camera motion, and performance.  \nGenerate in short segments (about 4–15 seconds per clip) and stitch the clips into scenes to build a full short film.  \nUse the cheap tier pricing ($0.05 per 5-second 720p clip) to prototype or produce longer films affordably by planning around ~24 clips for a 2-minute runtime.  \nEnd an episode mid-scene with a To be continued open loop to drive comments and reach, then release the next episode to capitalize on the built-in audience.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073329622272413696/img/PdTsmtj3pPZhQVme.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073370487867215982.mp4",
+  "sourceLink": "https://x.com/NexlowX/status/2073370487867215982",
+  "sourcePublishedAt": "2026-07-04",
+  "author": {
+    "name": "Nexlow",
+    "link": "https://x.com/NexlowX"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload a character sheet (turnaround, expressions, wardrobe) once and reuse it as a reference so the same face/scars/clothing stay consistent across all shots.  \nUse Seedance 2.0’s multi-reference input by adding text + images + video + audio (up to 12 files) in a single generation to lock character and style consistency.  \nWrite prompts like a shot list with cinematography details (e.g., CLOSE-UP, slow push-in) plus an explicit emotion/expression to control framing, camera motion, and performance.  \nGenerate in short segments (about 4–15 seconds per clip) and stitch the clips into scenes to build a full short film.  \nUse the cheap tier pricing ($0.05 per 5-second 720p clip) to prototype or produce longer films affordably by planning around ~24 clips for a 2-minute runtime.  \nEnd an episode mid-scene with a To be continued open loop to drive comments and reach, then release the next episode to capitalize on the built-in audience.",
+  "translations": {
+    "es": {
+      "content": "Sube una hoja de personaje (vista de 360 grados, expresiones, vestuario) una vez y reutilízala como referencia para que el mismo rostro/cicatrices/ropa se mantengan consistentes en todas las tomas.  \nUtiliza la entrada de múltiples referencias de Seedance 2.0 añadiendo texto + imágenes + video + audio (hasta 12 archivos) en una sola generación para asegurar la consistencia de personaje y estilo.  \nEscribe prompts como una lista de tomas con detalles de cinematografía (por ejemplo, CLOSE-UP, slow push-in) más una emoción/expresión explícita para controlar el encuadre, el movimiento de cámara y la actuación.  \nGenera en segmentos cortos (aproximadamente 4–15 segundos por clip) y une los clips en escenas para construir un cortometraje completo.  \nUtiliza la tarifa económica ($0.05 por clip de 5 segundos en 720p) para prototipar o producir películas más largas de manera asequible planificando alrededor de ~24 clips para una duración de 2 minutos.  \nTermina un episodio a mitad de escena con un bucle abierto de To be continued para impulsar comentarios y alcance, luego lanza el siguiente episodio para capitalizar la audiencia ya establecida."
+    },
+    "fr": {
+      "content": "---\nTéléchargez une fiche de personnage (vue sous différents angles, expressions, garde-robe) une fois et réutilisez-la comme référence pour que le même visage/cicatrices/vêtements restent cohérents dans tous les plans.  \nUtilisez l'entrée multi-références de Seedance 2.0 en ajoutant texte + images + vidéo + audio (jusqu'à 12 fichiers) dans une seule génération pour verrouiller la cohérence du personnage et du style.  \nÉcrivez des prompts comme une liste de plans avec des détails de cinématographie (par exemple, CLOSE-UP, slow push-in) plus une émotion/expression explicite pour contrôler le cadrage, le mouvement de la caméra et la performance.  \nGénérez en segments courts (environ 4 à 15 secondes par clip) et assemblez les clips en scènes pour construire un court-métrage complet.  \nUtilisez le tarif économique (0,05 $ par clip de 5 secondes en 720p) pour prototyper ou produire des films plus longs à moindre coût en planifiant environ 24 clips pour une durée de 2 minutes.  \nTerminez un épisode en milieu de scène avec un To be continued en boucle ouverte pour susciter des commentaires et atteindre un public, puis sortez l'épisode suivant pour capitaliser sur l'audience intégrée.\n---"
+    },
+    "ja": {
+      "content": "---\nキャラクターシート（ターンアラウンド、表情、衣装）を一度アップロードし、参照として再利用することで、すべてのショットで同じ顔/傷/服装を一貫して保つことができます。  \nSeedance 2.0のマルチリファレンス入力を使用して、テキスト + 画像 + ビデオ + オーディオ（最大12ファイル）を単一の生成に追加し、キャラクターとスタイルの一貫性を確保します。  \nプロンプトは、撮影リストのように撮影技術の詳細（例：CLOSE-UP、slow push-in）と明確な感情/表情を含めて書き、フレーミング、カメラの動き、パフォーマンスを制御します。  \n短いセグメント（クリップごとに約4〜15秒）で生成し、クリップをシーンに縫い合わせて完全な短編映画を構築します。  \n安価なティア価格（5秒の720pクリップあたり$0.05）を利用して、約24クリップで2分のランタイムを計画することで、プロトタイプや長編映画を手頃な価格で制作します。  \nエピソードをシーンの途中で「To be continued」のオープンループで終わらせ、コメントとリーチを促進し、次のエピソードをリリースして既存の視聴者を活用します。\n---"
+    },
+    "ko": {
+      "content": "---\n캐릭터 시트(턴어라운드, 표정, 의상)를 한 번 업로드하고 참조로 재사용하여 모든 샷에서 동일한 얼굴/흉터/의상이 일관되게 유지되도록 하세요.  \nSeedance 2.0의 다중 참조 입력을 사용하여 텍스트 + 이미지 + 비디오 + 오디오(최대 12개 파일)를 단일 생성에 추가하여 캐릭터와 스타일의 일관성을 고정하세요.  \n프롬프트를 촬영 목록처럼 작성하여 촬영 세부사항(예: CLOSE-UP, slow push-in)과 명확한 감정/표정을 추가하여 프레이밍, 카메라 움직임, 연기를 제어하세요.  \n짧은 세그먼트(클립당 약 4~15초)로 생성하고 클립을 장면으로 연결하여 전체 단편 영화를 만드세요.  \n저렴한 가격대($0.05 per 5-second 720p clip)를 사용하여 프로토타입을 만들거나 약 24개의 클립으로 2분 런타임을 계획하여 더 긴 영화를 경제적으로 제작하세요.  \n에피소드를 중간 장면에서 To be continued 오픈 루프로 끝내어 댓글과 도달을 유도한 후, 내장된 관객을 활용하여 다음 에피소드를 출시하세요.\n---"
+    },
+    "pt": {
+      "content": "Carregue uma folha de personagem (turnaround, expressões, figurino) uma vez e reutilize-a como referência para que o mesmo rosto/cicatrizes/roupas permaneçam consistentes em todas as cenas.  \nUse a entrada multi-referência do Seedance 2.0 adicionando texto + imagens + vídeo + áudio (até 12 arquivos) em uma única geração para garantir a consistência de personagem e estilo.  \nEscreva prompts como uma lista de tomadas com detalhes de cinematografia (por exemplo, CLOSE-UP, slow push-in) além de uma emoção/expressão explícita para controlar enquadramento, movimento de câmera e performance.  \nGere em segmentos curtos (cerca de 4–15 segundos por clipe) e costure os clipes em cenas para construir um curta-metragem completo.  \nUse a faixa de preço econômica ($0,05 por clipe de 5 segundos em 720p) para prototipar ou produzir filmes mais longos de forma acessível, planejando cerca de 24 clipes para um tempo de execução de 2 minutos.  \nTermine um episódio no meio de uma cena com um loop aberto de To be continued para gerar comentários e alcance, e depois lance o próximo episódio para capitalizar sobre o público já existente."
+    },
+    "zh": {
+      "content": "---\n上传角色表（包括角色转身、表情、服装）一次，并将其作为参考，以确保在所有镜头中面部/伤疤/服装保持一致。  \n使用Seedance 2.0的多参考输入，通过在单次生成中添加文本+图像+视频+音频（最多12个文件）来锁定角色和风格的一致性。  \n像拍摄清单一样编写提示，包含摄影细节（例如，CLOSE-UP，slow push-in）以及明确的情感/表情，以控制构图、镜头运动和表演。  \n生成短片段（每个片段约4–15秒），并将这些片段拼接成场景，以构建完整的短片。  \n使用廉价定价层（每个5秒720p片段$0.05）来经济高效地制作或制作更长的影片，通过计划大约24个片段来实现2分钟的播放时间。  \n在场景中途以To be continued开放式结尾来推动评论和传播，然后发布下一集以利用内置观众群体。  \n---"
+    }
+  }
+}

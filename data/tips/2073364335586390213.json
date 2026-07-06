@@ -1,0 +1,42 @@
+{
+  "id": "2073364335586390213",
+  "title": "Generate a multi-shot video in Seedance by prompting the first clip (e.g…",
+  "content": "Generate a multi-shot video in Seedance by prompting the first clip (e.g., “shot flying into the screen”), then capture a screenshot of its final frame and use that screenshot as reference media to generate the next clip for continuity.  \nUse multiple reference images of your character (e.g., three different views) as reference media when generating the next Seedance clip to keep the character consistent across shots.  \nCombine the separately generated Seedance clips in an editor and add music to finish the final video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073364148541325312/img/VLBIdZUooIgUnf7y.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073364335586390213.mp4",
+  "sourceLink": "https://x.com/aiIgnatius/status/2073364335586390213",
+  "sourcePublishedAt": "2026-07-04",
+  "author": {
+    "name": "Ignatius AI",
+    "link": "https://x.com/aiIgnatius"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a multi-shot video in Seedance by prompting the first clip (e.g., “shot flying into the screen”), then capture a screenshot of its final frame and use that screenshot as reference media to generate the next clip for continuity.  \nUse multiple reference images of your character (e.g., three different views) as reference media when generating the next Seedance clip to keep the character consistent across shots.  \nCombine the separately generated Seedance clips in an editor and add music to finish the final video.",
+  "translations": {
+    "es": {
+      "content": "Genera un video de múltiples tomas en Seedance comenzando con un prompt para el primer clip (por ejemplo, “shot flying into the screen”), luego captura una captura de pantalla de su fotograma final y utiliza esa captura como medio de referencia para generar el siguiente clip y mantener la continuidad.  \nUsa múltiples imágenes de referencia de tu personaje (por ejemplo, tres vistas diferentes) como medio de referencia al generar el siguiente clip de Seedance para mantener la consistencia del personaje a lo largo de las tomas.  \nCombina los clips de Seedance generados por separado en un editor y añade música para finalizar el video."
+    },
+    "fr": {
+      "content": "Générez une vidéo multi-plans dans Seedance en créant le premier clip (par exemple, “shot flying into the screen”), puis capturez une capture d'écran de son image finale et utilisez cette capture d'écran comme média de référence pour générer le clip suivant afin d'assurer la continuité.  \nUtilisez plusieurs images de référence de votre personnage (par exemple, trois vues différentes) comme média de référence lors de la génération du prochain clip Seedance pour maintenir la cohérence du personnage à travers les plans.  \nCombinez les clips Seedance générés séparément dans un éditeur et ajoutez de la musique pour finaliser la vidéo."
+    },
+    "ja": {
+      "content": "---\nSeedanceでマルチショットビデオを生成するには、最初のクリップをプロンプト（例：「画面に飛び込むショット」）し、その最終フレームのスクリーンショットをキャプチャして、次のクリップを生成する際の参照メディアとして使用し、連続性を保ちます。  \n次のSeedanceクリップを生成する際には、キャラクターの複数の参照画像（例：3つの異なるビュー）を参照メディアとして使用し、ショット間でキャラクターを一貫させます。  \n個別に生成したSeedanceクリップをエディターで組み合わせ、音楽を追加して最終ビデオを完成させます。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance에서 첫 번째 클립을 프롬프트하여(예: \"화면으로 날아가는 샷\") 멀티 샷 비디오를 생성한 다음, 마지막 프레임의 스크린샷을 캡처하여 다음 클립을 연속성 있게 생성하기 위한 참조 미디어로 사용하세요.  \n다음 Seedance 클립을 생성할 때 캐릭터의 여러 참조 이미지(예: 세 가지 다른 뷰)를 참조 미디어로 사용하여 샷 간에 캐릭터의 일관성을 유지하세요.  \n개별적으로 생성된 Seedance 클립을 편집기에서 결합하고 음악을 추가하여 최종 비디오를 완성하세요.  \n---"
+    },
+    "pt": {
+      "content": "Gere um vídeo com múltiplas tomadas no Seedance iniciando com um prompt para o primeiro clipe (por exemplo, “shot flying into the screen”), depois capture uma captura de tela do quadro final e use essa captura como mídia de referência para gerar o próximo clipe, garantindo continuidade.  \nUse várias imagens de referência do seu personagem (por exemplo, três vistas diferentes) como mídia de referência ao gerar o próximo clipe no Seedance para manter a consistência do personagem entre as tomadas.  \nCombine os clipes do Seedance gerados separadamente em um editor e adicione música para finalizar o vídeo."
+    },
+    "zh": {
+      "content": "在Seedance中生成一个多镜头视频，首先提示第一个片段（例如，“shot flying into the screen”），然后捕捉其最后一帧的截图，并使用该截图作为参考媒体生成下一个片段以保持连续性。  \n在生成下一个Seedance片段时，使用角色的多个参考图像（例如，三个不同视角）作为参考媒体，以保持角色在镜头之间的一致性。  \n在编辑器中组合单独生成的Seedance片段，并添加音乐以完成最终视频。"
+    }
+  }
+}

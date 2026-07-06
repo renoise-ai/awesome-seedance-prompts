@@ -1,0 +1,40 @@
+{
+  "id": "2073958247158231243",
+  "title": "{",
+  "content": "{\n  \"style\": \"Authentic early-1990s British Saturday-night ITV broadcast style, realistic recreation of Gladiators arena footage,\"\n}",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073957616506802176/img/V6bmaZgzSthL7jAh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073958247158231243.mp4",
+  "sourceLink": "https://x.com/mrdejie/status/2073958247158231243",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "MrDejie",
+    "link": "https://x.com/mrdejie"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Retro Film",
+    "Realistic World"
+  ],
+  "translations": {
+    "en": {
+      "content": "{\n  \"style\": \"Authentic early-1990s British Saturday-night ITV broadcast style, realistic recreation of Gladiators arena footage,\"\n}"
+    },
+    "es": {
+      "content": "{\n  \"style\": \"Estilo auténtico de transmisión de ITV británica de los sábados por la noche de principios de los años 90, recreación realista de imágenes de la arena de Gladiators,\"\n}"
+    },
+    "fr": {
+      "content": "{\n  \"style\": \"Style authentique des diffusions ITV du samedi soir du début des années 1990 au Royaume-Uni, recréation réaliste des images de l'arène de Gladiators,\"\n}"
+    },
+    "ko": {
+      "content": "{\n  \"style\": \"진짜 1990년대 초반 영국의 토요일 밤 ITV 방송 스타일, Gladiators 경기장 영상을 현실적으로 재현,\"\n}"
+    },
+    "pt": {
+      "content": "{\n  \"style\": \"Estilo autêntico de transmissão da ITV britânica de sábado à noite do início dos anos 1990, recriação realista de imagens da arena de Gladiators,\"\n}"
+    },
+    "zh": {
+      "content": "{\n  \"style\": \"真实再现1990年代早期英国周六晚上ITV广播风格，逼真再现《Gladiators》竞技场画面，\"\n}"
+    }
+  }
+}

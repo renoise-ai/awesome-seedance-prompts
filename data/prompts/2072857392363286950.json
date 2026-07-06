@@ -1,0 +1,41 @@
+{
+  "id": "2072857392363286950",
+  "title": "Image1の男性に Video1の人物の動きを忠実に再現させる。",
+  "content": "Image1の男性に Video1の人物の動きを忠実に再現させる。",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072855697415614464/img/gu-v0OIAuzJQpQYk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072857392363286950.mp4",
+  "sourceLink": "https://x.com/mi7_crypto/status/2072857392363286950",
+  "sourcePublishedAt": "2026-07-03",
+  "author": {
+    "name": "M7［mi7］AI",
+    "link": "https://x.com/mi7_crypto"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Transformation"
+  ],
+  "translations": {
+    "en": {
+      "content": "Recreate the movements of the person in Video1 with the man in Image1."
+    },
+    "es": {
+      "content": "Haz que el hombre de Image1 reproduzca fielmente los movimientos de la persona en Video1."
+    },
+    "fr": {
+      "content": "Reproduire fidèlement les mouvements de la personne dans Video1 par l'homme dans Image1."
+    },
+    "ko": {
+      "content": "Image1의 남성이 Video1의 인물 동작을 충실히 재현하도록 하세요."
+    },
+    "pt": {
+      "content": "Faça com que o homem na Image1 reproduza fielmente os movimentos da pessoa no Video1."
+    },
+    "zh": {
+      "content": "让Image1中的男性忠实再现Video1中人物的动作。"
+    }
+  }
+}

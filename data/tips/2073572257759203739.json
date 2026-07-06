@@ -1,0 +1,41 @@
+{
+  "id": "2073572257759203739",
+  "title": "Use an image as a storyboard reference and set it as the first shot (shot 01)…",
+  "content": "Use an image as a storyboard reference and set it as the first shot (shot 01) to guide a cinematic sequence in Seedance 2.0  \nPrompt for a 15-second video that transitions through all 6 storyboard panels in strict order to control sequence structure  \nSpecify a visual style like deep ocean atmosphere to enforce a consistent underwater documentary look across the sequence",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/churvikv/status/2073572257759203739",
+  "sourcePublishedAt": "2026-07-05",
+  "author": {
+    "name": "Viki",
+    "link": "https://x.com/churvikv"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an image as a storyboard reference and set it as the first shot (shot 01) to guide a cinematic sequence in Seedance 2.0  \nPrompt for a 15-second video that transitions through all 6 storyboard panels in strict order to control sequence structure  \nSpecify a visual style like deep ocean atmosphere to enforce a consistent underwater documentary look across the sequence",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen como referencia de storyboard y configúrala como la primera toma (shot 01) para guiar una secuencia cinematográfica en Seedance 2.0  \nPrompt for a 15-second video that transitions through all 6 storyboard panels in strict order to control sequence structure  \nEspecifica un estilo visual como atmósfera de océano profundo para asegurar una apariencia consistente de documental submarino a lo largo de la secuencia"
+    },
+    "fr": {
+      "content": "Utilisez une image comme référence de storyboard et définissez-la comme le premier plan (plan 01) pour guider une séquence cinématographique dans Seedance 2.0  \nPrompt for a 15-second video that transitions through all 6 storyboard panels in strict order to control sequence structure  \nSpécifiez un style visuel tel qu'une atmosphère d'océan profond pour assurer une apparence documentaire sous-marine cohérente tout au long de la séquence"
+    },
+    "ja": {
+      "content": "---\n画像をストーリーボードの参考として使用し、最初のショット（ショット01）として設定し、Seedance 2.0でのシネマティックシーケンスを導く  \nPrompt for a 15-second video that transitions through all 6 storyboard panels in strict order to control sequence structure  \nシーケンス全体で一貫した水中ドキュメンタリーの外観を維持するために、深海の雰囲気のようなビジュアルスタイルを指定する  \n---"
+    },
+    "ko": {
+      "content": "이미지를 스토리보드 참조로 사용하고 첫 번째 샷(샷 01)으로 설정하여 Seedance 2.0에서 시네마틱 시퀀스를 안내합니다.  \n시퀀스 구조를 제어하기 위해 모든 6개의 스토리보드 패널을 엄격한 순서로 전환하는 15초 비디오에 대한 프롬프트  \n시퀀스 전반에 걸쳐 일관된 수중 다큐멘터리 느낌을 유지하기 위해 심해 분위기와 같은 시각적 스타일을 지정하십시오."
+    },
+    "pt": {
+      "content": "Use uma imagem como referência de storyboard e defina-a como a primeira cena (cena 01) para guiar uma sequência cinematográfica no Seedance 2.0  \nPrompt for a 15-second video that transitions through all 6 storyboard panels in strict order to control sequence structure  \nEspecifique um estilo visual como atmosfera de oceano profundo para garantir uma aparência consistente de documentário subaquático ao longo da sequência"
+    },
+    "zh": {
+      "content": "使用一张图像作为分镜参考，并将其设置为第一个镜头（镜头01），以指导在Seedance 2.0中的电影序列  \nPrompt for a 15-second video that transitions through all 6 storyboard panels in strict order to control sequence structure  \n指定一种视觉风格，如深海氛围，以在整个序列中保持一致的水下纪录片外观"
+    }
+  }
+}

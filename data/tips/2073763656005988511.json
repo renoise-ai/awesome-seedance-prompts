@@ -1,0 +1,44 @@
+{
+  "id": "2073763656005988511",
+  "title": "プロンプトにボンネットカム(Hood-mounted camera)を指定して車載視点のショットを作る",
+  "content": "プロンプトにボンネットカム(Hood-mounted camera)を指定して車載視点のショットを作る  \nプロンプトにローアングル・グラウンドトラッキング(Low-angle ground tracking)を指定して地面すれすれの追従カメラを作る  \nプロンプトにドローン垂直ダイブ(Vertical drone dive)を指定して上空からの垂直急降下ショットを作る  \nプロンプトにウィップパン(Whip pan)を指定して高速パンによる切り替え演出を作る  \nプロンプトにサイドオービット・トラッキング(Side orbit tracking / Circular rail)を指定して被写体の周囲を回り込むトラッキングショットを作る",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073763014181072896/img/zHsBG-Mt8kJTk1w7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073763656005988511.mp4",
+  "sourceLink": "https://x.com/Nezko2026/status/2073763656005988511",
+  "sourcePublishedAt": "2026-07-05",
+  "author": {
+    "name": "Nezko2026",
+    "link": "https://x.com/Nezko2026"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV",
+    "FPV & Aerial"
+  ],
+  "tips": "プロンプトにボンネットカム(Hood-mounted camera)を指定して車載視点のショットを作る  \nプロンプトにローアングル・グラウンドトラッキング(Low-angle ground tracking)を指定して地面すれすれの追従カメラを作る  \nプロンプトにドローン垂直ダイブ(Vertical drone dive)を指定して上空からの垂直急降下ショットを作る  \nプロンプトにウィップパン(Whip pan)を指定して高速パンによる切り替え演出を作る  \nプロンプトにサイドオービット・トラッキング(Side orbit tracking / Circular rail)を指定して被写体の周囲を回り込むトラッキングショットを作る",
+  "translations": {
+    "en": {
+      "content": "Specify \"hood-mounted camera\" in the prompt to create an in-car perspective shot.  \nSpecify \"low-angle ground tracking\" in the prompt to create a ground-level tracking camera.  \nSpecify \"vertical drone dive\" in the prompt to create a vertical dive shot from above.  \nSpecify \"whip pan\" in the prompt to create a transition effect with a fast pan.  \nSpecify \"side orbit tracking / circular rail\" in the prompt to create a tracking shot that circles around the subject."
+    },
+    "es": {
+      "content": "---\nEspecifica \"Hood-mounted camera\" en el prompt para crear una toma desde la perspectiva del vehículo  \nEspecifica \"Low-angle ground tracking\" en el prompt para crear una cámara de seguimiento a ras del suelo  \nEspecifica \"Vertical drone dive\" en el prompt para crear una toma de descenso vertical desde el aire  \nEspecifica \"Whip pan\" en el prompt para crear un efecto de transición con un paneo rápido  \nEspecifica \"Side orbit tracking / Circular rail\" en el prompt para crear una toma de seguimiento que rodea al sujeto  \n---"
+    },
+    "fr": {
+      "content": "---\nSpécifiez \"Hood-mounted camera\" dans le prompt pour créer une prise de vue depuis le point de vue embarqué d'une voiture  \nSpécifiez \"Low-angle ground tracking\" dans le prompt pour créer une caméra de suivi rasant le sol  \nSpécifiez \"Vertical drone dive\" dans le prompt pour créer une prise de vue en plongée verticale depuis le ciel  \nSpécifiez \"Whip pan\" dans le prompt pour créer un effet de transition par un panoramique rapide  \nSpécifiez \"Side orbit tracking / Circular rail\" dans le prompt pour créer une prise de vue de suivi autour du sujet  \n---"
+    },
+    "ko": {
+      "content": "프로ンプ트에 Hood-mounted camera를 지정하여 차량 시점의 샷을 만들기  \n프로ンプ트에 Low-angle ground tracking을 지정하여 지면에 가까운 추적 카메라를 만들기  \n프로ンプ트에 Vertical drone dive를 지정하여 상공에서의 수직 급강하 샷을 만들기  \n프로ンプ트에 Whip pan을 지정하여 고속 팬에 의한 전환 연출을 만들기  \n프로ンプ트에 Side orbit tracking / Circular rail을 지정하여 피사체 주위를 도는 트래킹 샷을 만들기"
+    },
+    "pt": {
+      "content": "---\nEspecifique \"Hood-mounted camera\" no prompt para criar uma tomada de ponto de vista do carro  \nEspecifique \"Low-angle ground tracking\" no prompt para criar uma câmera de acompanhamento rente ao chão  \nEspecifique \"Vertical drone dive\" no prompt para criar uma tomada de mergulho vertical a partir do ar  \nEspecifique \"Whip pan\" no prompt para criar uma transição com pan rápido  \nEspecifique \"Side orbit tracking / Circular rail\" no prompt para criar uma tomada de acompanhamento que circunda o sujeito  \n---"
+    },
+    "zh": {
+      "content": "---\n在prompt中指定Hood-mounted camera以创建车载视角的镜头  \n在prompt中指定Low-angle ground tracking以创建地面贴近的追踪镜头  \n在prompt中指定Vertical drone dive以创建从空中垂直俯冲的镜头  \n在prompt中指定Whip pan以创建高速平移切换效果  \n在prompt中指定Side orbit tracking / Circular rail以创建绕着主体旋转的追踪镜头  \n---"
+    }
+  }
+}

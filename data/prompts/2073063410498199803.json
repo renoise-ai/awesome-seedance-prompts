@@ -1,0 +1,40 @@
+{
+  "id": "2073063410498199803",
+  "title": "Show me 7 different shots of this character living in his world. Refer to the…",
+  "content": "Show me 7 different shots of this character living in his world. Refer to the character sheet for details, overall vibe, and atmosphere.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073063339010535424/img/vK7obQcxZ-yE3VJi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073063410498199803.mp4",
+  "sourceLink": "https://x.com/Framer_X/status/2073063410498199803",
+  "sourcePublishedAt": "2026-07-03",
+  "author": {
+    "name": "Framer 🇱🇹",
+    "link": "https://x.com/Framer_X"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Muéstrame 7 tomas diferentes de este personaje viviendo en su mundo. Consulta la hoja de personaje para obtener detalles, el ambiente general y la atmósfera."
+    },
+    "fr": {
+      "content": "Montrez-moi 7 prises de vue différentes de ce personnage vivant dans son monde. Consultez la fiche de personnage pour les détails, l'ambiance générale et l'atmosphère."
+    },
+    "ja": {
+      "content": "---\nこのキャラクターが彼の世界で生活している様子を7つの異なるショットで見せてください。詳細、全体的な雰囲気、そして空気感についてはキャラクターシートを参照してください。\n---"
+    },
+    "ko": {
+      "content": "이 캐릭터가 그의 세계에서 살아가는 7가지 다른 샷을 보여주세요. 캐릭터 시트를 참조하여 세부 사항, 전체 분위기, 그리고 분위기를 확인하세요."
+    },
+    "pt": {
+      "content": "Mostre-me 7 diferentes tomadas deste personagem vivendo em seu mundo. Consulte a ficha do personagem para detalhes, vibração geral e atmosfera."
+    },
+    "zh": {
+      "content": "展示这个角色在他世界中生活的7个不同镜头。请参考角色表以获取详细信息、整体氛围和气氛。"
+    }
+  }
+}

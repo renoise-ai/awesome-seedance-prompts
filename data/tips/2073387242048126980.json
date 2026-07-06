@@ -1,0 +1,42 @@
+{
+  "id": "2073387242048126980",
+  "title": "ストーリーボードをリファレンスとしてアップロードし、Seedanceでキャラクター動画を生成する",
+  "content": "ストーリーボードをリファレンスとしてアップロードし、Seedanceでキャラクター動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073387188461633537/img/T-P8J9la0Fya4XWV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073387242048126980.mp4",
+  "sourceLink": "https://x.com/divarias_SUNO/status/2073387242048126980",
+  "sourcePublishedAt": "2026-07-04",
+  "author": {
+    "name": "To(-DIVARIAS -ディヴァーリアズ)",
+    "link": "https://x.com/divarias_SUNO"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ストーリーボードをリファレンスとしてアップロードし、Seedanceでキャラクター動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Upload the storyboard as a reference and generate character videos with Seedance."
+    },
+    "es": {
+      "content": "Sube el storyboard como referencia y genera un video de personajes en Seedance."
+    },
+    "fr": {
+      "content": "Téléchargez le storyboard comme référence et générez une vidéo de personnage avec Seedance."
+    },
+    "ko": {
+      "content": "스토리보드를 참조로 업로드하고, Seedance에서 캐릭터 영상을 생성하기"
+    },
+    "pt": {
+      "content": "Carregue o storyboard como referência e gere vídeos de personagens no Seedance."
+    },
+    "zh": {
+      "content": "将分镜作为参考上传，并在Seedance中生成角色视频。"
+    }
+  }
+}

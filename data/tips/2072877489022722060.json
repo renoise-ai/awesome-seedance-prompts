@@ -1,0 +1,42 @@
+{
+  "id": "2072877489022722060",
+  "title": "Seedance 2.0で自作音楽をリファレンスとして入力し、映像の動きを音に同期させる",
+  "content": "Seedance 2.0で自作音楽をリファレンスとして入力し、映像の動きを音に同期させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072856188228952064/img/4H-SohL93NKuIhOs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072877489022722060.mp4",
+  "sourceLink": "https://x.com/DreamArtLob/status/2072877489022722060",
+  "sourcePublishedAt": "2026-07-03",
+  "author": {
+    "name": "ヤマ",
+    "link": "https://x.com/DreamArtLob"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0で自作音楽をリファレンスとして入力し、映像の動きを音に同期させる",
+  "translations": {
+    "en": {
+      "content": "Input your own music as a reference in Seedance 2.0 to synchronize the movement of the visuals with the sound."
+    },
+    "es": {
+      "content": "Introduce tu música original como referencia en Seedance 2.0 para sincronizar el movimiento visual con el sonido."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.0, entrez votre propre musique comme référence pour synchroniser le mouvement de l'image avec le son."
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 자작 음악을 레퍼런스로 입력하고, 영상의 움직임을 음악에 동기화시키기"
+    },
+    "pt": {
+      "content": "No Seedance 2.0, insira sua própria música como referência para sincronizar o movimento do vídeo com o som."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中，将自创音乐作为参考输入，使影像的动作与音乐同步。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2073718286202687734",
+  "title": "Specify a camera lens in the reference frame prompt (e.g., 35mm vs 85mm) to…",
+  "content": "Specify a camera lens in the reference frame prompt (e.g., 35mm vs 85mm) to control depth and reduce distortion during pans/dollies.  \nDescribe lighting with direction and color temperature (e.g., key light from camera-left, 5600K) instead of just saying cinematic to prevent shadow/lighting artifacts in motion.  \nSet an explicit shot type (wide/medium/macro) in the reference frame prompt to constrain framing and reduce drift across the clip.  \nUse a single anchor mood word to stabilize color grading across frames instead of a long list of adjectives that can cause grade shifts.  \nMaintain environment continuity by keeping landmarks and light sources consistent in the reference frame prompt to prevent background swaps mid-motion.  \nInclude a specific cinematic reference (director or film style) in the reference frame prompt to avoid generic staging and lock the visual language faster.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073718220293349376/img/i79fiuofmTazfAjm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073718286202687734.mp4",
+  "sourceLink": "https://x.com/NexlowX/status/2073718286202687734",
+  "sourcePublishedAt": "2026-07-05",
+  "author": {
+    "name": "Nexlow",
+    "link": "https://x.com/NexlowX"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify a camera lens in the reference frame prompt (e.g., 35mm vs 85mm) to control depth and reduce distortion during pans/dollies.  \nDescribe lighting with direction and color temperature (e.g., key light from camera-left, 5600K) instead of just saying cinematic to prevent shadow/lighting artifacts in motion.  \nSet an explicit shot type (wide/medium/macro) in the reference frame prompt to constrain framing and reduce drift across the clip.  \nUse a single anchor mood word to stabilize color grading across frames instead of a long list of adjectives that can cause grade shifts.  \nMaintain environment continuity by keeping landmarks and light sources consistent in the reference frame prompt to prevent background swaps mid-motion.  \nInclude a specific cinematic reference (director or film style) in the reference frame prompt to avoid generic staging and lock the visual language faster.",
+  "translations": {
+    "es": {
+      "content": "Especifica una lente de cámara en el prompt de referencia (por ejemplo, 35mm vs 85mm) para controlar la profundidad y reducir la distorsión durante los movimientos de cámara como pans/dollies.  \nDescribe la iluminación con dirección y temperatura de color (por ejemplo, luz principal desde la izquierda de la cámara, 5600K) en lugar de simplemente decir cinematográfico para evitar artefactos de sombras/iluminación en movimiento.  \nEstablece un tipo de toma explícito (amplia/media/macro) en el prompt de referencia para restringir el encuadre y reducir el desplazamiento a lo largo del clip.  \nUsa una sola palabra de ánimo como ancla para estabilizar la gradación de color a través de los fotogramas en lugar de una larga lista de adjetivos que pueden causar cambios en la gradación.  \nMantén la continuidad del entorno manteniendo coherentes los puntos de referencia y las fuentes de luz en el prompt de referencia para evitar cambios de fondo a mitad de movimiento.  \nIncluye una referencia cinematográfica específica (director o estilo de película) en el prompt de referencia para evitar una puesta en escena genérica y fijar el lenguaje visual más rápidamente."
+    },
+    "fr": {
+      "content": "Spécifiez un objectif de caméra dans le prompt de cadre de référence (par exemple, 35mm vs 85mm) pour contrôler la profondeur et réduire la distorsion lors des mouvements de panoramique/dolly.  \nDécrivez l'éclairage avec la direction et la température de couleur (par exemple, lumière principale depuis la gauche de la caméra, 5600K) au lieu de simplement dire cinématographique pour éviter les artefacts d'ombre/éclairage en mouvement.  \nDéfinissez un type de plan explicite (large/moyen/macro) dans le prompt de cadre de référence pour contraindre le cadrage et réduire la dérive tout au long du clip.  \nUtilisez un seul mot d'humeur ancre pour stabiliser l'étalonnage des couleurs à travers les cadres au lieu d'une longue liste d'adjectifs qui peuvent provoquer des changements de teinte.  \nMaintenez la continuité de l'environnement en gardant les repères et les sources de lumière cohérents dans le prompt de cadre de référence pour éviter les échanges de fond en cours de mouvement.  \nIncluez une référence cinématographique spécifique (réalisateur ou style de film) dans le prompt de cadre de référence pour éviter une mise en scène générique et verrouiller plus rapidement le langage visuel."
+    },
+    "ja": {
+      "content": "---\nリファレンスフレームのプロンプトでカメラレンズを指定する（例：35mm vs 85mm）ことで、パン/ドリー中の歪みを減らし、奥行きを制御します。  \nライティングは方向と色温度で説明します（例：カメラ左からのキーライト、5600K）。単に「シネマティック」と言うだけでは、動きの中で影やライティングのアーティファクトを防げません。  \nリファレンスフレームのプロンプトで明確なショットタイプ（ワイド/ミディアム/マクロ）を設定し、フレーミングを制約し、クリップ全体でのドリフトを減らします。  \n単一のアンカームードワードを使用して、フレーム間のカラーグレーディングを安定させます。形容詞の長いリストは、グレードのシフトを引き起こす可能性があります。  \nリファレンスフレームのプロンプトでランドマークや光源を一貫して保持することで、環境の連続性を維持し、動きの途中での背景の入れ替えを防ぎます。  \nリファレンスフレームのプロンプトに特定のシネマティックリファレンス（監督や映画スタイル）を含めることで、一般的なステージングを避け、視覚言語をより速く固定します。\n---"
+    },
+    "ko": {
+      "content": "참조 프레임 프롬프트에서 카메라 렌즈를 지정하세요 (예: 35mm vs 85mm) 이는 팬/돌리 중 깊이를 제어하고 왜곡을 줄이는 데 도움이 됩니다.  \n조명을 설명할 때는 방향과 색온도를 포함하세요 (예: 카메라 왼쪽에서 키 라이트, 5600K) 단순히 시네마틱하다고만 하지 말고, 움직임 중 그림자/조명 아티팩트를 방지하세요.  \n참조 프레임 프롬프트에서 명확한 샷 타입(와이드/미디엄/매크로)을 설정하여 프레이밍을 제한하고 클립 전반에 걸쳐 드리프트를 줄이세요.  \n프레임 간 색 보정을 안정화하기 위해 긴 형용사 목록 대신 단일 앵커 무드 단어를 사용하세요.  \n참조 프레임 프롬프트에서 랜드마크와 광원 일관성을 유지하여 움직임 중 배경 전환을 방지하고 환경 연속성을 유지하세요.  \n참조 프레임 프롬프트에 특정 시네마틱 참조(감독 또는 영화 스타일)를 포함하여 일반적인 스테이징을 피하고 시각적 언어를 더 빠르게 고정하세요."
+    },
+    "pt": {
+      "content": "Especifique uma lente de câmera no prompt do quadro de referência (por exemplo, 35mm vs 85mm) para controlar a profundidade e reduzir a distorção durante pans/dollies.  \nDescreva a iluminação com direção e temperatura de cor (por exemplo, luz principal à esquerda da câmera, 5600K) em vez de apenas dizer cinematográfico para evitar artefatos de sombra/iluminação em movimento.  \nDefina um tipo de tomada explícito (ampla/média/macro) no prompt do quadro de referência para restringir o enquadramento e reduzir o desvio ao longo do clipe.  \nUse uma única palavra âncora de humor para estabilizar a gradação de cor entre os quadros em vez de uma longa lista de adjetivos que podem causar mudanças na gradação.  \nMantenha a continuidade do ambiente mantendo marcos e fontes de luz consistentes no prompt do quadro de referência para evitar trocas de fundo durante o movimento.  \nInclua uma referência cinematográfica específica (diretor ou estilo de filme) no prompt do quadro de referência para evitar encenações genéricas e fixar a linguagem visual mais rapidamente."
+    },
+    "zh": {
+      "content": "在参考帧提示中指定相机镜头（例如，35mm vs 85mm）以控制深度并减少在平移/移动拍摄时的失真。  \n描述光线时使用方向和色温（例如，主光从相机左侧，5600K），而不是仅仅说“cinematic”，以防止运动中的阴影/光线伪影。  \n在参考帧提示中设置明确的镜头类型（广角/中景/微距）以限制构图并减少剪辑中的漂移。  \n使用单一的锚定情绪词来稳定帧间的色彩分级，而不是使用可能导致色调变化的长形容词列表。  \n通过在参考帧提示中保持地标和光源的一致性来维护环境连续性，以防止在运动中途背景交换。  \n在参考帧提示中包含特定的电影参考（导演或电影风格），以避免通用的布景，并更快地锁定视觉语言。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2073252713081540987",
+  "title": "Block out your scene in 3D, record a real cinema camera move, then render it…",
+  "content": "Block out your scene in 3D, record a real cinema camera move, then render it through Seedance 2.0 to transfer the exact camera trajectory, timing, and framing.\n\nGenerate a ~15-second “clay pass” of the blocked 3D scene with the recorded camera move and use it as the control/reference so Seedance 2.0 follows the shot like a real DP-directed camera.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2073252681464868864/pu/img/rg-FayAPBvhZI2YH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073252713081540987.mp4",
+  "sourceLink": "https://x.com/neuraltechai/status/2073252713081540987",
+  "sourcePublishedAt": "2026-07-04",
+  "author": {
+    "name": "Deenu Khan",
+    "link": "https://x.com/neuraltechai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Block out your scene in 3D, record a real cinema camera move, then render it through Seedance 2.0 to transfer the exact camera trajectory, timing, and framing.\n\nGenerate a ~15-second “clay pass” of the blocked 3D scene with the recorded camera move and use it as the control/reference so Seedance 2.0 follows the shot like a real DP-directed camera.",
+  "translations": {
+    "es": {
+      "content": "Bloquea tu escena en 3D, graba un movimiento de cámara de cine real, luego renderízalo a través de Seedance 2.0 para transferir la trayectoria exacta de la cámara, el tiempo y el encuadre.\n\nGenera un “clay pass” de ~15 segundos de la escena 3D bloqueada con el movimiento de cámara grabado y úsalo como control/referencia para que Seedance 2.0 siga la toma como una cámara dirigida por un director de fotografía real."
+    },
+    "fr": {
+      "content": "Bloquez votre scène en 3D, enregistrez un mouvement de caméra de cinéma réel, puis rendez-le via Seedance 2.0 pour transférer la trajectoire, le timing et le cadrage exacts de la caméra.\n\nGénérez un « clay pass » d'environ 15 secondes de la scène 3D bloquée avec le mouvement de caméra enregistré et utilisez-le comme contrôle/référence pour que Seedance 2.0 suive le plan comme une caméra dirigée par un vrai directeur de la photographie."
+    },
+    "ja": {
+      "content": "---\nシーンを3Dでブロックアウトし、実際のシネマカメラの動きを記録した後、Seedance 2.0を通じて正確なカメラの軌道、タイミング、フレーミングを転送します。\n\n記録したカメラの動きを使用して、ブロックされた3Dシーンの約15秒の「クレイパス」を生成し、それをコントロール/リファレンスとして使用して、Seedance 2.0が実際のDPが指示したカメラのようにショットを追従するようにします。\n---"
+    },
+    "ko": {
+      "content": "3D로 장면을 블록 아웃하고 실제 영화 카메라 움직임을 기록한 다음, Seedance 2.0을 통해 정확한 카메라 궤적, 타이밍 및 프레이밍을 전송하세요.\n\n기록된 카메라 움직임과 함께 블록 처리된 3D 장면의 약 15초 \"clay pass\"를 생성하고 이를 제어/참조로 사용하여 Seedance 2.0이 실제 DP가 지시한 카메라처럼 샷을 따르도록 하세요."
+    },
+    "pt": {
+      "content": "Bloqueie sua cena em 3D, grave um movimento real de câmera de cinema, depois renderize através do Seedance 2.0 para transferir a trajetória exata da câmera, o tempo e o enquadramento.\n\nGere um “clay pass” de ~15 segundos da cena 3D bloqueada com o movimento de câmera gravado e use-o como controle/referência para que o Seedance 2.0 siga a tomada como uma câmera dirigida por um diretor de fotografia real."
+    },
+    "zh": {
+      "content": "在3D中构建你的场景，记录一个真实的电影摄像机移动，然后通过Seedance 2.0渲染，以传输精确的摄像机轨迹、时间和构图。\n\n生成一个约15秒的“clay pass”版本的3D场景，使用记录的摄像机移动，并将其用作控制/参考，以便Seedance 2.0像真正的摄影指导摄像机一样跟随镜头。"
+    }
+  }
+}

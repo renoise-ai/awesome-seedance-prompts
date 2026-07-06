@@ -1,0 +1,42 @@
+{
+  "id": "2073702930977591684",
+  "title": "先用 Nano Banana Pro / GPT Image 2 搭建并统一角色与场景资产，再把这些资产用于 Seedance 2…",
+  "content": "先用 Nano Banana Pro / GPT Image 2 搭建并统一角色与场景资产，再把这些资产用于 Seedance 2 生成动画与对口型片段，以保证同一角色在不同镜头里一致  \n用 Claude 先写好风格与分镜提示词（storyboard prompts），再把分镜提示词喂给 Seedance 2 按镜头生成动画片段，而不是反复“抽卡”碰运气  \n按流水线制作：统一资产 → 分镜生成（Seedance 2）→ 音乐/配音（Suno）→ 对口型（Seedance 2）→ 最后剪辑合成成片",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073701857277665280/img/F_VYglwMKoDPgf76.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073702930977591684.mp4",
+  "sourceLink": "https://x.com/Vincent_AINotes/status/2073702930977591684",
+  "sourcePublishedAt": "2026-07-05",
+  "author": {
+    "name": "Vincent",
+    "link": "https://x.com/Vincent_AINotes"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先用 Nano Banana Pro / GPT Image 2 搭建并统一角色与场景资产，再把这些资产用于 Seedance 2 生成动画与对口型片段，以保证同一角色在不同镜头里一致  \n用 Claude 先写好风格与分镜提示词（storyboard prompts），再把分镜提示词喂给 Seedance 2 按镜头生成动画片段，而不是反复“抽卡”碰运气  \n按流水线制作：统一资产 → 分镜生成（Seedance 2）→ 音乐/配音（Suno）→ 对口型（Seedance 2）→ 最后剪辑合成成片",
+  "translations": {
+    "en": {
+      "content": "First, use Nano Banana Pro / GPT Image 2 to build and unify character and scene assets, then use these assets in Seedance 2 to generate animation and lip-sync segments, ensuring the same character remains consistent across different shots.  \nUse Claude to write style and storyboard prompts first, then feed the storyboard prompts to Seedance 2 to generate animation segments by shot, rather than repeatedly \"drawing cards\" and hoping for luck.  \nFollow the production pipeline: unify assets → storyboard generation (Seedance 2) → music/voiceover (Suno) → lip-sync (Seedance 2) → final editing and composition into a film.\n\n--- QUOTED TWEET ---\nIn creating AI children's animation, the hardest part is no longer \"making the character move,\" but ensuring the same character consistently looks like the same person across different shots.\n\nThe core of this process is not a particular model, but:\n\nUnify character and scene assets → storyboard generation → music and voiceover → lip-sync → edit into a film.\n\nThe complete workflow is in the next tweet.👇 https://t.co/LXzUTETpvG"
+    },
+    "es": {
+      "content": "Primero utiliza Nano Banana Pro / GPT Image 2 para construir y unificar los activos de personajes y escenarios, luego emplea estos activos en Seedance 2 para generar animaciones y segmentos de sincronización labial, asegurando que el mismo personaje sea consistente en diferentes tomas.  \nUsa Claude para escribir primero los prompts de estilo y storyboard, luego alimenta estos prompts de storyboard a Seedance 2 para generar segmentos de animación por toma, en lugar de \"tirar los dados\" repetidamente.  \nSigue una producción en línea: unificación de activos → generación de storyboard (Seedance 2) → música/doblaje (Suno) → sincronización labial (Seedance 2) → finalmente edición y composición del video.\n\n--- TWEET CITADO ---\nHacer animación infantil con IA, lo más difícil ya no es \"hacer que los personajes se muevan\", sino lograr que el mismo personaje en diferentes tomas siempre parezca la misma persona.\n\nEl núcleo de este flujo de trabajo no es un modelo específico, sino:\n\nUnificación de activos de personajes y escenarios → Generación de storyboard → Música y doblaje → Sincronización labial → Edición final del video.\n\nEl flujo de trabajo completo está en el siguiente tweet.👇 https://t.co/LXzUTETpvG"
+    },
+    "fr": {
+      "content": "---\nCommencez par utiliser Nano Banana Pro / GPT Image 2 pour créer et unifier les personnages et les actifs de scène, puis utilisez ces actifs pour que Seedance 2 génère des animations et des segments de synchronisation labiale, afin de garantir la cohérence du même personnage dans différents plans.  \nUtilisez d'abord Claude pour rédiger les prompts de style et de storyboard, puis alimentez Seedance 2 avec ces prompts de storyboard pour générer des segments d'animation par plan, plutôt que de \"tirer au sort\" à répétition en espérant avoir de la chance.  \nProcédez par étapes : unification des actifs → génération de storyboard (Seedance 2) → musique/voix off (Suno) → synchronisation labiale (Seedance 2) → montage final pour créer le film.\n\n--- TWEET CITÉ ---\nDans l'animation pour enfants avec l'IA, le plus difficile n'est plus de \"faire bouger les personnages\", mais de faire en sorte que le même personnage ressemble toujours à la même personne dans différents plans.\n\nLe cœur de ce processus n'est pas un modèle particulier, mais :\n\nUnification des personnages et des actifs de scène → Génération de storyboard → Musique et voix off → Synchronisation labiale → Montage final.\n\nLe flux de travail complet est dans le prochain tweet.👇 https://t.co/LXzUTETpvG\n---"
+    },
+    "ja": {
+      "content": "---\nまず、Nano Banana Pro / GPT Image 2を使用してキャラクターとシーンのアセットを構築し統一します。次に、これらのアセットをSeedance 2でアニメーションとリップシンクのセグメントを生成するために使用し、異なるカメラショットで同じキャラクターが一貫していることを保証します。  \nClaudeを使ってスタイルと分割ショットのプロンプト（storyboard prompts）を先に作成し、そのプロンプトをSeedance 2に入力してショットごとにアニメーションセグメントを生成します。これにより、繰り返し「抽選」をして運に頼ることを避けます。  \nパイプラインに従って制作します：アセットの統一 → 分割ショット生成（Seedance 2）→ 音楽/声優（Suno）→ リップシンク（Seedance 2）→ 最後に編集して完成品に合成\n\n--- 引用ツイート ---\nAIを使った子供向けアニメーション制作で最も難しいのは、「キャラクターを動かすこと」ではなく、異なるカメラショットで同じキャラクターが常に同一人物に見えるようにすることです。\n\nこのプロセスの核心は特定のモデルではなく：\n\nキャラクターとシーンのアセットの統一 → 分割ショット生成 → 音楽と声優 → リップシンク → 編集して完成品にすることです。\n\n完全なワークフローは次のツイートにあります。👇 https://t.co/LXzUTETpvG\n---"
+    },
+    "ko": {
+      "content": "---\n먼저 Nano Banana Pro / GPT Image 2를 사용하여 캐릭터와 장면 자산을 구축하고 통일한 후, 이러한 자산을 Seedance 2에 사용하여 애니메이션과 립싱크 장면을 생성하여 동일한 캐릭터가 다른 카메라 샷에서도 일관성을 유지하도록 합니다.  \nClaude를 사용하여 스타일과 스토리보드 프롬프트를 먼저 작성한 다음, 스토리보드 프롬프트를 Seedance 2에 입력하여 카메라 샷에 따라 애니메이션 클립을 생성하도록 합니다. 반복적으로 \"추첨\"하여 운에 맡기지 않습니다.  \n파이프라인 제작: 자산 통일 → 스토리보드 생성 (Seedance 2) → 음악/더빙 (Suno) → 립싱크 (Seedance 2) → 최종 편집 및 합성\n\n--- 인용 트윗 ---\nAI 어린이 애니메이션을 만들 때, 가장 어려운 것은 \"캐릭터를 움직이게 하는 것\"이 아니라, 동일한 캐릭터가 다른 카메라 샷에서도 항상 같은 사람처럼 보이게 하는 것입니다.\n\n이 프로세스의 핵심은 특정 모델이 아니라:\n\n캐릭터와 장면 자산 통일 → 스토리보드 생성 → 음악 더빙 → 립싱크 → 편집 및 합성.\n\n전체 워크플로우는 다음 트윗에 있습니다.👇 https://t.co/LXzUTETpvG\n---"
+    },
+    "pt": {
+      "content": "---\nPrimeiro, use o Nano Banana Pro / GPT Image 2 para criar e unificar os ativos de personagens e cenários, e depois utilize esses ativos no Seedance 2 para gerar animações e segmentos de sincronização labial, garantindo que o mesmo personagem permaneça consistente em diferentes tomadas.  \nUse o Claude para escrever os prompts de estilo e storyboard, e depois alimente esses prompts no Seedance 2 para gerar segmentos de animação por cena, em vez de tentar a sorte repetidamente.  \nProduza em linha de montagem: unificação de ativos → geração de storyboard (Seedance 2) → música/narração (Suno) → sincronização labial (Seedance 2) → edição final e composição do filme.\n\n--- TWEET CITADO ---\nAo fazer animações infantis com IA, o mais difícil já não é \"fazer o personagem se mover\", mas sim garantir que o mesmo personagem pareça a mesma pessoa em diferentes tomadas.\n\nO núcleo deste fluxo de trabalho não é um modelo específico, mas sim:\n\nUnificação de ativos de personagens e cenários → Geração de storyboard → Música e narração → Sincronização labial → Edição final do filme.\n\nFluxo de trabalho completo na próxima postagem.👇 https://t.co/LXzUTETpvG\n---"
+    }
+  }
+}

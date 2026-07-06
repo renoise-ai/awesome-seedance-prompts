@@ -1,0 +1,42 @@
+{
+  "id": "2073929656831738160",
+  "title": "用 MidJourney 生成原画作为视觉素材，再用 GPT 输出分镜脚本与运镜描述，最后把原画与脚本/运镜指令输入 Seedance 进行视频合成",
+  "content": "用 MidJourney 生成原画作为视觉素材，再用 GPT 输出分镜脚本与运镜描述，最后把原画与脚本/运镜指令输入 Seedance 进行视频合成",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073929545716207616/img/uYWM4ooXFOw7GrHl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073929656831738160.mp4",
+  "sourceLink": "https://x.com/TanShilong/status/2073929656831738160",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "MarioTan",
+    "link": "https://x.com/TanShilong"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用 MidJourney 生成原画作为视觉素材，再用 GPT 输出分镜脚本与运镜描述，最后把原画与脚本/运镜指令输入 Seedance 进行视频合成",
+  "translations": {
+    "en": {
+      "content": "Use MidJourney to generate original artwork as visual material, then use GPT to output storyboard scripts and camera movement descriptions. Finally, input the artwork and script/camera movement instructions into Seedance for video synthesis."
+    },
+    "es": {
+      "content": "Usa MidJourney para generar arte original como material visual, luego utiliza GPT para producir un guion gráfico y descripciones de movimientos de cámara, finalmente introduce el arte original y el guion/movimientos de cámara en Seedance para la síntesis de video."
+    },
+    "fr": {
+      "content": "Utilisez MidJourney pour générer des illustrations originales comme matériel visuel, puis utilisez GPT pour produire un script de storyboard et une description de mouvement de caméra. Enfin, entrez les illustrations originales et les instructions de script/mouvement de caméra dans Seedance pour la synthèse vidéo."
+    },
+    "ja": {
+      "content": "MidJourneyを使用して原画を生成し、それを視覚素材として利用します。次に、GPTを用いて分鏡脚本と運鏡の説明を出力します。最後に、原画と脚本/運鏡指令をSeedanceに入力して動画を合成します。"
+    },
+    "ko": {
+      "content": "MidJourney를 사용하여 원화를 생성하고 시각적 소재로 활용한 후, GPT로 스토리보드 스크립트와 카메라 움직임 설명을 출력합니다. 마지막으로 원화와 스크립트/카메라 움직임 지시를 Seedance에 입력하여 비디오 합성을 진행합니다."
+    },
+    "pt": {
+      "content": "Use o MidJourney para gerar arte original como material visual, depois use o GPT para criar o roteiro de storyboard e a descrição de movimentos de câmera, e por fim insira a arte original e o roteiro/instruções de movimentos no Seedance para a composição do vídeo."
+    }
+  }
+}

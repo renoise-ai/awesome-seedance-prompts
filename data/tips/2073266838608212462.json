@@ -1,0 +1,42 @@
+{
+  "id": "2073266838608212462",
+  "title": "LovartのMidjourneyでキャラクターの絵柄（スタイル）を作り、その画像をSeedance 2.0 Miniに入れてアニメーション化する",
+  "content": "LovartのMidjourneyでキャラクターの絵柄（スタイル）を作り、その画像をSeedance 2.0 Miniに入れてアニメーション化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HMXI7VRa4AAW0qZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073266838608212462.mp4",
+  "sourceLink": "https://x.com/asatoucan/status/2073266838608212462",
+  "sourcePublishedAt": "2026-07-04",
+  "author": {
+    "name": "asatoucan",
+    "link": "https://x.com/asatoucan"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "LovartのMidjourneyでキャラクターの絵柄（スタイル）を作り、その画像をSeedance 2.0 Miniに入れてアニメーション化する",
+  "translations": {
+    "en": {
+      "content": "Create a character style in Lovart's Midjourney and animate it by inputting the image into Seedance 2.0 Mini."
+    },
+    "es": {
+      "content": "Crear el estilo de un personaje en Midjourney de Lovart y luego animar esa imagen en Seedance 2.0 Mini."
+    },
+    "fr": {
+      "content": "Créer un style de personnage avec Lovart dans Midjourney, puis importer cette image dans Seedance 2.0 Mini pour l'animer."
+    },
+    "ko": {
+      "content": "Lovart의 Midjourney에서 캐릭터의 그림 스타일을 만들고, 그 이미지를 Seedance 2.0 Mini에 넣어 애니메이션화하기"
+    },
+    "pt": {
+      "content": "Criar o estilo de personagem no Midjourney do Lovart e inserir essa imagem no Seedance 2.0 Mini para animá-la."
+    },
+    "zh": {
+      "content": "在Lovart的Midjourney中创建角色的绘画风格（スタイル），然后将图像导入Seedance 2.0 Mini进行动画化。"
+    }
+  }
+}

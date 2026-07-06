@@ -1,0 +1,42 @@
+{
+  "id": "2072987340243640347",
+  "title": "プロンプトだけだと意図したカメラワークにならない場合、Blenderで簡易なカメラREF（カメラ動きだけの参考動画）を作ってSeedanceにリファレンスとして…",
+  "content": "プロンプトだけだと意図したカメラワークにならない場合、Blenderで簡易なカメラREF（カメラ動きだけの参考動画）を作ってSeedanceにリファレンスとして読み込ませ、カメラワークを誘導する  \nBlenderのカメラREFは見た目を作り込まず、カメラワークだけを読ませる目的でシンプルに作成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HMTajQIaUAAji-M.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072987340243640347.mp4",
+  "sourceLink": "https://x.com/moframe2026/status/2072987340243640347",
+  "sourcePublishedAt": "2026-07-03",
+  "author": {
+    "name": "moframe | モフレーム",
+    "link": "https://x.com/moframe2026"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "プロンプトだけだと意図したカメラワークにならない場合、Blenderで簡易なカメラREF（カメラ動きだけの参考動画）を作ってSeedanceにリファレンスとして読み込ませ、カメラワークを誘導する  \nBlenderのカメラREFは見た目を作り込まず、カメラワークだけを読ませる目的でシンプルに作成する",
+  "translations": {
+    "en": {
+      "content": "If the prompt alone does not achieve the intended camera work, create a simple camera REF (a reference video focusing solely on camera movement) in Blender and load it into Seedance as a reference to guide the camera work. The Blender camera REF should be created simply, without detailed visuals, focusing solely on conveying the camera work.\n\n--- THREAD CONTINUATION ---\n[Thread 1] By the way, here is the Blender camera REF I used 🧹\n\nThe visuals are quite simple, but it is made with the purpose of conveying only the camera work. https://t.co/fMgg1h3z05\n---"
+    },
+    "es": {
+      "content": "Si solo con el prompt no se logra el trabajo de cámara deseado, se puede crear una referencia de cámara simple en Blender (un video de referencia solo del movimiento de cámara) y cargarlo en Seedance como referencia para guiar el trabajo de cámara.  \nLa referencia de cámara en Blender se debe crear de manera sencilla, sin elaborar en la apariencia, con el único objetivo de leer el trabajo de cámara.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Por cierto, aquí está la referencia de cámara de Blender que usé🧹\n\nLa apariencia es bastante simple, pero está hecha con el propósito de leer solo el trabajo de cámara. https://t.co/fMgg1h3z05\n---"
+    },
+    "fr": {
+      "content": "Si le simple prompt ne permet pas d'obtenir le travail de caméra souhaité, créez une caméra REF simple dans Blender (une vidéo de référence uniquement pour le mouvement de la caméra) et importez-la dans Seedance comme référence pour guider le travail de caméra. La caméra REF de Blender doit être créée de manière simple, sans se concentrer sur l'apparence, dans le but de transmettre uniquement le travail de caméra.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] À propos, voici la caméra REF de Blender que j'ai utilisée 🧹\n\nL'apparence est assez simple, mais elle est conçue dans le but de transmettre uniquement le travail de caméra. https://t.co/fMgg1h3z05"
+    },
+    "ko": {
+      "content": "프로프트만으로 의도한 카메라워크가 되지 않을 경우, Blender에서 간단한 카메라 REF(카메라 움직임만의 참고 영상)를 만들어 Seedance에 레퍼런스로 읽어들이고, 카메라워크를 유도합니다.  \nBlender의 카메라 REF는 외형을 만들지 않고, 카메라워크만 읽히는 목적을 위해 간단하게 제작합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 참고로 사용한 Blender 카메라 REF는 이쪽입니다🧹\n\n외형은 상당히 간단하지만,\n카메라워크만 읽히는 목적을 위해 만들었습니다. https://t.co/fMgg1h3z05\n---"
+    },
+    "pt": {
+      "content": "---\nSe apenas o prompt não resultar no trabalho de câmera desejado, crie uma referência de câmera simples no Blender (um vídeo de referência apenas com o movimento da câmera) e carregue-a no Seedance como referência para guiar o trabalho de câmera.  \nA referência de câmera do Blender deve ser criada de forma simples, com o objetivo de apenas transmitir o trabalho de câmera, sem se preocupar com a aparência.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] A propósito, aqui está a referência de câmera do Blender que usei🧹\n\nA aparência é bastante simples, mas foi feita com o propósito de apenas transmitir o trabalho de câmera. https://t.co/fMgg1h3z05\n---"
+    },
+    "zh": {
+      "content": "如果仅靠prompt无法实现预期的摄像机运动，可以在Blender中制作一个简单的摄像机REF（仅供参考的摄像机运动视频），并将其作为参考导入Seedance，以引导摄像机运动。  \nBlender的摄像机REF不需要精细制作外观，只需简单制作以传达摄像机运动为目的。\n\n--- 线程继续 ---\n[线程 1] 顺便一提，这里是我使用的Blender摄像机REF🧹\n\n外观非常简单，\n但目的是为了传达摄像机运动。 https://t.co/fMgg1h3z05\n---"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2073115565150052371",
+  "title": "Stage/block your scene in a simple iPhone 3D setup, then walk around it and…",
+  "content": "Stage/block your scene in a simple iPhone 3D setup, then walk around it and record real handheld camera movement in 3D space using ARKit for precise motion tracking.  \nGenerate a starting image that includes the location and characters before running Seedance.  \nFeed Seedance 2.0 both the starting image and the recorded ARKit camera-motion video to transfer the real camera movement (including realistic handheld shake) into the generated scene.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073115498343194624/img/NBKgdWOR0O250VoQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073115565150052371.mp4",
+  "sourceLink": "https://x.com/maxprokopp/status/2073115565150052371",
+  "sourcePublishedAt": "2026-07-03",
+  "author": {
+    "name": "Max Prokopp",
+    "link": "https://x.com/maxprokopp"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "VFX",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Stage/block your scene in a simple iPhone 3D setup, then walk around it and record real handheld camera movement in 3D space using ARKit for precise motion tracking.  \nGenerate a starting image that includes the location and characters before running Seedance.  \nFeed Seedance 2.0 both the starting image and the recorded ARKit camera-motion video to transfer the real camera movement (including realistic handheld shake) into the generated scene.",
+  "translations": {
+    "es": {
+      "content": "---\nEscena/bloquea tu escena en una configuración 3D simple de iPhone, luego camina alrededor de ella y graba el movimiento real de la cámara en el espacio 3D usando ARKit para un seguimiento de movimiento preciso.  \nGenera una imagen inicial que incluya la ubicación y los personajes antes de ejecutar Seedance.  \nAlimenta a Seedance 2.0 tanto con la imagen inicial como con el video de movimiento de cámara ARKit grabado para transferir el movimiento real de la cámara (incluyendo el temblor realista de mano) a la escena generada.\n\n--- TWEET CITADO ---\nMovimiento de cámara de mano para Seedance 2.0\n\nOdio Blender, así que lo monto en mi iPhone.\n\nMontas la escena (enlace de código abierto abajo) y puedes caminar alrededor de ella y capturar el movimiento real de la cámara en el espacio 3D, luego Seedance llena la escena.\n\nEl movimiento de cámara de mano y el temblor realista son difíciles de describir o de solicitar a la IA. El ARKit del iPhone es súper preciso con el seguimiento de movimiento y puedes grabar escenas complejas como un estudio de una sola persona.\n\nAquí está el flujo de trabajo de cine con IA:\n\n1. Configura el bloqueo en el espacio 3D\n\n2. Graba el movimiento de la cámara\n\n3. Genera una imagen inicial con ubicación y personajes\n\n4. Alimenta la imagen y el video a Seedance\n\nFue una construcción divertida con código de Claude. Feliz si otros quieren desarrollarlo.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] míralo, úsalo:\nhttps://t.co/IfhGMgoft3\n---"
+    },
+    "fr": {
+      "content": "Mettez en scène votre scène dans une configuration 3D simple sur iPhone, puis déplacez-vous autour et enregistrez un mouvement de caméra à main levée en 3D en utilisant ARKit pour un suivi de mouvement précis.  \nGénérez une image de départ qui inclut le lieu et les personnages avant de lancer Seedance.  \nAlimentez Seedance 2.0 avec à la fois l'image de départ et la vidéo de mouvement de caméra ARKit enregistrée pour transférer le mouvement réel de la caméra (y compris le tremblement réaliste à main levée) dans la scène générée.\n\n--- TWEET CITÉ ---\nMouvement de caméra à main levée pour Seedance 2.0\n\nJe déteste Blender donc je mets en scène sur mon iPhone.\n\nVous mettez en scène la scène (lien open source ci-dessous) et pouvez vous déplacer autour et capturer le mouvement réel de la caméra dans l'espace 3D, puis Seedance peuple la scène.\n\nLe mouvement de caméra à main levée et le tremblement réaliste sont difficiles à décrire ou à suggérer à l'IA. L'ARKit de l'iPhone est super précis avec le suivi de mouvement et vous pouvez enregistrer des scènes complexes comme un studio à une seule personne.\n\nVoici le flux de travail de réalisation de films avec l'IA :\n\n1. Configurez le blocage dans l'espace 3D\n\n2. Enregistrez le mouvement de la caméra\n\n3. Générez une image de départ avec le lieu et les personnages\n\n4. Alimentez Seedance avec l'image et la vidéo\n\nC'était une construction amusante avec le code Claude. Heureux si d'autres veulent construire dessus.\n\n--- SUITE DU FIL ---\n[Fil 1] vérifiez-le, utilisez-le :\nhttps://t.co/IfhGMgoft3\n---"
+    },
+    "ja": {
+      "content": "---\nシンプルなiPhone 3Dセットアップでシーンをステージング/ブロッキングし、その周りを歩きながら、ARKitを使用して3D空間でリアルなハンドヘルドカメラの動きを記録します。  \nSeedanceを実行する前に、ロケーションとキャラクターを含む開始画像を生成します。  \nSeedance 2.0に開始画像と記録されたARKitカメラモーションビデオの両方を入力し、生成されたシーンにリアルなカメラの動き（リアルなハンドヘルドの揺れを含む）を転送します。\n\n--- 引用ツイート ---\nSeedance 2.0のためのハンドヘルドカメラモーション\n\n私はBlenderが嫌いなので、iPhoneでステージングします。\n\nシーンをステージングし（以下のオープンソースリンク）、その周りを歩いて3D空間でリアルなカメラの動きをキャプチャできます。その後、Seedanceがシーンを生成します。\n\nハンドヘルドカメラの動きとリアルな揺れはAIに説明したりプロンプトしたりするのが難しいです。iPhoneのARKitはモーショントラッキングが非常に正確で、一人のスタジオとして複雑なシーンを記録できます。\n\nここにAI映画制作のワークフローがあります：\n\n1. 3D空間でブロッキングを設定\n\n2. カメラの動きを記録\n\n3. ロケーションとキャラクターを含む開始画像を生成\n\n4. 画像とビデオをSeedanceに入力\n\nこれはclaude codeを使った楽しいビルドでした。他の人がこれを基に構築したいなら嬉しいです。\n\n--- スレッドの続き ---\n[スレッド1] チェックして、使ってみてください：\nhttps://t.co/IfhGMgoft3\n---"
+    },
+    "ko": {
+      "content": "---\n간단한 iPhone 3D 설정에서 장면을 배치한 후, ARKit을 사용하여 3D 공간에서 실제 핸드헬드 카메라 움직임을 기록하여 정확한 모션 트래킹을 수행하세요.  \nSeedance를 실행하기 전에 위치와 캐릭터를 포함한 시작 이미지를 생성하세요.  \nSeedance 2.0에 시작 이미지와 기록된 ARKit 카메라 모션 비디오를 입력하여 실제 카메라 움직임(현실적인 핸드헬드 흔들림 포함)을 생성된 장면에 전송하세요.\n\n--- 인용된 트윗 ---\nSeedance 2.0을 위한 핸드헬드 카메라 모션\n\n블렌더가 싫어서 아이폰으로 무대를 설정합니다.\n\n장면을 설정하고(아래 오픈 소스 링크) 그 주위를 걸어다니며 3D 공간에서 실제 카메라 움직임을 캡처할 수 있으며, Seedance가 장면을 채웁니다.\n\n핸드헬드 카메라 모션과 현실적인 흔들림은 AI에게 설명하거나 프롬프트하기 어렵습니다. 아이폰의 ARKit은 모션 트래킹이 매우 정밀하며, 복잡한 장면을 1인 스튜디오로 녹화할 수 있습니다.\n\n여기 AI 영화 제작 워크플로우가 있습니다:\n\n1. 3D 공간에서 블로킹 설정\n\n2. 카메라 모션 녹화\n\n3. 위치와 캐릭터가 포함된 시작 이미지 생성\n\n4. 이미지와 비디오를 Seedance에 입력\n\n이것은 클로드 코드로 재미있게 만든 것입니다. 다른 사람들이 이것을 기반으로 구축하고 싶다면 기쁩니다.\n\n--- 스레드 계속 ---\n[스레드 1] 확인하고 사용하세요:\nhttps://t.co/IfhGMgoft3\n---"
+    },
+    "pt": {
+      "content": "Estagie/bloqueie sua cena em uma configuração simples de iPhone 3D, depois caminhe ao redor dela e grave o movimento real da câmera de mão no espaço 3D usando o ARKit para rastreamento preciso de movimento.  \nGere uma imagem inicial que inclua o local e os personagens antes de rodar o Seedance.  \nAlimente o Seedance 2.0 com a imagem inicial e o vídeo de movimento de câmera do ARKit gravado para transferir o movimento real da câmera (incluindo o tremor realista de mão) para a cena gerada.\n\n--- TWEET CITADO ---\nMovimento de câmera de mão para Seedance 2.0\n\nEu odeio o Blender, então faço a encenação no meu iPhone.\n\nVocê encena a cena (link de código aberto abaixo) e pode caminhar ao redor dela e capturar o movimento real da câmera no espaço 3D, então o Seedance preenche a cena.\n\nO movimento de câmera de mão e o tremor realista são difíceis de descrever ou de gerar um prompt para a IA. O ARKit do iPhone é super preciso com o rastreamento de movimento e você pode gravar cenas complexas como um estúdio de uma pessoa só.\n\nAqui está o fluxo de trabalho de criação de filmes com IA:\n\n1. Configure o bloqueio no espaço 3D\n\n2. Grave o movimento da câmera\n\n3. Gere uma imagem inicial com local e personagens\n\n4. Alimente a imagem e o vídeo ao Seedance\n\nFoi uma construção divertida com código Claude. Fico feliz se outros quiserem desenvolver em cima disso.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] confira, use:\nhttps://t.co/IfhGMgoft3\n---"
+    },
+    "zh": {
+      "content": "在一个简单的iPhone 3D设置中布置/分镜你的场景，然后围绕它走动，并使用ARKit在3D空间中记录真实的手持相机运动，以实现精确的运动跟踪。  \n生成一个包含位置和角色的起始图像，然后运行Seedance。  \n将Seedance 2.0输入起始图像和录制的ARKit相机运动视频，以将真实的相机运动（包括逼真的手持抖动）转移到生成的场景中。\n\n--- 引用推文 ---\nSeedance 2.0的手持相机运动\n\n我讨厌Blender，所以我在我的iPhone上布置场景。\n\n你可以布置场景（开源链接如下），然后围绕它走动并捕捉3D空间中的真实相机运动，接着Seedance会填充场景。\n\n手持相机运动和逼真的抖动很难描述或提示给AI。iPhone的ARKit在运动跟踪方面非常精确，你可以作为一个人工作室录制复杂的场景。\n\n这是AI电影制作的工作流程：\n\n1. 在3D空间中设置分镜\n\n2. 记录相机运动\n\n3. 生成包含位置和角色的起始图像\n\n4. 将图像和视频输入Seedance\n\n这是一个有趣的构建，使用claude代码。如果其他人想在此基础上构建，我会很高兴。\n\n--- 线程继续 ---\n[线程1] 查看，使用：\nhttps://t.co/IfhGMgoft3"
+    }
+  }
+}

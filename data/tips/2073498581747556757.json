@@ -1,0 +1,43 @@
+{
+  "id": "2073498581747556757",
+  "title": "Feed Seedance 2.0 a structured, color-coded shot language (annotated…",
+  "content": "Feed Seedance 2.0 a structured, color-coded shot language (annotated storyboard) instead of a single plain prompt to improve precision in chase scenes  \nDraft a shot-by-shot storyboard with ~12 panels (wide → tracking → hero landing) before generating to keep sequence continuity  \nAdd a motion path annotation to lock the drone/camera pursuit line and prevent path drift during generation  \nAdd a pose-timing sheet to lock stride/pose timing so the character’s motion stays consistent at speed  \nColor-code annotations with separate colors for body movement, camera motion, framing/composition, and lighting to prevent the model from mixing directives  \nGenerate character and environment reference sheets in GPT Image 2 from the annotated storyboard, then use those references when animating each panel in Seedance 2.0  \nAnimate each storyboard panel individually in Seedance 2.0 rather than trying to generate the full chase sequence in one shot",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073377804763197440/img/kSL1m5UWU2kl9eg0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073498581747556757.mp4",
+  "sourceLink": "https://x.com/NexlowX/status/2073498581747556757",
+  "sourcePublishedAt": "2026-07-04",
+  "author": {
+    "name": "Nexlow",
+    "link": "https://x.com/NexlowX"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "FPV & Aerial"
+  ],
+  "tips": "Feed Seedance 2.0 a structured, color-coded shot language (annotated storyboard) instead of a single plain prompt to improve precision in chase scenes  \nDraft a shot-by-shot storyboard with ~12 panels (wide → tracking → hero landing) before generating to keep sequence continuity  \nAdd a motion path annotation to lock the drone/camera pursuit line and prevent path drift during generation  \nAdd a pose-timing sheet to lock stride/pose timing so the character’s motion stays consistent at speed  \nColor-code annotations with separate colors for body movement, camera motion, framing/composition, and lighting to prevent the model from mixing directives  \nGenerate character and environment reference sheets in GPT Image 2 from the annotated storyboard, then use those references when animating each panel in Seedance 2.0  \nAnimate each storyboard panel individually in Seedance 2.0 rather than trying to generate the full chase sequence in one shot",
+  "translations": {
+    "es": {
+      "content": "Alimenta a Seedance 2.0 con un lenguaje de toma estructurado y codificado por colores (guion gráfico anotado) en lugar de un simple prompt para mejorar la precisión en las escenas de persecución.  \nElabora un guion gráfico toma por toma con ~12 paneles (amplio → seguimiento → aterrizaje heroico) antes de generar para mantener la continuidad de la secuencia.  \nAñade una anotación de trayectoria de movimiento para fijar la línea de persecución del dron/cámara y evitar el desvío de la trayectoria durante la generación.  \nAñade una hoja de sincronización de poses para fijar el tiempo de zancada/pose de modo que el movimiento del personaje se mantenga consistente a velocidad.  \nCodifica por colores las anotaciones con colores separados para el movimiento corporal, el movimiento de la cámara, el encuadre/composición y la iluminación para evitar que el modelo mezcle directrices.  \nGenera hojas de referencia de personajes y entornos en GPT Image 2 a partir del guion gráfico anotado, luego usa esas referencias al animar cada panel en Seedance 2.0.  \nAnima cada panel del guion gráfico individualmente en Seedance 2.0 en lugar de intentar generar toda la secuencia de persecución en una sola toma."
+    },
+    "fr": {
+      "content": "---\nAlimentez Seedance 2.0 avec un langage de prise de vue structuré et codé par couleur (storyboard annoté) au lieu d'un simple prompt pour améliorer la précision dans les scènes de poursuite  \nRédigez un storyboard plan par plan avec environ 12 panneaux (large → suivi → atterrissage du héros) avant de générer pour maintenir la continuité de la séquence  \nAjoutez une annotation de trajectoire de mouvement pour verrouiller la ligne de poursuite du drone/caméra et éviter la dérive de la trajectoire pendant la génération  \nAjoutez une feuille de synchronisation des poses pour verrouiller le timing des foulées/poses afin que le mouvement du personnage reste cohérent à vitesse  \nCodez par couleur les annotations avec des couleurs distinctes pour le mouvement du corps, le mouvement de la caméra, le cadrage/composition, et l'éclairage pour éviter que le modèle ne mélange les directives  \nGénérez des feuilles de référence de personnage et d'environnement dans GPT Image 2 à partir du storyboard annoté, puis utilisez ces références lors de l'animation de chaque panneau dans Seedance 2.0  \nAnimez chaque panneau du storyboard individuellement dans Seedance 2.0 plutôt que d'essayer de générer toute la séquence de poursuite en une seule fois  \n---"
+    },
+    "ja": {
+      "content": "Seedance 2.0に、単一のプレーンプロンプトではなく、構造化された色分けされたショット言語（注釈付きストーリーボード）を入力して、チェイスシーンの精度を向上させる  \nシーケンスの連続性を維持するために、生成する前に約12パネル（ワイド → トラッキング → ヒーローランディング）のショットごとのストーリーボードを作成する  \n生成中のパスドリフトを防ぐために、ドローン/カメラ追跡ラインを固定するモーションパス注釈を追加する  \nキャラクターの動きが速度に応じて一貫性を保つように、ストライド/ポーズのタイミングを固定するポーズタイミングシートを追加する  \nモデルが指示を混同しないように、身体の動き、カメラの動き、フレーミング/構図、照明を別々の色で色分けして注釈を付ける  \n注釈付きストーリーボードからGPT Image 2でキャラクターと環境のリファレンスシートを生成し、それらのリファレンスを使用してSeedance 2.0で各パネルをアニメーション化する  \nSeedance 2.0でチェイスシーケンス全体を一度に生成しようとするのではなく、各ストーリーボードパネルを個別にアニメーション化する"
+    },
+    "ko": {
+      "content": "Seedance 2.0에 단일 프롬프트 대신 구조화된 색상 코드가 있는 샷 언어(주석이 달린 스토리보드)를 제공하여 추격 장면의 정밀도를 향상시킵니다.  \n시퀀스의 연속성을 유지하기 위해 생성 전에 약 12개의 패널(와이드 → 트래킹 → 히어로 착지)로 구성된 샷별 스토리보드를 초안으로 작성합니다.  \n생성 중 경로 드리프트를 방지하기 위해 드론/카메라 추적선을 고정하는 모션 경로 주석을 추가합니다.  \n캐릭터의 움직임이 속도에 맞게 일관되게 유지되도록 보폭/포즈 타이밍을 고정하는 포즈 타이밍 시트를 추가합니다.  \n모델이 지시 사항을 혼동하지 않도록 신체 움직임, 카메라 움직임, 프레이밍/구성 및 조명에 대해 별도의 색상으로 주석을 색상 코드화합니다.  \n주석이 달린 스토리보드에서 GPT Image 2로 캐릭터 및 환경 참조 시트를 생성한 다음 Seedance 2.0에서 각 패널을 애니메이션화할 때 해당 참조를 사용합니다.  \n전체 추격 시퀀스를 한 번에 생성하려고 하기보다는 Seedance 2.0에서 각 스토리보드 패널을 개별적으로 애니메이션화합니다."
+    },
+    "pt": {
+      "content": "Alimente o Seedance 2.0 com uma linguagem de filmagem estruturada e codificada por cores (storyboard anotado) em vez de um único prompt simples para melhorar a precisão em cenas de perseguição  \nElabore um storyboard cena a cena com aproximadamente 12 painéis (wide → tracking → hero landing) antes de gerar para manter a continuidade da sequência  \nAdicione uma anotação de trajetória de movimento para fixar a linha de perseguição do drone/câmera e evitar desvio de trajetória durante a geração  \nAdicione uma folha de tempo de pose para fixar o tempo de passada/pose, garantindo que o movimento do personagem permaneça consistente em velocidade  \nCodifique as anotações por cores com cores separadas para movimento corporal, movimento da câmera, enquadramento/composição e iluminação para evitar que o modelo misture as diretrizes  \nGere folhas de referência de personagem e ambiente no GPT Image 2 a partir do storyboard anotado, e então use essas referências ao animar cada painel no Seedance 2.0  \nAnime cada painel do storyboard individualmente no Seedance 2.0 em vez de tentar gerar a sequência completa de perseguição em uma única tomada"
+    },
+    "zh": {
+      "content": "---\n为Seedance 2.0提供一个结构化、颜色编码的镜头语言（带注释的分镜头脚本），而不是单一的普通prompt，以提高追逐场景的精确度  \n在生成之前，起草一个大约12个画面的分镜头脚本（宽镜头→跟踪镜头→英雄着陆），以保持序列的连续性  \n添加运动路径注释以锁定无人机/摄像机的追踪线，防止生成过程中路径漂移  \n添加一个动作时间表以锁定步幅/姿势时间，使角色的动作在高速时保持一致  \n用不同颜色对身体运动、摄像机运动、构图/构图和照明进行颜色编码，以防止模型混淆指令  \n在GPT Image 2中从带注释的分镜头脚本生成角色和环境参考表，然后在Seedance 2.0中为每个面板动画时使用这些参考  \n在Seedance 2.0中单独为每个分镜头面板制作动画，而不是尝试在一个镜头中生成完整的追逐序列  \n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2073622397136322703",
+  "title": "Use ChatGPT to draft the video structure and character settings, generate…",
+  "content": "Use ChatGPT to draft the video structure and character settings, generate character images from those descriptions, then feed the images into TapNow to generate the video quickly.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073622322410631168/img/YNJi7A_u0Px2UPHb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073622397136322703.mp4",
+  "sourceLink": "https://x.com/NIKKA_WORKS/status/2073622397136322703",
+  "sourcePublishedAt": "2026-07-05",
+  "author": {
+    "name": "Nikka",
+    "link": "https://x.com/NIKKA_WORKS"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use ChatGPT to draft the video structure and character settings, generate character images from those descriptions, then feed the images into TapNow to generate the video quickly.",
+  "translations": {
+    "en": {
+      "content": "Use ChatGPT to draft the video structure and character settings, generate character images from those descriptions, then feed the images into TapNow to generate the video quickly."
+    },
+    "es": {
+      "content": "Usa ChatGPT para redactar la estructura del video y la configuración de los personajes, genera imágenes de los personajes a partir de esas descripciones, luego introduce las imágenes en TapNow para generar el video rápidamente."
+    },
+    "fr": {
+      "content": "Utilisez ChatGPT pour rédiger la structure de la vidéo et les paramètres des personnages, générez des images de personnages à partir de ces descriptions, puis intégrez les images dans TapNow pour générer rapidement la vidéo."
+    },
+    "ko": {
+      "content": "ChatGPT를 사용하여 비디오 구조와 캐릭터 설정을 초안으로 작성하고, 그 설명을 바탕으로 캐릭터 이미지를 생성한 후, TapNow에 이미지를 입력하여 비디오를 빠르게 생성하세요."
+    },
+    "pt": {
+      "content": "Use o ChatGPT para elaborar a estrutura do vídeo e as configurações dos personagens, gerar imagens dos personagens a partir dessas descrições e, em seguida, inserir as imagens no TapNow para gerar o vídeo rapidamente."
+    },
+    "zh": {
+      "content": "使用ChatGPT起草视频结构和角色设置，根据这些描述生成角色图像，然后将图像输入TapNow快速生成视频。"
+    }
+  }
+}

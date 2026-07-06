@@ -1,0 +1,42 @@
+{
+  "id": "2073423587378442387",
+  "title": "Break your sequence into explicit beats (e.g., approach → reveal → player →…",
+  "content": "Break your sequence into explicit beats (e.g., approach → reveal → player → ball → crowd → goal) and generate/direct each shot beat-by-beat in Seedance.  \nFor each beat, specify timing, camera movement, and on-screen action to control the sequence shot by shot.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073307046322241536/img/LH9Van9W4oFhLD0j.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073423587378442387.mp4",
+  "sourceLink": "https://x.com/mezdez/status/2073423587378442387",
+  "sourcePublishedAt": "2026-07-04",
+  "author": {
+    "name": "Matt M",
+    "link": "https://x.com/mezdez"
+  },
+  "tags": [
+    "Sports",
+    "Football",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Break your sequence into explicit beats (e.g., approach → reveal → player → ball → crowd → goal) and generate/direct each shot beat-by-beat in Seedance.  \nFor each beat, specify timing, camera movement, and on-screen action to control the sequence shot by shot.",
+  "translations": {
+    "es": {
+      "content": "Divide tu secuencia en momentos explícitos (por ejemplo, approach → reveal → player → ball → crowd → goal) y genera/dirige cada toma paso a paso en Seedance.  \nPara cada momento, especifica el tiempo, el movimiento de cámara y la acción en pantalla para controlar la secuencia toma por toma."
+    },
+    "fr": {
+      "content": "Divisez votre séquence en moments explicites (par exemple, approach → reveal → player → ball → crowd → goal) et générez/dirigez chaque prise moment par moment dans Seedance.  \nPour chaque moment, spécifiez le timing, le mouvement de la caméra et l'action à l'écran pour contrôler la séquence plan par plan."
+    },
+    "ja": {
+      "content": "シーケンスを明確なビートに分けてください（例：アプローチ → リビール → プレイヤー → ボール → 観客 → ゴール）し、Seedanceで各ショットをビートごとに生成/指示します。  \n各ビートごとにタイミング、カメラの動き、画面上のアクションを指定して、ショットごとにシーケンスをコントロールします。"
+    },
+    "ko": {
+      "content": "시퀀스를 명확한 비트로 나누세요 (예: 접근 → 공개 → 플레이어 → 공 → 관중 → 골) 그리고 Seedance에서 각 샷을 비트별로 생성/연출하세요.  \n각 비트마다 타이밍, 카메라 움직임, 화면상의 동작을 지정하여 시퀀스를 샷별로 제어하세요."
+    },
+    "pt": {
+      "content": "Divida sua sequência em momentos explícitos (por exemplo, approach → reveal → player → ball → crowd → goal) e gere/dirija cada tomada momento a momento no Seedance.  \nPara cada momento, especifique o tempo, o movimento da câmera e a ação na tela para controlar a sequência tomada por tomada."
+    },
+    "zh": {
+      "content": "将你的序列分解为明确的节拍（例如，approach → reveal → player → ball → crowd → goal），并在Seedance中逐拍生成/指导每个镜头。  \n对于每个节拍，指定时间、镜头运动和屏幕上的动作，以逐镜头控制序列。"
+    }
+  }
+}

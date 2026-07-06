@@ -1,0 +1,42 @@
+{
+  "id": "2072922445493768395",
+  "title": "上传自己的角色照片作为参考图，然后复制原视频的提示词即可复刻出同款视频",
+  "content": "上传自己的角色照片作为参考图，然后复制原视频的提示词即可复刻出同款视频  \n在豆包生成 15 秒视频时选择 Seedance 2.0 Mini 模型  \n在提示词中加入风格关键词：真人实拍奇幻喜剧短剧（Live-Action Fantasy Comedy Short）",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072922013073641472/img/MshpEblrQdEKW5YW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072922445493768395.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2072922445493768395",
+  "sourcePublishedAt": "2026-07-03",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Story",
+    "Sitcom",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "上传自己的角色照片作为参考图，然后复制原视频的提示词即可复刻出同款视频  \n在豆包生成 15 秒视频时选择 Seedance 2.0 Mini 模型  \n在提示词中加入风格关键词：真人实拍奇幻喜剧短剧（Live-Action Fantasy Comedy Short）",
+  "translations": {
+    "en": {
+      "content": "Upload your own character photo as a reference image, then copy the prompt from the original video to recreate a similar video.  \nSelect the Seedance 2.0 Mini model when generating a 15-second video in Doubao.  \nInclude style keywords in the prompt: Live-Action Fantasy Comedy Short."
+    },
+    "es": {
+      "content": "Sube una foto de tu personaje como imagen de referencia y luego copia el prompt del video original para recrear un video similar.  \nAl generar un video de 15 segundos en Doubao, selecciona el modelo Seedance 2.0 Mini.  \nIncluye en el prompt palabras clave de estilo: Live-Action Fantasy Comedy Short (corto de comedia fantástica en acción real)."
+    },
+    "fr": {
+      "content": "---\nTéléchargez la photo de votre personnage comme image de référence, puis copiez le prompt de la vidéo originale pour recréer une vidéo similaire.  \nChoisissez le modèle Seedance 2.0 Mini lors de la génération d'une vidéo de 15 secondes sur Doubao.  \nAjoutez des mots-clés de style dans le prompt : Live-Action Fantasy Comedy Short (court-métrage comique fantastique en prise de vue réelle).\n---"
+    },
+    "ja": {
+      "content": "---\n自分のキャラクター写真を参考画像としてアップロードし、元のビデオのプロンプトをコピーするだけで同じスタイルのビデオを再現できます。  \n豆包で15秒のビデオを生成する際、Seedance 2.0 Miniモデルを選択します。  \nプロンプトにスタイルのキーワードを追加します：真人实拍奇幻喜剧短剧（Live-Action Fantasy Comedy Short）\n---"
+    },
+    "ko": {
+      "content": "자신의 캐릭터 사진을 참고 이미지로 업로드한 후, 원본 비디오의 프롬프트를 복사하여 동일한 스타일의 비디오를 재현할 수 있습니다.  \n도우바오에서 15초 비디오를 생성할 때 Seedance 2.0 Mini 모델을 선택하세요.  \n프롬프트에 스타일 키워드를 추가하세요: 真人实拍奇幻喜剧短剧 (Live-Action Fantasy Comedy Short)"
+    },
+    "pt": {
+      "content": "Carregue a foto do seu personagem como imagem de referência e, em seguida, copie o prompt do vídeo original para recriar um vídeo semelhante.  \nAo gerar um vídeo de 15 segundos no Doubao, escolha o modelo Seedance 2.0 Mini.  \nAdicione palavras-chave de estilo no prompt: Live-Action Fantasy Comedy Short (curta-metragem de comédia fantástica em live-action)."
+    }
+  }
+}
