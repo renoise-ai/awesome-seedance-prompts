@@ -6809,4 +6809,4 @@ Export without music and keep only raw SFX for a “no music, raw SFX only” so
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-06T15:36:09.860Z
+🤖 この README は自動生成されています。最終更新： 2026-07-06T18:12:00.181Z
