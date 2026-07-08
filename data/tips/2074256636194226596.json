@@ -1,0 +1,42 @@
+{
+  "id": "2074256636194226596",
+  "title": "Use Seedance 2.0 for more realistic AI UGC with fewer hallucinations and…",
+  "content": "Use Seedance 2.0 for more realistic AI UGC with fewer hallucinations and without needing long prompts  \nKeep your Seedance prompt simple; avoid page-long/JSON prompts for realistic UGC  \nProvide reference videos (e.g., from TikTok/Instagram) that match the exact style/content you want Seedance to animate, and tag/link the references to each prompt  \nUse multiple references—add a new reference for each change in setting and camera angle; more references generally improves realism  \nEdit the generated video by cutting out small imperfections and AI fragments to make the final UGC feel authentic",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074256578170232832/img/3o_fCpSQMTYpkZ69.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074256636194226596.mp4",
+  "sourceLink": "https://x.com/williamkast_/status/2074256636194226596",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "William Kast | Meta Ads Growth",
+    "link": "https://x.com/williamkast_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 for more realistic AI UGC with fewer hallucinations and without needing long prompts  \nKeep your Seedance prompt simple; avoid page-long/JSON prompts for realistic UGC  \nProvide reference videos (e.g., from TikTok/Instagram) that match the exact style/content you want Seedance to animate, and tag/link the references to each prompt  \nUse multiple references—add a new reference for each change in setting and camera angle; more references generally improves realism  \nEdit the generated video by cutting out small imperfections and AI fragments to make the final UGC feel authentic",
+  "translations": {
+    "es": {
+      "content": "---\nUsa Seedance 2.0 para obtener UGC de IA más realista con menos alucinaciones y sin necesidad de prompts largos  \nMantén tu prompt de Seedance simple; evita prompts extensos o en formato JSON para UGC realista  \nProporciona videos de referencia (por ejemplo, de TikTok/Instagram) que coincidan exactamente con el estilo/contenido que deseas que Seedance anime, y etiqueta/enlaza las referencias a cada prompt  \nUsa múltiples referencias—agrega una nueva referencia para cada cambio de escenario y ángulo de cámara; más referencias generalmente mejoran el realismo  \nEdita el video generado eliminando pequeñas imperfecciones y fragmentos de IA para que el UGC final se sienta auténtico  \n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez Seedance 2.0 pour un contenu généré par l'IA plus réaliste avec moins d'hallucinations et sans avoir besoin de prompts longs  \nGardez votre prompt Seedance simple ; évitez les prompts longs comme des pages/JSON pour un contenu généré réaliste  \nFournissez des vidéos de référence (par exemple, de TikTok/Instagram) qui correspondent exactement au style/contenu que vous souhaitez que Seedance anime, et taguez/lien les références à chaque prompt  \nUtilisez plusieurs références—ajoutez une nouvelle référence pour chaque changement de décor et d'angle de caméra ; plus de références améliorent généralement le réalisme  \nÉditez la vidéo générée en coupant les petites imperfections et fragments d'IA pour que le contenu final semble authentique  \n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0を使用して、より現実的なAI UGCを生成し、幻覚を減らし、長いプロンプトを必要としない  \nSeedanceプロンプトはシンプルに保ち、現実的なUGCのためにページ長やJSONプロンプトを避ける  \nSeedanceにアニメーションさせたい正確なスタイル/コンテンツに一致する参照動画（例：TikTok/Instagramから）を提供し、各プロンプトに参照をタグ付け/リンクする  \n複数の参照を使用する—設定やカメラアングルの変更ごとに新しい参照を追加する; 参照が多いほど一般的にリアリズムが向上する  \n生成された動画を編集し、小さな不完全さやAIの断片をカットして、最終的なUGCを本物のように感じさせる  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0을 사용하여 더 현실적인 AI UGC를 생성하세요. 환각 현상이 적고 긴 프롬프트가 필요하지 않습니다.  \nSeedance 프롬프트는 간단하게 유지하세요. 현실적인 UGC를 위해 페이지 길이의 JSON 프롬프트는 피하세요.  \nSeedance가 애니메이션화하기를 원하는 정확한 스타일/콘텐츠와 일치하는 참조 비디오(예: TikTok/Instagram)를 제공하고, 각 프롬프트에 참조를 태그/링크하세요.  \n여러 참조를 사용하세요. 설정과 카메라 각도가 바뀔 때마다 새로운 참조를 추가하세요. 더 많은 참조는 일반적으로 현실감을 향상시킵니다.  \n생성된 비디오에서 작은 결함과 AI 조각을 잘라내어 최종 UGC가 진짜처럼 느껴지도록 편집하세요.  \n---"
+    },
+    "pt": {
+      "content": "---\nUse o Seedance 2.0 para UGC de IA mais realista, com menos alucinações e sem a necessidade de prompts longos  \nMantenha seu prompt do Seedance simples; evite prompts longos em formato de página/JSON para UGC realista  \nForneça vídeos de referência (por exemplo, do TikTok/Instagram) que correspondam exatamente ao estilo/conteúdo que você deseja que o Seedance anime, e marque/ligue as referências a cada prompt  \nUse múltiplas referências—adicione uma nova referência para cada mudança de cenário e ângulo de câmera; mais referências geralmente melhoram o realismo  \nEdite o vídeo gerado cortando pequenas imperfeições e fragmentos de IA para que o UGC final pareça autêntico  \n---"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0 来生成更真实的 AI 用户生成内容（UGC），减少幻觉现象，并且无需使用冗长的提示  \n保持 Seedance 提示简单；避免使用长篇或 JSON 格式的提示来生成真实的 UGC  \n提供参考视频（例如来自 TikTok/Instagram），这些视频应与您希望 Seedance 动画化的风格/内容完全匹配，并在每个提示中标记/链接这些参考  \n使用多个参考——每次场景和镜头角度变化时添加新的参考；更多的参考通常会提高真实性  \n通过剪掉小瑕疵和 AI 片段来编辑生成的视频，使最终的 UGC 感觉更真实"
+    }
+  }
+}

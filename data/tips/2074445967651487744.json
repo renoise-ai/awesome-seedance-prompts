@@ -1,0 +1,43 @@
+{
+  "id": "2074445967651487744",
+  "title": "Use Claude MCP with Seedance 2.0 in OpenArt MCP by giving Claude instructions…",
+  "content": "Use Claude MCP with Seedance 2.0 in OpenArt MCP by giving Claude instructions instead of writing a Seedance prompt yourself.  \nInstruct Claude to first create a character reference sheet, then a storyboard, then generate the storyboard into a Seedance 2.0 video.  \nSpecify 720p quality in your instructions to Claude when generating the Seedance 2.0 video.  \nFor a Japanese-style ad, tell Claude to make the dialogue and overall feel Japanese.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074445775401308160/img/OXrA9qlRR1sa63qP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074445967651487744.mp4",
+  "sourceLink": "https://x.com/cipherr_exe/status/2074445967651487744",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "Cipher | AI & Web3",
+    "link": "https://x.com/cipherr_exe"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use Claude MCP with Seedance 2.0 in OpenArt MCP by giving Claude instructions instead of writing a Seedance prompt yourself.  \nInstruct Claude to first create a character reference sheet, then a storyboard, then generate the storyboard into a Seedance 2.0 video.  \nSpecify 720p quality in your instructions to Claude when generating the Seedance 2.0 video.  \nFor a Japanese-style ad, tell Claude to make the dialogue and overall feel Japanese.",
+  "translations": {
+    "es": {
+      "content": "Usa Claude MCP con Seedance 2.0 en OpenArt MCP dando instrucciones a Claude en lugar de escribir un prompt de Seedance tú mismo.  \nInstruye a Claude para que primero cree una hoja de referencia de personajes, luego un guion gráfico, y después genere el guion gráfico en un video Seedance 2.0.  \nEspecifica calidad 720p en tus instrucciones a Claude al generar el video Seedance 2.0.  \nPara un anuncio de estilo japonés, dile a Claude que haga que el diálogo y la sensación general sean japoneses.\n\n--- TWEET CITADO ---\nAcabo de hacer un anuncio de ramen usando Claude X Seedance 2.0 con OpenArt MCP\n\nEl flujo de trabajo es prácticamente el mismo que antes, puedes verlo en el post de abajo ⏬⏬ https://t.co/7hjQHyFtCq\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Como esto es usando Claude MCP, no introduzco ningún prompt en absoluto, y todo lo que hago es dar algunas instrucciones a Claude\n\nAquí están las instrucciones que puedes usar:\n\nHazme un anuncio de Matcha que use un estilo japonés. El diálogo y todo se siente como japonés, luego hazme primero la hoja de referencia de personajes, haz un guion gráfico, y luego genera el guion gráfico en video usando Seedance 2.0 en calidad 720p."
+    },
+    "fr": {
+      "content": "Utilisez Claude MCP avec Seedance 2.0 dans OpenArt MCP en donnant des instructions à Claude au lieu d'écrire vous-même un prompt Seedance.  \nInstruisez Claude pour qu'il crée d'abord une feuille de référence de personnage, puis un storyboard, puis génère le storyboard en une vidéo Seedance 2.0.  \nSpécifiez une qualité de 720p dans vos instructions à Claude lors de la génération de la vidéo Seedance 2.0.  \nPour une publicité de style japonais, dites à Claude de rendre le dialogue et l'ambiance générale japonais.\n\n--- TWEET CITÉ ---\nJe viens de réaliser une publicité pour des ramen en utilisant Claude X Seedance 2.0 avec OpenArt MCP\n\nLe flux de travail est à peu près le même qu'avant, vous pouvez le voir dans le post ci-dessous ⏬⏬ https://t.co/7hjQHyFtCq\n\n--- SUITE DU FIL ---\n[Fil 1] Comme cela utilise Claude MCP, je n'entre aucun prompt du tout, et tout ce que je fais, c'est donner quelques instructions à Claude\n\nVoici les instructions que vous pouvez utiliser :\n\nFaites-moi une publicité pour du Matcha qui utilise un style japonais. Le dialogue et tout le reste doivent avoir une ambiance japonaise, puis faites-moi d'abord la feuille de référence de personnage, créez un storyboard, puis générez le storyboard en vidéo en utilisant Seedance 2.0 en qualité 720p."
+    },
+    "ja": {
+      "content": "---\nClaude MCPをOpenArt MCPのSeedance 2.0で使用し、Seedanceプロンプトを書く代わりにClaudeに指示を与えます。  \nClaudeに最初にキャラクターのリファレンスシートを作成し、その後ストーリーボードを作成し、最後にそのストーリーボードをSeedance 2.0のビデオに生成するよう指示します。  \nSeedance 2.0ビデオを生成する際には、Claudeに720pの品質を指定してください。  \n日本風の広告の場合、Claudeに対話と全体の雰囲気を日本的にするよう伝えてください。\n\n--- 引用ツイート ---\nClaude X Seedance 2.0を使ってOpenArt MCPでラーメン広告を作りました\n\nワークフローはほぼ以前と同じで、下の投稿で確認できます ⏬⏬ https://t.co/7hjQHyFtCq\n\n--- スレッドの続き ---\n[スレッド1] これはClaude MCPを使用しているので、プロンプトを入力することは一切なく、ただClaudeにいくつかの指示を与えるだけです\n\nここで使用できる指示は次のとおりです：\n\n日本風の抹茶広告を作ってください。対話や全体の雰囲気が日本的に感じられるようにし、まずキャラクターのリファレンスシートを作成し、ストーリーボードを作成し、Seedance 2.0を使用して720p品質でビデオにストーリーボードを生成してください。"
+    },
+    "ko": {
+      "content": "---\nClaude MCP를 Seedance 2.0과 함께 OpenArt MCP에서 사용하여 Seedance 프롬프트를 직접 작성하는 대신 Claude에게 지시를 내리세요.  \nClaude에게 먼저 캐릭터 참조 시트를 만들고, 그 다음 스토리보드를 작성한 후, 스토리보드를 Seedance 2.0 비디오로 생성하라고 지시하세요.  \nSeedance 2.0 비디오를 생성할 때 Claude에게 720p 품질을 지정하세요.  \n일본 스타일의 광고를 위해, Claude에게 대화와 전체적인 느낌을 일본식으로 만들라고 하세요.\n\n--- 인용된 트윗 ---\n방금 Claude X Seedance 2.0을 사용하여 OpenArt MCP로 라면 광고를 만들었습니다.\n\n워크플로우는 이전과 거의 동일하며, 아래 게시물에서 확인할 수 있습니다 ⏬⏬ https://t.co/7hjQHyFtCq\n\n--- 스레드 계속 ---\n[스레드 1] Claude MCP를 사용하기 때문에, 저는 프롬프트를 전혀 입력하지 않았고, Claude에게 몇 가지 지시만 내렸습니다.\n\n여기 사용할 수 있는 지시사항이 있습니다:\n\n일본 스타일을 사용하는 말차 광고를 만들어 주세요. 대화와 모든 것이 일본식 느낌이 나도록 하고, 먼저 캐릭터 참조 시트를 만들어 주세요. 스토리보드를 작성한 후, Seedance 2.0을 사용하여 720p 품질로 스토리보드를 비디오로 생성해 주세요.\n---"
+    },
+    "pt": {
+      "content": "Use Claude MCP com Seedance 2.0 no OpenArt MCP dando instruções ao Claude em vez de escrever um prompt Seedance você mesmo.  \nInstrua Claude a primeiro criar uma folha de referência de personagem, depois um storyboard, e então gerar o storyboard em um vídeo Seedance 2.0.  \nEspecifique a qualidade 720p nas suas instruções para Claude ao gerar o vídeo Seedance 2.0.  \nPara um anúncio no estilo japonês, diga a Claude para fazer o diálogo e o sentimento geral serem japoneses.\n\n--- TWEET CITADO ---\nAcabei de fazer um anúncio de ramen usando Claude X Seedance 2.0 no OpenArt MCP\n\nO fluxo de trabalho é praticamente o mesmo de antes, você pode ver no post abaixo ⏬⏬ https://t.co/7hjQHyFtCq\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Como isso está usando Claude MCP, eu não insiro nenhum prompt, e tudo que faço é apenas dar algumas instruções ao Claude\n\nAqui estão as instruções que você pode usar:\n\nFaça um anúncio de Matcha que use um estilo japonês. O diálogo e tudo mais deve parecer japonês, então faça primeiro a folha de referência de personagem, depois um storyboard, e então gere o storyboard em vídeo usando Seedance 2.0 em qualidade 720p."
+    },
+    "zh": {
+      "content": "---\n在OpenArt MCP中使用Seedance 2.0与Claude MCP，通过给Claude指令而不是自己编写Seedance prompt。  \n指示Claude首先创建角色参考表，然后制作分镜头脚本，再将分镜头脚本生成Seedance 2.0视频。  \n在生成Seedance 2.0视频时，在指令中指定720p质量。  \n对于日式广告，告诉Claude让对话和整体感觉都偏向日式风格。\n\n--- 引用推文 ---\n我刚刚使用Claude X Seedance 2.0在OpenArt MCP中制作了一个拉面广告\n\n工作流程基本与之前相同，你可以在下面的帖子中看到 ⏬⏬ https://t.co/7hjQHyFtCq\n\n--- 线程继续 ---\n[线程1] 因为这是使用Claude MCP，所以我根本没有输入任何prompt，我所做的只是给Claude一些指令\n\n这里是你可以使用的指令：\n\n给我制作一个使用日式风格的抹茶广告。对话和一切都要有日本的感觉，然后先给我制作角色参考表，制作分镜头脚本，然后使用Seedance 2.0以720p质量将分镜头脚本生成视频\n---"
+    }
+  }
+}

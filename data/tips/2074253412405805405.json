@@ -1,0 +1,45 @@
+{
+  "id": "2074253412405805405",
+  "title": "دو تصویر AI بسازید و آن‌ها را با Seedance 2.0 به ویدیو تبدیل کنید تا به‌جای مدل…",
+  "content": "دو تصویر AI بسازید و آن‌ها را با Seedance 2.0 به ویدیو تبدیل کنید تا به‌جای مدل سه‌بعدی/رندر Polygon، یک تجربه شبه‌سه‌بعدی بسازید.  \nبرای ساخت حس حرکت در فضای سه‌بعدی، خروجی Seedance را به‌صورت یک ویدیو در سایت قرار دهید و اسکرول و حرکت موس را به کنترل پخش/جابجایی ویدیو مپ کنید.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074158238858190848/img/Hv6hoHnT9Wv_pKz4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074253412405805405.mp4",
+  "sourceLink": "https://x.com/0xKaveh/status/2074253412405805405",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "Kaveh",
+    "link": "https://x.com/0xKaveh"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "دو تصویر AI بسازید و آن‌ها را با Seedance 2.0 به ویدیو تبدیل کنید تا به‌جای مدل سه‌بعدی/رندر Polygon، یک تجربه شبه‌سه‌بعدی بسازید.  \nبرای ساخت حس حرکت در فضای سه‌بعدی، خروجی Seedance را به‌صورت یک ویدیو در سایت قرار دهید و اسکرول و حرکت موس را به کنترل پخش/جابجایی ویدیو مپ کنید.",
+  "translations": {
+    "en": {
+      "content": "Create two AI images and convert them into a video using Seedance 2.0 to create a pseudo-3D experience instead of a 3D model/Polygon render.  \nTo create a sense of movement in a 3D space, upload the Seedance output as a video on the site and map the scroll and mouse movement to control the playback/navigation of the video."
+    },
+    "es": {
+      "content": "Crea dos imágenes AI y conviértelas en un video con Seedance 2.0 para crear una experiencia pseudo-3D en lugar de un modelo 3D/renders de Polygon.  \nPara crear la sensación de movimiento en un espacio tridimensional, coloca la salida de Seedance como un video en el sitio y asigna el desplazamiento y movimiento del ratón para controlar la reproducción/desplazamiento del video."
+    },
+    "fr": {
+      "content": "Créez deux images AI et transformez-les en vidéo avec Seedance 2.0 pour créer une expérience quasi-3D à la place d'un modèle 3D/rendu Polygon.  \nPour créer une sensation de mouvement dans l'espace 3D, intégrez la sortie Seedance sous forme de vidéo sur le site et mappez le défilement et le mouvement de la souris pour contrôler la lecture/déplacement de la vidéo."
+    },
+    "ja": {
+      "content": "2つのAI画像を作成し、それらをSeedance 2.0でビデオに変換して、3Dモデル/Polygonレンダーの代わりに、疑似3D体験を作りましょう。  \n3D空間での動きの感覚を作るために、Seedanceの出力をビデオとしてサイトに配置し、スクロールとマウスの動きをビデオの再生/移動のコントロールにマッピングします。"
+    },
+    "ko": {
+      "content": "두 개의 AI 이미지를 생성하고 Seedance 2.0을 사용하여 이를 비디오로 변환하여 3D 모델/Polygon 렌더 대신 유사 3D 경험을 만드세요.  \n3D 공간에서 움직임의 느낌을 만들기 위해 Seedance 출력을 비디오로 사이트에 업로드하고 스크롤 및 마우스 움직임을 비디오 재생/이동 제어에 매핑하세요."
+    },
+    "pt": {
+      "content": "Crie duas imagens de IA e transforme-as em vídeo com o Seedance 2.0 para criar uma experiência quase tridimensional em vez de um modelo 3D/renderização Polygon.  \nPara criar a sensação de movimento no espaço tridimensional, coloque a saída do Seedance como um vídeo no site e mapeie o scroll e o movimento do mouse para controlar a reprodução/deslocamento do vídeo."
+    },
+    "zh": {
+      "content": "创建两个AI图像，并使用Seedance 2.0将它们转换为视频，以创建一种类似三维的体验，而不是使用三维模型/Polygon渲染。  \n为了在三维空间中营造运动感，将Seedance的输出作为视频放在网站上，并将滚动和鼠标移动映射为视频播放/移动的控制。"
+    }
+  }
+}

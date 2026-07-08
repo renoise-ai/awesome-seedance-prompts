@@ -1,0 +1,44 @@
+{
+  "id": "2074237901060399360",
+  "title": "Auto-detect scene cuts and trim the source shot before generating to isolate…",
+  "content": "Auto-detect scene cuts and trim the source shot before generating to isolate clean segments for Seedance 2.0.  \nBuild a driving reference video by running a DepthAnything v3 depth pass plus an OpenPose pass on the trimmed clip, then use that reference for Seedance 2.0 generation.  \nScrub the clip frame-by-frame to pick the sharpest frame as the key reference before doing a character swap.  \nCharacter-swap your subject in with gpt-image-2 using explicit directives (e.g., wearing a tuxedo, liminal space environment, no background characters) to lock identity and scene constraints before Seedance 2.0 prompting.  \nWrite Seedance 2.0 prompts after preprocessing (cuts/trim + depth + pose + character swap) since preprocessing and prompt writing drive most of the final clip quality.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074232387857436672/img/jjjUnyRoCM9Ha_B2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074237901060399360.mp4",
+  "sourceLink": "https://x.com/hellorob/status/2074237901060399360",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "rob - comfyui",
+    "link": "https://x.com/hellorob"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "POV"
+  ],
+  "tips": "Auto-detect scene cuts and trim the source shot before generating to isolate clean segments for Seedance 2.0.  \nBuild a driving reference video by running a DepthAnything v3 depth pass plus an OpenPose pass on the trimmed clip, then use that reference for Seedance 2.0 generation.  \nScrub the clip frame-by-frame to pick the sharpest frame as the key reference before doing a character swap.  \nCharacter-swap your subject in with gpt-image-2 using explicit directives (e.g., wearing a tuxedo, liminal space environment, no background characters) to lock identity and scene constraints before Seedance 2.0 prompting.  \nWrite Seedance 2.0 prompts after preprocessing (cuts/trim + depth + pose + character swap) since preprocessing and prompt writing drive most of the final clip quality.",
+  "translations": {
+    "es": {
+      "content": "---\nDetecta automáticamente los cortes de escena y recorta la toma original antes de generar para aislar segmentos limpios para Seedance 2.0.  \nConstruye un video de referencia de conducción ejecutando un pase de profundidad con DepthAnything v3 más un pase de OpenPose en el clip recortado, luego usa esa referencia para la generación de Seedance 2.0.  \nRevisa el clip cuadro por cuadro para elegir el cuadro más nítido como referencia clave antes de realizar un intercambio de personaje.  \nIntercambia el personaje de tu sujeto con gpt-image-2 usando directrices explícitas (por ejemplo, vistiendo un esmoquin, entorno de espacio liminal, sin personajes de fondo) para fijar la identidad y las restricciones de la escena antes de la solicitud de Seedance 2.0.  \nEscribe las solicitudes de Seedance 2.0 después del preprocesamiento (cortes/recorte + profundidad + pose + intercambio de personaje) ya que el preprocesamiento y la redacción de solicitudes determinan la mayor parte de la calidad final del clip.\n---"
+    },
+    "fr": {
+      "content": "---\nDétectez automatiquement les coupures de scène et découpez la prise source avant de générer pour isoler des segments propres pour Seedance 2.0.  \nCréez une vidéo de référence en exécutant un passage de profondeur DepthAnything v3 plus un passage OpenPose sur le clip découpé, puis utilisez cette référence pour la génération Seedance 2.0.  \nParcourez le clip image par image pour choisir l'image la plus nette comme référence clé avant de procéder à un échange de personnage.  \nÉchangez votre sujet avec gpt-image-2 en utilisant des directives explicites (par exemple, portant un smoking, environnement d'espace liminal, pas de personnages en arrière-plan) pour verrouiller l'identité et les contraintes de scène avant le prompt Seedance 2.0.  \nRédigez les prompts Seedance 2.0 après le prétraitement (coupures/découpe + profondeur + pose + échange de personnage) car le prétraitement et la rédaction des prompts déterminent la plupart de la qualité finale du clip."
+    },
+    "ja": {
+      "content": "---\nシーンカットを自動検出し、Seedance 2.0のためにクリーンなセグメントを分離するために、生成前にソースショットをトリムします。  \nDepthAnything v3の深度パスとOpenPoseパスをトリムされたクリップに実行して、ドライビングリファレンスビデオを作成し、そのリファレンスをSeedance 2.0の生成に使用します。  \nクリップをフレームごとにスクラブして、キャラクタースワップを行う前にキーリファレンスとして最もシャープなフレームを選びます。  \ngpt-image-2を使用して、明確な指示（例：タキシードを着ている、リミナルスペース環境、背景キャラクターなし）を用いて被写体をキャラクタースワップし、Seedance 2.0のプロンプト前にアイデンティティとシーンの制約を固定します。  \n前処理（カット/トリム + 深度 + ポーズ + キャラクタースワップ）後にSeedance 2.0のプロンプトを書きます。前処理とプロンプト作成が最終クリップの品質の大部分を左右します。  \n---"
+    },
+    "ko": {
+      "content": "---\n씬 컷을 자동으로 감지하고 Seedance 2.0을 위해 깨끗한 세그먼트를 분리하기 위해 소스 샷을 자르기 전에 트림합니다.  \n트림된 클립에 DepthAnything v3 깊이 패스와 OpenPose 패스를 실행하여 드라이빙 참조 비디오를 만들고, 그 참조를 Seedance 2.0 생성에 사용합니다.  \n클립을 프레임별로 스크럽하여 캐릭터 교체를 하기 전에 가장 선명한 프레임을 키 참조로 선택합니다.  \nSeedance 2.0 프롬프트를 하기 전에 명시적인 지시사항(e.g., 턱시도를 입고 있는, 리미널 스페이스 환경, 배경 캐릭터 없음)을 사용하여 gpt-image-2로 주제를 캐릭터 교체하여 정체성과 장면 제약을 고정합니다.  \n전처리(컷/트림 + 깊이 + 포즈 + 캐릭터 교체) 후에 Seedance 2.0 프롬프트를 작성합니다. 전처리와 프롬프트 작성이 최종 클립 품질의 대부분을 좌우하기 때문입니다.\n---"
+    },
+    "pt": {
+      "content": "Detecte automaticamente os cortes de cena e corte a tomada de origem antes de gerar para isolar segmentos limpos para o Seedance 2.0.  \nCrie um vídeo de referência de condução executando uma passagem de profundidade DepthAnything v3 mais uma passagem OpenPose no clipe cortado, e então use essa referência para a geração do Seedance 2.0.  \nPercorra o clipe quadro a quadro para escolher o quadro mais nítido como a referência chave antes de fazer uma troca de personagem.  \nTroque o personagem do seu sujeito com gpt-image-2 usando diretrizes explícitas (por exemplo, vestindo um smoking, ambiente de espaço liminar, sem personagens de fundo) para fixar a identidade e as restrições de cena antes de fazer o prompt do Seedance 2.0.  \nEscreva os prompts do Seedance 2.0 após o pré-processamento (cortes/trim + profundidade + pose + troca de personagem), já que o pré-processamento e a escrita do prompt determinam a maior parte da qualidade final do clipe."
+    },
+    "zh": {
+      "content": "自动检测场景切换并在生成之前修剪源镜头，以隔离出干净的片段用于Seedance 2.0。  \n通过对修剪后的剪辑运行DepthAnything v3深度通道和OpenPose通道来构建一个驾驶参考视频，然后使用该参考进行Seedance 2.0生成。  \n逐帧擦洗剪辑以选择最清晰的帧作为关键参考，然后进行角色替换。  \n使用gpt-image-2进行角色替换，通过明确指令（例如，穿着燕尾服，边缘空间环境，无背景角色）锁定身份和场景约束，然后进行Seedance 2.0提示。  \n在预处理（剪切/修剪 + 深度 + 姿势 + 角色替换）之后编写Seedance 2.0提示，因为预处理和提示编写决定了大部分最终剪辑的质量。"
+    }
+  }
+}

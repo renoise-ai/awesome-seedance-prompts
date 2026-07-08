@@ -1,0 +1,43 @@
+{
+  "id": "2074091652046831993",
+  "title": "風景画像とキャラクター画像を用意して絵コンテ画像を作成し、その絵コンテ画像をSeedance 2.0に入力して動画化する",
+  "content": "風景画像とキャラクター画像を用意して絵コンテ画像を作成し、その絵コンテ画像をSeedance 2.0に入力して動画化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074091254124879872/img/-aBHrXV9Xf17r8zp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074091652046831993.mp4",
+  "sourceLink": "https://x.com/hasamaru_studio/status/2074091652046831993",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "はさまるスタジオ (Hasamaru Studio)",
+    "link": "https://x.com/hasamaru_studio"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "風景画像とキャラクター画像を用意して絵コンテ画像を作成し、その絵コンテ画像をSeedance 2.0に入力して動画化する",
+  "translations": {
+    "en": {
+      "content": "Prepare landscape and character images to create a storyboard image, then input that storyboard image into Seedance 2.0 to convert it into a video."
+    },
+    "es": {
+      "content": "---\nPreparar imágenes de paisajes y personajes para crear imágenes de storyboard, e ingresar esas imágenes de storyboard en Seedance 2.0 para convertirlas en video.\n---"
+    },
+    "fr": {
+      "content": "Préparez des images de paysages et de personnages pour créer des images de storyboard, puis entrez ces images de storyboard dans Seedance 2.0 pour les transformer en vidéo."
+    },
+    "ko": {
+      "content": "풍경 이미지와 캐릭터 이미지를 준비하여 스토리보드 이미지를 만들고, 그 스토리보드 이미지를 Seedance 2.0에 입력하여 영상화하기"
+    },
+    "pt": {
+      "content": "Prepare imagens de paisagens e personagens para criar imagens de storyboard, e insira essas imagens de storyboard no Seedance 2.0 para transformá-las em vídeo."
+    },
+    "zh": {
+      "content": "准备风景图像和角色图像以创建分镜图像，然后将该分镜图像输入Seedance 2.0进行视频化。"
+    }
+  }
+}

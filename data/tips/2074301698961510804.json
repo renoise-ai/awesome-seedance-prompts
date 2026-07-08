@@ -1,0 +1,42 @@
+{
+  "id": "2074301698961510804",
+  "title": "Don’t include your character in the scene prompt; instead, provide character…",
+  "content": "Don’t include your character in the scene prompt; instead, provide character references plus a separate background scene prompt to get better and more creative results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074297392027807744/img/Rnk7Ci8MnuFP6SnJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074301698961510804.mp4",
+  "sourceLink": "https://x.com/mikiovsh/status/2074301698961510804",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "Miki Ovshievich",
+    "link": "https://x.com/mikiovsh"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Don’t include your character in the scene prompt; instead, provide character references plus a separate background scene prompt to get better and more creative results.",
+  "translations": {
+    "es": {
+      "content": "No incluyas tu personaje en el prompt de la escena; en su lugar, proporciona referencias del personaje más un prompt de escena de fondo por separado para obtener resultados mejores y más creativos."
+    },
+    "fr": {
+      "content": "N'incluez pas votre personnage dans le prompt de scène ; fournissez plutôt des références de personnage ainsi qu'un prompt de scène de fond séparé pour obtenir des résultats meilleurs et plus créatifs."
+    },
+    "ja": {
+      "content": "シーンのプロンプトにキャラクターを含めず、キャラクターの参考資料と別の背景シーンのプロンプトを提供することで、より良く、よりクリエイティブな結果を得られます。"
+    },
+    "ko": {
+      "content": "장면 프롬프트에 캐릭터를 포함하지 말고, 캐릭터 참고 자료와 별도의 배경 장면 프롬프트를 제공하여 더 나은 창의적인 결과를 얻으세요."
+    },
+    "pt": {
+      "content": "Não inclua seu personagem no prompt da cena; em vez disso, forneça referências de personagens mais um prompt de cena de fundo separado para obter resultados melhores e mais criativos."
+    },
+    "zh": {
+      "content": "不要在场景提示中包含你的角色；相反，提供角色参考以及一个单独的背景场景提示，以获得更好和更具创意的结果。"
+    }
+  }
+}

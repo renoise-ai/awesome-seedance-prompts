@@ -1,0 +1,43 @@
+{
+  "id": "2074235185441448134",
+  "title": "Storyboard Seedance 2.0 action sequences as a single escalating arc (calm →…",
+  "content": "Storyboard Seedance 2.0 action sequences as a single escalating arc (calm → chaos → reveal → confrontation → release) instead of disconnected action beats to keep pacing coherent.  \nCreate a 6-panel shot-by-shot board (wide → medium → close-up → low angle hero → wide action → extreme wide finale) and animate each panel as its own Seedance 2.0 shot to avoid shot confusion.  \nWrite explicit camera language into every panel (lens focal length + angle + push/hold), e.g., specify 85mm vs 12mm to control emotional register and prevent the model from guessing.  \nSeparate body-movement direction from camera-motion direction (crew scrambling ≠ camera moving) so Seedance doesn’t blend them together.  \nColor-code storyboard annotations to keep directives unambiguous: Red=body movement, Blue=camera movement, Green=framing/composition, Orange=lighting, Purple=emotional emphasis.  \nGenerate consistent ship/creature/environment reference sheets in GPT Image 2 from the annotated storyboard, then use those to animate each panel in Seedance 2.0 for fewer regenerations and cleaner continuity.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074220839646441473/img/jXDPdnnbiBWsCx8a.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074235185441448134.mp4",
+  "sourceLink": "https://x.com/NexlowX/status/2074235185441448134",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "Nexlow",
+    "link": "https://x.com/NexlowX"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Storyboard Seedance 2.0 action sequences as a single escalating arc (calm → chaos → reveal → confrontation → release) instead of disconnected action beats to keep pacing coherent.  \nCreate a 6-panel shot-by-shot board (wide → medium → close-up → low angle hero → wide action → extreme wide finale) and animate each panel as its own Seedance 2.0 shot to avoid shot confusion.  \nWrite explicit camera language into every panel (lens focal length + angle + push/hold), e.g., specify 85mm vs 12mm to control emotional register and prevent the model from guessing.  \nSeparate body-movement direction from camera-motion direction (crew scrambling ≠ camera moving) so Seedance doesn’t blend them together.  \nColor-code storyboard annotations to keep directives unambiguous: Red=body movement, Blue=camera movement, Green=framing/composition, Orange=lighting, Purple=emotional emphasis.  \nGenerate consistent ship/creature/environment reference sheets in GPT Image 2 from the annotated storyboard, then use those to animate each panel in Seedance 2.0 for fewer regenerations and cleaner continuity.",
+  "translations": {
+    "es": {
+      "content": "Storyboard Seedance 2.0 secuencias de acción como un solo arco en escalada (calma → caos → revelación → confrontación → liberación) en lugar de ritmos de acción desconectados para mantener el ritmo coherente.  \nCrea un tablero de 6 paneles toma por toma (amplia → media → primer plano → ángulo bajo héroe → acción amplia → final extremo amplio) y anima cada panel como su propia toma Seedance 2.0 para evitar confusión de tomas.  \nEscribe lenguaje de cámara explícito en cada panel (longitud focal del lente + ángulo + empuje/sostener), por ejemplo, especifica 85mm vs 12mm para controlar el registro emocional y evitar que el modelo adivine.  \nSepara la dirección del movimiento corporal de la dirección del movimiento de la cámara (equipo moviéndose ≠ cámara moviéndose) para que Seedance no los mezcle.  \nAnota el storyboard con código de colores para mantener las directrices sin ambigüedades: Rojo=movimiento corporal, Azul=movimiento de cámara, Verde=encuadre/composición, Naranja=iluminación, Púrpura=énfasis emocional.  \nGenera hojas de referencia consistentes de naves/criaturas/entornos en GPT Image 2 a partir del storyboard anotado, luego úsalas para animar cada panel en Seedance 2.0 para menos regeneraciones y una continuidad más limpia."
+    },
+    "fr": {
+      "content": "Storyboardez les séquences d'action de Seedance 2.0 comme un arc unique et croissant (calme → chaos → révélation → confrontation → libération) au lieu de séquences d'action déconnectées pour maintenir un rythme cohérent.  \nCréez un storyboard de 6 panneaux, plan par plan (large → moyen → gros plan → angle bas héros → action large → finale très large) et animez chaque panneau comme son propre plan Seedance 2.0 pour éviter la confusion des plans.  \nÉcrivez un langage de caméra explicite dans chaque panneau (longueur focale de l'objectif + angle + poussée/maintien), par exemple, spécifiez 85mm vs 12mm pour contrôler le registre émotionnel et empêcher le modèle de deviner.  \nSéparez la direction du mouvement du corps de la direction du mouvement de la caméra (équipe en mouvement ≠ caméra en mouvement) pour que Seedance ne les mélange pas.  \nCodez en couleur les annotations du storyboard pour que les directives soient sans ambiguïté : Rouge=mouvement du corps, Bleu=mouvement de la caméra, Vert=cadrage/composition, Orange=éclairage, Violet=accentuation émotionnelle.  \nGénérez des fiches de référence cohérentes pour les vaisseaux/créatures/environnements dans GPT Image 2 à partir du storyboard annoté, puis utilisez-les pour animer chaque panneau dans Seedance 2.0 pour moins de régénérations et une continuité plus propre."
+    },
+    "ja": {
+      "content": "---\nストーリーボード Seedance 2.0 のアクションシーケンスを、個別のアクションビートではなく、単一のエスカレーティングアーク（静けさ → 混沌 → 明かし → 対決 → 解放）として構成し、ペースを一貫させる。  \n6パネルのショットごとのボードを作成し（ワイド → ミディアム → クローズアップ → ローアングルヒーロー → ワイドアクション → エクストリームワイドフィナーレ）、各パネルを独自の Seedance 2.0 ショットとしてアニメートし、ショットの混乱を避ける。  \n各パネルに明確なカメラ言語を記述する（レンズ焦点距離 + 角度 + プッシュ/ホールド）、例えば、感情のレジスターを制御し、モデルが推測しないように85mmと12mmを指定する。  \n身体の動きの方向とカメラの動きの方向を分ける（クルーの混乱 ≠ カメラの移動）ことで、Seedanceがそれらを混同しないようにする。  \n指示を明確に保つためにストーリーボードの注釈を色分けする: 赤=身体の動き、青=カメラの動き、緑=フレーミング/構図、オレンジ=照明、紫=感情の強調。  \n注釈付きストーリーボードから GPT Image 2 で一貫した船/クリーチャー/環境のリファレンスシートを生成し、それを使用して Seedance 2.0 で各パネルをアニメートし、再生成を減らし、よりクリーンな連続性を保つ。  \n---"
+    },
+    "ko": {
+      "content": "---\n스토리보드 Seedance 2.0 액션 시퀀스를 단절된 액션 비트 대신 단일 상승 아크(차분함 → 혼란 → 드러남 → 대립 → 해소)로 구성하여 페이싱을 일관되게 유지합니다.  \n6개의 패널로 구성된 샷별 보드를 작성합니다 (와이드 → 미디엄 → 클로즈업 → 로우 앵글 히어로 → 와이드 액션 → 익스트림 와이드 피날레) 그리고 각 패널을 Seedance 2.0 샷으로 애니메이션화하여 샷 혼동을 피합니다.  \n각 패널에 명확한 카메라 언어를 작성합니다 (렌즈 초점 거리 + 각도 + 푸시/홀드), 예를 들어 85mm와 12mm를 명시하여 감정적 레지스터를 제어하고 모델이 추측하지 않도록 합니다.  \n바디 무브먼트 방향과 카메라 무브먼트 방향을 분리합니다 (스태프가 허둥대는 것 ≠ 카메라가 움직이는 것) 그래서 Seedance가 이들을 혼합하지 않도록 합니다.  \n스토리보드 주석을 색상으로 구분하여 지시사항을 명확하게 유지합니다: 빨강=바디 무브먼트, 파랑=카메라 무브먼트, 초록=프레이밍/구성, 주황=조명, 보라=감정적 강조.  \n주석이 달린 스토리보드에서 GPT Image 2를 사용하여 일관된 선박/생물/환경 참조 시트를 생성한 후, 이를 사용하여 Seedance 2.0에서 각 패널을 애니메이션화하여 재생성 횟수를 줄이고 연속성을 깔끔하게 유지합니다.\n---"
+    },
+    "pt": {
+      "content": "Storyboard Seedance 2.0 sequências de ação como um único arco crescente (calma → caos → revelação → confronto → liberação) em vez de batidas de ação desconectadas para manter o ritmo coerente.  \nCrie um storyboard de 6 painéis, quadro a quadro (amplo → médio → close-up → ângulo baixo heróico → ação ampla → final extremo amplo) e anime cada painel como seu próprio shot Seedance 2.0 para evitar confusão de tomadas.  \nEscreva linguagem de câmera explícita em cada painel (comprimento focal da lente + ângulo + empurrar/manter), por exemplo, especifique 85mm vs 12mm para controlar o registro emocional e evitar que o modelo adivinhe.  \nSepare a direção do movimento corporal da direção do movimento da câmera (equipe se movendo ≠ câmera se movendo) para que o Seedance não os misture.  \nCodifique por cores as anotações do storyboard para manter as diretrizes inequívocas: Vermelho=movimento corporal, Azul=movimento da câmera, Verde=enquadramento/composição, Laranja=iluminação, Roxo=ênfase emocional.  \nGere folhas de referência consistentes de navios/criaturas/ambientes no GPT Image 2 a partir do storyboard anotado, depois use-as para animar cada painel no Seedance 2.0 para menos regenerações e continuidade mais limpa."
+    },
+    "zh": {
+      "content": "---\n将Storyboard Seedance 2.0的动作序列设计为一个单一的递进弧线（平静 → 混乱 → 揭示 → 对抗 → 释放），而不是不相关的动作片段，以保持节奏一致性。  \n创建一个6格的逐镜板（广角 → 中景 → 特写 → 低角度英雄 → 广角动作 → 极广角结尾），并将每一格动画化为其自己的Seedance 2.0镜头，以避免镜头混淆。  \n在每一格中写入明确的镜头语言（镜头焦距长度 + 角度 + 推/停），例如，指定85mm与12mm以控制情感基调并防止模型猜测。  \n将身体运动方向与镜头运动方向分开（工作人员混乱 ≠ 镜头移动），以免Seedance将它们混为一谈。  \n对分镜注释进行颜色编码以保持指令明确：红色=身体运动，蓝色=镜头运动，绿色=构图/构图，橙色=灯光，紫色=情感强调。  \n在GPT Image 2中从注释的分镜板生成一致的船只/生物/环境参考图，然后使用这些在Seedance 2.0中动画化每一格，以减少再生成次数并保持更清晰的连贯性。\n---"
+    }
+  }
+}

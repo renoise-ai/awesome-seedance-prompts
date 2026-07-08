@@ -1,0 +1,42 @@
+{
+  "id": "2074485828265656588",
+  "title": "Seedance 2.0でリップシンクさせるには、音声を黒画面の動画に変換して音声リファレンスとして入力する",
+  "content": "Seedance 2.0でリップシンクさせるには、音声を黒画面の動画に変換して音声リファレンスとして入力する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074485752449409024/img/lOHVPEqL6R0VPj5Z.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074485828265656588.mp4",
+  "sourceLink": "https://x.com/QgnVmh/status/2074485828265656588",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "居留守",
+    "link": "https://x.com/QgnVmh"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0でリップシンクさせるには、音声を黒画面の動画に変換して音声リファレンスとして入力する",
+  "translations": {
+    "en": {
+      "content": "To lip-sync with Seedance 2.0, convert the audio into a black screen video and input it as an audio reference."
+    },
+    "es": {
+      "content": "Para sincronizar los labios en Seedance 2.0, convierte el audio en un video de pantalla negra y úsalo como referencia de audio."
+    },
+    "fr": {
+      "content": "Pour synchroniser les lèvres avec Seedance 2.0, convertissez l'audio en une vidéo avec un écran noir et utilisez-la comme référence audio."
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 립싱크를 시키려면, 음성을 검은 화면의 동영상으로 변환하여 음성 참조로 입력합니다."
+    },
+    "pt": {
+      "content": "Para fazer a sincronização labial no Seedance 2.0, converta o áudio em um vídeo de tela preta e insira-o como referência de áudio."
+    },
+    "zh": {
+      "content": "要在Seedance 2.0中实现唇同步，需要将音频转换为黑屏视频，并作为音频参考输入。"
+    }
+  }
+}

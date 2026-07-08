@@ -1,0 +1,42 @@
+{
+  "id": "2074098847639580725",
+  "title": "Generate a base character with GPT Image 2, then use that image as a reference…",
+  "content": "Generate a base character with GPT Image 2, then use that image as a reference to create a clean, production-style character reference sheet (white background, thin black grid lines, editorial typography, realistic studio photo style) for consistency.  \nUse the character reference sheet to build a storyboard for the exact scenes and story beats you want before generating video.  \nUpload both the storyboard and the character reference sheet into Seedance 2.0 as reference images to keep character identity and shot planning consistent across scenes.  \nInclude exact timing and actions from your storyboard in the Seedance 2.0 prompt so the output matches your planned shots more closely.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/D_studioproject/status/2074098847639580725",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "DStudioproject",
+    "link": "https://x.com/D_studioproject"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate a base character with GPT Image 2, then use that image as a reference to create a clean, production-style character reference sheet (white background, thin black grid lines, editorial typography, realistic studio photo style) for consistency.  \nUse the character reference sheet to build a storyboard for the exact scenes and story beats you want before generating video.  \nUpload both the storyboard and the character reference sheet into Seedance 2.0 as reference images to keep character identity and shot planning consistent across scenes.  \nInclude exact timing and actions from your storyboard in the Seedance 2.0 prompt so the output matches your planned shots more closely.",
+  "translations": {
+    "es": {
+      "content": "Genera un personaje base con GPT Image 2, luego usa esa imagen como referencia para crear una hoja de referencia de personaje limpia, estilo de producción (fondo blanco, líneas de cuadrícula negras finas, tipografía editorial, estilo de foto de estudio realista) para mantener la consistencia.  \nUsa la hoja de referencia de personaje para construir un guion gráfico para las escenas exactas y los momentos clave de la historia que deseas antes de generar el video.  \nSube tanto el guion gráfico como la hoja de referencia de personaje a Seedance 2.0 como imágenes de referencia para mantener la identidad del personaje y la planificación de tomas consistente a lo largo de las escenas.  \nIncluye el tiempo exacto y las acciones de tu guion gráfico en el prompt de Seedance 2.0 para que el resultado coincida más estrechamente con tus tomas planificadas."
+    },
+    "fr": {
+      "content": "Générez un personnage de base avec GPT Image 2, puis utilisez cette image comme référence pour créer une feuille de référence de personnage propre, de style production (fond blanc, lignes de grille noires fines, typographie éditoriale, style photo studio réaliste) pour assurer la cohérence.  \nUtilisez la feuille de référence de personnage pour construire un storyboard pour les scènes exactes et les moments clés de l'histoire que vous souhaitez avant de générer la vidéo.  \nTéléchargez à la fois le storyboard et la feuille de référence de personnage dans Seedance 2.0 en tant qu'images de référence pour maintenir l'identité du personnage et la planification des prises de vue cohérentes à travers les scènes.  \nIncluez le minutage exact et les actions de votre storyboard dans le prompt Seedance 2.0 afin que le résultat corresponde plus étroitement à vos prises de vue planifiées."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2でベースキャラクターを生成し、その画像を参考にして、クリーンでプロダクションスタイルのキャラクターレファレンスシート（白背景、細い黒のグリッドライン、エディトリアルなタイポグラフィ、リアルなスタジオ写真スタイル）を作成して一貫性を保ちます。  \nキャラクターレファレンスシートを使用して、ビデオを生成する前に、正確なシーンとストーリービートのためのストーリーボードを作成します。  \nストーリーボードとキャラクターレファレンスシートの両方をSeedance 2.0に参照画像としてアップロードし、シーン全体でキャラクターのアイデンティティとショットプランニングを一貫させます。  \nSeedance 2.0のプロンプトにストーリーボードからの正確なタイミングとアクションを含めて、出力が計画したショットにより近くなるようにします。  \n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2로 기본 캐릭터를 생성한 후, 그 이미지를 참고하여 깨끗하고 제작 스타일의 캐릭터 참고 시트를 만드세요 (흰색 배경, 얇은 검은색 격자선, 편집용 타이포그래피, 현실적인 스튜디오 사진 스타일) 일관성을 위해.  \n캐릭터 참고 시트를 사용하여 비디오를 생성하기 전에 원하는 정확한 장면과 스토리 비트를 위한 스토리보드를 만드세요.  \n스토리보드와 캐릭터 참고 시트를 Seedance 2.0에 참조 이미지로 업로드하여 장면 전반에 걸쳐 캐릭터 정체성과 샷 계획을 일관되게 유지하세요.  \n스토리보드의 정확한 타이밍과 동작을 Seedance 2.0 프롬프트에 포함시켜 출력물이 계획된 샷과 더 가깝게 일치하도록 하세요."
+    },
+    "pt": {
+      "content": "Gere um personagem base com o GPT Image 2, depois use essa imagem como referência para criar uma folha de referência de personagem em estilo de produção limpa (fundo branco, linhas finas de grade preta, tipografia editorial, estilo de foto de estúdio realista) para consistência.  \nUse a folha de referência de personagem para construir um storyboard para as cenas exatas e momentos da história que você deseja antes de gerar o vídeo.  \nCarregue tanto o storyboard quanto a folha de referência de personagem no Seedance 2.0 como imagens de referência para manter a identidade do personagem e o planejamento das tomadas consistentes entre as cenas.  \nInclua o tempo exato e as ações do seu storyboard no prompt do Seedance 2.0 para que o resultado corresponda mais de perto às suas tomadas planejadas."
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成一个基础角色，然后以该图像为参考，创建一个干净的、制作风格的角色参考表（白色背景、细黑色网格线、编辑排版、真实工作室照片风格）以保持一致性。  \n使用角色参考表构建一个分镜头脚本，以便在生成视频之前确定您想要的具体场景和故事节奏。  \n将分镜头脚本和角色参考表上传到Seedance 2.0中作为参考图像，以保持角色身份和镜头规划在各个场景中的一致性。  \n在Seedance 2.0的prompt中包含分镜头脚本中的确切时间和动作，以便输出更贴近您计划的镜头。"
+    }
+  }
+}

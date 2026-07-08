@@ -1,0 +1,43 @@
+{
+  "id": "2074598831254299088",
+  "title": "過去にSora2で作った動画をSeedance2に入力し、キャラ置換（キャラクター差し替え）で再生成して別キャラ版を作る",
+  "content": "過去にSora2で作った動画をSeedance2に入力し、キャラ置換（キャラクター差し替え）で再生成して別キャラ版を作る  \n動きが崩れた失敗動画でも、元動画をSeedance2にインプットしてキャラ置換で作り直し、動きを復活させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074477601897459712/img/0Fk6zSxG3sGjvt0k.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074598831254299088.mp4",
+  "sourceLink": "https://x.com/sub55623giya/status/2074598831254299088",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "リズムバカ (rhythm baka)",
+    "link": "https://x.com/sub55623giya"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "過去にSora2で作った動画をSeedance2に入力し、キャラ置換（キャラクター差し替え）で再生成して別キャラ版を作る  \n動きが崩れた失敗動画でも、元動画をSeedance2にインプットしてキャラ置換で作り直し、動きを復活させる",
+  "translations": {
+    "en": {
+      "content": "Input a video previously created with Sora2 into Seedance2 and regenerate it with character replacement to create a version with different characters.  \nEven if the original video has failed with disrupted movements, you can input it into Seedance2 and use character replacement to recreate it, restoring the movements."
+    },
+    "es": {
+      "content": "---\nIntroduce en Seedance2 un video creado anteriormente con Sora2 y regenera una versión con un personaje diferente mediante la función de reemplazo de personajes.  \nIncluso si el video original tiene errores en el movimiento, puedes introducirlo en Seedance2 y rehacerlo con el reemplazo de personajes para restaurar el movimiento.\n---"
+    },
+    "fr": {
+      "content": "---\nImporter une vidéo créée précédemment avec Sora2 dans Seedance2, et utiliser la fonction de remplacement de personnage pour régénérer une version avec un autre personnage.  \nMême pour une vidéo ratée avec des mouvements déformés, il est possible de réintroduire la vidéo originale dans Seedance2 et de la recréer avec le remplacement de personnage pour restaurer les mouvements."
+    },
+    "ko": {
+      "content": "---\n과거에 Sora2로 만든 영상을 Seedance2에 입력하고, 캐릭터 치환(캐릭터 대체)으로 재생성하여 다른 캐릭터 버전을 만들기  \n움직임이 무너진 실패 영상도, 원본 영상을 Seedance2에 입력하여 캐릭터 치환으로 다시 만들어 움직임을 복원시키기\n---"
+    },
+    "pt": {
+      "content": "---\nInsira o vídeo criado anteriormente no Sora2 no Seedance2 e use a substituição de personagens (キャラクター差し替え) para regenerar e criar uma versão com personagens diferentes.  \nMesmo com um vídeo falho onde o movimento se desfez, você pode reintroduzir o vídeo original no Seedance2 e recriá-lo com a substituição de personagens (キャラクター差し替え) para restaurar o movimento.\n---"
+    },
+    "zh": {
+      "content": "将过去在Sora2中制作的视频输入到Seedance2中，通过角色置换（キャラクター差し替え）重新生成，制作不同角色版本  \n即使是动作崩坏的失败视频，也可以将原视频输入到Seedance2中，通过角色置换重新制作，恢复动作"
+    }
+  }
+}

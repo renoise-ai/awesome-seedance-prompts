@@ -1,0 +1,46 @@
+{
+  "id": "2074426967739253224",
+  "title": "Claude Fable + Comfy MCP entegrasyonunda Claude’a istediğin kurguyu doğal dille…",
+  "content": "Claude Fable + Comfy MCP entegrasyonunda Claude’a istediğin kurguyu doğal dille tarif et; Claude’un videoyu internetten indirip sahneleri otomatik algılayarak kırpmasını kullan.  \nReferans videoyu hazırlamak için arka planda kayıtlı OpenPose ve DepthAnything (derinlik haritası) workflow’larını çalıştır.  \nReferans videoda kare kare tarama yaparak en net frame’i otomatik seçtir.  \nKarakteri Seedance üretiminden önce GPT-Image-2 ile (ör. smokinli hale getirerek) düzenleyip ardından Seedance ile final video üretimini/kurguyu tamamla.",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074426863426867200/img/dlUvDOPxUfm9ouUJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074426967739253224.mp4",
+  "sourceLink": "https://x.com/aladagberk/status/2074426967739253224",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "Berk Aladag",
+    "link": "https://x.com/aladagberk"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Claude Fable + Comfy MCP entegrasyonunda Claude’a istediğin kurguyu doğal dille tarif et; Claude’un videoyu internetten indirip sahneleri otomatik algılayarak kırpmasını kullan.  \nReferans videoyu hazırlamak için arka planda kayıtlı OpenPose ve DepthAnything (derinlik haritası) workflow’larını çalıştır.  \nReferans videoda kare kare tarama yaparak en net frame’i otomatik seçtir.  \nKarakteri Seedance üretiminden önce GPT-Image-2 ile (ör. smokinli hale getirerek) düzenleyip ardından Seedance ile final video üretimini/kurguyu tamamla.",
+  "translations": {
+    "en": {
+      "content": "---\nIn the integration of Claude Fable + Comfy MCP, describe the scenario you want to Claude in natural language; use Claude to download the video from the internet and automatically detect and trim the scenes.  \nRun the pre-recorded OpenPose and DepthAnything (depth map) workflows in the background to prepare the reference video.  \nPerform a frame-by-frame scan in the reference video to automatically select the clearest frame.  \nEdit the character with GPT-Image-2 (e.g., by putting them in a tuxedo) before Seedance production, then complete the final video production/editing with Seedance."
+    },
+    "es": {
+      "content": "Claude Fable + En la integración de Comfy MCP, describe a Claude la narrativa que deseas en lenguaje natural; utiliza la capacidad de Claude para descargar el video de internet y detectar automáticamente las escenas para recortarlas.  \nPara preparar el video de referencia, ejecuta en segundo plano los flujos de trabajo de OpenPose y DepthAnything (mapa de profundidad) que están guardados.  \nRealiza un escaneo cuadro por cuadro en el video de referencia para seleccionar automáticamente el frame más nítido.  \nEdita el personaje con GPT-Image-2 (por ejemplo, poniéndole un esmoquin) antes de la producción de Seedance y luego completa la producción/edición final del video con Seedance."
+    },
+    "fr": {
+      "content": "Claude Fable + Dans l'intégration Comfy MCP, décrivez à Claude le scénario souhaité en langage naturel ; utilisez la capacité de Claude à télécharger la vidéo depuis Internet et à détecter automatiquement les scènes pour les découper.  \nPour préparer la vidéo de référence, exécutez en arrière-plan les workflows OpenPose et DepthAnything (carte de profondeur) enregistrés.  \nEffectuez un balayage image par image dans la vidéo de référence pour sélectionner automatiquement le cadre le plus net.  \nModifiez le personnage avec GPT-Image-2 (par exemple, en le mettant en smoking) avant la production Seedance, puis complétez la production/montage final de la vidéo avec Seedance."
+    },
+    "ja": {
+      "content": "---\nClaude Fable + Comfy MCPの統合で、Claudeに自然言語で望むストーリーを説明し、Claudeがインターネットからビデオをダウンロードし、シーンを自動的に認識してトリミングする機能を利用します。  \n参照ビデオを準備するために、バックグラウンドで保存されたOpenPoseとDepthAnything（深度マップ）ワークフローを実行します。  \n参照ビデオでフレームごとにスキャンし、最も鮮明なフレームを自動的に選択させます。  \nキャラクターをSeedanceの生成前にGPT-Image-2で（例：タキシードを着せるなどして）編集し、その後Seedanceで最終ビデオ制作/編集を完了します。\n---"
+    },
+    "ko": {
+      "content": "---\nClaude Fable + Comfy MCP 통합에서 Claude에게 원하는 이야기를 자연어로 설명하세요; Claude가 인터넷에서 비디오를 다운로드하고 장면을 자동으로 인식하여 자르는 기능을 사용하세요.  \n참조 비디오를 준비하기 위해 백그라운드에서 저장된 OpenPose 및 DepthAnything (깊이 지도) 워크플로우를 실행하세요.  \n참조 비디오에서 프레임별로 스캔하여 가장 선명한 프레임을 자동으로 선택하세요.  \n캐릭터를 Seedance 제작 전에 GPT-Image-2로 (예: 턱시도를 입힌 상태로) 편집한 후 Seedance로 최종 비디오 제작/편집을 완료하세요.\n---"
+    },
+    "pt": {
+      "content": "Claude Fable + integração Comfy MCP: descreva o enredo desejado para Claude em linguagem natural; utilize Claude para baixar o vídeo da internet e cortar automaticamente as cenas detectadas.  \nPara preparar o vídeo de referência, execute em segundo plano os workflows de OpenPose e DepthAnything (mapa de profundidade) que estão salvos.  \nFaça uma varredura quadro a quadro no vídeo de referência para selecionar automaticamente o frame mais nítido.  \nEdite o personagem com GPT-Image-2 (por exemplo, colocando um smoking) antes da produção Seedance e, em seguida, finalize a produção/edição do vídeo com Seedance."
+    },
+    "zh": {
+      "content": "---\n在Claude Fable + Comfy MCP集成中，用自然语言向Claude描述你想要的情节；利用Claude从互联网上下载视频并自动识别和剪辑场景的功能。  \n在后台运行已保存的OpenPose和DepthAnything（深度地图）工作流程，以准备参考视频。  \n通过逐帧扫描参考视频，自动选择最清晰的画面。  \n在Seedance生成之前，使用GPT-Image-2对角色进行调整（例如，使其穿上燕尾服），然后使用Seedance完成最终视频制作/编辑。  \n---"
+    }
+  }
+}

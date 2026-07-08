@@ -1,0 +1,43 @@
+{
+  "id": "2074697597412106389",
+  "title": "Use GPT Image 2 to generate a “before” image, then design the makeover while…",
+  "content": "Use GPT Image 2 to generate a “before” image, then design the makeover while locking the architecture to keep the structure consistent across frames  \nHave GPT Image 2 build a 9-frame storyboard from the locked-architecture makeover design to guide the video sequence  \nUse an LLM to write the Seedance video prompt from the storyboard to improve prompt specificity  \nIn Seedance, generate an approach shot followed by a transformation timelapse to depict a curb-appeal makeover progression  \nRun multiple Seedance generations (e.g., 5 outputs) from a single input/storyboard to pick the best result",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074697205664063488/img/lBd-aRO8c666YDlE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074697597412106389.mp4",
+  "sourceLink": "https://x.com/AndyAI_/status/2074697597412106389",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "AndyAI",
+    "link": "https://x.com/AndyAI_"
+  },
+  "tags": [
+    "Product Ad",
+    "Home",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Use GPT Image 2 to generate a “before” image, then design the makeover while locking the architecture to keep the structure consistent across frames  \nHave GPT Image 2 build a 9-frame storyboard from the locked-architecture makeover design to guide the video sequence  \nUse an LLM to write the Seedance video prompt from the storyboard to improve prompt specificity  \nIn Seedance, generate an approach shot followed by a transformation timelapse to depict a curb-appeal makeover progression  \nRun multiple Seedance generations (e.g., 5 outputs) from a single input/storyboard to pick the best result",
+  "translations": {
+    "es": {
+      "content": "Utiliza GPT Image 2 para generar una imagen \"antes\", luego diseña el cambio de imagen manteniendo la arquitectura bloqueada para mantener la estructura consistente a través de los fotogramas.  \nHaz que GPT Image 2 construya un guion gráfico de 9 fotogramas a partir del diseño de cambio de imagen con arquitectura bloqueada para guiar la secuencia de video.  \nUsa un LLM para escribir el prompt de video de Seedance a partir del guion gráfico para mejorar la especificidad del prompt.  \nEn Seedance, genera una toma de acercamiento seguida de un timelapse de transformación para representar la progresión de un cambio de imagen de atractivo exterior.  \nRealiza múltiples generaciones de Seedance (por ejemplo, 5 resultados) a partir de una sola entrada/guion gráfico para elegir el mejor resultado."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer une image « avant », puis concevez la transformation tout en verrouillant l'architecture pour maintenir la cohérence de la structure à travers les cadres  \nFaites en sorte que GPT Image 2 construise un storyboard de 9 cadres à partir du design de transformation à architecture verrouillée pour guider la séquence vidéo  \nUtilisez un LLM pour rédiger le prompt vidéo Seedance à partir du storyboard afin d'améliorer la spécificité du prompt  \nDans Seedance, générez un plan d'approche suivi d'une timelapse de transformation pour illustrer la progression d'une rénovation de façade  \nExécutez plusieurs générations Seedance (par exemple, 5 sorties) à partir d'une seule entrée/storyboard pour choisir le meilleur résultat"
+    },
+    "ja": {
+      "content": "---\nGPT Image 2を使用して「ビフォー」画像を生成し、建築を固定してフレーム間で構造を一貫させながらメイクオーバーをデザインします  \nGPT Image 2に、固定された建築のメイクオーバーデザインから9フレームのストーリーボードを作成させ、ビデオシーケンスをガイドします  \nLLMを使用して、ストーリーボードからSeedanceビデオプロンプトを書き、プロンプトの具体性を向上させます  \nSeedanceで、アプローチショットを生成し、その後に変身のタイムラプスを生成して、カーブアピールのメイクオーバーの進行を描写します  \n単一の入力/ストーリーボードから複数のSeedance生成（例：5つの出力）を実行して、最良の結果を選びます  \n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2를 사용하여 \"전\" 이미지를 생성한 후, 건축 구조를 고정하여 프레임 간 구조를 일관되게 유지하면서 메이크오버를 디자인합니다.  \n고정된 건축 메이크오버 디자인에서 9프레임 스토리보드를 GPT Image 2로 제작하여 비디오 시퀀스를 안내합니다.  \nLLM을 사용하여 스토리보드에서 Seedance 비디오 프롬프트를 작성하여 프롬프트의 구체성을 향상시킵니다.  \nSeedance에서 접근 샷을 생성한 후 변형 타임랩스를 생성하여 커브 어필 메이크오버 진행 과정을 묘사합니다.  \n단일 입력/스토리보드에서 여러 Seedance 생성(예: 5개의 출력)을 실행하여 최상의 결과를 선택합니다.  \n---"
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar uma imagem \"antes\", depois projete a reforma enquanto bloqueia a arquitetura para manter a estrutura consistente entre os quadros  \nFaça o GPT Image 2 construir um storyboard de 9 quadros a partir do design de reforma com arquitetura bloqueada para guiar a sequência de vídeo  \nUse um LLM para escrever o prompt de vídeo Seedance a partir do storyboard para melhorar a especificidade do prompt  \nNo Seedance, gere uma cena de aproximação seguida por um timelapse de transformação para retratar a progressão de uma reforma de apelo visual  \nExecute múltiplas gerações Seedance (por exemplo, 5 saídas) a partir de uma única entrada/storyboard para escolher o melhor resultado"
+    },
+    "zh": {
+      "content": "使用GPT Image 2生成一个“前”图像，然后设计改造方案，同时锁定建筑结构以保持各帧的一致性  \n让GPT Image 2从锁定架构的改造设计中构建一个9帧的故事板，以指导视频序列  \n使用LLM从故事板中编写Seedance视频提示，以提高提示的具体性  \n在Seedance中，生成一个接近镜头，然后是一个变换时间推移，以展示路缘吸引力改造的进展  \n从单个输入/故事板运行多个Seedance生成（例如，5个输出），以选择最佳结果"
+    }
+  }
+}

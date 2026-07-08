@@ -1,0 +1,41 @@
+{
+  "id": "2074201015013028112",
+  "title": "将Seedance接入Codex，让Codex自动完成从分镜设计→Prompt制作→视频生成的一站式流程，以便无人值守批量生成宣传片素材",
+  "content": "将Seedance接入Codex，让Codex自动完成从分镜设计→Prompt制作→视频生成的一站式流程，以便无人值守批量生成宣传片素材",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/hoshino_sasaki/status/2074201015013028112",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "佐佐木星野丨Hoshino University🎓",
+    "link": "https://x.com/hoshino_sasaki"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "将Seedance接入Codex，让Codex自动完成从分镜设计→Prompt制作→视频生成的一站式流程，以便无人值守批量生成宣传片素材",
+  "translations": {
+    "en": {
+      "content": "Integrate Seedance with Codex to enable Codex to automatically complete the one-stop process from storyboard design to prompt creation to video generation, allowing for unattended batch production of promotional video materials."
+    },
+    "es": {
+      "content": "Conectar Seedance a Codex para que Codex complete automáticamente el flujo de trabajo de diseño de guiones gráficos → creación de Prompts → generación de videos, permitiendo la generación masiva de material promocional sin supervisión."
+    },
+    "fr": {
+      "content": "Intégrer Seedance à Codex pour permettre à Codex de compléter automatiquement le processus tout-en-un allant de la conception de storyboard à la création de prompt, jusqu'à la génération de vidéos, afin de générer en masse des matériaux de promotion sans surveillance."
+    },
+    "ja": {
+      "content": "SeedanceをCodexに接続し、Codexが自動で分鏡デザインからPrompt制作、そして動画生成までの一貫したプロセスを完了することで、無人で大量のプロモーションビデオ素材を生成できるようにします。"
+    },
+    "ko": {
+      "content": "Seedance를 Codex에 연결하여 Codex가 자동으로 스토리보드 디자인 → Prompt 제작 → 비디오 생성의 원스톱 프로세스를 완료하도록 하여, 무인으로 대량의 홍보 영상 소재를 생성할 수 있도록 합니다."
+    },
+    "pt": {
+      "content": "Conecte o Seedance ao Codex para que o Codex complete automaticamente o fluxo de trabalho de uma única etapa, desde o design de storyboard → criação de Prompt → geração de vídeo, permitindo a geração em massa de materiais de promoção sem supervisão."
+    }
+  }
+}

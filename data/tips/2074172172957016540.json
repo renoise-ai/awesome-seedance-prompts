@@ -1,0 +1,41 @@
+{
+  "id": "2074172172957016540",
+  "title": "Scout a real location and capture a reference photo to use as the visual basis…",
+  "content": "Scout a real location and capture a reference photo to use as the visual basis for Seedance 2.0 renders  \nPrompt your render in Seedance 2.0 using the reference photo to guide the look of the scene  \nBefore production, align the crew on aspect ratio, lens choice, lighting, and camera movement based on the Seedance 2.0 render output",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/eliott__mogenet/status/2074172172957016540",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "Eliott Mogenet",
+    "link": "https://x.com/eliott__mogenet"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Scout a real location and capture a reference photo to use as the visual basis for Seedance 2.0 renders  \nPrompt your render in Seedance 2.0 using the reference photo to guide the look of the scene  \nBefore production, align the crew on aspect ratio, lens choice, lighting, and camera movement based on the Seedance 2.0 render output",
+  "translations": {
+    "es": {
+      "content": "Explora una ubicación real y captura una foto de referencia para usar como base visual para los renders de Seedance 2.0  \nPrompt your render in Seedance 2.0 using the reference photo to guide the look of the scene  \nAntes de la producción, alinea al equipo sobre la relación de aspecto, elección de lente, iluminación y movimiento de cámara basándote en el resultado del render de Seedance 2.0"
+    },
+    "fr": {
+      "content": "---\nRepérez un lieu réel et capturez une photo de référence à utiliser comme base visuelle pour les rendus Seedance 2.0  \nPrompt your render in Seedance 2.0 using the reference photo to guide the look of the scene  \nAvant la production, alignez l'équipe sur le format d'image, le choix de l'objectif, l'éclairage et le mouvement de la caméra en fonction du rendu Seedance 2.0"
+    },
+    "ja": {
+      "content": "---\n実際のロケーションを探し、Seedance 2.0のレンダリングの視覚的基盤として使用するための参考写真を撮影する  \nシーンの外観をガイドするために、参考写真を使用してSeedance 2.0でレンダリングをプロンプトする  \n制作前に、Seedance 2.0のレンダリング出力に基づいて、アスペクト比、レンズの選択、照明、カメラの動きをクルーと調整する  \n---"
+    },
+    "ko": {
+      "content": "실제 장소를 탐색하고 Seedance 2.0 렌더링의 시각적 기초로 사용할 참고 사진을 촬영하세요.  \n참고 사진을 사용하여 Seedance 2.0에서 장면의 외관을 안내하는 렌더를 프롬프트하세요.  \n제작 전에 Seedance 2.0 렌더 출력에 기반하여 화면 비율, 렌즈 선택, 조명, 카메라 움직임에 대해 팀과 조율하세요."
+    },
+    "pt": {
+      "content": "Explore um local real e capture uma foto de referência para usar como base visual para os renders do Seedance 2.0  \nPrompt your render in Seedance 2.0 using the reference photo to guide the look of the scene  \nAntes da produção, alinhe a equipe sobre a proporção, escolha de lente, iluminação e movimento de câmera com base no resultado do render do Seedance 2.0"
+    },
+    "zh": {
+      "content": "---\n寻找一个真实地点并拍摄参考照片，用作Seedance 2.0渲染的视觉基础  \n在Seedance 2.0中使用参考照片提示渲染，引导场景的外观  \n在制作前，根据Seedance 2.0渲染输出，与团队协调画幅比例、镜头选择、灯光和摄像机运动\n---"
+    }
+  }
+}

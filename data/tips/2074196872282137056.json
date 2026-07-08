@@ -1,0 +1,42 @@
+{
+  "id": "2074196872282137056",
+  "title": "先在 Midjourney 生成一张高质量的首帧（Start Frame）作为图生视频的起点",
+  "content": "先在 Midjourney 生成一张高质量的首帧（Start Frame）作为图生视频的起点  \n将首帧图片导入 Seedance（https://t.co/ZD9tKN15zt）并用图生视频工作流生成电影级动态镜头",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074196713842360320/img/cZSQ7klbkBKm0DnB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074196872282137056.mp4",
+  "sourceLink": "https://x.com/billtheinvestor/status/2074196872282137056",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "Bill The Investor",
+    "link": "https://x.com/billtheinvestor"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先在 Midjourney 生成一张高质量的首帧（Start Frame）作为图生视频的起点  \n将首帧图片导入 Seedance（https://t.co/ZD9tKN15zt）并用图生视频工作流生成电影级动态镜头",
+  "translations": {
+    "en": {
+      "content": "First, generate a high-quality Start Frame in Midjourney as the starting point for the image-to-video process.  \nImport the Start Frame image into Seedance (https://t.co/ZD9tKN15zt) and use the image-to-video workflow to create cinematic dynamic shots."
+    },
+    "es": {
+      "content": "Primero, genera un Start Frame de alta calidad en Midjourney como punto de partida para el video generado a partir de imágenes.  \nImporta la imagen del Start Frame en Seedance (https://t.co/ZD9tKN15zt) y utiliza el flujo de trabajo de generación de video a partir de imágenes para crear tomas dinámicas de nivel cinematográfico."
+    },
+    "fr": {
+      "content": "Commencez par générer une image de haute qualité de la première image (Start Frame) dans Midjourney comme point de départ pour la création de la vidéo à partir d'images.  \nImportez l'image de la première image dans Seedance (https://t.co/ZD9tKN15zt) et utilisez le flux de travail de création de vidéos à partir d'images pour générer des plans dynamiques de qualité cinématographique."
+    },
+    "ja": {
+      "content": "まず、Midjourneyで高品質のスタートフレーム（Start Frame）を生成し、これを映像生成の起点とします。  \nその後、スタートフレーム画像をSeedance（https://t.co/ZD9tKN15zt）にインポートし、映画級のダイナミックショットを生成するための映像生成ワークフローを使用します。"
+    },
+    "ko": {
+      "content": "먼저 Midjourney에서 고품질의 시작 프레임(Start Frame)을 생성하여 이미지 기반 비디오의 시작점으로 사용합니다.  \n시작 프레임 이미지를 Seedance(https://t.co/ZD9tKN15zt)에 가져와 이미지 기반 비디오 워크플로우를 사용하여 영화급의 동적 카메라 샷을 생성합니다."
+    },
+    "pt": {
+      "content": "Primeiro, gere um quadro inicial (Start Frame) de alta qualidade no Midjourney como ponto de partida para a criação de vídeo a partir de imagem.  \nImporte a imagem do quadro inicial no Seedance (https://t.co/ZD9tKN15zt) e use o fluxo de trabalho de criação de vídeo a partir de imagem para gerar tomadas dinâmicas em nível cinematográfico."
+    }
+  }
+}

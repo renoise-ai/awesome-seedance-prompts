@@ -1,0 +1,42 @@
+{
+  "id": "2073988640666193953",
+  "title": "Seedance 2.0のTimeline形式プロンプトの書式をLTX-2.3に渡して、1日の流れ（例：みーの一日）をシーンごとに生成させる",
+  "content": "Seedance 2.0のTimeline形式プロンプトの書式をLTX-2.3に渡して、1日の流れ（例：みーの一日）をシーンごとに生成させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073988007896748032/img/46GYYBccqfPED1UO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073988640666193953.mp4",
+  "sourceLink": "https://x.com/PhotogenicWeekE/status/2073988640666193953",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "Photogenic Weekend",
+    "link": "https://x.com/PhotogenicWeekE"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0のTimeline形式プロンプトの書式をLTX-2.3に渡して、1日の流れ（例：みーの一日）をシーンごとに生成させる",
+  "translations": {
+    "en": {
+      "content": "Pass the Seedance 2.0 Timeline format prompt to LTX-2.3 to generate a day's flow (e.g., a day in the life of Mi) scene by scene.\n\n--- QUOTED TWEET ---\nI immediately passed this Seedance 2.0 Timeline format prompt to LTX-2.3 to create a day in the life of Mi, and it's currently generating (it's a minute too long, lol). This is the first waking-up scene. I laughed out loud. https://t.co/2JndEeFvgs\n---"
+    },
+    "es": {
+      "content": "Pasa el formato de prompt en Timeline de Seedance 2.0 a LTX-2.3 para generar el flujo de un día (por ejemplo: un día de Mii) escena por escena.\n\n--- TWEET CITADO ---\nEstoy usando este prompt en formato Timeline de Seedance 2.0 con LTX-2.3 para crear un día de Mii y ya está en proceso de generación (dura un minuto más de lo esperado, jaja). Esta es la primera escena al despertar. Me hizo reír en voz alta. https://t.co/2JndEeFvgs\n---"
+    },
+    "fr": {
+      "content": "Passez le format de prompt en Timeline de Seedance 2.0 à LTX-2.3 pour générer le déroulement d'une journée (par exemple, une journée de Mii) scène par scène.\n\n--- TWEET CITÉ ---\nJ'ai immédiatement transmis ce prompt en format Timeline de Seedance 2.0 à LTX-2.3 pour créer une journée de Mii et c'est en cours de génération (la durée est un peu longue, 1 minute de plus), mais voici la première scène du réveil. J'ai éclaté de rire (rire) https://t.co/2JndEeFvgs\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0의 Timeline 형식 프롬프트를 LTX-2.3에 전달하여 하루의 흐름(예: 미의 하루)을 장면별로 생성하게 하기\n\n--- 인용된 트윗 ---\n이 Seedance 2.0 Timeline 형식 Prompt를 LTX-2.3에 바로 전달해서 미의 하루를 만들어 생성 중인데(길이가 1분이나 길어졌어w), 처음에 일어나는 장면이 이거야. 진짜 웃음 터졌어(笑) https://t.co/2JndEeFvgs\n---"
+    },
+    "pt": {
+      "content": "Passe o formato de prompt do Seedance 2.0 em estilo Timeline para o LTX-2.3, para gerar o fluxo de um dia (exemplo: um dia na vida de Mii) cena por cena.\n\n--- TWEET CITADO ---\nEstou usando o formato de Prompt do Seedance 2.0 em estilo Timeline no LTX-2.3 para criar um dia na vida de Mii, e já está gerando (o tempo é 1 minuto mais longo, rs). A primeira cena é ela acordando. Já estou rindo alto, hahaha. https://t.co/2JndEeFvgs\n---"
+    },
+    "zh": {
+      "content": "将Seedance 2.0的Timeline格式Prompt传递给LTX-2.3，以生成一天的流程（例如：みー的一天），按场景生成。\n\n--- QUOTED TWEET ---\n我已经将这个Seedance 2.0 Timeline格式Prompt传递给LTX-2.3，让它生成みー的一天，目前正在生成中（时长1分钟有点长w），这是最初的起床场景。我都笑出声了（笑）https://t.co/2JndEeFvgs\n---"
+    }
+  }
+}

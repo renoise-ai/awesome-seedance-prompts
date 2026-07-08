@@ -1,0 +1,44 @@
+{
+  "id": "2074556452119937481",
+  "title": "Use a node-free Comfy MCP + Claude Fable 5 pipeline to automate Seedance 2.0…",
+  "content": "Use a node-free Comfy MCP + Claude Fable 5 pipeline to automate Seedance 2.0 preprocessing and prompt writing end-to-end (web shot → scene detection/trimming → DepthAnything V3 + OpenPose reference video → frame scrubbing → character swap with gpt-image-2 → Seedance 2.0 prompt + generation → 3-panel comparison).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074556166055809026/img/dIRyyIo1tjMoeHM3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074556452119937481.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2074556452119937481",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "Creative Asset"
+  ],
+  "tips": "Use a node-free Comfy MCP + Claude Fable 5 pipeline to automate Seedance 2.0 preprocessing and prompt writing end-to-end (web shot → scene detection/trimming → DepthAnything V3 + OpenPose reference video → frame scrubbing → character swap with gpt-image-2 → Seedance 2.0 prompt + generation → 3-panel comparison).",
+  "translations": {
+    "es": {
+      "content": "Utiliza una tubería Comfy MCP + Claude Fable 5 sin nodos para automatizar el preprocesamiento y la escritura de prompts de Seedance 2.0 de principio a fin (captura web → detección/recorte de escenas → video de referencia DepthAnything V3 + OpenPose → revisión de fotogramas → intercambio de personajes con gpt-image-2 → prompt + generación de Seedance 2.0 → comparación de 3 paneles).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @hellorob Aprende más con nuestro blog: https://t.co/mq7b9G3OYb"
+    },
+    "fr": {
+      "content": "---\nUtilisez un pipeline Comfy MCP + Claude Fable 5 sans nœud pour automatiser le prétraitement et l'écriture de prompt de Seedance 2.0 de bout en bout (capture web → détection/scission de scène → vidéo de référence DepthAnything V3 + OpenPose → nettoyage de cadre → échange de personnage avec gpt-image-2 → prompt Seedance 2.0 + génération → comparaison en 3 panneaux).\n\n--- SUITE DU FIL ---\n[Fil 1] @hellorob En savoir plus avec notre blog : https://t.co/mq7b9G3OYb\n---"
+    },
+    "ja": {
+      "content": "---\nノードフリーのComfy MCP + Claude Fable 5パイプラインを使用して、Seedance 2.0の前処理とプロンプト作成をエンドツーエンドで自動化します（ウェブショット → シーン検出/トリミング → DepthAnything V3 + OpenPose参照ビデオ → フレームスクラビング → gpt-image-2によるキャラクタースワップ → Seedance 2.0プロンプト + 生成 → 3パネル比較）。\n\n--- スレッドの続き ---\n[スレッド1] @hellorob 詳細は私たちのブログで: https://t.co/mq7b9G3OYb\n---"
+    },
+    "ko": {
+      "content": "노드 없는 Comfy MCP + Claude Fable 5 파이프라인을 사용하여 Seedance 2.0 전처리 및 프롬프트 작성의 자동화를 끝에서 끝까지 수행합니다 (웹 샷 → 장면 감지/트리밍 → DepthAnything V3 + OpenPose 참조 비디오 → 프레임 스크러빙 → gpt-image-2로 캐릭터 교체 → Seedance 2.0 프롬프트 + 생성 → 3패널 비교).\n\n--- THREAD CONTINUATION ---\n[Thread 1] @hellorob 우리의 블로그에서 더 알아보세요: https://t.co/mq7b9G3OYb"
+    },
+    "pt": {
+      "content": "---\nUse um pipeline Comfy MCP + Claude Fable 5 sem nós para automatizar o pré-processamento do Seedance 2.0 e a escrita de prompts de ponta a ponta (captura da web → detecção/corte de cena → vídeo de referência DepthAnything V3 + OpenPose → limpeza de quadros → troca de personagem com gpt-image-2 → prompt + geração do Seedance 2.0 → comparação de 3 painéis).\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] @hellorob Saiba mais em nosso blog: https://t.co/mq7b9G3OYb\n---"
+    },
+    "zh": {
+      "content": "使用无节点的Comfy MCP + Claude Fable 5流程来自动化Seedance 2.0的预处理和提示编写，从头到尾（网页截图 → 场景检测/剪辑 → DepthAnything V3 + OpenPose参考视频 → 帧擦洗 → 使用gpt-image-2进行角色替换 → Seedance 2.0提示 + 生成 → 3面板比较）。\n\n--- 线程继续 ---\n[线程1] @hellorob 通过我们的博客了解更多：https://t.co/mq7b9G3OYb"
+    }
+  }
+}

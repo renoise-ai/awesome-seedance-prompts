@@ -1,0 +1,42 @@
+{
+  "id": "2074329816854389227",
+  "title": "Midjourneyで世界観（ルック/コンセプト）を先に作ってから、Blenderで空間のブロッキングとカメラ設計を行い、その設計を元にSeedanceで映像化…",
+  "content": "Midjourneyで世界観（ルック/コンセプト）を先に作ってから、Blenderで空間のブロッキングとカメラ設計を行い、その設計を元にSeedanceで映像化する工程分解ワークフローを使う  \nSeedanceに丸投げせず、生成前に構図・動線・カメラの意図を先に決めてからプロンプト/素材に反映させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074163904788185088/img/uNdqUaxgAeTkUCSq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074329816854389227.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2074329816854389227",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Midjourneyで世界観（ルック/コンセプト）を先に作ってから、Blenderで空間のブロッキングとカメラ設計を行い、その設計を元にSeedanceで映像化する工程分解ワークフローを使う  \nSeedanceに丸投げせず、生成前に構図・動線・カメラの意図を先に決めてからプロンプト/素材に反映させる",
+  "translations": {
+    "en": {
+      "content": "Use a workflow that involves first creating the world view (look/concept) in Midjourney, then performing spatial blocking and camera design in Blender, and finally visualizing it in Seedance based on that design.  \nInstead of leaving everything to Seedance, decide on the composition, movement lines, and camera intentions before generation, and reflect these in the prompt/materials."
+    },
+    "es": {
+      "content": "---\nUtilizar un flujo de trabajo de descomposición de procesos donde primero se crea el mundo visual (look/concepto) en Midjourney, luego se realiza el bloqueo del espacio y el diseño de la cámara en Blender, y finalmente se visualiza en Seedance basándose en ese diseño.  \nNo delegar todo a Seedance; decidir primero la composición, las líneas de movimiento y la intención de la cámara antes de reflejarlo en el prompt/materiales.  \n---"
+    },
+    "fr": {
+      "content": "Utiliser un flux de travail de décomposition des étapes où l'on crée d'abord le monde visuel (look/concept) avec Midjourney, puis on effectue le blocage de l'espace et la conception de la caméra dans Blender, et enfin on réalise la vidéo avec Seedance en se basant sur cette conception.  \nNe pas tout déléguer à Seedance ; décider d'abord de la composition, des lignes de mouvement et de l'intention de la caméra avant de les refléter dans le prompt/matériel avant la génération."
+    },
+    "ko": {
+      "content": "---\nMidjourney에서 세계관(룩/콘셉트)을 먼저 만든 후, Blender에서 공간의 블로킹과 카메라 설계를 진행하고, 그 설계를 바탕으로 Seedance에서 영상화하는 공정 분해 워크플로우를 사용한다.  \nSeedance에 전적으로 맡기지 않고, 생성 전에 구도, 동선, 카메라의 의도를 먼저 결정한 후 프롬프트/소재에 반영한다.\n---"
+    },
+    "pt": {
+      "content": "---\nUsar um fluxo de trabalho de decomposição de processo onde primeiro se cria o mundo (visual/conceito) no Midjourney, depois se faz o bloqueio do espaço e o design da câmera no Blender, e com base nesse design, se transforma em vídeo no Seedance.  \nEm vez de deixar tudo para o Seedance, decida primeiro a composição, a linha de movimento e a intenção da câmera antes de refletir isso no prompt/material."
+    },
+    "zh": {
+      "content": "在Midjourney中先创建世界观（外观/概念），然后在Blender中进行空间的分块和相机设计，并基于该设计使用Seedance进行影像化的流程分解工作流  \n不要完全依赖Seedance，在生成之前先确定构图、动线和相机意图，然后再将其反映到prompt/素材中"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2074338743226609862",
+  "title": "Structure a 15s Seedance 2.0 ad as multiple short, timecoded shots (e.g., 8…",
+  "content": "Structure a 15s Seedance 2.0 ad as multiple short, timecoded shots (e.g., 8 shots of ~1.5–2s) and specify camera move + lens feel per shot (aerial glide, eye-level track, macro orbit, dolly out) to control pacing and continuity.  \nTo preserve character identity, explicitly instruct “face matches the reference image exactly” (and “facial features consistent with reference”) in every shot where the person appears.  \nFor stable product shots, add constraints like “bottle perfectly stable,” “droplets fixed in place,” and “label reflecting sunlight” to reduce deformation and label drift during camera motion.  \nUse a global negative prompt that bans common failures (text/logos/watermarks, camera shake/zoom jumps, object deformation/label distortion, lighting/environment changes, unrealistic reflections/water motion, face distortion/inconsistent identity) to improve consistency across shots.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/AIwithJessica/status/2074338743226609862",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "Jessica Collins",
+    "link": "https://x.com/AIwithJessica"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Structure a 15s Seedance 2.0 ad as multiple short, timecoded shots (e.g., 8 shots of ~1.5–2s) and specify camera move + lens feel per shot (aerial glide, eye-level track, macro orbit, dolly out) to control pacing and continuity.  \nTo preserve character identity, explicitly instruct “face matches the reference image exactly” (and “facial features consistent with reference”) in every shot where the person appears.  \nFor stable product shots, add constraints like “bottle perfectly stable,” “droplets fixed in place,” and “label reflecting sunlight” to reduce deformation and label drift during camera motion.  \nUse a global negative prompt that bans common failures (text/logos/watermarks, camera shake/zoom jumps, object deformation/label distortion, lighting/environment changes, unrealistic reflections/water motion, face distortion/inconsistent identity) to improve consistency across shots.",
+  "translations": {
+    "es": {
+      "content": "Estructura un anuncio de 15s de Seedance 2.0 como múltiples tomas cortas con código de tiempo (por ejemplo, 8 tomas de ~1.5–2s) y especifica el movimiento de cámara + sensación de lente por toma (deslizamiento aéreo, seguimiento a nivel de los ojos, órbita macro, alejamiento con dolly) para controlar el ritmo y la continuidad.  \nPara preservar la identidad del personaje, instruye explícitamente “el rostro coincide exactamente con la imagen de referencia” (y “rasgos faciales consistentes con la referencia”) en cada toma donde aparezca la persona.  \nPara tomas de producto estables, añade restricciones como “botella perfectamente estable,” “gotas fijas en su lugar,” y “etiqueta reflejando la luz del sol” para reducir la deformación y el desplazamiento de la etiqueta durante el movimiento de la cámara.  \nUsa un prompt negativo global que prohíba fallos comunes (texto/logos/marcas de agua, sacudidas de cámara/saltos de zoom, deformación de objetos/distorsión de etiquetas, cambios de iluminación/entorno, reflejos irreales/movimiento del agua, distorsión facial/identidad inconsistente) para mejorar la consistencia entre las tomas."
+    },
+    "fr": {
+      "content": "Structurez une publicité Seedance 2.0 de 15 secondes en plusieurs plans courts et minutés (par exemple, 8 plans d'environ 1,5 à 2 secondes) et spécifiez le mouvement de la caméra + la sensation de l'objectif pour chaque plan (glissement aérien, suivi au niveau des yeux, orbite macro, recul en dolly) pour contrôler le rythme et la continuité.  \nPour préserver l'identité du personnage, indiquez explicitement “face matches the reference image exactly” (et “facial features consistent with reference”) dans chaque plan où la personne apparaît.  \nPour les plans de produits stables, ajoutez des contraintes telles que “bottle perfectly stable,” “droplets fixed in place,” et “label reflecting sunlight” pour réduire la déformation et la dérive de l'étiquette pendant le mouvement de la caméra.  \nUtilisez un prompt négatif global qui interdit les échecs courants (texte/logos/filigranes, tremblement de la caméra/sauts de zoom, déformation des objets/distorsion des étiquettes, changements d'éclairage/environnement, reflets irréalistes/mouvement de l'eau, distorsion du visage/identité incohérente) pour améliorer la cohérence entre les plans."
+    },
+    "ja": {
+      "content": "---\n15秒のSeedance 2.0広告を、複数の短いタイムコード付きショット（例：8ショットで約1.5〜2秒）として構成し、各ショットごとにカメラの動きとレンズの感触（エアリアルグライド、アイレベルトラック、マクロオービット、ドリーアウト）を指定して、ペースと連続性を制御します。  \nキャラクターのアイデンティティを保つために、「顔が参照画像と完全に一致する」（および「顔の特徴が参照と一致する」）という指示を、その人物が登場するすべてのショットで明示的に指示します。  \n安定した製品ショットのために、「ボトルが完全に安定している」、「水滴が固定されている」、「ラベルが太陽光を反射している」といった制約を追加し、カメラの動き中の変形やラベルのずれを減らします。  \n一貫性を向上させるために、共通の失敗（テキスト/ロゴ/ウォーターマーク、カメラの揺れ/ズームのジャンプ、オブジェクトの変形/ラベルの歪み、照明/環境の変化、非現実的な反射/水の動き、顔の歪み/アイデンティティの不一致）を禁止するグローバルなネガティブプロンプトを使用します。\n---"
+    },
+    "ko": {
+      "content": "---\n15초 Seedance 2.0 광고를 여러 개의 짧고 시간 코드가 있는 샷으로 구성하세요 (예: 약 1.5–2초의 8개 샷) 그리고 각 샷마다 카메라 움직임과 렌즈 느낌을 지정하세요 (공중 활강, 눈높이 트랙, 매크로 궤도, 돌리 아웃) 페이싱과 연속성을 제어하기 위해.  \n캐릭터의 정체성을 유지하기 위해, 사람이 등장하는 모든 샷에서 \"얼굴이 참조 이미지와 정확히 일치\" (그리고 \"참조와 일관된 얼굴 특징\")라고 명시적으로 지시하세요.  \n안정적인 제품 샷을 위해, 카메라 움직임 중 변형과 라벨 드리프트를 줄이기 위해 \"병이 완벽하게 안정적\", \"물방울 고정\", \"라벨이 햇빛을 반사\"와 같은 제약 조건을 추가하세요.  \n일관성을 개선하기 위해 전역 네거티브 프롬프트를 사용하여 일반적인 실패 (텍스트/로고/워터마크, 카메라 흔들림/줌 점프, 객체 변형/라벨 왜곡, 조명/환경 변화, 비현실적인 반사/물의 움직임, 얼굴 왜곡/일관성 없는 정체성)를 금지하세요.\n---"
+    },
+    "pt": {
+      "content": "Estruture um anúncio de 15 segundos do Seedance 2.0 como múltiplas tomadas curtas e cronometradas (por exemplo, 8 tomadas de ~1,5–2s) e especifique o movimento da câmera + sensação da lente por tomada (deslize aéreo, rastreamento ao nível dos olhos, órbita macro, dolly out) para controlar o ritmo e a continuidade.  \nPara preservar a identidade do personagem, instrua explicitamente “o rosto corresponde exatamente à imagem de referência” (e “características faciais consistentes com a referência”) em cada tomada onde a pessoa aparece.  \nPara tomadas estáveis de produtos, adicione restrições como “garrafa perfeitamente estável”, “gotículas fixas no lugar” e “rótulo refletindo a luz do sol” para reduzir a deformação e o desvio do rótulo durante o movimento da câmera.  \nUse um prompt negativo global que proíba falhas comuns (texto/logos/marcas d'água, tremor de câmera/saltos de zoom, deformação de objetos/distorsão de rótulos, mudanças de iluminação/ambiente, reflexos irreais/movimento da água, distorção facial/identidade inconsistente) para melhorar a consistência entre as tomadas."
+    },
+    "zh": {
+      "content": "将15秒的Seedance 2.0广告结构化为多个短的、带时间码的镜头（例如，8个镜头，每个约1.5–2秒），并为每个镜头指定摄像机移动和镜头感觉（如aerial glide、eye-level track、macro orbit、dolly out）以控制节奏和连贯性。  \n为了保持角色身份，在每个出现人物的镜头中明确指示“面部与参考图像完全匹配”（以及“面部特征与参考一致”）。  \n对于稳定的产品镜头，添加诸如“瓶子完全稳定”、“水滴固定不动”和“标签反射阳光”等约束，以减少在摄像机运动期间的变形和标签漂移。  \n使用全球负面prompt来禁止常见的失败（文本/标志/水印、摄像机抖动/变焦跳跃、物体变形/标签扭曲、光照/环境变化、不现实的反射/水流动、面部变形/身份不一致），以提高镜头之间的一致性。"
+    }
+  }
+}

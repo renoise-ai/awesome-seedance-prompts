@@ -1,0 +1,41 @@
+{
+  "id": "2074604066785595453",
+  "title": "Use an @Image storyboard reference and specify it as first shot 01 to drive a…",
+  "content": "Use an @Image storyboard reference and specify it as first shot 01 to drive a cinematic prompt-to-video sequence in Seedance 2.0  \nSpecify total duration and enforce strict chronological traversal of all storyboard panels (e.g., 15 seconds transitioning through 9 panels in order)  \nAdd a negative constraint to prevent overlays: NO frames, borders, film strips, numbers, UI, or text; render seamless full-screen shots and ignore grid layout  \nForce clean, sharp cuts between shots to reduce morphing artifacts  \nUse a match cut instruction to create a seamless scene transition between two different environments (e.g., cloud vortex resolves into a ceiling fan)  \nExplicitly reinforce consistency constraints: maintain consistent subject identity and anatomically correct human figures (e.g., “strictly two hands, two legs”) across shots  \nDefine each shot with precise time ranges, camera framing/movement, and action (e.g., wide tracking side follow, rear angle, low front angle, wide static hold) to control pacing and composition",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/churvikv/status/2074604066785595453",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "Viki",
+    "link": "https://x.com/churvikv"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an @Image storyboard reference and specify it as first shot 01 to drive a cinematic prompt-to-video sequence in Seedance 2.0  \nSpecify total duration and enforce strict chronological traversal of all storyboard panels (e.g., 15 seconds transitioning through 9 panels in order)  \nAdd a negative constraint to prevent overlays: NO frames, borders, film strips, numbers, UI, or text; render seamless full-screen shots and ignore grid layout  \nForce clean, sharp cuts between shots to reduce morphing artifacts  \nUse a match cut instruction to create a seamless scene transition between two different environments (e.g., cloud vortex resolves into a ceiling fan)  \nExplicitly reinforce consistency constraints: maintain consistent subject identity and anatomically correct human figures (e.g., “strictly two hands, two legs”) across shots  \nDefine each shot with precise time ranges, camera framing/movement, and action (e.g., wide tracking side follow, rear angle, low front angle, wide static hold) to control pacing and composition",
+  "translations": {
+    "es": {
+      "content": "Usa una referencia de storyboard @Image y especifícala como primer plano 01 para impulsar una secuencia cinematográfica de prompt-a-video en Seedance 2.0  \nEspecifica la duración total y aplica un recorrido cronológico estricto de todos los paneles del storyboard (por ejemplo, 15 segundos transitando por 9 paneles en orden)  \nAñade una restricción negativa para evitar superposiciones: NO marcos, bordes, tiras de película, números, UI o texto; renderiza tomas a pantalla completa sin interrupciones e ignora el diseño de cuadrícula  \nFuerza cortes limpios y nítidos entre tomas para reducir artefactos de morfing  \nUsa una instrucción de match cut para crear una transición de escena fluida entre dos entornos diferentes (por ejemplo, un vórtice de nubes se resuelve en un ventilador de techo)  \nRefuerza explícitamente las restricciones de consistencia: mantén la identidad del sujeto consistente y figuras humanas anatómicamente correctas (por ejemplo, \"estrictamente dos manos, dos piernas\") a lo largo de las tomas  \nDefine cada toma con rangos de tiempo precisos, encuadre/movimiento de cámara y acción (por ejemplo, seguimiento lateral amplio, ángulo trasero, ángulo frontal bajo, toma estática amplia) para controlar el ritmo y la composición"
+    },
+    "fr": {
+      "content": "Utilisez une référence de storyboard @Image et spécifiez-la comme premier plan 01 pour piloter une séquence cinématographique de prompt-to-video dans Seedance 2.0  \nSpécifiez la durée totale et imposez une traversée chronologique stricte de tous les panneaux du storyboard (par exemple, 15 secondes en transition à travers 9 panneaux dans l'ordre)  \nAjoutez une contrainte négative pour éviter les superpositions : PAS de cadres, bordures, bandes de film, numéros, interface utilisateur ou texte ; rendez des plans plein écran sans couture et ignorez la disposition en grille  \nForcez des coupes nettes et précises entre les plans pour réduire les artefacts de morphing  \nUtilisez une instruction de match cut pour créer une transition de scène fluide entre deux environnements différents (par exemple, un vortex de nuages se transforme en ventilateur de plafond)  \nRenforcez explicitement les contraintes de cohérence : maintenez une identité de sujet cohérente et des figures humaines anatomiquement correctes (par exemple, « strictement deux mains, deux jambes ») à travers les plans  \nDéfinissez chaque plan avec des plages de temps précises, un cadrage/mouvement de caméra et une action (par exemple, suivi latéral large, angle arrière, angle bas avant, maintien statique large) pour contrôler le rythme et la composition"
+    },
+    "ja": {
+      "content": "---\n@Imageのストーリーボード参照を使用し、Seedance 2.0でシネマティックなプロンプトからビデオシーケンスを駆動するために、最初のショット01として指定します  \n合計の持続時間を指定し、すべてのストーリーボードパネルを厳密に時系列で移動することを強制します（例：15秒で9つのパネルを順に移行）  \nオーバーレイを防ぐための否定的な制約を追加します：フレーム、境界線、フィルムストリップ、数字、UI、またはテキストなし；シームレスなフルスクリーンショットをレンダリングし、グリッドレイアウトを無視します  \nショット間のクリーンでシャープなカットを強制して、モーフィングアーティファクトを減少させます  \n異なる環境間のシームレスなシーン遷移を作成するために、マッチカットの指示を使用します（例：雲の渦が天井ファンに解決する）  \n一貫性の制約を明示的に強化します：ショット間で一貫した被写体のアイデンティティと解剖学的に正しい人間の姿（例：「厳密に2つの手、2つの脚」）を維持します  \n各ショットを正確な時間範囲、カメラのフレーミング/動き、アクション（例：ワイドトラッキングサイドフォロー、リアアングル、低フロントアングル、ワイドスタティックホールド）で定義し、ペースと構成を制御します  \n---"
+    },
+    "ko": {
+      "content": "@Image 스토리보드 참조를 사용하고 이를 첫 번째 샷 01로 지정하여 Seedance 2.0에서 시네마틱 프롬프트-비디오 시퀀스를 구동합니다.  \n총 지속 시간을 지정하고 모든 스토리보드 패널의 엄격한 시간 순서 진행을 강제합니다 (예: 15초 동안 9개의 패널을 순서대로 전환).  \n오버레이를 방지하기 위한 부정적 제약을 추가합니다: 프레임, 테두리, 필름 스트립, 숫자, UI 또는 텍스트 없음; 전체 화면 샷을 매끄럽게 렌더링하고 그리드 레이아웃을 무시합니다.  \n샷 간의 깨끗하고 선명한 컷을 강제하여 변형 아티팩트를 줄입니다.  \n매치 컷 지시를 사용하여 두 가지 다른 환경 간의 매끄러운 장면 전환을 만듭니다 (예: 구름 소용돌이가 천장 선풍기로 전환).  \n일관성 제약을 명시적으로 강화합니다: 샷 전반에 걸쳐 일관된 주제 정체성과 해부학적으로 올바른 인간 형상을 유지합니다 (예: \"엄격히 두 손, 두 다리\").  \n각 샷을 정확한 시간 범위, 카메라 프레이밍/움직임, 액션으로 정의하여 페이싱과 구성을 제어합니다 (예: 넓은 추적 측면 따라가기, 후면 각도, 낮은 전면 각도, 넓은 정적 유지)."
+    },
+    "pt": {
+      "content": "Use uma referência de storyboard @Image e especifique-a como primeiro plano 01 para conduzir uma sequência cinematográfica de prompt-para-vídeo no Seedance 2.0  \nEspecifique a duração total e imponha uma travessia cronológica estrita de todos os painéis do storyboard (por exemplo, 15 segundos passando por 9 painéis em ordem)  \nAdicione uma restrição negativa para evitar sobreposições: SEM quadros, bordas, tiras de filme, números, interface do usuário ou texto; renderize tomadas em tela cheia sem emendas e ignore o layout de grade  \nForce cortes limpos e nítidos entre as tomadas para reduzir artefatos de morphing  \nUse uma instrução de match cut para criar uma transição de cena perfeita entre dois ambientes diferentes (por exemplo, vórtice de nuvens se transforma em um ventilador de teto)  \nReforce explicitamente as restrições de consistência: mantenha a identidade consistente do sujeito e figuras humanas anatomicamente corretas (por exemplo, “estritamente duas mãos, duas pernas”) entre as tomadas  \nDefina cada tomada com intervalos de tempo precisos, enquadramento/movimento de câmera e ação (por exemplo, acompanhamento lateral amplo, ângulo traseiro, ângulo frontal baixo, manutenção estática ampla) para controlar o ritmo e a composição"
+    },
+    "zh": {
+      "content": "使用@Image故事板参考，并将其指定为第一个镜头01，以在Seedance 2.0中驱动电影化的prompt-to-video序列  \n指定总时长，并严格按照时间顺序遍历所有故事板面板（例如，15秒内按顺序过渡9个面板）  \n添加负面约束以防止叠加：无框架、边框、胶片条、数字、UI或文本；渲染无缝全屏镜头并忽略网格布局  \n强制在镜头之间进行干净、锐利的切换，以减少变形伪影  \n使用匹配剪辑指令在两个不同环境之间创建无缝场景过渡（例如，云漩涡转变为吊扇）  \n明确加强一致性约束：在镜头之间保持一致的主体身份和解剖正确的人物形象（例如，“严格两只手，两条腿”）  \n用精确的时间范围、相机框架/运动和动作定义每个镜头（例如，宽跟踪侧面跟随、后角度、低前角度、宽静态保持）以控制节奏和构图"
+    }
+  }
+}

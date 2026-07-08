@@ -1,0 +1,41 @@
+{
+  "id": "2074177120172171501",
+  "title": "Color-code characters in your depth video (e.g., make the target character red)…",
+  "content": "Color-code characters in your depth video (e.g., make the target character red) and prompt Seedance to follow that color-coded depth guidance for better character adherence.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/AIWarper/status/2074177120172171501",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "A.I.Warper",
+    "link": "https://x.com/AIWarper"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Color-code characters in your depth video (e.g., make the target character red) and prompt Seedance to follow that color-coded depth guidance for better character adherence.",
+  "translations": {
+    "es": {
+      "content": "Codifica por colores los personajes en tu video de profundidad (por ejemplo, haz que el personaje objetivo sea rojo) y solicita a Seedance que siga esa guía de profundidad codificada por colores para una mejor adherencia al personaje."
+    },
+    "fr": {
+      "content": "Codez les personnages par couleur dans votre vidéo de profondeur (par exemple, faites en sorte que le personnage cible soit rouge) et demandez à Seedance de suivre cette guidance de profondeur codée par couleur pour une meilleure adhérence des personnages."
+    },
+    "ja": {
+      "content": "深度ビデオ内のキャラクターに色分けを行い（例：ターゲットキャラクターを赤にする）、Seedanceにその色分けされた深度ガイダンスに従うように指示して、キャラクターの追従性を向上させます。"
+    },
+    "ko": {
+      "content": "깊이 비디오에서 캐릭터를 색상으로 구분하세요 (예: 목표 캐릭터를 빨간색으로 만드세요) 그리고 Seedance에 그 색상 코드 깊이 지침을 따라 캐릭터를 더 잘 따르도록 지시하세요."
+    },
+    "pt": {
+      "content": "Codifique por cores os personagens no seu vídeo de profundidade (por exemplo, faça o personagem alvo ficar vermelho) e use o prompt Seedance para seguir essa orientação de profundidade codificada por cores para uma melhor aderência ao personagem."
+    },
+    "zh": {
+      "content": "在深度视频中为角色进行颜色编码（例如，将目标角色标记为红色），并提示Seedance遵循该颜色编码的深度指导，以更好地贴合角色。"
+    }
+  }
+}

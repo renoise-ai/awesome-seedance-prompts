@@ -1,0 +1,42 @@
+{
+  "id": "2074424591641166244",
+  "title": "Use a tool/agent that leverages Seedance/Kling with persistent memory to keep…",
+  "content": "Use a tool/agent that leverages Seedance/Kling with persistent memory to keep the same character consistent across multiple shots in a short film.  \nDescribe fixed character and world attributes (e.g., white beard, heavy wool coat, stormy blue-grey palette, warm lantern amber) so the agent generates multiple shots that match the same keeper/lighthouse/world instead of random clips.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074424431099920384/img/EQ-41JisOzNW1ahU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074424591641166244.mp4",
+  "sourceLink": "https://x.com/itsshara_ai/status/2074424591641166244",
+  "sourcePublishedAt": "2026-07-07",
+  "author": {
+    "name": "Shara",
+    "link": "https://x.com/itsshara_ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a tool/agent that leverages Seedance/Kling with persistent memory to keep the same character consistent across multiple shots in a short film.  \nDescribe fixed character and world attributes (e.g., white beard, heavy wool coat, stormy blue-grey palette, warm lantern amber) so the agent generates multiple shots that match the same keeper/lighthouse/world instead of random clips.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una herramienta/agente que aproveche Seedance/Kling con memoria persistente para mantener el mismo personaje consistente a lo largo de múltiples tomas en un cortometraje.  \nDescribe los atributos fijos del personaje y del mundo (por ejemplo, barba blanca, abrigo de lana gruesa, paleta tormentosa azul-gris, cálido ámbar de linterna) para que el agente genere múltiples tomas que coincidan con el mismo guardián/faro/mundo en lugar de clips aleatorios."
+    },
+    "fr": {
+      "content": "Utilisez un outil/agent qui exploite Seedance/Kling avec une mémoire persistante pour maintenir le même personnage cohérent à travers plusieurs plans dans un court-métrage.  \nDécrivez les attributs fixes du personnage et du monde (par exemple, barbe blanche, manteau en laine épais, palette bleu-gris orageux, lanterne ambrée chaleureuse) afin que l'agent génère plusieurs plans qui correspondent au même gardien/phare/monde au lieu de clips aléatoires."
+    },
+    "ja": {
+      "content": "Seedance/Klingを活用し、持続的な記憶を持つツール/エージェントを使用して、短編映画の複数のショットで同じキャラクターを一貫して維持します。  \n固定されたキャラクターと世界の属性（例：白いひげ、重いウールのコート、嵐のような青灰色のパレット、暖かいランタンの琥珀色）を説明し、エージェントがランダムなクリップではなく、同じ灯台守/灯台/世界に一致する複数のショットを生成するようにします。"
+    },
+    "ko": {
+      "content": "Seedance/Kling을 활용하여 지속적인 메모리를 가진 도구/에이전트를 사용하여 단편 영화의 여러 장면에서 동일한 캐릭터를 일관되게 유지하십시오.  \n고정된 캐릭터와 세계 속성을 설명하십시오 (예: 흰 수염, 두꺼운 양모 코트, 폭풍우 치는 청회색 팔레트, 따뜻한 랜턴 호박색) 그러면 에이전트가 무작위 클립 대신 동일한 등대지기/등대/세계를 일치시키는 여러 장면을 생성합니다."
+    },
+    "pt": {
+      "content": "Use uma ferramenta/agente que utiliza Seedance/Kling com memória persistente para manter o mesmo personagem consistente em várias cenas de um curta-metragem.  \nDescreva atributos fixos do personagem e do mundo (por exemplo, barba branca, casaco pesado de lã, paleta tempestuosa azul-cinza, âmbar quente de lanterna) para que o agente gere várias cenas que correspondam ao mesmo guardião/farol/mundo em vez de clipes aleatórios."
+    },
+    "zh": {
+      "content": "使用一个利用Seedance/Kling并具有持久记忆的工具/代理，以在短片的多个镜头中保持同一角色的一致性。  \n描述固定的角色和世界属性（例如，白胡子、厚重的羊毛外套、暴风雨般的蓝灰色调、温暖的灯笼琥珀色），以便代理生成多个匹配同一守护者/灯塔/世界的镜头，而不是随机片段。"
+    }
+  }
+}

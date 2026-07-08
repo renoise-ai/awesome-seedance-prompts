@@ -1,0 +1,43 @@
+{
+  "id": "2074716858851479576",
+  "title": "Use a workflow of Image/Concept → generate a storyboard with a Custom GPT…",
+  "content": "Use a workflow of Image/Concept → generate a storyboard with a Custom GPT (Image 2.0) → create the video in Seedance 2.0 within CapCut.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074641164414902272/img/JwPEVWyUG_5S588Y.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074716858851479576.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2074716858851479576",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a workflow of Image/Concept → generate a storyboard with a Custom GPT (Image 2.0) → create the video in Seedance 2.0 within CapCut.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Imagen/Concepto → genera un storyboard con un Custom GPT (Image 2.0) → crea el video en Seedance 2.0 dentro de CapCut."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail Image/Concept → générez un storyboard avec un GPT personnalisé (Image 2.0) → créez la vidéo dans Seedance 2.0 avec CapCut."
+    },
+    "ja": {
+      "content": "イメージ/コンセプトのワークフローを使用 → カスタムGPT（Image 2.0）でストーリーボードを生成 → CapCut内のSeedance 2.0でビデオを作成。"
+    },
+    "ko": {
+      "content": "이미지/컨셉 → Custom GPT (Image 2.0)로 스토리보드 생성 → CapCut 내에서 Seedance 2.0으로 비디오 제작."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Imagem/Conceito → gerar um storyboard com um Custom GPT (Image 2.0) → criar o vídeo no Seedance 2.0 dentro do CapCut."
+    },
+    "zh": {
+      "content": "使用图像/概念的工作流程 → 使用自定义GPT（Image 2.0）生成分镜头脚本 → 在CapCut中使用Seedance 2.0创建视频。"
+    }
+  }
+}

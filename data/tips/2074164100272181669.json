@@ -1,0 +1,43 @@
+{
+  "id": "2074164100272181669",
+  "title": "Create a strong start frame in Midjourney and use it as the initial reference…",
+  "content": "Create a strong start frame in Midjourney and use it as the initial reference image for Seedance.  \nBlock out the scene in Blender and animate the camera move to define composition and motion before generating.  \nFeed both the Midjourney start frame and the Blender camera animation into Seedance to generate a cinematic dragon shot with controlled camera movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074163904788185088/img/uNdqUaxgAeTkUCSq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074164100272181669.mp4",
+  "sourceLink": "https://x.com/reidhannaford/status/2074164100272181669",
+  "sourcePublishedAt": "2026-07-06",
+  "author": {
+    "name": "Reid Hannaford",
+    "link": "https://x.com/reidhannaford"
+  },
+  "tags": [
+    "Animals",
+    "Creatures",
+    "3D Animation",
+    "Fantasy",
+    "VFX",
+    "Tutorial"
+  ],
+  "tips": "Create a strong start frame in Midjourney and use it as the initial reference image for Seedance.  \nBlock out the scene in Blender and animate the camera move to define composition and motion before generating.  \nFeed both the Midjourney start frame and the Blender camera animation into Seedance to generate a cinematic dragon shot with controlled camera movement.",
+  "translations": {
+    "es": {
+      "content": "Crea un cuadro inicial fuerte en Midjourney y úsalo como la imagen de referencia inicial para Seedance.  \nBloquea la escena en Blender y anima el movimiento de la cámara para definir la composición y el movimiento antes de generar.  \nIntroduce tanto el cuadro inicial de Midjourney como la animación de la cámara de Blender en Seedance para generar una toma cinematográfica de un dragón con movimiento de cámara controlado."
+    },
+    "fr": {
+      "content": "Créez un cadre de départ solide dans Midjourney et utilisez-le comme image de référence initiale pour Seedance.  \nBloquez la scène dans Blender et animez le mouvement de la caméra pour définir la composition et le mouvement avant de générer.  \nIntégrez à la fois le cadre de départ de Midjourney et l'animation de la caméra de Blender dans Seedance pour générer une prise de vue cinématique de dragon avec un mouvement de caméra contrôlé."
+    },
+    "ja": {
+      "content": "---\nMidjourneyで強力なスタートフレームを作成し、それをSeedanceの初期参照画像として使用します。  \nBlenderでシーンをブロックアウトし、生成前に構図と動きを定義するためにカメラの動きをアニメートします。  \nMidjourneyのスタートフレームとBlenderのカメラアニメーションの両方をSeedanceに入力し、制御されたカメラ移動でシネマティックなドラゴンショットを生成します。  \n---"
+    },
+    "ko": {
+      "content": "Midjourney에서 강력한 시작 프레임을 만들고 이를 Seedance의 초기 참조 이미지로 사용하세요.  \nBlender에서 장면을 블록 아웃하고 카메라 이동을 애니메이션화하여 생성 전에 구성과 움직임을 정의하세요.  \nMidjourney 시작 프레임과 Blender 카메라 애니메이션을 Seedance에 입력하여 제어된 카메라 움직임으로 시네마틱한 드래곤 샷을 생성하세요."
+    },
+    "pt": {
+      "content": "Crie um quadro inicial forte no Midjourney e use-o como imagem de referência inicial para o Seedance.  \nEstruture a cena no Blender e anime o movimento da câmera para definir a composição e o movimento antes de gerar.  \nAlimente tanto o quadro inicial do Midjourney quanto a animação da câmera do Blender no Seedance para gerar uma cena cinematográfica de dragão com movimento de câmera controlado."
+    },
+    "zh": {
+      "content": "在Midjourney中创建一个强有力的起始帧，并将其用作Seedance的初始参考图像。  \n在Blender中搭建场景，并动画化摄像机移动，以在生成之前定义构图和运动。  \n将Midjourney的起始帧和Blender的摄像机动画输入Seedance，以生成具有受控摄像机运动的电影级龙镜头。"
+    }
+  }
+}
