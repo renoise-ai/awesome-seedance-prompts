@@ -1,0 +1,42 @@
+{
+  "id": "2074762754381300113",
+  "title": "Point your Hermes agent to the Blockout MCP link and ask it to generate an…",
+  "content": "Point your Hermes agent to the Blockout MCP link and ask it to generate an animatic (e.g., 12 dancers in a nightclub set with sweeping crane-down + steadicam 360 camera moves) to use as an end-to-end previsualization you can bring into Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/media/HMsJ4KybEAA4RiX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074762754381300113.mp4",
+  "sourceLink": "https://x.com/SamJWasserman/status/2074762754381300113",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "Sam Wasserman",
+    "link": "https://x.com/SamJWasserman"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Point your Hermes agent to the Blockout MCP link and ask it to generate an animatic (e.g., 12 dancers in a nightclub set with sweeping crane-down + steadicam 360 camera moves) to use as an end-to-end previsualization you can bring into Seedance.",
+  "translations": {
+    "es": {
+      "content": "Dirige tu agente Hermes al enlace Blockout MCP y pídele que genere un animatic (por ejemplo, 12 bailarines en un escenario de discoteca con movimientos de cámara crane-down + steadicam 360) para usar como una previsualización completa que puedes llevar a Seedance."
+    },
+    "fr": {
+      "content": "Dirigez votre agent Hermes vers le lien Blockout MCP et demandez-lui de générer un animatic (par exemple, 12 danseurs dans un décor de boîte de nuit avec des mouvements de caméra en grue descendante + steadicam 360) à utiliser comme prévisualisation complète que vous pouvez intégrer dans Seedance."
+    },
+    "ja": {
+      "content": "あなたのHermesエージェントをBlockout MCPリンクに向け、アニマティックを生成するように指示してください（例：ナイトクラブのセットで12人のダンサー、クレーンダウンとステディカム360カメラの動き）。これをSeedanceに持ち込むエンドツーエンドのプリビジュアライゼーションとして使用できます。"
+    },
+    "ko": {
+      "content": "Hermes 에이전트를 Blockout MCP 링크로 안내하고, 애니매틱을 생성하도록 요청하세요 (예: 나이트클럽 세트에서 12명의 댄서와 함께하는 sweeping crane-down + steadicam 360 camera moves). 이 애니매틱은 Seedance에 가져올 수 있는 엔드 투 엔드 사전 시각화로 사용할 수 있습니다."
+    },
+    "pt": {
+      "content": "Aponte seu agente Hermes para o link Blockout MCP e peça para gerar um animatic (por exemplo, 12 dançarinos em um cenário de boate com movimentos de câmera crane-down + steadicam 360) para usar como uma pré-visualização completa que você pode levar para o Seedance."
+    },
+    "zh": {
+      "content": "将您的Hermes代理指向Blockout MCP链接，并要求它生成一个动画预演（例如，12名舞者在夜总会场景中，使用大范围的crane-down + steadicam 360度摄像机移动），以便作为您可以导入Seedance的端到端预可视化。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2074876933918294114",
+  "title": "Use Script-to-Video with a script upload and break the story into timestamped…",
+  "content": "Use Script-to-Video with a script upload and break the story into timestamped segments (e.g., 0–5s, 5–15s, 15–24s, 24–35s) to control pacing and scene progression  \nAdd explicit style-consistency notes in the prompt (same lead actor face/hairstyle, evolving but recognizable costume, cohesive setting, spatial logic) to maintain character and world continuity across shots  \nSpecify lighting continuity and progression (bright morning → golden hour → sunset) to keep a coherent visual timeline across scenes  \nInclude shot and camera direction keywords (wide cinematic establishing shots, dynamic cinematic camera movements tracking the action, lingering close-up) to steer framing and motion  \nSet the aspect ratio to 9:16 for vertical output  \nAdd dialogues in the Script-to-Video workflow if you want spoken lines in the generated video",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074876534985531392/img/Sx1IktPRPngIhJ87.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074876933918294114.mp4",
+  "sourceLink": "https://x.com/AIwithAliya/status/2074876933918294114",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "Aaliya",
+    "link": "https://x.com/AIwithAliya"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Script-to-Video with a script upload and break the story into timestamped segments (e.g., 0–5s, 5–15s, 15–24s, 24–35s) to control pacing and scene progression  \nAdd explicit style-consistency notes in the prompt (same lead actor face/hairstyle, evolving but recognizable costume, cohesive setting, spatial logic) to maintain character and world continuity across shots  \nSpecify lighting continuity and progression (bright morning → golden hour → sunset) to keep a coherent visual timeline across scenes  \nInclude shot and camera direction keywords (wide cinematic establishing shots, dynamic cinematic camera movements tracking the action, lingering close-up) to steer framing and motion  \nSet the aspect ratio to 9:16 for vertical output  \nAdd dialogues in the Script-to-Video workflow if you want spoken lines in the generated video",
+  "translations": {
+    "es": {
+      "content": "Usa Script-to-Video con una carga de guion y divide la historia en segmentos con marcas de tiempo (por ejemplo, 0–5s, 5–15s, 15–24s, 24–35s) para controlar el ritmo y la progresión de las escenas  \nAñade notas explícitas de consistencia de estilo en el prompt (mismo rostro/peinado del actor principal, vestuario que evoluciona pero es reconocible, escenario cohesivo, lógica espacial) para mantener la continuidad del personaje y del mundo a lo largo de las tomas  \nEspecifica la continuidad y progresión de la iluminación (mañana brillante → hora dorada → atardecer) para mantener una línea visual coherente a lo largo de las escenas  \nIncluye palabras clave de dirección de tomas y cámara (tomas de establecimiento cinematográficas amplias, movimientos de cámara cinematográficos dinámicos que siguen la acción, primer plano prolongado) para guiar el encuadre y el movimiento  \nEstablece la relación de aspecto en 9:16 para salida vertical  \nAñade diálogos en el flujo de trabajo de Script-to-Video si deseas líneas habladas en el video generado"
+    },
+    "fr": {
+      "content": "Utilisez Script-to-Video avec un téléchargement de script et divisez l'histoire en segments horodatés (par exemple, 0–5s, 5–15s, 15–24s, 24–35s) pour contrôler le rythme et la progression des scènes  \nAjoutez des notes explicites de cohérence de style dans le prompt (même visage/coiffure de l'acteur principal, costume évolutif mais reconnaissable, décor cohérent, logique spatiale) pour maintenir la continuité des personnages et du monde à travers les plans  \nSpécifiez la continuité et la progression de l'éclairage (matin lumineux → heure dorée → coucher de soleil) pour garder une chronologie visuelle cohérente à travers les scènes  \nIncluez des mots-clés de prise de vue et de direction de caméra (plans d'établissement cinématographiques larges, mouvements de caméra cinématographiques dynamiques suivant l'action, gros plan persistant) pour orienter le cadrage et le mouvement  \nRéglez le format d'image sur 9:16 pour une sortie verticale  \nAjoutez des dialogues dans le flux de travail Script-to-Video si vous souhaitez des lignes parlées dans la vidéo générée"
+    },
+    "ja": {
+      "content": "---\nScript-to-Videoを使用して、スクリプトをアップロードし、ストーリーをタイムスタンプ付きのセグメント（例：0–5秒、5–15秒、15–24秒、24–35秒）に分割して、ペースとシーンの進行を制御します。  \nプロンプトに明確なスタイル一貫性のメモを追加します（同じ主演俳優の顔/ヘアスタイル、進化しつつも認識可能な衣装、一貫した設定、空間論理）を追加して、ショット間でキャラクターと世界の連続性を維持します。  \n照明の連続性と進行（明るい朝→ゴールデンアワー→夕焼け）を指定して、シーン全体で一貫したビジュアルタイムラインを維持します。  \nショットとカメラの方向性キーワード（広角のシネマティックなエスタブリッシングショット、アクションを追跡するダイナミックなシネマティックカメラの動き、長く続くクローズアップ）を含めて、フレーミングと動きを指示します。  \n縦出力のためにアスペクト比を9:16に設定します。  \n生成されたビデオに話し言葉を含めたい場合は、Script-to-Videoのワークフローにダイアログを追加します。  \n---"
+    },
+    "ko": {
+      "content": "스크립트 업로드를 통해 Script-to-Video를 사용하고, 이야기를 타임스탬프가 있는 세그먼트로 나누어 (예: 0–5초, 5–15초, 15–24초, 24–35초) 속도와 장면 진행을 제어하십시오.  \n프롬프트에 명확한 스타일 일관성 노트를 추가하여 (동일한 주연 배우 얼굴/헤어스타일, 진화하지만 인식 가능한 의상, 일관된 설정, 공간 논리) 샷 전반에 걸쳐 캐릭터와 세계의 연속성을 유지하십시오.  \n조명 연속성과 진행을 명시하십시오 (밝은 아침 → 황금 시간대 → 일몰) 장면 전반에 걸쳐 일관된 시각적 타임라인을 유지하기 위해.  \n프레임과 움직임을 조정하기 위해 샷 및 카메라 방향 키워드를 포함하십시오 (넓은 시네마틱 설정 샷, 액션을 추적하는 역동적인 시네마틱 카메라 움직임, 오래 지속되는 클로즈업).  \n세로 출력에 대해 종횡비를 9:16으로 설정하십시오.  \n생성된 비디오에 대사를 원한다면 Script-to-Video 워크플로우에 대화를 추가하십시오."
+    },
+    "pt": {
+      "content": "Use Script-to-Video com o upload de um roteiro e divida a história em segmentos com marcação de tempo (por exemplo, 0–5s, 5–15s, 15–24s, 24–35s) para controlar o ritmo e a progressão das cenas  \nAdicione notas explícitas de consistência de estilo no prompt (mesmo rosto/penteado do ator principal, figurino evolutivo mas reconhecível, cenário coeso, lógica espacial) para manter a continuidade do personagem e do mundo entre os takes  \nEspecifique a continuidade e progressão da iluminação (manhã clara → hora dourada → pôr do sol) para manter uma linha do tempo visual coerente entre as cenas  \nInclua palavras-chave de direção de cena e câmera (planos gerais cinematográficos de abertura, movimentos de câmera cinematográficos dinâmicos acompanhando a ação, close-up prolongado) para direcionar o enquadramento e o movimento  \nDefina a proporção de aspecto para 9:16 para saída vertical  \nAdicione diálogos no fluxo de trabalho Script-to-Video se você quiser falas no vídeo gerado"
+    },
+    "zh": {
+      "content": "使用Script-to-Video功能上传脚本，并将故事分解为带有时间戳的片段（例如，0–5秒，5–15秒，15–24秒，24–35秒），以控制节奏和场景进展  \n在prompt中添加明确的风格一致性说明（相同的主演面孔/发型，变化但可识别的服装，连贯的场景，空间逻辑），以保持镜头间角色和世界的连续性  \n指定光线的连续性和进展（明亮的早晨→黄金时段→日落），以保持场景间一致的视觉时间线  \n包括镜头和摄像机方向关键词（宽广的cinematic开场镜头，动态的cinematic摄像机运动跟踪动作，停留的特写镜头）以引导构图和运动  \n将纵向输出的纵横比设置为9:16  \n如果希望生成的视频中有对白，请在Script-to-Video工作流程中添加对话"
+    }
+  }
+}

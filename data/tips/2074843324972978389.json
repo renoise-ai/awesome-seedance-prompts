@@ -1,0 +1,42 @@
+{
+  "id": "2074843324972978389",
+  "title": "Use Seedance 2.0 in 4K and upload multiple reference images (character sheet…",
+  "content": "Use Seedance 2.0 in 4K and upload multiple reference images (character sheet, zombie sheets, location sheet) to drive a single prompt into a full scene.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074843257549553664/img/7xTtp2yeKffLj-ah.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074843324972978389.mp4",
+  "sourceLink": "https://x.com/abxxai/status/2074843324972978389",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "Abdul Șhakoor",
+    "link": "https://x.com/abxxai"
+  },
+  "tags": [
+    "Horror",
+    "Undead",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 in 4K and upload multiple reference images (character sheet, zombie sheets, location sheet) to drive a single prompt into a full scene.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.0 en 4K y sube múltiples imágenes de referencia (hoja de personaje, hojas de zombis, hoja de ubicación) para convertir un solo prompt en una escena completa."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 en 4K et téléchargez plusieurs images de référence (feuille de personnage, feuilles de zombie, feuille de localisation) pour transformer un seul prompt en une scène complète."
+    },
+    "ja": {
+      "content": "Seedance 2.0を4Kで使用し、複数の参照画像（キャラクターシート、ゾンビシート、ロケーションシート）をアップロードして、単一のプロンプトを完全なシーンに展開します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0을 4K로 사용하고 여러 참조 이미지(캐릭터 시트, 좀비 시트, 위치 시트)를 업로드하여 단일 프롬프트를 전체 장면으로 발전시키세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 em 4K e faça upload de várias imagens de referência (folha de personagem, folhas de zumbi, folha de localização) para transformar um único prompt em uma cena completa."
+    },
+    "zh": {
+      "content": "使用Seedance 2.0以4K分辨率，并上传多个参考图像（角色图、僵尸图、场景图），将单个prompt转化为完整场景。"
+    }
+  }
+}

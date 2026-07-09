@@ -1,0 +1,42 @@
+{
+  "id": "2074978002132455730",
+  "title": "Generate manga frames in Seedream 5.0 Pro, then upload the generated manga…",
+  "content": "Generate manga frames in Seedream 5.0 Pro, then upload the generated manga result into Seedance 2.0 as the input for your video pipeline.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074976462021787648/img/C2EWgxlJOvLi5PqM.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074978002132455730.mp4",
+  "sourceLink": "https://x.com/higgsfield_ai/status/2074978002132455730",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "Higgsfield AI 🧩",
+    "link": "https://x.com/higgsfield_ai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate manga frames in Seedream 5.0 Pro, then upload the generated manga result into Seedance 2.0 as the input for your video pipeline.",
+  "translations": {
+    "es": {
+      "content": "Genera marcos de manga en Seedream 5.0 Pro, luego sube el resultado de manga generado a Seedance 2.0 como la entrada para tu flujo de video."
+    },
+    "fr": {
+      "content": "---\nGénérez des cadres de manga dans Seedream 5.0 Pro, puis téléchargez le résultat de manga généré dans Seedance 2.0 comme entrée pour votre pipeline vidéo."
+    },
+    "ja": {
+      "content": "Seedream 5.0 Proで漫画のフレームを生成し、その生成された漫画の結果をSeedance 2.0にアップロードして、ビデオパイプラインの入力として使用します。"
+    },
+    "ko": {
+      "content": "Seedream 5.0 Pro에서 만화 프레임을 생성한 후, 생성된 만화 결과를 Seedance 2.0에 업로드하여 비디오 파이프라인의 입력으로 사용하세요."
+    },
+    "pt": {
+      "content": "Gere quadros de mangá no Seedream 5.0 Pro, depois carregue o resultado do mangá gerado no Seedance 2.0 como entrada para o seu pipeline de vídeo."
+    },
+    "zh": {
+      "content": "在Seedream 5.0 Pro中生成漫画画框，然后将生成的漫画结果上传到Seedance 2.0，作为视频流程的输入。"
+    }
+  }
+}

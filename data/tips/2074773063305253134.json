@@ -1,0 +1,43 @@
+{
+  "id": "2074773063305253134",
+  "title": "キャラシート生成で顔の参照画像を用意して、Seedanceのキャラクター一貫性の参照に使う",
+  "content": "キャラシート生成で顔の参照画像を用意して、Seedanceのキャラクター一貫性の参照に使う  \n同一キャラに15秒喋らせて音声だけ抽出し、音声リファレンスとしてSeedanceに渡す  \nカット割りをJSONで設計し、機械リントで文法検査してから生成工程に回す  \n番号付き3×3グリッドの絵コンテを4枚生成し、各カットの指示を明確化する  \n絵コンテ＋キャラシート＋音声リファレンスを参照にして、Seedanceで15秒×4本の動画を生成する  \nffmpegで生成した4本を連結し、映画風字幕を付けて仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074771376834220033/img/QfJN-x1wG41Z13FZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074773063305253134.mp4",
+  "sourceLink": "https://x.com/onofumi_AI/status/2074773063305253134",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "おのふみ| 動画生成AI×個人開発",
+    "link": "https://x.com/onofumi_AI"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "キャラシート生成で顔の参照画像を用意して、Seedanceのキャラクター一貫性の参照に使う  \n同一キャラに15秒喋らせて音声だけ抽出し、音声リファレンスとしてSeedanceに渡す  \nカット割りをJSONで設計し、機械リントで文法検査してから生成工程に回す  \n番号付き3×3グリッドの絵コンテを4枚生成し、各カットの指示を明確化する  \n絵コンテ＋キャラシート＋音声リファレンスを参照にして、Seedanceで15秒×4本の動画を生成する  \nffmpegで生成した4本を連結し、映画風字幕を付けて仕上げる",
+  "translations": {
+    "en": {
+      "content": "Prepare a reference image of the face for character sheet generation and use it as a reference for character consistency in Seedance.  \nMake the same character speak for 15 seconds, extract only the audio, and provide it to Seedance as a voice reference.  \nDesign the shot breakdown in JSON, perform a grammar check with machine lint, and then proceed to the generation process.  \nGenerate four storyboards with a numbered 3x3 grid to clarify instructions for each cut.  \nUsing the storyboard, character sheet, and voice reference, generate four 15-second videos with Seedance.  \nConcatenate the four generated videos with ffmpeg and add cinematic subtitles to finish.\n\n--- THREAD CONTINUATION ---\n[Thread 1] ① Character sheet generation (face reference image) ② Make the character speak for 15 seconds and extract only the voice → convert to voice reference ③ Design shot breakdown in JSON → perform grammar check with machine lint ④ Generate four storyboards with a numbered 3x3 grid ⑤ Use storyboard + sheet + voice as reference to generate four 15-second videos ⑥ Concatenate with ffmpeg + add cinematic subtitles"
+    },
+    "es": {
+      "content": "---\nPreparar una imagen de referencia del rostro al generar la hoja de personaje y usarla como referencia de consistencia de personaje en Seedance  \nHacer que el mismo personaje hable durante 15 segundos y extraer solo el audio, luego pasarlo a Seedance como referencia de voz  \nDiseñar el corte en JSON, realizar una revisión gramatical con linting automático y luego pasar al proceso de generación  \nGenerar cuatro storyboards en una cuadrícula de 3x3 numerada para clarificar las instrucciones de cada corte  \nCon la referencia del storyboard, la hoja de personaje y la referencia de voz, generar cuatro videos de 15 segundos cada uno en Seedance  \nUnir los cuatro videos generados con ffmpeg y añadir subtítulos de estilo cinematográfico para finalizar\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ① Generación de hoja de personaje (imagen de referencia del rostro) ② Hacer que el personaje hable 15 segundos y extraer solo la voz → convertir en referencia de voz ③ Diseñar el corte en JSON → revisión gramatical con linting automático ④ Generar cuatro storyboards en una cuadrícula de 3x3 numerada ⑤ Con la referencia del storyboard + hoja + voz, generar cuatro videos de 15 segundos ⑥ Unir con ffmpeg + subtítulos de estilo cinematográfico\n---"
+    },
+    "fr": {
+      "content": "---\nPréparer une image de référence du visage pour la génération de la fiche de personnage et l'utiliser comme référence de cohérence de personnage dans Seedance  \nFaire parler le même personnage pendant 15 secondes, extraire uniquement la voix et la transmettre à Seedance comme référence audio  \nConcevoir le découpage en JSON, le vérifier grammaticalement avec un linting machine, puis le passer au processus de génération  \nGénérer quatre storyboards en grille 3x3 numérotée pour clarifier les instructions de chaque plan  \nEn se basant sur le storyboard, la fiche de personnage et la référence audio, générer quatre vidéos de 15 secondes avec Seedance  \nAssembler les quatre vidéos générées avec ffmpeg et ajouter des sous-titres de style cinématographique pour finaliser\n\n--- CONTINUATION DU FIL ---\n[Fil 1] ① Génération de la fiche de personnage (image de référence du visage) ② Faire parler le personnage pendant 15 secondes et extraire uniquement la voix pour créer une référence audio ③ Concevoir le découpage en JSON et le vérifier avec un linting machine ④ Générer quatre storyboards en grille 3x3 numérotée ⑤ Générer quatre vidéos de 15 secondes en se basant sur le storyboard, la fiche et l'audio ⑥ Assembler avec ffmpeg et ajouter des sous-titres de style cinématographique"
+    },
+    "ko": {
+      "content": "---\n캐릭터 시트 생성 시 얼굴 참조 이미지를 준비하여 Seedance의 캐릭터 일관성 참조에 사용  \n동일 캐릭터에게 15초 동안 말하게 하고 음성만 추출하여 음성 참조로 Seedance에 전달  \n컷 분할을 JSON으로 설계하고, 기계 린트로 문법 검사를 한 후 생성 과정에 넘김  \n번호가 매겨진 3×3 그리드의 스토리보드를 4장 생성하여 각 컷의 지시를 명확히 함  \n스토리보드 + 캐릭터 시트 + 음성 참조를 기반으로 Seedance에서 15초 × 4개의 영상을 생성  \nffmpeg로 생성된 4개를 연결하고 영화 스타일 자막을 추가하여 마무리\n\n--- THREAD CONTINUATION ---\n[Thread 1] ① 캐릭터 시트 생성 (얼굴 참조 이미지) ② 그 캐릭터에게 15초 동안 말하게 하고 음성만 추출 → 음성 참조화 ③ 컷 분할을 JSON으로 설계 → 기계 린트로 문법 검사 ④ 번호가 매겨진 3×3 그리드의 스토리보드를 4장 생성 ⑤ 스토리보드 + 시트 + 음성을 참조로 15초 × 4개의 영상 생성 ⑥ ffmpeg로 연결 + 영화 스타일 자막\n---"
+    },
+    "pt": {
+      "content": "---\nPreparar uma imagem de referência do rosto ao gerar a ficha de personagem e usá-la como referência de consistência de personagem no Seedance  \nFazer o mesmo personagem falar por 15 segundos, extrair apenas o áudio e entregá-lo ao Seedance como referência de voz  \nProjetar a divisão de cortes em JSON, verificar a gramática com linting automático e depois passar para o processo de geração  \nGerar quatro storyboards em um grid 3x3 numerado, esclarecendo as instruções de cada corte  \nCom base nos storyboards, ficha de personagem e referência de voz, gerar quatro vídeos de 15 segundos cada no Seedance  \nConcatenar os quatro vídeos gerados com ffmpeg e adicionar legendas em estilo cinematográfico para finalizar\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] ① Geração de ficha de personagem (imagem de referência do rosto) ② Fazer o personagem falar por 15 segundos e extrair apenas a voz → transformar em referência de voz ③ Projetar a divisão de cortes em JSON → verificar a gramática com linting automático ④ Gerar quatro storyboards em um grid 3x3 numerado ⑤ Com base nos storyboards + ficha + voz, gerar quatro vídeos de 15 segundos ⑥ Concatenar com ffmpeg + legendas em estilo cinematográfico\n---"
+    },
+    "zh": {
+      "content": "---\n为角色表生成准备面部参考图像，并用于Seedance的角色一致性参考  \n让同一角色说15秒的话，只提取音频，并将其作为音频参考传递给Seedance  \n用JSON设计镜头分割，经过机器Lint进行语法检查后进入生成流程  \n生成4张带编号的3×3网格分镜图，明确每个镜头的指示  \n参考分镜图+角色表+音频参考，在Seedance中生成15秒×4段的视频  \n用ffmpeg将生成的4段视频连接起来，并添加电影风格的字幕进行完成\n\n--- THREAD CONTINUATION ---\n[Thread 1] ① 角色表生成（面部参考图像） ② 让该角色说15秒的话，只提取声音→音频参考化 ③ 用JSON设计镜头分割→机器Lint进行语法检查 ④ 生成4张带编号的3×3网格分镜图 ⑤ 参考分镜图+表+音频生成15秒×4段视频 ⑥ 用ffmpeg连接+电影风格字幕\n---"
+    }
+  }
+}

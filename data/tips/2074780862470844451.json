@@ -1,0 +1,41 @@
+{
+  "id": "2074780862470844451",
+  "title": "Use Motion Previs Studio v4 to extract pose, depth, camera moves, and control…",
+  "content": "Use Motion Previs Studio v4 to extract pose, depth, camera moves, and control layers from reference shots, then feed those controls into Seedance for more consistent AI video generation.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/SD_Tutorial/status/2074780862470844451",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "Stable Diffusion Tutorials",
+    "link": "https://x.com/SD_Tutorial"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Motion Previs Studio v4 to extract pose, depth, camera moves, and control layers from reference shots, then feed those controls into Seedance for more consistent AI video generation.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Motion Previs Studio v4 para extraer poses, profundidad, movimientos de cámara y capas de control de tomas de referencia, luego introduce esos controles en Seedance para una generación de video AI más consistente."
+    },
+    "fr": {
+      "content": "Utilisez Motion Previs Studio v4 pour extraire les poses, la profondeur, les mouvements de caméra et les couches de contrôle à partir de prises de référence, puis intégrez ces contrôles dans Seedance pour une génération de vidéos IA plus cohérente."
+    },
+    "ja": {
+      "content": "Motion Previs Studio v4を使用して、参照ショットからポーズ、深度、カメラの動き、コントロールレイヤーを抽出し、それらのコントロールをSeedanceに入力して、より一貫したAIビデオ生成を行います。"
+    },
+    "ko": {
+      "content": "Motion Previs Studio v4를 사용하여 참조 샷에서 포즈, 깊이, 카메라 움직임 및 제어 레이어를 추출한 다음, 이러한 제어를 Seedance에 입력하여 보다 일관된 AI 비디오 생성을 수행하세요."
+    },
+    "pt": {
+      "content": "Use o Motion Previs Studio v4 para extrair pose, profundidade, movimentos de câmera e camadas de controle de tomadas de referência, depois insira esses controles no Seedance para uma geração de vídeo por IA mais consistente."
+    },
+    "zh": {
+      "content": "使用 Motion Previs Studio v4 从参考镜头中提取姿势、深度、镜头移动和控制层，然后将这些控制输入 Seedance，以实现更一致的 AI 视频生成。"
+    }
+  }
+}

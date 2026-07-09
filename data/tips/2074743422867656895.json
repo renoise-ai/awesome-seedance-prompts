@@ -1,0 +1,42 @@
+{
+  "id": "2074743422867656895",
+  "title": "画像/動画AI（Seedance 2.0）と同じ顔キーフレームを固定し、プロンプト作成だけをClaude（haiku→sonnet→opus→fable）で変え…",
+  "content": "画像/動画AI（Seedance 2.0）と同じ顔キーフレームを固定し、プロンプト作成だけをClaude（haiku→sonnet→opus→fable）で変えて10秒アニメ化し、プロンプト差の影響を比較する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2074743382078013440/pu/img/pwZvaxWlPKS24xA7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074743422867656895.mp4",
+  "sourceLink": "https://x.com/aivideo2026/status/2074743422867656895",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "AI Video Project",
+    "link": "https://x.com/aivideo2026"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "画像/動画AI（Seedance 2.0）と同じ顔キーフレームを固定し、プロンプト作成だけをClaude（haiku→sonnet→opus→fable）で変えて10秒アニメ化し、プロンプト差の影響を比較する",
+  "translations": {
+    "en": {
+      "content": "Fix the same face keyframe with image/video AI (Seedance 2.0), change only the prompt using Claude (haiku→sonnet→opus→fable) to animate into a 10-second video, and compare the impact of prompt differences."
+    },
+    "es": {
+      "content": "---\nFijar el mismo fotograma clave facial en la IA de imágenes/videos (Seedance 2.0) y cambiar solo el prompt usando Claude (haiku→sonnet→opus→fable) para animar en 10 segundos, comparando el impacto de la diferencia de prompts.\n---"
+    },
+    "fr": {
+      "content": "---\nFixer les mêmes images clés de visage avec l'IA d'image/vidéo (Seedance 2.0) et ne changer que la création de prompt avec Claude (haiku→sonnet→opus→fable) pour l'animer en 10 secondes, et comparer l'impact de la différence de prompt."
+    },
+    "ko": {
+      "content": "---\n이미지/비디오 AI(Seedance 2.0)와 동일한 얼굴 키프레임을 고정하고, 프로ンプ트 생성만을 Claude(haiku→sonnet→opus→fable)로 변경하여 10초 애니메이션화하고, 프로ンプ트 차이의 영향을 비교합니다.\n---"
+    },
+    "pt": {
+      "content": "Fixar os mesmos quadros-chave de rosto na IA de imagem/vídeo (Seedance 2.0) e alterar apenas o prompt usando Claude (haiku→sonnet→opus→fable) para criar uma animação de 10 segundos, comparando o impacto das diferenças de prompt."
+    },
+    "zh": {
+      "content": "---\n将图像/视频AI（Seedance 2.0）的相同面部关键帧固定，仅使用Claude（haiku→sonnet→opus→fable）更改prompt进行10秒动画化，比较prompt差异的影响\n---"
+    }
+  }
+}
