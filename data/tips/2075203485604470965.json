@@ -1,0 +1,42 @@
+{
+  "id": "2075203485604470965",
+  "title": "Blenderでパルクールのプレビズ（ラフな動作確認用）を作り、それをSeedanceのVideo REFとして渡して動きやテンポをコントロールする",
+  "content": "Blenderでパルクールのプレビズ（ラフな動作確認用）を作り、それをSeedanceのVideo REFとして渡して動きやテンポをコントロールする  \n走る動きに偏る場合は、Blender側で障害物を使う動きや回避の流れを入れたREFを作って参照させる  \n動きの密度を上げたいときは、Video REF用のBlender参考動画を2倍速にしてSeedanceに参照させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HMya2P8bUAAxeAj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075203485604470965.mp4",
+  "sourceLink": "https://x.com/moframe2026/status/2075203485604470965",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "moframe | モフレーム",
+    "link": "https://x.com/moframe2026"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blenderでパルクールのプレビズ（ラフな動作確認用）を作り、それをSeedanceのVideo REFとして渡して動きやテンポをコントロールする  \n走る動きに偏る場合は、Blender側で障害物を使う動きや回避の流れを入れたREFを作って参照させる  \n動きの密度を上げたいときは、Video REF用のBlender参考動画を2倍速にしてSeedanceに参照させる",
+  "translations": {
+    "en": {
+      "content": "---\nCreate a parkour previs (rough motion check) in Blender and use it as a Video REF in Seedance to control movement and tempo.  \nIf the movements lean too much towards running, create a REF in Blender that includes movements using obstacles and evasion flows for reference.  \nTo increase the density of movements, double the speed of the Blender reference video for Video REF and use it in Seedance.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Production notes.\n\nHere is the Blender parkour reference video used for the Video REF.  \nIt is not something to be used directly in the final footage,  \nbut a rough motion check to convey movements and tempo using obstacles.  \nThis time, to increase the density of movements, it is referenced at double speed. https://t.co/WNOK6LvCA4\n---"
+    },
+    "es": {
+      "content": "---\nCrear una previsualización de parkour en Blender (para una verificación de movimiento aproximada) y usarla como Video REF en Seedance para controlar el movimiento y el tempo.  \nSi hay una tendencia a movimientos de carrera, crear un REF en Blender que incluya movimientos con obstáculos y flujos de evasión para referenciar.  \nCuando se desea aumentar la densidad de movimiento, duplicar la velocidad del video de referencia en Blender y usarlo en Seedance.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Notas de producción.\n\nAquí está el video de referencia de parkour en Blender que usamos para el Video REF.  \nNo es algo que se use directamente en el video final,  \nsino que es una verificación de movimiento aproximada para transmitir movimientos y tempo con obstáculos.  \nEn esta ocasión, para aumentar la densidad de movimiento, lo hemos referenciado a doble velocidad. https://t.co/WNOK6LvCA4\n---"
+    },
+    "fr": {
+      "content": "Créer une prévisualisation de parkour dans Blender (pour une vérification sommaire des mouvements) et l'utiliser comme Video REF dans Seedance pour contrôler les mouvements et le tempo.  \nSi les mouvements se concentrent trop sur la course, créer un REF dans Blender qui inclut des mouvements utilisant des obstacles et des séquences d'évitement pour référence.  \nPour augmenter la densité des mouvements, doubler la vitesse de la vidéo de référence Blender et l'utiliser dans Seedance.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Notes de production.\n\nVoici la vidéo de référence Blender utilisée pour le parkour dans le Video REF.  \nCe n'est pas destiné à être utilisé tel quel dans la vidéo finale,  \nmais pour transmettre les mouvements et le tempo utilisant des obstacles.  \nCette fois, pour augmenter la densité des mouvements, elle est référencée à double vitesse. https://t.co/WNOK6LvCA4"
+    },
+    "ko": {
+      "content": "Blender에서 파쿠르의 프리비즈(간단한 동작 확인용)를 만들고, 그것을 Seedance의 Video REF로 전달하여 움직임과 템포를 조절합니다.  \n달리는 동작에 치우칠 경우, Blender 쪽에서 장애물을 사용하는 동작이나 회피 흐름을 포함한 REF를 만들어 참조하게 합니다.  \n움직임의 밀도를 높이고 싶을 때는, Video REF용 Blender 참고 영상을 2배속으로 만들어 Seedance에 참조하게 합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 제작 메모.\n\n여기 Video REF에 사용한 Blender의 파쿠르용 참고 영상입니다.  \n완성 영상에 그대로 사용하는 것이 아니라,  \n장애물을 사용한 동작과 템포를 전달하기 위한 간단한 동작 확인용입니다.  \n이번에는 움직임의 밀도를 높이기 위해, 2배속으로 참조하게 하고 있습니다. https://t.co/WNOK6LvCA4"
+    },
+    "pt": {
+      "content": "---\nCriar uma pré-visualização de parkour no Blender (para verificação de movimento em esboço) e usá-la como Video REF no Seedance para controlar o movimento e o ritmo.  \nSe houver uma tendência para movimentos de corrida, criar um REF no Blender que inclua movimentos usando obstáculos e fluxo de evasão para referência.  \nQuando quiser aumentar a densidade dos movimentos, acelerar o vídeo de referência do Blender para 2x e usá-lo como referência no Seedance.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Thread 1] Notas de produção.\n\nAqui está o vídeo de referência de parkour no Blender que usamos como Video REF.  \nNão é algo que será usado diretamente no vídeo final,  \nmas sim para transmitir movimentos e ritmo usando obstáculos como uma verificação de movimento em esboço.  \nDesta vez, para aumentar a densidade dos movimentos, estamos usando-o em 2x de velocidade como referência. https://t.co/WNOK6LvCA4\n---"
+    },
+    "zh": {
+      "content": "在Blender中制作跑酷的预演（用于粗略的动作确认），并将其作为Seedance的Video REF来控制动作和节奏。  \n如果跑动动作过多，可以在Blender中制作包含障碍物动作和回避流程的REF进行参考。  \n想要提高动作密度时，可以将用于Video REF的Blender参考视频加速至两倍速供Seedance参考。\n\n--- 线程继续 ---\n[线程 1] 制作笔记。\n\n这是用于Video REF的Blender跑酷参考视频。\n并不是直接用于最终影片的，\n而是用于传达使用障碍物的动作和节奏的粗略动作确认。\n这次为了提高动作密度，已加速至两倍速进行参考。 https://t.co/WNOK6LvCA4"
+    }
+  }
+}

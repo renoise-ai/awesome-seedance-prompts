@@ -1,0 +1,42 @@
+{
+  "id": "2075232134839865562",
+  "title": "Set up a treatment agent with your locked cast, location, and rough shot…",
+  "content": "Set up a treatment agent with your locked cast, location, and rough shot breakdown, then run simple reference-to-video generations in Seedance using different camera treatments (e.g., dolly vs handheld vs steadicam) to quickly compare camera language before committing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075230816666615808/img/qgZjU0VL1cdvflZE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075232134839865562.mp4",
+  "sourceLink": "https://x.com/invideoOfficial/status/2075232134839865562",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "Invideo",
+    "link": "https://x.com/invideoOfficial"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Set up a treatment agent with your locked cast, location, and rough shot breakdown, then run simple reference-to-video generations in Seedance using different camera treatments (e.g., dolly vs handheld vs steadicam) to quickly compare camera language before committing.",
+  "translations": {
+    "es": {
+      "content": "Configura un agente de tratamiento con tu elenco fijo, ubicación y desglose aproximado de tomas, luego ejecuta generaciones de referencia a video simples en Seedance utilizando diferentes tratamientos de cámara (por ejemplo, dolly vs handheld vs steadicam) para comparar rápidamente el lenguaje de cámara antes de comprometerte."
+    },
+    "fr": {
+      "content": "Configurez un agent de traitement avec votre distribution verrouillée, votre emplacement et une répartition approximative des prises de vue, puis exécutez des générations de référence à vidéo simples dans Seedance en utilisant différents traitements de caméra (par exemple, dolly vs handheld vs steadicam) pour comparer rapidement le langage de la caméra avant de vous engager."
+    },
+    "ja": {
+      "content": "キャスト、ロケーション、ラフなショットのブレイクダウンを固定した状態でトリートメントエージェントを設定し、Seedanceで異なるカメラトリートメント（例：dolly vs handheld vs steadicam）を使用してシンプルなリファレンスからビデオ生成を実行し、コミットする前にカメラ言語を迅速に比較します。"
+    },
+    "ko": {
+      "content": "고정된 출연진, 장소, 대략적인 샷 분할을 설정한 후, Seedance에서 간단한 참조-비디오 생성을 실행하여 다양한 카메라 처리 방식(예: dolly vs handheld vs steadicam)을 사용해 최종 결정 전에 카메라 언어를 빠르게 비교하세요."
+    },
+    "pt": {
+      "content": "Configure um agente de tratamento com seu elenco fixo, localização e esboço de cenas, depois execute gerações simples de referência para vídeo no Seedance usando diferentes tratamentos de câmera (por exemplo, dolly vs handheld vs steadicam) para comparar rapidamente a linguagem de câmera antes de se comprometer."
+    },
+    "zh": {
+      "content": "在Seedance中设置一个处理代理，使用已确定的演员阵容、地点和粗略的镜头分解，然后运行简单的参考到视频生成，使用不同的摄像机处理（例如，dolly、handheld、steadicam）来快速比较摄像机语言，然后再做出决定。"
+    }
+  }
+}

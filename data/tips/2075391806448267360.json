@@ -1,0 +1,42 @@
+{
+  "id": "2075391806448267360",
+  "title": "Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0…",
+  "content": "Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 prompt to turn an idea into a Seedance-ready video prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075301313655767040/img/7cALl0_CufPNzjn3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075391806448267360.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2075391806448267360",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a workflow of Concept → Custom GPT → Image-to-Storyboard → Seedance 2.0 prompt to turn an idea into a Seedance-ready video prompt.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de Concepto → GPT Personalizado → Imagen-a-Storyboard → Seedance 2.0 prompt para convertir una idea en un prompt de video listo para Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail allant de Concept → GPT personnalisé → Image-à-Storyboard → Seedance 2.0 prompt pour transformer une idée en un prompt vidéo prêt pour Seedance."
+    },
+    "ja": {
+      "content": "コンセプト → カスタムGPT → イメージからストーリーボードへ → Seedance 2.0 prompt のワークフローを使用して、アイデアをSeedance対応のビデオプロンプトに変換します。"
+    },
+    "ko": {
+      "content": "아이디어를 Seedance에 적합한 비디오 프롬프트로 변환하기 위해 개념 → 맞춤형 GPT → 이미지-스토리보드 → Seedance 2.0 프롬프트의 워크플로우를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Conceito → GPT Personalizado → Imagem-para-Storyboard → Seedance 2.0 prompt para transformar uma ideia em um prompt de vídeo pronto para Seedance."
+    },
+    "zh": {
+      "content": "使用概念 → 定制GPT → 图像到故事板 → Seedance 2.0 prompt的工作流程，将一个想法转化为适合Seedance的视频提示。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2075232179504996801",
+  "title": "Split a 9-shot storyboard into three separate Seedance generations of 3 images…",
+  "content": "Split a 9-shot storyboard into three separate Seedance generations of 3 images each (instead of one 9-shot generation) to reduce “plasticky” results and gain more per-shot control over pacing, camera direction, and angles.  \nDraw directional arrows directly on your storyboard grid (e.g., left-to-right, upward) to indicate desired camera movement so the agent can translate them into Seedance prompts for more accurate camera motion.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075230947537285121/img/9J6v-8yPvv-Mrz-N.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075232179504996801.mp4",
+  "sourceLink": "https://x.com/invideoOfficial/status/2075232179504996801",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "Invideo",
+    "link": "https://x.com/invideoOfficial"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Split a 9-shot storyboard into three separate Seedance generations of 3 images each (instead of one 9-shot generation) to reduce “plasticky” results and gain more per-shot control over pacing, camera direction, and angles.  \nDraw directional arrows directly on your storyboard grid (e.g., left-to-right, upward) to indicate desired camera movement so the agent can translate them into Seedance prompts for more accurate camera motion.",
+  "translations": {
+    "es": {
+      "content": "Divide un guion gráfico de 9 tomas en tres generaciones separadas de Seedance de 3 imágenes cada una (en lugar de una generación de 9 tomas) para reducir los resultados \"plásticos\" y obtener más control por toma sobre el ritmo, la dirección de la cámara y los ángulos.  \nDibuja flechas direccionales directamente en la cuadrícula de tu guion gráfico (por ejemplo, de izquierda a derecha, hacia arriba) para indicar el movimiento de cámara deseado, de modo que el agente pueda traducirlas en prompts de Seedance para un movimiento de cámara más preciso."
+    },
+    "fr": {
+      "content": "Divisez un storyboard de 9 plans en trois générations Seedance distinctes de 3 images chacune (au lieu d'une génération de 9 plans) pour réduire les résultats \"plastiques\" et obtenir un meilleur contrôle par plan sur le rythme, la direction de la caméra et les angles.  \nDessinez des flèches directionnelles directement sur votre grille de storyboard (par exemple, de gauche à droite, vers le haut) pour indiquer le mouvement de caméra souhaité afin que l'agent puisse les traduire en prompts Seedance pour un mouvement de caméra plus précis."
+    },
+    "ja": {
+      "content": "9ショットのストーリーボードを3つのSeedance生成に分け、それぞれ3枚の画像にすることで、「プラスチックのような」結果を減らし、ペース、カメラの方向、角度に対するショットごとのコントロールを強化します。  \nストーリーボードのグリッドに直接方向矢印（例：左から右、上向き）を描いて、希望するカメラの動きを示し、エージェントがそれをSeedanceプロンプトに変換して、より正確なカメラモーションを実現できるようにします。"
+    },
+    "ko": {
+      "content": "9개의 샷으로 구성된 스토리보드를 3개의 이미지씩 3개의 개별 Seedance 생성으로 나누어 \"플라스틱\" 같은 결과를 줄이고, 샷별로 페이싱, 카메라 방향 및 각도에 대한 더 많은 제어를 얻으세요.  \n스토리보드 그리드에 직접 방향 화살표를 그려 (예: 왼쪽에서 오른쪽, 위쪽) 원하는 카메라 움직임을 나타내어 에이전트가 이를 Seedance 프롬프트로 변환하여 보다 정확한 카메라 모션을 구현할 수 있도록 하세요."
+    },
+    "pt": {
+      "content": "Divida um storyboard de 9 cenas em três gerações separadas de Seedance, com 3 imagens cada (em vez de uma geração de 9 cenas), para reduzir resultados \"plastificados\" e obter mais controle por cena sobre o ritmo, direção da câmera e ângulos.  \nDesenhe setas direcionais diretamente na grade do seu storyboard (por exemplo, da esquerda para a direita, para cima) para indicar o movimento desejado da câmera, para que o agente possa traduzi-los em prompts de Seedance para um movimento de câmera mais preciso."
+    },
+    "zh": {
+      "content": "将一个9镜头的故事板分成三个独立的Seedance生成，每个生成3张图像（而不是一个9镜头生成），以减少“塑料感”效果，并在每个镜头上获得更多的节奏、摄像机方向和角度控制。  \n直接在你的故事板网格上画出方向箭头（例如，从左到右，向上），以指示所需的摄像机移动，这样代理可以将它们翻译成Seedance prompts，以实现更准确的摄像机运动。"
+    }
+  }
+}

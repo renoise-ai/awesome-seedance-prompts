@@ -1,0 +1,42 @@
+{
+  "id": "2075068637309006159",
+  "title": "動画の開始フレーム用の画像をi2i（image-to-image）で先に生成してから、その画像を使ってSeedanceのi2v（image-to-video）で…",
+  "content": "動画の開始フレーム用の画像をi2i（image-to-image）で先に生成してから、その画像を使ってSeedanceのi2v（image-to-video）で動画化する  \n動画用プロンプトの「歌詞」部分や「アクション」部分は自由にアレンジして生成結果を調整する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075067515575889920/img/VZcEAWK5ecfbmIKL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075068637309006159.mp4",
+  "sourceLink": "https://x.com/Eris_Create_Lab/status/2075068637309006159",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "Eris Create Lab",
+    "link": "https://x.com/Eris_Create_Lab"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "動画の開始フレーム用の画像をi2i（image-to-image）で先に生成してから、その画像を使ってSeedanceのi2v（image-to-video）で動画化する  \n動画用プロンプトの「歌詞」部分や「アクション」部分は自由にアレンジして生成結果を調整する",
+  "translations": {
+    "en": {
+      "content": "First, generate an image for the starting frame of the video using i2i (image-to-image), then use that image to create a video with Seedance's i2v (image-to-video).  \nFeel free to adjust the \"lyrics\" and \"action\" parts of the video prompt to fine-tune the generated result.\n\n--- QUOTED TWEET ---\n#AIart\nThis is what it looks like when you turn an illustration generated with the original i2i prompt into a video using Seedance or Grok 🤩\nvia @get_artcraft\nThe first video is Seedance, the second is Grok. \nThe video prompt is long, so I'll write it below 🔽 https://t.co/PLpvb7UMEK\n---"
+    },
+    "es": {
+      "content": "Para generar el cuadro inicial del video, primero crea una imagen usando i2i (image-to-image) y luego utiliza esa imagen para convertirla en video con i2v (image-to-video) de Seedance.  \nPuedes libremente ajustar las partes de \"letra\" y \"acción\" del prompt del video para modificar el resultado generado.\n\n--- TWEET CITADO ---\n#AIart\nAsí es como se ve cuando conviertes una ilustración generada con el prompt de i2i en Seedance o Grok a video 🤩\nvía @get_artcraft\nEl primer video es con Seedance, el segundo con Grok. \nEl prompt para el video es largo, así que lo escribo a continuación🔽 https://t.co/PLpvb7UMEK\n---"
+    },
+    "fr": {
+      "content": "Pour le cadre initial de la vidéo, générez d'abord une image avec i2i (image-to-image), puis utilisez cette image pour créer une vidéo avec i2v (image-to-video) de Seedance.  \nVous pouvez librement arranger les parties « paroles » et « action » du prompt vidéo pour ajuster le résultat généré.\n\n--- TWEET CITÉ ---\n#AIart\nVoici ce que donne une illustration générée avec le prompt i2i d'origine lorsqu'elle est transformée en vidéo avec Seedance ou Grok 🤩\nvia @get_artcraft\nLa première vidéo est avec Seedance, la deuxième avec Grok. \nLe prompt vidéo est long, donc je l'écris ci-dessous 🔽 https://t.co/PLpvb7UMEK\n---"
+    },
+    "ko": {
+      "content": "---\n영상의 시작 프레임용 이미지를 i2i(image-to-image)로 먼저 생성한 후, 그 이미지를 사용하여 Seedance의 i2v(image-to-video)로 영상화하기  \n영상용 프롬프트의 \"가사\" 부분이나 \"액션\" 부분은 자유롭게 조정하여 생성 결과를 조절하기\n\n--- QUOTED TWEET ---\n#AIart\n인용된 i2i 프롬프트로 생성한 일러스트를 Seedance나 Grok으로 영상화하면 이렇게 됩니다🤩\nvia @get_artcraft\n영상 첫 번째는 Seedance, 두 번째는 Grok입니다  \n영상용 프롬프트는 길어서 아래에 작성합니다🔽 https://t.co/PLpvb7UMEK\n---"
+    },
+    "pt": {
+      "content": "Para gerar o quadro inicial do vídeo, primeiro crie uma imagem usando i2i (image-to-image) e, em seguida, utilize essa imagem para transformar em vídeo com o i2v (image-to-video) do Seedance.  \nAs partes \"letra\" e \"ação\" do prompt para vídeo podem ser livremente ajustadas para modificar o resultado da geração.\n\n--- TWEET CITADO ---\n#AIart\nQuando você transforma a ilustração gerada pelo prompt i2i original em um vídeo usando Seedance ou Grok, o resultado é este 🤩\nvia @get_artcraft\nO primeiro vídeo é Seedance, o segundo é Grok. \nO prompt para vídeo é longo, então vou escrevê-lo abaixo 🔽 https://t.co/PLpvb7UMEK\n---"
+    },
+    "zh": {
+      "content": "首先使用i2i（image-to-image）生成视频的起始帧图像，然后利用该图像通过Seedance的i2v（image-to-video）进行视频化。  \n对于视频用的prompt中的“歌词”部分和“动作”部分，可以自由调整以优化生成结果。\n\n--- 引用推文 ---\n#AIart\n将引用的i2i prompt生成的插图通过Seedance或Grok转化为视频就是这样的效果🤩\nvia @get_artcraft\n第一个视频是Seedance，第二个是Grok \n视频用的prompt较长，具体如下🔽 https://t.co/PLpvb7UMEK"
+    }
+  }
+}

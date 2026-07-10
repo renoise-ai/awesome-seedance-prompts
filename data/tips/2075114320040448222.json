@@ -1,0 +1,41 @@
+{
+  "id": "2075114320040448222",
+  "title": "Reuse a character sheet prompt made for GPT Image 2 with Seedream v5 Pro to…",
+  "content": "Reuse a character sheet prompt made for GPT Image 2 with Seedream v5 Pro to generate consistent character reference images for Seedance.\n\nIn Seedance 2.0 prompts, use reference tokens like @[ref1] for the main character and @[ref2] for the opposing subject to anchor identity/appearance across the video.\n\nAdd a detailed camera-direction block (low-angle scale shots, aggressive push-ins, whip-fast tracking, vertical traversals, sudden proximity shifts) to explicitly control shot language and pacing.\n\nSpecify motion behavior with concrete descriptors (teleport-like dash transitions, elongated afterimage trails, warped air streaks, blade-light ribbons, compressed shock-paths) to drive “unreadably fast” combat animation.\n\nIterate by appending a strong final paragraph from a better generation to improve the overall prompt (e.g., “Added last part from another generation”).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aimikoda/status/2075114320040448222",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "Kōda",
+    "link": "https://x.com/aimikoda"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Reuse a character sheet prompt made for GPT Image 2 with Seedream v5 Pro to generate consistent character reference images for Seedance.\n\nIn Seedance 2.0 prompts, use reference tokens like @[ref1] for the main character and @[ref2] for the opposing subject to anchor identity/appearance across the video.\n\nAdd a detailed camera-direction block (low-angle scale shots, aggressive push-ins, whip-fast tracking, vertical traversals, sudden proximity shifts) to explicitly control shot language and pacing.\n\nSpecify motion behavior with concrete descriptors (teleport-like dash transitions, elongated afterimage trails, warped air streaks, blade-light ribbons, compressed shock-paths) to drive “unreadably fast” combat animation.\n\nIterate by appending a strong final paragraph from a better generation to improve the overall prompt (e.g., “Added last part from another generation”).",
+  "translations": {
+    "es": {
+      "content": "Reutiliza un prompt de hoja de personaje creado para GPT Image 2 con Seedream v5 Pro para generar imágenes de referencia de personajes consistentes para Seedance.\n\nEn los prompts de Seedance 2.0, utiliza tokens de referencia como @[ref1] para el personaje principal y @[ref2] para el sujeto opuesto para anclar la identidad/apariencia a lo largo del video.\n\nAñade un bloque detallado de dirección de cámara (tomas a escala desde ángulos bajos, acercamientos agresivos, seguimientos rápidos como látigo, travesías verticales, cambios de proximidad repentinos) para controlar explícitamente el lenguaje de las tomas y el ritmo.\n\nEspecifica el comportamiento del movimiento con descriptores concretos (transiciones de carrera como teletransporte, rastros de imagen alargados, estelas de aire distorsionadas, cintas de luz de cuchilla, caminos de choque comprimidos) para impulsar la animación de combate “increíblemente rápida”.\n\nItera añadiendo un fuerte párrafo final de una mejor generación para mejorar el prompt general (por ejemplo, “Añadida la última parte de otra generación”)."
+    },
+    "fr": {
+      "content": "---\nRéutilisez un prompt de fiche de personnage créé pour GPT Image 2 avec Seedream v5 Pro pour générer des images de référence de personnage cohérentes pour Seedance.\n\nDans les prompts de Seedance 2.0, utilisez des jetons de référence comme @[ref1] pour le personnage principal et @[ref2] pour le sujet opposé afin d'ancrer l'identité/apparence tout au long de la vidéo.\n\nAjoutez un bloc de direction de caméra détaillé (plans à échelle basse, zooms agressifs, suivis rapides, traversées verticales, changements de proximité soudains) pour contrôler explicitement le langage des plans et le rythme.\n\nSpécifiez le comportement du mouvement avec des descripteurs concrets (transitions de type téléportation, traînées d'images allongées, stries d'air déformées, rubans de lumière de lame, chemins de choc compressés) pour animer des combats \"incompréhensiblement rapides\".\n\nItérez en ajoutant un paragraphe final fort d'une meilleure génération pour améliorer le prompt global (par exemple, \"Ajouté la dernière partie d'une autre génération\")."
+    },
+    "ja": {
+      "content": "---\nSeedream v5 Proを使用して、GPT Image 2用に作成されたキャラクターシートプロンプトを再利用し、Seedanceのために一貫したキャラクター参照画像を生成します。\n\nSeedance 2.0のプロンプトでは、動画全体でのアイデンティティや外見を固定するために、@[ref1]をメインキャラクター、@[ref2]を対立する対象として参照トークンを使用します。\n\nショットの言語とペースを明確に制御するために、詳細なカメラディレクションブロック（低角度のスケールショット、アグレッシブなプッシュイン、ウィップファストトラッキング、垂直トラバーサル、突然の近接シフト）を追加します。\n\n「読めないほど速い」戦闘アニメーションを駆動するために、具体的な記述子（テレポートのようなダッシュ遷移、伸びた残像の軌跡、歪んだ空気のストリーク、ブレードライトのリボン、圧縮されたショックパス）で動作を指定します。\n\n全体のプロンプトを改善するために、より良い生成からの強い最終段落を追加して反復します（例：「別の生成から最後の部分を追加」）。"
+    },
+    "ko": {
+      "content": "---\nSeedream v5 Pro를 사용하여 GPT Image 2용으로 만들어진 캐릭터 시트 프롬프트를 재사용하여 Seedance의 일관된 캐릭터 참조 이미지를 생성합니다.\n\nSeedance 2.0 프롬프트에서는 비디오 전반에 걸쳐 정체성/외모를 고정하기 위해 주인공에는 @[ref1], 상대 주제에는 @[ref2]와 같은 참조 토큰을 사용합니다.\n\n촬영 언어와 속도를 명확히 제어하기 위해 자세한 카메라 방향 블록(저각도 스케일 샷, 공격적인 푸시 인, 휩-빠른 트래킹, 수직 이동, 갑작스러운 근접 이동)을 추가합니다.\n\n\"읽을 수 없을 정도로 빠른\" 전투 애니메이션을 구동하기 위해 구체적인 설명자(텔레포트 같은 대시 전환, 길게 늘어진 잔상, 왜곡된 공기 줄무늬, 칼날-빛 리본, 압축된 충격 경로)로 동작 행동을 지정합니다.\n\n전체 프롬프트를 개선하기 위해 더 나은 생성에서 강력한 마지막 단락을 추가하여 반복합니다 (예: \"다른 생성에서 마지막 부분 추가\")."
+    },
+    "pt": {
+      "content": "Reutilize um prompt de ficha de personagem feito para GPT Image 2 com Seedream v5 Pro para gerar imagens de referência de personagem consistentes para Seedance.\n\nNos prompts do Seedance 2.0, use tokens de referência como @[ref1] para o personagem principal e @[ref2] para o sujeito oposto para ancorar identidade/aparência ao longo do vídeo.\n\nAdicione um bloco detalhado de direção de câmera (planos em escala de ângulo baixo, aproximações agressivas, rastreamento rápido, travessias verticais, mudanças súbitas de proximidade) para controlar explicitamente a linguagem e o ritmo das cenas.\n\nEspecifique o comportamento de movimento com descritores concretos (transições de dash semelhantes a teletransporte, trilhas de pós-imagem alongadas, rastros de ar distorcidos, fitas de luz de lâmina, caminhos de choque comprimidos) para impulsionar a animação de combate “incompreensivelmente rápida”.\n\nItere adicionando um parágrafo final forte de uma geração melhor para melhorar o prompt geral (por exemplo, “Adicionado a última parte de outra geração”)."
+    },
+    "zh": {
+      "content": "---\n使用为GPT Image 2制作的角色表格提示与Seedream v5 Pro结合，以生成一致的Seedance角色参考图像。\n\n在Seedance 2.0提示中，使用参考标记如@[ref1]表示主角，@[ref2]表示对立角色，以在视频中锚定身份/外观。\n\n添加详细的摄像机方向块（低角度缩放镜头、激进的推入、快速跟踪、垂直穿越、突然的接近变化）以明确控制镜头语言和节奏。\n\n使用具体的描述词指定运动行为（如瞬移般的冲刺过渡、延长的残影轨迹、扭曲的空气条纹、刀光带、压缩的冲击路径）来驱动“快到无法读取”的战斗动画。\n\n通过附加更好生成的强有力的最后一段来迭代以改进整体提示（例如，“从另一个生成中添加的最后部分”）。"
+    }
+  }
+}

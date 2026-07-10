@@ -1,0 +1,41 @@
+{
+  "id": "2075179655632420883",
+  "title": "Use a storyboard image as a reference and explicitly tell Seedance to treat it…",
+  "content": "Use a storyboard image as a reference and explicitly tell Seedance to treat it as the cinematic sequence storyboard, using panel 01 as the first shot.\n\nPrompt Seedance to generate a single 10-second sequence that transitions smoothly through all 7 storyboard panels, with per-shot timestamps to control pacing (e.g., Shot 1: 0–1.4s … Shot 7: 8.4–10.0s).\n\nAdd strong negative constraints to prevent unwanted overlays: Absolutely NO frames, borders, film strips, numbers, UI, or text; ignore grid layout; render seamless full-screen shots only; ZERO TEXT.\n\nReinforce continuity by repeating style constraints at the end of the prompt (seamless transitions, fluid motion, consistent lighting, tropical atmosphere, NO text/grid/numbers).\n\nCreate the 7-panel numbered storyboard image first (clean grid with 01–07) using an image model, then use that image as the Seedance storyboard reference for prompt-to-video generation.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/churvikv/status/2075179655632420883",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "Viki",
+    "link": "https://x.com/churvikv"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard image as a reference and explicitly tell Seedance to treat it as the cinematic sequence storyboard, using panel 01 as the first shot.\n\nPrompt Seedance to generate a single 10-second sequence that transitions smoothly through all 7 storyboard panels, with per-shot timestamps to control pacing (e.g., Shot 1: 0–1.4s … Shot 7: 8.4–10.0s).\n\nAdd strong negative constraints to prevent unwanted overlays: Absolutely NO frames, borders, film strips, numbers, UI, or text; ignore grid layout; render seamless full-screen shots only; ZERO TEXT.\n\nReinforce continuity by repeating style constraints at the end of the prompt (seamless transitions, fluid motion, consistent lighting, tropical atmosphere, NO text/grid/numbers).\n\nCreate the 7-panel numbered storyboard image first (clean grid with 01–07) using an image model, then use that image as the Seedance storyboard reference for prompt-to-video generation.",
+  "translations": {
+    "es": {
+      "content": "Utiliza una imagen de storyboard como referencia e indica explícitamente a Seedance que la trate como el storyboard de la secuencia cinematográfica, usando el panel 01 como la primera toma.\n\nPrompt Seedance to generate a single 10-second sequence that transitions smoothly through all 7 storyboard panels, with per-shot timestamps to control pacing (e.g., Shot 1: 0–1.4s … Shot 7: 8.4–10.0s).\n\nAñade fuertes restricciones negativas para evitar superposiciones no deseadas: Absolutamente NO marcos, bordes, tiras de película, números, UI o texto; ignora el diseño de cuadrícula; renderiza solo tomas a pantalla completa sin interrupciones; CERO TEXTO.\n\nRefuerza la continuidad repitiendo las restricciones de estilo al final del prompt (transiciones fluidas, movimiento fluido, iluminación consistente, atmósfera tropical, SIN texto/cuadrícula/números).\n\nCrea primero la imagen del storyboard numerado de 7 paneles (cuadrícula limpia con 01–07) usando un modelo de imagen, luego usa esa imagen como la referencia de storyboard de Seedance para la generación de video a partir del prompt."
+    },
+    "fr": {
+      "content": "Utilisez une image de storyboard comme référence et indiquez explicitement à Seedance de la traiter comme le storyboard de la séquence cinématographique, en utilisant le panneau 01 comme premier plan.\n\nDemandez à Seedance de générer une séquence unique de 10 secondes qui passe en douceur à travers les 7 panneaux du storyboard, avec des horodatages par plan pour contrôler le rythme (par exemple, Plan 1 : 0–1,4s … Plan 7 : 8,4–10,0s).\n\nAjoutez des contraintes négatives fortes pour éviter les superpositions indésirables : Absolument PAS de cadres, bordures, bandes de film, chiffres, interface utilisateur ou texte ; ignorez la disposition en grille ; ne rendez que des plans plein écran sans couture ; ZERO TEXTE.\n\nRenforcez la continuité en répétant les contraintes de style à la fin du prompt (transitions fluides, mouvement fluide, éclairage cohérent, atmosphère tropicale, PAS de texte/grille/chiffres).\n\nCréez d'abord l'image du storyboard numéroté en 7 panneaux (grille propre avec 01–07) en utilisant un modèle d'image, puis utilisez cette image comme référence de storyboard Seedance pour la génération de vidéo à partir du prompt."
+    },
+    "ja": {
+      "content": "---\nストーリーボード画像を参照として使用し、Seedanceにそれをシネマティックシーケンスのストーリーボードとして扱うように明示的に指示し、パネル01を最初のショットとして使用します。\n\nSeedanceに、すべての7つのストーリーボードパネルをスムーズに移行する単一の10秒シーケンスを生成するように指示し、ペースを制御するためのショットごとのタイムスタンプを追加します（例：ショット1: 0–1.4秒 … ショット7: 8.4–10.0秒）。\n\n不要なオーバーレイを防ぐために強い否定的制約を追加します：絶対にフレーム、ボーダー、フィルムストリップ、数字、UI、またはテキストは使用しないこと；グリッドレイアウトを無視し、シームレスなフルスクリーンショットのみをレンダリングすること；テキストは一切なし。\n\nスタイルの制約をプロンプトの最後に繰り返すことで連続性を強化します（シームレスな移行、流動的な動き、一貫した照明、トロピカルな雰囲気、テキスト/グリッド/数字なし）。\n\nまず、画像モデルを使用して7パネルの番号付きストーリーボード画像（01–07のクリーングリッド）を作成し、その画像をSeedanceのストーリーボード参照としてプロンプトからビデオ生成に使用します。\n---"
+    },
+    "ko": {
+      "content": "---\n스토리보드 이미지를 참조로 사용하고, Seedance에게 이를 시네마틱 시퀀스 스토리보드로 간주하도록 명확히 지시하며, 패널 01을 첫 번째 샷으로 사용합니다.\n\nSeedance에게 7개의 스토리보드 패널을 매끄럽게 전환하는 10초짜리 시퀀스를 생성하도록 프롬프트하고, 샷별 타임스탬프를 통해 페이싱을 제어합니다 (예: Shot 1: 0–1.4초 … Shot 7: 8.4–10.0초).\n\n원치 않는 오버레이를 방지하기 위해 강력한 부정적 제약을 추가합니다: 절대적으로 NO 프레임, 경계선, 필름 스트립, 숫자, UI, 또는 텍스트; 그리드 레이아웃 무시; 매끄러운 전체 화면 샷만 렌더링; ZERO TEXT.\n\n스타일 제약을 프롬프트 끝에 반복하여 연속성을 강화합니다 (매끄러운 전환, 유동적인 움직임, 일관된 조명, 열대 분위기, NO 텍스트/그리드/숫자).\n\n먼저 이미지 모델을 사용하여 7패널 번호가 매겨진 스토리보드 이미지를 생성합니다 (01–07의 깨끗한 그리드), 그런 다음 그 이미지를 Seedance 스토리보드 참조로 사용하여 프롬프트-비디오 생성을 진행합니다.\n---"
+    },
+    "pt": {
+      "content": "---\nUse uma imagem de storyboard como referência e diga explicitamente ao Seedance para tratá-la como o storyboard da sequência cinematográfica, usando o painel 01 como a primeira tomada.\n\nPrompt Seedance para gerar uma única sequência de 10 segundos que transicione suavemente por todos os 7 painéis do storyboard, com timestamps por tomada para controlar o ritmo (por exemplo, Shot 1: 0–1.4s … Shot 7: 8.4–10.0s).\n\nAdicione fortes restrições negativas para evitar sobreposições indesejadas: Absolutamente SEM quadros, bordas, tiras de filme, números, UI ou texto; ignore o layout de grade; renderize apenas tomadas em tela cheia e sem costura; ZERO TEXTO.\n\nReforce a continuidade repetindo as restrições de estilo no final do prompt (transições sem costura, movimento fluido, iluminação consistente, atmosfera tropical, SEM texto/grade/números).\n\nCrie primeiro a imagem do storyboard numerado de 7 painéis (grade limpa com 01–07) usando um modelo de imagem, depois use essa imagem como referência de storyboard do Seedance para a geração de vídeo a partir do prompt."
+    },
+    "zh": {
+      "content": "---\n使用分镜图像作为参考，并明确告知Seedance将其视为电影序列分镜图，使用面板01作为第一个镜头。\n\nPrompt Seedance生成一个单一的10秒序列，顺畅地过渡所有7个分镜面板，并使用每个镜头的时间戳来控制节奏（例如，镜头1：0–1.4秒 … 镜头7：8.4–10.0秒）。\n\n添加强烈的负面约束以防止不需要的叠加：绝对禁止框架、边框、胶片条、数字、UI或文本；忽略网格布局；仅渲染无缝全屏镜头；绝对无文本。\n\n通过在提示末尾重复样式约束来加强连续性（无缝过渡、流畅运动、一致的照明、热带氛围、无文本/网格/数字）。\n\n首先使用图像模型创建7面板编号的分镜图像（干净的网格，编号01–07），然后使用该图像作为Seedance分镜参考进行提示到视频的生成。\n---"
+    }
+  }
+}

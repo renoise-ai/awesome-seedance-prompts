@@ -1,0 +1,42 @@
+{
+  "id": "2075382323122680108",
+  "title": "BlenderとSeedanceを組み合わせて、Blender側で構図（カメラ/レイアウト）を作ってからSeedanceに渡し、構図をある程度コントロールする",
+  "content": "BlenderとSeedanceを組み合わせて、Blender側で構図（カメラ/レイアウト）を作ってからSeedanceに渡し、構図をある程度コントロールする  \nBlenderの動きを自動（クロちゃん）任せにせず、手動で調整してからSeedanceに使うとクオリティが上がる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075382150028005377/img/9Rc1o7vRue9uJ0d_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075382323122680108.mp4",
+  "sourceLink": "https://x.com/MiraMusic_AI/status/2075382323122680108",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "MiraMusic",
+    "link": "https://x.com/MiraMusic_AI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "BlenderとSeedanceを組み合わせて、Blender側で構図（カメラ/レイアウト）を作ってからSeedanceに渡し、構図をある程度コントロールする  \nBlenderの動きを自動（クロちゃん）任せにせず、手動で調整してからSeedanceに使うとクオリティが上がる",
+  "translations": {
+    "en": {
+      "content": "By combining Blender and Seedance, you can create the composition (camera/layout) in Blender and then pass it to Seedance to control the composition to some extent. Instead of relying on automatic movements in Blender (Kuro-chan), manually adjusting them before using Seedance improves the quality."
+    },
+    "es": {
+      "content": "Al combinar Blender y Seedance, primero crea la composición (cámara/diseño) en Blender y luego pásala a Seedance para controlar la composición hasta cierto punto.  \nEn lugar de confiar automáticamente en los movimientos de Blender (クロちゃん), ajusta manualmente antes de usarlo en Seedance para mejorar la calidad."
+    },
+    "fr": {
+      "content": "En combinant Blender et Seedance, créez la composition (caméra/mise en page) dans Blender avant de la transférer à Seedance, afin de contrôler la composition dans une certaine mesure.  \nAu lieu de se fier automatiquement aux mouvements de Blender (Kuro-chan), ajustez-les manuellement avant de les utiliser dans Seedance pour améliorer la qualité."
+    },
+    "ko": {
+      "content": "Blender와 Seedance를 결합하여, Blender 측에서 구도(카메라/레이아웃)를 만든 후 Seedance에 전달하여 구도를 어느 정도 컨트롤합니다.  \nBlender의 움직임을 자동(크로짱)에 맡기지 않고, 수동으로 조정한 후 Seedance에 사용하면 퀄리티가 향상됩니다."
+    },
+    "pt": {
+      "content": "Ao combinar Blender e Seedance, crie a composição (câmera/layout) no Blender antes de passar para o Seedance, permitindo um certo controle sobre a composição.  \nEm vez de deixar o movimento no Blender totalmente automático (como クロちゃん), ajuste manualmente antes de usar no Seedance para aumentar a qualidade."
+    },
+    "zh": {
+      "content": "将Blender与Seedance结合使用，在Blender中创建构图（相机/布局）后传递给Seedance，以一定程度上控制构图。  \n不要完全依赖Blender的自动运动（クロちゃん），而是在传递给Seedance之前手动调整，这样可以提高质量。"
+    }
+  }
+}

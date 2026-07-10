@@ -1,0 +1,43 @@
+{
+  "id": "2075232174622777539",
+  "title": "Use a storyboard → images → video workflow: generate multiple storyboard grid…",
+  "content": "Use a storyboard → images → video workflow: generate multiple storyboard grid options with GPT Image 2, hand-pick favorites, then assemble a final 3×3 grid before animating.  \nFeed all 9 storyboard images (the full 3×3 grid) to Seedance in a single generation to animate the grid as one sequence.  \nFor a fast, cheap animatic alternative, line up the 9 images in Slate and add narration to produce a full animatic in ~half a day for under $50.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075230907963973633/img/s8wjnv62y-bJeMuF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075232174622777539.mp4",
+  "sourceLink": "https://x.com/invideoOfficial/status/2075232174622777539",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "Invideo",
+    "link": "https://x.com/invideoOfficial"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard → images → video workflow: generate multiple storyboard grid options with GPT Image 2, hand-pick favorites, then assemble a final 3×3 grid before animating.  \nFeed all 9 storyboard images (the full 3×3 grid) to Seedance in a single generation to animate the grid as one sequence.  \nFor a fast, cheap animatic alternative, line up the 9 images in Slate and add narration to produce a full animatic in ~half a day for under $50.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de storyboard → imágenes → video: genera múltiples opciones de cuadrículas de storyboard con GPT Image 2, selecciona tus favoritas, luego ensambla una cuadrícula final de 3×3 antes de animar.  \nIntroduce las 9 imágenes del storyboard (la cuadrícula completa de 3×3) en Seedance en una sola generación para animar la cuadrícula como una secuencia.  \nPara una alternativa rápida y económica de animática, alinea las 9 imágenes en Slate y añade narración para producir una animática completa en aproximadamente medio día por menos de $50."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail storyboard → images → vidéo : générez plusieurs options de grille de storyboard avec GPT Image 2, sélectionnez vos préférées, puis assemblez une grille finale 3×3 avant d'animer.  \nFournissez les 9 images du storyboard (la grille complète 3×3) à Seedance en une seule génération pour animer la grille comme une séquence unique.  \nPour une alternative animatique rapide et économique, alignez les 9 images dans Slate et ajoutez une narration pour produire un animatique complet en environ une demi-journée pour moins de 50 $."
+    },
+    "ja": {
+      "content": "---\nストーリーボード → 画像 → ビデオのワークフローを使用します。GPT Image 2で複数のストーリーボードグリッドオプションを生成し、お気に入りを選んでから、アニメーション化する前に最終的な3×3グリッドを組み立てます。  \nすべての9つのストーリーボード画像（完全な3×3グリッド）をSeedanceに一度に投入し、グリッドを1つのシーケンスとしてアニメーション化します。  \n迅速で安価なアニマティックの代替として、Slateで9つの画像を並べ、ナレーションを追加して、約半日で50ドル未満で完全なアニマティックを制作します。  \n---"
+    },
+    "ko": {
+      "content": "---\n스토리보드 → 이미지 → 비디오 워크플로우를 사용하세요: GPT Image 2로 여러 스토리보드 그리드 옵션을 생성하고, 선호하는 것을 선택한 후 애니메이션 전에 최종 3×3 그리드를 조립합니다.  \n모든 9개의 스토리보드 이미지(전체 3×3 그리드)를 Seedance에 한 번의 생성으로 입력하여 그리드를 하나의 시퀀스로 애니메이션화합니다.  \n빠르고 저렴한 애니매틱 대안을 위해, 9개의 이미지를 Slate에 정렬하고 내레이션을 추가하여 약 반나절 만에 $50 이하로 완전한 애니매틱을 제작하세요.\n---"
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de storyboard → imagens → vídeo: gere múltiplas opções de grade de storyboard com o GPT Image 2, escolha suas favoritas, e então monte uma grade final 3×3 antes de animar.  \nAlimente todas as 9 imagens do storyboard (a grade completa 3×3) no Seedance em uma única geração para animar a grade como uma sequência.  \nPara uma alternativa rápida e barata de animatic, alinhe as 9 imagens no Slate e adicione narração para produzir um animatic completo em ~meio dia por menos de $50."
+    },
+    "zh": {
+      "content": "使用分镜 → 图像 → 视频的工作流程：使用GPT Image 2生成多个分镜网格选项，挑选出最喜欢的，然后在动画之前组装成最终的3×3网格。  \n将所有9个分镜图像（完整的3×3网格）一次性输入Seedance生成，将网格动画化为一个序列。  \n对于快速、廉价的动画替代方案，将9个图像排列在Slate中，并添加旁白，以在大约半天内以不到50美元的成本制作完整的动画。"
+    }
+  }
+}
