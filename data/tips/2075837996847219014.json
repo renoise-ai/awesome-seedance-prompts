@@ -1,0 +1,42 @@
+{
+  "id": "2075837996847219014",
+  "title": "Share your concept and a reference image, then use a custom GPT to generate a…",
+  "content": "Share your concept and a reference image, then use a custom GPT to generate a storyboard before writing Seedance 2.0 prompts.  \nConvert approved storyboards directly into Seedance 2.0 prompts to generate individual video clips.  \nGenerate multiple clips in Seedance 2.0 and edit them into both 16:9 and 9:16 versions for social platforms.  \nAfter editing, add captions, music, and a cover before publishing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075669431125229568/img/-iBUf4hUKzWnLzG6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075837996847219014.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2075837996847219014",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Share your concept and a reference image, then use a custom GPT to generate a storyboard before writing Seedance 2.0 prompts.  \nConvert approved storyboards directly into Seedance 2.0 prompts to generate individual video clips.  \nGenerate multiple clips in Seedance 2.0 and edit them into both 16:9 and 9:16 versions for social platforms.  \nAfter editing, add captions, music, and a cover before publishing.",
+  "translations": {
+    "es": {
+      "content": "Comparte tu concepto y una imagen de referencia, luego utiliza un GPT personalizado para generar un guion gráfico antes de escribir los prompts de Seedance 2.0.  \nConvierte los guiones gráficos aprobados directamente en prompts de Seedance 2.0 para generar clips de video individuales.  \nGenera múltiples clips en Seedance 2.0 y edítalos en versiones 16:9 y 9:16 para plataformas sociales.  \nDespués de editar, añade subtítulos, música y una portada antes de publicar."
+    },
+    "fr": {
+      "content": "Partagez votre concept et une image de référence, puis utilisez un GPT personnalisé pour générer un storyboard avant d'écrire les prompts Seedance 2.0.  \nConvertissez les storyboards approuvés directement en prompts Seedance 2.0 pour générer des clips vidéo individuels.  \nGénérez plusieurs clips dans Seedance 2.0 et éditez-les en versions 16:9 et 9:16 pour les plateformes sociales.  \nAprès l'édition, ajoutez des sous-titres, de la musique et une couverture avant de publier."
+    },
+    "ja": {
+      "content": "---\nコンセプトと参考画像を共有し、カスタムGPTを使用してストーリーボードを生成してから、Seedance 2.0のプロンプトを書く。  \n承認されたストーリーボードを直接Seedance 2.0のプロンプトに変換し、個々のビデオクリップを生成する。  \nSeedance 2.0で複数のクリップを生成し、ソーシャルプラットフォーム用に16:9と9:16の両方のバージョンに編集する。  \n編集後、キャプション、音楽、カバーを追加して公開する。  \n---"
+    },
+    "ko": {
+      "content": "---\n개념과 참고 이미지를 공유한 후, 맞춤형 GPT를 사용하여 스토리보드를 생성하고 Seedance 2.0 프롬프트를 작성하세요.  \n승인된 스토리보드를 Seedance 2.0 프롬프트로 직접 변환하여 개별 비디오 클립을 생성하세요.  \nSeedance 2.0에서 여러 클립을 생성하고 이를 16:9 및 9:16 버전으로 편집하여 소셜 플랫폼에 맞게 조정하세요.  \n편집 후, 캡션, 음악, 커버를 추가한 후 게시하세요.  \n---"
+    },
+    "pt": {
+      "content": "Compartilhe seu conceito e uma imagem de referência, depois use um GPT personalizado para gerar um storyboard antes de escrever prompts do Seedance 2.0.  \nConverta storyboards aprovados diretamente em prompts do Seedance 2.0 para gerar clipes de vídeo individuais.  \nGere múltiplos clipes no Seedance 2.0 e edite-os em versões 16:9 e 9:16 para plataformas sociais.  \nApós a edição, adicione legendas, música e uma capa antes de publicar."
+    },
+    "zh": {
+      "content": "分享您的概念和参考图像，然后使用自定义GPT生成分镜头脚本，再编写Seedance 2.0 prompts。  \n将批准的分镜头脚本直接转换为Seedance 2.0 prompts，以生成单个视频剪辑。  \n在Seedance 2.0中生成多个剪辑，并将其编辑成16:9和9:16版本，以适应社交平台。  \n编辑完成后，添加字幕、音乐和封面，然后发布。"
+    }
+  }
+}

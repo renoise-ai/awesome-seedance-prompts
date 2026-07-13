@@ -1,0 +1,44 @@
+{
+  "id": "2075522042422509774",
+  "title": "Senaryo ve karakter görünümünü Claude’a tarif edip Claude’dan hem görsel…",
+  "content": "Senaryo ve karakter görünümünü Claude’a tarif edip Claude’dan hem görsel promptlarını hem de video promptunu yazmasını iste; prompt yazma yükünü Claude’a bırak  \nClaude’un yazdığı promptlarla sahne görsellerini üret, ardından bu görseli Seedance’e referans olarak yükleyip video promptunu yapıştırarak videoyu üret  \nSeedance’i CapCut içinden direkt kullan; ayrı bir platforma gitmeden CapCut’ta üretim yap",
+  "language": "tr",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/AIMevzulari/status/2075522042422509774",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "Tech With Eray",
+    "link": "https://x.com/AIMevzulari"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Senaryo ve karakter görünümünü Claude’a tarif edip Claude’dan hem görsel promptlarını hem de video promptunu yazmasını iste; prompt yazma yükünü Claude’a bırak  \nClaude’un yazdığı promptlarla sahne görsellerini üret, ardından bu görseli Seedance’e referans olarak yükleyip video promptunu yapıştırarak videoyu üret  \nSeedance’i CapCut içinden direkt kullan; ayrı bir platforma gitmeden CapCut’ta üretim yap",
+  "translations": {
+    "en": {
+      "content": "Describe the scenario and character appearance to Claude and ask Claude to write both the visual prompts and the video prompt; leave the prompt writing task to Claude.  \nProduce scene visuals with the prompts written by Claude, then upload this visual as a reference to Seedance and paste the video prompt to produce the video.  \nUse Seedance directly within CapCut; produce in CapCut without going to a separate platform."
+    },
+    "es": {
+      "content": "---\nDescribe the scenario and character appearance to Claude and ask Claude to write both the visual prompts and the video prompt; leave the prompt writing task to Claude.  \nProduce scene visuals with the prompts written by Claude, then upload this visual to Seedance as a reference and paste the video prompt to produce the video.  \nUse Seedance directly within CapCut; produce in CapCut without going to a separate platform.  \n---"
+    },
+    "fr": {
+      "content": "Décris le scénario et l'apparence des personnages à Claude et demande-lui d'écrire à la fois les prompts visuels et le prompt vidéo ; laisse à Claude la charge de rédiger les prompts.  \nAvec les prompts écrits par Claude, génère les visuels de la scène, puis charge cette image dans Seedance comme référence et colle le prompt vidéo pour produire la vidéo.  \nUtilise Seedance directement depuis CapCut ; réalise la production dans CapCut sans passer par une autre plateforme."
+    },
+    "ja": {
+      "content": "---\nシナリオとキャラクターの外見をClaudeに説明し、Claudeにビジュアルプロンプトとビデオプロンプトの両方を書いてもらうように依頼する。プロンプト作成の負担をClaudeに任せる  \nClaudeが書いたプロンプトを使ってシーンのビジュアルを生成し、その後このビジュアルをSeedanceに参照としてアップロードし、ビデオプロンプトを貼り付けてビデオを生成する  \nSeedanceをCapCut内で直接使用し、別のプラットフォームに移動せずにCapCutで制作する  \n---"
+    },
+    "ko": {
+      "content": "---\n시나리오와 캐릭터 외형을 Claude에게 설명하고 Claude에게 시각적 프롬프트와 비디오 프롬프트를 작성하도록 요청하세요; 프롬프트 작성의 부담을 Claude에게 맡기세요  \nClaude가 작성한 프롬프트로 장면 이미지를 생성하고, 그런 다음 이 이미지를 Seedance에 참조로 업로드하고 비디오 프롬프트를 붙여넣어 비디오를 생성하세요  \nSeedance를 CapCut 내에서 직접 사용하세요; 별도의 플랫폼으로 이동하지 않고 CapCut에서 제작하세요  \n---"
+    },
+    "pt": {
+      "content": "Descreva o cenário e a aparência dos personagens para Claude e peça a Claude para escrever tanto os prompts visuais quanto o prompt de vídeo; deixe a carga de escrever os prompts para Claude  \nProduza as imagens da cena com os prompts que Claude escreveu, depois carregue essa imagem como referência no Seedance e cole o prompt de vídeo para produzir o vídeo  \nUse o Seedance diretamente dentro do CapCut; produza no CapCut sem ir para uma plataforma separada"
+    },
+    "zh": {
+      "content": "将场景和角色外观描述给Claude，并请求Claude编写视觉prompt和视频prompt；将prompt编写的任务交给Claude  \n使用Claude编写的prompt生成场景图像，然后将此图像作为参考上传到Seedance，并粘贴视频prompt以生成视频  \n直接在CapCut中使用Seedance；无需前往其他平台，在CapCut中进行制作"
+    }
+  }
+}

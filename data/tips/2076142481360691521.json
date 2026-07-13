@@ -1,0 +1,43 @@
+{
+  "id": "2076142481360691521",
+  "title": "Claude→MCPでBlenderのラフシーンを自動生成し、BlenderでラフモデリングしたモデルをそのままアニメーションしてからSeedance…",
+  "content": "Claude→MCPでBlenderのラフシーンを自動生成し、BlenderでラフモデリングしたモデルをそのままアニメーションしてからSeedance 2.0でAIレンダリングするワークフローを組む  \nBlenderのラフアニメーションをNano-BananaProでフォトリアル化してからSeedance 2.0に渡すと、AIレンダリング用の素材として使える  \nSeedanceに任せきりにせず、煙突の向きや航跡などの破綻が出やすい箇所は人がチェックして必要なら修正→再生成を往復して詰める",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076142101377814528/img/aEXjYsxeAo3U8jzk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076142481360691521.mp4",
+  "sourceLink": "https://x.com/sonicpower1970/status/2076142481360691521",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "🏝️Koji Matsunaga@VES(3642)",
+    "link": "https://x.com/sonicpower1970"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Claude→MCPでBlenderのラフシーンを自動生成し、BlenderでラフモデリングしたモデルをそのままアニメーションしてからSeedance 2.0でAIレンダリングするワークフローを組む  \nBlenderのラフアニメーションをNano-BananaProでフォトリアル化してからSeedance 2.0に渡すと、AIレンダリング用の素材として使える  \nSeedanceに任せきりにせず、煙突の向きや航跡などの破綻が出やすい箇所は人がチェックして必要なら修正→再生成を往復して詰める",
+  "translations": {
+    "en": {
+      "content": "---\nClaude→Create a workflow where rough scenes in Blender are automatically generated with MCP, animate the roughly modeled models in Blender, and then render them with AI using Seedance 2.0.  \nAfter photorealistically enhancing Blender's rough animation with Nano-BananaPro, pass it to Seedance 2.0 to use as material for AI rendering.  \nInstead of leaving everything to Seedance, check areas prone to errors like the direction of chimneys and wakes, and if necessary, make corrections and regenerate to refine the output.\n\n--- THREAD CONTINUATION ---\n[Thread 1] It's strange to have a wake in front of where it's going and the direction of the chimney is off, so leaving everything to AI results in many mistakes, making it tough for people to check. Well, it's a technical verification, so…💦\n\n[Thread 2] There are various oddities, but if people correct them after a few iterations with AI, those parts can be fixed. More than that, it's shocking that after giving instructions to Claude, this footage is produced in 30 minutes. To effectively use AI, whether in CG or reality, knowledge, experience, and a sense of the non-AI parts are important, I think."
+    },
+    "es": {
+      "content": "---\nClaude→Organizar un flujo de trabajo donde se genere automáticamente una escena preliminar en Blender con MCP, se modele de manera preliminar en Blender y luego se anime antes de realizar el renderizado con AI en Seedance 2.0.  \nSi se fotorealiza la animación preliminar de Blender con Nano-BananaPro antes de pasarla a Seedance 2.0, se puede utilizar como material para el renderizado con AI.  \nEn lugar de dejar todo en manos de Seedance, es importante que las personas revisen y corrijan, si es necesario, áreas propensas a errores como la orientación de las chimeneas o las estelas, y luego vuelvan a generar para perfeccionar el resultado.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Es extraño que haya una estela en el camino recorrido y que la orientación de las chimeneas esté mal, así que si se deja todo al AI, hay muchos errores, lo que hace que sea difícil para las personas verificar. Bueno, es una prueba técnica, así que…💦\n\n[Hilo 2] Hay varias cosas raras, pero si las personas corrigen y hacen algunos intercambios con el AI, se pueden arreglar. Más que eso, es impactante que al dar instrucciones a Claude al principio, se obtenga este video en 30 minutos. Para usar bien el AI, ya sea en CG o en lo real, es importante tener conocimientos, experiencia y sentido en las áreas que no son del AI."
+    },
+    "fr": {
+      "content": "---\nClaude→Créer un workflow où l'on génère automatiquement une scène préliminaire dans Blender via MCP, puis on anime directement le modèle modélisé grossièrement dans Blender avant de le rendre avec Seedance 2.0  \nEn photoréalisant l'animation préliminaire de Blender avec Nano-BananaPro avant de la transférer à Seedance 2.0, elle peut être utilisée comme matériau pour le rendu AI  \nAu lieu de tout laisser à Seedance, il est important que les humains vérifient et corrigent si nécessaire les éléments susceptibles de poser problème, comme l'orientation des cheminées ou les sillages, puis réitèrent le processus de génération\n\n--- CONTINUATION DU FIL ---\n[Fil 1] C'est étrange d'avoir une cheminée orientée de cette manière ou un sillage là où le bateau avance, donc laisser tout à l'AI entraîne beaucoup d'erreurs, ce qui rend la vérification humaine fastidieuse. Enfin, c'est pour une vérification technique…💦\n\n[Fil 2] Il y a plusieurs anomalies, mais avec quelques allers-retours entre l'AI et les corrections humaines, on peut les rectifier. Ce qui est plus frappant, c'est que Claude a pu générer cette vidéo en 30 minutes après avoir reçu les instructions initiales. Pour bien utiliser l'AI, que ce soit en CG ou en réel, il est crucial d'avoir des connaissances, de l'expérience et du sens dans les domaines non-IA."
+    },
+    "ko": {
+      "content": "---\nClaude→MCP에서 Blender의 러프 씬을 자동 생성하고, Blender에서 러프 모델링한 모델을 그대로 애니메이션한 후 Seedance 2.0에서 AI 렌더링하는 워크플로우를 구성  \nBlender의 러프 애니메이션을 Nano-BananaPro로 포토리얼화한 후 Seedance 2.0에 넘기면 AI 렌더링용 소재로 사용할 수 있다  \nSeedance에 전적으로 맡기지 않고, 굴뚝의 방향이나 항적 등 오류가 발생하기 쉬운 부분은 사람이 체크하고 필요하면 수정→재생성을 반복하여 다듬는다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 굴뚝의 방향이나 진행한 곳에 항적이 있는 것도 이상하고, AI에 전부 맡기면 여러 가지 실수가 생기므로 사람이 확인하는 것이 힘들 것 같다. 뭐, 기술 검증이니까…💦\n\n[Thread 2] 여러 가지 이상한 부분이 있지만 AI와 몇 번 더 왕복하거나 사람이 수정하면 그 부분은 고쳐진다. 그보다 Claude에게 처음에 지시해서 30분 만에 이 영상이 나오는 것이 충격적이다. AI를 잘 활용하기 위해서는 CG든 리얼이든, AI가 아닌 부분의 지식이나 경험, 센스 등이 중요하다고 생각한다.\n---"
+    },
+    "pt": {
+      "content": "---\nClaude→Montar um fluxo de trabalho que gera automaticamente cenas brutas no Blender usando o MCP, anima os modelos modelados de forma bruta no Blender e, em seguida, renderiza com IA no Seedance 2.0  \nAo fotorealizar a animação bruta do Blender com o Nano-BananaPro e depois passar para o Seedance 2.0, pode-se usar como material para renderização com IA  \nEm vez de deixar tudo para o Seedance, é importante que uma pessoa verifique e corrija, se necessário, áreas propensas a erros, como a direção das chaminés e as estelas, e então regerar para refinar o resultado\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] É estranho ter uma estela à frente do caminho e a direção das chaminés também, então deixar tudo para a IA pode resultar em vários erros, tornando a verificação humana essencial. Bem, é uma verificação técnica, então...💦\n\n[Thread 2] Existem várias partes estranhas, mas se a IA e as correções humanas fizerem algumas iterações, isso pode ser resolvido. Mais impressionante é que, ao dar instruções ao Claude no início, o vídeo é gerado em 30 minutos. Para usar bem a IA, seja em CG ou em algo real, é importante ter conhecimento, experiência e senso nas partes que não são feitas pela IA."
+    },
+    "zh": {
+      "content": "---\nClaude→在MCP中自动生成Blender的粗略场景，然后在Blender中对粗略建模的模型进行动画处理，再通过Seedance 2.0进行AI渲染的工作流程  \n将Blender的粗略动画通过Nano-BananaPro进行照片级真实化处理后传递给Seedance 2.0，可以作为AI渲染的素材  \n不要完全依赖Seedance，像烟囱的方向和航迹等容易出错的地方需要人工检查并在必要时进行修正→反复生成和调整\n\n--- THREAD CONTINUATION ---\n[Thread 1] 烟囱的方向以及前进后出现的航迹都很奇怪，完全依赖AI会出很多错误，所以人工检查会很麻烦。不过，毕竟是技术验证嘛…💦\n\n[Thread 2] 虽然有很多奇怪的地方，但通过AI和人工多次往返修正就能解决。更令人震惊的是，Claude在最初指示后30分钟就能生成这个影像。为了更好地利用AI，无论是CG还是现实，非AI部分的知识、经验和审美都很重要。"
+    }
+  }
+}

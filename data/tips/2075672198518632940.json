@@ -1,0 +1,43 @@
+{
+  "id": "2075672198518632940",
+  "title": "Point Seedance 2.0 (via Comfy MCP) at your existing ComfyUI workflows and…",
+  "content": "Point Seedance 2.0 (via Comfy MCP) at your existing ComfyUI workflows and explicitly direct each shot (e.g., close-up, turn, flip, screen change) instead of letting the agent improvise a pipeline.  \nFor consistent product ads from one Seedance generation, use a driving video made from a DepthAnything V3 depth pass blended with Canny edge lines to preserve fine details (e.g., tiny debossed logos) across generations.  \nIf unwanted outlines leak through your edge lines, apply a SAM3 mask over the screen area in the driving video to suppress the original sprite.  \nWith the screen masked, swap in a new on-screen sprite by providing one GPT-Image-2 reference still and adding a single line in the Seedance prompt describing the replacement.  \nTurn the full workflow into a reusable Claude skill so you can repeat the same consistent ad pipeline on future products.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075672094269128704/img/k0WCUSNa4MX3yerZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075672198518632940.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2075672198518632940",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Point Seedance 2.0 (via Comfy MCP) at your existing ComfyUI workflows and explicitly direct each shot (e.g., close-up, turn, flip, screen change) instead of letting the agent improvise a pipeline.  \nFor consistent product ads from one Seedance generation, use a driving video made from a DepthAnything V3 depth pass blended with Canny edge lines to preserve fine details (e.g., tiny debossed logos) across generations.  \nIf unwanted outlines leak through your edge lines, apply a SAM3 mask over the screen area in the driving video to suppress the original sprite.  \nWith the screen masked, swap in a new on-screen sprite by providing one GPT-Image-2 reference still and adding a single line in the Seedance prompt describing the replacement.  \nTurn the full workflow into a reusable Claude skill so you can repeat the same consistent ad pipeline on future products.",
+  "translations": {
+    "es": {
+      "content": "Apunta Seedance 2.0 (a través de Comfy MCP) a tus flujos de trabajo existentes de ComfyUI y dirige explícitamente cada toma (por ejemplo, close-up, turn, flip, cambio de pantalla) en lugar de dejar que el agente improvise una secuencia.  \nPara anuncios de productos consistentes de una generación de Seedance, utiliza un video de conducción hecho a partir de un pase de profundidad de DepthAnything V3 mezclado con líneas de borde Canny para preservar los detalles finos (por ejemplo, logotipos en relieve pequeños) a través de generaciones.  \nSi líneas no deseadas se filtran a través de tus líneas de borde, aplica una máscara SAM3 sobre el área de la pantalla en el video de conducción para suprimir el sprite original.  \nCon la pantalla enmascarada, intercambia un nuevo sprite en pantalla proporcionando una imagen de referencia GPT-Image-2 y agregando una sola línea en el prompt de Seedance describiendo el reemplazo.  \nConvierte todo el flujo de trabajo en una habilidad reutilizable de Claude para que puedas repetir la misma secuencia de anuncios consistentes en futuros productos.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Flujos de trabajo compartidos abajo 👇\nhttps://t.co/uZy2ncSOtf"
+    },
+    "fr": {
+      "content": "---\nDirigez Seedance 2.0 (via Comfy MCP) vers vos workflows ComfyUI existants et dirigez explicitement chaque prise de vue (par exemple, gros plan, rotation, retournement, changement d'écran) au lieu de laisser l'agent improviser un pipeline.  \nPour des publicités produits cohérentes à partir d'une génération Seedance, utilisez une vidéo de conduite réalisée à partir d'un passage de profondeur DepthAnything V3 mélangé avec des lignes de contour Canny pour préserver les détails fins (par exemple, de minuscules logos en relief) à travers les générations.  \nSi des contours indésirables traversent vos lignes de contour, appliquez un masque SAM3 sur la zone de l'écran dans la vidéo de conduite pour supprimer le sprite original.  \nAvec l'écran masqué, remplacez le sprite à l'écran par un nouveau en fournissant une image de référence GPT-Image-2 et en ajoutant une seule ligne dans le prompt Seedance décrivant le remplacement.  \nTransformez l'ensemble du workflow en une compétence Claude réutilisable afin de pouvoir répéter le même pipeline publicitaire cohérent sur de futurs produits.\n\n--- SUITE DU FIL ---\n[Fil 1] Workflows partagés ci-dessous 👇\nhttps://t.co/uZy2ncSOtf\n---"
+    },
+    "ja": {
+      "content": "---\nPoint Seedance 2.0（Comfy MCP経由）を既存のComfyUIワークフローに向け、エージェントがパイプラインを即興で作成するのではなく、各ショット（例：クローズアップ、ターン、フリップ、画面変更）を明示的に指示します。  \n一貫した製品広告をSeedance生成から得るには、DepthAnything V3の深度パスとCannyエッジラインをブレンドしたドライビングビデオを使用し、世代を超えて細かいディテール（例：小さなデボスロゴ）を保持します。  \nエッジラインを通じて不要なアウトラインが漏れる場合は、ドライビングビデオの画面領域にSAM3マスクを適用して元のスプライトを抑制します。  \n画面がマスクされた状態で、GPT-Image-2の参照スチルを1枚提供し、Seedanceプロンプトに交換を説明する1行を追加することで、新しいオンスクリーンスプライトを差し替えます。  \n完全なワークフローを再利用可能なClaudeスキルに変換し、将来の製品で同じ一貫した広告パイプラインを繰り返すことができます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 以下に共有されたワークフロー 👇\nhttps://t.co/uZy2ncSOtf\n---"
+    },
+    "ko": {
+      "content": "---\n기존 ComfyUI 워크플로우에 Seedance 2.0 (Comfy MCP 사용)을 적용하고, 에이전트가 파이프라인을 즉흥적으로 구성하는 대신 각 샷을 명확하게 지시하세요 (예: 클로즈업, 회전, 뒤집기, 화면 전환).  \n하나의 Seedance 생성에서 일관된 제품 광고를 위해, DepthAnything V3 깊이 패스를 Canny 엣지 라인과 혼합하여 세대 간에 세부 사항(예: 작은 음각 로고)을 보존하는 드라이빙 비디오를 사용하세요.  \n엣지 라인을 통해 원치 않는 윤곽선이 새어나올 경우, 드라이빙 비디오의 화면 영역에 SAM3 마스크를 적용하여 원래 스프라이트를 억제하세요.  \n화면이 마스킹된 상태에서, GPT-Image-2 참조 스틸 하나를 제공하고 Seedance 프롬프트에 교체를 설명하는 한 줄을 추가하여 새로운 화면 스프라이트로 교체하세요.  \n전체 워크플로우를 재사용 가능한 Claude 스킬로 전환하여 향후 제품에 동일한 일관된 광고 파이프라인을 반복할 수 있도록 하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 아래에 공유된 워크플로우 👇\nhttps://t.co/uZy2ncSOtf\n---"
+    },
+    "pt": {
+      "content": "---\nAponte o Seedance 2.0 (via Comfy MCP) para seus fluxos de trabalho ComfyUI existentes e direcione explicitamente cada tomada (por exemplo, close-up, turn, flip, screen change) em vez de deixar o agente improvisar um pipeline.  \nPara anúncios de produtos consistentes a partir de uma geração Seedance, use um vídeo de condução feito a partir de uma passagem de profundidade do DepthAnything V3 misturada com linhas de contorno Canny para preservar detalhes finos (por exemplo, logotipos em baixo relevo) entre gerações.  \nSe contornos indesejados vazarem através de suas linhas de contorno, aplique uma máscara SAM3 sobre a área da tela no vídeo de condução para suprimir o sprite original.  \nCom a tela mascarada, troque por um novo sprite na tela fornecendo uma imagem de referência GPT-Image-2 e adicionando uma única linha no prompt Seedance descrevendo a substituição.  \nTransforme todo o fluxo de trabalho em uma habilidade reutilizável do Claude para que você possa repetir o mesmo pipeline de anúncios consistente em produtos futuros.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] Fluxos de trabalho compartilhados abaixo 👇\nhttps://t.co/uZy2ncSOtf\n---"
+    },
+    "zh": {
+      "content": "---\n将Seedance 2.0（通过Comfy MCP）指向您现有的ComfyUI工作流程，并明确指导每个镜头（例如，特写、旋转、翻转、屏幕切换），而不是让代理即兴创作一个流程。  \n为了在一次Seedance生成中获得一致的产品广告，使用由DepthAnything V3深度通道与Canny边缘线混合而成的驱动视频，以在各代中保留细节（例如，微小的压印标志）。  \n如果不需要的轮廓线通过您的边缘线泄露，请在驱动视频的屏幕区域应用SAM3遮罩以抑制原始精灵。  \n在屏幕被遮罩后，通过提供一个GPT-Image-2参考静帧并在Seedance prompt中添加一行描述替换内容，替换新的屏幕精灵。  \n将完整的工作流程转化为可重复使用的Claude技能，以便您可以在未来的产品上重复相同的一致广告流程。\n\n--- 线程继续 ---\n[线程1] 下面分享的工作流程 👇\nhttps://t.co/uZy2ncSOtf\n---"
+    }
+  }
+}

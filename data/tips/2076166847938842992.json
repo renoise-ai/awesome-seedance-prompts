@@ -1,0 +1,41 @@
+{
+  "id": "2076166847938842992",
+  "title": "垫一张参考图作为图像提示，以保持人物一致性（主体写“与参考图为同一女孩”）",
+  "content": "垫一张参考图作为图像提示，以保持人物一致性（主体写“与参考图为同一女孩”）",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2076166818390228992/pu/img/9hUPz_RRAOK9TcF5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076166847938842992.mp4",
+  "sourceLink": "https://x.com/msjiaozhu/status/2076166847938842992",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "MapleShaw",
+    "link": "https://x.com/msjiaozhu"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "垫一张参考图作为图像提示，以保持人物一致性（主体写“与参考图为同一女孩”）",
+  "translations": {
+    "en": {
+      "content": "Place a reference image as an image prompt to maintain character consistency (main subject: \"the same girl as in the reference image\")."
+    },
+    "es": {
+      "content": "Coloca una imagen de referencia como prompt de imagen para mantener la consistencia del personaje (escribe \"the same girl as in the reference image\" para el sujeto)."
+    },
+    "fr": {
+      "content": "Placez une image de référence comme prompt d'image pour maintenir la cohérence du personnage (indiquez \"same girl as reference image\" pour le sujet)."
+    },
+    "ja": {
+      "content": "---\n垫一张参考図として使用し、人物の一貫性を保つ（主体に「与参考図为同一女孩」と記載）\n---"
+    },
+    "ko": {
+      "content": "참고 이미지를 이미지 프롬프트로 사용하여 인물의 일관성을 유지합니다 (주제는 \"참고 이미지와 동일한 소녀\"로 작성)."
+    },
+    "pt": {
+      "content": "Coloque uma imagem de referência como prompt de imagem para manter a consistência do personagem (escreva \"same girl as reference\" no sujeito)."
+    }
+  }
+}

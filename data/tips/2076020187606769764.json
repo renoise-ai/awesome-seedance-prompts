@@ -1,0 +1,44 @@
+{
+  "id": "2076020187606769764",
+  "title": "Upload your photo and select a weapon, then use Seedance 2.0 to generate a…",
+  "content": "Upload your photo and select a weapon, then use Seedance 2.0 to generate a 20‑second cyberpunk duel video with close‑ups, slow‑mo hits, and camera cuts that lock onto each strike.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076020108703440896/img/ipjLkbP7OiJUUSJa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076020187606769764.mp4",
+  "sourceLink": "https://x.com/Medeo_AI/status/2076020187606769764",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "Medeo_AI",
+    "link": "https://x.com/Medeo_AI"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Sci-Fi",
+    "Slow-Mo",
+    "VFX",
+    "Tutorial"
+  ],
+  "tips": "Upload your photo and select a weapon, then use Seedance 2.0 to generate a 20‑second cyberpunk duel video with close‑ups, slow‑mo hits, and camera cuts that lock onto each strike.",
+  "translations": {
+    "es": {
+      "content": "Sube tu foto y selecciona un arma, luego utiliza Seedance 2.0 para generar un video de duelo cyberpunk de 20 segundos con primeros planos, golpes en cámara lenta y cortes de cámara que se fijan en cada golpe."
+    },
+    "fr": {
+      "content": "Téléchargez votre photo et sélectionnez une arme, puis utilisez Seedance 2.0 pour générer une vidéo de duel cyberpunk de 20 secondes avec des gros plans, des ralentis sur les impacts et des coupes de caméra qui se verrouillent sur chaque coup."
+    },
+    "ja": {
+      "content": "写真をアップロードして武器を選択し、Seedance 2.0を使用して、クローズアップ、スローモーションのヒット、各ストライクにロックするカメラカットを含む20秒のサイバーパンク決闘ビデオを生成してください。"
+    },
+    "ko": {
+      "content": "사진을 업로드하고 무기를 선택한 후, Seedance 2.0을 사용하여 클로즈업, 슬로우 모션 타격, 각 타격에 고정되는 카메라 컷이 포함된 20초 사이버펑크 결투 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Carregue sua foto e selecione uma arma, depois use o Seedance 2.0 para gerar um vídeo de duelo cyberpunk de 20 segundos com close-ups, golpes em câmera lenta e cortes de câmera que focam em cada golpe."
+    },
+    "zh": {
+      "content": "上传您的照片并选择一件武器，然后使用 Seedance 2.0 生成一个20秒的赛博朋克决斗视频，包含特写镜头、慢动作击打和每次攻击时锁定的镜头切换。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2076112052276629635",
+  "title": "Generate a single storyboard frame in GPT Image 2.0, then upload/hand that…",
+  "content": "Generate a single storyboard frame in GPT Image 2.0, then upload/hand that image to Seedance 2.0 as a reference to build the full video from it.  \nWhen prompting Seedance 2.0, write the prompt as format first (e.g., style/shot specs), then your idea/content.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076024476953698304/img/dCAbd-8ldHV0n8gl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076112052276629635.mp4",
+  "sourceLink": "https://x.com/Neuron_404/status/2076112052276629635",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "Jimmy Neuron 💡",
+    "link": "https://x.com/Neuron_404"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a single storyboard frame in GPT Image 2.0, then upload/hand that image to Seedance 2.0 as a reference to build the full video from it.  \nWhen prompting Seedance 2.0, write the prompt as format first (e.g., style/shot specs), then your idea/content.",
+  "translations": {
+    "es": {
+      "content": "Genera un solo fotograma de storyboard en GPT Image 2.0, luego sube/entrega esa imagen a Seedance 2.0 como referencia para construir el video completo a partir de ella.  \nAl dar instrucciones a Seedance 2.0, escribe el prompt primero como formato (por ejemplo, especificaciones de estilo/toma), luego tu idea/contenido."
+    },
+    "fr": {
+      "content": "Générez une seule image de storyboard dans GPT Image 2.0, puis téléchargez/remettez cette image à Seedance 2.0 comme référence pour construire la vidéo complète à partir de celle-ci.  \nLors de la création d'un prompt pour Seedance 2.0, écrivez d'abord le format (par exemple, spécifications de style/prise de vue), puis votre idée/contenu."
+    },
+    "ja": {
+      "content": "---\nGPT Image 2.0で1つのストーリーボードフレームを生成し、その画像をSeedance 2.0にアップロード/手渡して、それを基に完全なビデオを構築します。  \nSeedance 2.0にプロンプトを入力する際は、まずフォーマット（例：スタイル/ショット仕様）を書き、その後にアイデア/コンテンツを記述してください。\n---"
+    },
+    "ko": {
+      "content": "---\nGPT Image 2.0에서 단일 스토리보드 프레임을 생성한 후, 그 이미지를 Seedance 2.0에 업로드/전달하여 전체 비디오를 구축하는 참고 자료로 사용하세요.  \nSeedance 2.0에 프롬프트를 작성할 때, 먼저 형식(예: 스타일/촬영 사양)을 작성한 후 아이디어/내용을 작성하세요.\n---"
+    },
+    "pt": {
+      "content": "Gere um único quadro de storyboard no GPT Image 2.0, depois faça o upload/entregue essa imagem ao Seedance 2.0 como referência para construir o vídeo completo a partir dela.  \nAo criar o prompt para o Seedance 2.0, escreva o prompt começando pelo formato (por exemplo, especificações de estilo/enquadramento), seguido da sua ideia/conteúdo."
+    },
+    "zh": {
+      "content": "在GPT Image 2.0中生成一个单独的故事板画面，然后将该图像上传/交给Seedance 2.0，作为构建完整视频的参考。  \n在提示Seedance 2.0时，先写格式（例如，风格/镜头规格），然后是你的想法/内容。"
+    }
+  }
+}

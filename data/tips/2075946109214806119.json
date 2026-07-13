@@ -1,0 +1,41 @@
+{
+  "id": "2075946109214806119",
+  "title": "Specify 9:16 aspect ratio in your Seedance prompt (e.g., 9:16ar) to generate…",
+  "content": "Specify 9:16 aspect ratio in your Seedance prompt (e.g., 9:16ar) to generate vertical portrait-format video.  \nAdd strict facial consistency / match face in the prompt to preserve the same identity across generations.  \nUse 8K Ultra-HD, hyper-realistic, sharp focus, and premium color grading keywords to push higher-detail, photorealistic output.  \nInclude lighting and style directives like soft editorial lighting and luxury fashion magazine style to control the overall look.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Naiknelofar788/status/2075946109214806119",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "simeon-sanai",
+    "link": "https://x.com/Naiknelofar788"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify 9:16 aspect ratio in your Seedance prompt (e.g., 9:16ar) to generate vertical portrait-format video.  \nAdd strict facial consistency / match face in the prompt to preserve the same identity across generations.  \nUse 8K Ultra-HD, hyper-realistic, sharp focus, and premium color grading keywords to push higher-detail, photorealistic output.  \nInclude lighting and style directives like soft editorial lighting and luxury fashion magazine style to control the overall look.",
+  "translations": {
+    "es": {
+      "content": "Especifica una relación de aspecto de 9:16 en tu prompt de Seedance (por ejemplo, 9:16ar) para generar video en formato vertical de retrato.  \nAñade consistencia facial estricta / coincidir rostro en el prompt para preservar la misma identidad a través de las generaciones.  \nUsa palabras clave como 8K Ultra-HD, hiperrealista, enfoque nítido y gradación de color premium para lograr una salida fotorealista de mayor detalle.  \nIncluye directrices de iluminación y estilo como iluminación editorial suave y estilo de revista de moda de lujo para controlar el aspecto general."
+    },
+    "fr": {
+      "content": "Spécifiez un format d'image 9:16 dans votre prompt Seedance (par exemple, 9:16ar) pour générer une vidéo au format portrait vertical.  \nAjoutez une cohérence faciale stricte / correspondance du visage dans le prompt pour préserver la même identité à travers les générations.  \nUtilisez des mots-clés tels que 8K Ultra-HD, hyper-réaliste, mise au point nette et étalonnage des couleurs premium pour obtenir un rendu photoréaliste de haute qualité.  \nIncluez des directives d'éclairage et de style comme un éclairage éditorial doux et un style de magazine de mode de luxe pour contrôler l'apparence générale."
+    },
+    "ja": {
+      "content": "Seedanceプロンプトで9:16アスペクト比（例：9:16ar）を指定して、縦型ポートレートフォーマットのビデオを生成します。  \nプロンプトに厳密な顔の一貫性/顔の一致を追加して、世代を超えて同じアイデンティティを保持します。  \n8K Ultra-HD、ハイパーリアリスティック、シャープフォーカス、プレミアムカラーグレーディングのキーワードを使用して、より高い詳細度のフォトリアリスティックな出力を目指します。  \nソフトなエディトリアルライティングやラグジュアリーファッションマガジンスタイルなどのライティングとスタイルの指示を含めて、全体の外観をコントロールします。"
+    },
+    "ko": {
+      "content": "Seedance 프롬프트에서 9:16 비율(예: 9:16ar)을 지정하여 세로 초상화 형식의 비디오를 생성하세요.  \n프롬프트에 엄격한 얼굴 일관성 / 얼굴 일치를 추가하여 세대 간 동일한 정체성을 유지하세요.  \n8K Ultra-HD, hyper-realistic, sharp focus, premium color grading 키워드를 사용하여 더 높은 디테일의 포토리얼리스틱 출력을 추구하세요.  \nsoft editorial lighting, luxury fashion magazine style과 같은 조명 및 스타일 지시를 포함하여 전체적인 외관을 제어하세요."
+    },
+    "pt": {
+      "content": "Especifique a proporção de aspecto 9:16 no seu prompt Seedance (por exemplo, 9:16ar) para gerar vídeo em formato vertical retrato.  \nAdicione consistência facial estrita / combinar rosto no prompt para preservar a mesma identidade em todas as gerações.  \nUse palavras-chave como 8K Ultra-HD, hiper-realista, foco nítido e gradação de cores premium para obter uma saída fotorealista de maior detalhe.  \nInclua diretrizes de iluminação e estilo, como iluminação editorial suave e estilo de revista de moda de luxo, para controlar o visual geral."
+    },
+    "zh": {
+      "content": "在您的Seedance prompt中指定9:16的纵横比（例如，9:16ar）以生成竖版格式的视频。  \n在prompt中添加严格的面部一致性/匹配面孔，以在生成过程中保持相同的身份。  \n使用8K Ultra-HD、超现实主义、清晰聚焦和高级色彩分级等关键词来提高细节和逼真度。  \n包括照明和风格指令，如柔和的编辑照明和奢华时尚杂志风格，以控制整体外观。"
+    }
+  }
+}

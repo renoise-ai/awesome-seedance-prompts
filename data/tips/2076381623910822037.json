@@ -1,0 +1,42 @@
+{
+  "id": "2076381623910822037",
+  "title": "Lock in the character first with a full description (face, hair, clothes…",
+  "content": "Lock in the character first with a full description (face, hair, clothes, posture, skin tone) and reuse it as the anchor for every shot to maintain consistency.  \nBuild the world as a separate reusable asset (e.g., ice temple, collapsing stone, cold blue light, drifting snow) and keep it consistent across scenes.  \nCreate a single reference frame that defines the visual language (color grade, lighting, mood) for the entire sequence.  \nUse image-to-video by feeding in the reference frame and keep the prompt motion-only (e.g., slow push, orbit) so the image controls subject/style while the prompt controls camera movement.  \nGenerate multiple variations and discard outputs that look overtly AI; keep only clips where the face stays stable and the environment reads as real.  \nEdit the final sequence outside Seedance (e.g., CapCut or Premiere) and choose music that matches the mood established by the visuals.  \nSave the character + reference frame as a template so each new scene starts from the same foundation for consistent multi-shot films.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076381561474125824/img/lRqEjTU7ORyZkTLL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076381623910822037.mp4",
+  "sourceLink": "https://x.com/NexlowX/status/2076381623910822037",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "Nexlow",
+    "link": "https://x.com/NexlowX"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Lock in the character first with a full description (face, hair, clothes, posture, skin tone) and reuse it as the anchor for every shot to maintain consistency.  \nBuild the world as a separate reusable asset (e.g., ice temple, collapsing stone, cold blue light, drifting snow) and keep it consistent across scenes.  \nCreate a single reference frame that defines the visual language (color grade, lighting, mood) for the entire sequence.  \nUse image-to-video by feeding in the reference frame and keep the prompt motion-only (e.g., slow push, orbit) so the image controls subject/style while the prompt controls camera movement.  \nGenerate multiple variations and discard outputs that look overtly AI; keep only clips where the face stays stable and the environment reads as real.  \nEdit the final sequence outside Seedance (e.g., CapCut or Premiere) and choose music that matches the mood established by the visuals.  \nSave the character + reference frame as a template so each new scene starts from the same foundation for consistent multi-shot films.",
+  "translations": {
+    "es": {
+      "content": "Primero, fija el personaje con una descripción completa (cara, cabello, ropa, postura, tono de piel) y reutilízala como ancla para cada toma para mantener la consistencia.  \nConstruye el mundo como un recurso reutilizable separado (por ejemplo, templo de hielo, piedra colapsando, luz azul fría, nieve flotante) y mantenlo consistente a lo largo de las escenas.  \nCrea un solo cuadro de referencia que defina el lenguaje visual (gradación de color, iluminación, ambiente) para toda la secuencia.  \nUsa imagen-a-video alimentando el cuadro de referencia y mantén el prompt solo de movimiento (por ejemplo, slow push, orbit) para que la imagen controle el sujeto/estilo mientras el prompt controla el movimiento de la cámara.  \nGenera múltiples variaciones y descarta salidas que parezcan excesivamente de IA; conserva solo los clips donde el rostro se mantenga estable y el entorno se perciba como real.  \nEdita la secuencia final fuera de Seedance (por ejemplo, CapCut o Premiere) y elige música que coincida con el ambiente establecido por los visuales.  \nGuarda el personaje + cuadro de referencia como una plantilla para que cada nueva escena comience desde la misma base para películas consistentes de múltiples tomas."
+    },
+    "fr": {
+      "content": "---\nVerrouillez d'abord le personnage avec une description complète (visage, cheveux, vêtements, posture, teint) et réutilisez-la comme ancre pour chaque prise afin de maintenir la cohérence.  \nConstruisez le monde comme un atout réutilisable séparé (par exemple, temple de glace, pierre en train de s'effondrer, lumière bleue froide, neige dérivante) et gardez-le cohérent à travers les scènes.  \nCréez un cadre de référence unique qui définit le langage visuel (étalonnage des couleurs, éclairage, ambiance) pour toute la séquence.  \nUtilisez l'image-à-vidéo en intégrant le cadre de référence et gardez le prompt uniquement pour le mouvement (par exemple, slow push, orbit) afin que l'image contrôle le sujet/style tandis que le prompt contrôle le mouvement de la caméra.  \nGénérez plusieurs variations et écartez les sorties qui semblent trop manifestement générées par l'IA ; ne conservez que les clips où le visage reste stable et où l'environnement semble réel.  \nMontez la séquence finale en dehors de Seedance (par exemple, CapCut ou Premiere) et choisissez une musique qui correspond à l'ambiance établie par les visuels.  \nEnregistrez le personnage + le cadre de référence comme modèle afin que chaque nouvelle scène commence à partir de la même base pour des films multi-plans cohérents.\n---"
+    },
+    "ja": {
+      "content": "---\nまず、キャラクターを完全に描写して固定します（顔、髪、服装、姿勢、肌の色）し、すべてのショットで一貫性を保つためのアンカーとして再利用します。  \n世界を別の再利用可能なアセットとして構築します（例：氷の神殿、崩れる石、冷たい青い光、漂う雪）し、シーン全体で一貫性を保ちます。  \n全体のシーケンスの視覚言語（カラ―グレード、照明、ムード）を定義する単一のリファレンスフレームを作成します。  \nリファレンスフレームを入力してimage-to-videoを使用し、プロンプトはモーションのみ（例：スロープッシュ、オービット）にして、画像が被写体/スタイルを制御し、プロンプトがカメラの動きを制御するようにします。  \n複数のバリエーションを生成し、明らかにAIっぽい出力を破棄し、顔が安定していて環境がリアルに見えるクリップのみを保持します。  \n最終シーケンスはSeedanceの外で編集し（例：CapCutやPremiere）、ビジュアルで確立されたムードに合った音楽を選びます。  \nキャラクター＋リファレンスフレームをテンプレートとして保存し、新しいシーンが常に同じ基盤から始まるようにして、一貫したマルチショットフィルムを作成します。\n---"
+    },
+    "ko": {
+      "content": "먼저 캐릭터를 얼굴, 머리, 옷, 자세, 피부 톤 등으로 완전히 묘사하여 고정하고, 일관성을 유지하기 위해 모든 샷의 앵커로 재사용하세요.  \n세계를 별도의 재사용 가능한 자산으로 구축하세요 (예: 얼음 사원, 무너지는 돌, 차가운 푸른 빛, 흩날리는 눈) 그리고 장면 전반에 걸쳐 일관성을 유지하세요.  \n전체 시퀀스를 위한 시각적 언어(색상 등급, 조명, 분위기)를 정의하는 단일 참조 프레임을 만드세요.  \n참조 프레임을 입력하여 이미지-비디오를 사용하고 프롬프트를 움직임 전용으로 유지하세요 (예: slow push, orbit) 그러면 이미지는 주제/스타일을 제어하고 프롬프트는 카메라 움직임을 제어합니다.  \n여러 변형을 생성하고 AI처럼 보이는 결과물을 버리세요; 얼굴이 안정적으로 유지되고 환경이 실제처럼 보이는 클립만 유지하세요.  \nSeedance 외부에서 최종 시퀀스를 편집하세요 (예: CapCut 또는 Premiere) 그리고 시각적으로 설정된 분위기에 맞는 음악을 선택하세요.  \n캐릭터 + 참조 프레임을 템플릿으로 저장하여 일관된 멀티 샷 영화 제작을 위해 각 새로운 장면이 동일한 기반에서 시작하도록 하세요."
+    },
+    "pt": {
+      "content": "Primeiro, defina o personagem com uma descrição completa (rosto, cabelo, roupas, postura, tom de pele) e reutilize-a como âncora para cada cena para manter a consistência.  \nConstrua o mundo como um ativo reutilizável separado (por exemplo, templo de gelo, pedra em colapso, luz azul fria, neve flutuante) e mantenha-o consistente em todas as cenas.  \nCrie um único quadro de referência que defina a linguagem visual (graduação de cor, iluminação, humor) para toda a sequência.  \nUse imagem-para-vídeo alimentando o quadro de referência e mantenha o prompt apenas com movimento (por exemplo, slow push, orbit) para que a imagem controle o sujeito/estilo enquanto o prompt controla o movimento da câmera.  \nGere múltiplas variações e descarte saídas que pareçam excessivamente de IA; mantenha apenas clipes onde o rosto permanece estável e o ambiente parece real.  \nEdite a sequência final fora do Seedance (por exemplo, CapCut ou Premiere) e escolha uma música que combine com o humor estabelecido pelos visuais.  \nSalve o personagem + quadro de referência como um modelo para que cada nova cena comece a partir da mesma base para filmes consistentes de múltiplos takes."
+    },
+    "zh": {
+      "content": "首先用完整的描述（面部、头发、衣服、姿势、肤色）锁定角色，并在每个镜头中重复使用它作为锚点以保持一致性。  \n将世界构建为一个单独的可重用资产（例如，冰庙、崩塌的石头、冷蓝色光、飘雪），并在场景中保持一致。  \n创建一个定义整个序列视觉语言（色彩分级、灯光、氛围）的单一参考帧。  \n通过输入参考帧使用图像到视频，并保持prompt仅限于运动（例如，慢推、环绕），这样图像控制主题/风格，而prompt控制相机运动。  \n生成多个变体，丢弃看起来明显是AI生成的输出；只保留面部保持稳定且环境看起来真实的片段。  \n在Seedance之外编辑最终序列（例如，CapCut或Premiere），选择与视觉效果所建立氛围相匹配的音乐。  \n将角色+参考帧保存为模板，以便每个新场景从相同的基础开始，以实现一致的多镜头影片。"
+    }
+  }
+}

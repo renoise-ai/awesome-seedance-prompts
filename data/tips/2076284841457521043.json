@@ -1,0 +1,42 @@
+{
+  "id": "2076284841457521043",
+  "title": "Seedream 5 Proでキャラクター設計を作ってからSeedance 2.0に渡す",
+  "content": "Seedream 5 Proでキャラクター設計を作ってからSeedance 2.0に渡す  \nBlenderでマネキンに約15秒のダンス（振付）を作成してモーションを用意する  \nBlenderで作った動き（モーション）とカメラをSeedance 2.0の参照として入力し、プロンプトで出しにくい動きをそのまま反映させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076284776420704256/img/j4RpLqBeWF7lKzXc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076284841457521043.mp4",
+  "sourceLink": "https://x.com/ryo05m/status/2076284841457521043",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "Ryo@AI動画×AIツール紹介",
+    "link": "https://x.com/ryo05m"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedream 5 Proでキャラクター設計を作ってからSeedance 2.0に渡す  \nBlenderでマネキンに約15秒のダンス（振付）を作成してモーションを用意する  \nBlenderで作った動き（モーション）とカメラをSeedance 2.0の参照として入力し、プロンプトで出しにくい動きをそのまま反映させる",
+  "translations": {
+    "en": {
+      "content": "Create character designs in Seedream 5 Pro and then transfer them to Seedance 2.0  \nCreate a dance (choreography) of about 15 seconds for a mannequin in Blender to prepare the motion  \nInput the motion and camera created in Blender as references in Seedance 2.0 to directly reflect movements that are difficult to generate with prompts"
+    },
+    "es": {
+      "content": "---\nCrear el diseño de personajes en Seedream 5 Pro y luego pasarlo a Seedance 2.0  \nCrear una coreografía de aproximadamente 15 segundos en Blender para preparar el movimiento del maniquí  \nIntroducir el movimiento y la cámara creados en Blender como referencia en Seedance 2.0, para reflejar directamente movimientos que son difíciles de generar con un prompt  \n---"
+    },
+    "fr": {
+      "content": "Créer un design de personnage avec Seedream 5 Pro, puis le transférer à Seedance 2.0  \nCréer une danse d'environ 15 secondes (chorégraphie) pour un mannequin dans Blender afin de préparer le mouvement  \nEntrer le mouvement (motion) et la caméra créés dans Blender comme référence dans Seedance 2.0, afin de refléter directement les mouvements difficiles à générer avec un prompt"
+    },
+    "ko": {
+      "content": "---\nSeedream 5 Pro에서 캐릭터 설계를 만든 후 Seedance 2.0에 전달  \nBlender에서 마네킹에 약 15초의 춤(안무)을 만들어 모션을 준비  \nBlender에서 만든 움직임(모션)과 카메라를 Seedance 2.0의 참조로 입력하여, 프로ンプ트로 표현하기 어려운 움직임을 그대로 반영  \n---"
+    },
+    "pt": {
+      "content": "Após criar o design de personagens no Seedream 5 Pro, passe para o Seedance 2.0  \nCrie uma dança de aproximadamente 15 segundos (coreografia) no Blender para preparar o movimento do manequim  \nInsira o movimento (motion) e a câmera criados no Blender como referência no Seedance 2.0, refletindo diretamente os movimentos difíceis de gerar apenas com o prompt"
+    },
+    "zh": {
+      "content": "在Seedream 5 Pro中创建角色设计后，将其传递给Seedance 2.0  \n在Blender中为模型制作约15秒的舞蹈（编舞）以准备动作  \n将Blender中制作的动作（运动）和摄像机输入到Seedance 2.0中作为参考，直接反映出难以通过prompt实现的动作"
+    }
+  }
+}

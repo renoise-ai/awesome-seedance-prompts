@@ -1,0 +1,42 @@
+{
+  "id": "2076230085691191489",
+  "title": "FigmaのシェーダーDitherで1フレーム目の画像をディザ加工してからSeedance 2.0でアニメーション化する",
+  "content": "FigmaのシェーダーDitherで1フレーム目の画像をディザ加工してからSeedance 2.0でアニメーション化する  \n生成後にPremiere Proのポスタリゼーション時間を使って6fpsに落とし、うごメモ風の雰囲気に寄せる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075570319541350400/img/hFAYdOb3VeWQcKFq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076230085691191489.mp4",
+  "sourceLink": "https://x.com/yuichirohonda_/status/2076230085691191489",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "ホンダ",
+    "link": "https://x.com/yuichirohonda_"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "FigmaのシェーダーDitherで1フレーム目の画像をディザ加工してからSeedance 2.0でアニメーション化する  \n生成後にPremiere Proのポスタリゼーション時間を使って6fpsに落とし、うごメモ風の雰囲気に寄せる",
+  "translations": {
+    "en": {
+      "content": "Using Figma's shader Dither to apply dithering to the first frame image, then animating it with Seedance 2.0.  \nAfter generation, use Premiere Pro's posterization time to reduce it to 6fps, giving it a Flipnote-style vibe.\n\n--- QUOTED TWEET ---\nI tried Figma's shader \"Dither\".  \nYou can easily process it without opening Photoshop. Convenient. https://t.co/vOUoATqT1B\n---"
+    },
+    "es": {
+      "content": "Después de aplicar el efecto de dithering al primer fotograma de la imagen con el shader Dither de Figma, se anima con Seedance 2.0.  \nLuego, se reduce a 6 fps utilizando la función de posterización de tiempo en Premiere Pro para lograr un estilo similar al de Flipnote.\n\n--- TWEET CITADO ---\nHe probado el shader \"Dither\" de Figma.  \nEs fácil de procesar sin tener que abrir Photoshop. Muy conveniente. https://t.co/vOUoATqT1B\n---"
+    },
+    "fr": {
+      "content": "Utiliser le shader Dither de Figma pour appliquer un effet de dither à la première image, puis l'animer avec Seedance 2.0.  \nAprès la génération, utiliser la fonction de postérisation temporelle de Premiere Pro pour réduire à 6 fps, afin de donner une ambiance similaire à un Flipnote.\n\n--- TWEET CITÉ ---\nJ'ai essayé le shader \"Dither\" de Figma.  \nOn peut facilement faire des modifications sans ouvrir Photoshop. Pratique. https://t.co/vOUoATqT1B\n---"
+    },
+    "ko": {
+      "content": "Figma의 셰이더 Dither로 첫 프레임의 이미지를 디더링한 후 Seedance 2.0으로 애니메이션화하기  \n생성 후 Premiere Pro의 포스터라이제이션 시간을 사용하여 6fps로 낮추고, 움직이는 메모장 스타일의 분위기로 조정하기\n\n--- 인용 트윗 ---\nFigma의 셰이더 \"Dither\"를 시도해봤습니다.\nPhotoshop을 열지 않고도 쉽게 가공할 수 있어 편리합니다. https://t.co/vOUoATqT1B\n---"
+    },
+    "pt": {
+      "content": "Após aplicar o efeito de dithering no primeiro frame da imagem usando o shader Dither do Figma, utilize o Seedance 2.0 para animar.  \nDepois da geração, use o efeito de posterização no Premiere Pro para reduzir para 6fps, criando uma atmosfera semelhante a um flipbook.\n\n--- TWEET CITADO ---\nExperimentei o shader \"Dither\" do Figma.  \nÉ fácil de processar sem precisar abrir o Photoshop. Muito prático. https://t.co/vOUoATqT1B\n---"
+    },
+    "zh": {
+      "content": "使用Figma的着色器Dither对第一帧图像进行抖动处理，然后在Seedance 2.0中进行动画化  \n生成后使用Premiere Pro的色调分离时间将其降至6fps，营造出类似涂鸦动画的氛围\n\n--- QUOTED TWEET ---\n试用了Figma的着色器“Dither”。  \n无需打开Photoshop即可轻松处理。非常方便。 https://t.co/vOUoATqT1B\n---"
+    }
+  }
+}

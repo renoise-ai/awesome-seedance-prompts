@@ -1,0 +1,42 @@
+{
+  "id": "2075595979902919010",
+  "title": "Create a consistent character first using GPT Image 2, then use that character…",
+  "content": "Create a consistent character first using GPT Image 2, then use that character as the visual basis for your Seedance 2.0 animation.  \nWrite a scene-by-scene story (break the 15 seconds into distinct scenes) and animate each scene with Seedance 2.0 to assemble a cinematic slice-of-life short.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075595356675383296/img/mjGEX7JbvJeLPeCi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075595979902919010.mp4",
+  "sourceLink": "https://x.com/eachlabs/status/2075595979902919010",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "each::labs",
+    "link": "https://x.com/eachlabs"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a consistent character first using GPT Image 2, then use that character as the visual basis for your Seedance 2.0 animation.  \nWrite a scene-by-scene story (break the 15 seconds into distinct scenes) and animate each scene with Seedance 2.0 to assemble a cinematic slice-of-life short.",
+  "translations": {
+    "es": {
+      "content": "Crea un personaje consistente primero usando GPT Image 2, luego usa ese personaje como la base visual para tu animación de Seedance 2.0.  \nEscribe una historia escena por escena (divide los 15 segundos en escenas distintas) y anima cada escena con Seedance 2.0 para ensamblar un cortometraje cinematográfico de la vida cotidiana."
+    },
+    "fr": {
+      "content": "Créez d'abord un personnage cohérent en utilisant GPT Image 2, puis utilisez ce personnage comme base visuelle pour votre animation Seedance 2.0.  \nÉcrivez une histoire scène par scène (divisez les 15 secondes en scènes distinctes) et animez chaque scène avec Seedance 2.0 pour assembler un court-métrage cinématographique de tranche de vie."
+    },
+    "ja": {
+      "content": "---\nまず、GPT Image 2を使用して一貫したキャラクターを作成し、そのキャラクターをSeedance 2.0アニメーションのビジュアルベースとして使用します。  \nシーンごとのストーリーを書き（15秒を異なるシーンに分ける）、各シーンをSeedance 2.0でアニメーション化して、シネマティックなスライス・オブ・ライフのショートを組み立てます。\n---"
+    },
+    "ko": {
+      "content": "먼저 GPT Image 2를 사용하여 일관된 캐릭터를 만들고, 그 캐릭터를 Seedance 2.0 애니메이션의 시각적 기반으로 사용하세요.  \n장면별로 이야기를 작성하고 (15초를 개별 장면으로 나누어) 각 장면을 Seedance 2.0으로 애니메이션화하여 시네마틱한 일상 단편을 완성하세요."
+    },
+    "pt": {
+      "content": "Crie um personagem consistente primeiro usando o GPT Image 2, depois use esse personagem como base visual para sua animação Seedance 2.0.  \nEscreva uma história cena por cena (divida os 15 segundos em cenas distintas) e anime cada cena com o Seedance 2.0 para montar um curta-metragem cinematográfico de slice-of-life."
+    },
+    "zh": {
+      "content": "首先使用GPT Image 2创建一个一致的角色，然后将该角色作为Seedance 2.0动画的视觉基础。  \n编写一个分场景的故事（将15秒分成不同的场景），并使用Seedance 2.0为每个场景制作动画，以组装一个电影化的生活切片短片。"
+    }
+  }
+}

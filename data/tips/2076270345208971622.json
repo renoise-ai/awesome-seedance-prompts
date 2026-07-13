@@ -1,0 +1,42 @@
+{
+  "id": "2076270345208971622",
+  "title": "Blenderで作った動画素材を参照動画としてSeedanceに渡し、動き（アクション）をコントロールする",
+  "content": "Blenderで作った動画素材を参照動画としてSeedanceに渡し、動き（アクション）をコントロールする  \n参照動画に「後退」など意図しない動きが入ると出力にも混ざるので、参照動画は欲しい動きだけに編集してから使う  \nカメラワークを参照動画に含めてSeedanceに参照させ、カメラ動作を誘導する  \nCodex×Blenderで動画素材を作成し、その動画素材＋キャラクター画像をSeedance 2.0に参照として入力して仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075726028719427584/img/1iIGSo0dvZk_AviJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076270345208971622.mp4",
+  "sourceLink": "https://x.com/boke_ai/status/2076270345208971622",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "絵空事テレビ / AIカワウソ",
+    "link": "https://x.com/boke_ai"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blenderで作った動画素材を参照動画としてSeedanceに渡し、動き（アクション）をコントロールする  \n参照動画に「後退」など意図しない動きが入ると出力にも混ざるので、参照動画は欲しい動きだけに編集してから使う  \nカメラワークを参照動画に含めてSeedanceに参照させ、カメラ動作を誘導する  \nCodex×Blenderで動画素材を作成し、その動画素材＋キャラクター画像をSeedance 2.0に参照として入力して仕上げる",
+  "translations": {
+    "en": {
+      "content": "---\nControl movement (action) by providing video materials created in Blender as reference videos to Seedance.  \nIf unintended movements like \"retreat\" are included in the reference video, they will also appear in the output, so edit the reference video to include only the desired movements before using it.  \nInclude camera work in the reference video and let Seedance refer to it to guide camera actions.  \nCreate video materials using Codex×Blender, and input those video materials along with character images into Seedance 2.0 as references to finish.\n\n--- QUOTED TWEET ---\nI tried making a parkour animation!!\n――――\nWow! It's so interesting!\n\n▼Production Flow\n① Create video materials with Codex×Blender\n② Use ① and character images as references in Seedance 2.0\n③ Complete✨\n\nRegarding ①, https://t.co/RVtKkDsUxG\n---"
+    },
+    "es": {
+      "content": "---\nPasar el material de video creado en Blender a Seedance como video de referencia para controlar el movimiento (acción)  \nSi el video de referencia contiene movimientos no deseados como \"retroceso\", estos se mezclarán en la salida, por lo que el video de referencia debe editarse para incluir solo los movimientos deseados antes de usarlo  \nIncluir el trabajo de cámara en el video de referencia para que Seedance lo use como referencia y guíe el movimiento de la cámara  \nCrear material de video con Codex×Blender, y luego ingresar ese material de video + imágenes de personajes como referencia en Seedance 2.0 para finalizar\n\n--- TWEET CITADO ---\n¡Intenté hacer una animación de parkour!\n――――\n¡Uhyooo! ¡Demasiado divertido!\n\n▼Flujo de producción\n① Crear material de video con Codex×Blender\n② Referenciar ① e imágenes de personajes en Seedance 2.0\n③ Completado✨\n\nSobre ①, https://t.co/RVtKkDsUxG\n---"
+    },
+    "fr": {
+      "content": "---\nFournir à Seedance des vidéos créées avec Blender comme vidéos de référence pour contrôler les mouvements (actions).  \nSi la vidéo de référence contient des mouvements non désirés comme un \"recul\", ceux-ci seront également présents dans le rendu final. Il est donc important d'éditer la vidéo de référence pour ne conserver que les mouvements souhaités avant de l'utiliser.  \nInclure le travail de caméra dans la vidéo de référence pour que Seedance puisse s'en inspirer et guider les mouvements de caméra.  \nCréer des vidéos avec Codex×Blender, puis utiliser ces vidéos et des images de personnages comme références dans Seedance 2.0 pour finaliser le projet.\n\n--- TWEET CITÉ ---\nJ'ai essayé de créer une animation de parkour !!\n――――\nWow ! C'est trop cool !\n\n▼ Processus de création\n① Créer des vidéos avec Codex×Blender\n② Utiliser ① et des images de personnages comme références dans Seedance 2.0\n③ Terminé ✨\n\nConcernant le point ①, https://t.co/RVtKkDsUxG\n---"
+    },
+    "ko": {
+      "content": "Blender로 만든 영상 자료를 참조 영상으로 Seedance에 전달하여 동작(액션)을 제어하기  \n참조 영상에 \"후퇴\" 등 의도하지 않은 동작이 포함되면 출력에도 섞이므로, 참조 영상은 원하는 동작만 남기고 편집한 후 사용하기  \n카메라 워크를 참조 영상에 포함시켜 Seedance에 참조하게 하여 카메라 동작을 유도하기  \nCodex×Blender로 영상 자료를 제작하고, 그 영상 자료＋캐릭터 이미지를 Seedance 2.0에 참조로 입력하여 완성하기\n\n--- 인용 트윗 ---\n파쿠르 애니메이션 만들어봤어!!\n――――\n우효오오오! 너무 재미있어!\n\n▼제작 흐름\n① Codex×Blender로 영상 자료를 제작\n② ①과 캐릭터 이미지를 Seedance 2.0에서 참조\n③ 완성✨\n\n①에 대해서는, https://t.co/RVtKkDsUxG"
+    },
+    "pt": {
+      "content": "Passar o material de vídeo criado no Blender como vídeo de referência para o Seedance e controlar o movimento (ação)  \nSe o vídeo de referência contiver movimentos indesejados, como \"recuar\", eles também aparecerão na saída, então edite o vídeo de referência para incluir apenas os movimentos desejados antes de usá-lo  \nInclua o trabalho de câmera no vídeo de referência para que o Seedance o utilize e guie o movimento da câmera  \nCrie material de vídeo com Codex×Blender e insira esse material de vídeo + imagens de personagens como referência no Seedance 2.0 para finalizar\n\n--- TWEET CITADO ---\nFiz uma animação de parkour!!\n――――\nUauuu! Isso é muito divertido!\n\n▼Fluxo de produção\n①Crie material de vídeo com Codex×Blender\n②Use ① e imagens de personagens como referência no Seedance 2.0\n③Concluído✨\n\nSobre o ①, https://t.co/RVtKkDsUxG"
+    },
+    "zh": {
+      "content": "将使用Blender制作的视频素材作为参考视频传递给Seedance，以控制动作（行动）。  \n如果参考视频中包含诸如“后退”等非预期动作，输出中也会混入这些动作，因此在使用前需将参考视频编辑为仅包含所需动作。  \n将摄像机操作包含在参考视频中，让Seedance参考以引导摄像机动作。  \n使用Codex×Blender制作视频素材，然后将该视频素材和角色图像作为参考输入到Seedance 2.0中进行最终处理。\n\n--- 引用推文 ---\n尝试制作跑酷动画！！\n――――\n哇哦！太有趣了！\n\n▼制作流程\n① 使用Codex×Blender制作视频素材\n② 将①和角色图像在Seedance2.0中参考\n③ 完成✨\n\n关于①，https://t.co/RVtKkDsUxG"
+    }
+  }
+}

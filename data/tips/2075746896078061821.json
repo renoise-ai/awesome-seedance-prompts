@@ -1,0 +1,43 @@
+{
+  "id": "2075746896078061821",
+  "title": "Use an image reference in Seedance 2.0 to change a character’s appearance…",
+  "content": "Use an image reference in Seedance 2.0 to change a character’s appearance (e.g., make the minotaur look like something else)\n\nAdd a music reference in Seedance 2.0 to guide the video’s vibe/timing to match the track",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075570977560469504/img/Zm1a-5-QyAlSuMCK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075746896078061821.mp4",
+  "sourceLink": "https://x.com/hoshiyomi_ai/status/2075746896078061821",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "Sakura",
+    "link": "https://x.com/hoshiyomi_ai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Use an image reference in Seedance 2.0 to change a character’s appearance (e.g., make the minotaur look like something else)\n\nAdd a music reference in Seedance 2.0 to guide the video’s vibe/timing to match the track",
+  "translations": {
+    "es": {
+      "content": "---\nUsa una referencia de imagen en Seedance 2.0 para cambiar la apariencia de un personaje (por ejemplo, hacer que el minotauro se parezca a otra cosa)\n\nAñade una referencia musical en Seedance 2.0 para guiar el ambiente/ritmo del video para que coincida con la pista\n---"
+    },
+    "fr": {
+      "content": "Utilisez une référence d'image dans Seedance 2.0 pour modifier l'apparence d'un personnage (par exemple, faire en sorte que le minotaure ressemble à autre chose)\n\nAjoutez une référence musicale dans Seedance 2.0 pour guider l'ambiance/le timing de la vidéo afin qu'ils correspondent à la piste"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で画像リファレンスを使用してキャラクターの外見を変更する（例：ミノタウルスを別のものに見せる）\n\nSeedance 2.0で音楽リファレンスを追加して、ビデオの雰囲気やタイミングをトラックに合わせる\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 이미지 참조를 사용하여 캐릭터의 외모를 변경하세요 (예: 미노타우르스를 다른 모습으로 만들기)\n\nSeedance 2.0에서 음악 참조를 추가하여 비디오의 분위기/타이밍이 트랙과 일치하도록 안내하세요"
+    },
+    "pt": {
+      "content": "Use uma referência de imagem no Seedance 2.0 para mudar a aparência de um personagem (por exemplo, fazer o minotauro parecer outra coisa)\n\nAdicione uma referência musical no Seedance 2.0 para guiar o clima/tempo do vídeo para combinar com a faixa"
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用图像参考来改变角色的外观（例如，让牛头怪看起来像其他东西）\n\n在Seedance 2.0中添加音乐参考，以指导视频的氛围/节奏与曲目匹配"
+    }
+  }
+}

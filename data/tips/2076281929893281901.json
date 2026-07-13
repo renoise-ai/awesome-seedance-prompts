@@ -1,0 +1,42 @@
+{
+  "id": "2076281929893281901",
+  "title": "Put dialogue in double quotes and keep each line to 5–10 words.",
+  "content": "Put dialogue in double quotes and keep each line to 5–10 words.  \nAvoid short cut sentences; write full, clear dialogue lines.  \nUse a locked camera or provide a clean camera/scene description to stabilize the shot.  \nSpecify the face angle as front-on or 3/4 for better speech shots.  \nSet audio mix directly in the prompt (e.g., dialogue clean, music low, ambient subtle).  \nPlace emotion + action cues right next to each dialogue line to guide performance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076278860732329985/img/UPjCBnFq54GYTB8T.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076281929893281901.mp4",
+  "sourceLink": "https://x.com/nestymee/status/2076281929893281901",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "Nadia Zueva",
+    "link": "https://x.com/nestymee"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Put dialogue in double quotes and keep each line to 5–10 words.  \nAvoid short cut sentences; write full, clear dialogue lines.  \nUse a locked camera or provide a clean camera/scene description to stabilize the shot.  \nSpecify the face angle as front-on or 3/4 for better speech shots.  \nSet audio mix directly in the prompt (e.g., dialogue clean, music low, ambient subtle).  \nPlace emotion + action cues right next to each dialogue line to guide performance.",
+  "translations": {
+    "es": {
+      "content": "Pon el diálogo entre comillas dobles y mantén cada línea entre 5 y 10 palabras.  \nEvita frases cortas; escribe líneas de diálogo completas y claras.  \nUsa una cámara fija o proporciona una descripción clara de la cámara/escena para estabilizar la toma.  \nEspecifica el ángulo del rostro como frontal o 3/4 para mejorar las tomas de discurso.  \nConfigura la mezcla de audio directamente en el prompt (e.g., diálogo limpio, música baja, ambiente sutil).  \nColoca las indicaciones de emoción + acción justo al lado de cada línea de diálogo para guiar la interpretación."
+    },
+    "fr": {
+      "content": "---\nMettez le dialogue entre guillemets et limitez chaque ligne à 5-10 mots.  \nÉvitez les phrases coupées ; écrivez des lignes de dialogue complètes et claires.  \nUtilisez une caméra fixe ou fournissez une description claire de la caméra/scène pour stabiliser le plan.  \nSpécifiez l'angle du visage comme de face ou 3/4 pour de meilleurs plans de discours.  \nRéglez le mixage audio directement dans le prompt (par exemple, dialogue clair, musique basse, ambiance subtile).  \nPlacez les indications d'émotion + action juste à côté de chaque ligne de dialogue pour guider la performance.\n---"
+    },
+    "ja": {
+      "content": "---\nセリフは二重引用符で囲み、各行を5～10語に収めてください。  \n短い切り詰めた文を避け、完全で明確なセリフを記述してください。  \n固定カメラを使用するか、安定したショットを得るためにクリーンなカメラ/シーンの説明を提供してください。  \n顔の角度を正面または3/4と指定して、より良いスピーチショットを得てください。  \nプロンプト内で直接オーディオミックスを設定してください（例：セリフはクリアに、音楽は低く、環境音は控えめに）。  \n感情＋アクションの指示を各セリフのすぐ隣に配置して、パフォーマンスをガイドしてください。  \n---"
+    },
+    "ko": {
+      "content": "---\n대사는 큰따옴표로 묶고 각 줄은 5-10 단어로 유지하세요.  \n짧은 문장을 피하고, 완전하고 명확한 대사로 작성하세요.  \n고정된 카메라를 사용하거나 깨끗한 카메라/장면 설명을 제공하여 촬영을 안정화하세요.  \n얼굴 각도를 정면 또는 3/4로 지정하여 더 나은 대사 장면을 만드세요.  \n오디오 믹스를 프롬프트에서 직접 설정하세요 (예: 대사는 깨끗하게, 음악은 낮게, 배경음은 은은하게).  \n감정 + 행동 지시를 각 대사 줄 바로 옆에 배치하여 연기를 안내하세요.\n---"
+    },
+    "pt": {
+      "content": "Coloque o diálogo entre aspas duplas e mantenha cada linha com 5–10 palavras.  \nEvite frases curtas; escreva linhas de diálogo completas e claras.  \nUse uma câmera fixa ou forneça uma descrição limpa da câmera/cena para estabilizar a filmagem.  \nEspecifique o ângulo do rosto como frontal ou 3/4 para melhores tomadas de fala.  \nDefina a mixagem de áudio diretamente no prompt (por exemplo, diálogo limpo, música baixa, ambiente sutil).  \nColoque dicas de emoção + ação logo ao lado de cada linha de diálogo para guiar a performance."
+    },
+    "zh": {
+      "content": "将对话放在双引号中，每行保持5-10个单词。  \n避免使用简短的句子；写出完整、清晰的对话行。  \n使用固定镜头或提供干净的镜头/场景描述以稳定画面。  \n指定面部角度为正面或3/4，以获得更好的语音镜头。  \n在prompt中直接设置音频混合（例如，对话清晰，音乐低，环境音微妙）。  \n将情感+动作提示放在每个对话行旁边以指导表演。"
+    }
+  }
+}

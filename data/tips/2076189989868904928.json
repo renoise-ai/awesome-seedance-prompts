@@ -1,0 +1,42 @@
+{
+  "id": "2076189989868904928",
+  "title": "Chain multi-scene videos by writing a separate prompt per scene, generating…",
+  "content": "Chain multi-scene videos by writing a separate prompt per scene, generating each clip independently, previewing each clip, then using Export MP4 to stitch all scenes into one file.\n\nChoose aspect ratio per project (16:9 or 9:16) before generating scenes to match your target platform.\n\nSet scene duration to 4, 6, or 8 seconds and generate clips one at a time (expect ~1–2 minutes per clip).\n\nPlan credit usage per scene based on duration (75 credits for 4s, 115 for 6s, 150 for 8s).\n\nIf you need to change scene order, delete and re-add scenes in the desired sequence (no timeline editor/reordering yet).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076187991694073856/img/vT0kXogmsA8t_yI5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076189989868904928.mp4",
+  "sourceLink": "https://x.com/Gigabee_/status/2076189989868904928",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "Gigabee AI",
+    "link": "https://x.com/Gigabee_"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Chain multi-scene videos by writing a separate prompt per scene, generating each clip independently, previewing each clip, then using Export MP4 to stitch all scenes into one file.\n\nChoose aspect ratio per project (16:9 or 9:16) before generating scenes to match your target platform.\n\nSet scene duration to 4, 6, or 8 seconds and generate clips one at a time (expect ~1–2 minutes per clip).\n\nPlan credit usage per scene based on duration (75 credits for 4s, 115 for 6s, 150 for 8s).\n\nIf you need to change scene order, delete and re-add scenes in the desired sequence (no timeline editor/reordering yet).",
+  "translations": {
+    "es": {
+      "content": "Encadena videos de múltiples escenas escribiendo un prompt separado por escena, generando cada clip de manera independiente, previsualizando cada clip, y luego usando Exportar MP4 para unir todas las escenas en un solo archivo.\n\nElige la relación de aspecto por proyecto (16:9 o 9:16) antes de generar escenas para que coincida con tu plataforma objetivo.\n\nEstablece la duración de la escena en 4, 6 u 8 segundos y genera clips uno a la vez (espera ~1–2 minutos por clip).\n\nPlanifica el uso de créditos por escena según la duración (75 créditos para 4s, 115 para 6s, 150 para 8s).\n\nSi necesitas cambiar el orden de las escenas, elimina y vuelve a añadir las escenas en la secuencia deseada (aún no hay editor de línea de tiempo/reordenamiento).\n\n--- TWEET CITADO ---\nEncadena clips de video de IA en una escena completa prompt por prompt.\n\nElige tu relación de aspecto, establece la duración, genera cada clip de manera independiente, prévisualízalo en vivo, luego presiona Exportar MP4 y descarga toda la secuencia unida en un solo archivo.\n\nSin editor de línea de tiempo. Sin cola de renderizado. Solo prompts → clips → un video.\n\nImpulsado por la red Gigabee. Funcionando en GPUs de colaboradores en todo el mundo.\n\n¡Próximamente! solana:7NcMKMrXPBVCWPcs9SSqnF6ZGy5neAtzTZpFqZqLquaP"
+    },
+    "fr": {
+      "content": "Enchaînez des vidéos multi-scènes en écrivant un prompt distinct par scène, en générant chaque clip indépendamment, en prévisualisant chaque clip, puis en utilisant Export MP4 pour assembler toutes les scènes en un seul fichier.\n\nChoisissez le format d'image par projet (16:9 ou 9:16) avant de générer les scènes pour correspondre à votre plateforme cible.\n\nDéfinissez la durée de la scène à 4, 6 ou 8 secondes et générez les clips un par un (prévoir environ 1 à 2 minutes par clip).\n\nPlanifiez l'utilisation des crédits par scène en fonction de la durée (75 crédits pour 4s, 115 pour 6s, 150 pour 8s).\n\nSi vous devez changer l'ordre des scènes, supprimez et réajoutez les scènes dans la séquence souhaitée (pas encore d'éditeur de timeline/réorganisation).\n\n--- TWEET CITÉ ---\nEnchaînez des clips vidéo AI en une scène complète prompt par prompt.\n\nChoisissez votre format d'image, définissez la durée, générez chaque clip indépendamment, prévisualisez-le en direct, puis cliquez sur Export MP4 et téléchargez toute la séquence assemblée en un seul fichier.\n\nPas d'éditeur de timeline. Pas de file d'attente de rendu. Juste des prompts → des clips → une vidéo.\n\nPropulsé par le réseau Gigabee. Fonctionne sur des GPU de contributeurs dans le monde entier.\n\nBientôt disponible ! solana:7NcMKMrXPBVCWPcs9SSqnF6ZGy5neAtzTZpFqZqLquaP"
+    },
+    "ja": {
+      "content": "シーンごとに別々のプロンプトを書いてマルチシーンビデオを連結し、それぞれのクリップを独立して生成し、プレビューした後、Export MP4を使用してすべてのシーンを1つのファイルにまとめます。\n\nターゲットプラットフォームに合わせて、シーンを生成する前にプロジェクトごとにアスペクト比（16:9または9:16）を選択します。\n\nシーンの長さを4、6、または8秒に設定し、クリップを1つずつ生成します（クリップごとに約1〜2分を想定）。\n\nシーンごとのクレジット使用量を長さに基づいて計画します（4秒で75クレジット、6秒で115、8秒で150）。\n\nシーンの順序を変更する必要がある場合は、希望の順序でシーンを削除して再追加します（タイムラインエディター/再注文はまだありません）。\n\n--- QUOTED TWEET ---\nChain AI video clips into a full scene prompt by prompt.\n\nPick your aspect ratio, set the duration, generate each clip independently, preview it live, then hit Export MP4 and download the whole sequence stitched into one file.\n\nNo timeline editor. No render queue. Just prompts → clips → one video.\n\nPowered by the Gigabee network. Running on contributor GPUs worldwide.\n\nComing soon ! solana:7NcMKMrXPBVCWPcs9SSqnF6ZGy5neAtzTZpFqZqLquaP\n---"
+    },
+    "ko": {
+      "content": "각 장면마다 별도의 프롬프트를 작성하여 다중 장면 비디오를 연결하고, 각 클립을 독립적으로 생성한 후 미리보기하고, Export MP4를 사용하여 모든 장면을 하나의 파일로 결합하세요.\n\n프로젝트마다 목표 플랫폼에 맞게 장면을 생성하기 전에 화면 비율(16:9 또는 9:16)을 선택하세요.\n\n장면의 지속 시간을 4, 6, 또는 8초로 설정하고, 한 번에 하나의 클립을 생성하세요 (클립당 약 1-2분 소요 예상).\n\n장면의 지속 시간에 따라 크레딧 사용량을 계획하세요 (4초에 75 크레딧, 6초에 115 크레딧, 8초에 150 크레딧).\n\n장면 순서를 변경해야 하는 경우, 원하는 순서로 장면을 삭제하고 다시 추가하세요 (아직 타임라인 편집기/재정렬 기능은 없음).\n\n--- QUOTED TWEET ---\nChain AI video clips into a full scene prompt by prompt.\n\nPick your aspect ratio, set the duration, generate each clip independently, preview it live, then hit Export MP4 and download the whole sequence stitched into one file.\n\nNo timeline editor. No render queue. Just prompts → clips → one video.\n\nPowered by the Gigabee network. Running on contributor GPUs worldwide.\n\nComing soon ! solana:7NcMKMrXPBVCWPcs9SSqnF6ZGy5neAtzTZpFqZqLquaP\n---"
+    },
+    "pt": {
+      "content": "Encadeie vídeos de várias cenas escrevendo um prompt separado por cena, gerando cada clipe de forma independente, visualizando cada clipe, e depois usando Exportar MP4 para unir todas as cenas em um único arquivo.\n\nEscolha a proporção de aspecto por projeto (16:9 ou 9:16) antes de gerar as cenas para corresponder à sua plataforma de destino.\n\nDefina a duração da cena para 4, 6 ou 8 segundos e gere clipes um de cada vez (espere ~1–2 minutos por clipe).\n\nPlaneje o uso de créditos por cena com base na duração (75 créditos para 4s, 115 para 6s, 150 para 8s).\n\nSe precisar mudar a ordem das cenas, exclua e adicione novamente as cenas na sequência desejada (ainda não há editor de linha do tempo/reordenação).\n\n--- TWEET CITADO ---\nEncadeie clipes de vídeo de IA em uma cena completa, prompt por prompt.\n\nEscolha sua proporção de aspecto, defina a duração, gere cada clipe de forma independente, visualize ao vivo, depois clique em Exportar MP4 e baixe toda a sequência unida em um único arquivo.\n\nSem editor de linha do tempo. Sem fila de renderização. Apenas prompts → clipes → um vídeo.\n\nDesenvolvido pela rede Gigabee. Rodando em GPUs de colaboradores em todo o mundo.\n\nEm breve! solana:7NcMKMrXPBVCWPcs9SSqnF6ZGy5neAtzTZpFqZqLquaP"
+    },
+    "zh": {
+      "content": "通过为每个场景编写单独的prompt来串联多场景视频，独立生成每个片段，预览每个片段，然后使用Export MP4将所有场景拼接成一个文件。\n\n在生成场景之前，根据目标平台选择每个项目的纵横比（16:9或9:16）。\n\n将场景时长设置为4、6或8秒，并一次生成一个片段（每个片段预计需要约1-2分钟）。\n\n根据时长计划每个场景的积分使用（4秒需75积分，6秒需115积分，8秒需150积分）。\n\n如果需要更改场景顺序，请删除并按所需顺序重新添加场景（目前尚无时间轴编辑器/重新排序功能）。\n\n--- 引用推文 ---\n通过prompt逐个将AI视频片段串联成完整场景。\n\n选择纵横比，设置时长，独立生成每个片段，实时预览，然后点击Export MP4并下载整个序列拼接成一个文件。\n\n没有时间轴编辑器。没有渲染队列。只有prompts → clips → 一个视频。\n\n由Gigabee网络提供支持。运行在全球贡献者的GPU上。\n\n即将推出！solana:7NcMKMrXPBVCWPcs9SSqnF6ZGy5neAtzTZpFqZqLquaP"
+    }
+  }
+}

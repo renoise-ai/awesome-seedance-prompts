@@ -1,0 +1,42 @@
+{
+  "id": "2076229454465302540",
+  "title": "8人登場のMVを作るときは、Seedance 2.0で8人分のリファレンス画像＋音楽参照を併用して人物制御を行う",
+  "content": "8人登場のMVを作るときは、Seedance 2.0で8人分のリファレンス画像＋音楽参照を併用して人物制御を行う  \n背景はDaz Studioで作った3D画像を用意し、その内容を詳細にプロンプト化してSeedanceに反映させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076220722012459008/img/MHG5oF7fMtsrrB7U.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076229454465302540.mp4",
+  "sourceLink": "https://x.com/CreativeEdge_CL/status/2076229454465302540",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "Creative.Edge CL+",
+    "link": "https://x.com/CreativeEdge_CL"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "8人登場のMVを作るときは、Seedance 2.0で8人分のリファレンス画像＋音楽参照を併用して人物制御を行う  \n背景はDaz Studioで作った3D画像を用意し、その内容を詳細にプロンプト化してSeedanceに反映させる",
+  "translations": {
+    "en": {
+      "content": "---\nWhen creating a music video featuring 8 people, use Seedance 2.0 with reference images for all 8 individuals plus music references to control the characters.  \nPrepare a 3D image of the background using Daz Studio, and convert its content into detailed prompts to apply in Seedance.\n---"
+    },
+    "es": {
+      "content": "---\nCuando crees un video musical con 8 personas, utiliza Seedance 2.0 con imágenes de referencia para las 8 personas más la referencia musical para controlar a los personajes.  \nPrepara una imagen 3D del fondo en Daz Studio y detalla su contenido en un prompt para reflejarlo en Seedance.\n---"
+    },
+    "fr": {
+      "content": "---\nLors de la création d'un clip vidéo avec 8 personnes, utilisez Seedance 2.0 avec des images de référence pour les 8 personnes + une référence musicale pour contrôler les personnages.  \nPréparez une image 3D de l'arrière-plan avec Daz Studio et détaillez son contenu dans un prompt pour l'intégrer dans Seedance.\n---"
+    },
+    "ko": {
+      "content": "---\n8인 등장 MV를 만들 때는, Seedance 2.0에서 8인분의 레퍼런스 이미지＋음악 참조를 병행하여 인물 제어를 수행합니다.  \n배경은 Daz Studio로 만든 3D 이미지를 준비하고, 그 내용을 상세히 프롬프트화하여 Seedance에 반영시킵니다.\n---"
+    },
+    "pt": {
+      "content": "---\nAo criar um MV com 8 pessoas, use o Seedance 2.0 com imagens de referência para as 8 pessoas + referência musical para controlar os personagens.  \nPrepare uma imagem 3D do fundo no Daz Studio e detalhe seu conteúdo em um prompt para refletir no Seedance.\n---"
+    },
+    "zh": {
+      "content": "---\n在制作8人登场的MV时，使用Seedance 2.0结合8个人的参考图像和音乐参考来进行人物控制  \n背景使用Daz Studio制作的3D图像，并将其内容详细地转化为prompt以反映在Seedance中\n---"
+    }
+  }
+}

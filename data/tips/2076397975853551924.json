@@ -1,0 +1,42 @@
+{
+  "id": "2076397975853551924",
+  "title": "Use an iPhone virtual camera (VirtuCamera 2) to drive camera movement in…",
+  "content": "Use an iPhone virtual camera (VirtuCamera 2) to drive camera movement in Blender, time it to dialog, then export that pre-viz with audio and use it as the video reference in Seedance 2 (optionally alongside two image references).  \nIn Blender, start the VirtuCamera server to display a QR code, scan it with the VirtuCamera 2 iPhone app to connect and record the camera move for your Seedance reference video.  \nFor consistent backgrounds across character closeups, keyframe one large wide shot containing both characters, then extract each character’s closeup from that same shot so Seedance keeps the background consistent while panning between them.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076397921298239488/img/Uj1nf3Urc4HaZuiY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076397975853551924.mp4",
+  "sourceLink": "https://x.com/CoffeeVectors/status/2076397975853551924",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "CoffeeVectors",
+    "link": "https://x.com/CoffeeVectors"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an iPhone virtual camera (VirtuCamera 2) to drive camera movement in Blender, time it to dialog, then export that pre-viz with audio and use it as the video reference in Seedance 2 (optionally alongside two image references).  \nIn Blender, start the VirtuCamera server to display a QR code, scan it with the VirtuCamera 2 iPhone app to connect and record the camera move for your Seedance reference video.  \nFor consistent backgrounds across character closeups, keyframe one large wide shot containing both characters, then extract each character’s closeup from that same shot so Seedance keeps the background consistent while panning between them.",
+  "translations": {
+    "es": {
+      "content": "---\nUsa una cámara virtual de iPhone (VirtuCamera 2) para dirigir el movimiento de la cámara en Blender, sincronízalo con el diálogo, luego exporta esa previsualización con audio y úsala como referencia de video en Seedance 2 (opcionalmente junto con dos referencias de imagen).  \nEn Blender, inicia el servidor de VirtuCamera para mostrar un código QR, escanéalo con la aplicación VirtuCamera 2 en el iPhone para conectar y grabar el movimiento de la cámara para tu video de referencia de Seedance.  \nPara mantener fondos consistentes en los primeros planos de los personajes, crea un fotograma clave de una toma amplia que contenga a ambos personajes, luego extrae el primer plano de cada personaje de esa misma toma para que Seedance mantenga el fondo consistente mientras hace un paneo entre ellos.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Los recursos y el prompt que usé en @runwayml Seedance 2. https://t.co/DwYQaXyY1Q\n\n[Hilo 2] Y para el fotograma clave hice una toma amplia con ambos personajes y luego extraje sus primeros planos. Ayuda a mantener el fondo consistente mientras la cámara hace un paneo entre los personajes. https://t.co/nD8q2YIdAb\n\n[Hilo 3] Usé Blender 5.1 y la aplicación VirtuCamera 2 en mi iPhone ($20). Descarga el complemento de Blender, inicia el servidor en Blender que muestra un código QR, escanéalo con la aplicación y ¡estás conectado!\n---"
+    },
+    "fr": {
+      "content": "---\nUtilisez une caméra virtuelle iPhone (VirtuCamera 2) pour piloter le mouvement de la caméra dans Blender, synchronisez-le avec le dialogue, puis exportez ce pré-viz avec audio et utilisez-le comme référence vidéo dans Seedance 2 (éventuellement avec deux références d'image).  \nDans Blender, démarrez le serveur VirtuCamera pour afficher un code QR, scannez-le avec l'application iPhone VirtuCamera 2 pour connecter et enregistrer le mouvement de la caméra pour votre vidéo de référence Seedance.  \nPour des arrière-plans cohérents lors des gros plans des personnages, créez une grande prise de vue large contenant les deux personnages, puis extrayez le gros plan de chaque personnage à partir de cette même prise de vue afin que Seedance garde l'arrière-plan cohérent lors du panoramique entre eux.\n\n--- SUITE DU FIL ---\n[Fil 1] Les ressources et le prompt que j'ai utilisés dans @runwayml Seedance 2. https://t.co/DwYQaXyY1Q\n\n[Fil 2] Et pour le keyframe, j'ai fait une grande prise de vue large avec les deux personnages puis extrait leurs gros plans. Cela aide à garder l'arrière-plan cohérent lorsque la caméra effectue un panoramique entre les personnages. https://t.co/nD8q2YIdAb\n\n[Fil 3] J'ai utilisé Blender 5.1 et l'application VirtuCamera 2 sur mon iPhone (20 $). Téléchargez l'add-on Blender, démarrez le serveur dans Blender qui affiche un code QR, scannez-le avec l'application et vous êtes connecté !\n---"
+    },
+    "ja": {
+      "content": "---\niPhoneのバーチャルカメラ（VirtuCamera 2）を使用してBlenderでカメラの動きを操作し、ダイアログに合わせてタイミングを取り、そのプレビズをオーディオ付きでエクスポートし、Seedance 2でビデオリファレンスとして使用します（オプションで2つの画像リファレンスと一緒に）。  \nBlenderでは、VirtuCameraサーバーを起動してQRコードを表示し、VirtuCamera 2 iPhoneアプリでスキャンして接続し、Seedanceリファレンスビデオ用にカメラの動きを記録します。  \nキャラクターのクローズアップで背景を一貫させるために、両方のキャラクターを含む大きなワイドショットをキーフレームに設定し、同じショットから各キャラクターのクローズアップを抽出します。これにより、Seedanceがキャラクター間をパンする際に背景を一貫して保つことができます。\n\n--- スレッドの続き ---\n[スレッド1] @runwayml Seedance 2で使用したアセットとプロンプト。https://t.co/DwYQaXyY1Q\n\n[スレッド2] キーフレーム用に両キャラクターを含む大きなワイドショットを作成し、そこからクローズアップを抽出しました。カメラがキャラクター間をパンする際に背景を一貫して保つのに役立ちます。https://t.co/nD8q2YIdAb\n\n[スレッド3] Blender 5.1とiPhone上のVirtuCamera 2アプリ（$20）を使用しました。Blenderアドオンをダウンロードし、Blenderでサーバーを起動するとQRコードが表示され、それをアプリでスキャンすると接続完了です！\n---"
+    },
+    "ko": {
+      "content": "---\niPhone 가상 카메라(VirtuCamera 2)를 사용하여 Blender에서 카메라 움직임을 조정하고, 대화에 맞춰 타이밍을 맞춘 후, 그 프리비즈를 오디오와 함께 내보내 Seedance 2에서 비디오 참조로 사용하세요(선택적으로 두 개의 이미지 참조와 함께).  \nBlender에서 VirtuCamera 서버를 시작하여 QR 코드를 표시하고, VirtuCamera 2 iPhone 앱으로 스캔하여 연결한 후 Seedance 참조 비디오를 위한 카메라 움직임을 기록하세요.  \n캐릭터 클로즈업 간의 배경을 일관되게 유지하려면, 두 캐릭터를 포함한 하나의 큰 와이드 샷을 키프레임으로 설정한 후, 같은 샷에서 각 캐릭터의 클로즈업을 추출하여 Seedance가 카메라가 캐릭터 간을 팬할 때 배경을 일관되게 유지하도록 하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @runwayml Seedance 2에서 사용한 에셋과 프롬프트. https://t.co/DwYQaXyY1Q\n\n[Thread 2] 그리고 키프레임을 위해 두 캐릭터가 포함된 하나의 큰 와이드 샷을 만들고 그들의 클로즈업을 추출했습니다. 카메라가 캐릭터 간을 팬할 때 배경을 일관되게 유지하는 데 도움이 됩니다. https://t.co/nD8q2YIdAb\n\n[Thread 3] Blender 5.1과 iPhone에서 VirtuCamera 2 앱($20)을 사용했습니다. Blender 애드온을 다운로드하고, Blender에서 서버를 시작하면 QR 코드가 표시되며, 앱으로 스캔하면 연결됩니다!\n---"
+    },
+    "pt": {
+      "content": "---\nUse uma câmera virtual do iPhone (VirtuCamera 2) para dirigir o movimento da câmera no Blender, sincronize com o diálogo, depois exporte essa pré-visualização com áudio e use como referência de vídeo no Seedance 2 (opcionalmente junto com duas referências de imagem).  \nNo Blender, inicie o servidor VirtuCamera para exibir um código QR, escaneie-o com o aplicativo VirtuCamera 2 no iPhone para conectar e gravar o movimento da câmera para o seu vídeo de referência do Seedance.  \nPara manter fundos consistentes em close-ups de personagens, crie um keyframe de uma grande tomada ampla contendo ambos os personagens, depois extraia o close-up de cada personagem dessa mesma tomada para que o Seedance mantenha o fundo consistente enquanto faz o pan entre eles.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Os assets e prompt que usei no @runwayml Seedance 2. https://t.co/DwYQaXyY1Q\n\n[Tópico 2] E para o keyframe, fiz uma grande tomada ampla com ambos os personagens e depois extraí seus close-ups. Ajuda a manter o fundo consistente enquanto a câmera faz o pan entre os personagens. https://t.co/nD8q2YIdAb\n\n[Tópico 3] Usei o Blender 5.1 e o aplicativo VirtuCamera 2 no meu iPhone (US$ 20). Baixe o add-on do Blender, inicie o servidor no Blender que mostra um código QR, escaneie com o aplicativo e você está conectado!\n---"
+    },
+    "zh": {
+      "content": "---\n使用iPhone虚拟相机（VirtuCamera 2）在Blender中驱动相机运动，配合对话的时间，然后导出带有音频的预览，并在Seedance 2中用作视频参考（可选地与两个图像参考一起使用）。  \n在Blender中，启动VirtuCamera服务器以显示二维码，用VirtuCamera 2 iPhone应用程序扫描以连接并记录相机移动，为您的Seedance参考视频做准备。  \n为了在角色特写镜头中保持一致的背景，关键帧一个包含两个角色的大广角镜头，然后从同一镜头中提取每个角色的特写，这样在Seedance中相机在角色之间平移时可以保持背景一致。\n\n--- 线程继续 ---\n[线程1] 我在@runwayml Seedance 2中使用的素材和prompt。https://t.co/DwYQaXyY1Q\n\n[线程2] 对于关键帧，我制作了一个包含两个角色的大广角镜头，然后提取了他们的特写。这有助于在相机在角色之间平移时保持背景一致。https://t.co/nD8q2YIdAb\n\n[线程3] 使用了Blender 5.1和我iPhone上的VirtuCamera 2应用程序（$20）。下载Blender插件，在Blender中启动服务器，显示二维码，用应用程序扫描即可连接！\n---"
+    }
+  }
+}

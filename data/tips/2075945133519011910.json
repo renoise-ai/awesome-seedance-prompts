@@ -1,0 +1,42 @@
+{
+  "id": "2075945133519011910",
+  "title": "Seedance 2.0で素材画像を使わずにText-to-Video生成にすると、F1レース中継風の動画を作れる",
+  "content": "Seedance 2.0で素材画像を使わずにText-to-Video生成にすると、F1レース中継風の動画を作れる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075942905123143680/img/CWDRg_VFdkUqEq51.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075945133519011910.mp4",
+  "sourceLink": "https://x.com/old_pgmrs_will/status/2075945133519011910",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "いにしえ@AI Director / Creator / Engineer｜Will Oldgram",
+    "link": "https://x.com/old_pgmrs_will"
+  },
+  "tags": [
+    "Auto",
+    "Racing",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase"
+  ],
+  "tips": "Seedance 2.0で素材画像を使わずにText-to-Video生成にすると、F1レース中継風の動画を作れる",
+  "translations": {
+    "en": {
+      "content": "By using Seedance 2.0 for Text-to-Video generation without source images, you can create a video in the style of an F1 race broadcast."
+    },
+    "es": {
+      "content": "Al utilizar Seedance 2.0 para la generación de texto a video sin imágenes de referencia, se puede crear un video al estilo de una transmisión de carrera de F1."
+    },
+    "fr": {
+      "content": "Avec Seedance 2.0, en générant des vidéos à partir de texte sans utiliser d'images sources, il est possible de créer une vidéo dans le style d'une retransmission de course de F1."
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 소재 이미지를 사용하지 않고 Text-to-Video 생성 기능을 사용하면, F1 레이스 중계 스타일의 영상을 만들 수 있습니다."
+    },
+    "pt": {
+      "content": "Ao usar o Seedance 2.0 para geração de Texto-para-Vídeo sem imagens de referência, é possível criar um vídeo no estilo de uma transmissão de corrida de F1."
+    },
+    "zh": {
+      "content": "在Seedance 2.0中使用Text-to-Video生成而不使用素材图片，可以制作出F1赛车直播风格的视频。"
+    }
+  }
+}

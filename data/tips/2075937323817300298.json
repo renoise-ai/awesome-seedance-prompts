@@ -1,0 +1,42 @@
+{
+  "id": "2075937323817300298",
+  "title": "TopviewのGPT Image 2.0でストーリーボードを作ってから、TopviewのSeedance…",
+  "content": "TopviewのGPT Image 2.0でストーリーボードを作ってから、TopviewのSeedance 2.0でそのストーリーボードを元に動画生成するワークフローを使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075935576327602176/img/DewM4_dc_7uMK4Gl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075937323817300298.mp4",
+  "sourceLink": "https://x.com/hashimura55/status/2075937323817300298",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "橋村政海@おかしなアート",
+    "link": "https://x.com/hashimura55"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "TopviewのGPT Image 2.0でストーリーボードを作ってから、TopviewのSeedance 2.0でそのストーリーボードを元に動画生成するワークフローを使う",
+  "translations": {
+    "en": {
+      "content": "Use the workflow of creating a storyboard with Topview's GPT Image 2.0, then generating a video based on that storyboard with Topview's Seedance 2.0."
+    },
+    "es": {
+      "content": "Utilizar el flujo de trabajo de crear un storyboard con GPT Image 2.0 de Topview y luego generar un video basado en ese storyboard con Seedance 2.0 de Topview."
+    },
+    "fr": {
+      "content": "Utiliser le flux de travail consistant à créer un storyboard avec GPT Image 2.0 de Topview, puis à générer une vidéo à partir de ce storyboard avec Seedance 2.0 de Topview."
+    },
+    "ko": {
+      "content": "Topview의 GPT Image 2.0으로 스토리보드를 만든 후, Topview의 Seedance 2.0을 사용하여 그 스토리보드를 기반으로 영상 생성하는 워크플로우를 사용하기"
+    },
+    "pt": {
+      "content": "Após criar um storyboard com o GPT Image 2.0 do Topview, utilize o Seedance 2.0 do Topview para gerar vídeos com base nesse storyboard."
+    },
+    "zh": {
+      "content": "使用Topview的GPT Image 2.0创建故事板后，再利用Topview的Seedance 2.0根据该故事板生成视频的工作流程。"
+    }
+  }
+}

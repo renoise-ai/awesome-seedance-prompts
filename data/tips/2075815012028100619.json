@@ -1,0 +1,41 @@
+{
+  "id": "2075815012028100619",
+  "title": "2枚の画像を添付して、プロンプトで「アイドル風で踊る」など動きの指示を入れて生成する",
+  "content": "2枚の画像を添付して、プロンプトで「アイドル風で踊る」など動きの指示を入れて生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2075814991421485056/pu/img/smv61ItqTE14AXcj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075815012028100619.mp4",
+  "sourceLink": "https://x.com/02Mituki12/status/2075815012028100619",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "Mariya@AI創作勉強中",
+    "link": "https://x.com/02Mituki12"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "2枚の画像を添付して、プロンプトで「アイドル風で踊る」など動きの指示を入れて生成する",
+  "translations": {
+    "en": {
+      "content": "Attach two images and include movement instructions in the prompt, such as \"dance in an idol style\", to generate."
+    },
+    "es": {
+      "content": "Adjunta dos imágenes y genera utilizando un prompt con instrucciones de movimiento como \"アイドル風で踊る\"."
+    },
+    "fr": {
+      "content": "---\nJoignez deux images et incluez des instructions de mouvement dans le prompt, telles que \"アイドル風で踊る\", pour générer le contenu."
+    },
+    "ko": {
+      "content": "2장의 이미지를 첨부하고, 프로ンプ트에서 \"アイドル風で踊る\" 등의 동작 지시를 입력하여 생성합니다."
+    },
+    "pt": {
+      "content": "Anexe duas imagens e insira instruções de movimento no prompt, como \"アイドル風で踊る\", para gerar."
+    },
+    "zh": {
+      "content": "附上两张图片，并在prompt中加入“アイドル风で踊る”等动作指示进行生成。"
+    }
+  }
+}

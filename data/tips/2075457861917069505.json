@@ -1,0 +1,42 @@
+{
+  "id": "2075457861917069505",
+  "title": "Seedance 2.0でシーンごとに音が切れる場合、bandit-v2で音声を声・効果音・BGMに分離してBGMを破棄し、Sunoで作ったBGMを全編に70%…",
+  "content": "Seedance 2.0でシーンごとに音が切れる場合、bandit-v2で音声を声・効果音・BGMに分離してBGMを破棄し、Sunoで作ったBGMを全編に70%音量で敷き直して欠点を補う\n効果音も残したい場合は、声とそれ以外しか分離できないMel-Band RoFormerではなくbandit-v2を使って声・効果音・BGMを個別に分離する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075457766341459968/img/cP6LX9u34OwGA6k3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075457861917069505.mp4",
+  "sourceLink": "https://x.com/PhotogenicWeekE/status/2075457861917069505",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "Photogenic Weekend",
+    "link": "https://x.com/PhotogenicWeekE"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0でシーンごとに音が切れる場合、bandit-v2で音声を声・効果音・BGMに分離してBGMを破棄し、Sunoで作ったBGMを全編に70%音量で敷き直して欠点を補う\n効果音も残したい場合は、声とそれ以外しか分離できないMel-Band RoFormerではなくbandit-v2を使って声・効果音・BGMを個別に分離する",
+  "translations": {
+    "en": {
+      "content": "If the sound cuts out scene by scene in Seedance 2.0, separate the audio into voice, sound effects, and BGM using bandit-v2, discard the BGM, and overlay the BGM created with Suno throughout the entire piece at 70% volume to compensate for shortcomings. If you also want to keep the sound effects, use bandit-v2 to individually separate voice, sound effects, and BGM, instead of Mel-Band RoFormer, which can only separate voice and everything else.\n\n--- THREAD CONTINUATION ---\n[Thread 1] The Mel-Band RoFormer used for lip-syncing in the previous MV could only separate voice and everything else, so the sound effects were lost and it was scrapped.\n\n[Thread 2] Is it necessary to compile this? (published on GitHub)"
+    },
+    "es": {
+      "content": "---\nSi en Seedance 2.0 el sonido se corta por escena, utiliza bandit-v2 para separar el audio en voz, efectos de sonido y BGM, descarta el BGM y reemplázalo con BGM creado en Suno a un 70% de volumen para cubrir las deficiencias.  \nSi también deseas conservar los efectos de sonido, utiliza bandit-v2 en lugar de Mel-Band RoFormer, que solo puede separar la voz y lo demás, para separar individualmente la voz, los efectos de sonido y el BGM.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El Mel-Band RoFormer utilizado para la sincronización labial en el MV anterior solo puede separar la voz y lo demás, por lo que los efectos de sonido se pierden y se descarta.\n\n[Hilo 2] ¿Es necesario compilar esto? (publicar en github)\n---"
+    },
+    "fr": {
+      "content": "---\nSi le son se coupe scène par scène dans Seedance 2.0, utilisez bandit-v2 pour séparer l'audio en voix, effets sonores et BGM, puis éliminez le BGM. Remplacez-le par le BGM créé avec Suno, appliqué à 70% de volume sur toute la séquence pour compenser les défauts. Si vous souhaitez conserver les effets sonores, utilisez bandit-v2 pour séparer individuellement la voix, les effets sonores et le BGM, plutôt que Mel-Band RoFormer qui ne peut séparer que la voix et le reste.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Le Mel-Band RoFormer utilisé pour la synchronisation labiale dans le MV précédent ne pouvait séparer que la voix et le reste, ce qui a entraîné la suppression des effets sonores.\n\n[Fil 2] Est-il nécessaire de rassembler cela ? (publication sur GitHub)\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 장면마다 소리가 끊기는 경우, bandit-v2를 사용하여 음성을 목소리, 효과음, BGM으로 분리하고 BGM을 제거한 후, Suno로 만든 BGM을 전체에 70% 볼륨으로 다시 깔아 결점을 보완합니다. 효과음도 남기고 싶다면, 목소리와 그 외의 것만 분리할 수 있는 Mel-Band RoFormer 대신 bandit-v2를 사용하여 목소리, 효과음, BGM을 개별적으로 분리합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이전 MV의 립싱크에 사용한 Mel-Band RoFormer는 목소리와 그 외의 것만 분리할 수 있어 효과음이 사라져서 보류되었습니다.\n\n[Thread 2] 이것을 정리한 것이 필요합니까? (github에 공개)\n---"
+    },
+    "pt": {
+      "content": "---\nSe o som cortar cena por cena no Seedance 2.0, use o bandit-v2 para separar o áudio em voz, efeitos sonoros e BGM, descarte o BGM e substitua-o por um BGM criado com o Suno, ajustando o volume para 70% ao longo de toda a faixa para compensar as falhas. Se você também quiser manter os efeitos sonoros, use o bandit-v2 em vez do Mel-Band RoFormer, que só consegue separar a voz do restante, para separar individualmente a voz, os efeitos sonoros e o BGM.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] O Mel-Band RoFormer usado para sincronização labial no MV anterior só consegue separar a voz do restante, então os efeitos sonoros foram perdidos e descartados.\n\n[Thread 2] É necessário compilar isso? (publicar no GitHub)\n---"
+    },
+    "zh": {
+      "content": "---\n如果在Seedance 2.0中每个场景的音频出现中断，可以使用bandit-v2将音频分离为声、效果音和BGM，然后丢弃BGM，并用Suno制作的BGM以70%的音量覆盖整个片段以弥补缺陷。如果想保留效果音，不要使用只能将声音与其他音频分离的Mel-Band RoFormer，而是使用bandit-v2将声音、效果音和BGM单独分离。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 前MV的唇同步使用的Mel-Band RoFormer只能分离声音和其他音频，导致效果音消失而被弃用。\n\n[Thread 2] 需要把这些总结吗？（在github上公开）\n---"
+    }
+  }
+}

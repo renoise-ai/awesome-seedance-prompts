@@ -1,0 +1,42 @@
+{
+  "id": "2076259572520829349",
+  "title": "Seedanceで作りたいシーン内容（例：魔導女王の戦闘シーンを作りたい）を入力し、AIからの追加質問に順番に回答していくことでベース映像を生成する",
+  "content": "Seedanceで作りたいシーン内容（例：魔導女王の戦闘シーンを作りたい）を入力し、AIからの追加質問に順番に回答していくことでベース映像を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075956004131680256/img/B53pooUklAS7kvPs.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2075956004131680256/vid/avc1/3840x2160/Vb9L2dQFj5fS9JF0.mp4",
+  "sourceLink": "https://x.com/tamayo888/status/2076259572520829349",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "Kus🌱",
+    "link": "https://x.com/tamayo888"
+  },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Seedanceで作りたいシーン内容（例：魔導女王の戦闘シーンを作りたい）を入力し、AIからの追加質問に順番に回答していくことでベース映像を生成する",
+  "translations": {
+    "en": {
+      "content": "Enter the scene content you want to create with Seedance (e.g., you want to create a battle scene of a sorceress queen), and by sequentially answering additional questions from the AI, you can generate the base footage."
+    },
+    "es": {
+      "content": "Introduce el contenido de la escena que deseas crear en Seedance (por ejemplo: quiero crear una escena de batalla de una reina mágica) y responde a las preguntas adicionales del AI en orden para generar el video base."
+    },
+    "fr": {
+      "content": "Entrez le contenu de la scène que vous souhaitez créer avec Seedance (par exemple : vous voulez créer une scène de combat de la reine sorcière) et répondez successivement aux questions supplémentaires de l'IA pour générer la vidéo de base."
+    },
+    "ko": {
+      "content": "Seedance에서 만들고 싶은 장면 내용(예: 마도 여왕의 전투 장면을 만들고 싶다)을 입력하고, AI의 추가 질문에 순차적으로 답변함으로써 기본 영상을 생성합니다."
+    },
+    "pt": {
+      "content": "Insira o conteúdo da cena que deseja criar no Seedance (por exemplo: quero criar uma cena de batalha da rainha mágica) e responda às perguntas adicionais da IA em sequência para gerar o vídeo base."
+    },
+    "zh": {
+      "content": "在Seedance中输入您想要创建的场景内容（例如：想要制作魔导女王的战斗场景），然后依次回答AI的附加问题，以生成基础视频。"
+    }
+  }
+}

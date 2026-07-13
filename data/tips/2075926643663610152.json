@@ -1,0 +1,42 @@
+{
+  "id": "2075926643663610152",
+  "title": "Add “shaky handheld camera” to your Seedance prompt to introduce natural camera…",
+  "content": "Add “shaky handheld camera” to your Seedance prompt to introduce natural camera shake for more realistic footage  \nAdd “slight digital artifacts” to your Seedance prompt to mimic real camera/compression imperfections and avoid an overly clean look  \nAdd “small focus misses” (subtle focus hunting/soft focus moments) to your Seedance prompt to make the video feel more alive and realistic",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075905200917827584/img/hkCQTauY0i-xBZdu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075926643663610152.mp4",
+  "sourceLink": "https://x.com/abyssallD/status/2075926643663610152",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "Abyssal",
+    "link": "https://x.com/abyssallD"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add “shaky handheld camera” to your Seedance prompt to introduce natural camera shake for more realistic footage  \nAdd “slight digital artifacts” to your Seedance prompt to mimic real camera/compression imperfections and avoid an overly clean look  \nAdd “small focus misses” (subtle focus hunting/soft focus moments) to your Seedance prompt to make the video feel more alive and realistic",
+  "translations": {
+    "es": {
+      "content": "Añade \"shaky handheld camera\" a tu prompt de Seedance para introducir movimiento de cámara natural y obtener un metraje más realista  \nAñade \"slight digital artifacts\" a tu prompt de Seedance para imitar las imperfecciones reales de la cámara/compresión y evitar un aspecto demasiado limpio  \nAñade \"small focus misses\" (momentos sutiles de búsqueda de enfoque/desenfoque suave) a tu prompt de Seedance para que el video se sienta más vivo y realista"
+    },
+    "fr": {
+      "content": "Ajoutez \"shaky handheld camera\" à votre prompt Seedance pour introduire un tremblement naturel de la caméra et obtenir des séquences plus réalistes  \nAjoutez \"slight digital artifacts\" à votre prompt Seedance pour imiter les imperfections réelles de la caméra/compression et éviter un aspect trop propre  \nAjoutez \"small focus misses\" (légers ratés de mise au point/moments de mise au point douce) à votre prompt Seedance pour donner à la vidéo une sensation plus vivante et réaliste"
+    },
+    "ja": {
+      "content": "---\nSeedanceプロンプトに「shaky handheld camera」を追加して、よりリアルな映像のために自然なカメラの揺れを導入しましょう  \nSeedanceプロンプトに「slight digital artifacts」を追加して、実際のカメラや圧縮の不完全さを模倣し、過度にクリーンな見た目を避けましょう  \nSeedanceプロンプトに「small focus misses」（微妙なフォーカスハンティング/ソフトフォーカスの瞬間）を追加して、ビデオをより生き生きとリアルに感じさせましょう  \n---"
+    },
+    "ko": {
+      "content": "Seedance 프롬프트에 \"shaky handheld camera\"를 추가하여 자연스러운 카메라 흔들림을 도입해 더 현실적인 영상을 만드세요.  \nSeedance 프롬프트에 \"slight digital artifacts\"를 추가하여 실제 카메라/압축의 불완전함을 모방하고 지나치게 깔끔한 모습을 피하세요.  \nSeedance 프롬프트에 \"small focus misses\" (미세한 초점 사냥/부드러운 초점 순간)를 추가하여 비디오가 더 생동감 있고 현실적으로 느껴지도록 하세요."
+    },
+    "pt": {
+      "content": "Adicione \"shaky handheld camera\" ao seu prompt Seedance para introduzir tremores naturais de câmera e obter uma filmagem mais realista  \nAdicione \"slight digital artifacts\" ao seu prompt Seedance para imitar imperfeições reais de câmera/compactação e evitar um visual excessivamente limpo  \nAdicione \"small focus misses\" (momentos sutis de busca de foco/desfoque suave) ao seu prompt Seedance para fazer o vídeo parecer mais vivo e realista"
+    },
+    "zh": {
+      "content": "在您的Seedance prompt中添加“shaky handheld camera”以引入自然的相机抖动，从而获得更逼真的画面效果  \n在您的Seedance prompt中添加“slight digital artifacts”以模拟真实相机/压缩缺陷，避免过于干净的外观  \n在您的Seedance prompt中添加“small focus misses”（微妙的对焦追踪/柔和对焦时刻），使视频更具生动和真实感"
+    }
+  }
+}

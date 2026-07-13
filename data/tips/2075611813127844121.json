@@ -1,0 +1,42 @@
+{
+  "id": "2075611813127844121",
+  "title": "Use a two-step pipeline for anime filmmaking: generate consistent anime frames…",
+  "content": "Use a two-step pipeline for anime filmmaking: generate consistent anime frames with Seedream 5.0 Pro, then animate them by dropping the image into Seedance 2.0 for motion.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2075611787064430594/pu/img/kg2JarKNrvwwaiBA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075611813127844121.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2075611813127844121",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a two-step pipeline for anime filmmaking: generate consistent anime frames with Seedream 5.0 Pro, then animate them by dropping the image into Seedance 2.0 for motion.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un proceso de dos pasos para la creación de películas de anime: genera fotogramas de anime consistentes con Seedream 5.0 Pro, luego anímalos introduciendo la imagen en Seedance 2.0 para el movimiento."
+    },
+    "fr": {
+      "content": "Utilisez un pipeline en deux étapes pour la réalisation de films d'animation : générez des images d'anime cohérentes avec Seedream 5.0 Pro, puis animez-les en déposant l'image dans Seedance 2.0 pour le mouvement."
+    },
+    "ja": {
+      "content": "アニメ映画制作には2ステップのパイプラインを使用します。まず、Seedream 5.0 Proで一貫したアニメフレームを生成し、その後、Seedance 2.0に画像をドロップして動きをつけてアニメーション化します。"
+    },
+    "ko": {
+      "content": "애니메이션 영화 제작을 위해 두 단계 파이프라인을 사용하세요: Seedream 5.0 Pro로 일관된 애니메이션 프레임을 생성한 후, Seedance 2.0에 이미지를 넣어 모션을 추가하여 애니메이션화합니다."
+    },
+    "pt": {
+      "content": "Use um pipeline de duas etapas para a criação de filmes de anime: gere quadros de anime consistentes com o Seedream 5.0 Pro, depois anime-os inserindo a imagem no Seedance 2.0 para movimento."
+    },
+    "zh": {
+      "content": "使用两步流程进行动漫电影制作：首先使用Seedream 5.0 Pro生成一致的动漫画面，然后将图像导入Seedance 2.0进行动画处理。"
+    }
+  }
+}

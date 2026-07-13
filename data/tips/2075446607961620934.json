@@ -1,0 +1,42 @@
+{
+  "id": "2075446607961620934",
+  "title": "Use a proper reference sheet to get Seedance to generate ponies consistently.",
+  "content": "Use a proper reference sheet to get Seedance to generate ponies consistently.  \nInclude a reference to hit show in the prompt to steer Seedance toward the desired pony style.  \nLet the model make more decisions by keeping the prompt/reference guidance minimal in this setup.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075446287311216640/img/Q_03sawCACViDUcb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075446607961620934.mp4",
+  "sourceLink": "https://x.com/flutterwhat/status/2075446607961620934",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "Flutterwhat",
+    "link": "https://x.com/flutterwhat"
+  },
+  "tags": [
+    "Animals",
+    "Creatures",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a proper reference sheet to get Seedance to generate ponies consistently.  \nInclude a reference to hit show in the prompt to steer Seedance toward the desired pony style.  \nLet the model make more decisions by keeping the prompt/reference guidance minimal in this setup.",
+  "translations": {
+    "es": {
+      "content": "Usa una hoja de referencia adecuada para que Seedance genere ponis de manera consistente.  \nIncluye una referencia al programa exitoso en el prompt para guiar a Seedance hacia el estilo de poni deseado.  \nDeja que el modelo tome más decisiones manteniendo la guía del prompt/referencia mínima en esta configuración."
+    },
+    "fr": {
+      "content": "Utilisez une feuille de référence appropriée pour que Seedance génère des poneys de manière cohérente.  \nIncluez une référence à une émission à succès dans le prompt pour orienter Seedance vers le style de poney souhaité.  \nLaissez le modèle prendre plus de décisions en gardant le prompt/la guidance de référence minimale dans cette configuration."
+    },
+    "ja": {
+      "content": "---\nSeedanceにポニーを一貫して生成させるために、適切なリファレンスシートを使用してください。  \nプロンプトに人気番組への言及を含めて、Seedanceが望むポニースタイルに向かうように誘導します。  \nこの設定では、プロンプト/リファレンスのガイダンスを最小限に抑えて、モデルにより多くの決定をさせましょう。\n---"
+    },
+    "ko": {
+      "content": "Seedance가 일관되게 포니를 생성할 수 있도록 적절한 참고 시트를 사용하세요.  \n원하는 포니 스타일로 Seedance를 유도하기 위해 인기 쇼에 대한 언급을 프롬프트에 포함하세요.  \n이 설정에서는 프롬프트/참고 지침을 최소화하여 모델이 더 많은 결정을 내리도록 하세요."
+    },
+    "pt": {
+      "content": "Use uma folha de referência adequada para fazer o Seedance gerar pôneis de forma consistente.  \nInclua uma referência ao programa de sucesso no prompt para direcionar o Seedance ao estilo de pônei desejado.  \nPermita que o modelo tome mais decisões mantendo o prompt/orientação de referência mínima nesta configuração."
+    },
+    "zh": {
+      "content": "使用合适的参考表来让Seedance稳定生成小马。  \n在prompt中加入热门节目的参考，以引导Seedance朝向所需的小马风格。  \n在这种设置中，通过保持prompt/参考指导的简洁，让模型做出更多决策。"
+    }
+  }
+}

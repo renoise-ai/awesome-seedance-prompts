@@ -1,0 +1,42 @@
+{
+  "id": "2075592109164495069",
+  "title": "白黒（モノクロ）表現はSeedance生成時に狙わず、生成後の後加工で適用する",
+  "content": "白黒（モノクロ）表現はSeedance生成時に狙わず、生成後の後加工で適用する  \nリファレンス撮影では照明の真下に被写体（バンド）を配置して構図を整えてからSeedanceに渡す  \nSeedanceが理解しにくい奏法（例：スラップベース）は避け、一般的な演奏表現に置き換えて生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075591097196392448/img/fOQA-A4G53CWH3_p.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075592109164495069.mp4",
+  "sourceLink": "https://x.com/JPAI_HEAVEN/status/2075592109164495069",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "AIギャル物語",
+    "link": "https://x.com/JPAI_HEAVEN"
+  },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "白黒（モノクロ）表現はSeedance生成時に狙わず、生成後の後加工で適用する  \nリファレンス撮影では照明の真下に被写体（バンド）を配置して構図を整えてからSeedanceに渡す  \nSeedanceが理解しにくい奏法（例：スラップベース）は避け、一般的な演奏表現に置き換えて生成する",
+  "translations": {
+    "en": {
+      "content": "Do not aim for black and white (monochrome) expression during Seedance generation; apply it as post-processing after generation.  \nIn reference shooting, place the subject (band) directly under the lighting and adjust the composition before passing it to Seedance.  \nAvoid playing techniques that are difficult for Seedance to understand (e.g., slap bass) and replace them with general performance expressions for generation.\n\n--- QUOTED TWEET ---\nI created this as a reference for a session video, but it yielded no results and only consumed a vast amount of credits, so I'm laying it to rest. Namaste 🥲 https://t.co/0go3ALfhfp"
+    },
+    "es": {
+      "content": "---\nNo busques la expresión en blanco y negro (monocromo) al generar con Seedance; aplícala como post-procesamiento después de la generación.  \nEn la fotografía de referencia, coloca al sujeto (banda) directamente bajo la iluminación y ajusta la composición antes de pasarla a Seedance.  \nEvita técnicas de interpretación que Seedance pueda no entender fácilmente (por ejemplo: slap bass) y sustitúyelas por expresiones de interpretación más comunes para la generación.\n\n--- TWEET CITADO ---\nLo hice como referencia para un video de sesión, pero no obtuve ningún resultado y solo derroché una enorme cantidad de créditos, así que lo comparto para que descanse en paz. ﾅﾑｰ🥲 https://t.co/0go3ALfhfp\n---"
+    },
+    "fr": {
+      "content": "---\nL'expression en noir et blanc (monochrome) ne doit pas être ciblée lors de la génération avec Seedance, mais appliquée en post-traitement après la génération.  \nLors de la prise de vue de référence, placez le sujet (le groupe) directement sous l'éclairage et ajustez la composition avant de le transmettre à Seedance.  \nÉvitez les techniques de jeu difficiles à comprendre pour Seedance (par exemple : slap bass) et remplacez-les par des expressions musicales plus générales lors de la génération.\n\n--- TWEET CITÉ ---\nJ'ai créé ceci comme référence pour une vidéo de session, mais je n'ai obtenu aucun résultat et j'ai seulement gaspillé un énorme crédit, donc je le partage pour la postérité. ﾅﾑｰ🥲 https://t.co/0go3ALfhfp\n---"
+    },
+    "ko": {
+      "content": "---\n흑백(모노크롬) 표현은 Seedance 생성 시에 목표로 하지 않고, 생성 후 후처리로 적용한다.  \n참조 촬영에서는 조명 아래에 피사체(밴드)를 배치하여 구도를 정리한 후 Seedance에 전달한다.  \nSeedance가 이해하기 어려운 연주법(예: 슬랩 베이스)은 피하고, 일반적인 연주 표현으로 대체하여 생성한다.\n\n--- 인용 트윗 ---\n세션 영상의 참조로 만들었지만, 아무 성과도 얻지 못하고 방대한 크레딧만 소모했기에 기념으로 올립니다. ﾅﾑｰ🥲 https://t.co/0go3ALfhfp\n---"
+    },
+    "pt": {
+      "content": "---\nA expressão em preto e branco (monocromática) não deve ser visada durante a geração no Seedance, mas aplicada como pós-processamento  \nNa filmagem de referência, posicione o sujeito (banda) diretamente sob a iluminação e ajuste a composição antes de passar para o Seedance  \nEvite técnicas de execução que o Seedance possa ter dificuldade em entender (ex.: slap bass) e substitua por expressões de performance mais comuns para a geração\n\n--- TWEET CITADO ---\nFiz isso como referência para um vídeo de sessão, mas não obtive nenhum resultado e apenas gastei muitos créditos, então estou compartilhando. 🙏🥲 https://t.co/0go3ALfhfp\n---"
+    },
+    "zh": {
+      "content": "---\n在Seedance生成时不要刻意追求黑白（单色）表现，而是在生成后进行后期处理  \n在参考拍摄中，将主体（乐队）放置在灯光正下方，调整构图后再传递给Seedance  \n避免Seedance难以理解的演奏方法（例如：Slap Bass），用一般的演奏表现替代进行生成\n\n--- 引用推文 ---\n虽然作为会话视频的参考制作了，但没有取得任何成果，只是消耗了大量的积分，所以供养一下。ﾅﾑｰ🥲 https://t.co/0go3ALfhfp\n---"
+    }
+  }
+}

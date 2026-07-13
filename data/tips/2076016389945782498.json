@@ -1,0 +1,45 @@
+{
+  "id": "2076016389945782498",
+  "title": "استخدم Seedance 2 mini لتوليد فيديو 360° دوّار لمنتج (مثل تيشيرت) اعتماداً على…",
+  "content": "استخدم Seedance 2 mini لتوليد فيديو 360° دوّار لمنتج (مثل تيشيرت) اعتماداً على صورتين فقط (أمامية وخلفية) مع أسلوب Ghost Mannequin  \nحلّل صور المنتج بـ GPT-4.1 لاستخراج الألوان والخطوط والتفاصيل ثم حوّلها إلى Master Specification مهيكلة قبل توليد الفيديو لضمان ثبات التفاصيل والقياسات عبر اللقطات  \nابنِ Workflow على n8n يستقبل الصور عبر بوت تيليجرام مع اختيار نوع الجسم، ثم يشغّل التحليل (GPT-4.1) → إنشاء Master Specification → توليد الفيديو (Seedance 2 mini) → إرسال الفيديو النهائي تلقائياً على تيليجرام",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076016322849153024/img/msk3wMXJ2jY1t9La.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076016389945782498.mp4",
+  "sourceLink": "https://x.com/AliAlkhuzaee_/status/2076016389945782498",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "Ali Murad",
+    "link": "https://x.com/AliAlkhuzaee_"
+  },
+  "tags": [
+    "Product Ad",
+    "Beauty",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "استخدم Seedance 2 mini لتوليد فيديو 360° دوّار لمنتج (مثل تيشيرت) اعتماداً على صورتين فقط (أمامية وخلفية) مع أسلوب Ghost Mannequin  \nحلّل صور المنتج بـ GPT-4.1 لاستخراج الألوان والخطوط والتفاصيل ثم حوّلها إلى Master Specification مهيكلة قبل توليد الفيديو لضمان ثبات التفاصيل والقياسات عبر اللقطات  \nابنِ Workflow على n8n يستقبل الصور عبر بوت تيليجرام مع اختيار نوع الجسم، ثم يشغّل التحليل (GPT-4.1) → إنشاء Master Specification → توليد الفيديو (Seedance 2 mini) → إرسال الفيديو النهائي تلقائياً على تيليجرام",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2 mini to generate a 360° rotating video of a product (such as a T-shirt) based on only two images (front and back) with a Ghost Mannequin style.  \nAnalyze the product images with GPT-4.1 to extract colors, lines, and details, then convert them into a structured Master Specification before generating the video to ensure consistency of details and measurements across shots.  \nBuild a Workflow on n8n that receives images via a Telegram bot with a body type selection, then runs the analysis (GPT-4.1) → creates the Master Specification → generates the video (Seedance 2 mini) → automatically sends the final video on Telegram."
+    },
+    "es": {
+      "content": "Utiliza Seedance 2 mini para generar un video 360° giratorio de un producto (como una camiseta) basándote solo en dos imágenes (frontal y trasera) con estilo Ghost Mannequin.  \nAnaliza las imágenes del producto con GPT-4.1 para extraer colores, líneas y detalles, luego conviértelas en una Master Specification estructurada antes de generar el video para asegurar la consistencia de detalles y medidas a través de las tomas.  \nConstruye un Workflow en n8n que reciba las imágenes a través de un bot de Telegram con la opción de elegir el tipo de cuerpo, luego ejecute el análisis (GPT-4.1) → creación de Master Specification → generación del video (Seedance 2 mini) → envío automático del video final en Telegram."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2 mini pour générer une vidéo 360° rotative d'un produit (comme un t-shirt) en se basant uniquement sur deux images (avant et arrière) avec le style Ghost Mannequin.  \nAnalysez les images du produit avec GPT-4.1 pour extraire les couleurs, les lignes et les détails, puis transformez-les en Master Specification structurée avant de générer la vidéo afin de garantir la stabilité des détails et des mesures à travers les prises de vue.  \nConstruisez un Workflow sur n8n qui reçoit les images via un bot Telegram avec le choix du type de corps, puis lance l'analyse (GPT-4.1) → création de la Master Specification → génération de la vidéo (Seedance 2 mini) → envoi automatique de la vidéo finale sur Telegram."
+    },
+    "ja": {
+      "content": "---\nSeedance 2 miniを使用して、2枚の画像（前面と背面）のみを基にして、Ghost Mannequinスタイルで製品（例：Tシャツ）の360°回転ビデオを生成します。  \nGPT-4.1で製品画像を分析し、色、ライン、詳細を抽出してから、ビデオ生成前に構造化されたMaster Specificationに変換し、ショット間での詳細と寸法の一貫性を確保します。  \nn8nでワークフローを構築し、Telegramボットを介して画像を受け取り、体型を選択した後、分析（GPT-4.1）→ Master Specificationの作成 → ビデオ生成（Seedance 2 mini）→ 完成したビデオを自動的にTelegramに送信します。  \n---"
+    },
+    "ko": {
+      "content": "Seedance 2 mini를 사용하여 제품(예: 티셔츠)의 360° 회전 비디오를 두 장의 사진(앞면과 뒷면)만으로 생성하고 Ghost Mannequin 스타일을 적용하세요.  \nGPT-4.1로 제품 사진을 분석하여 색상, 선, 세부 사항을 추출한 후, 이를 구조화된 Master Specification으로 변환하여 비디오 생성 전에 세부 사항과 측정이 촬영 전반에 걸쳐 일관되도록 보장하세요.  \nn8n에서 워크플로우를 구축하여 텔레그램 봇을 통해 사진을 수신하고, 신체 유형을 선택한 후 분석(GPT-4.1) → Master Specification 생성 → 비디오 생성(Seedance 2 mini) → 최종 비디오를 텔레그램으로 자동 전송하는 과정을 실행하세요."
+    },
+    "pt": {
+      "content": "---\nUse o Seedance 2 mini para gerar um vídeo 360° rotativo de um produto (como uma camiseta) com base em apenas duas imagens (frontal e traseira) no estilo Ghost Mannequin  \nAnalise as imagens do produto com o GPT-4.1 para extrair cores, linhas e detalhes e, em seguida, converta-as em uma Master Specification estruturada antes de gerar o vídeo para garantir a consistência dos detalhes e medidas entre as tomadas  \nConstrua um Workflow no n8n que receba as imagens através de um bot do Telegram com a escolha do tipo de corpo, depois execute a análise (GPT-4.1) → criação da Master Specification → geração do vídeo (Seedance 2 mini) → envio automático do vídeo final no Telegram  \n---"
+    },
+    "zh": {
+      "content": "使用 Seedance 2 mini 生成360°旋转产品视频（如T恤），仅需两张图片（正面和背面），采用Ghost Mannequin风格  \n使用GPT-4.1分析产品图片以提取颜色、线条和细节，然后将其转换为结构化的Master Specification，在生成视频之前确保细节和尺寸在镜头间的一致性  \n在n8n上构建工作流程，通过Telegram机器人接收图片并选择身体类型，然后运行分析（GPT-4.1）→ 创建Master Specification → 生成视频（Seedance 2 mini）→ 自动将最终视频发送到Telegram"
+    }
+  }
+}

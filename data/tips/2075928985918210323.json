@@ -1,0 +1,42 @@
+{
+  "id": "2075928985918210323",
+  "title": "Bring your own Anthropic API key in Pika Director’s Suite private beta to…",
+  "content": "Bring your own Anthropic API key in Pika Director’s Suite private beta to enable agent-driven orchestration of Seedance 2.0 generations  \nFeed the agent a structured plan so it can orchestrate 5 parallel Seedance 2.0 generations from character sheets through finished cuts  \nUse the workflow story → environment references → parallel renders → auto-editable timeline to generate multiple Seedance 2.0 clips and assemble them without manual re-editing",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2075928894553661440/pu/img/yzxvbnQ3CrYUNmkm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075928985918210323.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2075928985918210323",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Bring your own Anthropic API key in Pika Director’s Suite private beta to enable agent-driven orchestration of Seedance 2.0 generations  \nFeed the agent a structured plan so it can orchestrate 5 parallel Seedance 2.0 generations from character sheets through finished cuts  \nUse the workflow story → environment references → parallel renders → auto-editable timeline to generate multiple Seedance 2.0 clips and assemble them without manual re-editing",
+  "translations": {
+    "es": {
+      "content": "Trae tu propia clave API de Anthropic en la beta privada de Pika Director’s Suite para habilitar la orquestación impulsada por agentes de las generaciones de Seedance 2.0  \nProporciona al agente un plan estructurado para que pueda orquestar 5 generaciones paralelas de Seedance 2.0 desde hojas de personajes hasta cortes finales  \nUtiliza el flujo de trabajo historia → referencias de entorno → renders paralelos → línea de tiempo autoeditable para generar múltiples clips de Seedance 2.0 y ensamblarlos sin necesidad de reedición manual"
+    },
+    "fr": {
+      "content": "Apportez votre propre clé API Anthropic dans la version bêta privée de Pika Director’s Suite pour activer l'orchestration pilotée par agent des générations Seedance 2.0  \nFournissez à l'agent un plan structuré afin qu'il puisse orchestrer 5 générations Seedance 2.0 parallèles, des fiches de personnages aux montages finis  \nUtilisez le flux de travail histoire → références d'environnement → rendus parallèles → timeline auto-éditable pour générer plusieurs clips Seedance 2.0 et les assembler sans réédition manuelle"
+    },
+    "ja": {
+      "content": "---\nPika Director’s SuiteのプライベートベータでAnthropic APIキーを持ち込み、Seedance 2.0の生成をエージェント主導でオーケストレーション可能にする  \nエージェントに構造化されたプランを提供し、キャラクターシートから完成カットまで5つの並行したSeedance 2.0生成をオーケストレーションする  \nワークフローとして、ストーリー → 環境参照 → 並行レンダリング → 自動編集可能なタイムラインを使用し、複数のSeedance 2.0クリップを生成し、手動で再編集することなく組み立てる  \n---"
+    },
+    "ko": {
+      "content": "Pika Director’s Suite 비공개 베타에서 Anthropic API 키를 가져와 Seedance 2.0 생성의 에이전트 기반 오케스트레이션을 활성화하세요.  \n에이전트에게 구조화된 계획을 제공하여 캐릭터 시트에서 완성된 컷까지 5개의 병렬 Seedance 2.0 생성을 오케스트레이션할 수 있습니다.  \n워크플로우 스토리 → 환경 참조 → 병렬 렌더링 → 자동 편집 가능한 타임라인을 사용하여 여러 Seedance 2.0 클립을 생성하고 수동 재편집 없이 조립하세요."
+    },
+    "pt": {
+      "content": "Traga sua própria chave de API Anthropic na versão beta privada do Pika Director’s Suite para habilitar a orquestração orientada por agentes das gerações Seedance 2.0  \nForneça ao agente um plano estruturado para que ele possa orquestrar 5 gerações paralelas do Seedance 2.0, desde as fichas de personagens até os cortes finais  \nUse o fluxo de trabalho história → referências de ambiente → renderizações paralelas → linha do tempo autoeditável para gerar vários clipes Seedance 2.0 e montá-los sem reedição manual"
+    },
+    "zh": {
+      "content": "在 Pika Director’s Suite 私密测试版中，使用您自己的 Anthropic API 密钥来启用代理驱动的 Seedance 2.0 生成编排  \n为代理提供一个结构化计划，以便它可以从角色表到完成剪辑，编排 5 个并行的 Seedance 2.0 生成  \n使用工作流程 故事 → 环境参考 → 并行渲染 → 自动可编辑时间线 来生成多个 Seedance 2.0 剪辑，并在无需手动重新编辑的情况下组装它们"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2076229591518281998",
+  "title": "人物・背景・装着後の3枚のリファレンス画像を用意してSeedance 2.0に渡し、近未来アーマー装着シーンの動画生成でキャラ・背景・最終状態の一致度を高める",
+  "content": "人物・背景・装着後の3枚のリファレンス画像を用意してSeedance 2.0に渡し、近未来アーマー装着シーンの動画生成でキャラ・背景・最終状態の一致度を高める",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076229448282914816/img/rUDrD4Tc_UyLWoxz.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076229591518281998.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2076229591518281998",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "人物・背景・装着後の3枚のリファレンス画像を用意してSeedance 2.0に渡し、近未来アーマー装着シーンの動画生成でキャラ・背景・最終状態の一致度を高める",
+  "translations": {
+    "en": {
+      "content": "Prepare three reference images of the character, background, and post-armor attachment, and provide them to Seedance 2.0 to enhance the consistency of the character, background, and final state in the video generation of a near-future armor attachment scene."
+    },
+    "es": {
+      "content": "---\nPrepara tres imágenes de referencia de personaje, fondo y después de la equipación, y pásalas a Seedance 2.0 para generar un video de una escena de equipamiento de armadura futurista, aumentando la coherencia entre el personaje, el fondo y el estado final.\n---"
+    },
+    "fr": {
+      "content": "---\nPréparez trois images de référence pour le personnage, le fond et après l'équipement, puis les fournir à Seedance 2.0 pour améliorer la cohérence du personnage, du fond et de l'état final dans la génération vidéo de la scène d'équipement d'armure futuriste.\n---"
+    },
+    "ko": {
+      "content": "---\n人物・背景・装着後의 3장의 레퍼런스 이미지를 준비하여 Seedance 2.0에 전달하고, 가까운 미래의 아머 착용 장면의 비디오 생성에서 캐릭터, 배경, 최종 상태의 일치도를 높입니다.\n---"
+    },
+    "pt": {
+      "content": "---\nPrepare três imagens de referência de personagem, fundo e após a montagem e forneça ao Seedance 2.0 para aumentar a correspondência de personagem, fundo e estado final na geração de vídeo da cena de armadura futurista.\n---"
+    },
+    "zh": {
+      "content": "---\n准备人物、背景、装着后的三张参考图像并提交给Seedance 2.0，以生成近未来装甲装着场景的视频，从而提高角色、背景和最终状态的一致性。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2076261260878819340",
+  "title": "Upload your own Blender-rendered footage into Seedance as the base input to…",
+  "content": "Upload your own Blender-rendered footage into Seedance as the base input to control the output instead of relying on long text prompts.  \nAdd reference images/videos alongside your Blender clip in Seedance to show the model exactly what you want it to generate.  \nKeep prompts minimal when using Blender footage + references, letting Seedance “fantasize” only on top of your controlled inputs.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076260442842800128/img/GhTJLOwm6v92M4GI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076261260878819340.mp4",
+  "sourceLink": "https://x.com/abyssallD/status/2076261260878819340",
+  "sourcePublishedAt": "2026-07-12",
+  "author": {
+    "name": "Abyssal",
+    "link": "https://x.com/abyssallD"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload your own Blender-rendered footage into Seedance as the base input to control the output instead of relying on long text prompts.  \nAdd reference images/videos alongside your Blender clip in Seedance to show the model exactly what you want it to generate.  \nKeep prompts minimal when using Blender footage + references, letting Seedance “fantasize” only on top of your controlled inputs.",
+  "translations": {
+    "es": {
+      "content": "Sube tu propio metraje renderizado en Blender a Seedance como entrada base para controlar el resultado en lugar de depender de largos prompts de texto.  \nAñade imágenes/videos de referencia junto a tu clip de Blender en Seedance para mostrarle al modelo exactamente lo que deseas que genere.  \nMantén los prompts al mínimo cuando uses metraje de Blender + referencias, permitiendo que Seedance \"fantasee\" solo sobre tus entradas controladas."
+    },
+    "fr": {
+      "content": "---\nTéléchargez vos propres séquences rendues avec Blender dans Seedance comme entrée de base pour contrôler le résultat au lieu de vous fier à de longs prompts textuels.  \nAjoutez des images/vidéos de référence à côté de votre clip Blender dans Seedance pour montrer au modèle exactement ce que vous souhaitez qu'il génère.  \nGardez les prompts au minimum lorsque vous utilisez des séquences Blender + références, permettant à Seedance de \"fantasmer\" uniquement sur vos entrées contrôlées.\n---"
+    },
+    "ja": {
+      "content": "---\n長文のプロンプトに頼る代わりに、SeedanceにBlenderでレンダリングした映像をアップロードして、出力を制御します。  \nBlenderクリップと一緒に参考画像や動画をSeedanceに追加し、モデルに生成したいものを正確に示します。  \nBlender映像と参考資料を使用する際は、プロンプトを最小限に抑え、Seedanceがあなたの制御された入力の上に「空想」するようにします。\n---"
+    },
+    "ko": {
+      "content": "자신이 Blender로 렌더링한 영상을 Seedance에 업로드하여 긴 텍스트 프롬프트에 의존하지 않고 출력을 제어하세요.  \nBlender 클립과 함께 참조 이미지/비디오를 Seedance에 추가하여 모델이 생성하기 원하는 것을 정확히 보여주세요.  \nBlender 영상과 참조를 사용할 때는 프롬프트를 최소화하여 Seedance가 여러분의 제어된 입력 위에 \"상상\"할 수 있도록 하세요."
+    },
+    "pt": {
+      "content": "Carregue sua própria filmagem renderizada no Blender no Seedance como entrada base para controlar o resultado em vez de depender de prompts longos de texto.  \nAdicione imagens/vídeos de referência junto com seu clipe do Blender no Seedance para mostrar ao modelo exatamente o que você quer que ele gere.  \nMantenha os prompts mínimos ao usar filmagens do Blender + referências, permitindo que o Seedance \"fantasie\" apenas em cima de suas entradas controladas."
+    },
+    "zh": {
+      "content": "将您自己用Blender渲染的素材上传到Seedance，作为基础输入来控制输出，而不是依赖冗长的文本prompt。  \n在Seedance中将参考图像/视频与您的Blender剪辑一起添加，以准确展示您希望模型生成的内容。  \n在使用Blender素材和参考时，保持prompt简洁，让Seedance仅在您控制的输入基础上进行“幻想”。"
+    }
+  }
+}

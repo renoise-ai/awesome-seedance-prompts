@@ -1,0 +1,42 @@
+{
+  "id": "2075607405162066204",
+  "title": "Use Comfy MCP in a single chat and force the agent to call your existing…",
+  "content": "Use Comfy MCP in a single chat and force the agent to call your existing ComfyUI workflows (instead of improvising a pipeline) to keep Seedance 2.0 generations consistent.  \nDirect the agent to run a dedicated ComfyUI cinematic product ads workflow and explicitly specify shot/action details (e.g., close-up sprite animation, bezel turn flipping the screen, display changing to 10:04).  \nFor consistent variations, use a driving video and preprocess it with a DepthAnything v3 depth pass blended with Canny edge lines to preserve fine product details (e.g., tiny debossed logo).  \nIf unwanted elements keep inheriting from edge lines (e.g., an initial sprite outline), apply a SAM3 mask over the screen area to hide/remove them before generating variations.  \nWith the screen masked, generate a new sprite by creating a GPT-Image-2 still as a reference, then add one extra line describing it in the Seedance 2.0 prompt so it animates consistently.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075607349260328960/img/lWOR7lmXMrKMkNIz.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075607405162066204.mp4",
+  "sourceLink": "https://x.com/hellorob/status/2075607405162066204",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "rob - comfyui",
+    "link": "https://x.com/hellorob"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Comfy MCP in a single chat and force the agent to call your existing ComfyUI workflows (instead of improvising a pipeline) to keep Seedance 2.0 generations consistent.  \nDirect the agent to run a dedicated ComfyUI cinematic product ads workflow and explicitly specify shot/action details (e.g., close-up sprite animation, bezel turn flipping the screen, display changing to 10:04).  \nFor consistent variations, use a driving video and preprocess it with a DepthAnything v3 depth pass blended with Canny edge lines to preserve fine product details (e.g., tiny debossed logo).  \nIf unwanted elements keep inheriting from edge lines (e.g., an initial sprite outline), apply a SAM3 mask over the screen area to hide/remove them before generating variations.  \nWith the screen masked, generate a new sprite by creating a GPT-Image-2 still as a reference, then add one extra line describing it in the Seedance 2.0 prompt so it animates consistently.",
+  "translations": {
+    "es": {
+      "content": "Usa Comfy MCP en un solo chat y obliga al agente a llamar a tus flujos de trabajo existentes de ComfyUI (en lugar de improvisar un pipeline) para mantener las generaciones de Seedance 2.0 consistentes.  \nDirige al agente para ejecutar un flujo de trabajo de anuncios de productos cinematográficos dedicado de ComfyUI y especifica explícitamente los detalles de la toma/acción (por ejemplo, animación de sprite en primer plano, giro del bisel volteando la pantalla, cambio de pantalla a 10:04).  \nPara variaciones consistentes, utiliza un video de conducción y preprocésalo con un pase de profundidad DepthAnything v3 mezclado con líneas de borde Canny para preservar los detalles finos del producto (por ejemplo, logotipo en relieve pequeño).  \nSi elementos no deseados siguen heredando de las líneas de borde (por ejemplo, un contorno inicial de sprite), aplica una máscara SAM3 sobre el área de la pantalla para ocultarlos/eliminarlos antes de generar variaciones.  \nCon la pantalla enmascarada, genera un nuevo sprite creando una imagen fija de GPT-Image-2 como referencia, luego añade una línea extra describiéndola en el prompt de Seedance 2.0 para que se anime de manera consistente.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ¡Prueba el flujo de trabajo aquí!\n\nhttps://t.co/ECbJBl1kpA"
+    },
+    "fr": {
+      "content": "Utilisez Comfy MCP dans une seule conversation et forcez l'agent à appeler vos workflows ComfyUI existants (au lieu d'improviser un pipeline) pour maintenir la cohérence des générations Seedance 2.0.  \nDirigez l'agent pour exécuter un workflow dédié de publicités cinématographiques ComfyUI et spécifiez explicitement les détails des prises de vue/actions (par exemple, animation de sprite en gros plan, rotation de la lunette retournant l'écran, affichage changeant à 10:04).  \nPour des variations cohérentes, utilisez une vidéo de conduite et prétraitez-la avec un passage de profondeur DepthAnything v3 mélangé avec des lignes de contour Canny pour préserver les détails fins du produit (par exemple, un petit logo en creux).  \nSi des éléments indésirables continuent de dériver des lignes de contour (par exemple, un contour initial de sprite), appliquez un masque SAM3 sur la zone de l'écran pour les cacher/retirer avant de générer des variations.  \nAvec l'écran masqué, générez un nouveau sprite en créant une image fixe GPT-Image-2 comme référence, puis ajoutez une ligne supplémentaire la décrivant dans le prompt Seedance 2.0 pour qu'elle s'anime de manière cohérente.\n\n--- SUITE DU FIL ---\n[Fil 1] Testez le workflow ici !\n\nhttps://t.co/ECbJBl1kpA"
+    },
+    "ja": {
+      "content": "---\nComfy MCPを単一のチャットで使用し、エージェントに既存のComfyUIワークフローを呼び出すように強制して、Seedance 2.0の生成を一貫させる（パイプラインを即興で作成するのではなく）。  \nエージェントに専用のComfyUIシネマティック製品広告ワークフローを実行させ、ショット/アクションの詳細を明示的に指定する（例：クローズアップのスプライトアニメーション、ベゼルターンで画面を反転、ディスプレイが10:04に変わる）。  \n一貫したバリエーションを得るために、ドライビングビデオを使用し、DepthAnything v3の深度パスをCannyエッジラインとブレンドして前処理し、製品の細かいディテールを保持する（例：小さなデボスロゴ）。  \n不要な要素がエッジラインから継承され続ける場合（例：初期スプライトのアウトライン）、SAM3マスクを画面領域に適用して、それらを隠す/削除してからバリエーションを生成する。  \n画面をマスクした状態で、GPT-Image-2の静止画を参照として新しいスプライトを生成し、Seedance 2.0プロンプトにそれを一貫してアニメーション化するための説明を1行追加する。\n\n--- THREAD CONTINUATION ---\n[Thread 1] ここでワークフローをテストしてください！\n\nhttps://t.co/ECbJBl1kpA\n---"
+    },
+    "ko": {
+      "content": "Comfy MCP를 단일 채팅에서 사용하고, 에이전트가 기존 ComfyUI 워크플로우를 호출하도록 강제하여 Seedance 2.0 생성이 일관되도록 유지하세요 (파이프라인을 즉흥적으로 구성하지 않도록).  \n에이전트가 전용 ComfyUI 시네마틱 제품 광고 워크플로우를 실행하도록 지시하고, 샷/액션 세부 사항을 명시적으로 지정하세요 (예: 클로즈업 스프라이트 애니메이션, 화면을 뒤집는 베젤 회전, 디스플레이가 10:04로 변경됨).  \n일관된 변형을 위해 드라이빙 비디오를 사용하고, DepthAnything v3 깊이 패스를 Canny 엣지 라인과 혼합하여 세부 제품 정보를 보존하세요 (예: 작은 음각 로고).  \n원치 않는 요소가 엣지 라인에서 계속 상속되는 경우 (예: 초기 스프라이트 윤곽), SAM3 마스크를 화면 영역에 적용하여 생성하기 전에 숨기거나 제거하세요.  \n화면이 마스킹된 상태에서, GPT-Image-2 스틸을 참조로 사용하여 새로운 스프라이트를 생성한 다음, Seedance 2.0 프롬프트에 그것을 일관되게 애니메이션화하도록 설명하는 한 줄을 추가하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 여기에서 워크플로우를 테스트하세요!\n\nhttps://t.co/ECbJBl1kpA"
+    },
+    "pt": {
+      "content": "Use o Comfy MCP em um único chat e force o agente a chamar seus fluxos de trabalho ComfyUI existentes (em vez de improvisar um pipeline) para manter as gerações do Seedance 2.0 consistentes.  \nDirecione o agente para executar um fluxo de trabalho de anúncios de produtos cinematográficos dedicado do ComfyUI e especifique explicitamente os detalhes de filmagem/ação (por exemplo, animação de sprite em close-up, giro da moldura virando a tela, exibição mudando para 10:04).  \nPara variações consistentes, use um vídeo de condução e pré-processe-o com uma passagem de profundidade DepthAnything v3 misturada com linhas de borda Canny para preservar os detalhes finos do produto (por exemplo, logotipo em baixo relevo).  \nSe elementos indesejados continuarem herdando das linhas de borda (por exemplo, um contorno inicial de sprite), aplique uma máscara SAM3 sobre a área da tela para ocultá-los/removê-los antes de gerar variações.  \nCom a tela mascarada, gere um novo sprite criando uma imagem estática GPT-Image-2 como referência, depois adicione uma linha extra descrevendo-a no prompt do Seedance 2.0 para que ela seja animada de forma consistente.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Teste o fluxo de trabalho aqui!\n\nhttps://t.co/ECbJBl1kpA"
+    },
+    "zh": {
+      "content": "---\n在单次对话中使用 Comfy MCP，并强制代理调用您现有的 ComfyUI 工作流程（而不是即兴创建一个流程），以保持 Seedance 2.0 生成的一致性。  \n指导代理运行专用的 ComfyUI 电影产品广告工作流程，并明确指定镜头/动作细节（例如，特写精灵动画，边框翻转屏幕，显示更改为 10:04）。  \n为了保持一致的变化，使用一个驾驶视频并通过 DepthAnything v3 深度通道与 Canny 边缘线混合预处理，以保留精细的产品细节（例如，微小的压印标志）。  \n如果不需要的元素不断从边缘线继承（例如，初始精灵轮廓），在屏幕区域应用 SAM3 掩码以隐藏/移除它们，然后再生成变化。  \n在屏幕被遮罩后，通过创建一个 GPT-Image-2 静帧作为参考生成一个新的精灵，然后在 Seedance 2.0 提示中添加一行描述，以便它能一致地动画化。\n\n--- 线程继续 ---\n[线程 1] 在这里测试工作流程！\n\nhttps://t.co/ECbJBl1kpA\n---"
+    }
+  }
+}

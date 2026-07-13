@@ -1,0 +1,43 @@
+{
+  "id": "2075940158147539051",
+  "title": "手描きの原画を参照画像として使い、キャラクターのモーションとタイトルモーションを別々に生成して後で合成する",
+  "content": "手描きの原画を参照画像として使い、キャラクターのモーションとタイトルモーションを別々に生成して後で合成する  \n生成した映像をグリーンバック素材として書き出し、コンポジットしてアイキャッチを制作する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HM840GQasAAbwEq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075940158147539051.mp4",
+  "sourceLink": "https://x.com/bunsadak/status/2075940158147539051",
+  "sourcePublishedAt": "2026-07-11",
+  "author": {
+    "name": "ブンサダカ",
+    "link": "https://x.com/bunsadak"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Hand-drawn",
+    "Realistic World",
+    "VFX",
+    "Tutorial"
+  ],
+  "tips": "手描きの原画を参照画像として使い、キャラクターのモーションとタイトルモーションを別々に生成して後で合成する  \n生成した映像をグリーンバック素材として書き出し、コンポジットしてアイキャッチを制作する",
+  "translations": {
+    "en": {
+      "content": "Use hand-drawn original images as reference images, generate character motion and title motion separately, and then composite them later.  \nExport the generated footage as green screen material, composite it, and create an eye-catching visual."
+    },
+    "es": {
+      "content": "Usar un dibujo a mano como imagen de referencia, generar el movimiento del personaje y el movimiento del título por separado para luego combinarlos.  \nExportar el video generado como material de fondo verde, componerlo y crear un eye-catch."
+    },
+    "fr": {
+      "content": "Utiliser un dessin original à la main comme image de référence, générer séparément le mouvement du personnage et le mouvement du titre pour les combiner ensuite.  \nExporter la vidéo générée en tant que matériau sur fond vert, puis la composer pour créer un visuel accrocheur."
+    },
+    "ko": {
+      "content": "손으로 그린 원화를 참조 이미지로 사용하여, 캐릭터 모션과 타이틀 모션을 각각 생성한 후 나중에 합성합니다.  \n생성된 영상을 그린백 소재로 내보내고, 합성하여 아이캐치를 제작합니다."
+    },
+    "pt": {
+      "content": "Usar desenhos originais feitos à mão como imagens de referência, gerando separadamente o movimento do personagem e o movimento do título para depois compor.  \nExportar o vídeo gerado como material de fundo verde, compor e criar um ícone visual."
+    },
+    "zh": {
+      "content": "使用手绘原画作为参考图像，分别生成角色动作和标题动作，然后进行合成  \n将生成的视频导出为绿幕素材，进行合成制作开场动画"
+    }
+  }
+}
