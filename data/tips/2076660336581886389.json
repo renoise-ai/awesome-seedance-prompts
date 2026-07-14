@@ -1,0 +1,42 @@
+{
+  "id": "2076660336581886389",
+  "title": "Connect OpenArt via MCP so Claude can generate Seedance 2 product motion videos…",
+  "content": "Connect OpenArt via MCP so Claude can generate Seedance 2 product motion videos directly inside the same website build workflow",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076660199151251456/img/iacQOEj0RysGjd5H.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076660336581886389.mp4",
+  "sourceLink": "https://x.com/bounceidc/status/2076660336581886389",
+  "sourcePublishedAt": "2026-07-13",
+  "author": {
+    "name": "Bounce",
+    "link": "https://x.com/bounceidc"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Connect OpenArt via MCP so Claude can generate Seedance 2 product motion videos directly inside the same website build workflow",
+  "translations": {
+    "es": {
+      "content": "Conecta OpenArt a través de MCP para que Claude pueda generar videos de movimiento de producto Seedance 2 directamente dentro del mismo flujo de trabajo de construcción del sitio web."
+    },
+    "fr": {
+      "content": "Connectez OpenArt via MCP afin que Claude puisse générer des vidéos de mouvement de produit Seedance 2 directement dans le même flux de travail de création de site web."
+    },
+    "ja": {
+      "content": "MCPを介してOpenArtを接続し、ClaudeがSeedance 2の製品モーションビデオを同じウェブサイト構築ワークフロー内で直接生成できるようにします。"
+    },
+    "ko": {
+      "content": "OpenArt를 MCP에 연결하여 Claude가 동일한 웹사이트 빌드 워크플로우 내에서 Seedance 2 제품 모션 비디오를 직접 생성할 수 있도록 합니다."
+    },
+    "pt": {
+      "content": "Conecte o OpenArt via MCP para que Claude possa gerar vídeos de movimento de produto Seedance 2 diretamente dentro do mesmo fluxo de trabalho de construção do site."
+    },
+    "zh": {
+      "content": "通过MCP连接OpenArt，以便Claude可以在同一网站构建工作流程中直接生成Seedance 2产品运动视频。"
+    }
+  }
+}

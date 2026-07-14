@@ -1,0 +1,42 @@
+{
+  "id": "2076559423028535548",
+  "title": "ストーリーボードを作成してから、Image 2.0で各カットの静止画を生成し、Seedance 2.0でそれらを動画化して商品広告CMを制作する",
+  "content": "ストーリーボードを作成してから、Image 2.0で各カットの静止画を生成し、Seedance 2.0でそれらを動画化して商品広告CMを制作する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076559157063540737/img/dxzr6yERZ55fu3gj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076559423028535548.mp4",
+  "sourceLink": "https://x.com/PolloAIJP/status/2076559423028535548",
+  "sourcePublishedAt": "2026-07-13",
+  "author": {
+    "name": "Pollo AI 日本公式",
+    "link": "https://x.com/PolloAIJP"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ストーリーボードを作成してから、Image 2.0で各カットの静止画を生成し、Seedance 2.0でそれらを動画化して商品広告CMを制作する",
+  "translations": {
+    "en": {
+      "content": "Create a storyboard, then generate still images for each cut using Image 2.0, and turn them into a video with Seedance 2.0 to produce a product advertisement commercial."
+    },
+    "es": {
+      "content": "Después de crear el storyboard, genera imágenes fijas de cada corte con Image 2.0 y luego utiliza Seedance 2.0 para convertirlas en video y producir un anuncio comercial de producto."
+    },
+    "fr": {
+      "content": "Après avoir créé le storyboard, générez des images fixes pour chaque plan avec Image 2.0, puis utilisez Seedance 2.0 pour les transformer en vidéo et produire une publicité commerciale."
+    },
+    "ko": {
+      "content": "스토리보드를 작성한 후, Image 2.0에서 각 컷의 스틸 이미지를 생성하고, Seedance 2.0을 사용하여 이를 영상화하여 상품 광고 CM을 제작합니다."
+    },
+    "pt": {
+      "content": "Depois de criar o storyboard, gere imagens estáticas de cada cena com o Image 2.0 e transforme-as em vídeo com o Seedance 2.0 para produzir um comercial de produto."
+    },
+    "zh": {
+      "content": "在创建分镜头脚本后，使用Image 2.0生成每个镜头的静止图像，并通过Seedance 2.0将它们转化为视频，以制作产品广告片。"
+    }
+  }
+}

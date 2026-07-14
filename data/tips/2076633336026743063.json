@@ -1,0 +1,41 @@
+{
+  "id": "2076633336026743063",
+  "title": "Specify a full shot list with timestamps, framing (wide/medium/close-up)…",
+  "content": "Specify a full shot list with timestamps, framing (wide/medium/close-up), camera behavior (slow push-in/handheld drift/dynamic pan), and key actions to control pacing and continuity in Seedance 2.0.\n\nLock continuity by explicitly stating the environment is identical every shot and that character identities/wardrobe details (e.g., apron text) must remain consistent across all shots.\n\nInclude explicit camera/visual directives like Dutch tilt, rack focus to mirror, slow motion, and subtle motion blur on fast movements to shape cinematography.\n\nAdd audio/timing cues (music whooshes/impacts, MUSIC DROPS TO SILENCE, ticking clock, MUSIC SWELLS BACK) to enforce comedic beats and transitions.\n\nSet output constraints in the prompt (1080p, 24fps, no cuts within a shot, 45-second duration) to guide generation format and motion style.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/socialwithaayan/status/2076633336026743063",
+  "sourcePublishedAt": "2026-07-13",
+  "author": {
+    "name": "Muhammad Ayan",
+    "link": "https://x.com/socialwithaayan"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify a full shot list with timestamps, framing (wide/medium/close-up), camera behavior (slow push-in/handheld drift/dynamic pan), and key actions to control pacing and continuity in Seedance 2.0.\n\nLock continuity by explicitly stating the environment is identical every shot and that character identities/wardrobe details (e.g., apron text) must remain consistent across all shots.\n\nInclude explicit camera/visual directives like Dutch tilt, rack focus to mirror, slow motion, and subtle motion blur on fast movements to shape cinematography.\n\nAdd audio/timing cues (music whooshes/impacts, MUSIC DROPS TO SILENCE, ticking clock, MUSIC SWELLS BACK) to enforce comedic beats and transitions.\n\nSet output constraints in the prompt (1080p, 24fps, no cuts within a shot, 45-second duration) to guide generation format and motion style.",
+  "translations": {
+    "es": {
+      "content": "Especifica una lista completa de tomas con marcas de tiempo, encuadre (amplio/medio/primer plano), comportamiento de la cámara (acercamiento lento/deriva manual/pan dinámico) y acciones clave para controlar el ritmo y la continuidad en Seedance 2.0.\n\nAsegura la continuidad indicando explícitamente que el entorno es idéntico en cada toma y que las identidades de los personajes/detalles del vestuario (por ejemplo, texto del delantal) deben permanecer consistentes en todas las tomas.\n\nIncluye directrices explícitas de cámara/visuales como inclinación holandesa, enfoque selectivo al espejo, cámara lenta y desenfoque de movimiento sutil en movimientos rápidos para dar forma a la cinematografía.\n\nAgrega indicaciones de audio/tiempo (silbidos/impactos de música, MUSIC DROPS TO SILENCE, reloj que hace tictac, MUSIC SWELLS BACK) para reforzar los momentos cómicos y las transiciones.\n\nEstablece restricciones de salida en el prompt (1080p, 24fps, sin cortes dentro de una toma, duración de 45 segundos) para guiar el formato de generación y el estilo de movimiento."
+    },
+    "fr": {
+      "content": "---\nSpécifiez une liste complète de plans avec des horodatages, des cadrages (large/moyen/gros plan), le comportement de la caméra (lente avancée/main levée/pan dynamique), et les actions clés pour contrôler le rythme et la continuité dans Seedance 2.0.\n\nAssurez la continuité en déclarant explicitement que l'environnement est identique à chaque plan et que les identités des personnages/détails de garde-robe (par exemple, texte sur le tablier) doivent rester cohérents dans tous les plans.\n\nIncluez des directives explicites pour la caméra/visuels comme le plan incliné, le changement de mise au point vers un miroir, le ralenti, et le flou de mouvement subtil sur les mouvements rapides pour façonner la cinématographie.\n\nAjoutez des indices audio/temporisation (bruits de musique/impacts, LA MUSIQUE TOMBE AU SILENCE, tic-tac de l'horloge, LA MUSIQUE MONTE À NOUVEAU) pour renforcer les temps comiques et les transitions.\n\nDéfinissez des contraintes de sortie dans le prompt (1080p, 24fps, pas de coupures dans un plan, durée de 45 secondes) pour guider le format de génération et le style de mouvement.\n---"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0でペーシングと連続性を制御するために、タイムスタンプ、フレーミング（ワイド/ミディアム/クローズアップ）、カメラの動き（スロープッシュイン/ハンドヘルドドリフト/ダイナミックパン）、主要なアクションを含む完全なショットリストを指定してください。\n\n連続性を確保するために、環境がすべてのショットで同一であり、キャラクターのアイデンティティや衣装の詳細（例：エプロンのテキスト）がすべてのショットで一貫していることを明示的に述べてください。\n\nシネマトグラフィーを形作るために、ダッチティルト、ミラーへのラックフォーカス、スローモーション、速い動きに対する微妙なモーションブラーなどの明確なカメラ/ビジュアル指示を含めてください。\n\nコメディのビートとトランジションを強化するために、オーディオ/タイミングのキュー（音楽のウーシュ/インパクト、MUSIC DROPS TO SILENCE、時計のチクタク音、MUSIC SWELLS BACK）を追加してください。\n\n生成フォーマットとモーションスタイルをガイドするために、プロンプトに出力制約（1080p、24fps、ショット内でのカットなし、45秒の持続時間）を設定してください。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 페이싱과 연속성을 제어하기 위해 타임스탬프, 프레이밍(와이드/미디엄/클로즈업), 카메라 동작(슬로우 푸시-인/핸드헬드 드리프트/다이내믹 팬), 주요 액션을 포함한 전체 샷 리스트를 지정하세요.\n\n모든 샷에서 환경이 동일하고 캐릭터의 정체성/의상 세부사항(예: 앞치마 텍스트)이 일관되게 유지되어야 한다고 명시하여 연속성을 고정하세요.\n\n더치 틸트, 거울로의 랙 포커스, 슬로우 모션, 빠른 움직임에 대한 미세한 모션 블러와 같은 명확한 카메라/비주얼 지시사항을 포함하여 촬영 기법을 형성하세요.\n\n코미디 비트와 전환을 강화하기 위해 오디오/타이밍 큐(음악의 우쉬/임팩트, MUSIC DROPS TO SILENCE, 시계의 똑딱거림, MUSIC SWELLS BACK)를 추가하세요.\n\n생성 형식과 모션 스타일을 안내하기 위해 프롬프트에 출력 제약 조건(1080p, 24fps, 샷 내 컷 없음, 45초 길이)을 설정하세요."
+    },
+    "pt": {
+      "content": "Especifique uma lista completa de tomadas com timestamps, enquadramento (amplo/médio/close-up), comportamento da câmera (slow push-in/handheld drift/dynamic pan) e ações-chave para controlar o ritmo e a continuidade no Seedance 2.0.\n\nGaranta a continuidade declarando explicitamente que o ambiente é idêntico em cada tomada e que as identidades dos personagens/detalhes do figurino (por exemplo, texto no avental) devem permanecer consistentes em todas as tomadas.\n\nInclua diretrizes explícitas de câmera/visuais como Dutch tilt, rack focus para espelho, slow motion e motion blur sutil em movimentos rápidos para moldar a cinematografia.\n\nAdicione dicas de áudio/tempo (música whooshes/impacts, MUSIC DROPS TO SILENCE, relógio ticando, MUSIC SWELLS BACK) para reforçar batidas cômicas e transições.\n\nDefina restrições de saída no prompt (1080p, 24fps, sem cortes dentro de uma tomada, duração de 45 segundos) para guiar o formato de geração e o estilo de movimento."
+    },
+    "zh": {
+      "content": "---\n在Seedance 2.0中指定一个完整的镜头列表，包括时间戳、构图（广角/中景/特写）、摄像机行为（慢推入/手持漂移/动态摇摄）和关键动作，以控制节奏和连贯性。\n\n通过明确说明每个镜头的环境相同，以及角色身份/服装细节（例如围裙上的文字）必须在所有镜头中保持一致来锁定连贯性。\n\n包括明确的摄像机/视觉指令，如荷兰式倾斜、对焦切换到镜子、慢动作和快速运动中的细微运动模糊，以塑造电影摄影。\n\n添加音频/时间提示（音乐呼啸/冲击，MUSIC DROPS TO SILENCE，滴答钟声，MUSIC SWELLS BACK）以加强喜剧节拍和过渡。\n\n在提示中设置输出限制（1080p，24fps，镜头内无剪切，45秒时长）以指导生成格式和运动风格。"
+    }
+  }
+}

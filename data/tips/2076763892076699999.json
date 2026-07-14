@@ -1,0 +1,42 @@
+{
+  "id": "2076763892076699999",
+  "title": "Use Martini’s Camera Motion with Seedance 2.0 to precisely control camera…",
+  "content": "Use Martini’s Camera Motion with Seedance 2.0 to precisely control camera movement instead of relying on text prompts.  \nSet keyframes for each composition in Martini’s Camera Motion and choose a transition speed to create controlled in-shot camera transitions.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2076763857394016256/pu/img/63Fzlv_OcLY9JC_n.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076763892076699999.mp4",
+  "sourceLink": "https://x.com/martini_film/status/2076763892076699999",
+  "sourcePublishedAt": "2026-07-13",
+  "author": {
+    "name": "Martini",
+    "link": "https://x.com/martini_film"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Martini’s Camera Motion with Seedance 2.0 to precisely control camera movement instead of relying on text prompts.  \nSet keyframes for each composition in Martini’s Camera Motion and choose a transition speed to create controlled in-shot camera transitions.",
+  "translations": {
+    "es": {
+      "content": "Utiliza el movimiento de cámara de Martini con Seedance 2.0 para controlar con precisión el movimiento de la cámara en lugar de depender de prompts de texto.  \nEstablece fotogramas clave para cada composición en el movimiento de cámara de Martini y elige una velocidad de transición para crear transiciones de cámara controladas dentro de la toma."
+    },
+    "fr": {
+      "content": "Utilisez le Camera Motion de Martini avec Seedance 2.0 pour contrôler précisément le mouvement de la caméra au lieu de vous fier aux prompts textuels.  \nDéfinissez des images clés pour chaque composition dans le Camera Motion de Martini et choisissez une vitesse de transition pour créer des transitions de caméra contrôlées au sein du plan."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0でMartini’s Camera Motionを使用して、テキストプロンプトに頼ることなくカメラの動きを正確に制御します。  \nMartini’s Camera Motionで各構図にキーフレームを設定し、トランジションの速度を選択して、ショット内のカメラトランジションを制御します。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0에서 Martini’s Camera Motion을 사용하여 텍스트 프롬프트에 의존하지 않고 카메라 움직임을 정확하게 제어하세요.  \nMartini’s Camera Motion에서 각 구성에 대한 키프레임을 설정하고 전환 속도를 선택하여 통제된 인샷 카메라 전환을 만드세요.\n---"
+    },
+    "pt": {
+      "content": "Use o Martini’s Camera Motion com o Seedance 2.0 para controlar precisamente o movimento da câmera em vez de depender de prompts de texto.  \nDefina keyframes para cada composição no Martini’s Camera Motion e escolha uma velocidade de transição para criar transições de câmera controladas dentro da cena."
+    },
+    "zh": {
+      "content": "使用Martini的Camera Motion与Seedance 2.0结合，精确控制摄像机运动，而不是依赖文本prompt。  \n在Martini的Camera Motion中为每个构图设置关键帧，并选择过渡速度，以创建受控的镜头内摄像机过渡。"
+    }
+  }
+}

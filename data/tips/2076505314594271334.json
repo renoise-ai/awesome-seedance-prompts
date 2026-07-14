@@ -1,0 +1,42 @@
+{
+  "id": "2076505314594271334",
+  "title": "When Seedance output isn’t what you want, add explicit constraints to your…",
+  "content": "When Seedance output isn’t what you want, add explicit constraints to your prompt based on the specific issues you see, then regenerate iteratively until it matches your goal.  \nRepeat a prompt→review→add constraints→regenerate loop multiple times (e.g., 3 iterations) to progressively fix problems and improve the final video.  \nIf adding constraints doesn’t help, check whether the constraint conflicts with your original prompt and revise the prompt to remove the conflict.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076499835616886784/img/TuACcKSWST6sXEW0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076505314594271334.mp4",
+  "sourceLink": "https://x.com/Dani__oros/status/2076505314594271334",
+  "sourcePublishedAt": "2026-07-13",
+  "author": {
+    "name": "Danioros",
+    "link": "https://x.com/Dani__oros"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "When Seedance output isn’t what you want, add explicit constraints to your prompt based on the specific issues you see, then regenerate iteratively until it matches your goal.  \nRepeat a prompt→review→add constraints→regenerate loop multiple times (e.g., 3 iterations) to progressively fix problems and improve the final video.  \nIf adding constraints doesn’t help, check whether the constraint conflicts with your original prompt and revise the prompt to remove the conflict.",
+  "translations": {
+    "es": {
+      "content": "Cuando la salida de Seedance no es lo que deseas, añade restricciones explícitas a tu prompt basadas en los problemas específicos que observes, luego regenera de manera iterativa hasta que coincida con tu objetivo.  \nRepite un ciclo de prompt→revisión→añadir restricciones→regenerar varias veces (por ejemplo, 3 iteraciones) para corregir progresivamente los problemas y mejorar el video final.  \nSi añadir restricciones no ayuda, verifica si la restricción entra en conflicto con tu prompt original y revisa el prompt para eliminar el conflicto.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] También solo para mencionar, a veces el problema está en tu prompt y la restricción podría no ayudar porque entra en conflicto con tu prompt.\n\n[Hilo 2] Lo siento chicos, pequeño error tipográfico “cuando tienes no” 🤣 https://t.co/SlJmUQZ0AE"
+    },
+    "fr": {
+      "content": "---\nLorsque le résultat de Seedance ne correspond pas à vos attentes, ajoutez des contraintes explicites à votre prompt en fonction des problèmes spécifiques que vous observez, puis régénérez de manière itérative jusqu'à ce qu'il corresponde à votre objectif.  \nRépétez une boucle prompt→révision→ajout de contraintes→régénération plusieurs fois (par exemple, 3 itérations) pour corriger progressivement les problèmes et améliorer la vidéo finale.  \nSi l'ajout de contraintes n'aide pas, vérifiez si la contrainte entre en conflit avec votre prompt initial et révisez le prompt pour éliminer le conflit.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Juste pour noter, parfois le problème vient de votre prompt et la contrainte pourrait ne pas aider car elle entre en conflit avec votre prompt.\n\n[Fil 2] Désolé les gars, petite faute de frappe “when you have don’t” 🤣 https://t.co/SlJmUQZ0AE\n---"
+    },
+    "ja": {
+      "content": "---\nSeedanceの出力が期待通りでない場合、具体的な問題に基づいてプロンプトに明確な制約を追加し、目標に合うまで反復的に再生成します。  \nプロンプト→レビュー→制約の追加→再生成のループを複数回（例：3回の反復）繰り返して、問題を徐々に修正し、最終的なビデオを改善します。  \n制約を追加しても効果がない場合は、その制約が元のプロンプトと矛盾していないか確認し、矛盾を取り除くようにプロンプトを修正してください。\n\n--- スレッドの続き ---\n[スレッド1] ちなみに、問題がプロンプトにある場合もあり、制約がプロンプトと矛盾しているために役立たないことがあります。\n\n[スレッド2] すみません、皆さん、小さな誤字「when you have don’t」🤣 https://t.co/SlJmUQZ0AE\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 출력이 원하는 결과가 아닐 때는, 보이는 특정 문제에 따라 명확한 제약 조건을 프롬프트에 추가한 후 목표에 맞을 때까지 반복적으로 재생성하세요.  \n프롬프트→검토→제약 조건 추가→재생성 루프를 여러 번 반복하세요 (예: 3회 반복) 문제를 점진적으로 해결하고 최종 비디오를 개선합니다.  \n제약 조건을 추가해도 도움이 되지 않는다면, 제약 조건이 원래 프롬프트와 충돌하는지 확인하고 충돌을 제거하도록 프롬프트를 수정하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 또한 주의할 점은, 때때로 문제는 프롬프트에 있으며 제약 조건이 프롬프트와 충돌하여 도움이 되지 않을 수 있다는 것입니다.\n\n[Thread 2] 죄송합니다, 작은 오타가 있네요 “when you have don’t” 🤣 https://t.co/SlJmUQZ0AE\n---"
+    },
+    "pt": {
+      "content": "Quando a saída do Seedance não é o que você deseja, adicione restrições explícitas ao seu prompt com base nos problemas específicos que você observa, e então regenere iterativamente até que corresponda ao seu objetivo.  \nRepita um loop de prompt→revisão→adicionar restrições→regenerar várias vezes (por exemplo, 3 iterações) para corrigir progressivamente os problemas e melhorar o vídeo final.  \nSe adicionar restrições não ajudar, verifique se a restrição conflita com seu prompt original e revise o prompt para remover o conflito.\n\n--- CONTINUAÇÃO DO TÓPICO ---\n[Tópico 1] Apenas para observar, às vezes o problema está no seu prompt e a restrição pode não ajudar porque conflita com seu prompt.\n\n[Tópico 2] Desculpa pessoal, pequeno erro de digitação “quando você tem não” 🤣 https://t.co/SlJmUQZ0AE"
+    },
+    "zh": {
+      "content": "---\n当 Seedance 的输出不符合您的期望时，根据您观察到的具体问题在您的 prompt 中添加明确的限制，然后迭代地重新生成，直到它符合您的目标。  \n重复 prompt→审查→添加限制→重新生成的循环多次（例如，3 次迭代），以逐步解决问题并改善最终视频。  \n如果添加限制没有帮助，请检查限制是否与您原始的 prompt 冲突，并修改 prompt 以消除冲突。\n\n--- 线程继续 ---\n[线程 1] 还要注意，有时问题出在您的 prompt 上，限制可能无济于事，因为它与您的 prompt 冲突。\n\n[线程 2] 抱歉，大家有个小错误，“when you have don’t” 🤣 https://t.co/SlJmUQZ0AE\n---"
+    }
+  }
+}

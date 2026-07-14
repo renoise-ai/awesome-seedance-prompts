@@ -1,0 +1,42 @@
+{
+  "id": "2076644115656138901",
+  "title": "Generate the final shot step-by-step by first creating a background-characters…",
+  "content": "Generate the final shot step-by-step by first creating a background-characters shot, then compositing the main character in the foreground in a second generation.  \nUse a first-frame reference image (image1) to lock composition when recomposing elements from multiple videos.  \nIn prompts that merge subjects from different sources, explicitly instruct Seedance to maintain each subject’s original positions and proportions from its respective video.  \nAdd persistent motion constraints in the prompt (e.g., KEEP THE CROCODILE’S HAT BOUNCING THROUGHOUT THE ENTIRE VIDEO) to enforce an action for the full clip.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/voxelplot/status/2076644115656138901",
+  "sourcePublishedAt": "2026-07-13",
+  "author": {
+    "name": "VoxelPlot",
+    "link": "https://x.com/voxelplot"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Generate the final shot step-by-step by first creating a background-characters shot, then compositing the main character in the foreground in a second generation.  \nUse a first-frame reference image (image1) to lock composition when recomposing elements from multiple videos.  \nIn prompts that merge subjects from different sources, explicitly instruct Seedance to maintain each subject’s original positions and proportions from its respective video.  \nAdd persistent motion constraints in the prompt (e.g., KEEP THE CROCODILE’S HAT BOUNCING THROUGHOUT THE ENTIRE VIDEO) to enforce an action for the full clip.",
+  "translations": {
+    "es": {
+      "content": "Genera la toma final paso a paso creando primero una toma de fondo con personajes, luego componiendo el personaje principal en primer plano en una segunda generación.  \nUsa una imagen de referencia del primer fotograma (imagen1) para fijar la composición al recomponer elementos de múltiples videos.  \nEn prompts que fusionan sujetos de diferentes fuentes, instruye explícitamente a Seedance para mantener las posiciones y proporciones originales de cada sujeto de su respectivo video.  \nAñade restricciones de movimiento persistentes en el prompt (por ejemplo, KEEP THE CROCODILE’S HAT BOUNCING THROUGHOUT THE ENTIRE VIDEO) para imponer una acción durante todo el clip."
+    },
+    "fr": {
+      "content": "Générez le plan final étape par étape en créant d'abord un plan de fond avec les personnages, puis en composant le personnage principal au premier plan lors d'une seconde génération.  \nUtilisez une image de référence du premier cadre (image1) pour verrouiller la composition lors de la recomposition d'éléments provenant de plusieurs vidéos.  \nDans les prompts qui fusionnent des sujets de différentes sources, indiquez explicitement à Seedance de maintenir les positions et proportions originales de chaque sujet à partir de sa vidéo respective.  \nAjoutez des contraintes de mouvement persistantes dans le prompt (par exemple, KEEP THE CROCODILE’S HAT BOUNCING THROUGHOUT THE ENTIRE VIDEO) pour imposer une action sur l'ensemble du clip."
+    },
+    "ja": {
+      "content": "---\n最終ショットを段階的に生成します。まず背景とキャラクターのショットを作成し、次にメインキャラクターを前景に合成します。  \n複数のビデオから要素を再構成する際には、最初のフレーム参照画像（image1）を使用して構図を固定します。  \n異なるソースからの被写体を統合するプロンプトでは、各被写体の元の位置と比率をそれぞれのビデオから維持するようにSeedanceに明示的に指示します。  \nプロンプトに持続的な動きの制約を追加します（例：KEEP THE CROCODILE’S HAT BOUNCING THROUGHOUT THE ENTIRE VIDEO）ことで、クリップ全体にわたってアクションを強制します。  \n---"
+    },
+    "ko": {
+      "content": "---\n배경-캐릭터 샷을 먼저 생성한 후, 두 번째 생성에서 전경에 주인공을 합성하여 최종 샷을 단계별로 생성합니다.  \n여러 비디오에서 요소를 재구성할 때 구도를 고정하기 위해 첫 번째 프레임 참조 이미지(image1)를 사용합니다.  \n다른 출처의 주제를 병합하는 프롬프트에서는 각 주제가 해당 비디오에서의 원래 위치와 비율을 유지하도록 Seedance에 명확히 지시합니다.  \n프롬프트에 지속적인 동작 제약을 추가하여 전체 클립 동안 동작을 강제합니다 (예: KEEP THE CROCODILE’S HAT BOUNCING THROUGHOUT THE ENTIRE VIDEO).  \n---"
+    },
+    "pt": {
+      "content": "Gere a cena final passo a passo, primeiro criando uma cena de fundo com personagens, depois compondo o personagem principal em primeiro plano em uma segunda geração.  \nUse uma imagem de referência do primeiro quadro (image1) para fixar a composição ao recompor elementos de múltiplos vídeos.  \nEm prompts que mesclam sujeitos de diferentes fontes, instrua explicitamente o Seedance a manter as posições e proporções originais de cada sujeito de seu respectivo vídeo.  \nAdicione restrições de movimento persistentes no prompt (por exemplo, KEEP THE CROCODILE’S HAT BOUNCING THROUGHOUT THE ENTIRE VIDEO) para impor uma ação durante todo o clipe."
+    },
+    "zh": {
+      "content": "---\n逐步生成最终镜头，首先创建背景角色镜头，然后在第二次生成中将主角合成到前景中。  \n使用第一帧参考图像（image1）在重新组合来自多个视频的元素时锁定构图。  \n在合并来自不同来源的主题的提示中，明确指示Seedance保持每个主题在其各自视频中的原始位置和比例。  \n在提示中添加持续的运动约束（例如，KEEP THE CROCODILE’S HAT BOUNCING THROUGHOUT THE ENTIRE VIDEO）以在整个剪辑中强制执行一个动作。  \n---"
+    }
+  }
+}

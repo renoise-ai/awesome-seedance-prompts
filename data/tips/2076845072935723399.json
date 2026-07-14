@@ -1,0 +1,41 @@
+{
+  "id": "2076845072935723399",
+  "title": "スタイル指定に日本の作画枚数の多いアニメ、アニメアクション映画、アクロバティックなカメラワークを入れてSeedance…",
+  "content": "スタイル指定に日本の作画枚数の多いアニメ、アニメアクション映画、アクロバティックなカメラワークを入れてSeedance 2.0の映像トーンとカメラ動きをコントロールする  \nシーン分割（-シーン1/-シーン2）で各シーンの場所・登場人物・行動（例：宇宙船内カジノの音楽ステージでギター演奏）を具体的に書き分けて構成を安定させる  \n参照画像（画像1の女性/男性、画像3の宇宙船）を指定してキャラクターと舞台の一貫性を保つ",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/tokyo_Valentine/status/2076845072935723399",
+  "sourcePublishedAt": "2026-07-14",
+  "author": {
+    "name": "とすくん",
+    "link": "https://x.com/tokyo_Valentine"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Anime 2D",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "スタイル指定に日本の作画枚数の多いアニメ、アニメアクション映画、アクロバティックなカメラワークを入れてSeedance 2.0の映像トーンとカメラ動きをコントロールする  \nシーン分割（-シーン1/-シーン2）で各シーンの場所・登場人物・行動（例：宇宙船内カジノの音楽ステージでギター演奏）を具体的に書き分けて構成を安定させる  \n参照画像（画像1の女性/男性、画像3の宇宙船）を指定してキャラクターと舞台の一貫性を保つ",
+  "translations": {
+    "en": {
+      "content": "Include a style specification with Japanese animation featuring a high number of frames, anime action films, and acrobatic camera work to control the cinematic tone and camera movement of Seedance 2.0.  \nUse scene division (-Scene 1/-Scene 2) to specifically describe the location, characters, and actions of each scene (e.g., playing guitar on a music stage in a spaceship casino) to stabilize the composition.  \nSpecify reference images (woman/man in image 1, spaceship in image 3) to maintain consistency in characters and setting."
+    },
+    "es": {
+      "content": "---\nIncluir un estilo de anime japonés con un alto número de fotogramas, películas de acción de anime y un trabajo de cámara acrobático para controlar el tono visual y el movimiento de cámara de Seedance 2.0.  \nDividir en escenas (-escena 1/-escena 2) para detallar el lugar, los personajes y las acciones de cada escena (ejemplo: tocar la guitarra en el escenario musical de un casino dentro de una nave espacial) para estabilizar la estructura.  \nEspecificar imágenes de referencia (mujer/hombre de la imagen 1, nave espacial de la imagen 3) para mantener la consistencia de los personajes y el escenario.  \n---"
+    },
+    "fr": {
+      "content": "---\nIntégrez un style d'animation japonais avec un grand nombre de dessins, des films d'action animés et un travail de caméra acrobatique pour contrôler le ton visuel et les mouvements de caméra de Seedance 2.0.  \nUtilisez la division en scènes (-scène 1/-scène 2) pour décrire précisément le lieu, les personnages et les actions de chaque scène (exemple : jouer de la guitare sur la scène musicale d'un casino dans un vaisseau spatial) afin de stabiliser la structure.  \nSpécifiez des images de référence (femme/homme de l'image 1, vaisseau spatial de l'image 3) pour maintenir la cohérence des personnages et du décor.  \n---"
+    },
+    "ko": {
+      "content": "---\n스타일 지정에 일본의 작화 매수가 많은 애니메이션, 애니메이션 액션 영화, 아크로바틱한 카메라워크를 포함하여 Seedance 2.0의 영상 톤과 카메라 움직임을 컨트롤한다  \n씬 분할 (-씬1/-씬2)로 각 씬의 장소, 등장인물, 행동 (예: 우주선 내 카지노의 음악 무대에서 기타 연주)을 구체적으로 나누어 구성의 안정성을 유지한다  \n참조 이미지 (이미지1의 여성/남성, 이미지3의 우주선)를 지정하여 캐릭터와 무대의 일관성을 유지한다  \n---"
+    },
+    "pt": {
+      "content": "Para controlar o tom visual e o movimento de câmera do Seedance 2.0, insira um estilo que inclua anime japonês com muitos quadros de animação, filmes de ação em anime e trabalho de câmera acrobático.  \nUse a divisão de cenas (-cena1/-cena2) para descrever especificamente o local, os personagens e as ações de cada cena (exemplo: tocar guitarra no palco musical de um cassino dentro de uma nave espacial) para estabilizar a estrutura.  \nEspecifique imagens de referência (mulher/homem da imagem 1, nave espacial da imagem 3) para manter a consistência dos personagens e do cenário."
+    },
+    "zh": {
+      "content": "---\n在风格设定中加入日本动画片中帧数较多的动画、动画动作电影、杂技般的摄影手法，以控制Seedance 2.0的影像基调和镜头运动  \n通过场景分割（-场景1/-场景2），具体描述每个场景的位置、人物和动作（例如：在宇宙飞船内的赌场音乐舞台上演奏吉他），以稳定构成  \n指定参考图片（图片1的女性/男性，图片3的宇宙飞船），以保持角色和舞台的一致性  \n---"
+    }
+  }
+}

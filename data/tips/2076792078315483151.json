@@ -1,0 +1,41 @@
+{
+  "id": "2076792078315483151",
+  "title": "Use um modelo de imagem (gpt image 2, nano banana ou seedream) enviando imagens…",
+  "content": "Use um modelo de imagem (gpt image 2, nano banana ou seedream) enviando imagens de referência para gerar os frames iniciais de cada tomada conforme o enquadramento e o roteiro  \nDepois alimente o Seedance com esses frames iniciais e passe a atuação dos “atores” e os diálogos para guiar a cena  \nFinalize com edição básica focando em corte e ritmo  \nPara elevar o resultado, aplique color grading, adicione grão e faça upscale",
+  "language": "pt",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/renatolaurino/status/2076792078315483151",
+  "sourcePublishedAt": "2026-07-13",
+  "author": {
+    "name": "Renato Laurino",
+    "link": "https://x.com/renatolaurino"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use um modelo de imagem (gpt image 2, nano banana ou seedream) enviando imagens de referência para gerar os frames iniciais de cada tomada conforme o enquadramento e o roteiro  \nDepois alimente o Seedance com esses frames iniciais e passe a atuação dos “atores” e os diálogos para guiar a cena  \nFinalize com edição básica focando em corte e ritmo  \nPara elevar o resultado, aplique color grading, adicione grão e faça upscale",
+  "translations": {
+    "en": {
+      "content": "---\nUse an image model (gpt image 2, nano banana, or seedream) by sending reference images to generate the initial frames of each shot according to the framing and script.  \nThen feed Seedance with these initial frames and provide the \"actors'\" performances and dialogues to guide the scene.  \nFinish with basic editing focusing on cutting and pacing.  \nTo enhance the result, apply color grading, add grain, and upscale.  \n---"
+    },
+    "es": {
+      "content": "Usa un modelo de imagen (gpt image 2, nano banana o seedream) enviando imágenes de referencia para generar los fotogramas iniciales de cada toma según el encuadre y el guion.  \nLuego alimenta el Seedance con esos fotogramas iniciales y pasa la actuación de los “actores” y los diálogos para guiar la escena.  \nFinaliza con edición básica enfocándote en corte y ritmo.  \nPara elevar el resultado, aplica corrección de color, añade grano y haz upscale."
+    },
+    "fr": {
+      "content": "Utilisez un modèle d'image (gpt image 2, nano banana ou seedream) en envoyant des images de référence pour générer les frames initiaux de chaque prise selon le cadrage et le scénario.  \nEnsuite, alimentez le Seedance avec ces frames initiaux et passez l'interprétation des \"acteurs\" et les dialogues pour guider la scène.  \nFinalisez avec une édition basique en vous concentrant sur le découpage et le rythme.  \nPour élever le résultat, appliquez un étalonnage des couleurs, ajoutez du grain et effectuez un upscale."
+    },
+    "ja": {
+      "content": "画像モデル（gpt image 2、nano banana、または seedream）を使用し、リファレンス画像を送信して、フレームの構図と脚本に従って各ショットの初期フレームを生成します。  \nその後、これらの初期フレームをSeedanceに入力し、「俳優」の演技と対話を渡してシーンを導きます。  \n基本的な編集でカットとリズムに焦点を当てて仕上げます。  \n結果を向上させるために、カラーグレーディングを適用し、グレインを追加し、アップスケールを行います。"
+    },
+    "ko": {
+      "content": "이미지 모델(gpt image 2, nano banana 또는 seedream)을 사용하여 레퍼런스 이미지를 보내고, 각 샷의 프레임을 구성과 대본에 따라 생성하세요.  \n그런 다음 Seedance에 이러한 초기 프레임을 입력하고 \"배우\"의 연기와 대사를 전달하여 장면을 안내하세요.  \n기본 편집으로 컷과 리듬에 중점을 두어 마무리하세요.  \n결과를 향상시키기 위해 컬러 그레이딩을 적용하고, 그레인을 추가하며 업스케일을 수행하세요."
+    },
+    "zh": {
+      "content": "使用图像模型（gpt image 2、nano banana 或 seedream），发送参考图像以根据构图和剧本生成每个镜头的初始帧  \n然后将这些初始帧输入Seedance，并传递“演员”的表演和对话以引导场景  \n最后进行基本编辑，重点在于剪辑和节奏  \n为了提升效果，应用色彩分级，添加颗粒并进行升级"
+    }
+  }
+}
