@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **3668** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **1820** |
-| 🔄 最終更新 | **2026-07-13** |
+| 🔄 最終更新 | **2026-07-14** |
 
 ---
 
@@ -6120,4 +6120,4 @@ Animate the storyboard in Seedance 2.0 by generating/animating each numbered pan
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-13T20:57:44.034Z
+🤖 この README は自動生成されています。最終更新： 2026-07-14T02:35:55.636Z

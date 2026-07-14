@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **3668** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **1820** |
-| 🔄 最后更新 | **2026-07-13** |
+| 🔄 最后更新 | **2026-07-14** |
 
 ---
 
@@ -4585,4 +4585,4 @@ Animate the storyboard in Seedance 2.0 by generating/animating each numbered pan
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-07-13T20:57:44.021Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-07-14T02:35:55.623Z
