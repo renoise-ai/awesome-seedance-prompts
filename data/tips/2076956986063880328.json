@@ -1,0 +1,43 @@
+{
+  "id": "2076956986063880328",
+  "title": "同じプロンプトでSeedance 2.0のT2VとI2V、Seedance 2.0…",
+  "content": "同じプロンプトでSeedance 2.0のT2VとI2V、Seedance 2.0 MiniのI2Vを生成して動きの違いを比較し、動きを重視するならSeedance 2.0のT2Vを優先して試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076956193353056256/img/YfXOI6ByN69mwccN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2076956986063880328.mp4",
+  "sourceLink": "https://x.com/renataro9/status/2076956986063880328",
+  "sourcePublishedAt": "2026-07-14",
+  "author": {
+    "name": "meropan",
+    "link": "https://x.com/renataro9"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "同じプロンプトでSeedance 2.0のT2VとI2V、Seedance 2.0 MiniのI2Vを生成して動きの違いを比較し、動きを重視するならSeedance 2.0のT2Vを優先して試す",
+  "translations": {
+    "en": {
+      "content": "Generate T2V and I2V with Seedance 2.0 and I2V with Seedance 2.0 Mini using the same prompt, compare the differences in movement, and prioritize trying Seedance 2.0's T2V if movement is important."
+    },
+    "es": {
+      "content": "Con el mismo prompt, genera T2V e I2V con Seedance 2.0 y I2V con Seedance 2.0 Mini para comparar las diferencias en el movimiento. Si se da prioridad al movimiento, es recomendable probar primero T2V de Seedance 2.0."
+    },
+    "fr": {
+      "content": "Générez le T2V et l'I2V de Seedance 2.0 ainsi que l'I2V de Seedance 2.0 Mini avec le même prompt pour comparer les différences de mouvement. Si vous privilégiez le mouvement, essayez en priorité le T2V de Seedance 2.0."
+    },
+    "ko": {
+      "content": "같은 프로ンプ트로 Seedance 2.0의 T2V와 I2V, Seedance 2.0 Mini의 I2V를 생성하여 움직임의 차이를 비교하고, 움직임을 중시한다면 Seedance 2.0의 T2V를 우선적으로 시도해보세요."
+    },
+    "pt": {
+      "content": "Compare os movimentos gerados pelo T2V e I2V do Seedance 2.0 e pelo I2V do Seedance 2.0 Mini usando o mesmo prompt, e se o foco for nos movimentos, priorize testar o T2V do Seedance 2.0."
+    },
+    "zh": {
+      "content": "使用相同的prompt生成Seedance 2.0的T2V和I2V，以及Seedance 2.0 Mini的I2V，比较它们的动作差异。如果重视动作，建议优先尝试Seedance 2.0的T2V。"
+    }
+  }
+}

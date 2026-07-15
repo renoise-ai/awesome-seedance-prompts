@@ -1,0 +1,42 @@
+{
+  "id": "2076922396414775399",
+  "title": "Use a prompt that specifies duration (15 seconds) and aspect ratio (vertical…",
+  "content": "Use a prompt that specifies duration (15 seconds) and aspect ratio (vertical 9:16) to match a vlog-style output in Seedance 2.0 T2V  \nCombine style directives like Live-Action + Flat 2D Anime Sticker Composite with first-person POV street-magic vlog to control mixed-media look and camera perspective  \nAdd realism qualifiers like 8K photoreal detail and imperfect texture of real smartphone to push smartphone-footage authenticity",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/CurieuxExplorer/status/2076922396414775399",
+  "sourcePublishedAt": "2026-07-14",
+  "author": {
+    "name": "Dev Khanna",
+    "link": "https://x.com/CurieuxExplorer"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Use a prompt that specifies duration (15 seconds) and aspect ratio (vertical 9:16) to match a vlog-style output in Seedance 2.0 T2V  \nCombine style directives like Live-Action + Flat 2D Anime Sticker Composite with first-person POV street-magic vlog to control mixed-media look and camera perspective  \nAdd realism qualifiers like 8K photoreal detail and imperfect texture of real smartphone to push smartphone-footage authenticity",
+  "translations": {
+    "es": {
+      "content": "Usa un prompt que especifique la duración (15 segundos) y la relación de aspecto (vertical 9:16) para coincidir con un resultado de estilo vlog en Seedance 2.0 T2V  \nCombina directivas de estilo como Live-Action + Flat 2D Anime Sticker Composite con un vlog de magia callejera en primera persona para controlar la apariencia de medios mixtos y la perspectiva de la cámara  \nAñade calificadores de realismo como detalle fotorrealista en 8K y textura imperfecta de un smartphone real para aumentar la autenticidad de las imágenes de smartphone"
+    },
+    "fr": {
+      "content": "Utilisez un prompt qui spécifie la durée (15 secondes) et le format d'image (vertical 9:16) pour correspondre à un rendu de style vlog dans Seedance 2.0 T2V  \nCombinez des directives de style comme Live-Action + Flat 2D Anime Sticker Composite avec un vlog de street-magic en POV à la première personne pour contrôler l'aspect mixte des médias et la perspective de la caméra  \nAjoutez des qualificatifs de réalisme comme un détail photoréaliste en 8K et une texture imparfaite d'un véritable smartphone pour renforcer l'authenticité des séquences filmées avec un smartphone"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0 T2Vで、ブログスタイルの出力に合わせた持続時間（15秒）とアスペクト比（縦9:16）を指定するプロンプトを使用します。  \nLive-Action + Flat 2D Anime Sticker Compositeのようなスタイル指示を、ファーストパーソンPOVのストリートマジックブログと組み合わせて、混合メディアの外観とカメラの視点を制御します。  \n8Kフォトリアルなディテールや実際のスマートフォンの不完全なテクスチャーのようなリアリズムの修飾語を追加して、スマートフォン映像の本物らしさを高めます。  \n---"
+    },
+    "ko": {
+      "content": "---\nSeedance 2.0 T2V에서 브이로그 스타일의 출력을 맞추기 위해 지속 시간(15초)과 화면 비율(세로 9:16)을 지정하는 prompt를 사용하세요.  \n혼합 미디어 룩과 카메라 시점을 제어하기 위해 Live-Action + Flat 2D Anime Sticker Composite와 같은 스타일 지시어를 1인칭 POV 거리 마술 브이로그와 결합하세요.  \n스마트폰 촬영의 진정성을 높이기 위해 8K 포토리얼 디테일과 실제 스마트폰의 불완전한 질감과 같은 현실감 수식어를 추가하세요.  \n---"
+    },
+    "pt": {
+      "content": "Use um prompt que especifique a duração (15 segundos) e a proporção de aspecto (vertical 9:16) para corresponder a uma saída no estilo vlog no Seedance 2.0 T2V  \nCombine diretrizes de estilo como Live-Action + Flat 2D Anime Sticker Composite com vlog de street-magic em primeira pessoa para controlar a aparência de mídia mista e a perspectiva da câmera  \nAdicione qualificadores de realismo como detalhe fotorrealista em 8K e textura imperfeita de um smartphone real para aumentar a autenticidade de filmagens de smartphone"
+    },
+    "zh": {
+      "content": "---\n使用一个指定时长（15秒）和纵横比（垂直9:16）的prompt，以匹配Seedance 2.0 T2V中的vlog风格输出  \n结合风格指令，如Live-Action + Flat 2D Anime Sticker Composite与第一人称视角街头魔术vlog，以控制混合媒体外观和摄像机视角  \n添加现实主义限定词，如8K真实细节和真实智能手机的不完美纹理，以增强智能手机拍摄的真实性  \n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2077010523724636450",
+  "title": "DomoAIの「キャラクターから動画へ」モーションキャプチャー機能で、AIモデルにSeedanceを選択してキャラクター動画を生成する",
+  "content": "DomoAIの「キャラクターから動画へ」モーションキャプチャー機能で、AIモデルにSeedanceを選択してキャラクター動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077007330139615232/img/gpsDqHZhUmhDtRDd.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077010523724636450.mp4",
+  "sourceLink": "https://x.com/genbaAI/status/2077010523724636450",
+  "sourcePublishedAt": "2026-07-14",
+  "author": {
+    "name": "ぺらこ｜ AIで描く建設業",
+    "link": "https://x.com/genbaAI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "DomoAIの「キャラクターから動画へ」モーションキャプチャー機能で、AIモデルにSeedanceを選択してキャラクター動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Generate character videos by selecting Seedance as the AI model using DomoAI's \"Character to Video\" motion capture feature."
+    },
+    "es": {
+      "content": "Con la función de captura de movimiento \"De personaje a video\" de DomoAI, selecciona Seedance en el modelo de IA para generar videos de personajes."
+    },
+    "fr": {
+      "content": "Avec la fonctionnalité de capture de mouvement \"De personnage à vidéo\" de DomoAI, sélectionnez Seedance comme modèle AI pour générer une vidéo de personnage."
+    },
+    "ko": {
+      "content": "DomoAI의 \"캐릭터에서 비디오로\" 모션 캡처 기능을 사용하여, AI 모델에 Seedance를 선택하고 캐릭터 비디오를 생성합니다."
+    },
+    "pt": {
+      "content": "Com o recurso de captura de movimento \"de personagem para vídeo\" do DomoAI, selecione Seedance como o modelo de IA para gerar vídeos de personagens."
+    },
+    "zh": {
+      "content": "使用DomoAI的“从角色到视频”动作捕捉功能，选择Seedance作为AI模型来生成角色视频。"
+    }
+  }
+}

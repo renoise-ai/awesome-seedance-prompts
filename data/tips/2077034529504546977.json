@@ -1,0 +1,43 @@
+{
+  "id": "2077034529504546977",
+  "title": "Develop the visual language in Midjourney using a style reference ID (e.g…",
+  "content": "Develop the visual language in Midjourney using a style reference ID (e.g., --sref 3897881209) to lock a consistent look before moving into Seedance.  \nRefine the concept into production-ready character and vehicle sheets with GPT Image 2 to maintain design consistency across Seedance shots.  \nFor Seedance 2.0 animation, enforce strict left-to-right screen direction across all shots to preserve spatial orientation.  \nMaintain clear action continuity between Seedance shots so motion and intent read cleanly during fast sequences.  \nKeep vehicle motion grounded with realistic vehicle physics in Seedance prompts/shot planning to avoid floaty movement.  \nDesign the sequence with a readable final escape beat so the ending action is unambiguous even at high pace.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077034296062119936/img/f3R_tQc_OdiDsxZJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077034529504546977.mp4",
+  "sourceLink": "https://x.com/0kncn/status/2077034529504546977",
+  "sourcePublishedAt": "2026-07-14",
+  "author": {
+    "name": "Okan Can",
+    "link": "https://x.com/0kncn"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Develop the visual language in Midjourney using a style reference ID (e.g., --sref 3897881209) to lock a consistent look before moving into Seedance.  \nRefine the concept into production-ready character and vehicle sheets with GPT Image 2 to maintain design consistency across Seedance shots.  \nFor Seedance 2.0 animation, enforce strict left-to-right screen direction across all shots to preserve spatial orientation.  \nMaintain clear action continuity between Seedance shots so motion and intent read cleanly during fast sequences.  \nKeep vehicle motion grounded with realistic vehicle physics in Seedance prompts/shot planning to avoid floaty movement.  \nDesign the sequence with a readable final escape beat so the ending action is unambiguous even at high pace.",
+  "translations": {
+    "es": {
+      "content": "Desarrolla el lenguaje visual en Midjourney utilizando un ID de referencia de estilo (por ejemplo, --sref 3897881209) para asegurar un aspecto consistente antes de pasar a Seedance.  \nRefina el concepto en hojas de personajes y vehículos listas para producción con GPT Image 2 para mantener la consistencia del diseño en los planos de Seedance.  \nPara la animación Seedance 2.0, aplica una dirección de pantalla estricta de izquierda a derecha en todos los planos para preservar la orientación espacial.  \nMantén una continuidad clara de acción entre los planos de Seedance para que el movimiento y la intención se lean claramente durante secuencias rápidas.  \nMantén el movimiento de los vehículos anclado con física de vehículos realista en los prompts/planificación de planos de Seedance para evitar movimientos flotantes.  \nDiseña la secuencia con un ritmo final de escape legible para que la acción final sea inequívoca incluso a alta velocidad."
+    },
+    "fr": {
+      "content": "Développez le langage visuel dans Midjourney en utilisant un ID de référence de style (par exemple, --sref 3897881209) pour verrouiller un look cohérent avant de passer à Seedance.  \nAffinez le concept en feuilles de personnages et de véhicules prêtes pour la production avec GPT Image 2 pour maintenir la cohérence du design à travers les plans de Seedance.  \nPour l'animation Seedance 2.0, appliquez une direction stricte de l'écran de gauche à droite sur tous les plans pour préserver l'orientation spatiale.  \nMaintenez une continuité claire de l'action entre les plans de Seedance afin que le mouvement et l'intention soient lisibles lors des séquences rapides.  \nGardez le mouvement des véhicules ancré avec une physique réaliste des véhicules dans les prompts/plans de Seedance pour éviter un mouvement flottant.  \nConcevez la séquence avec un rythme final d'évasion lisible afin que l'action finale soit sans ambiguïté même à un rythme élevé."
+    },
+    "ja": {
+      "content": "---\nMidjourneyでスタイル参照ID（例：--sref 3897881209）を使用して視覚言語を開発し、Seedanceに移行する前に一貫した外観を固定します。  \nSeedanceのショット全体でデザインの一貫性を維持するために、GPT Image 2を使用してコンセプトを生産準備が整ったキャラクターおよびビークルシートに洗練させます。  \nSeedance 2.0アニメーションでは、すべてのショットで左から右への画面方向を厳守し、空間的な方向性を維持します。  \nSeedanceのショット間で明確なアクションの連続性を維持し、速いシーケンス中でも動きと意図が明確に読み取れるようにします。  \nSeedanceのプロンプト/ショット計画では、リアリスティックなビークル物理学を使用してビークルの動きを地に足のついたものに保ち、浮遊感のある動きを避けます。  \nシーケンスを設計する際には、最終的な脱出のビートが読みやすく、速いペースでもエンディングアクションが明確であるようにします。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance로 이동하기 전에 일관된 모습을 고정하기 위해 스타일 참조 ID(예: --sref 3897881209)를 사용하여 Midjourney에서 시각적 언어를 개발하십시오.  \nSeedance 샷 전반에 걸쳐 디자인 일관성을 유지하기 위해 GPT Image 2로 개념을 제작 준비가 된 캐릭터 및 차량 시트로 정제하십시오.  \nSeedance 2.0 애니메이션에서는 모든 샷에 걸쳐 공간적 방향을 유지하기 위해 엄격한 좌에서 우로의 화면 방향을 적용하십시오.  \n빠른 시퀀스 동안 동작과 의도가 명확하게 읽히도록 Seedance 샷 간의 명확한 액션 연속성을 유지하십시오.  \nSeedance 프롬프트/샷 계획에서 현실적인 차량 물리학으로 차량 움직임을 지면에 고정하여 부유하는 움직임을 피하십시오.  \n높은 속도에서도 결말 액션이 명확하도록 읽기 쉬운 최종 탈출 비트를 사용하여 시퀀스를 설계하십시오.\n---"
+    },
+    "pt": {
+      "content": "Desenvolva a linguagem visual no Midjourney usando um ID de referência de estilo (por exemplo, --sref 3897881209) para garantir uma aparência consistente antes de passar para o Seedance.  \nRefine o conceito em folhas de personagens e veículos prontas para produção com o GPT Image 2 para manter a consistência de design em todos os planos do Seedance.  \nPara a animação Seedance 2.0, aplique uma direção de tela estrita da esquerda para a direita em todos os planos para preservar a orientação espacial.  \nMantenha uma continuidade clara de ação entre os planos do Seedance para que o movimento e a intenção sejam compreendidos claramente durante sequências rápidas.  \nMantenha o movimento dos veículos fundamentado com física realista de veículos nos prompts/planejamento de planos do Seedance para evitar movimentos flutuantes.  \nDesenhe a sequência com um clímax de fuga final legível para que a ação final seja inequívoca, mesmo em alta velocidade."
+    },
+    "zh": {
+      "content": "在Midjourney中使用风格参考ID（例如，--sref 3897881209）来建立视觉语言，以在进入Seedance之前锁定一致的外观。  \n使用GPT Image 2将概念细化为生产就绪的角色和车辆图纸，以在Seedance镜头中保持设计一致性。  \n对于Seedance 2.0动画，在所有镜头中强制执行严格的从左到右的屏幕方向，以保持空间方向。  \n在Seedance镜头之间保持清晰的动作连续性，以便在快速序列中动作和意图能够清晰地呈现。  \n在Seedance提示/镜头规划中保持车辆运动符合现实的车辆物理，以避免漂浮的运动。  \n设计序列时确保最终逃脱节拍可读，以便即使在高速情况下，结尾动作也清晰明确。"
+    }
+  }
+}
