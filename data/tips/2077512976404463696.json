@@ -1,0 +1,43 @@
+{
+  "id": "2077512976404463696",
+  "title": "ChatGPTに絵コンテ（ストーリーボード）を作らせてから、CapCutのSeedance 2.0でその内容を映像化するワークフローで制作する",
+  "content": "ChatGPTに絵コンテ（ストーリーボード）を作らせてから、CapCutのSeedance 2.0でその内容を映像化するワークフローで制作する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077512052923637760/img/AnqBGQ_-BlgElJdI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077512976404463696.mp4",
+  "sourceLink": "https://x.com/hiromi_sound/status/2077512976404463696",
+  "sourcePublishedAt": "2026-07-15",
+  "author": {
+    "name": "HIROMI🌸",
+    "link": "https://x.com/hiromi_sound"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "ChatGPTに絵コンテ（ストーリーボード）を作らせてから、CapCutのSeedance 2.0でその内容を映像化するワークフローで制作する",
+  "translations": {
+    "en": {
+      "content": "Create the storyboard with ChatGPT first, then use CapCut’s Seedance 2.0 to turn that content into video in a production workflow."
+    },
+    "es": {
+      "content": "Crear contenido con un flujo de trabajo en el que primero le pides a ChatGPT que genere un storyboard, y luego conviertes ese contenido en video con Seedance 2.0 de CapCut."
+    },
+    "fr": {
+      "content": "Créer une vidéo en suivant un workflow où l’on demande d’abord à ChatGPT de créer un storyboard, puis où l’on transforme ce contenu en images animées avec Seedance 2.0 dans CapCut."
+    },
+    "ko": {
+      "content": "ChatGPT로 스토리보드(콘티)를 만든 다음, CapCut의 Seedance 2.0으로 그 내용을 영상화하는 워크플로로 제작한다"
+    },
+    "pt": {
+      "content": "Produzir usando um fluxo de trabalho em que o ChatGPT cria o storyboard (roteiro visual) e, em seguida, o conteúdo é transformado em vídeo no Seedance 2.0 do CapCut"
+    },
+    "zh": {
+      "content": "通过让 ChatGPT 先制作分镜脚本（storyboard），再使用 CapCut 的 Seedance 2.0 将其内容转化为视频的工作流程进行制作。"
+    }
+  }
+}

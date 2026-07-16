@@ -1,0 +1,42 @@
+{
+  "id": "2077280563581292731",
+  "title": "Combine Midjourney with Seedance 2.0 in Runway ML to create AI short videos for…",
+  "content": "Combine Midjourney with Seedance 2.0 in Runway ML to create AI short videos for opening credits.  \nIn your prompt, specify the description, camera settings, character notes, and action before generating.  \nTimecode each shot in advance to structure the opening-credits sequence.  \nUse creative, detailed prompting to improve the resulting video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077280483503730688/img/C4-4gPb5eLrm1Awp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077280563581292731.mp4",
+  "sourceLink": "https://x.com/gen_ericai/status/2077280563581292731",
+  "sourcePublishedAt": "2026-07-15",
+  "author": {
+    "name": "gen.ericai",
+    "link": "https://x.com/gen_ericai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Combine Midjourney with Seedance 2.0 in Runway ML to create AI short videos for opening credits.  \nIn your prompt, specify the description, camera settings, character notes, and action before generating.  \nTimecode each shot in advance to structure the opening-credits sequence.  \nUse creative, detailed prompting to improve the resulting video.",
+  "translations": {
+    "es": {
+      "content": "Combina Midjourney con Seedance 2.0 en Runway ML para crear cortos de video con IA para los créditos iniciales.  \nEn tu prompt, especifica la descripción, los ajustes de cámara, las notas del personaje y la acción antes de generar.  \nAsigna un timecode a cada toma con antelación para estructurar la secuencia de créditos iniciales.  \nUsa prompts creativos y detallados para mejorar el video resultante."
+    },
+    "fr": {
+      "content": "Combinez Midjourney avec Seedance 2.0 dans Runway ML pour créer de courtes vidéos IA pour les génériques d’ouverture.  \nDans votre prompt, précisez la description, les réglages de caméra, les notes sur les personnages et l’action avant de générer.  \nAttribuez un timecode à chaque plan à l’avance afin de structurer la séquence du générique d’ouverture.  \nUtilisez un prompting créatif et détaillé pour améliorer la vidéo obtenue."
+    },
+    "ja": {
+      "content": "Runway MLでMidjourneyとSeedance 2.0を組み合わせ、オープニングクレジット用のAIショート動画を作成します。  \nプロンプトでは、生成前に説明、カメラ設定、キャラクターのメモ、アクションを指定してください。  \n各ショットにあらかじめタイムコードを付けて、オープニングクレジットのシーケンスを構成します。  \n創造的で詳細なプロンプトを使うことで、生成される動画のクオリティを向上させます。"
+    },
+    "ko": {
+      "content": "Runway ML에서 Midjourney와 Seedance 2.0을 결합해 오프닝 크레딧용 AI 숏비디오를 제작하세요.  \n프롬프트에서는 생성 전에 설명, 카메라 설정, 캐릭터 노트, 액션을 구체적으로 지정하세요.  \n오프닝 크레딧 시퀀스를 구성할 수 있도록 각 샷의 타임코드를 미리 정해 두세요.  \n창의적이고 상세한 프롬프팅을 사용해 결과 영상의 완성도를 높이세요."
+    },
+    "pt": {
+      "content": "Combine o Midjourney com o Seedance 2.0 no Runway ML para criar vídeos curtos com IA para créditos de abertura.  \nNo seu prompt, especifique a descrição, as configurações de câmera, as observações sobre os personagens e a ação antes de gerar.  \nDefina o timecode de cada tomada com antecedência para estruturar a sequência de créditos de abertura.  \nUse prompts criativos e detalhados para melhorar o vídeo resultante."
+    },
+    "zh": {
+      "content": "在 Runway ML 中将 Midjourney 与 Seedance 2.0 结合起来，制作用于片头字幕的 AI 短视频。  \n在生成之前，在你的 prompt 中明确描述、镜头设置、角色说明和动作。  \n提前为每个镜头标注 timecode，以构建片头字幕序列。  \n使用富有创意且细致的 prompting 来提升最终视频效果。"
+    }
+  }
+}

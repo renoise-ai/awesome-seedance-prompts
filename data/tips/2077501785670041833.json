@@ -1,0 +1,42 @@
+{
+  "id": "2077501785670041833",
+  "title": "Use Whisper to get exact lyric timing instead of guessing when syncing visuals…",
+  "content": "Use Whisper to get exact lyric timing instead of guessing when syncing visuals to a track  \nCreate a beat map and shot list so every cut is locked to the song’s rhythm  \nBuild a character bible plus reference images to keep characters consistent across Seedance generations  \nSplit the video into many short sections (e.g., 32) and generate short AI clips instead of one long generation  \nRender multiple takes from Seedance and curate/select the best takes before editing  \nAssemble, trim, and sync the generated clips in DaVinci Resolve (optionally via an MCP integration)  \nPut lyric captions on a separate track and use a custom font with dedicated caption renders  \nUse AI for frame generation and frame interpolation, then rely on post-production to finalize the music video",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077500036720873472/img/atO-3qg-dIovRLki.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077501785670041833.mp4",
+  "sourceLink": "https://x.com/curator_doc/status/2077501785670041833",
+  "sourcePublishedAt": "2026-07-15",
+  "author": {
+    "name": "Doc 🦇🔊",
+    "link": "https://x.com/curator_doc"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Whisper to get exact lyric timing instead of guessing when syncing visuals to a track  \nCreate a beat map and shot list so every cut is locked to the song’s rhythm  \nBuild a character bible plus reference images to keep characters consistent across Seedance generations  \nSplit the video into many short sections (e.g., 32) and generate short AI clips instead of one long generation  \nRender multiple takes from Seedance and curate/select the best takes before editing  \nAssemble, trim, and sync the generated clips in DaVinci Resolve (optionally via an MCP integration)  \nPut lyric captions on a separate track and use a custom font with dedicated caption renders  \nUse AI for frame generation and frame interpolation, then rely on post-production to finalize the music video",
+  "translations": {
+    "es": {
+      "content": "Usa Whisper para obtener el timing exacto de la letra en lugar de adivinarlo al sincronizar las imágenes con una pista  \nCrea un beat map y una shot list para que cada corte quede bloqueado al ritmo de la canción  \nConstruye una character bible junto con imágenes de referencia para mantener la coherencia de los personajes en todas las generaciones de Seedance  \nDivide el video en muchas secciones cortas (por ejemplo, 32) y genera clips cortos con IA en lugar de una sola generación larga  \nRenderiza múltiples takes desde Seedance y selecciona/cura los mejores takes antes de editar  \nEnsambla, recorta y sincroniza los clips generados en DaVinci Resolve (opcionalmente mediante una integración MCP)  \nColoca los subtítulos de la letra en una pista separada y usa una fuente personalizada con renders dedicados para subtítulos  \nUsa IA para la generación de frames y la interpolación de frames, y luego apóyate en la postproducción para finalizar el videoclip musical"
+    },
+    "fr": {
+      "content": "Utilisez Whisper pour obtenir un timing exact des paroles au lieu de deviner lors de la synchronisation des visuels avec un morceau  \nCréez une beat map et une shot list afin que chaque coupe soit parfaitement calée sur le rythme de la chanson  \nÉlaborez un character bible ainsi que des images de référence pour garder des personnages cohérents d’une génération Seedance à l’autre  \nDivisez la vidéo en nombreuses courtes sections (par exemple 32) et générez de courts clips IA plutôt qu’une seule longue génération  \nRendez plusieurs prises depuis Seedance et sélectionnez les meilleures avant le montage  \nAssemblez, recadrez et synchronisez les clips générés dans DaVinci Resolve (éventuellement via une intégration MCP)  \nPlacez les sous-titres des paroles sur une piste séparée et utilisez une police personnalisée avec des rendus de sous-titres dédiés  \nUtilisez l’IA pour la génération d’images et l’interpolation d’images, puis appuyez-vous sur la post-production pour finaliser le clip musical"
+    },
+    "ja": {
+      "content": "Whisperを使って、映像を楽曲に合わせる際にタイミングを推測するのではなく、正確な歌詞タイミングを取得する  \nビートマップとショットリストを作成し、すべてのカットが曲のリズムにぴったり合うようにする  \nキャラクター設定集と参考画像を用意して、Seedanceの生成全体でキャラクターの一貫性を保つ  \n動画を多数の短いセクション（例：32）に分割し、1回の長い生成ではなく短いAIクリップを生成する  \nSeedanceから複数テイクをレンダリングし、編集前に最良のテイクを選別・キュレーションする  \n生成したクリップをDaVinci Resolveで組み立て、トリミングし、同期させる（必要に応じてMCP連携を介して）  \n歌詞キャプションは別トラックに配置し、専用のキャプションレンダリングにはカスタムフォントを使用する  \nフレーム生成とフレーム補間にAIを活用し、最終的なミュージックビデオの仕上げはポストプロダクションに委ねる"
+    },
+    "ko": {
+      "content": "Whisper를 사용해 정확한 가사 타이밍을 파악하고, 비주얼을 트랙에 맞춰 싱크할 때 추측에 의존하지 마세요  \n비트 맵과 샷 리스트를 만들어 모든 컷이 곡의 리듬에 정확히 맞도록 하세요  \n캐릭터 바이블과 레퍼런스 이미지를 만들어 Seedance 생성 전반에서 캐릭터 일관성을 유지하세요  \n비디오를 여러 개의 짧은 구간(예: 32개)으로 나누고, 한 번에 긴 생성을 하기보다 짧은 AI 클립을 생성하세요  \nSeedance에서 여러 테이크를 렌더링한 뒤, 편집 전에 가장 좋은 테이크를 선별하세요  \n생성된 클립을 DaVinci Resolve에서 조립, 트리밍, 싱크하세요(선택적으로 MCP 통합을 통해)  \n가사 캡션은 별도의 트랙에 넣고, 전용 캡션 렌더와 함께 커스텀 폰트를 사용하세요  \n프레임 생성과 프레임 보간에 AI를 활용한 뒤, 후반 작업으로 뮤직비디오를 마무리하세요"
+    },
+    "pt": {
+      "content": "Use o Whisper para obter o timing exato da letra, em vez de adivinhar ao sincronizar os visuais com uma faixa  \nCrie um beat map e uma shot list para que cada corte fique travado no ritmo da música  \nMonte um character bible junto com imagens de referência para manter os personagens consistentes entre as gerações no Seedance  \nDivida o vídeo em várias seções curtas (por exemplo, 32) e gere clipes curtos com IA em vez de uma única geração longa  \nRenderize várias takes no Seedance e faça a curadoria/selecione as melhores takes antes da edição  \nMonte, corte e sincronize os clipes gerados no DaVinci Resolve (opcionalmente via uma integração MCP)  \nColoque as legendas da letra em uma faixa separada e use uma fonte personalizada com renders dedicados de legendas  \nUse IA para geração de frames e interpolação de frames, e depois conte com a pós-produção para finalizar o videoclipe"
+    },
+    "zh": {
+      "content": "使用 Whisper 获取准确的歌词时间点，而不是在将画面与音轨同步时靠猜测  \n创建节拍图和镜头清单，让每一次剪辑都严格贴合歌曲节奏  \n制作角色设定手册和参考图像，确保角色在不同的 Seedance 生成结果中保持一致  \n将视频拆分成许多短片段（例如 32 段），生成短的 AI 片段，而不是一次生成一整段长视频  \n从 Seedance 渲染多个版本，并在剪辑前筛选/挑选最佳版本  \n在 DaVinci Resolve 中组装、裁剪并同步生成的片段（也可通过 MCP 集成实现）  \n将歌词字幕放在单独的轨道上，并使用自定义字体和专门的字幕渲染  \n使用 AI 进行帧生成和帧插值，然后依靠后期制作来完成音乐视频"
+    }
+  }
+}
