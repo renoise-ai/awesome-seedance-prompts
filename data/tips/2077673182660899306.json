@@ -1,0 +1,42 @@
+{
+  "id": "2077673182660899306",
+  "title": "GPT Image 2でキャラクターの世界観に合うPCデスクセットアップ画像を生成し、その画像をSeedance…",
+  "content": "GPT Image 2でキャラクターの世界観に合うPCデスクセットアップ画像を生成し、その画像をSeedance 2.0に渡してPV風の映像に仕上げるワークフローを使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077668742918725632/img/hqCAbck-FBghXxJS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077673182660899306.mp4",
+  "sourceLink": "https://x.com/PolloAIJP/status/2077673182660899306",
+  "sourcePublishedAt": "2026-07-16",
+  "author": {
+    "name": "Pollo AI 日本公式",
+    "link": "https://x.com/PolloAIJP"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "GPT Image 2でキャラクターの世界観に合うPCデスクセットアップ画像を生成し、その画像をSeedance 2.0に渡してPV風の映像に仕上げるワークフローを使う",
+  "translations": {
+    "en": {
+      "content": "Use a workflow where you generate a PC desk setup image that matches the character’s worldbuilding with GPT Image 2, then pass that image to Seedance 2.0 to turn it into a PV-style video."
+    },
+    "es": {
+      "content": "Usar un flujo de trabajo en el que se genera con GPT Image 2 una imagen de un setup de escritorio de PC que encaje con el universo del personaje, y luego se pasa esa imagen a Seedance 2.0 para convertirla en un video con estilo PV."
+    },
+    "fr": {
+      "content": "Utiliser un workflow dans lequel on génère, avec GPT Image 2, une image de setup de bureau PC adaptée à l’univers du personnage, puis on transmet cette image à Seedance 2.0 pour la transformer en une vidéo de style PV."
+    },
+    "ko": {
+      "content": "GPT Image 2로 캐릭터의 세계관에 어울리는 PC 데스크 셋업 이미지를 생성하고, 그 이미지를 Seedance 2.0에 전달해 PV풍의 영상으로 완성하는 워크플로를 사용한다"
+    },
+    "pt": {
+      "content": "Usar um workflow em que você gera, com o GPT Image 2, uma imagem de setup de PC que combine com o universo do personagem e, em seguida, passa essa imagem para o Seedance 2.0 para transformá-la em um vídeo com clima de PV."
+    },
+    "zh": {
+      "content": "使用 GPT Image 2 生成与角色世界观相符的 PC 桌面布置图片，并将该图片传给 Seedance 2.0，制作成 PV 风格视频的工作流程"
+    }
+  }
+}

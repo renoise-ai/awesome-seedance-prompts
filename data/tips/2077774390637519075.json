@@ -1,0 +1,41 @@
+{
+  "id": "2077774390637519075",
+  "title": "在Seedance生成视频时，把提示词按生成视频：主体：场景：的结构分段编写以增强可控性",
+  "content": "在Seedance生成视频时，把提示词按生成视频：主体：场景：的结构分段编写以增强可控性  \n在主体里分别为每个角色写清楚阵营/身份（红方拳击手、蓝方拳击手）、年龄（20岁）、人种（东亚女性）、发型发色（短金色头发/黑色长直发）和服装配色（红/蓝运动背心、拳击手套、拳击短裤）以稳定角色一致性",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/PixelAigc/status/2077774390637519075",
+  "sourcePublishedAt": "2026-07-16",
+  "author": {
+    "name": "PixelAIGC",
+    "link": "https://x.com/PixelAigc"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "在Seedance生成视频时，把提示词按生成视频：主体：场景：的结构分段编写以增强可控性  \n在主体里分别为每个角色写清楚阵营/身份（红方拳击手、蓝方拳击手）、年龄（20岁）、人种（东亚女性）、发型发色（短金色头发/黑色长直发）和服装配色（红/蓝运动背心、拳击手套、拳击短裤）以稳定角色一致性",
+  "translations": {
+    "en": {
+      "content": "When generating videos in Seedance, structure the prompt in segments as: video generation: subject: scene: to improve controllability.  \nIn the subject section, clearly specify for each character their faction/identity (red-side boxer, blue-side boxer), age (20 years old), ethnicity (East Asian woman), hairstyle and hair color (short blonde hair / long straight black hair), and clothing colors (red/blue athletic tank top, boxing gloves, boxing shorts) to maintain character consistency."
+    },
+    "es": {
+      "content": "Al generar videos en Seedance, escribe los prompts por secciones siguiendo la estructura: generación de video: sujeto: escena: para aumentar el control.  \nEn la sección del sujeto, describe claramente para cada personaje su bando/identidad (boxeadora del equipo rojo, boxeadora del equipo azul), edad (20 años), etnia (mujer de Asia oriental), peinado y color de cabello (cabello corto rubio/cabello largo liso negro) y colores de la ropa (camiseta deportiva roja/azul, guantes de boxeo, pantalones cortos de boxeo) para mantener la consistencia del personaje."
+    },
+    "fr": {
+      "content": "Lors de la génération de vidéos avec Seedance, structurez les prompts par segments selon le schéma : génération vidéo : sujet : scène : afin d’améliorer le contrôle.\n\nDans la partie sujet, décrivez clairement pour chaque personnage son camp/identité (boxeur rouge, boxeur bleu), son âge (20 ans), son origine ethnique (femme est-asiatique), sa coiffure et couleur de cheveux (cheveux courts blonds / longs cheveux noirs raides) ainsi que les couleurs de sa tenue (débardeur de sport rouge/bleu, gants de boxe, short de boxe) afin de stabiliser la cohérence des personnages."
+    },
+    "ja": {
+      "content": "Seedanceで動画を生成する際は、提示詞を「生成動画：主体：シーン：」という構成で分けて書くことで、制御性を高めることができます。  \n主体の部分では、各キャラクターについてそれぞれ、陣営/身分（赤コーナーのボクサー、青コーナーのボクサー）、年齢（20歳）、人種（東アジア系女性）、髪型・髪色（短い金髪／黒いロングストレートヘア）、服装の配色（赤/青のスポーツタンクトップ、ボクシンググローブ、ボクシングショーツ）を明確に書くことで、キャラクターの一貫性を安定させることができます。"
+    },
+    "ko": {
+      "content": "Seedance로 비디오를 생성할 때는, 프롬프트를 **생성 비디오: 주체: 장면:** 구조로 나누어 작성하면 제어성을 높일 수 있습니다.  \n주체 부분에서는 각 캐릭터마다 진영/신분(레드팀 복서, 블루팀 복서), 나이(20세), 인종(동아시아 여성), 헤어스타일/머리색(짧은 금발/검은색 긴 생머리), 의상 색상(빨강/파랑 스포츠 탱크톱, 복싱 글러브, 복싱 쇼츠)을 명확히 적어 캐릭터 일관성을 안정적으로 유지합니다."
+    },
+    "pt": {
+      "content": "Ao gerar vídeos no Seedance, escreva os prompts em blocos, seguindo a estrutura “geração de vídeo: sujeito: cena:” para aumentar a controlabilidade.  \nNo bloco do sujeito, descreva claramente para cada personagem sua facção/identidade (boxeadora do time vermelho, boxeadora do time azul), idade (20 anos), etnia (mulher do leste asiático), cabelo/cor do cabelo (cabelo curto loiro/cabelo longo liso preto) e cores da roupa (regata esportiva vermelha/azul, luvas de boxe, shorts de boxe) para manter a consistência dos personagens."
+    }
+  }
+}

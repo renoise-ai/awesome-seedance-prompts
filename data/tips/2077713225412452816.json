@@ -1,0 +1,43 @@
+{
+  "id": "2077713225412452816",
+  "title": "Use a Midjourney 8.2 character image as the starting character reference, then…",
+  "content": "Use a Midjourney 8.2 character image as the starting character reference, then generate a storyboard with GPT and feed both into Seedance 2.0 to animate the sequence",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077713090775244801/img/e3F3YF9V8rgDaURp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077713225412452816.mp4",
+  "sourceLink": "https://x.com/sebatheepan/status/2077713225412452816",
+  "sourcePublishedAt": "2026-07-16",
+  "author": {
+    "name": "Pan",
+    "link": "https://x.com/sebatheepan"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a Midjourney 8.2 character image as the starting character reference, then generate a storyboard with GPT and feed both into Seedance 2.0 to animate the sequence",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen de personaje de Midjourney 8.2 como referencia inicial del personaje, luego genera un storyboard con GPT y alimenta ambos en Seedance 2.0 para animar la secuencia"
+    },
+    "fr": {
+      "content": "Utilisez une image de personnage Midjourney 8.2 comme référence de personnage de départ, puis générez un storyboard avec GPT et importez les deux dans Seedance 2.0 pour animer la séquence"
+    },
+    "ja": {
+      "content": "Midjourney 8.2のキャラクター画像を出発点となるキャラクター参照として使用し、次にGPTでストーリーボードを生成して、その両方をSeedance 2.0に入力し、シーケンスをアニメーション化する"
+    },
+    "ko": {
+      "content": "Midjourney 8.2 캐릭터 이미지를 시작 캐릭터 레퍼런스로 사용한 다음, GPT로 스토리보드를 생성하고 두 가지를 모두 Seedance 2.0에 입력해 시퀀스를 애니메이션화하세요"
+    },
+    "pt": {
+      "content": "Use uma imagem de personagem do Midjourney 8.2 como referência inicial de personagem, depois gere um storyboard com o GPT e envie ambos para o Seedance 2.0 para animar a sequência"
+    },
+    "zh": {
+      "content": "使用 Midjourney 8.2 的角色图像作为起始角色参考，然后用 GPT 生成分镜脚本，并将两者一起输入 Seedance 2.0 来为该序列制作动画"
+    }
+  }
+}

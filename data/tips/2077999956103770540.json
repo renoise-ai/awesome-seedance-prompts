@@ -1,0 +1,43 @@
+{
+  "id": "2077999956103770540",
+  "title": "Generate assets and character sheets on a neutral grey background before…",
+  "content": "Generate assets and character sheets on a neutral grey background before importing into Seedance to improve identity consistency across shots.\nAvoid white backgrounds for character sheets because they blow out skin tones when transferred into Seedance.\nAvoid black backgrounds for character sheets because they eat hair and outfit edges when transferred into Seedance.\nAvoid busy set/backgrounds in character sheets so Seedance doesn’t learn background details as part of the character.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077999245311815680/img/gGlbFUC_H6RgAHk0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077999956103770540.mp4",
+  "sourceLink": "https://x.com/HOONIGALL/status/2077999956103770540",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "HOON",
+    "link": "https://x.com/HOONIGALL"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Generate assets and character sheets on a neutral grey background before importing into Seedance to improve identity consistency across shots.\nAvoid white backgrounds for character sheets because they blow out skin tones when transferred into Seedance.\nAvoid black backgrounds for character sheets because they eat hair and outfit edges when transferred into Seedance.\nAvoid busy set/backgrounds in character sheets so Seedance doesn’t learn background details as part of the character.",
+  "translations": {
+    "es": {
+      "content": "Genera assets y hojas de personaje sobre un fondo gris neutro antes de importarlos en Seedance para mejorar la consistencia de la identidad entre tomas.  \nEvita los fondos blancos para las hojas de personaje porque sobreexponen los tonos de piel cuando se transfieren a Seedance.  \nEvita los fondos negros para las hojas de personaje porque se comen los bordes del cabello y del vestuario cuando se transfieren a Seedance.  \nEvita los sets/fondos recargados en las hojas de personaje para que Seedance no aprenda los detalles del fondo como parte del personaje."
+    },
+    "fr": {
+      "content": "Générez des assets et des character sheets sur un fond gris neutre avant de les importer dans Seedance afin d’améliorer la cohérence de l’identité d’une prise de vue à l’autre.\nÉvitez les fonds blancs pour les character sheets, car ils surexposent les tons de peau lorsqu’ils sont transférés dans Seedance.\nÉvitez les fonds noirs pour les character sheets, car ils absorbent les contours des cheveux et des vêtements lorsqu’ils sont transférés dans Seedance.\nÉvitez les décors/fonds trop chargés dans les character sheets afin que Seedance n’apprenne pas les détails de l’arrière-plan comme faisant partie du personnage."
+    },
+    "ja": {
+      "content": "Seedanceに取り込む前に、中立的なグレー背景でアセットとキャラクターシートを生成すると、ショット間でのアイデンティティの一貫性が向上します。  \nキャラクターシートでは白背景を避けてください。Seedanceに転送した際に肌の色が白飛びしやすくなるためです。  \nキャラクターシートでは黒背景を避けてください。Seedanceに転送した際に髪や衣装の輪郭が潰れてしまうためです。  \nキャラクターシートでは、背景の情報をSeedanceがキャラクターの一部として学習してしまわないよう、雑然としたセットや背景は避けてください。"
+    },
+    "ko": {
+      "content": "Seedance로 가져오기 전에 중립적인 회색 배경에서 에셋과 캐릭터 시트를 생성하면 샷 간 아이덴티티 일관성을 높일 수 있습니다.  \n캐릭터 시트에 흰색 배경을 사용하지 마세요. Seedance로 전송될 때 피부 톤이 과하게 날아갈 수 있습니다.  \n캐릭터 시트에 검은색 배경을 사용하지 마세요. Seedance로 전송될 때 머리카락과 의상 가장자리가 묻혀 보일 수 있습니다.  \nSeedance가 배경 디테일을 캐릭터의 일부로 학습하지 않도록 캐릭터 시트에서는 복잡한 세트/배경을 피하세요."
+    },
+    "pt": {
+      "content": "Gere assets e character sheets em um fundo cinza neutro antes de importar para o Seedance, para melhorar a consistência da identidade entre os planos.\nEvite fundos brancos para character sheets, porque eles estouram os tons de pele quando transferidos para o Seedance.\nEvite fundos pretos para character sheets, porque eles “engolem” os contornos do cabelo e das roupas quando transferidos para o Seedance.\nEvite cenários/fundos muito carregados nos character sheets para que o Seedance não aprenda detalhes do fundo como parte do personagem."
+    },
+    "zh": {
+      "content": "在导入 Seedance 之前，先在中性灰背景上生成素材和角色设定表，以提升不同镜头之间的身份一致性。  \n避免在角色设定表中使用白色背景，因为导入 Seedance 后会让肤色过曝。  \n避免在角色设定表中使用黑色背景，因为导入 Seedance 后会吞掉头发和服装边缘。  \n避免在角色设定表中使用过于复杂的场景/背景，这样 Seedance 就不会把背景细节当作角色的一部分来学习。"
+    }
+  }
+}

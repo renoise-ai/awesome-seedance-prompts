@@ -1,0 +1,43 @@
+{
+  "id": "2077917285776552351",
+  "title": "Block out character motion first using Unreal Engine’s Cartwheel Swing, then…",
+  "content": "Block out character motion first using Unreal Engine’s Cartwheel Swing, then run that video through Seedance 2.0 as a video-to-video neural render to preserve the planned performance.\n\nEdit each character’s performance in the 3D/motion blockout (Unreal) and re-render through Seedance 2.0 whenever you need updates instead of reprompting for performance changes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077916442700533760/img/tGlcYOMBiSI8zN1J.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077917285776552351.mp4",
+  "sourceLink": "https://x.com/andrew_n_carr/status/2077917285776552351",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "Andrew Carr 🤸",
+    "link": "https://x.com/andrew_n_carr"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Block out character motion first using Unreal Engine’s Cartwheel Swing, then run that video through Seedance 2.0 as a video-to-video neural render to preserve the planned performance.\n\nEdit each character’s performance in the 3D/motion blockout (Unreal) and re-render through Seedance 2.0 whenever you need updates instead of reprompting for performance changes.",
+  "translations": {
+    "es": {
+      "content": "Bloquea primero el movimiento del personaje usando Cartwheel Swing de Unreal Engine, y luego pasa ese video por Seedance 2.0 como un render neuronal de video a video para preservar la interpretación planificada.\n\nEdita la interpretación de cada personaje en el bloqueado 3D/de movimiento (Unreal) y vuelve a renderizar a través de Seedance 2.0 cada vez que necesites actualizaciones, en lugar de volver a hacer prompt para cambios de interpretación."
+    },
+    "fr": {
+      "content": "Bloquez d’abord le mouvement du personnage à l’aide de Cartwheel Swing d’Unreal Engine, puis faites passer cette vidéo dans Seedance 2.0 en tant que rendu neuronal video-to-video afin de préserver la performance prévue.\n\nModifiez la performance de chaque personnage dans le blockout 3D/motion (Unreal) et re-rendez via Seedance 2.0 chaque fois que vous avez besoin de mises à jour, au lieu de reprompt pour des changements de performance."
+    },
+    "ja": {
+      "content": "まずは Unreal Engine の Cartwheel Swing を使ってキャラクターの動きをブロックアウトし、その動画を Seedance 2.0 に video-to-video の neural render として通して、計画した演技を保持します。\n\n各キャラクターの演技は 3D/motion blockout（Unreal）で編集し、変更が必要なときは performance の変更を再度 reprompt するのではなく、Seedance 2.0 で再レンダリングします。"
+    },
+    "ko": {
+      "content": "먼저 Unreal Engine의 Cartwheel Swing을 사용해 캐릭터의 움직임을 블로킹한 다음, 그 영상을 Seedance 2.0에 video-to-video neural render로 돌려 계획된 퍼포먼스를 유지합니다.\n\n각 캐릭터의 퍼포먼스는 3D/motion 블로킹(Unreal)에서 편집하고, 퍼포먼스 변경이 필요할 때마다 다시 프롬프트를 넣는 대신 Seedance 2.0으로 재렌더링하세요."
+    },
+    "pt": {
+      "content": "Bloqueie primeiro o movimento do personagem usando o Cartwheel Swing do Unreal Engine e, em seguida, passe esse vídeo pelo Seedance 2.0 como uma renderização neural de video-to-video para preservar a performance planejada.\n\nEdite a performance de cada personagem no blockout 3D/motion (Unreal) e re-renderize pelo Seedance 2.0 sempre que precisar de atualizações, em vez de repromptar para mudanças de performance."
+    },
+    "zh": {
+      "content": "先使用 Unreal Engine 的 Cartwheel Swing 进行角色动作的粗略阻挡（blockout），然后将该视频通过 Seedance 2.0 作为 video-to-video 神经渲染处理，以保留预先规划好的表演。\n\n在 3D/动作阻挡阶段（Unreal）编辑每个角色的表演，并在需要更新时通过 Seedance 2.0 重新渲染，而不是通过重新输入 prompt 来修改表演。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2077707594802622960",
+  "title": "Use a style sheet as a reference to guide the look/visual consistency across…",
+  "content": "Use a style sheet as a reference to guide the look/visual consistency across Seedance generations  \nGenerate multiple Seedance clips (e.g., 22 generations) from prompts, then assemble them into a final video in an editor like CapCut  \nCreate an original soundtrack in Suno and sync it to your edited Seedance footage in post-production",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077705873862836224/img/Cye76ZuvJAW_4NeO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077707594802622960.mp4",
+  "sourceLink": "https://x.com/LongboardFamara/status/2077707594802622960",
+  "sourcePublishedAt": "2026-07-16",
+  "author": {
+    "name": "BriskBlackMamba",
+    "link": "https://x.com/LongboardFamara"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a style sheet as a reference to guide the look/visual consistency across Seedance generations  \nGenerate multiple Seedance clips (e.g., 22 generations) from prompts, then assemble them into a final video in an editor like CapCut  \nCreate an original soundtrack in Suno and sync it to your edited Seedance footage in post-production",
+  "translations": {
+    "es": {
+      "content": "Usa una hoja de estilo como referencia para guiar el aspecto y la coherencia visual en todas las generaciones de Seedance  \nGenera varios clips de Seedance (por ejemplo, 22 generaciones) a partir de prompts y luego ensámblalos en un video final en un editor como CapCut  \nCrea una banda sonora original en Suno y sincronízala con tu metraje editado de Seedance en posproducción"
+    },
+    "fr": {
+      "content": "Utilisez une feuille de style comme référence pour guider l’apparence et la cohérence visuelle à travers les générations Seedance  \nGénérez plusieurs clips Seedance (par ex. 22 générations) à partir de prompts, puis assemblez-les dans une vidéo finale dans un éditeur comme CapCut  \nCréez une bande-son originale dans Suno et synchronisez-la avec vos séquences Seedance montées en post-production"
+    },
+    "ja": {
+      "content": "---\nスタイルシートを参照として使用し、Seedance の生成全体で見た目／ビジュアルの一貫性をガイドする  \nプロンプトから複数の Seedance クリップ（例：22回の生成）を作成し、それらを CapCut などのエディターで最終動画にまとめる  \nSuno でオリジナルのサウンドトラックを作成し、ポストプロダクションで編集済みの Seedance 映像に同期させる\n---"
+    },
+    "ko": {
+      "content": "스타일 시트를 참고 자료로 사용해 Seedance 생성 전반의 룩/비주얼 일관성을 유지하세요  \n프롬프트를 바탕으로 여러 개의 Seedance 클립(예: 22개 생성)을 만든 뒤, CapCut 같은 편집기에서 이를 하나의 최종 영상으로 편집하세요  \nSuno에서 오리지널 사운드트랙을 만든 다음, 후반 작업에서 편집한 Seedance 영상에 맞춰 싱크하세요"
+    },
+    "pt": {
+      "content": "Use uma style sheet como referência para orientar a aparência/consistência visual entre as gerações do Seedance  \nGere vários clipes do Seedance (por exemplo, 22 gerações) a partir de prompts e depois os reúna em um vídeo final em um editor como o CapCut  \nCrie uma trilha sonora original no Suno e sincronize-a com as imagens editadas do Seedance na pós-produção"
+    },
+    "zh": {
+      "content": "使用 style sheet 作为参考，指导 Seedance 生成内容的整体风格/视觉一致性  \n根据 prompts 生成多个 Seedance clip（例如 22 个生成结果），然后在 CapCut 等编辑器中将它们剪辑整合成最终视频  \n在 Suno 中创作原创配乐，并在后期制作中将其与编辑好的 Seedance 画面同步"
+    }
+  }
+}

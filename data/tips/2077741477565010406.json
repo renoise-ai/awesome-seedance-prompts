@@ -1,0 +1,42 @@
+{
+  "id": "2077741477565010406",
+  "title": "Blenderでは人物・敵・背景を入れず、主役位置と身長の目安になる縦長のシンプルなブロックだけを置いてSeedance 2.0に渡す",
+  "content": "Blenderでは人物・敵・背景を入れず、主役位置と身長の目安になる縦長のシンプルなブロックだけを置いてSeedance 2.0に渡す  \nBlender側でカメラの距離・高さ・角度・カット切り替えだけを作り、そのカメラワークがSeedance 2.0にどこまで反映されるか検証する  \nSeedance出力とBlenderのカメラワークを見比べて、カメラ動きがそのままコピーされる部分とSeedance側で再編集される部分を切り分ける",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077726307077795840/img/NveB8ZL-vDEAG_-D.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077741477565010406.mp4",
+  "sourceLink": "https://x.com/nemopi/status/2077741477565010406",
+  "sourcePublishedAt": "2026-07-16",
+  "author": {
+    "name": "nemopi",
+    "link": "https://x.com/nemopi"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blenderでは人物・敵・背景を入れず、主役位置と身長の目安になる縦長のシンプルなブロックだけを置いてSeedance 2.0に渡す  \nBlender側でカメラの距離・高さ・角度・カット切り替えだけを作り、そのカメラワークがSeedance 2.0にどこまで反映されるか検証する  \nSeedance出力とBlenderのカメラワークを見比べて、カメラ動きがそのままコピーされる部分とSeedance側で再編集される部分を切り分ける",
+  "translations": {
+    "en": {
+      "content": "In Blender, I don’t include characters, enemies, or backgrounds—instead, I place only simple vertical blocks to indicate the main subject’s position and approximate height, then pass that to Seedance 2.0.  \nOn the Blender side, I create only the camera distance, height, angle, and cut transitions, then test how much of that camera work is reflected in Seedance 2.0.  \nBy comparing the Seedance output with the Blender camera work, I can separate the parts where the camera movement is copied as-is from the parts that are re-edited on the Seedance side.\n\n--- THREAD CONTINUATION ---\n[Thread 1] I’m also leaving the Blender-side camera work I passed to Seedance here.\n\nI’m not including character acting, enemies, or backgrounds;  \nI’m using a vertical block as a rough guide for the main subject’s position and height,  \nand only creating the camera distance, height, angle, and cuts.\n\nWhen you compare it with the final video,  \nit becomes easy to see which parts are copied as-is  \nand which parts are re-edited on the Seedance side 👀\n---"
+    },
+    "es": {
+      "content": "En Blender, no se incluyen personajes, enemigos ni fondos; solo se colocan bloques simples y verticales que sirven como referencia de la posición del protagonista y de su altura, y luego se pasa eso a Seedance 2.0.  \nEn el lado de Blender, solo se crean la distancia, la altura, el ángulo de la cámara y los cambios de plano, y se verifica hasta qué punto ese movimiento de cámara se refleja en Seedance 2.0.  \nComparando la salida de Seedance con el movimiento de cámara de Blender, se puede distinguir qué partes se copian tal cual y qué partes se vuelven a editar en el lado de Seedance.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] También dejo aquí el movimiento de cámara del lado de Blender que se pasó a Seedance.\n\nNo se incluyen la actuación de los personajes, los enemigos ni el fondo,  \ny se usan bloques verticales como referencia de la posición del protagonista y de su altura,  \ncreando solo la distancia, la altura, el ángulo de la cámara y los cambios de plano.\n\nAl compararlo con el vídeo final,  \nse ve claramente qué partes se copian tal cual  \ny cuáles se reeditan en el lado de Seedance 👀"
+    },
+    "fr": {
+      "content": "Dans Blender, sans ajouter de personnage, d’ennemi ni de décor, on place uniquement des blocs simples et verticaux servant de repère pour la position du protagoniste et sa taille, puis on les transmet à Seedance 2.0.  \nCôté Blender, on ne crée que la distance, la hauteur, l’angle de la caméra et les changements de plan, puis on vérifie dans quelle mesure ce camera work est reflété dans Seedance 2.0.  \nEn comparant la sortie de Seedance avec le camera work de Blender, on distingue les parties du mouvement de caméra qui sont copiées telles quelles de celles qui sont rééditées côté Seedance.\n\n--- SUITE DU THREAD ---\n[Thread 1] Je laisse aussi ici le camera work côté Blender que j’ai transmis à Seedance.\n\nSans inclure le jeu d’acteur du personnage, les ennemis ni l’arrière-plan,  \nj’utilise des blocs verticaux comme repère pour la position et la taille du protagoniste,  \net je ne crée que la distance, la hauteur, l’angle de la caméra et les transitions.\n\nEn le comparant à la vidéo finale,  \non voit clairement quelles parties sont copiées telles quelles  \net quelles parties sont rééditées côté Seedance 👀"
+    },
+    "ko": {
+      "content": "Blender에서는 인물·적·배경은 넣지 않고, 주인공 위치와 키의 기준이 되는 세로로 긴 단순한 블록만 배치해서 Seedance 2.0에 넘긴다  \nBlender 쪽에서는 카메라의 거리·높이·각도·컷 전환만 만들고, 그 카메라 워크가 Seedance 2.0에 어디까지 반영되는지 검증한다  \nSeedance 출력과 Blender의 카메라 워크를 비교해, 카메라 움직임이 그대로 복사되는 부분과 Seedance 쪽에서 재편집되는 부분을 구분한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] Seedance에 넘긴 Blender 쪽 카메라 워크도 함께 올려둡니다.\n\n인물의 연기나 적, 배경은 넣지 않고,  \n세로로 긴 블록을 주인공의 위치와 키의 기준으로 삼아,  \n카메라의 거리·높이·각도·전환만 만들고 있습니다.\n\n완성 영상과 비교해 보면,  \n그대로 복사되는 부분과  \nSeedance 쪽에서 재편집되는 부분이 한눈에 보입니다👀"
+    },
+    "pt": {
+      "content": "No Blender, em vez de inserir personagens, inimigos ou cenário, coloque apenas blocos simples e verticais para servir como referência da posição do protagonista e da altura, e então passe isso para o Seedance 2.0  \nNo lado do Blender, crie apenas a distância, a altura, o ângulo da câmera e as transições de corte, e verifique até que ponto esse camera work é refletido no Seedance 2.0  \nAo comparar a saída do Seedance com o camera work do Blender, identifique quais partes do movimento de câmera são copiadas 그대로 e quais partes são reeditadas no lado do Seedance\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Também deixo aqui o camera work do Blender que foi passado para o Seedance.\n\nSem inserir atuação de personagens, inimigos ou cenário,  \nusei blocos verticais como referência da posição do protagonista e da altura,  \ncriando apenas a distância, a altura, o ângulo da câmera e as transições.\n\nAo comparar com o vídeo final,  \nfica fácil ver quais partes são copiadas 그대로 e  \nquais são reeditadas no lado do Seedance 👀"
+    },
+    "zh": {
+      "content": "在 Blender 中不放入人物、敌人和背景，只放置一个纵向的简单方块，用来标示主角位置和身高参考，再交给 Seedance 2.0  \n在 Blender 侧只制作相机的距离、高度、角度以及镜头切换，并验证这些 camera work 能在多大程度上反映到 Seedance 2.0 中  \n将 Seedance 的输出与 Blender 的 camera work 进行对比，区分哪些相机运动会被直接复制，哪些部分会在 Seedance 侧被重新编辑\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这里也附上了传给 Seedance 的 Blender 侧 camera work。\n\n不加入人物表演、敌人或背景，  \n只用纵向方块作为主角位置和身高的参考，  \n仅制作相机的距离、高度、角度和切换。\n\n和成片对比来看，  \n哪些部分会被直接复制，  \n哪些部分会在 Seedance 侧被重新编辑，  \n会非常清楚👀"
+    }
+  }
+}

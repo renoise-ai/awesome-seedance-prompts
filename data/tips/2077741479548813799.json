@@ -1,0 +1,42 @@
+{
+  "id": "2077741479548813799",
+  "title": "BlenderでSeedance用のカメラワークを作るときは、人物の演技・敵・背景は入れず、縦長ブロックを主役の位置と身長の目安として配置してカメラの距離・高さ…",
+  "content": "BlenderでSeedance用のカメラワークを作るときは、人物の演技・敵・背景は入れず、縦長ブロックを主役の位置と身長の目安として配置してカメラの距離・高さ・角度・切り替えだけを設計する  \n完成映像とBlenderのカメラワークを見比べて、どの動きがそのままコピーされるか／されないかを確認し、コピーされにくい部分はカメラ設定（距離・高さ・角度・切り替え）を調整して再出力する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077726786545500162/img/SmEopP60SOlXqnuI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077741479548813799.mp4",
+  "sourceLink": "https://x.com/nemopi/status/2077741479548813799",
+  "sourcePublishedAt": "2026-07-16",
+  "author": {
+    "name": "nemopi",
+    "link": "https://x.com/nemopi"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "BlenderでSeedance用のカメラワークを作るときは、人物の演技・敵・背景は入れず、縦長ブロックを主役の位置と身長の目安として配置してカメラの距離・高さ・角度・切り替えだけを設計する  \n完成映像とBlenderのカメラワークを見比べて、どの動きがそのままコピーされるか／されないかを確認し、コピーされにくい部分はカメラ設定（距離・高さ・角度・切り替え）を調整して再出力する",
+  "translations": {
+    "en": {
+      "content": "When creating camera work for Seedance in Blender, do not include character performances, enemies, or backgrounds. Instead, place vertical blocks as placeholders for the main subject’s position and approximate height, and design only the camera distance, height, angle, and cuts.\n\nCompare the finished video with the Blender camera work to check which movements are copied as-is and which are not. For parts that are less likely to be copied, adjust the camera settings (distance, height, angle, cuts) and render again."
+    },
+    "es": {
+      "content": "Al crear movimientos de cámara para Seedance en Blender, no incluyas la actuación de los personajes, enemigos ni el fondo; coloca bloques verticales como referencia de la posición del protagonista y de su altura aproximada, y diseña solo la distancia, la altura, el ángulo y los cambios de cámara.  \nCompara el video final con los movimientos de cámara en Blender para comprobar qué movimientos se copian tal cual y cuáles no; para las partes que se copian con menos facilidad, ajusta la configuración de la cámara (distancia, altura, ángulo y cambios) y vuelve a exportar."
+    },
+    "fr": {
+      "content": "Lorsque vous créez un camera work pour Seedance dans Blender, n’intégrez ni performance du personnage, ni ennemis, ni arrière-plan ; placez plutôt des blocs verticaux comme repères pour la position du personnage principal et sa taille, et concevez uniquement la distance, la hauteur, l’angle et les transitions de la caméra.\n\nComparez la vidéo finale avec le camera work dans Blender pour vérifier quels mouvements seront copiés tels quels et lesquels ne le seront pas ; pour les parties difficiles à reproduire, ajustez les paramètres de la caméra (distance, hauteur, angle, transitions) puis réexportez."
+    },
+    "ko": {
+      "content": "Blender에서 Seedance용 카메라 워크를 만들 때는 인물의 연기, 적, 배경은 넣지 않고, 세로형 블록을 주인공의 위치와 키의 기준으로 배치한 뒤 카메라의 거리·높이·각도·전환만 설계한다  \n완성 영상과 Blender의 카메라 워크를 비교해 어떤 움직임이 그대로 복사되는지/되지 않는지 확인하고, 복사되기 어려운 부분은 카메라 설정(거리·높이·각도·전환)을 조정해 다시 출력한다"
+    },
+    "pt": {
+      "content": "Ao criar camera work para Seedance no Blender, não inclua atuação de personagens, inimigos ou fundo; posicione blocos verticais como referência para a posição do protagonista e sua altura, e projete apenas a distância, a altura, o ângulo e as transições da câmera.\n\nCompare o vídeo final com o camera work no Blender para verificar quais movimentos serão copiados exatamente e quais não serão; para as partes que tendem a ser menos copiadas, ajuste as configurações da câmera (distância, altura, ângulo e transições) e exporte novamente."
+    },
+    "zh": {
+      "content": "在 Blender 中为 Seedance 制作镜头运动时，不要加入人物表演、敌人或背景，而是用纵向长方体作为主角位置和身高的参考，只设计相机的距离、高度、角度和切换  \n将成片与 Blender 的镜头运动进行对照，确认哪些动作会被原样复制、哪些不会；对于不容易被复制的部分，调整相机设置（距离、高度、角度、切换）后重新导出"
+    }
+  }
+}

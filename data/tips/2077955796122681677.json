@@ -1,0 +1,42 @@
+{
+  "id": "2077955796122681677",
+  "title": "codexに「演出のたたき台案→参考画像→ストーリーボード→Seedance用プロンプト」まで一括生成させ、まとめて管理して全体の雰囲気を統一する",
+  "content": "codexに「演出のたたき台案→参考画像→ストーリーボード→Seedance用プロンプト」まで一括生成させ、まとめて管理して全体の雰囲気を統一する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077955440802140160/img/4lFAFk_BWcfh6j1U.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077955796122681677.mp4",
+  "sourceLink": "https://x.com/Chupico_nora/status/2077955796122681677",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "Chupico",
+    "link": "https://x.com/Chupico_nora"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "codexに「演出のたたき台案→参考画像→ストーリーボード→Seedance用プロンプト」まで一括生成させ、まとめて管理して全体の雰囲気を統一する",
+  "translations": {
+    "en": {
+      "content": "Have Codex generate everything in one go—from a rough draft of the direction, to reference images, to a storyboard, and then a Seedance prompt—so you can manage it all together and keep the overall tone consistent."
+    },
+    "es": {
+      "content": "Hacer que Codex genere de una sola vez todo, desde la propuesta base de dirección → imágenes de referencia → storyboard → prompt para Seedance, y gestionarlo en conjunto para unificar la atmósfera general."
+    },
+    "fr": {
+      "content": "Faire générer par Codex, en une seule fois, tout le flux allant de « brouillon de mise en scène → images de référence → storyboard → prompt pour Seedance », puis tout gérer ensemble afin d’unifier l’ambiance générale."
+    },
+    "ko": {
+      "content": "codex에 “연출의 초안 → 참고 이미지 → 스토리보드 → Seedance용 prompt”까지 한 번에 생성하게 하고, 이를 통합 관리해 전체적인 분위기를 통일한다"
+    },
+    "pt": {
+      "content": "Fazer o Codex gerar de uma vez tudo, desde a “base de direção” → “imagem de referência” → “storyboard” → “prompt para Seedance”, e gerenciar tudo em conjunto para unificar a atmosfera geral."
+    },
+    "zh": {
+      "content": "让 codex 一次性生成从“演出草案 → 参考图像 → 分镜脚本 → Seedance 用 prompt”的全部内容，并统一管理，确保整体氛围一致。"
+    }
+  }
+}
