@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **3885** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **1910** |
-| 🔄 最終更新 | **2026-07-16** |
+| 🔄 最終更新 | **2026-07-17** |
 
 ---
 
@@ -7501,4 +7501,4 @@ Create each storyboard panel in Seedance using start-frame and end-frame storybo
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-16T21:00:43.211Z
+🤖 この README は自動生成されています。最終更新： 2026-07-17T02:45:00.271Z

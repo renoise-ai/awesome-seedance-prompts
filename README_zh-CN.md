@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **3885** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **1910** |
-| 🔄 最后更新 | **2026-07-16** |
+| 🔄 最后更新 | **2026-07-17** |
 
 ---
 
@@ -5910,4 +5910,4 @@ Create each storyboard panel in Seedance using start-frame and end-frame storybo
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-07-16T21:00:43.204Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-07-17T02:45:00.260Z
