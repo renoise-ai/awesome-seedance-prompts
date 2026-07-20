@@ -1,0 +1,42 @@
+{
+  "id": "2078130264606224629",
+  "title": "Use a Midjourney image as the starting frame, then animate it in Seedance 2.0.",
+  "content": "Use a Midjourney image as the starting frame, then animate it in Seedance 2.0.  \nUse time-coded prompts in Seedance to control what happens at specific timestamps.  \nInclude a font prompt in your time-coded prompt to control on-screen typography for opening credits.  \nInclude a music prompt in your time-coded prompt to guide the soundtrack/music style.  \nUse Seedance’s Set and camera controls to direct scene layout and camera movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078130177574313984/img/5oINTOQjYeLPUVVE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078130264606224629.mp4",
+  "sourceLink": "https://x.com/gen_ericai/status/2078130264606224629",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "gen.ericai",
+    "link": "https://x.com/gen_ericai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a Midjourney image as the starting frame, then animate it in Seedance 2.0.  \nUse time-coded prompts in Seedance to control what happens at specific timestamps.  \nInclude a font prompt in your time-coded prompt to control on-screen typography for opening credits.  \nInclude a music prompt in your time-coded prompt to guide the soundtrack/music style.  \nUse Seedance’s Set and camera controls to direct scene layout and camera movement.",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen de Midjourney como fotograma inicial y luego anímala en Seedance 2.0.  \nUsa prompts con código de tiempo en Seedance para controlar lo que ocurre en timestamps específicos.  \nIncluye un font prompt en tu prompt con código de tiempo para controlar la tipografía en pantalla de los opening credits.  \nIncluye un music prompt en tu prompt con código de tiempo para guiar el estilo de la banda sonora/música.  \nUsa los controles de Set y camera de Seedance para dirigir la composición de la escena y el movimiento de cámara.\n\n--- TWEET CITADO ---\nDivirtiéndome más con Seedance 2.0 creando escenas cortas para opening credits.\n\nFotograma inicial MJ + Seedance 2.0 vía Runway + Time coded prompt. https://t.co/GezyqKiG3S\n---"
+    },
+    "fr": {
+      "content": "Utilisez une image Midjourney comme image de départ, puis animez-la dans Seedance 2.0.  \nUtilisez des prompts time-coded dans Seedance pour contrôler ce qui se passe à des timestamps spécifiques.  \nIncluez un prompt de police dans votre prompt time-coded pour contrôler la typographie à l’écran pour le générique d’ouverture.  \nIncluez un prompt musical dans votre prompt time-coded pour guider le style de la bande-son/de la musique.  \nUtilisez les contrôles Set et camera de Seedance pour diriger la composition de la scène et les mouvements de caméra.\n\n--- TWEET CITÉ ---\nJe m’amuse davantage avec Seedance 2.0 en créant de courtes scènes pour les génériques d’ouverture.\n\nImage de départ MJ + Seedance 2.0 via Runway + prompt time-coded. https://t.co/GezyqKiG3S\n---"
+    },
+    "ja": {
+      "content": "Midjourneyの画像を開始フレームとして使い、それをSeedance 2.0でアニメーション化します。  \nSeedanceでは、time-coded promptを使って、特定のタイムスタンプで何が起こるかを制御します。  \nopening creditsの画面上のタイポグラフィを制御するために、time-coded promptにfont promptを含めます。  \nサウンドトラック／音楽のスタイルを導くために、time-coded promptにmusic promptを含めます。  \nSeedanceのSetとcamera controlsを使って、シーンのレイアウトとカメラの動きを指示します。\n\n--- 引用ツイート ---\nSeedance 2.0で、opening credits用の短いシーンを作るのをさらに楽しんでいます。\n\nStarting frame MJ + Seedance 2.0 via Runway + Time coded prompt. https://t.co/GezyqKiG3S\n---"
+    },
+    "ko": {
+      "content": "Midjourney 이미지를 시작 프레임으로 사용한 다음, Seedance 2.0에서 애니메이션을 적용하세요.  \nSeedance의 time-coded prompt를 사용해 특정 타임스탬프에서 일어날 일을 제어하세요.  \n오프닝 크레딧의 화면 내 타이포그래피를 제어하기 위해 time-coded prompt에 font prompt를 포함하세요.  \n사운드트랙/음악 스타일을 안내하기 위해 time-coded prompt에 music prompt를 포함하세요.  \nSeedance의 Set 및 camera controls를 사용해 장면 구성과 카메라 움직임을 연출하세요.\n\n--- 인용된 트윗 ---\nSeedance 2.0으로 오프닝 크레딧용 짧은 장면을 만들며 더 재미있게 작업 중입니다.\n\n시작 프레임 MJ + Runway를 통한 Seedance 2.0 + Time coded prompt. https://t.co/GezyqKiG3S\n---"
+    },
+    "pt": {
+      "content": "Use uma imagem do Midjourney como frame inicial e, em seguida, anime-a no Seedance 2.0.  \nUse prompts com timecode no Seedance para controlar o que acontece em timestamps específicos.  \nInclua um prompt de fonte no seu prompt com timecode para controlar a tipografia na tela para os créditos de abertura.  \nInclua um prompt de música no seu prompt com timecode para orientar o estilo da trilha sonora/música.  \nUse os controles de Set e de câmera do Seedance para direcionar o layout da cena e o movimento da câmera.\n\n--- TWEET CITADO ---\nDivertindo-me ainda mais com o Seedance 2.0, criando cenas curtas para créditos de abertura.\n\nFrame inicial MJ + Seedance 2.0 via Runway + prompt com timecode. https://t.co/GezyqKiG3S\n---"
+    },
+    "zh": {
+      "content": "使用 Midjourney 图像作为起始帧，然后在 Seedance 2.0 中将其动画化。  \n在 Seedance 中使用带时间码的 prompt 来控制特定时间点发生的内容。  \n在你的时间码 prompt 中加入字体 prompt，以控制片头字幕的屏幕排版。  \n在你的时间码 prompt 中加入音乐 prompt，以引导配乐/音乐风格。  \n使用 Seedance 的 Set 和 camera controls 来指导场景布局和镜头运动。\n\n--- 引用的推文 ---\n用 Seedance 2.0 制作片头短场景，玩得更开心了。\n\n起始帧 MJ + 通过 Runway 的 Seedance 2.0 + 时间码 prompt。 https://t.co/GezyqKiG3S\n---"
+    }
+  }
+}

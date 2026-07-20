@@ -1,0 +1,42 @@
+{
+  "id": "2078549307410772204",
+  "title": "Block out every shot in Cinema 4D first (layout, camera, timing) and use…",
+  "content": "Block out every shot in Cinema 4D first (layout, camera, timing) and use Seedance 2.0 4K as the render layer to keep AI video consistent and script-following.  \nUse a 3D previsualization/base (from Cinema 4D) to maintain consistency across shots when generating with Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078547559140990976/img/kHR_2OON0M8_TAyY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078549307410772204.mp4",
+  "sourceLink": "https://x.com/Stefan_3D_AI/status/2078549307410772204",
+  "sourcePublishedAt": "2026-07-18",
+  "author": {
+    "name": "Stefan 3D AI",
+    "link": "https://x.com/Stefan_3D_AI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Block out every shot in Cinema 4D first (layout, camera, timing) and use Seedance 2.0 4K as the render layer to keep AI video consistent and script-following.  \nUse a 3D previsualization/base (from Cinema 4D) to maintain consistency across shots when generating with Seedance.",
+  "translations": {
+    "es": {
+      "content": "Bloquea primero cada plano en Cinema 4D (layout, cámara, timing) y usa Seedance 2.0 4K como capa de render para mantener la consistencia del video con IA y que siga el guion.  \nUsa una base de previsualización/previz 3D (desde Cinema 4D) para mantener la consistencia entre planos al generar con Seedance."
+    },
+    "fr": {
+      "content": "Bloquez d’abord chaque plan dans Cinema 4D (layout, caméra, timing) et utilisez Seedance 2.0 4K comme couche de rendu pour conserver une vidéo IA cohérente et fidèle au script.  \nUtilisez une prévisualisation/base 3D (depuis Cinema 4D) pour maintenir la cohérence entre les plans lors de la génération avec Seedance."
+    },
+    "ja": {
+      "content": "まず Cinema 4D で全ショットのブロッキングを行い（レイアウト、カメラ、タイミング）、Seedance 2.0 4K をレンダーレイヤーとして使って、AI動画の一貫性と脚本への忠実さを保ちます。  \nCinema 4D 由来の 3D プリビジュアライゼーション／ベースを使うことで、Seedance で生成する際にショット間の一貫性を維持します。"
+    },
+    "ko": {
+      "content": "먼저 Cinema 4D에서 모든 샷의 블로킹을 잡고(레이아웃, 카메라, 타이밍), Seedance 2.0 4K를 렌더 레이어로 사용해 AI 비디오의 일관성과 스크립트 준수를 유지하세요.  \nCinema 4D에서 만든 3D 프리비주얼라이제이션/베이스를 활용해 Seedance로 생성할 때 샷 간 일관성을 유지하세요."
+    },
+    "pt": {
+      "content": "Bloqueie cada tomada primeiro no Cinema 4D (layout, câmera, timing) e use o Seedance 2.0 4K como camada de renderização para manter o vídeo de IA consistente e fiel ao roteiro.  \nUse uma pré-visualização/base 3D (do Cinema 4D) para manter a consistência entre as tomadas ao gerar com o Seedance."
+    },
+    "zh": {
+      "content": "先在 Cinema 4D 中为每个镜头完成分镜布局（layout、camera、timing），再将 Seedance 2.0 4K 作为渲染层，以保持 AI 视频的一致性并严格遵循脚本。  \n使用 3D 预可视化/基础模型（来自 Cinema 4D）来保持使用 Seedance 生成时各镜头之间的一致性。"
+    }
+  }
+}

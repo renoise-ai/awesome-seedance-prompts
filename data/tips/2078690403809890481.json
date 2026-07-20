@@ -1,0 +1,42 @@
+{
+  "id": "2078690403809890481",
+  "title": "Claudeに台本とSeedance用プロンプトを書かせてからSeedanceで動画生成する",
+  "content": "Claudeに台本とSeedance用プロンプトを書かせてからSeedanceで動画生成する  \nSeedanceで生成した動画にCapCutの自動テロップ機能で字幕を入れて仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078686555175309312/img/jMB3NK21T0vK64yR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078690403809890481.mp4",
+  "sourceLink": "https://x.com/ai6vyy/status/2078690403809890481",
+  "sourcePublishedAt": "2026-07-19",
+  "author": {
+    "name": "くろ@なんか刺さるAI美女",
+    "link": "https://x.com/ai6vyy"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Claudeに台本とSeedance用プロンプトを書かせてからSeedanceで動画生成する  \nSeedanceで生成した動画にCapCutの自動テロップ機能で字幕を入れて仕上げる",
+  "translations": {
+    "en": {
+      "content": "Have Claude write the script and the Seedance prompt, then generate the video in Seedance.  \nFinish by adding subtitles to the Seedance-generated video using CapCut’s auto-caption feature."
+    },
+    "es": {
+      "content": "Haz que Claude escriba el guion y el prompt para Seedance, y luego genera el video en Seedance.  \nDespués, añade subtítulos al video generado en Seedance con la función de subtítulos automáticos de CapCut para darle el toque final."
+    },
+    "fr": {
+      "content": "Faire rédiger le script et le prompt pour Seedance par Claude, puis générer la vidéo avec Seedance  \nAjouter des sous-titres à la vidéo générée avec Seedance grâce à la fonction de sous-titrage automatique de CapCut, puis finaliser le montage"
+    },
+    "ko": {
+      "content": "Claude에게 대본과 Seedance용 프롬프트를 작성하게 한 다음, Seedance에서 영상 생성하기  \nSeedance로 생성한 영상에 CapCut의 자동 자막 기능으로 자막을 넣어 마무리하기"
+    },
+    "pt": {
+      "content": "Deixar o Claude escrever o roteiro e o prompt para o Seedance e, em seguida, gerar o vídeo no Seedance  \nFinalizar o vídeo gerado no Seedance adicionando legendas com o recurso de legendas automáticas do CapCut"
+    },
+    "zh": {
+      "content": "先让 Claude 写好脚本和用于 Seedance 的 prompt，再用 Seedance 生成视频  \n然后用 CapCut 的自动字幕功能给 Seedance 生成的视频加上字幕并完成后期"
+    }
+  }
+}

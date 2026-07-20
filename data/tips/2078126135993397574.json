@@ -1,0 +1,43 @@
+{
+  "id": "2078126135993397574",
+  "title": "Generate each “world” as a separate 15s Seedance clip and use a portal…",
+  "content": "Generate each “world” as a separate 15s Seedance clip and use a portal transition to stitch them together.  \nEnd every clip on the portal and start the next clip emerging from the identical portal to hide the seam.  \nMake the portal core in the current clip already show the next world so the transition match-cuts cleanly.  \nWrite prompts with explicit timeline beats (e.g., 0–3s, 3–9s, etc.) to control the sequence of actions.  \nAdd a constraint like “one phone in one hand” to prevent Seedance from generating duplicate objects (e.g., two phones).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078116012809928704/img/4nWFN84bgYCNkctM.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078126135993397574.mp4",
+  "sourceLink": "https://x.com/Yoni_attlan/status/2078126135993397574",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "Yoni Attlan",
+    "link": "https://x.com/Yoni_attlan"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Generate each “world” as a separate 15s Seedance clip and use a portal transition to stitch them together.  \nEnd every clip on the portal and start the next clip emerging from the identical portal to hide the seam.  \nMake the portal core in the current clip already show the next world so the transition match-cuts cleanly.  \nWrite prompts with explicit timeline beats (e.g., 0–3s, 3–9s, etc.) to control the sequence of actions.  \nAdd a constraint like “one phone in one hand” to prevent Seedance from generating duplicate objects (e.g., two phones).",
+  "translations": {
+    "es": {
+      "content": "Genera cada “mundo” como un clip independiente de 15 s en Seedance y usa una transición de portal para unirlos.  \nHaz que cada clip termine en el portal y que el siguiente empiece emergiendo del mismo portal idéntico para ocultar la unión.  \nHaz que el núcleo del portal en el clip actual ya muestre el siguiente mundo para que el corte encaje limpiamente.  \nEscribe prompts con beats explícitos de la línea de tiempo (p. ej., 0–3 s, 3–9 s, etc.) para controlar la secuencia de acciones.  \nAñade una restricción como “one phone in one hand” para evitar que Seedance genere objetos duplicados (p. ej., dos teléfonos).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] el truco del que nadie habla:\n\ncada mundo es una generación separada de 15 s en Seedance. el portal es el pegamento.\n\ncada clip TERMINA en el portal, el siguiente EMPIEZA saliendo del mismo portal idéntico. la unión desaparece.\n\ny el núcleo del portal ya muestra el siguiente mundo, así que hace match-cut en el salto.\n\n[Hilo 2] aquí está el prompt exacto del clip 1. recupéralo 🫡\n\nlas partes clave: beats de la línea de tiempo (0-3 s, 3-9 s…), one phone in one hand (seguía dándome dos 💀), y el núcleo del portal ya mostrando el SIGUIENTE mundo. https://t.co/ZBm9VAlbHI"
+    },
+    "fr": {
+      "content": "Générez chaque « monde » comme un clip Seedance distinct de 15 s et utilisez une transition par portail pour les relier entre eux.  \nTerminez chaque clip sur le portail et commencez le suivant en sortant du même portail, afin de masquer la jonction.  \nFaites en sorte que le noyau du portail dans le clip actuel montre déjà le monde suivant pour que la transition s’enchaîne proprement en match cut.  \nRédigez des prompts avec des repères temporels explicites (par ex. 0–3 s, 3–9 s, etc.) pour contrôler la séquence des actions.  \nAjoutez une contrainte du type « un téléphone dans une seule main » pour empêcher Seedance de générer des objets en double (par ex. deux téléphones).\n\n--- CONTINUATION DU THREAD ---\n[Thread 1] l’astuce dont personne ne parle :\n\nchaque monde est une génération Seedance distincte de 15 s. le portail est le liant.\n\nchaque clip SE TERMINE sur le portail, le suivant COMMENCE en sortant du même portail. la jonction disparaît.\n\net le noyau du portail montre déjà le monde suivant, donc le cut se fait en match cut au moment du saut.\n\n[Thread 2] voici le prompt exact du clip 1. reprenez-le 🫡\n\nles éléments clés : des repères temporels (0–3 s, 3–9 s…), un téléphone dans une seule main (il m’en donnait toujours deux 💀), et le noyau du portail montrant déjà le MONDE SUIVANT. https://t.co/ZBm9VAlbHI"
+    },
+    "ja": {
+      "content": "各「world」をそれぞれ独立した15秒のSeedanceクリップとして生成し、portal transitionでつないでください。  \n各クリップは必ずportalで終わらせ、次のクリップは同じportalから出現するところから始めて、継ぎ目を隠します。  \n現在のクリップ内のportal coreには、すでに次のworldが見えているようにして、transitionがきれいにmatch-cutするようにします。  \nシーケンス内の動きを制御するために、0–3s、3–9sのような明示的なtimeline beatsを含めてpromptを書いてください。  \nSeedanceが重複オブジェクト（例: phoneが2つ）を生成しないように、「one phone in one hand」のような制約を追加します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 誰も話さないコツ:\n\n各worldはそれぞれ独立した15秒のSeedance gen。portalが接着剤です。\n\n各クリップはportalで終わり、次のクリップは同じportalから出てくるところから始まる。継ぎ目は消えます。\n\nしかもportalのcoreにはすでに次のworldが見えているので、ジャンプ時にmatch-cutします。\n\n[Thread 2] これがclip 1の正確なpromptです。遠慮なく使ってください🫡\n\n重要なのは、timeline beats（0-3s、3-9s…）、one phone in one hand（なぜか2つ出てきたので💀）、そしてportal coreにNEXT worldがすでに見えていることです。 https://t.co/ZBm9VAlbHI"
+    },
+    "ko": {
+      "content": "각 “world”를 별도의 15초 Seedance clip으로 생성하고, portal transition으로 이들을 하나로 이어 붙이세요.  \n각 clip은 반드시 portal에서 끝나고, 다음 clip은 동일한 portal에서 등장하며 시작해 seam이 보이지 않게 하세요.  \n현재 clip의 portal core에는 이미 다음 world가 보이도록 해서 transition이 자연스럽게 match-cut되게 만드세요.  \n동작의 순서를 제어할 수 있도록 0–3s, 3–9s 같은 명시적인 timeline beats를 prompt에 넣으세요.  \nSeedance가 duplicate object를 생성하는 것을 막기 위해 “one phone in one hand” 같은 constraint를 추가하세요(예: phone이 두 개 나오는 경우 방지).\n\n--- THREAD CONTINUATION ---\n[Thread 1] 아무도 말하지 않는 핵심 트릭:\n\n각 world는 별도의 15초 Seedance gen입니다. portal이 그걸 이어주는 glue예요.\n\n각 clip은 portal에서 끝나고, 다음 clip은 동일한 portal에서 나오는 장면으로 시작합니다. 그러면 seam이 사라집니다.\n\n그리고 portal의 core에는 이미 다음 world가 보이게 해서, 점프할 때 match-cut이 되도록 합니다.\n\n[Thread 2] 여기 정확한 clip 1 prompt가 있습니다. 그대로 가져가세요 🫡\n\n핵심은 timeline beats(0-3s, 3-9s…), one phone in one hand(계속 phone이 두 개씩 나와서요 💀), 그리고 portal core가 이미 NEXT world를 보여주고 있어야 한다는 점입니다. https://t.co/ZBm9VAlbHI"
+    },
+    "pt": {
+      "content": "Gere cada “mundo” como um clipe separado de 15s no Seedance e use uma transição por portal para uni-los.  \nTermine cada clipe no portal e comece o próximo saindo do mesmo portal idêntico para esconder a emenda.  \nFaça com que o núcleo do portal no clipe atual já mostre o próximo mundo, para que a transição faça um match cut limpo.  \nEscreva prompts com batidas explícitas de timeline (por exemplo, 0–3s, 3–9s etc.) para controlar a sequência de ações.  \nAdicione uma restrição como “one phone in one hand” para impedir que o Seedance gere objetos duplicados (por exemplo, dois celulares).\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] o truque que ninguém comenta:\n\ncada mundo é uma geração separada de 15s no Seedance. o portal é a cola.\n\ncada clipe TERMINA no portal, o próximo COMEÇA saindo do mesmo portal idêntico. a emenda desaparece.\n\ne o núcleo do portal já mostra o próximo mundo, então o corte encaixa perfeitamente na transição.\n\n[Thread 2] aqui está o prompt exato do clipe 1. pega de volta 🫡\n\nas partes-chave: batidas de timeline (0-3s, 3-9s…), one phone in one hand (ele continuava me dando dois 💀), e o núcleo do portal já mostrando o PRÓXIMO mundo. https://t.co/ZBm9VAlbHI"
+    },
+    "zh": {
+      "content": "将每个“world”分别生成一个 15s 的 Seedance clip，并用 portal transition 把它们无缝串联起来。  \n让每个 clip 都在 portal 处结束，并让下一个 clip 从同一个 portal 中出现，以隐藏接缝。  \n让当前 clip 里的 portal core 已经显示下一个 world，这样转场就能干净地 match-cut。  \n在 prompts 里写明明确的 timeline beats（例如 0–3s、3–9s 等），以控制动作顺序。  \n再加上类似 “one phone in one hand” 这样的约束，防止 Seedance 生成重复物体（例如两部手机）。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 没人提过的技巧：\n\n每个 world 都是一个独立的 15s Seedance 生成片段。portal 就是粘合剂。\n\n每个 clip 都在 portal 处结束，下一个 clip 则从同一个 portal 中开始出现。接缝就会消失。\n\n而且 portal 的 core 已经显示出下一个 world，所以在跳切时能自然 match-cut。\n\n[Thread 2] 下面是第 1 个 clip 的完整 prompt，直接拿去用吧 🫡\n\n关键部分是：timeline beats（0-3s、3-9s……）、one phone in one hand（它老是给我生成两部 💀），以及 portal core 已经显示 NEXT world。 https://t.co/ZBm9VAlbHI"
+    }
+  }
+}

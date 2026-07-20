@@ -1,0 +1,41 @@
+{
+  "id": "2078334015485206691",
+  "title": "以上传作为唯一动作参考，以上传图片作为唯一人物与服装参考，生成一段与参考视频同样时长的 9:16 竖屏、连续单镜头舞蹈视频。全程无剪辑、无转场。 【动作与镜头】",
+  "content": "以上传作为唯一动作参考，以上传图片作为唯一人物与服装参考，生成一段与参考视频同样时长的 9:16 竖屏、连续单镜头舞蹈视频。全程无剪辑、无转场。 【动作与镜头】",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078332163305660416/img/A8w46MbeLULScdf5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078334015485206691.mp4",
+  "sourceLink": "https://x.com/Chengzilhy/status/2078334015485206691",
+  "sourcePublishedAt": "2026-07-18",
+  "author": {
+    "name": "小宇Chengzi",
+    "link": "https://x.com/Chengzilhy"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "POV"
+  ],
+  "translations": {
+    "en": {
+      "content": "Using the uploaded video as the sole motion reference and the uploaded image as the sole reference for the person and outfit, generate a 9:16 vertical dance video with the same duration as the reference video, in a continuous single shot. No cuts, no transitions throughout. 【Motion and Camera】"
+    },
+    "es": {
+      "content": "Usa el video subido como única referencia de movimiento, y la imagen subida como única referencia de personaje y vestuario, para generar un video de baile vertical 9:16 de un solo plano continuo, con la misma duración que el video de referencia. Sin cortes ni transiciones en todo el video. 【Movimiento y cámara】"
+    },
+    "fr": {
+      "content": "En utilisant la vidéo téléversée comme seule référence de mouvement, et l’image téléversée comme seule référence pour le personnage et les vêtements, générez une vidéo de danse verticale au format 9:16, d’une durée identique à celle de la vidéo de référence, en un seul plan continu. Sans montage ni transition tout au long de la vidéo. 【Mouvement et cadrage】"
+    },
+    "ja": {
+      "content": "Use the uploaded video as the sole motion reference, and the uploaded image as the sole reference for the person and outfit, to generate a 9:16 vertical, continuous single-shot dance video with the same duration as the reference video. No cuts, no transitions throughout. 【Action & Camera】"
+    },
+    "ko": {
+      "content": "업로드한 영상을 유일한 동작 참고로, 업로드한 이미지를 유일한 인물 및 의상 참고로 사용하여, 참고 영상과 동일한 길이의 9:16 세로형 연속 단일 샷 댄스 영상을 생성하세요. 전 구간에 걸쳐 편집이나 전환 없이 진행됩니다. 【동작 및 카메라】"
+    },
+    "pt": {
+      "content": "Use o vídeo enviado como única referência de movimento e a imagem enviada como única referência de personagem e figurino para gerar um vídeo de dança em formato vertical 9:16, com a mesma duração do vídeo de referência, em plano único contínuo. Sem cortes e sem transições ao longo de todo o vídeo. 【Movimento e câmera】"
+    }
+  }
+}

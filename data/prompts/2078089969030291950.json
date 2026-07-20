@@ -1,0 +1,40 @@
+{
+  "id": "2078089969030291950",
+  "title": "生成一条 15 秒、9:16 竖版、固定机位、单镜头连续拍摄的高清写实舞蹈视频。全程不切镜、不转场、不推拉、不环绕。",
+  "content": "生成一条 15 秒、9:16 竖版、固定机位、单镜头连续拍摄的高清写实舞蹈视频。全程不切镜、不转场、不推拉、不环绕。",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078089913497747456/img/_p5scIej_zJkEBAu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078089969030291950.mp4",
+  "sourceLink": "https://x.com/MrLarus/status/2078089969030291950",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "en": {
+      "content": "Generate a 15-second, 9:16 vertical, fixed-camera, single-shot continuous high-definition realistic dance video. No cuts, no transitions, no zooms, no pans, and no orbiting throughout."
+    },
+    "es": {
+      "content": "Genera un video de baile realista en alta definición de 15 segundos, formato vertical 9:16, con cámara fija y una sola toma continua. Durante todo el video, no cortes, no transiciones, no zoom ni movimientos de cámara en órbita."
+    },
+    "fr": {
+      "content": "Générez une vidéo de danse réaliste en haute définition de 15 secondes, au format vertical 9:16, avec caméra fixe et en prise unique continue. Aucun changement de plan, aucune transition, aucun zoom avant/arrière, aucun mouvement circulaire."
+    },
+    "ja": {
+      "content": "Generate a 15-second, 9:16 vertical, fixed-camera, single-take, high-definition photorealistic dance video. No cuts, no transitions, no zooms, no camera movement, and no orbiting throughout."
+    },
+    "ko": {
+      "content": "15초 길이의 9:16 세로형, 고정 카메라, 단일 샷 연속 촬영의 고해상도 사실적 댄스 영상을 생성한다. 전 과정에서 컷 전환, 트랜지션, 줌 인/아웃, 카메라 오빗은 없다."
+    },
+    "pt": {
+      "content": "Gere um vídeo de dança em alta definição, realista, com duração de 15 segundos, formato vertical 9:16, câmera fixa e plano-sequência em um único take. Durante toda a gravação, não cortar, não fazer transições, não aplicar zoom in/out nem movimentos de câmera em torno do sujeito."
+    }
+  }
+}

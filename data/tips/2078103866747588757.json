@@ -1,0 +1,43 @@
+{
+  "id": "2078103866747588757",
+  "title": "Seedance 2.0にMidjourneyで作ったキャラ画像（全身でなくてもOK）を入力し、不足している部位を補完させつつ元の絵柄を維持してキャラクターシー…",
+  "content": "Seedance 2.0にMidjourneyで作ったキャラ画像（全身でなくてもOK）を入力し、不足している部位を補完させつつ元の絵柄を維持してキャラクターシート化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HNcDGiTbMAEHeBx.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078103866747588757.mp4",
+  "sourceLink": "https://x.com/RockzAiLab/status/2078103866747588757",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "Rockzheart.AI.ART",
+    "link": "https://x.com/RockzAiLab"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Fantasy",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0にMidjourneyで作ったキャラ画像（全身でなくてもOK）を入力し、不足している部位を補完させつつ元の絵柄を維持してキャラクターシート化する",
+  "translations": {
+    "en": {
+      "content": "Input a character image created in Midjourney into Seedance 2.0 (it doesn’t have to be full-body), and have it complete the missing parts while preserving the original art style to turn it into a character sheet."
+    },
+    "es": {
+      "content": "Introduce en Seedance 2.0 una imagen de personaje creada en Midjourney (no hace falta que sea de cuerpo entero) y haz que complete las partes que faltan mientras mantiene el estilo original, para convertirla en una character sheet."
+    },
+    "fr": {
+      "content": "Entrer dans Seedance 2.0 une image de personnage créée avec Midjourney (pas forcément en pied), puis compléter les parties manquantes tout en conservant le style d’origine afin d’en faire une character sheet."
+    },
+    "ko": {
+      "content": "Seedance 2.0에 Midjourney로 만든 캐릭터 이미지(전신이 아니어도 OK)를 입력해, 부족한 부분을 보완하면서 원래의 그림체를 유지한 채 캐릭터 시트로 완성한다."
+    },
+    "pt": {
+      "content": "Inserir no Seedance 2.0 uma imagem de personagem criada no Midjourney (não precisa ser de corpo inteiro) e transformá-la em uma character sheet, complementando as partes faltantes enquanto mantém o estilo original."
+    },
+    "zh": {
+      "content": "将用 Midjourney 制作的角色图像（不一定要全身）输入到 Seedance 2.0 中，在补全缺失部位的同时保持原有画风，并将其整理成角色设定表。"
+    }
+  }
+}

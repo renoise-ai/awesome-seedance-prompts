@@ -1,0 +1,42 @@
+{
+  "id": "2078764889116651566",
+  "title": "別カットでも同じ顔・同じスタイルを維持したいときは、顔参照用と全身参照用の参照画像を分けて使う",
+  "content": "別カットでも同じ顔・同じスタイルを維持したいときは、顔参照用と全身参照用の参照画像を分けて使う  \n全身参照画像は顔部分をぼかしておき、顔の一致は顔参照に任せることで別カット間でも体形と顔を維持しやすくする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078758353082474496/img/VN1mstAROaVxHjCL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078764889116651566.mp4",
+  "sourceLink": "https://x.com/luta_ai/status/2078764889116651566",
+  "sourcePublishedAt": "2026-07-19",
+  "author": {
+    "name": "LUTA＠AI",
+    "link": "https://x.com/luta_ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "別カットでも同じ顔・同じスタイルを維持したいときは、顔参照用と全身参照用の参照画像を分けて使う  \n全身参照画像は顔部分をぼかしておき、顔の一致は顔参照に任せることで別カット間でも体形と顔を維持しやすくする",
+  "translations": {
+    "en": {
+      "content": "When you want to maintain the same face and same style across different shots, use separate reference images: one for face reference and one for full-body reference.  \nFor the full-body reference image, blur the face area and let the face reference handle facial consistency. This makes it easier to keep both body shape and face consistent across different cuts."
+    },
+    "es": {
+      "content": "Cuando quieras mantener el mismo rostro y el mismo estilo incluso en tomas distintas, usa por separado una imagen de referencia para el rostro y otra para el cuerpo completo.  \nEn la imagen de referencia de cuerpo completo, difumina la parte del rostro y deja que la coincidencia facial dependa de la referencia del rostro; así será más fácil mantener la complexión y el rostro entre diferentes tomas."
+    },
+    "fr": {
+      "content": "Lorsque vous souhaitez conserver le même visage et le même style d’un plan à l’autre, utilisez des images de référence séparées : une pour le visage et une pour le corps entier.  \nPour l’image de référence du corps entier, floutez la partie du visage ; en confiant la correspondance du visage à la référence faciale, il devient plus facile de conserver la morphologie et le visage d’un plan à l’autre."
+    },
+    "ko": {
+      "content": "다른 컷에서도 같은 얼굴과 같은 스타일을 유지하고 싶을 때는, 얼굴 참조용과 전신 참조용의 참조 이미지를 나누어 사용한다.  \n전신 참조 이미지는 얼굴 부분을 흐리게 처리해 두고, 얼굴 일치는 얼굴 참조에 맡김으로써 다른 컷 사이에서도 체형과 얼굴을 유지하기 쉽게 한다."
+    },
+    "pt": {
+      "content": "Quando quiser manter o mesmo rosto e o mesmo estilo em cortes diferentes, use imagens de referência separadas: uma para referência facial e outra para referência de corpo inteiro.  \nNa imagem de referência de corpo inteiro, deixe a parte do rosto desfocada; assim, a correspondência facial fica a cargo da referência de rosto, facilitando a manutenção da silhueta e do rosto entre cortes diferentes."
+    },
+    "zh": {
+      "content": "当你想在不同镜头中也保持同一张脸、同一种风格时，可以将用于脸部参考和用于全身参考的参考图分开使用。  \n全身参考图可以把脸部区域模糊处理，把脸部一致性交给脸部参考，这样即使在不同镜头之间，也更容易保持体型和脸部特征。"
+    }
+  }
+}

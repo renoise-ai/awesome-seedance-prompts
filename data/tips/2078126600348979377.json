@@ -1,0 +1,42 @@
+{
+  "id": "2078126600348979377",
+  "title": "Animate multi-shot sequences in Seedance 2.0 by using a reference photo as the…",
+  "content": "Animate multi-shot sequences in Seedance 2.0 by using a reference photo as the visual anchor and supplying a multi-shot animation prompt (e.g., include explicit action beats like “dodge the punch” to ensure the character performs the intended move).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078125480440451072/img/ii_or0qb_lFsADN1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078126600348979377.mp4",
+  "sourceLink": "https://x.com/vladimircherner/status/2078126600348979377",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "Volodymyr Cherner",
+    "link": "https://x.com/vladimircherner"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Animate multi-shot sequences in Seedance 2.0 by using a reference photo as the visual anchor and supplying a multi-shot animation prompt (e.g., include explicit action beats like “dodge the punch” to ensure the character performs the intended move).",
+  "translations": {
+    "es": {
+      "content": "Anima secuencias de múltiples tomas en Seedance 2.0 usando una foto de referencia como ancla visual y proporcionando un prompt de animación de múltiples tomas (por ejemplo, incluye beats de acción explícitos como “dodge the punch” para asegurar que el personaje realice el movimiento previsto)."
+    },
+    "fr": {
+      "content": "Animez des séquences multi-plans dans Seedance 2.0 en utilisant une photo de référence comme ancrage visuel et en fournissant un prompt d’animation multi-plans (par exemple, incluez des actions explicites comme « dodge the punch » afin de vous assurer que le personnage exécute le mouvement souhaité)."
+    },
+    "ja": {
+      "content": "Seedance 2.0 では、参照写真をビジュアルのアンカーとして使用し、マルチショットのアニメーション prompt を指定することで、マルチショットのシーケンスをアニメーション化できます（たとえば、キャラクターに意図した動きを確実にさせるために、“dodge the punch” のような明確なアクションのビートを含めます）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 참조 사진을 시각적 앵커로 사용하고 멀티샷 애니메이션 prompt를 입력해 멀티샷 시퀀스를 애니메이션화하세요(예: 캐릭터가 의도한 동작을 수행하도록 “dodge the punch”처럼 명시적인 액션 비트를 포함하세요)."
+    },
+    "pt": {
+      "content": "Anime sequências de múltiplos planos no Seedance 2.0 usando uma foto de referência como âncora visual e fornecendo um prompt de animação multi-shot (por exemplo, inclua batidas de ação explícitas como “dodge the punch” para garantir que o personagem execute o movimento pretendido)."
+    },
+    "zh": {
+      "content": "通过使用参考照片作为视觉锚点，并提供多镜头动画 prompt（例如，加入明确的动作节拍，如“dodge the punch”，以确保角色执行预期动作），在 Seedance 2.0 中制作多镜头序列动画。"
+    }
+  }
+}

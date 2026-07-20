@@ -1,0 +1,42 @@
+{
+  "id": "2078256434395943287",
+  "title": "Blenderで作成したカメラアニメーションをSeedance 2.0に取り込んで、同じカメラワークを反映させて生成する",
+  "content": "Blenderで作成したカメラアニメーションをSeedance 2.0に取り込んで、同じカメラワークを反映させて生成する  \nComfyUI Cloudで公開されているSeedance用カメラワークフローの共有リンクを読み込み、カメラ制御付きの生成パイプラインとして再利用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076746458947313665/img/GgjgCDMxBAKrP6aS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078256434395943287.mp4",
+  "sourceLink": "https://x.com/ai_hakase_/status/2078256434395943287",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "ハカセ アイ(Ai-Hakase)🐾最新トレンドＡＩのためのＸ 🐾",
+    "link": "https://x.com/ai_hakase_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blenderで作成したカメラアニメーションをSeedance 2.0に取り込んで、同じカメラワークを反映させて生成する  \nComfyUI Cloudで公開されているSeedance用カメラワークフローの共有リンクを読み込み、カメラ制御付きの生成パイプラインとして再利用する",
+  "translations": {
+    "en": {
+      "content": "Import camera animations created in Blender into Seedance 2.0 and generate results that reflect the same camera movement.  \nLoad the shared link for the Seedance camera workflow published on ComfyUI Cloud and reuse it as a generation pipeline with camera control.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Shared link to the camera workflow published on ComfyUI Cloud\nhttps://t.co/gQRTuXUtVx\n---"
+    },
+    "es": {
+      "content": "Importa la animación de cámara creada en Blender en Seedance 2.0 y genera el resultado aplicando el mismo movimiento de cámara.  \nCarga el enlace compartido del workflow de cámara para Seedance publicado en ComfyUI Cloud y reutilízalo como un pipeline de generación con control de cámara.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Enlace compartido del workflow de cámara publicado en ComfyUI Cloud\nhttps://t.co/gQRTuXUtVx\n---"
+    },
+    "fr": {
+      "content": "Importer dans Seedance 2.0 une animation de caméra créée dans Blender, puis générer en reproduisant le même mouvement de caméra  \nCharger le lien de partage du workflow de caméra pour Seedance publié sur ComfyUI Cloud, et le réutiliser comme pipeline de génération avec contrôle de caméra\n\n--- SUITE DU FIL ---\n[Fil 1] Lien de partage du workflow de caméra publié sur ComfyUI Cloud\nhttps://t.co/gQRTuXUtVx\n---"
+    },
+    "ko": {
+      "content": "Blender에서 만든 카메라 애니메이션을 Seedance 2.0에 가져와 동일한 카메라 워크를 반영해 생성하기  \nComfyUI Cloud에 공개된 Seedance용 카메라 워크플로의 공유 링크를 불러와, 카메라 제어가 포함된 생성 파이프라인으로 재사용하기\n\n--- THREAD CONTINUATION ---\n[Thread 1] ComfyUI Cloud에 공개된 카메라 워크플로의 공유 링크\nhttps://t.co/gQRTuXUtVx\n---"
+    },
+    "pt": {
+      "content": "Importe a animação de câmera criada no Blender para o Seedance 2.0 e gere o resultado aplicando o mesmo movimento de câmera.  \nCarregue o link compartilhado do workflow de câmera para Seedance publicado no ComfyUI Cloud e reutilize-o como um pipeline de geração com controle de câmera.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Link compartilhado do workflow de câmera publicado no ComfyUI Cloud\nhttps://t.co/gQRTuXUtVx\n---"
+    },
+    "zh": {
+      "content": "将 Blender 中创建的摄像机动画导入 Seedance 2.0，并在生成时反映相同的镜头运动  \n读取 ComfyUI Cloud 上公开的 Seedance 摄像机工作流共享链接，将其作为带摄像机控制的生成管线复用\n\n--- 线程续接 ---\n[Thread 1] ComfyUI Cloud 上公开的摄像机工作流共享链接\nhttps://t.co/gQRTuXUtVx\n---"
+    }
+  }
+}

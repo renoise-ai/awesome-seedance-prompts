@@ -1,0 +1,42 @@
+{
+  "id": "2078387277911457838",
+  "title": "Specify a clear style stack in your prompt (e.g., Captain Tsubasa × Blue Lock ×…",
+  "content": "Specify a clear style stack in your prompt (e.g., Captain Tsubasa × Blue Lock × Haikyuu) plus concrete visual descriptors (bold black linework, ultra-saturated colors, dynamic lighting, speed lines, glowing auras, motion blur) to lock the anime look.\n\nControl pacing by explicitly instructing edit cadence and shot length (e.g., 50 seconds total, every shot under 1 second, rapid cuts every 0.3–0.7s) to force hyper-fast montage structure.\n\nAdd camera and post effects directly in the prompt (cinematic camera shake, whip-pan, lens flare, particle sparks, impact frames, aggressive editing) to increase perceived intensity.\n\nUse a timecoded outline (0–5s opening, 5–12s intros, 12–38s gameplay, 38–47s peak, 47–50s resolve) with beat-by-beat actions to guide scene progression.\n\nInclude Voice Reference / dialogue + SFX callouts in the prompt to drive a narrative short-film format with announcer/crowd energy.\n\nRequest output specs explicitly (vertical 16:9, 4K HDR, 50 seconds) to target the desired aspect and quality.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078386098250854400/img/Fln28ubwu_rmZcgv.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078387277911457838.mp4",
+  "sourceLink": "https://x.com/Just_sharon7/status/2078387277911457838",
+  "sourcePublishedAt": "2026-07-18",
+  "author": {
+    "name": "Sharon Riley",
+    "link": "https://x.com/Just_sharon7"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify a clear style stack in your prompt (e.g., Captain Tsubasa × Blue Lock × Haikyuu) plus concrete visual descriptors (bold black linework, ultra-saturated colors, dynamic lighting, speed lines, glowing auras, motion blur) to lock the anime look.\n\nControl pacing by explicitly instructing edit cadence and shot length (e.g., 50 seconds total, every shot under 1 second, rapid cuts every 0.3–0.7s) to force hyper-fast montage structure.\n\nAdd camera and post effects directly in the prompt (cinematic camera shake, whip-pan, lens flare, particle sparks, impact frames, aggressive editing) to increase perceived intensity.\n\nUse a timecoded outline (0–5s opening, 5–12s intros, 12–38s gameplay, 38–47s peak, 47–50s resolve) with beat-by-beat actions to guide scene progression.\n\nInclude Voice Reference / dialogue + SFX callouts in the prompt to drive a narrative short-film format with announcer/crowd energy.\n\nRequest output specs explicitly (vertical 16:9, 4K HDR, 50 seconds) to target the desired aspect and quality.",
+  "translations": {
+    "es": {
+      "content": "Especifica una pila de estilos clara en tu prompt (por ejemplo, Captain Tsubasa × Blue Lock × Haikyuu) junto con descriptores visuales concretos (trazo negro audaz, colores ultra saturados, iluminación dinámica, speed lines, auras brillantes, motion blur) para fijar el look anime.\n\nControla el ritmo indicando explícitamente la cadencia de edición y la duración de los planos (por ejemplo, 50 segundos en total, cada plano por debajo de 1 segundo, cortes rápidos cada 0,3–0,7 s) para forzar una estructura de montaje hiperacelerada.\n\nAñade directamente en el prompt efectos de cámara y postproducción (camera shake cinematográfico, whip-pan, lens flare, chispas de partículas, impact frames, edición agresiva) para aumentar la intensidad percibida.\n\nUsa un esquema con marcas de tiempo (0–5 s apertura, 5–12 s intros, 12–38 s gameplay, 38–47 s clímax, 47–50 s resolución) con acciones paso a paso para guiar la progresión de la escena.\n\nIncluye Voice Reference / diálogo + indicaciones de SFX en el prompt para impulsar un formato de cortometraje narrativo con energía de locutor y público.\n\nSolicita explícitamente las especificaciones de salida (vertical 16:9, 4K HDR, 50 segundos) para apuntar al aspecto y la calidad deseados."
+    },
+    "fr": {
+      "content": "Spécifiez une **style stack** claire dans votre prompt (par ex. Captain Tsubasa × Blue Lock × Haikyuu) ainsi que des descripteurs visuels concrets (traits noirs marqués, couleurs ultra-saturées, éclairage dynamique, speed lines, auras lumineuses, motion blur) pour verrouiller le rendu anime.\n\nContrôlez le rythme en indiquant explicitement la cadence de montage et la durée des plans (par ex. 50 secondes au total, chaque plan de moins d’1 seconde, cuts rapides toutes les 0,3 à 0,7 s) afin d’imposer une structure de montage hyper rapide.\n\nAjoutez directement dans le prompt des effets de caméra et de post-production (cinematic camera shake, whip-pan, lens flare, particle sparks, impact frames, montage agressif) pour renforcer l’intensité perçue.\n\nUtilisez un plan détaillé horodaté (0–5 s ouverture, 5–12 s intros, 12–38 s gameplay, 38–47 s pic, 47–50 s résolution) avec des actions beat par beat pour guider la progression des scènes.\n\nIncluez des indications Voice Reference / dialogue + SFX dans le prompt afin d’orienter un format de court-métrage narratif avec l’énergie d’un commentateur et du public.\n\nDemandez explicitement les spécifications de sortie (vertical 16:9, 4K HDR, 50 secondes) pour cibler le format et la qualité souhaités."
+    },
+    "ja": {
+      "content": "プロンプト内で明確なスタイルの組み合わせを指定する（例: Captain Tsubasa × Blue Lock × Haikyuu）うえで、具体的なビジュアル描写（太い黒の線画、超高彩度の色彩、ダイナミックなライティング、スピードライン、発光するオーラ、モーションブラー）を加え、アニメらしい見た目を固定する。\n\n編集のテンポとショットの長さを明示的に指示してペーシングをコントロールする（例: 合計50秒、各ショットは1秒未満、0.3〜0.7秒ごとの高速カット）ことで、超高速のモンタージュ構成を強制する。\n\nカメラ効果やポストエフェクトをプロンプトに直接追加する（cinematic camera shake、whip-pan、lens flare、particle sparks、impact frames、aggressive editing）ことで、体感的な迫力を高める。\n\nタイムコード付きのアウトラインを使う（0〜5秒: オープニング、5〜12秒: 導入、12〜38秒: gameplay、38〜47秒: クライマックス、47〜50秒: 収束）ことで、ビートごとのアクションを示し、シーンの進行を導く。\n\nVoice Reference / セリフ + SFX の指示をプロンプトに含め、ナレーターや観客の熱量を伴うナラティブなショートフィルム形式へと誘導する。\n\n出力仕様を明示的に指定する（縦向き16:9、4K HDR、50秒）ことで、狙ったアスペクト比と品質を実現する。"
+    },
+    "ko": {
+      "content": "프롬프트에서 명확한 스타일 스택을 지정하세요(예: Captain Tsubasa × Blue Lock × Haikyuu)와 함께 구체적인 시각적 묘사(굵은 검은 선화, 초고채도 색감, 역동적인 조명, 스피드 라인, 빛나는 아우라, 모션 블러)를 넣어 애니메이션 느낌을 고정합니다.\n\n편집 템포와 샷 길이를 명시적으로 지시해 페이싱을 제어하세요(예: 총 50초, 각 샷은 1초 미만, 0.3–0.7초마다 빠른 컷)하여 초고속 몽타주 구조를 강제합니다.\n\n시네마틱 카메라 흔들림, 휩팬(whip-pan), 렌즈 플레어, 파티클 스파크, 임팩트 프레임, 공격적인 편집 같은 카메라 및 후반 효과를 프롬프트에 직접 추가해 체감 강도를 높입니다.\n\n타임코드가 포함된 아웃라인을 사용하세요(0–5초 오프닝, 5–12초 인트로, 12–38초 게임플레이, 38–47초 피크, 47–50초 마무리)와 비트별 액션을 함께 넣어 장면 전개를 안내합니다.\n\nVoice Reference / 대사 + SFX 콜아웃을 프롬프트에 포함해, 해설자/관중의 에너지가 살아 있는 내러티브 숏필름 형식으로 이끕니다.\n\n원하는 화면비와 품질을 맞추기 위해 출력 사양을 명시적으로 요청하세요(세로 16:9, 4K HDR, 50초)."
+    },
+    "pt": {
+      "content": "Especifique uma stack de estilo clara no seu prompt (por exemplo, Captain Tsubasa × Blue Lock × Haikyuu) além de descritores visuais concretos (traços pretos marcantes, cores ultra-saturadas, iluminação dinâmica, speed lines, auras brilhantes, motion blur) para fixar o visual de anime.\n\nControle o ritmo instruindo explicitamente a cadência de edição e a duração dos planos (por exemplo, 50 segundos no total, cada plano com menos de 1 segundo, cortes rápidos a cada 0,3–0,7s) para forçar uma estrutura de montagem hiper-rápida.\n\nAdicione câmera e efeitos de pós-produção diretamente no prompt (camera shake cinematográfico, whip-pan, lens flare, partículas de faíscas, impact frames, edição agressiva) para aumentar a intensidade percebida.\n\nUse um outline com timecode (0–5s abertura, 5–12s introduções, 12–38s gameplay, 38–47s clímax, 47–50s resolução) com ações beat by beat para orientar a progressão das cenas.\n\nInclua Voice Reference / diálogo + indicações de SFX no prompt para conduzir um formato de curta-metragem narrativo com energia de narrador e da plateia.\n\nSolicite explicitamente as especificações de saída (vertical 16:9, 4K HDR, 50 segundos) para atingir o aspecto e a qualidade desejados."
+    },
+    "zh": {
+      "content": "在 prompt 中明确指定一个清晰的风格组合（例如 Captain Tsubasa × Blue Lock × Haikyuu），并加入具体的视觉描述（粗黑线条、超高饱和度色彩、强烈动态光效、速度线、发光光环、运动模糊），以锁定动漫风格。\n\n通过明确指示剪辑节奏和镜头时长来控制 pacing（例如总时长 50 秒、每个镜头不超过 1 秒、每 0.3–0.7 秒快速切换一次），以强制形成超高速蒙太奇结构。\n\n直接在 prompt 中加入镜头与后期效果（cinematic camera shake、whip-pan、lens flare、粒子火花、impact frames、激进剪辑），以增强感知上的强度。\n\n使用带时间码的大纲（0–5s 开场、5–12s 介绍、12–38s gameplay、38–47s 高潮、47–50s 收束），并配合逐拍动作，来引导场景推进。\n\n在 prompt 中加入 Voice Reference / 对白 + SFX 提示，以驱动具有旁白/观众氛围的叙事短片格式。\n\n明确要求输出规格（竖屏 16:9、4K HDR、50 秒），以匹配目标画幅和质量。"
+    }
+  }
+}

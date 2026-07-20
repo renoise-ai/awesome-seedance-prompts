@@ -1,0 +1,42 @@
+{
+  "id": "2078311133245804623",
+  "title": "Blenderなどで作った3D空間内の指定位置・向きにマーカー（目印）を置き、そのマーカーをSeedanceに参照させてキャラの位置・向き・カメラを3D空間側で…",
+  "content": "Blenderなどで作った3D空間内の指定位置・向きにマーカー（目印）を置き、そのマーカーをSeedanceに参照させてキャラの位置・向き・カメラを3D空間側で固定し、生成映像の制御性を上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078311097971744768/img/Ufn_G3KiTiwvplkP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078311133245804623.mp4",
+  "sourceLink": "https://x.com/ryo05m/status/2078311133245804623",
+  "sourcePublishedAt": "2026-07-18",
+  "author": {
+    "name": "Ryo@AI動画×AIツール紹介",
+    "link": "https://x.com/ryo05m"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blenderなどで作った3D空間内の指定位置・向きにマーカー（目印）を置き、そのマーカーをSeedanceに参照させてキャラの位置・向き・カメラを3D空間側で固定し、生成映像の制御性を上げる",
+  "translations": {
+    "en": {
+      "content": "Place markers at specified positions and orientations within a 3D space created in Blender or similar tools, then have Seedance reference those markers to lock the character’s position, orientation, and camera on the 3D side, improving control over the generated video.\n\n--- QUOTED TWEET ---\nBy continuously improving Fable 5’s skills, the quality of the 3D spaces has been getting better and better.\n\nThis time, it autonomously generated an anime background stage with almost no instructions. The AI handled the design → build → render → review cycle on its own, self-correcting 11 times before finishing the result.\n\nThe feeling of improvement cycles stacking up is pretty amazing. https://t.co/crEx3BMEUK\n---"
+    },
+    "es": {
+      "content": "Colocar marcadores (señales) en posiciones y orientaciones específicas dentro de un espacio 3D creado en Blender, hacer que Seedance los tome como referencia y fijar así la posición, orientación y cámara del personaje en el lado del espacio 3D, aumentando el control sobre el video generado\n\n--- TWEET CITADO ---\nSi sigues haciendo que Fable 5 mejore sus habilidades, la calidad del espacio 3D va subiendo cada vez más.\n\nEsta vez generó de forma autónoma un escenario de fondo de anime casi sin instrucciones. La IA recorrió por sí sola el ciclo de diseño → build → render → revisión, y llegó al resultado final tras 11 auto-correcciones.\n\nLa sensación de que los ciclos de mejora se van acumulando es bastante impresionante. https://t.co/crEx3BMEUK\n---"
+    },
+    "fr": {
+      "content": "Placer des marqueurs à des positions et orientations précises dans un espace 3D créé avec Blender, puis faire en sorte que Seedance s’y réfère afin de fixer, côté espace 3D, la position, l’orientation et la caméra du personnage, pour améliorer le contrôle sur la vidéo générée\n\n--- TWEET CITÉ ---\nEn continuant à faire améliorer ses compétences à Fable 5, la qualité de l’espace 3D n’a cessé de s’améliorer.\n\nCette fois, il a généré de manière autonome une scène de fond d’anime, avec presque aucune instruction. L’IA a elle-même bouclé le cycle conception → build → rendu → validation, et a terminé après 11 auto-corrections.\n\nLa sensation d’accumulation des cycles d’amélioration est vraiment impressionnante. https://t.co/crEx3BMEUK\n---"
+    },
+    "ko": {
+      "content": "Blender 등으로 만든 3D 공간 내의 지정 위치·방향에 마커(표식)를 두고, 그 마커를 Seedance가 참조하게 해서 캐릭터의 위치·방향·카메라를 3D 공간 측에서 고정함으로써 생성 영상의 제어성을 높인다\n\n--- QUOTED TWEET ---\nFable 5에 스킬을 계속 개선하게 했더니, 3D 공간의 퀄리티가 점점 높아졌다.\n\n이번에는 애니메이션 배경 스테이지를 거의 지시 없이 자율 생성. 설계→빌드→렌더→검수의 사이클을 AI가 스스로 돌리고, 11번 자기 수정해서 완성해 왔다.\n\n개선 사이클이 쌓여 가는 감각, 꽤 대단하다. https://t.co/crEx3BMEUK\n---"
+    },
+    "pt": {
+      "content": "Colocar marcadores (pontos de referência) em posições e orientações específicas dentro de um espaço 3D criado no Blender, por exemplo, e fazer com que o Seedance use esses marcadores como referência para fixar a posição, a orientação e a câmera do personagem no lado do espaço 3D, aumentando assim o controle sobre o vídeo gerado\n\n--- TWEET CITADO ---\nAo continuar aprimorando as habilidades do Fable 5, a qualidade do espaço 3D foi melhorando cada vez mais.\n\nDesta vez, um cenário de fundo de anime foi gerado de forma autônoma, com quase nenhuma instrução. A IA executou sozinha o ciclo de design → build → render → validação, e chegou ao resultado final após 11 auto-correções.\n\nA sensação de ver os ciclos de melhoria se acumulando é realmente impressionante. https://t.co/crEx3BMEUK\n---"
+    },
+    "zh": {
+      "content": "在 Blender 等工具创建的 3D 空间中，在指定位置和朝向放置 marker（标记），让 Seedance 参考该 marker，从而在 3D 空间侧固定角色的位置、朝向和 camera，提升生成视频的可控性\n\n--- QUOTED TWEET ---\n一直让 Fable 5 持续提升技能后，3D 空间的质量也在不断提高。\n\n这次几乎没有任何指示，就自动生成了动画背景舞台。AI 自己完成了设计→构建→渲染→验收的循环，并进行了 11 次自我修正后完成。\n\n这种改进循环不断累积的感觉，真的相当厉害。 https://t.co/crEx3BMEUK\n---"
+    }
+  }
+}

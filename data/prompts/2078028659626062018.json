@@ -1,0 +1,40 @@
+{
+  "id": "2078028659626062018",
+  "title": "Test prompt: Ink wash World Cup final winning goal",
+  "content": "Test prompt: Ink wash World Cup final winning goal",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078028567007420416/img/Sw4yo3g4iqlbBg1g.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078028659626062018.mp4",
+  "sourceLink": "https://x.com/Medeo_AI/status/2078028659626062018",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "Medeo_AI",
+    "link": "https://x.com/Medeo_AI"
+  },
+  "tags": [
+    "Sports",
+    "Football",
+    "Hand-drawn",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Prompt de prueba: gol de la victoria en la final de la Copa del Mundo en tinta lavada"
+    },
+    "fr": {
+      "content": "Prompt de test : but victorieux de la finale de la Coupe du monde en lavis d’encre"
+    },
+    "ja": {
+      "content": "テスト用プロンプト：水墨画風のワールドカップ決勝戦の決勝ゴール"
+    },
+    "ko": {
+      "content": "테스트 프롬프트: 수묵화 스타일의 월드컵 결승전 결승골"
+    },
+    "pt": {
+      "content": "Prompt de teste: gol da vitória na final da Copa do Mundo em estilo ink wash"
+    },
+    "zh": {
+      "content": "测试提示词：水墨风世界杯决赛制胜进球"
+    }
+  }
+}

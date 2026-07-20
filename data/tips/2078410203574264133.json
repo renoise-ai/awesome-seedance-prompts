@@ -1,0 +1,42 @@
+{
+  "id": "2078410203574264133",
+  "title": "Use Seedance 2.0 in Firefly with Start and End Frames: composite your character…",
+  "content": "Use Seedance 2.0 in Firefly with Start and End Frames: composite your character onto both the start and end scene images first (e.g., in Nano Banana Pro with Add my butterfly to the scene. Make sure the scene remains exactly the same), then generate using those two images as the start/end frames.  \nWhen using Start/End Frames, set a longer duration so Seedance has time to travel between frames (use 7+ seconds).  \nTo control a flight/camera path, paint a red line/arrow onto the scene image marking the intended path, then feed Seedance 2.0 reference images that include both the character perspective images and the scene with the red arrow.  \nIf Seedance keeps the red arrow in the output, retry with prompts explicitly instructing it to remove the red line; expect roughly ~50% success without leaving the arrow visible, so plan on multiple attempts.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aiIgnatius/status/2078410203574264133",
+  "sourcePublishedAt": "2026-07-18",
+  "author": {
+    "name": "Ignatius AI",
+    "link": "https://x.com/aiIgnatius"
+  },
+  "tags": [
+    "Animals",
+    "Creatures",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use Seedance 2.0 in Firefly with Start and End Frames: composite your character onto both the start and end scene images first (e.g., in Nano Banana Pro with Add my butterfly to the scene. Make sure the scene remains exactly the same), then generate using those two images as the start/end frames.  \nWhen using Start/End Frames, set a longer duration so Seedance has time to travel between frames (use 7+ seconds).  \nTo control a flight/camera path, paint a red line/arrow onto the scene image marking the intended path, then feed Seedance 2.0 reference images that include both the character perspective images and the scene with the red arrow.  \nIf Seedance keeps the red arrow in the output, retry with prompts explicitly instructing it to remove the red line; expect roughly ~50% success without leaving the arrow visible, so plan on multiple attempts.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.0 en Firefly con Start and End Frames: compón primero tu personaje sobre las imágenes de la escena inicial y final (por ejemplo, en Nano Banana Pro con Add my butterfly to the scene. Make sure the scene remains exactly the same), y luego genera usando esas dos imágenes como los start/end frames.  \nAl usar Start/End Frames, establece una duración más larga para que Seedance tenga tiempo de desplazarse entre los frames (usa 7+ segundos).  \nPara controlar una ruta de vuelo/cámara, pinta una línea/flecha roja sobre la imagen de la escena marcando la trayectoria deseada, y luego proporciona a Seedance 2.0 imágenes de referencia que incluyan tanto las imágenes de perspectiva del personaje como la escena con la flecha roja.  \nSi Seedance mantiene la flecha roja en la salida, vuelve a intentarlo con prompts que indiquen explícitamente que elimine la línea roja; espera aproximadamente un ~50% de éxito sin que la flecha quede visible, así que prevé varios intentos."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 dans Firefly avec des Start and End Frames : composez d’abord votre personnage sur les images de la scène de départ et de fin (par exemple, dans Nano Banana Pro avec « Add my butterfly to the scene ». Assurez-vous que la scène reste exactement la même), puis générez à partir de ces deux images comme start/end frames.  \nLorsque vous utilisez les Start/End Frames, définissez une durée plus longue afin que Seedance ait le temps de se déplacer entre les frames (utilisez 7 secondes ou plus).  \nPour contrôler une trajectoire de vol/de caméra, peignez une ligne/flèche rouge sur l’image de la scène pour indiquer le chemin souhaité, puis fournissez à Seedance 2.0 des images de référence incluant à la fois les images en perspective du personnage et la scène avec la flèche rouge.  \nSi Seedance conserve la flèche rouge dans le résultat, réessayez avec des prompts demandant explicitement de supprimer la ligne rouge ; attendez-vous à un taux de réussite d’environ 50 % sans laisser la flèche visible, donc prévoyez plusieurs tentatives."
+    },
+    "ja": {
+      "content": "FireflyでSeedance 2.0をStart and End Framesとともに使う場合は、まずキャラクターを開始シーンと終了シーンの両方の画像に合成します（たとえば Nano Banana Pro で「Add my butterfly to the scene. Make sure the scene remains exactly the same」と指示する）。その後、その2枚の画像を start/end frames として生成します。  \nStart/End Frames を使うときは、Seedance がフレーム間を移動する時間を確保できるよう、長めの duration を設定します（7秒以上を推奨）。  \n飛行経路や camera path を制御したい場合は、シーン画像に赤い線や矢印を描いて意図した経路を示し、そのうえでキャラクターの視点画像と赤い矢印入りのシーンの両方を含む reference images を Seedance 2.0 に入力します。  \nSeedance が出力に赤い矢印を残してしまう場合は、赤い線を削除するよう明示的に指示する prompts で再試行してください。矢印を残さずに生成できる成功率はおおむね約50%なので、複数回の試行を前提にしてください。"
+    },
+    "ko": {
+      "content": "Firefly에서 Start and End Frames와 함께 Seedance 2.0을 사용하려면: 먼저 캐릭터를 시작 장면 이미지와 종료 장면 이미지 양쪽에 모두 합성하세요(예: Nano Banana Pro에서 “Add my butterfly to the scene.”을 사용하되, 장면은 정확히 동일하게 유지해야 합니다). 그런 다음 이 두 이미지를 start/end frames로 사용해 생성합니다.  \nStart/End Frames를 사용할 때는 Seedance가 프레임 사이를 이동할 시간을 가질 수 있도록 더 긴 duration을 설정하세요(7초 이상 권장).  \n비행/카메라 경로를 제어하려면, 장면 이미지 위에 의도한 경로를 표시하는 빨간 선/화살표를 그린 다음, 캐릭터 시점 이미지와 빨간 화살표가 포함된 장면 이미지를 모두 포함한 Seedance 2.0 reference images를 입력하세요.  \nSeedance가 출력 결과에 빨간 화살표를 계속 남긴다면, 빨간 선을 제거하라고 명시적으로 지시하는 prompts로 다시 시도하세요. 화살표가 보이지 않게 나올 성공률은 대략 50% 정도이므로, 여러 번 시도할 계획을 세우는 것이 좋습니다."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 no Firefly com Start and End Frames: componha seu personagem nas imagens da cena inicial e final primeiro (por exemplo, no Nano Banana Pro com “Add my butterfly to the scene”. Certifique-se de que a cena permaneça exatamente a mesma), e então gere usando essas duas imagens como os frames inicial/final.  \nAo usar Start/End Frames, defina uma duração maior para que o Seedance tenha tempo de se mover entre os frames (use 7+ segundos).  \nPara controlar uma trajetória de voo/câmera, pinte uma linha/seta vermelha na imagem da cena marcando o caminho pretendido e, em seguida, forneça ao Seedance 2.0 imagens de referência que incluam tanto as imagens em perspectiva do personagem quanto a cena com a seta vermelha.  \nSe o Seedance mantiver a seta vermelha na saída, tente novamente com prompts instruindo explicitamente para remover a linha vermelha; espere cerca de ~50% de sucesso sem deixar a seta visível, então planeje várias tentativas."
+    },
+    "zh": {
+      "content": "在 Firefly 中使用 Seedance 2.0 的 Start and End Frames：先把你的角色合成到起始和结束场景图像中（例如在 Nano Banana Pro 里使用 “Add my butterfly to the scene.”。确保场景保持完全不变），然后将这两张图作为 start/end frames 进行生成。  \n使用 Start/End Frames 时，设置更长的时长，让 Seedance 有足够时间在帧之间移动（建议使用 7 秒以上）。  \n要控制飞行/镜头路径，可以在场景图像上画一条红色线条/箭头来标记预期路径，然后向 Seedance 2.0 提供参考图像，其中同时包含角色视角图像以及带有红色箭头的场景图。  \n如果 Seedance 在输出中保留了红色箭头，就重试，并在提示词中明确要求它移除红线；在不留下箭头可见的情况下，成功率大约只有 50%，所以要准备多次尝试。"
+    }
+  }
+}

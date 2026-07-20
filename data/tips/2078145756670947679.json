@@ -1,0 +1,43 @@
+{
+  "id": "2078145756670947679",
+  "title": "원본 동영상을 준비한 뒤 Hixfield에 접속한다",
+  "content": "원본 동영상을 준비한 뒤 Hixfield에 접속한다  \nHixfield에서 Gemini Omni Flash 모델을 선택한다(가능하면 Seedance 2.0, 대안으로 Kling 3.0 Omni 사용 가능)  \n원본 동영상과 본인 사진 레퍼런스를 함께 업로드한다  \n프롬프트에서 동영상 속 여성 인물을 업로드한 사진 레퍼런스로 교체하도록 지시한다",
+  "language": "ko",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078144651153096704/img/TsTlCXBtqSNVHGn5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078145756670947679.mp4",
+  "sourceLink": "https://x.com/__blackpig/status/2078145756670947679",
+  "sourcePublishedAt": "2026-07-17",
+  "author": {
+    "name": "흑돼지 (くろぶた)",
+    "link": "https://x.com/__blackpig"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "원본 동영상을 준비한 뒤 Hixfield에 접속한다  \nHixfield에서 Gemini Omni Flash 모델을 선택한다(가능하면 Seedance 2.0, 대안으로 Kling 3.0 Omni 사용 가능)  \n원본 동영상과 본인 사진 레퍼런스를 함께 업로드한다  \n프롬프트에서 동영상 속 여성 인물을 업로드한 사진 레퍼런스로 교체하도록 지시한다",
+  "translations": {
+    "en": {
+      "content": "Prepare the original video, then access Hixfield.  \nIn Hixfield, select the Gemini Omni Flash model (if possible, use Seedance 2.0; alternatively, Kling 3.0 Omni can be used).  \nUpload the original video and your photo reference together.  \nIn the prompt, instruct the model to replace the female character in the video with the uploaded photo reference."
+    },
+    "es": {
+      "content": "Después de preparar el video original, accede a Hixfield.  \nEn Hixfield, selecciona el modelo Gemini Omni Flash (si es posible, Seedance 2.0; como alternativa, también se puede usar Kling 3.0 Omni).  \nSube juntos el video original y la foto de referencia de la persona.  \nEn el prompt, indica que el personaje femenino del video debe ser reemplazado por la foto de referencia subida."
+    },
+    "fr": {
+      "content": "Préparez la vidéo originale, puis connectez-vous à Hixfield  \nDans Hixfield, sélectionnez le modèle Gemini Omni Flash (si possible, Seedance 2.0 ; à défaut, Kling 3.0 Omni peut être utilisé)  \nTéléversez ensemble la vidéo originale et la photo de référence de la personne  \nDans le prompt, indiquez de remplacer la femme présente dans la vidéo par la photo de référence téléversée"
+    },
+    "ja": {
+      "content": "元の動画を準備したら、Hixfieldにアクセスする  \nHixfieldでGemini Omni Flashモデルを選択する（可能であればSeedance 2.0、代替としてKling 3.0 Omniも使用可能）  \n元の動画と自分の写真レファレンスを一緒にアップロードする  \npromptでは、動画内の女性人物をアップロードした写真レファレンスに置き換えるよう指示する"
+    },
+    "pt": {
+      "content": "Depois de preparar o vídeo original, acesse o Hixfield  \nNo Hixfield, selecione o modelo Gemini Omni Flash (se possível, use Seedance 2.0; como alternativa, também é possível usar Kling 3.0 Omni)  \nEnvie o vídeo original e a foto de referência da pessoa junto com ele  \nNo prompt, instrua para substituir a personagem feminina do vídeo pela foto de referência enviada"
+    },
+    "zh": {
+      "content": "准备好原始视频后，登录 Hixfield  \n在 Hixfield 中选择 Gemini Omni Flash 模型（如果可以，使用 Seedance 2.0；也可替代使用 Kling 3.0 Omni）  \n将原始视频和你自己的照片参考图一起上传  \n在 prompt 中指示将视频中的女性人物替换为上传的照片参考图人物"
+    }
+  }
+}
