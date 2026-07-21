@@ -1,0 +1,43 @@
+{
+  "id": "2079163571771154607",
+  "title": "Seedanceで生成した動画をそのまま投稿せず、BlenderのMedia Plateに貼って3Dカメラで“再撮影”し、煙・粒子・FogなどのVFXを追加する",
+  "content": "Seedanceで生成した動画をそのまま投稿せず、BlenderのMedia Plateに貼って3Dカメラで“再撮影”し、煙・粒子・FogなどのVFXを追加する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079162864028553216/img/E-bcikTk84FpC6nX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079163571771154607.mp4",
+  "sourceLink": "https://x.com/nemopi/status/2079163571771154607",
+  "sourcePublishedAt": "2026-07-20",
+  "author": {
+    "name": "nemopi",
+    "link": "https://x.com/nemopi"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "VFX",
+    "Tutorial"
+  ],
+  "tips": "Seedanceで生成した動画をそのまま投稿せず、BlenderのMedia Plateに貼って3Dカメラで“再撮影”し、煙・粒子・FogなどのVFXを追加する",
+  "translations": {
+    "en": {
+      "content": "Instead of posting a video generated in Seedance as-is, paste it into Blender’s Media Plate and “re-shoot” it with a 3D camera, then add VFX such as smoke, particles, and fog.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here’s what it looked like before adding camera effects in Blender 👇️ https://t.co/v5Gb75gw2Z\n---"
+    },
+    "es": {
+      "content": "No publiques el video generado con Seedance tal cual; pégalo en Media Plate de Blender, “vuelve a filmarlo” con una cámara 3D y añade VFX como humo, partículas y fog.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Así se veía antes de añadir los efectos de cámara en Blender👇️ https://t.co/v5Gb75gw2Z\n---"
+    },
+    "fr": {
+      "content": "Ne publiez pas directement la vidéo générée avec Seedance : collez-la dans le Media Plate de Blender, “re-filmez-la” avec une caméra 3D, puis ajoutez des VFX comme de la fumée, des particules et du fog.\n\n--- SUITE DU THREAD ---\n[Thread 1] Voici à quoi cela ressemble avant d’ajouter les effets de caméra dans Blender 👇️ https://t.co/v5Gb75gw2Z\n---"
+    },
+    "ko": {
+      "content": "Seedance로 생성한 영상을 그대로 올리지 말고, Blender의 Media Plate에 붙여 3D 카메라로 “재촬영”한 뒤, 연기·파티클·Fog 같은 VFX를 추가한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] Blender에서 카메라 이펙트를 넣기 전이 여기👇️ https://t.co/v5Gb75gw2Z\n---"
+    },
+    "pt": {
+      "content": "Não publique o vídeo gerado no Seedance diretamente; cole-o no Media Plate do Blender, “regrave-o” com uma câmera 3D e adicione VFX como fumaça, partículas e fog.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Antes de adicionar os efeitos de câmera no Blender, é este aqui 👇️ https://t.co/v5Gb75gw2Z\n---"
+    },
+    "zh": {
+      "content": "不要直接发布用 Seedance 生成的视频，而是将其贴到 Blender 的 Media Plate 上，用 3D 摄像机进行“重拍”，并添加烟雾、粒子、Fog 等 VFX\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这是在 Blender 里添加摄像机效果之前的样子👇️ https://t.co/v5Gb75gw2Z\n---"
+    }
+  }
+}

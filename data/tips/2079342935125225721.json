@@ -1,0 +1,42 @@
+{
+  "id": "2079342935125225721",
+  "title": "Use a previs (previsualization) video as a reference input when generating…",
+  "content": "Use a previs (previsualization) video as a reference input when generating videos in Seedance to guide the output.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079342883614957568/img/7zjjhDbqqDonNleG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079342935125225721.mp4",
+  "sourceLink": "https://x.com/KakuDrop/status/2079342935125225721",
+  "sourcePublishedAt": "2026-07-20",
+  "author": {
+    "name": "Kaku Drop 架空飴",
+    "link": "https://x.com/KakuDrop"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a previs (previsualization) video as a reference input when generating videos in Seedance to guide the output.",
+  "translations": {
+    "en": {
+      "content": "Use a previs (previsualization) video as a reference input when generating videos in Seedance to guide the output."
+    },
+    "es": {
+      "content": "Usa un video de previs (previsualización) como entrada de referencia al generar videos en Seedance para guiar el resultado."
+    },
+    "fr": {
+      "content": "Utilisez une vidéo de prévisualisation (previs) comme entrée de référence lors de la génération de vidéos dans Seedance afin de guider le résultat."
+    },
+    "ko": {
+      "content": "Seedance에서 비디오를 생성할 때, previs(previsualization) 비디오를 참조 입력으로 사용하여 결과를 안내하세요."
+    },
+    "pt": {
+      "content": "Use um vídeo de previs (previsualização) como entrada de referência ao gerar vídeos no Seedance para orientar o resultado."
+    },
+    "zh": {
+      "content": "在 Seedance 中生成视频时，可使用预演（previsualization）视频作为参考输入，以引导输出。"
+    }
+  }
+}

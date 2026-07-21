@@ -1,0 +1,41 @@
+{
+  "id": "2079208620307435531",
+  "title": "スタイル:実写映画。邦画。のようにスタイル指定を明示してSeedance 2.0の出力トーンを固定する",
+  "content": "スタイル:実写映画。邦画。のようにスタイル指定を明示してSeedance 2.0の出力トーンを固定する  \n血の表現は絶対にしないでください。のように禁止事項（NG表現）をプロンプトに明記して生成内容を制御する  \n画像1/画像2/画像4のように参照画像を番号で指定し、登場人物と背景（森林）を参照画像に紐づけてシーンを構成する  \n台詞「そうなんしたー」「食べ物もない」のようにセリフを括弧付きで明示してキャラクター発話を指定する  \n起き上がり→顔を見合わせるのように動作を時系列で書いてシーン内のアクション進行を指示する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/tokyo_Valentine/status/2079208620307435531",
+  "sourcePublishedAt": "2026-07-20",
+  "author": {
+    "name": "とすくん",
+    "link": "https://x.com/tokyo_Valentine"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "スタイル:実写映画。邦画。のようにスタイル指定を明示してSeedance 2.0の出力トーンを固定する  \n血の表現は絶対にしないでください。のように禁止事項（NG表現）をプロンプトに明記して生成内容を制御する  \n画像1/画像2/画像4のように参照画像を番号で指定し、登場人物と背景（森林）を参照画像に紐づけてシーンを構成する  \n台詞「そうなんしたー」「食べ物もない」のようにセリフを括弧付きで明示してキャラクター発話を指定する  \n起き上がり→顔を見合わせるのように動作を時系列で書いてシーン内のアクション進行を指示する",
+  "translations": {
+    "en": {
+      "content": "Style: live-action film. Japanese cinema. Explicitly specify the style to fix the output tone of Seedance 2.0.\n\nDo not use any blood-related 표현. Clearly state prohibited content (NG expressions) in the prompt to control the generated output.\n\nSpecify reference images by number, such as Image 1 / Image 2 / Image 4, and build the scene by linking the characters and background (forest) to the reference images.\n\nSpecify character dialogue by writing lines in parentheses, such as “So-nan-shita-” and “There’s no food.”\n\nInstruct the action progression within the scene by writing movements in chronological order, such as “stand up → look at each other.”"
+    },
+    "es": {
+      "content": "Estilo: cine de acción real. Cine japonés. Especificar claramente el estilo para fijar el tono de salida de Seedance 2.0.  \nNo mostrar sangre en absoluto. Indicar explícitamente en el prompt las restricciones (expresiones no deseadas) para controlar el contenido generado.  \nComo en imagen 1/imagen 2/imagen 4, especificar las imágenes de referencia por número y vincular a los personajes y al fondo (bosque) con esas imágenes de referencia para construir la escena.  \nComo en los diálogos «そうなんしたー» y «食べ物もない», indicar explícitamente las líneas entre paréntesis para especificar las intervenciones de los personajes.  \nComo en levantarse → mirarse a la cara, escribir las acciones en orden cronológico para নির্দেশar el progreso de la acción dentro de la escena."
+    },
+    "fr": {
+      "content": "Style : film en prises de vues réelles. Film japonais. Indiquer explicitement les consignes de style afin de fixer le ton de sortie de Seedance 2.0.  \nN’utilisez absolument aucune représentation du sang. Préciser clairement dans le prompt les éléments interdits (expressions NG) afin de contrôler le contenu généré.  \nComme pour image 1 / image 2 / image 4, spécifier les images de référence par numéro et construire la scène en reliant les personnages et l’arrière-plan (forêt) aux images de référence.  \nComme pour les répliques « そうなんしたー » et « 食べ物もない », indiquer explicitement les dialogues entre parenthèses pour définir les paroles des personnages.  \nComme pour « se relever → se regarder dans les yeux », décrire les actions dans l’ordre chronologique afin d’indiquer la progression des actions dans la scène."
+    },
+    "ko": {
+      "content": "스타일: 실사 영화. 일본 영화.처럼 스타일 지정을 명확히 해서 Seedance 2.0의 출력 톤을 고정한다  \n피 표현은 절대 하지 마세요.처럼 금지 사항(NG 표현)을 prompt에 명시해 생성 내용을 제어한다  \n이미지1/이미지2/이미지4처럼 참조 이미지를 번호로 지정하고, 등장인물과 배경(숲)을 참조 이미지에 연결해 장면을 구성한다  \n대사 「그랬구나ー」「먹을 것도 없어」처럼 대사를 괄호로 명시해 캐릭터의 발화를 지정한다  \n일어남→서로 얼굴을 마주봄처럼 동작을 시간 순서대로 적어 장면 내 액션 진행을 지시한다"
+    },
+    "pt": {
+      "content": "Estilo: filme live-action. Filme japonês. Especificar claramente o estilo para fixar o tom de saída do Seedance 2.0  \nNão mostre sangue de forma alguma. Especificar claramente no prompt as proibições (expressões NG) para controlar o conteúdo gerado  \nComo em imagem 1/imagem 2/imagem 4, especificar as imagens de referência por número e vincular os personagens e o cenário (floresta) às imagens de referência para compor a cena  \nFalas como 「そうなんしたー」「食べ物もない」 devem ser indicadas explicitamente entre aspas para definir as falas dos personagens  \nEscrever as ações em ordem cronológica, como levantar-se → trocar olhares, para নির্দেশar o andamento das ações dentro da cena"
+    },
+    "zh": {
+      "content": "风格：实拍电影。日式电影。通过明确指定风格来固定 Seedance 2.0 的输出基调。  \n绝对不要出现血腥表现。像这样在 prompt 中明确写明禁止事项（NG 表现），以控制生成内容。  \n像“图片1/图片2/图片4”这样用编号指定参考图，并将登场人物与背景（森林）关联到参考图中来构成场景。  \n像台词“そうなんしたー”“食べ物もない”这样，用括号明确标出对白，以指定角色发言。  \n像“起身→面面相觑”这样按时间顺序写出动作，来指示场景内的动作推进。"
+    }
+  }
+}

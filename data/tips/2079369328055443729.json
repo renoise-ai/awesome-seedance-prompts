@@ -1,0 +1,42 @@
+{
+  "id": "2079369328055443729",
+  "title": "Use Seedance 2 “video ref” for motion capture, then add text prompts to…",
+  "content": "Use Seedance 2 “video ref” for motion capture, then add text prompts to intentionally deviate from the reference while still following it in a general sense.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079367297647718400/img/acQoAca-sAu84Sr-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079369328055443729.mp4",
+  "sourceLink": "https://x.com/SparkfulArt/status/2079369328055443729",
+  "sourcePublishedAt": "2026-07-21",
+  "author": {
+    "name": "Sparkful",
+    "link": "https://x.com/SparkfulArt"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2 “video ref” for motion capture, then add text prompts to intentionally deviate from the reference while still following it in a general sense.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2 “video ref” para captura de movimiento, y luego añade prompts de texto para desviarte intencionalmente de la referencia, aunque siguiéndola en un sentido general."
+    },
+    "fr": {
+      "content": "Utilisez « video ref » de Seedance 2 pour la capture de mouvement, puis ajoutez des prompts textuels afin de vous écarter intentionnellement de la référence tout en la suivant dans un sens général."
+    },
+    "ja": {
+      "content": "Seedance 2 の「video ref」をモーションキャプチャに使用し、その後に text prompt を追加して、参照から意図的に逸脱しつつも、全体としてはそれに従うようにします。"
+    },
+    "ko": {
+      "content": "Seedance 2의 “video ref”를 모션 캡처에 사용한 다음, 텍스트 prompt를 추가해 레퍼런스에서 의도적으로 벗어나되, 전체적으로는 여전히 이를 따르도록 합니다."
+    },
+    "pt": {
+      "content": "Use o “video ref” do Seedance 2 para captura de movimento e, em seguida, adicione prompts de texto para se desviar intencionalmente da referência, mantendo ainda assim uma aderência geral a ela."
+    },
+    "zh": {
+      "content": "使用 Seedance 2 的“video ref”进行动作捕捉，然后添加文本 prompt，故意偏离参考内容，同时在整体上仍保持对其的遵循。"
+    }
+  }
+}

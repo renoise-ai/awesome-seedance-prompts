@@ -1,0 +1,43 @@
+{
+  "id": "2079183828560867688",
+  "title": "Create a reference/previz video first (e.g., with Google Omni Flash) to use as…",
+  "content": "Create a reference/previz video first (e.g., with Google Omni Flash) to use as the motion/content guide for Seedance 2.  \nIn Flora, use Export video frame to grab frames from the beginning, middle, and end—especially at major transitions.  \nAssemble the exported frames into a storyboard using Flora’s compositor node.  \nRestyle the storyboard frames with Nano Banana Pro or GPT Image 2 to define the target visual style.  \nUse two references: the original previz video for content/motion and the restyled storyboard for visual style.  \nFeed the restyled storyboard plus the original previz video into Seedance 2 Reference as inputs.  \nIterate by modifying elements (e.g., change the main character to a knight) and rerun Seedance 2 Reference to refine the result.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079182589865373696/img/cdsLc4bms_v-jPYN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079183828560867688.mp4",
+  "sourceLink": "https://x.com/thefinnmckenty/status/2079183828560867688",
+  "sourcePublishedAt": "2026-07-20",
+  "author": {
+    "name": "Finn McKenty",
+    "link": "https://x.com/thefinnmckenty"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Create a reference/previz video first (e.g., with Google Omni Flash) to use as the motion/content guide for Seedance 2.  \nIn Flora, use Export video frame to grab frames from the beginning, middle, and end—especially at major transitions.  \nAssemble the exported frames into a storyboard using Flora’s compositor node.  \nRestyle the storyboard frames with Nano Banana Pro or GPT Image 2 to define the target visual style.  \nUse two references: the original previz video for content/motion and the restyled storyboard for visual style.  \nFeed the restyled storyboard plus the original previz video into Seedance 2 Reference as inputs.  \nIterate by modifying elements (e.g., change the main character to a knight) and rerun Seedance 2 Reference to refine the result.",
+  "translations": {
+    "es": {
+      "content": "Crea primero un video de referencia/previz (por ejemplo, con Google Omni Flash) para usarlo como guía de movimiento/contenido para Seedance 2.  \nEn Flora, usa Export video frame para extraer fotogramas del inicio, el medio y el final, especialmente en las transiciones principales.  \nEnsambla los fotogramas exportados en un storyboard usando el nodo compositor de Flora.  \nRediseña los fotogramas del storyboard con Nano Banana Pro o GPT Image 2 para definir el estilo visual objetivo.  \nUsa dos referencias: el video previz original para el contenido/movimiento y el storyboard rediseñado para el estilo visual.  \nIntroduce el storyboard rediseñado junto con el video previz original en Seedance 2 Reference como entradas.  \nItera modificando elementos (por ejemplo, cambiar el personaje principal por un caballero) y vuelve a ejecutar Seedance 2 Reference para refinar el resultado."
+    },
+    "fr": {
+      "content": "Créez d’abord une vidéo de référence/previz (par exemple avec Google Omni Flash) à utiliser comme guide de mouvement/de contenu pour Seedance 2.  \nDans Flora, utilisez Export video frame pour extraire des images du début, du milieu et de la fin — surtout aux transitions majeures.  \nAssemblez les images exportées en un storyboard à l’aide du nœud compositor de Flora.  \nRestylez les images du storyboard avec Nano Banana Pro ou GPT Image 2 afin de définir le style visuel cible.  \nUtilisez deux références : la vidéo previz originale pour le contenu/le mouvement et le storyboard restylé pour le style visuel.  \nAlimentez Seedance 2 Reference avec le storyboard restylé ainsi que la vidéo previz originale comme entrées.  \nItérez en modifiant certains éléments (par exemple, transformer le personnage principal en chevalier) et relancez Seedance 2 Reference pour affiner le résultat."
+    },
+    "ja": {
+      "content": "まず参照用のpreviz動画を作成します（例: Google Omni Flash を使用）。これを Seedance 2 の motion/content ガイドとして使います。  \nFlora では、Export video frame を使って冒頭・中盤・終盤のフレームを取得します。特に大きな転換点のフレームを重視します。  \n書き出したフレームを Flora の compositor node を使って storyboard にまとめます。  \nその storyboard の各フレームを Nano Banana Pro または GPT Image 2 で restyle し、目標とする visual style を定義します。  \n参照は 2 つ使います。元の previz 動画は content/motion 用、restyle した storyboard は visual style 用です。  \nrestyle した storyboard と元の previz 動画を、入力として Seedance 2 Reference に渡します。  \n要素を変更しながら反復します（例: main character を knight に変更する）し、Seedance 2 Reference を再実行して結果を洗練させます。"
+    },
+    "ko": {
+      "content": "먼저 reference/previz 비디오를 만드세요(예: Google Omni Flash 사용). 이를 Seedance 2의 motion/content 가이드로 활용합니다.  \nFlora에서는 Export video frame을 사용해 시작, 중간, 끝에서 프레임을 추출하세요. 특히 주요 전환 지점의 프레임을 꼭 포함합니다.  \n추출한 프레임들을 Flora의 compositor node를 사용해 storyboard로 구성합니다.  \n그다음 Nano Banana Pro 또는 GPT Image 2로 storyboard 프레임의 스타일을 다시 입혀, 목표 visual style을 정의합니다.  \n두 가지 reference를 사용합니다: content/motion용 original previz video와 visual style용 restyled storyboard입니다.  \nrestyled storyboard와 original previz video를 함께 Seedance 2 Reference의 input으로 넣습니다.  \n이후 요소를 수정하면서 반복합니다(예: main character를 knight로 변경) 그리고 Seedance 2 Reference를 다시 실행해 결과를 다듬습니다."
+    },
+    "pt": {
+      "content": "Crie primeiro um vídeo de referência/previz (por exemplo, com o Google Omni Flash) para usar como guia de movimento/conteúdo para o Seedance 2.  \nNo Flora, use Export video frame para capturar frames do início, do meio e do fim — especialmente nas principais transições.  \nMonte os frames exportados em um storyboard usando o compositor node do Flora.  \nReestilize os frames do storyboard com Nano Banana Pro ou GPT Image 2 para definir o estilo visual desejado.  \nUse duas referências: o vídeo previz original para conteúdo/movimento e o storyboard reestilizado para o estilo visual.  \nEnvie o storyboard reestilizado junto com o vídeo previz original para o Seedance 2 Reference como inputs.  \nItere modificando elementos (por exemplo, trocar o personagem principal por um cavaleiro) e execute novamente o Seedance 2 Reference para refinar o resultado."
+    },
+    "zh": {
+      "content": "先创建一个参考/previz 视频（例如使用 Google Omni Flash），作为 Seedance 2 的运动/内容指南。  \n在 Flora 中，使用 Export video frame 从开头、中间和结尾抓取帧——尤其是在主要转场处。  \n使用 Flora 的 compositor node 将导出的帧整理成 storyboard。  \n再用 Nano Banana Pro 或 GPT Image 2 对 storyboard 帧进行重绘，以定义目标视觉风格。  \n使用两个参考：原始 previz 视频用于内容/运动，重绘后的 storyboard 用于视觉风格。  \n将重绘后的 storyboard 和原始 previz 视频一起作为输入，喂给 Seedance 2 Reference。  \n通过修改元素进行迭代（例如把主角改成骑士），并重新运行 Seedance 2 Reference，以优化结果。"
+    }
+  }
+}

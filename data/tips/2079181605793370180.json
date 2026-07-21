@@ -1,0 +1,43 @@
+{
+  "id": "2079181605793370180",
+  "title": "用 Seedance 2.0 生成视频时将时长设置为 15 秒",
+  "content": "用 Seedance 2.0 生成视频时将时长设置为 15 秒  \n用 Seedance 2.0 生成视频时将画幅设置为 9:16 竖屏  \n提示词中指定视频类型为 真人电影感 + ASMR 吃播 来引导风格与内容",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079181310535360512/img/iFfgH_QaIzO17gRK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079181605793370180.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2079181605793370180",
+  "sourcePublishedAt": "2026-07-20",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Food",
+    "Drinks",
+    "Photoreal",
+    "Realistic World",
+    "ASMR",
+    "Tutorial"
+  ],
+  "tips": "用 Seedance 2.0 生成视频时将时长设置为 15 秒  \n用 Seedance 2.0 生成视频时将画幅设置为 9:16 竖屏  \n提示词中指定视频类型为 真人电影感 + ASMR 吃播 来引导风格与内容",
+  "translations": {
+    "en": {
+      "content": "When generating a video with Seedance 2.0, set the duration to 15 seconds.  \nWhen generating a video with Seedance 2.0, set the aspect ratio to 9:16 vertical.  \nIn the prompt, specify the video type as live-action cinematic + ASMR eating broadcast to guide the style and content."
+    },
+    "es": {
+      "content": "Al generar videos con Seedance 2.0, establece la duración en 15 segundos  \nAl generar videos con Seedance 2.0, establece el formato en 9:16 vertical  \nEspecifica en el prompt que el tipo de video sea live-action con sensación cinematográfica + ASMR de mukbang para guiar el estilo y el contenido"
+    },
+    "fr": {
+      "content": "---\nLors de la génération d’une vidéo avec Seedance 2.0, réglez la durée sur 15 secondes  \nLors de la génération d’une vidéo avec Seedance 2.0, réglez le format sur 9:16 en mode vertical  \nDans le prompt, indiquez le type de vidéo comme « live-action cinematic + ASMR mukbang » afin d’orienter le style et le contenu\n---"
+    },
+    "ja": {
+      "content": "---\nWhen generating a video with Seedance 2.0, set the duration to 15 seconds.  \nWhen generating a video with Seedance 2.0, set the aspect ratio to 9:16 vertical.  \nIn the prompt, specify the video type as live-action cinematic + ASMR eating broadcast to guide the style and content.\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0로 영상을 생성할 때 길이를 15초로 설정하세요  \nSeedance 2.0로 영상을 생성할 때 화면 비율을 9:16 세로형으로 설정하세요  \n프롬프트에서 영상 유형을 실사 영화 느낌 + ASMR 먹방으로 지정해 스타일과 내용을 유도하세요"
+    },
+    "pt": {
+      "content": "Ao gerar vídeos com o Seedance 2.0, defina a duração para 15 segundos  \nAo gerar vídeos com o Seedance 2.0, defina o formato para 9:16 em modo vertical  \nNo prompt, especifique o tipo de vídeo como live-action com estética cinematográfica + ASMR de mukbang para orientar o estilo e o conteúdo"
+    }
+  }
+}

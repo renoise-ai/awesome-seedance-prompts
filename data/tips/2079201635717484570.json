@@ -1,0 +1,42 @@
+{
+  "id": "2079201635717484570",
+  "title": "Convert your original reference video into a Depth video and use that Depth…",
+  "content": "Convert your original reference video into a Depth video and use that Depth video as the motion reference in Seedance.  \nAdd your own character reference image to control the subject identity while using the Depth motion reference.  \nUse a prompt that explicitly replaces outfits and styling, then generate in Seedance using the Depth motion reference + character reference image.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079201463512010753/img/CmjcAjPFnFnFwy-m.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079201635717484570.mp4",
+  "sourceLink": "https://x.com/MrLarus/status/2079201635717484570",
+  "sourcePublishedAt": "2026-07-20",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Convert your original reference video into a Depth video and use that Depth video as the motion reference in Seedance.  \nAdd your own character reference image to control the subject identity while using the Depth motion reference.  \nUse a prompt that explicitly replaces outfits and styling, then generate in Seedance using the Depth motion reference + character reference image.",
+  "translations": {
+    "es": {
+      "content": "Convierte tu video de referencia original en un video de Depth y usa ese video de Depth como referencia de movimiento en Seedance.  \nAñade tu propia imagen de referencia del personaje para controlar la identidad del sujeto mientras usas la referencia de movimiento Depth.  \nUsa un prompt que reemplace explícitamente la ropa y el estilismo, y luego genera en Seedance usando la referencia de movimiento Depth + la imagen de referencia del personaje."
+    },
+    "fr": {
+      "content": "Convertissez votre vidéo de référence originale en une vidéo Depth et utilisez cette vidéo Depth comme référence de mouvement dans Seedance.  \nAjoutez votre propre image de référence de personnage pour contrôler l’identité du sujet tout en utilisant la référence de mouvement Depth.  \nUtilisez un prompt qui remplace explicitement les tenues et le styling, puis générez dans Seedance en utilisant la référence de mouvement Depth + l’image de référence du personnage."
+    },
+    "ja": {
+      "content": "元の参考動画をDepth動画に変換し、そのDepth動画をSeedanceでモーション参照として使用します。  \n自分のキャラクター参照画像を追加して、Depthモーション参照を使いながら被写体のアイデンティティを制御します。  \n衣装とスタイリングを明示的に置き換えるpromptを使い、Depthモーション参照 + キャラクター参照画像を用いてSeedanceで生成します。"
+    },
+    "ko": {
+      "content": "원본 레퍼런스 비디오를 Depth 비디오로 변환한 뒤, 그 Depth 비디오를 Seedance에서 모션 레퍼런스로 사용하세요.  \n자체 캐릭터 레퍼런스 이미지를 추가해 Depth 모션 레퍼런스를 사용하는 동안 피사체의 정체성을 제어하세요.  \n의상과 스타일링을 명시적으로 교체하는 prompt를 사용한 다음, Depth 모션 레퍼런스 + 캐릭터 레퍼런스 이미지를 활용해 Seedance에서 생성하세요."
+    },
+    "pt": {
+      "content": "Converta seu vídeo de referência original em um vídeo de Depth e use esse vídeo de Depth como referência de movimento no Seedance.  \nAdicione sua própria imagem de referência de personagem para controlar a identidade do sujeito enquanto usa a referência de movimento Depth.  \nUse um prompt que substitua explicitamente roupas e styling, e então gere no Seedance usando a referência de movimento Depth + a imagem de referência de personagem."
+    },
+    "zh": {
+      "content": "将你的原始参考视频转换为 Depth 视频，并在 Seedance 中将该 Depth 视频作为运动参考。  \n添加你自己的角色参考图像，以在使用 Depth 运动参考的同时控制主体身份。  \n使用一个明确替换服装和造型的 prompt，然后在 Seedance 中结合 Depth 运动参考 + 角色参考图像进行生成。"
+    }
+  }
+}

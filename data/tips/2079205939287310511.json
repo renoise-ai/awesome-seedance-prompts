@@ -1,0 +1,42 @@
+{
+  "id": "2079205939287310511",
+  "title": "Upload a reference video in Seedance 2 and use Video Reference to preserve the…",
+  "content": "Upload a reference video in Seedance 2 and use Video Reference to preserve the original camera movement while generating an entirely new scene.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079144090046955520/img/e11N69PkE0200vQc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079205939287310511.mp4",
+  "sourceLink": "https://x.com/HIX_AI_/status/2079205939287310511",
+  "sourcePublishedAt": "2026-07-20",
+  "author": {
+    "name": "HIX.AI",
+    "link": "https://x.com/HIX_AI_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload a reference video in Seedance 2 and use Video Reference to preserve the original camera movement while generating an entirely new scene.",
+  "translations": {
+    "es": {
+      "content": "Sube un video de referencia en Seedance 2 y usa Video Reference para preservar el movimiento original de la cámara mientras generas una escena completamente nueva."
+    },
+    "fr": {
+      "content": "Téléchargez une vidéo de référence dans Seedance 2 et utilisez Video Reference pour préserver le mouvement de caméra d’origine tout en générant une scène entièrement nouvelle."
+    },
+    "ja": {
+      "content": "Seedance 2 に参考動画をアップロードし、Video Reference を使用して、元のカメラワークを維持しながら、まったく新しいシーンを生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2에 레퍼런스 비디오를 업로드하고 Video Reference를 사용하면, 완전히 새로운 장면을 생성하면서도 원본 카메라 움직임을 그대로 유지할 수 있습니다."
+    },
+    "pt": {
+      "content": "Envie um vídeo de referência no Seedance 2 e use o Video Reference para preservar o movimento original da câmera enquanto gera uma cena totalmente חדשה."
+    },
+    "zh": {
+      "content": "在 Seedance 2 中上传一段参考视频，并使用 Video Reference 来保留原始镜头运动，同时生成一个全新的场景。"
+    }
+  }
+}

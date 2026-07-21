@@ -1,0 +1,42 @@
+{
+  "id": "2079208879540326816",
+  "title": "Upload a photo, select a country, and generate a 15-second country vlog using…",
+  "content": "Upload a photo, select a country, and generate a 15-second country vlog using Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079208506381451264/img/06HaKB4ihguAFIut.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079208879540326816.mp4",
+  "sourceLink": "https://x.com/eachlabs/status/2079208879540326816",
+  "sourcePublishedAt": "2026-07-20",
+  "author": {
+    "name": "each::labs",
+    "link": "https://x.com/eachlabs"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload a photo, select a country, and generate a 15-second country vlog using Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Sube una foto, selecciona un país y genera un vlog de 15 segundos sobre ese país usando Seedance 2.0.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ¡Pruébalo ahora!\nhttps://t.co/J7TA4k1rbR\n---"
+    },
+    "fr": {
+      "content": "Téléchargez une photo, sélectionnez un pays et générez un vlog de 15 secondes sur ce pays avec Seedance 2.0.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] Essayez-le maintenant !\nhttps://t.co/J7TA4k1rbR\n---"
+    },
+    "ja": {
+      "content": "写真をアップロードし、国を選択して、Seedance 2.0 を使って15秒の国別Vlogを生成しましょう。\n\n--- スレッドの続き ---\n[Thread 1] 今すぐ試してみよう！\nhttps://t.co/J7TA4k1rbR\n---"
+    },
+    "ko": {
+      "content": "사진을 업로드하고, 국가를 선택한 다음, Seedance 2.0으로 15초짜리 국가 vlog를 생성하세요.\n\n--- 스레드 계속 ---\n[스레드 1] 지금 바로 사용해 보세요!\nhttps://t.co/J7TA4k1rbR\n---"
+    },
+    "pt": {
+      "content": "Envie uma foto, selecione um país e gere um vlog de 15 segundos sobre o país usando o Seedance 2.0.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Experimente agora!\nhttps://t.co/J7TA4k1rbR\n---"
+    },
+    "zh": {
+      "content": "上传一张照片，选择一个国家，并使用 Seedance 2.0 生成一段 15 秒的国家 vlog。\n\n--- 线程续接 ---\n[Thread 1] 立即试试！\nhttps://t.co/J7TA4k1rbR\n---"
+    }
+  }
+}
