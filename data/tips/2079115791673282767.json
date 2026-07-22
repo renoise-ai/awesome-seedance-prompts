@@ -4,7 +4,7 @@
   "content": "Create a single “character sheet” portrait (front, profile, 3/4, full-body) and reuse it as the reference across generations to keep facial features/proportions consistent.  \nAnimate a locked still image in Seedance 2.0 and reuse the same saved voice across clips to maintain audio consistency between generations.  \nRecord a driving/performance reference video and use Kling 3.0 Motion Control to transfer the acting to your character while keeping your own face/gender off camera.  \nAnchor identity outside the prompt by reusing a persistent avatar_id for the same visible face across campaigns.  \nPreserve voice consistency by reusing a persistent voice_id instead of reselecting voices each generation.  \nMaintain consistent performance by keeping a character/bible.md with explicit rules for gaze, expression, pacing, pauses, and head movement, and check each new campaign against it before generating.  \nRequire human approval of the final JSON/payload before running any credit-spending generation step.  \nWhen a render fails (eyes unfocused, odd pauses, mismatched expression, inconsistent head movement), add a new explicit rule to the bible and regenerate while keeping the same avatar_id fixed.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079114936748281856/img/DJGWlukOd-ZtK71O.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2079114936748281856/vid/avc1/1920x1080/TjqHJgcnqdooAFK5.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079115791673282767.mp4",
   "sourceLink": "https://x.com/theSethian/status/2079115791673282767",
   "sourcePublishedAt": "2026-07-20",
   "author": {

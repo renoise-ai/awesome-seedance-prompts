@@ -1,0 +1,42 @@
+{
+  "id": "2079674948407156891",
+  "title": "キャラの参照画像をSeedance 2.0に渡してから生成すると、カットが変わっても顔や服装の一貫性を維持しやすい（複数カットでも統一できる）",
+  "content": "キャラの参照画像をSeedance 2.0に渡してから生成すると、カットが変わっても顔や服装の一貫性を維持しやすい（複数カットでも統一できる）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2079674885538807808/pu/img/g88i_MxMoC9-5DXh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079674948407156891.mp4",
+  "sourceLink": "https://x.com/yarakashiyama_/status/2079674948407156891",
+  "sourcePublishedAt": "2026-07-21",
+  "author": {
+    "name": "ぴょんきち",
+    "link": "https://x.com/yarakashiyama_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラの参照画像をSeedance 2.0に渡してから生成すると、カットが変わっても顔や服装の一貫性を維持しやすい（複数カットでも統一できる）",
+  "translations": {
+    "en": {
+      "content": "If you pass a character reference image to Seedance 2.0 before generating, it becomes easier to maintain consistency in the face and clothing even when the shot changes (and you can keep it consistent across multiple shots)."
+    },
+    "es": {
+      "content": "Si pasas una imagen de referencia del personaje a Seedance 2.0 antes de generar, es más fácil mantener la coherencia del rostro y la vestimenta aunque cambie el corte (también se puede unificar en múltiples tomas)."
+    },
+    "fr": {
+      "content": "Lorsque vous fournissez une image de référence du personnage à Seedance 2.0 avant la génération, il est plus facile de maintenir la cohérence du visage et des vêtements, même lorsque le plan change (la cohérence peut ainsi être conservée sur plusieurs plans)."
+    },
+    "ko": {
+      "content": "캐릭터의 참조 이미지를 Seedance 2.0에 전달한 뒤 생성하면, 컷이 바뀌어도 얼굴과 복장의 일관성을 유지하기 쉬워진다(여러 컷에서도 통일 가능)"
+    },
+    "pt": {
+      "content": "Ao passar a imagem de referência do personagem para o Seedance 2.0 antes da geração, fica mais fácil manter a consistência do rosto e da roupa, mesmo quando o corte muda (também é possível unificar vários cortes)."
+    },
+    "zh": {
+      "content": "将角色的参考图像传给 Seedance 2.0 后再进行生成，即使镜头切换，也更容易保持脸部和服装的一致性（多个镜头也能统一）"
+    }
+  }
+}

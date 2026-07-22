@@ -1,0 +1,42 @@
+{
+  "id": "2079450045729173781",
+  "title": "Use GPT Image 2 to generate an isometric line sketch, then feed that sketch…",
+  "content": "Use GPT Image 2 to generate an isometric line sketch, then feed that sketch into Seedance 2.0 to produce a photoreal media room output.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079449723191369728/img/cr5cGswopA06Y-GQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079450045729173781.mp4",
+  "sourceLink": "https://x.com/AndyAI_/status/2079450045729173781",
+  "sourcePublishedAt": "2026-07-21",
+  "author": {
+    "name": "AndyAI",
+    "link": "https://x.com/AndyAI_"
+  },
+  "tags": [
+    "Product Ad",
+    "Home",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image 2 to generate an isometric line sketch, then feed that sketch into Seedance 2.0 to produce a photoreal media room output.",
+  "translations": {
+    "es": {
+      "content": "Usa GPT Image 2 para generar un boceto isométrico de líneas y luego introduce ese boceto en Seedance 2.0 para producir una salida fotorrealista de una sala multimedia."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer un croquis linéaire isométrique, puis transmettez ce croquis à Seedance 2.0 afin de produire un rendu photoréaliste d’une salle multimédia."
+    },
+    "ja": {
+      "content": "GPT Image 2 を使ってアイソメトリックな線画スケッチを生成し、そのスケッチを Seedance 2.0 に入力して、フォトリアルなメディアルームの出力を生成します。"
+    },
+    "ko": {
+      "content": "GPT Image 2를 사용해 아이소메트릭 라인 스케치를 생성한 다음, 그 스케치를 Seedance 2.0에 입력해 사실적인 미디어 룸 결과물을 만들어 보세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar um esboço em linhas isométrico e, em seguida, envie esse esboço para o Seedance 2.0 para produzir uma saída fotorealista de uma sala de mídia."
+    },
+    "zh": {
+      "content": "使用 GPT Image 2 生成一张等距线稿，然后将该线稿输入 Seedance 2.0，以生成逼真的媒体室输出。"
+    }
+  }
+}

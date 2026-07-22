@@ -1,0 +1,42 @@
+{
+  "id": "2079512640808739314",
+  "title": "Combine 4D Gaussian Splatting scene reconstruction with Seedance for character…",
+  "content": "Combine 4D Gaussian Splatting scene reconstruction with Seedance for character replacement and motion control to build a cinematic workflow on top of fully explorable footage",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079510249787019264/img/5hk4d3tuQnn3Mwvu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079512640808739314.mp4",
+  "sourceLink": "https://x.com/rourke_heath/status/2079512640808739314",
+  "sourcePublishedAt": "2026-07-21",
+  "author": {
+    "name": "Rourke Heath",
+    "link": "https://x.com/rourke_heath"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Combine 4D Gaussian Splatting scene reconstruction with Seedance for character replacement and motion control to build a cinematic workflow on top of fully explorable footage",
+  "translations": {
+    "es": {
+      "content": "Combina la reconstrucción de escenas mediante 4D Gaussian Splatting con Seedance para la sustitución de personajes y el control del movimiento, y así construir un flujo de trabajo cinematográfico sobre material de video completamente explorable."
+    },
+    "fr": {
+      "content": "Combinez la reconstruction de scène en 4D Gaussian Splatting avec Seedance pour le remplacement de personnage et le contrôle du mouvement afin de créer un workflow cinématique à partir de séquences entièrement explorables."
+    },
+    "ja": {
+      "content": "4D Gaussian Splattingによるシーン再構築とSeedanceを組み合わせ、キャラクターの差し替えとモーション制御を行うことで、完全に探索可能な映像の上にcinematicなワークフローを構築する"
+    },
+    "ko": {
+      "content": "4D Gaussian Splatting 장면 재구성과 Seedance를 결합해 캐릭터 교체와 모션 제어를 구현하고, 완전히 탐색 가능한 footage 위에 cinematic workflow를 구축하세요."
+    },
+    "pt": {
+      "content": "Combine a reconstrução de cena com 4D Gaussian Splatting e o Seedance para substituição de personagens e controle de movimento, a fim de criar um workflow cinematográfico sobre footage totalmente explorável"
+    },
+    "zh": {
+      "content": "将 4D Gaussian Splatting 场景重建与 Seedance 结合，用于角色替换和运动控制，在可完全探索的素材之上构建一套 cinematic 工作流"
+    }
+  }
+}

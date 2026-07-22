@@ -1,0 +1,42 @@
+{
+  "id": "2079388488122937401",
+  "title": "Use a prompt like 45秒垂直短劇，9:16 to generate a 45-second vertical 9:16…",
+  "content": "Use a prompt like 45秒垂直短劇，9:16 to generate a 45-second vertical 9:16 short-drama video.  \nAdd style keywords like 電影感，1960年代經典恐怖片風格，電影級光影 to push a cinematic 1960s classic horror look with film-grade lighting.  \nInclude a specific scene reference link (場景：<URL>) in the prompt to guide the setting/background.",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079388224548683776/img/pA3MmKg8kKq2JWco.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079388488122937401.mp4",
+  "sourceLink": "https://x.com/drjoetw/status/2079388488122937401",
+  "sourcePublishedAt": "2026-07-21",
+  "author": {
+    "name": "The Anxious Mind",
+    "link": "https://x.com/drjoetw"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Retro Film",
+    "Historical",
+    "Tutorial"
+  ],
+  "tips": "Use a prompt like 45秒垂直短劇，9:16 to generate a 45-second vertical 9:16 short-drama video.  \nAdd style keywords like 電影感，1960年代經典恐怖片風格，電影級光影 to push a cinematic 1960s classic horror look with film-grade lighting.  \nInclude a specific scene reference link (場景：<URL>) in the prompt to guide the setting/background.",
+  "translations": {
+    "en": {
+      "content": "Use a prompt like “45-second vertical short drama, 9:16” to generate a 45-second vertical 9:16 short-drama video.  \nAdd style keywords like “cinematic feel, 1960s classic horror style, film-grade lighting” to push a cinematic 1960s classic horror look with film-grade lighting.  \nInclude a specific scene reference link (“Scene: <URL>”) in the prompt to guide the setting/background."
+    },
+    "es": {
+      "content": "Usa un prompt como 45秒垂直短劇，9:16 para generar un video de drama corto vertical de 45 segundos en formato 9:16.  \nAñade palabras clave de estilo como 電影感，1960年代經典恐怖片風格，電影級光影 para lograr un look cinematográfico de terror clásico de los años 60 con iluminación de calidad cinematográfica.  \nIncluye un enlace de referencia de escena específico (場景：<URL>) en el prompt para guiar el entorno y el fondo."
+    },
+    "fr": {
+      "content": "Utilisez un prompt comme 45秒垂直短劇，9:16 pour générer une vidéo de short-drama verticale de 45 secondes au format 9:16.  \nAjoutez des mots-clés de style comme 電影感，1960年代經典恐怖片風格，電影級光影 pour obtenir un rendu cinématographique de film d’horreur classique des années 1960 avec un éclairage de qualité cinéma.  \nIncluez un lien de référence de scène spécifique (場景：<URL>) dans le prompt pour guider le décor/l’arrière-plan."
+    },
+    "ja": {
+      "content": "45秒垂直短劇、9:16のようなpromptを使って、45秒の縦型9:16ショートドラマ動画を生成します。  \n「電影感」「1960年代經典恐怖片風格」「電影級光影」などのスタイルキーワードを加えることで、映画的な1960年代クラシックホラーの雰囲気と、映画品質のライティングを強められます。  \nさらに、特定のシーン参照リンク（場景：<URL>）をpromptに含めることで、舞台設定や背景の指示を明確にできます。"
+    },
+    "ko": {
+      "content": "45초 세로 숏드라마, 9:16 같은 prompt를 사용해 45초 분량의 세로형 9:16 숏드라마 영상을 생성하세요.  \n영화감, 1960년대 클래식 호러 영화 스타일, 영화급 조명 같은 스타일 키워드를 추가해 시네마틱한 1960년대 클래식 호러 분위기와 필름급 라이팅을 구현하세요.  \n장면 설정과 배경을 안내할 수 있도록 prompt에 구체적인 장면 참고 링크(場景：<URL>)를 포함하세요."
+    },
+    "pt": {
+      "content": "Use um prompt como 45秒垂直短劇，9:16 para gerar um vídeo de curta-metragem vertical de 45 segundos em 9:16.  \nAdicione palavras-chave de estilo como 電影感，1960年代經典恐怖片風格，電影級光影 para obter um visual cinematográfico de terror clássico dos anos 1960, com iluminação de nível cinematográfico.  \nInclua um link de referência de cena específico (場景：<URL>) no prompt para orientar o cenário/fundo."
+    }
+  }
+}

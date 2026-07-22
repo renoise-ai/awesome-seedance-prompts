@@ -1,0 +1,43 @@
+{
+  "id": "2079660231265824859",
+  "title": "Convert your reference footage into a depth map using Depth-Anything on Fal…",
+  "content": "Convert your reference footage into a depth map using Depth-Anything on Fal (https://t.co/cYrMeukGtu) and use that depth map as the motion reference in Seedance 2.0 Omni for cleaner, more accurate motion transfer.\n\nCreate separate character and environment reference images from your reference footage and provide both alongside the depth-map motion reference when generating in Seedance 2.0 Omni.\n\nOptionally add extra guidance by generating colorized character masks with Meta’s Segment Anything (https://t.co/4p3Gg3bZeu) and/or skeleton pose guidance (https://t.co/kjFlboPSAC) and layer these on top of the depth map before feeding it into Seedance 2.0 Omni.\n\nFor recreating specific performances or complex movement, prefer the depth-map motion-reference workflow over standard motion transfer, as it consistently yields the cleanest and most accurate results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079658739838414848/img/YPeCEskZdspgqL45.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2079658739838414848/vid/avc1/1920x1080/ySRFIiVRhouOS9py.mp4",
+  "sourceLink": "https://x.com/CuriousRefuge/status/2079660231265824859",
+  "sourcePublishedAt": "2026-07-21",
+  "author": {
+    "name": "Curious Refuge",
+    "link": "https://x.com/CuriousRefuge"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Convert your reference footage into a depth map using Depth-Anything on Fal (https://t.co/cYrMeukGtu) and use that depth map as the motion reference in Seedance 2.0 Omni for cleaner, more accurate motion transfer.\n\nCreate separate character and environment reference images from your reference footage and provide both alongside the depth-map motion reference when generating in Seedance 2.0 Omni.\n\nOptionally add extra guidance by generating colorized character masks with Meta’s Segment Anything (https://t.co/4p3Gg3bZeu) and/or skeleton pose guidance (https://t.co/kjFlboPSAC) and layer these on top of the depth map before feeding it into Seedance 2.0 Omni.\n\nFor recreating specific performances or complex movement, prefer the depth-map motion-reference workflow over standard motion transfer, as it consistently yields the cleanest and most accurate results.",
+  "translations": {
+    "es": {
+      "content": "Convierte tu metraje de referencia en un mapa de profundidad usando Depth-Anything en Fal (https://t.co/cYrMeukGtu) y utiliza ese mapa de profundidad como referencia de movimiento en Seedance 2.0 Omni para lograr una transferencia de movimiento más limpia y precisa.\n\nCrea imágenes de referencia separadas del personaje y del entorno a partir de tu metraje de referencia y proporciona ambas junto con la referencia de movimiento del mapa de profundidad al generar en Seedance 2.0 Omni.\n\nOpcionalmente, añade orientación adicional generando máscaras de personaje coloreadas con Segment Anything de Meta (https://t.co/4p3Gg3bZeu) y/o guía de pose esquelética (https://t.co/kjFlboPSAC), y superpónlas sobre el mapa de profundidad antes de introducirlo en Seedance 2.0 Omni.\n\nPara recrear interpretaciones específicas o movimientos complejos, prioriza el flujo de trabajo de referencia de movimiento con mapa de profundidad frente a la transferencia de movimiento estándar, ya que ofrece de forma consistente los resultados más limpios y precisos."
+    },
+    "fr": {
+      "content": "Convertissez votre footage de référence en une carte de profondeur à l’aide de Depth-Anything sur Fal (https://t.co/cYrMeukGtu) et utilisez cette carte de profondeur comme référence de mouvement dans Seedance 2.0 Omni pour un transfert de mouvement plus propre et plus précis.\n\nCréez des images de référence séparées pour le personnage et l’environnement à partir de votre footage de référence, et fournissez-les toutes deux, en plus de la référence de mouvement sous forme de carte de profondeur, lors de la génération dans Seedance 2.0 Omni.\n\nVous pouvez également ajouter des indications supplémentaires en générant des masques de personnage colorisés avec Segment Anything de Meta (https://t.co/4p3Gg3bZeu) et/ou une guidance de pose squelettique (https://t.co/kjFlboPSAC), puis en les superposant à la carte de profondeur avant de l’envoyer dans Seedance 2.0 Omni.\n\nPour recréer des performances spécifiques ou des mouvements complexes, privilégiez le workflow de référence de mouvement basé sur la carte de profondeur plutôt que le transfert de mouvement standard, car il produit de manière constante les résultats les plus propres et les plus précis."
+    },
+    "ja": {
+      "content": "参照映像を Fal 上の Depth-Anything（https://t.co/cYrMeukGtu）を使って depth map に変換し、その depth map を Seedance 2.0 Omni の motion reference として使用すると、よりクリーンで正確な motion transfer が可能になります。\n\n参照映像から character と environment の参照画像をそれぞれ別々に作成し、Seedance 2.0 Omni で生成する際には、depth-map の motion reference とあわせて両方を提供してください。\n\n必要に応じて、Meta の Segment Anything（https://t.co/4p3Gg3bZeu）で colorized character masks を生成したり、skeleton pose guidance（https://t.co/kjFlboPSAC）を追加したりして、これらを depth map の上に重ねてから Seedance 2.0 Omni に入力することで、さらにガイダンスを強化できます。\n\n特定の演技や複雑な動きを再現する場合は、標準的な motion transfer よりも depth-map の motion-reference ワークフローを優先してください。こちらのほうが、一貫して最もクリーンで正確な結果が得られます。"
+    },
+    "ko": {
+      "content": "참조 영상을 Fal의 Depth-Anything(https://t.co/cYrMeukGtu)을 사용해 depth map으로 변환한 뒤, 그 depth map을 Seedance 2.0 Omni의 motion reference로 사용하면 더 깔끔하고 정확한 motion transfer를 얻을 수 있습니다.\n\n참조 영상에서 character와 environment를 각각 분리한 reference image를 만들고, Seedance 2.0 Omni에서 생성할 때 depth-map motion reference와 함께 둘 다 제공하세요.\n\n선택적으로, Meta의 Segment Anything(https://t.co/4p3Gg3bZeu)으로 colorized character mask를 생성하거나 skeleton pose guidance(https://t.co/kjFlboPSAC)를 추가로 만들어, 이를 depth map 위에 겹친 뒤 Seedance 2.0 Omni에 입력하기 전에 함께 사용할 수 있습니다.\n\n특정 퍼포먼스나 복잡한 움직임을 재현할 때는 일반적인 motion transfer보다 depth-map motion-reference workflow를 우선하는 것이 좋습니다. 이 방식이 일관되게 가장 깔끔하고 정확한 결과를 제공합니다."
+    },
+    "pt": {
+      "content": "Converta seu vídeo de referência em um mapa de profundidade usando o Depth-Anything no Fal (https://t.co/cYrMeukGtu) e use esse mapa de profundidade como referência de movimento no Seedance 2.0 Omni para uma transferência de movimento mais limpa e precisa.\n\nCrie imagens de referência separadas do personagem e do ambiente a partir do seu vídeo de referência e forneça ambas junto com a referência de movimento em mapa de profundidade ao gerar no Seedance 2.0 Omni.\n\nOpcionalmente, adicione orientação extra gerando máscaras colorizadas do personagem com o Segment Anything da Meta (https://t.co/4p3Gg3bZeu) e/ou orientação de pose esquelética (https://t.co/kjFlboPSAC) e aplique essas camadas sobre o mapa de profundidade antes de inseri-lo no Seedance 2.0 Omni.\n\nPara recriar performances específicas ou movimentos complexos, prefira o fluxo de trabalho de referência de movimento em mapa de profundidade em vez da transferência de movimento padrão, pois ele produz consistentemente os resultados mais limpos e precisos."
+    },
+    "zh": {
+      "content": "将你的参考素材通过 Fal 上的 Depth-Anything（https://t.co/cYrMeukGtu）转换为深度图，并将该深度图作为 Seedance 2.0 Omni 中的 motion reference，以获得更干净、更准确的动作迁移。\n\n从参考素材中分别提取角色和环境的参考图像，并在 Seedance 2.0 Omni 生成时，将这两者与深度图 motion reference 一并提供。\n\n你也可以通过使用 Meta 的 Segment Anything（https://t.co/4p3Gg3bZeu）生成上色的角色 mask，和/或 skeleton pose guidance（https://t.co/kjFlboPSAC）来添加额外引导，并在将其输入 Seedance 2.0 Omni 之前，将这些信息叠加到深度图上。\n\n对于还原特定表演或复杂动作，建议优先使用 depth-map motion-reference 工作流，而不是标准的 motion transfer，因为它始终能带来最干净、最准确的结果。"
+    }
+  }
+}

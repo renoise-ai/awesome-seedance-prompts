@@ -1,0 +1,43 @@
+{
+  "id": "2079582756846391746",
+  "title": "Seedance2.0で動画から人物を除去して背景だけにし、その出力をGemini OmniFlashに渡してアニメ背景風に変換するワークフローを試す",
+  "content": "Seedance2.0で動画から人物を除去して背景だけにし、その出力をGemini OmniFlashに渡してアニメ背景風に変換するワークフローを試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079579406780280832/img/Q_4I1Jb3DhyI9IUH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079582756846391746.mp4",
+  "sourceLink": "https://x.com/h64g_/status/2079582756846391746",
+  "sourcePublishedAt": "2026-07-21",
+  "author": {
+    "name": "h64g",
+    "link": "https://x.com/h64g_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Seedance2.0で動画から人物を除去して背景だけにし、その出力をGemini OmniFlashに渡してアニメ背景風に変換するワークフローを試す",
+  "translations": {
+    "en": {
+      "content": "Trying a workflow in Seedance 2.0 to remove people from a video and leave only the background, then passing the output to Gemini OmniFlash to transform it into an anime-style background."
+    },
+    "es": {
+      "content": "Probar un flujo de trabajo en el que se elimina a las personas de un video con Seedance 2.0 para dejar solo el fondo, y luego se pasa esa salida a Gemini OmniFlash para convertirla en un fondo con estilo de anime."
+    },
+    "fr": {
+      "content": "Essayer un workflow consistant à supprimer les personnes d’une vidéo avec Seedance2.0 pour ne garder que le fond, puis à transmettre ce résultat à Gemini OmniFlash afin de le transformer en arrière-plan de style anime."
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 영상에서 인물을 제거해 배경만 남긴 뒤, 그 결과물을 Gemini OmniFlash에 전달해 애니메이션 배경풍으로 변환하는 워크플로를 시도해 보기"
+    },
+    "pt": {
+      "content": "Testando um workflow para remover as pessoas de um vídeo no Seedance2.0, deixando apenas o fundo, e passar essa saída para o Gemini OmniFlash para convertê-la em um estilo de fundo de anime."
+    },
+    "zh": {
+      "content": "尝试使用 Seedance2.0 从视频中移除人物，仅保留背景，然后将输出传递给 Gemini OmniFlash，转换为动漫背景风格的工作流程"
+    }
+  }
+}
