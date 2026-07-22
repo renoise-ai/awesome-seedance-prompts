@@ -6263,4 +6263,4 @@ Use a detailed “design sheet” prompt (organized grid with turnarounds, props
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-22T04:25:04.260Z
+🤖 この README は自動生成されています。最終更新： 2026-07-22T06:29:36.086Z
