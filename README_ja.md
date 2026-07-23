@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **4359** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **2121** |
-| 🔄 最終更新 | **2026-07-22** |
+| 🔄 最終更新 | **2026-07-23** |
 
 ---
 
@@ -6263,4 +6263,4 @@ Use a detailed “design sheet” prompt (organized grid with turnarounds, props
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-22T21:09:46.665Z
+🤖 この README は自動生成されています。最終更新： 2026-07-23T02:51:25.330Z
