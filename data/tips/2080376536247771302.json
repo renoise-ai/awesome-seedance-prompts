@@ -1,0 +1,44 @@
+{
+  "id": "2080376536247771302",
+  "title": "先用 GPT Image 2 基于自己的头像生成角色参考图，再用 Seedance 2.0 以该角色参考图生成游戏战斗画面",
+  "content": "先用 GPT Image 2 基于自己的头像生成角色参考图，再用 Seedance 2.0 以该角色参考图生成游戏战斗画面",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080376506711506945/img/kIG-Y8eKBnu2e9lw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080376536247771302.mp4",
+  "sourceLink": "https://x.com/sukie234/status/2080376536247771302",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "sukie",
+    "link": "https://x.com/sukie234"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "3D Animation",
+    "Sci-Fi",
+    "Creative Asset",
+    "Tutorial",
+    "Game UI"
+  ],
+  "tips": "先用 GPT Image 2 基于自己的头像生成角色参考图，再用 Seedance 2.0 以该角色参考图生成游戏战斗画面",
+  "translations": {
+    "en": {
+      "content": "First, use GPT Image 2 to generate a character reference image based on your own avatar, then use Seedance 2.0 to generate a game battle scene from that character reference image\n\n--- THREAD CONTINUATION ---\n[Thread 1] The canvas is public here~\nThe prompt is too long, so the entire production process can be copied into your own workflow with one click:\n\nhttps://t.co/LIqlfHDWnj https://t.co/k694VkqOZI\n---"
+    },
+    "es": {
+      "content": "Primero usa GPT Image 2 para generar una imagen de referencia del personaje basada en tu propia foto de perfil, y luego usa Seedance 2.0 para generar una escena de combate de videojuego a partir de esa imagen de referencia del personaje\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El lienzo está público aquí～\nEl prompt es demasiado largo; todo el proceso de creación se puede copiar con un solo clic en tu propio flujo de trabajo:\n\nhttps://t.co/LIqlfHDWnj https://t.co/k694VkqOZI\n---"
+    },
+    "fr": {
+      "content": "D’abord, utilisez GPT Image 2 pour générer une image de référence du personnage à partir de votre propre photo de profil, puis utilisez Seedance 2.0 pour générer une scène de combat de jeu à partir de cette image de référence du personnage\n\n--- THREAD CONTINUATION ---\n[Thread 1] Le canvas est public ici～\nLe prompt est trop long, tout le processus de création peut être copié en un clic dans votre propre workflow de création :\n\nhttps://t.co/LIqlfHDWnj https://t.co/k694VkqOZI\n---"
+    },
+    "ja": {
+      "content": "まず GPT Image 2 で自分の顔写真をもとにキャラクター参考画像を生成し、そのキャラクター参考画像を使って Seedance 2.0 でゲームのバトルシーンを生成する\n\n--- THREAD CONTINUATION ---\n[Thread 1] キャンバスはこちらで公開しています～\nprompt が長すぎるので、制作プロセスはすべてワンクリックで自分の制作フローにコピーできます：\n\nhttps://t.co/LIqlfHDWnj https://t.co/k694VkqOZI\n---"
+    },
+    "ko": {
+      "content": "먼저 GPT Image 2로 자신의 프로필 사진을 바탕으로 캐릭터 레퍼런스 이미지를 생성한 다음, Seedance 2.0에서 그 캐릭터 레퍼런스 이미지를 사용해 게임 전투 장면을 생성합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 캔버스는 여기에서 공개되어 있어요~\nprompt가 너무 길어서, 제작 과정 전체를 자신의 워크플로에 한 번에 copy할 수 있습니다:\n\nhttps://t.co/LIqlfHDWnj https://t.co/k694VkqOZI\n---"
+    },
+    "pt": {
+      "content": "Primeiro, use o GPT Image 2 para gerar uma imagem de referência do personagem com base no seu próprio avatar; depois, use o Seedance 2.0 para gerar cenas de batalha de jogo a partir dessa imagem de referência do personagem\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] A canvas pública está aqui～\no prompt ficou muito longo, então todo o processo de criação pode ser copiado com um clique para o seu próprio fluxo de produção:\n\nhttps://t.co/LIqlfHDWnj https://t.co/k694VkqOZI\n---"
+    }
+  }
+}

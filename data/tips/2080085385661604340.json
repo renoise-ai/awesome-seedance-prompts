@@ -1,0 +1,42 @@
+{
+  "id": "2080085385661604340",
+  "title": "使用@PixelAigc分享的自行车提示词作为Seedance生成的prompt参考/模板来复现类似效果",
+  "content": "使用@PixelAigc分享的自行车提示词作为Seedance生成的prompt参考/模板来复现类似效果  \n避免在Seedance提示词中使用过于夸张的服装描述（这类服装设定可能无法生成出来）",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080085355747782656/img/-pLuSDPXVmO64BYS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080085385661604340.mp4",
+  "sourceLink": "https://x.com/john87445528/status/2080085385661604340",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/john87445528"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "使用@PixelAigc分享的自行车提示词作为Seedance生成的prompt参考/模板来复现类似效果  \n避免在Seedance提示词中使用过于夸张的服装描述（这类服装设定可能无法生成出来）",
+  "translations": {
+    "en": {
+      "content": "Use the bicycle prompt shared by @PixelAigc as a prompt reference/template for Seedance generation to recreate a similar effect.  \nAvoid using overly exaggerated clothing descriptions in Seedance prompts, as such costume settings may not be generated successfully."
+    },
+    "es": {
+      "content": "Usa el prompt de bicicleta compartido por @PixelAigc como referencia/plantilla de prompt para Seedance y reproduce un efecto similar.  \nEvita usar descripciones de vestuario demasiado exageradas en los prompts de Seedance (este tipo de configuración de vestuario puede no generarse correctamente)."
+    },
+    "fr": {
+      "content": "Utilisez le prompt de vélo partagé par @PixelAigc comme référence/modèle de prompt pour Seedance afin de reproduire un effet similaire.  \nÉvitez d’utiliser des descriptions de vêtements trop exagérées dans les prompts Seedance (ce type de costume peut ne pas être généré)."
+    },
+    "ja": {
+      "content": "@PixelAigcが共有した自転車のプロンプトを、Seedanceで生成する際のpromptの参考／テンプレートとして使い、似たような効果を再現する  \nSeedanceのpromptでは、服装の描写を過度に誇張しないようにする（こうした衣装設定は生成できない場合がある）"
+    },
+    "ko": {
+      "content": "@PixelAigc가 공유한 자전거 프롬프트를 Seedance 생성용 prompt 참고/템플릿으로 사용해 비슷한 효과를 재현하세요.  \nSeedance prompt에서는 지나치게 과장된 의상 묘사를 사용하지 마세요(이런 의상 설정은 생성되지 않을 수 있습니다)."
+    },
+    "pt": {
+      "content": "Use o prompt de bicicleta compartilhado por @PixelAigc como referência/modelo de prompt para geração no Seedance, a fim de reproduzir um efeito semelhante.  \nEvite usar descrições de roupas exageradas nos prompts do Seedance (esse tipo de configuração de vestuário pode não ser gerado)."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2079759682894524420",
+  "title": "Use seedance-2.0 to generate a dynamic 10s launch film while keeping the…",
+  "content": "Use seedance-2.0 to generate a dynamic 10s launch film while keeping the product consistent across shots.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079759648459214848/img/H4fOQG1s7XZurU5B.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079759682894524420.mp4",
+  "sourceLink": "https://x.com/takeruimase/status/2079759682894524420",
+  "sourcePublishedAt": "2026-07-22",
+  "author": {
+    "name": "lvcinakami",
+    "link": "https://x.com/takeruimase"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use seedance-2.0 to generate a dynamic 10s launch film while keeping the product consistent across shots.",
+  "translations": {
+    "es": {
+      "content": "Usa seedance-2.0 para generar un film de lanzamiento dinámico de 10 s, manteniendo la coherencia del producto entre las tomas."
+    },
+    "fr": {
+      "content": "Utilisez seedance-2.0 pour générer un film de lancement dynamique de 10 s tout en conservant la cohérence du produit d’un plan à l’autre."
+    },
+    "ja": {
+      "content": "seedance-2.0 を使用して、ショット間で製品の一貫性を保ちながら、ダイナミックな10秒のローンチ映像を生成してください。"
+    },
+    "ko": {
+      "content": "seedance-2.0을 사용해 여러 샷에서 제품의 일관성을 유지하면서 역동적인 10초짜리 런칭 필름을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o seedance-2.0 para gerar um filme de lançamento dinâmico de 10s, mantendo o produto consistente entre os planos."
+    },
+    "zh": {
+      "content": "使用 seedance-2.0 生成一段动态的 10 秒发布影片，同时确保产品在各个镜头中保持一致。"
+    }
+  }
+}

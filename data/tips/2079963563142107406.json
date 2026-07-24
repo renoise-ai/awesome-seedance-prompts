@@ -1,0 +1,42 @@
+{
+  "id": "2079963563142107406",
+  "title": "Attach your character sheets/reference images when generating in Seedance 2.0…",
+  "content": "Attach your character sheets/reference images when generating in Seedance 2.0 to prevent the model from substituting your characters with lookalike pop-culture characters based on the prompt alone.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079962798071713792/img/kCFpkZTfLRG41qSl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079963563142107406.mp4",
+  "sourceLink": "https://x.com/MadMax_Series/status/2079963563142107406",
+  "sourcePublishedAt": "2026-07-22",
+  "author": {
+    "name": "MadMax",
+    "link": "https://x.com/MadMax_Series"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Attach your character sheets/reference images when generating in Seedance 2.0 to prevent the model from substituting your characters with lookalike pop-culture characters based on the prompt alone.",
+  "translations": {
+    "es": {
+      "content": "Adjunta tus hojas de personaje/imágenes de referencia al generar en Seedance 2.0 para evitar que el modelo sustituya a tus personajes por personajes de la cultura pop parecidos basándose únicamente en el prompt."
+    },
+    "fr": {
+      "content": "Joignez vos character sheets/images de référence lors de la génération dans Seedance 2.0 afin d’éviter que le modèle ne remplace vos personnages par des personnages de la pop culture ressemblants, en se basant uniquement sur le prompt."
+    },
+    "ja": {
+      "content": "Seedance 2.0で生成する際は、キャラクターシート／参考画像を添付してください。そうすることで、プロンプトだけをもとに、モデルがあなたのキャラクターをそっくりなポップカルチャーの既存キャラクターに置き換えてしまうのを防げます。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 생성할 때는 캐릭터 시트/레퍼런스 이미지를 함께 첨부하세요. 그래야 모델이 prompt만을 바탕으로 여러분의 캐릭터를 닮은 대중문화 캐릭터로 대체하는 것을 방지할 수 있습니다."
+    },
+    "pt": {
+      "content": "Anexe suas character sheets/imagens de referência ao gerar no Seedance 2.0 para evitar que o modelo substitua seus personagens por personagens da cultura pop parecidos, com base apenas no prompt."
+    },
+    "zh": {
+      "content": "在 Seedance 2.0 中生成时，请附上你的角色设定表/参考图像，以防模型仅根据 prompt 就用外形相似的流行文化角色来替换你的角色。"
+    }
+  }
+}

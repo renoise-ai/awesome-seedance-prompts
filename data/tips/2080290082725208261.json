@@ -1,0 +1,42 @@
+{
+  "id": "2080290082725208261",
+  "title": "Use Claude to break down a viral reel frame-by-frame, extracting each scene…",
+  "content": "Use Claude to break down a viral reel frame-by-frame, extracting each scene, spoken line, and camera movement to recreate the format with your own character.  \nSeparate the viral reel’s format from the original creator so you can reuse the structure while keeping your own AI influencer identity.  \nUse character sheets to keep your AI influencer consistent across every Seedance video.  \nGenerate a second-by-second Seedance prompt with natural pacing based on the reel’s scene timing.  \nKeep identity control in the reference images rather than describing identity in the Seedance prompt.  \nMatch the original reel’s camera lens and cinematic style by explicitly recreating those details in your Seedance setup.  \nGenerate at 720p first to reduce cost, then upscale to 1080p after generation for similar quality at a fraction of the cost.  \nIterate by adjusting dialogue, pacing, or the full script with a single prompt, then regenerate using the updated Seedance prompt timeline.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079297288980078592/img/i04_ak3wFpi1Dsvu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080290082725208261.mp4",
+  "sourceLink": "https://x.com/Mavernxbt/status/2080290082725208261",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "Mavern",
+    "link": "https://x.com/Mavernxbt"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Claude to break down a viral reel frame-by-frame, extracting each scene, spoken line, and camera movement to recreate the format with your own character.  \nSeparate the viral reel’s format from the original creator so you can reuse the structure while keeping your own AI influencer identity.  \nUse character sheets to keep your AI influencer consistent across every Seedance video.  \nGenerate a second-by-second Seedance prompt with natural pacing based on the reel’s scene timing.  \nKeep identity control in the reference images rather than describing identity in the Seedance prompt.  \nMatch the original reel’s camera lens and cinematic style by explicitly recreating those details in your Seedance setup.  \nGenerate at 720p first to reduce cost, then upscale to 1080p after generation for similar quality at a fraction of the cost.  \nIterate by adjusting dialogue, pacing, or the full script with a single prompt, then regenerate using the updated Seedance prompt timeline.",
+  "translations": {
+    "es": {
+      "content": "Usa Claude para desglosar un reel viral fotograma por fotograma, extrayendo cada escena, cada línea hablada y cada movimiento de cámara para recrear el formato con tu propio personaje.  \nSepara el formato del reel viral del creador original para poder reutilizar la estructura mientras mantienes tu propia identidad de influencer de IA.  \nUsa character sheets para mantener a tu influencer de IA consistente en cada video de Seedance.  \nGenera un prompt de Seedance segundo a segundo con un ritmo natural basado en la sincronización de las escenas del reel.  \nMantén el control de la identidad en las imágenes de referencia en lugar de describir la identidad en el prompt de Seedance.  \nHaz coincidir la lente de cámara y el estilo cinematográfico del reel original recreando explícitamente esos detalles en tu configuración de Seedance.  \nGenera primero en 720p para reducir costos y luego haz upscale a 1080p después de la generación para obtener una calidad similar por una fracción del costo.  \nItera ajustando el diálogo, el ritmo o el guion completo con un solo prompt, y luego vuelve a generar usando la línea de tiempo actualizada del prompt de Seedance."
+    },
+    "fr": {
+      "content": "Utilisez Claude pour décomposer un reel viral image par image, en extrayant chaque scène, chaque réplique et chaque mouvement de caméra afin de recréer le format avec votre propre personnage.  \nSéparez le format du reel viral de celui du créateur original pour pouvoir réutiliser la structure tout en conservant votre propre identité d’influenceur IA.  \nUtilisez des character sheets pour garder votre influenceur IA cohérent dans chaque vidéo Seedance.  \nGénérez un prompt Seedance seconde par seconde avec un rythme naturel, basé sur le timing des scènes du reel.  \nConservez le contrôle de l’identité dans les images de référence plutôt que de décrire l’identité dans le prompt Seedance.  \nReproduisez explicitement l’objectif de caméra et le style cinématographique du reel original dans votre configuration Seedance afin d’en retrouver les détails.  \nGénérez d’abord en 720p pour réduire les coûts, puis upscalez en 1080p après la génération pour obtenir une qualité similaire à une fraction du prix.  \nItérez en ajustant les dialogues, le rythme ou le script complet avec un seul prompt, puis régénérez à l’aide de la timeline mise à jour du prompt Seedance."
+    },
+    "ja": {
+      "content": "Claudeを使ってバイラルリールをフレームごとに分解し、各シーン、セリフ、カメラの動きを抽出して、自分のキャラクターで同じフォーマットを再現する。  \nバイラルリールのフォーマットを元のクリエイターから切り離し、構成は再利用しつつ、自分のAIインフルエンサーとしてのアイデンティティは維持する。  \ncharacter sheetを使って、すべてのSeedance動画でAIインフルエンサーの一貫性を保つ。  \nリールのシーンのタイミングに基づいて、自然なテンポの1秒ごとのSeedance promptを生成する。  \nアイデンティティの記述はSeedance prompt内ではなく、参照画像側でコントロールする。  \nSeedanceの設定で、元のリールのカメラレンズとcinematicなスタイルを明示的に再現し、それらのディテールを一致させる。  \nまず720pで生成してコストを抑え、その後生成後に1080pへアップスケールして、同等の品質をわずかなコストで実現する。  \nセリフ、テンポ、または脚本全体を1つのpromptで調整して反復し、更新したSeedance promptのタイムラインを使って再生成する。"
+    },
+    "ko": {
+      "content": "Claude를 사용해 바이럴 릴을 프레임 단위로 분석하고, 각 장면, 대사, 카메라 움직임을 추출해 자신의 캐릭터로 같은 형식을 재현하세요.  \n바이럴 릴의 형식을 원작자와 분리해 구조는 재사용하되, 자신만의 AI 인플루언서 아이덴티티는 유지하세요.  \n캐릭터 시트를 사용해 모든 Seedance 영상에서 AI 인플루언서의 일관성을 유지하세요.  \n릴의 장면 타이밍을 바탕으로 자연스러운 페이싱의 초 단위 Seedance prompt를 생성하세요.  \nSeedance prompt에서 아이덴티티를 설명하기보다, 레퍼런스 이미지에서 아이덴티티를 직접 제어하세요.  \nSeedance 세팅에서 원본 릴의 카메라 렌즈와 cinematic 스타일을 명시적으로 재현해 세부 사항을 맞추세요.  \n먼저 720p로 생성해 비용을 줄인 다음, 생성 후 1080p로 업스케일하여 비슷한 품질을 훨씬 적은 비용으로 얻으세요.  \n대사, 페이싱 또는 전체 스크립트를 한 번의 prompt로 조정해 반복 개선한 뒤, 업데이트된 Seedance prompt 타임라인을 사용해 다시 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Claude para decompor um reel viral quadro a quadro, extraindo cada cena, fala e movimento de câmera para recriar o formato com seu próprio personagem.  \nSepare o formato do reel viral do criador original para que você possa reutilizar a estrutura mantendo sua própria identidade de influenciador de IA.  \nUse character sheets para manter seu influenciador de IA consistente em todos os vídeos do Seedance.  \nGere um prompt do Seedance segundo a segundo com ritmo natural, com base no timing das cenas do reel.  \nMantenha o controle da identidade nas imagens de referência, em vez de descrever a identidade no prompt do Seedance.  \nCombine a lente da câmera e o estilo cinematográfico do reel original recriando explicitamente esses detalhes na sua configuração do Seedance.  \nGere primeiro em 720p para reduzir o custo e, depois, faça upscale para 1080p após a geração, obtendo qualidade semelhante por uma fração do custo.  \nItere ajustando o diálogo, o ritmo ou o roteiro completo com um único prompt e, em seguida, regenere usando a timeline atualizada do prompt do Seedance."
+    },
+    "zh": {
+      "content": "使用 Claude 将一个爆款 reel 逐帧拆解，提取每个场景、台词和镜头运动，用你自己的角色重现这种格式。  \n把爆款 reel 的“形式”与原始创作者分离开来，这样你就能复用其结构，同时保持自己的 AI influencer 身份。  \n使用角色设定表，确保你的 AI influencer 在每个 Seedance 视频中都保持一致。  \n根据 reel 的场景时长，生成带有自然节奏的逐秒 Seedance prompt。  \n将身份控制放在参考图像中，而不是在 Seedance prompt 里描述身份。  \n通过在 Seedance 设置中明确重现原始 reel 的镜头焦段和 cinematic 风格，来匹配其效果。  \n先生成 720p 以降低成本，然后在生成后 upscale 到 1080p，以更低的成本获得相近的画质。  \n通过一个 prompt 调整对白、节奏或完整脚本进行迭代，然后使用更新后的 Seedance prompt 时间线重新生成。"
+    }
+  }
+}

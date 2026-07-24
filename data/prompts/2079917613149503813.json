@@ -1,0 +1,40 @@
+{
+  "id": "2079917613149503813",
+  "title": "generate an interesting music video using this image as first frame,be…",
+  "content": "generate an interesting music video using this image as first frame,be professional and use dynamic visuals",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079917316821962752/img/kyhqxaq_tB8zR-kX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079917613149503813.mp4",
+  "sourceLink": "https://x.com/EchoraContinuum/status/2079917613149503813",
+  "sourcePublishedAt": "2026-07-22",
+  "author": {
+    "name": "Echora Continuum",
+    "link": "https://x.com/EchoraContinuum"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "genera un video musical interesante usando esta imagen como primer fotograma, sé profesional y utiliza visuales dinámicos"
+    },
+    "fr": {
+      "content": "générez un clip vidéo musical intéressant en utilisant cette image comme première image, soyez professionnel et utilisez des visuels dynamiques"
+    },
+    "ja": {
+      "content": "---\nこの画像を最初のフレームとして、興味深いミュージックビデオを生成してください。プロフェッショナルに仕上げ、ダイナミックな映像表現を用いてください。\n---"
+    },
+    "ko": {
+      "content": "---\n이 이미지를 첫 프레임으로 사용해 흥미로운 뮤직비디오를 생성하세요. 전문적으로 제작하고 역동적인 비주얼을 사용하세요.\n---"
+    },
+    "pt": {
+      "content": "gere um videoclipe interessante usando esta imagem como primeiro frame, seja profissional e use visuais dinâmicos"
+    },
+    "zh": {
+      "content": "使用这张图片作为首帧，生成一个有趣的音乐视频，保持专业，并使用动态视觉效果。"
+    }
+  }
+}

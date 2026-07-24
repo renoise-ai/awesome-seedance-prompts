@@ -1,0 +1,42 @@
+{
+  "id": "2079962026001236188",
+  "title": "Pick a reference clip under 15s to use as the motion base for Seedance.",
+  "content": "Pick a reference clip under 15s to use as the motion base for Seedance.  \nConvert the reference clip to a depth video using Depth Anything V2 before bringing it into Seedance.  \nGenerate a new character and scene, then apply the depth video as the motion reference in Seedance to preserve concrete structure and improve motion tracking, wall contact, and full-body continuity.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079961693115781120/img/Ya8_V0oEHzAIEAp9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079962026001236188.mp4",
+  "sourceLink": "https://x.com/MrLarus/status/2079962026001236188",
+  "sourcePublishedAt": "2026-07-22",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Pick a reference clip under 15s to use as the motion base for Seedance.  \nConvert the reference clip to a depth video using Depth Anything V2 before bringing it into Seedance.  \nGenerate a new character and scene, then apply the depth video as the motion reference in Seedance to preserve concrete structure and improve motion tracking, wall contact, and full-body continuity.",
+  "translations": {
+    "es": {
+      "content": "Elige un clip de referencia de menos de 15 s para usarlo como base de movimiento para Seedance.  \nConvierte el clip de referencia en un video de profundidad usando Depth Anything V2 antes de importarlo en Seedance.  \nGenera un nuevo personaje y una nueva escena, y luego aplica el video de profundidad como referencia de movimiento en Seedance para preservar la estructura concreta y mejorar el seguimiento del movimiento, el contacto con la pared y la continuidad de cuerpo completo."
+    },
+    "fr": {
+      "content": "Choisissez un clip de référence de moins de 15 s à utiliser comme base de mouvement pour Seedance.  \nConvertissez le clip de référence en vidéo de profondeur à l’aide de Depth Anything V2 avant de l’importer dans Seedance.  \nGénérez un nouveau personnage et une nouvelle scène, puis appliquez la vidéo de profondeur comme référence de mouvement dans Seedance afin de préserver la structure concrète et d’améliorer le suivi des mouvements, le contact avec les murs et la continuité du corps entier."
+    },
+    "ja": {
+      "content": "Seedance のモーションベースとして使用するため、15秒未満の参考クリップを選択します。  \n参考クリップは、Seedance に取り込む前に Depth Anything V2 を使って depth video に変換します。  \n新しいキャラクターとシーンを生成し、その後、depth video を Seedance で motion reference として適用することで、具体的な構造を維持し、モーション追跡、壁との接触、全身の連続性を向上させます。"
+    },
+    "ko": {
+      "content": "Seedance의 모션 베이스로 사용할 15초 미만의 레퍼런스 클립을 선택하세요.  \n레퍼런스 클립을 Seedance에 가져오기 전에 Depth Anything V2를 사용해 depth video로 변환하세요.  \n새로운 캐릭터와 장면을 생성한 다음, depth video를 Seedance에서 motion reference로 적용하여 구체적인 구조를 유지하고, 모션 트래킹, 벽 접촉, 전신 연속성을 향상시키세요."
+    },
+    "pt": {
+      "content": "Escolha um clipe de referência com menos de 15s para usar como base de movimento no Seedance.  \nConverta o clipe de referência em um vídeo de profundidade usando o Depth Anything V2 antes de importá-lo para o Seedance.  \nGere um novo personagem e uma nova cena e, em seguida, aplique o vídeo de profundidade como referência de movimento no Seedance para preservar a estrutura concreta e melhorar o rastreamento de movimento, o contato com a parede e a continuidade do corpo inteiro."
+    },
+    "zh": {
+      "content": "选择一个 15 秒以内的参考片段，作为 Seedance 的运动基础。  \n在将参考片段导入 Seedance 之前，先使用 Depth Anything V2 将其转换为深度视频。  \n生成新的角色和场景，然后在 Seedance 中将该深度视频作为运动参考，以保留具体结构，并提升运动跟踪、与墙面的接触以及全身连续性。"
+    }
+  }
+}

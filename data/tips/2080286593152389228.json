@@ -1,0 +1,42 @@
+{
+  "id": "2080286593152389228",
+  "title": "テーマ→企画→8カット絵コンテ→キャラ参照画像を用意してから、Seedance 2.0で1発生成するワークフローにすると紙コラージュ風のAI動画を作りやすい",
+  "content": "テーマ→企画→8カット絵コンテ→キャラ参照画像を用意してから、Seedance 2.0で1発生成するワークフローにすると紙コラージュ風のAI動画を作りやすい  \nキャラ参照画像（reference image）を先に作ってSeedance 2.0に渡し、キャラクターの一貫性を保ったまま生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080281798375075840/img/u4NkrQeY-orqq_JA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080286593152389228.mp4",
+  "sourceLink": "https://x.com/ai_mitosan/status/2080286593152389228",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "みと｜地方×AI×伝統文化",
+    "link": "https://x.com/ai_mitosan"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Surreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "テーマ→企画→8カット絵コンテ→キャラ参照画像を用意してから、Seedance 2.0で1発生成するワークフローにすると紙コラージュ風のAI動画を作りやすい  \nキャラ参照画像（reference image）を先に作ってSeedance 2.0に渡し、キャラクターの一貫性を保ったまま生成する",
+  "translations": {
+    "en": {
+      "content": "If you set up a workflow where you prepare the theme → concept → 8-shot storyboard → character reference images, and then generate in one shot with Seedance 2.0, it becomes easier to create paper-collage-style AI videos.  \nFirst create the character reference image(s) and pass them to Seedance 2.0, so you can generate while maintaining character consistency."
+    },
+    "es": {
+      "content": "Si adoptas un workflow en el que primero preparas el tema → la propuesta → un storyboard de 8 planos → imágenes de referencia de los personajes, y luego generas todo de una sola vez con Seedance 2.0, resulta más fácil crear videos de IA con estilo de collage de papel.  \nPrimero crea las imágenes de referencia de los personajes (reference image) y pásalas a Seedance 2.0 para generar el contenido manteniendo la coherencia de los personajes."
+    },
+    "fr": {
+      "content": "En adoptant un workflow qui consiste à préparer d’abord le thème → le concept → un storyboard en 8 plans → des images de référence des personnages, puis à tout générer en une seule fois avec Seedance 2.0, il devient plus facile de créer des vidéos IA au style collage papier.  \nCréer d’abord une image de référence du personnage (reference image), puis la transmettre à Seedance 2.0 afin de générer en conservant la cohérence du personnage."
+    },
+    "ko": {
+      "content": "테마→기획→8컷 스토리보드→캐릭터 reference image를 준비한 뒤, Seedance 2.0에서 한 번에 생성하는 워크플로로 하면 종이 콜라주풍 AI 영상을 만들기 쉬워진다  \n캐릭터 reference image를 먼저 만들어 Seedance 2.0에 전달하고, 캐릭터의 일관성을 유지한 채 생성한다"
+    },
+    "pt": {
+      "content": "Ao adotar um workflow em que você prepara primeiro o tema → a proposta → um storyboard de 8 cortes → imagens de referência dos personagens, e só então gera tudo de uma vez no Seedance 2.0, fica mais fácil criar vídeos de IA com aparência de colagem de papel.  \nCrie primeiro as imagens de referência dos personagens (reference image) e passe-as para o Seedance 2.0, gerando o conteúdo enquanto mantém a consistência dos personagens."
+    },
+    "zh": {
+      "content": "采用“主题 → 企划 → 8镜头分镜 → 准备角色参考图”之后，再用 Seedance 2.0 一次生成的工作流程，会更容易制作出纸质拼贴风格的 AI 视频  \n先制作角色参考图（reference image）并传给 Seedance 2.0，在保持角色一致性的同时进行生成"
+    }
+  }
+}

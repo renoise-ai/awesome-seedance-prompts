@@ -1,0 +1,42 @@
+{
+  "id": "2079816528225247599",
+  "title": "地名と登場人物を指定して、GPT Images 2.0 × Seedance 2.0のWorkflowで観光地を舞台にした4K旅行Vlog風動画を作る",
+  "content": "地名と登場人物を指定して、GPT Images 2.0 × Seedance 2.0のWorkflowで観光地を舞台にした4K旅行Vlog風動画を作る",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079806926339411968/img/AHJ2kW3zLswRTwsl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079816528225247599.mp4",
+  "sourceLink": "https://x.com/PolloAIJP/status/2079816528225247599",
+  "sourcePublishedAt": "2026-07-22",
+  "author": {
+    "name": "Pollo AI 日本公式",
+    "link": "https://x.com/PolloAIJP"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "地名と登場人物を指定して、GPT Images 2.0 × Seedance 2.0のWorkflowで観光地を舞台にした4K旅行Vlog風動画を作る",
+  "translations": {
+    "en": {
+      "content": "Create a 4K travel vlog-style video set in a tourist destination using the GPT Images 2.0 × Seedance 2.0 workflow, specifying the location and characters."
+    },
+    "es": {
+      "content": "Especifica el lugar y los personajes para crear un video estilo vlog de viajes en 4K ambientado en un destino turístico, usando el workflow de GPT Images 2.0 × Seedance 2.0."
+    },
+    "fr": {
+      "content": "Spécifiez le lieu et les personnages pour créer, avec le workflow GPT Images 2.0 × Seedance 2.0, une vidéo de voyage en 4K au style vlog, se déroulant dans un site touristique."
+    },
+    "ko": {
+      "content": "지명과 등장인물을 지정해 GPT Images 2.0 × Seedance 2.0 워크플로우로 관광지를 배경으로 한 4K 여행 Vlog 스타일 영상을 만든다"
+    },
+    "pt": {
+      "content": "Especifique o local e os personagens para criar um vídeo em estilo vlog de viagem em 4K, ambientado em um ponto turístico, usando o workflow do GPT Images 2.0 × Seedance 2.0."
+    },
+    "zh": {
+      "content": "指定地名和登场人物，使用 GPT Images 2.0 × Seedance 2.0 的 Workflow 制作以旅游景点为背景的 4K 旅行 Vlog 风格视频"
+    }
+  }
+}

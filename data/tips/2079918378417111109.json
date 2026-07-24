@@ -1,0 +1,41 @@
+{
+  "id": "2079918378417111109",
+  "title": "時間がないときほど絵コンテを省略して一気に生成せず、白黒ラフの絵コンテを用意してからSeedance 2.0で生成する",
+  "content": "時間がないときほど絵コンテを省略して一気に生成せず、白黒ラフの絵コンテを用意してからSeedance 2.0で生成する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Ryuki_Yano/status/2079918378417111109",
+  "sourcePublishedAt": "2026-07-22",
+  "author": {
+    "name": "ヤノ",
+    "link": "https://x.com/Ryuki_Yano"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "時間がないときほど絵コンテを省略して一気に生成せず、白黒ラフの絵コンテを用意してからSeedance 2.0で生成する",
+  "translations": {
+    "en": {
+      "content": "When you’re short on time, don’t skip the storyboard and generate everything in one go. Prepare a black-and-white rough storyboard first, then generate it with Seedance 2.0."
+    },
+    "es": {
+      "content": "Cuanto menos tiempo tengas, no omitas el storyboard ni generes todo de una vez; prepara primero un storyboard en boceto en blanco y negro y luego genera con Seedance 2.0."
+    },
+    "fr": {
+      "content": "Plus on manque de temps, plus il ne faut pas sauter l’étape du storyboard ni générer tout d’un coup : préparez d’abord un storyboard brouillon en noir et blanc, puis générez avec Seedance 2.0."
+    },
+    "ko": {
+      "content": "시간이 없을수록 스토리보드를 생략하고 한 번에 생성하지 말고, 흑백 러프 스토리보드를 준비한 뒤 Seedance 2.0으로 생성한다"
+    },
+    "pt": {
+      "content": "Quanto menos tempo houver, em vez de pular o storyboard e gerar tudo de uma vez, prepare um storyboard rascunhado em preto e branco e só então gere com o Seedance 2.0."
+    },
+    "zh": {
+      "content": "越是时间紧张，越不要省略分镜、直接一口气生成；先准备好黑白草图分镜，再用 Seedance 2.0 进行生成。"
+    }
+  }
+}

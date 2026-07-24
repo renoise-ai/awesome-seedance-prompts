@@ -1,0 +1,42 @@
+{
+  "id": "2079900274064490842",
+  "title": "Seedance 2.0でパルクール系の生成は、プロンプトをYAML形式（meta/task_type/style/camera/render/referenc…",
+  "content": "Seedance 2.0でパルクール系の生成は、プロンプトをYAML形式（meta/task_type/style/camera/render/reference_lock）に構造化すると生成が速くなる場合がある  \nSeedance 2.0の通常版はクレジット消費が大きいので、普段はfast/miniを使い、動き重視のパルクールなど必要なときだけ通常版を使い分ける  \nstyle.cameraにcinematic_dynamic、style.renderにAAA_animation_unreal_engine_qualityを指定して、シネマティックな動きと高品質レンダリングを狙う  \nreference_lockに参照URLを指定して、参照（動き/構図など）を固定して生成を安定させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079899582541225985/img/jdUd--vv7_eSsJao.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079900274064490842.mp4",
+  "sourceLink": "https://x.com/yudotanaka/status/2079900274064490842",
+  "sourcePublishedAt": "2026-07-22",
+  "author": {
+    "name": "田中勇道 | AI画像・動画生成",
+    "link": "https://x.com/yudotanaka"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0でパルクール系の生成は、プロンプトをYAML形式（meta/task_type/style/camera/render/reference_lock）に構造化すると生成が速くなる場合がある  \nSeedance 2.0の通常版はクレジット消費が大きいので、普段はfast/miniを使い、動き重視のパルクールなど必要なときだけ通常版を使い分ける  \nstyle.cameraにcinematic_dynamic、style.renderにAAA_animation_unreal_engine_qualityを指定して、シネマティックな動きと高品質レンダリングを狙う  \nreference_lockに参照URLを指定して、参照（動き/構図など）を固定して生成を安定させる",
+  "translations": {
+    "en": {
+      "content": "For parkour-style generation in Seedance 2.0, structuring the prompt in YAML format (meta/task_type/style/camera/render/reference_lock) can sometimes make generation faster.  \nThe standard version of Seedance 2.0 consumes a lot of credits, so I usually use fast/mini, and switch to the standard version only when needed, such as for movement-focused parkour.  \nSpecify cinematic_dynamic in style.camera and AAA_animation_unreal_engine_quality in style.render to aim for cinematic motion and high-quality rendering.  \nBy specifying a reference URL in reference_lock, you can lock the reference (movement/composition, etc.) and stabilize generation.\n\n--- QUOTED TWEET ---\nI had been using Seedance 2.0 almost exclusively with fast or mini, but after a long time I used the standard version for parkour. It consumes a lot of credits, so I can’t use it often, but the motion is smooth.\n@PixVerse_  #pixversecpp https://t.co/NYeOlLBiGw\n---"
+    },
+    "es": {
+      "content": "En Seedance 2.0, para generar contenido de parkour, a veces la generación puede ser más rápida si estructuras el prompt en formato YAML (meta/task_type/style/camera/render/reference_lock).  \nLa versión estándar de Seedance 2.0 consume muchos créditos, así que normalmente conviene usar fast/mini, y reservar la versión estándar solo para cuando haga falta, por ejemplo en parkour u otros casos donde el movimiento sea lo más importante.  \nEspecifica cinematic_dynamic en style.camera y AAA_animation_unreal_engine_quality en style.render para buscar un movimiento cinematográfico y un renderizado de alta calidad.  \nIndica una URL de referencia en reference_lock para fijar la referencia (movimiento/composición, etc.) y estabilizar la generación.\n\n--- TWEET CITADO ---\nEn Seedance 2.0 he usado casi exclusivamente fast o mini, pero después de bastante tiempo volví a usar la versión estándar para hacer parkour. Consume muchos créditos, así que no puedo usarla a menudo, pero el movimiento es ágil.\n@PixVerse_  #pixversecpp https://t.co/NYeOlLBiGw\n---"
+    },
+    "fr": {
+      "content": "Avec Seedance 2.0, pour générer des scènes de parkour, il peut être plus rapide de structurer le prompt au format YAML (meta/task_type/style/camera/render/reference_lock).  \nLa version standard de Seedance 2.0 consomme beaucoup de crédits, donc au quotidien il vaut mieux utiliser fast/mini, et réserver la version standard aux cas où c’est nécessaire, par exemple pour du parkour axé sur le mouvement.  \nEn définissant style.camera sur cinematic_dynamic et style.render sur AAA_animation_unreal_engine_quality, on vise un mouvement cinématique et un rendu de haute qualité.  \nEn spécifiant une URL de référence dans reference_lock, on fige la référence (mouvement/composition, etc.) afin de stabiliser la génération.\n\n--- TWEET CITÉ ---\nJ’utilisais presque exclusivement fast ou mini avec Seedance 2.0, mais j’ai ressorti la version standard après un moment pour faire du parkour. Elle consomme beaucoup de crédits, donc je ne peux pas l’utiliser souvent, mais le mouvement est fluide.\n@PixVerse_  #pixversecpp https://t.co/NYeOlLBiGw\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 파쿠르 계열 생성을 할 때는, 프롬프트를 YAML 형식(meta/task_type/style/camera/render/reference_lock)으로 구조화하면 생성이 더 빨라질 수 있다  \nSeedance 2.0의 일반 버전은 크레딧 소모가 크기 때문에, 평소에는 fast/mini를 사용하고, 움직임이 중요한 파쿠르 같은 경우에만 일반 버전을 구분해서 사용한다  \nstyle.camera에 cinematic_dynamic, style.render에 AAA_animation_unreal_engine_quality를 지정해 시네마틱한 움직임과 고품질 렌더링을 노린다  \nreference_lock에 참조 URL을 지정해 참조(움직임/구도 등)를 고정하고 생성을 안정화한다\n\n--- QUOTED TWEET ---\nSeedance 2.0은 주로 fast나 mini를 사용했지만, 오랜만에 일반 버전으로 파쿠르를 해봤다. 크레딧 소모가 커서 자주 쓰지는 못하지만, 움직임은 경쾌하다.\n@PixVerse_  #pixversecpp https://t.co/NYeOlLBiGw\n---"
+    },
+    "pt": {
+      "content": "No Seedance 2.0, a geração de cenas de parkour pode ficar mais rápida se o prompt for estruturado em formato YAML (meta/task_type/style/camera/render/reference_lock)  \nA versão padrão do Seedance 2.0 consome muitos créditos, então, no dia a dia, vale usar fast/mini e deixar a versão padrão apenas para quando for necessário, como em parkour com foco em movimento  \nDefina style.camera como cinematic_dynamic e style.render como AAA_animation_unreal_engine_quality para buscar um movimento cinematográfico e renderização de alta qualidade  \nEspecifique uma URL de referência em reference_lock para fixar a referência (movimento/composição etc.) e estabilizar a geração\n\n--- TWEET CITADO ---\nNo Seedance 2.0, eu vinha usando quase sempre fast ou mini, mas depois de um tempo voltei a usar a versão padrão para fazer parkour. Como o consumo de créditos é alto, não dá para usar sempre, mas o movimento é ágil.\n@PixVerse_  #pixversecpp https://t.co/NYeOlLBiGw\n---"
+    },
+    "zh": {
+      "content": "在 Seedance 2.0 中生成跑酷类内容时，如果将 prompt 结构化为 YAML 格式（meta/task_type/style/camera/render/reference_lock），生成速度有时会更快。  \nSeedance 2.0 的普通版会消耗较多 credits，所以平时使用 fast/mini，只有在需要强调动作表现的跑酷等场景时才切换到普通版。  \n在 style.camera 中指定 cinematic_dynamic，在 style.render 中指定 AAA_animation_unreal_engine_quality，以追求电影感的运动效果和高质量渲染。  \n在 reference_lock 中指定参考 URL，固定参考（动作/构图等），让生成更稳定。\n\n--- QUOTED TWEET ---\nSeedance 2.0 一直主要用 fast 或 mini，这次久违地用了普通版来做跑酷。虽然因为 credits 消耗大，不能经常用，但动作很流畅。  \n@PixVerse_  #pixversecpp https://t.co/NYeOlLBiGw\n---"
+    }
+  }
+}

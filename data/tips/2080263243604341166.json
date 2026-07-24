@@ -1,0 +1,42 @@
+{
+  "id": "2080263243604341166",
+  "title": "Use an isometric reference image as an environmental reference in Seedance 2.0…",
+  "content": "Use an isometric reference image as an environmental reference in Seedance 2.0 to keep scene layout more consistent across shots from many angles.  \nGenerate a reliable isometric reference by converting a blueprint into an isometric image before prompting Seedance.  \nAdd a third reference frame as the starting frame to better match the isometric reference’s spatial layout.  \nChoose reference frames that match the intended level of activity (not overly empty) to improve alignment and results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080262753789345792/img/0OhgxzcWutJvi1fO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080263243604341166.mp4",
+  "sourceLink": "https://x.com/rainisto/status/2080263243604341166",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "Roope Rainisto",
+    "link": "https://x.com/rainisto"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an isometric reference image as an environmental reference in Seedance 2.0 to keep scene layout more consistent across shots from many angles.  \nGenerate a reliable isometric reference by converting a blueprint into an isometric image before prompting Seedance.  \nAdd a third reference frame as the starting frame to better match the isometric reference’s spatial layout.  \nChoose reference frames that match the intended level of activity (not overly empty) to improve alignment and results.",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen de referencia isométrica como referencia ambiental en Seedance 2.0 para mantener la composición de la escena más consistente entre tomas desde muchos ángulos.  \nGenera una referencia isométrica fiable convirtiendo un plano en una imagen isométrica antes de hacer el prompt en Seedance.  \nAñade un tercer frame de referencia como frame inicial para que coincida mejor con la disposición espacial de la referencia isométrica.  \nElige frames de referencia que coincidan con el nivel de actividad previsto (no demasiado vacíos) para mejorar la alineación y los resultados.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Añadir un tercer frame de referencia como frame inicial sí hace que coincida aún mejor con la referencia isométrica, pero se está quedando un poco vacío... convendría usar referencias que se ajusten mejor al nivel de actividad previsto https://t.co/xCY2TBowqG\n---"
+    },
+    "fr": {
+      "content": "Utilisez une image de référence isométrique comme référence environnementale dans Seedance 2.0 afin de conserver une disposition de scène plus cohérente d’un plan à l’autre, sous différents angles.  \nGénérez une référence isométrique fiable en convertissant un blueprint en image isométrique avant de formuler le prompt pour Seedance.  \nAjoutez une troisième image de référence comme image de départ pour mieux correspondre à la disposition spatiale de la référence isométrique.  \nChoisissez des images de référence qui correspondent au niveau d’activité souhaité (pas trop vides) afin d’améliorer l’alignement et les résultats.\n\n--- SUITE DU FIL ---\n[Fil 1] Ajouter une troisième image de référence comme image de départ permet effectivement de mieux correspondre à la référence isométrique — mais cela devient un peu vide... il faudrait utiliser des références qui correspondent mieux au niveau d’activité souhaité https://t.co/xCY2TBowqG\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.0 では、等角投影の参照画像を環境参照として使用することで、さまざまな角度からのショット間でもシーンのレイアウトをより一貫して保てます。  \n設計図を等角投影画像に変換してから Seedance にプロンプトを与えることで、信頼性の高い等角投影の参照を生成できます。  \n開始フレームとして3つ目の参照フレームを追加すると、等角投影参照の空間レイアウトにさらに一致させやすくなります。  \n意図する活動量に合った参照フレーム（空きすぎていないもの）を選ぶことで、整合性と結果を改善できます。\n\n--- スレッドの続き ---\n[Thread 1] 開始フレーム用に3つ目の参照フレームを追加すると、等角投影参照にさらによく一致しますが、少し空きすぎてしまいます... 意図する活動量にもっと合った参照を使うべきです https://t.co/xCY2TBowqG\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 등각(isometric) 레퍼런스 이미지를 환경 레퍼런스로 사용하면, 여러 각도에서 촬영한 샷들 사이에서도 장면 구성을 더 일관되게 유지할 수 있습니다.  \n청사진(blueprint)을 등각 이미지로 변환한 뒤 Seedance에 프롬프트를 넣어, 신뢰할 수 있는 등각 레퍼런스를 생성하세요.  \n시작 프레임으로 세 번째 레퍼런스 프레임을 추가하면 등각 레퍼런스의 공간 배치와 더 잘 맞출 수 있습니다.  \n의도한 활동 수준과 맞는 레퍼런스 프레임을 선택하세요(너무 비어 보이지 않도록). 그래야 정합성과 결과가 더 좋아집니다.\n\n--- 스레드 이어짐 ---\n[Thread 1] 시작 프레임으로 세 번째 레퍼런스 프레임을 추가하면 등각 레퍼런스와 더 잘 맞긴 하지만, 조금 비어 보이기 시작합니다... 의도한 활동 수준과 더 잘 맞는 레퍼런스를 사용해야 합니다 https://t.co/xCY2TBowqG\n---"
+    },
+    "pt": {
+      "content": "Use uma imagem de referência isométrica como referência ambiental no Seedance 2.0 para manter o layout da cena mais consistente entre planos de vários ângulos.  \nGere uma referência isométrica confiável convertendo uma planta baixa em uma imagem isométrica antes de fazer o prompt no Seedance.  \nAdicione um terceiro frame de referência como frame inicial para corresponder melhor ao layout espacial da referência isométrica.  \nEscolha frames de referência que correspondam ao nível de atividade pretendido (sem ficar excessivamente vazios) para melhorar o alinhamento e os resultados.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Adicionar um terceiro frame de referência como frame inicial realmente faz com que ele corresponda ainda melhor à referência isométrica — mas está ficando um pouco vazio... seria melhor usar referências que correspondam mais ao nível de atividade pretendido https://t.co/xCY2TBowqG\n---"
+    },
+    "zh": {
+      "content": "在 Seedance 2.0 中使用等距参考图作为环境参考，可以让不同角度镜头之间的场景布局更一致。  \n在向 Seedance 提示之前，先将蓝图转换为等距图像，以生成可靠的等距参考。  \n再添加第三个参考帧作为起始帧，可以更好地匹配等距参考的空间布局。  \n选择与预期活动程度相符的参考帧（不要过于空旷），以提升对齐效果和生成结果。\n\n--- 线程续接 ---\n[Thread 1] 为起始帧添加第三个参考帧，确实会让它更贴合等距参考——但画面开始有点空了……应该使用更符合预期活动程度的参考图 https://t.co/xCY2TBowqG\n---"
+    }
+  }
+}

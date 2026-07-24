@@ -1,0 +1,42 @@
+{
+  "id": "2080085331492385066",
+  "title": "Use two character bible sheets plus a plot progression to structure your…",
+  "content": "Use two character bible sheets plus a plot progression to structure your Seedance story before generating video.\nUse Koda’s sref (style reference) for the initial image prompt, then expand the narrative with InVideo Agent One to develop the full storyline.\nRefine/clean up the slightly rough look from GPT Image 2 outputs before converting them into Seedance video for better results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080084808282308608/img/l6nnCGRZwtClDvMS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080085331492385066.mp4",
+  "sourceLink": "https://x.com/opener_ai/status/2080085331492385066",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "Jin.B",
+    "link": "https://x.com/opener_ai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use two character bible sheets plus a plot progression to structure your Seedance story before generating video.\nUse Koda’s sref (style reference) for the initial image prompt, then expand the narrative with InVideo Agent One to develop the full storyline.\nRefine/clean up the slightly rough look from GPT Image 2 outputs before converting them into Seedance video for better results.",
+  "translations": {
+    "es": {
+      "content": "Usa dos character bible sheets junto con una progresión de la trama para estructurar tu historia de Seedance antes de generar el video.  \nUsa el sref de Koda (style reference) para el prompt de imagen inicial y luego amplía la narrativa con InVideo Agent One para desarrollar la historia completa.  \nRefina/limpia el aspecto ligeramente tosco de los outputs de GPT Image 2 antes de convertirlos en video de Seedance para obtener mejores resultados."
+    },
+    "fr": {
+      "content": "Utilisez deux fiches de bible de personnages ainsi qu’une progression de l’intrigue pour structurer votre histoire Seedance avant de générer la vidéo.  \nUtilisez le sref de Koda (style reference) pour le prompt d’image initial, puis développez le récit avec InVideo Agent One afin d’élaborer l’histoire complète.  \nAffinez/nettoyez l’aspect légèrement brut des sorties de GPT Image 2 avant de les convertir en vidéo Seedance pour de meilleurs résultats."
+    },
+    "ja": {
+      "content": "---\n動画を生成する前に、2枚のキャラクターバイブルシートとプロットの進行を使って、Seedanceのストーリー構成を組み立てましょう。\n最初の画像プロンプトにはKodaのsref（style reference）を使用し、その後InVideo Agent Oneで物語を拡張して、全体のストーリーラインを発展させます。\nGPT Image 2の出力に見られるやや粗い見た目は、Seedanceの動画に変換する前に調整・クリーンアップすると、より良い結果が得られます。\n---"
+    },
+    "ko": {
+      "content": "비디오를 생성하기 전에 두 개의 캐릭터 바이블 시트와 플롯 전개를 활용해 Seedance 스토리를 구성하세요.  \n초기 이미지 prompt에는 Koda의 sref(style reference)를 사용한 뒤, InVideo Agent One으로 내러티브를 확장해 전체 스토리라인을 발전시키세요.  \n더 나은 결과를 위해 GPT Image 2 출력물의 다소 거친 느낌을 Seedance video로 변환하기 전에 다듬고 정리하세요."
+    },
+    "pt": {
+      "content": "Use duas character bible sheets, além de uma progressão de enredo, para estruturar sua história no Seedance antes de gerar o vídeo.  \nUse o sref do Koda (style reference) para o prompt de imagem inicial e, em seguida, expanda a narrativa com o InVideo Agent One para desenvolver a história completa.  \nRefine/limpe o visual levemente áspero dos outputs do GPT Image 2 antes de convertê-los em vídeo no Seedance para obter melhores resultados."
+    },
+    "zh": {
+      "content": "在生成视频之前，先使用两张角色设定表和一个情节推进来构建你的 Seedance 故事。  \n先在初始图像 prompt 中使用 Koda 的 sref（style reference），然后借助 InVideo Agent One 扩展叙事，发展完整故事线。  \n在将 GPT Image 2 的输出转换为 Seedance 视频之前，先对略显粗糙的画面进行润色/清理，以获得更好的效果。"
+    }
+  }
+}

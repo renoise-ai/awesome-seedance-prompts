@@ -1,0 +1,42 @@
+{
+  "id": "2080135486866333779",
+  "title": "同じプロンプトでも参照画像（白黒絵コンテ／詳細ストーリーボード／フルカラー漫画／配置図など）を変えてSeedanceの出力差を比較し、狙いの動きに合う参照画像形…",
+  "content": "同じプロンプトでも参照画像（白黒絵コンテ／詳細ストーリーボード／フルカラー漫画／配置図など）を変えてSeedanceの出力差を比較し、狙いの動きに合う参照画像形式を選ぶ  \nSeedanceでは文字プロンプトよりv2v（Blender v2vなど）の参照動画入力のほうが動きや内容の制御が強く効くため、狙い通りにしたい場合はv2vを優先して使う  \n絵コンテ参照はラフでもよく、ラフなほうが動きが出やすいので、まずはラフ絵コンテを参照画像として試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080130667359453184/img/WZ8nhrmaIABT9CWs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080135486866333779.mp4",
+  "sourceLink": "https://x.com/boke_ai/status/2080135486866333779",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "絵空事テレビ / AIカワウソ",
+    "link": "https://x.com/boke_ai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "同じプロンプトでも参照画像（白黒絵コンテ／詳細ストーリーボード／フルカラー漫画／配置図など）を変えてSeedanceの出力差を比較し、狙いの動きに合う参照画像形式を選ぶ  \nSeedanceでは文字プロンプトよりv2v（Blender v2vなど）の参照動画入力のほうが動きや内容の制御が強く効くため、狙い通りにしたい場合はv2vを優先して使う  \n絵コンテ参照はラフでもよく、ラフなほうが動きが出やすいので、まずはラフ絵コンテを参照画像として試す",
+  "translations": {
+    "en": {
+      "content": "Even with the same prompt, compare Seedance outputs by changing the reference image (black-and-white storyboard / detailed storyboard / full-color manga / layout diagram, etc.), and choose the reference image format that best matches the motion you want.  \nIn Seedance, reference video input via v2v (such as Blender v2v) has stronger control over motion and content than text prompts, so if you want the result to match your intent, prioritize using v2v.  \nStoryboard references can be rough, and rougher ones tend to produce more motion, so first try a rough storyboard as the reference image.\n\n--- THREAD CONTINUATION ---\n[Thread 1] “Isn’t it meaningless unless you compare the same video?”\nTo that, I’d say:\n\n“Exactly.”\n\n[Thread 2] Person I refer to for storyboard know-how ①  \n@Ryuki_Yano  \nhttps://t.co/QvFblxT9vi\n\nSince Yano-sensei says so, maybe storyboards can be rough after all.\n\n[Thread 3] Person I refer to for storyboard know-how ②  \n@aimikoda  \n\nhttps://t.co/3YNNdnk1Fz\n\nI’m learning a lot from this.  \nKoda also said that rougher storyboards produce more motion."
+    },
+    "es": {
+      "content": "Comparar las diferencias de salida de Seedance cambiando la imagen de referencia —como un storyboard en blanco y negro, un storyboard detallado, un manga a todo color, un diagrama de composición, etc.— incluso con el mismo prompt, y elegir el formato de imagen de referencia que mejor se ajuste al movimiento que buscas.  \nEn Seedance, la entrada de video de referencia en v2v (como Blender v2v) tiene un control mucho más fuerte sobre el movimiento y el contenido que un prompt de texto; por eso, si quieres obtener el resultado exacto que imaginas, conviene priorizar el uso de v2v.  \nLas referencias de storyboard pueden ser incluso bocetos; de hecho, cuanto más sueltas sean, más fácil es que aparezca movimiento, así que primero prueba con un storyboard en boceto como imagen de referencia.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] ¿No tendría sentido solo si comparas con el mismo video?\nA quien haya pensado eso, quiero decirle:\n\n“Eso mismo.”\n\n[Thread 2] Persona de referencia en cuanto a técnicas de storyboard ①  \n@Ryuki_Yano さん  \nhttps://t.co/QvFblxT9vi\n\nComo lo dice el profesor Yano, quizá el storyboard puede ser un boceto sin problema.\n\n[Thread 3] Persona de referencia en cuanto a técnicas de storyboard ②  \n@aimikoda さん\n\nhttps://t.co/3YNNdnk1Fz\n\nSe aprende muchísimo.  \nLa persona Koda también comentó que con un boceto se obtiene más movimiento."
+    },
+    "fr": {
+      "content": "Comparer les différences de sortie de Seedance en faisant varier l’image de référence — storyboard en noir et blanc, storyboard détaillé, manga en couleur, schéma de mise en place, etc. — même avec le même prompt, puis choisir le format d’image de référence qui correspond au mouvement recherché.  \nDans Seedance, une entrée vidéo de référence en v2v (comme Blender v2v) permet un contrôle du mouvement et du contenu plus fort qu’un prompt textuel ; si vous voulez obtenir un résultat précis, il vaut donc mieux privilégier le v2v.  \nPour les références de storyboard, un croquis suffit ; comme un style plus brut fait mieux ressortir le mouvement, commencez par tester un storyboard esquissé comme image de référence.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Si on ne compare pas avec la même vidéo, ça n’a pas de sens, non ?\nC’est ce que vous vous dites, et je veux vous dire :\n\n« Exactement. »\n\n[Thread 2] Personne dont je m’inspire pour les bonnes pratiques de storyboard ①  \n@Ryuki_Yano さん  \nhttps://t.co/QvFblxT9vi\n\nComme le professeur Yano le dit, un storyboard peut peut-être rester brut\n\n[Thread 3] Personne dont je m’inspire pour les bonnes pratiques de storyboard ②  \n@aimikoda さん\n\nhttps://t.co/3YNNdnk1Fz\n\nC’est super instructif  \nKoda a aussi dit qu’un style plus brut fait mieux ressortir le mouvement"
+    },
+    "ko": {
+      "content": "같은 prompt라도 참조 이미지(흑백 콘티 / 상세 스토리보드 / 풀컬러 만화 / 배치도 등)를 바꿔가며 Seedance의 출력 차이를 비교하고, 원하는 움직임에 맞는 참조 이미지 형식을 선택한다  \nSeedance에서는 텍스트 prompt보다 v2v(Blender v2v 등) 같은 참조 영상 입력이 움직임과 내용 제어에 더 강하게 작용하므로, 의도한 대로 만들고 싶다면 v2v를 우선적으로 사용하는 것이 좋다  \n콘티 참조는 러프해도 괜찮고, 오히려 러프할수록 움직임이 잘 나오기 때문에, 우선은 러프 콘티를 참조 이미지로 시험해 본다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 같은 영상으로 비교하지 않으면 의미 없지 않나?\n라고 생각한 당신에게 말하고 싶다.\n\n“그 말 맞다”\n\n[Thread 2] 콘티 노하우에서 참고하고 있는 분 ①\n@Ryuki_Yano 님\nhttps://t.co/QvFblxT9vi\n\n야노 선생님이 그렇게 말하니까 콘티는 러프해도 되는 걸지도\n\n[Thread 3] 콘티 노하우에서 참고하고 있는 분 ②\n@aimikoda 님\n\nhttps://t.co/3YNNdnk1Fz\n\n정말 많이 배웁니다\nkoda님도 러프한 쪽이 움직임이 잘 나온다고 말씀하셨습니다"
+    },
+    "pt": {
+      "content": "Mesmo com o mesmo prompt, compare as diferenças de saída do Seedance trocando a imagem de referência (storyboard em preto e branco / storyboard detalhado / mangá colorido / diagrama de composição etc.) e escolha o formato de imagem de referência que melhor se encaixa no movimento desejado.  \nNo Seedance, a entrada de vídeo de referência via v2v (como Blender v2v) tem um controle mais forte sobre o movimento e o conteúdo do que prompts de texto; portanto, se você quer chegar mais perto do resultado desejado, priorize o uso de v2v.  \nReferências de storyboard podem ser bem rascunhadas, e quanto mais rascunhadas, mais fácil é o movimento aparecer; então, primeiro tente usar um storyboard rascunhado como imagem de referência.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Se não comparar com o mesmo vídeo, não faz sentido, né?\nQuero dizer para quem pensou isso:\n\n“Pois é”\n\n[Thread 2] Pessoa que estou usando como referência para o know-how de storyboard ①\n@Ryuki_Yano さん\nhttps://t.co/QvFblxT9vi\n\nSe o professor Yano diz, então talvez o storyboard possa ser rascunhado mesmo\n\n[Thread 3] Pessoa que estou usando como referência para o know-how de storyboard ②\n@aimikoda さん\n\nhttps://t.co/3YNNdnk1Fz\n\nEstou aprendendo muito\nA Koda também disse que o rascunho tende a gerar mais movimento"
+    },
+    "zh": {
+      "content": "即使是同一个 prompt，也可以通过更换参考图像（黑白分镜／详细 storyboard／全彩漫画／布局图等）来比较 Seedance 的输出差异，并选择最符合目标动作的参考图像形式。  \n在 Seedance 中，相比文字 prompt，v2v（如 Blender v2v 等）的参考视频输入对动作和内容的控制更强；因此，如果想尽量按预期生成，优先使用 v2v。  \n分镜参考即使是草图也可以，而且越粗略越容易产生动作，所以建议先用粗略分镜作为参考图像来试试。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 只拿同一个视频来比较不就没意义了吗？\n如果你这么想，我想说：\n\n“没错”\n\n[Thread 2] 我参考的分镜技巧来源之一①  \n@Ryuki_Yano さん  \nhttps://t.co/QvFblxT9vi\n\n因为矢野老师都这么说了，分镜也许用草图就可以了\n\n[Thread 3] 我参考的分镜技巧来源之一②  \n@aimikoda さん\n\nhttps://t.co/3YNNdnk1Fz\n\n真的很有学习价值  \nkoda 也说过，草图更容易出动作"
+    }
+  }
+}

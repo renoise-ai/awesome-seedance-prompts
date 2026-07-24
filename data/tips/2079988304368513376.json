@@ -1,0 +1,42 @@
+{
+  "id": "2079988304368513376",
+  "title": "Use a ComfyUI workflow that calls an LLM to auto-generate Seedance 2.0 prompts…",
+  "content": "Use a ComfyUI workflow that calls an LLM to auto-generate Seedance 2.0 prompts for smoother, more consistent “viral-style” trick-shot effects (e.g., balancing on a moving animal while performing impossible tricks).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079988257325248512/img/7Ei_XDESXJdjm3Jv.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079988304368513376.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2079988304368513376",
+  "sourcePublishedAt": "2026-07-22",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a ComfyUI workflow that calls an LLM to auto-generate Seedance 2.0 prompts for smoother, more consistent “viral-style” trick-shot effects (e.g., balancing on a moving animal while performing impossible tricks).",
+  "translations": {
+    "es": {
+      "content": "Usa un flujo de trabajo de ComfyUI que llame a un LLM para generar automáticamente prompts de Seedance 2.0, logrando efectos de trick-shot “virales” más fluidos y consistentes (por ejemplo, equilibrarse sobre un animal en movimiento mientras realiza trucos imposibles).\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/7IrFRV5cGX\n---"
+    },
+    "fr": {
+      "content": "Utilisez un workflow ComfyUI qui appelle un LLM pour générer automatiquement des prompts Seedance 2.0, afin d’obtenir des effets de trick-shot « viral-style » plus fluides et plus cohérents (par exemple, tenir en équilibre sur un animal en mouvement tout en réalisant des tricks impossibles).\n\n--- SUITE DU FIL ---\n[Thread 1] https://t.co/7IrFRV5cGX\n---"
+    },
+    "ja": {
+      "content": "LLMを呼び出してSeedance 2.0のpromptを自動生成するComfyUIワークフローを使用し、より滑らかで一貫性のある「viral-style」のトリックショット効果（例：動いている動物の上でバランスを取りながら、ありえないトリックを披露する）を実現する。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/7IrFRV5cGX\n---"
+    },
+    "ko": {
+      "content": "더 부드럽고 일관된 “바이럴 스타일” 트릭샷 효과를 위해, LLM을 호출해 Seedance 2.0 prompt를 자동 생성하는 ComfyUI 워크플로를 사용하세요(예: 움직이는 동물 위에서 균형을 잡으며 불가능한 트릭을 수행하는 장면).\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/7IrFRV5cGX\n---"
+    },
+    "pt": {
+      "content": "Use um workflow do ComfyUI que chama um LLM para gerar automaticamente prompts do Seedance 2.0, criando efeitos de “viral-style” trick-shot mais suaves e consistentes (por exemplo, equilibrar-se em um animal em movimento enquanto realiza truques impossíveis).\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/7IrFRV5cGX\n---"
+    },
+    "zh": {
+      "content": "使用一个 ComfyUI 工作流，调用 LLM 自动生成 Seedance 2.0 prompts，以实现更流畅、更一致的“viral-style” trick-shot 效果（例如，在移动的动物上保持平衡，同时完成不可能的特技）。\n\n--- 线程续接 ---\n[Thread 1] https://t.co/7IrFRV5cGX\n---"
+    }
+  }
+}

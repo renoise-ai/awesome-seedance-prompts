@@ -1,0 +1,42 @@
+{
+  "id": "2080335554680594825",
+  "title": "Use Unreal Engine to pre-block your scene and define camera movement (with a 3D…",
+  "content": "Use Unreal Engine to pre-block your scene and define camera movement (with a 3D artist if needed) before generating the shot in Seedance 2.0.\n\nCreate detailed reference designs (e.g., spacesuit and environment/portal references) and use them to guide Seedance 2.0 generation in InVideo.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080335536305082368/img/ir8V7azS5ora25w8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080335554680594825.mp4",
+  "sourceLink": "https://x.com/cynbahati/status/2080335554680594825",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "Cynthia",
+    "link": "https://x.com/cynbahati"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Use Unreal Engine to pre-block your scene and define camera movement (with a 3D artist if needed) before generating the shot in Seedance 2.0.\n\nCreate detailed reference designs (e.g., spacesuit and environment/portal references) and use them to guide Seedance 2.0 generation in InVideo.",
+  "translations": {
+    "es": {
+      "content": "Usa Unreal Engine para prebloquear tu escena y definir el movimiento de cámara (con un artista 3D si es necesario) antes de generar la toma en Seedance 2.0.\n\nCrea diseños de referencia detallados (por ejemplo, referencias del traje espacial y del entorno/portal) y utilízalos para guiar la generación de Seedance 2.0 en InVideo."
+    },
+    "fr": {
+      "content": "Utilisez Unreal Engine pour prévisualiser votre scène et définir le mouvement de caméra (avec un artiste 3D si nécessaire) avant de générer le plan dans Seedance 2.0.\n\nCréez des designs de référence détaillés (par exemple, des références de combinaison spatiale et d’environnement/de portail) et utilisez-les pour guider la génération dans Seedance 2.0 dans InVideo."
+    },
+    "ja": {
+      "content": "Seedance 2.0でショットを生成する前に、Unreal Engineを使ってシーンのプリブロックを行い、カメラの動きを定義します（必要に応じて3Dアーティストと連携）。\n\n詳細な参考デザイン（例：宇宙服や環境／ポータルの参照資料）を作成し、それらをInVideoでのSeedance 2.0生成の指針として活用します。"
+    },
+    "ko": {
+      "content": "Unreal Engine을 사용해 장면을 사전 블로킹하고, 필요하다면 3D 아티스트와 함께 카메라 움직임을 정의한 뒤 Seedance 2.0에서 샷을 생성하세요.\n\n상세한 레퍼런스 디자인(예: 우주복 및 환경/포털 레퍼런스)을 만들고, 이를 활용해 InVideo에서 Seedance 2.0 생성 작업을 안내하세요."
+    },
+    "pt": {
+      "content": "Use o Unreal Engine para pré-bloquear sua cena e definir o movimento de câmera (com a ajuda de um artista 3D, se necessário) antes de gerar a tomada no Seedance 2.0.\n\nCrie designs de referência detalhados (por exemplo, referências de traje espacial e de ambiente/portal) e use-os para orientar a geração no Seedance 2.0 no InVideo."
+    },
+    "zh": {
+      "content": "在使用 Seedance 2.0 生成镜头之前，先用 Unreal Engine 对场景进行预先搭建，并定义镜头运动（如有需要，可与 3D 艺术家合作）。\n\n创建详细的参考设计（例如宇航服和环境/传送门参考），并将其用于在 InVideo 中引导 Seedance 2.0 的生成。"
+    }
+  }
+}

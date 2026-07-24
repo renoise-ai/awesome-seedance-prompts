@@ -1,0 +1,42 @@
+{
+  "id": "2080321925151117402",
+  "title": "Use Seedance 2.0’s extend feature to lengthen an existing 15s clip.",
+  "content": "Use Seedance 2.0’s extend feature to lengthen an existing 15s clip.  \nGenerate a starting frame in Midjourney 8.2, then import that image into Seedance to animate it into video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080321600855961600/img/Ib5IUjpQY9o9SHZe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080321925151117402.mp4",
+  "sourceLink": "https://x.com/sebatheepan/status/2080321925151117402",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "Pan",
+    "link": "https://x.com/sebatheepan"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0’s extend feature to lengthen an existing 15s clip.  \nGenerate a starting frame in Midjourney 8.2, then import that image into Seedance to animate it into video.",
+  "translations": {
+    "es": {
+      "content": "Usa la función de extensión de Seedance 2.0 para alargar un clip existente de 15 s.  \nGenera un frame inicial en Midjourney 8.2 y luego importa esa imagen en Seedance para animarla y convertirla en video."
+    },
+    "fr": {
+      "content": "Utilisez la fonction d’extension de Seedance 2.0 pour prolonger un clip existant de 15 s.  \nGénérez une image de départ dans Midjourney 8.2, puis importez cette image dans Seedance pour l’animer et la transformer en vidéo."
+    },
+    "ja": {
+      "content": "Seedance 2.0のextend機能を使って、既存の15秒クリップを延長します。  \nMidjourney 8.2で開始フレームを生成し、その画像をSeedanceに取り込んで、動画としてアニメーション化します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0의 extend 기능을 사용해 기존 15초 클립의 길이를 늘리세요.  \nMidjourney 8.2에서 시작 프레임을 생성한 다음, 그 이미지를 Seedance로 가져와 영상으로 애니메이션화하세요."
+    },
+    "pt": {
+      "content": "Use o recurso de extensão do Seedance 2.0 para alongar um clipe existente de 15s.  \nGere um frame inicial no Midjourney 8.2 e, em seguida, importe essa imagem para o Seedance para animá-la e transformá-la em vídeo."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0 的 extend 功能来延长现有的 15 秒片段。  \n先在 Midjourney 8.2 中生成一张起始帧，然后将该图像导入 Seedance，将其动画化为视频。"
+    }
+  }
+}

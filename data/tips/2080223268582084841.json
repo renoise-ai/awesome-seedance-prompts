@@ -1,0 +1,42 @@
+{
+  "id": "2080223268582084841",
+  "title": "Use Gemini to lock the character sheet before generating fast-motion scenes…",
+  "content": "Use Gemini to lock the character sheet before generating fast-motion scenes, since fast movement exposes inconsistencies.  \nFeed past episodes into Claude as context when writing the next script to maintain continuity.  \nIn Seedance 2.0, use image-to-video to keep the character’s face locked during mid-motion shots.  \nFor fast-motion sequences where hands/props warp, generate in short bursts instead of long takes.  \nRe-roll any Seedance clip where a hand or object doesn’t match the last frame to maintain continuity.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080215993872261121/img/7j5o7TJbPYoZYz43.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080223268582084841.mp4",
+  "sourceLink": "https://x.com/AnovsUra/status/2080223268582084841",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "Blance",
+    "link": "https://x.com/AnovsUra"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Gemini to lock the character sheet before generating fast-motion scenes, since fast movement exposes inconsistencies.  \nFeed past episodes into Claude as context when writing the next script to maintain continuity.  \nIn Seedance 2.0, use image-to-video to keep the character’s face locked during mid-motion shots.  \nFor fast-motion sequences where hands/props warp, generate in short bursts instead of long takes.  \nRe-roll any Seedance clip where a hand or object doesn’t match the last frame to maintain continuity.",
+  "translations": {
+    "es": {
+      "content": "Usa Gemini para fijar la character sheet antes de generar escenas de movimiento rápido, ya que el movimiento veloz expone inconsistencias.  \nIntroduce los episodios anteriores en Claude como contexto al escribir el siguiente guion para mantener la continuidad.  \nEn Seedance 2.0, usa image-to-video para mantener el rostro del personaje fijo durante tomas en medio del movimiento.  \nPara secuencias de movimiento rápido en las que las manos o los props se deforman, genera en ráfagas cortas en lugar de tomas largas.  \nVuelve a generar cualquier clip de Seedance en el que una mano o un objeto no coincida con el último frame para mantener la continuidad."
+    },
+    "fr": {
+      "content": "Utilisez Gemini pour verrouiller la character sheet avant de générer des scènes en fast-motion, car les mouvements rapides révèlent les incohérences.  \nAlimentez Claude avec les épisodes précédents comme contexte lorsque vous écrivez le script suivant afin de maintenir la continuité.  \nDans Seedance 2.0, utilisez l’image-to-video pour garder le visage du personnage verrouillé pendant les plans en plein mouvement.  \nPour les séquences en fast-motion où les mains ou les accessoires se déforment, générez par courtes séquences plutôt qu’en longs plans.  \nRelancez toute clip Seedance où une main ou un objet ne correspond pas à la dernière image afin de maintenir la continuité."
+    },
+    "ja": {
+      "content": "---\n高速モーションのシーンを生成する前に、Geminiを使ってキャラクターシートを固定しておきましょう。高速な動きでは不整合が露呈しやすいためです。  \n次の脚本を書く際は、過去のエピソードをコンテキストとしてClaudeに入力し、連続性を維持します。  \nSeedance 2.0では、image-to-videoを使って、動作の途中でもキャラクターの顔が固定されるようにします。  \n手や小道具が歪みやすい高速モーションのシーケンスでは、長回しではなく短いバーストで生成します。  \n手や物体が最後のフレームと一致しないSeedanceクリップは、連続性を保つために再生成します。  \n---"
+    },
+    "ko": {
+      "content": "빠른 동작 장면을 생성하기 전에 Gemini를 사용해 character sheet를 고정하세요. 빠른 움직임은 불일치를 드러내기 때문입니다.  \n다음 대본을 작성할 때는 이전 에피소드를 Claude에 context로 입력해 연속성을 유지하세요.  \nSeedance 2.0에서는 image-to-video를 사용해 중간 동작 샷에서도 캐릭터의 얼굴이 고정되도록 하세요.  \n손이나 소품이 왜곡되는 fast-motion 시퀀스의 경우, 긴 테이크 대신 짧은 버스트로 생성하세요.  \n연속성을 유지하려면 손이나 오브젝트가 마지막 프레임과 일치하지 않는 Seedance 클립은 다시 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Gemini para travar a character sheet antes de gerar cenas de movimento rápido, já que o movimento acelerado expõe inconsistências.  \nAlimente episódios anteriores no Claude como contexto ao escrever o próximo roteiro para manter a continuidade.  \nNo Seedance 2.0, use image-to-video para manter o rosto do personagem travado durante tomadas em meio ao movimento.  \nPara sequências de movimento rápido em que mãos/props sofrem distorções, gere em rajadas curtas em vez de takes longos.  \nRefaça qualquer clipe do Seedance em que uma mão ou objeto não corresponda ao último frame para manter a continuidade."
+    },
+    "zh": {
+      "content": "在生成快速运动场景之前，先用 Gemini 锁定角色设定表，因为快速动作会暴露不一致之处。  \n在撰写下一集剧本时，将前几集内容作为上下文输入 Claude，以保持连续性。  \n在 Seedance 2.0 中，使用 image-to-video 来在中间运动镜头中保持角色面部锁定。  \n对于手部/道具发生变形的快速运动序列，采用短时段生成，而不是长镜头。  \n如果任何 Seedance 片段中的手或物体与上一帧不一致，就重新生成，以保持连续性。"
+    }
+  }
+}

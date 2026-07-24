@@ -4,7 +4,7 @@
   "content": "Convert your reference footage into a depth map using Depth-Anything on Fal (https://t.co/cYrMeukGtu) and use that depth map as the motion reference in Seedance 2.0 Omni for cleaner, more accurate motion transfer.\n\nCreate separate character and environment reference images from your reference footage and provide both alongside the depth-map motion reference when generating in Seedance 2.0 Omni.\n\nOptionally add extra guidance by generating colorized character masks with Meta’s Segment Anything (https://t.co/4p3Gg3bZeu) and/or skeleton pose guidance (https://t.co/kjFlboPSAC) and layer these on top of the depth map before feeding it into Seedance 2.0 Omni.\n\nFor recreating specific performances or complex movement, prefer the depth-map motion-reference workflow over standard motion transfer, as it consistently yields the cleanest and most accurate results.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079658739838414848/img/YPeCEskZdspgqL45.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2079658739838414848/vid/avc1/1920x1080/ySRFIiVRhouOS9py.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2079660231265824859.mp4",
   "sourceLink": "https://x.com/CuriousRefuge/status/2079660231265824859",
   "sourcePublishedAt": "2026-07-21",
   "author": {

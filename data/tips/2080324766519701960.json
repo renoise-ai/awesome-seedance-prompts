@@ -1,0 +1,43 @@
+{
+  "id": "2080324766519701960",
+  "title": "在原视频下方追加一行提示词即可用豆包免费生成 Seedance 2.0 mini 的视频变体",
+  "content": "在原视频下方追加一行提示词即可用豆包免费生成 Seedance 2.0 mini 的视频变体\n注意检查前方特写镜头的左右一致性，Seedance 生成可能出现驾驶员位置从左变右的穿帮BUG",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080324570150830080/img/aOlEGxxl9ACBhl7x.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080324766519701960.mp4",
+  "sourceLink": "https://x.com/PixelAigc/status/2080324766519701960",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "PixelAIGC",
+    "link": "https://x.com/PixelAigc"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV"
+  ],
+  "tips": "在原视频下方追加一行提示词即可用豆包免费生成 Seedance 2.0 mini 的视频变体\n注意检查前方特写镜头的左右一致性，Seedance 生成可能出现驾驶员位置从左变右的穿帮BUG",
+  "translations": {
+    "en": {
+      "content": "Simply add a line of prompt text below the original video to use Doubao to generate a free Seedance 2.0 mini video variation.\n\nBe sure to check the left-right consistency in the front close-up shot, as Seedance generation may produce a continuity bug where the driver’s position switches from left to right.\n\n--- THREAD CONTINUATION ---\n[Thread 1] This video also has an obvious bug: in the front close-up shot, the driver’s position switches from the left side to the right side."
+    },
+    "es": {
+      "content": "Basta con añadir una línea de prompt debajo del video original para generar gratis con Doubao una variante de video de Seedance 2.0 mini.  \nTen en cuenta revisar la consistencia izquierda-derecha en los primeros planos frontales; la generación de Seedance puede presentar un bug de continuidad en el que la posición del conductor cambia de izquierda a derecha.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Este video también tiene un bug evidente: cuando se hace el primer plano frontal, la posición del conductor cambió del lado izquierdo al derecho."
+    },
+    "fr": {
+      "content": "Il suffit d’ajouter une ligne de prompt sous la vidéo d’origine pour générer gratuitement, avec Doubao, une variante vidéo de Seedance 2.0 mini.  \nAttention à vérifier la cohérence gauche/droite dans les plans rapprochés de face : la génération Seedance peut faire apparaître un bug de continuité, avec la position du conducteur passant de la gauche à la droite.\n\n--- CONTINUATION DU THREAD ---\n[Thread 1] Cette vidéo présente aussi un bug évident : lors du plan rapproché de face, la position du conducteur est passée de la gauche à la droite."
+    },
+    "ja": {
+      "content": "元の動画の下にプロンプトを1行追加するだけで、DoubaoでSeedance 2.0 mini の動画バリエーションを無料生成できます。  \n前方のクローズアップショットでは左右の一貫性に注意してください。Seedance の生成では、運転席の位置が左から右に変わってしまうなどの破綻バグが発生することがあります。\n\n--- THREAD CONTINUATION ---\n[Thread 1] この動画にも明らかなバグがあります。前方のクローズアップ撮影時に、運転手の位置が左側から右側へ変わってしまっています。"
+    },
+    "ko": {
+      "content": "원본 영상 아래에 프롬프트 한 줄만 추가하면 Doubao에서 Seedance 2.0 mini의 영상 변형을 무료로 생성할 수 있습니다.  \n전면 클로즈업 장면의 좌우 일관성을 꼭 확인하세요. Seedance 생성 과정에서 운전자의 위치가 왼쪽에서 오른쪽으로 바뀌는 어색한 버그가 발생할 수 있습니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이 영상에도 눈에 띄는 버그가 하나 있습니다. 전면 클로즈업 촬영 시 운전자의 위치가 왼쪽에서 오른쪽으로 바뀌었습니다."
+    },
+    "pt": {
+      "content": "Basta adicionar uma linha de prompt abaixo do vídeo original para gerar gratuitamente, no Doubao, uma variação de vídeo do Seedance 2.0 mini.\n\nObserve a consistência esquerda-direita nos close-ups frontais; a geração do Seedance pode apresentar um bug de continuidade, fazendo a posição do motorista mudar da esquerda para a direita.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Este vídeo também tem um bug bem evidente: quando a câmera faz o close-up frontal, a posição do motorista mudou da esquerda para a direita."
+    }
+  }
+}
