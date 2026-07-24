@@ -5516,4 +5516,4 @@ Create detailed reference designs (e.g., spacesuit and environment/portal refere
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-07-24T05:04:56.373Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-07-24T06:26:56.602Z
