@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **4359** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **2121** |
-| 🔄 最后更新 | **2026-07-23** |
+| 🔄 最后更新 | **2026-07-24** |
 
 ---
 
@@ -4757,4 +4757,4 @@ Use a detailed “design sheet” prompt (organized grid with turnarounds, props
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-07-23T21:05:50.319Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-07-24T02:46:12.494Z
