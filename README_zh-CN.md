@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **4507** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **2195** |
-| 🔄 最后更新 | **2026-07-26** |
+| 🔄 最后更新 | **2026-07-27** |
 
 ---
 
@@ -5516,4 +5516,4 @@ Create detailed reference designs (e.g., spacesuit and environment/portal refere
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-07-26T20:59:05.506Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-07-27T03:19:13.230Z
