@@ -1,0 +1,42 @@
+{
+  "id": "2080741206762631173",
+  "title": "Use Seedance 2.0’s new Depth Video feature to reference a source video’s depth…",
+  "content": "Use Seedance 2.0’s new Depth Video feature to reference a source video’s depth and motion so you can reproduce the original camera movement and motion flow.  \nWorkflow: prepare a reference video → extract a Depth Video from it → prepare character reference images → input the extracted Depth Video + character reference images into Seedance 2.0 to get results that match the source video’s motion/camerawork.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080740047817699328/img/yQF5Ewaa8ntyJeY_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080741206762631173.mp4",
+  "sourceLink": "https://x.com/by2lGwfvhOkrAV2/status/2080741206762631173",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "Tkool",
+    "link": "https://x.com/by2lGwfvhOkrAV2"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0’s new Depth Video feature to reference a source video’s depth and motion so you can reproduce the original camera movement and motion flow.  \nWorkflow: prepare a reference video → extract a Depth Video from it → prepare character reference images → input the extracted Depth Video + character reference images into Seedance 2.0 to get results that match the source video’s motion/camerawork.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.0’s new Depth Video feature to reference a source video’s depth and motion, so you can reproduce the original camera movement and motion flow.  \nWorkflow: prepare a reference video → extract a Depth Video from it → prepare character reference images → input the extracted Depth Video + character reference images into Seedance 2.0 to get results that match the source video’s motion and camerawork.\n\n--- QUOTED TWEET ---\nAfter extracting the depth video, the effect obtained by video referencing is very good.\n\n1. Prepare the reference video\n2. Extract the depth video\n3. Prepare the character reference images\n4. Input the extracted depth video and character reference images into seedance2, and you will get perfect results\n\nComplete workflow is below:\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/2Hc5yN5DrI\n\n[Thread 2] https://t.co/bJlrzZSv52"
+    },
+    "es": {
+      "content": "Usa la nueva función Depth Video de Seedance 2.0 para tomar como referencia la profundidad y el movimiento de un video fuente, de modo que puedas reproducir el movimiento original de cámara y el flujo de movimiento.  \nFlujo de trabajo: prepara un video de referencia → extrae un Depth Video a partir de él → prepara imágenes de referencia del personaje → introduce el Depth Video extraído + las imágenes de referencia del personaje en Seedance 2.0 para obtener resultados que coincidan con el movimiento y la cámara del video fuente.\n\n--- TUIT CITADO ---\nDespués de extraer el depth video, el efecto obtenido mediante la referencia de video es muy bueno.\n\n1. Prepara el video de referencia\n2. Extrae el depth video\n3. Prepara las imágenes de referencia del personaje\n4. Introduce el depth video extraído y las imágenes de referencia del personaje en seedance2, y obtendrás resultados perfectos\n\nEl flujo de trabajo completo está a continuación:\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/2Hc5yN5DrI\n\n[Hilo 2] https://t.co/bJlrzZSv52"
+    },
+    "fr": {
+      "content": "Utilisez la nouvelle fonctionnalité Depth Video de Seedance 2.0 pour prendre comme référence la profondeur et le mouvement d’une vidéo source, afin de reproduire le mouvement de caméra et le flux de mouvement d’origine.  \nWorkflow : préparez une vidéo de référence → extrayez-en une Depth Video → préparez des images de référence du personnage → importez la Depth Video extraite + les images de référence du personnage dans Seedance 2.0 pour obtenir des résultats qui correspondent au mouvement et à la mise en scène de la vidéo source.\n\n--- TWEET CITÉ ---\nAprès avoir extrait la depth video, l’effet obtenu grâce à la référence vidéo est très bon.\n\n1. Préparez la vidéo de référence\n2. Extrayez la depth video\n3. Préparez les images de référence du personnage\n4. Importez la depth video extraite et les images de référence du personnage dans seedance2, et vous obtiendrez des résultats parfaits\n\nLe workflow complet est ci-dessous :\n\n--- SUITE DU THREAD ---\n[Thread 1] https://t.co/2Hc5yN5DrI\n\n[Thread 2] https://t.co/bJlrzZSv52"
+    },
+    "ko": {
+      "content": "Seedance 2.0의 새로운 Depth Video 기능을 사용해 소스 비디오의 깊이와 모션을 참조하면, 원본 카메라 움직임과 모션 흐름을 재현할 수 있습니다.  \n워크플로: 참조 비디오를 준비 → 그 비디오에서 Depth Video를 추출 → 캐릭터 참조 이미지를 준비 → 추출한 Depth Video + 캐릭터 참조 이미지를 Seedance 2.0에 입력해 소스 비디오의 모션/카메라워크와 일치하는 결과를 얻습니다.\n\n--- 인용된 트윗 ---\nDepth Video를 추출한 뒤, 비디오 레퍼런싱으로 얻은 효과는 매우 좋습니다.\n\n1. 참조 비디오를 준비합니다\n2. Depth Video를 추출합니다\n3. 캐릭터 참조 이미지를 준비합니다\n4. 추출한 Depth Video와 캐릭터 참조 이미지를 seedance2에 입력하면 완벽한 결과를 얻을 수 있습니다\n\n전체 워크플로는 아래와 같습니다:\n\n--- 스레드 계속 ---\n[Thread 1] https://t.co/2Hc5yN5DrI\n\n[Thread 2] https://t.co/bJlrzZSv52"
+    },
+    "pt": {
+      "content": "Use o novo recurso Depth Video do Seedance 2.0 para referenciar a profundidade e o movimento de um vídeo de origem, para que você possa reproduzir o movimento original da câmera e o fluxo de movimento.  \nFluxo de trabalho: prepare um vídeo de referência → extraia um Depth Video dele → prepare imagens de referência dos personagens → insira o Depth Video extraído + as imagens de referência dos personagens no Seedance 2.0 para obter resultados que correspondam ao movimento e à cinematografia do vídeo de origem.\n\n--- TWEET CITADO ---\nDepois de extrair o depth video, o efeito obtido com a referência de vídeo é muito bom.\n\n1. Prepare o vídeo de referência\n2. Extraia o depth video\n3. Prepare as imagens de referência dos personagens\n4. Insira o depth video extraído e as imagens de referência dos personagens no seedance2, e você obterá resultados perfeitos\n\nO fluxo de trabalho completo está abaixo:\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/2Hc5yN5DrI\n\n[Thread 2] https://t.co/bJlrzZSv52\n---"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0 的全新 Depth Video 功能，参考源视频的深度和运动，从而复现原始的镜头运动和动作流。  \n工作流程：准备参考视频 → 从中提取 Depth Video → 准备角色参考图像 → 将提取出的 Depth Video + 角色参考图像输入 Seedance 2.0，即可获得与源视频运动/镜头语言一致的结果。\n\n--- 引用推文 ---\n提取 Depth Video 之后，视频参考得到的效果非常好。\n\n1. 准备参考视频\n2. 提取 Depth Video\n3. 准备角色参考图像\n4. 将提取出的 Depth Video 和角色参考图像输入 seedance2，就能得到完美结果\n\n完整工作流程如下：\n\n--- 线程续篇 ---\n[Thread 1] https://t.co/2Hc5yN5DrI\n\n[Thread 2] https://t.co/bJlrzZSv52"
+    }
+  }
+}

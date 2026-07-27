@@ -1,0 +1,43 @@
+{
+  "id": "2080661895733027137",
+  "title": "1枚の画像からスポーツカーを3Dオブジェクト化し、Three.jsで複数のカメラアングルのカット素材を生成してから、#Topview の Seedance…",
+  "content": "1枚の画像からスポーツカーを3Dオブジェクト化し、Three.jsで複数のカメラアングルのカット素材を生成してから、#Topview の Seedance 2.0 に投入して画質劣化なしで長尺映像にする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080660567287865344/img/_z0j4w3nKMI9vF87.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080661895733027137.mp4",
+  "sourceLink": "https://x.com/old_pgmrs_will/status/2080661895733027137",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "いにしえ@AI Director / Creator / Engineer｜Will Oldgram",
+    "link": "https://x.com/old_pgmrs_will"
+  },
+  "tags": [
+    "Auto",
+    "Supercar",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "1枚の画像からスポーツカーを3Dオブジェクト化し、Three.jsで複数のカメラアングルのカット素材を生成してから、#Topview の Seedance 2.0 に投入して画質劣化なしで長尺映像にする",
+  "translations": {
+    "en": {
+      "content": "Turn a sports car from a single image into a 3D object, generate cut素材 from multiple camera angles in Three.js, then feed it into #Topview’s Seedance 2.0 to turn it into a long-form video without any loss in image quality\n\n--- QUOTED TWEET ---\nBlender MCP is a great technology too, but I’m concerned about token consumption, so for now, at the modeling level, I tried building an “Image-to-3D” app with Kimi-K3 that generates a 3D model (GLB file) from an image\nAt first, with Fable5 + Opus4.8, even using up the entire 5-hour window I couldn’t get the accuracy I wanted, but Kimi-K3 proposed a completely different approach and I was able to finish it, including the viewer feature, using only 27% of the 5-hour window... ☺️\n\nAs for the magical-girl-figure-looking thing in the latter half, when I had it extract textures from the image it ended up looking splattery, but it can also generate a version without textures, so that worked out fine\n---"
+    },
+    "es": {
+      "content": "Convertir un coche deportivo en un objeto 3D a partir de una sola imagen, generar material de corte con múltiples ángulos de cámara en Three.js y luego introducirlo en #Topview de Seedance 2.0 para convertirlo en un video de larga duración sin degradación de calidad\n\n--- TWEET CITADO ---\nBlender MCP también es una tecnología interesante, pero me preocupa el consumo de tokens, así que, por ahora, para el nivel de modelado, probé a crear con Kimi-K3 una app de “Image-to-3D” que genera modelos 3D (archivos GLB) a partir de imágenes.\nAl principio, con Fable5 + Opus4.8, ni siquiera agotando el límite de 5h pude conseguir suficiente precisión, pero Kimi-K3 propuso un enfoque completamente distinto y logró terminarlo, incluyendo la función de visor, usando solo el 27% del límite de 5h... ☺️\n\nPor cierto, la figura tipo magical girl de la segunda mitad acabó con un aspecto algo “splatter” cuando le hice extraer la textura desde la imagen, pero también puede generar una versión sin texturas sin problema."
+    },
+    "fr": {
+      "content": "Transformer un sportscar en objet 3D à partir d’une seule image, générer des plans multi-angles de caméra dans Three.js, puis les injecter dans #Topview Seedance 2.0 pour en faire une vidéo longue sans dégradation de la qualité\n\n--- TWEET CITÉ ---\nBlender MCP est aussi une bonne technologie, mais comme la consommation de tokens m’inquiète, j’ai d’abord essayé de créer avec Kimi-K3 une application « Image-to-3D » qui génère un modèle 3D (fichier GLB) à partir d’une image, au niveau du simple modeling.\nAu départ, avec Fable5 + Opus4.8, même en utilisant tout le créneau de 5 h, je n’arrivais pas à obtenir une précision satisfaisante ; Kimi-K3 a proposé une approche totalement différente et a tout terminé, y compris la fonction de viewer, en n’utilisant que 27 % du créneau de 5 h... ☺️\n\nAu passage, le truc de la seconde moitié qui ressemble à une figurine de magical girl a fini par avoir un rendu un peu « splatter » quand j’ai fait extraire les textures à partir de l’image, mais il est aussi possible de générer simplement une version sans textures."
+    },
+    "ko": {
+      "content": "1장의 이미지에서 스포츠카를 3D 오브젝트로 변환하고, Three.js로 여러 카메라 앵글의 컷 소재를 생성한 다음, #Topview의 Seedance 2.0에 넣어 화질 저하 없이 장편 영상으로 만든다\n\n--- QUOTED TWEET ---\nBlender MCP도 좋은 기술이지만 토큰 소모량이 신경 쓰여서, 일단 모델링 수준이라면 이미지에서 3D 모델(GLB 파일)을 생성하는 “Image-to-3D” 앱을 Kimi-K3로 만들어 봤다\n당초 Fable5 + Opus4.8로는 5시간 분량을 다 써도 정확도가 나오지 않았는데, Kimi-K3는 전혀 다른 접근을 제안해 와서 5시간 분량의 27%만 사용해 뷰어 기능까지 포함해 완성해 버렸다... ☺️\n\n덧붙여 후반의 마법소녀 피규어 같은 것은 이미지에서 텍스처를 추출하게 했더니 스플래터 같은 느낌이 되어 버렸지만, 일반적으로는 텍스처 없는 버전도 생성할 수 있었다\n---"
+    },
+    "pt": {
+      "content": "Transformar um carro esportivo em um objeto 3D a partir de uma única imagem, gerar materiais de corte com vários ângulos de câmera no Three.js e depois enviar para o #Topview do Seedance 2.0 para transformá-lo em um vídeo longo sem perda de qualidade\n\n--- TWEET CITADO ---\nO Blender MCP também é uma tecnologia interessante, mas como o consumo de tokens me preocupa, por enquanto, para o nível de modelagem, criei com o Kimi-K3 um app de “Image-to-3D” que gera um modelo 3D (arquivo GLB) a partir de uma imagem\nNo início, com Fable5 + Opus4.8, mesmo usando toda a janela de 5h, não consegui obter precisão suficiente, mas o Kimi-K3 propôs uma abordagem totalmente diferente e entregou tudo, incluindo a função de visualização, em apenas 27% da janela de 5h... ☺️\n\nAliás, a parte final que parece uma figure de garota mágica acabou ficando com um ar meio splatter quando extraí a textura da imagem, mas ele também consegue gerar normalmente uma versão sem textura\n---"
+    },
+    "zh": {
+      "content": "将一张图片中的跑车3D化，先用 Three.js 生成多个摄像机角度的镜头素材，再投入 #Topview 的 Seedance 2.0 中，在不损失画质的情况下制作成长视频\n\n--- QUOTED TWEET ---\nBlender MCP 也是很不错的技术，但我比较在意 token 消耗，所以先从建模层面入手，用 Kimi-K3 做了一个从图片生成 3D 模型（GLB 文件）的「Image-to-3D」应用。\n起初用 Fable5 + Opus4.8 即使把 5 小时额度用完也做不出理想精度，但 Kimi-K3 提出了完全不同的方法，结果只用了 5 小时额度的 27% 就连带查看器功能一起做完了……☺️\n\n另外，后半段那个看起来像魔法少女手办的东西，如果让它从图片中提取纹理，结果会变成有点喷溅感的效果；不过也可以正常生成无纹理版本。\n---"
+    }
+  }
+}

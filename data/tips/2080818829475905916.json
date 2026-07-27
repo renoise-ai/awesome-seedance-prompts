@@ -1,0 +1,41 @@
+{
+  "id": "2080818829475905916",
+  "title": "Use the provided image as the visual starting point and preserve the same…",
+  "content": "Use the provided image as the visual starting point and preserve the same characters, costumes, puppet design, corridor setting, props, and overall look to maintain consistency in Seedance 2.0 & GPT Image 2.0 outputs",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080817912634617856/img/syoeYSeGXSUrRrVq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080818829475905916.mp4",
+  "sourceLink": "https://x.com/BrentLynch/status/2080818829475905916",
+  "sourcePublishedAt": "2026-07-25",
+  "author": {
+    "name": "Brent Lynch",
+    "link": "https://x.com/BrentLynch"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "Use the provided image as the visual starting point and preserve the same characters, costumes, puppet design, corridor setting, props, and overall look to maintain consistency in Seedance 2.0 & GPT Image 2.0 outputs",
+  "translations": {
+    "es": {
+      "content": "Usa la imagen proporcionada como punto de partida visual y conserva los mismos personajes, vestuario, diseño de marionetas, escenario de pasillo, accesorios y aspecto general para mantener la coherencia en las salidas de Seedance 2.0 y GPT Image 2.0."
+    },
+    "fr": {
+      "content": "Utilisez l’image fournie comme point de départ visuel et conservez les mêmes personnages, costumes, design de marionnette, décor de couloir, accessoires et apparence générale afin de maintenir la cohérence dans les rendus Seedance 2.0 et GPT Image 2.0."
+    },
+    "ja": {
+      "content": "提供された画像をビジュアルの出発点として使用し、同じキャラクター、衣装、パペットのデザイン、廊下の設定、小道具、全体的な見た目を維持して、Seedance 2.0 と GPT Image 2.0 の出力に一貫性を持たせてください"
+    },
+    "ko": {
+      "content": "제공된 이미지를 시각적 시작점으로 사용하고, Seedance 2.0 및 GPT Image 2.0 출력의 일관성을 유지하기 위해 동일한 캐릭터, 의상, 퍼펫 디자인, 복도 배경, 소품, 그리고 전체적인 분위기를 그대로 보존하세요."
+    },
+    "pt": {
+      "content": "Use a imagem fornecida como ponto de partida visual e preserve os mesmos personagens, figurinos, design de marionete, cenário de corredor, adereços e aparência geral para manter a consistência nas saídas do Seedance 2.0 e do GPT Image 2.0"
+    },
+    "zh": {
+      "content": "使用提供的图像作为视觉起点，并保留相同的角色、服装、木偶设计、走廊场景、道具和整体风格，以保持 Seedance 2.0 和 GPT Image 2.0 输出的一致性"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2081158398029214200",
+  "title": "背景（例：ハバナ）を先に決めてからSeedance制作を開始する",
+  "content": "背景（例：ハバナ）を先に決めてからSeedance制作を開始する  \n絵コンテを作って各カットの内容と流れを固めてからSeedanceで生成する  \nキャラクターシートを作成して登場人物のデザインを固定してからSeedanceに反映する  \ndepth mapを作成して奥行き情報を用意し、Seedanceの生成に使う  \n背景決定→絵コンテ→キャラクターシート→depth map作成の順で準備し、最後にSeedanceで動画生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081156546617278464/img/vImUwerS1p54D0P8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081158398029214200.mp4",
+  "sourceLink": "https://x.com/ponzponz15/status/2081158398029214200",
+  "sourcePublishedAt": "2026-07-25",
+  "author": {
+    "name": "ぽんず | AI映像",
+    "link": "https://x.com/ponzponz15"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "背景（例：ハバナ）を先に決めてからSeedance制作を開始する  \n絵コンテを作って各カットの内容と流れを固めてからSeedanceで生成する  \nキャラクターシートを作成して登場人物のデザインを固定してからSeedanceに反映する  \ndepth mapを作成して奥行き情報を用意し、Seedanceの生成に使う  \n背景決定→絵コンテ→キャラクターシート→depth map作成の順で準備し、最後にSeedanceで動画生成する",
+  "translations": {
+    "en": {
+      "content": "Decide on the background first (e.g., Havana), then begin production in Seedance.  \nCreate a storyboard and define the content and flow of each shot before generating in Seedance.  \nCreate character sheets to lock in the character designs, then reflect them in Seedance.  \nCreate a depth map to prepare depth information and use it for generation in Seedance.  \nPrepare in the order of background selection → storyboard → character sheets → depth map creation, and finally generate the video in Seedance."
+    },
+    "es": {
+      "content": "Primero se decide el fondo (por ejemplo, La Habana) y luego se inicia la producción en Seedance.  \nSe crea un storyboard y, una vez definidos el contenido y la secuencia de cada plano, se genera en Seedance.  \nSe elabora una character sheet para fijar el diseño de los personajes y luego se aplica en Seedance.  \nSe crea un depth map para preparar la información de profundidad y usarla en la generación de Seedance.  \nSe sigue el orden de preparación: decisión del fondo → storyboard → character sheet → creación del depth map, y al final se genera el video en Seedance."
+    },
+    "fr": {
+      "content": "Définir d’abord le décor (par exemple : La Havane), puis commencer la production avec Seedance  \nCréer un storyboard et fixer le contenu ainsi que le déroulé de chaque plan avant de générer avec Seedance  \nCréer une character sheet pour figer le design des personnages, puis l’intégrer dans Seedance  \nCréer une depth map pour préparer les informations de profondeur et l’utiliser dans la génération Seedance  \nPréparer les éléments dans l’ordre suivant : choix du décor → storyboard → character sheet → création de la depth map, puis générer la vidéo avec Seedance"
+    },
+    "ko": {
+      "content": "배경(예: 하바나)을 먼저 정한 뒤 Seedance 제작을 시작한다  \n스토리보드를 만들어 각 컷의 내용과 흐름을 확정한 뒤 Seedance로 생성한다  \n캐릭터 시트를 작성해 등장인물의 디자인을 고정한 뒤 Seedance에 반영한다  \ndepth map을 만들어 깊이 정보를 준비하고, Seedance 생성에 활용한다  \n배경 결정→스토리보드→캐릭터 시트→depth map 작성 순으로 준비한 뒤, 마지막에 Seedance로 영상 생성한다"
+    },
+    "pt": {
+      "content": "Defina primeiro o cenário de fundo (ex.: Havana) e só então inicie a produção no Seedance  \nCrie um storyboard e, depois de definir o conteúdo e o fluxo de cada cena, gere no Seedance  \nCrie uma character sheet para fixar o design dos personagens e então aplique isso no Seedance  \nCrie um depth map para preparar as informações de profundidade e usá-las na geração do Seedance  \nPrepare na ordem: definição do fundo → storyboard → character sheet → criação do depth map; por fim, gere o vídeo no Seedance"
+    },
+    "zh": {
+      "content": "先先确定背景（例如：哈瓦那），再开始进行 Seedance 制作  \n先制作分镜，明确每个镜头的内容和衔接，再用 Seedance 生成  \n先制作角色设定表，固定登场人物的设计，再反映到 Seedance 中  \n制作 depth map，准备好景深信息，并用于 Seedance 的生成  \n按“背景确定 → 分镜 → 角色设定表 → depth map 制作”的顺序完成准备，最后用 Seedance 生成视频"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2081476358773887423",
+  "title": "When prompting Seedance 2.0 for scenes with complex 3D physics (fog behavior…",
+  "content": "When prompting Seedance 2.0 for scenes with complex 3D physics (fog behavior, elevation changes, realistic lighting), use a model that demonstrates strong 3D/spatial understanding (e.g., Opus 5) rather than relying on prompts that only “read well” (e.g., Fable 5 may break simulation).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081476280298487808/img/IJSUv8-WeUg9QnJ9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081476358773887423.mp4",
+  "sourceLink": "https://x.com/Pixel_Neuron/status/2081476358773887423",
+  "sourcePublishedAt": "2026-07-26",
+  "author": {
+    "name": "Pixel",
+    "link": "https://x.com/Pixel_Neuron"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "When prompting Seedance 2.0 for scenes with complex 3D physics (fog behavior, elevation changes, realistic lighting), use a model that demonstrates strong 3D/spatial understanding (e.g., Opus 5) rather than relying on prompts that only “read well” (e.g., Fable 5 may break simulation).",
+  "translations": {
+    "es": {
+      "content": "Cuando hagas prompts para Seedance 2.0 en escenas con física 3D compleja (comportamiento de la niebla, cambios de elevación, iluminación realista), usa un modelo que demuestre una sólida comprensión 3D/espacial (por ejemplo, Opus 5) en lugar de depender de prompts que solo “se leen bien” (por ejemplo, Fable 5 puede romper la simulación)."
+    },
+    "fr": {
+      "content": "Lorsque vous rédigez un prompt pour Seedance 2.0 concernant des scènes avec une physique 3D complexe (comportement du brouillard, variations d’altitude, éclairage réaliste), utilisez un modèle qui démontre une forte compréhension 3D/spatiale (par exemple, Opus 5) plutôt que de vous fier à des prompts qui « se lisent bien » uniquement (par exemple, Fable 5 peut casser la simulation)."
+    },
+    "ja": {
+      "content": "複雑な3D物理（霧の挙動、高低差の変化、リアルなライティング）を含むシーンでSeedance 2.0にpromptする際は、単に「読みやすい」promptに頼るのではなく、3D／空間理解に優れたモデル（例：Opus 5）を使用してください（例：Fable 5ではシミュレーションが破綻する可能性があります）。"
+    },
+    "ko": {
+      "content": "복잡한 3D 물리(안개 거동, 고도 변화, 사실적인 조명)가 포함된 장면에 대해 Seedance 2.0에 prompt할 때는, 단순히 “읽기 좋은” prompt에만 의존하기보다 강한 3D/공간 이해를 보여주는 모델(예: Opus 5)을 사용하세요(예: Fable 5는 시뮬레이션을 깨뜨릴 수 있음)."
+    },
+    "pt": {
+      "content": "Ao criar prompts para o Seedance 2.0 em cenas com física 3D complexa (comportamento da névoa, variações de elevação, iluminação realista), use um modelo que demonstre forte compreensão 3D/espacial (por exemplo, Opus 5) em vez de depender de prompts que apenas “soam bem” (por exemplo, Fable 5 pode comprometer a simulação)."
+    },
+    "zh": {
+      "content": "在为包含复杂 3D 物理效果（雾气行为、海拔变化、真实光照）的场景提示 Seedance 2.0 时，请使用具备强 3D/空间理解能力的模型（例如 Opus 5），而不要依赖那些只是“读起来不错”的 prompt（例如 Fable 5 可能会破坏模拟效果）。"
+    }
+  }
+}

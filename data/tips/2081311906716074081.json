@@ -1,0 +1,42 @@
+{
+  "id": "2081311906716074081",
+  "title": "Use Seedance 2.0 to generate a 15-second THEME PARK DATE VLOG by specifying the…",
+  "content": "Use Seedance 2.0 to generate a 15-second THEME PARK DATE VLOG by specifying the format and duration in the prompt (e.g., THEME PARK DATE VLOG — 15sec) and defining the subjects (e.g., A Korean couple in their early 20s) with a reference link.",
+  "language": "ko",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081308574723321857/img/xcMZeOvOhEYOTjHF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081311906716074081.mp4",
+  "sourceLink": "https://x.com/magic_ai_skill/status/2081311906716074081",
+  "sourcePublishedAt": "2026-07-26",
+  "author": {
+    "name": "MagicAI",
+    "link": "https://x.com/magic_ai_skill"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 to generate a 15-second THEME PARK DATE VLOG by specifying the format and duration in the prompt (e.g., THEME PARK DATE VLOG — 15sec) and defining the subjects (e.g., A Korean couple in their early 20s) with a reference link.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.0 to generate a 15-second THEME PARK DATE VLOG by specifying the format and duration in the prompt (e.g., THEME PARK DATE VLOG — 15sec) and defining the subjects (e.g., A Korean couple in their early 20s) with a reference link."
+    },
+    "es": {
+      "content": "Usa Seedance 2.0 para generar un vlog de cita en un parque temático de 15 segundos especificando el formato y la duración en el prompt (por ejemplo, THEME PARK DATE VLOG — 15sec) y definiendo a los sujetos (por ejemplo, A Korean couple in their early 20s) con un enlace de referencia."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 pour générer un vlog de rendez-vous au parc d’attractions de 15 secondes en précisant le format et la durée dans le prompt (par exemple, THEME PARK DATE VLOG — 15sec) et en définissant les sujets (par exemple, A Korean couple in their early 20s) avec un lien de référence."
+    },
+    "ja": {
+      "content": "Seedance 2.0を使って、プロンプト内でフォーマットと尺を指定し（例：THEME PARK DATE VLOG — 15sec）、被写体（例：20代前半の韓国人カップル）を参考リンクとともに定義することで、15秒のTHEME PARK DATE VLOGを生成します。"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 para gerar um VLOG DE ENCONTRO EM PARQUE DE DIVERSÕES de 15 segundos, especificando o formato e a duração no prompt (por exemplo, THEME PARK DATE VLOG — 15sec) e definindo os sujeitos (por exemplo, A Korean couple in their early 20s) com um link de referência."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.0 生成一段 15 秒的主题公园约会 vlog，只需在 prompt 中指定格式和时长（例如：THEME PARK DATE VLOG — 15sec），并通过参考链接定义主体（例如：一对 20 岁出头的韩国情侣）。"
+    }
+  }
+}

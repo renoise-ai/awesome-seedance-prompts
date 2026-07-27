@@ -1,0 +1,42 @@
+{
+  "id": "2080625166896508991",
+  "title": "Midで作成した画像をSeedanceに入れてキャラシート（キャラクターシート）を作成し、そのキャラシート動画をリファレンスとして使う",
+  "content": "Midで作成した画像をSeedanceに入れてキャラシート（キャラクターシート）を作成し、そのキャラシート動画をリファレンスとして使う  \nフォトリアルな背景も別途用意してリファレンスに追加し、背景＋キャラシート動画の複数リファレンスでMVを生成する  \nGPT image2のキャラクター画像をリファレンスに使わず、Mid由来の画像／キャラシートをリファレンスにするとGPTっぽいキャラ感を薄めつつMidの質感を残せる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080624965842518016/img/fMMsuCjrcz-7ihrE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080625166896508991.mp4",
+  "sourceLink": "https://x.com/MiraMusic_AI/status/2080625166896508991",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "MiraMusic",
+    "link": "https://x.com/MiraMusic_AI"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Midで作成した画像をSeedanceに入れてキャラシート（キャラクターシート）を作成し、そのキャラシート動画をリファレンスとして使う  \nフォトリアルな背景も別途用意してリファレンスに追加し、背景＋キャラシート動画の複数リファレンスでMVを生成する  \nGPT image2のキャラクター画像をリファレンスに使わず、Mid由来の画像／キャラシートをリファレンスにするとGPTっぽいキャラ感を薄めつつMidの質感を残せる",
+  "translations": {
+    "en": {
+      "content": "Use images created in Mid and feed them into Seedance to create a character sheet, then use that character sheet video as a reference.  \nAlso prepare photorealistic backgrounds separately and add them as references, then generate the MV using multiple references: the background plus the character sheet video.  \nBy not using GPT image2 character images as references and instead using Mid-derived images/character sheets as references, you can reduce the “GPT-like” character feel while preserving Mid’s texture."
+    },
+    "es": {
+      "content": "Usa las imágenes creadas en Mid y súbelas a Seedance para crear una character sheet (hoja de personaje), y luego utiliza ese video de la character sheet como referencia.  \nPrepara por separado también un fondo fotorrealista y añádelo como referencia; así, puedes generar el MV usando múltiples referencias: el fondo + el video de la character sheet.  \nSi no usas como referencia las imágenes de personajes de GPT image2, sino imágenes/character sheets derivadas de Mid, puedes reducir la sensación de “personaje estilo GPT” y, al mismo tiempo, conservar la textura propia de Mid."
+    },
+    "fr": {
+      "content": "Utiliser les images créées avec Mid dans Seedance pour créer une character sheet (fiche de personnage), puis utiliser la vidéo de cette character sheet comme référence.  \nPréparer séparément un fond photoréaliste et l’ajouter aussi comme référence, puis générer le MV avec plusieurs références : le fond + la vidéo de la character sheet.  \nAu lieu d’utiliser comme référence les images de personnage de GPT image2, utiliser des images / character sheets issues de Mid comme références permet d’atténuer l’aspect « GPT » du personnage tout en conservant la texture propre à Mid."
+    },
+    "ko": {
+      "content": "Mid에서 만든 이미지를 Seedance에 넣어 캐릭터 시트(캐릭터 시트)를 제작하고, 그 캐릭터 시트 영상을 reference로 사용한다  \n포토리얼한 배경도 별도로 준비해 reference에 추가한 뒤, 배경 + 캐릭터 시트 영상의 복수 reference로 MV를 생성한다  \nGPT image2의 캐릭터 이미지를 reference로 쓰지 않고, Mid 유래의 이미지/캐릭터 시트를 reference로 사용하면 GPT 같은 캐릭터 느낌을 줄이면서 Mid 특유의 질감을 살릴 수 있다"
+    },
+    "pt": {
+      "content": "Use as referências as imagens criadas no Mid e inseridas no Seedance para criar uma character sheet (キャラクターシート), e use o vídeo dessa character sheet como referência.  \nPrepare também separadamente um background fotorrealista e adicione-o às referências; assim, gere o MV com múltiplas referências, combinando background + vídeo da character sheet.  \nEm vez de usar as imagens de personagem do GPT image2 como referência, usar imagens/character sheet derivadas do Mid como referência ajuda a suavizar a aparência “com cara de GPT” do personagem, preservando ao mesmo tempo a textura característica do Mid."
+    },
+    "zh": {
+      "content": "将 Mid 中制作的图像导入 Seedance，制作角色设定图（character sheet），并将该角色设定图视频作为参考使用。  \n另外单独准备写实风格的背景并添加到参考中，使用“背景 + 角色设定图视频”的多个参考来生成 MV。  \n不要把 GPT image2 的角色图像作为参考，而是使用源自 Mid 的图像／角色设定图作为参考，这样可以在减弱 GPT 风格角色感的同时保留 Mid 的质感。"
+    }
+  }
+}

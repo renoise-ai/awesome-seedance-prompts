@@ -1,0 +1,42 @@
+{
+  "id": "2080645658785268118",
+  "title": "Use prompts that explicitly specify an automatic handheld camera style with…",
+  "content": "Use prompts that explicitly specify an automatic handheld camera style with snap zooms to mimic a FLUX-like look in Seedance.  \nSpecify the lens focal length in your prompt (e.g., 16mm or 35mm) based on the scene you’re making.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080645351984484352/img/3bJP1boCvp3OzYpA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080645658785268118.mp4",
+  "sourceLink": "https://x.com/RealBoon22/status/2080645658785268118",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "S.Oliver",
+    "link": "https://x.com/RealBoon22"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use prompts that explicitly specify an automatic handheld camera style with snap zooms to mimic a FLUX-like look in Seedance.  \nSpecify the lens focal length in your prompt (e.g., 16mm or 35mm) based on the scene you’re making.",
+  "translations": {
+    "es": {
+      "content": "Usa prompts que especifiquen explícitamente un estilo de cámara en mano automática con snap zooms para imitar un look tipo FLUX en Seedance.  \nEspecifica la distancia focal del lente en tu prompt (por ejemplo, 16mm o 35mm) según la escena que estés creando.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] No se trata de qué A.I. se use; puedes hacer que cualquiera se vea como otro si usas los prompts correctos. Flux es una cámara en mano automática con snap zooms y, según la escena que estés creando, usa 16mm o 35mm.. 😎🫶 ahora ya lo sabes\n---"
+    },
+    "fr": {
+      "content": "Utilisez des prompts qui spécifient explicitement un style de caméra à main automatique avec des snap zooms afin de reproduire un rendu de type FLUX dans Seedance.  \nPrécisez la longueur focale de l’objectif dans votre prompt (par exemple, 16 mm ou 35 mm) en fonction de la scène que vous créez.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] Ce n’est pas une question de quelle A.I est utilisée ; vous pouvez faire ressembler n’importe qui à quelqu’un d’autre si vous utilisez les bons prompts. Flux, c’est une caméra à main automatique avec des snap zooms et soit du 16 mm soit du 35 mm selon la scène que vous créez.. 😎🫶 maintenant vous savez"
+    },
+    "ja": {
+      "content": "SeedanceでFLUXのような見た目を再現するには、スナップズームを伴う自動ハンドヘルドカメラスタイルを明示的に指定した prompt を使ってください。  \nまた、作成するシーンに応じて、prompt 内でレンズの焦点距離（例: 16mm や 35mm）を指定してください。\n\n--- THREAD CONTINUATION ---\n[Thread 1] どの A.I を使うかは問題じゃない。適切な prompts を使えば、誰でも別の人物のように見せることができる。flux はスナップズーム付きの自動ハンドカムで、シーンに応じて 16mm か 35mm を使うんだ.. 😎🫶 これでわかったね"
+    },
+    "ko": {
+      "content": "Seedance에서 FLUX 같은 느낌을 재현하려면, 자동 핸드헬드 카메라 스타일에 snap zooms를 명시적으로 지정하는 prompt를 사용하세요.  \n만들고 있는 장면에 따라 prompt에 렌즈 초점 거리도 지정하세요(예: 16mm 또는 35mm).\n\n--- THREAD CONTINUATION ---\n[Thread 1] 어떤 A.I를 쓰느냐가 중요한 게 아닙니다. 올바른 prompts를 사용하면 누구든 다른 사람처럼 보이게 만들 수 있어요. flux는 자동 핸드캠에 snap zooms를 쓰고, 장면에 따라 16mm 또는 35mm를 사용합니다.. 😎🫶 이제 아시겠죠\n---"
+    },
+    "pt": {
+      "content": "Use prompts que especifiquem explicitamente um estilo de câmera handheld automática com snap zooms para reproduzir um visual semelhante ao FLUX no Seedance.  \nEspecifique a distância focal da lente no seu prompt (por exemplo, 16mm ou 35mm) com base na cena que você está criando.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Não importa qual A.I. é usada; você pode fazer qualquer pessoa parecer outra se usar os prompts certos. Flux é uma câmera handheld automática com snap zooms e, dependendo da cena que você está criando, usa 16mm ou 35mm.. 😎🫶 agora você sabe\n---"
+    },
+    "zh": {
+      "content": "使用明确指定自动手持摄影风格并带有 snap zooms 的 prompts，以在 Seedance 中模拟类似 FLUX 的效果。  \n根据你要制作的场景，在 prompt 中指定镜头焦距（例如 16mm 或 35mm）。\n\n--- 线程续写 ---\n[Thread 1] 关键不在于用了什么 A.I，只要用对 prompts，你就能让任何人看起来像另一个人。flux 是一种自动手持摄影，带有 snap zooms，并且根据你制作的场景使用 16mm 或 35mm……😎🫶 现在你知道了\n---"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2080615795604828542",
+  "title": "Record your own vocal of an out‑of‑copyright folk song and use it as a…",
+  "content": "Record your own vocal of an out‑of‑copyright folk song and use it as a reference in Suno to generate the music track, then animate the resulting ad visuals in Seedance 2.0 using reference images you built with image models (e.g., GPT 2, nano banana).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080613821161377792/img/Ppx7mZEI4MDhsrmZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080615795604828542.mp4",
+  "sourceLink": "https://x.com/Uncanny_Harry/status/2080615795604828542",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "Uncanny Harry AI",
+    "link": "https://x.com/Uncanny_Harry"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Record your own vocal of an out‑of‑copyright folk song and use it as a reference in Suno to generate the music track, then animate the resulting ad visuals in Seedance 2.0 using reference images you built with image models (e.g., GPT 2, nano banana).",
+  "translations": {
+    "es": {
+      "content": "Graba tu propia voz interpretando una canción folk libre de derechos de autor y úsala como referencia en Suno para generar la pista musical; luego anima los visuales publicitarios resultantes en Seedance 2.0 usando imágenes de referencia que hayas creado con modelos de imagen (p. ej., GPT 2, nano banana)."
+    },
+    "fr": {
+      "content": "Enregistrez votre propre interprétation vocale d’une chanson folk libre de droits et utilisez-la comme référence dans Suno pour générer la piste musicale, puis animez les visuels publicitaires obtenus dans Seedance 2.0 en utilisant des images de référence que vous avez créées avec des modèles d’image (par ex. GPT 2, nano banana)."
+    },
+    "ja": {
+      "content": "著作権の切れた民謡を自分で歌って録音し、その音声をSunoで参照として使って音楽トラックを生成します。次に、画像モデル（例: GPT 2、nano banana）で作成した参照画像を使い、Seedance 2.0で生成された広告ビジュアルをアニメーション化します。"
+    },
+    "ko": {
+      "content": "저작권이 만료된 민요를 직접 녹음한 보컬을 Suno에서 레퍼런스로 사용해 음악 트랙을 생성한 다음, 이미지 모델(예: GPT 2, nano banana)로 만든 레퍼런스 이미지를 활용해 Seedance 2.0에서 생성된 광고 비주얼에 애니메이션을 적용하세요."
+    },
+    "pt": {
+      "content": "Grave sua própria voz cantando uma canção folclórica em domínio público e use-a como referência no Suno para gerar a faixa musical; depois, anime os visuais do anúncio resultantes no Seedance 2.0 usando imagens de referência que você criou com modelos de imagem (por exemplo, GPT 2, nano banana)."
+    },
+    "zh": {
+      "content": "录制一段你自己演唱的、已不受版权保护的民歌，并将其作为参考导入 Suno 以生成音乐轨道，然后在 Seedance 2.0 中使用你通过图像模型（例如 GPT 2、nano banana）制作的参考图像，为生成的广告视觉内容添加动画。"
+    }
+  }
+}

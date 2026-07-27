@@ -1,0 +1,40 @@
+{
+  "id": "2080774924054991075",
+  "title": "Generate a continuous 15-second live-action mythological fantasy film sequence…",
+  "content": "Generate a continuous 15-second live-action mythological fantasy film sequence in the style of a dark cinematic Greek epic. Maintain ultra-realistic",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080774543996588033/img/5hEiyAe8WGe2ofYy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080774924054991075.mp4",
+  "sourceLink": "https://x.com/GumVue/status/2080774924054991075",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "Gumvue Studio",
+    "link": "https://x.com/GumVue"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Fantasy"
+  ],
+  "translations": {
+    "es": {
+      "content": "Genera una secuencia continua de 15 segundos de una película de fantasía mitológica en acción real, al estilo de una épica griega cinematográfica oscura. Mantén un nivel ultra realista"
+    },
+    "fr": {
+      "content": "Générez une séquence continue de 15 secondes en live-action d’un film de fantasy mythologique, dans le style d’une épopée grecque cinématographique sombre. Maintenez un rendu ultra-réaliste"
+    },
+    "ja": {
+      "content": "ダークでシネマティックなギリシャ叙事詩のスタイルで、15秒間の連続した実写の神話ファンタジー映像シーケンスを生成してください。超リアルな質感を維持し、"
+    },
+    "ko": {
+      "content": "어두운 cinematic한 그리스 서사시 스타일로, 15초 길이의 연속적인 live-action 신화 판타지 영화 시퀀스를 생성하세요. ultra-realistic한 느낌을 유지하세요."
+    },
+    "pt": {
+      "content": "Gere uma sequência contínua de filme de fantasia mitológica em live-action de 15 segundos, no estilo de uma épica grega sombria e cinematográfica. Mantenha ultra-realista"
+    },
+    "zh": {
+      "content": "生成一段连续的 15 秒实拍神话奇幻电影序列，风格为黑暗 cinematic 的希腊史诗。保持超写实。"
+    }
+  }
+}

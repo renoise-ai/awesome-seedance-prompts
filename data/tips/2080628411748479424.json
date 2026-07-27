@@ -1,0 +1,43 @@
+{
+  "id": "2080628411748479424",
+  "title": "원본 광고 영상을 Seedance로 재현할 때 모션은 Depth Map을 활용한 방식(Depth Map 응용법)으로 카메라/피사체 움직임을…",
+  "content": "원본 광고 영상을 Seedance로 재현할 때 모션은 Depth Map을 활용한 방식(Depth Map 응용법)으로 카메라/피사체 움직임을 제어한다  \n배경/장면 전환을 맞추려면 원본 영상의 각 컷 전환마다 첫 프레임과 마지막 프레임을 추출해 Seedance에 레퍼런스 프레임으로 사용한다",
+  "language": "ko",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080626591261192192/img/zarP6KY3gdOCxNah.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080628411748479424.mp4",
+  "sourceLink": "https://x.com/VibeEverything/status/2080628411748479424",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "LOOPY",
+    "link": "https://x.com/VibeEverything"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "원본 광고 영상을 Seedance로 재현할 때 모션은 Depth Map을 활용한 방식(Depth Map 응용법)으로 카메라/피사체 움직임을 제어한다  \n배경/장면 전환을 맞추려면 원본 영상의 각 컷 전환마다 첫 프레임과 마지막 프레임을 추출해 Seedance에 레퍼런스 프레임으로 사용한다",
+  "translations": {
+    "en": {
+      "content": "When recreating the original ad video with Seedance, control the camera/subject motion using a method that leverages a Depth Map (a Depth Map application technique).  \nTo match the background/scene transitions, extract the first and last frames from each cut transition in the original video and use them as reference frames in Seedance."
+    },
+    "es": {
+      "content": "Al recrear un video publicitario original con Seedance, el movimiento se controla mediante un enfoque que utiliza Depth Map (aplicación de Depth Map) para gestionar el movimiento de la cámara y del sujeto.  \nPara sincronizar los cambios de fondo/escena, extrae el primer y el último fotograma de cada corte del video original y úsalos en Seedance como frames de referencia."
+    },
+    "fr": {
+      "content": "Lors de la recréation d’une vidéo publicitaire originale avec Seedance, le mouvement est contrôlé en utilisant une méthode basée sur la Depth Map (application de la Depth Map) pour gérer les mouvements de la caméra et du sujet.  \nPour synchroniser les transitions de fond et de scène, il faut extraire la première et la dernière image de chaque transition de plan dans la vidéo originale et les utiliser comme frames de référence dans Seedance."
+    },
+    "ja": {
+      "content": "元の広告映像をSeedanceで再現する際、モーションはDepth Mapを活用した方法（Depth Mapの応用法）でカメラ／被写体の動きを制御する。  \n背景／シーン転換を合わせるには、元の映像の各カット切り替えごとに最初のフレームと最後のフレームを抽出し、Seedanceにレファレンスフレームとして使用する。"
+    },
+    "pt": {
+      "content": "Ao recriar um vídeo publicitário original com o Seedance, o movimento é controlado por meio de um método que utiliza Depth Map (aplicação de Depth Map) para controlar o movimento da câmera e do objeto.\n\nPara sincronizar a transição de fundo/cena, extraia o primeiro e o último frame de cada corte do vídeo original e use-os no Seedance como reference frames."
+    },
+    "zh": {
+      "content": "在使用 Seedance 复现原始广告视频时，动作通过利用 Depth Map 的方式（Depth Map 应用方法）来控制相机/主体的运动。  \n如果要对齐背景/场景切换，则需要在原始视频的每个镜头切换处提取首帧和末帧，并将其作为参考帧用于 Seedance。"
+    }
+  }
+}

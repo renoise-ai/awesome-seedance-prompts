@@ -1,0 +1,42 @@
+{
+  "id": "2080488569802829830",
+  "title": "Codexで全体の絵コンテとSeedance用プロンプトを作成してから動画生成に入る",
+  "content": "Codexで全体の絵コンテとSeedance用プロンプトを作成してから動画生成に入る  \n動かしたい顔（例：四つ目の顔）の動画を参照動画としてSeedanceに渡して動きを誘導する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080488403024728066/img/5b6wV0eLqGrrLUBi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080488569802829830.mp4",
+  "sourceLink": "https://x.com/Chupico_nora/status/2080488569802829830",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "Chupico",
+    "link": "https://x.com/Chupico_nora"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Codexで全体の絵コンテとSeedance用プロンプトを作成してから動画生成に入る  \n動かしたい顔（例：四つ目の顔）の動画を参照動画としてSeedanceに渡して動きを誘導する",
+  "translations": {
+    "en": {
+      "content": "First, create the overall storyboard and the Seedance prompt in Codex, then move on to video generation.  \nPass the video of the face you want to animate (e.g., the four-eyed face) to Seedance as a reference video to guide the motion."
+    },
+    "es": {
+      "content": "Crear primero el storyboard completo y el prompt para Seedance en Codex, y luego pasar a la generación de video.  \nEntregar a Seedance el video del rostro que se quiere animar (por ejemplo, un rostro de cuatro ojos) como video de referencia para guiar el movimiento."
+    },
+    "fr": {
+      "content": "Créer d’abord le storyboard global et le prompt pour Seedance dans Codex, puis passer à la génération vidéo.  \nTransmettre à Seedance la vidéo du visage que l’on souhaite animer (par exemple, un visage à quatre yeux) comme vidéo de référence afin de guider le mouvement."
+    },
+    "ko": {
+      "content": "Create the overall storyboard and Seedance prompt in Codex before moving on to video generation.  \nPass the video of the face you want to animate (e.g., the four-eyed face) to Seedance as a reference video to guide the motion."
+    },
+    "pt": {
+      "content": "Criar o storyboard completo e os prompts para o Seedance no Codex antes de iniciar a geração do vídeo  \nPassar o vídeo do rosto que você quer animar (por exemplo, o rosto de quatro olhos) como vídeo de referência para o Seedance e usar isso para orientar o movimento"
+    },
+    "zh": {
+      "content": "先用 Codex 制作整体分镜和用于 Seedance 的 prompt，再进入视频生成  \n将想要动起来的脸部（例如：四只眼睛的脸）的参考视频传给 Seedance，作为参考视频来引导动作"
+    }
+  }
+}

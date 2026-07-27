@@ -1,0 +1,43 @@
+{
+  "id": "2080734724805329108",
+  "title": "Use FilmSparkAI’s Video Depth Anything model to convert any video into a depth…",
+  "content": "Use FilmSparkAI’s Video Depth Anything model to convert any video into a depth map, then use that depth map as a motion reference when generating in Seedance 2.0 via the Video Edit UI.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080734609256448000/img/EoW74OmPw9pN2AAd.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080734724805329108.mp4",
+  "sourceLink": "https://x.com/FilmSparkAI/status/2080734724805329108",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "FilmSpark.ai",
+    "link": "https://x.com/FilmSparkAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use FilmSparkAI’s Video Depth Anything model to convert any video into a depth map, then use that depth map as a motion reference when generating in Seedance 2.0 via the Video Edit UI.",
+  "translations": {
+    "es": {
+      "content": "Usa el modelo Video Depth Anything de FilmSparkAI para convertir cualquier video en un mapa de profundidad y luego utiliza ese mapa de profundidad como referencia de movimiento al generar en Seedance 2.0 a través de la interfaz de edición de video."
+    },
+    "fr": {
+      "content": "Utilisez le modèle Video Depth Anything de FilmSparkAI pour convertir n’importe quelle vidéo en carte de profondeur, puis utilisez cette carte de profondeur comme référence de mouvement lors de la génération dans Seedance 2.0 via l’interface Video Edit."
+    },
+    "ja": {
+      "content": "FilmSparkAIのVideo Depth Anythingモデルを使って、任意の動画を深度マップに変換し、その深度マップをSeedance 2.0のVideo Edit UIで生成する際のモーション参照として使用します。"
+    },
+    "ko": {
+      "content": "FilmSparkAI의 Video Depth Anything 모델을 사용해 어떤 영상이든 depth map으로 변환한 다음, 그 depth map을 Video Edit UI를 통해 Seedance 2.0에서 생성할 때 motion reference로 사용하세요."
+    },
+    "pt": {
+      "content": "Use o modelo Video Depth Anything do FilmSparkAI para converter qualquer vídeo em um mapa de profundidade e, em seguida, use esse mapa de profundidade como referência de movimento ao gerar no Seedance 2.0 pela interface Video Edit."
+    },
+    "zh": {
+      "content": "使用 FilmSparkAI 的 Video Depth Anything 模型将任意视频转换为深度图，然后在通过 Video Edit UI 使用 Seedance 2.0 生成时，将该深度图作为运动参考。"
+    }
+  }
+}

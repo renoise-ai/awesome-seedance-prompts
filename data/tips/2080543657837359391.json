@@ -1,0 +1,42 @@
+{
+  "id": "2080543657837359391",
+  "title": "用深度视频（depth video）作为参考输入而不是直接用原视频，减少服装/颜色/背景/光影干扰，让 Seedance 2.0…",
+  "content": "用深度视频（depth video）作为参考输入而不是直接用原视频，减少服装/颜色/背景/光影干扰，让 Seedance 2.0 更准确复刻动作幅度、手脚位置与节奏",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2080543289355194368/img/8OioMrlgW-Den17Y.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2080543657837359391.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2080543657837359391",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用深度视频（depth video）作为参考输入而不是直接用原视频，减少服装/颜色/背景/光影干扰，让 Seedance 2.0 更准确复刻动作幅度、手脚位置与节奏",
+  "translations": {
+    "en": {
+      "content": "Use depth video as the reference input instead of the original video directly, reducing interference from clothing, colors, background, and lighting, so Seedance 2.0 can more accurately replicate movement range, hand and foot positions, and rhythm."
+    },
+    "es": {
+      "content": "Usa video de profundidad (depth video) como entrada de referencia en lugar de usar directamente el video original, para reducir las interferencias de la ropa, los colores, el fondo y la iluminación, y permitir que Seedance 2.0 reproduzca con mayor precisión la amplitud de los movimientos, la posición de manos y pies, y el ritmo."
+    },
+    "fr": {
+      "content": "Utilisez une vidéo de profondeur (depth video) comme entrée de référence plutôt que la vidéo originale directement, afin de réduire les interférences liées aux vêtements, aux couleurs, à l’arrière-plan et à l’éclairage, et permettre à Seedance 2.0 de reproduire plus fidèlement l’amplitude des mouvements, la position des mains et des pieds, ainsi que le rythme."
+    },
+    "ja": {
+      "content": "深度ビデオ（depth video）を参照入力として使用し、元の動画を直接使わないことで、服装・色・背景・光の影響を抑え、Seedance 2.0 が動きの振り幅、手足の位置、リズムをより正確に再現できるようにする"
+    },
+    "ko": {
+      "content": "원본 비디오를 직접 사용하는 대신 depth video를 참고 입력으로 사용하면, 의상/색상/배경/조명 간섭을 줄여 Seedance 2.0이 동작의 크기, 손발 위치, 리듬을 더 정확하게 재현할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use vídeo de profundidade (depth video) como entrada de referência, em vez de usar diretamente o vídeo original, para reduzir interferências de roupa/cor/fundo/luz e sombra, permitindo que o Seedance 2.0 replique com mais precisão a amplitude dos movimentos, a posição das mãos e dos pés e o ritmo."
+    }
+  }
+}

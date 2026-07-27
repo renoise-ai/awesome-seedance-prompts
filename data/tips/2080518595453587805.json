@@ -1,0 +1,41 @@
+{
+  "id": "2080518595453587805",
+  "title": "Use LLMs (ChatGPT/Claude/Gemini/Perplexity) to plan your video before…",
+  "content": "Use LLMs (ChatGPT/Claude/Gemini/Perplexity) to plan your video before generating in Seedance.  \nUse AI to generate a script, storyboard, hook, shot list, and timeline, then feed those outputs into Seedance prompts.  \nUse Seedance to turn text or images into video as part of your generation step.  \nChoose Seedance (vs other video models) based on whether you prioritize realism, motion, consistency, or speed.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/shushant_l/status/2080518595453587805",
+  "sourcePublishedAt": "2026-07-24",
+  "author": {
+    "name": "Shushant Lakhyani",
+    "link": "https://x.com/shushant_l"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use LLMs (ChatGPT/Claude/Gemini/Perplexity) to plan your video before generating in Seedance.  \nUse AI to generate a script, storyboard, hook, shot list, and timeline, then feed those outputs into Seedance prompts.  \nUse Seedance to turn text or images into video as part of your generation step.  \nChoose Seedance (vs other video models) based on whether you prioritize realism, motion, consistency, or speed.",
+  "translations": {
+    "es": {
+      "content": "Usa LLMs (ChatGPT/Claude/Gemini/Perplexity) para planificar tu video antes de generarlo en Seedance.  \nUsa IA para generar un guion, storyboard, hook, lista de planos y cronograma, y luego introduce esos resultados en prompts de Seedance.  \nUsa Seedance para convertir texto o imágenes en video como parte de tu proceso de generación.  \nElige Seedance (frente a otros modelos de video) según si priorizas realismo, movimiento, consistencia o velocidad."
+    },
+    "fr": {
+      "content": "Utilisez des LLMs (ChatGPT/Claude/Gemini/Perplexity) pour planifier votre vidéo avant de la générer dans Seedance.  \nUtilisez l’IA pour générer un script, un storyboard, un hook, une shot list et un timeline, puis intégrez ces éléments dans les prompts Seedance.  \nUtilisez Seedance pour transformer du texte ou des images en vidéo dans le cadre de votre étape de génération.  \nChoisissez Seedance (par rapport à d’autres modèles vidéo) en fonction de vos priorités : réalisme, mouvement, cohérence ou vitesse."
+    },
+    "ja": {
+      "content": "Seedanceで生成する前に、LLM（ChatGPT / Claude / Gemini / Perplexity）を使って動画の企画を立てましょう。  \nAIを使って、脚本、ストーリーボード、フック、ショットリスト、タイムラインを生成し、それらの出力をSeedanceのpromptに入力します。  \n生成ステップの一部として、Seedanceを使ってテキストや画像を動画に変換します。  \nSeedance（他の動画モデルではなく）を選ぶかどうかは、リアリズム、モーション、一貫性、速度のどれを優先するかで判断します。"
+    },
+    "ko": {
+      "content": "Seedance로 생성하기 전에 LLM(ChatGPT/Claude/Gemini/Perplexity)을 사용해 영상 기획을 먼저 하세요.  \nAI를 활용해 스크립트, 스토리보드, 훅, 샷 리스트, 타임라인을 생성한 다음, 그 결과물을 Seedance prompt에 입력하세요.  \n생성 단계의 일부로 Seedance를 사용해 텍스트나 이미지를 비디오로 변환하세요.  \n다른 비디오 모델과 비교해 Seedance를 선택할 때는 사실성, 모션, 일관성, 속도 중 무엇을 우선하는지에 따라 결정하세요."
+    },
+    "pt": {
+      "content": "Use LLMs (ChatGPT/Claude/Gemini/Perplexity) para planejar seu vídeo antes de gerar no Seedance.  \nUse IA para gerar um roteiro, storyboard, hook, lista de cenas e cronograma, e então insira esses resultados nos prompts do Seedance.  \nUse o Seedance para transformar texto ou imagens em vídeo como parte da sua etapa de geração.  \nEscolha o Seedance (em vez de outros modelos de vídeo) com base em se você prioriza realismo, movimento, consistência ou velocidade."
+    },
+    "zh": {
+      "content": "在使用 Seedance 生成之前，先用 LLM（ChatGPT/Claude/Gemini/Perplexity）来规划你的视频。  \n使用 AI 生成脚本、分镜脚本、hook、shot list 和时间线，然后将这些输出输入到 Seedance prompts 中。  \n在生成步骤中，使用 Seedance 将文本或图像转换为视频。  \n根据你更优先看重真实感、运动表现、一致性还是速度，来选择 Seedance（而不是其他视频模型）。"
+    }
+  }
+}
