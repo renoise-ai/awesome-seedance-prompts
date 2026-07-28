@@ -1,0 +1,42 @@
+{
+  "id": "2081842993557127634",
+  "title": "Answer 3 setup questions in Claude (camera angle, who gets stopped, and total…",
+  "content": "Answer 3 setup questions in Claude (camera angle, who gets stopped, and total length) to lock the street-interview format before generating in Seedance 2.0  \nUse Claude to write the full interview script and generate every Seedance prompt in sequence (one prompt per clip) for a continuous multi-clip ad  \nGenerate the on-camera person first in ChatGPT Images 2.0, then use that as the consistent character basis before Seedance generation  \nIn Seedance 2.0, generate clip 1, then feed the finished clip back as the reference input for clip 2 (and repeat) to maintain character/voice/background consistency across clips  \nEdit the resulting clips for pacing in CapCut after the Seedance reference-chain generations are complete",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081840566430539776/img/2y-k8x5aLdEBB_yT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081842993557127634.mp4",
+  "sourceLink": "https://x.com/mikefutia/status/2081842993557127634",
+  "sourcePublishedAt": "2026-07-27",
+  "author": {
+    "name": "Mike Futia",
+    "link": "https://x.com/mikefutia"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Answer 3 setup questions in Claude (camera angle, who gets stopped, and total length) to lock the street-interview format before generating in Seedance 2.0  \nUse Claude to write the full interview script and generate every Seedance prompt in sequence (one prompt per clip) for a continuous multi-clip ad  \nGenerate the on-camera person first in ChatGPT Images 2.0, then use that as the consistent character basis before Seedance generation  \nIn Seedance 2.0, generate clip 1, then feed the finished clip back as the reference input for clip 2 (and repeat) to maintain character/voice/background consistency across clips  \nEdit the resulting clips for pacing in CapCut after the Seedance reference-chain generations are complete",
+  "translations": {
+    "es": {
+      "content": "Responde 3 preguntas de configuración en Claude (ángulo de cámara, a quién se detiene y duración total) para fijar el formato de entrevista callejera antes de generar en Seedance 2.0  \nUsa Claude para escribir el guion completo de la entrevista y generar cada prompt de Seedance en secuencia (un prompt por clip) para un anuncio continuo de varios clips  \nGenera primero a la persona que aparece en cámara en ChatGPT Images 2.0 y luego úsala como base de personaje consistente antes de la generación en Seedance  \nEn Seedance 2.0, genera el clip 1 y luego vuelve a introducir el clip terminado como input de referencia para el clip 2 (y repite) para mantener la consistencia de personaje/voz/fondo entre clips  \nEdita los clips resultantes para ajustar el ritmo en CapCut después de completar las generaciones en cadena de referencia de Seedance"
+    },
+    "fr": {
+      "content": "Répondez à 3 questions de configuration dans Claude (angle de caméra, qui est arrêté, et durée totale) pour verrouiller le format d’interview de rue avant de générer dans Seedance 2.0  \nUtilisez Claude pour écrire le script complet de l’interview et générer chaque prompt Seedance dans l’ordre (un prompt par clip) pour une publicité multi-clips continue  \nGénérez d’abord la personne à l’écran dans ChatGPT Images 2.0, puis utilisez-la comme base de personnage cohérente avant la génération dans Seedance  \nDans Seedance 2.0, générez le clip 1, puis renvoyez le clip terminé comme input de référence pour le clip 2 (et répétez) afin de maintenir la cohérence du personnage/de la voix/de l’arrière-plan entre les clips  \nMontez les clips obtenus pour le rythme dans CapCut une fois les générations en chaîne de référence Seedance terminées"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.0で生成を始める前に、Claudeで3つの設定質問（camera angle、誰が止められるか、全体の長さ）に答えて、street-interview形式を固定する  \nClaudeを使ってインタビュー全体の台本を作成し、連続するマルチクリップ広告向けに、すべてのSeedance promptを順番に生成する（1クリップにつき1つのprompt）  \nまずChatGPT Images 2.0で画面に映る人物を生成し、その後Seedance生成の前に、それを一貫したキャラクターの基準として使う  \nSeedance 2.0では、まずclip 1を生成し、完成したclipをreference inputとしてclip 2に戻して使う（以後も同様に繰り返す）ことで、各クリップ間のキャラクター／声／背景の一貫性を維持する  \nSeedanceのreference-chain生成が完了したら、CapCutでクリップを編集してテンポを整える  \n---"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 생성하기 전에 Claude에서 3가지 설정 질문(카메라 앵글, 인터뷰를 받는 사람, 전체 길이)에 답해 스트리트 인터뷰 형식을 고정하세요  \nClaude를 사용해 전체 인터뷰 스크립트를 작성하고, 연속적인 멀티 클립 광고를 위해 모든 Seedance prompt를 순서대로 생성하세요(클립당 prompt 1개)  \n먼저 ChatGPT Images 2.0에서 카메라에 등장할 인물을 생성한 다음, 이를 일관된 캐릭터 기준으로 사용해 Seedance 생성을 진행하세요  \nSeedance 2.0에서는 클립 1을 생성한 뒤, 완성된 클립을 참조 입력으로 다시 넣어 클립 2를 생성하고(이 과정을 반복) 클립 간 캐릭터/목소리/배경의 일관성을 유지하세요  \nSeedance reference-chain 생성이 완료되면, CapCut에서 결과 클립들의 pacing을 편집하세요"
+    },
+    "pt": {
+      "content": "Responda a 3 perguntas de configuração no Claude (ângulo de câmera, quem será abordado e duração total) para travar o formato de entrevista de rua antes de gerar no Seedance 2.0  \nUse o Claude para escrever o roteiro completo da entrevista e gerar cada prompt do Seedance em sequência (um prompt por clipe) para um anúncio contínuo em vários clipes  \nGere primeiro a pessoa em cena no ChatGPT Images 2.0 e, depois, use isso como base consistente do personagem antes da geração no Seedance  \nNo Seedance 2.0, gere o clipe 1 e, em seguida, envie o clipe finalizado de volta como input de referência para o clipe 2 (e repita) para manter a consistência de personagem/voz/fundo entre os clipes  \nEdite os clipes resultantes para ajustar o ritmo no CapCut depois que as gerações em cadeia com referência do Seedance estiverem concluídas"
+    },
+    "zh": {
+      "content": "在使用 Seedance 2.0 生成之前，先在 Claude 中回答 3 个设置问题（camera angle、谁被拦下、以及总时长），以锁定街访格式  \n使用 Claude 撰写完整的采访脚本，并按顺序生成每一条 Seedance prompt（每个 clip 一条），用于连续的多片段广告  \n先在 ChatGPT Images 2.0 中生成出镜人物，然后将其作为一致的角色基础，再进行 Seedance 生成  \n在 Seedance 2.0 中先生成 clip 1，然后将完成的 clip 作为 reference input 回传给 clip 2（并依此重复），以保持各个 clip 之间角色/声音/背景的一致性  \n在完成 Seedance reference-chain 生成后，使用 CapCut 对生成的 clips 进行节奏剪辑"
+    }
+  }
+}

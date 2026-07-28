@@ -1,0 +1,41 @@
+{
+  "id": "2081773547345608878",
+  "title": "Generate a storyboard reference image first (e.g., an 8-panel horizontal film…",
+  "content": "Generate a storyboard reference image first (e.g., an 8-panel horizontal film strip) with strict style-consistency descriptors, then feed it into Seedance 2.0 using Use @[Image1] as storyboard reference and specify it as first shot 01.\n\nExplicitly instruct Seedance to ignore the storyboard’s grid/film-strip layout and forbid overlays by adding constraints like Absolutely NO frames, borders, film strips, numbers, UI, or text and Render as seamless full-screen cinematic shots only.\n\nBreak the video prompt into time-coded shots that map 1:1 to storyboard panels (e.g., Shot 1 0–2.1s = Panel 1 … Shot 7 12.6–15.0s = Panel 7) and require strict chronological order and exact panel fidelity.\n\nUse “fluid camera drifts” plus “environmental morphing” instructions to create natural transitions between storyboard scenes while maintaining consistent color grading and photorealistic textures.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/churvikv/status/2081773547345608878",
+  "sourcePublishedAt": "2026-07-27",
+  "author": {
+    "name": "Viki",
+    "link": "https://x.com/churvikv"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a storyboard reference image first (e.g., an 8-panel horizontal film strip) with strict style-consistency descriptors, then feed it into Seedance 2.0 using Use @[Image1] as storyboard reference and specify it as first shot 01.\n\nExplicitly instruct Seedance to ignore the storyboard’s grid/film-strip layout and forbid overlays by adding constraints like Absolutely NO frames, borders, film strips, numbers, UI, or text and Render as seamless full-screen cinematic shots only.\n\nBreak the video prompt into time-coded shots that map 1:1 to storyboard panels (e.g., Shot 1 0–2.1s = Panel 1 … Shot 7 12.6–15.0s = Panel 7) and require strict chronological order and exact panel fidelity.\n\nUse “fluid camera drifts” plus “environmental morphing” instructions to create natural transitions between storyboard scenes while maintaining consistent color grading and photorealistic textures.",
+  "translations": {
+    "es": {
+      "content": "---\nGenera primero una imagen de referencia de storyboard (por ejemplo, una tira de película horizontal de 8 paneles) con descriptores estrictos de consistencia de estilo; luego introdúcela en Seedance 2.0 usando Use @[Image1] as storyboard reference y especifícalo como first shot 01.\n\nIndica explícitamente a Seedance que ignore la disposición en cuadrícula/tira de película del storyboard y prohíba las superposiciones añadiendo restricciones como Absolutely NO frames, borders, film strips, numbers, UI, or text and Render as seamless full-screen cinematic shots only.\n\nDivide el prompt del video en tomas con código temporal que se correspondan 1:1 con los paneles del storyboard (por ejemplo, Shot 1 0–2.1s = Panel 1 … Shot 7 12.6–15.0s = Panel 7) y exige un orden cronológico estricto y una fidelidad exacta a cada panel.\n\nUsa “fluid camera drifts” junto con instrucciones de “environmental morphing” para crear transiciones naturales entre las escenas del storyboard, manteniendo al mismo tiempo una gradación de color coherente y texturas fotorrealistas.\n---"
+    },
+    "fr": {
+      "content": "Générez d’abord une image de référence de storyboard (par exemple, une pellicule horizontale en 8 panneaux) avec des descripteurs de cohérence stylistique stricts, puis importez-la dans Seedance 2.0 en utilisant Use @[Image1] as storyboard reference et en la spécifiant comme premier shot 01.\n\nInstruisez explicitement Seedance d’ignorer la grille / la mise en page en pellicule du storyboard et interdisez les superpositions en ajoutant des contraintes telles que Absolutely NO frames, borders, film strips, numbers, UI, or text and Render as seamless full-screen cinematic shots only.\n\nDécoupez le prompt vidéo en plans horodatés qui correspondent en relation 1:1 aux panneaux du storyboard (par exemple, Shot 1 0–2.1s = Panel 1 … Shot 7 12.6–15.0s = Panel 7) et exigez un ordre chronologique strict ainsi qu’une fidélité exacte à chaque panneau.\n\nUtilisez « fluid camera drifts » ainsi que des instructions d’« environmental morphing » pour créer des transitions naturelles entre les scènes du storyboard tout en conservant un étalonnage des couleurs cohérent et des textures photoréalistes."
+    },
+    "ja": {
+      "content": "まず、ストーリーボードの参照画像を生成します（例：8パネルの横長フィルムストリップ）。その際、スタイルの一貫性を厳密に保つための記述を入れ、その後 Seedance 2.0 に Use @[Image1] as storyboard reference and specify it as first shot 01. として入力します。\n\nSeedance には、ストーリーボードのグリッド／フィルムストリップのレイアウトを無視するよう明示的に指示し、Absolutely NO frames, borders, film strips, numbers, UI, or text and Render as seamless full-screen cinematic shots only. のような制約を追加して、オーバーレイを禁止します。\n\n動画プロンプトは、ストーリーボードの各パネルに 1:1 で対応するタイムコード付きショットに分割します（例：Shot 1 0–2.1s = Panel 1 … Shot 7 12.6–15.0s = Panel 7）。そして、厳密な時系列順と、各パネルへの完全な忠実性を求めます。\n\n“fluid camera drifts” と “environmental morphing” の指示を使って、ストーリーボードの各シーン間に自然な遷移を作りつつ、色調補正の一貫性とフォトリアルな質感を維持します。"
+    },
+    "ko": {
+      "content": "먼저 스토리보드 참조 이미지를 생성하세요(예: 8패널 가로형 필름 스트립). 이때 엄격한 스타일 일관성 설명을 포함한 뒤, 이를 Seedance 2.0에 입력하면서 Use @[Image1] as storyboard reference and specify it as first shot 01.라고 지정합니다.\n\nSeedance에는 스토리보드의 그리드/필름 스트립 레이아웃을 무시하도록 명시적으로 지시하고, Absolutely NO frames, borders, film strips, numbers, UI, or text and Render as seamless full-screen cinematic shots only.와 같은 제약을 추가해 오버레이를 금지하세요.\n\n비디오 프롬프트는 스토리보드 패널과 1:1로 대응되는 시간 코드 샷으로 나누세요(예: Shot 1 0–2.1s = Panel 1 … Shot 7 12.6–15.0s = Panel 7). 그리고 엄격한 시간 순서와 정확한 패널 충실도를 요구하세요.\n\n“fluid camera drifts”와 “environmental morphing” 지시를 사용해 스토리보드 장면들 사이에 자연스러운 전환을 만들되, 일관된 color grading과 photorealistic textures는 유지하세요."
+    },
+    "pt": {
+      "content": "---\nGere primeiro uma imagem de referência de storyboard (por exemplo, uma tira de filme horizontal com 8 painéis) com descritores rigorosos de consistência de estilo; depois, insira-a no Seedance 2.0 usando Use @[Image1] as storyboard reference e especifique-a como first shot 01.\n\nInstrua explicitamente o Seedance a ignorar o layout em grade/tira de filme do storyboard e proíba sobreposições adicionando restrições como Absolutely NO frames, borders, film strips, numbers, UI, or text and Render as seamless full-screen cinematic shots only.\n\nDivida o prompt de vídeo em shots com marcação de tempo que correspondam 1:1 aos painéis do storyboard (por exemplo, Shot 1 0–2.1s = Panel 1 … Shot 7 12.6–15.0s = Panel 7) e exija ordem cronológica estrita e fidelidade exata aos painéis.\n\nUse “fluid camera drifts” junto com instruções de “environmental morphing” para criar transições naturais entre as cenas do storyboard, mantendo a gradação de cor consistente e texturas fotorrealistas.\n---"
+    },
+    "zh": {
+      "content": "先生成一张分镜参考图（例如一条 8 格横向胶片条），并使用严格的风格一致性描述，然后将其输入 Seedance 2.0，使用 Use @[Image1] as storyboard reference，并将其指定为 first shot 01。\n\n明确指示 Seedance 忽略分镜的网格/胶片条布局，并通过添加诸如 Absolutely NO frames, borders, film strips, numbers, UI, or text and Render as seamless full-screen cinematic shots only 之类的约束，禁止任何叠加元素。\n\n将视频提示词拆分为带时间码的镜头，并与分镜面板 1:1 对应（例如，Shot 1 0–2.1s = Panel 1 … Shot 7 12.6–15.0s = Panel 7），并要求严格按时间顺序排列以及与每个面板完全一致。\n\n使用 “fluid camera drifts” 加上 “environmental morphing” 指令，在保持一致的色彩分级和写实质感的同时，创建分镜场景之间自然的过渡。"
+    }
+  }
+}

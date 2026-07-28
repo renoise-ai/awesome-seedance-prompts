@@ -1,0 +1,42 @@
+{
+  "id": "2081680097103237492",
+  "title": "Use the last frame of the previous scene as a reference image/storyboard frame…",
+  "content": "Use the last frame of the previous scene as a reference image/storyboard frame to help Seedance match continuity details (e.g., keep a hole in the wall aligned between shots)  \nAvoid overloading SeeDance 2.0 Mini with too many new elements/instructions in one prompt (it may go off-track, e.g., inserting random CCTV footage)  \nIf SeeDance 2.0 Mini over-animates mouth flaps, reduce or avoid dialogue/mouth-movement cues in the prompt",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081679271089655808/img/Yu_kKBFOjwgnIw-K.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081680097103237492.mp4",
+  "sourceLink": "https://x.com/SFYakuzaWars/status/2081680097103237492",
+  "sourcePublishedAt": "2026-07-27",
+  "author": {
+    "name": "Street Fighter: Yakuza Wars",
+    "link": "https://x.com/SFYakuzaWars"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the last frame of the previous scene as a reference image/storyboard frame to help Seedance match continuity details (e.g., keep a hole in the wall aligned between shots)  \nAvoid overloading SeeDance 2.0 Mini with too many new elements/instructions in one prompt (it may go off-track, e.g., inserting random CCTV footage)  \nIf SeeDance 2.0 Mini over-animates mouth flaps, reduce or avoid dialogue/mouth-movement cues in the prompt",
+  "translations": {
+    "es": {
+      "content": "Usa el último fotograma de la escena anterior como imagen de referencia/fotograma de storyboard para ayudar a Seedance a mantener la continuidad de los detalles (por ejemplo, que el agujero en la pared quede alineado entre tomas)  \nEvita sobrecargar SeeDance 2.0 Mini con demasiados elementos/instrucciones nuevos en un solo prompt (puede desviarse, por ejemplo, insertando metraje aleatorio de CCTV)  \nSi SeeDance 2.0 Mini sobreanima los movimientos de la boca, reduce o evita las indicaciones de diálogo/movimiento de boca en el prompt\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ¡Storyboard! - Tomé el último fotograma de la escena de pelea para que el agujero en la pared, con suerte, coincidiera. https://t.co/AduYZLyxOV\n\n[Hilo 2] Generación 2 - ¿añadió un disparo? Y una puerta en la pared, luego simplemente se vuelve loca con metraje de CCTV al final 😅😆 Sinceramente, creo que es posible sobrecargar Mini con demasiada información. También parece sobreanimar los movimientos de la boca. https://t.co/sbqlUyV7XX"
+    },
+    "fr": {
+      "content": "Utilisez la dernière image de la scène précédente comme image de référence / frame de storyboard pour aider Seedance à respecter les détails de continuité (par exemple, garder un trou dans le mur aligné entre les plans)  \nÉvitez de surcharger SeeDance 2.0 Mini avec trop de nouveaux éléments / instructions dans un seul prompt (il peut partir hors sujet, par exemple en insérant des images de vidéosurveillance aléatoires)  \nSi SeeDance 2.0 Mini sur-anime les mouvements de bouche, réduisez ou évitez les indications de dialogue / mouvement de la bouche dans le prompt\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Storyboard ! - J’ai pris la dernière image de la scène de combat afin que le trou dans le mur corresponde, espérons-le. https://t.co/AduYZLyxOV\n\n[Fil 2] Génération 2 - j’ai ajouté un coup de feu ? Et une porte dans le mur, puis ça part complètement en vrille avec des images de vidéosurveillance à la fin 😅😆 Je pense honnêtement qu’il est possible de surcharger Mini avec trop d’informations. Il semble aussi trop animer les mouvements de bouche. https://t.co/sbqlUyV7XX"
+    },
+    "ja": {
+      "content": "前のシーンの最後のフレームを参照画像／ストーリーボードフレームとして使うと、Seedance が継続性のディテールを合わせやすくなります（たとえば、ショット間で壁の穴の位置を揃えるなど）  \nSeeDance 2.0 Mini に、1つのプロンプトで新しい要素や指示を詰め込みすぎないようにしてください（軌道を外れて、たとえばランダムな CCTV 映像を挿入してしまうことがあります）  \nSeeDance 2.0 Mini が口の動きを過剰にアニメーションする場合は、プロンプト内のセリフや口の動きに関する指示を減らすか、避けてください\n\n--- スレッドの続き ---\n[Thread 1] ストーリーボード！ - 戦闘シーンの最後のフレームを使ったので、壁の穴がうまく一致してくれるといいなと思って。 https://t.co/AduYZLyxOV\n\n[Thread 2] Generation 2 - 銃声を追加した？ それに壁にドアも追加したら、最後には CCTV 映像を入れてきて完全に暴走 😅😆 正直、Mini に情報を詰め込みすぎるとオーバーロードする可能性があると思ってる。口の動きも過剰にアニメーションしているみたい。 https://t.co/sbqlUyV7XX"
+    },
+    "ko": {
+      "content": "이전 장면의 마지막 프레임을 참고 이미지/스토리보드 프레임으로 사용하면 Seedance가 연속성 세부 사항을 맞추는 데 도움이 됩니다(예: 샷 사이에서 벽의 구멍 위치를 일치시키기).  \nSeeDance 2.0 Mini에 한 번의 프롬프트에서 너무 많은 새로운 요소/지시를 넣어 과부하를 주지 마세요(예: 갑자기 무작위 CCTV 영상이 삽입되는 등, 흐름이 벗어날 수 있습니다).  \nSeeDance 2.0 Mini가 입 모양 움직임을 과도하게 애니메이션한다면, 프롬프트에서 대사/입 움직임 관련 단서를 줄이거나 아예 빼세요.\n\n--- 스레드 이어서 ---\n[Thread 1] 스토리보드! - 전투 장면의 마지막 프레임을 가져와서 벽의 구멍이 잘 맞아떨어지길 바랐어요. https://t.co/AduYZLyxOV\n\n[Thread 2] Generation 2 - 총격을 추가했나요? 그리고 벽에 문을 넣었더니, 마지막에는 CCTV 영상이 나오면서 완전히 난리가 나네요 😅😆 솔직히 Mini에 너무 많은 정보를 넣으면 과부하가 걸릴 수도 있다고 생각해요. 입 모양 움직임도 과하게 애니메이션하는 것 같고요. https://t.co/sbqlUyV7XX"
+    },
+    "pt": {
+      "content": "Use o último frame da cena anterior como uma imagem de referência/frame de storyboard para ajudar o Seedance a manter os detalhes de continuidade (por exemplo, manter um buraco na parede alinhado entre os takes)  \nEvite sobrecarregar o SeeDance 2.0 Mini com muitos elementos/instruções novos em um único prompt (ele pode sair do rumo, por exemplo, inserindo imagens aleatórias de CCTV)  \nSe o SeeDance 2.0 Mini exagerar na animação dos movimentos da boca, reduza ou evite pistas de diálogo/movimento labial no prompt\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Storyboard! - Eu peguei o último frame da cena de luta para que o buraco na parede, com sorte, ficasse alinhado. https://t.co/AduYZLyxOV\n\n[Thread 2] Generation 2 - adicionei um tiro? E uma porta na parede, aí ele simplesmente enlouquece com imagens de CCTV no final 😅😆 Sinceramente, estou pensando que é possível sobrecarregar o Mini com informação demais. Também parece exagerar na animação dos movimentos da boca. https://t.co/sbqlUyV7XX"
+    },
+    "zh": {
+      "content": "使用上一场景的最后一帧作为参考图像/分镜帧，帮助 Seedance 保持连续性细节一致（例如，让墙上的洞在不同镜头之间对齐）  \n避免在一个 prompt 里给 SeeDance 2.0 Mini 塞入太多新元素/指令（它可能会跑偏，比如插入随机的 CCTV 画面）  \n如果 SeeDance 2.0 Mini 对口型动作过度动画化，可以减少或避免在 prompt 中加入对白/嘴部动作相关提示\n\n--- THREAD CONTINUATION ---\n[Thread 1] Storyboard! - 我取了打斗场景的最后一帧，这样墙上的洞就有望对得上。 https://t.co/AduYZLyxOV\n\n[Thread 2] Generation 2 - 加了一个枪击镜头？还有一扇门到墙上，然后结尾它就彻底失控，塞进了 CCTV 画面 😅😆 我真的在想，Mini 可能会因为信息太多而被“喂爆”。而且它似乎还会过度动画化口型动作。 https://t.co/sbqlUyV7XX"
+    }
+  }
+}

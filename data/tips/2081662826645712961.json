@@ -1,0 +1,46 @@
+{
+  "id": "2081662826645712961",
+  "title": "Prototype UI-heavy videos in Seedance 2.0 by attaching several high‑resolution…",
+  "content": "Prototype UI-heavy videos in Seedance 2.0 by attaching several high‑resolution reference images; generating without references tends to produce messy UI and unreadable text.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081662763676663808/img/1NKnqQ9fQY8sgtp-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081662826645712961.mp4",
+  "sourceLink": "https://x.com/borryshasian/status/2081662826645712961",
+  "sourcePublishedAt": "2026-07-27",
+  "author": {
+    "name": "Borrys Hasian",
+    "link": "https://x.com/borryshasian"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Game UI"
+  ],
+  "tips": "Prototype UI-heavy videos in Seedance 2.0 by attaching several high‑resolution reference images; generating without references tends to produce messy UI and unreadable text.",
+  "translations": {
+    "en": {
+      "content": "Prototype UI-heavy videos in Seedance 2.0 by attaching several high-resolution reference images; generating without references tends to produce messy UI and unreadable text."
+    },
+    "es": {
+      "content": "Prototipa videos con mucha interfaz en Seedance 2.0 adjuntando varias imágenes de referencia de alta resolución; generar sin referencias suele producir una UI desordenada y texto ilegible."
+    },
+    "fr": {
+      "content": "Prototypez des vidéos à forte composante UI dans Seedance 2.0 en joignant plusieurs images de référence en haute résolution ; générer sans références a tendance à produire une interface brouillonne et du texte illisible."
+    },
+    "ja": {
+      "content": "Seedance 2.0 では、複数の高解像度の参照画像を添付することで、UI中心の動画をプロトタイプできます。参照なしで生成すると、UI が乱れたり、テキストが読めなくなったりしがちです。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 여러 장의 고해상도 레퍼런스 이미지를 첨부해 UI 중심의 프로토타입 영상을 제작하세요. 레퍼런스 없이 생성하면 UI가 지저분해지고 텍스트를 읽기 어려워지는 경향이 있습니다."
+    },
+    "pt": {
+      "content": "Prototipe vídeos com forte presença de UI no Seedance 2.0 anexando várias imagens de referência em alta resolução; gerar sem referências tende a produzir uma UI confusa e texto ilegível."
+    },
+    "zh": {
+      "content": "通过附加多张高分辨率参考图像，在 Seedance 2.0 中原型化 UI 密集型视频；不使用参考图生成时，往往会导致 UI 混乱、文字难以辨认。"
+    }
+  }
+}

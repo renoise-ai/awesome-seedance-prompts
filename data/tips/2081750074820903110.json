@@ -1,0 +1,42 @@
+{
+  "id": "2081750074820903110",
+  "title": "Use Lovart to turn a single photo reference into a product commercial by first…",
+  "content": "Use Lovart to turn a single photo reference into a product commercial by first generating low-cost reference images with Nano Banana, then importing those references into Seedance to create cinematic shots.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081749715209670656/img/SMBwA2_46QCw6p0V.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081750074820903110.mp4",
+  "sourceLink": "https://x.com/rourke_heath/status/2081750074820903110",
+  "sourcePublishedAt": "2026-07-27",
+  "author": {
+    "name": "Rourke Heath",
+    "link": "https://x.com/rourke_heath"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Lovart to turn a single photo reference into a product commercial by first generating low-cost reference images with Nano Banana, then importing those references into Seedance to create cinematic shots.",
+  "translations": {
+    "es": {
+      "content": "Usa Lovart para convertir una sola foto de referencia en un anuncio comercial de producto, generando primero imágenes de referencia de bajo costo con Nano Banana y luego importando esas referencias en Seedance para crear tomas cinematográficas."
+    },
+    "fr": {
+      "content": "Utilisez Lovart pour transformer une seule photo de référence en publicité produit en générant d’abord des images de référence à faible coût avec Nano Banana, puis en important ces références dans Seedance pour créer des plans cinématiques."
+    },
+    "ja": {
+      "content": "Lovartを使って、1枚の写真リファレンスをプロダクトCMに変換します。まずNano Bananaで低コストの参考画像を生成し、そのリファレンスをSeedanceに取り込んで、cinematicなショットを作成します。"
+    },
+    "ko": {
+      "content": "Lovart를 사용해 단일 사진 레퍼런스를 제품 광고 영상으로 바꾸세요. 먼저 Nano Banana로 저비용 레퍼런스 이미지를 생성한 다음, 그 레퍼런스를 Seedance로 가져와 cinematic shot을 만듭니다."
+    },
+    "pt": {
+      "content": "Use o Lovart para transformar uma única foto de referência em um comercial de produto, gerando primeiro imagens de referência de baixo custo com o Nano Banana e, em seguida, importando essas referências para o Seedance para criar planos cinematográficos."
+    },
+    "zh": {
+      "content": "使用 Lovart 将一张单张照片参考转化为产品广告：先用 Nano Banana 生成低成本的参考图像，再将这些参考图导入 Seedance，以创建 cinematic 镜头。"
+    }
+  }
+}

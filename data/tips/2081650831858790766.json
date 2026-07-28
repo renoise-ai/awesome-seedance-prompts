@@ -1,0 +1,43 @@
+{
+  "id": "2081650831858790766",
+  "title": "Generate a 2K 16:9 maximum-quality reference still in Seedream 5.0 Pro that…",
+  "content": "Generate a 2K 16:9 maximum-quality reference still in Seedream 5.0 Pro that preserves the subject’s exact face/body/hair/pose while changing only the environment to the target scene.  \nUse the Seedream reference image as the identity/scene lock and the original clip as the motion reference in Seedance 2.0 to transfer choreography frame-for-frame into the new setting.  \nSet Seedance 2.0 output to 1080p, 16:9, maximum bitrate, 15 seconds for the final continuous shot.  \nSpecify a wide 16:9 slight low-angle establishing shot with a slow push-in and subtle handheld feel to control camera movement across the full clip.  \nAdd persistent style tokens (fine 35mm film grain, vintage grade, gentle bloom, subtle halation, extreme photorealism, contre-jour/strong backlight) to keep the look consistent throughout the generation.  \nExplicitly describe environment motion elements (sweeping/pulsing stage lights, scanning lasers through haze, animated LED walls, drifting sparks/confetti, crowd cheering/waving phone lights) to animate the background while keeping the performer locked.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/maxescu/status/2081650831858790766",
+  "sourcePublishedAt": "2026-07-27",
+  "author": {
+    "name": "Alex Patrascu",
+    "link": "https://x.com/maxescu"
+  },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World",
+    "VFX",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Generate a 2K 16:9 maximum-quality reference still in Seedream 5.0 Pro that preserves the subject’s exact face/body/hair/pose while changing only the environment to the target scene.  \nUse the Seedream reference image as the identity/scene lock and the original clip as the motion reference in Seedance 2.0 to transfer choreography frame-for-frame into the new setting.  \nSet Seedance 2.0 output to 1080p, 16:9, maximum bitrate, 15 seconds for the final continuous shot.  \nSpecify a wide 16:9 slight low-angle establishing shot with a slow push-in and subtle handheld feel to control camera movement across the full clip.  \nAdd persistent style tokens (fine 35mm film grain, vintage grade, gentle bloom, subtle halation, extreme photorealism, contre-jour/strong backlight) to keep the look consistent throughout the generation.  \nExplicitly describe environment motion elements (sweeping/pulsing stage lights, scanning lasers through haze, animated LED walls, drifting sparks/confetti, crowd cheering/waving phone lights) to animate the background while keeping the performer locked.",
+  "translations": {
+    "es": {
+      "content": "Genera un still de referencia de máxima calidad en 2K 16:9 en Seedream 5.0 Pro que preserve exactamente el rostro/cuerpo/cabello/pose del sujeto mientras cambia solo el entorno a la escena objetivo.  \nUsa la imagen de referencia de Seedream como bloqueo de identidad/escena y el clip original como referencia de movimiento en Seedance 2.0 para transferir la coreografía fotograma a fotograma al nuevo entorno.  \nConfigura la salida de Seedance 2.0 a 1080p, 16:9, bitrate máximo, 15 segundos para el plano continuo final.  \nEspecifica un plano general de establecimiento en 16:9 con ligero ángulo bajo, con un slow push-in y una sutil sensación de cámara en mano para controlar el movimiento de cámara durante todo el clip.  \nAñade tokens de estilo persistentes (grano fino de película de 35 mm, color grading vintage, suave bloom, halation sutil, fotorealismo extremo, contre-jour/fuerte contraluz) para mantener la coherencia visual durante toda la generación.  \nDescribe explícitamente los elementos de movimiento del entorno (luces de escenario que barren/pulsan, láseres de escaneo atravesando la neblina, paredes LED animadas, chispas/confeti flotando, público aplaudiendo/agitando luces de teléfonos) para animar el fondo mientras mantienes al intérprete bloqueado."
+    },
+    "fr": {
+      "content": "Générez un still de référence 2K au format 16:9, de qualité maximale, dans Seedream 5.0 Pro, qui préserve exactement le visage, le corps, les cheveux et la pose du sujet, tout en ne modifiant que l’environnement pour l’adapter à la scène cible.  \nUtilisez l’image de référence Seedream comme verrou d’identité/de scène et le clip original comme référence de mouvement dans Seedance 2.0 afin de transférer la chorégraphie image par image dans le nouvel environnement.  \nRéglez la sortie de Seedance 2.0 sur 1080p, 16:9, débit binaire maximal, 15 secondes pour le plan continu final.  \nSpécifiez un plan d’établissement large en 16:9, avec un léger angle en contre-plongée, un slow push-in et une subtile sensation de caméra à l’épaule afin de contrôler le mouvement de caméra sur l’ensemble du clip.  \nAjoutez des tokens de style persistants (grain fin de pellicule 35 mm, étalonnage vintage, léger bloom, halation subtile, photoréalisme extrême, contre-jour/fort contre-jour) pour conserver une cohérence visuelle tout au long de la génération.  \nDécrivez explicitement les éléments de mouvement de l’environnement (projecteurs de scène balayants/pulsants, lasers de balayage à travers la brume, murs LED animés, étincelles/confettis dérivant, foule applaudissant/agitant des lumières de téléphone) afin d’animer l’arrière-plan tout en gardant l’interprète verrouillé."
+    },
+    "ja": {
+      "content": "Seedream 5.0 Pro で、被写体の顔・体・髪・ポーズを正確に維持しつつ、環境だけをターゲットシーンに変更した、2K・16:9・最高品質のリファレンス静止画を生成する。  \nSeedream のリファレンス画像をアイデンティティ／シーンロックとして使用し、元のクリップを Seedance 2.0 のモーションリファレンスとして用いて、振付をフレーム単位で新しい設定へ転送する。  \n最終的な連続ショット用に、Seedance 2.0 の出力を 1080p、16:9、最大ビットレート、15秒に設定する。  \nカメラの動きをクリップ全体で制御するため、広めの16:9、ややローアングルのエスタブリッシングショットを指定し、ゆっくりとした push-in と控えめな handheld 感を加える。  \n生成全体を通して見た目を一貫させるため、持続的なスタイルトークン（細かな35mmフィルムグレイン、ヴィンテージ調のグレーディング、やわらかな bloom、控えめな halation、極めて高いフォトリアリズム、contre-jour／強い逆光）を追加する。  \n背景を動かしつつパフォーマーは固定したままにするため、環境のモーション要素（横切る／脈動するステージライト、ヘイズ越しに走るスキャンレーザー、アニメーションする LED ウォール、漂う火花／紙吹雪、歓声を上げてスマホライトを振る観客）を明示的に記述する。"
+    },
+    "ko": {
+      "content": "Seedream 5.0 Pro에서 대상의 정확한 얼굴/몸/머리카락/포즈는 그대로 유지하고, 환경만 목표 장면으로 바꾸는 2K 16:9 최대 품질의 레퍼런스 스틸을 생성하세요.  \nSeedream 레퍼런스 이미지를 아이덴티티/씬 락으로 사용하고, 원본 클립을 Seedance 2.0의 모션 레퍼런스로 사용하여 안무를 프레임 단위로 새 설정에 그대로 전송하세요.  \n최종 연속 샷을 위해 Seedance 2.0 출력은 1080p, 16:9, 최대 비트레이트, 15초로 설정하세요.  \n카메라 움직임을 전체 클립에 걸쳐 제어할 수 있도록, 와이드 16:9의 약간 로우 앵글 establishing shot에 느린 푸시인과 미세한 핸드헬드 느낌을 지정하세요.  \n생성 전반에 걸쳐 룩을 일관되게 유지하기 위해 지속적인 스타일 토큰(미세한 35mm 필름 그레인, 빈티지 그레이드, 은은한 블룸, 미묘한 할레이션, 극도의 포토리얼리즘, contre-jour/강한 역광)을 추가하세요.  \n배경을 생동감 있게 만들면서 퍼포머는 고정되도록, 환경의 움직임 요소(휩쓸리듯/맥동하는 무대 조명, 헤이즈를 가르는 스캐닝 레이저, 애니메이션 LED 월, 떠다니는 스파크/컨페티, 환호하며 휴대폰 불빛을 흔드는 관객)를 명시적으로 설명하세요."
+    },
+    "pt": {
+      "content": "Gere um still de referência em 2K 16:9, com qualidade máxima, no Seedream 5.0 Pro, que preserve exatamente o rosto/corpo/cabelo/pose do sujeito, alterando apenas o ambiente para a cena-alvo.  \nUse a imagem de referência do Seedream como trava de identidade/cena e o clipe original como referência de movimento no Seedance 2.0 para transferir a coreografia quadro a quadro para o novo cenário.  \nDefina a saída do Seedance 2.0 para 1080p, 16:9, bitrate máximo, 15 segundos para o plano contínuo final.  \nEspecifique um plano geral amplo em 16:9, com leve ângulo baixo, com um slow push-in e uma sutil sensação de câmera na mão para controlar o movimento de câmera ao longo de todo o clipe.  \nAdicione tokens de estilo persistentes (grão fino de filme 35mm, vintage grade, bloom suave, halation sutil, fotorrealismo extremo, contre-jour/forte contraluz) para manter a aparência consistente durante toda a geração.  \nDescreva explicitamente os elementos de movimento do ambiente (luzes de palco varrendo/pulsando, lasers de varredura atravessando a névoa, paredes de LED animadas, faíscas/confetes flutuando, público aplaudindo/acenando com luzes de celular) para animar o fundo enquanto mantém o performer travado."
+    },
+    "zh": {
+      "content": "在 Seedream 5.0 Pro 中生成一张 2K 16:9 的最高质量参考静帧，保留主体的精确脸部/身体/头发/姿势，仅将环境更改为目标场景。  \n将 Seedream 参考图用作身份/场景锁定，并在 Seedance 2.0 中将原始片段用作运动参考，把编排逐帧迁移到新场景中。  \n将 Seedance 2.0 输出设置为 1080p、16:9、最高码率，最终连续镜头时长为 15 秒。  \n指定一个宽幅 16:9、略微低机位的建立镜头，带有缓慢推进和轻微手持感，以控制整个片段中的镜头运动。  \n添加持续性的风格 token（细腻的 35mm 胶片颗粒、复古调色、柔和 bloom、轻微 halation、极致写实、contre-jour/强逆光），以保持生成全过程中的风格一致。  \n明确描述环境运动元素（扫动/脉冲式舞台灯、穿过烟雾的扫描激光、动态 LED 墙、飘动的火花/彩纸屑、观众欢呼并挥舞手机灯光），在保持表演者锁定不变的同时，让背景动起来。"
+    }
+  }
+}

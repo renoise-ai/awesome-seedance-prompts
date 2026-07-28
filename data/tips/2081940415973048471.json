@@ -1,0 +1,41 @@
+{
+  "id": "2081940415973048471",
+  "title": "スタイル:実写映画。をプロンプトに入れて実写映画風のルックに指定する",
+  "content": "スタイル:実写映画。をプロンプトに入れて実写映画風のルックに指定する  \nBGM:なし を指定して生成動画からBGMを除外する  \nシーン1/シーン2のようにシーン分割して、各シーンごとに状況・動作・台詞を具体的に書き分ける  \n画像1/画像2をキャラクター参照、画像3を部屋（背景）参照、画像4を小道具（紙）参照として割り当て、参照画像を使って登場人物・場所・小道具を固定する  \n動作を明示する（例: 画像1のキャラクターが画像4の紙を画像2のキャラクターに手渡す）ことで演技を誘導する  \n台詞をそのまま記述して会話内容を指定する（例: 「よろしくお願いします。」）",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/tokyo_Valentine/status/2081940415973048471",
+  "sourcePublishedAt": "2026-07-28",
+  "author": {
+    "name": "とすくん",
+    "link": "https://x.com/tokyo_Valentine"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "スタイル:実写映画。をプロンプトに入れて実写映画風のルックに指定する  \nBGM:なし を指定して生成動画からBGMを除外する  \nシーン1/シーン2のようにシーン分割して、各シーンごとに状況・動作・台詞を具体的に書き分ける  \n画像1/画像2をキャラクター参照、画像3を部屋（背景）参照、画像4を小道具（紙）参照として割り当て、参照画像を使って登場人物・場所・小道具を固定する  \n動作を明示する（例: 画像1のキャラクターが画像4の紙を画像2のキャラクターに手渡す）ことで演技を誘導する  \n台詞をそのまま記述して会話内容を指定する（例: 「よろしくお願いします。」）",
+  "translations": {
+    "en": {
+      "content": "Specify “Style: live-action film” in the prompt to give it a live-action cinematic look.  \nSpecify “BGM: none” to exclude background music from the generated video.  \nDivide the prompt into scenes such as Scene 1 / Scene 2, and describe the situation, actions, and dialogue in detail for each scene.  \nAssign Image 1 / Image 2 as character references, Image 3 as the room (background) reference, and Image 4 as the prop (paper) reference, using the reference images to keep the characters, location, and props consistent.  \nClearly specify actions (e.g., the character in Image 1 hands the paper in Image 4 to the character in Image 2) to guide the performance.  \nWrite the dialogue exactly as it should be spoken to specify the conversation content (e.g., “Nice to meet you.”)"
+    },
+    "es": {
+      "content": "Estilo: live-action film. Añádelo al prompt para especificar un look de película de acción real.  \nBGM: none. Especifica esto para excluir la música de fondo del video generado.  \nDivide la escena en Scene 1 / Scene 2, etc., y describe de forma concreta la situación, las acciones y los diálogos de cada escena por separado.  \nAsigna Image 1 / Image 2 como referencias de personajes, Image 3 como referencia de la habitación (fondo) e Image 4 como referencia de utilería (papel), y usa las imágenes de referencia para fijar a los personajes, los lugares y los objetos.  \nIndica las acciones de forma explícita (por ejemplo: el personaje de Image 1 le entrega el papel de Image 4 al personaje de Image 2) para guiar la actuación.  \nEscribe los diálogos tal cual para especificar el contenido de la conversación (por ejemplo: 「よろしくお願いします。」)"
+    },
+    "fr": {
+      "content": "Style : film en prises de vue réelles. À inclure dans le prompt pour obtenir un rendu de type film live-action.  \nBGM : none. À spécifier pour exclure la musique de fond de la vidéo générée.  \nDécouper en scènes comme Scene 1 / Scene 2, et décrire séparément et de manière précise, pour chaque scène, la situation, les actions et les répliques.  \nAttribuer Image 1 / Image 2 comme références des personnages, Image 3 comme référence de la pièce (arrière-plan), et Image 4 comme référence de l’accessoire (papier), afin de figer les personnages, les lieux et les objets à l’aide des images de référence.  \nIndiquer clairement les actions (par exemple : le personnage de l’image 1 remet le papier de l’image 4 au personnage de l’image 2) pour guider le jeu d’acteur.  \nÉcrire les répliques telles quelles pour préciser le contenu du dialogue (par exemple : « Enchanté de vous rencontrer. »)"
+    },
+    "ko": {
+      "content": "스타일: 실사 영화.를 prompt에 넣어 실사 영화풍의 룩으로 지정한다  \nBGM: 없음 을 지정해 생성 영상에서 BGM을 제외한다  \n시ーン1/시ーン2처럼 장면을 분할하고, 각 장면마다 상황·동작·대사를 구체적으로 나눠서 작성한다  \n이미지1/이미지2를 캐릭터 참조, 이미지3을 방(배경) 참조, 이미지4를 소품(종이) 참조로 할당해, 참조 이미지를 사용하여 등장인물·장소·소품을 고정한다  \n동작을 명시한다(예: 이미지1의 캐릭터가 이미지4의 종이를 이미지2의 캐릭터에게 건네준다)로 연기를 유도한다  \n대사를 그대로 적어 대화 내용을 지정한다(예: 「잘 부탁드립니다.」)"
+    },
+    "pt": {
+      "content": "Estilo: live-action film. Adicione isso ao prompt para especificar um visual de filme live-action.  \nBGM: none. Especifique isso para excluir a BGM do vídeo gerado.  \nDivida em cenas, como Scene 1 / Scene 2, e descreva separadamente, para cada cena, a situação, as ações e os diálogos de forma específica.  \nAtribua Image 1 / Image 2 como referência de personagem, Image 3 como referência do quarto (fundo) e Image 4 como referência de adereço (papel), usando as imagens de referência para fixar personagens, locais e objetos.  \nEspecifique as ações de forma clara (por exemplo: o personagem da Image 1 entrega o papel da Image 4 ao personagem da Image 2) para orientar a atuação.  \nEscreva as falas exatamente como são para definir o conteúdo da conversa (por exemplo: 「よろしくお願いします。」)."
+    },
+    "zh": {
+      "content": "风格：实拍电影。将其写入 prompt 中，以指定为实拍电影风格的视觉效果  \nBGM：无。指定后可从生成视频中排除 BGM  \n像“场景1 / 场景2”这样进行场景拆分，并在每个场景中分别具体写明状况、动作和台词  \n将图片1 / 图片2指定为角色参考，图片3指定为房间（背景）参考，图片4指定为道具（纸张）参考，使用参考图来固定登场人物、地点和道具  \n明确写出动作（例如：图片1中的角色将图片4中的纸递给图片2中的角色），以引导演技  \n直接写出台词来指定对话内容（例如：“请多关照。”）"
+    }
+  }
+}

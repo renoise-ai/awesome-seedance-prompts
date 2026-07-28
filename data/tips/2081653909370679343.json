@@ -1,0 +1,41 @@
+{
+  "id": "2081653909370679343",
+  "title": "Stop using generic prompts like cinematic shot, dramatic lighting, 8k; instead…",
+  "content": "Stop using generic prompts like cinematic shot, dramatic lighting, 8k; instead, write a shot list with specific lens, camera height, camera movement, blocking, lighting source, location, and time period before generating in Seedance  \nSpecify concrete shot decisions in your Seedance prompt (e.g., 35mm, waist-level, static frame, subject enters from the left, practical light from a kerosene lamp, Lagos apartment, 1998) to avoid “average trailer” outputs  \nBuild a reference library of frames you love and use those references to define your visual decisions before generating any video in Seedance  \nStudy films and write down why a shot works, then translate those observations into explicit shot-list details for your Seedance generations",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/jaynwabueze/status/2081653909370679343",
+  "sourcePublishedAt": "2026-07-27",
+  "author": {
+    "name": "Jay Nwabueze",
+    "link": "https://x.com/jaynwabueze"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Stop using generic prompts like cinematic shot, dramatic lighting, 8k; instead, write a shot list with specific lens, camera height, camera movement, blocking, lighting source, location, and time period before generating in Seedance  \nSpecify concrete shot decisions in your Seedance prompt (e.g., 35mm, waist-level, static frame, subject enters from the left, practical light from a kerosene lamp, Lagos apartment, 1998) to avoid “average trailer” outputs  \nBuild a reference library of frames you love and use those references to define your visual decisions before generating any video in Seedance  \nStudy films and write down why a shot works, then translate those observations into explicit shot-list details for your Seedance generations",
+  "translations": {
+    "es": {
+      "content": "Deja de usar prompts genéricos como cinematic shot, dramatic lighting, 8k; en su lugar, escribe una shot list con lente específico, altura de cámara, movimiento de cámara, blocking, fuente de iluminación, ubicación y período temporal antes de generar en Seedance  \nEspecifica decisiones concretas de plano en tu prompt de Seedance (por ejemplo, 35mm, a la altura de la cintura, static frame, el sujeto entra desde la izquierda, practical light de una lámpara de queroseno, apartamento en Lagos, 1998) para evitar resultados de “average trailer”  \nCrea una biblioteca de referencia con fotogramas que te encanten y usa esas referencias para definir tus decisiones visuales antes de generar cualquier video en Seedance  \nEstudia películas y anota por qué funciona un plano, luego traduce esas observaciones en detalles explícitos de shot list para tus generaciones en Seedance"
+    },
+    "fr": {
+      "content": "Arrêtez d’utiliser des prompts génériques comme cinematic shot, dramatic lighting, 8k ; à la place, rédigez une shot list avec des indications précises sur l’objectif, la hauteur de caméra, le mouvement de caméra, le blocking, la source de lumière, le lieu et la période avant de générer dans Seedance  \nPrécisez des choix de plan concrets dans votre prompt Seedance (par exemple : 35mm, à hauteur de taille, cadre fixe, le sujet entre par la gauche, lumière pratique d’une lampe à pétrole, appartement à Lagos, 1998) pour éviter des rendus de type « average trailer »  \nConstituez une bibliothèque de référence de plans que vous aimez et utilisez ces références pour définir vos choix visuels avant de générer n’importe quelle vidéo dans Seedance  \nÉtudiez des films et notez pourquoi un plan fonctionne, puis traduisez ces observations en détails explicites de shot list pour vos générations Seedance"
+    },
+    "ja": {
+      "content": "「cinematic shot」「dramatic lighting」「8k」といった一般的なプロンプトはやめましょう。代わりに、Seedanceで生成する前に、レンズ、カメラの高さ、カメラの動き、ブロッキング、光源、ロケーション、時代設定まで具体的に書いたショットリストを作成してください。  \nSeedanceのpromptでは、具体的なショットの決定事項を明記しましょう（例: 35mm、腰の高さ、静止フレーム、被写体が左から入ってくる、灯油ランプの実用光、ラゴスのアパート、1998年）。そうすることで、「平均的な予告編」っぽい出力を避けられます。  \n気に入ったフレームの参考ライブラリを作り、それらの参照を使って、Seedanceで動画を生成する前に視覚的な判断基準を定義しましょう。  \n映画を研究し、なぜそのショットが機能しているのかを書き留め、その観察結果をSeedanceの生成用ショットリストの具体的な詳細に落とし込みましょう。"
+    },
+    "ko": {
+      "content": "Seedance에서 생성하기 전에 cinematic shot, dramatic lighting, 8k 같은 일반적인 프롬프트는 그만 쓰고, 대신 렌즈, 카메라 높이, 카메라 움직임, 블로킹, 조명 स्रोत, 장소, 시대를 구체적으로 적은 shot list를 작성하세요  \nSeedance 프롬프트에 구체적인 shot 결정을 명시하세요(예: 35mm, 허리 높이, 정지된 프레임, 피사체가 왼쪽에서 들어옴, 등유 램프의 practical light, 라고스 아파트, 1998) — 그래야 “평범한 트레일러” 같은 결과를 피할 수 있습니다  \n좋아하는 프레임의 레퍼런스 라이브러리를 만들고, Seedance에서 어떤 영상을 생성하기 전에 그 레퍼런스를 바탕으로 시각적 결정을 정의하세요  \n영화를 분석해 왜 어떤 shot이 효과적인지 적어두고, 그 관찰을 Seedance 생성용 명시적인 shot-list 세부사항으로 옮기세요"
+    },
+    "pt": {
+      "content": "Pare de usar prompts genéricos como cinematic shot, dramatic lighting, 8k; em vez disso, escreva uma shot list com lente específica, altura da câmera, movimento de câmera, blocking, fonte de luz, localização e período histórico antes de gerar no Seedance  \nEspecifique decisões concretas de shot no seu prompt do Seedance (por exemplo, 35mm, na altura da cintura, frame estático, o sujeito entra pela esquerda, luz prática de uma lamparina a querosene, apartamento em Lagos, 1998) para evitar resultados com “cara de trailer genérico”  \nCrie uma biblioteca de referência com frames que você ama e use essas referências para definir suas decisões visuais antes de gerar qualquer vídeo no Seedance  \nEstude filmes e anote por que uma cena funciona, depois traduza essas observações em detalhes explícitos de shot list para suas gerações no Seedance"
+    },
+    "zh": {
+      "content": "不要再使用诸如 cinematic shot、dramatic lighting、8k 之类的通用提示词；在使用 Seedance 生成之前，先写一份镜头清单，明确镜头焦段、机位高度、镜头运动、人物调度、光源、地点和时间背景。  \n在你的 Seedance prompt 中指定具体的镜头决策（例如：35mm、腰部高度、静态画面、主体从左侧进入、煤油灯的实景光、拉各斯公寓、1998 年），以避免生成出“平均水准的预告片”式结果。  \n建立一个你喜欢的画面参考库，并在生成任何 Seedance 视频之前，利用这些参考来定义你的视觉决策。  \n研究电影，并记录某个镜头为什么有效，然后把这些观察转化为适用于 Seedance 生成的明确镜头清单细节。"
+    }
+  }
+}
