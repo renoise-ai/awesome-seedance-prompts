@@ -1,0 +1,42 @@
+{
+  "id": "2082108818591228350",
+  "title": "用 Seedance 2.0 的「深度视频」功能上传参考视频来驱动生成，复刻复杂高难度动作/舞蹈等细节。",
+  "content": "用 Seedance 2.0 的「深度视频」功能上传参考视频来驱动生成，复刻复杂高难度动作/舞蹈等细节。",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082108461387591680/img/Cv2X6P1YJ33YBr_v.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082108818591228350.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2082108818591228350",
+  "sourcePublishedAt": "2026-07-28",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用 Seedance 2.0 的「深度视频」功能上传参考视频来驱动生成，复刻复杂高难度动作/舞蹈等细节。",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.0’s “Deep Video” feature to upload a reference video to drive generation and recreate the details of complex, high-difficulty actions, dances, and more."
+    },
+    "es": {
+      "content": "Usa la función de «deep video» de Seedance 2.0 para subir un video de referencia y guiar la generación, recreando detalles de acciones o bailes complejos y de alta dificultad."
+    },
+    "fr": {
+      "content": "Utilisez la fonction « vidéo profonde » de Seedance 2.0 pour téléverser une vidéo de référence afin de guider la génération et reproduire des détails complexes et difficiles, comme des mouvements ou des chorégraphies."
+    },
+    "ja": {
+      "content": "Seedance 2.0 の「深度ビデオ」機能を使って参考動画をアップロードし、生成を駆動して、複雑で難易度の高い動作やダンスなどのディテールを再現します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0의 「딥 비디오」 기능으로 참고 영상을 업로드해 생성을 구동하고, 복잡하고 난도가 높은 동작/댄스 등의 디테일을 재현합니다."
+    },
+    "pt": {
+      "content": "Use o recurso de “deep video” do Seedance 2.0 para enviar um vídeo de referência e orientar a geração, recriando detalhes de movimentos complexos e de alta dificuldade, como coreografias e danças."
+    }
+  }
+}

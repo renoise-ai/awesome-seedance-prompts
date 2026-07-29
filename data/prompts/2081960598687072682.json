@@ -1,0 +1,40 @@
+{
+  "id": "2081960598687072682",
+  "title": "生成一段真人实拍动物舞枪的短视频，保持猫咪的写实毛发、自然光照、真实材质。将的猫 替换成[你上传的图片名称]，其它的运镜，动作，道具，音效，背景音乐等元素保持完…",
+  "content": "生成一段真人实拍动物舞枪的短视频，保持猫咪的写实毛发、自然光照、真实材质。将的猫 替换成[你上传的图片名称]，其它的运镜，动作，道具，音效，背景音乐等元素保持完全不变",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081959762170953729/img/aDUnhEc2u2v_I9XS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081960598687072682.mp4",
+  "sourceLink": "https://x.com/TanLuAI/status/2081960598687072682",
+  "sourcePublishedAt": "2026-07-28",
+  "author": {
+    "name": "探路AI",
+    "link": "https://x.com/TanLuAI"
+  },
+  "tags": [
+    "Animals",
+    "Pets",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "en": {
+      "content": "Generate a short live-action-style video of an animal performing a spear dance, preserving the cat’s realistic fur, natural lighting, and authentic textures. Replace the cat with [the name of the image you uploaded], while keeping all other elements—camera movement, actions, props, sound effects, background music, etc.—exactly unchanged."
+    },
+    "es": {
+      "content": "Genera un video corto de acción real de un animal bailando con una lanza, manteniendo el pelaje realista del gato, la iluminación natural y los materiales auténticos. Sustituye el gato por [el nombre de la imagen que subiste]; los demás elementos, como el movimiento de cámara, las acciones, los accesorios, los efectos de sonido, la música de fondo, etc., deben permanecer completamente sin cambios."
+    },
+    "fr": {
+      "content": "Générez une courte vidéo en prise de vue réelle d’un animal exécutant une danse avec une lance, en conservant le pelage réaliste du chat, l’éclairage naturel et les matériaux authentiques. Remplacez le chat par [nom de l’image que vous avez téléversée] ; tous les autres éléments, tels que les mouvements de caméra, les actions, les accessoires, les effets sonores, la musique de fond, etc., doivent rester strictement inchangés."
+    },
+    "ja": {
+      "content": "---\nGenerate a short live-action video of a real animal performing a spear dance, preserving the cat’s realistic fur, natural lighting, and authentic textures. Replace the cat with [the name of the image you uploaded], while keeping all other elements—camera movement, actions, props, sound effects, background music, etc.—exactly unchanged.\n---"
+    },
+    "ko": {
+      "content": "---\n실사 촬영한 동물이 창을 휘두르는 짧은 영상을 생성하세요. 고양이의 사실적인 털, 자연스러운 조명, 실제 같은 질감을 유지하세요. 고양이를 [업로드한 이미지 이름]으로 교체하고, 그 외의 카메라 워크, 동작, 소품, 음향 효과, 배경 음악 등의 요소는 완전히 그대로 유지하세요.\n---"
+    },
+    "pt": {
+      "content": "Gere um vídeo curto em live-action de um animal dançando com uma lança, mantendo o pelo realista do gato, a iluminação natural e os materiais reais. Substitua o gato por [nome da imagem que você enviou]; todos os outros elementos, como movimentos de câmera, ações, adereços, efeitos sonoros, trilha sonora e cenário, devem permanecer completamente inalterados."
+    }
+  }
+}

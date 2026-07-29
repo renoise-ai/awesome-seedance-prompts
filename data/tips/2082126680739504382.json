@@ -1,0 +1,42 @@
+{
+  "id": "2082126680739504382",
+  "title": "Start from already validated static Meta ads and turn them into short videos to…",
+  "content": "Start from already validated static Meta ads and turn them into short videos to quickly increase creative diversity  \nUse a workflow where you analyze a static ad, generate two video concepts (one simple animation and one more creative), approve the best concept(s), then animate them into videos using Seedance 2.0  \nGuide the model by selecting/approving the strongest generated concepts (your role is taste and direction)",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082126518315102208/img/1km2lSF4b7AqJpOU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082126680739504382.mp4",
+  "sourceLink": "https://x.com/raph_guilhem/status/2082126680739504382",
+  "sourcePublishedAt": "2026-07-28",
+  "author": {
+    "name": "Raph Guilhem",
+    "link": "https://x.com/raph_guilhem"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start from already validated static Meta ads and turn them into short videos to quickly increase creative diversity  \nUse a workflow where you analyze a static ad, generate two video concepts (one simple animation and one more creative), approve the best concept(s), then animate them into videos using Seedance 2.0  \nGuide the model by selecting/approving the strongest generated concepts (your role is taste and direction)",
+  "translations": {
+    "es": {
+      "content": "Parte de anuncios estáticos de Meta ya validados y conviértelos en videos cortos para aumentar rápidamente la diversidad creativa  \nUsa un flujo de trabajo en el que analices un anuncio estático, generes dos conceptos de video (uno con una animación simple y otro más creativo), apruebes el/los mejor(es) concepto(s) y luego los conviertas en videos usando Seedance 2.0  \nGuía al modelo seleccionando/aprobando los conceptos generados más sólidos (tu función es aportar criterio y dirección)"
+    },
+    "fr": {
+      "content": "Partez de publicités Meta statiques déjà validées et transformez-les en courtes vidéos pour augmenter rapidement la diversité créative  \nUtilisez un workflow dans lequel vous analysez une publicité statique, générez deux concepts vidéo (une animation simple et une autre plus créative), approuvez le ou les meilleurs concepts, puis les animez en vidéos à l’aide de Seedance 2.0  \nGuide the model by selecting/approving the strongest generated concepts (your role is taste and direction)"
+    },
+    "ja": {
+      "content": "すでに検証済みの静止画Meta広告を起点に、短い動画へ変換してクリエイティブの多様性を素早く高める  \n静止画広告を分析し、2つの動画コンセプト（1つはシンプルなアニメーション、もう1つはよりクリエイティブなもの）を生成し、最適なコンセプトを承認したうえで、Seedance 2.0を使ってそれらを動画化するワークフローを活用する  \n最も強い生成コンセプトを選択・承認することでモデルを導く（あなたの役割はセンスと方向性の提示）"
+    },
+    "ko": {
+      "content": "이미 검증된 정적 Meta 광고를 출발점으로 삼아, 이를 짧은 영상으로 전환해 크리에이티브 다양성을 빠르게 늘리세요  \n정적 광고를 분석한 뒤 두 가지 영상 콘셉트(하나는 단순한 애니메이션, 다른 하나는 더 창의적인 방향)를 생성하고, 가장 좋은 콘셉트를 승인한 다음, Seedance 2.0을 사용해 이를 영상으로 애니메이션화하는 워크플로를 활용하세요  \n가장 강력하게 생성된 콘셉트를 선택/승인함으로써 모델을 가이드하세요(당신의 역할은 취향과 방향성입니다)"
+    },
+    "pt": {
+      "content": "Comece com anúncios estáticos da Meta já validados e transforme-os em vídeos curtos para aumentar rapidamente a diversidade criativa  \nUse um fluxo de trabalho em que você analisa um anúncio estático, gera dois conceitos de vídeo (uma animação simples e outra mais criativa), aprova o(s) melhor(es) conceito(s) e, então, os anima em vídeos usando o Seedance 2.0  \nOriente o modelo selecionando/aprovando os conceitos gerados mais fortes (seu papel é ter bom gosto e dar direção)"
+    },
+    "zh": {
+      "content": "从已经验证有效的静态 Meta 广告出发，将其转化为短视频，以快速提升创意多样性  \n采用这样的工作流程：先分析一则静态广告，生成两个视频概念（一个是简单动画，另一个更具创意），批准最佳概念，然后使用 Seedance 2.0 将其制作成视频  \n通过选择/批准最强的生成概念来引导模型（你的角色是审美判断和方向把控）"
+    }
+  }
+}

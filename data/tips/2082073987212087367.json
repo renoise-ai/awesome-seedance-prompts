@@ -1,0 +1,43 @@
+{
+  "id": "2082073987212087367",
+  "title": "実写動画をDepth Anything（falのdepth-anything-video）で深度動画に変換し、Seedanceの動き参照として使う",
+  "content": "実写動画をDepth Anything（falのdepth-anything-video）で深度動画に変換し、Seedanceの動き参照として使う  \nSeedanceでは深度動画を動き参照に、デザインシート4枚を見た目参照に設定して生成する  \nfalのdepth-anything-videoはLargeをグレースケール指定で回して深度動画を作る  \nDepth Anythingの公式Spaceを使うと無料で動画変換でき、解像度とFPSを選んで出力できる  \n深度動画を保存しておき、キャラ（見た目参照）だけ差し替えて同じ動きを再利用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082073882501279744/img/PlcbjH6usBSTg89t.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082073987212087367.mp4",
+  "sourceLink": "https://x.com/ryo05m/status/2082073987212087367",
+  "sourcePublishedAt": "2026-07-28",
+  "author": {
+    "name": "Ryo@AI動画×AIツール紹介",
+    "link": "https://x.com/ryo05m"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "実写動画をDepth Anything（falのdepth-anything-video）で深度動画に変換し、Seedanceの動き参照として使う  \nSeedanceでは深度動画を動き参照に、デザインシート4枚を見た目参照に設定して生成する  \nfalのdepth-anything-videoはLargeをグレースケール指定で回して深度動画を作る  \nDepth Anythingの公式Spaceを使うと無料で動画変換でき、解像度とFPSを選んで出力できる  \n深度動画を保存しておき、キャラ（見た目参照）だけ差し替えて同じ動きを再利用する",
+  "translations": {
+    "en": {
+      "content": "Convert live-action video into a depth video using Depth Anything (fal’s depth-anything-video), then use it as motion reference for Seedance.  \nIn Seedance, set the depth video as the motion reference and the four design sheets as visual references to generate the result.  \nfal’s depth-anything-video creates a depth video by running Large with grayscale enabled.  \nIf you use Depth Anything’s official Space, you can convert videos for free and choose the resolution and FPS for output.  \nSave the depth video, then swap out only the character (visual reference) and reuse the same motion.\n\n--- THREAD CONTINUATION ---\n[Thread 1] I used fal’s depth-anything-video. I ran Large with grayscale enabled.\n\nIf you want to try video directly, the official Space is free, and you can also choose the resolution and FPS.\nhttps://t.co/kIBgivWKoh\n\nIf you only need still images, this one is faster and doesn’t require registration.\nhttps://t.co/7DjgRk884f"
+    },
+    "es": {
+      "content": "Convertir un video de acción real en un video de profundidad con Depth Anything (fal depth-anything-video) y usarlo como referencia de movimiento en Seedance  \nEn Seedance, se configura el video de profundidad como referencia de movimiento y las 4 hojas de diseño como referencia visual para generar  \nfal depth-anything-video de fal crea el video de profundidad ejecutando Large con la opción de escala de grises  \nSi usas el Space oficial de Depth Anything, puedes convertir videos gratis, eligiendo la resolución y el FPS de salida  \nGuarda el video de profundidad y reutiliza el mismo movimiento sustituyendo solo al personaje (referencia visual)\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Lo que usé fue fal depth-anything-video. Ejecuté Large con la opción de escala de grises.\n\nSi quieres probar el video tal cual, el Space oficial es gratis y también permite elegir la resolución y el FPS.\nhttps://t.co/kIBgivWKoh\n\nSi solo es una imagen fija, esta opción sin registro es más rápida.\nhttps://t.co/7DjgRk884f"
+    },
+    "fr": {
+      "content": "Convertir une vidéo en prise de vue réelle en vidéo de profondeur avec Depth Anything (fal depth-anything-video), puis l’utiliser comme référence de mouvement pour Seedance  \nDans Seedance, configurer la vidéo de profondeur comme référence de mouvement et les 4 feuilles de design comme références visuelles pour générer la vidéo  \nAvec fal depth-anything-video, lancer le modèle Large en mode niveaux de gris pour créer une vidéo de profondeur  \nEn utilisant le Space officiel de Depth Anything, on peut convertir des vidéos gratuitement, en choisissant la résolution et le FPS de sortie  \nEnregistrer la vidéo de profondeur, puis réutiliser le même mouvement en remplaçant uniquement le personnage (référence visuelle)\n\n--- THREAD CONTINUATION ---\n[Thread 1] J’ai utilisé fal depth-anything-video. J’ai lancé le modèle Large en mode niveaux de gris.\n\nSi vous voulez tester directement une vidéo, le Space officiel est gratuit, et vous pouvez aussi choisir la résolution et le FPS.\nhttps://t.co/kIBgivWKoh\n\nSi vous ne voulez traiter que des images fixes, cette option ne nécessite pas d’inscription et est plus rapide.\nhttps://t.co/7DjgRk884f\n---"
+    },
+    "ko": {
+      "content": "실사 영상을 Depth Anything(fal의 depth-anything-video)으로 깊이 영상으로 변환해, Seedance의 움직임 참조로 사용한다  \nSeedance에서는 깊이 영상을 동작 참조로, 디자인 시트 4장을 외형 참조로 설정해 생성한다  \nfal의 depth-anything-video는 Large를 그레이스케일 지정으로 돌려 깊이 영상을 만든다  \nDepth Anything의 공식 Space를 사용하면 무료로 영상 변환이 가능하고, 해상도와 FPS를 선택해 출력할 수 있다  \n깊이 영상을 저장해 두고, 캐릭터(외형 참조)만 바꿔 같은 움직임을 재사용한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 사용한 것은 fal의 depth-anything-video. Large를 그레이스케일 지정으로 돌리고 있습니다.\n\n영상을 그대로 시험해 보려면 공식 Space가 무료이며, 해상도와 FPS도 선택할 수 있다.\nhttps://t.co/kIBgivWKoh\n\n정지화상만이라면 등록 없이 사용할 수 있는 이쪽이 더 빠르다.\nhttps://t.co/7DjgRk884f"
+    },
+    "pt": {
+      "content": "Converter vídeos em live-action em vídeos de profundidade com o Depth Anything (fal depth-anything-video) e usá-los como referência de movimento no Seedance  \nNo Seedance, definir o vídeo de profundidade como referência de movimento e quatro design sheets como referência visual para gerar o resultado  \nNo fal depth-anything-video, executar o modelo Large com a opção em escala de cinza para criar o vídeo de profundidade  \nUsando o Space oficial do Depth Anything, é possível converter vídeos gratuitamente, escolhendo a resolução e o FPS de saída  \nSalvar o vídeo de profundidade e reutilizar o mesmo movimento depois, trocando apenas o personagem (referência visual)\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] O que usei foi o fal depth-anything-video. Estou executando o Large com a opção em escala de cinza.\n\nSe quiser testar o vídeo diretamente, o Space oficial é gratuito e também permite escolher a resolução e o FPS.\nhttps://t.co/kIBgivWKoh\n\nSe for apenas uma imagem estática, esta opção aqui é mais rápida e não exige cadastro.\nhttps://t.co/7DjgRk884f"
+    },
+    "zh": {
+      "content": "将实拍视频通过 Depth Anything（fal 的 depth-anything-video）转换为深度视频，并将其作为 Seedance 的动作参考  \n在 Seedance 中，将深度视频设为动作参考，将 4 张设计稿设为外观参考来生成  \nfal 的 depth-anything-video 通过指定 Large 和灰度模式运行，生成深度视频  \n使用 Depth Anything 的官方 Space 可以免费进行视频转换，还能选择分辨率和 FPS 输出  \n保存深度视频后，只替换角色（外观参考），即可复用相同的动作\n\n--- THREAD CONTINUATION ---\n[Thread 1] 我用的是 fal 的 depth-anything-video。通过指定 Large 和灰度模式运行。\n\n如果想直接试视频，官方 Space 是免费的，而且还能选择分辨率和 FPS。\nhttps://t.co/kIBgivWKoh\n\n如果只是静态图，这个无需注册的更快。\nhttps://t.co/7DjgRk884f"
+    }
+  }
+}

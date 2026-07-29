@@ -1,0 +1,42 @@
+{
+  "id": "2082054100624236822",
+  "title": "用分秒时间轴写Seedance提示词（如0-1秒/1-2秒/2-3秒…），逐段指定每秒的服装、动作和表情来实现10秒极速变装效果",
+  "content": "用分秒时间轴写Seedance提示词（如0-1秒/1-2秒/2-3秒…），逐段指定每秒的服装、动作和表情来实现10秒极速变装效果  \n在每个时间段加入“遮挡/挡脸/扫镜头”等过渡动作（如甩发挡脸、交叉挡脸、甩袖扫镜头、捂脸分开）来触发无缝换装转场",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/PixelAigc/status/2082054100624236822",
+  "sourcePublishedAt": "2026-07-28",
+  "author": {
+    "name": "PixelAIGC",
+    "link": "https://x.com/PixelAigc"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "GRWM",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "用分秒时间轴写Seedance提示词（如0-1秒/1-2秒/2-3秒…），逐段指定每秒的服装、动作和表情来实现10秒极速变装效果  \n在每个时间段加入“遮挡/挡脸/扫镜头”等过渡动作（如甩发挡脸、交叉挡脸、甩袖扫镜头、捂脸分开）来触发无缝换装转场",
+  "translations": {
+    "en": {
+      "content": "Write Seedance prompts using a seconds-based timeline (e.g., 0–1s / 1–2s / 2–3s…), specifying the outfit, actions, and facial expressions for each second to achieve a 10-second rapid outfit-change effect.\n\nIn each time segment, add transition actions such as “occlusion / covering the face / camera sweep” (e.g., hair flip covering the face, crossing arms to cover the face, sleeve sweep across the camera, covering the face and then revealing it) to trigger seamless costume-change transitions."
+    },
+    "es": {
+      "content": "Escribe prompts de Seedance usando una línea de tiempo en segundos y fracciones de segundo (por ejemplo, 0-1 s / 1-2 s / 2-3 s…), especificando por segmentos la ropa, los movimientos y las expresiones de cada segundo para lograr un efecto de cambio de vestuario ultrarrápido de 10 segundos.  \nEn cada intervalo de tiempo, añade acciones de transición como “ocultar”, “cubrirse la cara” o “pasar la cámara” (por ejemplo, sacudir el cabello para tapar la cara, cruzar las manos para cubrirla, mover la manga para barrer la cámara, cubrirse la cara y luego separarla) para activar una transición de cambio de ropa sin cortes."
+    },
+    "fr": {
+      "content": "Rédigez des prompts Seedance avec une timeline au niveau de la seconde (par exemple 0-1 s / 1-2 s / 2-3 s…), en spécifiant pour chaque segment la tenue, les mouvements et les expressions afin d’obtenir un effet de changement de tenue ultra-rapide en 10 secondes.  \nDans chaque intervalle, ajoutez des actions de transition comme « occlusion / cacher le visage / balayage de caméra » (par exemple : cheveux qui fouettent et cachent le visage, bras croisés devant le visage, manche qui balaie l’objectif, mains sur le visage puis séparation) pour déclencher une transition de changement de tenue fluide et sans couture."
+    },
+    "ja": {
+      "content": "Write Seedance prompts using a time axis in seconds and milliseconds (e.g., 0–1s / 1–2s / 2–3s...), specifying the outfit, actions, and facial expressions for each segment to achieve a 10-second rapid outfit-change effect.  \nIn each time segment, add transition actions such as “occlusion / covering the face / camera sweep” (e.g., hair flip covering the face, crossing arms to cover the face, sleeve sweep across the camera, covering the face then separating the hands) to trigger seamless outfit-change transitions."
+    },
+    "ko": {
+      "content": "Seedance prompt를 분초 타임라인으로 작성하세요(예: 0-1초 / 1-2초 / 2-3초…). 각 구간마다 매초의 의상, 동작, 표정을 구체적으로 지정해 10초 초고속 변신 효과를 구현합니다.  \n각 시간대에 “가림/얼굴 가리기/카메라 스윕” 같은 전환 동작(예: 머리카락을 휘둘러 얼굴 가리기, 팔을 교차해 얼굴 가리기, 소매를 휘둘러 카메라를 스윕하기, 얼굴을 가렸다가 벌리기)을 넣어 자연스러운 무전환 의상 교체를 유도합니다."
+    },
+    "pt": {
+      "content": "Escreva prompts para Seedance usando uma linha do tempo em segundos e frações de segundo (por exemplo, 0-1s / 1-2s / 2-3s...), especificando em cada trecho as roupas, os movimentos e as expressões de cada segundo para alcançar um efeito de troca de roupa ultrarrápida de 10 segundos  \nEm cada intervalo de tempo, adicione ações de transição como “oclusão / cobrir o rosto / varrer a câmera” (por exemplo, jogar o cabelo cobrindo o rosto, cruzar os braços cobrindo o rosto, balançar a manga varrendo a câmera, cobrir o rosto e depois afastar as mãos) para acionar uma transição de troca de roupa perfeita"
+    }
+  }
+}

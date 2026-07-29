@@ -1,0 +1,42 @@
+{
+  "id": "2081910034737619146",
+  "title": "フレーズは15秒以内にして、背景なし・音声のみの動画として用意する",
+  "content": "フレーズは15秒以内にして、背景なし・音声のみの動画として用意する  \nSeedance 2.0ではキャラ画像＋音声のみ動画をリファレンスにしてプロンプトを入力するとリップシンクの一貫性が上がる  \n音声だけを渡すとリズムが崩れやすいので、音声を動画にして渡すとリズムと口パクの整合性が改善する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081908571600830464/img/YJh0QbYGDX6Eqbrm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081910034737619146.mp4",
+  "sourceLink": "https://x.com/MiraMusic_AI/status/2081910034737619146",
+  "sourcePublishedAt": "2026-07-28",
+  "author": {
+    "name": "MiraMusic",
+    "link": "https://x.com/MiraMusic_AI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "フレーズは15秒以内にして、背景なし・音声のみの動画として用意する  \nSeedance 2.0ではキャラ画像＋音声のみ動画をリファレンスにしてプロンプトを入力するとリップシンクの一貫性が上がる  \n音声だけを渡すとリズムが崩れやすいので、音声を動画にして渡すとリズムと口パクの整合性が改善する",
+  "translations": {
+    "en": {
+      "content": "Keep the phrase within 15 seconds and prepare it as a video with no background, audio only.  \nIn Seedance 2.0, if you input a prompt using a character image plus an audio-only video as the reference, lip-sync consistency improves.  \nIf you provide audio alone, the rhythm is more likely to fall apart, so converting the audio into a video before passing it in improves the alignment between rhythm and lip movement."
+    },
+    "es": {
+      "content": "Haz que la frase dure menos de 15 segundos y prepárala como un video sin fondo, solo con audio.  \nEn Seedance 2.0, si introduces el prompt usando como referencia una imagen del personaje + un video solo con audio, mejora la consistencia del lip sync.  \nSi solo se entrega el audio, es más fácil que se rompa el ritmo; por eso, convertir el audio en video y entregarlo así mejora la coherencia entre el ritmo y el movimiento de labios."
+    },
+    "fr": {
+      "content": "La phrase doit durer moins de 15 secondes, et le contenu doit être préparé sous forme de vidéo sans arrière-plan, avec uniquement l’audio.  \nDans Seedance 2.0, si l’on saisit un prompt en prenant comme référence une image du personnage + une vidéo contenant uniquement l’audio, la cohérence du lip sync s’améliore.  \nSi l’on ne fournit que l’audio, le rythme a tendance à se désynchroniser ; en revanche, en transformant l’audio en vidéo avant de le fournir, on améliore l’alignement entre le rythme et le mouvement des lèvres."
+    },
+    "ko": {
+      "content": "프레이즈는 15초 이내로 하고, 배경 없이 음성만 있는 영상으로 준비한다  \nSeedance 2.0에서는 캐릭터 이미지 + 음성만 있는 영상을 레퍼런스로 삼아 prompt를 입력하면 lip sync의 일관성이 높아진다  \n음성만 전달하면 리듬이 흐트러지기 쉬우므로, 음성을 영상으로 만들어 전달하면 리듬과 입모양 싱크의 정합성이 개선된다"
+    },
+    "pt": {
+      "content": "Mantenha a frase em até 15 segundos e prepare-a como um vídeo sem fundo, apenas com áudio.  \nNo Seedance 2.0, ao inserir o prompt usando como referência uma imagem do personagem + um vídeo apenas com áudio, a consistência do lip sync melhora.  \nSe você fornecer apenas o áudio, o ritmo tende a se desestabilizar com mais facilidade; ao converter o áudio em vídeo e enviá-lo dessa forma, a consistência entre o ritmo e a sincronização labial melhora."
+    },
+    "zh": {
+      "content": "将台词控制在15秒以内，并准备成无背景、仅含音频的视频  \n在 Seedance 2.0 中，如果以“角色图像 + 仅音频视频”作为参考来输入 prompt，口型同步的一致性会更高  \n如果只提供音频，节奏更容易被打乱，因此将音频做成视频后再提供，可以改善节奏与口型的匹配度"
+    }
+  }
+}
