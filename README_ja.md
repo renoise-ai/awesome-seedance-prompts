@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **4905** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **2326** |
-| 🔄 最終更新 | **2026-07-29** |
+| 🔄 最終更新 | **2026-07-30** |
 
 ---
 
@@ -7566,4 +7566,4 @@ Build in this order for long-form coherence: references first → individual sce
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-29T20:57:29.135Z
+🤖 この README は自動生成されています。最終更新： 2026-07-30T02:29:45.116Z
