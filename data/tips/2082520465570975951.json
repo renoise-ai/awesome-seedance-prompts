@@ -1,0 +1,41 @@
+{
+  "id": "2082520465570975951",
+  "title": "Write Seedance 2 prompts in shooting-script syntax (clear actions, subjects…",
+  "content": "Write Seedance 2 prompts in shooting-script syntax (clear actions, subjects, and camera directions) to get better results from its text encoder.  \nDecide the intended scene and outcome before prompting, then specify concrete physical details (e.g., which hand holds the phone and how it’s used) to avoid implausible artifacts like objects fusing to faces.  \nExplicitly describe lighting and exposure conditions (e.g., subject between a lamp and open sky) so the model renders believable exposure instead of guessing.  \nUse long, detailed prompts (up to ~1000 characters per generation) to communicate timing, actions, and technical constraints more precisely.  \nPlan for heavy post: color grade (node-based), mix audio, add room tone, and cut/patch generated artifacts during editing.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/varien/status/2082520465570975951",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "VARIEN",
+    "link": "https://x.com/varien"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Write Seedance 2 prompts in shooting-script syntax (clear actions, subjects, and camera directions) to get better results from its text encoder.  \nDecide the intended scene and outcome before prompting, then specify concrete physical details (e.g., which hand holds the phone and how it’s used) to avoid implausible artifacts like objects fusing to faces.  \nExplicitly describe lighting and exposure conditions (e.g., subject between a lamp and open sky) so the model renders believable exposure instead of guessing.  \nUse long, detailed prompts (up to ~1000 characters per generation) to communicate timing, actions, and technical constraints more precisely.  \nPlan for heavy post: color grade (node-based), mix audio, add room tone, and cut/patch generated artifacts during editing.",
+  "translations": {
+    "es": {
+      "content": "Escribe prompts de Seedance 2 en sintaxis de guion de rodaje (acciones claras, sujetos y direcciones de cámara) para obtener mejores resultados de su codificador de texto.  \nDefine la escena y el resultado deseados antes de escribir el prompt; luego especifica detalles físicos concretos (por ejemplo, qué mano sostiene el teléfono y cómo se usa) para evitar artefactos inverosímiles como objetos fusionándose con rostros.  \nDescribe explícitamente las condiciones de iluminación y exposición (por ejemplo, sujeto entre una lámpara y el cielo abierto) para que el modelo renderice una exposición creíble en lugar de adivinar.  \nUsa prompts largos y detallados (hasta ~1000 caracteres por generación) para comunicar con mayor precisión el timing, las acciones y las restricciones técnicas.  \nPlanifica una posproducción intensa: etalonaje de color (basado en nodos), mezcla de audio, añadir room tone y cortar/parchear artefactos generados durante la edición.\n\n--- TUIT CITADO ---\nhttps://t.co/KblpoMHrq8\n---"
+    },
+    "fr": {
+      "content": "Rédigez des prompts Seedance 2 en syntaxe de scénario de tournage (actions claires, sujets et indications de caméra) afin d’obtenir de meilleurs résultats de son encodeur de texte.  \nDéfinissez la scène et le résultat souhaités avant de formuler le prompt, puis précisez des détails physiques concrets (par exemple, quelle main tient le téléphone et comment il est utilisé) afin d’éviter des artefacts invraisemblables comme des objets fusionnant avec des visages.  \nDécrivez explicitement les conditions d’éclairage et d’exposition (par exemple, un sujet entre une lampe et un ciel ouvert) pour que le modèle produise une exposition crédible au lieu de deviner.  \nUtilisez des prompts longs et détaillés (jusqu’à environ 1000 caractères par génération) pour communiquer plus précisément le timing, les actions et les contraintes techniques.  \nPrévoyez un important travail de postproduction : étalonnage des couleurs (par nœuds), mixage audio, ajout de room tone, et découpe/retouche des artefacts générés pendant le montage.\n\n--- TWEET CITÉ ---\nhttps://t.co/KblpoMHrq8\n---"
+    },
+    "ja": {
+      "content": "Seedance 2 の prompt は、text encoder からより良い結果を引き出すために、shooting-script の構文（明確な動作、被写体、カメラ指示）で書く。  \nprompt を書く前に、意図するシーンと結果を決め、そのうえで具体的な物理的ディテール（例：どちらの手でスマホを持ち、どう使うか）を指定して、物体が顔に融合するような不自然なアーティファクトを避ける。  \n照明と露出条件を明示的に記述し（例：被写体がランプと開いた空の間にいる）、モデルが推測ではなく、もっともらしい露出を描けるようにする。  \nタイミング、動作、技術的制約をより正確に伝えるために、長く詳細な prompt（1生成あたり最大約1000文字）を使う。  \n重めの post を前提に計画する：color grade（node-based）、音声ミックス、room tone の追加、編集時の生成アーティファクトのカット／修正。  \n\n--- QUOTED TWEET ---  \nhttps://t.co/KblpoMHrq8  \n---"
+    },
+    "ko": {
+      "content": "Seedance 2 프롬프트는 촬영 대본(shooting-script) 문법으로 작성하세요(명확한 동작, 피사체, 카메라 지시 포함). 이렇게 하면 텍스트 인코더에서 더 좋은 결과를 얻을 수 있습니다.  \n프롬프트를 쓰기 전에 의도한 장면과 결과를 먼저 정한 뒤, 구체적인 물리적 디테일(예: 어떤 손이 휴대폰을 들고 있고 어떻게 사용하는지)을 명시해 물체가 얼굴에 붙는 것 같은 비현실적인 아티팩트를 피하세요.  \n조명과 노출 조건도 명시적으로 설명하세요(예: 피사체가 램프와 열린 하늘 사이에 있음). 그래야 모델이 추측하지 않고 그럴듯한 노출을 렌더링합니다.  \n타이밍, 동작, 기술적 제약을 더 정확하게 전달하려면 길고 상세한 프롬프트를 사용하세요(생성당 최대 약 1000자).  \n후반 작업이 많이 들어갈 것을 염두에 두세요: 컬러 그레이딩(node-based), 오디오 믹싱, 룸 톤 추가, 편집 과정에서 생성된 아티팩트의 컷/패치 작업을 계획하세요.\n\n--- 인용된 트윗 ---\nhttps://t.co/KblpoMHrq8\n---"
+    },
+    "pt": {
+      "content": "Escreva prompts do Seedance 2 em sintaxe de roteiro de filmagem (ações claras, sujeitos e direções de câmera) para obter melhores resultados do seu text encoder.  \nDefina a cena e o resultado desejados antes de criar o prompt e, em seguida, especifique detalhes físicos concretos (por exemplo, qual mão segura o telefone e como ele é usado) para evitar artefatos implausíveis, como objetos fundindo-se ao rosto.  \nDescreva explicitamente as condições de iluminação e exposição (por exemplo, sujeito entre uma lâmpada e o céu aberto) para que o modelo renderize uma exposição crível em vez de adivinhar.  \nUse prompts longos e detalhados (até ~1000 caracteres por geração) para comunicar com mais precisão o timing, as ações e as restrições técnicas.  \nPlaneje uma pós-produção pesada: color grade (baseado em nodes), mixagem de áudio, adição de room tone e corte/patch de artefatos gerados durante a edição.\n\n--- TWEET CITADO ---\nhttps://t.co/KblpoMHrq8\n---"
+    },
+    "zh": {
+      "content": "使用 shooting-script 语法编写 Seedance 2 prompts（清晰的动作、主体和镜头指令），以更好地利用其文本编码器获得更佳结果。  \n在开始 prompt 之前，先确定预期场景和结果，然后指定具体的物理细节（例如，哪只手拿着手机以及如何使用），以避免出现物体与脸部融合之类的不合理伪影。  \n明确描述光照和曝光条件（例如，主体位于一盏灯和开阔天空之间），这样模型才能渲染出可信的曝光，而不是靠猜测。  \n使用较长、详细的 prompts（每次生成最多约 1000 个字符）来更精确地传达时间、动作和技术约束。  \n为大量后期制作做好规划：调色（基于节点）、混音、添加 room tone，并在剪辑中切除/修补生成伪影。\n\n--- 引用推文 ---\nhttps://t.co/KblpoMHrq8\n---"
+    }
+  }
+}

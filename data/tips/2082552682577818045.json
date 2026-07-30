@@ -1,0 +1,42 @@
+{
+  "id": "2082552682577818045",
+  "title": "Write your prompt to specific frame/timecodes (e.g., “1s static hold before the…",
+  "content": "Write your prompt to specific frame/timecodes (e.g., “1s static hold before the kiss,” “start transformation bloom at [timecode],” “whip pan on the beat”) instead of describing the overall vibe to get Seedance 2.0 to hit exact timing cues.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082552643256303616/img/M6YWwf5voiqvBHgD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082552682577818045.mp4",
+  "sourceLink": "https://x.com/godswayfoundinc/status/2082552682577818045",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "God's Way Foundation",
+    "link": "https://x.com/godswayfoundinc"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Write your prompt to specific frame/timecodes (e.g., “1s static hold before the kiss,” “start transformation bloom at [timecode],” “whip pan on the beat”) instead of describing the overall vibe to get Seedance 2.0 to hit exact timing cues.",
+  "translations": {
+    "es": {
+      "content": "Escribe tu prompt con fotogramas/timecodes específicos (por ejemplo, “1s static hold before the kiss”, “start transformation bloom at [timecode]”, “whip pan on the beat”) en lugar de describir la vibra general para lograr que Seedance 2.0 acierte las señales de timing exactas."
+    },
+    "fr": {
+      "content": "Rédigez votre prompt en précisant des frames/timecodes spécifiques (par exemple : « maintien statique de 1 s avant le baiser », « lancer l’éclosion de la transformation à [timecode] », « whip pan sur le beat ») au lieu de décrire l’ambiance générale, afin d’obtenir de Seedance 2.0 qu’il respecte des repères temporels précis."
+    },
+    "ja": {
+      "content": "Seedance 2.0 に正確なタイミングの合図を合わせさせるには、全体的な雰囲気を説明するのではなく、特定のフレーム／タイムコードに基づいて prompt を書いてください（例: “1s static hold before the kiss,” “start transformation bloom at [timecode],” “whip pan on the beat”）。"
+    },
+    "ko": {
+      "content": "Seedance 2.0가 정확한 타이밍 신호를 맞추도록 하려면, 전체적인 분위기를 설명하기보다 특정 프레임/타임코드에 맞춰 prompt를 작성하세요. 예: “키스 직전 1초간 정지 홀드,” “\\[timecode]에서 변신 bloom 시작,” “비트에 맞춰 whip pan”"
+    },
+    "pt": {
+      "content": "Escreva seu prompt com quadros/timecodes específicos (por exemplo, “1s static hold before the kiss”, “start transformation bloom at [timecode]”, “whip pan on the beat”) em vez de descrever a vibe geral, para fazer o Seedance 2.0 acertar os cues de timing exatos."
+    },
+    "zh": {
+      "content": "将你的 prompt 具体到帧/时间码（例如：“1s static hold before the kiss”、“start transformation bloom at [timecode]”、“whip pan on the beat”），而不是只描述整体氛围，这样可以让 Seedance 2.0 精准命中时间点提示。"
+    }
+  }
+}

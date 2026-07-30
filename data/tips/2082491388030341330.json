@@ -1,0 +1,42 @@
+{
+  "id": "2082491388030341330",
+  "title": "Upload a base image to your agent and instruct it to use the image as a…",
+  "content": "Upload a base image to your agent and instruct it to use the image as a reference, then prompt it to create a 3×3 storyboard from that image to plan your shots.\n\nMake the storyboard prompt highly detailed to specify the exact shots you want, and remove the main keyword at the top before the actual prompt.\n\nUpload the generated storyboard back into the agent and ask it to generate the sequence using Seedance 2.0 4K so it converts the storyboard into a shot-by-shot cinematic sequence.\n\nInclude exact timestamps in your Seedance prompt to control how long each shot appears and to set pacing/flow.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/D_studioproject/status/2082491388030341330",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "DStudioproject",
+    "link": "https://x.com/D_studioproject"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Upload a base image to your agent and instruct it to use the image as a reference, then prompt it to create a 3×3 storyboard from that image to plan your shots.\n\nMake the storyboard prompt highly detailed to specify the exact shots you want, and remove the main keyword at the top before the actual prompt.\n\nUpload the generated storyboard back into the agent and ask it to generate the sequence using Seedance 2.0 4K so it converts the storyboard into a shot-by-shot cinematic sequence.\n\nInclude exact timestamps in your Seedance prompt to control how long each shot appears and to set pacing/flow.",
+  "translations": {
+    "es": {
+      "content": "Sube una imagen base a tu agente e indícale que use la imagen como referencia; luego pídele que cree un storyboard de 3×3 a partir de esa imagen para planificar tus tomas.\n\nHaz que el prompt del storyboard sea muy detallado para especificar exactamente las tomas que quieres, y elimina la palabra clave principal de la parte superior antes del prompt real.\n\nVuelve a subir el storyboard generado al agente y pídele que genere la secuencia usando Seedance 2.0 4K para que convierta el storyboard en una secuencia cinematográfica toma por toma.\n\nIncluye marcas de tiempo exactas en tu prompt de Seedance para controlar cuánto tiempo aparece cada toma y para definir el ritmo y la fluidez."
+    },
+    "fr": {
+      "content": "Téléchargez une image de base dans votre agent et demandez-lui d’utiliser cette image comme référence, puis invitez-le à créer un storyboard 3×3 à partir de cette image afin de planifier vos plans.\n\nRendez le prompt du storyboard très détaillé afin de préciser exactement les plans souhaités, et supprimez le mot-clé principal en haut avant le prompt proprement dit.\n\nTéléchargez le storyboard généré dans l’agent et demandez-lui de générer la séquence en utilisant Seedance 2.0 4K, afin qu’il transforme le storyboard en une séquence cinématique plan par plan.\n\nIncluez des horodatages exacts dans votre prompt Seedance pour contrôler la durée d’affichage de chaque plan et définir le rythme/la fluidité."
+    },
+    "ja": {
+      "content": "ベース画像をエージェントにアップロードし、その画像を参照として使うよう指示したうえで、その画像から3×3のストーリーボードを作成してショットの構成を計画するよう prompt してください。\n\nストーリーボード用の prompt は、希望する各ショットを正確に指定できるよう、できるだけ詳細にしてください。また、実際の prompt の前にあるメインキーワードは削除してください。\n\n生成されたストーリーボードを再度エージェントにアップロードし、Seedance 2.0 4K を使ってシーケンスを生成するよう依頼してください。これにより、ストーリーボードがショットごとの cinematic なシーケンスに変換されます。\n\nSeedance の prompt には、各ショットの表示時間を制御し、テンポや流れを調整するために、正確なタイムスタンプを含めてください。"
+    },
+    "ko": {
+      "content": "기본 이미지를 에이전트에 업로드한 다음, 그 이미지를 참고 이미지로 사용하도록 지시하고, 그 이미지로부터 샷 구성을 계획할 수 있도록 3×3 스토리보드를 생성하라고 프롬프트를 입력하세요.\n\n스토리보드 프롬프트는 원하는 정확한 샷을 지정할 수 있도록 매우 상세하게 작성하고, 실제 프롬프트 앞에 있는 메인 키워드는 제거하세요.\n\n생성된 스토리보드를 다시 에이전트에 업로드한 뒤, Seedance 2.0 4K를 사용해 시퀀스를 생성하도록 요청하면 스토리보드가 샷별 cinematic 시퀀스로 변환됩니다.\n\nSeedance 프롬프트에는 각 샷이 얼마나 오래 표시될지 제어하고 페이싱/흐름을 설정할 수 있도록 정확한 타임스탬프를 포함하세요."
+    },
+    "pt": {
+      "content": "Faça upload de uma imagem base para o seu agente e instrua-o a usar a imagem como referência; em seguida, peça que ele crie um storyboard 3×3 a partir dessa imagem para planejar seus planos.\n\nTorne o prompt do storyboard altamente detalhado para especificar exatamente os planos que você deseja e remova a palavra-chave principal no topo antes do prompt propriamente dito.\n\nFaça upload do storyboard gerado de volta para o agente e peça que ele gere a sequência usando Seedance 2.0 4K, para que ele converta o storyboard em uma sequência cinematográfica plano a plano.\n\nInclua timestamps exatos no seu prompt do Seedance para controlar por quanto tempo cada plano aparece e definir o ritmo/fluxo."
+    },
+    "zh": {
+      "content": "将一张基础图像上传到你的 agent，并指示它将该图像作为参考，然后提示它基于这张图像创建一个 3×3 分镜板，以规划你的镜头。\n\n让分镜板 prompt 尽可能详细，明确指定你想要的具体镜头，并在实际 prompt 之前删除顶部的主关键词。\n\n将生成的分镜板重新上传到 agent，并要求它使用 Seedance 2.0 4K 生成序列，将分镜板转换为逐镜头的 cinematic 序列。\n\n在你的 Seedance prompt 中包含精确的时间戳，以控制每个镜头的显示时长，并设置节奏/流动感。"
+    }
+  }
+}

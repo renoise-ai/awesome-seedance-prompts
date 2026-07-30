@@ -1,0 +1,41 @@
+{
+  "id": "2082328553987920261",
+  "title": "スタイル:実写映画。のようにスタイル指定を入れて実写映画調に寄せる",
+  "content": "スタイル:実写映画。のようにスタイル指定を入れて実写映画調に寄せる  \nBGM:なし と明記して無音で生成する  \n血の表現は一切禁止 のように禁止事項を明確に書いて不適切表現を避ける  \n画像1のキャラクターが画像3のオフィスで…のように参照画像（キャラ/背景）を指定してシーンの一貫性を出す  \n時計が18時になるのを確認して→PCをシャットダウンする のように行動を時系列で具体的に書いて動作を安定させる",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/tokyo_Valentine/status/2082328553987920261",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "とすくん",
+    "link": "https://x.com/tokyo_Valentine"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "スタイル:実写映画。のようにスタイル指定を入れて実写映画調に寄せる  \nBGM:なし と明記して無音で生成する  \n血の表現は一切禁止 のように禁止事項を明確に書いて不適切表現を避ける  \n画像1のキャラクターが画像3のオフィスで…のように参照画像（キャラ/背景）を指定してシーンの一貫性を出す  \n時計が18時になるのを確認して→PCをシャットダウンする のように行動を時系列で具体的に書いて動作を安定させる",
+  "translations": {
+    "en": {
+      "content": "Style: Add a style specification such as “live-action film” to steer the result toward a live-action cinematic look.  \nBGM: Explicitly state “none” to generate silence.  \nViolence/blood depiction: Clearly state prohibited items such as “no blood depiction at all” to avoid inappropriate expressions.  \nThe character in Image 1 is in the office from Image 3… Specify reference images (character/background) to maintain scene consistency.  \nAfter confirming that the clock has reached 18:00 → shut down the PC: Describe actions concretely in chronological order to stabilize the motion."
+    },
+    "es": {
+      "content": "Estilo: película de acción real. Añade una indicación de estilo como esta para acercarlo a un tono de live-action.  \nBGM: none. Indícalo explícitamente para generar en silencio.  \nProhibido cualquier representación de sangre. Escribe claramente las restricciones para evitar expresiones inapropiadas.  \nEl personaje de la imagen 1 en la oficina de la imagen 3… Especifica imágenes de referencia (personaje/fondo) para dar coherencia a la escena.  \nComprueba que el reloj marque las 18:00 → apaga el PC. Describe las acciones de forma concreta y cronológica para estabilizar el comportamiento."
+    },
+    "fr": {
+      "content": "Style : film en prises de vue réelles. Ajoutez une indication de style pour orienter le rendu vers un aspect de film live-action.  \nBGM : aucun — indiquez-le clairement pour générer une vidéo sans son.  \nInterdisez explicitement toute représentation de sang afin d’éviter les contenus inappropriés.  \nLe personnage de l’image 1 dans le bureau de l’image 3… spécifiez des images de référence (personnage / arrière-plan) pour assurer la cohérence de la scène.  \nVérifiez que l’horloge affiche 18 h, puis éteignez le PC — décrivez les actions de manière chronologique et précise pour stabiliser le comportement."
+    },
+    "ko": {
+      "content": "스타일: 실사 영화.처럼 스타일을 지정해 실사 영화풍으로 맞춘다  \nBGM: 없음이라고 명시해 무음으로 생성한다  \n혈액 표현은 일절 금지처럼 금지 사항을 명확히 적어 부적절한 표현을 피한다  \n이미지 1의 캐릭터가 이미지 3의 오피스에서…처럼 참조 이미지(캐릭터/배경)를 지정해 장면의 일관성을 높인다  \n시계가 18시가 되는 것을 확인한 뒤→PC를 종료한다처럼 행동을 시간 순서대로 구체적으로 적어 동작을 안정시킨다"
+    },
+    "pt": {
+      "content": "Estilo: filme live-action. Adicione uma indicação de estilo para aproximar o resultado de um filme em live-action.  \nBGM: nenhuma. Especifique isso claramente para gerar em silêncio.  \nProibido qualquer representação de sangue. Escreva as restrições de forma explícita para evitar conteúdo inadequado.  \nO personagem da imagem 1 no escritório da imagem 3... Especifique imagens de referência (personagem/cenário) para manter a consistência da cena.  \nDepois de confirmar que o relógio marcou 18h → desligar o PC. Descreva as ações de forma específica e em ordem cronológica para estabilizar o comportamento."
+    },
+    "zh": {
+      "content": "风格：实拍电影。通过加入这样的风格指定，来贴近实拍电影的质感。  \nBGM：无。明确写明，以无声方式生成。  \n禁止任何血腥表现。通过清楚写出禁止事项，避免不适当的表现。  \n让图片1中的角色出现在图片3的办公室中……通过指定参考图像（角色/背景），增强场景的一致性。  \n确认时钟到18点后→关闭PC。像这样按时间顺序具体写出动作，以使生成结果更稳定。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2082317585048306087",
+  "title": "プロンプトで全体の尺（長さ）を指定して音声生成の時間をコントロールする",
+  "content": "プロンプトで全体の尺（長さ）を指定して音声生成の時間をコントロールする  \nプロンプトで「いつ、誰が話すか」をタイムライン的に細かく指定して複数話者の発話タイミングを制御する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082316976807174144/img/b8uWLcQg5yXNtd0r.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082317585048306087.mp4",
+  "sourceLink": "https://x.com/hasamaru_studio/status/2082317585048306087",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "はさまるスタジオ (Hasamaru Studio)",
+    "link": "https://x.com/hasamaru_studio"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "プロンプトで全体の尺（長さ）を指定して音声生成の時間をコントロールする  \nプロンプトで「いつ、誰が話すか」をタイムライン的に細かく指定して複数話者の発話タイミングを制御する",
+  "translations": {
+    "en": {
+      "content": "Control the duration of audio generation by specifying the overall length in the prompt  \nUse the prompt to precisely specify “when” and “who” speaks in a timeline-like manner, controlling the speaking timing of multiple speakers"
+    },
+    "es": {
+      "content": "Controla la duración total de la generación de audio especificándola en el prompt  \nControla el timing de las intervenciones de varios hablantes especificando con detalle en el prompt, de forma cronológica, “cuándo” y “quién” habla"
+    },
+    "fr": {
+      "content": "Contrôler la durée de la génération audio en spécifiant la longueur totale dans le prompt  \nContrôler le timing des prises de parole de plusieurs locuteurs en précisant en détail, de manière chronologique, « quand » et « qui » parle dans le prompt"
+    },
+    "ko": {
+      "content": "프롬프트로 전체 길이(러닝타임)를 지정해 음성 생성 시간을 제어한다  \n프롬프트에서 “언제, 누가 말하는지”를 타임라인처럼 세밀하게 지정해 여러 화자의 발화 타이밍을 제어한다"
+    },
+    "pt": {
+      "content": "Controlar a duração da geração de áudio especificando a duração total no prompt  \nControlar o timing das falas de múltiplos falantes especificando em detalhes, de forma cronológica, “quando” e “quem” fala no prompt"
+    },
+    "zh": {
+      "content": "通过 prompt 指定整体时长（长度），控制音频生成的时间  \n通过 prompt 以时间线方式细致指定“何时、谁说话”，控制多说话者的发言时机"
+    }
+  }
+}

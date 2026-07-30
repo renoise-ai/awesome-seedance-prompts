@@ -1,0 +1,42 @@
+{
+  "id": "2082424523564188027",
+  "title": "Animate each keyframe in Seedance 2.0 as a short, isolated 3–5 second shot to…",
+  "content": "Animate each keyframe in Seedance 2.0 as a short, isolated 3–5 second shot to get real camera movement instead of a slideshow of stills.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082424421684535296/img/EEfDdMiHHPLHjZyu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082424523564188027.mp4",
+  "sourceLink": "https://x.com/NainsiDwiv50980/status/2082424523564188027",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "Nainsi Dwivedi",
+    "link": "https://x.com/NainsiDwiv50980"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Animate each keyframe in Seedance 2.0 as a short, isolated 3–5 second shot to get real camera movement instead of a slideshow of stills.",
+  "translations": {
+    "es": {
+      "content": "Anima cada keyframe en Seedance 2.0 como un plano corto e independiente de 3 a 5 segundos para obtener un movimiento de cámara real en lugar de una presentación de imágenes fijas."
+    },
+    "fr": {
+      "content": "Animez chaque keyframe dans Seedance 2.0 sous forme de plan court et isolé de 3 à 5 secondes afin d’obtenir un véritable mouvement de caméra plutôt qu’un diaporama d’images fixes."
+    },
+    "ja": {
+      "content": "Seedance 2.0では、各キーフレームを3〜5秒の短い独立したショットとしてアニメーション化し、静止画のスライドショーではなく、実際のカメラの動きを実現します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 각 keyframe을 3~5초짜리 짧고 독립적인 shot으로 애니메이션 처리해, 정지 이미지 슬라이드쇼가 아니라 실제 camera movement를 구현하세요."
+    },
+    "pt": {
+      "content": "Anime cada keyframe no Seedance 2.0 como um take curto e isolado de 3 a 5 segundos para obter movimento de câmera real, em vez de uma apresentação de slides de imagens estáticas."
+    },
+    "zh": {
+      "content": "将 Seedance 2.0 中的每个关键帧都制作成一个独立的 3–5 秒短镜头，以获得真实的镜头运动，而不是一组静态画面的幻灯片。"
+    }
+  }
+}

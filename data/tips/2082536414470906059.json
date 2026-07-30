@@ -1,0 +1,42 @@
+{
+  "id": "2082536414470906059",
+  "title": "Use a prompt structure that explicitly specifies physical and spatial…",
+  "content": "Use a prompt structure that explicitly specifies physical and spatial constraints for Seedance 2.0 (e.g., tire traction on dirt, gravity during high jumps, stadium lighting and smoke effects) to get realistic motion and rendering.\n\nAvoid overly bloated prompts in Seedance 2.0, as excessive detail can trigger glitches like clipping physics, unnatural vehicle sliding on ramps, and broken lighting.\n\nAvoid vague prompts in Seedance 2.0; include essential depth/scale and heavy-physics details to prevent flattened terrain and toy-like vehicles.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082535065368584193/img/foSo_qz3rX3YYmh1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082536414470906059.mp4",
+  "sourceLink": "https://x.com/Medeo_AI/status/2082536414470906059",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "Medeo_AI",
+    "link": "https://x.com/Medeo_AI"
+  },
+  "tags": [
+    "Auto",
+    "Racing",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a prompt structure that explicitly specifies physical and spatial constraints for Seedance 2.0 (e.g., tire traction on dirt, gravity during high jumps, stadium lighting and smoke effects) to get realistic motion and rendering.\n\nAvoid overly bloated prompts in Seedance 2.0, as excessive detail can trigger glitches like clipping physics, unnatural vehicle sliding on ramps, and broken lighting.\n\nAvoid vague prompts in Seedance 2.0; include essential depth/scale and heavy-physics details to prevent flattened terrain and toy-like vehicles.",
+  "translations": {
+    "es": {
+      "content": "Usa una estructura de prompt que especifique explícitamente las restricciones físicas y espaciales para Seedance 2.0 (por ejemplo, la tracción de los neumáticos sobre tierra, la gravedad durante saltos altos, la iluminación de estadio y los efectos de humo) para obtener un movimiento y un renderizado realistas.\n\nEvita prompts excesivamente recargados en Seedance 2.0, ya que el exceso de detalle puede provocar fallos como clipping en la física, deslizamiento antinatural de vehículos en rampas y una iluminación defectuosa.\n\nEvita prompts vagos en Seedance 2.0; incluye detalles esenciales de profundidad/escala y de física pesada para prevenir terrenos aplanados y vehículos con aspecto de juguete."
+    },
+    "fr": {
+      "content": "Utilisez une structure de prompt qui précise explicitement les contraintes physiques et spatiales pour Seedance 2.0 (par exemple, l’adhérence des pneus sur la terre, la gravité lors de sauts élevés, l’éclairage de stade et les effets de fumée) afin d’obtenir un mouvement et un rendu réalistes.\n\nÉvitez les prompts trop chargés dans Seedance 2.0, car un excès de détails peut déclencher des glitches comme des problèmes de clipping physique, des glissements non naturels des véhicules sur les rampes et un éclairage cassé.\n\nÉvitez les prompts vagues dans Seedance 2.0 ; incluez les détails essentiels de profondeur/échelle et de physique lourde pour empêcher un terrain aplati et des véhicules qui ressemblent à des jouets."
+    },
+    "ja": {
+      "content": "Seedance 2.0 では、物理的・空間的な制約を明示的に指定する prompt 構造を使うことで、よりリアルな motion と rendering を得られます（例: dirt 上での tire traction、高いジャンプ中の gravity、stadium lighting や smoke effects）。\n\nSeedance 2.0 では、過度に冗長な prompt は避けてください。詳細を詰め込みすぎると、clipping physics、ランプ上での不自然な vehicle sliding、lighting の破綻といった glitch を引き起こすことがあります。\n\nSeedance 2.0 では、曖昧な prompt も避けてください。地形が平坦化したり、vehicle が toy-like に見えたりするのを防ぐために、depth/scale の要素や heavy-physics に関する重要な情報を含めてください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서는 물리적·공간적 제약을 명시적으로 지정하는 prompt 구조를 사용해 현실적인 모션과 렌더링을 구현하세요. 예를 들어, 흙 위에서의 타이어 접지력, 고점프 시 중력, 경기장 조명과 연기 효과 등을 포함하면 됩니다.\n\nSeedance 2.0에서는 지나치게 장황한 prompt를 피하세요. 과도한 디테일은 clipping physics, 램프 위에서의 부자연스러운 차량 미끄러짐, 깨진 조명 같은 글리치를 유발할 수 있습니다.\n\nSeedance 2.0에서는 모호한 prompt도 피하세요. 평평하게 보이는 지형과 장난감 같은 차량을 방지하려면, 필수적인 깊이/스케일 정보와 중량감 있는 물리 요소를 포함해야 합니다."
+    },
+    "pt": {
+      "content": "Use uma estrutura de prompt que especifique explicitamente restrições físicas e espaciais para o Seedance 2.0 (por exemplo, tração dos pneus na terra, gravidade durante saltos altos, iluminação de estádio e efeitos de fumaça) para obter movimento e renderização realistas.\n\nEvite prompts excessivamente carregados no Seedance 2.0, pois o excesso de detalhes pode desencadear glitches como clipping na física, deslizamento não natural de veículos em rampas e iluminação quebrada.\n\nEvite prompts vagos no Seedance 2.0; inclua detalhes essenciais de profundidade/escala e de física pesada para evitar terreno achatado e veículos com aparência de brinquedo."
+    },
+    "zh": {
+      "content": "使用一种明确指定物理和空间约束的 prompt 结构，为 Seedance 2.0 提供更真实的运动和渲染效果（例如：轮胎在泥地上的抓地力、高跳时的重力、体育场灯光和烟雾效果）。\n\n避免在 Seedance 2.0 中使用过于冗长的 prompt，因为过多细节可能会触发故障，例如物理穿模、车辆在坡道上不自然滑动，以及灯光异常。\n\n避免在 Seedance 2.0 中使用含糊的 prompt；应包含关键的深度/尺度和重物理细节，以防止地形扁平化和车辆看起来像玩具。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2082498187772760421",
+  "title": "Create structured character sheets (expressions, poses, costume variants) with…",
+  "content": "Create structured character sheets (expressions, poses, costume variants) with GPT Image 2 and use them as the playbook for Seedance 2.0 so it can read character intent consistently across frames.  \nMap each expression on the character sheet to specific camera angles before animating in Seedance to guide shot intent and continuity.  \nUse a pipeline of Midjourney for character design → GPT Image 2 for structured character sheets → Seedance 2.0 (e.g., on astorie_ai) to animate the final video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2082498154599985152/pu/img/LBMl9UFignQtGalv.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082498187772760421.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2082498187772760421",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create structured character sheets (expressions, poses, costume variants) with GPT Image 2 and use them as the playbook for Seedance 2.0 so it can read character intent consistently across frames.  \nMap each expression on the character sheet to specific camera angles before animating in Seedance to guide shot intent and continuity.  \nUse a pipeline of Midjourney for character design → GPT Image 2 for structured character sheets → Seedance 2.0 (e.g., on astorie_ai) to animate the final video.",
+  "translations": {
+    "es": {
+      "content": "Crea hojas de personaje estructuradas (expresiones, poses, variantes de vestuario) con GPT Image 2 y úsalas como guía para Seedance 2.0, de modo que pueda interpretar de forma consistente la intención del personaje a lo largo de los fotogramas.  \nAsigna cada expresión de la hoja de personaje a ángulos de cámara específicos antes de animar en Seedance, para orientar la intención de la toma y la continuidad.  \nUsa un flujo de trabajo de Midjourney para el diseño de personajes → GPT Image 2 para hojas de personaje estructuradas → Seedance 2.0 (por ejemplo, en astorie_ai) para animar el video final."
+    },
+    "fr": {
+      "content": "Créez des fiches de personnage structurées (expressions, poses, variantes de costume) avec GPT Image 2 et utilisez-les comme guide pour Seedance 2.0 afin qu’il puisse interpréter de manière cohérente l’intention du personnage d’une image à l’autre.  \nAssociez chaque expression de la fiche de personnage à des angles de caméra spécifiques avant l’animation dans Seedance afin de guider l’intention des plans et la continuité.  \nUtilisez un pipeline allant de Midjourney pour la conception du personnage → GPT Image 2 pour des fiches de personnage structurées → Seedance 2.0 (par ex. sur astorie_ai) pour animer la vidéo finale."
+    },
+    "ja": {
+      "content": "GPT Image 2 を使って、表情・ポーズ・衣装バリエーションを含む構造化されたキャラクターシートを作成し、それを Seedance 2.0 のプレイブックとして活用することで、各フレームを通してキャラクターの意図を一貫して読み取れるようにします。  \nSeedance でアニメーション化する前に、キャラクターシート上の各表情を特定のカメラアングルに対応付け、ショットの意図と連続性をガイドします。  \nキャラクターデザインには Midjourney、構造化されたキャラクターシートには GPT Image 2、最終的な動画のアニメーション化には Seedance 2.0（例: astorie_ai 上）というパイプラインを使用します。"
+    },
+    "ko": {
+      "content": "GPT Image 2로 구조화된 캐릭터 시트(표정, 포즈, 의상 변형)를 만들고, 이를 Seedance 2.0의 플레이북으로 활용해 프레임 전반에서 캐릭터 의도를 일관되게 읽을 수 있도록 하세요.  \nSeedance에서 애니메이션을 적용하기 전에 캐릭터 시트의 각 표정을 특정 카메라 앵글에 매핑해 샷의 의도와 연속성을 유도하세요.  \nMidjourney로 캐릭터 디자인 → GPT Image 2로 구조화된 캐릭터 시트 생성 → Seedance 2.0(예: astorie_ai에서)으로 최종 영상을 애니메이션화하는 파이프라인을 사용하세요."
+    },
+    "pt": {
+      "content": "Crie fichas estruturadas de personagens (expressões, poses, variações de figurino) com o GPT Image 2 e use-as como guia para o Seedance 2.0, para que ele consiga interpretar de forma consistente a intenção do personagem entre os frames.  \nMapeie cada expressão da ficha do personagem para ângulos de câmera específicos antes de animar no Seedance, para orientar a intenção do plano e a continuidade.  \nUse um pipeline de Midjourney para design de personagens → GPT Image 2 para fichas estruturadas de personagens → Seedance 2.0 (por exemplo, no astorie_ai) para animar o vídeo final."
+    },
+    "zh": {
+      "content": "使用 GPT Image 2 创建结构化角色设定表（表情、姿势、服装变体），并将其作为 Seedance 2.0 的执行手册，让它能够在不同帧之间一致地读取角色意图。  \n在使用 Seedance 进行动画制作之前，将角色设定表中的每一种表情映射到特定的镜头角度，以引导镜头意图和连贯性。  \n使用这样的流程：Midjourney 负责角色设计 → GPT Image 2 负责结构化角色设定表 → Seedance 2.0（例如在 astorie_ai 上）负责为最终视频添加动画。"
+    }
+  }
+}

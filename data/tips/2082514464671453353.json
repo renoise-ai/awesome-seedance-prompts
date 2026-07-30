@@ -1,0 +1,42 @@
+{
+  "id": "2082514464671453353",
+  "title": "Use a single reference image as input to create cinematic “frozen action shot”…",
+  "content": "Use a single reference image as input to create cinematic “frozen action shot” videos in Seedance.  \nUse Seedance’s built-in LLM to generate an optimized prompt that adds dynamic camera movement while explicitly keeping the subject/action frozen.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082514431578435584/img/R_Q7ifuoJELFXzwO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082514464671453353.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2082514464671453353",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a single reference image as input to create cinematic “frozen action shot” videos in Seedance.  \nUse Seedance’s built-in LLM to generate an optimized prompt that adds dynamic camera movement while explicitly keeping the subject/action frozen.",
+  "translations": {
+    "es": {
+      "content": "Usa una sola imagen de referencia como entrada para crear videos cinematográficos de “frozen action shot” en Seedance.  \nUsa el LLM integrado de Seedance para generar un prompt optimizado que añada movimiento dinámico de cámara mientras mantiene explícitamente congelado al sujeto/la acción.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] https://t.co/SAGMzRwFIP\n---"
+    },
+    "fr": {
+      "content": "Utilisez une seule image de référence comme entrée pour créer des vidéos Seedance de type cinématique « frozen action shot ».  \nUtilisez le LLM intégré de Seedance pour générer un prompt optimisé qui ajoute un mouvement de caméra dynamique tout en gardant explicitement le sujet/l’action figés.\n\n--- SUITE DU FIL ---\n[Fil 1] https://t.co/SAGMzRwFIP\n---"
+    },
+    "ja": {
+      "content": "Seedanceで、1枚の参照画像を入力として、映画的な「フローズンアクションショット」動画を作成します。  \nSeedance内蔵のLLMを使って、被写体／アクションを明示的に静止させたまま、ダイナミックなカメラワークを加える最適化されたpromptを生成します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/SAGMzRwFIP\n---"
+    },
+    "ko": {
+      "content": "Seedance에서 단일 reference image를 입력으로 사용해 cinematic “frozen action shot” 비디오를 생성하세요.  \nSeedance의 내장 LLM을 사용해, 피사체/동작은 명시적으로 고정된 상태로 유지하면서 dynamic camera movement를 추가하는 최적화된 prompt를 생성하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/SAGMzRwFIP\n---"
+    },
+    "pt": {
+      "content": "Use uma única imagem de referência como entrada para criar vídeos cinematográficos de “frozen action shot” no Seedance.  \nUse o LLM integrado do Seedance para gerar um prompt otimizado que adicione movimento dinâmico de câmera, mantendo explicitamente o sujeito/a ação congelados.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/SAGMzRwFIP\n---"
+    },
+    "zh": {
+      "content": "使用单张参考图像作为输入，在 Seedance 中创建电影感的“冻结动作镜头”视频。  \n使用 Seedance 内置的 LLM 生成优化后的 prompt，在明确保持主体/动作冻结的同时，加入动态镜头运动。\n\n--- 线程续接 ---\n[Thread 1] https://t.co/SAGMzRwFIP\n---"
+    }
+  }
+}

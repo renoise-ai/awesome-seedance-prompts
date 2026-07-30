@@ -1,0 +1,41 @@
+{
+  "id": "2082273077426360586",
+  "title": "Specify the number of camera angles in your Seedance prompt (e.g., 14 different…",
+  "content": "Specify the number of camera angles in your Seedance prompt (e.g., 14 different camera angles) to drive multi-angle, fast-paced action sequences.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/whorange__/status/2082273077426360586",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "WHORANGE",
+    "link": "https://x.com/whorange__"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify the number of camera angles in your Seedance prompt (e.g., 14 different camera angles) to drive multi-angle, fast-paced action sequences.",
+  "translations": {
+    "es": {
+      "content": "Especifica el número de ángulos de cámara en tu prompt de Seedance (por ejemplo, 14 ángulos de cámara diferentes) para impulsar secuencias de acción multángulo y de ritmo rápido."
+    },
+    "fr": {
+      "content": "Précisez le nombre d’angles de caméra dans votre prompt Seedance (par exemple, 14 angles de caméra différents) afin de créer des séquences d’action multi-angles et au rythme soutenu."
+    },
+    "ja": {
+      "content": "Seedanceのプロンプトでカメラアングルの数を指定してください（例：14種類の異なるカメラアングル）。これにより、マルチアングルでテンポの速いアクションシーケンスを演出できます。"
+    },
+    "ko": {
+      "content": "Seedance 프롬프트에서 카메라 앵글의 수를 지정하세요(예: 14개의 서로 다른 카메라 앵글)하여 멀티 앵글의 빠른 전개 액션 시퀀스를 구현할 수 있습니다."
+    },
+    "pt": {
+      "content": "Especifique o número de ângulos de câmera no seu prompt do Seedance (por exemplo, 14 ângulos de câmera diferentes) para conduzir sequências de ação multiângulo e em ritmo acelerado."
+    },
+    "zh": {
+      "content": "在你的 Seedance prompt 中指定 camera angles 的数量（例如 14 个不同的 camera angles），以驱动多角度、快节奏的动作场景。"
+    }
+  }
+}

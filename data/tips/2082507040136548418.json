@@ -1,0 +1,43 @@
+{
+  "id": "2082507040136548418",
+  "title": "Use contrasting aspect ratios to separate narrative layers (e.g., dream…",
+  "content": "Use contrasting aspect ratios to separate narrative layers (e.g., dream sequences in 4:3 and present-day scenes in 16:9), then intentionally “break” the aspect ratio during collision moments to signal corruption/glitch.\n\nPrompt Seedance shots with Kubrick-style composition cues like one-point symmetry, clinical framing, and “object shot like a specimen” to achieve a sterile, centered visual grammar.\n\nCreate a HAL/2001-style ending by prompting a “slowdown/spin-down” motion where the object gradually decelerates and comes to a parked stop.\n\nReinforce story continuity by adding an in-footage burned-in date (e.g., a character’s birthday) as a recurring visual detail across generated clips.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082506834502369280/img/OjFEMBKGnRgW4knF.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2082506834502369280/vid/avc1/1920x1080/anTA406wrDgsEWnR.mp4",
+  "sourceLink": "https://x.com/TrashRobotMusic/status/2082507040136548418",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "Trash Robot",
+    "link": "https://x.com/TrashRobotMusic"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use contrasting aspect ratios to separate narrative layers (e.g., dream sequences in 4:3 and present-day scenes in 16:9), then intentionally “break” the aspect ratio during collision moments to signal corruption/glitch.\n\nPrompt Seedance shots with Kubrick-style composition cues like one-point symmetry, clinical framing, and “object shot like a specimen” to achieve a sterile, centered visual grammar.\n\nCreate a HAL/2001-style ending by prompting a “slowdown/spin-down” motion where the object gradually decelerates and comes to a parked stop.\n\nReinforce story continuity by adding an in-footage burned-in date (e.g., a character’s birthday) as a recurring visual detail across generated clips.",
+  "translations": {
+    "es": {
+      "content": "Usa relaciones de aspecto contrastantes para separar capas narrativas (por ejemplo, secuencias de sueño en 4:3 y escenas del presente en 16:9), y luego “rompe” intencionalmente la relación de aspecto durante los momentos de colisión para señalar corrupción/glitch.\n\nSolicita tomas de Seedance con indicaciones de composición al estilo Kubrick, como simetría de un punto de fuga, encuadre clínico y “object shot like a specimen”, para lograr una gramática visual estéril y centrada.\n\nCrea un final al estilo HAL/2001 solicitando un movimiento de “slowdown/spin-down” en el que el objeto desacelera gradualmente y se detiene por completo.\n\nRefuerza la continuidad de la historia añadiendo una fecha incrustada en el metraje (por ejemplo, el cumpleaños de un personaje) como detalle visual recurrente a lo largo de los clips generados."
+    },
+    "fr": {
+      "content": "Utilisez des formats d’image contrastés pour distinguer les couches narratives (par exemple, les séquences de rêve en 4:3 et les scènes du présent en 16:9), puis « cassez » volontairement le format d’image lors des moments de collision afin de signaler une corruption/un glitch.\n\nDonnez aux plans Seedance des indications de composition à la Kubrick, comme une symétrie en point de fuite unique, un cadrage clinique et un « object shot like a specimen » afin d’obtenir une grammaire visuelle stérile et centrée.\n\nCréez une fin à la HAL/2001 en demandant un mouvement de « slowdown/spin-down » où l’objet ralentit progressivement et s’immobilise à l’arrêt.\n\nRenforcez la continuité narrative en ajoutant une date incrustée dans l’image (par exemple, l’anniversaire d’un personnage) comme détail visuel récurrent à travers les clips générés."
+    },
+    "ja": {
+      "content": "対照的なアスペクト比を使って物語のレイヤーを分ける（例：夢のシーンは4:3、現代のシーンは16:9）。そして衝突の瞬間には意図的にアスペクト比を「崩し」、corruption/glitch を示唆する。\n\nSeedance の shot には、1点対称、無機質なフレーミング、「標本のように撮られた object shot」といった Kubrick 風の構図指示を prompt し、無菌的で中央寄りのビジュアル文法を実現する。\n\nHAL/2001 風のエンディングを作るには、object が徐々に減速して parked stop に至る “slowdown/spin-down” motion を prompt する。\n\n物語の連続性を強化するために、映像内に焼き込みの date（例：キャラクターの誕生日）を入れ、生成クリップ全体で繰り返し現れる visual detail として使う。"
+    },
+    "ko": {
+      "content": "서사 레이어를 구분하기 위해 대비되는 화면비를 사용하세요(예: 꿈 장면은 4:3, 현재 장면은 16:9). 그런 다음 충돌 순간에는 의도적으로 화면비를 “깨뜨려” 오염/글리치를 암시합니다.\n\nKubrick 스타일의 구도 지시를 담아 Seedance 샷을 프롬프트하세요. 예를 들어 1점 대칭, 임상적인 프레이밍, 그리고 “표본처럼 촬영된 오브젝트 샷” 같은 표현을 사용하면, 멸균된 듯 중앙에 정렬된 시각적 문법을 구현할 수 있습니다.\n\n오브젝트가 점차 감속해 주차된 듯 멈추는 “slowdown/spin-down” 모션을 프롬프트하여 HAL/2001 스타일의 엔딩을 만드세요.\n\n스토리의 연속성을 강화하려면, 영상 안에 날짜를 burned-in으로 삽입하세요(예: 캐릭터의 생일). 이를 생성된 클립 전반에 반복되는 시각적 디테일로 활용할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use proporções de aspecto contrastantes para separar camadas narrativas (por exemplo, sequências de sonho em 4:3 e cenas do presente em 16:9) e, então, “quebre” intencionalmente a proporção de aspecto durante momentos de colisão para sinalizar corrupção/glitch.\n\nSolicite shots no Seedance com cues de composição no estilo Kubrick, como simetria em ponto único, enquadramento clínico e “object shot like a specimen”, para alcançar uma gramática visual estéril e centralizada.\n\nCrie um final no estilo HAL/2001 solicitando um movimento de “slowdown/spin-down”, em que o objeto desacelera gradualmente e chega a uma parada estacionada.\n\nReforce a continuidade da história adicionando uma data queimada na imagem dentro do footage (por exemplo, o aniversário de um personagem) como um detalhe visual recorrente ao longo dos clipes gerados."
+    },
+    "zh": {
+      "content": "使用对比鲜明的画幅比例来区分叙事层次（例如，梦境段落用 4:3，现实场景用 16:9），然后在碰撞时刻刻意“打破”画幅比例，以传达损坏/故障感。\n\n在 Seedance 的 prompt 中加入库布里克风格的构图提示，例如单点对称、临床式取景，以及“像标本一样拍摄物体”，以实现一种冷峻、居中式的视觉语法。\n\n通过 prompt 一个“slowdown/spin-down”动作来打造 HAL/2001 风格的结尾，让物体逐渐减速并最终停驻。\n\n通过在画面内加入烧录日期（例如角色的生日）作为贯穿多个生成片段的重复视觉细节，来强化故事的连续性。"
+    }
+  }
+}
