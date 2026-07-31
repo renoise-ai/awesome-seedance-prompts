@@ -62,9 +62,9 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **4988** |
+| 📝 プロンプト総数 | **5049** |
 | ⭐ 注目 | **0** |
-| 💡 ヒント & チュートリアル | **2365** |
+| 💡 ヒント & チュートリアル | **2396** |
 | 🔄 最終更新 | **2026-07-31** |
 
 ---
@@ -72,6 +72,138 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 ## 🎬 全プロンプト
 
 > 📝 公開日順（新しい順）
+
+### Soft beauty commercial, feminine aesthetic, pastel pink theme, luxury skincare…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+ソフトなビューティーコマーシャル、フェミニンな美学、パステルピンクのテーマ、ラグジュアリーなスキンケア広告、俯瞰のフラットレイ撮影、自然光、滑らかなカメラワーク、マクロのクローズアップ、超リアル、4K、9:16の縦構図、浅い被写界深度、ふわふわの毛並みをあしらった清潔感のある白とグレーの背景、ピンクの花、パールのミニハンドバッグ、チェリーのチャーム。
+
+Scene 1 (0:00–0:02)
+
+A gray Glad2Glow shipping pouch is placed on a soft gray fabric with a white fur rug. Two feminine hands gently hold the package before opening it. Slow overhead shot, natural lighting.
+
+Scene 2 (0:02–0:04)
+
+The hands pull out a pastel pink Glad2Glow Lip Serum box from the pouch. Slow cinematic reveal with smooth camera movement. Focus on the elegant packaging.
+
+Scene 3 (0:04–0:06)
+
+Close-up beauty shot of the pink Glad2Glow Lip Serum tube rotating slowly in hand. Cherry charm gently swings beside the product. Macro lens, glossy reflections, luxury cosmetic advertisement look.
+
+Scene 4 (0:06–0:08)
+
+The cap is twisted open to reveal the cooling metal applicator. Camera slowly pushes in while the applicator catches the light, highlighting its premium finish.
+
+Scene 5 (0:08–0:11)
+
+The serum is smoothly applied onto the back of the hand. Transparent glossy texture spreads evenly, creating a hydrated shine. Extreme macro shot emphasizing lightweight, non-sticky texture.
+
+Scene 6 (0:11–0:13)
+
+Split-screen comparison showing lips Before and After application. The "After" lips appear shinier, smoother, fuller, and naturally plump with a healthy glow.
+
+Scene 7 (0:13–0:15)
+
+Final hero shot of the Glad2Glow Lip Serum standing upright beside the pearl mini handbag and cherry charm. Soft light sparkles across the tube while the camera slowly zooms in. End with the text:
+
+"Worth it for Daily Lip Care 💗"
+"Hydrated • Glossy • Plump Lips"
+
+Negative Prompt: blurry, low quality, watermark, logo, text artifacts, extra fingers, deformed hands, duplicate products, flickering, noisy image, poor lighting, oversaturated colors, shaky camera, distorted packaging, low resolution.
+
+--- THREAD CONTINUATION ---
+[Thread 1] Prompt⤵️
+
+ソフトなビューティーコマーシャル、フェミニンな美学、パステルピンクのテーマ、ラグジュアリーなスキンケア広告、俯瞰のフラットレイ撮影、自然光、滑らかなカメラワーク、マクロのクローズアップ、超リアル、4K、9:16の縦構図、浅い被写界深度、ふわふわの毛並みをあしらった清潔感のある白とグレーの背景、ピンクの花、パールのミニハンドバッグ、チェリーのチャーム。
+
+Scene 1 (0:00–0:02)
+
+A gray Glad2Glow shipping pouch is placed on a soft gray fabric with a white fur rug. Two feminine hands gently hold the package before opening it. Slow overhead shot, natural lighting.
+
+Scene 2 (0:02–0:04)
+
+The hands pull out a pastel pink Glad2Glow Lip Serum box from the pouch. Slow cinematic reveal with smooth camera movement. Focus on the elegant packaging.
+
+Scene 3 (0:04–0:06)
+
+Close-up beauty shot of the pink Glad2Glow Lip Serum tube rotating slowly in hand. Cherry charm gently swings beside the product. Macro lens, glossy reflections, luxury cosmetic advertisement look.
+
+Scene 4 (0:06–0:08)
+
+The cap is twisted open to reveal the cooling metal applicator. Camera slowly pushes in while the applicator catches the light, highlighting its premium finish.
+
+Scene 5 (0:08–0:11)
+
+The serum is smoothly applied onto the back of the hand. Transparent glossy texture spreads evenly, creating a hydrated shine. Extreme macro shot emphasizing lightweight, non-sticky texture.
+
+Scene 6 (0:11–0:13)
+
+Split-screen comparison showing lips Before and After application. The "After" lips appear shinier, smoother, fuller, and naturally plump with a healthy glow.
+
+Scene 7 (0:13–0:15)
+
+Final hero shot of the Glad2Glow Lip Serum standing upright beside the pearl mini handbag and cherry charm. Soft light sparkles across the tube while the camera slowly zooms in. End with the text:
+
+"Worth it for Daily Lip Care 💗"
+"Hydrated • Glossy • Plump Lips"
+
+Negative Prompt: blurry, low quality, watermark, logo, text artifacts, extra fingers, deformed hands, duplicate products, flickering, noisy image, poor lighting, oversaturated colors, shaky camera, distorted packaging, low resolution.
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082993673143476224/img/Zfi5ZYkK961YuO90.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082993851002741235.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082993851002741235.mp4)**
+
+**作者:** [Hania Ai](https://x.com/HaniaAi12) | **ソース:** [Link](https://x.com/HaniaAi12/status/2082993851002741235) | **公開日:** 2026年7月31日
+
+`Product Ad` `Beauty` `Photoreal` `Realistic World` `Macro` `ASMR`
+
+---
+
+### アップロード画像1枚だけを、人物・衣装・背景の唯一の参照として使う。顔立ち、髪、体型、年齢感、衣装、靴、アクセサリー、背景、光、空気感を最後まで維持する。フォト…
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+#### 📝 プロンプト
+
+```
+アップロード画像1枚だけを、人物・衣装・背景の唯一の参照として使う。顔立ち、髪、体型、年齢感、衣装、靴、アクセサリー、背景、光、空気感を最後まで維持する。フォトリアル、縦9:16、10秒、成人、SFW。
+
+約130BPMのオリジナル・ハードロックBGMを入れる。歪んだエレキギターのメインリフ、厚いベース、力強いドラム、クラッシュ、短いタムフィル、鋭いギターアクセントを使う。既存曲の模倣はしない。各ポーズ切替の約2秒、4秒、6秒、8秒で、スネア、クラッシュ、ギターヒットを強く同期させる。補助効果音として、空気を切るスワイプ音、低い衝撃音、インクを裂くようなワイプ音、金属的アクセントを少量加えてよい。
+
+動画はダンスではなくポージング動画。約2秒ごとに5種類の劇画的で誇張されたジョジョ立ち風ポーズを決める。各ポーズは短く鋭い動作で入り、完成後は一瞬しっかり静止する。静止中、人物は姿勢を保持したまま、カメラだけが人物の周囲を大胆な円弧で旋回する本格的なバレットタイムを行う。背景の建物や道路が大きく動いて見え、強い視差が出るようにする。小さな手持ち風の揺れにはしない。ポーズ切替は、フラッシュ、衝撃フレーム、集中線、インクワイプ、短いモーションブラー、擬音文字で鋭くつなぐ。
+
+【0.0〜2.0秒：ポーズ1】
+両脚を肩幅より広く開き、両膝を少し内側へ向ける。顔前に手を置く側へ、重心・骨盤・肩線を少し流す。顔前の腕は上腕を体側に沿わせて脇を閉じ、肘を肋骨横の低い位置で折りたたむ。肩から腕全体を上げず、前腕だけを顔前へ上げる。カメラに見えるのは手の甲と指の背側だけ。手の内側の面は自分の顔側へ向け、五本の指を開く。反対腕は肩から斜め後方へ長く伸ばし、身体の前・真横・下方へ出さない。重心と肩線は顔前の手の側へ、低い肘と反対腕は逆方向へ働かせ、全身に左右反対の張力を作る。顔と視線はカメラ正面。完成後、強いバレットタイム。低く重い擬音、細い集中線、立体文字を加える。
+
+【2.0〜4.0秒：ポーズ2】
+スネアとクラッシュで切替。片脚を支持脚にし、反対脚を少し前へ。骨盤を支持脚側へ流し、胸郭を反対方向へ引き上げ、胴体を細長く湾曲させる。両腕を頭上へ上げ、頭の後ろで非対称に交差。一方の肘を高く、もう一方を少し前へ。首を長く保ち、顔はカメラへ。完成後、強いバレットタイム。斜めの太いスピードラインと別種の擬音文字を加える。
+
+【4.0〜6.0秒：ポーズ3】
+重いドラムヒットとギターアタックで切替。片腕をカメラへ強く突き出し、人差し指でレンズを真っすぐ指す。指先を画面で最も手前かつ最大にし、指先へフォーカス。顔と上半身は奥へ引いて見える極端な遠近法。突き出す肩を前へ、反対肩を後ろへ引き、胸郭・背骨・骨盤を強くねじる。反対腕は腰付近か身体の後方。視線はカメラ。開いた手にはしない。完成後、遠近感を保ちながら背景を大きく旋回させる。巨大な擬音、集中線、インク飛沫、金属的衝撃音を加える。
+
+【6.0〜8.0秒：ポーズ4】
+音楽アクセントで鋭く切替。両足を揃えて真横向きに立ち、骨盤を少し前へ、胸郭と肩を少し後方へ戻す。骨盤前面をカメラ側へ約15度、上体をさらに約15度開く。両腕を胸前で交差し、近い側の腕を下に通し、前腕を垂直に上げ、人差し指だけを真上へ。遠い側の腕を上に重ね、その手を近い側の肘付近へ置き、人差し指と小指だけを水平に伸ばす。顔はカメラ正面、視線はレンズより少し上。完成後、強いバレットタイム。縦横の集中線、立体擬音、幾何学的グラフィックを加える。
+
+【8.0〜10.0秒：ポーズ5】
+強いアクセントで最後のポーズへ。片脚を支持脚にし、反対脚を斜め前へ軽く開く。骨盤を支持脚側へ押し出し、胸郭を反対前方へ回す。一方の上腕を肩の高さで真横へ大きく張り、前腕を胸元へ折り返して鎖骨付近の衣装を握る。反対肘も外へ張り、手を骨盤前方の低い位置へ置いて衣装を握る。左右の肘と高低差のある両手で上半身にジグザグを作る。顔と視線はカメラ正面。8.8秒まで背景を大きく旋回。8.8秒で旋回を止め、正面固定から顔へクラッシュズーム。顔を少し上げ、決め顔から軽く力を抜いた表情へ変える。カメラ側から短い風を吹かせ、髪を後方へ柔らかくなびかせる。最後は重いパワーコードと短い残響で締める。
+
+各ポーズに異なる擬音、集中線、ハーフトーン、インク飛沫、立体文字、閃光を加える。人物・衣装・背景を途中で変えない。余分な人物・手足・指を出さない。普通のダンス、一般的なモデル立ち、弱いカメラ移動、性的な強調、既存キャラクター・衣装・ロゴ・楽曲の直接再現は禁止。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082995491391078400/img/TS2sU5czwmOd7_5w.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082995529932505233.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082995529932505233.mp4)**
+
+**作者:** [Keiji](https://x.com/Keiji1653050) | **ソース:** [Link](https://x.com/Keiji1653050/status/2082995529932505233) | **公開日:** 2026年7月31日
+
+`Music & Dance` `Dance` `Photoreal` `Realistic World` `VFX` `Transformation` `Tutorial`
+
+---
 
 ### A cinematic live action sequence starting in a dimly lit gritty courtyard. A…
 
@@ -148,6 +280,67 @@ Cut 5 (0:27–0:30): 逃走する船の後方からの最終ワイドショッ�
 
 ---
 
+### Gritty 16mm cinéma vérité, authentic 1990s downtown Manhattan documentary…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+ざらついた16mmのシネマ・ヴェリテ、1990年代ダウンタウン・マンハッタンの本物のドキュメンタリー映像、オーガニックなフィルムグレイン、純粋な自然光、肩掛けの手持ちによる激しい揺れ、スタビライズなし、やわらかなピントの外れ、さりげない光漏れ、荒々しくもエレガントで、生活感のあるリアリズム。
+
+0–3s: [Close Handheld Tracking] 20代半ばの若い女性。メイクのない完全に自然な顔立ち、やわらかな特徴、風で乱れた髪、シンプルな1990年代風のレザージャケットとスカーフ。ダウンタウンの脇道にある角の新聞売店の前を通り過ぎる。背後の地下鉄のグレーチングから蒸気が立ちのぼる。カメラは彼女の横顔と上半身に寄り添い、彼女が半秒ほど歩みを緩め、雑誌の表紙に目をやり、それから静かで無防備な表情でカメラを見るまで捉え続ける。瞬時に伝わる自然な美しさと存在感。
+
+3–7s: [Unsteady Following Shot] 彼女は日差しの差し込む花崗岩の広場へと進んでいく。広場の周囲には階段と手すりが巡らされている。カメラは彼女の後ろ、やや横に位置し、歩くたびに揺れる。ティーンエイジャーのスケーターたちがあちこちにいる。平らな地面を勢いよく押し進み、縁石の切れ目からオーリーを決め、車輪が継ぎ目をガタガタと鳴らし、鳩が一斉に飛び立ち、コーヒーを手にしたオフィスワーカーたちが横切っていく。純粋なダイナミズムとストリートのエネルギー。
+
+7–11s: [Handheld Medium] ひとりのスケーターが階段脇の手すりをグラインドし、彼女が下を通り過ぎるちょうどその瞬間に端から飛び降りる。彼は着地してそのまま転がり、彼女の進路をかすめるほど近くを横切るので、ジャケットが彼女の袖に触れそうになる。彼女は驚きも立ち止まりもしない。ただ、少しおかしそうな小さな笑みを浮かべて彼のほうへ頭を傾けるだけで、まるでこういう子たちを何千回も見てきたかのようにまったく動じない。彼は転がりながら、肩越しに短く申し訳なさそうな笑みを彼女に返す。広場はその周囲で生き生きと、混沌としたまま続いている。
+
+11–15s: [Raw Tracking] 彼女は同じ気楽なペースで広場を歩き続ける。カメラは近くから不完全に追従し、スケーターたちは彼女の背後で縫うように動き、集まり直し、建物のあいだで光が彼女の顔を行き来し、1990年代ニューヨークのストリートライフの自然なリズムが、決して静止することなく流れ続ける。
+
+Photorealistic 16mm film emulation, heavy organic grain, authentic period New York details, natural skin texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, no artifacts, no text, no logos, 16:9 aspect ratio.
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082658621142515712/img/kFBRl9__7Ys3mbWr.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082658750004171007.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082658750004171007.mp4)**
+
+**作者:** [NightCafe](https://x.com/NightcafeStudio) | **ソース:** [Link](https://x.com/NightcafeStudio/status/2082658750004171007) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Portrait` `Sports` `Extreme` `Retro Film` `Historical`
+
+---
+
+### Slow-motion handheld close-up, 16:9. Shaky organic handheld shot shoving in…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+スローモーションの手持ちクローズアップ、16:9。揺れる有機的な手持ちショットで、加圧式の白い防護服を着た研究者にぐっと寄る。フェイスプレートは曇ってひび割れ、彼は光沢のある無菌のラボ床をよろめきながら後退している。そこへ、関節の多すぎる四肢、内部の臓器が透けて脈打つ半透明の皮膚、逆方向に不自然なほど大きく裂ける顎を持つ、ぬめりのある突然変異体が、倒れた封じ込めタンクから飛びかかる。背後には、湿った組織の糸が空中に引きずられている。周囲ではチームが混乱の中で散り散りになる。揃いのスーツを着た女性が肩越しに彼を押しのけ、倒れた同僚の腕を引きずっていく。二人の男は、向こう側から押し返してくる何かに対して重い鋼鉄のドアを必死に押さえつける。隣では誰かが作業台の上を後ろ向きに引きずられ、砕けたガラス器具とこぼれた試薬バイアルの飛沫を空中に巻き上げる。さらに防護服姿の人影が、突然の衝撃でひび割れる標本瓶のラックの前を、背景でつまずきながら必死に駆け回る。スローモーションの中で、ガラス、液体、裂けたスーツの布が画面全体に爆発するように飛び散り、無数の飛沫と破片があらゆる場所で宙に浮いたまま、冷たい光を受けている。混乱の渦中で胸の高さに構えたダイナミックで揺さぶられる手持ちの動き、振り回される四肢にカメラがかすめられそうになる。無菌的で非現実的な配色 — 臨床的な白、冷たい手術室ブルー、怪物の肉体から滲み出る病的なバイオルミネセント・グリーンの光、フレーム端で点滅する苛烈な警報赤。曇ったバイザーの奥の顔はすべて解剖学的に正確で、安定してリアル、真の恐怖があり、歪みはない。重く粗いアナログの35mmフィルムグレインが各フレームに焼き込まれ、厚く一貫していて、ハイライトとシャドウの上をグレインが這うように動く。スキャンされたセルロイドフィルムプリントのようで、決してクリーンでもデジタルっぽくもない。フラットな天井のクリーンルーム照明を、脈打つ赤い警報ストロボが切り裂き、ドラマチックなスローモーションの緊張感、cinematicでフォトリアル、超高精細。
+
+--- QUOTED TWEET ---
+H3をもう少し
+
+#MiniMaxH3
+@Hailuo_AI https://t.co/oq0fOXkguJ
+
+--- THREAD CONTINUATION ---
+[Thread 1] Prompt:
+Slow-motion handheld close-up, 16:9. Shaky organic handheld shot shoving in close on a researcher in a pressurized white hazmat suit, faceplate fogged and cracking, stumbling backward across a gleaming sterile lab floor as a glistening mutant creature — too many jointed limbs, translucent skin pulsing with visible organs, a maw that splits wrong-way-wide — lunges from an overturned containment tank, wet strands of tissue trailing through the air behind it. Around him the team scatters in chaos: a woman in a matching suit shoves past his shoulder dragging a fallen colleague by the arm, two men wrestle a heavy steel door against something pushing back from the other side, someone is dragged backward across a workstation beside him, knocking a spray of shattered glassware and spilled reagent vials into the air, more suited figures stumble and scramble through the background past racks of specimen jars cracking under sudden impact. In slow motion glass, fluid, and torn suit fabric explode across the whole frame, droplets and shards suspended everywhere, catching the cold light. Dynamic jostling handheld movement at chest height in the thick of the chaos, camera nearly clipped by a whipping limb. Sterile unreal palette — clinical white, cold surgical blue, sickly bio-luminescent green glow bleeding from the creature's flesh, harsh alarm-red strobing at the edges of frame. All faces anatomically correct behind fogged visors, stable, realistic, genuine terror, no warping. Heavy coarse analog 35mm film grain baked into every frame, thick and consistent, grain crawling over highlights and shadows, like a scanned celluloid film print, never clean, never digital-looking. Flat overhead cleanroom lighting cut through by pulsing red alarm strobes, dramatic slow-motion intensity, cinematic photorealistic, ultra-detailed.
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082659211901558784/img/B5lPekT9GPXPDuhW.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082659300090994748.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082659300090994748.mp4)**
+
+**作者:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **ソース:** [Link](https://x.com/plasm0/status/2082659300090994748) | **公開日:** 2026年7月30日
+
+`Horror` `Monster Chase` `Photoreal` `Sci-Fi` `Slow-Mo`
+
+---
+
 ### Style: Premium Pixar-quality 3D animation, anime-inspired facial expressions…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -169,6 +362,36 @@ Cut 5 (0:27–0:30): 逃走する船の後方からの最終ワイドショッ�
 **作者:** [Sophia](https://x.com/sophiaparkerr_) | **ソース:** [Link](https://x.com/sophiaparkerr_/status/2082665116244627798) | **公開日:** 2026年7月30日
 
 `Story` `Drama` `3D Animation` `Realistic World` `Slow-Mo`
+
+---
+
+### A mixed-media video featuring 2D anime characters and ultra-realistic…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+2Dアニメキャラクターと超リアルな実写背景を組み合わせたマルチメディア動画。
+
+@image1 を主役選手、@image2 をチームメイト、@image3 を屋外の都市型バスケットボールコート、そして @image3 をゴールデンアワーのライティング雰囲気として使用し、シネマティックなバスケットボール映画を作成する。ハイパーリアルなスポーツ中継風の美学、ダイナミックなハンドヘルドカメラの動き、シネマティックな被写界深度、リアルな汗とユニフォームの物理表現、滑らかなショット遷移、自然な体のプロポーション、フォトリアルな8K品質。
+
+Shot 1 (0-2s): Wide sunset shot. The main player dribbles aggressively past defenders while teammates spread out. Low-angle tracking camera follows fast footwork and bouncing ball, energetic crowd in background.
+
+Shot 2 (2-5s): Medium tracking shot. Fast chest pass to teammate, followed by a smooth no-look behind-the-back return pass. Quick whip-pan camera movement follows the ball, defenders react late.
+
+Shot 3 (5-7s): Cinematic close-up. The main player catches the ball and performs a hesitation dribble, intense focus toward the hoop, sneaker scrape sounds, dramatic sunset rim lighting, shallow depth of field.
+
+Shot 4 (7-10s): Slow-motion finale. The main player jumps for a game-winning three-pointer. Orbit camera and slow dolly-in follow the ball into the net with realistic crowd reaction and cinematic sports-commercial ending. No onscreen text.
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082619752179277824/img/7kTs1NaCL5dBBvkG.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082665233336733836.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082665233336733836.mp4)**
+
+**作者:** [Farhan Ai](https://x.com/imFarhanAi) | **ソース:** [Link](https://x.com/imFarhanAi/status/2082665233336733836) | **公開日:** 2026年7月30日
+
+`Sports` `Basketball` `Photoreal` `Realistic World` `Slow-Mo`
 
 ---
 
@@ -242,6 +465,2933 @@ Girl (delighted, laughing): "...Okay, THIS one's perfect."
 **作者:** [Shara I Ai Video Creator](https://x.com/itsshara_ai) | **ソース:** [Link](https://x.com/itsshara_ai/status/2082669690191860136) | **公開日:** 2026年7月30日
 
 `Portrait & Fashion` `Portrait` `3D Animation` `Realistic World` `Creative Asset`
+
+---
+
+### 【风格】竞技跳水体育大片（Olympic-style Platform Diving），电视转播+电影感混合质感（16:9 Cinematic…
+
+#### 📝 プロンプト
+
+```
+【スタイル】競技飛び込みのスポーツ大作（Olympic-style Platform Diving）、テレビ中継＋映画的な質感のミックス（16:9 Cinematic, Photorealistic）、ハイスピード撮影のスローモーション（Super Slow-mo）、屋内飛び込み競技場のクールな水色トーン、ナショナルチーム級の動作クオリティ
+【長さ】15秒
+
+--- QUOTED TWEET ---
+20メートルの飛び込みパフォーマンス、ちょっとヤバい。プロンプト欲しい人いる？ https://t.co/nPuWCjepwi
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082673219064971264/img/8PRIzi2oMiOC-DyH.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082673991957766453.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082673991957766453.mp4)**
+
+**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2082673991957766453) | **公開日:** 2026年7月30日
+
+`Sports` `Other Competition` `Photoreal` `Realistic World` `Slow-Mo`
+
+---
+
+### Macro ASMR product video in warm window light. Golden softgel capsules…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+暖かい窓辺の光の中で撮影されたマクロASMR商品動画。ボトルの横に金色のソフトジェルカプセルが散らばっている。手がゆっくりと1粒を拾い上げて押しつぶし、艶やかな琥珀色の液体を放出する。リアルな質感、やわらかな影、固定カメラ、心地よい動き、クリッピングや変形なし、4K。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082674552665157632/img/vDxh7LUHZT_FEIFP.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082674886007542125.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082674886007542125.mp4)**
+
+**作者:** [Ima Studio](https://x.com/ImaStudio_ai) | **ソース:** [Link](https://x.com/ImaStudio_ai/status/2082674886007542125) | **公開日:** 2026年7月30日
+
+`Product Ad` `Beauty` `Photoreal` `Realistic World` `Macro` `ASMR`
+
+---
+
+### 生成视频：10秒纯欲风舞蹈直拍分镜脚本（9:16竖屏）
+
+#### 📝 プロンプト
+
+```
+生成動画：10秒の純欲系ダンス直撮り分割ショット脚本（9:16縦画面）
+
+スタイル：清純、ゆるめ、雰囲気重視  
+光と影：暖色トーン、髪の毛のハイライト、ソフトフォーカス、わずかな粒状感  
+リズム：ゆっくりしたビートに合わせた軽いグルーヴ、視線主導、2秒ごとに衣装チェンジ、動きは滑らかで引っかかりなく、カメラワークは安定
+
+0–2秒｜オープニング（近景・胸上）
+
+- 動作：あごを軽く上げ、視線を少し落として→目線を上げてカメラを見る
+- 光と影：サイド逆光で髪を際立たせる
+- 雰囲気：ゆるく、ぼんやりとしたムード
+
+2–4秒｜中盤（中景・腰上）
+
+- 動作：腕を軽く上げる、小さなwave、肩と首まわりのグルーヴ
+- カメラワーク：わずかに追い撮り、安定
+- 表情：ほのかな笑み、流れるような目線
+
+4–6秒｜見せ場（中近景）
+
+- 動作：軽く腰をひねる、定位置で止まる、指先で鎖骨/頬にそっと触れる
+- リズム：強拍に合わせて乗る
+- 雰囲気：純欲感を最大限に引き出す
+
+6–8秒｜ディテールのクローズアップ（手/鎖骨/横顔）
+
+- 動作：指先を軽やかに踊らせる、スローモーション
+- 光と影：部分的なソフトライト
+- 感情：うっとり、やさしい
+
+8–10秒｜締め（近景→クローズアップ）
+
+- 動作：最後のポーズで静止し、視線をカメラに固定
+- カメラワーク：わずかに寄る
+- 終わり：0.5秒の静止＋ビネット、9:16。
+
+--- THREAD CONTINUATION ---
+[Thread 1] seedance prompt 動画用プロンプトは以下⬇️
+
+生成動画：10秒の純欲系ダンス直撮り分割ショット脚本（9:16縦画面）
+ 
+スタイル：清純、ゆるめ、雰囲気重視
+光と影：暖色トーン、髪の毛のハイライト、ソフトフォーカス、わずかな粒状感
+リズム：ゆっくりしたビートに合わせた軽いグルーヴ、視線主導、2秒ごとに衣装チェンジ、動きは滑らかで引っかかりなく、カメラワークは安定
+ 
+0–2秒｜オープニング（近景・胸上）
+ 
+- 動作：あごを軽く上げ、視線を少し落として→目線を上げてカメラを見る
+- 光と影：サイド逆光で髪を際立たせる
+- 雰囲気：ゆるく、ぼんやりとしたムード
+ 
+2–4秒｜中盤（中景・腰上）
+ 
+- 動作：腕を軽く上げる、小さなwave、肩と首まわりのグルーヴ
+- カメラワーク：わずかに追い撮り、安定
+- 表情：ほのかな笑み、流れるような目線
+ 
+4–6秒｜見せ場（中近景）
+ 
+- 動作：軽く腰をひねる、定位置で止まる、指先で鎖骨/頬にそっと触れる
+- リズム：強拍に合わせて乗る
+- 雰囲気：純欲感を最大限に引き出す
+ 
+6–8秒｜ディテールのクローズアップ（手/鎖骨/横顔）
+ 
+- 動作：指先を軽やかに踊らせる、スローモーション
+- 光と影：部分的なソフトライト
+- 感情：うっとり、やさしい
+ 
+8–10秒｜締め（近景→クローズアップ）
+ 
+- 動作：最後のポーズで静止し、視線をカメラに固定
+- カメラワーク：わずかに寄る
+- 終わり：0.5秒の静止＋ビネット、9:16。
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082675215847596032/img/YNqkma1D7nOd6mvd.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082675408567439418.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082675408567439418.mp4)**
+
+**作者:** [PixelAIGC](https://x.com/PixelAigc) | **ソース:** [Link](https://x.com/PixelAigc/status/2082675408567439418) | **公開日:** 2026年7月30日
+
+`Music & Dance` `Dance` `Photoreal` `Realistic World` `Slow-Mo` `Tutorial`
+
+---
+
+### A photorealistic cinematic scene of a muscular grey bulldog chained to a tree…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+晴れた日の緑豊かな裏庭で、木につながれた筋肉質のグレーのブルドッグのフォトリアルな cinematic scene。洗練されたグレーの猫が赤い金属製のトレイでブルドッグを殴り、歯を白い破片に砕く。猫はその破片をトレイに掃き集め、激怒する犬をあざ笑う。ブルドッグは激しく飛びかかるが、太いロープに勢いよく引き戻され、地面に叩きつけられる。小さな茶色のネズミが現れ、犬を指さして笑う。猫は手の届かないところで踊る。ブルドッグは前方へ跳び、猫をつかんで強く締めつけるが、猫はふわふわしたグレーのセーターから魔法のようにすり抜け、空になったセーターだけが犬の前足に残る。猫は今や、ぴったりした赤いロンパースを着ている。ブルドッグは飛びかかった途中のまま、像のように完全に静止し、空のセーターを抱えたまま固まる。カメラは黒い円形のアイリス・トランジションへズームし、開くとベルベットのドレープがかかった豪華で薄暗い王室のダイニングルームが現れる。グレーの猫は今や豪奢な赤い玉座にくつろぎ、小さな金色のハンドベルを鳴らしながら、得意げな表情を浮かべている。小さな茶色のネズミは、頭の上に巨大な銀のサービングプラッターを載せ、その上に盛られた巨大で色鮮やかなドーム状の料理を支えながら、歩くのに苦労している。Cinematic lighting volumetric dust particles 8k resolution highly detailed fur textures shot on 35mm lens lively orchestral comedy music playing throughout Seedance 20 15 seconds 16 9 aspect ratio
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082583553758642176/img/et0HvouHEh9Xc9io.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082677816269697045.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082677816269697045.mp4)**
+
+**作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2082677816269697045) | **公開日:** 2026年7月30日
+
+`Meme & Comedy` `Anthropomorphic` `Animals` `Creatures` `Photoreal` `Realistic World` `VFX` `Transformation`
+
+---
+
+### During a stormy night, an ancient glowing door suddenly appears in the middle…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+嵐の夜、鬱蒼とした森の真ん中に、古代の光る扉が突然現れる。ひとりの探検家がランタンを手に、警戒しながら近づく。ゆっくりと扉を開けると、まばゆい黄金の光が、浮遊する島々、巨大な滝、輝く木々、そして二つの月が浮かぶ空に満ちた息をのむような世界を映し出す。探検家がその扉を一歩くぐると、現実は瞬時に周囲で変貌し、ありふれた服は神秘的な鎧へと変わり、魔法のエネルギーが空気の中を渦巻く。すると突然、古代の扉は永遠に姿を消す。遠くから声がささやく。「二度と戻ることはできない。」探検家は果てしない魔法の地平線を見つめ、画面は黒へとフェードアウトする。超リアルなビジュアル、シネマティックなファンタジー、ボリューメトリックライティング、ドラマチックなカメラワーク、シームレスなトランジション、映画品質のVFX、感情を揺さぶる雰囲気、緻密に作り込まれた環境、そして壮大なシネマティックエンディング。
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082685018527182848/img/CV-gLO3OZc8Y-hMy.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082685399143452750.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082685399143452750.mp4)**
+
+**作者:** [Zeeshi](https://x.com/AIwithZeeshi) | **ソース:** [Link](https://x.com/AIwithZeeshi/status/2082685399143452750) | **公開日:** 2026年7月30日
+
+`Scenery & Spectacle` `Worldbuilding` `Story` `Drama` `Photoreal` `Fantasy` `VFX` `Transformation`
+
+---
+
+### The monster and the man charge into a chaotic fight in city. The man wins…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+モンスターと男が街中で混沌とした戦いに突入する。男が勝利する、テンポの速いアクション。14種類の異なるカメラアングル
+
+--- スレッドの続き ---
+[Thread 1] https://t.co/9ltKeXYZGV
+
+[Thread 2] Seedance prompt: 
+
+The monster and the man charge into a chaotic fight in city. The man wins, fast-paced action. 14 different camera angles
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082696825040162816/img/gRV1DWLxVpPmr2x8.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082698335312544113.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082698335312544113.mp4)**
+
+**作者:** [WHORANGE](https://x.com/whorange__) | **ソース:** [Link](https://x.com/whorange__/status/2082698335312544113) | **公開日:** 2026年7月30日
+
+`Action` `Gunfight` `Horror` `Monster Chase` `Photoreal` `Realistic World` `VFX`
+
+---
+
+### 15-second ultra-realistic cinematic fashion commercial. A stylish young woman…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+15秒の超リアルなシネマティック・ファッションCM。白のテーラードブレザー、白のフィットしたスクエアネックトップ、高めのウエストの白いトラウザーズ、オーバーサイズの黒いスクエアサングラス、細いゴールドのネックレス、小さなゴールドのフープピアスを身につけたスタイリッシュな若い女性が、床から天井までのガラス窓、クリーム色のパティオ用パラソル、木製テーブル、ベージュの石床を備えたモダンな高級カフェの外を、自信に満ちた足取りで歩く。暖かなゴールデンアワーの陽光が、柔らかく自然な影を生み出す。彼女はサングラスをそっと直し、さりげなく微笑み、優雅で自信に満ちた動きでカメラに向かって歩く。滑らかなジンバルトラッキング、浅い被写界深度、シネマティックなボケ、85mmポートレートレンズ、HDR、プレミアムなカラーグレーディング、リアルな肌の質感、ラグジュアリーなエディトリアル・ファッションスタイル、超リアル、4K、60fps。テキストなし、ロゴなし、ウォーターマークなし、衣装変更なし、背景変更なし、余分な人物なし、ぼかしなし、歪みなし。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082700330509463553/img/U7AuLu94SsyptiD9.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082700378437521838.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082700378437521838.mp4)**
+
+**作者:** [liana](https://x.com/Lianaalane) | **ソース:** [Link](https://x.com/Lianaalane/status/2082700378437521838) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Fashion` `Photoreal` `Realistic World`
+
+---
+
+### A radiant woman in her late 20s enjoys a luxurious, peaceful solo weekend…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+トスカーナのなだらかな丘陵に建つ石造りのヴィラのテラスで、20代後半の輝くような女性が、贅沢で穏やかなひとり週末の休暇を楽しんでいる。彼女は長くウェーブのかかった栗色の髪をゆるく後ろでまとめ、温かみのあるオリーブ色の肌をしており、繊細なゴールドジュエリーを合わせた柔らかなリネンの白いオフショルダードレスを着て、裸足でいる。動画全体を通して、完璧な顔の一貫性、自然でリラックスした喜び、そして無理のないゆったりとした動きを維持すること。
+舞台は、花々に彩られた石造りのテラスに、オリーブの木、絡み合うつる植物、ラベンダーとゼラニウムを植えたテラコッタ鉢、素朴な木製テーブル、そして柔らかな夕方遅くの陽光の下に広がる遠くの黄金色の丘があり、やさしいボケと温かみのある cinematic color grading が施されている。超写実的で、プレミアムなフィルムライク写真表現、さりげない film grain、滑らかに安定した camera、穏やかな push-in、ゆっくりした orbit、そしてエレガントな rack focus を備えた横長16:9。
+00:00–00:03 ヴィラのテラスのワイドな establishing shot。彼女が裸足で外へ出て、笑顔で、フレッシュフルーツの入った編みかごと本を手にしている。 00:03–00:06 彼女が sparkling water をグラスに注ぎ、テーブルに桃とチーズを並べ、やわらかな笑いとともにクッション付きの椅子に腰を下ろすクローズアップ。 00:06–00:09 彼女が本を数ページ読み、そのあと満ち足りた様子で伸びをし、目を閉じて温かなそよ風を感じる。 00:09–00:12 彼女が立ち上がってテラスの手すりへ歩き、そこにもたれながら黄金色の丘を見つめ、深く穏やかな息を吸う。 00:12–00:15 カメラに向けてやさしく微笑み、静かな自分への乾杯としてグラスを掲げる。シーンは、温かなボケと舞い落ちる花びらとともにゆっくりフェードアウトする。
+Audio: 柔らかな田園の風、遠くの鳥のさえずり、葉とリネンがそよぐかすかな音、軽やかなアコースティックのイタリアンギター、静かなページをめくる音、そしてグラスが触れ合うやわらかな音。
+Goal: 穏やかな贅沢、自然の美しさ、そして静かな自己充足感に満ちた、オリジナルの架空のトスカーナを舞台に、休暇の中で平和な「me time」を取り戻す女性を、喜びにあふれた陽光たっぷりの、感情的に本物らしい描写として作り上げる。
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082704978536448000/img/MK32kZYFGqpl9y-W.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082705192198541406.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082705192198541406.mp4)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2082705192198541406) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Travel Vlog` `Photoreal` `Realistic World` `ASMR`
+
+---
+
+### 16:9
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+16:9
+
+ジャンル: 感情的なスパイ・スリラー / 父娘アクションドラマ
+
+ビジュアルスタイル:
+超リアルなハリウッド映画風シネマティック、4K HDR、リアルな物理挙動、自然な人間の感情、シネマティックなカラーグレーディング、アナモルフィックレンズ、プロ仕様の映画照明、リアルなカメラワーク、プレミアム配信シリーズ級のクオリティ。
+
+キャラクター一貫性ロック
+
+ETHAN VALE:
+Ethan Vale のキャラクターシート参照を完全に使用すること。
+
+維持するもの:
+
+同一の顔
+同一の髪型
+同一のひげ／無精ひげ
+同一の体型比率
+同一の年齢感
+民間人モードでは同一のメガネ
+
+Ethan を再デザインしないこと。
+
+MAYA VALE:
+Maya Vale のキャラクターシート参照を完全に使用すること。
+
+維持するもの:
+
+同一の顔
+同一の髪型
+同一の年齢
+同一の体型比率
+
+Maya を再デザインしないこと。
+
+重要:
+キャラクターは全シーンを通して同一でなければならない。
+顔の変更なし。
+髪型の変更なし。
+ランダムな衣装変更なし。
+
+PART 1 (0:00 - 0:15)
+「彼が築いた人生」
+シーン:
+
+静かな郊外の朝。
+
+暖かな日差しが、小さな家族の家に差し込む。
+
+Ethan Vale は、普段着とメガネ姿でキッチンで朝食を作っている。
+
+Maya は、赤いフーディー、青いだぼっとしたパンツ、白いスニーカー、崩したお団子ヘア、赤いヘッドホン姿で階段を下りてくる。
+
+空気は穏やか。
+
+カメラ:
+
+家の中をゆっくりとシネマティックにドリー移動。
+
+カメラが通り過ぎるもの:
+
+家族写真
+Maya の絵
+ささやかな日用品
+
+その後、Ethan が料理している様子をゆっくりと見せる。
+
+クローズアップ:
+微笑む Ethan。
+
+セリフ:
+
+Maya:
+「またパンケーキ作ってるの？」
+
+Ethan:
+「毎回文句を言うくせに……結局ぜんぶ食べるだろ。」
+
+Maya は微笑む。
+
+演技:
+
+自然な父娘の空気感。
+大げさな表情はなし。
+本当の家族のひとときのように感じられること。
+
+PART 2 (0:15 - 0:30)
+「床下の影」
+シーン:
+
+深夜。
+
+家の中は静まり返っている。
+
+Maya は2階で眠っている。
+
+Ethan は隠し収納室へ入る。
+
+彼は古い鍵付きの箱を開ける。
+
+中身:
+
+古いパスポート
+機密文書
+暗号化デバイス
+古いエージェントバッジ
+
+彼はそのバッジに触れる。
+
+表情がわずかに変わる。
+
+カメラ:
+
+Ethan の背後から、ゆっくりと手持ちで追うカメラ。
+
+クローズアップ:
+
+箱を開ける彼の手
+古い写真
+メガネ越しの彼の目
+
+カメラがゆっくりと彼の周囲を回り込む。
+
+セリフ:
+
+Ethan がささやく:
+
+「もう終わったはずだった。」
+
+派手な音楽の爆発はなし。
+
+ただ静かな緊張だけ。
+
+PART 3 (0:30 - 0:45) 「その前の男」
+シーン:
+
+フラッシュバック・シークエンス。
+
+数年前。
+
+若き日の Ethan、エージェント Orion として。
+
+短くリアルな記憶:
+
+暗い街を歩く
+厳重な施設に入る
+戦術任務
+遠くで起こる爆発
+雨の中を走る
+
+そして:
+
+病室。
+
+妻が生まれたばかりの Maya を彼に抱かせる。
+
+カメラ:
+
+フラッシュバック風:
+
+手持ちのドキュメンタリー感
+やや柔らかい色調
+感情的なクローズアップ
+
+クローズアップ:
+赤ん坊の Maya を抱く Ethan。
+
+セリフ:
+
+妻:
+「彼女には普通の人生を送らせてほしいの。」
+
+Ethan:
+「約束する。」
+
+PART 4 (0:45 - 0:60)
+「彼らは彼女を見つけた」
+シーン:
+
+現代。
+
+Maya が大学を出る。
+
+彼女は街を歩く。
+
+正体不明の人物たちが彼女を監視している。
+
+黒い車両が後をつける。
+
+一方、Ethan は家で何かを修理している。
+
+彼の電話が鳴る。
+
+彼は出る。
+
+沈黙。
+
+荷物が届く。
+
+中には:
+Maya のブレスレット。
+
+カメラ:
+
+並行編集:
+
+歩く Maya。
+
+荷物を開ける Ethan。
+
+Ethan の顔へゆっくりズーム。
+
+彼の穏やかな表情が消える。
+
+セリフ:
+
+正体不明の声:
+「やあ、Orion。」
+
+長い間。
+
+Ethan:
+「その名前はもう存在しない。」
+
+正体不明:
+「今は存在する。」
+
+PART 5 (1:00 - 1:15)
+「再起動」
+シーン:
+
+Ethan は隠し部屋に入る。
+
+メガネを外す。
+
+それを丁寧にテーブルへ置く。
+
+変化が始まる。
+
+彼はエージェント用衣装の参照に着替える。
+
+装備を準備する。
+
+不要なアクションポーズはなし。
+
+ただ、嫌悪しているものへ戻っていく男。
+
+カメラ:
+
+ゆっくりとしたシネマティックショット:
+
+メガネを置く
+古いファイルを開く
+装備を準備する
+鏡を見る Ethan
+
+カメラがゆっくりと彼の目へ寄る。
+
+セリフ:
+
+通信機器越しの旧知の人物:
+「Orion……本当に戻ってきたのか？」
+
+Ethan:
+「いや。」
+
+間。
+
+「娘を探している父親なだけだ。」
+
+PART 6 (1:15 - 1:30)
+「狩り」
+シーン:
+
+エージェント Orion が捜査する。
+
+リアルなスパイ・シークエンス:
+
+監視映像を調べる
+車両を追跡する
+廃墟の場所へ入る
+手がかりを追う
+アクション:
+
+短いリアルな戦闘シーンを1つ。
+
+スーパーヒーロー的な戦いはなし。
+
+素早く、効率的な動き。
+
+Ethan は力ではなく技術を使う。
+
+カメラ:
+
+手持ちのアクションカメラ。
+
+素早いトラッキングショット。
+
+ローアングルの動き。
+
+接近戦のショット。
+
+セリフ:
+
+敵:
+「思ったより年を取ってるな。」
+
+Ethan:
+「おしゃべりが多い。」
+
+PART 7 (1:30 - 1:45)「父が戻る」
+シーン:
+
+Ethan が Maya の居場所を突き止める。
+
+暗い建物の中。
+
+Maya は怯えているが、必死に抵抗している。
+
+彼女は Ethan に気づく。
+
+彼女は、自分の父が思っていた人物ではないと悟る。
+
+カメラ:
+
+スローモーションは感情的な瞬間だけ。
+
+クローズアップ:
+
+Ethan を見る Maya。
+
+見返す Ethan。
+
+セリフ:
+
+Maya:
+「お父さん……あなたは誰なの？」
+
+Ethan:
+「君に真実を話すべきだった人間だ。」
+
+Maya:
+「あなたは、ただの私のお父さんじゃない……」
+
+Ethan:
+「ずっとそうだった。」
+
+PART 8 (1:45 - 2:00)
+「最後の任務」
+シーン:
+
+最終対決。
+
+Ethan は敵の本部に入る。
+
+Maya は彼の助けで逃げる。
+
+父と娘は一緒に動く。
+
+彼らは生き延びる。
+
+すべてが終わったあと:
+
+静かな日の出。
+
+Ethan と Maya は外に座っている。
+
+祝福はない。
+
+あるのは安堵だけ。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082706281849360384/img/U7RLbuYaNVyzTjhg.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082709125469814803.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082709125469814803.mp4)**
+
+**作者:** [Caden Flux](https://x.com/Caden_Flux) | **ソース:** [Link](https://x.com/Caden_Flux/status/2082709125469814803) | **公開日:** 2026年7月30日
+
+`Story` `Drama` `Action` `Military` `Photoreal` `Realistic World` `Slow-Mo`
+
+---
+
+### Use the uploaded reference image as the only identity source for the female…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+アップロードされた参照画像を、女性キャラクターの唯一のアイデンティティソースとして使用してください。動画全体を通して、顔、髪型、メイク、衣装、体のプロポーション、アクセサリーを完全に一致させて維持してください。
+
+夜の公園を舞台に、木製のベンチと暖かい街灯の下で撮影された、10秒・9:16の超リアルな cinematic 縦型動画を作成してください。使用するのは、固定されたワイドショット1つと静止した顔のクローズアップ1つのみで、ハードカットはちょうど2回にしてください。カメラの動き、ズーム、アングル変更は一切なし。
+
+女性は右側から、右手に緑のシャンパンボトル、左手に点灯したバースデーケーキを持って入ってきます。彼女はベンチの中央に座り、シャンパンボトルを3回振りますが、スプレーは一切出ません。ハードカットでクローズアップに切り替わり、彼女はわずかに片側だけの smirk を浮かべ、カメラをまっすぐ見つめ、深呼吸をします。
+
+元のワイドショットに戻ります。彼女はケーキを顔の近くまで持ち上げながら、シャンパンボトルを下方向に振ります。その振りが終わるまさにその瞬間、ボトルから淡い金色のシャンパン、白い泡、飛沫が、現実的な縦方向のスプレーとして噴き出します。同時に、彼女の息は大きなオレンジ色の炎へと変化し、バースデーキャンドルの上をフレーム右側へ向かって水平に吹き抜けます。シャンパンスプレーは左側に、炎は右側に留まり、互いに交差しません。ケーキは水平を保ち、キャンドルは点灯したままで、液体と炎はすべて現実的な物理法則に従って動きます。
+
+音楽のクライマックスで、同じショットが即座に白黒へ切り替わり、スローモーションに入ります。上部には、白い手書き文字で "Happy Birthday" と表示されます。最終フレームは cinematic なバースデーポスターとして静止します。追加のテキスト、ロゴ、ウォーターマーク、キャラクター変更、余分な小道具、衣装変更は一切なし。
+
+--- THREAD CONTINUATION ---
+[Thread 1] Try it here 👇
+https://t.co/SxC3VWUerE
+
+[Thread 2] Prompt:
+アップロードされた参照画像を、女性キャラクターの唯一のアイデンティティソースとして使用してください。動画全体を通して、顔、髪型、メイク、衣装、体のプロポーション、アクセサリーを完全に一致させて維持してください。
+
+夜の公園を舞台に、木製のベンチと暖かい街灯の下で撮影された、10秒・9:16の超リアルな cinematic 縦型動画を作成してください。使用するのは、固定されたワイドショット1つと静止した顔のクローズアップ1つのみで、ハードカットはちょうど2回にしてください。カメラの動き、ズーム、アングル変更は一切なし。
+
+女性は右側から、右手に緑のシャンパンボトル、左手に点灯したバースデーケーキを持って入ってきます。彼女はベンチの中央に座り、シャンパンボトルを3回振りますが、スプレーは一切出ません。ハードカットでクローズアップに切り替わり、彼女はわずかに片側だけの smirk を浮かべ、カメラをまっすぐ見つめ、深呼吸をします。
+
+元のワイドショットに戻ります。彼女はケーキを顔の近くまで持ち上げながら、シャンパンボトルを下方向に振ります。その振りが終わるまさにその瞬間、ボトルから淡い金色のシャンパン、白い泡、飛沫が、現実的な縦方向のスプレーとして噴き出します。同時に、彼女の息は大きなオレンジ色の炎へと変化し、バースデーキャンドルの上をフレーム右側へ向かって水平に吹き抜けます。シャンパンスプレーは左側に、炎は右側に留まり、互いに交差しません。ケーキは水平を保ち、キャンドルは点灯したままで、液体と炎はすべて現実的な物理法則に従って動きます。
+
+音楽のクライマックスで、同じショットが即座に白黒へ切り替わり、スローモーションに入ります。上部には、白い手書き文字で "Happy Birthday" と表示されます。最終フレームは cinematic なバースデーポスターとして静止します。追加のテキスト、ロゴ、ウォーターマーク、キャラクター変更、余分な小道具、衣装変更は一切なし。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082710659771285505/img/tt2IlEDKTXMDtrZO.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082710687441465514.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082710687441465514.mp4)**
+
+**作者:** [Hannah Ai](https://x.com/nusratsid1) | **ソース:** [Link](https://x.com/nusratsid1/status/2082710687441465514) | **公開日:** 2026年7月30日
+
+`Story` `Twist` `Photoreal` `Realistic World` `VFX` `Slow-Mo`
+
+---
+
+### 15 seconds | 16:9 | live-action military documentary footage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+15秒 | 16:9 | 実写の軍事ドキュメンタリー映像  
+海上での架空の空母緊急事態。  
+超写実的な生映像。  
+手持ち、望遠、デッキカメラを横断する高速なマルチショットのストーリーテリング。
+
+STORY  
+空母搭載戦闘機が、機械トラブルの兆候を伴って荒れた外洋上から戻ってくる。飛行甲板は緊急回収モードに入る。戦闘機が接近して安全に着艦する間、乗員は着艦エリアをクリアする。
+
+00–03s — EMERGENCY  
+厚い雲に覆われた空の下、稼働中の空母甲板を捉えた広角の手持ち映像。
+
+強い海風、灰色の海、濡れて使い込まれた甲板。
+
+乗員が警報を受け、急いで着艦エリアを空ける。
+
+一人の乗員が他の乗員に退避を指示し、カメラは素早く海へ向きを変える。
+
+03–06s — FINAL APPROACH  
+長焦点の望遠映像へハードカット。
+
+架空の戦闘機が、降着装置を下ろした状態で海面すれすれを接近してくる。
+
+機体は乱気流に対して微妙なロールとヨーの補正を行う。
+
+エンジン後方に熱ゆらぎ。
+
+カメラオペレーターは、フレーミングを維持するのにやや苦労する。
+
+06–09s — DECK SCRAMBLE  
+乗員の中に入り込んだ肩掛けカメラ映像。
+
+要員が機材を素早く移動させ、安全な位置につく。
+
+一人の乗員が前景を横切り、一瞬レンズを遮る。
+
+カメラは接近する戦闘機へパンする。
+
+演出的なパニックではなく、制御されたプロフェッショナルな緊迫感。
+
+09–12s — TOUCHDOWN  
+安全な側方位置からの低いデッキカメラ。
+
+戦闘機がしっかりと着艦する。
+
+降着装置が圧縮し、タイヤが小さく現実的な煙を上げ、機体は急速に減速する。
+
+カメラはそれを追って、速く不完全なパンを行う。
+
+爆発や誇張された火花はない。
+
+12–15s — SAFE STOP  
+三分の四構図の手持ち映像。
+
+機体は制御された停止に達し、エンジンはまだ回転していて熱気の揺らぎが見える。
+
+乗員が慎重に接近し、コックピットへ合図を送り、機体を点検する。
+
+最終フレームは、荒れた海を背に、対応する乗員に囲まれた戦闘機を短く静止して捉える。
+
+CAMERA  
+本物の軍事記録／ニュース映像。
+
+手持ちのデッキカメラ、肩掛け映像、長焦点の追尾、固定の低いデッキカメラをミックス。
+
+ハードカット。  
+反応的なパン。  
+前景の遮り。  
+オートフォーカスの補正。  
+望遠圧縮。  
+風による微細な揺れ。  
+自然なモーションブラー。
+
+カメラオペレーターは、出来事を予測するのではなく、出来事に反応する。
+
+ENVIRONMENT  
+荒れた外洋にある稼働中の空母。
+
+濡れた滑り止め甲板、塗装されたマーキング、甲板装備、駐機中の架空機、厚い雲と強い海上風。
+
+PHYSICS  
+機体には説得力のある質量、運動量、空力挙動がある。
+
+進入は空母に対して整列したまま維持される。  
+降着装置は自然に圧縮する。  
+減速には信じられる慣性がある。
+
+乗員の衣服やストラップは風に継続的に反応する。  
+ジェットエンジンは現実的な熱ゆらぎを生む。
+
+AUDIO  
+強い風、海の環境音、空母の機械音、叫ぶ指示、接近するジェットの轟音、タイヤ接地音、機体の減速、乗員の通信。
+
+音の視点はショットごとに自然に変化する。
+
+シネマティックなサウンドトラックはない。
+
+VISUAL CHARACTER  
+生々しい実写の軍事映像。  
+フォトリアルな機体、乗員、海。  
+自然な曇天露出。  
+使い込まれた装備。  
+大気の霞。  
+センサーノイズと軽微なカメラの不完全さ。
+
+CGIっぽさはない。  
+ビデオゲーム的な見た目はない。  
+ハリウッド的な演出はない。  
+スローモーションはない。  
+過剰な爆発はない。  
+あり得ないカメラ移動はない。
+
+CONTINUITY  
+同じ架空の戦闘機、空母、天候、甲板、乗員が通して維持される。
+
+機体の向きと位置は地理的に一貫している。
+
+各ショットは、同じ緊急着艦を時系列で前進させる。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082716656208637953/img/ec2vXjmUWMhU24NW.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082716684327211204.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082716684327211204.mp4)**
+
+**作者:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **ソース:** [Link](https://x.com/Diplomeme/status/2082716684327211204) | **公開日:** 2026年7月30日
+
+`Action` `Military` `Photoreal` `Realistic World` `VFX`
+
+---
+
+### Use @[character ref] as the only character and visual style reference. Start…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+@[character ref] を唯一のキャラクターおよびビジュアルスタイルの参照として使用してください。アクションで始まり、アクションで終わってください。女性のガンファイターが、あり得ない速度で暗い凍結アリーナをスケートで滑走し、優雅なアイスバレリーナの動きを見せながら、ピストルで大量の敵を撃ち倒します。彼女はピルエット、スパイラルグライド、大きなターン、スピン、そして高速なスケーティングの切り替えの最中に攻撃し、決して速度を落としません。多数の敵が四方八方から彼女を取り囲み、突進してきます。すべてのスケート動作は、電気のような青い氷の軌跡、霜のミスト、そして氷の飛沫を残します。すべての銃撃は、鮮烈な深紅のマズルフラッシュと鋭いグラフィックなインパクトバーストを生み出します。環境は暗く、ムーディーで、高コントラストに保ち、赤、青、黒を基調とした大胆なポスタライズド・アニメ表現にしてください。剣なし、スローモーションなし、静止ポーズなし、静止した敵なし、全編を通してアクション重視。
+
+--- THREAD CONTINUATION ---
+[Thread 1] キャラクター用 Midjourney:
+emilia from re:zero anime with two pistols, full body view, luminous lavender skin, golden hair framing the face, glowing pastel gradients, soft airbrush rendering, sparkling dust, cosmic shimmer --chaos 30 --ar 9:16 --exp 30 --sref 2688930422 --profile 8mk73g6
+
+Seedance 2.0 prompt:
+@[character ref] を唯一のキャラクターおよびビジュアルスタイルの参照として使用してください。アクションで始まり、アクションで終わってください。女性のガンファイターが、あり得ない速度で暗い凍結アリーナをスケートで滑走し、優雅なアイスバレリーナの動きを見せながら、ピストルで大量の敵を撃ち倒します。彼女はピルエット、スパイラルグライド、大きなターン、スピン、そして高速なスケーティングの切り替えの最中に攻撃し、決して速度を落としません。多数の敵が四方八方から彼女を取り囲み、突進してきます。すべてのスケート動作は、電気のような青い氷の軌跡、霜のミスト、そして氷の飛沫を残します。すべての銃撃は、鮮烈な深紅のマズルフラッシュと鋭いグラフィックなインパクトバーストを生み出します。環境は暗く、ムーディーで、高コントラストに保ち、赤、青、黒を基調とした大胆なポスタライズド・アニメ表現にしてください。剣なし、スローモーションなし、静止ポーズなし、静止した敵なし、全編を通してアクション重視。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082716204037283840/img/YvZLeL02ULrILyuY.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082716751582695649.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082716751582695649.mp4)**
+
+**作者:** [Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2082716751582695649) | **公開日:** 2026年7月30日
+
+`Action` `Gunfight` `Anime 2D` `Fantasy` `VFX`
+
+---
+
+### The Living Island
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+生きている島
+
+息をのむほど美しい浮遊都市が、島と見紛うほど巨大な古代のウミガメの甲羅の上に広がっている。クリスタルブルーの運河が、テラコッタ屋根の色鮮やかな家々のあいだを縫うように流れ、子どもたちは花咲く通りで光る蝶を追いかけ、漁師たちはカメの甲羅に沿って造られた木製の桟橋から海へ釣り糸を垂らし、風車は草の丘の上でやさしく回り、小さな帆船は黄金の朝日にきらめく運河を漂っている。滝は甲羅の縁から下の果てしない海へと流れ落ち、霧の中に虹を生み出す。頭上では鳥が舞い、巨大な存在のそばを海ガメたちが穏やかに泳いでいる。
+
+カメラはにぎやかな街の中を低く滑るように進み、活気あるカフェ、青空市場、町の広場で演奏する音楽家たち、石橋の上から手を振る子どもたちのそばを通り過ぎる。すべてが温かく、 আনন্দに満ち、生き生きとしていて、まるで完璧な海辺の楽園のようだ。
+
+すると……何かが、さりげなく起こる。
+
+屋外のカフェテーブルに置かれたティーカップの水面が、かすかに波打つ。
+
+吊るされたランタンが揺れ始める。
+
+運河にやさしいさざ波が立つ。
+
+誰も慌てない。
+
+町の人々はただ微笑む。
+
+年老いた漁師は落ち着いて自分の船を固定する。
+
+親たちはやさしく子どもたちを呼び寄せる。
+
+市場の店主たちは色鮮やかな日よけをしっかり結び直す。
+
+彼らは、これを何度も経験してきたのだ。
+
+巨大なカメが、ゆっくりと雲の上へ頭を持ち上げる。
+
+陽光が、その古代のエメラルドの瞳をとらえる。
+
+巨大なヒレが動き始める。
+
+カメが大海原を泳ぎ出すと、都市全体がやさしく傾く。風車はより速く回転し、運河の船は変わりゆく流れに自然に身を任せ、滝はさらに高く空へと流れ上がってから海へと落ち、鳥の群れはこの穏やかな守護者のそばを旋回する。
+
+カメラは、さらに高く、高く引いていく。
+
+ここで初めて、私たちは気づくのだ……
+
+島に見えたものは、実は山ほどもある大きさの生きた生物の甲羅であり、果てしない海をひとつの文明ごと静かに運んでいたのだと。
+
+遠くには、朝霧の中から何十もの巨大なカメがゆっくりと姿を現す。それぞれが独自の都市を背負い、まるで生きた大陸の家族のように、音もなく連れ立って海を渡っていく。
+
+最後のフレームは、魔法のようで、穏やかで、子どものような驚きに満ちている。まるでPixarのオープニングシーンからそのまま飛び出してきたようで、観客はすぐにでもこの特別な世界の物語を知りたくなる。
+
+--- THREAD CONTINUATION ---
+[Thread 1] このプロンプトをコピーしてください:
+
+"The Living Island
+
+A breathtaking floating city stretches across the shell of an ancient sea turtle so vast it resembles an island. Crystal-blue canals weave between colorful houses with terracotta roofs, children chase glowing butterflies through flower-filled streets, fishermen cast lines into the sea from wooden piers built along the turtle's shell, windmills spin gently on grassy hills, and tiny sailboats drift through canals that sparkle under the golden morning sun. Waterfalls cascade from the edges of the shell into the endless ocean below, creating rainbows in the mist. Birds soar overhead while sea turtles swim peacefully beside the giant.
+
+The camera glides low through the bustling city, passing lively cafés, open markets, musicians performing in the town square, and children waving from stone bridges. Everything feels warm, joyful, and alive—like a perfect coastal paradise.
+
+Then... something subtle happens.
+
+A teacup on an outdoor café table ripples.
+
+Hanging lanterns begin to sway.
+
+The canals form gentle waves.
+
+No one panics.
+
+The townspeople simply smile.
+
+An old fisherman calmly secures his boat.
+
+Parents gently call their children closer.
+
+Market vendors tie down colorful awnings.
+
+They've experienced this countless times before.
+
+The giant turtle slowly lifts its head above the clouds.
+
+Sunlight catches its ancient emerald eyes.
+
+Its enormous flippers begin to move.
+
+The entire city gently tilts as the turtle starts swimming through the open ocean. Windmills rotate faster, canal boats drift naturally with the changing current, waterfalls stream farther into the air before crashing into the sea, and flocks of birds circle alongside their gentle guardian.
+
+The camera pulls back higher and higher.
+
+Only now do we realize...
+
+What looked like an island is actually the shell of a living creature the size of a mountain, peacefully carrying an entire civilization across the endless sea.
+
+In the distance, dozens of other giant turtles slowly emerge through the morning mist, each carrying its own unique city, silently migrating together across the ocean like a family of living continents.
+
+The final frame feels magical, peaceful, and filled with childlike wonder something straight out of a Pixar opening scene, where the audience immediately wants to know the story of this extraordinary world."
+---
+
+翻訳のみを返してください。他には何も書かないでください。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082718516440891392/img/1S5ifDkYsdFMEMBf.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082719158685331863.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082719158685331863.mp4)**
+
+**作者:** [ZOYA ✪](https://x.com/HeyZoyaKhan) | **ソース:** [Link](https://x.com/HeyZoyaKhan/status/2082719158685331863) | **公開日:** 2026年7月30日
+
+`Scenery & Spectacle` `Worldbuilding` `3D Animation` `Fantasy`
+
+---
+
+### Style: Bright, energetic, vibrant TV/social media ad – fast-paced, upbeat…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+スタイル: 明るく、エネルギッシュで、鮮やかなTV/ソーシャルメディア広告 – テンポが速く、アップビートで、若々しく、ナイジェリアの視聴者に適した雰囲気
+Duration: 10 seconds
+Visual sequence:
+Opening: 光沢のあるFizzoのボトル/缶のクローズアップ。結露がきらめき、明るい日差しが当たっている
+Action: 手がキャップをひねって開ける – クリスプな fizz の音、泡が鮮やかに立ち上る
+Shot: 氷のキューブがグラスに落ち、Fizzoがきらめく流れで注がれる
+Scene: 笑顔の若い友人たちのグループが、集まり/公園で冷えたFizzoを分け合いながら笑っている
+Closing: 太字のテキスト付きの商品ショット: FIZZO – CRISP FIZZ, EVERY SIP!
+Colors: 明るいブランドトーン（赤、青、白）、フレッシュで生き生きとしたライティング
+Audio: アップビートで耳に残るジングル + クリスプな fizz の効果音
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082719584931434496/img/TpyM-3NXQbehXHNH.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082719694851633502.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082719694851633502.mp4)**
+
+**作者:** [Abkr Sadiq](https://x.com/abs_uiux) | **ソース:** [Link](https://x.com/abs_uiux/status/2082719694851633502) | **公開日:** 2026年7月30日
+
+`Product Ad` `F&B` `Photoreal` `Realistic World` `Macro` `ASMR`
+
+---
+
+### Generate a highly realistic 15 second cinematic black and white video montage…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+16:9のアスペクト比で、重厚なリズミカルなアンダーグラウンド・ヒップホップの音楽トラックに同期した、非常にリアルな15秒のシネマティックな白黒ビデオモンタージュを生成する。シーケンスは、無骨な雰囲気の、坊主頭で上半身裸の若い男がバスルームの鏡を睨みつけ、自分の反射に向かって手で銃の形を作るミディアム・クローズアップから始まる。続いて、巻き毛の若い男がカメラレンズをまっすぐに、強い眼差しで見つめ、その背後には荒廃した都市のコンクリート住宅群がぼけて見えるエクストリーム・クローズアップへと素早くカットする。映像は、音楽のビートに合わせたテンポの速いダイナミックなカットで構成される。次に、螺旋状の建築的なコンクリート階段の中心を真上に見上げる、エクストリーム・ローアングルのショットへ移行する。さらに、曇天のパリの街路を見下ろす錬鉄製のバルコニー手すりにもたれかかる、ヴィンテージのレザーボンバージャケットを着た2人の男を、広角で深い被写界深度で捉えたショットへカットする。続いて、映画館の暗闇の中で、フィルムプロジェクターの強烈な光だけに照らされながら男が急に振り向く場面へ。次に、夜の都市の通りで、3人のシルエットが輝く都市のスカイラインを見渡しているショットへ移る。撮影は、厚みのある自然なフィルムグレイン、深い影、目を射るようなハイライトを備えた、本物の35mmフィルムを思わせる質感で行う。ライティングは一貫して高コントラストのモノクロームで、レンガ、コンクリート、レザーの生々しい質感を際立たせる。最後のショットは、廃墟となった倉庫の中に立つ孤独なシルエットの人物を、頭上の点滅する蛍光灯1本だけで照らした、対称的なワイドアングルの構図で締めくくる。全体の美学は、荒々しい都市のリアリズムをw
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082585336820137984/img/MkWlALC0qj9fjfO7.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082719842810118640.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082719842810118640.mp4)**
+
+**作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2082719842810118640) | **公開日:** 2026年7月30日
+
+`Story` `Drama` `Photoreal` `Realistic World`
+
+---
+
+### Create a young influencer advertising a product that's selling in the market…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+今、TikTokで売れている商品を宣伝する若いインフルエンサーを作成してください。
+
+--- スレッドの続き ---
+[Thread 1] このプラットフォームにアクセスして無料クレジットを受け取り、さらにTEMP Mailを使ってプラットフォームにアクセスし、無制限に利用するには、こちらの動画をご覧ください:
+
+https://t.co/lwo2YdQa2L
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082734025882382336/img/XGrhzBdPmqcxPBAb.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082734087295443052.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082734087295443052.mp4)**
+
+**作者:** [KUYIK BASSEY](https://x.com/IamKuyikBassey) | **ソース:** [Link](https://x.com/IamKuyikBassey/status/2082734087295443052) | **公開日:** 2026年7月30日
+
+`Product Ad` `Tech` `Portrait & Fashion` `Influencer` `Photoreal` `Realistic World`
+
+---
+
+### Concept: "Han River Analog Footage × Higgsfield"
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+コンセプト: 「漢江アナログ映像 × Higgsfield」
+
+手持ちのHi8/VHS-Cカムコーダーで撮影された、本物らしい15秒のアナログホームビデオ録画を作成する。カムコーダー自体は画面に映らない。視聴者が見るのは録画された映像だけで、まるでデジタル化された家族のビデオテープを見ているような感覚にする。これはvlogでも、CMでも、シネマティックな映画でもなく、友人が別の友人を何気なく撮影しているだけの映像である。
+
+本物のアナログカムコーダーらしい質感を使うこと。ソフトなSD解像度、VHSの粒子感、わずかなインターレース、アナログ特有の色にじみ、軽いトラッキングノイズ、オートフォーカスの呼吸、わずかな露出変動、不完全な手持ちの揺れ、自然なモーションブラー、色あせた色調、そして控えめなテープヒス。HDR、美肌フィルター、シネマティックなグレーディング、スタビライズ、AI的に完璧なレンダリングは不要。
+
+20代前半の若い韓国人女性が、パステルカラーのフィットしたクロップトップ、ミッドライズのヴィンテージ風ブルーデニムショーツ、白いアンクルソックス、クラシックな白いスニーカー、腰に結んだ軽いウィンドブレーカー、そしてシンプルなキャンバス地のショルダーバッグを身につけている。スタイリングは、特定の年を明示せずに、90年代後半〜2000年代初頭の韓国ストリートファッションのノスタルジックな雰囲気を感じさせるものにする。  
+シーンは、暖かい夏の午後の漢江沿いで展開する。芝生では家族連れがくつろぎ、サイクリストが通り過ぎ、子どもたちが遊び、遠くにはソウルのスカイラインが背景に広がっている。
+
+彼女は自然な足取りで川沿いの手すりへ向かい、その後、川に浮かぶ巨大なHIGGSFIELDのインスタレーションを見て立ち止まり、感嘆する。HIGGSFIELDという文字は、巨大な立体ブロック文字で構成され、リアルな浮遊プラットフォームに設置されていること。看板は川の中に物理的に設置されているように見え、正確な反射、影、パースを伴い、シーン全体を通して大きく、太く、完全に読み取れる状態を保つこと。
+
+カメラは彼女とインスタレーションの間をやさしくパンし、両方がフレーム内に収まるようにする。彼女は自然に微笑み、数歩近づき、それから見えないカメラの撮影者に気づく。彼女は小さく笑い、温かく手を振り、巨大なHIGGSFIELDの看板を興奮気味に指さし、さりげなく親指を立て、それから微笑みながら川へ視線を戻し、歩き続ける。そよ風が彼女の髪と服を揺らし、その背後をサイクリストが通り過ぎる。カメラはさらに数歩彼女を追い、その後自然に停止する。
+
+生成要件:  
+カットやトランジションのない、15秒の連続した録画にすること。動きは自然で、アイデンティティは一貫し、人体構造は正確で、やり取りは信じられるものにする。HIGGSFIELDのインスタレーションは常に目立ち、鮮明で、環境に自然に統合されていなければならない。風、鳥、遠くの会話、自転車、水音など、現実的な環境音を含めること。AI特有のアーティファクト、重複した歩行者、歪んだ人体、浮遊物、現代的なシネマティック効果、または映像をAI生成らしく見せる要素は避けること。最終結果は、本物のノスタルジックなアナログカムコーダー映像と見分けがつかないものでなければならない。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082734208414625793/img/1OYk5S8fQEtICE6K.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082734270960075106.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082734270960075106.mp4)**
+
+**作者:** [Johnn](https://x.com/john_my07) | **ソース:** [Link](https://x.com/john_my07/status/2082734270960075106) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Portrait` `Scenery & Spectacle` `Cityscape` `Retro Film` `Realistic World` `POV`
+
+---
+
+### FORMAT / START] Generate a 15-second 16:9 cinematic action scene. Action begins…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+FORMAT / START] 15秒の16:9シネマティックなアクションシーンを生成してください。アクションは即座に始まります。参照画像はありません — テキスト説明に基づいて両方のキャラクターを生成してください。
+[CHARACTER LOCK] A is The Runner. Preserve exact: woman early 30s, lean athletic build, dark hair tied back and soaked flat, grey tank top, dark cargo pants, bare forearms, low compact stance, contained energy. She is calm. She wins. B is The Enforcer. Preserve exact: woman mid 30s, taller and heavier, short bleached hair, black tactical jacket, gloved hands, upright forward-leaning posture, volatile energy. She attacks first. She loses. Do not swap roles. Only these two characters. No extras. 
+[SETTING] 住宅ブロックの屋上、夜、激しい雨。平らなコンクリート一面に水たまり、換気装置、低いパラペット、ポールの間に張られた物干しロープと、風にはためく濡れたシーツ。階段室の上にあるサービスランプ1灯のみ — 強い白色光、それ以外は青い影。はるか下に街の光。群衆なし。 
+[MOTION RULES] 読み取りやすいアクション、明確なシルエット、接触前の短い間、各打撃の前に見える準備動作、実際の物理的な重みを伴う強い衝撃、短いヒットストップ、速く動く手足にのみ制御されたモーションブラー、明確な地理関係。各カットは同じ攻防の継続であること。スローモーションなし、速度ランプなし — 全編リアルタイム速度。動きは地に足がつき、物理的な動機に基づくこと。各技は途切れなく次の技へ直接つながること。Aは無駄のない動きと精密さで動く。Bは攻撃性と勢いで動く。雨とたまった水はすべての衝撃に反応する。 
+[BEAT 1 — ENTRY] 2人の女性が、濡れた屋上を挟んで3メートルの距離で向かい合う。Bが素早く前進し、右手を構える。Aはリラックスした姿勢で、重心を中央に置き、手は低く、視線はBの胸骨に向けている。濡れたシーツが2人の間を揺れて通り過ぎる。距離が詰まる。 
+[BEAT 2 — FIRST EXCHANGE] Bが重い右ストレートを放つ。Aは外側へスリップして耳元を通過させ、伸び切る途中のBの肋骨へ短い左フックを打ち込む。Bはうめき、腕が落ちる。2人の足元から水しぶきが上がる。 
+[BEAT 3 — COUNTER] Aはすでに内側に入っている。左手でBの襟をつかみ、短い右肘を頬骨へ叩き込む — 距離ではなく密着した接触。Bの頭が回転する。後ろ足が濡れたコンクリートの上で滑り出す。 
+[BEAT 4 — RECOVERY EXCHANGE] Bは振りほどいて突進し、全体重を乗せてタックルに入る。Aは一歩下がって受け止め、重心を落とし、片腕をBの肩の下に差し込んで回転する — B自身の勢いを利用して、腰越しに持ち上げ、立ったままの状態で水たまりへ投げる。重く平らな着地。水しぶきが噴き上がる。 
+[BEAT 5 — FINISH] Bは片膝で起き上がろうとするが、もうガードはない。Aが踏み込み、膝をBの胸骨へ叩き込む。Bは折れ、仰向けに水の中へ倒れ込む。Aは姿勢を正し、一度だけ息を吐き、雨を滴らせながら、振り返らずに階段室へ向かって通り過ぎる。最終イメージ：サービスランプにシルエットとして浮かぶA、その背後の水の中に倒れるB、風にはためき続けるシーツ。 
+[AUDIO] 音楽なし。聞こえるのは、コンクリートを打つ雨、濡れた足さばき、肋骨へのフック、骨に当たる肘、濡れた床を滑るブーツ、水たまりに体が落ちる音、フィニッシュ時の長い一息、風にはためくシーツのみ。 [NEGATIVE CONTROL] ランダムなカットなし、役割の入れ替えなし、衣装変更なし、顔の変形なし、追加キャラクターなし、テレポートなし、不明瞭な接触なし、コメディなし、字幕なし、ロゴなし、UIなし、スローモーションなし、速度ランプなし、ワイヤーワークなし、超自然的な動きなし、武器なし。すべての位置変化は物理的に動機づけられ、連続していること
+
+--- THREAD CONTINUATION ---
+[Thread 1] https://t.co/UNNFJhvhzX
+
+[Thread 2] Prompt:
+
+FORMAT / START] 15秒の16:9シネマティックなアクションシーンを生成してください。アクションは即座に始まります。参照画像はありません — テキスト説明に基づいて両方のキャラクターを生成してください。
+[CHARACTER LOCK] A is The Runner. Preserve exact: woman early 30s, lean athletic build, dark hair tied back and soaked flat, grey tank top, dark cargo pants, bare forearms, low compact stance, contained energy. She is calm. She wins. B is The Enforcer. Preserve exact: woman mid 30s, taller and heavier, short bleached hair, black tactical jacket, gloved hands, upright forward-leaning posture, volatile energy. She attacks first. She loses. Do not swap roles. Only these two characters. No extras. 
+[SETTING] 住宅ブロックの屋上、夜、激しい雨。平らなコンクリート一面に水たまり、換気装置、低いパラペット、ポールの間に張られた物干しロープと、風にはためく濡れたシーツ。階段室の上にあるサービスランプ1灯のみ — 強い白色光、それ以外は青い影。はるか下に街の光。群衆なし。 
+[MOTION RULES] 読み取りやすいアクション、明確なシルエット、接触前の短い間、各打撃の前に見える準備動作、実際の物理的な重みを伴う強い衝撃、短いヒットストップ、速く動く手足にのみ制御されたモーションブラー、明確な地理関係。各カットは同じ攻防の継続であること。スローモーションなし、速度ランプなし — 全編リアルタイム速度。動きは地に足がつき、物理的な動機に基づくこと。各技は途切れなく次の技へ直接つながること。Aは無駄のない動きと精密さで動く。Bは攻撃性と勢いで動く。雨とたまった水はすべての衝撃に反応する。 
+[BEAT 1 — ENTRY] 2人の女性が、濡れた屋上を挟んで3メートルの距離で向かい合う。Bが素早く前進し、右手を構える。Aはリラックスした姿勢で、重心を中央に置き、手は低く、視線はBの胸骨に向けている。濡れたシーツが2人の間を揺れて通り過ぎる。距離が詰まる。 
+[BEAT 2 — FIRST EXCHANGE] Bが重い右ストレートを放つ。Aは外側へスリップ
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082736512689373184/img/_ZQMZaRfcd6zESBg.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082736958296457354.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082736958296457354.mp4)**
+
+**作者:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **ソース:** [Link](https://x.com/shikoba_86/status/2082736958296457354) | **公開日:** 2026年7月30日
+
+`Action` `Ring Fight` `Photoreal` `Realistic World`
+
+---
+
+### A 15-second ultra-realistic cinematic action scene of a fearless woman battling…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+15秒の超リアルなシネマティック・アクションシーン。古代の砂漠の闘技場で、恐れ知らずの女性が野生のライオンの群れと戦う。
+
+Shot 1 (0–3 sec):
+夕暮れの、岩山に囲まれた古代の廃墟の闘技場を捉えた、極端なワイドのシネマティックショット。たくましい戦士の衣装を身に着けた力強い女性が中央にひとり立ち、影の中から3頭の巨大なライオンがゆっくりと近づいてくる。空気中を舞う砂ぼこり、ドラマチックな雰囲気、張り詰めた緊張感。
+
+Shot 2 (3–6 sec):
+ライオンたちが彼女に向かって突進する、ローアングルのアクションショット。カメラはシーンの周囲を素早く動き回り、彼女は驚異的な敏捷性で最初の攻撃をかわし、地面を滑るように移動しながら、周囲に砂ぼこりが爆発する。リアルなライオンの動き、細部まで描かれた毛並み、シネマティックなモーションブラー。
+
+Shot 3 (6–10 sec):
+テンポの速い戦闘シークエンス。女性は自分の技術と知性を使って反撃し、攻撃を避けながらライオンたちを一頭ずつ圧倒していく。ダイナミックなカメラアングル、決意に満ちた表情のクローズアップ、力強い動きを見せるスローモーションの瞬間、リアルな物理演算と激しいアクションの振り付け。
+
+Shot 4 (10–13 sec):
+最後のライオンが劇的に彼女へ跳びかかる。カメラはスローモーションで回転し、彼女はその攻撃を受け止め、力強い最後の一撃でライオンを倒す。砂ぼこりが空気を満たし、闘技場は静寂に包まれる。
+
+Shot 5 (13–15 sec):
+壮大なヒーローショット。倒されたライオンたちが遠くへ退いていく中、女性は闘技場の中央に勝者として立つ。カメラはゆっくりと引き、広大な風景、黄金色の夕日、風に揺れる髪と衣服を映し出す、シネマティックな勝利の瞬間。
+
+Style:
+超リアルなハリウッド・アクション映画、壮大なスケール、リアルな動物の動き、ドラマチックなライティング、シネマティックなカメラワーク、精細なテクスチャ、4K品質、自然な動き、緊張感のある雰囲気。
+
+Negative Prompt:
+cartoon, fantasy CGI look, unrealistic animals, blurry, bad anatomy, extra limbs, unnatural fighting, blood, gore, distorted face, flickering, low quality, watermark.
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082740968957108224/img/hXK2IC5kzokoBSZc.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082741313179685151.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082741313179685151.mp4)**
+
+**作者:** [Ruzaina](https://x.com/RuzainaMeer) | **ソース:** [Link](https://x.com/RuzainaMeer/status/2082741313179685151) | **公開日:** 2026年7月30日
+
+`Action` `Ring Fight` `Animals` `Wildlife` `Photoreal` `Historical` `Slow-Mo` `VFX`
+
+---
+
+### 15-second, 16:9 vertical, continuous single-take video that looks like…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+15秒、16:9の縦構図、連続したワンテイクの動画で、都市公園で通行人が偶然撮影した本物のスマートフォン映像のように見えること。曇天の自然光、控えめな手持ちの揺れ、限定的なスマホの手ブレ補正、時折のオートフォーカス調整、そしてリアルなスマートフォン圧縮。ばかばかしい出来事が、完全に真面目で台本なしのドキュメンタリーのような雰囲気で撮影される。  0–3s: [Handheld medium shot] ダークなビジネススーツとネクタイを着た中年男性が、池の石縁のそばでしゃがんでいる。完全に真剣な表情のまま、紙袋からパンのかけらをゆっくりと数匹の普通の鯉にまいていく。水面には小さな波紋が広がり、魚たちが彼の前に集まる。  3–7s: [Camera instinctively moves closer] 異常に巨大なオレンジと白の鯉が、突然濁った水面から勢いよく飛び出し、上半身を一瞬だけ水面上に持ち上げて、男性の左手にあるパン袋全体に噛みつく。男性は半秒ほど固まり、その後、両手で袋をつかんで後ろへ身を引く。驚いた撮影者は一歩下がる。映像はいったんピントを失うが、すぐに男性と巨大な魚に再び合焦する。  7–11s: [Close handheld action shot] 巨大な鯉が、池のより深い方へ向かって激しく引っ張る。濡れた紙袋が伸び、男性の腕には力が入り、革靴は濡れた石の上を何度も滑る。彼の膝が池の縁にぶつかる。右足で踏ん張ろうとするが、靴底が滑って重心が縁の外へ移る。水、パンのかけら、落ち葉がその力で飛び散り、カメラ担当は慌てて横へ移動する。  11–15s: [Impact and final hold] 紙袋が突然破れる。男性は支えを失って前のめりに池へ倒れ込み、重くてリアルな水しぶきを一つ上げる。カメラは池の中央が見えるように保ちながら、素早く下へ傾く。男性は浮き草を頭にまとったまま水面に再び現れ、濡れたネクタイが顔に張り付いている。巨大な鯉は、パン袋の残りを口にくわえたまま、彼のそばを落ち着いて泳ぎ去る。カメラは、鯉が彼の横を何事もなかったかのように泳ぎ去る間、呆然とした男性の表情に留まる。  男性の顔、ダークスーツ、ネクタイ、紙袋は全編を通して視覚的に一貫させること。鯉は同じオレンジと白の模様と巨大なサイズを維持すること。引っ張り、滑り、バランスの喪失、転倒は、信じられる重さ、慣性、摩擦、そして水の押しのけを示すこと。自然な公園の環境音と、リアルな水しぶきのみ。セリフ、字幕、音楽はなし。カット、キャラクターの瞬間移動、魚のサイズ変更、余分な手足、漫画的な演技は避けること。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082744154485075969/img/gJ5WCyroAu3j4rBJ.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082747838782386563.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082747838782386563.mp4)**
+
+**作者:** [underwood](https://x.com/underwoodxie96) | **ソース:** [Link](https://x.com/underwoodxie96/status/2082747838782386563) | **公開日:** 2026年7月30日
+
+`Meme & Comedy` `Internet Meme` `Photoreal` `Realistic World` `POV` `VFX`
+
+---
+
+### 【风格】竞技体操平衡木大片（Artistic Gymnastics Balance Beam），电视转播+电影感混合质感（16:9 Cinematic…
+
+#### 📝 プロンプト
+
+```
+【スタイル】アーティスティック・ジムナスティクスの平均台の大作（Artistic Gymnastics Balance Beam）、テレビ中継＋映画的な質感の融合（16:9 Cinematic, Photorealistic）、ハイスピード撮影のスローモーション（Super Slow-mo）、体操館の暖色トップライト＋ダークな背景トーン、ナショナルチーム級の動作基準
+
+--- QUOTED TWEET ---
+息をのむ、完璧な体操の芸術的パフォーマンス、まさに非の打ちどころがない。
+
+Seedance 2.0、神すぎる😈 https://t.co/tpA68oywhy
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082748372583157760/img/MAFyYI9zM_qZ3AEw.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082749280935178288.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082749280935178288.mp4)**
+
+**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2082749280935178288) | **公開日:** 2026年7月30日
+
+`Sports` `Other Competition` `Photoreal` `Realistic World` `Slow-Mo`
+
+---
+
+### Cinematic 16 by 9 video 15 seconds duration with acoustic guitar music. Two men…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+シネマティックな16:9の動画、長さ15秒、アコースティックギターの音楽付き。口ひげを生やした2人の男性が暗いバーに座っている。ストライプのシャツを着た男が指をさす。ためらいがちなマリアッチ歌手へカット。カメラがゆっくりと寄りながら、ストライプのシャツの男が情熱的に歌い、その友人が見守っている場面へ戻る。暖かいアンバーの照明、浅い被写界深度、自然主義的な質感、35mmフィルムの美学。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082586973194403840/img/LnoY_yLuS7dxv3y5.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082753565487931661.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082753565487931661.mp4)**
+
+**作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2082753565487931661) | **公開日:** 2026年7月30日
+
+`Story` `Drama` `Music & Dance` `MV` `Retro Film` `Realistic World`
+
+---
+
+### Inside an enormous ancient temple with towering stone pillars, cracked marble…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+巨大な古代寺院の内部。そびえ立つ石柱、ひび割れた大理石の床、漂う塵の粒子、そして天井から差し込む力強い陽光の筋の中で、優雅に流れるピンクの漢服風戦闘ドレスをまとった美しい若い女性武術家が、驚異的な戦闘ダンスを披露する。
+
+シーケンスは、彼女が磨かれた石床の上を優雅に滑るように進む、超広角のシネマティックショットで始まる。シルクの袖と重なり合うスカートは、あらゆる動きに合わせて自然に揺れ、カメラは彼女の周囲を滑らかな360度の動きで回り込む。
+
+彼女は突然、アクロバティックな回転蹴りへと移行し、完璧な武術の精度で宙を翻る。カメラは極端なローアングルショットに切り替わり、彼女の高さと力強さを強調しつつ、ドレスがリアルに波打つ。
+
+アクションは劇的なスローモーションへと移り、彼女が静かに着地した直後、瞬時に高速の回転フットワークへ加速する。すべての動きが、リアルな布のシミュレーション、繊細な土埃の噴き上がり、そして完璧に同期した身体のメカニクスを生み出す。
+
+彼女は、まばゆい天上の光の柱の下へ高く跳び上がる。カメラは下方から彼女を追い、ボリューメトリックライティングが彼女を包み込み、天使のようなシルエットを形作る。彼女の表情は終始、落ち着き、集中し、恐れを知らない。
+
+空中で回転し始めると、彼女の身体の周囲に輝く金色のエネルギーのリボンが現れ、魔法の龍のような流れとなって外側へ渦を巻く。火花、漂う残り火、そして渦巻く粒子が、彼女の動きに自然に反応する。
+
+カメラは息をのむようなワイドショットへと引き、金色のエネルギーの竜巻が寺院の床一面に広がり、古代建築を温かなオレンジの反射で照らす。塵は自然に舞い上がり、光は大気の中でリアルに散乱する。
+
+最後の瞬間は、天上の光の柱の下、輝く渦の中心で彼女が優雅に浮かぶ姿を、回転する金色のエネルギーの輪に囲まれたまま、壮大なスローモーションで静止させる。カメラはゆっくりとクレーンアップし、上空から見下ろす壮麗な寺院を映し出したのち、フェードアウトして黒へと消える。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082761037288194048/img/M5ssa74JfZyerxeO.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082761095538790899.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082761095538790899.mp4)**
+
+**作者:** [Ai Girllie](https://x.com/Inshrah_ali_) | **ソース:** [Link](https://x.com/Inshrah_ali_/status/2082761095538790899) | **公開日:** 2026年7月30日
+
+`Action` `Wuxia` `Photoreal` `Fantasy` `VFX` `Slow-Mo`
+
+---
+
+### 我用了参考图
+
+#### 📝 プロンプト
+
+```
+参考画像を使用しました
+
+## 基本映像フォーマット
+DV 16mm の手持ちテープカメラによる POV 視点。全編を通して LIS【@图片1】本人がカメラを手に持って撮影し、途中で機材をバーベルラック、トレーニングベンチ、置き台の支柱に固定して、固定カメラの画を撮る。  
+カメラの特徴：持続的な自然な手ブレ、画面の頻繁な傾きやズレ、遅いピント合わせとピンボケ、ぎこちなく引っかかるズーム操作、人物の顔が画面端でしばしば切れる、カメラ本体は全編を通して画面内に映らない。  
+画面の質感：ぼんやりと柔らかいテープ／フィルム質感、常時わずかに入るテープノイズ、ジムの天井光が生む拡散したハレーション、オート露出による明暗の頻繁なフリッカー、全体的に低コントラストなトーン、HD の写実的な生肌テクスチャ、汗や赤みのある肌のディテールをリアルに表現。  
+全体の雰囲気：自虐系で笑えるジム日常 vlog。リアルで朗らかな笑い声、追い込み後の半狂乱なツッコミが満載で、カメラの揺れ幅は力み切って脱力した身体、手足が力なくなる状態に合わせる。  
+
+## 人物設定
+LIS【@图片1】（参考イメージを継続使用）：20歳の東アジア系ロングヘアの女性。白いトレーニングスニーカー、白い一体型のタイトなフィットネスウェア。運動後で頬が赤く、額には汗がびっしり。  
+
+## 環境シーン
+夜の商業ジム。エリアには、ベンチプレスラック、ラットプルダウンマシン、ケーブルマシン、全面の床から天井までの鏡張りの壁、給水台、休憩用ベンチがある。暖色系のやわらかな天井光に、マシンの冷たい白色光が補助光として加わり、場内には他のトレーニング客がまばらにいて背景はぼけている。  
+
+## 絵コンテ台詞 + 動作 + 失敗ツッコミ設計（8つの連続ショット）
+1. 【カメラ位置をベンチプレスラックに固定】両手でバーベルバーを支え、胸を大きく上下させながら息を切らし、困り顔でツッコむ：「第3話で巻き返すつもりだったのに、バーベルを上げた瞬間に腕が一気に力尽きた。見積もり甘かった」  
+2. 【手持ちの近距離セルフィー、画面が大きく揺れる】肩と首のだるさを揉みながら、鏡に向かって苦笑する：「腕がまた反乱を起こし始めた。筋トレって、東の壁を壊して西を補うみたいなもんだね」  
+3. 【カメラをベンチの支柱に固定し、ベンチプレスの全工程を撮影】歯を食いしばって1セットをやり切り、バーベルを戻した瞬間、そのままベンチにどさっと倒れ込み、荒い息で叫ぶ：「助けて、最後の2回でほぼ公開処刑になるところだった。恥ずかしい、撮らないで——」  
+4. 【手元のクローズアップ、手持ち撮影】手のひらは滑り止めのマグネシアで真っ白、バーベルのローレット加工のグリップを強く握る。ジムの環境ノイズ、金属のぶつかる音、自分の荒い呼吸だけを残し、台詞なし。  
+5. 【手持ちで立ち上がる画面、体が揺れて立っていられず、慌ててベンチプレスラックをつかみながら大笑い】両脚も上半身も小刻みに震えている：「さっき立ち上がった瞬間、ふらっと揺れた。誰も見てないよね、めちゃくちゃ恥ずかしい」  
+6. 【カメラが体の大きな揺れに合わせて、給水エリアへ向かう様子を追う。歩きながらぶつぶつツッコミ】「上半身を鍛え終わったら全身ふにゃふにゃ。今すぐ水を流し込んで延命したい」  
+7. 【給水台にもたれて上を向いて水を飲み、顎から水滴が落ちる。口を拭きながら苦笑い】「ここ、暑すぎる。なんかエアコンが効いてないみたいで、倒れそう」  
+8. 【最後は鏡に向かって横向きの手持ちセルフィー。額の汗をぬぐい、疲れているのに癒やされるような笑顔】「何度も失敗したけど、なんとか最後までやり切った。がんばれ、私！」
+
+--- THREAD CONTINUATION ---
+[Thread 1] seedance prompt 動画プロンプトは以下👇
+参考画像を使用しました
+
+## 基本映像フォーマット
+DV 16mm の手持ちテープカメラによる POV 視点。全編を通して LIS【@图片1】本人がカメラを手に持って撮影し、途中で機材をバーベルラック、トレーニングベンチ、置き台の支柱に固定して、固定カメラの画を撮る。  
+カメラの特徴：持続的な自然な手ブレ、画面の頻繁な傾きやズレ、遅いピント合わせとピンボケ、ぎこちなく引っかかるズーム操作、人物の顔が画面端でしばしば切れる、カメラ本体は全編を通して画面内に映らない。  
+画面の質感：ぼんやりと柔らかいテープ／フィルム質感、常時わずかに入るテープノイズ、ジムの天井光が生む拡散したハレーション、オート露出による明暗の頻繁なフリッカー、全体的に低コントラストなトーン、HD の写実的な生肌テクスチャ、汗や赤みのある肌のディテールをリアルに表現。  
+全体の雰囲気：自虐系で笑えるジム日常 vlog。リアルで朗らかな笑い声、追い込み後の半狂乱なツッコミが満載で、カメラの揺れ幅は力み切って脱力した身体、手足が力なくなる状態に合わせる。  
+
+## 人物設定
+LIS【@图片1】（参考イメージを継続使用）：20歳の東アジア系ロングヘアの女性。白いトレーニングスニーカー、白い一体型のタイトなフィットネスウェア。運動後で頬が赤く、額には汗がびっしり。  
+
+## 環境シーン
+夜の商業ジム。エリアには、ベンチプレスラック、ラットプルダウンマシン、ケーブルマシン、全面の床から天井までの鏡張りの壁、給水台、休憩用ベンチがある。暖色系のやわらかな天井光に、マシンの冷たい白色光が補助光として加わり、場内には他のトレーニング客がまばらにいて背景はぼけている。  
+
+## 絵コンテ台詞 + 動作 + 失敗ツッコミ設計（8つの連続ショット）
+1. 【カメラ位置をベンチプレスラックに固定】両手でバーベルバーを支え
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082767144501280768/img/2dzE2ebzH24YnHH4.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082767400374862103.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082767400374862103.mp4)**
+
+**作者:** [PixelAIGC](https://x.com/PixelAigc) | **ソース:** [Link](https://x.com/PixelAigc/status/2082767400374862103) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Travel Vlog` `Retro Film` `Realistic World` `POV` `ASMR`
+
+---
+
+### Create a Music Video with the following requirements: [Music]:@[Audio 1] [MV…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+以下の要件でミュージックビデオを作成してください: [Music]:@[Audio 1] [MV main character]: LeadPerformer の外見は @[Image 1] を参照 [Visual direction]: @[Image 1] をもとに、パフォーマンス・ナラティブスタイルのミュージックビデオを作成する。クールで面白い雰囲気が必要。Y2Kスタイル。実写で撮影されたようなリアルなミュージックビデオの背景。音楽のテンポに合わせて動く
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082769285341196288/img/604vz1Ev2y4K5cxH.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082769474676293891.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082769474676293891.mp4)**
+
+**作者:** [auqib](https://x.com/auqibhabib) | **ソース:** [Link](https://x.com/auqibhabib/status/2082769474676293891) | **公開日:** 2026年7月30日
+
+`Music & Dance` `MV` `Photoreal` `Realistic World`
+
+---
+
+### Create a 30-second cinematic animated short film.
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+30秒のシネマティックなアニメーション短編映画を作成する。
+
+アスペクト比:
+16:9
+
+スタイル:
+
+プレミアムな3Dアニメーション長編映画スタイル。
+
+心温まるファンタジーの森の冒険。
+
+高品質なシネマティックアニメーション。
+
+柔らかくリアルな毛並み。
+
+表情豊かな動物キャラクター。
+
+温かみのある感動的なストーリーテリング。
+
+美しい秋の森の雰囲気。
+
+緻密な自然環境。
+
+プロフェッショナルなアニメ映画の撮影表現。
+
+実写なし。
+
+フォトリアル表現なし。
+
+CGIレンダーっぽさなし。
+
+ロゴなし。
+
+ウォーターマークなし。
+
+ブランド参照なし。
+
+キャラクターの一貫性:
+
+Finnのキャラクターデザイン参照を完全に使用すること。
+
+Finn:
+
+小さな若いキツネ。
+
+柔らかなオレンジレッドの毛並み。
+
+クリームホワイトの胸と頬。
+
+大きく表情豊かなエメラルドグリーンの瞳。
+
+小さな黒い鼻。
+
+白い先端のふわふわした尻尾。
+
+薄い緑色の手作りスカーフ。
+
+穏やかで内気な性格。
+
+静かだが観察力がある。
+
+動画全体を通して同じ見た目を維持すること。
+
+コアストーリー:
+
+タイトル:
+
+THE FOX WHO FOUND HIS VOICE
+
+テーマ:
+
+本当の声は心から生まれる。
+
+話すことを怖がる小さなキツネが、いちばん静かな声でも皆を救えることを知る。
+
+ビジュアルスタイル:
+
+秋の魔法の森。
+
+黄金色の葉。
+
+温かな日差し。
+
+柔らかな朝霧。
+
+月明かりの夜のシーン。
+
+感情のこもったクローズアップ。
+
+シネマティックな被写界深度。
+
+美しいライティングの移り変わり。
+
+自然な動物の動き。
+
+--------------------------------
+
+SCENE 1
+0:00 - 0:06
+
+静かなキツネ
+
+ワイドな導入ショット。
+
+黄金色の葉に覆われた、穏やかな秋の森。
+
+小さな動物たちが森の空き地に集まっている。
+
+Finnは समूहの端に静かに座っている。
+
+ほかの動物たちは自信たっぷりに話している。
+
+Finnは黙って見つめている。
+
+クローズアップ:
+
+Finnの大きな緑の瞳が不安そうに揺れる。
+
+耳がゆっくりと下がる。
+
+ふわふわの尻尾が体に巻きつく。
+
+話したいのに、ためらっている。
+
+カメラ:
+
+Finnの顔へゆっくりと寄る。
+
+木々の間から差し込む温かな日差し。
+
+感情的なキャラクター紹介。
+
+字幕:
+
+「キツネなら、いつも何を言うべきか分かっているはずだと思われていた。」
+
+ナレーション:
+
+「誰もがFinnは賢く、自信があり、恐れ知らずだと期待していた。」
+
+--------------------------------
+
+SCENE 2
+0:06 - 0:12
+
+話せなかったキツネ
+
+ミディアムショット。
+
+森の動物たちがFinnのほうを見る。
+
+彼らはFinnの意見を待っている。
+
+Finnは口を開く。
+
+話そうとする。
+
+でも、かすかで小さな音しか出ない。
+
+Finnは気まずそうにする。
+
+頭を下げる。
+
+小さな葉がそばに落ちる。
+
+森は一瞬、静まり返る。
+
+カメラ:
+
+Finnの顔のクローズアップ。
+
+目と感情にフォーカス。
+
+繊細な表情アニメーション。
+
+字幕:
+
+「でもFinnには秘密があった...」
+「自分の声は小さすぎるのだと怖がっていた。」
+
+ナレーション:
+
+「でもFinnは、自分の声には聞いてもらえるほどの大切さがないのではないかと怖がっていた。」
+
+--------------------------------
+
+SCENE 3
+0:12 - 0:18
+
+危機に陥る森
+
+夜が訪れる。
+
+暗い雲が森の上に集まる。
+
+強い風が木々の間を吹き抜ける。
+
+枝が揺れる。
+
+動物たちは不安になる。
+
+嵐が近づいている。
+
+動物たちはどこへ行くべきか言い争う。
+
+いくつかの動物は別々の道を指さす。
+
+誰もどうすればいいのか分からない。
+
+Finnは静かに観察する。
+
+Finnが気づいたもの:
+
+水に浸かった道。
+
+道をふさぐ倒木。
+
+山の洞窟へ続く、隠れた安全な小道。
+
+カメラ:
+
+ダイナミックな森のショット。
+
+風で揺れる葉。
+
+細部に気づくFinnのクローズアップ。
+
+表情が恐れから決意へと変わる。
+
+字幕:
+
+「みんなが答えを探している間に...」
+「Finnはもう道を見つけていた。」
+
+ナレーション:
+
+「ほかの者たちが解決策を探している間に、Finnは皆が見落としていたものに気づいていた。」
+
+--------------------------------
+
+SCENE 4
+0:18 - 0:24
+
+声を見つける
+
+Finnは怯える動物たちを見る。
+
+小さなウサギが怖がっている。
+
+若い鳥が隠れている。
+
+Finnは深呼吸する。
+
+耳が立ち上がる。
+
+風が緑のスカーフを揺らす。
+
+Finnは一歩前へ出る。
+
+初めて、大きな声で話す。
+
+Finn says:
+
+Wait!
+
+すべての動物がFinnのほうを向く。
+
+森に静寂が満ちる。
+
+Finnは安全な道を指さす。
+
+カメラ:
+
+ローアングルのヒーローショット。
+
+雲の間から温かな光が差し込む。
+
+Finnは小さいが勇敢に見える。
+
+字幕:
+
+「声は静かだった...」
+「でも勇気はそれより強かった。」
+
+ナレーション:
+
+「声は小さかったが、勇気はそれより大きかった。」
+
+--------------------------------
+
+SCENE 5
+0:24 - 0:30
+
+本当の声
+
+動物たちはFinnについて、隠れた小道を進む。
+
+彼らは無事に山の避難所へたどり着く。
+
+嵐は過ぎ去る。
+
+朝の光が戻る。
+
+森は再び穏やかになる。
+
+すべての動物がFinnの周りに集まる。
+
+ライオンは誇らしげに微笑む。
+
+ゾウがそっとFinnの肩に触れる。
+
+Finnは驚いた表情を見せる。
+
+そして自信に満ちた笑顔になる。
+
+ラストショット:
+
+Finnは巨大な古木の下に立っている。
+
+黄金色の光がFinnを包む。
+
+小さな姿が力強いシルエットを作る。
+
+字幕:
+
+「声は、大きくなくても違いを生み出せる。」
+
+ナレーション:
+
+「なぜなら、最も強い声とは心から生まれる声だから。」
+
+--------------------------------
+
+カメラスタイル:
+
+シネマティックなアニメ映画のカメラ。
+
+滑らかなトラッキングショット。
+
+ゆっくりとした感情的な寄り。
+
+広い環境ショット。
+
+感情を伝えるクローズアップ表現。
+
+ローアングルのヒーロー演出。
+
+自然なカメラワーク。
+
+美しい被写界深度。
+
+長編アニメーションとしてのプロフェッショナルな構図。
+
+アニメーション詳細:
+
+リアルなキツネの動き。
+
+自然な毛並みの物理表現。
+
+表情豊かな耳と尻尾の動き。
+
+感情の伝わる目のアニメーション。
+
+スカーフに自然に反応する風。
+
+滑らかなキャラクター演技。
+
+誇張されたカートゥーン的な動きはなし。
+
+色彩とライティング:
+
+温かい秋のオレンジ系パレット。
+
+黄金色の太陽光。
+
+柔らかな緑の森のトーン。
+
+青みがかった嵐の雰囲気。
+
+温かい感動的な結末。
+
+全編を通してシネマティックなライティング。
+
+音声:
+
+オリジナルのシネマティックな雰囲気のみ。
+
+柔らかな
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082771843862396928/img/GHF6-tgyfkHJcnxR.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082772251032850923.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082772251032850923.mp4)**
+
+**作者:** [GPTProto Official](https://x.com/gptproto) | **ソース:** [Link](https://x.com/gptproto/status/2082772251032850923) | **公開日:** 2026年7月30日
+
+`Story` `Heartwarming` `3D Animation` `Fantasy`
+
+---
+
+### Create a 15-second vertical 9:16 photorealistic Japanese onigiri commercial in…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+15秒の縦型9:16、4K・24fpsのフォトリアルな日本のおにぎりCMを作成してください。洗練された現代的な日本の広告映像表現を用い、明るい自然な朝の光、清潔感のある白、リアルな肌色、温かみのあるごはんの色、鮮やかな濃い緑の海苔、食欲をそそる鮭の具材を表現してください。舞台は、冷蔵棚と小さな日当たりのよい座席スペースのある、現代的で一般的な日本のコンビニエンスストアです。動画内のどこにも、判読可能な文字、包装の文言、字幕、キャプション、ロゴ、価格ラベル、タイトルカード、スローガン、ウォーターマークを表示しないでください。
+同じ3人の日本人若者を通して一貫して登場させてください。メインの女性は24歳前後で、肩までのダークブラウンの髪、ナチュラルメイク、クリーム色のカーディガン、白いブラウスを着用。女性の友人は低めのポニーテールでベージュのブラウス。男性の友人はライトブルーのオーバーシャツを着用。すべてのショットで、彼らの顔、髪型、服装、年齢を維持してください。主役の商品は、ふっくらした白いごはん、パリッとした海苔、しっとりした焼き鮭の具材を持つ、リアルな三角形の鮭おにぎりです。透明な包装には、シンプルな抽象的カラーアクセントのみを入れ、読める文字やブランド要素は一切入れないでください。
+0.0〜2.0秒: コンビニ店内の明るいワイドなエスタブリッシングショットを見せ、3人の友人が、おにぎり棚に近づいていく。メインの女性が鮭のおにぎりに気づき、それを手に取る。画面外の日本人女性ナレーターが「忙しい朝に、やさしいひととき。」と話す。話すのはナレーターのみ。画面内の人物は無言で、口を動かさない。
+2.0〜4.0秒: メインの女性が包装されたおにぎりを顔の横に持ち、カメラに向かって自然に微笑むミディアムクローズアップに切り替える。彼女は日本語で明瞭に「今日は、鮭のおにぎり。」と言う。ナレーターは完全に無言でなければならない。正確な日本語のリップシンクを使用する。4.0〜6.0秒では、清潔な手が包装を滑らかに開け、海苔がごはんにきれいに巻きつくトップダウンのマクロショットを見せる。ナレーターは「開けた瞬間、海苔はパリッ。」と言う。画面内の人物は誰も話さない。
+6.0〜8.0秒: メインの女性が、自然で清潔感のあるひと口を食べる様子を見せる。彼女は噛み終えて飲み込んでから、やさしく「おいしい。」と言う。口の中に食べ物が見えている状態で話させないこと。ナレーターは無言のまま。8.0〜10.0秒では、かじられたおにぎりの極端なマクロクローズアップを見せ、つやのあるごはん粒、パリッとした海苔、たっぷりの鮭の具材を映す。ナレーターは「ふっくらごはんに、鮭のうまみ。」と言う。10.0〜11.5秒では、温かい緑茶の横にシンプルな陶器の皿に載ったおにぎりを見せ、手がそっと湯のみを置く。ナレーターは「お茶にも、よく合う。」と言う。
+11.5〜13.0秒: 窓際近くに座る3人の友人を見せ、それぞれがおにぎりを手にしている。メインの女性が微笑んで「みんなで食べよう。」と言う。話すのは彼女だけで、友人たちは無言で反応する。やわらかな非言語の笑いは、彼女が言い終わった後にのみ始めてよい。13.0〜14.0秒では、3人の友人が遊び心のある乾杯のように、おにぎりをそっと近づけ合う様子を、会話なしで見せる。14.0〜15.0秒では、明るい木のテーブルの上に3つの三角おにぎりを並べ、稲穂、小さなごはん茶碗、折りたたまれた海苔でフレーミングした、清潔で左右対称のプロダクトヒーローショットで締めくくる。画面外のナレーターが「毎日に、おいしいおにぎり。」と言う。
+
+--- 引用ツイート ---
+GPT Image 2.0 + Seedance 2.0 を使って、このシャンプー広告を一発で作りました！  
+
+使ったpromptはこちら🔽 https://t.co/7SBVgaQkDN
+
+--- スレッド続き ---
+[Thread 1] Prompt:
+15秒の縦型9:16、4K・24fpsのフォトリアルな日本のおにぎりCMを作成してください。洗練された現代的な日本の広告映像表現を用い、明るい自然な朝の光、清潔感のある白、リアルな肌色、温かみのあるごはんの色、鮮やかな濃い緑の海苔、食欲をそそる鮭の具材を表現してください。舞台は、冷蔵棚と小さな日当たりのよい座席スペースのある、現代的で一般的な日本のコンビニエンスストアです。動画内のどこにも、判読可能な文字、包装の文言、字幕、キャプション、ロゴ、価格ラベル、タイトルカード、スローガン、ウォーターマークを表示しないでください。
+同じ3人の日本人若者を通して一貫して登場させてください。メインの女性は24歳前後で、肩までのダークブラウンの髪、ナチュラルメイク、クリーム色のカーディガン、白いブラウスを着用。女性の友人は低めのポニーテールでベージュのブラウス。男性の友人はライトブルーのオーバーシャツを着用。すべてのショットで、彼らの顔、髪型、服装、年齢を維持してください。主役の商品は、ふっくらした白いごはん、パリッとした海苔、しっとりした焼き鮭の具材を持つ、リアルな三角形の鮭おにぎりです。透明な包装には、シンプルな抽象的カラーアクセントのみを入れ、読める文字やブランド要素は一切入れないでください。
+0.0〜2.0秒: コンビニ店内の明るいワイドなエスタブリッシングショットを見せ、3人の友人が、おにぎり棚に近づいていく。メインの女性が鮭のおにぎりに気づき、それを手に取る。画面外の日本人女性ナレーターが「忙しい朝に、やさしいひととき。」と話す。話すのはナレーターのみ。画面内の人物は無言で、口を動かさない。
+2.0〜4.0秒: メインの女性が包装されたおにぎりを顔の横に持ち、カメラに向かって自然に微笑むミディアムクローズアップに切り替える。彼女は日本語で明瞭に「今日は、鮭のおにぎり。」と言う。ナレーターは完全に無言でなければなら
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082771970165444608/img/7Q7FMps-eNusIGeN.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082772743901315187.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082772743901315187.mp4)**
+
+**作者:** [Kent Dhani](https://x.com/kentdhani) | **ソース:** [Link](https://x.com/kentdhani/status/2082772743901315187) | **公開日:** 2026年7月30日
+
+`Product Ad` `F&B` `Photoreal` `Realistic World` `Macro` `ASMR`
+
+---
+
+### A vertical 9:16 first frame for a 15-second K-pop TikTok fancam-style dance…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+15秒のK-pop TikTokファンカム風ダンス動画のための、縦長9:16の最初のフレーム。
+シーン:
+縦型のアイドルファンカムのように撮影された、洗練されたK-pop音楽番組ステージ。ステージには光沢のある明るい色の床、やわらかなパステル調のLED背景、ピンクと淡いブルーの照明、白いスポットライト、ほのかなハイゼ、そしてスクリーン上には夢のようなハート型または抽象的な光のパターンがある。背景はすっきり明るく、読み取れるロゴやテキストはない。
+出演者:
+ステージには、オリジナルの女性K-popアイドルがちょうど5人いる。フォーカスアイドルのNariはセンター前方に立ち、カメラにやや近い位置にいる。残りの4人は彼女の後ろと周囲に、密集した左右対称のフォーメーションで立つ。全員が前を向き、明るく自信に満ちた表情をしている。
+ポーズ:
+彼女たちは、サビのビートが落ちる直前で静止している。Nariは膝を少し曲げ、腰を斜めに構え、片手を頬の近くに、もう片方の手を腰の少し下に置いている。他のメンバーも、同様のかわいらしいK-popの開始ポーズを取っている。このポーズは、バズるファンカムの瞬間のように感じられるべきで、甘く、キレがあり、カメラ目線で、シンクロした振り付けに入る直前の雰囲気がある。
+カメラ:
+縦9:16のファンカム視点。安定した手持ち、またはモノポッドのような感覚で、Nariを頭から足先まで捉えるミディアム〜フルボディのフレーミング。ほかのメンバーも見えているが、やや控えめに扱う。スマホのズームによるわずかな圧縮感、リアルなステージ照明、クリーンなアイドルパフォーマンスの構図。
+ライティング:
+ソフトなピンクと淡いブルーのステージライト、顔には明るい白のキーライト、光沢のある床の反射、やわらかなハイゼ、パステルで夢見心地なK-popの空気感。
+スタイル:
+K-pop音楽番組のファンカム、かわいく夢のあるガールグループコンセプト、洗練されたアイドル振り付け、縦型TikTok編集、明るくクリーンなステージ、高いリプレイ価値。
+
+--- QUOTED TWEET ---
+https://t.co/EOM8WmVpLx
+
+--- LINKED ARTICLE: TikTokアルゴリズムを攻略する：究極のAIダンスカバー・ワークフロー（+ Prompts） ---
+AIダンス動画は、かつては一種の賭けのようなものだった。
+promptを書いて、generateを押して、最初のbody rollを生き残るかどうかを待つ。動画が素晴らしく見えることもあれば、顔が途中で別人のように変わったり、衣装が途中で変わったり、手が動くのをやめたり、タイミングがビートを外したり、ダンサーの動きがまるでモデルが振り付けの噂だけを聞いていたかのようだったりした。
+AI動画がまだ新奇なものだった頃は、それでもよかった。
+しかし今、クリエイターは単に試しているだけではない。TikToks、Reels、Shorts、X向けコンテンツ、音楽ティーザー、ダンスチャレンジ、商品ローンチ、そして完全なAIインフルエンサーアカウントを作っている。そうした用途では、ランダムな動きだけでは足りない。
+ダンスコンテンツにはアイデンティティが必要だ。
+リズムが必要だ。
+連続性が必要だ。
+そして何より、再現可能なワークフローが必要だ。
+そこで登場するのがAPOB AIだ。
+APOB AIは、1回の“当たり”生成以上を求めるクリエイターのために構築された独立系AIインフルエンサープラットフォームだ。AI Influencer Generator、Chat to GenerateとChat to Edit内のGPT Image 2.0、そしてImage to Video Ultra S内のSeedance 2.0を組み合わせることで、APOB AIはダンス動画制作を構造化された制作システムへと変える。
+長いpromptを書いて、モデルがきれいなルーティンを勝手に考えてくれるのを祈る代わりに、クリエイターは動画が始まる前に、ダンサーを作り、見た目を整え、アイデンティティをコントロールし、動きを導けるようになった。
+なぜなら、AIインフルエンサーのダンス動画の未来は、運任せではないからだ。
+それは、コントロールされた振り付けにある。
+
+## ランダムな動きから、再現可能な振り付けへ
+
+1本の印象的なAIダンスクリップは注目を集められる。
+再現可能な振り付けワークフローは、オーディエンスを築ける。
+APOB AIでは、そのプロセスがより意図的になる:
+1. AI Influencer Generatorを使ってAIインフルエンサーモデルを作成する。
+1. APOB AI内のGPT Image 2.0を搭載したChat to Generateで、ダンスの最初のフレームを作成する。
+1. Chat to Editを使って、そのフレームを16パネルのダンスストーリーボードと動きのガイドに変える。
+1. Seedance 2.0を搭載したImage to Video Ultra Sで、ストーリーボードからガイド付きダンス動画を生成する。
+1. フック、ボイスライン、トーキングアバターの導入、キャプション、またはリップシンクのレイヤーを追加する。
+1. 動きを確認し、ストーリーボードを改善し、ダンスを各プラットフォーム向けに再利用する。
+単純な:
+prompt -> dance clip
+ではなく、ワークフローはこうなる:
+influencer model -> first frame -> 16-panel storyboard -> guided video prompt -> Seedance 2.0 video -> social content
+この変化は重要だ。AIダンス生成を、運のいい一発勝負から実用的なクリエイティブシステムへと変えるからだ。
+
+## Step 1: AIインフルエンサーをダンサーとして構築する
+
+強いダンス動画は、認識できるパフォーマーから始まる。
+単なるきれいなアバターではない。
+単なるランダムなバーチャルモデルでもない。
+単なる、服装だけは良い一般的なダンサーでもない。
+ダンスコンテンツはアイデンティティに依存する。オーディエンスは、同じ顔、ボディランゲージ、スタイリング、エネルギー、態度を、クリップごとに認識できる必要がある。
+APOB AIはAI Influencer Generatorから始めることで、クリエイターがキャラクターを直接定義できるようにする。目的は、1回きりの画像ではなく、何本もの動画を支えられるオリジナルのAIインフルエンサーを作ることだ。1回投稿したら消えてしまうようなものではない。
+ 
+ダンスのワークフローでは、インフルエンサーモデルには動きに関わる重要な要素を含めるべきだ。体型、身長、髪型、衣装のスタイル、表情、姿勢、そしてそのキャラクターが持つべきパフォーマンスのエネルギーだ。
+このAIインフルエンサーモデルが、ダンスシリーズ全体のアイデンティティの基盤になる。
+新しいフレームは、もうゼロから始まらない。同じパフォーマーから始まる。
+それが、AIダンサーを“たまたま当たったクリ
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082775565124468736/img/4Wt4vG3FjDZoE3kM.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082775732842062193.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082775732842062193.mp4)**
+
+**作者:** [Luca Ai](https://x.com/lucas_yuoo) | **ソース:** [Link](https://x.com/lucas_yuoo/status/2082775732842062193) | **公開日:** 2026年7月30日
+
+`Music & Dance` `Dance` `Photoreal` `Realistic World` `POV`
+
+---
+
+### Female Anime Character: ZERO-RED with two large futuristic energy rifles on…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+女性アニメキャラクター：ZERO-RED。両手に、それぞれマゼンタの発光が組み込まれた大型の未来的エネルギーライフルを持つ。顔をフレーミングするように、淡い赤の鋭い瞳、 confident で柔らかなエアブラシ表現の表情、そして長い深紅のハイレッドポニーテール。全身ビューでは、ピンクマゼンタに発光するエネルギーコアを備えた、セグメント化された装甲プレートを重ねたシルバーのサイバー戦闘スーツ。
+
+@ character ref を使用し、唯一のキャラクターおよびビジュアルスタイル参照とする。アクションで始め、アクションで終える。女性のサイバーガンファイターが、わずかにピンクがかった反射面を持つ暗い凍結アリーナを高速で滑走し、強くも優雅なアイスバレリーナの動きを見せながら、2丁のライフルで大量の敵を撃ち倒す。彼女はピルエット、スパイラルグライド、大きなターン、スピン、そして素早いスケーティングの切り替えの最中に攻撃し、決して速度を落とさない。多数の敵が四方八方から彼女を取り囲み、突進してくる。すべてのスケート動作は、電気的なマゼンタの光の軌跡、静電気エネルギー、淡い赤のスプレーを残す。すべての銃撃は、鮮烈な深紅のマズルフラッシュと鋭いグラフィックなインパクトバーストを生み出す。環境は暗く、ムーディーで、高コントラストに保ち、太い赤、マゼンタ、黒のポスタライズされたアニメビジュアルにする。剣なし、スローモーションなし、静止ポーズなし、静止した敵なし、全編アクション。
+
+--- 引用ツイート ---
+Crimson Ice Requiem
+
+Midjourney + Seedance 2.0 combo.
+
+Prompts in the replies. https://t.co/zFsSCOPET1
+
+--- スレッド継続 ---
+[Thread 1] •
+女性アニメキャラクター：ZERO-RED。両手に、それぞれマゼンタの発光が組み込まれた大型の未来的エネルギーライフルを持つ。顔をフレーミングするように、淡い赤の鋭い瞳、 confident で柔らかなエアブラシ表現の表情、そして長い深紅のハイレッドポニーテール。全身ビューでは、ピンクマゼンタに発光するエネルギーコアを備えた、セグメント化された装甲プレートを重ねたシルバーのサイバー戦闘スーツ。
+
+@ character ref を使用し、唯一のキャラクターおよびビジュアルスタイル参照とする。アクションで始め、アクションで終える。女性のサイバーガンファイターが、わずかにピンクがかった反射面を持つ暗い凍結アリーナを高速で滑走し、強くも優雅なアイスバレリーナの動きを見せながら、2丁のライフルで大量の敵を撃ち倒す。彼女はピルエット、スパイラルグライド、大きなターン、スピン、そして素早いスケーティングの切り替えの最中に攻撃し、決して速度を落とさない。多数の敵が四方八方から彼女を取り囲み、突進してくる。すべてのスケート動作は、電気的なマゼンタの光の軌跡、静電気エネルギー、淡い赤のスプレーを残す。すべての銃撃は、鮮烈な深紅のマズルフラッシュと鋭いグラフィックなインパクトバーストを生み出す。環境は暗く、ムーディーで、高コントラストに保ち、太い赤、マゼンタ、黒のポスタライズされたアニメビジュアルにする。剣なし、スローモーションなし、静止ポーズなし、静止した敵なし、全編アクション。
+•
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082779905335386112/img/ez-mtiBOSLFrYfM7.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082779969269166243.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082779969269166243.mp4)**
+
+**作者:** [Rob ✌︎](https://x.com/robazem) | **ソース:** [Link](https://x.com/robazem/status/2082779969269166243) | **公開日:** 2026年7月30日
+
+`Action` `Gunfight` `Anime 2D` `Sci-Fi` `VFX`
+
+---
+
+### Create a 15-second 16:9 premium 3D animated commercial in a Pixar /…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+15秒・16:9のプレミアムな3DアニメーションCMを、Pixar / Illumination風のスタイルで制作してください。明るく насыщated な色彩、晴れた屋外のライティング、遊び心のあるユーモア、そして強いシネマティックなスポーツのエネルギーを備えた映像にします。  
+メインキャラクター：青い背番号7のユニフォームを着た、背が低くぽっちゃりしたサッカー選手。サブキャラクター：背が高く細身のチームメイト／対戦相手が数人いて、強いコメディ的コントラストを生み出す。  
+トーン：最初はおかしくてぎこちない雰囲気で始まり、エナジードリンクを飲んだ後に、エネルギッシュで高揚感があり、ヒーロー的な展開へと変化する。  
+ストーリーの流れ：  
+Scene 1 (0–3s) – Underdog setup  
+明るいサッカー場で、背の高い選手たちが試合を支配している。カメラが短くぽっちゃりした選手へとティルトダウンする。彼はドリブルを試みるが、ぎこちなくコミカルに滑って転んでしまう。彼のローアングルのPOVでは、背の高い選手たちが見下ろし、得意げな表情を浮かべている。彼は意気消沈する。  
+
+Scene 2 (3–6s) – Energy appears  
+青く光る “ENERGY” のスポーツドリンクが彼のそばまで転がってくる。彼は起き上がってそれをつかみ、開けて飲む。するとすぐに目が輝き、青と赤の電気のオーラが一気に弾ける。彼は勢いよく立ち上がり、力と自信に満ちあふれる。  
+
+Scene 3 (6–10s) – Comeback dribble  
+試合が再開する。青いエネルギーの軌跡が背の高い選手たちの間を駆け抜け、短い選手がボールを奪う。彼の素早いフットワークを、ローアングルのダイナミックなトラッキングショットで見せる。彼は高速でドリブルし、ディフェンダーの間を縫うように抜け、nutmegging で1人をかわし、ゴールへ突進する。動きは速く、俊敏で、視覚的にも刺激的。  
+
+Scene 4 (10–13s) – Hero goal  
+ドラマチックなスローモーションで、彼は跳び上がって強烈なキックのために振りかぶる。次の瞬間、アクションはフルスピードに切り替わり、彼はボールを強く蹴り込む。サッカーボールは明るいエネルギーの軌跡を引く光る火の玉へと変わり、驚くゴールキーパーの横を飛び抜け、ネットを突き破る。観客は紙吹雪を舞わせながら歓声を上げて祝福する。  
+
+Scene 5 (13–15s) – Packshot ending  
+ヒーローは中盤で誇らしげに立ち、片足をボールに乗せ、もう片方の手で ENERGY ドリンクを掲げている。背後の陽光が、背が高く力強いサッカーチャンピオンのような長い影を落とす。最後はドリンクボトルのクローズアップで、商品ヒーローショットとして締めくくる。  
+
+Visual style:  
+premium 3D animation  
+Pixar / Illumination-inspired appeal  
+bright sunny soccer field  
+strong size contrast between short chubby hero and tall slim players  
+expressive faces  
+dynamic sports camera  
+comedic beginning, hype ending  
+blue energy aura and glowing effects  
+cinematic motion blur  
+clean brand-commercial finish  
+
+Audio / rhythm:  
+最初の3秒は間抜けでぎこちない音楽で始め、その後、ドリンクを飲んだ瞬間にアップビートでエネルギッシュなエレクトロニック系スポーツ音楽へ切り替える。コミカルな転倒音、ボトルを開ける音、飲み込む音、電気的なパワーアップ音、素早いドリブル音、爆発的なキックのインパクト音、観客の歓声、そして最後にキレのある商品エンド音を加える。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082765356121341952/img/m99JwB2KRqUJw0Df.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082780744863404174.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082780744863404174.mp4)**
+
+**作者:** [Ima Studio](https://x.com/ImaStudio_ai) | **ソース:** [Link](https://x.com/ImaStudio_ai/status/2082780744863404174) | **公開日:** 2026年7月30日
+
+`Product Ad` `F&B` `Sports` `Other Competition` `3D Animation` `Realistic World` `VFX` `Slow-Mo`
+
+---
+
+### High-quality 3D animated cartoon, stylized family-animation look,
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+高品質な3Dアニメーションのカートゥーン、スタイライズされたファミリーアニメ風のルック、
+大きめの頭、表情豊かな大きな目、誇張されたプロポーション、滑らかで丸みのある粘土のような3D表面、サブサーフェス・スキャタリングの肌、鮮やかなライティング。リアルではない、実写ではない。
+
+散らかった寝室にいる若い男性。大きめのフランネルシャツ、乱れた髪。クローゼットの奥から古いジャケットを引っ張り出す。
+
+0–4秒: ミディアムショット。彼は無意識に、半ば興味なさそうにジャケットのポケットを探り、それぞれを確認するが何も見つからない。
+
+4–7秒: 彼の手が最後のポケットで止まる。指先が、奥にある折りたたまれた紙のような何かをゆっくりとつかむ。顔に期待が高まっていく。
+
+7–9秒: ウィップカットでタイトなクローズアップ。彼がしわくちゃの20ドル札を取り出し、2本の指でつまむ。目が信じられないほど大きくなる。
+
+9–12秒: 札の周りに温かい黄金の光が花開くように広がり、まるで発光しているかのよう。光の中を埃の粒子が漂い、彼は純粋な喜びであごを大きく落とす。
+
+12–15秒: ゆっくりと寄りながら、彼の顔が大きな勝利の笑顔に溶けていく。両拳を空へ突き上げ、札をトロフィーのように高く掲げる。
+
+Camera: ミディアムの探索ショット、発見の瞬間に彼の顔へウィップカット、札を光の中へ掲げる際はゆっくりとドラマチックにプッシュイン。
+
+AUDIO: 探している間の静かな衣擦れ、見つけた瞬間の小さな柔らかな息をのむ音、黄金の光が広がるにつれて高まる明るく天使のような合唱の「aaah」、拳を突き上げるときの勝利のホルンのファンファーレ。
+
+鮮やかで彩度の高い色、落ち着いた寝室の配色に対する温かい黄金の宝物のような光、滑らかでスタイライズされた3Dキャラクターデザイン、ファミリーアニメの美学、テキストなし、ウォーターマークなし、16:9。
+
+FORBIDDEN: 特定のスタジオ名やフランチャイズへの言及なし、判読可能なテキストやロゴなし、リアルなレンダリングなし、デザインの逸脱なし、目に見えるブランドロゴなし。
+
+--- THREAD CONTINUATION ---
+[Thread 1] Full PROMPT
+
+高品質な3Dアニメーションのカートゥーン、スタイライズされたファミリーアニメ風のルック、
+大きめの頭、表情豊かな大きな目、誇張されたプロポーション、滑らかで丸みのある粘土のような3D表面、サブサーフェス・スキャタリングの肌、鮮やかなライティング。リアルではない、実写ではない。
+
+散らかった寝室にいる若い男性。大きめのフランネルシャツ、乱れた髪。クローゼットの奥から古いジャケットを引っ張り出す。
+
+0–4秒: ミディアムショット。彼は無意識に、半ば興味なさそうにジャケットのポケットを探り、それぞれを確認するが何も見つからない。
+
+4–7秒: 彼の手が最後のポケットで止まる。指先が、奥にある折りたたまれた紙のような何かをゆっくりとつかむ。顔に期待が高まっていく。
+
+7–9秒: ウィップカットでタイトなクローズアップ。彼がしわくちゃの20ドル札を取り出し、2本の指でつまむ。目が信じられないほど大きくなる。
+
+9–12秒: 札の周りに温かい黄金の光が花開くように広がり、まるで発光しているかのよう。光の中を埃の粒子が漂い、彼は純粋な喜びであごを大きく落とす。
+
+12–15秒: ゆっくりと寄りながら、彼の顔が大きな勝利の笑顔に溶けていく。両拳を空へ突き上げ、札をトロフィーのように高く掲げる。
+
+Camera: ミディアムの探索ショット、発見の瞬間に彼の顔へウィップカット、札を光の中へ掲げる際はゆっくりとドラマチックにプッシュイン。
+
+AUDIO: 探している間の静かな衣擦れ、見つけた瞬間の小さな柔らかな息をのむ音、黄金の光が広がるにつれて高まる明るく天使のような合唱の「aaah」、拳を突き上げるときの勝利のホルンのファンファーレ。
+
+鮮やかで彩度の高い色、落ち着いた寝室の配色に対する温かい黄金の宝物のような光、滑らかでスタイライズされた3Dキャラクターデザイン、ファミリーアニメの美学、テキストなし、ウォーターマークなし、16:9。
+
+FORBIDDEN: 特定のスタジオ名やフランチャイズへの言及なし、判読可能なテキストやロゴなし、リアルなレンダリングなし、デザインの逸脱なし、目に見えるブランドロゴなし。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082781994975444992/img/g5MQSE1SBB5_MmLD.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082782716773249410.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082782716773249410.mp4)**
+
+**作者:** [Jay Nwabueze](https://x.com/jaynwabueze) | **ソース:** [Link](https://x.com/jaynwabueze/status/2082782716773249410) | **公開日:** 2026年7月30日
+
+`Story` `Heartwarming` `3D Animation` `Realistic World` `Slow-Mo` `VFX`
+
+---
+
+### Use the uploaded storyboard image as the visual sequence reference and preserve…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+アップロードされた storyboard image を視覚的なシーケンスの参照として使用し、映画全体を通してまったく同じ美しい若い女性を維持してください。すべてのシーンで、顔のアイデンティティ、髪型、肌の色、メイク、黒のフィットした crop top、グレーの jogger pants、黒の shoulder bag、体のプロポーション、アクセサリーを完全に一致させてください。キャラクターの一貫性とリアルな人体構造を完璧に保ってください。
+
+プレミアムな commercial cinematography を備えた、超リアルな cinematic な「A Day in My Life」ライフスタイル film を作成してください。雰囲気は、温かみのある自然光、柔らかな影、リアルな反射、cinematic colour grading、浅い被写界深度、滑らかな handheld と gimbal の camera movement、そして控えめな環境音によって、落ち着きがあり、自然で、憧れを感じさせるものにしてください。
+
+film は、ベッドのそばで alarm が鳴る中、彼女が穏やかに眠っている場面から始まります。彼女はゆっくりと目を覚まし、スマートフォンに手を伸ばして alarm を止めます。モダンなバスルームへ向かい、冷たい水で顔を洗ってから着替えます。開いた wardrobe の横に立ち、黒い jacket を選び、その後ミニマルな kitchen でヘルシーな smoothie を作り、一口飲みます。
+
+彼女は apartment を出て、活気のある city street を自信を持って歩き、その後 subway station に入ります。escalator に乗り、platform で待ち、混雑した train に乗り込みながら、周囲の人々を静かに見つめます。到着後は office lobby を歩き、elevator に乗ってから、モダンな open workspace に入り、完全に集中して laptop で仕事をします。
+
+仕事が終わると、彼女は golden hour の city を歩き、穏やかな夕方の雰囲気を楽しみます。film の最後は、彼女が bedroom に戻り、ベッドに横になってリラックスした笑顔でスマートフォンをスクロールし、その後それを横に置いて目を閉じる場面で締めくくられます。
+
+Style: Premium lifestyle commercial, realistic daily routine, cinematic storytelling, natural performances, luxury colour grading, soft bokeh, subtle lens flares, smooth transitions, emotionally warm atmosphere, photorealistic, ultra-detailed, commercial quality.
+
+Negative Prompt: No text, no subtitles, no logos, no watermarks, no duplicate people, no distorted anatomy, no unrealistic facial features, no AI artifacts, no cartoon style, no flickering, no oversaturated colours, no abrupt transitions.
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082788114893017088/img/p-h089bymAGJvVB7.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082788146534834428.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082788146534834428.mp4)**
+
+**作者:** [Synthia](https://x.com/AIwithSynthia) | **ソース:** [Link](https://x.com/AIwithSynthia/status/2082788146534834428) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Travel Vlog` `Photoreal` `Realistic World`
+
+---
+
+### Cinematic 15-second commercial, realistic Minecraft Creeper cake creation…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+シネマティックな15秒のCM。リアルなMinecraftのCreeperケーキ制作で、最終デザインはMinecraft風だが、使う材料はすべて本物の食材。超高速のテンポ、ハードカット、マクロ撮影、ファーストパーソンPOV、ダイナミックなカメラ、モーションブラー、浅い被写界深度、HDR、4K、リアルな質感、テキストなし、字幕なし、数字なし、ロゴなし、ウォーターマークなし。
+
+POVでボウルに小麦粉をふるい入れ、卵を割り、砂糖とバターを混ぜてなめらかな生地にし、小麦粉をさっくり混ぜ込み、生地を丸いケーキ型に流し込む。すぐにオーブン内のPOVへ切り替わり、蒸気とともにスポンジ生地がふくらむ。焼き上がった層をきれいに水平にスライスし、濃厚なクリームを各層の間に滑らかに塗り広げ、速い回転カメラでケーキがどんどん高く積み上がる。薄いクラムコートを塗り、その後、鮮やかな緑のフォンダンをケーキの上に落として、すべてのエッジにぴったりと張り付ける。フォンダンのスムーザーが表面を滑り、完璧にシャープな側面を作り出す。黒と茶色のチョコレートの四角形が一つずつカチッとはまり、Creeperの顔とドット状の土ブロックを形成する。緑のバタークリームの芝が、素早い絞りのマクロショットで縁の周りに勢いよく生えていく。小さな食べられるブラウニーキューブとチョコブロックが、Minecraftの地形のように上面へ着地する。リアルな食べられるCreeperフィギュアがパーツごとに組み立てられ、ケーキの上に置かれる。カメラは素早いオービットショット、真上からのスピン、フォンダンの質感、チョコのピクセル、バタークリームの芝、リアルなケーキのディテールを極端なマクロのクローズアップで捉える。最後はエネルギッシュなヒーローリビールで締めくくる。ファーストパーソンの手が完成した2段のMinecraftケーキを差し出し、カメラが素早く周回し、シネマティックなライティングの下でCreeperの顔、リアルなフロスティングの質感、ピクセル装飾を超マクロでクローズアップして終わる。
+
+--- スレッド継続 ---
+[Thread 1] シネマティックな15秒のCM。リアルなMinecraftのCreeperケーキ制作で、最終デザインはMinecraft風だが、使う材料はすべて本物の食材。超高速のテンポ、ハードカット、マクロ撮影、ファーストパーソンPOV、ダイナミックなカメラ、モーションブラー、浅い被写界深度、HDR、4K、リアルな質感、テキストなし、字幕なし、数字なし、ロゴなし、ウォーターマークなし。
+
+POVでボウルに小麦粉をふるい入れ、卵を割り、砂糖とバターを混ぜてなめらかな生地にし、小麦粉をさっくり混ぜ込み、生地を丸いケーキ型に流し込む。すぐにオーブン内のPOVへ切り替わり、蒸気とともにスポンジ生地がふくらむ。焼き上がった層をきれいに水平にスライスし、濃厚なクリームを各層の間に滑らかに塗り広げ、速い回転カメラでケーキがどんどん高く積み上がる。薄いクラムコートを塗り、その後、鮮やかな緑のフォンダンをケーキの上に落として、すべてのエッジにぴったりと張り付ける。フォンダンのスムーザーが表面を滑り、完璧にシャープな側面を作り出す。黒と茶色のチョコレートの四角形が一つずつカチッとはまり、Creeperの顔とドット状の土ブロックを形成する。緑のバタークリームの芝が、素早い絞りのマクロショットで縁の周りに勢いよく生えていく。小さな食べられるブラウニーキューブとチョコブロックが、Minecraftの地形のように上面へ着地する。リアルな食べられるCreeperフィギュアがパーツごとに組み立てられ、ケーキの上に置かれる。カメラは素早いオービットショット、真上からのスピン、フォンダンの質感、チョコのピクセル、バタークリームの芝、リアルなケーキのディテールを極端なマクロのクローズアップで捉える。最後はエネルギッシュなヒーローリビールで締めくくる。ファーストパーソンの手が完成した2段のMinecraftケーキを差し出し、カメラが素早く周回し、シネマティックなライティングの下でCreeperの顔、リアルなフロスティングの質感、ピクセル装飾を超マクロでクローズアップして終わる。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082787544148705280/img/GYFrPiHlk-lTAaJv.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082788215132426583.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082788215132426583.mp4)**
+
+**作者:** [KreviX](https://x.com/LadyyEth) | **ソース:** [Link](https://x.com/LadyyEth/status/2082788215132426583) | **公開日:** 2026年7月30日
+
+`Food` `Cooking` `Photoreal` `Realistic World` `POV` `Macro` `Slow-Mo`
+
+---
+
+### Create a 45-second 3D Pixar-style animated commercial for GLOWDROP – 24-Hour…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+GLOWDROP – 24時間リキッドブラッシュのための、45秒の3D Pixar風アニメーションCMを、縦型スマートフォンフォーマットで制作する。明るくカラフルなビジュアル、表情豊かなカートゥーンキャラクター、滑らかで誇張の効いたアニメーション、cinematic lighting、そしてダイナミックなカメラワークを使用する。物語の舞台は、暖かな朝の居心地のよいアパートのバスルーム。パジャマとサテンのローブを着た若い女性Zaraは、初デートまで20分しかないという通知を見てパニックになる。いつものパウダーブラッシュは一瞬で消え、彼女は苛立つ。一方、ルームメイトのふわふわした白いポメラニアン、Miloは、黙ったまま、思わず笑ってしまうような批判的リアクションでそれを見つめている。必死にメイクを探したZaraは、光るGLOWDROPのボトルを見つける。彼女が2滴を塗ると、たちまち輝くような、長持ちする血色感が現れ、自信へと変わる。テンポの速いモンタージュで、彼女がメイクを仕上げ、自信たっぷりに外へ向かい、待っているデート相手を魅了する様子を描き、その間Miloも誇らしげについていく。最後は、やわらかなピンクの背景の前で回転するGLOWDROPボトルのクリーンなヒーロー商品ショットで締めくくり、タグラインは「GLOWDROP — Blush That Doesn't Quit.」。全体のトーンは遊び心があり、共感しやすく、コメディ重視。表情豊かなキャラクターアニメーション、ネットミーム風のユーモア、輝くビューティービジュアル、そしてシーンをさらう相棒としてのMiloの無言リアクションを特徴とする。
+
+--- THREAD CONTINUATION ---
+[Thread 1] @gptproto Try it here:
+https://t.co/P5Oj1xpW6E
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082788199353446400/img/QcBdNi2_rDwPNd0J.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082789689766162741.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082789689766162741.mp4)**
+
+**作者:** [Zara](https://x.com/ZaraIrahh) | **ソース:** [Link](https://x.com/ZaraIrahh/status/2082789689766162741) | **公開日:** 2026年7月30日
+
+`Product Ad` `Beauty` `3D Animation` `Realistic World` `VFX`
+
+---
+
+### Live-action + flat 2D sticker composite, POV cooking vlog, vertical 9:16, 10…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+ライブアクション + フラットな2Dステッカーの合成、POVの料理vlog、縦型9:16、10秒、8K、軽い手持ちのマイクロシェイク。リアルなキッチン + かわいいフラットなステッカーキャラクター。  
+Scene: 一人称視点の自宅キッチン。黒いフライパンで牛肉と野菜が炒められており、油がジュウジュウと音を立て、湯気が立ちのぼる。白いタイル、右側にソースボトルとシンク、横からの昼光。  
+Character: フラットな2Dステッカーとしての小さなチビアライグマのSolka：グレーがかった青の毛、目の周りの濃いマスク、縞模様のしっぽ、大きな赤いリボン、丸い黒縁メガネ、黄色いドレス、赤い靴。太いアウトライン、紙の質感、色鉛筆風。コンロ脇の小さなスツールに座っている。  
+00:00–00:03 — Salty Avalanche  
+本物の手がヘラで肉をかき混ぜる。Solkaはずる賢く笑い、塩の入った瓶を丸ごとフライパンに注ぐ。塩が滝のように落ち、白い山を作る。  
+SFX: ジュウジュウ、塩を注ぐ音。  
+00:03–00:05 — Oops  
+手が瓶を取り上げると、彼女の頭の横でヘラがコミカルに「BONK!」。メガネがずり落ち、しっぽが逆立ち、Solkaが跳ね上がる。  
+SFX: bonk、カートゥーンのバネ音。  
+00:05–00:08 — Salty Payback  
+Solkaが塩辛すぎる料理を味見する。頬がふくらみ、目が渦巻きになり、目からカートゥーンの涙が噴き出す。  
+SFX: crunch、間、誇張された泣き声。  
+00:08–00:10 — Salty K.O.  
+彼女は飲み込み、目がX印になり、紙のステッカーのようにスツールから落ちる。頭の周りに星、最後はフリーズフレーム。  
+SFX: croak、柔らかいドサッという音、コミカルなスピリット音。  
+Negative prompt: 3D raccoon, realistic fur, redesign, extra limbs, deformed hands, morphing, flicker, blur, fake salt physics, gore, subtitles, watermark, UI.
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082790076858384384/img/1_MuBgkCKn8ncRCj.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082790104771473775.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082790104771473775.mp4)**
+
+**作者:** [Al-Shamus](https://x.com/im_shahid7) | **ソース:** [Link](https://x.com/im_shahid7/status/2082790104771473775) | **公開日:** 2026年7月30日
+
+`Food` `Cooking` `Meme & Comedy` `Anthropomorphic` `Photoreal` `Realistic World` `POV` `VFX`
+
+---
+
+### Cinematic high-octane action sequence in a vast red-rock desert canyon under…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+青い空の下、広大な赤い岩肌の砂漠渓谷で繰り広げられる、シネマティックでハイオクタンなアクションシークエンス。スパイク装甲、重いチェーン、そして発光するヘッドライトと長い牙を備えた巨大な金属製スカルのフロントグリルを持つ、鮮やかなマゼンタ／ピンクの大幅カスタムされたオフロードトラックが、砂ぼこりの舞う地形を猛スピードで駆け抜ける。ダイナミックなカメラワーク：トラックがダートランプを飛び出して砂塵と破片を巻き上げるローアングルの車体下部ショット；スパイク付きトラックの疾走を追うサイドトラッキングショット；伝統的な黄色のhanbok風衣装を着た厳しい表情の女性が、ハンドルを握りながらタバコを吸っているキャビン内のクローズアップ；若い女性がデジタル迷彩の軍服（名前パッチが見える）を着て、長い髪をなびかせ、頭にサングラスを乗せ、大型の搭載重機関銃を熱狂的に発砲し、マズルフラッシュを上げながら叫んでいるリアガンナープラットフォーム；機械的な装甲と角を持ち、砂煙を巻き上げながら突進してくる巨大な装甲メタリック・サイのような獣の群れへ向かって疾走する、スパイク付きフード越しのPOV；ガンナーが撃ち続ける中、ピンクのスカル・トラックが暴走する装甲サイの群れを突っ切るサイドおよび正面ショット；群れの中を縫うように走り、砂煙の軌跡を残すトラックの高空俯瞰ショット；最後に、銃を高く掲げたまま渓谷を下って走り去るトラックのリアトラッキングショット。高速で、砂ぼこりにまみれ、緊迫感あふれる、Mad Maxに着想を得たポストアポカリプスのエネルギーに、韓国アクションコメディのフレアを融合。明るい砂漠のライティング、モーションブラー、実写的な砂塵と破片のエフェクト、15秒の連続アクションシークエンス。
+
+--- THREAD CONTINUATION ---
+[Thread 1] @Sjolt_ai character reference sheet https://t.co/52FKijByUO
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082791006429417473/img/HKvUxPb7jG7C9ybS.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082791809898651724.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082791809898651724.mp4)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **ソース:** [Link](https://x.com/Just_sharon7/status/2082791809898651724) | **公開日:** 2026年7月30日
+
+`Action` `Chase` `Animals` `Creatures` `Photoreal` `Fantasy` `VFX` `Slow-Mo` `FPV & Aerial` `POV`
+
+---
+
+### A Pixar-style storyboard sheet arranged in 10 clean cinematic panels for AI…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+Seedance を使った AI 動画生成向けに、10 枚のすっきりした cinematic パネルで構成された Pixar 風の storyboard シート。明るく感情豊かな 3D アニメーション、表情豊かなキャラクター、温かみのある cinematic lighting、全編を通して一貫したキャラクターデザイン。storyboard フレームには、カメラアングル、アクション、セリフ、Seedance のアニメーション指示が含まれている。
+
+TITLE: 'Grandma Was Right'
+
+PANEL 1 – HOME MORNING
+日の出の、小さくて居心地のいい田舎の家を捉えた wide establishing shot。木の窓から温かな黄金色の朝日が差し込む。灰色の髪をお団子にまとめ、花柄のドレスとエプロンを着た年配の祖母が朝食の準備をしている一方で、孫は古いコンピューターデスクに座り、落ち込んだ様子でいる。Camera: Wide establishing shot, slow push-in.
+Instruction: Soft morning lighting, floating dust particles, subtle camera dolly.
+Dialogue:
+Grandma: "Aren't you going to work today?"
+
+PANEL 2 – THE CONVERSATION
+Medium close-up。孫は椅子にもたれ、コンピューターモニターに映る未完成のクリエイティブ作品や不採用メールを見つめている。彼はため息をつく。
+Camera: Over-the-shoulder from behind grandma.
+Dialogue:
+Grandson: "What for, Grandma? It's not working."
+Instruction: Facial emotion focus, slow zoom.
+
+PANEL 3 – GRANDMA'S ENCOURAGEMENT
+Close-up。祖母がそっと彼の肩に手を置き、自信に満ちた笑顔を向ける。
+Camera: Tight emotional close-up.
+Dialogue:
+Grandma: "Keep trying, my boy. One day... it will."
+Instruction: Warm rim light, emotional pause, shallow depth of field.
+
+PANEL 4 – THE GRIND MONTAGE
+1 つの storyboard パネルの中に複数のミニシーン：孫が動画編集をする、デザインをする、深夜にコーヒーを飲む、不採用メールを受け取る、コンテンツをアップロードする、カレンダーのページがめくられる、雨が晴れに変わる。
+Camera: Fast montage with whip transitions.
+Instruction: Time-lapse, speed ramps, clock spinning, changing daylight.
+On-screen text: "Days Later... Weeks Later..."
+
+PANEL 5 – BREAKTHROUGH
+コンピューターモニターの close-up。明るい通知が表示される。
+'$5,000 Payment Received.'
+孫の目が信じられないというように大きく見開かれる。
+Camera: Push-in toward monitor then rack focus to his face.
+Instruction: Screen glow illuminates his face.
+
+PANEL 6 – GRANDMA'S REACTION
+孫が興奮して振り向く。祖母は驚くことなく、誇らしげに微笑む。
+Camera: Medium shot.
+Dialogue:
+Grandson: "Grandma! I did it!"
+Grandma smiles knowingly.
+Instruction: Emotional eye contact.
+
+PANEL 7 – SUCCESS MONTAGE
+さらに多くのクライアント通知、増えていく収入、より快適になった作業スペース、アップグレードされたコンピューター、生産的なワークフローを示す storyboard montage。
+Camera: Dynamic montage.
+Instruction: Fast cuts, smooth transitions.
+On-screen text: "A Few Months Later"
+
+PANEL 8 – BUYING THE CAR
+ディーラーでの美しい赤いモダンなセダン。孫は誇らしげに笑いながら鍵を受け取る。
+Camera: Low-angle hero shot.
+Instruction: Lens flare, cinematic reveal.
+
+PANEL 9 – COMING HOME
+Golden hour。孫が新しい赤い車を運転して家族の私道に入ってくる。祖母が驚いて外へ出てくる。
+Camera: Drone-like wide shot transitioning to medium shot.
+Instruction: Warm sunset, cinematic pull-back.
+
+PANEL 10 – THE GIFT
+孫が祖母を抱きしめ、丁寧に包まれた贈り物を手渡す。祖母がそれを開けると、「Thank You For Believing In Me」と刻まれた上品な金のネックレスが現れる。抱き合う二人の目には涙があふれる。
+Camera: Emotional close-up then wide cinematic ending.
+Dialogue:
+Grandson: "You were right, Grandma."
+Grandma hugs him.
+On-screen text: "Success belongs to those who never stop trying."
+Instruction: Slow cinematic pull-back, glowing sunset, emotional ending, Pixar-quality animation, highly expressive faces, Seedance-ready storyboard, clean storyboard layout with handwritten production notes beneath each frame.
+
+--- THREAD CONTINUATION ---
+[Thread 1] PROMPT 
+
+"A Pixar-style storyboard sheet arranged in 10 clean cinematic panels for AI video generation with Seedance. Bright, emotional 3D animation, expressive characters, warm cinematic lighting, consistent character design throughout, storyboard frames include camera angles, actions, dialogue, and Seedance animation instructions.\n\nTITLE: 'Grandma Was Right'\n\nPANEL 1 – HOME MORNING\nWide establishing shot of a small cozy countryside home at sunrise. Warm golden sunlight enters through wooden windows. An elderly grandmother with gray hair in a bun, floral dress, and apron prepares breakfast while her grandson sits at an old computer desk looking discouraged. Camera: Wide establishing shot, slow push-in.\nInstruction: Soft morning lighting, floating dust particles, subtle camera dolly.\nDialogue:\nGrandma: "Aren't you going to work today?"\n\nPANEL 2 – THE CONVERSATION\nMedium close-up. The grandson leans back in his chair staring at unfinished creative projects and rejection emails on his computer monitor. He sighs.\nCamera: Over-the-shoulder from behind grandma.\nDialogue:\nGrandson: "What for, Grandma? It's not working."\nInstruction: Facial emotion focus, slow zoom.\n\nPANEL 3 – GRANDMA'S ENCOURAGEMENT\nClose-up. Grandma gently places her hand on his shoulder and smiles confidently.\nCamera: Tight emotional close-up.\nDialogue:\nGrandma: "Keep trying, my boy. One day... it will."\nInstruction: Warm rim light, emotional pause, shallow depth of field.\n\nPANEL 4 – THE GRIND MONTAGE\nMultiple mini-scenes within one storyboard panel: grandson editing videos, designing, drinking coffee late at night, receiving rejection emails, uploading content, calendar pages flipping, rain changing to sunshine.\nCamera: Fast montage with whip transitions.\nInstruction: Time-lapse, speed ramps, clock spinning, changing daylight.\nOn-screen text: "Days Later... Weeks Later..."\n\nPANEL 5 – BREAKTHROUGH\nClose-up of computer monitor. Bright notification appears.\n'$5,000 Payment Received.'\nGrandson's eyes widen in disbelief.\nCamera: Push-in toward monitor then rack focus to his face.\nInstruction: Screen glow illuminates his face.\n\nPANEL 6 – GRANDMA'S REACTION\nGrandson turns around excitedly. Grandma smiles proudly without surprise.\nCamera: Medium shot.\nDialogue:\nGrandson: "Grandma! I did it!"\nGrandma smiles knowingly.\nInstruction: Emotional eye contact.\n\nPANEL 7 – SUCCESS MONTAGE\nStoryboard montage showing more client notifications, increasing income, happier workspace, upgraded computer, productive workflow.\nCamera: Dynamic montage.\nInstruction: Fast cuts, smooth transitions.\nOn-screen text: "A Few Months Later"\n\nPANEL 8 – BUYING THE CAR\nBeautiful red modern sedan at a dealership. Grandson receives the keys while smiling proudly.\nCamera: Low-angle hero shot.\nInstruction: Lens flare, cinematic reveal.\n\nPANEL 9 – COMING HOME\nGolden hour. The grandson drives the new red car into the family driveway. Grandma steps outside in surprise.\nCamera: Drone-like wide shot transitioning to medium shot.\nInstruction: Warm sunset, cinematic pull-back.\n\nPANEL 10 – THE GIFT\nThe grandson hugs his grandmother and hands her a beautifully wrapped gift. She opens it to reveal an elegant gold necklace engraved 'Thank You For Believing In Me.' Tears fill her eyes as they embrace.\nCamera: Emotional close-up then wide cinematic ending.\nDialogue:\nGrandson: "You were right, Grandma."\nGrandma hugs him.\nOn-screen text: "Success belongs to those who never stop trying."\nInstruction: Slow cinematic pull-back, glowing sunset, emotional ending, Pixar-quality animation, highly expressive faces, Seedance-ready storyboard, clean storyboard layout with handwritten production notes beneath each frame."}
+
+[Thread 2] https://t.co/T64XPepHGl
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082793218215731200/img/KaqCy-NxHFY4233y.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082794036067246419.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082794036067246419.mp4)**
+
+**作者:** [LAPTOP LIFESTYLE BLOGGER](https://x.com/MonetizationDon) | **ソース:** [Link](https://x.com/MonetizationDon/status/2082794036067246419) | **公開日:** 2026年7月30日
+
+`Story` `Heartwarming` `3D Animation` `Realistic World` `Creative Asset`
+
+---
+
+### Use the uploaded reference image as the exact character reference. Preserve her…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+アップロードされた参考画像を、キャラクターの正確な参照として使用してください。彼女の顔のアイデンティティ、グレーの瞳、髪型、肌の色、メイク、体のプロポーション、そして全体的な外見を、すべてのショットを通して一貫して維持してください。白いグラフィック入りのフィットしたTシャツは同じものを着用し、下半身の衣装はスタイリッシュな白のプリーツミニスカートに置き換えつつ、リアルな手の解剖学と完璧な顔の一貫性を保ってください。
+
+高級感のある夏のライフスタイル美学を備えた、超リアルなプレミアムアイスクリームCMを制作してください。舞台は、大理石のカウンター、パステル調の内装、ガラスのディスプレイケース、温かな黄金色の陽光、柔らかなボケ、シネマティックなカラーグレーディング、リアルな反射、そしてプレミアムな商業用ライティングが特徴の、エレガントな職人ジェラートカフェの中。そこから、カフェや花々が並ぶ魅力的なヨーロッパ風の通りへ、ゴールデンアワーの自然な流れで移行してください。
+
+CMは、彼女がストロベリーとバニラのアイスクリームが入った高級ワッフルコーンを手に持ちながら、カメラに向かって温かく微笑む、シネマティックなビューティークローズアップで始まります。彼女はゆっくりとコーンを回し、クリーミーな質感とカラフルなトッピングを見せます。
+
+次に、レインボースプリンクルがアイスクリームの上にやさしく降り注ぐエクストリームマクロのシークエンスへ移行し、その後、艶やかなチョコレートソースが濃厚にスクープの上を流れ落ちます。溶けかけたアイスクリーム、サクサクしたトッピング、新鮮なストロベリーのかけら、そしてクリスプなワッフルコーンを、非常に精細なテクスチャーで贅沢にクローズアップして捉えてください。
+
+彼女はゆっくりとコーンを唇へ運び、満足感のあるひと口をかじり、その後、クリーミーな味わいを楽しみながら自然に微笑みます。カメラは、彼女の自然な表情と、とろけるアイスクリームを美しいシネマティックなディテールで捉えます。
+
+シーンは屋外へ移り、彼女がアイスクリームを手に持ちながら、温かな陽光に顔を照らされて、魅力的なヨーロッパ風の通りを歩いていきます。彼女は肩越しに振り返って自信に満ちた笑みを見せ、カフェや花の並ぶ歩道のそばを、髪をそよ風に揺らしながら歩き続けます。
+
+CMは、ジェラートカフェの外でのエレガントなヒーローショットで締めくくられます。彼女はアイスクリームを顔の横に持ち、カメラと目を合わせ、やさしく微笑みながら、「ひと口ごとに、人生はもっと甘くなる」と言います。カメラはゆっくりと寄り、贅沢なアイスクリームと彼女の輝く表情を強調したあと、フェードアウトします。
+
+Style: プレミアムフードCM、ラグジュアリーなライフスタイル美学、シネマティックなストーリーテリング、リアルな溶ける質感、マクロフードシネマトグラフィー、上品で自然な表情、滑らかなハンドヘルドとジンバルの動き、浅い被写界深度、柔らかなボケ、商業用グレードのライティング、フォトリアル、超高精細。
+
+Negative Prompt: テキストなし、字幕なし、ロゴなし、ウォーターマークなし、人物の重複なし、歪んだ手なし、非現実的な顔の特徴なし、AIアーティファクトなし、カートゥーン調なし、誇張された表情なし、余分な指なし、ちらつきなし、彩度過多の色なし、低解像度のテクスチャなし。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082797029206724609/img/bsISD5D5_pRDr7ib.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082797052250173486.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082797052250173486.mp4)**
+
+**作者:** [Smiling Khan](https://x.com/AIwithkhan) | **ソース:** [Link](https://x.com/AIwithkhan/status/2082797052250173486) | **公開日:** 2026年7月30日
+
+`Product Ad` `F&B` `Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `Macro`
+
+---
+
+### 游泳姿态美学展示（Swimming Strokes Showcase），电影感写真质感（16:9 Cinematic…
+
+#### 📝 プロンプト
+
+```
+水泳フォームの美学ショーケース（Swimming Strokes Showcase）、映画のようなフォトリアル質感（16:9 Cinematic, Photorealistic）、超スローモーション（Super Slow-mo）、陽光が差し込むプールの透明感ある水色トーン、長い髪が水中で揺れる、エレガントなスポーツスタイル
+
+--- QUOTED TWEET ---
+水泳フォームの美学ショーケース（Swimming Strokes Showcase）🎬 https://t.co/wMFGcmUrbr
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082798969499832514.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082798969499832514.mp4)**
+
+**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2082798969499832514) | **公開日:** 2026年7月30日
+
+`Sports` `Other Competition` `Photoreal` `Realistic World` `Slow-Mo`
+
+---
+
+### Use the attached reference image for the character. Maintain the exact same…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+キャラクターには添付の参照画像を使用してください。毎フレームで、顔、髪型、衣装、体のプロポーション、アイデンティティをまったく同じに保ってください。人物の見た目を決して変更しないでください。
+
+カット、トランジション、テレポートなしの、1本の連続した15秒のシネマティックショットを作成してください。
+
+動画は、散らかったティーンの寝室から始まります。キャラクターは幅広の窓辺の中央に座っており、柔らかな曇天の昼光の下、かすんだ赤レンガの都市スカイラインを見下ろす大きな窓に左右対称にフレーミングされています。カメラは完全に静止したアイレベルのワイドショットで、ズームや動きはありません。部屋は、落ち着いたやや彩度を抑えた色合い、自然な窓光、さりげない35mmフィルムグレイン、浅い被写界深度を備えたシネマティックなインディー映画風の美学で、外の街並みはシャープに保たれています。
+
+キャラクターは最初、横向きの横顔を見せ、その後ゆっくりとカメラの方へ向き直り、微笑み、片手でピースサインを作り、両腕を頭上に上げ、オーバーイヤーヘッドホンを耳に装着します。短い間を置いたあと、何気なく後ろへ身を倒し、開いた窓の外へ落ちていきます。
+
+しかし地面に激突する代わりに、その落下はシームレスにアクションシーケンスへ移行し、キャラクターはゴールデンアワーの住宅街ニューヨーク上空で、すでにウェブで体を支えている状態になります。ここから先、カメラは連続した空撮の追従ショットへと変化し、物理的にバンク、チルト、ロールしながら、常にキャラクターと周囲の街並みの両方を視界に収めます。
+
+キャラクターは身長188cm、体重90kgの長身でアスレチック、細身で力強く、エリートのトレースールとスパイダーマンを掛け合わせたように動きます。すべての動作は、現実的な物理法則に従い、説得力のある運動量、筋肉の使い方、体重移動、布のシミュレーション、衝撃力を伴います。浮遊感、ラグドールのような動き、硬いアニメーション、不自然な身体メカニクスはありません。
+
+キャラクターは、レンガ造りのアパート、非常階段、連棟住宅、路上駐車の車、街角の店、黄色いタクシー、歩行者が並ぶ通りのわずか数メートル上をスイングします。腕はウェブを持ったまま頭上に伸ばし、体幹は引き締め、脚は流線形を保ちます。足は一瞬だけ駐車中の車の屋根に触れて、自然に運動量を方向転換し、そのままスイングを続けます。
+
+次のスイングアークの頂点で、キャラクターはウェブを放し、両腕を広げてレンガ造りの建物に着地し、胴体を壁に対して約45度傾けながら、現実的な4〜5歩で壁を垂直に駆け上がります。力強い両足の蹴りで交差点を越えて飛び、別のウェブが遠くの屋上へ向かって放たれます。
+
+キャラクターは、走行中の交通の間を低くスイングし、黄色いタクシーと、ライトを点滅させサイレンを鳴らす赤い消防車の間を縫うように進みます。ウェブを放してそのままスプリントに入り、車両の間を自然に走り抜け、タクシーのクラクションが鳴ったあとに笑い、片足をタクシーの側面に乗せてその屋根を飛び越え、別のウェブを発射し、"WOOHOO!" と叫びながら上方へロケットのように跳び上がります。
+
+シーケンスの最後は、劇的に照らされた雲が広がるオレンジとピンクに輝く夕焼け空を背景に、屋上の高さで息をのむようなスイングで締めくくられます。スイングの最頂点で、キャラクターは両腕を広げ、頭を後ろに傾け、目を閉じたまま、たった一瞬静かに宙に浮かび、完全な自由を表現します。ショットが終わる直前、キャラクターが下降を始める前に、屋根、給水塔、通り、遠景のスカイラインが見える広大な街が足元に広がっています。
+
+Visual Style: Ultra-photorealistic, large-format cinema camera, anamorphic lens, cinematic lighting, authentic motion blur, realistic cloth simulation, subtle atmospheric haze, filmic color grading, high dynamic range, premium VFX quality, continuous aerial cinematography.
+
+Audio (No Music): Natural wind, web firing and tension sounds, footsteps on walls, cloth movement, car roof impact, taxi horns, fire truck sirens, realistic city ambience, genuine laughter, echoed "WOOHOO!", followed by near silence at the highest point of the swing.
+
+--- THREAD CONTINUATION ---
+[Thread 1] まず最初に目を引くのは、そのクオリティです:
+
+→ 実際に自然に動くリアルな物理演算
+→ 複数人物のリップシンクと、セリフや環境音
+→ ショットの連続性がきれいに保たれた、シネマティックなマルチショットのストーリーテリング
+→ 既存クリップの撮影を、そのまま一貫したカメラフローで「続ける」ことさえできる
+
+[Thread 2] でも、実際に決め手になるのはここです。価格です。
+
+多くのツールは、生成1回ごとにファストフード1食分くらいの料金がかかります。
+
+Dreaminaは、まったく同じ Dreamina Seedance 2.0 を、月額プランの新規ユーザー向けに1秒あたり $0.083 で提供しており、これは市場で最も低い 2.0 の料金です。
+
+しかも Dreamina は ByteDance 傘下のプラットフォーム（そう、TikTok の会社です）なので、請求は透明で、隠れた手数料はありません。
+
+[Thread 3] スマートなワークフロー:
+
+→ Seedance 2.0 Mini でアイデアを試す
+→ うまくいくまで反復する
+→ Seedance 2.0 で最終レンダリングする
+
+動画1のプロンプト:
+キャラクターには添付の参照画像を使用してください。毎フレームで、顔、髪型、衣装、体のプロポーション、アイデンティティをまったく同じに保ってください。人物の見た目を決して変更しないでください。
+
+カット、トランジション、テレポートなしの、1本の連続した15秒のシネマティックショットを作成してください。
+
+動画は、散らかったティーンの寝室から始まります。キャラクターは幅広の窓辺の中央に座っており、柔らかな曇天の昼光の下、かすんだ赤レンガの都市スカイラインを見下ろす大きな窓に左右対称にフレーミングされています。カメラは完全に静止したアイレベルのワイドショットで、ズームや動きはありません。部屋は、落ち着いたやや彩度を抑えた色合い、自然な窓光、さりげない35mmフィルムグレイン、浅い被写界深度を備えた
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082803790009544705/img/79wLwBHa2x30Xt1b.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082803828483871134.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082803828483871134.mp4)**
+
+**作者:** [Poonam Soni](https://x.com/CodeByPoonam) | **ソース:** [Link](https://x.com/CodeByPoonam/status/2082803828483871134) | **公開日:** 2026年7月30日
+
+`Action` `Superpower` `Photoreal` `Realistic World` `VFX` `FPV & Aerial`
+
+---
+
+### A fast-paced anime-style countryside cooking montage set in a hidden meadow…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+隠れた草原を舞台にした、アニメ風のテンポの速い田舎料理モンタージュ。周囲にはなだらかな丘、野花、そして居心地のよい古い木造のコテージが広がっている。映像では、すべての調理アクションがシーケンスで描かれ、滑らかな cinematic transitions でつながれている。若い料理人が小さな農場の鶏小屋から新鮮な卵を集め、庭から香り高いハーブや色とりどりの野菜を摘み、清らかな湧き水を汲む。クローズアップの短いショットでは、食材を洗い、刻み、石のすり鉢でハーブをすりつぶし、素朴な木のテーブルの上で生地をこねる様子が映し出される。石組みの焚き火が燃え、銅鍋では濃厚な自家製ソースが静かに煮込み、野菜はフライパンでソテーされ、焼きたての食事から湯気が立ちのぼる中、温かいパンが切り分けられる。完成した田舎料理は、手作りの陶器皿に美しく盛り付けられ、横には新鮮なフルーツジュースの入ったガラス瓶が添えられている。最後のショットでは、穏やかな草原の風景、黄金色の陽光、草むらをそよぐやさしい風、そして心地よいアニメの料理の雰囲気が映し出される。高速の cinematic cuts、滑らかな camera movements、鮮やかな色彩、柔らかな自然光、非常に精細なアニメ表現、静けさと活気が同居する感覚、masterpiece quality、4K。
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082825758456852480/img/Tb9wYzAz7MsO4keo.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082825904812913139.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082825904812913139.mp4)**
+
+**作者:** [NoorAI](https://x.com/noorwithwifi) | **ソース:** [Link](https://x.com/noorwithwifi/status/2082825904812913139) | **公開日:** 2026年7月30日
+
+`Food` `Cooking` `Anime 2D` `Fantasy` `Macro`
+
+---
+
+### 背景音乐节奏与滑板/滑雪动作速度完全匹配，背景音乐音量低于实景音效，不掩盖滑板与滑雪音效…
+
+#### 📝 プロンプト
+
+```
+背景音楽のリズムはスケートボード／スキーの動きの速度と完全に一致し、BGMの音量は実写の効果音より低く、スケートボードとスキーの音をかき消さない。 一人称のスケートボード後方見上げ視点、超広角の強いパース、カメラはわずかに揺れて追走感を再現、一発撮りでカット切り替えなし、トランジションなし、途切れなし。人物の動きは標準的で滑らか、動作の崩れなし、不要な360度回転なし、人体構造は正常。
+
+春：二次元COSの女の子が春向けの薄手スポーツウェアを着用し、低速でコーナーに入り素早く加速、オーリーでカーブを攻める。路肩には若草や花が咲き、海面はきらめき、車輪にはわずかな残像。
+
+春から夏へ：女の子が高難度のオーリーを決め、瞬間的にスローモーション、カメラが人物の周囲をゆっくり一周する。衣装は自然に夏の半袖へ変化し、シーンは滑らかに真夏の濃い緑へ移行、季節の変化は柔らかく、急な変化なし。
+
+夏：二次元COSの女の子が高速でS字カーブを滑走し、インターナル180オーリーに加えてトゥフリップを行う。動きはクリーンで標準的、強いモーションブラーとスピードライン。
+
+夏から秋へ：女の子が高難度の空中スピンを披露し、瞬間的にスローモーション、カメラが人物の周囲をゆっくり一周する。衣装は自然に秋の長袖ジャケットへ変化し、シーンは秋の紅葉林へとグラデーションし、空には黄金色の落ち葉が舞う。移行は自然で急変なし。
+
+秋：二次元COSの女の子が短く高速な滑走でつなぎ、落ち葉が舞い、画面はシンプルで滑らか、動きは標準的で歪みなし。
+
+秋から冬へ：女の子が高難度のジャンプ動作を行い、瞬間的にスローモーション、カメラが人物の周囲をゆっくり一周する。衣装は自然に冬のプロ仕様スキーウェアへ変化し、スケートボードは滑らかにスキー板へ変わる。シーンは冬の雪山の雪景色へとグラデーションし、空には雪が舞い、地面は雪道へ変化、急変も歪みもなし。
+
+冬：尺を大幅に延長し、二次元COSの女の子が雪道を流れるように高速滑走、連続して滑らかにターンし、姿勢はクールで伸びやか、雪煙が舞い上がり、雪景色は雄大で開放的。不要な回転、360度ターン、動作の歪みはなし。しばらく滑走した後、最後に超クールで力強いスキーブレーキの決めポーズを取り、重心を低く落とし、後ろ姿もかっこよく、スキー板が雪面にくっきりとしたクールなブレーキ痕を描き、雪山の雪景色で完璧に締めくくる。
+
+効果音：スケートボードの転がる音、オーリー、摩擦音が、自然にスキー板の滑走音、雪上での制動音へ移行し、風の音は速度に応じて変化する。全編一発撮りで、季節の移行は柔らかく連続的、動きは安定して歪まず、余計な回転なし。二次元風の画作り、精緻な顔立ち、高清画質、自然な光と影、動きは安定して崩れない
+
+--- QUOTED TWEET ---
+Seedance 2.0で四季のスケートボード動画を生成。
+スケートボードに乗る視点で、季節ごとのシーンと衣装を切り替える。
+
+プロンプト：
+背景音楽のリズムはスケートボード／スキーの動きの速度と完全に一致し、BGMの音量は実写の効果音より低く、スケートボードとスキーの音をかき消さない。 一人称のスケートボード後方見上げ視点、超広角の強いパース、カメラはわずかに揺れて追走感を再現、一発撮りでカット切り替えなし、トランジションなし、途切れなし。人物の動きは標準的で滑らか、動作の崩れなし、不要な360度回転なし、人体構造は正常。
+
+春：二次元COSの女の子が春向けの薄手スポーツウェアを着用し、低速でコーナーに入り素早く加速、オーリーでカーブを攻める。路肩には若草や花が咲き、海面はきらめき、車輪にはわずかな残像。
+
+春から夏へ：女の子が高難度のオーリーを決め、瞬間的にスローモーション、カメラが人物の周囲をゆっくり一周する。衣装は自然に夏の半袖へ変化し、シーンは滑らかに真夏の濃い緑へ移行、季節の変化は柔らかく、急な変化なし。
+
+夏：二次元COSの女の子が高速でS字カーブを滑走し、インターナル180オーリーに加えてトゥフリップを行う。動きはクリーンで標準的、強いモーションブラーとスピードライン。
+
+夏から秋へ：女の子が高難度の空中スピンを披露し、瞬間的にスローモーション、カメラが人物の周囲をゆっくり一周する。衣装は自然に秋の長袖ジャケットへ変化し、シーンは秋の紅葉林へとグラデーションし、空には黄金色の落ち葉が舞う。移行は自然で急変なし。
+
+秋：二次元COSの女の子が短く高速な滑走でつなぎ、落ち葉が舞い、画面はシンプルで滑らか、動きは標準的で歪みなし。
+
+秋から冬へ：女の子が高難度のジャンプ動作を行い、瞬間的にスローモーション、カメラが人物の周囲をゆっくり一周する。衣装は自然に冬のプロ仕様スキーウェアへ変化し、スケートボードは滑らかにスキー板へ変わる。シーンは冬の雪山の雪景色へとグラデーションし、空には雪が舞い、地面は雪道へ変化、急変も歪みもなし。
+
+冬：尺を大幅に延長し、二次元COSの女の子が雪道を流れるように高速滑走、連続して滑らかにターンし、姿勢はクールで伸びやか、雪煙が舞い上がり、雪景色は雄大で開放的。不要な回転、360度ターン、動作の歪みはなし。しばらく滑走した後、最後に超クールで力強いスキーブレーキの決めポーズを取り、重心を低く落とし、後ろ姿もかっこよく、スキー板が雪面にくっきりとしたクールなブレーキ痕を描き、雪山の雪景色で完璧に締めくくる。
+
+効果音：スケートボードの転がる音、オーリー、摩擦音が、自然にスキー板の滑走音、雪上での制動音へ移行し、風の音は速度に応じて変化する。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082834833290747904/img/krKPTVc6EVDlIITv.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082835339820097539.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082835339820097539.mp4)**
+
+**作者:** [李岳](https://x.com/liyue_ai) | **ソース:** [Link](https://x.com/liyue_ai/status/2082835339820097539) | **公開日:** 2026年7月30日
+
+`Sports` `Extreme` `Anime 2D` `Realistic World` `POV` `Slow-Mo` `Transformation` `VFX`
+
+---
+
+### Ultra-realistic original dark fantasy war sequence on a vast volcanic plain at…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+超写実的なオリジナルのダークファンタジー戦闘シークエンス。夕暮れの広大な火山性平原を舞台に、鎧をまとった爬虫類型および狼のような生物に騎乗した恐るべき獣騎兵の軍勢が、規律正しく並ぶ精鋭槍兵の隊列へ突撃する。  
+0–4秒: 何百もの騎乗生物が、灰と燃える草原を駆け抜ける様子を捉えた極端なワイドショット。背後では土煙と火の粉が爆発する。  
+4–9秒: 突撃に並走するローアングルのトラッキングショット。爪が地面を叩き、騎手たちが咆哮し、マントと鎧が激しく揺れる。カメラは疾走する怪物たちの間を縫うように動き、圧倒的なスピード感を生み出す。  
+9–15秒: 獣騎兵がシールドウォールに激突する全力の衝突。槍は砕け、兵士たちは弾き飛ばされ、煙の中を生物たちが跳び越え、陣形は巨大な圧力の下でたわむ。  
+
+壮大なスケール、苛烈なエネルギー、超ダイナミックなカメラ、フォトリアルな質感、シネマティックな砂塵、灰、火花、黒い嵐雲を背景にした深いオレンジ色の炎光。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2082843678595309568/pu/img/yBuLvB9gz5Ia0RuE.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082843708655829010.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082843708655829010.mp4)**
+
+**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **ソース:** [Link](https://x.com/CharaspowerAI/status/2082843708655829010) | **公開日:** 2026年7月30日
+
+`Action` `Military` `Photoreal` `Fantasy` `VFX` `Slow-Mo`
+
+---
+
+### 真人走在黑白线稿环境里 ，20岁年轻东亚漂亮女性，穿着夏季休闲服装，白色包包，手里拿着一杯奶茶，走在线稿环境里，手持镜头跟拍，环绕到她前面，她走向镜头，挥手致意…
+
+#### 📝 プロンプト
+
+```
+---
+A real person walking in a black-and-white line-art environment, a beautiful 20-year-old East Asian woman wearing casual summer clothes, carrying a white bag and holding a cup of milk tea, walking in a line-art environment, shot with a handheld camera following her, circling around to the front, she walks toward the camera and waves hello, keeping the human subject real, and keeping the background in black-and-white line-art style unchanged from beginning to end, 9:16.
+
+--- THREAD CONTINUATION ---
+[Thread 1] Image prompt
+
+A beautiful 20-year-old East Asian woman wearing casual summer clothes, carrying a white bag and holding a cup of milk tea, walking along a pedestrian street in front of a coffee shop, shot with a handheld camera following her
+
+Turn into line art
+
+Keep the character unchanged, change the background to black-and-white line art
+
+Video prompt
+
+A real person walking in a black-and-white line-art environment, a beautiful 20-year-old East Asian woman wearing casual summer clothes, carrying a white bag and holding a cup of milk tea, walking in a line-art environment, shot with a handheld camera following her, circling around to the front, she walks toward the camera and waves hello, keeping the human subject real, and keeping the background in black-and-white line-art style unchanged from beginning to end, 9:16.
+
+[Thread 2] Grok can do it too, using this prompt https://t.co/CQepsh2CNp
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082845353754402816/img/z7UuOLo993VQelXf.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082845564157456509.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082845564157456509.mp4)**
+
+**作者:** [PixelAIGC](https://x.com/PixelAigc) | **ソース:** [Link](https://x.com/PixelAigc/status/2082845564157456509) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `POV` `VFX`
+
+---
+
+### 3D character illustration:
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+3Dキャラクターイラスト：
+夏のカリフォルニアの海沿いの遊歩道を、背の高いヤシの木の間を抜けながら高速でスケートする若者。強いモーションブラー。
+
+3Dキャラクターイラスト：
+夏のカリフォルニアの海沿いの遊歩道を、背の高いヤシの木の間を抜けながら高速でスケートする若者。強いモーションブラー。
+
+キャラクターはスケートボードのトリックを披露しながら車を飛び越え、鋭くカーブをドリフトし、アイスクリームスタンドを飛び越えつつ高速でアイスクリームをつかみ、吠える犬と、追いかけるのに失敗する馬に乗った警官を飛び越える。
+
+ハイオクタンなアクションシーン。
+
+--- 引用ツイート ---
+ビーチでちょっとしたアクション 🌞
+
+コメント欄にプロンプト：
+
+image: Midjourney v8.2  
+video: Seedance 2.0
+music: FL Studio https://t.co/h11N7J0QYr
+
+--- スレッド続き ---
+[スレッド1] 2つのプロンプト：
+
+1-
+
+3Dキャラクターイラスト：
+夏のカリフォルニアの海沿いの遊歩道を、背の高いヤシの木の間を抜けながら高速でスケートする若者。強いモーションブラー。
+
+3Dキャラクターイラスト：
+夏のカリフォルニアの海沿いの遊歩道を、背の高いヤシの木の間を抜けながら高速でスケートする若者。強いモーションブラー。
+
+ キャラクターはスケートボードのトリックを披露しながら車を飛び越え、鋭くカーブをドリフトし、アイスクリームスタンドを飛び越えつつ高速でアイスクリームをつかみ、吠える犬と、追いかけるのに失敗する馬に乗った警官を飛び越える。
+
+ハイオクタンなアクションシーン。
+
+2-
+
+超精細な3Dキャラクターイラスト：  
+夏のカリフォルニアのボードウォークを、背の高いヤシの木の間を抜けながら高速でスケートボードする若者。強いモーションブラー。
+
+キャラクターは、食事中の人々がいるテラスを飛び越え、スケートボードで日光浴をしている人たちを飛び越え、ボードが巨大な波を進むサーフボードへと変形する。
+
+素早いショット切り替え。
+音楽なし。ASMRサウンド。
+
+ハイオクタンなアクションシーン。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082844977017589760/img/980PBLHOhdPtwpY4.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082847077273420184.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082847077273420184.mp4)**
+
+**作者:** [hedoήist](https://x.com/hedo_ist) | **ソース:** [Link](https://x.com/hedo_ist/status/2082847077273420184) | **公開日:** 2026年7月30日
+
+`Action` `Chase` `3D Animation` `Realistic World` `VFX`
+
+---
+
+### Frozen fjord at dawn, mist over icy cliffs. A raider fleet of three longships…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+凍てついたフィヨルドの夜明け、氷の崖の上に漂う霧。三隻のロングシップからなる略奪船団が、奪った金を積んで逃走している。櫂がうねる波を打ち、船団を押し進める。盾の乙女（キャラクター参照「ASTRID」：鉄の輪を通した編み込みの金髪、片目にかかるウォーペイント、チェインメイルの上に毛皮付きレザーアーマー、丸盾と戦斧） が氷の崖から先頭の船へ飛び移り、船団へと迫る。
+[0-3s] 彼女は甲板に激しく着地し、転がりながら戦斧を抜く — 二人の略奪者が突進してくる。彼女は一人を盾で受け止め、もう一人の防御を戦斧で打ち砕く。斧の軌跡でスローモーション、その後通常速度に戻る。
+[3-6s] 甲板上での戦闘：彼女は槍の突きを身をかがめてかわし、盾で攻撃者を海へ叩き落とし、突進してきた三人目の略奪者の防御を戦斧で貫く。飛沫と風がフレームを打ちつける。
+[6-9s] 甲板下から略奪者たちが押し寄せる — 彼女は補給用の樽を蹴り倒し、油を板張りの上に広げる。矢がヒュッと音を立ててかすめる中、混乱を切り抜けて戦い続ける。
+[9-12s] 船同士が横腹から衝突する — 彼女は二隻目のロングシップへ弾き飛ばされ、荒れた氷水の上にある手すりで略奪者と組み合う。彼を海へ投げ落とす。船団は狭い氷の水路を突き進み、船体がきしむ。
+[12-15s] 残るのは首長の船だけ — その船尾から略奪者たちが群がる。彼女は戦斧を取り戻し、最後の距離を突進する。斧と盾が燃え上がるように映える — 船団は霧の中へ櫂を進め続け、終わりのショットも、決着もない。
+Style: Viking action × high-speed sea chase, God of War grit × AAA game-trailer cinematography. Character consistent: iron-ringed braids, war-paint, fur-leather armor, axe and shield. Grounded physics, constant ship motion, escalating numbers. Palette: iron grey, fur brown, ice blue, blood red. 4K, cinematic, HDR.
+
+--- THREAD CONTINUATION ---
+[Thread 1] GPT Image Storyboard Prompt :
+超詳細な16:9のバイキングキャラクターデザインシート、公式AAA RPGキャラクターバイブル、クリーンなエディトリアルレイアウト、ルーン文字のUIアクセントが入った霜灰色の背景。キャラクター名「ASTRID」、称号「Shield of the North」、サブタイトル「A fearless raider who carves her legend across the frozen seas.」
+左パネル：全身のヒーローイラスト、鉄の輪を通した編み込みの金髪、片目にかかるウォーペイント、自信に満ちた立ち姿。チェインメイルの上に毛皮付きレザーアーマー、重ねたベルト、腕に固定された丸盾、手にした戦斧、毛皮のブーツ。豊かなレザーと鉄のディテール。ヒーローポーズ、落ち着いた自信。
+中央パネル：ターンアラウンドビュー（正面、側面、背面）、一貫した体型とプロポーション、ニュートラルなTポーズ。
+右パネル：ウォーペイント、盾のボス、斧の刃、チェインメイルの輪、ベルトのバックル、毛皮ブーツのディテールのクローズアップ。
+アクセサリーの内訳：戦斧、丸盾、チェインメイル、ベルト装備、ブーツ。縦型カラーパレット：鉄灰、毛皮ブラウン、氷青、血赤。
+Style: official Viking RPG character sheet, God of War x League of Legends concept art, premium game artbook illustration, production-ready, masterpiece, 8K, clean composition, no watermark, no extra limbs.
+
+[Thread 2] Seedance 2.0 Video Prompt :
+凍てついたフィヨルドの夜明け、氷の崖の上に漂う霧。三隻のロングシップからなる略奪船団が、奪った金を積んで逃走している。櫂がうねる波を打ち、船団を押し進める。盾の乙女（キャラクター参照「ASTRID」：鉄の輪を通した編み込みの金髪、片目にかかるウォーペイント、チェインメイルの上に毛皮付きレザーアーマー、丸盾と戦斧） が氷の崖から先頭の船へ飛び移り、船団へと迫る。
+[0-3s] 彼女は甲板に激しく着地し、転がりながら戦斧を抜く — 二人の略奪者が突進してくる。彼女は一人を盾で受け止め、もう一人の防御を戦斧で打ち砕く。斧の軌跡でスローモーション、その後通常速度に戻る。
+[3-6s] 甲板上での戦闘：彼女は槍の突きを身をかがめてかわし、盾で攻撃者を海へ叩き落とし、突進してきた三人目の略奪者の防御を戦斧で貫く。飛沫と風がフレームを打ちつける。
+[6-9s] 甲板下から略奪者たちが押し寄せる — 彼女は補給用の樽を蹴り倒し、油を板張りの上に広げる。矢がヒュッと音を立ててかすめる中、混乱を切り抜けて戦い続ける。
+[9-12s] 船同士が横腹から衝突する — 彼女は二隻目のロングシップへ弾き飛ばされ、荒れた氷水の上にある手すりで略奪者と組み合う。彼を海へ投げ落とす。船団は狭い氷の水路を突き進み、船体がきしむ。
+[12-15s] 残るのは首長の船だけ — その船尾から略奪者たちが群がる。彼女は戦斧を取り戻し、最後の距離を突進する。斧と盾が燃え上がるように映える — 船団は霧の中へ櫂を進め続け、終わりのショットも、決着もない。
+Style: Viking action × high-speed sea chase, God of War grit × AAA game-trailer cinematography. Character consistent: iron-ringed braids, war-paint, fur-leather armor, axe and shield. Grounded physics, constant ship motion, escalating numbers. Palette: iron grey, fur brown, ice blue, blood red. 4K, cinematic, HDR.
+
+[Thread 3] @wavespeed_ai AI creators, don't miss this :- https://t.co/HmUw48lj8R
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082857529227542529/img/UbSRX13Hpa5whkBX.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082857838096126237.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082857838096126237.mp4)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2082857838096126237) | **公開日:** 2026年7月30日
+
+`Action` `Wuxia` `Action` `Chase` `Photoreal` `Historical` `Slow-Mo` `VFX`
+
+---
+
+### A high-quality, cinematic travel montage featuring a handsome young Caucasian…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+ライトブラウンの髪をしたハンサムな若い白人男性が、ライトブルーのリネンのボタンダウンシャツ、白いチノパン、白いスニーカーを身に着けている、高品質でシネマティックなトラベルモンタージュ。映像は、鮮やかなヨーロッパの各地をシームレスに移り変わる。壮麗なクラシカル建築から出てくる場面、セルフィースタイルのトラッキングショットで色鮮やかな石畳の花市場を歩く場面、日差しの差し込む屋外の歩道カフェでエスプレッソを飲む場面、緑豊かな川沿いの小道を自転車で走る場面、ミラノ大聖堂（ドゥオーモ）を見上げる場面、高くうねる緑の山稜をハイキングする場面、そして最後は岩の峰に立ち、腕を大きく広げて地平線の向こうに広がるゴールデンアワーの夕日を背にする場面で締めくくられる。ダイナミックなカメラワーク、豊かな自然光、フォトリアルな8k、シネマティックなトラベルVlogスタイル。
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082858023794667520/img/NGX_yOyKvMAMZiVB.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082858589287575685.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082858589287575685.mp4)**
+
+**作者:** [Zyrella](https://x.com/Zyrellix) | **ソース:** [Link](https://x.com/Zyrellix/status/2082858589287575685) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Travel Vlog` `Photoreal` `Realistic World`
+
+---
+
+### 4K 2.39:1 cinematic realistic action sequence, 90 second runtime, high…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+4K 2.39:1のシネマティックでリアルなアクションシーケンス、90秒のランタイム、高い制作価値。冒頭 0:00-0:15: ムーディーで温かみのあるブティックのスポットライトが、深い夜の影を貫き、ガラスのディスプレイケースが柔らかな金色にきらめく。低く漂う手持ちカメラが、フィットしたエメラルドのシルクガウンをまとい、鋭く制御された優雅さで動く、オリーブ色の肌に黒髪のヒロインを追う。0:15-0:60: 素早い whip pan が正確な martial arts を追い、彼女はディスプレイケースを飛び越える。120fpsのスローモーションが、ガラスの破片、ダイヤモンド、真珠が光の筋の中で輝く雨のように宙へ爆ぜる瞬間を捉える。彼女は磨き上げられた大理石の上を滑り、襲撃者を腕時計の棚へ投げ飛ばして、金属とガラスを滝のように崩れ落ちさせる。回転蹴りで最後の泥棒の武器を弾き飛ばす。0:60-0:90: ゆっくりと滑らかな push-in、彼女は瓦礫の中で呼吸を整えながら立ち、ソリティアのダイヤモンドリングを一つ拾い上げ、振り向いてレンズと鋭い緑の瞳を合わせ、かすかな静かな笑みを浮かべる。自然な物理挙動、控えめな motion blur、温かいアンバーの color grade、引き締まったダイナミックな framing、滑らかで一貫した motion。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082862725097762816/img/oCQ5x17qMlW-DP68.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082862744303554592.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082862744303554592.mp4)**
+
+**作者:** [Mimu | AI Tools & News](https://x.com/mimu_ai1) | **ソース:** [Link](https://x.com/mimu_ai1/status/2082862744303554592) | **公開日:** 2026年7月30日
+
+`Action` `Wuxia` `Photoreal` `Realistic World` `Slow-Mo`
+
+---
+
+### Cinematic anime short film clip, 15 seconds. Underground dance battle venue…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+シネマティックなアニメ短編クリップ、15秒。地下のダンスバトル会場。鮮やかに変化する色で光る大きな円形LEDダンスフロア — エレクトリックブルー、ホットピンク、パープル、グリーン、レッド — タイルが常に点灯と変化を繰り返し、上方からのドラマチックなストロボライトを厚い煙の霞が受け止める。観客は光るフロアを囲む暗いシルエットとしてのみ見える。
+
+CHARACTER: 若い男性ブレイクダンサー。ライトブラウンの肌、シャープで角張った顔立ち、フェードの入った短いダークヘア、明るく自信に満ちた目、細身でアスレチックな体型、10代後半。ゆったりした白のオーバーサイズTシャツ、だぶだぶの赤いカーゴパンツ、白いスニーカー、ゴールドチェーン、白いリストバンド。
+
+AUDIO: 重厚なヒップホップビートが1フレーム目から大音量で鳴り続け、すべての動きがビートに同期し、観客の反応音が全編で聞こえ、常に最も支配的。
+
+VIDEO: 1フレーム目から動作の途中で始まる。カットごとに異なるカメラアングル。各ムーブは前のものと完全に異なる。動きごとにフロアの色が変化する。
+
+[0:00-0:02] すでにウィンドミルの途中 — 光るフロアの上で身体が回転し、脚は空中、足元のタイルが赤と青に点灯。ローアングルで見上げる。カットして俯瞰、回転する彼を見下ろし、周囲を観客のシルエットが囲む。
+
+[0:02-0:03] 足で跳ね起きる — そのままヘッドスピンへ移行、脚を大きく開き、フロアはグリーンとパープルに変化。サイドプロフィール。回転する顔のクローズアップ。
+
+[0:03-0:04] Airflare — 両手を床につき、脚を水平に振り回し、身体は完全に水平、足元のフロアはホットピンク。ローアングルでライトを背に脚を見上げる。
+
+[0:04-0:05] Thomas flare — 脚を揃え、身体を反らせる、フロアはエレクトリックブルー。ワイドショット。俯瞰で見下ろす。
+
+[0:05-0:06] Jackhammer — 片手だけで全身を水平に支える、たった一つの手の下でフロアがパープルに爆発する。光るフロアに置かれた手の極端なクローズアップ。
+
+[0:06-0:07] 稲妻のように速いフットワーク、足がブレるほど速く、踏み込むたびにフロアタイルが点灯。光るタイル上の足のクローズアップ。上半身はサイドプロフィールでバウンス。
+
+[0:07-0:08] 1990 — 片手で回転し、身体全体がフロアの上でバランスを保ちながら回る、足元で色が狂ったように変化する。ローアングルで見上げる。
+
+[0:08-0:09] Deadman — いったん完全にうつ伏せになってから、手を使わずに爆発的に空中へ跳ね上がる、純粋な体幹の力。ワイドショット。観客が熱狂する。
+
+[0:09-0:10] なめらかなトップロックのフットワーク、ビートに合わせてフロアの色が脈打つ。落ち着いた自信ある顔のクローズアップ。ゴールドチェーンが色の光を受ける。
+
+[0:10-0:11] Halos — 頭で回転し、脚は完全に真上へ、完全な垂直姿勢、足元のフロアがあらゆる色で爆発する。真上からの俯瞰。
+
+[0:11-0:12] これまでより速いフレアを3連続、脚はブレ、観客は狂乱、フロアは赤、青、白へ。ローアングル — 俯瞰 — サイドプロフィールの高速連続。
+
+[0:12-0:15] HERO MOMENT. 空中へ跳び上がる — 回転 — 完璧なスプリット着地で光るフロアを滑るように移動 — フロアが同時に全色で爆発 — 観客が沸き上がる — ストロボライトが激しく閃く — 彼はスプリットの姿勢からカメラをまっすぐ見上げ、完全に落ち着いた表情、ゴールドチェーンが垂れる — カットしてブラックへ。暗闇の中で最後のビートヒット。
+
+シネマティックなセルシェーディング3Dアニメ、セミリアルなCGI、手描きテクスチャ、Unreal Engine品質、主光源としての鮮やかなLEDフロア、煙とストロボの雰囲気、デジタルペインティングの質感、ハードエッジのブラシワーク、濃い影、カートゥーンではない、Disneyではない、Pixarではない、フィルムグレイン、プレミアムなアニメ品質、ヒップホップビートと観客の音が全編で支配的
+
+--- THREAD CONTINUATION ---
+[Thread 1] Audaのキャラクターシート用プロンプト:
+
+“AUDAという名のブレイクダンサーのための、プレミアムでシネマティックなキャラクターバイブルシートを作成してください。アップロードされたキャラクターシートを、彼の正確な顔、体、プロポーション、髪型、肌の色、衣装の厳密なビジュアル参照として使用してください。外見は変更しないでください。
+
+LEFT SIDE: 左上に大きく太いグラフィティ風のブラシストローク文字でAUDA。ラフで表現豊か、鮮やかなエレクトリックブルー、背後に控えめなパープルの影、ストリートアートのような雰囲気。その下に小さく: BREAKDANCER / THE FLOOR IS HIS STAGE。直下に、Audaの全身が入ったダイナミックなヒーローイメージを1枚大きく配置 — airflareの途中、両手を床につき、脚が空中で水平に回転、身体は完全に水平、下には複数色に光るカラフルなLEDフロア、上からドラマチックなストロボライトが当たり、周囲に煙の霞、箱やフレームなし、白いページ上に直接、1フレームに全エネルギーを収める。
+
+CENTER: TURNAROUNDと小さくクリーンな文字でラベルされたセクション。全身の3ビュー: Front, Side, Back。参照と同じキャラクター、同じ衣装、同じプロポーション。下にSTYLEセクションとして、3つの小さなディテールイラスト — ゴールドチェーン、白いリストバンド、白いスニーカーのソール。
+
+RIGHT SIDE: DETAILSセクション。4つのクリーンなクローズアップパネルのグリッド: 正面の顔の自信ある表情、明るく集中した目、色の光を受けるゴールドチェーンのクローズアップ、光るLEDフロアタイル上のスニーカーのクローズアップ。下にCOLOR PALETTE — white, red, gold, electric blue, hot pink。右下に細めで太いフォントのタグライン: EVERY FLOOR IS HIS STAGE.
+
+OVERALL: クリーンな白背景、ヒーローポーズの背後に鮮やかなマルチカラーLEDの光のスプラッシュが外側
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082862680352636929/img/kXocAGRnZD4iLz4x.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082862750653469147.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082862750653469147.mp4)**
+
+**作者:** [TechieSA](https://x.com/TechieBySA) | **ソース:** [Link](https://x.com/TechieBySA/status/2082862750653469147) | **公開日:** 2026年7月30日
+
+`Music & Dance` `Dance` `3D Animation` `Realistic World` `VFX`
+
+---
+
+### Create a 12-second Studio Ghibli-inspired animated video in a soft, hand-drawn…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+12秒のStudio Ghibli風アニメーション動画を、柔らかな手描き風スタイルで、温かみのある自然光、豊かな緑、そして穏やかな雨の雰囲気とともに作成してください。白いフリル袖を着た人物が伝統的な木製の引き戸式ガラスドアを開けて、雨に濡れた庭を見せ、咲き誇るレモンの枝の下に手を伸ばして熟したレモンを手のひらで受け止めます。その後、窓から差し込む日差しの中で白いじょうろを使って室内の鉢植えに水をやり、最後に雨の降る窓辺で陶器のティーポットから湯気の立つホットレモンティーをカップに注ぎ、やさしい雨音と柔らかなピアノ音楽に包まれた、心地よく静かなムードを演出してください。
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082863529607217152/img/UVM3SC59XY7WSUiK.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082863678064648326.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082863678064648326.mp4)**
+
+**作者:** [⁠ luciaAI](https://x.com/luciaverseai) | **ソース:** [Link](https://x.com/luciaverseai/status/2082863678064648326) | **公開日:** 2026年7月30日
+
+`Story` `Heartwarming` `Food` `Drinks` `Hand-drawn` `Realistic World` `ASMR`
+
+---
+
+### High-quality 3D animated cartoon, stylized modern family-animation film
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+高品質な3Dアニメーションのカートゥーン、スタイライズされた現代的なファミリーアニメ映画のルック。大きな頭、表情豊かな大きな目、誇張されたプロポーション、なめらかで丸みのある粘土のような3D表面、サブサーフェス・スキャタリングの肌、鮮やかなライティング。リアルではない、実写ではない。  
+若い男性。オーバーサイズのジップフーディー、ジーンズ、スニーカー、首にかけたヘッドホン。コーヒーカップを持ちながら、広い屋内の階段を軽快に駆け下りる。リラックスして自信たっぷりに、2段ずつ降りていく。  
+0〜4秒：彼の横に並ぶ中距離のトラッキングショット。軽やかなリズムで階段を弾むように降り、音楽に合わせて少しうなずき、完全に無意識のまま進む。  
+4〜7秒：足が一段ずつ着地する様子を低いアングルで捉える。リズムが高まるにつれてゆっくりと寄り、下では緊張感のある戦太鼓のパーカッションが盛り上がっていく。  
+7〜9秒：彼は階段の下に着くが、足がもう一段あるかのように空を蹴り出してしまう。ホイップカットでワイドショットへ。体全体が激しく前方へよろめき、腕をばたつかせ、コーヒーカップが手から飛び、目は大きく見開かれ、口は声にならない叫びの形で開く。  
+9〜12秒：スローモーション。バランスを取ろうとしながら、混乱したまま3歩よろめいて前へ進む。上半身は足よりも大きく前に倒れ、コーヒーが彼の周囲でゆっくりと弧を描きながら宙に浮かび、片手は何もない空をつかもうとする。  
+12〜15秒：リアルタイムに戻る。彼は体勢を立て直し、棒のようにまっすぐ固まった、妙に整ったポーズで静止する。コーヒーカップは彼の横にやわらかなスプラット音を立てて落ちる。彼はゆっくりフーディーを整え、誰かに見られたか確認するように周囲を見回し、凍りついたような威厳を保つ。  
+Camera: 階段を下りるトラッキングショット、足運びのリズムに合わせた低い寄り、よろめきでワイドへホイップカット、よろめきのフォローをスローモーションで追う、回復ポーズを静止したワイドで保持。  
+AUDIO: リズムに合わせた安定した足音、踏み出すたびに高まる緊張感のある戦太鼓のパーカッション、幻の一段で鳴るひときわ大きく劇的なドラムヒット、その後のスローモーションのよろめき中は完全な無音で、小さく絞り出すような悲鳴だけが聞こえる。コーヒーが落ちるときにやわらかなスプラット音、その後、彼が体勢を整える際に一度だけ気まずい三角鉄の「チン」という音。  
+鮮やかで飽和した色彩、明るく清潔な屋内の昼光、なめらかでスタイライズされた3Dキャラクターデザイン、ファミリーアニメの美学、テキストなし、ウォーターマークなし、16:9。  
+FORBIDDEN: 特定のスタジオ名やフランチャイズへの言及なし、読めるテキストやロゴなし、リアルまたは実写風のレンダリングなし、デザインの逸脱なし、実際の転倒や負傷なし。彼はバランスを取り戻す。  
+
+--- THREAD CONTINUATION ---  
+[Thread 1] 高品質な3Dアニメーションのカートゥーン、スタイライズされた現代的なファミリーアニメ映画のルック。大きな頭、表情豊かな大きな目、誇張されたプロポーション、なめらかで丸みのある粘土のような3D表面、サブサーフェス・スキャタリングの肌、鮮やかなライティング。リアルではない、実写ではない。  
+若い男性。オーバーサイズのジップフーディー、ジーンズ、スニーカー、首にかけたヘッドホン。コーヒーカップを持ちながら、広い屋内の階段を軽快に駆け下りる。リラックスして自信たっぷりに、2段ずつ降りていく。  
+0〜4秒：彼の横に並ぶ中距離のトラッキングショット。軽やかなリズムで階段を弾むように降り、音楽に合わせて少しうなずき、完全に無意識のまま進む。  
+4〜7秒：足が一段ずつ着地する様子を低いアングルで捉える。リズムが高まるにつれてゆっくりと寄り、下では緊張感のある戦太鼓のパーカッションが盛り上がっていく。  
+7〜9秒：彼は階段の下に着くが、足がもう一段あるかのように空を蹴り出してしまう。ホイップカットでワイドショットへ。体全体が激しく前方へよろめき、腕をばたつかせ、コーヒーカップが手から飛び、目は大きく見開かれ、口は声にならない叫びの形で開く。  
+9〜12秒：スローモーション。バランスを取ろうとしながら、混乱したまま3歩よろめいて前へ進む。上半身は足よりも大きく前に倒れ、コーヒーが彼の周囲でゆっくりと弧を描きながら宙に浮かび、片手は何もない空をつかもうとする。  
+12〜15秒：リアルタイムに戻る。彼は体勢を立て直し、棒のようにまっすぐ固まった、妙に整ったポーズで静止する。コーヒーカップは彼の横にやわらかなスプラット音を立てて落ちる。彼はゆっくりフーディーを整え、誰かに見られたか確認するように周囲を見回し、凍りついたような威厳を保つ。  
+Camera: 階段を下りるトラッキングショット、足運びのリズムに合わせた低い寄り、よろめきでワイドへホイップカット、よろめきのフォローをスローモーションで追う、回復ポーズを静止したワイドで保持。  
+AUDIO: リズムに合わせた安定した足音、踏み出すたびに高まる緊張感のある戦太鼓のパーカッション、幻の一段で鳴るひときわ大きく劇的なドラムヒット、その後のスローモーションのよろめき中は完全な無音で、小さく絞り出すような悲鳴だけが聞こえる。コーヒーが落ちるときにやわらかなスプラット音、その後、彼が体勢を整える際に一度だけ気まずい三角鉄の「チン」という音。  
+鮮やかで飽和した色彩、明るく清潔な屋内の昼光、なめらかでスタイライズされた3Dキャラクターデザイン、ファミリーアニメの美学、テキストなし、ウォーターマークなし、16:9。  
+FORBIDDEN: 特定のスタジオ名やフランチャイズへの言及なし、読
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082867624786935808/img/37bfKCCjnvJFehYA.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082868756326363315.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082868756326363315.mp4)**
+
+**作者:** [Jay Nwabueze](https://x.com/jaynwabueze) | **ソース:** [Link](https://x.com/jaynwabueze/status/2082868756326363315) | **公開日:** 2026年7月30日
+
+`Story` `Twist` `3D Animation` `Realistic World` `Slow-Mo`
+
+---
+
+### 4K 2.39:1 cinematic slow-motion sequence, 90 second runtime, ethereal…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+4K 2.39:1のシネマティックなスローモーションシーケンス、90秒のランタイム、幻想的でフォトリアルな水中スタイル。冒頭のワイドなトラッキングショットは、浸水した大広間の床から10フィート上を滑るように進み、温かく輝くシャンデリアが、マーブルの上に踊るようなキャスティックな金色の光を投げかける。流れるような黒髪、陶器のような肌、深紅のシルクドレスをまとった若い女性が、無重力のワルツを踊るように動き、布地は液体のインクのようにたなびく。ゆっくりと滑らかなカメラが彼女の周囲を回り、無数の小さな銀色の魚がリボンのように渦を巻き、気泡がきらめく柱となって立ち上る。漂う楽譜、バラの花びら、シャンパングラスが通り過ぎ、傾いたグランドピアノの鍵盤は水流に合わせてやさしく揺れる。中盤のスロークローズアップでは、回転の最中に見せる彼女の穏やかな暗い瞳を捉え、髪とドレスがほどけるように広がる。最後の上向きのドリーショットは、彼女が上昇していくのを追い、表面から柔らかなボリューメトリックなゴッドレイが差し込み、彼女はゆっくりと片方の淡い手をレンズに向かって伸ばす。幻想的なブルーゴールドのカラーグレーディング、完璧になめらかなモーション、自然な水中物理、夢のように瞑想的なテンポ。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082887913759731712/img/Qzk67Vfnj-Y6VZGH.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082888153430725075.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082888153430725075.mp4)**
+
+**作者:** [Nafis Ahmed](https://x.com/iam_nafisahmed) | **ソース:** [Link](https://x.com/iam_nafisahmed/status/2082888153430725075) | **公開日:** 2026年7月30日
+
+`Story` `Drama` `Photoreal` `Realistic World` `Slow-Mo`
+
+---
+
+### The frame begins completely black and empty.
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+フレームは完全な黒で、何もない状態から始まる。
+
+ショットの最初の70パーセント — 文字が書かれる
+墨の筆致がフレーム内に現れ、左から右へ、まるで目に見えない書道筆で書かれているかのように、ストロークごとに文字を形作っていく。各ストロークは一端から始まり、素早く反対側へ伸び、乾いた刷毛の質感を残しながら、その軌跡に沿ってインクが広がっていく。文字は読む順に、一文字ずつ順番に構築され、決して一度に全部は現れず、フェードインもしない。
+
+この書き込みのフェーズ全体を通して、G の内側にある虎の目は完全に閉じたままである。まぶたは固く閉じられ、細い暗い継ぎ目を作っているが、それは背景と見分けがつかないほどの完全な黒である。書き込み中、フレーム内のどこにも琥珀色も、オレンジも、ゴールドも、その他いかなる色も見えない。G の内部は空の黒として読まれる。
+
+ショットの最後の30パーセント — 下線と目が同時に起こる
+すべての文字が完成し、文字列が静止してから初めて、最後の2つの出来事が始まる。そしてそれらは同時に始まる。
+
+一本の長い水平の筆致が、文字列の下を左から右へ素早く掃くように走り、ひと続きの自信ある動きで伸び、右端では細く乾いた先端へとすぼまる。
+
+その瞬間、G の内側にある閉じた虎の目が開く。まぶたは細い暗い継ぎ目から上下に分かれ、開口部は上と下へ広がっていき、ついには琥珀がかった金色の虹彩と黒い縦長の瞳孔が G の内部全体を端から端まで満たし、あらゆる側で筆致に接する。目は素早く開き、そのまま落ち着く。これは、このショットで色が現れる最初で唯一の瞬間である。
+
+全体を通して
+一度描かれた文字列は、決して動かず、漂わず、形や位置も変えない。文字は伸びて完成するだけであり、歪んだり、変形したり、揺れたり、形を作り直したりしない。カメラは完全に固定され、静止している。いかなるカメラ移動もない。ズームも、プッシュも、ドリフトも、揺れもない。
+
+見える手も、見える筆も、腕も、人もいない。インクの飛び散りも、滴りも、煙も、粒子もない。フェードインも、ディゾルブも、グローも、光線もない。背景はショット全体を通して、完全な純黒のまま、何もない状態を保つ。
+
+ネガティブ
+書き込みのフェーズ中、目が開いていたり、見えていたり、色がついていたりしてはならない。下線が始まるまで、フレーム内のどこにも琥珀色、オレンジ、ゴールドは存在してはならない。目はフェードインしたり、明るくなったり、大きくなったりせず、まぶたが開くことで開く。文字列が完成する前に、目が現れてはならない。
+
+--- 引用ツイート ---
+これは、この「logo animation」実験からのボツ案のいくつかでした。
+
+適切な prompts があれば、Midjourney は本当にものすごいことができる！ https://t.co/tNYxFuJgGC
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082923343976493057/img/hEm0Fc3CByer06wt.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082926707871244566.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082926707871244566.mp4)**
+
+**作者:** [Monique Pryce](https://x.com/second_bassoon) | **ソース:** [Link](https://x.com/second_bassoon/status/2082926707871244566) | **公開日:** 2026年7月30日
+
+`Scenery & Spectacle` `Micro` `Hand-drawn` `Realistic World` `Transformation`
+
+---
+
+### Create a 2*4 storyboard for the product in the image 1
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+画像1の製品について、2×4のストーリーボードを作成してください。  
+ストーリーボードのフレーム2では、チョコレートとミルクの混合物に、ピスタチオ、ナッツ、キャラメルをたっぷり加えてください。フレーム3では、バーを見せてチョコレートシロップを注いでください。
+
+--- THREAD CONTINUATION ---
+[Thread 1] @gmi_cloud prompt: (あなたの製品画像を使用)
+
+画像1の製品について、2×4のストーリーボードを作成してください。  
+ストーリーボードのフレーム2では、チョコレートとミルクの混合物に、ピスタチオ、ナッツ、キャラメルをたっぷり加えてください。フレーム3では、バーを見せてチョコレートシロップを注いでください。
+
+[Thread 2] @gmi_cloud それに加えて、粘度の高い流体のHoudiniエフェクトも入れ、バーの層も見せてください。最上層はキャラメルで、光沢があり、やや不透明にしてください。フレーム4ではズームし、フレーム5ではバーを追加して、ミルクの代わりにキャラメルとチョコレートの流体がバーの周りを渦巻くようにしてください。
+
+[Thread 3] @gmi_cloud フレーム6は包装されたバー、フレーム7は包装なしのバー単体で、カフェ背景にしてください。フレーム8では、バーを高級感のあるグリーンの皿の上に置き、その後ろにパッケージを配置してください。色はロレックスグリーンとその色調を使用してください。
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082935543713693696/img/NebU-xXLVRxfhwIy.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082935724102545594.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082935724102545594.mp4)**
+
+**作者:** [Hakan KadirOglu](https://x.com/Hakankadir_oglu) | **ソース:** [Link](https://x.com/Hakankadir_oglu/status/2082935724102545594) | **公開日:** 2026年7月30日
+
+`Product Ad` `F&B` `Photoreal` `Realistic World` `Creative Asset`
+
+---
+
+### 15-second cinematic action sequence aboard a magnetic levitation war train…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+夜のディストピア砂漠を猛スピードで駆け抜ける磁気浮上式の戦闘列車上で繰り広げられる、15秒のシネマティックなアクションシーケンス。遠方では電気嵐が巨大な産業廃墟を照らしている。
+0.0–3.0s: 低い追従ショットで列車の側面に沿って疾走しながら、サイバー侍が磁気外装パネルの上を走り抜け、ブーツの下で火花が弾ける。
+3.0–6.0s: クロム装甲の暗殺者がホバリングするドローン輸送機から列車の屋根へ降下し、ネオンのカタナが嵐の中で青い光を放つ。
+6.0–9.0s: 最初の剣の激突で電気のアークが列車の屋根を走り、頭上では稲妻がスローモーションで閃く。
+9.0–12.0s: 不安定な車両の上で高速の決闘が展開し、列車が瓦礫や崩れ落ちる構造物を突き破る中、両者は今にもバランスを崩しそうになる。
+12.0–15.0s: 大規模な空撮の引きで、暗い荒野を切り裂くように輝く列車が映し出され、最後尾車両の上ではなお決闘が続いている。
+---
+```
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082960688457064448/img/pd29yUeegsxtq-y3.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082960848444596581.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082960848444596581.mp4)**
+
+**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **ソース:** [Link](https://x.com/AllaAisling/status/2082960848444596581) | **公開日:** 2026年7月30日
+
+`Action` `Wuxia` `Photoreal` `Sci-Fi` `VFX` `Slow-Mo` `FPV & Aerial`
 
 ---
 
@@ -2222,3417 +5372,9 @@ AI character model -> anime character sheet -> visual story bible -> storyboard 
 
 ---
 
-### Raw street guerrilla bodycam POV, pure real-world footage, chaotic handheld…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-生々しいストリートのゲリラ的なボディカムPOV、完全な実写映像、混沌とした手持ちのエネルギー、自然光、速く不完全な動き、ライブ感のある未加工の映像。
-
-0-7s: [Bodycam POV] ヘルメットカムの視点は、完全に空っぽの食料品店の正面入口に固定されている。パニックに陥った複数の人々が自動ドアから次々と、途切れることなく外へ流れ出てくる――一人、また一人、さらにその次も――出ていくたびに肩越しに振り返りながら。オペレーターの手が何度も激しくフレーム内に入り込み、強く追い払うように手を振り、通りの先を指さして、全員をさらに先へ進ませる。人々が出ていく流れが続く中、絶え間ない反応的なカメラの揺れと、切迫したストリートの空気が漂う。
-
-7-9s: [Bodycam POV] 最後の一人がドアをくぐった瞬間、敷居で激しくつまずき、顔からアスファルトに叩きつけられる。ほとんど見えない力が即座にその脚をつかみ、高速で引き戻し、体を地面を引きずりながら暗い店内へ完全に引きずり込む。直後、店内から生々しい悲鳴が爆発する。
-
-9-15s: [Thermal Vision] 右手が素早く上がり、ヘルメットの側面ボタンを押す。サーマルバイザーが勢いよく目元に降りる。映像がサーマルに切り替わる。食料品店の中では、熱源の輪郭が、すでに引きずり込まれた人物に絡みついている多脚のクリーチャーをはっきりと映し出す。その人物はもがき、這い、床の上を逃れようとするが、クリーチャーの複数の脚が素早く締まり、引き戻し、完全に捕らえる。揺れ続け、反応し続けるサーマルのボディカム映像が6秒間続く。
-
-フォトリアルな生々しいボディカム、自然な物理法則、一貫した動き、本物のストリートの混沌
-
---- THREAD CONTINUATION ---
-[Thread 1] @capcutapp でこのプロンプトを使って作成（text to video）👇
-
-生々しいストリートのゲリラ的なボディカムPOV、完全な実写映像、混沌とした手持ちのエネルギー、自然光、速く不完全な動き、ライブ感のある未加工の映像。
-
-0-7s: [Bodycam POV] ヘルメットカムの視点は、完全に空っぽの食料品店の正面入口に固定されている。パニックに陥った複数の人々が自動ドアから次々と、途切れることなく外へ流れ出てくる――一人、また一人、さらにその次も――出ていくたびに肩越しに振り返りながら。オペレーターの手が何度も激しくフレーム内に入り込み、強く追い払うように手を振り、通りの先を指さして、全員をさらに先へ進ませる。人々が出ていく流れが続く中、絶え間ない反応的なカメラの揺れと、切迫したストリートの空気が漂う。
-
-7-9s: [Bodycam POV] 最後の一人がドアをくぐった瞬間、敷居で激しくつまずき、顔からアスファルトに叩きつけられる。ほとんど見えない力が即座にその脚をつかみ、高速で引き戻し、体を地面を引きずりながら暗い店内へ完全に引きずり込む。直後、店内から生々しい悲鳴が爆発する。
-
-9-15s: [Thermal Vision] 右手が素早く上がり、ヘルメットの側面ボタンを押す。サーマルバイザーが勢いよく目元に降りる。映像がサーマルに切り替わる。食料品店の中では、熱源の輪郭が、すでに引きずり込まれた人物に絡みついている多脚のクリーチャーをはっきりと映し出す。その人物はもがき、這い、床の上を逃れようとするが、クリーチャーの複数の脚が素早く締まり、引き戻し、完全に捕らえる。揺れ続け、反応し続けるサーマルのボディカム映像が6秒間続く。
-
-フォトリアルな生々しいボディカム、自然な物理法則、一貫した動き、本物のストリートの混沌
-
-気に入ってもらえたらうれしいです！🫡
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082410816083550208/img/gaHU85XDg4LQdvJr.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082411198285250615.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082411198285250615.mp4)**
-
-**作者:** [TechHalla](https://x.com/techhalla) | **ソース:** [Link](https://x.com/techhalla/status/2082411198285250615) | **公開日:** 2026年7月29日
-
-`Horror` `Monster Chase` `Photoreal` `Realistic World` `POV` `VFX`
-
----
-
-### Opening (0-2s): Close-up slow pan over the sleek new Apple Watch case – showing…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-オープニング（0〜2秒）：新しいApple Watchの洗練されたケースをクローズアップでゆっくりパン。洗練されたエッジ、より大きな常時表示ディスプレイ、上質な仕上げを見せ、クリスタルスクリーンに柔らかな陽光がきらめく。テキストオーバーレイ：新しいApple Watch。
-
-中盤（2〜7秒）：日常の瞬間をテンポよく、なめらかなカットで見せる：
-ユーザーが心拍数や睡眠トラッキングなどの高度な健康指標を確認する
-タップひとつでメッセージにシームレスに返信する
-高精度GPSでランニングを記録する
-手首を軽くタップして支払いをする
-すべてのアニメーションは流動的で、ミニマルかつエレガント。
-
-エンディング（7〜10秒）：柔らかなニュートラル背景を背に、手首に着けたWatchが中央に配置され、その下に象徴的なAppleロゴが現れる。ナレーションの雰囲気：落ち着いていて、自信に満ちている。最終テキスト：Essential. Iconic. Yours.
-
-スタイルメモ：ごちゃつきのない構成、自然な色合い、プレミアムなサウンドデザイン — 柔らかな環境音に、軽やかで高揚感のあるメロディをミックス。
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082415076129058816/img/x4Vu2aAZ5d-Nd01L.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082415121003888800.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082415121003888800.mp4)**
-
-**作者:** [Abkr Sadiq](https://x.com/abs_uiux) | **ソース:** [Link](https://x.com/abs_uiux/status/2082415121003888800) | **公開日:** 2026年7月29日
-
-`Product Ad` `Tech` `Photoreal` `Realistic World` `Slow-Mo` `Macro`
-
----
-
-### Create a 15-second 16:9 cinematic outdoor lifestyle commercial for a hiking…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-15秒・16:9のシネマティックなアウトドア・ライフスタイルCMを、ハイキング用バックパック「Weight of the Journey」のために制作する。
-
-スタイル：プレミアムなアウトドア・エディトリアル、自然体で演出感のない表現、明るい夏の山の光、オーガニックな手持ちカメラの動き、リアルな生地の質感、見えるリップストップナイロンのグリッド、柔らかく動く影、そよ風、速いが上品な映像リズム、フォトリアルな4K。
-
-動画全体を通して、同じハイキング用バックパックを一貫して維持すること。すべてのショットで、同じ形、色、ストラップ、バックル、ジッパー、ブランドマーク、そして全体デザインを保つこと。
-
-0–2秒：
-バックパックのディテールを極端なマクロショットでオープンする：リップストップナイロンのグリッド、ステッチ、ジッパーの歯、バックル、ウェビング。水滴が生地に落ち、きれいに転がり落ちる様子を見せる。太陽光が表面を滑るように移動し、質感とクラフトマンシップを際立たせる。
-
-2–4秒：
-主要ディテールのクイックなエディトリアル・モンタージュ：ショルダーストラップ、コンプレッションストラップ、曲線的なシルエット、スムーズに閉まるジッパー、カチッと閉まるバックル、そして手で持ち上げられるバックパック。バッグは軽く、かつ耐久性がある印象。
-
-4–7秒：
-ハイカーがバックパックを片方の肩にかけ、山道を歩き始める。歩くたびに自然なバックパックの揺れを見せる。木々の間から差し込む陽光がちらつき、生地は自然にしなり、ゆるんだストラップはそよ風にやさしく揺れる。
-
-7–10秒：
-トレイルが開け、景色の良い展望地へ。背の高い草や岩場を歩くハイカーを、より広いシネマティックなショットで捉える。風がバックパックとストラップを揺らす。バッグが身体や風景と自然に連動して動く様子を見せる。
-
-10–12.5秒：
-クラフトマンシップのマクロ・モンタージュ：リップストップナイロン、補強ステッチ、通気性のある背面パネル、バックル、ジッパー、そして滑らかな生地表面。光と影が素材の上を自然に移り変わる。
-
-12.5–14秒：
-ハイカーが山の展望ポイントで立ち止まり、バックパックを下ろして、日差しの当たる岩の上にそっと置く。生地は自然に形を落ち着かせる。
-
-14–15秒：
-屋外に置かれたバックパックの最終ヒーロークローズアップ。ゆるんだストラップはそよ風にやさしく揺れ続け、太陽光がブランドマークの上を移動する。
-
-最終画面テキスト：
-「すべての旅のために。」
-
-カメラ：超マクロのディテールショット、手持ちのクローズアップ製品モーション、歩行に合わせた追従ショット、そしてシネマティックなワイドの屋外フレームを組み合わせる。
-
-オーディオ：温かみのあるアナログシンセと柔らかなパーカッションを伴う、ミニマルなインディーフォーク。山の風、鳥のさえずり、生地のはためき、砂利道を踏む足音、ジッパー音、バックルのクリック音、葉擦れを加える。セリフなし、ナレーションなし。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082348558607622144/img/FFxgiUreb74IdU94.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082415840545099941.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082415840545099941.mp4)**
-
-**作者:** [Ima Studio](https://x.com/ImaStudio_ai) | **ソース:** [Link](https://x.com/ImaStudio_ai/status/2082415840545099941) | **公開日:** 2026年7月29日
-
-`Product Ad` `Luxury` `Photoreal` `Realistic World` `Macro` `ASMR`
-
----
-
-### @image1 完全按照参考图呈现,不重新设计角色、铠甲与巨剑。
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-@image1 参考画像を完全に再現し、キャラクター、鎧、巨大剣は再デザインしないこと。
-
-シーン: 真っ黒な砕石の平地。周囲に背景はない。光源は彼女の紫色の炎の剣と、斬り裂かれた岩の断面のみ。
-
-灰黒色の岩のゴーレム6体が円陣を組み、彼女を中央に閉じ込めている。身長は彼女の3倍、胴体には亀裂が走り、関節部から暗赤色の光が漏れている。
-
-剣刃は紫色の炎で、振るうと空中に紫の残像が滞留し、消えない。ゴーレムの斬られた断面は溶融した橙赤色で、燃え続ける。
-
-スタイル: 2.5D劇場版アニメ、セルルック塗りに厚塗りの光影、シャープな線。命中の瞬間には純白の衝撃フレームを挿入。高速の剣さばきには筆致感のあるスピードライン、素早い移動では三重残像、回転や斬撃の間には引き伸ばされ変形した中間フレームを入れる。16:9、4K、24fps、15秒。
-
-動きは実際の人体力学に従うこと: 剣を出す前に肩が先に回り、腕が後から追いつく。着地時は膝で衝撃を吸収し、方向転換のたびに明確な重心移動と踏み込みがある。
-
-カメラは1.5秒ごとに角度を変え、同じ角度は繰り返さない。彼女が高速移動している間はカメラ固定、カメラが動くときは彼女は静止する。
-
-音: 剣刃が燃える低い唸り、岩が砕ける音、ゴーレムの関節がこすれる重い摩擦音、剣が空を裂く音、溶岩の断面がジュッと鳴る音、彼女の短い息遣い。音楽なし。
-
-0-2秒 低い地面すれすれのワーム視点でゆっくり前進: 六体のゴーレムの巨大な足裏が四方八方から画面内へ踏み込んでくる。地面は一歩ごとに震え、砕石が跳ねる。彼女は円の中心に立ち、右手で剣を下げ持ち、親指で鍔を押し上げる——紫の炎が柄から剣先へと走り、刃全体に火が灯る。下からの炎光が彼女の顔を照らす。左足を半歩後ろに引き、重心を落とす。
-
-2-3.5秒 正面広角・完全静止: 彼女が踏み込みで消え、画面には横切る紫の残像だけが残る。1体目のゴーレムは肩から腰まで斜めに斬り裂かれ、半拍遅れて上半身が断面に沿ってゆっくり滑り落ち、切り口から溶岩が噴き上がる。純白の衝撃フレームを挿入。
-
-3.5-5秒 側面の地面すれすれ追跡: 2体目のゴーレムの巨拳が振り下ろされる。彼女は右膝を沈め、全身を地面すれすれに滑り込ませて拳の下をくぐる。滑走中に右手首を内旋させて剣先を上向きにし、滑り込みの終わりの反動で立ち上がりながら斬り上げる。ゴーレムは股下から頭頂まで裂け、左右に倒れ込む。紫の火線が空中に残る。
-
-5-6.5秒 高速の円周加速: 彼女は2体のゴーレムの間へ跳び込み、左足を軸にその場で1回転。右腕を完全に伸ばし、剣先で最大半径の軌跡を描く。3体目と4体目は同時に胴切りされ、4つの胴体が外側へ滑り開く。カメラは彼女の周囲を半周、加速しながら回り、スピードラインが画面端から中心へ収束する。
-
-6.5-8秒 ゴーレム視点の俯瞰クローズアップ: 5体目の巨大な手が側面から閉じ、彼女を丸ごと握り込む。剣は押し曲げられ、紫の炎が指の隙間から必死に漏れ出す。カメラはゴーレムの頭部の高さから見下ろし、彼女は目の前に持ち上げられる。肩は圧迫で歪むが、視線は揺らがない。
-
-8-9.5秒 ダッチアングルの仰角上昇: 彼女は両手で剣柄を逆手に握り、勢いよく掌を貫いて突き刺す。炎は亀裂に沿ってゴーレム内部へと燃え広がる。岩は内部から層ごとに爆裂し、彼女は爆風に乗って崩れた破片を蹴って飛び出す。身体は空中で大きく伸び、背後では巨体が崩壊していく。
-
-9.5-11.5秒 高空からの急降下追跡: 最後の1体は他よりはるかに巨大で、両腕を高く掲げて彼女へ叩き落とす。彼女は空中で腹を引き込み半回転し、両手で剣を頭上に掲げ、全身を伸ばして上から下へ垂直に斬り下ろす。紫の炎が頭部を貫き、股下まで一気に裂く。カメラも彼女とともに急降下し、スピードラインが放射状に画面を埋める。純白の衝撃フレームを挿入。
-
-11.5-13秒 広角の横移動からスローモーションへ: 彼女は片膝で着地し、巨大剣を地面に突いて衝撃を受け止める。砕石が上から雨のように降り注ぐ。カメラが横にスライドし、全景を見せる——6体のゴーレムの断面が同時に燃え上がり、空中に残る紫の剣跡と橙赤の溶岩が絡み合って、一面の光の網を作る。
-
-13-15秒 ゆっくり引いて静止: 彼女は立ち上がり、手首を振って剣を払う。紫の炎は剣先から少しずつ消え、刃の中へと沈み込む。同時に6体の残骸が一斉に轟音を立てて倒れ、灰が空いっぱいに舞い上がる。彼女は剣を下げたまま中央に立ち、髪と裾が爆風で持ち上がったあと、ゆっくりと落ち着く。彼女は視線を上げてカメラを見る。画面は静止し、徐々に暗転する。
-
---- THREAD CONTINUATION ---
-[Thread 1] midjourney V8.2 prompt:
-
-2.5D anime character design, a calm female young swordswoman powerful violet void energy aura erupting around the body, glowing energy particles rising, dramatic rim lighting, intricate costume and armor detail, crisp cel shading with semi-realistic depth and volume, dark atmospheric background, anime key visual, full body --ar 16:9 --profile iuo8lb2 m4yho9z --stylize 700 --hd --v 8.2
-
-[Thread 2] seedance 2.0 prompt in Chinese: @image1 参考画像を完全に再現し、キャラクター、鎧、巨大�
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082415574173523968/img/csaoxMixRQAqnnRh.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082416114156667118.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082416114156667118.mp4)**
-
-**作者:** [Cia0](https://x.com/Cia0_exe) | **ソース:** [Link](https://x.com/Cia0_exe/status/2082416114156667118) | **公開日:** 2026年7月29日
-
-`Action` `Wuxia` `Anime 2D` `Fantasy` `VFX` `Slow-Mo` `POV`
-
----
-
-### 15 seconds | 16:9 | live-action documentary/news footage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-15秒 | 16:9 | ライブアクションのドキュメンタリー／ニュース映像
-GTA VIの発売日。
-超リアルな実写映像。
-異なるロケーションとカメラをまたぐ、テンポの速いマルチショットのストーリーテリング。
-
-STORY
-長年の期待の末、ついに真夜中が訪れる。ゲームショップの外では群衆が祝福し、プレイヤーたちは家へ急ぎ、配信者たちはライブを始め、最初のパッケージが開封される。
-
-00–02s — MIDNIGHT
-夜、満員のゲームショップの外を捉えた広角の手持ち映像。
-
-店頭ディスプレイ:
-GTA VI — AVAILABLE NOW
-
-何百人ものファンがカウントする:
-“THREE! TWO! ONE!”
-
-ドアが開く。群衆が沸き、頭上にはスマホが掲げられ、カメラは自然に揺れる。
-
-02–04s — FIRST COPY
-店内の混乱した手持ち映像。
-
-店員が、興奮した客にGTA VIの最初の1本を手渡す。
-
-彼はケースを一瞬高く掲げ、周囲の人々が歓声を上げ、撮影し、混み合う空間を押し分ける。
-
-04–06s — CITY REACTION
-にぎやかな街路での縦型スマホ映像。
-
-巨大なデジタルビルボードが切り替わり、表示される:
-GTA VI
-OUT NOW
-
-人々が立ち止まって撮影する。車が前景を横切る。
-
-誰かが走り抜けながら叫ぶ:
-“IT’S FINALLY HERE!”
-
-スマホはビルボードの露出にうまく対応できない。
-
-06–08s — RACE HOME
-生活感のあるアパートの中での手持ちスマホ映像。
-
-2人の友人がゲームを抱えて飛び込んできて、コンソールの電源を入れ、ソファに倒れ込む。
-
-“Bro, load it!”
-
-08–10s — FIRST BOOT
-テレビに表示されたGTA VIのロード画面を、肩越しに捉えたスマホ映像。
-
-プレイヤーたちは画面の光に照らされながら身を乗り出す。
-
-1人が静かに言う:
-“No way…”
-
-オートフォーカスがシルエットとテレビの間で揺れる。
-
-10–12s — INTERNET EXPLODES
-高速モンタージュ:
-
-ライブで反応する配信者。
-満員のゲーミングカフェ。
-GTA VIの投稿をスクロールするスマホ。
-テレビの周りで祝う友人たち。
-ゲームショップの袋を運ぶ配達員。
-
-12–15s — THE MOMENT
-元の店の外に戻る。
-
-人々がコピーやグッズを手に店を出ていく中、群衆はなおも祝福を続けている。
-
-カメラが、ライトアップされたGTA VIの店頭へと傾く。
-
-ファンがカメラのすぐ近くを通り過ぎる:
-
-“See you in Vice City.”
-
-カメラオペレーターが小さく笑う。
-唐突で自然なカット。
-
-CAMERA
-本物の発売日ドキュメンタリー映像。
-
-プロのイベントカメラ、ニュースカメラ、一般向けスマートフォン、縦型のソーシャル映像、配信用ウェブカメラをミックスする。
-
-ハードカット。
-反応的な手持ちの動き。
-群衆による遮り。
-オートフォーカスの迷い。
-露出の変動。
-自然なモーションブラー。
-スマホカメラのノイズ。
-不完全なフレーミング。
-
-AUDIO
-群衆のカウントダウン、歓声、交通音、店内のざわめき、足音、重なり合う会話、コンソール音、配信者のリアクション。
-
-音声はカメラソースごとに自然に切り替わる。
-
-シネマティックなサウンドトラックはなし。
-
-REALISM
-巨大な現実世界のローンチの最中に、一般の人々やジャーナリストが撮影した本物の映像。
-
-自然な反応と予測不能な群衆。
-スマホが画面を遮る。
-リアルな夜間露出。
-実用的なライティング。
-スマートフォンと放送用の圧縮。
-
-スローモーションなし。
-完璧な振り付けなし。
-光沢のあるCM的な演出なし。
-CGIっぽさなし。
-人工的なカメラ移動なし。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082418634958475264/img/MXSg5xp2VEvTGPf_.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082421140639916420.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082421140639916420.mp4)**
-
-**作者:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **ソース:** [Link](https://x.com/Diplomeme/status/2082421140639916420) | **公開日:** 2026年7月29日
-
-`Story` `Drama` `Photoreal` `Realistic World`
-
----
-
-### Ultra-realistic premium food commercial. Static camera. Pure black background…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-超写実的なプレミアムフードコマーシャル。固定カメラ。純黒の背景。ティラミスは常に中央に配置される。マクロフードフォトグラフィー、シネマティックなスタジオライティング、浅い被写界深度、物理的に正確なマテリアル、リアルなクリームの物理挙動、プレミアムなデザート広告品質。エレガントでミニマルなモーショングラフィックス。テキストなし、ロゴなし、ネオンなし、明るいHUDエフェクトなし、レンズフレアなし。
-0.0–1.0s
-完成したティラミスが、完璧に整列した浮遊レイヤーへと一瞬で垂直に爆発する。チョコレート装飾、ココアパウダー、マスカルポーネクリームの塊、フィンガービスケット、クリーム層が素早くクリーンな動きで上方に分離し、その直後に空中で静止する。小さなココア粒子がデザートの周囲に自然に漂う。
-1.0–2.0s
-エレガントな丸みのあるガラス製インターフェースパネルが、滑らかなスプリングアニメーションで浮遊する素材の周囲に現れる。細い白いコネクターラインが、各素材から対応するパネルへ自動的に伸びる。各パネルは透明なダークガラス、極細の白い縁取り、控えめな影を備える。どこにもテキストは表示しない。
-2.0–5.5s
-各パネル内では、フォトリアルなミニチュアループ動画が同時に再生される：
-• チョコレートが溶け、テンパリングされ、カールする；
-• カカオ豆がココアパウダーへ変わる；
-• マスカルポーネクリームが滑らかな質感にホイップされる；
-• フィンガービスケットが焼かれて冷やされる；
-• エスプレッソが抽出され、フィンガービスケットに染み込む。
-各動画の上には、対応する素材のクリーンな3Dアイコンが表示される。インターフェースのアニメーションは、プレミアムなスプリングモーションで極めて控えめに保たれる。細いコネクターラインは素材に完全に接続されたまま維持される。素材は空中で完全に静止したまま。
-5.5–6.8s
-すべてのミニチュア動画が同時に停止する。インターフェースパネルは滑らかに縮小し、内側へ折りたたまれる。コネクターラインは優雅に引き戻され、すべてのウィンドウが完全に消える。
-6.8–8.2s
-浮遊していたすべての素材が同時に戻り、ティラミスを層ごとに完璧に再構築する。クリームはやわらかく圧縮され、ココアは自然に落ち着き、チョコレート装飾は元の位置に固定される。デザートは冒頭のフレームと同一になる。
-8.2–10.0s
-美しい女性の手が、プレミアムなシルバーのデザートスプーンを持って右側から滑らかに入ってくる。スプーンがゆっくりとティラミスに押し込まれる。マスカルポーネクリームは目に見えて圧縮され、伸び、自然に揺れ、極めて柔らかいことを示す。スプーンは各層をきれいに切り進み、デザートの約半分を持ち上げる。クリームは分離する前にゆっくりと伸びる。コーヒーを染み込ませたしっとりしたフィンガービスケット、ふわふわのマスカルポーネ層、ココアが断面で明確に見える。小さなクラムやココア粒子がやさしく落ちる。持ち上げられたスプーンは、クリーミーな一口が完全に見える状態でデザートの横に静止し、残ったティラミスは自然な形を保つ。
-Style: luxury food commercial, ultra-realistic, cinematic macro photography, premium studio lighting, elegant infographic animation, minimalist UI, transparent dark glass panels, ultra-thin white connector lines, physically accurate food simulation, smooth spring animation, realistic cream deformation, high-end motion design, 8K, maximum realism.
-
---- THREAD CONTINUATION ---
-[Thread 1] Seedance Prompt (10s, 16:9)
-
-超写実的なプレミアムフードコマーシャル。固定カメラ。純黒の背景。ティラミスは常に中央に配置される。マクロフードフォトグラフィー、シネマティックなスタジオライティング、浅い被写界深度、物理的に正確なマテリアル、リアルなクリームの物理挙動、プレミアムなデザート広告品質。エレガントでミニマルなモーショングラフィックス。テキストなし、ロゴなし、ネオンなし、明るいHUDエフェクトなし、レンズフレアなし。
-0.0–1.0s
-完成したティラミスが、完璧に整列した浮遊レイヤーへと一瞬で垂直に爆発する。チョコレート装飾、ココアパウダー、マスカルポーネクリームの塊、フィンガービスケット、クリーム層が素早くクリーンな動きで上方に分離し、その直後に空中で静止する。小さなココア粒子がデザートの周囲に自然に漂う。
-1.0–2.0s
-エレガントな丸みのあるガラス製インターフェースパネルが、滑らかなスプリングアニメーションで浮遊する素材の周囲に現れる。細い白いコネクターラインが、各素材から対応するパネルへ自動的に伸びる。各パネルは透明なダークガラス、極細の白い縁取り、控えめな影を備える。どこにもテキストは表示しない。
-2.0–5.5s
-各パネル内では、フォトリアルなミニチュアループ動画が同時に再生される：
-• チョコレートが溶け、テンパリングされ、カールする；
-• カカオ豆がココアパウダーへ変わる；
-• マスカルポーネクリームが滑らかな質感にホイップされる；
-• フィンガービスケットが焼かれて冷やされる；
-• エスプレッソが抽出され、フィンガービスケットに染み込む。
-各動画の上には、対応する素材のクリーンな3Dアイコンが表示される。インターフェースのアニメーションは、プレミアムなスプリングモーションで極めて控えめに保たれる。細いコネクターラインは素材に完全に接続されたまま維持される。素材は空中で完全に静止したまま。
-5.5–6.8s
-すべてのミニチュア動画が同時に停止する。インターフェースパネルは滑らかに縮小し、内側へ折りたたまれる。コネクターラインは優雅に引き戻され、すべてのウィンドウが完全に消える。
-6.8–8.2s
-浮遊していたすべての素材が同時に戻り、ティラミスを層ごとに完璧に再構築する。クリームはやわらかく圧縮され、ココアは自然に落ち着き、チョコレート装飾は元の位置に固定される。デザートは冒頭のフレームと同一になる。
-8.2–10.0s
-美しい女性の手が、プレミアムなシルバーのデザートスプーンを持って
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082421839167660032/img/GeGW6NziERyfiBlp.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082422104243495194.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082422104243495194.mp4)**
-
-**作者:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **ソース:** [Link](https://x.com/ElsaSofia__AI/status/2082422104243495194) | **公開日:** 2026年7月29日
-
-`Food` `Plating` `Product Ad` `F&B` `Photoreal` `Realistic World` `Macro` `VFX`
-
----
-
-### Hyper-realistic 10s high-fashion commercial, vertical 9:16. Fast cuts synced to…
-
-#### 📝 プロンプト
-
-```
-超リアルな10秒のハイファッションCM、縦型9:16。ドラムに同期した高速カット、ハンドヘルドカメラ、高コントラスト、自然光、浅い被写界深度、重いドラムとエレキギターが効いたエネルギッシュなロックビート。whip pan、snap zoom、白いストロボフラッシュのトランジションフレーム、さりげないグリッチ効果。REALなフォトリアルの人間の女性、自然な肌の質感と見える毛穴、アニメではない、カートゥーンではない、CGではない。Use
-Burry as the ONLY face and outfit reference; keep her facial likeness, hairstyle and exact outfit consistent in every shot. 0-2s HOOK: medium-close shot, she looks confidently into the lens, slightly shaky handheld, a small confident smile. She says in English: "Hey, look here." Cut hard on a guitar drop. 2-4s BURST: rapid cuts on the drums, full-body confident stance, smash cut to a low-angle hero shot, white strobe flash, quick crouch as the camera drops with her, snap zoom to an outfit detail, hair moving, confident smirk. 4-7s PLAYFUL: erratic handheld, she leans toward the lens with slight wide-angle distortion, a quick spin with frame skips and glitch, a playful confident shrug. She says in English: "Keep up with me." Cut sharp on the beat. 7-10s ENDING: rhythm slows but stays intense, close-up of her hand adjusting a collar/sleeve detail, side-profile with a soft smile, hair brushing across her face in slow motion, she looks into the camera: "This is my vibe." End on a white flash frame and a snap-zoom freeze-frame pose. Audio: confident female English voice, energetic rock, punchy drums, electric guitar. Style: high-fashion editorial, tasteful and confident, focus on outfit styling and attitude, NOT a body-part closeup, no sexualized framing. No text, subtitles, logos or watermark.
-
---- THREAD CONTINUATION ---
-[Thread 1] 超リアルな10秒のハイファッションCM、縦型9:16。ドラムに同期した高速カット、ハンドヘルドカメラ、高コントラスト、自然光、浅い被写界深度、重いドラムとエレキギターが効いたエネルギッシュなロックビート。whip pan、snap zoom、白いストロボフラッシュのトランジションフレーム、さりげないグリッチ効果。REALなフォトリアルの人間の女性、自然な肌の質感と見える毛穴、アニメではない、カートゥーンではない、CGではない。Use
-Burry as the ONLY face and outfit reference; keep her facial likeness, hairstyle and exact outfit consistent in every shot. 0-2s HOOK: medium-close shot, she looks confidently into the lens, slightly shaky handheld, a small confident smile. She says in English: "Hey, look here." Cut hard on a guitar drop. 2-4s BURST: rapid cuts on the drums, full-body confident stance, smash cut to a low-angle hero shot, white strobe flash, quick crouch as the camera drops with her, snap zoom to an outfit detail, hair moving, confident smirk. 4-7s PLAYFUL: erratic handheld, she leans toward the lens with slight wide-angle distortion, a quick spin with frame skips and glitch, a playful confident shrug. She says in English: "Keep up with me." Cut sharp on the beat. 7-10s ENDING: rhythm slows but stays intense, close-up of her hand adjusting a collar/sleeve detail, side-profile with a soft smile, hair brushing across her face in slow motion, she looks into the camera: "This is my vibe." End on a white flash frame and a snap-zoom freeze-frame pose. Audio: confident female English voice, energetic rock, punchy drums, electric guitar. Style: high-fashion editorial, tasteful and confident, focus on outfit styling and attitude, NOT a body-part closeup, no sexualized framing. No text, subtitles, logos or watermark.
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082426486242578432/img/8vUSBlBGT_7PAnUl.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082426510385062259.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082426510385062259.mp4)**
-
-**作者:** [MapleShaw](https://x.com/msjiaozhu) | **ソース:** [Link](https://x.com/msjiaozhu/status/2082426510385062259) | **公開日:** 2026年7月29日
-
-`Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `Slow-Mo` `VFX`
-
----
-
-### Storyboard Prompt – Banana-Shaped Multifunction Fruit Basket (9:16 Vertical, 10…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-ストーリーボード用プロンプト – バナナ型多機能フルーツバスケット（9:16 縦型、10秒）
-
-タイトル: Cute & Aesthetic Banana-Shaped Multifunction Basket
-
-Duration: 10 seconds
-Format: 9:16 Vertical
-Style: Minimalist, Bright Aesthetic, Cozy Home Decor, POV Hands, Soft Natural Daylight, Premium Product Commercial, TikTok Viral Style
-
-Scene 1 (0–2.5s) – Product Reveal
-
-Visual:
-POVの手が、黒い先端を持つリアルな黄色いバナナを円形に並べたようなユニークなフルーツバスケットを、やさしく持ち上げて見せる。バスケットは、明るいモダンなキッチンの清潔な白い大理石のカウンターの上に置かれており、背景には柔らかな自然光、白い陶器の花瓶、本、花、ミニマルなデコレーションが見える。
-
-Camera:
-Close-up → Slow Push In
-
-Action:
-手がバナナ型バスケットをゆっくり回転させ、細部まで作り込まれたデザインと滑らかな仕上げを見せる。
-
-Emotion:
-好奇心、驚き、感嘆。
-
-Dialogue/Text:
-"Wait... I thought these were real bananas
-
-Scene 2 (2.5–5s) – Fruit Storage
-
-Visual:
-トップダウン視点で、手が新鮮な赤いリンゴ、オレンジ、洋ナシ、その他カラフルなフルーツをバナナバスケットに入れていく。フルーツはぴったり収まり、すっきり整った美しい見た目になる。
-
-Camera:
-Top Down → Slow Orbit
-
-Action:
-満足感のある美しい構図を保ちながら、手際よくフルーツを中に並べる。
-
-Emotion:
-満足感、整然さ。
-
-Dialogue/Text:
-"Perfect for keeping fruits fresh and your kitchen beautiful."
-
-Scene 3 (5–7.5s) – Multi-Purpose Use
-
-Visual:
-マクロのクローズアップで、手がフルーツを取り出し、代わりに茶色い卵を入れることで、このバスケットの多用途性を示す。どの動きも滑らかで心地よい。
-
-Camera:
-Macro Close-up
-
-Action:
-バスケットは、フルーツボウルから上品な卵入れへと瞬時に変わる。
-
-Emotion:
-感心、驚嘆。
-
-Dialogue/Text:
-"Not just for fruits... it stores eggs beautifully too
-
-Scene 4 (7.5–10s) – Final Lifestyle Shot
-
-Visual:
-花、本、キャンドル、ニュートラルトーンのホームアクセサリーの隣に、バナナバスケットがモダンなキッチンアイランドの上に上品に置かれているワイドショット。すべてが清潔で、ラグジュアリーで、Pinterest風に見える。
-
-Camera:
-Slow Pull Back
-
-Action:
-カメラがゆっくり引いて、バスケットを主役にしながら、アestheticなキッチン全体を見せる。
-
-Emotion:
-居心地のよさ、上品さ、高級感。
-
-Dialogue/Text:
-"Cute, practical, and the perfect kitchen centerpiece.
-
-Overall Style
-
-Ultra-realistic product commercial, bright soft lighting, warm color grading, photorealistic textures, realistic hands, smooth cinematic camera movement, clean white kitchen, premium home decor aesthetic, satisfying product showcase, high-end lifestyle advertising, 4K HDR, ultra-detailed, shallow depth of field, TikTok/Reels optimized.
-
---- THREAD CONTINUATION ---
-[Thread 1] ストーリーボード用プロンプト – バナナ型多機能フルーツバスケット（9:16 縦型、10秒）
-
-タイトル: Cute & Aesthetic Banana-Shaped Multifunction Basket
-
-Duration: 10 seconds
-Format: 9:16 Vertical
-Style: Minimalist, Bright Aesthetic, Cozy Home Decor, POV Hands, Soft Natural Daylight, Premium Product Commercial, TikTok Viral Style
-
-Scene 1 (0–2.5s) – Product Reveal
-
-Visual:
-POVの手が、黒い先端を持つリアルな黄色いバナナを円形に並べたようなユニークなフルーツバスケットを、やさしく持ち上げて見せる。バスケットは、明るいモダンなキッチンの清潔な白い大理石のカウンターの上に置かれており、背景には柔らかな自然光、白い陶器の花瓶、本、花、ミニマルなデコレーションが見える。
-
-Camera:
-Close-up → Slow Push In
-
-Action:
-手がバナナ型バスケットをゆっくり回転させ、細部まで作り込まれたデザインと滑らかな仕上げを見せる。
-
-Emotion:
-好奇心、驚き、感嘆。
-
-Dialogue/Text:
-"Wait... I thought these were real bananas
-
-Scene 2 (2.5–5s) – Fruit Storage
-
-Visual:
-トップダウン視点で、手が新鮮な赤いリンゴ、オレンジ、洋ナシ、その他カラフルなフルーツをバナナバスケットに入れていく。フルーツはぴったり収まり、すっきり整った美しい見た目になる。
-
-Camera:
-Top Down → Slow Orbit
-
-Action:
-満足感のある美しい構図を保ちながら、手際よくフルーツを中に並べる。
-
-Emotion:
-満足感、整然さ。
-
-Dialogue/Text:
-"Perfect for keeping fruits fresh and your kitchen beautiful."
-
-Scene 3 (5–7.5s) – Multi-Purpose Use
-
-Visual:
-マクロのクローズアップで、手がフルーツを取り出し、代わりに茶色い卵を入れることで、このバスケットの多用途性を示す。どの動きも滑らかで心地よい。
-
-Camera:
-Macro Close-up
-
-Action:
-バスケットは、フルーツボウルから上品な卵入れへと瞬時に変わる。
-
-Emotion:
-感心、驚嘆。
-
-Dialogue/Text:
-"Not just for fruits... it stores eggs beautifully too
-
-Scene 4 (7.5–10s) – Final Lifestyle Shot
-
-Visual:
-花、本、キャンドル、ニュートラルトーンのホームアクセサリーの隣に、バナナバスケットがモダンなキッチンアイランドの上に上品に置かれているワイドショット。すべてが清潔で、ラグジュアリーで、Pinterest風に見える。
-
-Camera:
-Slow Pull Back
-
-Action:
-カメラがゆっくり引いて、バスケットを主役にしながら、アestheticなキッチン全体を見せる。
-
-Emotion:
-居心地のよさ、上品さ、高級感。
-
-Dialogue/Text:
-"Cute, practical, and the perfect kitchen centerpiece. 
-
-Overall Style
-
-Ultra-realistic product commercial, bright soft lighting, warm color grading, photorealistic textures, realistic hands, smooth cinematic camera movement, clean white kitchen, premium home decor aesthetic, satisfying product showcase, high-end lifestyle advertising, 4K HDR, ultra-detailed, shallow depth of field, TikTok/Reels optimized.
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082427641240715264/img/_wKoVy6MAszlipNY.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082427682692677902.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082427682692677902.mp4)**
-
-**作者:** [Hania Ai](https://x.com/HaniaAi12) | **ソース:** [Link](https://x.com/HaniaAi12/status/2082427682692677902) | **公開日:** 2026年7月29日
-
-`Product Ad` `Home` `Photoreal` `Realistic World` `POV` `Macro` `Slow-Mo`
-
----
-
-### POV, first-person perspective, ultra realistic cinematic renovation timelapse…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-POV、第一人称視点、超リアルなシネマティックなリノベーション・タイムラプス、動画全体を通してカメラ位置は完全に固定、同じ部屋の形状、同じ窓、同じ比率、同じ構図、各ショットで環境とやり取りするリアルな男性の両手が常に見えている。非常にダイナミックなカメラ、手持ちの微細な揺れ、speed ramps、whip pans、motion blur、高速トランジション、リアルな建設粉塵、破片の粒子、自然光が徐々に清潔な白いモダン照明へと変化していく。すべての動作は前のシーンから論理的に連続している。
-
-Scene 1 (0.0-1.0s)
-完全に放置された部屋。汚れたコンクリート床、塗装が剥がれたひび割れた壁、むき出しの天井、露出した配線、建設廃材、ゴミ袋、木片、バケツ、工具があちこちに散乱している。家具のない空っぽの部屋。手が部屋を見回す。
-
-Scene 2 (1.0-2.0s)
-手がゴミを素早くゴミ袋に集め、大きな廃材を取り除き、建設廃棄物を運び出す。動作の合間に高速な whip transition。粉塵があたり一面に舞う。
-
-Scene 3 (2.0-3.0s)
-手が金属スクレーパーを使って古い塗装と傷んだ下地を削り落とす。壁から塊が落ちる。高速のクローズアップ、飛び散る破片、激しい動き。
-
-Scene 4 (3.0-4.0s)
-壁が補修され、滑らかになる。手が大きなペイントローラーでプライマーを塗る。カメラがローラーの動きを追う。濡れた壁の質感がはっきり見える。
-
-Scene 5 (4.0-5.0s)
-手がローラーで壁を純粋なマットホワイトに塗る。部屋が一気に明るくなる。壁面ごとに高速な jump cut。
-
-Scene 6 (5.0-6.0s)
-部屋の周囲に白い巾木を取り付ける。同時に、天井のくぼみ部分にLEDストリップ照明を設置する。明るい白色LEDが部屋の周囲で順番に点灯していく。
-
-Scene 7 (6.0-7.0s)
-第一人称視点で、ライトオークのラミネートフローリングを敷く。各板が気持ちよく所定の位置にロックされる。床が部屋全体へと急速に広がっていく。
-
-Scene 8 (7.0-8.0s)
-白いウィンドウブラインドを取り付ける。右側の壁に、参照画像とまったく同じように白い幾何学的な3D吸音壁パネルを設置する。清潔でモダンなミニマルインテリアが姿を現し始める。
-
-Scene 9 (8.0-9.0s)
-長い白いミニマルデスクを組み立てる。天板、引き出し、モニター棚を取り付ける。ケーブルマネジメントで配線を下に隠す。人間工学に基づいた白いゲーミングチェアを置く。ウルトラワイドの曲面モニターを設置する。強化ガラスとRGBファンを備えた白いゲーミングPCを置く。白いスピーカー、キーボード、マウス、マイク、植物、時計、アクセサリーを配置する。すべてがリアルな組み立てとともに順番に現れる。
-
-Scene 10 (9.0-10.0s)
-LED照明を点灯する。RGBファンが光る。曲面モニターが起動する。最終的な部屋は参照画像と完全に一致する。同じ白いミニマルなゲーミングルーム、同じ家具配置、同じ照明、同じウルトラワイドモニター、同じゲーミングPC、同じデスクレイアウト。左手は白いゲームコントローラーを持ち、右手は参照とまったく同じようにセットアップに向けて開かれている。ゆっくりとしたシネマティックな push-in で終了。
-
-Style:
-Photorealistic, 8K, cinematic, Unreal Engine quality, HDR, highly detailed textures, physically accurate materials, realistic hands, consistent room layout, consistent camera height, realistic renovation workflow, smooth object continuity, high energy editing, seamless transitions, speed ramps, action-focused, no people visible except first-person hands., 16:9
-
---- THREAD CONTINUATION ---
-[Thread 1] POV、第一人称視点、超リアルなシネマティックなリノベーション・タイムラプス、動画全体を通してカメラ位置は完全に固定、同じ部屋の形状、同じ窓、同じ比率、同じ構図、各ショットで環境とやり取りするリアルな男性の両手が常に見えている。非常にダイナミックなカメラ、手持ちの微細な揺れ、speed ramps、whip pans、motion blur、高速トランジション、リアルな建設粉塵、破片の粒子、自然光が徐々に清潔な白いモダン照明へと変化していく。すべての動作は前のシーンから論理的に連続している。
-
-Scene 1 (0.0-1.0s)
-完全に放置された部屋。汚れたコンクリート床、塗装が剥がれたひび割れた壁、むき出しの天井、露出した配線、建設廃材、ゴミ袋、木片、バケツ、工具があちこちに散乱している。家具のない空っぽの部屋。手が部屋を見回す。
-
-Scene 2 (1.0-2.0s)
-手がゴミを素早くゴミ袋に集め、大きな廃材を取り除き、建設廃棄物を運び出す。動作の合間に高速な whip transition。粉塵があたり一面に舞う。
-
-Scene 3 (2.0-3.0s)
-手が金属スクレーパーを使って古い塗装と傷んだ下地を削り落とす。壁から塊が落ちる。高速のクローズアップ、飛び散る破片、激しい動き。
-
-Scene 4 (3.0-4.0s)
-壁が補修され、滑らかになる。手が大きなペイントローラーでプライマーを塗る。カメラがローラーの動きを追う。濡れた壁の質感がはっきり見える。
-
-Scene 5 (4.0-5.0s)
-手がローラーで壁を純粋なマットホワイトに塗る。部屋が一気に明るくなる。壁面ごとに高速な jump cut。
-
-Scene 6 (5.0-6.0s)
-部屋の周囲に白い巾木を取り付ける。同時に、天井のくぼみ部分にLEDストリップ照明を設置する。明るい白色LEDが部屋の周囲で順番に点灯していく。
-
-Scene 7 (6.0-7.0s)
-第一人称視点で、ライトオークのラミネートフローリングを敷く。各板が気持ちよく所定の位置にロックされる。床が部屋全体へと急速に広がっていく。
-
-Scene 8 (7.0-8.0s)
-白いウィンドウブラインドを取り付ける。右側の壁に、参照画像とまったく同じように白い幾何学的な3D吸音壁パネルを設置する。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082429985491402753/img/kbiXuoVVto4jkS9Z.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082430239460794473.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082430239460794473.mp4)**
-
-**作者:** [KreviX](https://x.com/LadyyEth) | **ソース:** [Link](https://x.com/LadyyEth/status/2082430239460794473) | **公開日:** 2026年7月29日
-
-`Product Ad` `Home` `Photoreal` `Realistic World` `POV` `Transformation` `VFX`
-
----
-
-### Raw street guerrilla bodycam POV, pure real-world emergency footage, authentic…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-生々しいストリートのゲリラ的ボディカムPOV、完全な現実世界の緊急映像、本物の警察ヘルメットカメラ、混沌とした手持ちのエネルギー、自然光、荒い呼吸、途切れがちな無線のやり取り、不完全なオートフォーカス、ローリングシャッターの揺れ、圧縮アーティファクト、リアルな物理挙動、一貫したモーション、連続した途切れのないワンテイク、ドキュメンタリー的リアリズム、シネマティックなフレーミングなし。
-
-0-7秒: [Bodycam POV]
-ヘルメットカムは、完全に放棄された食料品店の正面入口に固定されている。警告もなく、怯えきった市民の絶え間ない波が自動ドアを突き破るように飛び出してくる。人々は互いにぶつかり合い、買い物袋を落とし、散乱した果物や割れたガラスで滑り、よろめきながら立ち上がっては振り返ることもなく全力で逃げ去る。何人かは支離滅裂に叫びながら、必死に背後を指さしている。オペレーターは入口から人々を強引に押しのけ、肩をつかみ、何度も通りの先へ行くよう手で追い払う。ショッピングカートが勝手に歩道を転がっていく。自動ドアは何度も閉まろうとするが、そのたびに激しく跳ね返るように開く。近くで車の警報が鳴り始める。鳥たちが突然、空へと散っていく。絶え間ない必死のボディカムの揺れ、素早い頭の動き、荒い呼吸、そして圧倒的な路上の混乱。
-
-7-9秒: [Bodycam POV]
-最後の生存者が出入口をよろめきながら抜け出し、顔から地面に叩きつけられる。空気には、短く不自然な静寂が漂う。すると突然、人体よりも太く、あり得ない関節構造を持つ巨大で青白い肢が、店内の闇から爆発するように飛び出す。それは一瞬で生存者の胴体と脚に巻きつく。被害者は必死にコンクリートをかきむしり、擦り傷を残しながら、脱げた靴や食料品があたり一面に散乱する。巨大な肢は激しく後方へ引き戻し、相手を半ば宙に持ち上げたまま、恐るべき速度で闇の中へ引きずり込む。両者が消えた瞬間、自動ドアは勢いよく閉まる。店内からは、耳をつんざく叫び声、棚が崩れ落ちる音、そして深く非人間的な衝撃音が一斉に噴き出す。
-
-9-15秒: [Thermal Vision]
-オペレーターは反射的にヘルメットのサーマル・バイザーのボタンを押し込む。バイザーが機械音とともに下がり、表示は不安定なサーマル映像へ切り替わる。食料品店の内部では、巨大で変化し続ける熱源が建物の奥側のほぼ全域を占めている。単一の身体というより、互いに重なり合う巨大な肢が絶えず動きながら折り重なっている塊のように見える。ひとつの巨大な発光する肢が、捕らわれた生存者にきつく巻きついたままで、ほかの複数の肢があり得ない角度から急速に収束してくる。生存者はもがき、這い、出口へ手を伸ばすが、巨大な肢はさらに締めつけ、動く塊の中心へと引きずり込む。重なり合う肢の下にその熱源は徐々に消えていき、やがて巨大な生物だけが見えるようになる。オペレーターが本能的に後ずさると、一本の細長いサーマルの肢が突然カメラへ向かって鞭のように襲いかかる。バイザーは激しいノイズで弾け、映像は一瞬フリーズし、その後、唐突にブラックアウトする。
-
-フォトリアルな生のボディカム映像、本物の緊急対応のリアリズム、信じられる人間の反応、自然な物理法則、恐るべきスケール、容赦ないテンポ、地に足のついたホラー、一貫した連続モーション、極めて没入感が高い、シネマティックなスローモーションなし、様式化なし。
-
---- 引用ツイート ---
-Seedance 2.0 の純粋なカオス・プロンプトは以下 👇 https://t.co/2zotMdm1zZ
-
---- スレッド継続 ---
-[Thread 1] 生々しいストリートのゲリラ的ボディカムPOV、完全な現実世界の緊急映像、本物の警察ヘルメットカメラ、混沌とした手持ちのエネルギー、自然光、荒い呼吸、途切れがちな無線のやり取り、不完全なオートフォーカス、ローリングシャッターの揺れ、圧縮アーティファクト、リアルな物理挙動、一貫したモーション、連続した途切れのないワンテイク、ドキュメンタリー的リアリズム、シネマティックなフレーミングなし。
-
-0-7秒: [Bodycam POV]
-ヘルメットカムは、完全に放棄された食料品店の正面入口に固定されている。警告もなく、怯えきった市民の絶え間ない波が自動ドアを突き破るように飛び出してくる。人々は互いにぶつかり合い、買い物袋を落とし、散乱した果物や割れたガラスで滑り、よろめきながら立ち上がっては振り返ることもなく全力で逃げ去る。何人かは支離滅裂に叫びながら、必死に背後を指さしている。オペレーターは入口から人々を強引に押しのけ、肩をつかみ、何度も通りの先へ行くよう手で追い払う。ショッピングカートが勝手に歩道を転がっていく。自動ドアは何度も閉まろうとするが、そのたびに激しく跳ね返るように開く。近くで車の警報が鳴り始める。鳥たちが突然、空へと散っていく。絶え間ない必死のボディカムの揺れ、素早い頭の動き、荒い呼吸、そして圧倒的な路上の混乱。
-
-7-9秒: [Bodycam POV]
-最後の生存者が出入口をよろめきながら抜け出し、顔から地面に叩きつけられる。空気には、短く不自然な静寂が漂う。すると突然、人体よりも太く、あり得ない関節構造を持つ巨大で青白い肢が、店内の闇から爆発するように飛び出す。それは一瞬で生存者の胴体と脚に巻きつく。被害者は必死にコンクリートをかきむしり、擦り傷を残しながら、脱げた靴や食料品があたり一面に散乱する。巨大な肢は激しく後方へ引き戻し、相手を半ば宙に持ち上げたまま、恐るべき速度で闇の中へ引きずり込む。両者が消えた瞬間、自動
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082432224054718464/img/tlNHkaR9tWZP47-_.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082432264252899360.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082432264252899360.mp4)**
-
-**作者:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211) | **ソース:** [Link](https://x.com/Ankit_patel211/status/2082432264252899360) | **公開日:** 2026年7月29日
-
-`Horror` `Monster Chase` `Photoreal` `Realistic World` `POV` `VFX`
-
----
-
-### 真人实拍 + 2D 动漫贴纸合成搞笑短视频
-
-#### 📝 プロンプト
-
-```
-実写 + 2D アニメステッカー合成のコメディ短尺動画
-【スタイル】
-実写 + Flat 2D Sticker Composite のコメディ短尺動画。
-一人称の料理視点で、写実的なキッチンの質感とフラットなカートゥーンステッカースタイルの強烈な対比を作る。
-全体は Live-Action + Flat 2D Cartoon Sticker のミックス表現。
-画面はリアルなキッチン実写、キャラクターは終始純粋な 2D 平面ステッカー質感を保つ Q 版カートゥーンキャラクター。
-8K 超高精細、縦画面、手持ちの軽い揺れ、短尺動画らしいテンポの良さ、笑いのツボはストレートに。
-【尺】
-10 秒
-【画幅】
-9:16 縦画面
-一、シーン設定
-【シーン】
-リアルな家庭のキッチンを一人称視点で。
-黒い鉄鍋がコンロの上にあり、鍋の中では牛肉と青菜を炒めていて、油がジュウジュウと光り、湯気が立ちのぼっている。
-背景には以下を含める：
-白いタイル壁
-
-壁のコンセント
-壁際に並んだ醤油瓶と油のボトル
-
-右側のステンレス製シンク
-側面の窓から自然光が差し込む
-
-全体の環境は生活感のあるリアルな空間で、キッチンの質感が信頼できるものでなければならず、カートゥーンのキッチンになってはいけない。
-カメラは一人称 POV、軽い手持ちの揺れはあるが、揺れすぎないこと。
-二、キャラクター設定
-【キャラクター】Q 版アニメステッカーキャラクター：水豚噜噜（Capybara Lulu）
-設定要件：
-丸くて可愛い擬人化カートゥーンのカピバラ
-
-正面を向いて画面中央やや下に立つ
-
-身長は鉄鍋の半分ほど
-
-フラットな 2D ステッカー質感
-
-はっきりしたカートゥーンの輪郭線
-
-紙片感が強い
-
-立体的なリアル動物にしてはいけない
-現実の環境光で写実的な立体光影に作り変えないこと
-
-外見の固定設定：
-体は淡い黄色
-
-オレンジの短パンを着用
-
-首に黄色い小さなエプロンをつける
-
-頭の上に小さなオレンジを乗せている
-
-4 本の小さな短い爪は豆のように丸い
-
-頭と顔の比率が大きい
-
-全体として、ふわっと可愛い紙片ステッカーキャラのように見えること
-
-キャラクターの雰囲気：
-
-普段はのんびりマイペース
-
-でも悪さを始めるとやたら手慣れている
-
-表情はニヤニヤしていて、いたずらっぽさが強い
-
-【実写部分】
-実写の手はリアルなスタイルで、画面右側から入ってくる。
-肌のディテールは本物らしく、毛穴が見えること。2D キャラクターとの明確な対比を作る。
-
-三、ショット設計
-
-【ショット 1｜00:00–00:03】
-
-塩をぶちまけるいたずら（Salt Avalanche Opening）
-
-【カメラ位置】
-一人称の俯瞰 POV
-
-【画面の動き】
-実写の手が、鍋の中の牛肉と青菜を鍋返しで炒めている。
-水豚噜噜はコンロ脇の小さな木のスツールに座り、豆のような目を細め、頬の赤みを濃くし、口元を上げてニヤニヤした悪い笑みを浮かべる。
-両方の小さな短い爪で、自分の頭より大きいガラスの調味料瓶を高く持ち上げ、真人が炒めている隙に、白い塩を瓶ごと鍋へザーッと流し込む。
-
-塩は本物の滝のように勢いよく落ち、はっきり鍋の中へ入り、具材の上に大げさだが見て分かる「小さな白い塩山」を作ること。
-
-【キャラクター表情】
-
-豆のような目を細める
-
-口元に悪い笑み
-
-いたずら成功で得意げ
-
-【効果音】
-食材のジュウジュウ音
-塩が鍋に入る密集したサラサラ音
-
-【このショットで唯一の主要アクション】
-水豚噜噜が塩を瓶ごと鍋に入れる。
-【ショット 2｜00:03–00:05】
-瓶を奪って頭をコツン（Spatula Bonk）
-【カメラ位置】
-引き続き一人称の近景 POV
-【画面の動き】
-実写の手が素早く、抱えていたガラスの塩瓶を奪い取る。
-もう一方の手で鍋返しを持ち、ヘラ面を下にして、水豚噜噜の頭頂を軽くコツンと叩く。
-
-注意：これは カートゥーン的な軽いコツン であり、現実的な暴力表現ではない。
-叩かれた直後、その頭の上に目立つ赤いカートゥーンのたんこぶがすぐに飛び出す。
-丸っこい 2D ステッカーの体が上下にビクッと大きく震え、小さな短い爪はすぐに頭を抱え、豆のような目が一気に見開かれる。
-【キャラクター表情】
-驚き
-しょんぼり
-
-一瞬打たれてぼう然
-
-【効果音】
-
-鍋返しの「ドン」という音
-
-軽い金属の打撃音
-
-カートゥーンのバネ音
-
-【このショットで唯一の主要アクション】
-実写の手が鍋返しで頭頂を軽く叩く。
-
-【ショット 3｜00:05–00:08】
-
-叩かれて泣きながら口を開ける・塩を口に入れられる（Cry & Feed）
-
-【カメラ位置】
-一人称の近景 POV、キャラクターの顔と鍋の縁にフォーカス
-【画面の動き】
-水豚噜噜は頭頂の赤いたんこぶを押さえ、豆のような目が一瞬でぐるぐるの蚊取り線香目になる。
-大きく口を開けて「オオオ」と泣き、青いカートゥーンの涙が左右から噴水のように大げさに吹き出す。
-頭の上の小さなオレンジも、泣くたびに小刻みに揺れる。
-
-同時に、実写の手がすぐに鍋返しで、鍋の中のあの塩山から山盛り一杯の「白い塩と野菜の混合物」をすくい上げ、泣きながら口を開けた隙に、正確にその一杯を口へ入れる。
-口は一瞬でパンパンに詰まり、左右の頬は二つの半球のように大げさに膨らむ。
-【キャラクター表情】
-蚊取り線香目
-大泣き
-
-口を塞がれた後の驚きと放心
-【効果音】
-大げさなカートゥーンの号泣音
-
-塩をすくうサラサラ音
-口に入る「ぽふっ」という音
-【このショットで唯一の主要アクション】
-実写の手が、口を開けて泣いている隙に塩野菜を一杯口へ入れる。
-
-【ショット 4｜00:08–00:10】
-
-しょっぱすぎて倒れる（Salt K.O. Ending）
-
-【カメラ位置】
-一人称の固定近景、ラストは静止画で締める
-
-【画面の動き】
-水�
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082432274163740672/img/I07Ln9bRNXe4RP1Q.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082433392725893493.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082433392725893493.mp4)**
-
-**作者:** [Soran](https://x.com/Soranlan) | **ソース:** [Link](https://x.com/Soranlan/status/2082433392725893493) | **公開日:** 2026年7月29日
-
-`Food` `Cooking` `Photoreal` `Realistic World` `POV` `VFX`
-
----
-
-### Shot 1 – A massive skeleton army charges toward the fortress while defenders…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-ショット1 – 巨大なスケルトン軍が要塞へ突進し、城壁上では防衛側が迎撃の構えを取っている。Camera: extreme wide push-in. 
-ショット2 – スケルトンたちが両手両足を使って垂直の壁を素早くよじ登る。Camera: low-angle tilt up. 
-ショット3 – スケルトンが登り続ける中、防衛側は槍を下方へ突き出す。Camera: high-angle top-down tracking. 
-ショット4 – 倒れた死体を踏み越えながら、さらに多くのスケルトンが上へ登ってくる中、兵士たちは攻撃を続ける。Camera: side tracking. 
-ショット5 – 最初のスケルトンが壁に到達し、縁を乗り越えて前方へ飛びかかる。Camera: low-angle hero. 
-ショット6 – さらに多くのスケルトンが城壁上に到達する。人間の防衛兵が前へ駆け出し、彼らと交戦する。Camera: medium-wide tracking. 
-ショット7 – 剣、槍、盾、爪が入り乱れる激しい白兵戦が勃発し、双方が前進と後退を繰り返す。Camera: handheld tracking through combat. 
-ショット8 – 追加のスケルトンが登り続ける一方で、戦闘は城壁沿いへと広がっていく。Camera: long side tracking. 
-ショット9 – 戦いは塔や連結された壁面へと拡大し、尽きることのないスケルトンの増援が次々とよじ登ってくる。Camera: high oblique aerial crane. 
-ショット10 – 1体のスケルトンが防衛兵に突進する。防衛兵はそれを受け止めて反撃し、互いに打ち合う。Camera: over-the-shoulder. 
-ショット11 – 大規模な戦闘が周囲で続く中、2人の戦士が一騎打ちを繰り広げる。Camera: 180° orbit. 
-ショット12 – 両軍の死体が城壁から落下する一方で、さらに多くのスケルトンが登り続ける。Camera: extreme low-angle. 
-ショット13 – 壁全体が戦闘に飲み込まれ、スケルトンの増援が要塞へと雪崩れ込む。Camera: ultra-wide aerial pullback. 
-ショット14 – スケルトンたちが制圧した城壁を進軍し、再集結した防衛兵の反撃と激突する。Camera: rear tracking. 
-ショット15 – 要塞の壁は完全に戦場と化し、あらゆる方向からスケルトンが登り続け、防衛兵は必死に防衛線を維持する。Camera: epic crane pullback.
-
---- THREAD CONTINUATION ---
-[Thread 1] @dreamina_ai MJ images --sref 8404898200 https://t.co/zl2GZmls2H
-
-[Thread 2] Seedance prompt:
-Shot 1 – A massive skeleton army charges toward the fortress while defenders prepare on the battlements. Camera: extreme wide push-in. 
-Shot 2 – Skeletons rapidly climb the vertical wall using both hands and feet. Camera: low-angle tilt up. 
-Shot 3 – Defenders thrust spears downward while skeletons continue climbing. Camera: high-angle top-down tracking. 
-Shot 4 – Soldiers keep attacking as more skeletons climb over fallen bodies toward the top. Camera: side tracking. 
-Shot 5 – The first skeleton reaches the wall, climbs over the edge, and lunges forward. Camera: low-angle hero. 
-Shot 6 – More skeletons reach the battlements. Human defenders rush forward and engage them. Camera: medium-wide tracking. 
-Shot 7 – Intense melee erupts with swords, spears, shields, and claws as both sides advance and retreat. Camera: handheld tracking through combat. 
-Shot 8 – Fighting spreads along the battlements while additional skeletons continue climbing. Camera: long side tracking. 
-Shot 9 – Combat expands across towers and connecting walls as endless skeleton reinforcements climb upward. Camera: high oblique aerial crane. 
-Shot 10 – A skeleton charges a defender. The defender blocks and counterattacks as both exchange blows. Camera: over-the-shoulder. 
-Shot 11 – Two warriors duel while large-scale combat continues around them. Camera: 180° orbit. 
-Shot 12 – Bodies from both armies fall from the battlements while more skeletons continue climbing. Camera: extreme low-angle. 
-Shot 13 – The entire wall is engulfed in battle as skeleton reinforcements flood onto the fortress. Camera: ultra-wide aerial pullback. 
-Shot 14 – Skeletons advance along the captured battlement before colliding with regrouped defenders launching a counterattack. Camera: rear tracking. 
-Shot 15 – The fortress wall is completely consumed by battle as skeletons keep climbing from every direction and defenders desperately hold the line. Camera: epic crane pullback.
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082432342304673792/img/oLaRo3pi0ihf4x-T.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082433708574064891.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082433708574064891.mp4)**
-
-**作者:** [ToaiDanh](https://x.com/NVTDanh) | **ソース:** [Link](https://x.com/NVTDanh/status/2082433708574064891) | **公開日:** 2026年7月29日
-
-`Action` `Military` `Horror` `Undead` `Photoreal` `Fantasy` `FPV & Aerial`
-
----
-
-### Create a 15-second ultra-cinematic anime action video using the provided anime…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-提供されたアニメ剣士のキャラクターシート @image1 とストーリーボード @image2 を主要なビジュアル参照として使用し、15秒の超シネマティックなアニメアクション動画を作成してください。動画全体を通して、キャラクターの顔、髪型、衣装、プロポーション、刀のデザイン、カラーパレット、そしてダークファンタジーなアニメ美学を完全に一貫させてください。
-Video format:
-
-Duration: 15 seconds
-Aspect ratio: 16:9 cinematic
-Quality: 4K anime movie quality
-Frame rate: smooth high-frame animation
-Style: dark fantasy anime action, cinematic Japanese anime film
-Scene progression:
-
-[0s–3s]
-Wide establishing shot of a destroyed post-apocalyptic city at night. Fires burning, smoke everywhere, ruined buildings, destroyed streets. Hundreds of grotesque ghouls violently fighting over corpses and flesh. Dynamic camera slowly moving through the battlefield.
-Add cinematic fog, ash particles, glowing embers, dramatic moonlight, blood stains, destruction details.
-Sound FX: ghoul screams, flesh tearing, distant explosions, burning fire ambience.
-
-[3s–5s]
-The anime swordsman suddenly appears floating high above the battlefield, illuminated by moonlight. His coat and hair move dramatically in the wind. Camera angle from below to emphasize power and intimidation.
-Add glowing eyes, dark aura, floating dust, subtle energy distortion.
-Sound FX: deep bass rumble, strong wind, atmospheric silence.
-
-[5s–7s]
-Close-up of the swordsman drawing his katana slowly. Sparks and black energy emerge from the blade. Instantly afterward, he launches downward at extreme speed toward the ghoul horde.
-Add motion blur, speed lines, shockwaves, dynamic camera rotation, energy trails.
-Sound FX: sharp katana unsheathing, sonic boom, explosive acceleration.
-
-[7s–10s]
-Hundreds of ghouls attack simultaneously. The swordsman moves faster than visible, rapidly slashing through enemies with invisible-speed attacks. Show afterimages and cinematic anime combat choreography.
-Add blood slash effects, screen shake, impact flashes, slow-motion cuts, debris explosions.
-Sound FX: rapid slicing sounds, distorted impacts, monster screams.
-
-[10s–13s]
-A larger ghoul army charges toward him. The swordsman throws his katana into the sky. The sword multiplies into hundreds of floating black-energy swords above the battlefield.
-Add dark smoke energy, glowing rune circles, magical lighting, dramatic sky illumination.
-Sound FX: supernatural energy charging, metallic echoes, deep magical resonance.
-
-[13s–15s]
-All swords rain down at extreme speed, annihilating the entire ghoul army in massive explosions. Black smoke gathers and reforms into a single katana returning to the swordsman’s hand. Final close-up of his calm expression as embers fall around him. Fade to black.
-Add destruction shockwaves, cinematic explosions, black smoke particles, glowing embers, dramatic final lighting.
-
-Sound FX: massive explosions, energy blasts, sword resonance, fading wind ambience.
-Animation style:
-fluid anime combat animation, ultra-dynamic camera movement, dramatic cinematic pacing, MAPPA/Ufotable-inspired visual effects, realistic destruction physics, detailed anime VFX, smooth motion blur, intense emotional atmosphere, highly detailed backgrounds, cinematic lighting, anime movie quality
-
-Important:
-Keep the swordsman visually identical to the character sheet reference in every frame.
-Prioritize fast-paced cinematic action and dramatic composition.
-Maintain dark fantasy anime atmosphere throughout the video.
-Use anime-style visual effects only, not realistic live-action effects.
-
-Negative prompt:
-low quality, blurry, stiff animation, bad anatomy, low FPS, photorealistic humans, 3D game graphics, cartoonish motion, weak action, duplicated characters, broken sword design, poor lighting, unfinished background, text, watermark, logo, static camera, low-detail effects
-
---- THREAD CONTINUATION ---
-[Thread 1] @Image1 @image2 Image1.                                           Image 2 https://t.co/IA4PuZ5GVo
----
-
-翻訳のみを返してください。他には何も書かないでください。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082435153738203136/img/NirD5j3ewPr7LHZW.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082435193408004446.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082435193408004446.mp4)**
-
-**作者:** [auqib](https://x.com/auqibhabib) | **ソース:** [Link](https://x.com/auqibhabib/status/2082435193408004446) | **公開日:** 2026年7月29日
-
-`Action` `Wuxia` `Anime 2D` `Fantasy` `VFX` `Slow-Mo`
-
----
-
-### Use the uploaded reference image as the exact character reference. Preserve her…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-アップロードされた参照画像を、キャラクターの完全な参照として使用してください。彼女の顔立ち、髪型、瞳の色、肌のトーン、体型、ソフトなメイク、笑顔を、すべてのショットを通して一貫して維持してください。彼女には、かわいいピンクのリブ編みクロップトップと白いプリーツスカートを着せてください。舞台は、柔らかな白い寝具、温かみのあるアンビエントランプ、フェアリーライト、そしてベッドの上に置かれた木製のサービングトレイがある居心地のよい寝室です。動画全体を通して、各アクションの横に遊び心のある手描き風の白い doodle をアニメーション表示し、自然にフェードアウトさせてください。字幕、ロゴ、ウォーターマークは入れないでください。
-
-動画は、彼女が新鮮なイチゴを入れた籐のバスケットを持ちながら、カメラをまっすぐ見て微笑む cinematic なクローズアップで始まります。彼女はバスケットを視聴者のほうへやさしく傾けます。
-
-Doodles: "HELLO!", "FRESH!", hearts, sparkles.
-
-彼女は、イチゴを水の入ったクリスタルのガラスボウルにそっと入れ、指先でゆっくり洗います。マクロショットで、水滴がはじける様子や、温かい光の下でイチゴがきらめく様子を捉えます。
-
-Doodles: "SPLASH!", "CLEAN!", water droplets.
-
-彼女は、セラミックの皿の上にホイップクリームをたっぷりと渦を描くようにスプレーします。カメラはスローモーションのマクロディテールで、クリームが柔らかくふわふわした山を作る様子を捉えます。
-
-Doodles: "SOFT!", "WOW!", stars.
-
-彼女は新鮮なイチゴをホイップクリームにゆっくりと浸し、完全にコーティングされるまでやさしく回します。極端なマクロショットで、クリーミーな質感と艶やかなイチゴの表面を際立たせます。
-
-Doodles: "DIP!", "CREAMY!", arrows.
-
-彼女はコーティングしたイチゴを唇へ運び、ゆっくりと満足感のあるひと口をかじります。ホイップクリームはやわらかく押しつぶされ、イチゴはジューシーな歯ごたえを見せます。カメラは、豊かな質感と彼女のさりげない笑顔にフォーカスします。
-
-Doodles: "YUM!", "MMM!", hearts and sparkles.
-
-最後の hero shot では、木製トレイの上に、イチゴのバスケット、ホイップクリーム、セラミックの皿が美しく配置されている様子を見せます。彼女は温かく微笑み、カメラに向かって親指を立て、その後、別のイチゴを手に取ります。カメラはデザートへゆっくりと push in します。
-
-Doodles: "PERFECT!", "ENJOY!", "BEST!", sparkles and hearts.
-
-Audio: 純粋な ASMR のみ—バスケットを扱う音、イチゴが水に落ちる音、やさしい水しぶき、ホイップクリームのスプレー音、イチゴを浸す音、ジューシーなひと口、やわらかな咀嚼音、セラミック皿の軽いタップ音、布の擦れる音、静かな寝室のアンビエンス、そして穏やかな呼吸音。音楽なし、セリフなし、字幕なし、ロゴなし、ウォーターマークなし。プレミアムなフードCMの cinematography、超リアルなマクロクローズアップ、浅い被写界深度、フォトリアルな質感、シネマティックな温かいライティング、4K HDR、16:9、24 fps。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082437553110888448/img/t6HkfbQPVs2ZKU0-.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082437584773656759.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082437584773656759.mp4)**
-
-**作者:** [Smiling Khan](https://x.com/AIwithkhan) | **ソース:** [Link](https://x.com/AIwithkhan/status/2082437584773656759) | **公開日:** 2026年7月29日
-
-`Food` `Drinks` `Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `Macro` `Slow-Mo` `ASMR` `VFX`
-
----
-
-### Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-提供された3x4のストーリーボードを、滑らかなシネマティック動画にアニメーション化してください。ショット順と連続性は厳密に維持してください。slow push-in、gentle pan、subtle orbit、rack focus を使用してください。ライティングは、柔らかな朝の光から温かいゴールデンなアンビエントライトへと移行します。フレグランスのエディトリアルな美学、ミニマルで落ち着いた雰囲気、ソフトなフィルムグレイン。新しいショットは追加せず、順序も入れ替えないでください。キャンドルはすべてのシーンで感情の中心であり続けます。
-
---- スレッド継続 ---
-[Thread 1] Nano Banana 2 でストーリーボードを生成 : 3x4グリッド（12フレーム）で、高級感のある4:3のフレグランス・ピッチデック用ストーリーボードを作成。エディトリアルなレイアウト、Aesop/Byredo風、ベージュ＋ラベンダーの配色。構成の流れ：intro → ritual → transformation → resolution → closure。各フレームは、上部にシネマティックな画像（テキストなし）＋下部にストーリーボードのノートを配置。ミニマルなヨーロッパの美学、穏やかな女性らしさ、slow living のムード。キャンドルは全体を通して感情の中心。
-
-[Thread 2] Seedance 2.0 prompt : 提供された3x4のストーリーボードを、滑らかなシネマティック動画にアニメーション化してください。ショット順と連続性は厳密に維持してください。slow push-in、gentle pan、subtle orbit、rack focus を使用してください。ライティングは、柔らかな朝の光から温かいゴールデンなアンビエントライトへと移行します。フレグランスのエディトリアルな美学、ミニマルで落ち着いた雰囲気、ソフトなフィルムグレイン。新しいショットは追加せず、順序も入れ替えないでください。キャンドルはすべてのシーンで感情の中心であり続けます。
-
-[Thread 3] @wavespeed_ai AI creators, お見逃しなく :- https://t.co/HmUw48lj8R
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082438176044707840/img/xrdV8T_XKzabe_Yy.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082438498942857364.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082438498942857364.mp4)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2082438498942857364) | **公開日:** 2026年7月29日
-
-`Story` `Drama` `Photoreal` `Realistic World` `Slow-Mo`
-
----
-
-### A photorealistic smartphone selfie vlog that looks like it was casually…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-桜の季節に、若い女性が実際のスマートフォンで何気なく撮影したように見える、フォトリアルなスマホのセルフィーVlog（image = her face and hair）。自然な手持ちのスマホの揺れ、わずかな手ブレ、軽いオートフォーカスの呼吸、木々の間を差し込む日差しに応じたリアルな露出変化、時折の不完全なフレーミング、本物らしいスマホカメラの手ブレ補正、自然な環境音、そして実物に忠実な色合い。彼女は明るい春の午後、静かな公園で美しく咲く桜の木々の下をゆっくり歩き、フロントカメラに自然な笑顔を向けながら、韓国語でやさしく「벚꽃이 정말 예쁘네요。」と言う。彼女はそっと手を伸ばして落ちてくる桜の花びらを受け止め、うれしそうな笑顔でそれを手に持ち、その後リアカメラに切り替えて頭上の桜を撮影し、再びセルフィーモードに戻る。彼女はスマホでさっとセルフィー写真を撮り、結果を見ながら自然に笑い、花びらがそよ風に舞う桜並木の道を歩き続ける。そして立ち止まり、カメラのほうへ振り返って温かく手を振り、「다음에 또 만나요. 안녕！」と言ってから、録画を終えるためにスマホへ手を伸ばす。動画は、自然な人の動き、リアルな表情、一貫したアイデンティティ、正確な手の比率、本物の屋外光、ビューティーフィルターなし、CGIなし、AIっぽいプラスチック感なし、字幕なし、ロゴなし、ウォーターマークなし、BGMなしの、まさに本物のスマホ撮影そのもののように感じられるべきであり、聞こえるのは公園の自然な環境音、鳥の声、遠くの会話、足音、そして桜の木々を通り抜ける風の音だけである。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082439351649091584/img/l8Nk3IXS0dzf08Yr.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082439846526595390.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082439846526595390.mp4)**
-
-**作者:** [Aqsa](https://x.com/Aqsahere_) | **ソース:** [Link](https://x.com/Aqsahere_/status/2082439846526595390) | **公開日:** 2026年7月29日
-
-`Portrait & Fashion` `Travel Vlog` `Photoreal` `Realistic World` `POV`
-
----
-
-### Cinematic underwater ocean epic, one continuous unbroken take, 15 seconds…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-映画的な水中オーシャン・エピック、1本の途切れないワンテイク、15秒、絶え間ない前進推進、停止なし、終わりのショットなし、最後に浮上してポーズを取ることもなし。
-
-Character (keep consistent in every frame):
-Nereidという名の若い人魚。やさしく好奇心に満ちた表情、淡い氷青の瞳、流れの中で背後へ長くたなびく、極めて長いシアンからターコイズへ移ろう髪。顔を縁取る半透明のラベンダーピンクの水かき付きヒレ耳と、額の上にある繊細な淡いサンゴ色の細い棘の冠を持つ。青からラベンダーへと変化する虹彩を帯びたスカラップ状のシェル・バンドゥトップを着用し、中央には柔らかなピーチ色のヒトデの装飾、小さな白い真珠の連なりが鎖骨に沿い、淡いアクア色のガーゼのようなシアーなアームヴェール、さらに氷青とラベンダーの層になったシフォンでできた透け感のあるフリル付きヒップスカートを身につけ、真珠のチェーンと背中の中央下部にピーチ色のヒトデ留め具がある。尾はコバルトからターコイズの魚鱗で、真珠光沢のハイライトが散り、腰に沿って斜めに真珠のラインが走り、先端は淡いアクアと白の巨大な半透明ガーゼ状の尾びれで、絹のように波打つ。カラーパレットはコバルトブルー、ターコイズ、淡いアイスブルー、ソフトラベンダー、パールホワイト、ほのかなピーチに固定。
-Beat 1 (0.0s to 2.5s): すでに動きの中から始まる。カメラは陽光の差す海の上層を滑るように進み、巨大なシロナガスクジラが下方からフレーム内へ滑り込んで画面を埋める。Nereidはその目の横に並び、片手で肌に触れ、そして強く蹴って加速する。何十頭ものシロナガスクジラ、ザトウクジラ、シャチが、広大な回遊の列となって青い遠方へ伸びていく。Camera: 彼女の横を高速で追従するトラッキングショット、広角レンズ、海面から差し込むゴッドレイ。
-
-Beat 2 (2.5s to 5.5s): 彼女はクジラたちの体の間を縫い、ザトウクジラの伸ばした胸びれの下をくぐる。はるか上方でザトウクジラがブリーチし、そのシルエットが白い泡と屈折光のカーテンを突き破って水面を割る。イルカの群れが彼女の周囲を渦を巻くように回り、マンタがゆっくりした影のように頭上を滑り、発光する銀色の魚群が彼女の体の周りで分かれては再び集まる。Camera: バレルロールする追従ショット、レンズを横切る泡の流れ、あらゆる表面に揺らめくカースティクスの光模様。
-
-Beat 3 (5.5s to 8.5s): その列は光に満ちたサンゴの王国へと降下する。紫、薔薇色、金色のそびえ立つサンゴの尖塔、巨大な二枚貝、流れに揺れるイソギンチャクの群生。クジラたちは古代の沈没船の上を通過し、折れたマストにはサンゴがびっしりと生え、群れは切り立った岩壁の深い海底峡谷を縫って進む。Nereidは砕けた舷窓をくぐって潜り抜け、速度を落とさず反対側へ飛び出す。Camera: 難破船内部を高速ドリーで抜け、その後、開けた青へと突き抜ける。
-
-Beat 4 (8.5s to 11.5s): 彼女は速い潮流をつかみ、髪と尾びれが流れの中で鋭くはためきながら前方へ疾走する。群れは発光するクラゲの森を通り抜け、何千もの生物発光する鐘が柔らかな青と紫に脈動し、次に海底の巨大な自然石のアーチをくぐり、その後は流れるような海藻の森に沿って進み、葉がクジラたちの周囲で左右に割れる。新たな海の生き物が次々と行列に加わる。ウミガメ、ジンベエザメ、発光するイカ。Camera: 大きく弧を描くクレーン風の下降で、薄れゆく深海のグラデーションを背景に回遊の列の全スケールを明らかにする。
-
-Beat 5 (11.5s to 15.0s): 海は広大な、より深い青へと開ける。クジラたちが歌い、泡が巨大な柱となって立ち上る。あらゆる方向からさらに多くの生き物が流れ込み、海全体がひとつの壮大な生きた行進となるまで、光の筋は細くなりながら、群れは遠い地平線へ向かって進み続ける。Nereidは最も大きなクジラの横を前へ泳ぎ、前だけを見て、決して振り返らない。Camera は彼女の後方やや上から追従し続け、群れが無限の青へ遠ざかっていく中、フレームが終わってもなお動き続ける。フェードなし、フリーズなし、停止なし。
-
-Style and technical:
-アニメの影響を受けたシネマティックCG、高予算長編映画級の水中クオリティ。コバルト、ターコイズ、アクアマリン、パールホワイトを基調に、ラベンダーと太陽光由来の温かいゴールドを差し色にした発光感のあるクールなパレット。ボリューメトリックなゴッドレイ、濃密なカースティクス、漂う海洋粒子、たゆたう泡の軌跡、スケールを層ごとに積み重ねる柔らかな奥行きの霞。髪、シフォンのヴェール、半透明の尾びれには、サブサーフェス・スキャタリングを伴うリアルな水の物理。連続的で流れるような動きと絶えず変化する海景を備えた、夢のようで癒やしに満ち、畏敬を誘うトーン。Avatar: The Way of Water の水中撮影と Moana の海のスペクタクルを想起させる雰囲気。24fpsのシネマティックシャッター、アナモルフィックなワイドスクリーン構図、速い要素には控えめなモーションブラー、鱗、真珠、サンゴの質感は全編を通して鮮明。
-
-Negative: 静止カメラ、空っぽの水中、濁ったまたは彩度の低いグレーディング、強い暗闇、人間の脚、余分な手足、歪んだ手、文字やウォーターマーク、黒へのカット、スローモーションの終わり、キャラクターが静止して浮かぶこと、髪や尾の色の変化、陸地、水上でのフィナーレ。
-Optional audio prompt:
-深いクジラの歌に、盛り上がるオーケストラスコア、弦楽器
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082436843187179520/img/uu2NY5SQR1MvmHfV.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082439952659619978.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082439952659619978.mp4)**
-
-**作者:** [Kiki](https://x.com/Mayz1169) | **ソース:** [Link](https://x.com/Mayz1169/status/2082439952659619978) | **公開日:** 2026年7月29日
-
-`Scenery & Spectacle` `Nature` `Animals` `Wildlife` `3D Animation` `Fantasy` `VFX`
-
----
-
-### Cinematic anime short film clip, 15 seconds. Outdoor Chinese martial arts…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-あなたはAIおよびクリエイティブテクノロジー分野のコンテンツを専門とするプロの翻訳者です。
-
-以下のテキストを日本語に翻訳してください。
-
-ルール:
-1. "prompt"、"cinematic"、"camera pan" などの技術用語は正確に保持してください。必要に応じて英語のまま、またはターゲット言語で定着した訳語を使用してください。
-2. 逐語訳ではなく、ターゲット言語として自然で流暢なトーンを保ってください。
-3. 書式（改行、箇条書き）は維持してください。
-4. テキストに実際の Seedance/AI prompt（生成指示）が含まれている場合は、その部分は英語のままにし、周辺の文脈・説明のみ翻訳してください。
-
-翻訳するテキスト:
----
-シネマティックなアニメ短編クリップ、15秒。屋外の中国武術訓練場。古い石造りの台座、背景には曲線を描く赤い屋根の伝統的な中国寺院、両脇にまばらな竹、石灯籠、澄み切った明るい青空、くっきりとした自然光。
-
-CHARACTER: Ip Man, Chinese male, light skin, sharp defined Asian facial features, short clean black hair neatly combed, calm authoritative eyes, lean powerful build, mid 30s. Black changshan long robe with white inner collar visible at neck and wrists, black traditional cloth shoes. Bare hands only.
-
-WOODEN DUMMY: Traditional Wing Chun Muk Yan Jong — tall thick cylindrical wooden post, two upper horizontal arms at chest level, one middle arm, one lower diagonal leg, mounted on wooden cross base. Dark aged polished wood.
-
-AUDIO: Traditional Chinese instrumental music — erhu, guzheng, Chinese percussion — loud from frame one never stopping never fading, building with intensity, slowing during precise moments, rising during fast bursts. Strike impact sounds layered on top throughout.
-
-VIDEO: Starts mid action frame one. Different camera angle every cut. Rhythm constantly alternates between slow precise strikes and explosive fast bursts — this contrast is the key visual element. Never same technique twice.
-
-[0:00-0:02] Already mid action. Close up of hands making rapid contact with dummy arms, both hands alternating fast, dummy vibrating, robe sleeve moving. Cut to side profile showing calm composed face while hands move rapidly.
-
-[0:02-0:05] Wide shot full courtyard. Slows suddenly — one deliberate palm strike — then explosive rapid chain punches blurring. Side kick to dummy leg transitioning immediately into hand strike. Knee strike into post rising into rapid upper strikes. Overhead double simultaneous strike hitting both dummy arms at once.
-
-[0:05-0:09] Fast cuts every half second. Circular Pak Sao deflection then counter punch. Footwork shifting around dummy combining kicks and strikes simultaneously. Close up calm face. Low angle looking up. Overhead looking down. Behind shot. Multiple techniques flowing into each other continuously — hands feet knees all combined.
-
-[0:09-0:12] INTENSITY BUILDS. Strikes progressively faster. Dummy shaking more violently. Wide shot showing calm face contrasting with impossibly fast hands. Suddenly slows to one precise slow strike — then EXPLODES faster than before. Hands invisible — just blur of motion and black sleeve.
-
-[0:12-0:15] HERO MOMENT. Final explosive chain punches faster than anything before, dummy rattling violently — then instant complete stop. One open palm placed flat slowly and deliberately against the dummy post center. Dummy stops shaking immediately. He stands completely still. Hands return to sides. Robe settles. Blue sky. Bamboo still. Chinese music fades to silence. Cut to black. Text: IP MAN.
-
-Upload Ip Man character sheet + location sheet + Muk Yan Jong reference image. Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, bright natural daylight, digital painting feel, hard-edge brushwork, heavy shadows, not cartoon not Disney not Pixar, film grain, premium anime quality.
-
---- QUOTED TWEET ---
-Bruce Leeを見て育った。やるしかなかった。🐉
-
-Seedance 2.0 + GPT Image 2
-
-Prompt👇🏻 https://t.co/06fsbJZoT7
-
---- THREAD CONTINUATION ---
-[Thread 1] GPT Image 2 sheet prompt:
-
-“Create a premium cinematic character bible sheet for a Wing Chun master named IP MAN. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance.
-
-LEFT SIDE: Massive bold brushstroke painted text IP MAN top left corner, rough expressive hand-painted brush font in deep black with subtle red accent. Below it small text: WING CHUN MASTER / THE SILENT FIST. One large full height dynamic hero pose of Ip Man directly below — standing in classic Wing Chun ready stance, one hand forward open palm, other hand pulled back at hip, completely composed, black changshan flowing slightly, traditional Chinese ink wash splash behind him, deep blacks and subtle reds radiating outward fading into white, no box no frame, standing directly on the white page.
-
-CENTER: Section labeled TURNAROUND in small clean text. Three full body views: Front, Side, Back. Same character same outfit same proportions. Below: TRAINING EQUIPMENT with clean illustration of the Muk Yan Jong wooden dummy — tall post, three arms, diagonal leg, wooden cross base.
-
-RIGHT SIDE: Section labeled DETAILS. Grid of four clean close-up panels: Face front calm and composed, Face side profile, Eyes authoritative and focused, Hands in Wing Chun stance close-up showing finger position. Below: COLOR PALETTE — black, white, dark wood brown, stone grey. Tagline bottom right: SIFU.
-
-OVERALL: Clean white background, black and red ink wash behind hero pose, minimal clean typography, cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, digital painting feel, hard-edge brushwork, not cartoon not Disney not Pixar, print ready.”
-
-[Thread 2] Seedance 2.0 prompt:
-
-“Cinematic anime short film clip, 15 seconds. Outdoor Chinese martial arts training ground, ancient stone platform, traditional Chinese temple with curved red rooftops in background, sparse bamboo on sides, stone lanterns, clear bright blue sky, crisp natural daylight.
-
-CHARACTER: Ip Man, Chinese male, light skin, sharp defined Asian facial features, short clean black hair neatly combed, calm authoritative eyes, lean powerful build, mid 30s. Black changshan long robe with white inner collar visible at neck and wrists, black traditional cloth shoes. Bare hands only.
-
-WOODEN DUMMY: Traditional Wing Chun Muk Yan Jong — tall thick cylindrical wooden post, two upper horizontal arms at chest level, one middle arm, one lower diagonal leg, mounted on wooden cross base. Dark aged polished wood.
-
-AUDIO: Traditional Chinese instrumental music — erhu, guzheng, Chinese percussion — loud from frame one never stopping never fading, building with intensity, slowing during precise moments, rising during fast bursts. Strike impact sounds layered on top throughout.
-
-VIDEO: Starts mid action frame one. Different camera angle every cut. Rhythm constantly alternates between slow precise strikes and explosive fast bursts — this contrast is the key visual element. Never same technique twice.
-
-[0:00-0:02] Already mid action. Close up of hands making rapid contact with dummy arms, both hands alternating fast, dummy vibrating, robe sleeve moving. Cut to side profile showing calm composed face while hands move rapidly.
-
-[0:02-0:05] Wide shot full courtyard. Slows suddenly — one deliberate palm strike — then explosive rapid chain punches blurring. Side kick to dummy leg transitioning immediately into hand strike. Knee strike into post rising into rapid upper strikes. Overhead double simultaneous strike hitting both dummy arms at once.
-
-[0:05-0:09] Fast cuts every half second. Circular Pak Sao deflection then counter punch. Footwork shifting around dummy combining kicks and strikes simultaneously. Close up calm face. Low angle looking up. Overhead looking down. Behind shot. Multiple techniques flowing into each other continuously — hands feet knees all combined.
-
-[0:09-0:12] INTENSITY BUILDS. Strikes progressively faster. Dummy shaking more violently. Wide shot showing calm face contrasting with impossibly fast hands. Suddenly slows to one precise slow strike — then EXPLODES faster than before. Hands invisible — just blur of motion and black sleeve.
-
-[0:12-0:15] HERO MOMENT. Final explosive chain punches faster than anything before, dummy rattling violently — then instant complete stop. One open palm placed flat slowly and deliberately against the dummy post center. Dummy stops shaking immediately. He stands completely still. Hands return to sides. Robe settles. Blue sky. Bamboo still. Chinese music fades to silence. Cut to black. Text: IP MAN.
-
-Upload Ip Man character sheet + location sheet + Muk Yan Jong reference image. Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, bright natural daylight, digital painting feel, hard-edge brushwork, heavy shadows, not cartoon not Disney not Pixar, film grain, premium anime quality.”
----
-
-翻訳のみを返してください。その他は
-```
-
-[![動画プレビュー](https://pbs.twimg.com/media/HOZSrxeXMAAc7Nh.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082442820367835618.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082442820367835618.mp4)**
-
-**作者:** [TechieSA](https://x.com/TechieBySA) | **ソース:** [Link](https://x.com/TechieBySA/status/2082442820367835618) | **公開日:** 2026年7月29日
-
-`Action` `Wuxia` `3D Animation` `Historical` `VFX` `Slow-Mo`
-
----
-
-### SCENE CONTEXT
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-SCENE CONTEXT
-STORMWAKE。嵐の最中、高高度、真冬の深い寒さ。ひとりの配達人が四枚翼のstormvaneにまたがり、時速180kmで黒い雷雲と氷花崗岩の尖塔が連なる峡谷を駆け抜け、霧の中から立ち上がる古代のGreatvaneと正面衝突寸前まで迫る。15秒のワンショット、完全な三人称視点で一切途切れない。最初の3分の2は、騎手と乗騎が画面左から右へ移動し、Greatvaneは画面右奥から正面に現れる。カメラは見えない第二の飛翔体として飛行し、常に二者の外側にあり、決して搭乗視点にはならない。
-
-ACTIVE REFERENCES
-@kesh: 20代半ばの配達人。細身で、乗騎の首に低く身を伏せ、手袋をはめた両手でハーネスのストラップを固く握り、下半分の顔にはstorm-glassのマスク、そこには琥珀色のランプ状スリットが2本。風に裂かれた暗いマントが背後に流れる。参照と100%一致。
-@stormvane: オリジナル種族。ドラゴンではない。蛇行する飛翔体で前肢はなく、長い前翼が2枚と短い後部安定翼が2枚、竜骨のある胸骨の上に炭灰色のstorm-scale、隆起した背骨、扇状の先端を持つ鞭のような尾、鱗の継ぎ目と喉、翼の付け根のチャネルに沿って温かな琥珀色の生体発光。参照と100%一致。
-@greatvane: 古代個体。同種が巨大化したもの。板状の装甲を思わせる頭蓋骨は霜と地衣類に覆われ、翼は傷だらけで後縁が半透明、bio-seamは琥珀ではなく深い熾火のように燃える。参照と100%一致。
-STYLE REFERENCE ONLY。固定キーフレームではなく、モデルは世界を自由に拡張し、1:1で再現しない。
-
-LOCATION MAP
-Foreground: 風雪とみぞれがレンズの前を時速90kmで横殴りに流れ、時折氷の粒が飛び、ちぎれた雲の切れ端が画面の20%を覆いながら通過する。Midground: @kesh と @stormvane、のちに @greatvane が、濡れた黒い岩肌と硬い雪棚を持つ垂直の氷花崗岩の尖塔群の峡谷を進む。Background: 積み重なる黒い雷雲、雲の谷間を2〜3秒ごとに内部稲妻が走り、遠方の雪峰は60%の霞越しに判読できる。霧はショット全体で増していく。尖塔付近で30%、峡谷で55%、Greatvaneが突き破る霧の壁で70%。カメラは二者の影側を保ち、オペレーター軸は左下寄りかつ少し後方から始まり、ショットが開けるにつれて水平へ上がる。
-
-SCALE LOCK
-@kesh はサドルハーネスの中で人間1人分の背丈。@stormvane は翼端から翼端まで、人間9人を頭から足まで並べた幅に相当。@greatvane の頭蓋骨だけで、人間12人分を頭から足まで並べた長さがあり、翼幅は60人分に相当する。頭部がフレームを埋めると、@kesh は眼窩に対して爪の先ほどにしか見えない。サイズ差は全フレームで完全に同一に保たれる。
-
-FIRST FRAME / BLOCKING
-空ではない冒頭フレーム: @stormvane はすでにバンク中で、左翼は40度下がり、@kesh はすでに首にぴたりと伏せ、マントは完全に後方へ伸び、雪はすでにレンズの前を流れ、カメラもすでに速度に乗っている。何も静止しておらず、すべてがすでに動いている。三分割構図: 騎手と乗騎は左下の三分割、最も近い花崗岩の尖塔が右三分割、空と稲妻が上三分割を占める。
-
-FORMAT MODE
-1本の連続ショット、途切れないワンテイク、カットなし。カメラは自発的にカットしない。速度変化は単一テイク内のランプであり、カットではない。
-0.0s〜7.0s — real time
-7.0s〜7.5s — ramp down into extreme slow motion
-7.5s〜11.5s — extreme slow motion, roughly one tenth speed
-11.5s〜12.0s — ramp back up
-12.0s〜15.0s — real time
-
-OPTICS
-0.0s〜4.0s: 84° FOVのワイドな追走、カメラは低く、尾のすぐ後ろに密着。4.0s〜7.0s: カメラが横へ弧を描いてプロファイルに回り込むにつれ、63° FOVへリフレーム。7.0s〜11.5s: Greatvaneの頭蓋骨と眼に対して29° FOVのポートレート圧縮に落ち着く。12.0s〜15.0s: ダイブのために107° FOVの超ワイド・レクティリニアへ開く。レクティリニアにアナモルフィックな光フレア、プライムレンズらしい質感、180°シャッターのモーションブラー、セグメント途中のドリフトなし。
-
-CAMERA
-第二の飛翔体として飛行し、@stormvane の時速180kmに合わせつつ、方向転換ごとに半拍遅れ、横風による1〜2cmのバフェット振動があり、機械的ではない。高さは尾の1翼幅分下かつ後方から始まり、弧を描くと翼の高さまで上がり、Greatvane の頭蓋骨と同じ目線まで下がり、その後ダイブで後退しつつ上昇する。フォーカスは騎手の肩に乗り、ランプ中に Greatvane の眼へ移り、峡谷が開けると無限遠へ抜ける。広いトーンレンジ、柔らかなハイライトロールオフ、稲妻のハイライトはクリップせずディテールを保持する。
-
-ACTION
-0.0s〜4.0s — Subject: @stormvane が2本の氷花崗岩の尖塔の間を激しくバンクし、翼が嵐を切り裂き、翼膜が波打って張り詰め、@kesh は低く身をかがめ、マントが激しくはためく。Camera: 低く密着して後方から追走し、半拍遅れて同じ隙間を抜ける。
-4.0s〜7.0s — Subject: @stormvane が前翼2枚を折り畳み、切り立った崖の間の狭い峡谷へナイフのように突入し、進入と同時に40メートル降下する。Camera: 吹きつける雪のカーテンを抜けて側面へ弧を描き、背後の雷雲を稲妻が分岐して走る。
-7.0s〜7.5s — Subject: @greatvane が正面前方の霧の壁から、時速90kmの接近速度で真正面に噴き出す。Camera: 2メートル後退して身を引き、時間が極端なスローモーションへ入るのを保持する。
-7.
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082443400729776128/img/mEFosZAKNKSH8rq-.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082443444862230713.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082443444862230713.mp4)**
-
-**作者:** [Muhammad Ayan](https://x.com/socialwithaayan) | **ソース:** [Link](https://x.com/socialwithaayan/status/2082443444862230713) | **公開日:** 2026年7月29日
-
-`Action` `Chase` `Photoreal` `Fantasy` `VFX` `Slow-Mo` `FPV & Aerial`
-
----
-
-### Cinematic 16:9 high dynamic action scene shot on 35mm film, set inside a…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-35mmフィルムで撮影された、シネマティックな16:9のハイダイナミックなアクションシーン。舞台は、淡いシーfoamグリーンの壁、金属製ロッカー、木製の机がある、リアルな韓国の高校の教室。白い制服シャツを青いグラフィックTシャツの上に着た男子生徒と、ピンストライプの野球ユニフォームを着た複数の男子生徒との間で、ダイナミックでテンポの速い戦闘シークエンスが展開される。戦闘は、自然な重みとインパクトを伴う、流動的でリアルな武術の振り付けで構成されている。カメラは、キネティックなハンドヘルドの動き、さりげない whip pan、そして素早いパンチ、回避、武器解除を追うクローズなトラッキングショットを用いる。照明は、教室の天井蛍光灯による本物らしい光で、自然で柔らかな影を落とす。カラーグレーディングはシークエンスの途中で、落ち着いた高コントラストの低彩度なドラマティックスタイルへと変化する。速い動きには物理的なモーションブラーが入り、室内光の中には空気中のダスト粒子が漂い、空間的な連続性はシームレスで、シネマティックなアーティファクトは一切なく、衣服や肌の質感はフォトリアル。15秒間、途切れないエネルギーが続く。音声には、重低音の効いた、エネルギッシュなBrazilian phonkの楽曲が含まれ、クリスプなスネアヒットとパンチのあるリズミカルなドロップが、身体の打撃やカメラの動きと同期している。
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082450418161074176/img/qNrAyX1evO8SEczN.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082450478923952406.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082450478923952406.mp4)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2082450478923952406) | **公開日:** 2026年7月29日
-
-`Action` `Ring Fight` `Photoreal` `Realistic World` `VFX`
-
----
-
-### Main Subject: Young Korean woman, 22, natural everyday appearance…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-主役: 22歳の韓国人女性。自然な日常の見た目で、肩までの黒髪をゆるい三つ編みにし、やわらかな薄い前髪がある。リアルな肌の質感、最小限のメイク、明るくやさしい性格。クリーム色のオーバーサイズカーディガンに淡い黄色の花柄ワンピース、白いキャンバススニーカー、小さなタンカラーのレザーのクロスボディバッグ、繊細なシルバーのイヤリングを着用。全編を通して、アイデンティティ、服装、髪型、外見を一貫して維持する。
-
-場所: 春のさわやかな朝、ソウルの静かな住宅街にある花市場。家族経営の小さな花屋の屋台には、チューリップ、デイジー、バラ、鉢植えが並ぶ。木箱、新鮮な花でいっぱいの金属製バケツ、細い通路、自転車、やわらかな朝の光が、穏やかな地元の雰囲気を生み出している。
-
-ビジュアルスタイル: 超写実的なドキュメンタリーリアリズム。自然な何気ない振る舞い、自然なボディランゲージ、本物のスライス・オブ・ライフの瞬間、豊かな環境ディテール、春らしい温かいライティング。
-
-カメラスタイル: 2000年代初頭のSony MiniDVビデオカメラ。強い手持ちの揺れ、不完全なフレーミング、色とりどりの花と彼女の顔の間で迷うオートフォーカス、色あせた色味、やわらかなコントラスト、わずかなモーションブラー、明るい日差しでの露出の揺れ、MiniDVの圧縮アーティファクト、手ブレ補正なし。
-
-00:00–00:03
-
-彼女は花屋の屋台の間をゆっくり歩き、新鮮な花束を眺めながら微笑む。カメラはいったん近くのチューリップにピントを合わせてから、すぐに修正する。
-
-00:03–00:06
-
-彼女は白いデイジーの花束の香りをそっと嗅ぎ、蜂が横切るのを見て小さく笑う。撮影者が少し近づき、わずかなオートフォーカスの呼吸が起こる。
-
-00:06–00:09
-
-彼女はピンクのチューリップの小さな束を選び、現金で支払いながら花屋と丁寧に会話する。
-
-00:09–00:12
-
-市場の外へ歩きながら、彼女は腕の中の花を整える。やさしい風が髪とワンピースを揺らし、近くの木々の間から日差しがちらつく。
-
-00:12–00:15
-
-彼女はカメラに気づき、温かな笑顔で花束を持ち上げ、そのまま静かな通りを歩き続ける。カメラは花のほうへふらりと寄っていき、録画は突然ブラックアウトする。
-
-音声: 自然音のみ—鳥のさえずり、そよ風、歩道を歩く足音、小さな会話、花を包む紙の音、遠くのスクーター、葉のざわめき、時おり鳴る自転車のベル。音楽なし。ナレーションなし。
-
-目標: 2004年春の、忘れられたMiniDVのホームビデオ。近所の花市場での穏やかな朝を、温かく、不完全で、ノスタルジックなリアリズムで記録した映像。
-
---- 引用ツイート ---
-Seedance 2.0 on @ImagineArt_X 
-
-PROMPT ⬇
-
-主役: 22歳の韓国人女性。自然な見た目で、肩までのダークブラウンの髪をゆるいポニーテールにまとめ、薄い前髪がある。ライトブルーのオーバーサイズフーディー、黒のサイクリングショーツ、白いスニーカー、小さなグレーのクロスボディバッグを着用。
-
-最小限のメイク、リアルな肌の質感、温かい性格。全編を通して、アイデンティティ、服装、髪型、外見を一貫して維持する。
-
-場所: 晴れた春の午後、漢江沿いの静かな自転車道。桜の木、緑の芝生、木製ベンチ、サイクリスト、ジョガー、やさしい川風、遠くの都市のスカイライン、穏やかな雰囲気。
-
-ビジュアルスタイル: 超写実的なドキュメンタリーリアリズム。自然な何気ない振る舞い、自然なボディランゲージ、本物の日常生活。
-
-カメラスタイル: 2000年代初頭のSony MiniDVビデオカメラ。強い手持ちの揺れ、不完全なフレーミング、オートフォーカスの迷い、露出の揺れ、色あせた色味、やわらかなコントラスト、わずかなモーションブラー、DV圧縮アーティファクト、手ブレ補正なし。
-
-00:00–00:03
-彼女は木製ベンチのそばでシルバーのシティバイクの鍵を外し、風でほどけた髪の束が揺れるのを見て微笑む。カメラはいったんハンドルバーにピントを合わせてから、すぐに修正する。
-
-00:03–00:06
-彼女は川沿いの道をゆっくり走る。カメラは後ろから小走りで追い、彼女を中央に捉えようとしながら自然に揺れる。
-
-00:06–00:09
-彼女は川のそばで止まり、自転車を停める。両手をハンドルに置いたまま、桜の花びらが舞い落ちる中、水面を静かに見つめる。
-
-00:09–00:12
-彼女は小さなペットボトルの水を飲み、髪を耳にかけ、カメラに気づいて小さく笑う。
-
-00:12–00:15
-彼女は再び自転車に乗り、カムコーダーに向かって気軽に手を振り、撮影者がカメラを下ろす中、そのまま走り去る。録画は突然ブラックアウトする。
-
-音声: 自然音のみ—鳥の声、自転車の車輪、風、遠くの会話、足音、葉のざわめき、流れる川、時おり鳴る自転車のベル。音楽なし。ナレーションなし。
-
-目標: 2004年の忘れられたMiniDVホームビデオ。漢江沿いの穏やかな午後の自転車散歩を、温かく、不完全で、ノスタルジックで、完全に信じられる形で記録した映像。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082450593998884864/img/9QsBBCDVdd9mfIQP.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082450805232468236.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082450805232468236.mp4)**
-
-**作者:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **ソース:** [Link](https://x.com/ZephyraLeigh/status/2082450805232468236) | **公開日:** 2026年7月29日
-
-`Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `POV`
-
----
-
-### Full magical transformation sequence: a moon knight floating in an ancient…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-完全な魔法変身シーケンス：古代の淡い青の羊皮紙の虚空に浮かぶ月の騎士。深い藍色のインクが、夜の染料が水中で花開くように空気へと広がり、書道の筆致が身体の周囲を打ちつけるように走り、髪を銀白へと染め、三日月の鎧の継ぎ目、輝く頬のマーキング、そして優雅な青い筆致で描かれた湾曲したムーンブレードのシルエットを浮かび上がらせる。足元では円形の古代の篆書シジルが銀の光を散らしながら燃え上がり、カメラは嵐の中でページがめくれるように漂うインクのヴェールを抜けて押し寄せ、各筆致の衝撃は高まる太鼓のビートと同期し、最後は刃を掲げたシグネチャーポーズで、藍と銀の書道の爆発の中に固定される。ストック映像のような壮麗さを、真摯に演じる。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2082451187761123328/pu/img/2BpSzSfHx5sLyDp6.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082451216336843074.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082451216336843074.mp4)**
-
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2082451216336843074) | **公開日:** 2026年7月29日
-
-`Action` `Superpower` `Surreal` `Fantasy` `VFX` `Transformation`
-
----
-
-### 45-Second Cinematic AI Video Prompt**  45 seconds, photorealistic, cinematic…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-**45秒のシネマティックAI動画プロンプト**  45秒、フォトリアル、シネマティックなスーパーヒーロー映画、超高精細、8K HDR、リアルな物理演算、ダイナミックなカメラワーク、テンポの速い編集、ドラマチックなライティング、自然な表情、高品質VFX、日本人女性主人公、テキストなし、ウォーターマークなし。  **主人公:** 20代前半の美しい**日本人女性**。色白で、自然で控えめなメイク、表情豊かな濃い茶色の瞳、肩までの黒髪を低いポニーテールにまとめている。物語を通して、**オーバーサイズのライトブルーのニットセーター**、ゆったりしたグレーのパンツ、白いスニーカーを着用。すべてのシーンで、顔のアイデンティティ、髪型、体型、衣装の一貫性を完全に維持する。  ### シーン1（0〜6秒） – 蜘蛛に噛まれる  午後の居心地のよいモダンなアパートの中。極端なマクロのクローズアップで、発光するクリスタルのような半透明の蜘蛛が、日本人女性の首の後ろへゆっくりと這い上がる。蜘蛛は青い虹色の光をきらめかせたあと、やさしく彼女を噛む。すると、青く光る蜘蛛の形をした痕が皮膚の下に現れ、首筋へきらめくエネルギーが広がる。彼女は小さく息をのみ、驚いて振り向く。シネマティックなマクロレンズ、浅い被写界深度、ドラマチックなライティング。  ### シーン2（6〜12秒） – 力の覚醒  彼女はオーバーサイズの**ライトブルーのセーター**とグレーのパンツ姿でアパート内を歩いている。すると突然、本やマグカップ、小さな生活用品が彼女の周囲で浮かび上がる。困惑した彼女が両手を上げると、金属質に輝く蜘蛛の糸が手首から勢いよく放たれ、遠くの壁に張り付く。驚きで目を見開いたあと、彼女は興奮した笑顔を浮かべる。高速のカメラ寄り、浮遊する破片、シネマティックなエネルギーエフェクト。  ### シーン3（12〜21秒） – 最初の跳躍  彼女は、明るい昼光の下で巨大な近未来都市を見下ろす超高層ビルのバルコニーに立つ。ためらうことなく、彼女は空へ飛び出す。カメラが回転しながら、彼女は高層ガラスビル群の間を逆さまのまま自由落下する。別のビルに届く直前、両手首から銀青色に輝くウェブを放ち、街中を力強くスイングする。ダイナミックなドローンショット、素早いFPVの動き、リアルな風のシミュレーション、スーパーヒーロー映画のエネルギー。  ### シーン4（21〜31秒） – ウェブアクロバット  狭い都市の通りを縫うようにウェブスイングし、超高層ビルの間を舞い上がり、混雑した交差点の上で宙返りを披露し、屋上へ優雅に着地し、ガラスのタワーを飛び越え、スカイラインを見渡す高級な屋上インフィニティプールの上を滑空する、息をのむようなアクションのモンタージュ。カメラは、シネマティックなトラッキングショット、空撮のドローンビュー、スローモーションのヒーローショット、高速FPVチェイスシーケンスを切り替えながら進む。明るい昼光、非常にリアルな反射、シネマティックなアクション。  ### シーン5（31〜36秒） – 夕暮れのひと休み  ゴールデンアワーの夕日。街のはるか上空にある高い鉄骨の梁の上で、彼女がくつろぎながら座っている平和なワイドのシネマティックショット。彼女は街の輝くスカイラインを眺めながら、気軽にサンドイッチを食べている。やさしい風がポニーテールとオーバーサイズの**ライトブルーのセーター**を揺らす。温かなオレンジ色の陽光が、直前までのアクションシーンとの穏やかな対比を生み出す。感情豊かなシネマティック構図。  ### シーン6（36〜41秒） – ネオンの夜  雨上がりの、色鮮やかな反射に満ちた活気あるネオンの路地の夜。彼女は一本のウェブラインに逆さまにぶら下がり、温かい笑顔を見せる。近くの窓辺には、興味深そうな黒猫が静かに座り、彼女を見つめ返している。青とピンクのネオンライトが彼女の顔とセーターに反射し、背後では街が輝いている。浅い被写界深度を伴う、ゆっくりとしたシネマティックなカメラオービット。  ### シーン7（41〜45秒） – 帰宅  彼女は軽やかにアパートへ向かってスイングし、バルコニーに滑らかに着地し、スタイリッシュなフリップでリビングルームへ入り、ソファに倒れ込んで楽しそうに笑う。スマートフォンを取り出して興奮気味に会話を始め、カメラがアパートの窓越しにゆっくり引いていく中、外では街の灯りがきらめく。最後はシネマティックなスーパーヒーロー風の締めのショットで終える。  **ビジュアルスタイル:** ハリウッドのスーパーヒーロー映画の美学、フォトリアル、シネマティックなカラーグレーディング、リアルな布シミュレーション、物理的に正確なウェブの挙動、ダイナミックなライティング、ボリューメトリックな太陽光、リアルな表情アニメーション、感情表現の豊かさ、滑らかなキャラクターの一貫性、高速アクションの振り付け、高品質VFX、超高精細な環境、鮮明な反射、モーションブラー、ドラマチックなカメラトランジション、IMAX品質の映像、8K HDR。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082452885686886400/img/PHtX5SOr2N74yek8.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082453471434101136.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082453471434101136.mp4)**
-
-**作者:** [Aaliya](https://x.com/AIwithAliya) | **ソース:** [Link](https://x.com/AIwithAliya/status/2082453471434101136) | **公開日:** 2026年7月29日
-
-`Action` `Superpower` `Photoreal` `Realistic World` `VFX` `Slow-Mo` `FPV & Aerial` `Macro` `Transformation`
-
----
-
-### @[character ref] is already moving as multiple enemies close in from every…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-@[character ref] は、四方から複数の敵が迫る中、すでに動き出している。彼女は深紅とシアンの軌跡へと消え、瞬時の居合抜き、空中回転、逆手斬り、そしてありえない方向転換を繰り返しながら敵の間に再出現する。発光する刃の弧が戦場全体に巨大な龍の形を描き、敵は接触のたびに一瞬硬直し、その後、遅れて走る斬撃線がシルエット上で発火する。やがて彼女が刃を伸ばした低い決めの構えで着地すると、背後では龍のエネルギーが激しく渦を巻き、編隊全体が一斉に崩れ落ちる。
-
-ハイエンドなグラフィックアニメのリアリズムに、爆発的な書道的剣戟アクションとネオンの龍神話を融合。ありえないほど高速な刃の振り付けが、致命的な舞台演技のように展開し、リズミカルな構えの変化、アクロバティックな方向転換、連鎖する居合抜き、回転斬り、そして無駄のない精密な複数対象コンビネーションによって構成される。白熱する剣閃、深紅のインクの破裂、電気シアンの筆致の軌跡、断片化した残像、蛇行する龍のエネルギーのリボンがすべての動きを形作り、倒された者たちは遅れて現れる発光する斬撃線によって分断された暗いシルエットとして判読可能なまま残る。鞭のように速いトラッキングショット、激しいオービタルスイープ、極端なフォアショートニング、スナップズーム、そして刃の軌跡を通じたシームレスな遷移により、カメラは武器の勢いに固定されているかのように感じられる。各スイングのたびに空気圧が歪み、衣服と髪がフレーム内で激しくはためき、表面は絵画的な筋となって剥がれ落ち、空間全体が一瞬だけグラフィカルな黒・赤・シアンの抽象へと崩壊してから、再び物理的な奥行きを取り戻す。強いシルエット、意図された決めポーズ、リアルな素材感、そしてプレミアムなアニメ表現が、圧倒的な速度の中でも明瞭さ、衝撃、優雅さを保つ。
-
---- THREAD CONTINUATION ---
-[Thread 1] Midjourney Prompt for character: 全身が見える、龍の兜を着けた剣士の女性、発光するインクのストローク、蛍光のブラシライン、紫外線の影のアクセント、スペクトルなネオン輪郭、ホログラフィックなエッジライティング、黒背景、完全に左右対称のポートレート --ar 1:2 --sref 2688930422 --profile 8mk73g6
-
-Seedance 2.0 Prompt:
-@[character ref] is already moving  as multiple enemies close in from every direction. She disappears into a  crimson-cyan streak, reappearing between them through rapid iaijutsu  draws, aerial spins, reverse-grip cuts and impossible directional  changes as glowing blade arcs weave a giant dragon-shaped pattern across  the battlefield. Enemies freeze briefly after each contact before  delayed cut lines ignite across their silhouettes, then the entire  formation collapses at once as she lands in a low finishing stance,  blade extended and dragon energy spiraling violently behind her.
-
-ハイエンドなグラフィックアニメのリアリズムに、爆発的な書道的剣戟アクションとネオンの龍神話を融合。ありえないほど高速な刃の振り付けが、致命的な舞台演技のように展開し、リズミカルな構えの変化、アクロバティックな方向転換、連鎖する居合抜き、回転斬り、そして無駄のない精密な複数対象コンビネーションによって構成される。白熱する剣閃、深紅のインクの破裂、電気シアンの筆致の軌跡、断片化した残像、蛇行する龍のエネルギーのリボンがすべての動きを形作り、倒された者たちは遅れて現れる発光する斬撃線によって分断された暗いシルエットとして判読可能なまま残る。鞭のように速いトラッキングショット、激しいオービタルスイープ、極端なフォアショートニング、スナップズーム、そして刃の軌跡を通じたシームレスな遷移により、カメラは武器の勢いに固定されているかのように感じられる。各スイングのたびに空気圧が歪み、衣服と髪がフレーム内で激しくはためき、表面は絵画的な筋となって剥がれ落ち、空間全体が一瞬だけグラフィカルな黒・赤・シアンの抽象へと崩壊してから、再び物理的な奥行きを取り戻す。強いシルエット、意図された決めポーズ、リアルな素材感、そしてプレミアムなアニメ表現が、圧倒的な速度の中でも明瞭さ、衝撃、優雅さを保つ。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082455444933505024/img/478uAOmpT1S_9ti9.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082455566899626359.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082455566899626359.mp4)**
-
-**作者:** [Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2082455566899626359) | **公開日:** 2026年7月29日
-
-`Action` `Wuxia` `Anime 2D` `Fantasy` `VFX` `Slow-Mo`
-
----
-
-### A young person skating at high speed along a California boardwalk in summer…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-夏のカリフォルニアのボードウォークを、背の高いヤシの木の間を抜けながら高速で滑走する若者。激しいモーションブラー。
-
-キャラクターはスケートボードのトリックを決めながら車を飛び越え、鋭くカーブをドリフトし、ビーチへと飛び込む。スケートボードはサーフボードに変形し、波に乗りながら、噛みつこうとする巨大なサメをかわす。
-
-アクションは、キャラクターがビーチチェアに横たわり、ソフトドリンクを飲むところで終わる。
-
-ハイオクタンなアクションシーン。
-
---- 引用ツイート ---
-これは私の初めてのアニメーション短編です ❤️‍🔥
-
-新しい美学も初披露しています。
-
-楽しんで！
-
-この短編では、スリリングなSeedance風のアクションシーンは必要ありませんでした。力を持たせているのは脚本です。
-
-コメント欄にワークフローあり：驚くことに、これまでで最高の動画を作るのに必要だったのは @grok だけでした。 https://t.co/38N79JCK6B
-
---- スレッド継続 ---
-[Thread 1] ローアングルショット。
-
-3Dキャラクターイラスト：
-
-夏のカリフォルニアのボードウォークを、背の高いヤシの木の間を抜けながら高速で滑走する若者。激しいモーションブラー。
-
-キャラクターはスケートボードのトリックを決めながら車を飛び越え、鋭くカーブをドリフトし、ビーチへと飛び込む。スケートボードはサーフボードに変形し、波に乗りながら、噛みつこうとする巨大なサメをかわす。
-
-キャラクターは最終的にビーチチェアに横たわり、ソフトドリンクを飲む。
-
-ハイオクタンなアクションシーン。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082456121139253248/img/rLoNaNV32sRWHCTQ.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082457040580964833.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082457040580964833.mp4)**
-
-**作者:** [hedoήist](https://x.com/hedo_ist) | **ソース:** [Link](https://x.com/hedo_ist/status/2082457040580964833) | **公開日:** 2026年7月29日
-
-`Action` `Chase` `Horror` `Monster Chase` `Photoreal` `Realistic World` `Slow-Mo` `Transformation` `VFX`
-
----
-
-### A woman in her early thirties sits upright on the edge of an unmade bed in a…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-朝の柔らかな日差しが差し込む、整っていないベッドの端に、30代前半の女性が背筋を伸ばして座っている。ダークなカーリーヘアは乱れたトップノットにまとめられ、ノーメイクで、まぶたの重い疲れ切った目をしている。マスタードイエローのカーディガンを、無地の白いTシャツの上に羽織っている。彼女の背中に生きたリュックのようにしがみついているのは、成獣サイズのミユビナマケモノ。毛むくじゃらの灰褐色の毛並み、長く湾曲した爪が彼女の両肩に引っかかり、頭は彼女の頬の横に寄り添い、目は半分閉じ、穏やかな笑みを浮かべたままだ。ナマケモノは大型犬ほどの大きさで、見た目にもかなり重い——その重みで彼女の肩は下へ、前へと引っ張られている。彼女はそれにまったく反応しない。彼女にとっては完全に日常のことだ。薄手のカーテン越しに差し込む、暖かい低い角度の朝の光、乱れた白い寝具、目覚まし時計の置かれたナイトスタンド。35mmで撮影、温かみのある自然主義的なコマーシャル映像の撮影スタイル、浅い被写界深度、やわらかなフィルムグレイン、落ち着いた暖色パレット、フォトリアル、文字なし
-
---- スレッド継続 ---
-[Thread 1] ショットには Seedance 2.0 を使用し、カット間でナマケモノの見た目が変わらないようにキーフレームで調整した。  
-この広告用に合計5枚の参照画像を作成した。  
-ElevenLabs が動画からスコアを生成した。  
-
-最初はこれだった - prompt と image - nano banana pro
-
-朝の柔らかな日差しが差し込む、整っていないベッドの端に、30代前半の女性が背筋を伸ばして座っている。ダークなカーリーヘアは乱れたトップノットにまとめられ、ノーメイクで、まぶたの重い疲れ切った目をしている。マスタードイエローのカーディガンを、無地の白いTシャツの上に羽織っている。彼女の背中に生きたリュックのようにしがみついているのは、成獣サイズのミユビナマケモノ。毛むくじゃらの灰褐色の毛並み、長く湾曲した爪が彼女の両肩に引っかかり、頭は彼女の頬の横に寄り添い、目は半分閉じ、穏やかな笑みを浮かべたままだ。ナマケモノは大型犬ほどの大きさで、見た目にもかなり重い——その重みで彼女の肩は下へ、前へと引っ張られている。彼女はそれにまったく反応しない。彼女にとっては完全に日常のことだ。薄手のカーテン越しに差し込む、暖かい低い角度の朝の光、乱れた白い寝具、目覚まし時計の置かれたナイトスタンド。35mmで撮影、温かみのある自然主義的なコマーシャル映像の撮影スタイル、浅い被写界深度、やわらかなフィルムグレイン、落ち着いた暖色パレット、フォトリアル、文字なし
-
-[Thread 2] 上司を外せ https://t.co/jaaprciUC8
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082457481708445697/img/bZqRflN2tiwECaxn.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082458787907010609.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082458787907010609.mp4)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2082458787907010609) | **公開日:** 2026年7月29日
-
-`Animals` `Creatures` `Portrait & Fashion` `Portrait` `Photoreal` `Realistic World`
-
----
-
-### FOUND FOOTAGE — 15 SEC
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-FOUND FOOTAGE — 15秒
-
-形式: 回収された1990年のビデオカメラテープ。AI生成ではない実写映像。4:3フレーム、強いVHSアーティファクト — クロマのにじみ、トラッキングライン、テープドロップアウト、ライト周辺のハレーション、低解像度、アナログノイズフロア。インターレースの動き、カラーグレーディングなし、フィルムグレインのシミュレーションなし、シネマティックな見た目なし。
-
-被写体: 全身を覆う淡い黄色の防護服を着た2人の人物、黒く不透明なフェイスバイザー — 顔は決して見えない、明かされない。分厚い手袋、密閉されたフード、胸には小さな暗色のロゴパッチ。1人は太い赤いケーブルを後ろに引きずっている。肌は一切見えない。
-
-空間: ドアの先にあるのは、湿ったマスタードイエローの壁紙とそれに合わせた黄色いカーペットが延々と続く、ひとつながりの内部空間。等間隔に並ぶ蛍光灯パネル、窓なし、家具なし、出口の気配もない。どの廊下も同じに見える。空気は重く、静止している。
-
-画面上: 右上に固定された白いデジタルのビデオカメラ表示 — 日付 02/03/1990 と、進行中のタイムコード 10:01:27:21。英語のみ。ハングルやCJK文字は一切なし。タイトルカード、ロゴ、ウォーターマーク、字幕なし。
-
-(0:00–0:02) — チラシ
-雨で端が丸まった木製の電柱にホチキス留めされた、MISSING の張り紙をクローズアップ。上部に太字の英単語 MISSING、下の写真は折れ目がつき、顔が読めないようにそらされている。カメラが揺れ、ピントを合わせ直す。
-カット: ハードカット
-
-(0:02–0:04) — さらに増える
-引いていくと — 電柱には同じ張り紙が何十枚も重なり、風雨にさらされている。貼り付けられた図表の上を、手描きの赤い線が上へ伸び、頂点付近でほぼ垂直に曲がっている。
-カット: 線が頂点に達したところで
-
-(0:04–0:06) — ドア
-巨大な鋼鉄製の工業用ドアが横に軋みながら開く。その向こうは、あるはずのコンクリートではなく、暖かい黄色の壁紙とカーペット。右上にビデオカメラのオーバーレイが表示される。
-カット: 隙間が広がる瞬間
-
-(0:06–0:08) — 落下
-カメラがカーペットに落ち、横倒しになる。レンズの半分が黄色い繊維で塞がれている。ブーツが通り過ぎる。手袋をした手が低い位置から入り、カメラ本体をつかみ、フレームが持ち上がって一人称視点になる。
-カット: 持ち上げの瞬間
-
-(0:08–0:10) — 廊下
-一人称視点、速足で進む。手袋をした手が赤いケーブルを握ってフレームに入り、進みながら壁紙をなぞるように引きずっていく。黄色い壁が左右に流れ、頭上の蛍光灯が点滅し、スーツの中で呼吸が大きく響く。フレームは一歩ごとに大きく揺れる。前方で廊下が分岐し、彼らは止まらず左を選ぶ。
-カット: 一歩の瞬間
-
-(0:10–0:12) — 前方に何か
-廊下が行き止まりになる。ずっと先の壁に、暗く不規則な染みが広がり、その前に何かが立っている。カメラが前へ進み、ためらい、もう一度進む。
-カット: ためらいの瞬間
-
-(0:12–0:14) — 壁
-染みのクローズアップ — グレーのフード付きスウェットを着た人物が壁紙に押し付けられ、根のように外へ広がる黒い繊維状の増殖に半分飲み込まれている。頭は背を向けたまま、影に沈んで見えない。レンズがピントを探す。
-セリフ（無線越しにこもって聞こえる）: "It's organic."
-カット: その言葉の瞬間
-
-(0:14–0:15) — 信号
-映像が崩れ、トラッキングノイズと青いビデオ静止ノイズが波打つ。タイムコードはまだ隅で刻み続け、そのままノイズに留まる。黒にはならない。
-
-音声: カメラ内音のみ — 低いベースドローン、蛍光灯のハム音、カーペット上の足音、スーツ生地の擦れる音、無線のスクイーク、テープヒス。
-
-黒フェードなし、暗転なし — 最後のフレームは暗闇ではなく、光のあるノイズ。どの人物にも顔は見えず、バイザーは一度も透明にならない。実在の顔写真が読めることもない。現代のスマートフォン、セルフィースティック、三脚、撮影用リグはフレーム内にない — ビデオカメラが視点そのものであり、映り込まない。スローモーションなし。クリーンなデジタルのシャープさなし、HDRなし、レンズフレアなし、ドローンショットなし。手袋は5本指、異常な解剖学、重複した人物なし。ワックスのようなプラスチック質のAIスキン、不気味なCG顔、美肌補正なし — 裸の肌は一切映らない。流血なし、血しぶきなし。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082461944616046592/img/sJgwVklY2s_QFovZ.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082462951014015305.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082462951014015305.mp4)**
-
-**作者:** [MagicAI](https://x.com/magic_ai_skill) | **ソース:** [Link](https://x.com/magic_ai_skill/status/2082462951014015305) | **公開日:** 2026年7月29日
-
-`Horror` `Eerie` `Retro Film` `Realistic World` `POV` `VFX`
-
----
-
-### Cinematic realistic comedy style. A man in a fitted bomber jacket, thin beard…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-シネマティックでリアルなコメディスタイル。体にフィットしたボンバージャケットを着た、薄いひげの男性がテーブルに座り、テーブルの下でスマホを確認している。デート相手が、恋愛関係に何を求めているのかと尋ねる。彼は顔を上げて、英語でこう言う: 「Honestly? Just somebody who won't leave me on read.」やわらかなレストランの雰囲気。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082462642153615360/img/ZVmnLIaKN8Crtb47.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082462983767101923.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082462983767101923.mp4)**
-
-**作者:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **ソース:** [Link](https://x.com/WolfRiccardo/status/2082462983767101923) | **公開日:** 2026年7月29日
-
-`Story` `Sitcom` `Photoreal` `Realistic World`
-
----
-
-### Raw tactical bodycam POV, pure real-world footage, chaotic handheld energy…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-生の戦術的ボディカムPOV、完全な実写映像、混沌とした手持ちのエネルギー、自然光、速く不完全な動き、ライブで未加工、ライフルが常にフレーム内に見える連続した一人称オペレーター視点。
-
-0-4s: [Bodycam POV] ヘルメットカムが重い木製の庭の門を捉える。オペレーターの手袋をはめた手が、仲間とともに金属製の破城槌を握る。連携した強烈な打撃で錠前と蝶番が粉砕される。扉は木片と粉塵の雲を巻き上げながら内側へ爆発するように開く。即座に攻撃的に突破口へ前進し、ライフルを構えたまま、絶え間ない反応的なカメラの揺れと切迫したチーム無線のやり取りが続く。
-
-4-10s: [Bodycam POV] 実在する郊外の庭の中。クラシックな陶器のガーデンノームたち――彩色され、ひげを生やし、尖った帽子をかぶった――が突然動き出し、異常な速度で移動する。彼らは小さいが本物の武器（ナイフ、小型の斧、ピストル）を取り出して襲いかかる。オペレーターは制御されたバースト射撃を行い、マズルフラッシュが画面を照らし、薬莢が排出される。ノームたちは被弾してもなお迫り続け、まったく止まらない。混沌とした近接戦闘の中、四方から距離を詰め、土、植物、飛び散る破片が舞う。
-
-10-15s: [Bodycam POV] ひとりの大きなガーデンノームが、あり得ない速度でまっすぐカメラに向かって突進する。跳びかかり、オペレーターの胸に正面から激突し、その勢いで体を後方へ、そして激しく地面へ叩きつける。カメラは大きく転倒し、空とノームの顔がレンズいっぱいに広がる中、オペレーターは完全に倒される。ライフルはなお視界にあり、もがく手、むき出しの衝撃物理。
-
-フォトリアルな生のボディカム、自然な物理、整合性のある動き、本物の戦術的混沌、連続POV、アーティファクトなし。
-
---- 引用ツイート ---
-Seedance 2.0 pure chaos prompt is below 👇 https://t.co/2zotMdm1zZ
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082470835801997312/img/N11LODFouvqvqriz.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082471027657863349.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082471027657863349.mp4)**
-
-**作者:** [TechHalla](https://x.com/techhalla) | **ソース:** [Link](https://x.com/techhalla/status/2082471027657863349) | **公開日:** 2026年7月29日
-
-`Horror` `Monster Chase` `Photoreal` `Realistic World` `POV` `VFX`
-
----
-
-### 10秒間の高速変身動画（スイート＆クール系）
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 プロンプト
-
-```
-10秒間の高速変身動画（スイート＆クール系）
-
-同じ人物が、テンポよく10種類の衣装へ瞬時に変身する。カメラは正面を中心に、衣装の切り替え動作をトランジションとして使用。動きは可愛らしく、少しクールで自信のある雰囲気。変身の瞬間は自然かつ滑らかに接続する。
-
-0〜1秒：学院制服
-両手を背中に回し、つま先立ちで軽くジャンプする。ネクタイが勢いよく揺れ、首を少しかしげながら、目を三日月のように細めて笑う。
-
-1〜2秒：ロリータファッション
-その場でくるりと回転し、髪を大きく振って顔を隠す。髪が顔から離れた瞬間、華やかなロリータ衣装に変身する。
-
-2〜3秒：スポーツウェア
-両腕を顔の前で交差させて顔を隠し、腕を開いた瞬間に、スタイリッシュなスポーツウェアへ変身する。
-
-3〜4秒：古風な襦裙
-長い袖を振り、カメラのレンズを横切るように覆う。袖が通り過ぎた瞬間、優雅な中国古風の襦裙姿へ変身する。
-
-4〜5秒：スイート＆クールなキャミソールドレス
-両手で顔を覆い、左右に開く。手を離した瞬間、甘さとクールさを兼ね備えたキャミソールドレス姿へ変身する。
-
-5〜6秒：パジャマ
-小さくジャンプして着地した瞬間、可愛らしいパジャマ姿へ変身する。片手で目をこすりながら、眠そうにあくびをする。
-
-6〜7秒：セーラー服
-その場で回転してカメラに背中を向けた瞬間、セーラー服へ変身する。頭の上で両手を使ってハートを作り、左右に可愛く揺れる。
-
-7〜8秒：アイドルステージ衣装
-うつむきながら襟元を整え、顔を上げた瞬間、華やかなアイドルのステージ衣装へ変身する。片手を口元に持っていき、マイクを持って歌うようなポーズを取る。
-
-8〜9秒：デニムコーデ
-胸の前で腕を組み、勢いよく腕を開いた瞬間、クールなデニムファッションへ変身する。ジャケットのファスナーを引き、顎を少し上げて自信のある表情を見せる。
-
-9〜10秒：学院制服に戻る
-くるりと回転しながら腕を大きく振り、その動きに合わせて最初の学院制服姿へ戻る。最後は正面を向き、可愛く自信のあるポーズで締める。
-
-映像スタイル：
-縦型9:16、全身が映る固定カメラ、明るいスタジオ背景、テンポの速い編集、滑らかな衣装変身、人物の顔・髪型・体形を一貫させる。衣装の破綻、手指の崩れ、顔の変形、人物の増殖、背景のちらつきが起きないようにする。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082476639745929216/img/2IcysRNHlPJiq8uI.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082476663863124452.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082476663863124452.mp4)**
-
-**作者:** [フジ　AI開発](https://x.com/Neetfujisub) | **ソース:** [Link](https://x.com/Neetfujisub/status/2082476663863124452) | **公開日:** 2026年7月29日
-
-`Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `Transformation`
-
----
-
-### A cinematic magical-realism sequence set on a quiet European-style city street…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-静かなヨーロッパ風の街路を舞台に、やさしい雨が降るブルーアワーのシネマティックなマジカルリアリズムのシークエンス。淡いパステルカラーのレインコートを着た美しい若い女性が、雨の中を静かに歩いていく。好奇心に駆られた彼女は手を差し伸べ、ひと粒の雨滴を受け止める。それが指先に触れた瞬間、繊細に咲く花へと変化する。彼女が歩き続けるたび、彼女に落ちた雨粒や地面に触れた雨粒は、鮮やかな野花、バラ、デイジー、桜の花、色とりどりの花びらへと咲き変わっていく。わずか数秒で、かつて灰色だった通りは息をのむほど美しい花の楽園へと変貌する。花々は濡れた舗道から自然に咲き、壁を這い上がり、街灯を飾り、屋根の上まで広がっていく。柔らかな花びらが風に優雅に舞い、温かな金色の街灯の光が雨に濡れた路面に反射して、夢のように魅惑的な雰囲気を生み出す。
-
-カメラは、彼女の指先に触れる雨滴のエクストリーム・クローズアップから始まり、その後、彼女の後ろで花が一歩ごとに咲いていく様子を追う、ゆっくりとしたシネマティックなトラッキングショットへと滑らかに移行する。リアルなキャラクターアニメーション、わずかな驚きの表情、自然な歩行モーション、流れる髪と衣服の物理演算、ボリューメトリックな降雨、リアルな水しぶき、柔らかな霧、被写界深度、シネマティックなレンズフレア、HDRライティング、グローバルイルミネーション、非常に精細な花の成長アニメーション、シームレスなモーション、超リアルなテクスチャ、マジカルリアリズム、プレミアムな映画品質、4K、24fps、傑作、感情を高揚させる、視覚的に息をのむような表現を含める。
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082476780623904768/img/yEC4pCL4XYyHMBSe.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082476812618313927.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082476812618313927.mp4)**
-
-**作者:** [Jasmine Ai](https://x.com/jasminekhan90_) | **ソース:** [Link](https://x.com/jasminekhan90_/status/2082476812618313927) | **公開日:** 2026年7月29日
-
-`Scenery & Spectacle` `Cityscape` `Portrait & Fashion` `Portrait` `Photoreal` `Fantasy` `VFX` `Slow-Mo` `Macro`
-
----
-
-### 以上传图片作为唯一 人物脸部与身份特征参考。只锁定人物的脸型、五官、发色、气质与整体识别度，确保全片始终是同一个人。不要参考上传图片中的服装、姿势、背景和构图。
-
-#### 📝 プロンプト
-
-```
-以上の画像を、人物の顔とアイデンティティ特徴の唯一の参照として使用してください。人物の顔立ち、五官、髪色、雰囲気、全体的な識別性だけを固定し、作品全体を通して常に同一人物であることを保証してください。アップロード画像内の服装、ポーズ、背景、構図は参照しないでください。
-
-15秒、9:16縦型のレトロな映画感のある人物短編を生成してください。動画全体は多鏡頭の編集構成で、一発撮りではありません。全体のスタイルは、旧上海映画の気質、神秘的でクールな美しさ、成熟した抑制、高級感のある女性人物の登場短編です。重点はストーリーの進行ではなく、カメラ、視線、姿勢、小道具、空間の雰囲気を通して、物語を感じさせつつも内面を সহজには明かさない女性キャラクター像を築くことです。
-
-人物造型
-
-女性主人公は黒の高級ロングドレスを着用し、全体の雰囲気はクールで神秘的、そして気品があります。ドレスはベアトップのオフショルダーデザインで、胸元のラインはすっきりとし、上半身は体に沿ってウエストが絞られています。生地は繊細で上質なサテンまたはベルベットの質感を持ち、下半身は細長いマーメイドラインのロングスカートで、裾は自然に落ち、わずかに床を引きずります。
-その上に黒のミンクショールを羽織り、ショールは厚みがあり柔らかく、視覚的にも高級なファー感がはっきりと感じられます。いくつかのショットでは肩に掛けたり腕を包んだりして、人物の権威感、距離感、そして気品を強めます。
-背中には繊細な背中開きのデザインを入れ、細いメタルチェーンで背面のディテールを飾ってもよいです。
-アクセサリーは少数精巧なものに抑え、シンプルなイヤーアクセサリー、リング、または細いネックレスを合わせます。靴は黒のハイヒール。全体のメイクとスタイリングは精緻だが抑制されており、甘さは不可、必ずクールさと成熟感を優先してください。
-
-シーンと光影
-シーンはレトロな旧上海風の室内空間で、木製の手すり、赤茶色の木製ドア、ブラインド、廊下、昔ながらの電話、暖色の照明などの要素を含みます。空間全体に明確な年代感と映画的な雰囲気があり、色調はダークブラック、マホガニー、琥珀色のウォームゴールドを基調とします。
-光はブラインドから差し込む条状の影、サイド逆光、高コントラストの部分照明を重点的に使用します。人物の顔や身体の一部が光で照らされ、その他の部分は深い影の中に残されることで、神秘的で危うく、近寄りがたいビジュアルを形成します。
-演技要求
-人物の演技は必ず抑制的で、誇張せず、活発すぎないこと。感情表現は、視線、顎の角度、振り向き、間、腕組み、うつむいてから目を上げる動き、画外への横目で表現します。
-彼女は熱心に自分を見せるのではなく、「あなたが私を見ているのは分かっている。でも私は簡単には自分を説明しない」という感覚をまとっています。
-口元は大半の時間で安定しており、意図的に微笑まないでください。振り向きの動きはキレがあり、視線の変化は明確で、目が先に動き、その後に頭が追随します。全体の状態は常に自制的で、冷静、そして距離感があります。
-
-鏡頭分鏡
-
-鏡頭1
-極めて高い位置からの真上俯瞰。人物はレトロな模様の床タイルの中央に立ち、黒のミンクショールを身にまとい、最初はわずかにうつむき、その後ゆっくりと目を上げて上方のカメラを見る。動きは小さいが、視線には必ず審視するような感覚が必要です。最初の1秒で強い視覚的フックを作ってください。
-
-鏡頭2
-
-人物の顔の近景へ切り替える。人物はやや斜めに立ち、黒のミンクショールが肩を包み、カメラは顔に近づく。人物は落ち着いて視線をカメラへ向け、笑顔はなく、冷静で圧のある気質を見せます。
-鏡頭3
-中近景。カメラはぼかした前景越しに撮影し、前景は木製構造、ガラスの反射、またはソフトフォーカスの遮蔽物でもよいです。人物がわずかに頭を動かし、カメラに軽い覗き見感を与え、距離感と神秘感を強めます。
-
-鏡頭4
-
-極低位置から二階の木製手すりを見上げる。人物は高い場所に立ち、黒のミンクショールを羽織って下を見下ろします。身体はほとんど動かさず、視線だけで下を見ることで、地位感と圧迫感を生みます。
-
-鏡頭5
-
-フラッシュホワイトの後、より出来事感のある動的なショットへ入る。人物は手に札束またはチケット状の紙片を持ち、カメラが素早く横に振られることで、人物と紙片が動きの中で自然なモーションブラーを生み、まるで一瞬の取引や情報の受け渡しが起きたかのように見えます。動きはキレよく、画面には少し手持ち感とスピード感を持たせてください。
-
-鏡頭6
-
-再び上階の手すりを見上げるショットに戻る。カメラが手すりに沿ってわずかに横移動し、人物は高い場所に立ったまま、視線もカメラに合わせて少し動き、支配感をさらに強めます。
-
-鏡頭7
-
-人物がブラインドの前に立つ中近景。片手でステムグラスを持ち、グラスは肩の近くで止まり、頭を少し下げて身体の横を見る。ブラインドから差し込む強い光が顔とミンクショールを横切り、非常に映画的な画になります。
-
-鏡頭8
-
-サイドの中景。人物は黒のロングドレスを着て、細長いシルエットを見せ、片手を軽く手すりに添え、頭を回してカメラを見る。ドレスの輪郭、肩と首のライン、そして落ち着いた佇まいを重点的に見せます。
-
-鏡頭9
-
-背中のクローズアップ。黒いドレスの背中開きの構造と、背中の細いメタルチェーンを見せます。ブラインドから漏れる光斑や条状の光が首、肩背、背中のチェーンに落ち、強い記憶点を作ります。
-
-鏡頭10
-
-背後からの追い撮り。人物が木製の廊下をゆっくり前へ進み、黒のミンクショールが歩みに合わせてわずかに揺れ、マーメイドスカートの裾は自然に引きずられます。歩き方は安定していて、ゆっくり、落ち着いており、慌てる様子はありません。
-
-鏡頭11
-
-人物が壁にもたれて立ち、両
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082474097892835328/img/swidKypC4mo2VCkc.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082478253722448091.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082478253722448091.mp4)**
-
-**作者:** [小宇Chengzi](https://x.com/Chengzilhy) | **ソース:** [Link](https://x.com/Chengzilhy/status/2082478253722448091) | **公開日:** 2026年7月29日
-
-`Portrait & Fashion` `Portrait` `Retro Film` `Historical` `ASMR`
-
----
-
-### Premium dark science-fantasy anime, insane sakuga, hyper-speed sword…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-プレミアムなダーク・サイエンスファンタジーアニメ、圧倒的な作画、超高速の剣戟アクション、制御されたインパクトフレーム、雨の物理表現、ネオンの反射、劇的な抑制、明快で निर्ण然とした終幕。
-
-0–4s: クローズアップ。激しい雨の中、ネオン都市の上に架かる吊り橋の上で、二人のライバル剣士が対峙している。片方は損傷した伝統的な鎧をまとい、もう片方は洗練された機械式のマスクを着けている。ゆっくりとした横移動のトラッキング、張り詰めた静止、両者の刀身を打つ雨。  
-4–8s: 二人は同時に前方へ消え、橋の上で一連の高速な剣の接触を交わす。超高速のフットワーク、火花、雨の飛散、ウィップパン、そして衝突の合間に入る極端なクローズアップ。  
-8–12s: マスクの剣士が強烈な攻撃を繰り出す。鎧の侍はそれを両方とも受け止め、交差する攻撃の下へ滑り込み、相手の勢いを壊れた欄干の区画へと受け流す。  
-12–15s: 最後の一閃。機械の刃はばらばらに崩れ、マスクのライバルは橋の端で立ち尽くす。敗北したが、まだ立っている。侍は刀を鞘に収め、二人の間を列車が疾走する中、そのまま歩き去る。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2082481271960186881/pu/img/kLd3O-p5juNMgsp6.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082481300758278528.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082481300758278528.mp4)**
-
-**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **ソース:** [Link](https://x.com/CharaspowerAI/status/2082481300758278528) | **公開日:** 2026年7月29日
-
-`Action` `Wuxia` `Anime 2D` `Sci-Fi` `Slow-Mo` `VFX`
-
----
-
-### Create a cinematic luxury fashion advertisement video using the female model…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-女性モデルの画像を参照として、シネマティックなラグジュアリー・ファッション広告動画を作成する。  
-カメラは、金属製の折りたたみ椅子に座る女性と、宙に浮いた抹茶のスプラッシュの周囲を、滑らかな360度の水平オービットで回る。カメラはプレミアムなCM風のジンバルムーブメントでゆっくりと動き、リアルな奥行き、パララックス、そしてドラマチックなバレットタイム効果を生み出す。  
-女性は、まったく同じポーズのまま完全に静止しており、表情、髪型、衣装、体の位置も一切変わらない。まるで完璧に切り取られた一瞬に捉えられた、ハイファッションのエディトリアルモデルのように見える。  
-抹茶ドリンクのスプラッシュは、彫刻的な液体アート作品のように空中に静止している。流れる抹茶は、優雅な曲線、浮遊する水滴、リアルな反射を生み出しながら、時間が止まったように見える。  
-カメラが周囲を回るにつれて、液体の質感、グラスの反射、布地のディテール、デニムの質感、肌のハイライト、スタジオの影といった繊細な要素が見えてくる。  
-背景はミニマルなままで変化しない。シネマティックな効果を生み出すのはカメラの動きだけである。  
-Style: luxury beverage commercial, Vogue fashion film aesthetic, Apple-style cinematic product video, ultra-realistic, 8K, high-speed photography, shallow depth of field, realistic lighting, smooth motion, premium advertising quality.
-
---- QUOTED TWEET ---
-ポーズを保たせて  
-GPT IMAGE 2で作成:
-Prompt:
-
-リアルなエディトリアル写真スタイルを用いた、ハイエンドな白黒スタジオ・ファッションポートレートを、女性モデルで作成する。エレガントな顔立ち、スタイリッシュなモダンヘアカット、自然な美しさ、自信に満ちた女性らしい存在感を持つ若い女性が、ヴィンテージの金属製折りたたみ椅子に片脚をもう一方の脚に重ねて、リラックスした様子で座っている。  
-彼女は、バギーなデニムジーンズ、フィットした黒のTシャツ、黒いブーツ、そして最小限のアクセサリーで構成された、上質なオーバーサイズのストリートウェアを着用しており、洗練されたマスキュリン・フェミニンなファッション美学を生み出している。ポーズはリラックスしつつ自信にあふれ、少し後ろにもたれ、片手は自然に椅子の背もたれに置かれている。  
-彼女はもう一方の手で、透明な抹茶ドリンクのカップを持っている。シネマティックなハイスピード撮影の瞬間を捉え、抹茶ドリンクが壮観な凍結スプラッシュ効果を生み出している。抹茶の液体は、リアルな流体力学に従ってカップから優雅に弾け出し、流れるアーク、彫刻的なスプラッシュ形状、そして何百もの浮遊する水滴が、超高速シャッターで完璧な瞬間に捉えられているようにする。リアルな反射、液体の質感、自然な動きのディテールを加える。  
-彼女の顔はおよそ45度横を向いており、落ち着いた自信のある表情、リアルな顔立ち、自然な肌の質感、本物らしい感情を備えている。プレミアムな飲料広告の美学と組み合わせながら、ラグジュアリーなファッション誌のルックを維持する。  
-柔らかなミニマルなスタジオライティング、ドラマチックな影、シネマティックなコントラスト、ムーディーな白黒の雰囲気、クリーンでモダンな背景、プロフェッショナルなファッション写真、浅い被写界深度、超リアルなディテール、8K解像度、Vogue風のエディトリアル写真、プレミアムな商業キャンペーン品質。  
-モデルのアイデンティティ、体のプロポーション、髪型、衣装、構図はリアルに保つこと。動きのある要素は抹茶のスプラッシュのみとする。  
-Negative Prompt:
-非現実的な顔、改変されたアイデンティティ、プラスチックのような肌、偽の美しさ、余分な指、歪んだ手、悪い解剖学、非自然な体のプロポーション、乱れた髪、偽の液体スプラッシュ、CGIっぽい見た目、カートゥーン風、ぼやけたディテール、AI生成物、重複した体のパーツ、低解像度  
-「セレクティブカラー効果: 抹茶の液体とドリンクは鮮やかな緑のままにし、画像全体は白黒のままにする。」
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082486681564000256/img/XgLWcs9JJdw-g3B-.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082486773062775032.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082486773062775032.mp4)**
-
-**作者:** [Al-Shamus](https://x.com/im_shahid7) | **ソース:** [Link](https://x.com/im_shahid7/status/2082486773062775032) | **公開日:** 2026年7月29日
-
-`Product Ad` `Luxury` `Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `Slow-Mo` `VFX`
-
----
-
-### 竖屏 9:16，一位年轻女性，穿着夏季显瘦穿搭（上身浅色修身短T恤，下身深色A字裙），站在柔和深色背景前，自然光线，暖色调氛围，正对镜头跳舞，每2秒钟变换一套服…
-
-#### 📝 プロンプト
-
-```
----
-縦画面 9:16。若い女性が、夏向けの細見えコーデ（上半身は淡色のフィットしたショートTシャツ、下半身はダークカラーのAラインスカート）を着て、柔らかなダーク背景の前に立っている。自然光、暖色系の雰囲気。カメラ正面に向かってダンスし、2秒ごとに衣装を切り替える。人物の動きは止めず、髪型の一貫性を保ち、表情と動きの連続性を維持する。音楽のビートに自然に合わせる。（衣装はそれぞれ、白いシルクのイブニングドレス、ピンクのトップスと白いショートスカート、白いスポーツタンクトップとデニムスカート、淡いブルーのシャツと白いポニーテールスカート、白いタイトスカート）自然な笑顔、中景の全身ショット、シネマティックな柔らかい光、浅い被写界深度、ボケによる背景のぼかし、繊細でリアルな肌の質感、フィルム調、低彩度、やさしく甘い雰囲気
-
---- THREAD CONTINUATION ---
-[Thread 1] seedance prompt 動画プロンプトは以下👇
-ワンクリックでコピーして使用可能、豆包で動画生成
-
-縦画面 9:16。若い女性が、夏向けの細見えコーデ（上半身は淡色のフィットしたショートTシャツ、下半身はダークカラーのAラインスカート）を着て、柔らかなダーク背景の前に立っている。自然光、暖色系の雰囲気。カメラ正面に向かってダンスし、2秒ごとに衣装を切り替える。人物の動きは止めず、髪型の一貫性を保ち、表情と動きの連続性を維持する。音楽のビートに自然に合わせる。（衣装はそれぞれ、白いシルクのイブニングドレス、ピンクのトップスと白いショートスカート、白いスポーツタンクトップとデニムスカート、淡いブルーのシャツと白いポニーテールスカート、白いタイトスカート）自然な笑顔、中景の全身ショット、シネマティックな柔らかい光、浅い被写界深度、ボケによる背景のぼかし、繊細でリアルな肌の質感、フィルム調、低彩度、やさしく甘い雰囲気
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082495144780308480/img/iREjFLEe6Cy4bQ49.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082495948459229422.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082495948459229422.mp4)**
-
-**作者:** [PixelAIGC](https://x.com/PixelAigc) | **ソース:** [Link](https://x.com/PixelAigc/status/2082495948459229422) | **公開日:** 2026年7月29日
-
-`Music & Dance` `Dance` `Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `Transformation`
-
----
-
-### Cinematic broadcast sports footage, ARRI Alexa 65 camera, 50mm to 85mm prime…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-シネマティックな放送用スポーツ映像、ARRI Alexa 65カメラ、50mmから85mmの単焦点レンズ、16:9アスペクト比、4K解像度、超写実的。巨大で満員のアリーナ内で繰り広げられる、エネルギーに満ちたプロレスの試合。グレーのレスリングマットと鮮やかな赤いロープを、支配的な赤のカラーパレットで照らす、ハイキーなボリューメトリック・スタジアムライティング。シーンはワイドショットで始まる。青いデニムショーツと鮮やかなオレンジのリストバンドを着けた筋肉質のレスラーが、爆発的なアスレチックな勢いでトップロープを越えてリングへ飛び込む。カメラは高速シャッタースピードと精密なモーションブラーでその動きを追う。黒いトランクスの2人目のレスラーが前方へ突進する。最初のレスラーは、強烈なフライング・ショルダー・タックルを放つ。非常にリアルな物理表現: 衝撃によって両者の身体に目に見える衝撃波が走り、汗の粒が明るい頭上のライトの中を飛び散り、キャンバスマットは衝撃で深く沈み込み、跳ね返る。カメラはローアングルのタイトなクローズアップへ切り替わり、デニムショーツのレスラーが立ち上がる。被写界深度は浅く、歓声を上げる観客と背景の赤く光るLEDスクリーンはぼけている。ライティングは、彼の精緻な肌に浮かぶ濃い汗の光沢を捉え、リアルな毛穴や筋繊維を際立たせる。彼は激しく息をし、胸を大きく上下させながら、スタジアムのライトに向かって、アドレナリンに満ちた勝利の叫びを上げる。衣服と肌のすべてに、自然で生き生きとした質感。さらに、激しいエレキギターのリフと轟くスタジアムドラムが、物理的な衝撃と完璧に同期した、エネルギッシュで推進力のあるシネマティックなスポーツ・ロック・アンセムが伴う。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082457434472488960/img/s58VBwvBds6mK-uJ.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082496874745901184.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082496874745901184.mp4)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2082496874745901184) | **公開日:** 2026年7月29日
-
-`Action` `Ring Fight` `Sports` `Crowd & Fans` `Photoreal` `Realistic World` `Slow-Mo`
-
----
-
-### Create a premium cinematic character bible sheet for a football freestyler…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-サッカーフリースタイラーのMARCOのための、プレミアムでシネマティックなキャラクターバイブルシートを作成してください。アップロードされたキャラクターシートを、彼の正確な顔、体、プロポーション、髪、肌の色、衣装の厳密なビジュアル参照として使用してください。見た目は変更しないでください。
-
-左側：左上に、大きく太字のイタリックなブラシストローク文字でMARCO。動きの中で書かれたように、少し斜めでダイナミックに。色はダークネイビーブルー。その下に小さく：FOOTBALL FREESTYLER / THE BALL NEVER DROPS。直下に、Marcoの全身が入った大きくダイナミックなヒーローイメージを1枚配置 — mid double around the world の最中、ジャンプの頂点で捉えられ、足がボールの周りをブレるように回り、ボールは空中で静止、背後には澄んだ青空と屋上。青と白のクリーンな水彩スプラッシュが白へとフェードし、ボックスもフレームもなし、白いページの上に直接立っているように見せる。1枚のフレームの中に、全エネルギーと動きを捉える。
-
-中央：小さく整ったテキストでTURNAROUNDとラベル付けされたセクション。全身ビューを3つ：Front、Side、Back。参照と同じキャラクター、同じ衣装、同じプロポーション。下に：BALLのクローズアップイラスト — 伝統的な黒白のサッカーボールに、わずかなモーションブラー。
-
-右側：DETAILSとラベル付けされたセクション。4つのクリーンなクローズアップパネルのグリッド：正面の顔、落ち着いた表情、集中した目、オレンジと白のNikeカラーが見えるブーツのディテール、ボールに乗った足のクローズアップ。下に：COLOR PALETTE — dark navy, grey, orange, white。右下に細いフォントでタグライン：THE BALL NEVER DROPS。
-
-全体：クリーンな白背景、ヒーローポーズの背後に淡い青と白の水彩スプラッシュ、ダイナミックでエネルギッシュなレイアウト、ミニマルでクリーンなタイポグラフィ、たっぷりの余白、cinematic cel-shaded 3D anime、semi-realistic CGI、hand-painted textures、digital painting feel、hard-edge brushwork、not cartoon not Disney not Pixar、印刷対応
-
---- THREAD CONTINUATION ---
-[Thread 1] キャラクターシート用のprompt:
-
-“Create a premium cinematic character bible sheet for a football freestyler named MARCO. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance.
-
-LEFT SIDE: Large bold italic brushstroke text MARCO top left, slightly angled and dynamic like it was written in motion, dark navy blue color. Below it small text: FOOTBALL FREESTYLER / THE BALL NEVER DROPS. One large full height dynamic hero image of Marco directly below — mid double around the world, caught at the peak of his jump, foot blurring around the ball, ball frozen in mid-air, clear blue sky and rooftop behind him as a clean watercolor splash in blues and whites fading into white, no box no frame, standing directly on the white page, full energy and movement captured in one frame.
-
-CENTER: Section labeled TURNAROUND in small clean text. Three full body views: Front, Side, Back. Same character same outfit same proportions as reference. Below: BALL close-up illustration — classic black and white football with slight motion blur.
-
-RIGHT SIDE: Section labeled DETAILS. Grid of four clean close-up panels: Face front calm expression, Eyes focused, Boot detail showing orange and white Nike colors, Foot on ball close-up. Below: COLOR PALETTE — dark navy, grey, orange, white. Tagline bottom right in thin font: THE BALL NEVER DROPS.
-
-OVERALL: Clean white background, light blue and white watercolor splash behind hero pose, dynamic and energetic layout, minimal clean typography, lots of white space, cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, digital painting feel, hard-edge brushwork, not cartoon not Disney not Pixar, print ready”
-
-[Thread 2] Seedance 2.0 video prompt:
-
-“Cinematic anime short film clip, 15 seconds. Flat concrete rooftop, clear bright blue sky everywhere, city visible far below, just him and the ball.
-
-CHARACTER: Young male football freestyler, light skin, sharp defined facial features, dark brown slightly messy hair, calm cool expression, lean athletic build, late teens. Dark navy training tee, dark grey joggers, white crew socks, bright orange and white Nike boots. Classic black and white football.
-
-AUDIO: High energy hip hop beat loud from frame one never stopping, every cut synced to the beat, crisp satisfying ball contact sound on every touch always audible.
-
-[0:00-0:02] Lying flat on his back on the concrete, both feet pointing up, juggling ball above him with alternating feet, blue sky above. Side profile ground level shot. Cut to below looking up at feet and ball against sky. Cut to overhead looking straight down at him horizontal.
-
-[0:02-0:04] Jumps to feet mid-juggle, immediately launches into double around the world — foot circling ball twice in one jump, blurring into a circle. Low angle looking up against blue sky. Side profile full jump. Extreme close up foot blurring around ball.
-
-[0:04-0:06] Ball lands perfectly still on back of neck. Close up of ball on neck. Wide shot against sky. Immediately flows into ATW from the neck stall — ball launches off neck, foot circles instantly. Low angle showing full combination against sky.
-
-[0:06-0:08] Bends forward, ball rolls slowly down entire spine from neck to lower back without falling. Side profile showing full roll. Close up of ball on spine. Arches back up explosively flicking ball back into air from lower back.
-
-[0:08-0:10] Sits cross legged on concrete mid-juggle, both heels alternating juggling while sitting. Overhead looking down. Close up heels from side. Stands back up mid-juggle without hands touching ground.
-
-[0:10-0:12] Handstand — body fully vertical, ball balanced on one foot pointing straight up. Wide shot against blue sky. Close up foot balancing ball upside down. Low angle looking up at him inverted against the sky.
-
-[0:12-0:15] Launches ball high with thigh — camera follows ball upward against pure blue sky — peak — drops back — rainbow flick over his head — turns — full power volley — ball rockets directly at camera filling entire frame — CUT TO BLACK. One final beat hit in darkness.
-
-Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, bright natural daylight, clear blue sky throughout, digital painting feel, hard-edge brushwork, heavy shadows, not cartoon not Disney not Pixar, film grain, premium anime quality, hip hop beat and ball contact sounds dominant throughout”
----
-
-翻訳のみを返してください。何も付け加えないでください。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082499807252234240/img/7ZCJMmw-33sj_uOL.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082499843486834955.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082499843486834955.mp4)**
-
-**作者:** [TechieSA](https://x.com/TechieBySA) | **ソース:** [Link](https://x.com/TechieBySA/status/2082499843486834955) | **公開日:** 2026年7月29日
-
-`Sports` `Extreme` `3D Animation` `Realistic World` `Creative Asset`
-
----
-
-### POV, cinematic FPV, luxury modern barbershop, ultra realistic, fast dynamic…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-POV、シネマティックなFPV、ラグジュアリーなモダンバーバーショップ、超リアル、テンポの速いダイナミック編集、滑らかな動き、完璧な連続性、15秒。
-オーバーサイズのグレーのTシャツと丸メガネをかけた内気な少女が、理髪椅子に正面を向いて座り、悲しげで不安げな表情でカメラをまっすぐ見つめている。バーバーの手袋をした手が、ハサミとコームを持ってフレーム内に入る。髪を素早くチェック。高速のホイップカット。髪はクリップで整然とセクション分けされる。最初の正確なカットを後頭部に入れる。切り落とされた髪のクローズアップ。サイドを素早くカットし、襟足を整え、レイヤーをトリミングし、ポイントカットを行い、セニングシザーで質感を出す一連の高速シーケンス。バーバー視点の連続した一人称映像。頭の周りを動くダイナミックなカメラワーク。ハサミ、コーム、髪の束、指、クリップのクローズアップ。髪に水を吹きかけ、ラウンドブラシで持ち上げながらブローし、ボリュームが出る。ワックスを塗布し、指でヘアスタイルを形作り、前髪ともみあげ周りを最後に細かく仕上げる。各カット動作に同期した高速のマッチカット。髪は徐々にスタイリッシュな現代的レイヤードボブへと変化していく。シームレスな変身：メガネが消え、メイクはエレガントになり、服装は体にフィットした黒いドレスへと変わる。最後の見せ場：少女がゆっくりと顔を上げ、自信を持ってカメラを見つめ、わずかに微笑む。バーバーが椅子を360°回転させ、正面、横、後ろ、3/4アングルからヘアスタイルを披露する。最後は自信に満ちた彼女の顔のドラマチックなクローズアップで締める。温かみのあるシネマティックライティング、上質なサロン内装、浅い被写界深度、リアルな髪の物理表現、鮮明なディテール、高いエネルギー、ラグジュアリーなビューティーコマーシャル、4K、滑らかなスタビライゼーション、グリッチなし、変形なし、一貫したキャラクターアイデンティティ。
-
---- THREAD CONTINUATION ---
-[Thread 1] POV、シネマティックなFPV、ラグジュアリーなモダンバーバーショップ、超リアル、テンポの速いダイナミック編集、滑らかな動き、完璧な連続性、15秒。
-オーバーサイズのグレーのTシャツと丸メガネをかけた内気な少女が、理髪椅子に正面を向いて座り、悲しげで不安げな表情でカメラをまっすぐ見つめている。バーバーの手袋をした手が、ハサミとコームを持ってフレーム内に入る。髪を素早くチェック。高速のホイップカット。髪はクリップで整然とセクション分けされる。最初の正確なカットを後頭部に入れる。切り落とされた髪のクローズアップ。サイドを素早くカットし、襟足を整え、レイヤーをトリミングし、ポイントカットを行い、セニングシザーで質感を出す一連の高速シーケンス。バーバー視点の連続した一人称映像。頭の周りを動くダイナミックなカメラワーク。ハサミ、コーム、髪の束、指、クリップのクローズアップ。髪に水を吹きかけ、ラウンドブラシで持ち上げながらブローし、ボリュームが出る。ワックスを塗布し、指でヘアスタイルを形作り、前髪とともあげ周りを最後に細かく仕上げる。各カット動作に同期した高速のマッチカット。髪は徐々にスタイリッシュな現代的レイヤードボブへと変化していく。シームレスな変身：メガネが消え、メイクはエレガントになり、服装は体にフィットした黒いドレスへと変わる。最後の見せ場：少女がゆっくりと顔を上げ、自信を持ってカメラを見つめ、わずかに微笑む。バーバーが椅子を360°回転させ、正面、横、後ろ、3/4アングルからヘアスタイルを披露する。最後は自信に満ちた彼女の顔のドラマチックなクローズアップで締める。温かみのあるシネマティックライティング、上質なサロン内装、浅い被写界深度、リアルな髪の物理表現、鮮明なディテール、高いエネルギー、ラグジュアリーなビューティーコマーシャル、4K、滑らかなスタビライゼーション、グリッチなし、変形なし、一貫したキャラクターアイデンティティ。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082483391270670336/img/kpxRvfnqUSvyCijx.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082501906614603862.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082501906614603862.mp4)**
-
-**作者:** [KreviX](https://x.com/LadyyEth) | **ソース:** [Link](https://x.com/LadyyEth/status/2082501906614603862) | **公開日:** 2026年7月29日
-
-`Product Ad` `Beauty` `Photoreal` `Realistic World` `POV` `FPV & Aerial` `Transformation` `Macro` `VFX`
-
----
-
-### Super casual real smartphone home video footage, cozy winter cabin gathering…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-超カジュアルな実際のスマホのホームビデオ映像。外に雪が見える、居心地のいい冬のキャビンでの集まり。自然なスマホカメラで、わずかな本物らしい手持ちの揺れがある。通常のフレームレートで、滑らかで自然な動き。スマホの思い出をスクロールしているような、1〜2秒ごとの素早いジャンプカットを伴う高速モンタージュ。年齢の異なる人たちがホットココアを飲み、暖炉のそばでおしゃべりしている、飾り気のない本物のスマホ録画。純粋な生のホームビデオ感。シネマティックな仕上げはなし。
-提供された参照写真を、メインの女性に対する厳密かつ唯一のビジュアル参照として使用すること。いかなる逸脱もなく、彼女の外見を完全に一致させること。キャビンの中で、彼女の周りに家族と友人が混ざったグループを生成すること。窓の外には雪が見え、暖炉も見える。
-0〜2.5秒: 揺れる高速カット — メインの女性が暖炉の近くで笑っている。手には温かいココアのマグ。外で雪が降る様子が一瞬映る。
-2.5〜5秒: 突然のジャンプカット — ココアを飲みながら微笑む彼女のクローズアップ。その後、友人たちが毛布やスナックを回している。
-5〜7.5秒: 素早く揺れる — 彼女が火のそばで身振りを交えて楽しそうに話し、近くのソファでは友人や家族がくつろいでいる。
-7.5〜10秒: クイックカットのクローズアップ — カメラに向けて温かい笑顔。その後、暖炉のそばで祖父母と一緒に笑っている彼女へジャンプ。
-10〜12.5秒: 突然の編集 — グループが近くに集まり、スナックや思い出話を共有し、マグを持って気軽に乾杯する。
-12.5〜15秒: 最後の高速トランジション — メインの女性が家族とともに火のそばでリラックスし、やわらかな笑顔を浮かべる。穏やかな冬の思い出として、やさしいスマホの揺れで終わる。
-自然なスマートフォン動画品質、わずかな本物の手持ち揺れ、滑らかな通常フレームレートの動き、自然でカジュアルな物理挙動、メインキャラクターの一貫性を安定して維持、プロ向けのスタビライズやエフェクトはなし。
-
---- THREAD CONTINUATION ---
-[Thread 1] 超カジュアルな実際のスマホのホームビデオ映像。外に雪が見える、居心地のいい冬のキャビンでの集まり。自然なスマホカメラで、わずかな本物らしい手持ちの揺れがある。通常のフレームレートで、滑らかで自然な動き。スマホの思い出をスクロールしているような、1〜2秒ごとの素早いジャンプカットを伴う高速モンタージュ。年齢の異なる人たちがホットココアを飲み、暖炉のそばでおしゃべりしている、飾り気のない本物のスマホ録画。純粋な生のホームビデオ感。シネマティックな仕上げはなし。
-提供された参照写真を、メインの女性に対する厳密かつ唯一のビジュアル参照として使用すること。いかなる逸脱もなく、彼女の外見を完全に一致させること。キャビンの中で、彼女の周りに家族と友人が混ざったグループを生成すること。窓の外には雪が見え、暖炉も見える。
-0〜2.5秒: 揺れる高速カット — メインの女性が暖炉の近くで笑っている。手には温かいココアのマグ。外で雪が降る様子が一瞬映る。
-2.5〜5秒: 突然のジャンプカット — ココアを飲みながら微笑む彼女のクローズアップ。その後、友人たちが毛布やスナックを回している。
-5〜7.5秒: 素早く揺れる — 彼女が火のそばで身振りを交えて楽しそうに話し、近くのソファでは友人や家族がくつろいでいる。
-7.5〜10秒: クイックカットのクローズアップ — カメラに向けて温かい笑顔。その後、暖炉のそばで祖父母と一緒に笑っている彼女へジャンプ。
-10〜12.5秒: 突然の編集 — グループが近くに集まり、スナックや思い出話を共有し、マグを持って気軽に乾杯する。
-12.5〜15秒: 最後の高速トランジション — メインの女性が家族とともに火のそばでリラックスし、やわらかな笑顔を浮かべる。穏やかな冬の思い出として、やさしいスマホの揺れで終わる。
-自然なスマートフォン動画品質、わずかな本物の手持ち揺れ、滑らかな通常フレームレートの動き、自然でカジュアルな物理挙動、メインキャラクターの一貫性を安定して維持、プロ向けのスタビライズやエフェクトはなし。
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082501768018366464/img/3UGFF4kJ7fukMPBn.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082502202539810991.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082502202539810991.mp4)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2082502202539810991) | **公開日:** 2026年7月29日
-
-`Story` `Heartwarming` `Photoreal` `Realistic World` `POV`
-
----
-
-### Use @[image] as storyboard reference for cinematic sequence. use as first shot…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-@[image] をシネマティックなシーケンスのストーリーボード参照として使用してください。最初のショット 01 として使用
-
-8つのストーリーボードパネルすべてを厳密な時系列順に遷移していく、15秒のシネマティックシーケンス。ビジュアルスタイル：フォトリアルなアトモスフェリック・リアリズム、発光する緑のオーロラ、ヴィンテージな海岸沿いの室内、リアルな水と岩の質感、ボリューメトリックな夜間ライティング、8K解像度。重要：フレーム、枠線、フィルムストリップ、番号、UI、テキストは絶対に入れないこと。シームレスなフルスクリーンのシネマティックショットのみでレンダリングすること。グリッドレイアウトは完全に無視すること。各ショットの間は明確なシネマティックカットを入れること。Panel 1 を Panel 2 に変形させないこと。すべてのトランジションは現実的で自然なものにすること。
-
-ショット1（0〜2.0秒）：Panel 1。ワイドなエスタブリッシングショット。岩だらけの島に灯台が立ち、上空には鮮やかな緑のオーロラが広がっている。空から水面へ向かって、柔らかな緑の光の道が流れている。カメラは静止しつつ、シーンを確立するためにゆっくり右へパンする。2秒後に明確にカット。
-
-ショット2（2.0〜4.0秒）：Panel 2。より近いトラッキングショットへカット。カメラは岩の海岸線に沿って、灯台の入口へ向かってゆっくり移動する。緑の光が濡れた石や海岸の草に反射する。頭上ではオーロラがきらめく。前のショットと融合させないこと。
-
-ショット3（4.0〜6.0秒）：Panel 3。室内へカット。カメラは、開いたドアを通って緑の光を追い、居心地のよいヴィンテージな部屋へ入る。暖かなランプの光が、冷たいオーロラの輝きと混ざり合う。自然な埃の粒子が空中に漂う。木製の家具と額入りの写真が壁に並ぶ。
-
-ショット4（6.0〜8.0秒）：Panel 4。薄暗い廊下へカット。緑の光が木の床とヴィンテージの鏡に柔らかな反射を落とす。カメラは自然な歩行速度で前進し、静かで雰囲気のある室内を捉える。クリスタルは不要、魔法のオブジェクトも不要。
-
-ショット5（8.0〜10.0秒）：Panel 5。廊下を進み、開いた裏口へ向かう続きのシーンへカット。緑の光は空気の流れの中でやさしく渦を巻き、外へと導く。柔らかな自然なモーションブラーが前進感を強調する。
-
-ショット6（10.0〜12.0秒）：Panel 6。外のポーチへカット。光はドアから岩の海岸へ流れ出し、暗い海へ向かって伸びていく。海岸の草を風が吹き抜ける。カメラは滑らかに水辺へ向かって外側へトラッキングする。
-
-ショット7（12.0〜13.5秒）：Panel 7。ワイドな外観へカット。灯台の光が真上へ伸び、オーロラ・ボレアリスと溶け合う。緑のエネルギーが建物と空をつなぐ。カメラはゆっくり上へティルトする。
-
-ショット8（13.5〜15.0秒）：Panel 8。宇宙的な引きのショットへカット。カメラは夜空へ上昇する。灯台は、星々と渦巻く緑の大気雲に囲まれた小さな発光点になる。静謐で広大な天体の眺めで終わる。テキストは一切なし。
-
-スタイル強化：明確なショット分離、自然な環境ディテール、リアルなライティング物理、シネマティックなテンポ、一貫したグリーン／ティール／ブルーの配色、テキストなし、グリッドなし、番号なし、地に足のついたアトモスフェリックな流れ。
-
---- スレッド継続 ---
-[Thread 1] Model: Seedance 2.0          
-🎥Prompt to video:
-@[image] をシネマティックなシーケンスのストーリーボード参照として使用してください。最初のショット 01 として使用
-
-8つのストーリーボードパネルすべてを厳密な時系列順に遷移していく、15秒のシネマティックシーケンス。ビジュアルスタイル：フォトリアルなアトモスフェリック・リアリズム、発光する緑のオーロラ、ヴィンテージな海岸沿いの室内、リアルな水と岩の質感、ボリューメトリックな夜間ライティング、8K解像度。重要：フレーム、枠線、フィルムストリップ、番号、UI、テキストは絶対に入れないこと。シームレスなフルスクリーンのシネマティックショットのみでレンダリングすること。グリッドレイアウトは完全に無視すること。各ショットの間は明確なシネマティックカットを入れること。Panel 1 を Panel 2 に変形させないこと。すべてのトランジションは現実的で自然なものにすること。
-
-ショット1（0〜2.0秒）：Panel 1。ワイドなエスタブリッシングショット。岩だらけの島に灯台が立ち、上空には鮮やかな緑のオーロラが広がっている。空から水面へ向かって、柔らかな緑の光の道が流れている。カメラは静止しつつ、シーンを確立するためにゆっくり右へパンする。2秒後に明確にカット。
-
-ショット2（2.0〜4.0秒）：Panel 2。より近いトラッキングショットへカット。カメラは岩の海岸線に沿って、灯台の入口へ向かってゆっくり移動する。緑の光が濡れた石や海岸の草に反射する。頭上ではオーロラがきらめく。前のショットと融合させないこと。
-
-ショット3（4.0〜6.0秒）：Panel 3。室内へカット。カメラは、開いたドアを通って緑の光を追い、居心地のよいヴィンテージな部屋へ入る。暖かなランプの光が、冷たいオーロラの輝きと混ざり合う。自然な埃の粒子が空中に漂う。木製の家具と額入りの写真が壁に並ぶ。
-
-ショット4（6.0〜8.0秒）：Panel 4。薄暗い廊下へカット。緑の光が木の床とヴィンテージの鏡に柔らかな反射を落とす。カメラは自然な歩行速度で前進し、静かで雰囲気のある室内を捉える。クリスタルは不要、魔法のオブジェクトも不要。
-
-ショット5（8.0〜10.0秒）：Panel 5。廊下を進み、開いた裏口へ向かう続きのシーンへカット。緑の光は空気の流れの中でやさしく渦を巻き、外へと導く。柔らかな自然
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082505223390609409/img/qSlEzM60FqMesSmO.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082506036288630853.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082506036288630853.mp4)**
-
-**作者:** [Viki](https://x.com/churvikv) | **ソース:** [Link](https://x.com/churvikv/status/2082506036288630853) | **公開日:** 2026年7月29日
-
-`Scenery & Spectacle` `Landmark` `Photoreal` `Realistic World` `VFX`
-
----
-
-### NO MUSIC ONLY NATURAL SOUND — Epic 2D cel-shaded animation, hand-drawn…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-音楽なし、自然音のみ — 壮大な2Dセルシェーディングアニメーション。手描きのアニメ風ラインワークと、フラットでエッジの立ったセルシェーディングに、グラフィックノベル／コミック的な技法を重ねる：ハーフトーンのベンデイドット質感、輪郭のさりげない色ズレ、クロスハッチの影、手描きのモーションラインとアクションスミア、パンチの効いた「on-twos」のステップフレームレート、彩度高めでコントラストの強い都会的な配色。日差しに照らされたニューヨーク市 — ガラス張りの高層ビル、水塔、非常階段、はるか下に見えるイエローキャブ — POV、ハンドヘルド、トラッキングを切り替えながら、ダイナミックでエネルギッシュなカメラワーク。
-
-強烈な冒頭フック — NICO が摩天楼の峡谷を真っ直ぐ落下し、回転しながら自由落下。街路とタクシーが下から猛スピードで迫り上がり、風が悲鳴を上げる — POV は、近づいてくる地面と彼自身の伸ばした腕の間を素早く切り替える。最後の瞬間、彼の手首から web line が鋭い THWIP とともに発射され、クレーンのアームにピンと張って引っかかり、彼を高速の上昇スイングへと引き上げる。カメラも彼に合わせて勢いよく上へ whip-pan する。NICO: 16歳、ダークスキン、短い黒のテクスチャードヘア、ゴールドのフープイヤリング、オーバーサイズのトープ色Tシャツ、ゆったりしたタンのカーゴパンツ、分厚いオレンジ＆ホワイトのハイカットスニーカー。空へ弧を描きながら、満面の笑みを浮かべる。
-
-ハンドヘルドのトラッキングで背後から追いかける。スイングの頂点で彼が手を離し、大通りの上の開けた空間を転がるように落下、次にもう片方の手首から2本目の web を発射して再びスイング。ビル群の間で勢いを蓄え、Tシャツとカーゴパンツが風にはためく。低い路面レベルのアングルに切り替え、真上を見上げる — ビルを背景に小さく見え、下ではタクシーや歩行者がぼやけて流れる。次のガラス張りの高層ビルへ向かう web line のPOVに切り替え、彼は両足を着地させて窓面を wall-run し、蹴り出してダイブする。
-
-ダイナミックな締め：NICO が大きな弧を描いて賑やかな交差点の上を舞い上がるワイドな空撮。腕を広げ、太陽を横切るシルエット、下にはマンハッタンの碁盤目状の街並みが広がる。彼は web を離し、宙返りして、屋上の水塔の上にしゃがみ込みながら勢いよく着地、片手をついてから立ち上がる — 都市の風が服を揺らし、自信に満ちた笑み、背後できらめくスカイライン。
-
-顔、髪型、イヤリング、衣装、プロポーションは参照シートに固定。
-
-SFX: うなる風、web line が発射され張り詰める鋭い thwip と twang、布がはじける音、スニーカーがガラスや砂利を擦る音、遠くの交通音とクラクション、各着地の衝撃音、Nico の息づかいと短い笑い。クリーンな2Dセルシェーディングアニメーション、太い手描きラインワーク、フラットなセルシェーディング、ハーフトーン質感、色ズレのあるエッジ、滑らかで流れるような動き、控えめなフィルムグレイン、音楽なし、テキストなし、ウォーターマークなし、フォトリアルなし、3D CGIなし、実写なし。
-
---- THREAD CONTINUATION ---
-[Thread 1] まず、Midjourney でこのキャラクターを自分の personalization profile を使って作成しました：--profile ddpmenj。
-
-その後、以下の prompt を使って GPT Image 2 でキャラクターシートを生成しました：
-
-Create a polished 2D cel-shaded character sheet of the 16-year-old Afro-Latino teenage boy shown in the reference image. Preserve his identity and distinctive design: very slim youthful build, tall stylized proportions, long limbs, warm brown skin, angular friendly facial features, thick eyebrows, expressive dark eyes, short black twisted curls with a clean high fade, a warm confident smile, and one small gold hoop earring in each ear.
-
-He wears an oversized dark taupe short-sleeve T-shirt, extremely loose tan cargo pants with large side pockets, and colorful unbranded high-top sneakers with cream, orange, dark green, and black details. No jacket, no hoodie, no headphones, no logos, and no superhero symbols.
-
-Present the character sheet in three perfectly equal vertical sections, each occupying exactly 33.33% of the composition.
-
-LEFT SECTION — chest-up front portrait, facing directly forward, looking straight into the camera with a warm friendly smile. Clearly show his facial features, hairstyle, skin tone, and both gold hoop earrings.
-
-CENTER SECTION — full-body strict front view, perfectly aligned with the camera. Head, shoulders, chest, hips, knees, and feet facing straight forward. Neutral A-pose, arms hanging downward and slightly separated from the torso, elbows straight, both hands fully visible beside his thighs, fingers relaxed, hands completely outside the pockets. Entire body visible from head to toe.
-
-RIGHT SECTION — full-body strict back view in the same neutral A-pose, arms slightly separated from the torso and both hands visible. Clearly show the back of his hairstyle, T-shirt, cargo pants, and sneakers.
-
-Maintain absolute consistency across all three sections in face, hairstyle, body proportions, outfit, colors, earrings, and footwear. Plain medium-grey seamless studio background, soft professional studio lighting, subtle contact shadows, clean bold linework, smooth cel shading, polished cinematic animation design, centered and symmetrical professional character sheet.
-
-[Thread 2] Seedance 2.0 Prompt
-
-音楽なし、自然音のみ — 壮大な2Dセルシェーディングアニメーション。手描きのアニメ風ラインワークと、フラットでエッジの立ったセルシェーディングに、グラフィックノベル／コミック的な技法を重ねる：ハーフトーンのベンデイドット質感、輪郭のさりげない色ズレ、クロスハッチの影、手描きのモーションラインとアクションスミア、パンチの効いた「on-twos」のステップフレームレート、彩度高めでコントラストの強い都会的な配色。日差しに照らされたニューヨーク市 — ガラス張りの高層ビル、水塔、非常階段、はるか下に見えるイエローキャブ — POV、ハンドヘルド、トラッキングを切り替えながら、ダイナミックでエネルギッシュなカメラワーク。
-
-強烈な冒頭フック — NICO (@Image1) が摩天楼の峡谷を真っ直ぐ落下し、回転しながら自由落下。街路とタクシーが下から猛スピードで迫り上がり、風が悲鳴を上げる — POV は、近づいてくる地面と彼自身の伸ばした腕の間を素早く切り替える。最後の瞬間、彼の手首から web line が鋭い THWIP とともに発射され、クレーンのアームにピンと張って引っかかり、彼を高速の上昇スイングへと引き上げる。カメラも彼に合わせて勢いよく上へ whip-pan する。NICO (@Image1): 16歳、ダークスキン、短い黒のテク
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082516427362418688/img/eETS5mNbh5oPMtLF.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082516459608219978.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082516459608219978.mp4)**
-
-**作者:** [MayorkingAI](https://x.com/MayorKingAI) | **ソース:** [Link](https://x.com/MayorKingAI/status/2082516459608219978) | **公開日:** 2026年7月29日
-
-`Action` `Chase` `Anime 2D` `Realistic World` `POV` `FPV & Aerial` `VFX`
-
----
-
-### Create a 10-second hand-drawn Japanese anime sequence, traditional 2D…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-10秒の手描き日本アニメシーケンスを作成。伝統的な2Dアニメーションで、フォトリアル表現なし、3D CGIなし。  
-
-Shot 1 (0–2s): 若い女性侍の目が開く極端なクローズアップ。風が彼女の黒髪の束を顔の前に揺らす。桜の花びらが舞い過ぎる。  
-
-Shot 2 (2–5s): ハードカットでワイドショットへ。彼女は夕暮れの古い日本の神社に向かって背の高い草原を全力疾走しながら、走りつつ刀を抜く。  
-
-Shot 3 (5–8s): ハードカットでダイナミックなローアングルのアクションショットへ。仮面の剣士が彼女を襲う。彼女は跳び上がって空中で回転し、彼と刀を打ち合わせる。火花と花びらが周囲に爆ぜる。  
-
-Shot 4 (8–10s): ハードカットでクローズアップへ。彼女はしゃがんだ姿勢で着地し、ゆっくりと顔をカメラに向ける。背後の夕日の中で刀が光っている。  
-
-ハイエンドな日本の2Dアニメ映画クオリティ、表情豊かな手描きのキャラクターアニメーション、緻密な線画、セルシェーディング、ドラマチックな構図、sakugaのアクション、強い表情、意図的なアニメのタイミング、明確に異なるカメラショットとシーン間の見えるカット。  
-
---- QUOTED TWEET ---
-AI動画モデルに「これが絶対のベスト」というものはありません。ショット次第です。
-
-私は Seedance 2.0、Kling 3.0 Pro、Gemini Omni Flash、Grok Imagine 1.5 を常にテストしていますが、それぞれに異なる強みがあります。
-
-そこで、作りたいものに応じてどれを選ぶべきかを示す簡単なチートシートを作りました。
-
-ランキングで1位だからという理由でモデルを選ばないでください。実際に必要なショットに最適なものを選びましょう。
-
-これを保存しておいてください。モデルが変わるたびに更新していきます。
-
-そして、AI動画のテスト、比較、役立つヒントをもっと知りたい方はフォローしてください。
-
-#AIVideo
-
---- THREAD CONTINUATION ---
-[Thread 1] PROMT: 
-
-10秒の手描き日本アニメシーケンスを作成。伝統的な2Dアニメーションで、フォトリアル表現なし、3D CGIなし。  
-
-Shot 1 (0–2s): 若い女性侍の目が開く極端なクローズアップ。風が彼女の黒髪の束を顔の前に揺らす。桜の花びらが舞い過ぎる。  
-
-Shot 2 (2–5s): ハードカットでワイドショットへ。彼女は夕暮れの古い日本の神社に向かって背の高い草原を全力疾走しながら、走りつつ刀を抜く。  
-
-Shot 3 (5–8s): ハードカットでダイナミックなローアングルのアクションショットへ。仮面の剣士が彼女を襲う。彼女は跳び上がって空中で回転し、彼と刀を打ち合わせる。火花と花びらが周囲に爆ぜる。  
-
-Shot 4 (8–10s): ハードカットでクローズアップへ。彼女はしゃがんだ姿勢で着地し、ゆっくりと顔をカメラに向ける。背後の夕日の中で刀が光っている。  
-
-ハイエンドな日本の2Dアニメ映画クオリティ、表情豊かな手描きのキャラクターアニメーション、緻密な線画、セルシェーディング、ドラマチックな構図、sakugaのアクション、強い表情、意図的なアニメのタイミング、明確に異なるカメラショットとシーン間の見えるカット。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082519313643188224/img/CHxpS4ongfwUg8Px.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082520302052163820.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082520302052163820.mp4)**
-
-**作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **ソース:** [Link](https://x.com/YourAlphaMom/status/2082520302052163820) | **公開日:** 2026年7月29日
-
-`Action` `Wuxia` `Anime 2D` `Historical`
-
----
-
-### Fast continuous cinematic FPV drone chase video following a white-haired 3D…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-白髪の3Dアニメ風少女が、巨大なSF山岳メガストラクチャーを舞台に、極限の未来的ホバースケートボード走行を繰り広げる様子を追う、速く連続したシネマティックなFPVドローン追跡映像。彼女は、プラズマスラスター、磁気スタビライザー、青いエナジートレイル、ジェットブーストの炎、火花、風の流線、衝撃波エフェクトを備えた反重力スケートボードに乗っている。シーケンス全体は、環境がダイナミックに切り替わりながらも、ひとつにつながった高速ランとして感じられる必要がある。まずは険しく荒々しい山道から始まり、深い峡谷の上に架かるガラスのスカイブリッジへと流れ込み、滝のトンネルをくぐり抜け、浮遊する磁気レールへ飛び乗り、ネオンに照らされたメンテナンストンネルを駆け抜け、海沿いの断崖へ飛び出し、垂直の崖面をウォールライドし、壊れた浮遊道路の破片を飛び越え、最後は未来的な海岸都市へ向かって大きく降下して終わる。
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082542854166228992/img/j1Vv2A7yKM0n2Xsg.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082543049918513363.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082543049918513363.mp4)**
-
-**作者:** [⚡AI Search⚡](https://x.com/aisearchio) | **ソース:** [Link](https://x.com/aisearchio/status/2082543049918513363) | **公開日:** 2026年7月29日
-
-`Sports` `Extreme` `Action` `Chase` `3D Animation` `Sci-Fi` `FPV & Aerial` `VFX`
-
----
-
-### Dialogue is all in English. Cinematic Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-会話はすべて英語です。シネマティック動画プロンプト  
-ビジュアル＆アートスタイル：  
-美学：高品質な伝統的2Dアニメスタイルで、上質な日常系・ラブコメ作品を思わせる雰囲気。ライティングは柔らかく空気感があり、外の雨による冷たく物悲しい青系のトーンが、教室内の温かく心地よい照明と美しく対比している。キャラクター：大きく表情豊かな瞳を持つ、明るいティーンのアニメ女子高生。クラシックな日本の高校のセーラー服を着ている。少し髪が乱れた、ハンサムで背の高いアニメ男子高校生。お揃いの男子制服を着ている。  
-アクション＆シネマトグラフィー：  
-Scene 1 (The Window): ミディアムの横顔ショット。女子高生は教室の窓辺にもたれ、両手にあごを乗せて気楽に寄りかかっている。彼女は穏やかで優しい笑みを浮かべ、ガラスを伝う雨粒を見つめている。背景には、丁寧に描かれた、ややピントの外れた雨の校庭が広がっている。  
-Scene 2 (The Surprise): カメラは彼女の背後からのトラッキングショットに切り替わる。白いシャツと無地のズボンを着たハンサムな男の子が、いたずらっぽい笑みを浮かべながら、つま先立ちでフレーム内に忍び込む。彼は両腕を伸ばし、後ろから両手でそっと彼女の目を覆う。  
-Scene 3 (The Impact): 瞬間的で超高速のスラップスティックなアニメ反応。穏やかな教室の背景は突然消え去り、代わりにドラマチックな黄色と赤のアクションスピードラインが現れる。女子高生は純粋なパニック反射で、勢いよく頭を後ろに振り上げる。画面いっぱいに巨大でギザギザのインパクトスターが閃き、彼女の後頭部が彼の顔に完璧にぶつかる。  
-Scene 4 (The Aftermath): ドラマチックなスピードラインが消え、通常の教室背景が戻る。男の子は床の上で仰向けに倒れ、うめき声を上げている。額にはコミカルに大きく脈打つ赤い漫画風のたんこぶができ、頭の周りには目が回る小さな鳥がぐるぐる飛んでいる。女子高生は彼の上に立ち、両手を腰に当て、頬を真っ赤に染めている。彼女は身をかがめ、ものすごく申し訳なさそうでありながら、なお強く دفاع的な様子で、叱るように指を彼へ向けている。  
-音声＆セリフ：  
-サウンドスケープ：シーンは、窓ガラスに当たる雨のやさしく心地よい音から始まる。  
-The Guy (playful, leaning in close): "Peek-a-boo!"  
-効果音：頭突きの瞬間に、誇張された大きく空洞感のある BONK の効果音。その直後に、打たれた銅鑼が震えるような音が鳴る。  
-The Guy (muffled, comical groan): "Bweh...!"  
-The Schoolgirl (flustered, rapidly switching between panicking and scolding): "Ah! I'm so sorry! But never sneak up behind me like that, it's not funny!"  
-
---- THREAD CONTINUATION ---  
-[Thread 1] 日常系アニメシーン向けのプロンプト！「会話はすべて英語です。シネマティック動画プロンプト  
-ビジュアル＆アートスタイル：  
-美学：高品質な伝統的2Dアニメスタイルで、上質な日常系・ラブコメ作品を思わせる雰囲気。ライティングは柔らかく空気感があり、外の雨による冷たく物悲しい青系のトーンが、教室内の温かく心地よい照明と美しく対比している。キャラクター：大きく表情豊かな瞳を持つ、明るいティーンのアニメ女子高生。クラシックな日本の高校のセーラー服を着ている。少し髪が乱れた、ハンサムで背の高いアニメ男子高校生。お揃いの男子制服を着ている。  
-アクション＆シネマトグラフィー：  
-Scene 1 (The Window): ミディアムの横顔ショット。女子高生は教室の窓辺にもたれ、両手にあごを乗せて気楽に寄りかかっている。彼女は穏やかで優しい笑みを浮かべ、ガラスを伝う雨粒を見つめている。背景には、丁寧に描かれた、ややピントの外れた雨の校庭が広がっている。  
-Scene 2 (The Surprise): カメラは彼女の背後からのトラッキングショットに切り替わる。白いシャツと無地のズボンを着たハンサムな男の子が、いたずらっぽい笑みを浮かべながら、つま先立ちでフレーム内に忍び込む。彼は両腕を伸ばし、後ろから両手でそっと彼女の目を覆う。  
-Scene 3 (The Impact): 瞬間的で超高速のスラップスティックなアニメ反応。穏やかな教室の背景は突然消え去り、代わりにドラマチックな黄色と赤のアクションスピードラインが現れる。女子高生は純粋なパニック反射で、勢いよく頭を後ろに振り上げる。画面いっぱいに巨大でギザギザのインパクトスターが閃き、彼女の後頭部が彼の顔に完璧にぶつかる。  
-Scene 4 (The Aftermath): ドラマチックなスピードラインが消え、通常の教室背景が戻る。男の子は床の上で仰向けに倒れ、うめき声を上げている。額にはコミカルに大きく脈打つ赤い漫画風のたんこぶができ、頭の周りには目が回る小さな鳥がぐるぐる飛んでいる。女子高生は彼の上に立ち、両手を腰に当て、頬を真っ赤に染めている。彼女は身をかがめ、ものすごく申し訳なさそうでありながら、なお強く دفاع的な様子で、叱るように指を彼へ向けている。  
-音声＆セリフ：  
-サウンドスケープ：シーンは、窓ガラスに当たる雨のやさしく心地よい音から始まる。  
-The Guy (playful, leaning in close): "Peek-a-boo!"  
-効果音：頭突きの瞬間に、誇張された大きく空洞感のある BONK の効果音。その直後に、打たれた銅鑼が震えるような音が鳴る。  
-The Guy (muffled, comical groan): "Bweh...!"  
-The Schoolgirl (flustered, rapidly switching between panicking and scolding): "Ah! I'm so sorry! But never sneak up behind me like that, it's not funny!"」
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082547569549615104/img/rQfVhZnYqCZGqgph.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082547783610011968.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082547783610011968.mp4)**
-
-**作者:** [Kinovi.AI](https://x.com/kinovi_ai) | **ソース:** [Link](https://x.com/kinovi_ai/status/2082547783610011968) | **公開日:** 2026年7月29日
-
-`Story` `Sitcom` `Anime 2D` `Realistic World` `VFX`
-
----
-
-### 【女子高生二人組・TikTokダンス動画生成プロンプト】
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 プロンプト
-
-```
-【女子高生二人組・TikTokダンス動画生成プロンプト】
-参照画像に描かれた女子高生二人を主人公として使用する。
-15秒、24fps、横型16:9。
-日本のフルカラーアニメ。劇場版アニメレベルの圧倒的な作画品質。作画枚数を非常に多くし、滑らかで自然なアニメーションにする。繊細でクリアな線画、美しいセルアニメ調、柔らかなシェーディング、鮮やかで自然な色彩、透明感のあるライティング。ザラつき、ノイズ、低解像度感は一切ない。髪、リボン、スカート、制服の布地が、二人の動きに合わせて自然に揺れる。
-
-キャラクター
-主人公は、参照画像に描かれた女子高生二人本人。
-二人それぞれの顔立ち、瞳、髪型、髪色、体格、制服、アクセサリー、年齢感、雰囲気を忠実に維持する。二人の顔や髪型を入れ替えない。二人を同じ顔にしない。ダンス中も、カメラが切り替わっても、キャラクターデザインを完全に統一する。
-
-二人はプロのアイドルではなく、
-「クラスで特に可愛い、仲の良い女子高生二人が、放課後の教室でTikTok動画を撮っている」
-ような自然で親しみやすい可愛さ。
-左側の女の子は少し恥ずかしがり屋。撮影を意識して頬をほんのり赤らめ、時々照れ笑いをする。一瞬だけ目を逸らした後、再びカメラを見る。動きは丁寧で可愛いが、少し緊張している。
-右側の女の子は明るく積極的で、左側の女の子を自然にリードする。楽しそうな笑顔で踊り、時々左側の女の子を見て安心させるように微笑む。
-二人は非常に仲が良く、互いを信頼している。競い合うのではなく、一緒に踊ることを心から楽しんでいる。視線、表情、距離感、小さな仕草から、二人の友情と信頼関係が自然に伝わる。
-
-背景
-放課後の明るい日本の高校の教室。
-教室内には二人以外の人物はいない。木製の机と椅子、黒板、窓、カーテンが整然と配置されている。窓から暖かな夕日が差し込み、二人の髪や制服の輪郭を柔らかく照らす。
-背景は明るくポップで爽やか。青春らしい透明感と、放課後の穏やかな空気感を持たせる。背景の情報量は適度に抑え、常に二人が最も目立つようにする。
-
-音楽
-オリジナルの日本語ポップソング。
-実在する楽曲や既存のメロディーは使用しない。
-テンポは約140BPM。可愛い女性ボーカル。明るく爽やかなサビを中心とした、SNSの短尺動画に合うキャッチーな楽曲。
-
-ダンス
-TikTokで二人一緒に真似したくなる、可愛く覚えやすいペアダンス。
-全身を激しく動かすダンスではなく、上半身の可愛い動き、手の振り付け、表情、二人の掛け合いを中心にする。
-
-使用する振り付け：
-・二人で左右対称のハンドジェスチャー
-・胸の前でハート
-・二人の片手を合わせて一つの大きなハートを作る
-・指ハート
-・ほっぺピース
-・カメラへの指差し
-・軽いウィンク
-・肩をリズミカルに跳ねる
-・軽い腰振り
-・左右への小さなステップ
-・位置を入れ替える小さなターン
-・互いに向き合う振り付け
-・髪を片方の耳に掛ける
-・前髪を軽く整える
-・スカートとリボンが軽く揺れる程度のステップ
-・二人で少しだけカメラへ近付く動き
-・最後に二人で揃える決めポーズ
-二人の動きは基本的に同期しているが、機械的に完全一致させない。それぞれの性格が伝わる、ごくわずかなタイミングや表情の違いを残す。
-ダンスは上手だが、プロのアイドルのように完璧すぎない。友達同士で何度か練習して撮影しているような、自然な完成度にする。
-
-演技
-演技を最重要視する。
-左側の女の子は少し恥ずかしそうだが、右側の女の子と一緒なので徐々に緊張が解けていく。途中で笑いそうになり、口元を一瞬だけ手で隠す。頬はほんのり赤い。
-右側の女の子は、左側の女の子の緊張に気付き、優しく笑いかける。無理に引っ張るのではなく、自然な目線や笑顔で安心させる。
-二人が視線を合わせた瞬間は、恋愛的な演出ではなく、親友同士の深い信頼、安心感、友情が伝わる表現にする。
-「少し恥ずかしいけれど、大切な友達と一緒だから楽しく撮影できた」
-という空気感を映像全体から感じさせる。
-
-カメラ構成
-横型16:9の画面を活かし、二人の全身と教室の青春感がバランスよく見える構図。
-基本は二人を横並びで配置し、互いの体が過度に重ならないようにする。顔、両手、指、脚、靴を明瞭に映す。
-複数のカメラで撮影しているようなテンポのよい構成。
-
-使用するアングル：
-・正面の全身ショット
-・左45度からの斜めショット
-・右45度からの斜めショット
-・わずかに高い位置からのショット
-・二人の上半身を捉えるミディアムショット
-・二人の顔を同時に映すアップショット
-・背後から二人が振り返るショット
-
-カメラは完全固定ではなく、ビートに合わせて軽い上下バウンス、緩やかなパン、短いパンチイン、小さな左右移動を行う。ただし、激しい手ブレ、極端なズーム、急激な回転、人物を見失うカメラワークは禁止。
-
-見つめ合うアップシーン
-動画中盤に、二人が互いを信頼していることが伝わる重要なアップシーンを入れる。
-ダンスの流れの中で二人が自然に向き合い、カメラは二人の横顔と表情を同時に捉える胸上のツーショットへ滑らかに移動する。
-二人は一瞬だけ静かに目を合わせる。右側の女の子が優しく安心させるように微笑み、左側の女の子も少し照れながら柔らかく微笑み返す。
-夕日の光が二人の瞳と髪を柔らかく照らす。二人の瞳には繊細なハイライトを入れる。背景は浅い被写界深度で柔らかくぼける。
-過剰なスローモーションやドラマチックすぎる演出は避ける。親友同士だからこそ自然に生まれる、短く温かいアイコンタクトとして描写する。
-二人が小さくうなずいた直後、音楽のビートに合わせて再び正面を向き、息の合ったダンスへ戻る。
-
-AE風エフェクト
-画面全体を、After Effectsで
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082474094516477952/img/ntXn5jD2jrFbxmvx.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082579420682879189.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082579420682879189.mp4)**
-
-**作者:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **ソース:** [Link](https://x.com/Naonekozamurai/status/2082579420682879189) | **公開日:** 2026年7月29日
-
-`Music & Dance` `Dance` `Anime 2D` `Realistic World` `VFX`
-
----
-
-### Shot on Arri Alexa 35 with anamorphic lenses. 21:9. Photorealistic. Dense…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-Arri Alexa 35でアナモルフィックレンズを使用して撮影。21:9。フォトリアル。1800年代の濃密な熱帯ジャングル。そびえ立つ木々と垂れ下がるつるに囲まれた、轍の刻まれた細い土道。午後の強い日差しが樹冠の隙間から筋状に差し込み、光の中に土ぼこりが漂っている。音楽なし。フィルムグレインなし。黒画面へのカット禁止。
-0:00-0:04 ローアングルのトラッキングショット。レンズは地面すれすれ。2頭の馬が土ぼこりを巻き上げながら轟音とともに駆け抜け、車輪のスポークがレンズの前を回転しながら通り過ぎる。使い込まれた駅馬車が猛スピードで道を突き進み、御者は立ったまま鞭を鳴らしている。
-0:04-0:08 ワイドショット。1人の山賊が木立の中から道へ踏み出す。黒い広つば帽、汚れたリネンのシャツ、下半分を覆う布マスク、長いフリントロック銃を構えている。彼は空へ向けて1発撃つ。馬は後ろ足で立ち上がり、御者は手綱を強く引き、馬車は横滑りしながら爆発するような土ぼこりの雲の中で止まる。
-0:08-0:12 馬車内への寄りのショット。高い襟の旅装ドレスとボンネットを身につけた中年女性3人が座席に押し戻され、その横に中年男性が2人いる。山賊が銃口を向けたまま近づく。ライフルの銃身から、ひざの上で折りたたまれたウールのショールの下に手を隠したまま、落ち着いて瞬きひとつしない最年長の女性の顔へとラックフォーカス。
-0:12-0:15 彼女はショールを持ち上げる。すでに彼の胸を狙っている、起こした状態のフリントロック式ピストル。山賊は凍りつく。御者が手綱を鳴らし、馬車が前方へ急加速して彼を弾き飛ばし、茂みへ叩き込む。ライフルは土の上で回転する。馬車が道の先へ消えていくのに合わせてウィップパンし、空っぽの道にホールド。彼の帽子が車輪の轍に落ち着く。
-
---- THREAD CONTINUATION ---
-[Thread 1] Arri Alexa 35でアナモルフィックレンズを使用して撮影。21:9。フォトリアル。1800年代の濃密な熱帯ジャングル。そびえ立つ木々と垂れ下がるつるに囲まれた、轍の刻まれた細い土道。午後の強い日差しが樹冠の隙間から筋状に差し込み、光の中に土ぼこりが漂っている。音楽なし。フィルムグレインなし。黒画面へのカット禁止。
-0:00-0:04 ローアングルのトラッキングショット。レンズは地面すれすれ。2頭の馬が土ぼこりを巻き上げながら轟音とともに駆け抜け、車輪のスポークがレンズの前を回転しながら通り過ぎる。使い込まれた駅馬車が猛スピードで道を突き進み、御者は立ったまま鞭を鳴らしている。
-0:04-0:08 ワイドショット。1人の山賊が木立の中から道へ踏み出す。黒い広つば帽、汚れたリネンのシャツ、下半分を覆う布マスク、長いフリントロック銃を構えている。彼は空へ向けて1発撃つ。馬は後ろ足で立ち上がり、御者は手綱を強く引き、馬車は横滑りしながら爆発するような土ぼこりの雲の中で止まる。
-0:08-0:12 馬車内への寄りのショット。高い襟の旅装ドレスとボンネットを身につけた中年女性3人が座席に押し戻され、その横に中年男性が2人いる。山賊が銃口を向けたまま近づく。ライフルの銃身から、ひざの上で折りたたまれたウールのショールの下に手を隠したまま、落ち着いて瞬きひとつしない最年長の女性の顔へとラックフォーカス。
-0:12-0:15 彼女はショールを持ち上げる。すでに彼の胸を狙っている、起こした状態のフリントロック式ピストル。山賊は凍りつく。御者が手綱を鳴らし、馬車が前方へ急加速して彼を弾き飛ばし、茂みへ叩き込む。ライフルは土の上で回転する。馬車が道の先へ消えていくのに合わせてウィップパンし、空っぽの道にホールド。彼の帽子が車輪の轍に落ち着く。
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082602278213615617/img/jfJU1Z4mJvlI4isi.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082602313202508230.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082602313202508230.mp4)**
-
-**作者:** [God's Way Foundation](https://x.com/godswayfoundinc) | **ソース:** [Link](https://x.com/godswayfoundinc/status/2082602313202508230) | **公開日:** 2026年7月29日
-
-`Action` `Gunfight` `Photoreal` `Historical` `VFX` `Slow-Mo`
-
----
-
-### A conversation of the daughter in image @image1 and the dad in image @image2…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-画像@image1の娘と画像@image2の父親の会話。娘はペットの犬を夢見ながら座っており、@image3、@image4、@image5の犬たちを次々と思い浮かべる。彼女がそれらを想像すると、犬たちは目、顔、口、そして尻尾を通して幸せそうな様子を見せている。やがて彼女は父親に、ペットの犬を飼うべきだと伝えるが、父親は犬を欲しがらない。娘はしつこくお願いし続け、ペットの犬を飼うことがどれほど素晴らしいかを話して父親を説得しようとする。父親はそのたびに犬は好きではないと言い続け、二人が交互にやり取りを重ねる。そして最後に父親はついに「わかった、犬を飼おう」と言う。昔のディズニー映画のような美学とアニメーションスタイル。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081799980638248960/img/jkIazagZeayvwaD7.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081903715313926205.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081903715313926205.mp4)**
-
-**作者:** [Aiden Vu](https://x.com/byaiden_vu) | **ソース:** [Link](https://x.com/byaiden_vu/status/2081903715313926205) | **公開日:** 2026年7月28日
-
-`Story` `Heartwarming` `Animals` `Pets` `3D Animation` `Realistic World` `Transformation`
-
----
-
-### 诗意武侠 × 冷面反转喜剧｜白鹤认米不认琴
-
-#### 📝 プロンプト
-
-```
-詩意武侠 × 冷面反転コメディ｜白鶴は米を認めて琴を認めず
-【スタイル】
-映画級のリアルな質感、実写ベース。
-詩意武侠の抑制された美学、無表情な観察型コメディ、優雅な中国古典構図、夕暮れの柔らかな逆光、低彩度の翡翠グリーンとアイボリーホワイトのトーン、繊細なフィルムグレイン、そして制御された白鶴の群れの演出を融合。
-
---- QUOTED TWEET ---
-ちょっと面白い、俺この剣仙、来たばかりでまだ慣れてない
-
-動画生成：反転コメディ（Comedy Twist）｜仙侠の達人が初めて都市の横風に遭遇
-
-Seedance 2.0 は、こういう突飛な発想を実現するのにとても向いている。
-
-さっきまでクールな剣仙が剣に乗って巡遊していたのに、次の瞬間には現代都市の交通に容赦なく制裁される。
-
-prompt 👇
-
-【動画仕様】
-
-長さ：10秒
-画角：16:9 横長
-タイプ：反転コメディ（Comedy Twist）
-画面の質感：実写、映画級のリアルな質感、自然な肌の質感、リアルな都市環境
-【コアとなるギャップ】
-前半は壮大で荘厳、圧迫感のある仙侠大作の雰囲気を作る。
-後半は突然、みじめで静かで気まずい現実コメディへ転じる。
-反転は必ず突然起こし、事前の示唆は入れないこと。全体は荒唐無稽だが論理は明快で、軽快かつ無害なコメディの空気を保つ。
-
-【シーン】
-
-晴れた昼間の都市の幹線道路。
-
-道路には対向車線の自動車道、路肩の自転車道、歩道が含まれる。
-
-歩道のそばには、ばらばらに積まれた大量の古い段ボール箱が置かれている。段ボールの大きさはまちまちで、人物が落ちた際に四方へ散らばり、誇張されつつも安全なコメディ効果を生むことができる。
-
-【キャラクター】
-
-剣仙姉さん：@画像1
-
-参照画像の顔、髪型、衣装、体型、人物特徴を厳密に維持し、全編を通して顔替えや見た目の変更をしてはならない。
-
-【重要な連続性】
-
-銀色の長剣は前半を通して、剣仙姉さんの足元に浮遊していること。
-
-青い大型トラックは必ず隣の自動車道を通過するだけで、いかなる人物、長剣、自転車にも接触・衝突してはならない。
-
-剣仙姉さんが段ボール箱の山に落ちるのは安全で誇張されたコメディ演出であり、負傷、流血、痛み、実際の交通事故は一切描かないこと。
-
-すべての動作は空間的な連続性を保ち、人物や小道具が瞬間移動してはならない。
-
-━━━━━━━━━━━━━━
-
-[00:00-00:03]
-
-【ショット1：仙侠大作級の登場】
-
-超ローアングルのあおり、カメラは素早く後方へ追従。
-
-剣仙姉さんは銀色の長剣に足を乗せ、地上約2メートルの高さを都市道路の上空で高速に滑空する。
-
-両手を背中に回し、顎をわずかに上げ、視線は冷たく、表情は高慢。まるで俗世を見下ろしているかのよう。
-
-長い髪とスカートの裾は正面からの風に後方へ流され、動きは安定していて優雅、圧迫感に満ちている。
-
-陽光が銀色の剣身に鋭い反射を生み、長剣が空気を切り裂くたび、淡い銀色の剣気の軌跡が残る。
-
-効果音：荘厳な仙侠音楽、風を切るヒュッという音、低く響く剣鳴り。
-
-オープニング字幕：
-
-「剣仙が初めて現代交通システムに入ったとき」
-
-━━━━━━━━━━━━━━
-
-[00:03-00:07]
-
-【ショット2：ひと言の絶賛で完全に舞い上がる】
-
-自転車道の側面からの追従ショットに切り替え。
-
-自転車姉さんが自転車で画面に入ってきて、空中の剣仙姉さんを見上げ、目を見開いたあと、興奮してペダルを強く踏み込み追いかける。
-
-自転車姉さんが心からの憧れを込めて叫ぶ：
-
-「うわ！お姉さん、めちゃくちゃカッコいいじゃん！」
-
-剣仙姉さんの顔のクローズアップに切り替え。
-
-褒め言葉を聞いた剣仙姉さんは、もともと冷淡だった口元が一瞬だけ上がり、すぐに無理やり抑え込む。
-
-平静を装って手を上げ髪を払うが、目はこっそり下の自転車姉さんをちらりと見ており、明らかに得意げになり始めている。
-
-足元の銀色の長剣は、主人に合わせて技を見せるかのように、空中で滑らかな小さなS字を2回描く。
-
-効果音：仙侠音楽は継続し、わずかな得意げな「ふふん」という音と、きらめく効果音を追加。
-
-━━━━━━━━━━━━━━
-
-[00:07-00:10]
-
-【ショット3：現実世界が突然仕掛ける】
-
-固定の側面ワイドショットに切り替え。
-
-剣仙姉さんは目を閉じ、顎を少し上げて、自転車姉さんの崇拝を気持ちよく受けている。
-
-すると、巨大な青いトラックが隣の自動車道を突然高速で通過する。
-
-トラックは誰にもぶつからないが、通過時に極端に誇張された強烈な横風を発生させる。
-
-剣仙姉さんの髪、スカートの裾、そして表情が同時に風で乱される。
-
-顔に浮かんでいた得意げな笑みは一瞬で消え、目が大きく見開かれ、瞳が揺れる。
-
-足元の銀色の長剣は激しく左右に揺れ始める。
-
-彼女は再び高人然とした姿勢を取ろうとするが、両手は空中で慌てて2回ほど掻き動く。
-
-その後、身体は風に飛ばされた紙切れのように、剣ごと横へ流され、路肩の段ボール箱の山へと漂っていく。
-
-効果音：トラックの低いクラクション音、猛烈な横風の音。
-
-トラックが通過した瞬間、荘厳な仙侠音楽は即座に停止する。
-
-━━━━━━━━━━━━━━
-
-[00:10-00:12]
-
-【ショット4：仙女、凡間に墜ちる】
-
-段ボール箱の山を正面から捉えたカメラに素早く切り替え。
-
-剣仙姉さんは、誇張されつつも安全な姿勢で、古い段ボール箱の山に頭から突っ込む。
-
-段ボール箱は一瞬で四方へ弾け飛ぶ。
-
-大きな段ボール箱が彼女の上半身をすっぽり覆い、小さな段ボール箱2つがゆっくりと頭と肩の上に落ちる。
-
-銀色の長剣は空中で制御を失って2回回転し、剣気は完全
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081906738559660032/img/YknfUfh1QetnoNel.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081907108690178077.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081907108690178077.mp4)**
-
-**作者:** [Soran](https://x.com/Soranlan) | **ソース:** [Link](https://x.com/Soranlan/status/2081907108690178077) | **公開日:** 2026年7月28日
-
-`Action` `Wuxia` `Meme & Comedy` `Internet Meme` `Photoreal` `Historical` `VFX`
-
----
-
-### Shot count: 1 | Duration: 10s | Aspect ratio: 16:9
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 プロンプト
-
-```
-Shot count: 1 | Duration: 10s | Aspect ratio: 16:9
-Use @Image1 as the exact first frame.
-
-=== ABSOLUTE TEXT RULE ===
-Do not add, replace, redraw or re-render any text anywhere in the frame.
-Every Japanese character, every number, the brand name and the website
-address must stay exactly as they are in @Image1 for all ten seconds.
-Never display any English word other than what is already printed in
-@Image1. No new text of any kind may appear.
-
-=== CAMERA ===
-Fixed, locked-off tripod shot. The camera never moves, pans or zooms.
-Any change in her size comes from the girl herself stepping forward,
-not from the camera.
-
-=== SUBJECT ===
-Maintain exact appearance from @Image1: the same 17-year-old Japanese
-schoolgirl, same face, same very fair skin, same black ponytail, same
-white short-sleeved sailor blouse with navy scarf, same navy pleated
-skirt, same navy shoulder bag. Her facial structure and features stay
-identical throughout. Her blouse always covers her waist completely and
-her midriff is never visible at any moment.
-
-=== CORE IDEA ===
-The frame looks like a printed magazine ad. Then the girl inside it
-turns out to be alive, and she steps forward out of the layout toward
-the viewer. From that moment on she owns the frame and the eye goes
-straight to her.
-
-=== FRAMING CHANGE ===
-At the start she is seen from mid-thigh up.
-When she steps forward, she comes close enough that the bottom edge of
-the frame now cuts her at the waist, and her thighs and the hem of her
-skirt are no longer visible at all. The top of her head stays fully
-inside the top edge, never cropped. Her face becomes noticeably larger.
-This waist-up framing is held for the entire rest of the video and
-never widens back out.
-
-=== TIMELINE ===
-
-0.0-1.0s: Absolutely nothing moves. Not a blink, not a breath, not a
-hair. The image is completely frozen and must be indistinguishable
-from a still photograph. She is seen from mid-thigh up.
-
-1.0-1.4s: Only her eyes move. They flick to the left, toward the
-bottle. Her head, her body and her smile do not move at all yet.
-
-1.4-2.4s: She comes alive and steps forward toward the camera, until
-the framing described above is reached: waist up, head fully in frame,
-thighs and skirt hem gone. She also shifts very slightly toward the
-centre. As the sky behind her falls out of focus and turns very
-slightly soft, she stays perfectly sharp, so she clearly separates
-from the printed layout and becomes the focal point.
-In the same movement her head turns toward the bottle, her upper body
-leans to her right, she releases the bag strap and stretches her right
-arm out across the frame. Her bare forearm and hand pass clearly in
-front of the flat blue graphic panel and over the printed lead copy.
-She closes her hand around the cold bottle and lifts it off the layout,
-leaving that area of the design empty.
-
-She stays at this larger size and this waist-up framing for the entire
-rest of the video. She never shrinks back and never returns to her
-original position.
-
-2.4-3.1s: She straightens back up, brings the bottle in front of her
-chest, and quickly twists the white cap off with her other hand. The
-movement is fast and confident. Both hands stay clearly formed with
-five normal fingers each.
-
-3.1-5.4s: She raises the bottle to her lips with her right hand, tips
-her head back and drinks thirstily in long swallows. Her throat moves
-visibly with each swallow, her eyes close, and her eyebrows relax.
-Condensation runs down the bottle.
-
-5.4-6.3s: She pulls the bottle away from her mouth, lifts her face and
-opens her eyes wide with a huge refreshed exhale. Her ponytail and the
-loose strands around her face lift in a gust of wind. A drop of water
-shines at the corner of her mouth. Pure relief.
-
-6.3-8.0s: She lowers the bottle, looks straight into the camera and
-speaks with bright, energetic delivery, a full open smile.
-
-8.0-10.0s: She thrusts the bottle forward toward the camera with her
-right arm, so it becomes noticeably larger and closer to the lens, and
-calls out the brand name. The label rotates to face the camera squarely
-so the logo is fully readable. From 9.5s she holds completely still,
-smiling, still framed from the waist up, with the label facing front
-and perfectly sharp.
-
-=== PRESENCE ===
-After 2.4s the girl must clearly read as standing in front of the
-printed advertisement rather than being part of it. She is larger,
-sharper and closer to the viewer than every graphic element behind her.
-All flat graphic elements and all text stay perfectly sharp and fully
-readable at their original size; only the photographic sky softens.
-
-=== BODY LANGUAGE ===
-Whenever she turns to something, her eyes move first, then her head,
-then her shoulders and torso, and her arm last. She breathes visibly
-and her weight shifts subtly, so she never looks frozen after the first
-second. All movements are energetic but smooth, never robotic.
-
-=== EXPRESSION ARC ===
-frozen bright smile -> alert and focused as she reaches -> eyes closed
-in relief while drinking -> eyes wide with a big refreshed gasp ->
-bright energetic speaking face -> the biggest, happiest smile of all
-at the very end.
-
-=== LOCKED ===
-The blue graphic panel, the headline, the lead copy, the product
-information lines, the brand logo and the website address never move,
-never change size and are never redrawn. The lighting stays identical
-throughout. The only things that change are the girl, her bag, the
-bottle she picks up, and the slight softening of the sky behind her.
-
-=== AUDIO ===
-0.0-1.0s: only loud cicadas and thick summer heat ambience, no music.
-1.4s: the cicadas cut away and a bright, energetic Japanese summer
-commercial track kicks in, upbeat and cheerful.
-3.1-5.4s: the music drops out completely; only fizzing carbonation and
-her swallowing are heard.
-5.4s: the music returns at full energy on her gasp.
-8.0s: a final accent hit as she thrusts the bottle forward.
-
-Japanese female voiceover, 17 years old, bright, cheerful and full of
-energy, spoken live on camera with natural lip sync.
-6.5s  「夏は、飲んで勝つ。」
-8.3s  「アクシア！」
-
-=== AVOID ===
-any movement at all during the first second, blinking in the first
-second, the camera moving or zooming, the girl returning to her
-original size, the girl shrinking back after stepping forward,
-the framing widening back out after she steps forward, her thighs or
-skirt hem being visible after she steps forward, her head being cropped
-by the top edge, the girl walking sideways across the frame, the bottle
-moving by itself before she touches it, drinking from a closed bottle,
-the midriff or waist showing, the blouse riding up, extra fingers,
-missing fingers, hand deformation, more than two hands, the text or
-graphics becoming blurry, new text appearing, text warping, morphing
-letters, garbled Japanese, the logo becoming unreadable, the label
-facing away at the end, face shape changing, different person,
-face drift, glow, sparkles, new objects.
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081922602260660224/img/OOnBMeXKXEHjfDOP.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081925685980066119.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081925685980066119.mp4)**
-
-**作者:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **ソース:** [Link](https://x.com/tanabe_fragm/status/2081925685980066119) | **公開日:** 2026年7月28日
-
-`Product Ad` `F&B` `Photoreal` `Realistic World`
-
----
-
-### Character consistency: The subject is the young female influencer from…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-キャラクターの一貫性：被写体は参考画像1の若い女性インフルエンサーです。どの角度から見ても、顔の形、顔立ち、肌の色は画像1と完全に一致していなければならず、顔の変形は禁止です。
-
-衣装：すべてのシーンで、洗練されていて華やかな黒のドレス、クロップトップ、ジャケット、ストリートウェアを着用してください。キャラクターデザインシートの衣装は着用しないでください。スタイリングとヘアスタイルは完全に別のものに置き換え、各セクションごとにまったく異なるスタイルにしてください。
-
-フォーマット：9:16の縦画面。
-
-カメラとスタイル：0.5〜1秒間隔の高速編集リズム。iPhoneの手持ち縦撮影の質感。自然な手ブレを伴う、デジタルズームのイン・アウトとチルトアップを組み合わせる。オートフォーカスの迷い、屋内外の照明による露出の揺れ、ズーム調整時の画質低下を含める。毛穴、産毛、自然な皮脂を含むリアルな肌質を維持すること。美肌フィルター、過度な肌補正、CGっぽい質感、シネマティックなカラーグレーディングは禁止です。カットを勝手に統合したり、シーンを省略したりしないでください。
-
-画面内に字幕を入れないでください。
-
-音声：トレンディで洗練されたポップとlo-fiのBGM。氷の入ったグラスが触れ合う音、湖面のさざ波、足音を、夜風と混ざるようにアンビエントでミックスする。キャラクターは話しません。
-
-蚕室石村湖の夜のテラスカフェと湖畔の夜の散歩。
-
-0〜2秒：午後11時、蚕室石村湖のそばにある2階テラスカフェの入口。冷たい白色LEDのペンダント照明の下で、ローアングルのワイドショット。キャラクターは肩でガラス扉を押し開け、2歩進んだところで止まり、片手でバッグのストラップを整えながら、ジャケットの袖を肘までまくる。オートフォーカスが一瞬、ドアノブと彼女の顔の間で迷ってから、顔にロックする。0.5秒だけカメラと目を合わせて微笑み、すぐに視線を店内へ向ける。
-
-2〜4秒：同じテラス席で、ステンレスのトレイの上に置かれた氷でいっぱいのグラスをマクロのタイトショットで捉える。グラスの表面を水滴が伝い落ちている。テーブルのスポットライトが、濡れた金属とガラスに鋭い白いハイライトとして反射する。ハードカットで彼女の表情に切り替わり、片手でグラスを持ち上げた瞬間、指先が滑ってグラスが傾き、目を見開き、肩がこわばり、鋭く息を吸う。彼女の反応は、冷たさと滑りやすさに対してのみ示される。
-
-4〜6秒：テラスの床から天井までのガラスの前。ガラスに映るキャラクターの上半身と、その背後に重なるロッテワールドタワーの夜景のファサードライトが、二重構造の反射を作るタイトショット。ハードカットで、カメラが直接捉えた彼女の顔の正面寄りのクローズアップへ。カメラが屋内の白い照明から外の青い夜景へパンすると、露出が一拍遅れ、フレームが一瞬白飛びしてから落ち着く。キャラクターは、まるでカメラの存在に気づいていないかのように、ガラスの向こうにあるタワーの上部だけを見つめる。彼女の顔は常にカメラで直接捉えられ、反射として映してはならない。
-
-6〜8秒：湖畔の遊歩道にある無人の飲料自販機の前。冷蔵ディスプレイのガラスにできた霜の模様と、缶が払い出し口に落ちる瞬間をマクロのタイトショットで捉える。ハードカットで、音に反応して彼女が肩から急に振り向く表情へ。冷蔵ディスプレイの青白い蛍光灯が、彼女の顔を直接照らす。ラベルのない銀色の缶を頬に当て、冷たさで目をぎゅっと閉じてから開く。
-
-8〜10秒：石村湖の西側の手すり。マジックアイランド城の紫とターコイズのLEDライトが暗い水面に広がり、彼女の顔に揺らめく光の模様を落とす。1秒間のマクロクローズアップで、金属の手すりに並ぶ水滴を捉え、それぞれが逆さまのタワーの光を反射している。そこからフォーカスが水滴から彼女の顔へ移り、まぶしい光に片目を細め、その表情を保つ。デジタルズームイン中に、画質が一瞬ぼやける。
-
-10〜12秒：湖畔の夜の遊歩道。濡れたデッキ床と手すりの上を、白い街灯が一定間隔で横切る様子をローアングルのディテールショットで捉える。キャラクターはデッキの階段を下り、そのまま歩き始め、カメラは手持ちで後ろから追従し、彼女の足音に合わせてフレームが上下に揺れる。夜に歩く1〜2人が、ぼやけたシルエットとして通り過ぎる。夜風で髪が顔にかかると、カメラが横に回り込み、彼女がそれを払うように強く頭を振る様子を捉える。
-
-12〜15秒：ロッテワールドタワーのファサードライトが正面から照らす、濡れた敷石の広場。1秒間のマクロディテールで、タワーの光と逆さまのキャラクターを映す水たまりを捉える。そこからカメラがゆっくり上がり、キャラクターが正面を向いて全身ショットで立ち、片手をジャケットのポケットに入れている。最後の0.5秒だけカメラと目を合わせ、その後は視線を横に向けたまま全身ポーズを保つ。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081932181904162816/img/1eav3SgIXm7tdO0z.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081932710764032063.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081932710764032063.mp4)**
-
-**作者:** [Shore Lyn](https://x.com/Shorelyn_) | **ソース:** [Link](https://x.com/Shorelyn_/status/2081932710764032063) | **公開日:** 2026年7月28日
-
-`Portrait & Fashion` `Influencer` `Scenery & Spectacle` `Landmark` `Photoreal` `Realistic World` `Macro`
-
----
-
-### 3D animated cartoon style, CGI animated feature film quality, NOT…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-3Dアニメーションのカートゥーンスタイル、CGIアニメ映画クオリティ、フォトリアルではない。自信に満ちたティーンの少年が小さなキッチンステーションに入ってきて、壁のフックからエプロンを取り、一連の流れるような動きで自分に巻きつけ、鋭いスナップで結ぶ。彼はかがんで、スタイリッシュに手首をひねりながら生地のボールをつかむ。カメラ：静止したワイドショット、ややローアングル、最後のビートで素早くプッシュイン。クリーンなカートゥーン照明、フォトリアルな質感なし。セット配置：キッチンカウンターは画面中央、エプロンのフックは左壁、生地は彼がつかむ前にカウンター上に見えている。
-
---- スレッド継続 ---
-[Thread 1] 3Dアニメーション・カートゥーンコメディ短編（Seedance 2.0）
-1. コンセプト
-
-スタイリッシュで超自信家の少年が、家の小さなキッチンで「ピザステーション」を切り盛りする。彼は純粋なシェフ級のスタイルで、信じられない速さでピザを作る——生地を回し、ソースを飛ばし、チーズを投げる。完成した瞬間、歩いて渡す代わりに、5〜7メートル先にいる配達員へフリスビーのようにピザボックスをスピンさせて投げ、待ち構える配達員の手に完璧に収める。配達員は呆然とし、スマホを確認して注文全体が10秒で終わったことに気づき、パニックになってスクーターで街の激しい交通を突っ切り、記録的な速さで配達に向かう。
-
-ジャンル：スラップスティック／スタイリッシュなスピードコメディ  
-ビジュアルスタイル：3Dアニメーションのカートゥーンスタイル、CGIアニメ映画クオリティ（フォトリアルではない——生成プロンプト全体で著作権安全な表現を使用し、どの生成プロンプトにも「Pixar」は入れない）  
-プラットフォーム：Instagram Reels + X（Twitter）  
-長さ：合計30秒  
-構成：Part 1（0〜15秒）＝ピザ作り。Part 2（15〜30秒）＝投げる＋配達レース。
-
-2. キャラクター
-キャラクターA — 「Pizza Boy」（作り手）
-ティーン〜若年成人、細身、自信たっぷりの立ち居振る舞い
-カジュアルな服の上にエプロン、袖はまくり、バンダナまたは後ろ向きのキャップ
-シェフのような正確さがありつつ、誇張されたカートゥーンの華やかさ——どの動きにも見せ場がある
-表情：生意気な笑み、半目気味の自信、どれだけ速くても慌てて見えない
-
-キャラクターB — 「Delivery Boy」
-少し若いか同年代、配達用ユニフォーム（明るい色のジャケット、会社風のキャップ／ヘルメットは手に持つ）
-最初は気楽に立っていて、ピザボックスを開いたまま受け取る準備をしている
-表情豊かで、誇張された驚き／信じられない反応
-すぐ後ろにスクーターを停めている
-
-リファレンスシート指示：Seedance生成の前に、GPT Image 2で両キャラクターの4ビューのキャラクターリファレンスシート（全身正面、全身背面、正面クローズアップ、横顔クローズアップ）を生成すること——ニュートラルグレー背景、クリーンなスタジオ照明、文字／透かしなし、3Dアニメーションのカートゥーンスタイル、CGIアニメ映画クオリティ、フォトリアルではない。完全な一貫性のため、各Seedance生成でreference_imageとしてアップロードする。
-
-3. SEEDANCE 2.0 プロンプト — PART 1（0〜15秒）：ピザ作り
-Scene 1（0〜4秒）— キッチン入口＆エプロンの華麗な動き
-
-Shot: ワイドショット、ややローアングル  
-Camera: 静止したワイド、最後のビートで素早くプッシュイン  
-Action: 少年が自信たっぷりにフレームインし、フックからエプロンをつかんで一気に回しながら自分に巻きつけ、スナップで結ぶ。手首をひねってカウンターから生地のボールをつかむ。  
-Prompt: "3D animated cartoon style, CGI animated feature film quality, NOT photorealistic. A confident teenage boy walks into a small kitchen station, grabs an apron off a hook and spins it onto himself in one fluid motion, tying it with a sharp snap. He reaches down and grabs a ball of dough with a stylish flick of the wrist. Camera: static wide shot, slight low angle, quick push-in on final beat. Clean cartoon lighting, no photorealistic textures. SET LAYOUT: kitchen counter center-frame, apron hook on left wall, dough visible on counter before he grabs it."  
-Sound: エプロンを結ぶ布の軽快なヒュッという音、手に取るときの軽いコミカルな「チン」、アップビートで弾む音楽が始まる。
-
-Scene 2（4〜9秒）— 生地スピン＆ソース広げ
-
-Shot: カウンターの周りを回るダイナミックなショット  
-Camera: カウンターの高さで少年の周囲をオービット、速いが滑らか  
-Action: 少年が生地を空中に投げ、バスケットボールのトリックのように指一本で回し、カウンターに平らにキャッチする。すぐにソースレードルを取り、ベース全体に一続きの円を描くようにソースを広げる。  
-Prompt: "3D animated cartoon style, CGI animated feature film quality, NOT photorealistic. The same boy tosses a pizza dough into the air, spins it on one fingertip like a basketball trick, then catches it flat on the counter with a satisfying plop. He grabs a ladle and spreads red sauce across the dough in one fast continuous circular swirl. Camera: smooth circling shot orbiting around the counter at waist height. Cartoon lighting, exaggerated flour puff particle effects. SET LAYOUT: dough remains center of counter throughout, sauce bowl positioned to his right within reach."  
-Sound: 生地を投げるときのヒュッというスピン音、指回しキャッチのコミカルな「ボイン」、ソースを広げるシュッという音。
-
-Scene 3（9〜15秒）— トッピングのモンタージュ、焼成、ボックス
-
-Shot: 高速モンタージュカット、クローズアップとサイドアングルを交互に  
-Camera: クイックカット、手持ち風の勢いはあるがカメラブレのアーティファクトなし  
-Action: チーズをひと握り投げ上げて、完璧に広がって着地。トッピングを次々と高速で弾くように乗せる。ピザをオーブンに滑り込ませ、ドアをバタンと閉め、即座に「チン」。ピザはすでに完全に焼き上がった状態で取り出される（コメディ的な速度誇張）。少年は自信たっぷりに片手のスピンフリップでボックスを閉じる。  
-Prompt: "3D animated cartoon style, CGI animated feature film quality, NOT photorealistic. Fast-paced montage: the boy throws a handful of cheese into the air and it lands perfectly spread across the pizza, then flicks toppings on one by one in rapid succession. He slides the pizza into an oven, slams the door shut, and an instant 'ding' sound plays as he immediately pulls out a fully baked pizza in one exaggerated comedic beat. He flips the pizza box shut with a confident one-handed spin. Camera: fast quick-cut montage, alternating
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081934644849803264/img/iLrbfL8QaAb-h0pg.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081934695110148184.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081934695110148184.mp4)**
-
-**作者:** [Shara I Ai Video Creator](https://x.com/itsshara_ai) | **ソース:** [Link](https://x.com/itsshara_ai/status/2081934695110148184) | **公開日:** 2026年7月28日
-
-`Food` `Cooking` `3D Animation` `Realistic World`
-
----
-
-### SCENE 1 (0:00-0:15) — INSERTION → GRAB → ALARM → CHARGE → TAKEDOWN → COVER
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-SCENE 1 (0:00-0:15) — 挿入 → 掴む → 警報 → 突撃 → 制圧 → 退避
-SHOT STRUCTURE: 6 shots, 15 seconds, 16:9. 35mm motion picture film, anamorphic lenses, film grain, constant full-speed playback in every shot.
-
-@Image1 はヒロインのキャラクター参照です — すべてのショットで顔、髪、衣装を完全に同一に保ってください。
-
-GLOBAL STYLE NOTES:
-- lighting_philosophy: 天井の通気口から黒い大理石へ落ちる、硬く冷たい光の筋。Shot 2 以降は、脈打つ赤い警報灯が部屋全体を染める。
-- color_grade: teal-and-orange、深い teal の影、大理石と真鍮には温かい金色、警報後は強い赤のアクセント。
-- setting: 高級プライベート金庫 — 黒く磨かれた大理石の床、巨大な鋼鉄の壁、金装飾の縁取り、中央の台座、画面右に太いコンクリート柱。
-- ambience: 大きな石造りの部屋の残響、90年代電子ベース、サイレン。
-- characters:
-  - heroine (focal, per @Image1): olive のクロップドTシャツに黒い HEAVY METAL プリント、銀の O リング付き黒レザーのチョーカー、黒いパテントラテックスの指なしグローブを肘まで、下に黒いフィッシュネット袖、スタッズ付き黒レザーベルトと太ももガーターストラップのある olive のプリーツミニスカート、フィッシュネットストッキング、重厚な黒ブーツ、長く波打つライトブラウンの髪を高めのハーフポニーテールに。
-  - guards (background): マットブラックのアーマーとヘルメットを着けた3人の男、赤いレーザーサイト。
-  - case (prop): 重いブラッシュシルバーのブリーフケース、鋼鉄製ラッチ。
-
-SEQUENCE LIST:
-SHOT 1 (0-3s) HOOK — WS, worm's eye view from floor level
-- vfx: 着地の衝撃で外側へ弾ける粉塵、スカートのプリーツとポニーテールが鋭く落ち、光の筋が彼女の身体で分断される。
-- camera_motion: 上からフレーム内に落ちてくる彼女に合わせて、大理石の床から素早く引き離すようにカメラが後退。
-- action_visual: heroine (per @Image1) が天井から落下し、片膝を強くついて着地、片手の拳を大理石に打ちつける。SFX: 空気の WHOOSH、石床へのブーツの THUD。
-- exit: 彼女はそのまま低い姿勢を保ち、すでに前へ重心を移している。
-(HARD CUT TO)
-SHOT 2 (3-5s) SETUP — ECU macro on her gloved hand and the case
-- vfx: 赤い警報灯が一拍で画面全体に点灯し、金色のハイライトが銀のケースから滑り落ちる。
-- camera_motion: 静止したマクロ、わずかな手持ちの揺れ、最後のフレームで whip-out。
-- action_visual: ラテックスのグローブをはめた彼女の手がケースの取っ手をつかみ、台座から引き剥がす — 5本の指、親指はグリップに固定。SFX: 硬い金属音の CLICK、サイレンの WEE-OOO が一気に鳴り込む。
-- exit: ケースは彼女の腕とともにフレーム外へ抜ける。
-(WHIP PAN TO)
-SHOT 3 (5-8s) TWIST — WS on the vault doors, low angle
-- vfx: 扉が内側へ爆ぜて鋼の破片となり、赤いレーザービームが粉塵を切り裂き、警報灯がアーマーにストロボのように反射する。
-- camera_motion: 室内を横切って扉へ向かう攻撃的な whip pan、その後に強い手持ちの収束。
-- action_visual: 3人の装甲警備が破口から突入し、ライフルを構え、レーザーを走らせる。SFX: 扉の CRASH、怒号、90年代ベースの強烈なヒット。
-- exit: 先頭の警備員のレーザーがレンズに入る。
-(HARD CUT TO)
-SHOT 4 (8-11s) SIGNATURE — MS, reverse tracking at chest height
-- vfx: 弾丸の火花がケースから弾けてそのままレンズへ飛び込み、大理石の破片が飛散、ラテックスに赤いストロボ。
-- camera_motion: 彼女の前を先行しながらカメラが後退、被弾のたびにフレームが揺れる手持ち。
-- action_visual: heroine が警備員へ真正面から突進し、胸の前でケースを開いて盾のように構える — 弾丸が金属を叩き、彼女の腕を揺さぶる。顎は固く、眉は低く水平に落ちている。SFX: 自動小銃の BANG-BANG-BANG、金属に響く PING-PING。
-- exit: 彼女の膝が前へ崩れ、スライドに入る。
-(HARD CUT TO)
-SHOT 5 (11-13s) CLIMAX — FS, Dutch tilt 15°
-- vfx: 大理石を擦る摩擦の粉塵、スライドに引かれるポニーテールとスカート。
-- camera_motion: 彼女に合わせた低い手持ちの弧、15°の傾きを維持。
-- action_visual: heroine が膝スライドに入り、両ブーツで最初の警備員の脚を払う；彼は仰向けに倒れ、ライフルは大理石の上を滑っていく。SFX: 石に擦れる金属音の SCRAPE、鈍い身体の衝突、武器のガチャつく音。
-- exit: 彼女はスライドから抜け、画面右へ転がる。
-(HARD CUT TO)
-SHOT 6 (13-15s) PUNCHLINE — MS, static, locked on the concrete column
-- vfx: コンクリートの欠片と粉塵が、命中のたびに柱の表面から弾け飛ぶ。
-- camera_motion: 完全に固定された静止フレーム、かすかな手持ちの呼吸感。
-- action_visual: heroine は柱の背後へ転がり込み、フレーム外へ消える。空になった柱に銃撃が集中し続ける。SFX: 連続銃撃、ひび割れるコンクリート、音楽が高音で切れ落ちる。
-- exit: 最後の破片が落ちるまで柱をホールド。
-
-TECHNICAL CONSTRAINTS:
-- character, outfit, hair and case identical across all shots
-- case gripped in both hands from Shot 4, latches toward camera, weight pulling her arms
-- straight vertical lines preserved on the wide lens, natural facial proportions
-- clean frame, the only lettering in shot is the HEAVY METAL print on her shirt
-- constant full-speed playback, motion blur only within the shutter
-
-GENERATE FIRST: Shot 4 (case-as-shield charge), Shot 5 (slide takedown)
-
---- THREAD CONTINUATION ---
-[Thread 1] Created with @Flovaai_Japan  #FlovaAI
-1.📌PROMT (Seedance 2.0):
-SCENE 1 (0:00-0:15) — 挿入 → 掴む → 警報 → 突撃 → 制圧 → 退避
-SHOT STRUCTURE: 6 shots, 15 seconds, 16:9. 35mm motion picture film, anamorphic lenses, film grain, constant full-speed playback in every shot.
-
-@Image1 はヒロインのキャラクター参照です — すべてのショットで顔、髪、衣装を完全に同一に
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081938511314268160/img/kcyv9n1sYxk6JbkR.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081939162073112898.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081939162073112898.mp4)**
-
-**作者:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **ソース:** [Link](https://x.com/ivanka_humeniuk/status/2081939162073112898) | **公開日:** 2026年7月28日
-
-`Action` `Gunfight` `Retro Film` `Realistic World` `VFX` `Macro`
-
----
-
-### スタイル:実写映画。
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 プロンプト
-
-```
-スタイル:実写映画。
-BGM:なし
-
-シーン1:
-
-画像1、画像2のキャラクターが画像3の部屋で椅子に座って向かい合っている。
-
-画像1のキャラクターが画像2のキャラクターに手に持っている画像4の紙を渡す。
-
-画像1と画像2のキャラクターの台詞「よろしくお願いします。」
-
-シーン2:
-
-カメラが切り替わる
-
-画像2の人物が意地悪そうな笑顔で質問する。
-
-画像2のキャラクターの台詞。
-
-「ジュウショフテイって、家がないってことかな？キビシイなーーー」
-
-画像1のキャラクターの台詞
-
-「ショルイでオトシマセンデシタヨネ？なぜイマ、ソレヲキクンデスカ？」
-
-シーン3:
-
-カメラが切り替わる
-
-画像1のキャラクターが椅子を蹴っ飛ばす。
-
-画像1のキャラクターの台詞
-
-「こっちから願い下げだよコンナミセ。ブカが可哀想だ。」
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081940191112302592/img/lYNpj-mE-rt332hQ.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081940413401928089.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081940413401928089.mp4)**
-
-**作者:** [とすくん](https://x.com/tokyo_Valentine) | **ソース:** [Link](https://x.com/tokyo_Valentine/status/2081940413401928089) | **公開日:** 2026年7月28日
-
-`Story` `Drama` `Photoreal` `Realistic World`
-
----
-
-### A cinematic sunset drone flight begins at Hoàn Kiếm Lake with Turtle Tower as a…
-
-#### 📝 プロンプト
-
-```
-ホアンキエム湖の亀の塔から始まるシネマティックな夕暮れのドローン飛行。黄金色の空を、光る光跡が進み、霧に包まれた棚田や熱帯の海岸線の上を越えていく。そして、何もないビーチフロントが、モダンなヴィラ、インフィニティプール、温かな灯りを備えた高級シーサイドリゾートへと変貌する。超リアル、シームレスなトランジション、ゴールデンアワーのライティング、そしてシネマティックな4K。
-
---- 引用ツイート ---
-Prompt:
-
-A cinematic sunset drone flight begins at Hoàn Kiếm Lake with Turtle Tower as a glowing light streak travels through golden skies, over misty rice terraces and tropical coastline, then transforms an empty beachfront into a luxurious seaside resort with modern villas, infinity pools, and warm lights. Ultra-realistic, seamless transitions, golden-hour lighting, and cinematic 4K.
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081941963167993856/img/g_qXUJYit8YuXVTl.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081942005043867706.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081942005043867706.mp4)**
-
-**作者:** [frogflower](https://x.com/BartzWow) | **ソース:** [Link](https://x.com/BartzWow/status/2081942005043867706) | **公開日:** 2026年7月28日
-
-`Scenery & Spectacle` `Landmark` `Product Ad` `Luxury` `Photoreal` `Realistic World` `FPV & Aerial` `VFX` `Transformation`
-
----
-
-### Feudal Japan at dusk, mist over pine-covered mountains. An armored war-train of…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-黄昏の封建時代の日本、松に覆われた山々の上に立ちこめる霧。木製の補給荷車と騎乗した将軍の護衛からなる装甲戦列が、崖沿いの道を疾走している。仮面の侍（キャラクター参照「HANA」：黒髪を高いちょんまげに結い、深紅の瞳、黒い着物の上に深紅と黒の漆塗りの鎧板、腰には二本の刀、顔の半分を覆う狐面）が木立から先頭の荷車へ飛び移り、隊列へと迫る。
-[0-3s] ローアングルのトラッキングショット — 彼女は荷車の屋根を全速力で駆け抜け、風が袖をはためかせる。二人の護衛が突進してくる。彼女は走りながら抜刀し、一人を斬り伏せ、もう一人の槍突きを身をかがめてかわし、逆袈裟斬りで反撃する。刃が弧を描く瞬間だけ0.5秒スローモーション、その後すぐに通常速度へ戻る。
-[3-6s] 隊列の奥へと戦いながら進む：彼女は荷車から荷車へ飛び移る。護衛が鎖鎌を振るう — 彼女はその下を滑り込むようにくぐり、脚を払って倒し、二本目の刀を肩へ突き立てる。手持ちカメラのトラッキング、衝撃の瞬間はハードカット。
-[6-9s] 護衛が発炎矢の合図を放ち、増援が補給荷車から群がり出る。彼女はその扉を蹴り開ける — 煙玉が炸裂し、霧が画面を満たし、霞の中でシルエット同士がぶつかり合う。煙が晴れると、彼女は最後の護衛を倒している。
-[9-12s] 道は峡谷に架かるロープ橋へと狭まり — 護衛が端で彼女に組みつくが、彼女は霧の下へ投げ落とす。隊列は竹林のトンネルへと突入し、暗闇の中を矢がヒュッと音を立ててかすめ、やがて山道のヘアピンカーブへと飛び出す。
-[12-15s] 残るのは将軍の御車のみ — そこから護衛たちが群れ出て彼女を迎え撃つ。彼女は片方の刀を鞘に収め、最後の区間へ突進する。二本の刀が閃き — 隊列は地平線へ向かって進み続ける。終わりのショットなし、決着なし。
-Style: Samurai action × high-speed convoy chase, Sekiro grit × AAA game-trailer cinematography. Character consistent: fox mask, crimson-black lacquered armor, twin katanas, topknot. Grounded physics, constant convoy motion, escalating numbers. Palette: crimson, black lacquer, moonlit mist white. 4K, cinematic, HDR.
-
---- THREAD CONTINUATION ---
-[Thread 1] GPT IMAGE STORYBOARD PROMPT :- 
-Ultra-detailed 16:9 samurai character design sheet, official AAA RPG character bible, clean editorial layout, ivory-parchment background with minimal Japanese-ink UI accents. Character name "HANA", title "Blade of the Mist", subtitle "A masked ronin who cuts through shadow and steel with silent, unwavering resolve."
-Left panel: full-body hero illustration, black hair in a high topknot, crimson eyes behind a half fox-mask, confident stance. Crimson-and-black lacquered armor plate over a black kimono, twin katanas sheathed at the hip, cloth wrist wraps, tabi boots. Rich lacquer detailing, subtle gold engravings. Hero pose, relaxed confidence.
-Center panel: turnaround views (Front, Side, Back), consistent anatomy and proportions, neutral T-pose.
-Right panel: close-ups of the fox mask, lacquered armor plate, katana hilt and sheath, obi sash, wrist wraps, tabi boot detailing.
-Accessory breakdown: twin katanas, fox mask, armor plate, sash, boots. Vertical color palette: crimson, black lacquer, ivory, gold accents.
-Style: official samurai RPG character sheet, Sekiro x League of Legends concept art, premium game artbook illustration, production-ready, masterpiece, 8K, clean composition, no watermark, no extra limbs.
-
-[Thread 2] SEEDANCE 2.0 VIDEO PROMPT :- 
-
-黄昏の封建時代の日本、松に覆われた山々の上に立ちこめる霧。木製の補給荷車と騎乗した将軍の護衛からなる装甲戦列が、崖沿いの道を疾走している。仮面の侍（キャラクター参照「HANA」：黒髪を高いちょんまげに結い、深紅の瞳、黒い着物の上に深紅と黒の漆塗りの鎧板、腰には二本の刀、顔の半分を覆う狐面）が木立から先頭の荷車へ飛び移り、隊列へと迫る。
-[0-3s] ローアングルのトラッキングショット — 彼女は荷車の屋根を全速力で駆け抜け、風が袖をはためかせる。二人の護衛が突進してくる。彼女は走りながら抜刀し、一人を斬り伏せ、もう一人の槍突きを身をかがめてかわし、逆袈裟斬りで反撃する。刃が弧を描く瞬間だけ0.5秒スローモーション、その後すぐに通常速度へ戻る。
-[3-6s] 隊列の奥へと戦いながら進む：彼女は荷車から荷車へ飛び移る。護衛が鎖鎌を振るう — 彼女はその下を滑り込むようにくぐり、脚を払って倒し、二本目の刀を肩へ突き立てる。手持ちカメラのトラッキング、衝撃の瞬間はハードカット。
-[6-9s] 護衛が発炎矢の合図を放ち、増援が補給荷車から群がり出る。彼女はその扉を蹴り開ける — 煙玉が炸裂し、霧が画面を満たし、霞の中でシルエット同士がぶつかり合う。煙が晴れると、彼女は最後の護衛を倒している。
-[9-12s] 道は峡谷に架かるロープ橋へと狭まり — 護衛が端で彼女に組みつくが、彼女は霧の下へ投げ落とす。隊列は竹林のトンネルへと突入し、暗闇の中を矢がヒュッと音を立ててかすめ、やがて山道のヘアピンカーブへと飛び出す。
-[12-15s] 残るのは将軍の御車のみ — そこから護衛たちが群れ出て彼女を迎え撃つ。彼女は片方の刀を鞘に収め、最後の区間へ突進する。二本の刀が閃き — 隊列は地平線へ向かって進み続ける。終わりのショットなし、決着なし。
-Style: Samurai action × high-speed convoy chase, Sekiro grit × AAA game-trailer cinematography. Character consistent: fox mask, crimson-black lacquered armor, twin katanas, topknot. Grounded physics, constant convoy motion, escalating numbers. Palette: crimson, black lacquer, moonlit mist white. 4K, cinematic, HDR.
-
-[Thread 3] @wavespeed_ai AI creators, don't miss this :- https://t.co/HmUw48lj8R
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081943843226963968/img/OP5zjruGyADpJIHH.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081944155732034044.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081944155732034044.mp4)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2081944155732034044) | **公開日:** 2026年7月28日
-
-`Action` `Wuxia` `Action` `Chase` `Photoreal` `Historical` `Slow-Mo` `VFX`
-
----
-
-### Use the uploaded character reference sheet as the ONLY identity reference…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-アップロードされたキャラクター参照シートを、唯一のアイデンティティ参照として使用してください。動画全体を通して、参照シートにある顔のアイデンティティ、髪型、ひげ、顔の比率、肌の色、体格、衣装を完全に維持してください。キャラクターの顔を決して置き換えたり変更したりしないでください。すべてのフレームで見た目を完璧に一貫させてください。
-
-大雨の雷雨に見舞われた、夜の浸水したニューヨークの街路を舞台にした、12秒の超リアルなシネマティックなスーパーヒーローアクションシーケンス。両側には高層ビルがそびえ立ち、ネオンサインとデジタル広告 बोर्डが雨の向こうに光を放ち、濡れたアスファルトと水たまりが稲妻の閃光、街灯、遠くの街の灯りを反射している。激しい雨が容赦なく降り続け、濃い霧と劇的な嵐雲が頭上に広がる。カメラはシームレスな動きで、途切れのない連続ショットを1本で撮影する。
-
-参照キャラクターは、空いた通りの中央に落ち着いたファイティングスタンスで立っている。そこへ、近くの建物からスイングして降りてきたスパイダーマンが数メートル先に着地する。あらゆる動きから雨しぶきがリアルに飛び散る。カメラは両者の周囲をゆっくりと回り込みながら寄っていき、強烈なシネマティックな緊張感を生み出す。
-
-スパイダーマンは突然、超人的なスピードで突進し、素早いパンチの連打と回転キックを繰り出す。参照キャラクターは、リアルな武術のテクニックでそれを巧みにブロックし、かわし、反撃する。すべての衝撃で、シネマティックなスローモーションの雨粒、飛び散る水の粒子、リアルな布の動き、そして控えめなカメラシェイクが生まれる。戦いは地に足のついたリアルさを保ちながらも、非常にアスレチックに感じられる。
-
-スパイダーマンは空中へ跳び上がり、空中キックを狙う。参照キャラクターはその攻撃を紙一重でかわし、スパイダーマンの腕をつかんで、その勢いを濡れた通りの向こうへと受け流す。スパイダーマンはすぐに近くの街灯や建物のファサードへウェブを放ち、それらを使ってスイングし、再び戦闘へと飛び込む。激しい雨が降りしきる中、両者が濡れたアスファルトや金属面を滑るたびに火花が散る。
-
-カメラはダイナミックなオービット移動、ローアングルのヒーローショット、顔のクローズアップのリアクション、そして光り輝く都市のスカイラインを見せるワイドなシネマティックショットで、アクションを途切れなく追い続ける。稲妻が両キャラクターの背後で劇的に閃き、強いコントラストのシルエットと、濡れた通りへのリアルな反射を生み出す。
-
-戦いはクライマックスを迎え、両者が真正面から互いに向かって全力疾走する。参照キャラクターが強烈なパンチを放ち、スパイダーマンは飛び蹴りを繰り出す。両者の攻撃はまったく同じ瞬間に衝突し、雨と破片のシネマティックな衝撃波を生み出す。背景で稲妻が走ると、時間は一瞬スローダウンし、最後のフレームは劇的な衝突の瞬間で静止したあと、フェードアウトしてブラックになる。
-
-スタイル: 超リアル、ハリウッドの大作、IMAX品質、物理的に正確なアニメーション、シネマティックライティング、ボリューメトリックな雨、リアルな表情アニメーション、一貫したキャラクターアイデンティティ、滑らかなモーション、ダイナミックなアクション振付、劇的なカメラワーク、4K HDR、浅い被写界深度、モーションブラー、フォトリアルなテクスチャ、高精細な濡れた表面、壮大な雰囲気。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081870923788148736/img/0lyLC7nkTqXCbbLf.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081945240655536195.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081945240655536195.mp4)**
-
-**作者:** [Farhan Ai](https://x.com/imFarhanAi) | **ソース:** [Link](https://x.com/imFarhanAi/status/2081945240655536195) | **公開日:** 2026年7月28日
-
-`Action` `Superpower` `Photoreal` `Realistic World` `Slow-Mo` `VFX`
-
----
-
-### 【风格】发型变装展示（Hairstyle Transformation Showcase），影棚写真质感（9:16 Vertical, Studio…
-
-#### 📝 プロンプト
-
-```
-【スタイル】ヘアスタイル変身ショーケース（Hairstyle Transformation Showcase）、スタジオ写真風の質感（9:16 Vertical, Studio Photography）、暖かみのあるベージュの無地背景のポートレートライティング、なめらかなビートに合わせた変身リズム
-【長さ】10秒
----
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081945610601566208/img/Dh5rAbV69TZn893_.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081945874909827416.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081945874909827416.mp4)**
-
-**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2081945874909827416) | **公開日:** 2026年7月28日
-
-`Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `Transformation`
-
----
-
-### @image1 takes on three opponents inside a Japanese high school classroom during…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-@image1 は、日本の高校の教室内で3人の相手を相手に、緊張感あふれる途切れのないワンショットの武術シークエンスを繰り広げる。教室には木製の机、椅子、学生カバン、黒板、引き戸の窓、カーテン、蛍光灯、ポスター、本、散らばった紙がぎっしりと詰まっている。空間のあらゆるものが戦いの一部になる。彼女は驚異的な機敏さで机の狭い列の間を縫うように動き、四方からの攻撃をかわす。机の上を飛び越え、天板の上を滑るように移動し、椅子を敵に向かって蹴り飛ばし、教室の備品を使って打撃を防ぎ、リュックをつかんで一撃を受け止め、狭い教室のレイアウトを利用して勢いを受け流す。紙片はあたり一面に舞い、机はひっくり返り、椅子は大きな音を立てて床をこすり、カーテンは動きに合わせて揺れ、窓からは午後の暖かな日差しが差し込み、空気中の埃を照らし出す。
-
-カメラは最初から最後まで常に被写体に寄り添い、途切れない一続きのショットの中で絶えずアクションを追い続ける。格闘家の周囲を回り込み、机の間をくぐり抜け、相手が迫ると後退し、回し蹴りに合わせて低く構え、跳躍に合わせて持ち上がり、新たな攻撃者を見せるために素早く振り向く。フレーミングは手持ち撮影のような臨場感があり、切迫感に満ち、没入感が高く、まるで視聴者が教室の中に立っているかのように感じられる。
-
-振り付けは、最初から最後まで高速で、リアルかつ迫力があり、説得力のあるリアクション、流れるような近接戦闘、シームレスな動きで構成されていること。一本の途切れないテイクで撮影された、プレミアムな武術アクションシーンとして表現すること。実際の教室の照明に、午後の暖かな日差しを融合させ、自然な影、控えめなモーションブラー、地に足のついた質感、現実世界の不完全さを活かすこと。過度に洗練されたAIやCGIの見た目は避けること。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2062599158029275136/img/0EbfDQNkx1RebKrf.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081946621060030586.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081946621060030586.mp4)**
-
-**作者:** [auqib](https://x.com/auqibhabib) | **ソース:** [Link](https://x.com/auqibhabib/status/2081946621060030586) | **公開日:** 2026年7月28日
-
-`Action` `Wuxia` `Photoreal` `Realistic World` `POV`
-
----
-
-### SEEDANCE 2.0 — LIVE-ACTION AIRPLANE CRASH
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-SEEDANCE 2.0 — 実写の航空機墜落
-
-形式
-15秒 | 16:9 | 実写の災害ドラマ
-フィクションのシナリオ。フォトリアルで、現実に根ざしたビジュアルリアリズム。
-連続する出来事の進行を伴う5つの連続ショット。
-
-設定
-大型の沿岸都市に接近する民間旅客機が、激しい嵐の状況下にある。
-午後遅く。
-厚い雲、乱気流、雨、濡れた路面、低い視界。
-
-機体デザインはフィクションであり、実在の航空会社ブランドは使用しない。
-
-00–03秒 — 何かがおかしい
-機内客室。
-
-通路の高さからのミディアムの手持ちショット。
-機体が激しい乱気流で突然大きく揺れる。
-
-天井灯がちらつく。
-乗客は反射的に肘掛けをつかみ、互いに視線を向ける。
-手元の物が自然に振動する。
-
-カメラの揺れは、演出的な人工のシネマティックな揺れではなく、機体の動きによるもの。
-
-AUDIO:
-低いエンジンの唸り、客室のきしみ、機体外板を打つ雨、緊張した呼吸音。
-
-03–06秒 — 制御喪失
-地上レベルからの外観テレフォトショット。
-
-旅客機が暗い雲の下から異常に低い高度で姿を現し、わずかに不安定なバンクを伴って急速に降下する。
-
-雨が機体表面を流れる。
-翼は乱れた気流に対して微妙に反応する。
-
-カメラオペレーターは機体を追いながら、中央に捉え続けるのに苦労する。
-
-AUDIO:
-遠くの航空機の轟音、風、雨。
-
-06–09秒 — 客室
-通路側からのクローズな手持ち視点。
-
-機体はさらに大きくバンクする。
-
-乗客は慣性に従って自然に体を傾ける。
-開いたオーバーヘッド収納からバッグが落ちる。
-客室乗務員は固定構造物に身を支える。
-
-外の嵐に対して機体が回転するにつれ、照明が変化する。
-
-誇張された悲鳴や演技じみたリアクションはない。
-
-09–12秒 — 最終降下
-地上レベルからのロングショット。
-
-機体は手前の建物や木々の後ろを通過し、視界の一部が遮られる。
-
-カメラはそれを追って素早くパンする。
-
-機体は遠方の構造物の向こうへ消える。
-
-AUDIO:
-エンジン音が大きくなり、その後、機体が見えなくなると一部がこもったように聞こえる。
-
-12–15秒 — 衝突は示唆される
-カメラは遠景のスカイラインに留まる。
-
-見えている地平線の向こうで強い衝撃が起こる。
-
-遅れて、建物の背後から黒い煙と粉じんの柱が立ち上る。
-近くの鳥が飛び散る。
-カメラオペレーターは反射的に少しカメラを下げ、その後、煙に向けて再フレーミングする。
-
-音は物理的にあり得る遅延を伴ってカメラに届く:
-遠くの低い衝撃音 → 環境音の反響 → 近くで鳴り始める車の警報音。
-
-遺体は映さない。
-生々しい負傷描写はない。
-
-カメラのリアリズム
-観察者視点の災害映像。
-各ショットで信頼できるカメラ位置。
-自然な手持ちの微細な動き。
-不完全な再フレーミング。
-現実的なオートフォーカスの調整。
-素早いパン時の自然なモーションブラー。
-あり得ないカメラ移動はしない。
-
-物理
-機体は、信じられるスケール、質量、運動量、前進速度を維持する。
-乗客は機体の加速度とバンクに応じて反応する。
-雨、衣服、落下物、煙は自然に反応する。
-衝突は機体の軌道と地理的に整合している。
-
-ビジュアル特性
-フォトリアルな現代の実写映像。
-自然な露出と色再現。
-現実的な大気遠近感。
-控えめなセンサー ノイズ。
-CGI的な見た目はない。
-過度なHDRはない。
-巨大なハリウッド風の火球はない。
-あり得ない機体変形はない。
-スローモーションの見せ場はない。
-
-連続性
-全編を通して同じ機体。
-同じ天候と時刻。
-客室の向きは外部の機体の動きと一致する。
-各ショットは、前のショットで確立された出来事の続きを示す。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081950634459443200/img/F4LEpXp-xMfspG_y.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081950906573344875.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081950906573344875.mp4)**
-
-**作者:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **ソース:** [Link](https://x.com/Diplomeme/status/2081950906573344875) | **公開日:** 2026年7月28日
-
-`Story` `Drama` `Photoreal` `Realistic World` `VFX`
-
----
-
-### Neo-Tokyo 2087 — Ghost Frequency. Revised Cut · 15 seconds · 4 shots.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-ネオ東京2087 — ゴースト周波数。改訂版 · 15秒 · 4ショット。
-
-SHOT 1 — IN MEDIA RES (0–4s)
-チェイスカム · 手持ちのエネルギー感 · 24mmアナモルフィック
-すでに全速力。ボロボロのマッスルカー — クロームのボディ、むき出しの配線 — が、混雑した高架下を300km/hで突き抜ける。露店が散り、ホログラム看板が衝突で爆ぜる。上空では、3機の軍用ドローンがロックオンし、サーチライトが冷たい白で車を照らし出す。レンズ越しにHUDがちらつく: TARGET ACQUIRED. 車内 — 20代半ばの女性、顎に傷跡 — 視線は前方、顎は固く引き締まっている。彼女は逃げていない。計算している。
-
-SHOT 2 — VERTICAL CHAOS (4–8s)
-俯瞰のウィップパン → 低いサイドトラッキングショット
-上空から見ると、車はネオンの光の川を切り裂く銀の軌跡。ドローンが密集隊形で急降下する — 機械的で、容赦がない。1機が発砲。直前の路面に衝撃波の爆発が直撃 — 車は炎と火花の中をドリフトし、煙を抜けて姿を現す。まだ走っている。高架上の群衆は凍りつく。
-
-SHOT 3 — GHOST MODE (8–12s)
-車内クローズアップ → 車外スローモーション · 120fps
-車内。彼女の手が赤いスイッチの上で止まる — GHOST MODE. 一呼吸。彼女はそれを切り替える。車体が消え始める — パネルが半透明になり、やがて完全に透明へ。シャシーとエンジンが幽霊のようなワイヤーフレームとして見えたまま、雨の中を全速力で走り続ける。ドローンから見れば、何もない。私たちから見れば、300km/hの幻影。雨粒がガラスのようにその中を通り抜ける。
-
-SHOT 4 — VANISH (12–15s)
-ドローン視点 → 闇へゆっくり押し込む
-ドローンがスキャンする。ホバリングする。雨。静寂。半透明の車はネオ東京の迷宮の奥へと滑り込み、光と幾何学の中へ溶けていく幽霊となる。ヘッドライトが最後に一度だけ瞬く。消失。タイトルカード:
-You can't catch what they can't see.
-
---- THREAD CONTINUATION ---
-[Thread 1] ネオ東京2087 — "Ghost Frequency"
-改訂版 · 15秒 · 4ショット
-SHOT 1 — IN MEDIA RES (0–4s)
-チェイスカム · 手持ちのエネルギー感 · 24mmアナモルフィック
-すでに全速力。ボロボロのマッスルカー — クロームのボディ、むき出しの配線 — が、混雑した高架下を300km/hで突き抜ける。露店が散り、ホログラム看板が衝突で爆ぜる。上空では、3機の軍用ドローンがロックオンし、サーチライトが冷たい白で車を照らし出す。レンズ越しにHUDがちらつく: "TARGET ACQUIRED." 車内 — 20代半ばの女性、顎に傷跡 — 視線は前方、顎は固く引き締まっている。彼女は逃げていない。計算している。
-SHOT 2 — VERTICAL CHAOS (4–8s)
-俯瞰のウィップパン → 低いサイドトラッキングショット
-上空から見ると、車はネオンの光の川を切り裂く銀の軌跡。ドローンが密集隊形で急降下する — 機械的で、容赦がない。1機が発砲。直前の路面に衝撃波の爆発が直撃 — 車は炎と火花の中をドリフトし、煙を抜けて姿を現す。まだ走っている。高架上の群衆は凍りつく。
-SHOT 3 — GHOST MODE (8–12s)
-車内クローズアップ → 車外スローモーション · 120fps
-車内。彼女の手が赤いスイッチの上で止まる — "GHOST MODE." 一呼吸。彼女はそれを切り替える。車体が消え始める — パネルが半透明になり、やがて完全に透明へ。シャシーとエンジンが幽霊のようなワイヤーフレームとして見えたまま、雨の中を全速力で走り続ける。ドローンから見れば、何もない。私たちから見れば、300km/hの幻影。雨粒がガラスのようにその中を通り抜ける。
-SHOT 4 — VANISH (12–15s)
-ドローン視点 → 闇へゆっくり押し込む
-ドローンがスキャンする。ホバリングする。雨。静寂。半透明の車はネオ東京の迷宮の奥へと滑り込み、光と幾何学の中へ溶けていく幽霊となる。ヘッドライトが最後に一度だけ瞬く。消失。タイトルカード:
-"You can't catch what they can't see."
----
-
-翻訳のみを返してください。
-```
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081950805993861120/img/sZxOYMG1dTnj6Dz-.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081950961174716674.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081950961174716674.mp4)**
-
-**作者:** [0xKuriyama |Kendu⚡🔋](https://x.com/Kuriyama890) | **ソース:** [Link](https://x.com/Kuriyama890/status/2081950961174716674) | **公開日:** 2026年7月28日
-
-`Action` `Chase` `Photoreal` `Sci-Fi` `VFX` `Slow-Mo` `FPV & Aerial` `POV`
-
----
-
 ## 📚 📚 さらに多くのプロンプト
 
-### 🎯 4888 件のプロンプトが非表示
+### 🎯 4949 件のプロンプトが非表示
 
 **👉 [Renoise でプロンプトを閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)**
 
@@ -5670,1305 +5412,1815 @@ SHOT 4 — VANISH (12–15s)
 
 ---
 
-### Specify the number of camera angles in your Seedance prompt (e.g., 14 different…
+### Use @[character ref] as the only character and visual style reference to keep…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 プロンプト
 
 ```
-Seedanceのプロンプトでカメラアングルの数を指定してください（例：14種類の異なるカメラアングル）。これにより、マルチアングルでテンポの速いアクションシーケンスを演出できます。
+Seedance 2.0 でアイデンティティ／スタイルの一貫性を保つために、@[character ref] を唯一のキャラクターおよびビジュアルスタイルの参照として使用してください。  
+Seedance の prompt は、連続した動きを維持するために、アクションで始めてアクションで終えるようにしてください。  
+不要な要素を防ぎ、全編を通してアクションを維持するために、明示的な negative constraints（例: No sword, no slow motion, no static posing, no static enemies）を追加してください。
 ```
 
 #### 💡 使い方のコツ
 
-Specify the number of camera angles in your Seedance prompt (e.g., 14 different camera angles) to drive multi-angle, fast-paced action sequences.
+Use @[character ref] as the only character and visual style reference to keep identity/style consistent in Seedance 2.0.  
+Start your Seedance prompt with an action and end with an action to maintain continuous motion.  
+Add explicit negative constraints (e.g., No sword, no slow motion, no static posing, no static enemies) to prevent unwanted elements and keep full action throughout.
 
-**作者:** [WHORANGE](https://x.com/whorange__) | **ソース:** [Link](https://x.com/whorange__/status/2082273077426360586) | **公開日:** 2026年7月29日
+**作者:** [Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2082717084044169367) | **公開日:** 2026年7月30日
 
 `Action` `Chase` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
-### Upload your audio and a reference image, then provide a script so the agent can…
+### Start Seedance 2.0 video production from a real photo reference…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 プロンプト
 
 ```
-音声と参考画像をアップロードし、さらにスクリプトを提供すると、エージェントが自動でストーリーボードを生成できます。  
-クレジットが限られている状態でミュージックビデオを生成する場合は、Seedance 2.0 Fast を使用してください。  
-クレジットが残り少ない場合は、レンダリングを完了するために出力解像度を 480p に切り替えてください。
+実在の写真リファレンス（創業者／製品／オフィス）からSeedance 2.0の動画制作を開始し、その静止画をChatGPT Images 2.0で強化したうえで、強化後の静止画をSeedance 2.0で同期音声付きの完成済み15秒動画に変換します。
 
---- スレッドの続き ---
-[Thread 1] @OiiOii_AI @Wilzap 昨年、彼にディスられました。この動画では彼の音声を使いました。
-
-[Thread 2] @OiiOii_AI @wilzap ラッパーとして @wilzap を使いました https://t.co/uQAl3Dc3dT
-
-[Thread 3] @OiiOii_AI @wilzap 使ったシーンはこれです https://t.co/jtRpARyMSt
-
-[Thread 4] @OiiOii_AI @wilzap クレジットが限られていたので、Seedance fast、480p を使いました https://t.co/DK0yJ6rubH
-
-[Thread 5] @OiiOii_AI @wilzap このミュージックビデオを作る際に、複数の問題に遭遇しました。もう二度とやりません。結構です。
+Seedance 2.0でAI UGCを作成する場合は、設定やスクリプトを変えながら複数のクリップにわたって同じ「人物」を維持することで、キャラクターの一貫性がある動画を生成し、ネイティブなスマホカメラ風の美学をpromptします。
 ```
 
 #### 💡 使い方のコツ
 
-Upload your audio and a reference image, then provide a script so the agent can generate storyboards automatically.  
-Use Seedance 2.0 Fast when generating a music video on limited credits.  
-If you’re close to running out of credits, switch the output resolution to 480p to complete the render.
+Start Seedance 2.0 video production from a real photo reference (founder/product/office), enhance that still in ChatGPT Images 2.0, then convert the enhanced stills into finished 15-second videos in Seedance 2.0 with synced audio.
 
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082277614593474560/img/BfccafQEv_cy0lqy.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082277889106395199.mp4)
+For AI UGC in Seedance 2.0, generate character-consistent video by keeping the same “person” across multiple clips while varying settings and scripts, and prompt for a native phone-camera aesthetic.
 
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082277889106395199.mp4)**
-
-**作者:** [Amy G](https://x.com/amynys) | **ソース:** [Link](https://x.com/amynys/status/2082277889106395199) | **公開日:** 2026年7月29日
-
-`Music & Dance` `MV` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
-
----
-
-### プロンプトで全体の尺（長さ）を指定して音声生成の時間をコントロールする
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 プロンプト
-
-```
-プロンプトで全体の尺（長さ）を指定して音声生成の時間をコントロールする  
-プロンプトで「いつ、誰が話すか」をタイムライン的に細かく指定して複数話者の発話タイミングを制御する
-```
-
-#### 💡 使い方のコツ
-
-プロンプトで全体の尺（長さ）を指定して音声生成の時間をコントロールする  
-プロンプトで「いつ、誰が話すか」をタイムライン的に細かく指定して複数話者の発話タイミングを制御する
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082316976807174144/img/b8uWLcQg5yXNtd0r.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082317585048306087.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082317585048306087.mp4)**
-
-**作者:** [はさまるスタジオ (Hasamaru Studio)](https://x.com/hasamaru_studio) | **ソース:** [Link](https://x.com/hasamaru_studio/status/2082317585048306087) | **公開日:** 2026年7月29日
-
-`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
-
----
-
-### スタイル:実写映画。のようにスタイル指定を入れて実写映画調に寄せる
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 プロンプト
-
-```
-スタイル:実写映画。のようにスタイル指定を入れて実写映画調に寄せる  
-BGM:なし と明記して無音で生成する  
-血の表現は一切禁止 のように禁止事項を明確に書いて不適切表現を避ける  
-画像1のキャラクターが画像3のオフィスで…のように参照画像（キャラ/背景）を指定してシーンの一貫性を出す  
-時計が18時になるのを確認して→PCをシャットダウンする のように行動を時系列で具体的に書いて動作を安定させる
-```
-
-#### 💡 使い方のコツ
-
-スタイル:実写映画。のようにスタイル指定を入れて実写映画調に寄せる  
-BGM:なし と明記して無音で生成する  
-血の表現は一切禁止 のように禁止事項を明確に書いて不適切表現を避ける  
-画像1のキャラクターが画像3のオフィスで…のように参照画像（キャラ/背景）を指定してシーンの一貫性を出す  
-時計が18時になるのを確認して→PCをシャットダウンする のように行動を時系列で具体的に書いて動作を安定させる
-
-**作者:** [とすくん](https://x.com/tokyo_Valentine) | **ソース:** [Link](https://x.com/tokyo_Valentine/status/2082328553987920261) | **公開日:** 2026年7月29日
-
-`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
-
----
-
-### Specify a time segment in your Seedance prompt (e.g., Part 1 (0–15s)) to…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-Seedance の prompt では、時間区間を指定してください（例: Part 1 (0–15s)）。これにより、長尺動画を制御しやすいセクションに分割できます。
-
-feature-film-quality 3D animation、polished CGI rendering、NOT photorealistic のような明確なスタイル制約を使って、モデルをスタイライズされたアニメ調の見た目に固定します。
-
-dynamic sweeping cinematic camera movement、establishing wide shot など、具体的な撮影用語でカメラの動きを指示し、ショットの種類やモーションをコントロールします。
-
-SET LAYOUT の注記でシーンの地理的構成を制約します（例: main character は rooftop level に留める; street level は establishing wide shot でのみ見せる）。これにより、意図しないロケーション変更を防げます。
-
-キャラクターの説明には、年齢、服装、特徴を具体的に書きます（例: 17-year-old skater, spiky black hair, black-and-orange bomber jacket, matte-black skateboard）。これにより、一貫したキャラクターデザインを維持できます。
-
-短いセリフと感情の変化（excited/panicked/smirking）を入れて、明確なストーリー進行と表情アニメーションの手がかりを与えます。
-
-正確なアクションの振り付けや身体的なやり取り（weaving between AC units, wheels grinding on a metal rail, building speed toward the edge など）を描写して、よりダイナミックで読み取りやすい動きを引き出します。
----
-```
-
-#### 💡 使い方のコツ
-
-Specify a time segment in your Seedance prompt (e.g., Part 1 (0–15s)) to structure a longer video into controllable sections.
-
-Use explicit style constraints like feature-film-quality 3D animation, polished CGI rendering, and NOT photorealistic to lock the model into a stylized animated look.
-
-Direct camera behavior with concrete cinematography language (e.g., dynamic sweeping cinematic camera movement, establishing wide shot) to control shot types and motion.
-
-Constrain scene geography with a SET LAYOUT note (e.g., keep the main character on the rooftop level; show street level only in an establishing wide shot) to prevent unwanted location changes.
-
-Write character descriptions with specific age, clothing, and defining features (e.g., 17-year-old skater, spiky black hair, black-and-orange bomber jacket, matte-black skateboard) to maintain consistent character design.
-
-Include short dialogue lines and emotional beats (excited/panicked/smirking) to drive clear story progression and facial animation cues.
-
-Describe precise action choreography and physical interactions (weaving between AC units, wheels grinding on a metal rail, building speed toward the edge) to get more kinetic, readable motion.
-
-**作者:** [Shara I Ai Video Creator](https://x.com/itsshara_ai) | **ソース:** [Link](https://x.com/itsshara_ai/status/2082332189346468334) | **公開日:** 2026年7月29日
-
-`Story` `Talk` `3D Animation` `Realistic World` `Tutorial`
-
----
-
-### 用GPT image 2或Seedream 5.0生成图片素材，再用Seedance 2.0 mini把图片转成“巨物压迫感”风格视频
-
-#### 📝 プロンプト
-
-```
-GPT image 2 または Seedream 5.0 で画像素材を生成し、その後 Seedance 2.0 mini で画像を「巨物による圧迫感」スタイルの動画に変換する  
-この種の動画を制作する際は、prompt に東西のファンタジー要素（例：山海経を題材にしたもの）を融合させることで、コンテンツの訴求力を高める  
-Codex を使って完成映像や prompt を逆解析し、再利用可能な Seedance prompt テンプレートを取得する
-```
-
-#### 💡 使い方のコツ
-
-用GPT image 2或Seedream 5.0生成图片素材，再用Seedance 2.0 mini把图片转成“巨物压迫感”风格视频  
-制作此类视频时在提示词中融合东西方魔幻元素（如山海经题材）以提升内容吸引力  
-用Codex对成片/提示词进行反推来获得可复用的Seedance提示词模板
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082382797596250112/img/6_68IwQz0HOLNTXX.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082383357133148419.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082383357133148419.mp4)**
-
-**作者:** [探路AI](https://x.com/TanLuAI) | **ソース:** [Link](https://x.com/TanLuAI/status/2082383357133148419) | **公開日:** 2026年7月29日
-
-`Scenery & Spectacle` `Worldbuilding` `3D Animation` `Fantasy` `Tutorial` `VFX`
-
----
-
-### Structure your Seedance prompt as a multi-scene shot list with timestamps…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-Seedanceのpromptは、タイムスタンプ付きのマルチシーンのショットリストとして構成し、各シーンごとに視覚要素、照明・雰囲気、カメラの動き（例：静的なワイドの導入ショット → 調整時の静的なサイドアングルのクローズアップ → 最後はワイド＋手足のタイトショットに切り替え）を指定してください。
-
-リアルな臨床環境を得るには、カイロプラクティック用のテーブルがある、広くて明るいモダンなクリニックルームを明示的にpromptし、清潔で鮮明な医療用ライティングと、落ち着いたプロフェッショナルな雰囲気を指定します。
-
-正確な調整シーケンスのために、体の位置、服装、手の置き方を具体的に記述してください（例：患者はうつ伏せ／顔を下に向けた状態；カイロプラクターは白い医療用コートを着用；頸椎／胸椎の調整では首や上肩の周囲に手を置く；胸椎／腰椎に沿って狙いを定めたタッピング／圧迫を行う；腕／肩のモビライゼーション；下背部／股関節の圧迫；足／足首のマニピュレーション）。
-
-ASMR風のビジュアルには、手の動き、衣服の質感、接触点などの触覚的ディテールが際立つように、タイトなクローズアップとフォーカスの効いたライティングを使い、患者の表情はリラックスした状態（目を閉じている）を保って、落ち着いた治療的なトーンを維持してください。
-
---- THREAD CONTINUATION ---
-[Thread 1] Scene 1: Introduction & Full-Body Setup (00:00)
-​Visual Elements: A wide, bright, modern clinic room featuring a chiropractic table. A woman with long red hair lies prone (face down) on the table wearing a grey long-sleeve shirt and black leggings. A chiropractor wearing a white medical coat and black shirt stands near her feet, gently holding her legs.
-​Lighting & Atmosphere: Clean, crisp, bright medical or clinical lighting; professional and calm environment.
-​Camera Movement: Static wide shot establishing the room and participants.
-​Scene 2: Cervical & Upper Back Adjustment (00:01 – 00:03)
-​Visual Elements: Close-up on the patient's head and neck as the chiropractor places his hands around her neck and upper shoulders to perform a manual cervical and thoracic adjustment. The patient's expression remains relaxed and calm with eyes closed.
-​Lighting & Atmosphere: Focused, intimate close-up emphasizing the precise hand placement and tactile ASMR elements.
-​Camera Movement: Static medium-close shot angled from the side.
-​Scene 3: Mid-Back & Spinal Alignment (00:04 – 00:07)
-​Visual Elements: Tight framing on the patient's back. The chiropractor uses his hands and fingers to apply targeted pressure, tapping and pressing down along various segments of the thoracic and lumbar spine.
-​Lighting & Atmosphere: Crisp studio-style lighting highlighting the textures of clothing and hand movements, tailored for ASMR audio-visual syncing.
-​Camera Movement: Stationary close-up shot focused tightly on the spine and hands.
-​Scene 4: Arm & Shoulder Mobilization (00:08 – 00:09)
-​Visual Elements: Medium-close shot as the chiropractor manipulates the patient's arms, pulling back and adjusting her shoulder joints and arms while she rests face down.
-​Lighting & Atmosphere: Clean, clinical, and precise.
-​Camera Movement: Static side-profile shot.
-​Scene 5: Lower Back & Pelvic Adjustments (00:10 – 00:12)
-​Visual Elements: A return to the wider shot where the chiropractor presses down firmly on the patient's lower back and hips, followed by a final close-up clip of foot and ankle manipulation. The video ends with a serene close-up of the relaxed patient lying face-up/on her side on the headrest.
-​Lighting & Atmosphere: Peaceful, therapeutic resolution.
-​Camera Movement: Cuts between a wide view of the hip adjustment and tight shots of the extremities.
----
-```
-
-#### 💡 使い方のコツ
-
-Structure your Seedance prompt as a multi-scene shot list with timestamps, specifying for each scene the visual elements, lighting/atmosphere, and camera movement (e.g., static wide establishing shot → static side-angle close-ups for adjustments → cut back to wide + tight extremity shots for the ending).
-
-To get realistic clinical environments, explicitly prompt a wide, bright, modern clinic room with a chiropractic table, clean/crisp medical lighting, and a calm professional atmosphere.
-
-For precise adjustment sequences, describe exact body positions, wardrobe, and hand placement (e.g., patient prone/face down; chiropractor in white medical coat; hands around neck/upper shoulders for cervical/thoracic adjustment; targeted tapping/pressing along thoracic/lumbar spine; arm/shoulder mobilization; lower back/hip press; foot/ankle manipulation).
-
-For ASMR-style visuals, use tight close-ups and focused lighting that emphasizes tactile details like hand movements, clothing textures, and contact points, and keep the patient’s expression relaxed (eyes closed) to maintain a calm therapeutic tone.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082386115793649664/img/3gsoqIzHnFzcjPha.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082386143333536145.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082386143333536145.mp4)**
-
-**作者:** [Isabella](https://x.com/IsabellaHan_) | **ソース:** [Link](https://x.com/IsabellaHan_/status/2082386143333536145) | **公開日:** 2026年7月29日
-
-`Story` `Talk` `Photoreal` `Realistic World` `Tutorial` `ASMR` `Macro`
-
----
-
-### Stop using the word cinematic as a standalone prompt term; replace it with…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-「cinematic」を単独のプロンプト用語として使うのはやめましょう。代わりに、具体的な撮影上の選択（レンズの焦点距離、カメラの動き、被写界深度、フォーカスの挙動、カラーサイエンス）で Seedance 2.0 を意図したショットへと制約してください。
-
-プロンプトは説明文ではなくショットリストのように書きましょう（レンズ + 光の方向 + 被写体の動作 + 雰囲気）。そうすることで、「最大の自由度 = 最大のAIっぽさ」という出力を減らせます。
-
-プロンプトには意図的な不完全さを加えましょう（手持ちの微細な揺れ、わずかなドリー／トラックの振動、Steadicam の「呼吸」、移動の開始・停止時の慣性、粒子感、フレア）。そうすることで、動きが「浮いている」のではなく、物理的に感じられます。
-
-被写体の詳細な説明よりも、明示的なライティング指示を優先しましょう。動機づけのあるキーライトとコントラスト（硬い影、実用光）を指定し、意図的に光を減らす／落とすことで奥行きを加えます。
-
-1回の生成は、4〜10秒のクリップにつき、被写体1つ、動作1つ、感情1つに絞りましょう。シーンは複数のショットに分割し、それぞれ個別に生成します。
-
-編集をワークフローの中心に置きましょう。複数の短いショットを連ね（ワイドとクローズのスケールを変え、アクションでカットし、必要なら長めにホールドし、Jカットを使う）、単体のクリップはAIっぽく見えても、全体としてリアルに感じられるようにします。
-
-参照から始めましょう。フレーム／写真／動画の参照を集め、それをレンズ／光／被写界深度／粒子感／動きの用語に逆算し、その具体性を Seedance のプロンプトに落とし込みます。
-
---- QUOTED TWEET ---
-https://t.co/PHufYkExaD
-
---- LINKED ARTICLE: 99% of AI Video Looks Like AI. The 1% That Stopped You Follows Six Rules Nobody Talks About ---
-## プロンプトにある「cinematic」という言葉が、あなたの動画をAIっぽく見せる原因です。
-
-
-AI動画のフィードを少しスクロールすれば、2秒でそれが分かります。不気味なほど滑らかな動き。漂うような物理挙動。意図のない、まるで幽霊に取り付けられたかのように浮遊するカメラ。何が悪いのか、いつも説明できるとは限りません。けれど、脳は分かっています。脳はいつだって分かっているのです。
-では、上位1%を見てみましょう。スクロールを止めて、「これ、クルーが撮ったのでは？」と思わせるクリップ。誰かがそこにいたように感じる映像。同じモデル。同じサブスクの料金帯。同じ生成時間。結果はまったく違います。
-違いはツールではありません。モデルのバージョンでも、解像度設定でも、消費したクレジット数でもありません。違いは、生成ボタンを押す前に下された一連の判断です。カメラ、光、動きが実際にどう機能するかを理解し、その理解を拡散モデルが従える言語へと翻訳することから生まれる判断なのです。
-これが6つのルールです。無料です。派手さはありません。ですが、上位1%とただのフィード埋めコンテンツを、即座に、明確に、目に見える形で分けます。
-
-## ルール1 - 英語ではなく、カメラで話す
-
-プロンプトは願望ではありません。ショットリストです。
-多くの人は、AI動画モデルにプロンプトを書くとき、友人に夢の話をするようにシーンを説明します。「海に沈む美しい夕日と、打ち寄せる波。」これではモデルに最大限の自由を与えることになります。最大限の自由は、最大限のAIっぽさです。
-撮影監督は形容詞で考えません。レンズの焦点距離、光の方向、被写体の動き、雰囲気で考えます。その語彙をプロンプトに翻訳すると、モデルを特定の視覚空間に制約できます。そして、その制約こそが、出力を「生成物」ではなく「意図のある映像」に見せるのです。
-
-2つ目のプロンプトが長くなるのは、書き手が気取っているからではありません。1語ごとに、モデルから1つの判断を奪っているからです。モデルはもう、焦点距離、カメラの動き、被写界深度、カラーサイエンスを推測する必要がありません。ただ実行するだけです。そして、実行は人間らしく見えます。推測はAIっぽく見えます。
-必要な語彙は多くありません。この8つの用語をマスターすれば、あなたはすでに上位5%のプロンプターです。
-
-> 「カメラは記録装置ではない。物語を語るための道具だ。どこに立つか、何にピントを合わせるか、いつ動くか——そのすべての選択は、ほとんどの人が学ばない言語の一文なのだ」- Roger Deakins
-
-## ルール2 - 不完全さこそがシグナル
-
-ショットに何も問題がないなら、そのショットにはすべて問題があります。
-AI動画を見抜く最速の方法は、不完全さの欠如です。映像がきれいすぎる。動きが滑らかすぎる。光が均一すぎる。カメラが重さも摩擦も意図もなく空間を漂っている。美しいのに、死んでいるのです。
-本物のカメラには質量があります。手持ちショットには微細な揺れがあります。ドリーにはレール由来のかすかな振動があります。Steadicam には呼吸があります。クレーンには移動の開始と終了に慣性があります。こうした不完全さは欠点ではありません。物理法則の証拠です。そして脳は、その欠如を人工的だと読み取ります。
-修正方法は直感に反します。欠点を意図的に加えるのです。
-
-「cinematic」という言葉単体は、AI動画プロンプトにおいて最も有害な言葉です。意味が広すぎて、同時に何も意味しません。モデルに「見栄えよくして」と伝えるだけで、それはモデルが最初からやろうとしていたことです。「cinematic」を、撮影監督なら実際に選ぶ具体的な要素に置き換えてみてください。出力が変わるのが分かるはずです。
-
-## ルール3 - 光がショットのすべて
-
-ライティングを変えれば、すべてが変わる。ライティングを無視すれば、何も変わらない。
-どんなDPに聞いても、アマチュア映像とプロ映像を分けるものは何か、答えは毎回同じです。光です。カメラではない。レンズでもない。解像度でもない。光です。
-AIモデルも同じ階層構造を持っています。具体的なライティング指示と曖昧な被写体説明を組み合わせたプロンプトは、詳細な被写体説明があってもライティング指示がないプロンプトより、常に良い結果を生みます。モデルはレンダラーです。レンダラーに与えられる最も強力な指示は、光です。
-プロ品質のAI動画を安定して生み出す3つのライティング設定：
-
-3つに共通しているのは、光を制限していることです。アマチュアの
-```
-
-#### 💡 使い方のコツ
-
-Stop using the word cinematic as a standalone prompt term; replace it with specific cinematography choices (lens length, camera movement, depth of field, focus behavior, color science) to constrain Seedance 2.0 into an intentional shot.
-
-Write prompts like a shot list (lens + light direction + subject action + atmosphere) rather than a descriptive paragraph to reduce “maximum freedom = maximum AI” outputs.
-
-Add intentional imperfections in the prompt (handheld micro-shake, subtle dolly/track vibration, Steadicam “breathing,” inertia at move start/stop, grain, flare) to make motion feel physical instead of “floating.”
-
-Prioritize explicit lighting instructions over detailed subject description; specify a motivated key light and contrast (hard shadows, practicals) and deliberately remove/fall off light to add depth.
-
-Keep each generation to one subject, one action, and one emotion per 4–10 second clip; break scenes into multiple shots and generate them individually.
-
-Make the edit the core workflow: sequence multiple short shots (varying wide/close scales, cut on action, hold longer when needed, use J-cuts) to make the overall piece feel real even if single clips feel AI.
-
-Start from reference: collect a frame/photo/video reference, reverse-engineer it into lens/light/DOF/grain/movement terms, then translate those specifics into your Seedance prompt.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082400878351286272/img/y3IJDeMkIRWIOlZ0.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082401476664525208.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082401476664525208.mp4)**
-
-**作者:** [Cip⚡️](https://x.com/cipgerx) | **ソース:** [Link](https://x.com/cipgerx/status/2082401476664525208) | **公開日:** 2026年7月29日
-
-`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
-
----
-
-### Create a character sheet first (front/side/back + face close-up + key poses)…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-まずキャラクターシート（正面・側面・背面＋顔のクローズアップ＋主要ポーズ）を作成し、それを Seedance 2.0 の固定ビジュアル参照として使うことで、物語全体を通してキャラクターの顔、髪、衣装、体型の一貫性を保ちます。
-
-環境、ライティング、ムード、象徴的な要素を固定する単一の「story bible」キーフレーム画像を生成し、Seedance 2.0 でアニメーション化する前の北極星となる参照として使います。
-
-マルチパネルのストーリーボード（例：15秒クリップなら12〜16パネル）を作成し、そのストーリーボード、または選んだキーフレームを Seedance 2.0 の Image-to-Video 参照として使います。
-
-Seedance 2.0 Image to Video Ultra S では、単一の「make it cinematic」プロンプトではなく、カメラの動き、アクションのビート、VFX の進行を指定するタイムコード付きプロンプト（例：0〜1秒、1〜2秒、…）を書きます。
-
-Seedance のプロンプトには、ドリフトを防ぐための明確な制約を追加します（例：「performer はちょうど1人」「追加キャラクターなし」「武器なし」「途中のアクションから開始」「準備ポーズなし」）。
-
-Seedance のプロンプトでは、具体的なショット言語（ローアングル、ハンドヘルドのエネルギー、オービットする動き、俯瞰ショット、望遠レンズのサイドシルエット、攻めたクローズアップ、強いパララックス）でカメラの挙動を指示します。
-
-失敗したタイムコード区間だけを修正する、または重要なキーフレーム／ストーリーボードのパネルを（編集パスで）強化する形で反復し、白紙の Seedance プロンプトからやり直さないようにします。
-
---- QUOTED TWEET ---
-https://t.co/HwChh2E91t
-
---- LINKED ARTICLE: Make Your Own AI Anime: The Easiest Workflow (+ Free Prompts) ---
-AI アニメのストーリーテリングは、かつては幸運な偶然のように感じられました。
-美しい prompt を書き、cinematic なシーンをお願いし、モデルがキャラクター、世界観、感情のビート、ショット言語、そして結末まで一度に理解してくれることを期待する。うまくいくこともありました。ですが多くの場合、顔が変わったり、衣装がずれたり、カメラが決定的瞬間を逃したり、見た目は印象的でも物語としては未完成に感じられたりしました。
-それでも、クリエイターが AI 動画で何ができるかを試している段階では、それで十分でした。
-しかし今では、クリエイターはアニメ短編、連載型のキャラクターページ、ビジュアルノベル、ミュージックビデオ、lore チャンネル、商品マスコット、そしてソーシャルネイティブなストーリーワールドを作っています。そうした制作には、たった一度の幸運な生成では足りません。
-アニメのストーリーテリングにはキャラクターのアイデンティティが必要です。
-ムードが必要です。
-継続性が必要です。
-タイミングが必要です。
-そして何より、繰り返し使えるワークフローが必要です。
-それこそが APOB AI のために構築されているものです。
-APOB AI は、単発の生成以上を求めるクリエイター向けに設計された独立系 AI インフルエンサープラットフォームです。AI Influencer Generator、Chat to Generate と Chat to Edit 内の GPT Image 2.0、そして Image to Video Ultra S 内の Seedance 2.0 を組み合わせたワークフローにより、クリエイターは曖昧な prompt から構造化された制作システムへ移行できます。
-1つの動画モデルに、キャスト、アニメスタイル、シーン、演技、最終的な動きまでを一度に発明させるのではなく、まずキャラクターを作り、そのアイデンティティをストーリーボードに落とし込み、キーフレームを物語の明瞭さのために編集し、最後にビジュアル参照とタイムコード付きの指示で Seedance 2.0 を導くことができます。
-AI アニメの未来は、単に prompt が上手くなることではありません。より良いプリプロダクションです。
-
-## アニメのアイデアから、繰り返し使えるストーリーシステムへ
-
-このワークフローでは、『The Girl Who Saved the Last Starlight』という短いアニメストーリーを作ると想像してください。設定はシンプルです。静かな10代の少女が、真夜中過ぎの無人駅で、消えかけた青い星明かりのかけらを見つける。彼女はそれを雨に濡れた街へと追いかけ、ささやかな勇気の行為が光をより明るくするのだと学びます。
-旧来のワークフローはこうでした：
-prompt -> anime clip
-より強いワークフローはこうです：
-AI character model -> anime character sheet -> visual story bible -> storyboard panels -> Chat to Edit continuity pass -> Seedance 2.0 video prompt -> captions, voice, sound, and iteration
-この変化が重要なのは、AI アニメを一発勝負の実験から、制御されたクリエイティブ・パイプラインへと変えるからです。クリエイターはもう、モデルが物語を当てるのを待つ必要はありません。制作パッケージをモデルに渡しているのです。
-
-## Step 1: AI Influencer Generator でアニメの主人公を作る
-
-記憶に残るアニメ短編は、認識しやすい主人公から始まります。ただ青い髪の女の子ではありません。ただの一般的なアニメ主人公でもありません。cinematic anime と書いて、あとはモデルに任せるような style tag でもありません。
-観客は、最初のフレームから最後のショットまで、同じ顔、シルエット、髪型、衣装、表情の幅、そして感情のエネルギーを認識できるべきです。だからこそ、このワークフローは AI Influencer Generator から始まります。
-目的は、1枚の画像で終わるものではなく、複数のシーンを支えられるオリジナルのアニメキャラクターモデルを作ることです。
- 
-このキャラクターモデルがアイデンティティの基盤になります。この先のすべての画像は、新しい prompt に主人公を記憶から再構築させるのではなく、同じキャストから始めることができます。
-
-## Step 2: Chat to Generate で制作用キャラクターシートを作る
-
-アニメの主人公が定義できたら、次はキャラクターシートを作ります。ここで役立つのが Chat to Generate 内の GPT Image 2.0 です。目的は、美しい画像を作ることだけではありません。後続のすべてのフレームを導ける参照を作ることです。
-アニメのストーリーテリングでは、キャラクターシートが動画の前に顔、髪、衣装、カラーパレット、姿勢、表情の幅、シルエットを固定します。シートが弱ければ、動画モデルは推測するしかありません。シートが明確なら、制作全体にアンカーができます。
-Chat to Generate Prompt: Anime Character Sheet
-> Create a detailed character sheet for a 15-second cinematic kung fu performance video, 16:9 horizontal layout, clean dark neutral background, no text, no logos.
-> Character name: MEIYA
-> Age: adult female performer, mid-20s.
-> MEIYA:
-> A solitary female kung fu performer with a fierce ritual-warrior presence. Athletic flexible build, sharp expressive eyes, high cheekbones, long black hair tied into a half-up warrior knot with loose strands, focused intense expression, strong posture, graceful
-```
-
-#### 💡 使い方のコツ
-
-Create a character sheet first (front/side/back + face close-up + key poses) and use it as the fixed visual reference in Seedance 2.0 to keep the character’s face, hair, outfit, and body type consistent across the whole story.
-
-Generate a single “story bible” keyframe image that locks environment, lighting, mood, and a symbolic element, then use it as the north-star reference before animating in Seedance 2.0.
-
-Build a multi-panel storyboard (e.g., 12–16 panels for a 15s clip) and use the storyboard or a chosen keyframe as the Image-to-Video reference for Seedance 2.0.
-
-In Seedance 2.0 Image to Video Ultra S, write a time-coded prompt (e.g., 0–1s, 1–2s, …) specifying camera moves, action beats, and VFX progression instead of a single “make it cinematic” prompt.
-
-Add explicit constraints in the Seedance prompt to prevent drift (e.g., “exactly one performer,” “no extra characters,” “no weapons,” “start mid-action,” “no preparation pose”).
-
-Direct camera behavior in the Seedance prompt with concrete shot language (low-angle, handheld energy, orbiting moves, overhead shot, long-lens side silhouette, aggressive close-ups, strong parallax).
-
-Iterate by revising only the failing time-coded segment or strengthening a keyframe/storyboard panel (via an edit pass) rather than restarting from a blank Seedance prompt.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082404928753168384/img/DlBPM0SSpNVdgvHc.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082405193740857581.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082405193740857581.mp4)**
-
-**作者:** [Nyla Carter](https://x.com/TheAmmadFiles) | **ソース:** [Link](https://x.com/TheAmmadFiles/status/2082405193740857581) | **公開日:** 2026年7月29日
-
-`Story` `Talk` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
-
----
-
-### Animate each keyframe in Seedance 2.0 as a short, isolated 3–5 second shot to…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-Seedance 2.0では、各キーフレームを3〜5秒の短い独立したショットとしてアニメーション化し、静止画のスライドショーではなく、実際のカメラの動きを実現します。
-```
-
-#### 💡 使い方のコツ
-
-Animate each keyframe in Seedance 2.0 as a short, isolated 3–5 second shot to get real camera movement instead of a slideshow of stills.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082424421684535296/img/EEfDdMiHHPLHjZyu.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082424523564188027.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082424523564188027.mp4)**
-
-**作者:** [Nainsi Dwivedi](https://x.com/NainsiDwiv50980) | **ソース:** [Link](https://x.com/NainsiDwiv50980/status/2082424523564188027) | **公開日:** 2026年7月29日
-
-`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial`
-
----
-
-### Use a few images of ONE character in different poses to maintain character…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-1人のキャラクターの複数のポーズ画像をいくつか使い、すべてのカットでキャラクターの一貫性を保つ  
-広告用の参照入力として、クリーンな商品ショットを追加する  
-まず15秒の音楽トラックを入れ、全体の骨組み／タイミングの基準として使う  
-動き、カット、エネルギーをビートに固定する構造化されたpromptを書き、映像を音楽のタイミングに同期させる  
-アセットとpromptをPixVerse + Seedance 2.0に通して、音楽に完全同期した15秒の広告を生成する
----
-```
-
-#### 💡 使い方のコツ
-
-Use a few images of ONE character in different poses to maintain character consistency across every cut  
-Add clean product shots as reference inputs for the ad  
-Drop in a 15‑sec music track first and use it as the backbone/timing guide  
-Write structured prompts that lock motion, cuts, and energy to the beat to sync visuals to the music timing  
-Run the assets + prompts through PixVerse + Seedance 2.0 to generate a 15‑sec ad fully synced to the music
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082439163220316161/img/AbLYmJqyGg04c74h.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082440384739975426.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082440384739975426.mp4)**
-
-**作者:** [madpencil_](https://x.com/madpencil_) | **ソース:** [Link](https://x.com/madpencil_/status/2082440384739975426) | **公開日:** 2026年7月29日
-
-`Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
-
----
-
-### Add the realism keywords pores, sweat, lens flare, and awkward eye contact to…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-初期の画像promptに、リアリティを出すキーワードとして pores、sweat、lens flare、awkward eye contact を加えてください。そうすることで、生成された顔が実際のiPhone映像のように見えやすくなります（「プラスチックっぽさ」が減り、ポーズも不自然ではなくなります）。  
-まずはこれらのリアリティキーワードを織り込んだ静止画としてショットを組み立て、その後 Seedance 2.0 に通して自然な人間の動きを加えます（被写体が操り人形ではなく、人間のように動くようにするためです）。  
-Seedance 2.0 で動きを付けたあと、最後に Kling で仕上げとクリーンアップを行い、出力を実際のスマホ動画にさらに近づけます。
-
---- QUOTED TWEET ---
-https://t.co/GICs5VJ5Gr
-
---- LINKED ARTICLE: The Two-App Stack: $6,850 a Month from Midjourney and Pinterest ---
-彼女は毎日、成果の出る投稿を量産している。アパートはあらゆる角度から撮影され、ブラインド越しの柔らかな光、隅に置かれた観葉植物、ホームデコ系ボードが保存せずにいられないコーヒーバーがある。月間閲覧者は21万4,000人、しかも彼女は一度も生まれていない。彼女の背後にいるのは、フェニックスで夜勤をこなす26歳の看護師で、1日あたり約40分だけ運用し、先月は6,850ドルを稼いだ。彼女のビジネスはたった2つのアプリで成り立っている。1つは「人生」を製造し、もう1つはそれを買い物リストを手にした人々の前で上位表示する。
-
-私は今年、合成クリエイターがどうやって収益化しているのかを解読してきたが、その多くには弱点がある。フィードアルゴリズムの機嫌次第で、稼げるか死ぬかが決まるのだ。だが今回の仕組みは違う。だからこそ、AI界隈のほとんど誰もこれをやっていない。これは検索を土台にしており、毎朝リセットされるのではなく積み上がっていく。そして、全体のコストは月30ドル。ここでは、118ドルを稼いで「詐欺みたい」と感じる部分まで含めて、このシステム全体を解説する。
-
-## 1 · スタックの構造：工場とショールーム
-
-ネット上のあらゆるマネーシステムは、結局のところ同じ文の別バージョンだ。安く作り、すでに需要がある場所に置き、動いた分の一部を取る。2アプリのスタックは、その文から装飾をすべて削ぎ落としたものだ。
-
-Midjourneyは工場だ。月30ドルのStandardプランには、relax modeでの無制限生成が含まれている。つまり、限界コストは待ち時間以外ほぼゼロということだ。Willowの運用者は1回の作業で100枚以上をまとめて生成し、月間の実質コストは生成画像1枚あたり約7セントに落ち着く。残ったものがコンテンツになる。撮影も、スタジオも、LAに引っ越したモデルもいらない。
-
-Pinterestはショールームだ。毎月6億3,100万人が利用しており、過去最高を更新している。そして、他のどのプラットフォームとも違う使い方をしている。人々は検索バーに欲しいものを入力し、買うつもりのものを保存し、購入のために外部へクリックする。検索で上位に出るpinは、何か月もトラフィックを集め続ける。この1つの性質が、ビジネスモデル全体を「演じる」ものから「発行する」ものへと変える。
-
-それ以外のもの、つまりペルソナ、ボード、アフィリエイトリンクは、この2つの機械の間をつなぐ配管にすぎない。
-
-## 2 · なぜPinterestが裁定取引になるのか
-
-AIクリエイター界隈はTikTokとInstagramに密集し、48時間で忘れ去られるフィードと戦っている。一方で、検索エンジンのように振る舞い、コンテンツがパフォーマンスではなく資産になるプラットフォームには、真剣なAI運用者がほとんどいない。このギャップこそが取引機会だ。
-
-Pinterestをこの用途で構造的に特別にしているのは3つの性質だ。第一に、意図。人々は購入を前提に訪れる。だからこそ、このプラットフォームは四半期で10億ドルを広告主から取れる。あなたは娯楽を邪魔しているのではなく、クレジットカードが手の届くところにある人の検索クエリに答えているのだ。第二に、寿命。検索で上位に出たpinは、検索結果や関連pinのフィードに何か月も出続ける。だから、毎日の投稿は昨日のものを置き換えるのではなく、在庫を積み増す。第三に、フォロワーの重要性が低いこと。配信はフォロー関係ではなくクエリから来るので、pin 1本目はフォロワー100万人のアカウントと同じ土俵で競う。
-
-> すべてのTikTokは、終わるパフォーマンスだ。すべてのpinは、掲げ続けられる看板だ。その違いを理解した運用者は、バズを追うのをやめ、土地を積み上げ始める。
-
-## 3 · ステップ1：美学ではなくキーワードを選ぶ
-
-10回中9回の失敗を招くミスはこれだ。人々はまずMidjourneyを開いてしまう。見た目が美しいものを適当に生成して投稿し、なぜ40枚の美しい画像が12回の訪問しか生まなかったのか不思議がる。きれい、は検索クエリではない。検索バーに「vibes」と入力する人はいない。
-
-Willowの運用者は逆から始める。まずPinterest Trends、つまりプラットフォームの無料のファーストパーティ検索データを見る。そして、人々がすでに探しているものだけを生成する。「coffee bar ideas」「cozy studio apartment」「small kitchen organization」。バッチ内のすべての画像は、特定の1つのクエリに答えるために存在する。つまり、生成される前から、すべての画像にランキング対象があるのだ。彼女は写真を生成しているのではない。検索への答えを生成している。
-
-選定ルールは2つある。  
-顔を出さないこと。部屋、フラットレイ、ベッドの上に並べた服、マグカップを持つ手。顔の見えないニッチは不気味の谷を完全に回避し、「これはAIだ」というコメント欄の総叩きも避けられる。しかも、最も高いコミッションが見込める商品カテゴリをちょうどカバーできる。  
-買えるものにすること。画像の中に、視聴者が買えるものが詰まっていなければならない。ランプ、ラグ、エスプレッソマシン。風景写真は美しいが、収益化の仕方はスクリーンセーバーと変わらない。
-
-## 4 · ステップ2：Midjourneyの生産ライン
-
-ブランドのように見えるアカウントと、AIのゴミ捨て場のように見えるアカウントの違いは、一貫性だ。Willowのアパートは、どのフレームでも同じアパートに見える。同じ配色、同じ木のトーン、同じ朝の光。視聴者がフォローするのは、その世界が「住みたい」と思えるほど現実味を帯び
-```
-
-#### 💡 使い方のコツ
-
-Add the realism keywords pores, sweat, lens flare, and awkward eye contact to your initial image prompt to make generated faces read like real iPhone footage (less “plastic” and less posed).  
-Build the shot as a still image first with those realism keywords baked in, then run it through Seedance 2.0 to add natural human motion (so the subject moves like a person, not a puppet).  
-After Seedance 2.0 motion, run a final pass in Kling for polishing/cleanup to push the output closer to real phone video.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2081007381396312064/img/gaufJ4DQ3tLFhDN2.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082440582488531271.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082440582488531271.mp4)**
-
-**作者:** [Asher Crowe 🪺](https://x.com/ashercrw) | **ソース:** [Link](https://x.com/ashercrw/status/2082440582488531271) | **公開日:** 2026年7月29日
-
-`Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `Tutorial`
-
----
-
-### Specify exact duration and structure the action as timestamped beats (e.g…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-正確な尺を指定し、アクションをタイムスタンプ付きのビート（例: [0:00-0:02], [0:02-0:05]）で構成して、Seedanceでのテンポとショットの進行をコントロールします。  
-“starts mid action”“different camera angle every cut”“fast cuts every half second”といった指示を明示的に与えてカメラの挙動を制御し、ダイナミックな編集を強制します。  
-“rhythm constantly alternates between slow precise strikes and explosive fast bursts”や“INTENSITY BUILDS”のようなコントラストの手がかりを使って、動きのリズムと高まりを演出します。  
-prompt内に詳細なCHARACTERセクションとWOODEN DUMMYセクション（外見、服装、オブジェクトの部位／素材）を定義して、キャラクターと小道具の一貫性を固定します。  
-楽器、開始タイミング（“frame one”）、継続性（“never stopping”）、ダイナミクス（“building with intensity”）、重ねるSFX（“strike impact sounds layered on top throughout”）を指定して、音声を制御します。  
-参照画像（character sheet + location sheet + prop reference）をアップロードして、アイデンティティ、環境、主要オブジェクトのデザインを固定します。  
-レンダー／スタイルのキーワード（cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, film grain, heavy shadows, hard-edge brushwork）を重ね、さらに否定条件（not cartoon, not Disney, not Pixar）を追加して、特定のビジュアルスタイルを強制します。
-```
-
-#### 💡 使い方のコツ
-
-Specify exact duration and structure the action as timestamped beats (e.g., [0:00-0:02], [0:02-0:05]) to control pacing and shot progression in Seedance.  
-Direct camera behavior by explicitly instructing “starts mid action,” “different camera angle every cut,” and “fast cuts every half second” to enforce dynamic editing.  
-Use contrast cues like “rhythm constantly alternates between slow precise strikes and explosive fast bursts” and “INTENSITY BUILDS” to drive motion cadence and escalation.  
-Lock character/prop consistency by defining detailed CHARACTER and WOODEN DUMMY sections (appearance, clothing, object parts/materials) inside the prompt.  
-Control audio by specifying instruments, when it starts (“frame one”), continuity (“never stopping”), dynamics (“building with intensity”), and layered SFX (“strike impact sounds layered on top throughout”).  
-Upload reference images (character sheet + location sheet + prop reference) to anchor identity, environment, and key object design.  
-Enforce a specific visual style by stacking render/style keywords (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, film grain, heavy shadows, hard-edge brushwork) and adding negative constraints (not cartoon, not Disney, not Pixar).
-
-**作者:** [TechieSA](https://x.com/TechieBySA) | **ソース:** [Link](https://x.com/TechieBySA/status/2082442832279650639) | **公開日:** 2026年7月29日
-
-`Action` `Wuxia` `3D Animation` `Fantasy` `Tutorial`
-
----
-
-### Include small human figures (or another familiar object) in-frame to…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-小さな人間のフィギュア（または別の見慣れた物体）を画面内に入れて、圧倒的なスケール感を伝える。スケールの基準がないと、被写体は実際より小さく見えてしまう。
-
-被写体の周囲にボリューメトリックな霧／もやと雲の相互作用を入れるようにプロンプトすることで、継ぎ目を隠し、スケール感を支える奥行きを加える。
-
-被写体の背後で雲を切り裂く強い逆光を使い、細部よりも伝わりやすい、映画的なシルエット／リビールを作る。
-
-ショットは、止まったままゆっくり進む瞬間として設計する（カットは最小限、ゆっくり上昇、見守る観察者）こと。静止していると、物体はより巨大に感じられる。
-
-キャラクターの一貫性は、ショットを生成する前にキャラクターを一度だけ固定リファレンスとして定義し、その同じリファレンスを各シーンで再利用することで担保する。
-
-世界観は、シーンを生成する前に再利用可能なリファレンス（主要ロケーション／小道具／クリーチャー）として仕様化しておく。そうすれば、毎回設定を推測し直すのではなく、各カットの一貫性を保てる。
-
-ナラティブのビート（プロット＋ダイアログ）を生成前に組み立てておくことで、出力が単なる美しいショットの断片ではなく、映画のシーケンスとしてつながるようにする。
-
-複数分のトレーラー全体で連続性と品質を保つには、まずリファレンス、次に個別シーン、最後に全体シーケンスというパイプライン順で進める。
-
---- QUOTED TWEET ---
-14社のスタジオに送られた5分のファンタジー映画 - 2社は法的措置を示唆、1社は午前2時に電話してきた
-
-ある人物が、Seedance 2.0で作ったファンタジー・トレーラーを14社の制作会社に送った。2社は法的措置を示唆して返答し、1社は午前2時にたった一つの質問を返してきた。「あなたのVFXハウスはどこですか？」
-
-VFXハウスなんてない。いるのは一人とノートパソコンだけだ。
-
-キャスト：ゼロ。クルー：1人。予算：月額のAIサブスクリプション。しかもそのトレーラーには、本物の作品にあるものがすべて入っていた。檻に入れられた赤ん坊のグリフィンを売る市場、夜に燃え上がり水面に炎が反射する村、聖堂ほどの大きさのクリーチャー、ポータル越しに呪文を放つ仮面の女性。すべてのシーンで一貫したキャラクター。ダイアログ。プロット。
-
-スタジオなら400万ドルと見積もるような、そんな5分間だ。
-
-午前2時に返事をくれたプロデューサーは翌朝電話をかけてきて、どうやら怒りと恐怖が同時に混じったような声でこう言ったという。「うちには、この仕事をするためだけに雇っている人間が40人いる。たった一人で、週末のうちに自分たちのデモリールを時代遅れにしてしまったんだ。これを知って、私はどうすればいい？」
-
-ここからが本当に重要な部分だ
-
-ツールは、チームの人数なんて気にしない。気にするのは、生成ボタンを押す前に正しいドキュメントを作っていたかどうかだ。5秒の崩れるクリップと、5分のまとまった映画を分けるのは、まさにそこだけだ。
-
-1. キャラクターの一貫性は運ではなく、固定されたリファレンスだ。1シーン目と12シーン目に同じ見た目で登場する仮面の女性は偶然そうなったのではない。1本のショットも生成する前に、全体像を一度だけ定義していたからだ
-2. 世界観もキャラクターと同じように仕様化しなければならない。燃える村、聖堂サイズのクリーチャー、グリフィンの市場——それぞれが独立したリファレンスであり、カットごとに新しく推測し直すものではない
-3. プロットとダイアログこそが、デモと映画を分けるものだ。誰でもきれいなショットは生成できる。実際のビートを持つストーリーとしてショットをつなぎ合わせることが、プロデューサーに「40人のチームが裏にいる」と思わせた要因だった
-4. プロダクトなのはパイプラインであって、個々の生成結果ではない。トレーラーが400万ドル級に見えるのは、何をどの順番で作ったか——リファレンス、シーン、シーケンスの順——によるもので、たまたま当たった1回のレンダリングのおかげではない
-
-なぜこれが重要なのか
-
-• 「AIクリップ」と「AI映画」の差は、これまで壊れやすかった部分——キャラクターの一貫性、世界の連続性、ナラティブ構造——で、まさに縮まりつつある  
-• コストの崩壊は現実で、しかも居心地が悪い。週末とサブスクで、スタジオの見積もりと給与総額に対抗できてしまう  
-• ただし「ツールは雇用人数なんて気にしない」というのは両刃の剣でもある。ある一人にとって下がった障壁は、全員にとって下がったということだから、差がつくのはアクセスではなくワークフローだ
-
-率直に言っておくべきこと
-
-• トレーラーはハイライト集だ。5分の洗練された映像は完成した長編と同じではないし、デモはいつだって最良の部分を見せる  
-• 「スタジオなら400万ドルと見積もる」は売り文句であって、検証済みの数字ではない。実際の比較対象は正確な請求書ではなく、能力だ  
-• 法的措置の示唆自体がシグナルだ。これは、弁護士を抱える人たちが注意を払うほど現実に近いところまで届いているということなので、公開するつもりなら真剣に受け止める価値がある
-
-プロデューサーの質問は、問いとしてズレていた。「あなたのVFXハウスはどこですか」ではない。「生成ボタンを押す前に、何を作っていたのか」だ。
-```
-
-#### 💡 使い方のコツ
-
-Include small human figures (or another familiar object) in-frame to communicate massive scale; without a scale reference, the subject reads smaller.
-
-Prompt for volumetric fog/haze and cloud interaction around the subject to hide seams and add depth that sells scale.
-
-Use strong backlight (light cutting through clouds behind the subject) to create a cinematic silhouette/reveal that reads better than fine detail.
-
-Design the shot as a held, slow moment (minimal cuts, slow rise, observers watching) because stillness makes objects feel enormous.
-
-Lock character consistency by defining the character once as a fixed reference before generating any shots, then reuse that same reference across scenes.
-
-Spec the world as reusable references (key locations/props/creatures) before generating scenes so each cut stays consistent instead of re-guessing the setting every time.
-
-Build narrative beats (plot + dialogue) before generating so the outputs connect as a film sequence rather than isolated pretty shots.
-
-Use a pipeline order of references first, then individual scenes, then the full sequence to maintain continuity and quality across a multi-minute trailer.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082452569134129152/img/jN5aXUjtPfipFL8e.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082452602877296734.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082452602877296734.mp4)**
-
-**作者:** [Nexlow](https://x.com/NexlowX) | **ソース:** [Link](https://x.com/NexlowX/status/2082452602877296734) | **公開日:** 2026年7月29日
-
-`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial`
-
----
-
-### 生成した10秒動画が慌ただしく感じる場合は、尺を調整してテンポを落ち着かせる
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-#### 📝 プロンプト
-
-```
-生成した10秒動画が慌ただしく感じる場合は、尺を調整してテンポを落ち着かせる  
-キャラクターシートとシーン参考画像を用意し、それらをSeedance 2.0（TikTok）に投入して手軽に動画生成する
-```
-
-#### 💡 使い方のコツ
-
-生成した10秒動画が慌ただしく感じる場合は、尺を調整してテンポを落ち着かせる  
-キャラクターシートとシーン参考画像を用意し、それらをSeedance 2.0（TikTok）に投入して手軽に動画生成する
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082454410538684416/img/s0ZSLNK4TkVYHmH0.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082454427290706181.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082454427290706181.mp4)**
-
-**作者:** [在とAIぽぽ太🦉](https://x.com/konobachan) | **ソース:** [Link](https://x.com/konobachan/status/2082454427290706181) | **公開日:** 2026年7月29日
+**作者:** [zack](https://x.com/zackpaid) | **ソース:** [Link](https://x.com/zackpaid/status/2082723870138671515) | **公開日:** 2026年7月30日
 
 `Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
-### Use a Midjourney full-body character prompt with --ar 1:2 plus a style…
-
-![English](https://img.shields.io/badge/lang-English-blue)
+### Use Seedance 2.0 to quickly prototype fashion “beat-synced” outfit-change…
 
 #### 📝 プロンプト
 
 ```
-Midjourneyのフルボディキャラクタープロンプトに --ar 1:2 を付け、さらに --sref 2688930422 のスタイル参照と保存済みの --profile 8mk73g6 を組み合わせて、Seedance向けに一貫したキャラクター画像を作成する。  
-Seedance 2.0では、プロンプトの冒頭にキャラクター参照トークン（例：@[character ref]）を付け、その直後に、キャラクターがすでに動いている状態を描写して、アクションを推進しながらアイデンティティを保つ。  
-振付は、具体的な動きの連続として指定する（高速な居合抜き、空中回転、逆手の斬撃、あり得ない方向転換など）ことで、アニメーションのビートを制御する。  
-明確な原因→結果のタイミングを加える（敵が一瞬硬直し、その後に遅れて発光する斬撃線が点火し、最後に隊列が崩壊する）ことで、読み取りやすいアクションの進行を強制する。  
-カメラの挙動を明示的に指示する（超高速の追従ショット、激しい軌道スイープ、極端な短縮遠近、スナップズーム、刃の軌跡を通したシームレスな遷移など）ことで、動きとフレーミングを形作る。  
-制約された色／FXパレット（白熱する剣の弧、深紅のインクの破裂、電気シアンのブラシトレイル、黒／赤／シアンの抽象表現）を使い、高速シーンでも視覚的一貫性を維持する。  
-可読性の制約を含める（倒された人物は暗いシルエットとして判別可能なままにする、強いシルエット、意図的なフィニッシュポーズ）ことで、圧倒的な速度の中でも明瞭さを保つ。
+Seedance 2.0 を使えば、モデルの起用、ロケ地の手配、撮影、ポストプロダクションを行う代わりに、ファッションの「beat-synced」な衣装チェンジ動画を素早くプロトタイプできます。  
+リズミカルでタイミングの合った衣装切り替えを prompt することで、5着のコーディネート（または約15秒で6〜7着）を1本の動画にまとめ、テンポの速い試着モンタージュを作成できます。
+
+--- 引用ツイート ---
+最近都在玩这种 AI 换装
+
+从甜妹到夏日甜美
+
+15 秒换六七套
+
+比我一年买的衣服都多 https://t.co/RF8s09xa3r
+---
 ```
 
 #### 💡 使い方のコツ
 
-Use a Midjourney full-body character prompt with --ar 1:2 plus a style reference via --sref 2688930422 and a saved --profile 8mk73g6 to create a consistent character image for Seedance.  
-In Seedance 2.0, start your prompt by attaching a character reference token (e.g., @[character ref]) and immediately describe the character already in motion to preserve identity while driving action.  
-Specify choreography as a sequence of concrete moves (rapid iaijutsu draws, aerial spins, reverse-grip cuts, impossible directional changes) to control the animation beats.  
-Add a clear cause→effect timing detail (enemies freeze briefly, then delayed glowing cut lines ignite, then formation collapses) to enforce readable action progression.  
-Direct camera behavior explicitly (whip-fast tracking shots, violent orbital sweeps, extreme foreshortening, snap zooms, seamless transitions through blade trails) to shape motion and framing.  
-Use a constrained color/FX palette (white-hot sword arcs, crimson ink ruptures, electric-cyan brush trails, black/red/cyan abstraction) to maintain visual coherence during high-speed scenes.  
-Include readability constraints (defeated figures remain readable as dark silhouettes; strong silhouettes; deliberate finishing poses) to keep clarity at overwhelming speed.
+Use Seedance 2.0 to quickly prototype fashion “beat-synced” outfit-change videos instead of hiring models, renting locations, filming, and doing post-production  
+Generate a single video that showcases 5 outfits (or 6–7 outfits in ~15 seconds) by prompting for rhythmic, timed outfit transitions to create a fast-paced try-on montage
 
-**作者:** [Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2082455829391745050) | **公開日:** 2026年7月29日
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082734424488329216/img/_m2mfVZTCCEISnCf.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082738036723650594.mp4)
 
-`Action` `Wuxia` `Photoreal` `Fantasy` `Tutorial`
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082738036723650594.mp4)**
+
+**作者:** [小宇Chengzi](https://x.com/Chengzilhy) | **ソース:** [Link](https://x.com/Chengzilhy/status/2082738036723650594) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `Transformation` `Tutorial`
 
 ---
 
-### Use the prompt keyword/style Cinematic 90s comedy movie style to steer Seedance…
+### Use Seedance 2.0 inside Higgsfield’s MCP (in Claude) to restyle your first…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 プロンプト
 
 ```
-Seedance 2.0 を1990年代のシネマティックなコメディ映画風のルックに誘導するには、prompt のキーワード/スタイルとして「Cinematic 90s comedy movie style」を使用してください。
+HiggsfieldのMCP（Claude内）でSeedance 2.0を使い、最初のフレームをリスタイルしてから、自分の映像を参照としてアニメーション化し、イントロのフック用に複数のバリエーションを生成します。
 ```
 
 #### 💡 使い方のコツ
 
-Use the prompt keyword/style Cinematic 90s comedy movie style to steer Seedance 2.0 toward a 1990s cinematic comedy look.
+Use Seedance 2.0 inside Higgsfield’s MCP (in Claude) to restyle your first frame, then animate it using your own footage as a reference to generate multiple variations of an intro hook.
 
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082456474987511809/img/D5xiYL1eluQERdgk.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082456688435564566.mp4)
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082755531253465088/img/iXrG-BBlVyd-bN6O.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082757658562429084.mp4)
 
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082456688435564566.mp4)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082757658562429084.mp4)**
 
-**作者:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **ソース:** [Link](https://x.com/WolfRiccardo/status/2082456688435564566) | **公開日:** 2026年7月29日
+**作者:** [Rourke Heath](https://x.com/rourke_heath) | **ソース:** [Link](https://x.com/rourke_heath/status/2082757658562429084) | **公開日:** 2026年7月30日
 
-`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
+`Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
-### Create a character sheet first (face, hair, outfit, color palette, silhouette…
+### Start from already validated Meta static ad creatives and animate them into…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 プロンプト
 
 ```
-まずキャラクターシートを作成し（顔、髪、衣装、カラーパレット、シルエット、表情の幅）、それを固定のビジュアル参照として使うことで、Seedanceの各ショットで同じキャラクターを一貫して保ちます。  
-環境、ライティング、感情トーンを固定する単一の「story bible」キーフレームを生成し、その画像をSeedanceの動画生成における北極星の参照として使います。  
-明確なショットタイプとアクションのビートを含むストーリーボード（例：12〜16パネル）を作成し、その中から1つの重要なストーリーボードフレームをSeedance 2.0のImage-to-Video参照として選びます。  
-Seedance 2.0（Image to Video Ultra S）では、1つの「make it cinematic」プロンプトではなく、フルクリップ全体にわたってカメラの動き、キャラクターのアクション、ライティング、テンポを明示的に指示する、タイムコード付きのprompt（例：0〜1s、1〜2s、…）を書きます。  
-Seedanceのpromptには、ドリフトを防ぐための明示的な制約を追加します（例：「Meiya is always the only performer」「no extra characters」「no weapons」「start immediately in action; no preparation pose」）。  
-シネマトグラフィをコントロールするために、Seedanceのprompt内でカメラ言語を指定します（low-angle、handheld energy、orbiting moves、overhead shot、long-lens side silhouette、aggressive close-ups、strong parallax）。  
-動きを物理的に自然で読みやすく保つために、Seedanceのpromptでモーションのロジックを定義します（インパクト時はweight/heavy、ジャンプ時はlight、quick strikes vs sustained holds、bound vs free flow）。  
-Seedanceのpromptでは、VFXのエスカレーションをタイムラインとして計画します（序盤は subtle wind/dust、中盤は shockwaves/cracks/water ripples、終盤は controlled fire trails/heat distortion、最後に convergence）して、進行とカタルシスをコントロールします。  
-最初から空のSeedance promptをやり直すのではなく、失敗したタイムコード区間だけを修正するか、Chat to Editで重要なキーフレーム／ストーリーボードを強化して反復します。
+すでに検証済みのMeta静止画広告クリエイティブを起点に、Seedance 2.0で短尺動画へアニメーション化し、クリエイティブの多様性を高めつつMeta Andromedaの要件を満たします。  
+エージェントに静止画を分析させ、Seedance対応の動画コンセプトを2案生成させます（1つはシンプルなアニメーション、もう1つはよりクリエイティブな動き）。その後、動画生成前に最適なコンセプトを承認します。  
+高速なワークフローを活用します：静止画 → コンセプト案 → 承認 → Seedance 2.0によるアニメーション化、という流れで、約3分で目を引く複数の動画バリエーションを作成できます。
+```
 
---- QUOTED TWEET ---
-https://t.co/HwChh2E91t
+#### 💡 使い方のコツ
 
---- LINKED ARTICLE: 自分だけのAIアニメを作る方法：最も簡単なワークフロー（＋無料prompt） ---
-AIアニメのストーリーテリングは、かつては幸運な偶然のように感じられました。  
-美しいpromptを書いて、cinematicなシーンをお願いし、モデルがキャラクター、世界観、感情のビート、ショットの言語、そして結末まで一度に理解してくれることを願う。うまくいくこともありました。しかし多くの場合、顔が変わり、衣装がずれ、カメラがその瞬間を捉え損ね、物語は見栄えは良くても未完成に感じられました。  
-それでも、クリエイターがAI動画で何ができるかを試している段階では、それで十分でした。  
-しかし今では、クリエイターはアニメ短編、連載型のキャラクターページ、ビジュアルノベル、ミュージックビデオ、loreチャンネル、商品マスコット、そしてソーシャルネイティブな物語世界を作っています。そうした制作においては、たった1回の幸運な生成だけでは足りません。  
-アニメのストーリーテリングにはキャラクターのアイデンティティが必要です。  
-ムードが必要です。  
-継続性が必要です。  
-タイミングが必要です。  
-そして何より、繰り返し使えるワークフローが必要です。  
-それこそがAPOB AIのために構築されているものです。  
-APOB AIは、単発の生成以上を求めるクリエイター向けに設計された独立系AIインフルエンサープラットフォームです。AI Influencer Generator、Chat to GenerateとChat to Edit内のGPT Image 2.0、そしてImage to Video Ultra S内のSeedance 2.0を組み合わせたワークフローにより、クリエイターは曖昧なpromptingから構造化された制作システムへ移行できます。  
-1つの動画モデルに、キャスト、アニメスタイル、シーン、演技、最終的な動きまでを一度に発明させるのではなく、まずキャラクターを作り、そのアイデンティティをストーリーボードに落とし込み、キーフレームを物語の明瞭さのために編集し、最後にビジュアル参照とタイムコード付きの指示でSeedance 2.0を導くのです。  
-AIアニメの未来は、単にpromptingが上手くなることではありません。より良いプリプロダクションです。
+Start from already validated Meta static ad creatives and animate them into short videos with Seedance 2.0 to increase creative diversity and meet Meta Andromeda requirements.  
+Have an agent analyze the static and generate two Seedance-ready video concepts (one simple animation + one more creative action), then approve the best concept before generating the video.  
+Use a fast workflow: static → concept options → approval → Seedance 2.0 animation to produce multiple eye-catching video variants in ~3 minutes.
 
-## アニメのアイデアから、繰り返し使える物語システムへ
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082758994616025089/img/wRa80W9609C_96ci.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082759085728944267.mp4)
 
-このワークフローでは、『The Girl Who Saved the Last Starlight』という短いアニメストーリーを作ると想像してください。設定はシンプルです。静かな10代の少女が、真夜中過ぎの無人駅で、消えかけた青い星明かりの欠片を見つける。彼女はそれを雨に濡れた街を通って追いかけ、勇気ある小さな行動のひとつひとつが、その光をより明るくすることを知ります。  
-従来のワークフローはこうでした：  
-prompt -> anime clip  
-より強いワークフローはこうなります：  
-AI character model -> anime character sheet -> visual story bible -> storyboard panels -> Chat to Edit continuity pass -> Seedance 2.0 video prompt -> captions, voice, sound, and iteration  
-この変化が重要なのは、AIアニメを一発勝負の実験から、制御されたクリエイティブ・パイプラインへと変えるからです。クリエイターはもはや、モデルが物語を当てるのを待つ必要はありません。制作パッケージをモデルに渡しているのです。
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082759085728944267.mp4)**
 
-## Step 1: AI Influencer Generatorでアニメの主人公を作る
+**作者:** [Raph Guilhem](https://x.com/raph_guilhem) | **ソース:** [Link](https://x.com/raph_guilhem/status/2082759085728944267) | **公開日:** 2026年7月30日
 
-印象に残るアニメ短編は、認識しやすい主人公から始まります。ただ青い髪の女の子ではありません。ただの一般的なアニメ主人公でもありません。ただ「cinematic anime」といったstyle tagを付けて、残りをモデルに埋めてもらうだけでもありません。  
-観客は、最初のフレームから最後のショットまで、同じ顔、シルエット、髪型、衣装、表情の幅、そして感情のエネルギーを認識できるべきです。だからこそ、このワークフローはAI Influencer Generatorから始まります。  
-目的は、1枚の画像ではなく、複数のシーンを支えられるオリジナルのアニメキャラクターモデルを作ることです。1回の投稿が終われば消えてしまうような画像ではありません。  
+`Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Lock character identity before generating motion by building a consistent…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+モーションを生成する前に、キャラクターのアイデンティティを固定し、一貫したダンサーモデル（同じ顔・体型・衣装・髪型）を作って、クリップ間で再利用することで、動画の途中で別人に入れ替わるのを防ぎます。  
+強い1枚目のフレームを生成し（縦9:16、固定されたカメラアングル／ライティング／ロケーション／ポーズ）、テキストのみから始めるのではなく、Seedance 2.0 の image-to-video 用のアンカー画像として使います。  
+最初のフレームから16パネルのストーリーボードを作成し、ビートごとのポーズ、トランジション、フォーメーションの変化を指定して、Seedance の出力における「ランダムな動き」を減らすための動きのガイドとして使います。  
+Seedance 2.0 の prompt では、キャストを明確に「character lock」し（ダンサーの正確な人数＋名前付きのアイデンティティ詳細）、Do not swap faces/outfits/hairstyles/positions; no extra dancers. のような制約を追加します。  
+Seedance 2.0 の prompt にタイムライン欄（例: 0–1.5s、1.5–3s、…）を書き、正確な振付のビートを説明して、モデルがリズムに従い、重要なポーズを確実に打てるようにします。  
+prompt 内でカメラの挙動を制約し（縦9:16のfancam、安定した handheld／monopod 風、最小限のカメラ移動、被写体を中央に配置、フットワーク中は全身フレーミング）、cinematic なコントロールを維持します。  
+Seedance 2.0 の prompt はストーリーボードと一貫させ（新しいロケーション／衣装／カメラスタイルを追加しない）、prompt が計画された振付を上書きするのではなく、補強するようにします。  
+モーションを確認し、ストーリーボードの各パネルを調整し、再生成を繰り返して、最初からやり直すのではなく、連続性と同期性を改善します。
+
+--- 引用ツイート ---
+https://t.co/EOM8WmVpLx
+
+--- 関連記事: TikTokアルゴリズムを攻略する：究極のAIダンスカバー・ワークフロー（＋プロンプト） ---
+AIダンス動画は、以前は一種のギャンブルのようなものでした。  
+promptを書いて、generate を押して、最初の body roll を何が生き残るのか待つ。動画が素晴らしく見えることもあれば、顔が途中で別人のようになったり、衣装が途中で変わったり、手が動きをやめたり、タイミングがビートを外したり、ダンサーがまるで振付の噂だけを聞いて育ったモデルのように動いたりすることもありました。  
+AI動画がまだ目新しいものだった頃は、それでもよかったのです。  
+しかし今、クリエイターは単に試しているだけではありません。TikTok、Reels、Shorts、X向けコンテンツ、音楽ティーザー、ダンスチャレンジ、商品ローンチ、そして完全なAIインフルエンサーアカウントを作っています。そうした用途では、ランダムな動きだけでは不十分です。  
+ダンスコンテンツにはアイデンティティが必要です。  
+リズムが必要です。  
+連続性が必要です。  
+そして何より、再現可能なワークフローが必要です。  
+そこで登場するのが APOB AI です。  
+APOB AI は、1回のラッキーな生成以上を求めるクリエイターのために作られた、独立系のAIインフルエンサー・プラットフォームです。AI Influencer Generator、Chat to Generate と Chat to Edit 内の GPT Image 2.0、そして Image to Video Ultra S 内の Seedance 2.0 を組み合わせることで、APOB AI はダンス動画制作を構造化された制作システムへと変えます。  
+もはや、長い prompt を書いて、モデルがきれいなルーティンを勝手に考えてくれるのを祈る必要はありません。クリエイターは、動画が始まる前にダンサーを作り、見た目を整え、アイデンティティをコントロールし、動きを導けるようになりました。  
+なぜなら、AIインフルエンサーのダンス動画の未来は、運任せではないからです。  
+それは、コントロールされた振付なのです。
+
+## ランダムな動きから、再現可能な振付へ
+
+1本の印象的なAIダンスクリップは注目を集められます。  
+再現可能な振付ワークフローは、オーディエンスを育てられます。  
+APOB AI では、そのプロセスがより意図的になります。  
+1. AI Influencer Generator を使って AI インフルエンサー・モデルを作成する。  
+1. APOB AI 内の GPT Image 2.0 を搭載した Chat to Generate を使って、ダンスの最初のフレームを作成する。  
+1. Chat to Edit を使って、そのフレームを16パネルのダンス・ストーリーボードと動きのガイドに変換する。  
+1. Seedance 2.0 を搭載した Image to Video Ultra S を使って、ストーリーボードからガイド付きのダンス動画を生成する。  
+1. フック、ボイスライン、トーキングアバターの導入、キャプション、または lip sync レイヤーを追加する。  
+1. モーションを確認し、ストーリーボードを改善し、各プラットフォーム向けにダンスを再活用する。  
+単純な  
+prompt -> dance clip  
+ではなく、ワークフローは次のようになります。  
+influencer model -> first frame -> 16-panel storyboard -> guided video prompt -> Seedance 2.0 video -> social content  
+この変化は重要です。AIダンス生成を、運の良い試行から実用的なクリエイティブ・システムへと変えるからです。
+
+## ステップ1: AIインフルエンサーをダンサーとして作る
+
+強いダンス動画は、認識できるパフォーマーから始まります。  
+単なるきれいなアバターではありません。  
+単なるランダムなバーチャルモデルでもありません。  
+ただ衣装が良いだけの、ありふれたダンサーでもありません。  
+ダンスコンテンツはアイデンティティに依存します。視聴者は、次のクリップでも同じ顔、同じボディランゲージ、同じスタイリング、同じエネルギー、同じ態度を認識できる必要があります。  
+APOB AI は AI Influencer Generator から始めることで、クリエイターがキャラクターを直接定義できるようにします。目的は、1回の投稿で消えてしまう一枚絵ではなく、何本もの動画を支えられるオリジナルのAIインフルエンサーを作ることです。  
  
-このキャラクターモデルがアイデンティティの基盤になります。この先のすべての画像は、毎回新しいpromptで主人公を記憶から再構築させるのではなく、同じキャストから始められます。
+ダンス用ワークフローでは、インフルエンサー・モデルに、動きに関わる重要な要素を含めるべきです。体型、身長、髪型、衣装のスタイル、表情、姿勢、そしてそのキャラクターが持つべきパフォーマンスのエネルギーです。  
+このAIインフルエンサー・モデルが、ダンスシリーズ全体のアイデンティティの基盤になります。  
+新しいフレームは、もうゼロから始まりません。  
+同じパフォーマーから始まります。  
+それが、AIダンサーを一度きりのクリップではなく、再利用可能なクリエイティブ資産にする方法です。
 
-## Step 2: Chat to Generateで制作用キャラクターシートを作る
+## ステップ2: 強い最初のダンスフレームを作る
 
-アニメの主人公が定義できたら、次はキャラクターシートを作ります。ここで役立つのが、Chat to Generate内のGPT Image 2.0です。目的は、美しい画像を作ることだけではありません。後続のすべてのフレームを導く参照を作ることです。  
-アニメのストーリーテリングでは、キャラクターシートが動画の前に、顔、髪、衣装、カラーパレット、姿勢、表情の幅、シルエットを固定します。シートが弱
+インフルエンサー・モデルが準備できたら、次は最初のフレームを作成します。  
+ここで登場するのが
 ```
 
 #### 💡 使い方のコツ
 
-Create a character sheet first (face, hair, outfit, color palette, silhouette, expression range) and use it as the fixed visual reference to keep the same character consistent across Seedance shots.  
-Generate a single “story bible” keyframe that locks environment, lighting, and emotional tone, then use that image as the north-star reference for Seedance video generation.  
-Build a storyboard (e.g., 12–16 panels) with clear shot types and action beats, then pick a key storyboard frame as the Image-to-Video reference for Seedance 2.0.  
-In Seedance 2.0 (Image to Video Ultra S), write a time-coded prompt (e.g., 0–1s, 1–2s, …) that explicitly directs camera moves, character actions, lighting, and pacing over the full clip instead of a single “make it cinematic” prompt.  
-Add explicit constraints to the Seedance prompt to prevent drift (e.g., “Meiya is always the only performer,” “no extra characters,” “no weapons,” “start immediately in action; no preparation pose”).  
-Specify camera language in the Seedance prompt (low-angle, handheld energy, orbiting moves, overhead shot, long-lens side silhouette, aggressive close-ups, strong parallax) to control cinematography.  
-Define movement logic in the Seedance prompt (weight/heavy on impacts vs light in jumps, quick strikes vs sustained holds, bound vs free flow) to keep motion physically grounded and readable.  
-Plan VFX escalation as a timeline in the Seedance prompt (early subtle wind/dust, mid shockwaves/cracks/water ripples, late controlled fire trails/heat distortion, final convergence) to control progression and payoff.  
-Iterate by revising only the failing time-coded segment or strengthening a keyframe/storyboard in Chat to Edit, rather than restarting from a blank Seedance prompt.
+Lock character identity before generating motion by building a consistent dancer model (same face/body/outfit/hairstyle) and reuse it across clips to prevent swaps mid-video.  
+Generate a strong first frame (vertical 9:16, fixed camera angle/lighting/location/pose) and use it as the anchor image for Seedance 2.0 image-to-video instead of starting from text-only.  
+Create a 16-panel storyboard from the first frame that specifies beat-by-beat poses, transitions, and formation changes, then use it as a movement guide to reduce “random motion” in Seedance outputs.  
+In your Seedance 2.0 prompt, explicitly “character lock” the cast (exact number of dancers + named identity details) and add constraints like Do not swap faces/outfits/hairstyles/positions; no extra dancers.  
+Write a timeline section in the Seedance 2.0 prompt (e.g., 0–1.5s, 1.5–3s, …) describing exact choreography beats so the model follows rhythm and hits key poses.  
+Constrain camera behavior in the prompt (vertical 9:16 fancam, stable handheld/monopod feel, minimal camera movement, subject centered, full-body framing during footwork) to maintain cinematic control.  
+Keep the Seedance 2.0 prompt consistent with the storyboard (don’t introduce new locations/outfits/camera styles) so the prompt reinforces the planned choreography instead of rewriting it.  
+Iterate by reviewing motion, refining the storyboard panels, and regenerating to improve continuity and synchronization rather than rerolling from scratch.
 
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082458262834733057/img/ZrUjxdSbbaqrkeVj.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082458339972088036.mp4)
+**作者:** [Farhan Ai](https://x.com/imFarhanAi) | **ソース:** [Link](https://x.com/imFarhanAi/status/2082761006972068298) | **公開日:** 2026年7月30日
 
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082458339972088036.mp4)**
-
-**作者:** [Ai Girllie](https://x.com/Inshrah_ali_) | **ソース:** [Link](https://x.com/Inshrah_ali_/status/2082458339972088036) | **公開日:** 2026年7月29日
-
-`Action` `Wuxia` `Photoreal` `Fantasy` `Creative Asset` `Tutorial` `VFX`
+`Music & Dance` `Dance` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
 
 ---
 
-### Specify a clear style header in your Seedance prompt (e.g., 3D animated family…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
----
-Seedanceのpromptでは、ショットリストの前に、全体の見た目とリズムを固定するための明確なスタイル見出しを指定してください（例: 3D animated family comedy, fast multi-camera chase scene, 12-second vertical pacing）。
-
-promptは、タイムコード付きのショットごとのシーケンスとして構成し（例: [00:00-00:02], [00:02-00:04] など）、明確なカメラ指示（wide shot, fast tracking shot, side cut, low-angle, overhead）を入れて、編集とカメラの動きをコントロールします。
-
-各ショットには、具体的な環境・小道具の詳細（bakery festival, cupcakes, flour sacks, bread cart, ribbons/balloons など）を入れて、シーンの一貫性と視覚的な具体性を高めます。
-
-各ショットにSFX/audio cues（festival chatter, footsteps, comedic sting, music beats など）を追加して、音声が生成されない場合でもタイミングやコメディの間を誘導します。
-
-ショット全体で繰り返し使う視覚モチーフ（巨大なフロスティング付きカップケーキと、光るフロスティング）を設定して、連続性を保ち、モデルが高速カットの中でも主役を追いやすくします。
-
-短尺向けの出力に合わせて、総尺とアスペクト比を明示的に設定します（12-second vertical video）。
-
---- THREAD CONTINUATION ---
-[Thread 1] Style: 3D animated family comedy, fast multi-camera chase scene, colorful village bakery festival, playful slapstick, expressive characters, 12-second vertical video pacing
-
-[00:00-00:02] Cheerful outdoor village bakery festivalのwide shot。テーブルにはカップケーキ、パンかご、めん棒、小麦粉の袋、カラフルな装飾が並んでいる。いたずら好きな少女が、コンテスト用テーブルから巨大なフロスティング付きカップケーキをこっそりつかみ取る。パン職人がそれに気づいて息をのみ、トレイを空中に持ち上げる。SFX: festival chatter, birds, soft accordion music, sudden comedic sting.
-
-[00:02-00:04] Fast tracking shot。少女はカップケーキを頭上に大事そうに抱えながら、ベーカリーの屋台の間を走り抜ける。パン職人は後ろから追いかけるが、ペストリーの乗ったトレイを落とさないよう必死だ。少女はパイが並んだテーブルの下にもぐり込み、パン職人はそのテーブルにぶつかってナプキンを舞い上がらせる。SFX: quick footsteps, tray rattle, napkin flutter, playful chase music.
-
-[00:04-00:06] Side camera cut。少女が積み上げられた小麦粉の袋の列のそばを勢いよく通り過ぎる。好奇心旺盛な子ブタが進路に入り込み、カップケーキの匂いを嗅ぐ。少女はダンサーのようにブタの周りをくるりと回るが、パン職人は散らばった小麦粉で足を滑らせ、トレイを支えたまま片足で前方へ滑っていく。SFX: pig snort, flour puff, shoe slide, comedic drum hit.
-
-[00:06-00:08] Low-angle shot。少女が移動式のパンカートに飛び乗る。カートは祭りの通りを坂下へ転がり、果物かご、花の屋台、驚いた村人たちの前を通り過ぎる。パン職人はスクーターのような配達ボードをつかんで後を追い、派手にふらつきながら「Stop that cupcake!」と叫ぶ。SFX: cart wheels rattling, villagers laughing, wind whoosh, upbeat strings.
-
-[00:08-00:10] Fast overhead shot。少女は吊り下げられたリボンとパーティーバルーンでいっぱいのテントへ転がり込む。カラフルなストリーマーの後ろに隠れ、逃げ切ったと思う。だが、カップケーキのフロスティングがリボンの隙間から明るく光り、隠れ場所をばらしてしまう。パン職人は速度を落とし、その光るフロスティングを見つけて片眉を上げる。SFX: balloons squeak, ribbons rustle, tiny sparkle chime.
-
-[00:10-00:12] Final reveal shot。パン職人がやさしくリボンを脇へよけると、少女が小麦粉の袋の上に座り、鼻先にフロスティングをつけているのが見つかる。叱る代わりに、彼はカップケーキに小さなキャンドルを立てて微笑む。彼は「Next time, ask first.」と言う。少女はくすくす笑い、ひと口どうぞと彼に差し出す。最後は、背景で子ブタがパンくずを盗み、村人たちが笑って拍手する場面で締めくくる。SFX: warm laughter, little candle pop, cheerful music finish.
----
-```
-
-#### 💡 使い方のコツ
-
-Specify a clear style header in your Seedance prompt (e.g., 3D animated family comedy, fast multi-camera chase scene, 12-second vertical pacing) before the shot list to lock in the overall look and rhythm.
-
-Structure your prompt as a timecoded shot-by-shot sequence (e.g., [00:00-00:02], [00:02-00:04], etc.) with explicit camera directions (wide shot, fast tracking shot, side cut, low-angle, overhead) to control edits and camera movement.
-
-Include concrete environment/prop details per shot (bakery festival, cupcakes, flour sacks, bread cart, ribbons/balloons) to increase scene consistency and visual specificity.
-
-Add SFX/audio cues per shot (festival chatter, footsteps, comedic sting, music beats) to guide timing and comedic beats even if audio isn’t generated.
-
-Use a recurring visual motif across shots (the giant frosted cupcake and glowing frosting) to maintain continuity and help the model track the main subject through fast cuts.
-
-Set the total duration and aspect explicitly (12-second vertical video) to match pacing and framing for short-form output.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082465168265781248/img/iG4o4dLQUG6Rhy_e.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082465191305097699.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082465191305097699.mp4)**
-
-**作者:** [Amira Zairi](https://x.com/azed_ai) | **ソース:** [Link](https://x.com/azed_ai/status/2082465191305097699) | **公開日:** 2026年7月29日
-
-`Story` `Talk` `3D Animation` `Realistic World` `Tutorial`
-
----
-
-### 思考加速（内面のテンポが速い）シーンを作るときは、短いセリフや心の声（モノローグ）を入れてテンポ感を補強する
+### Blenderで動画コンテ（レイアウトとカメラ動き）を先に作り、そのコンテをTapNowのSeedanceに入れてアニメ化する
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 #### 📝 プロンプト
 
 ```
-思考加速（内面のテンポが速い）シーンを作るときは、短いセリフや心の声（モノローグ）を入れてテンポ感を補強する
+Blenderで動画コンテ（レイアウトとカメラ動き）を先に作り、そのコンテをTapNowのSeedanceに入れてアニメ化する
 ```
 
 #### 💡 使い方のコツ
 
-思考加速（内面のテンポが速い）シーンを作るときは、短いセリフや心の声（モノローグ）を入れてテンポ感を補強する
+Blenderで動画コンテ（レイアウトとカメラ動き）を先に作り、そのコンテをTapNowのSeedanceに入れてアニメ化する
 
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082474360422707200/img/mzjBxbFG7c2n2YAM.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082474702979956990.mp4)
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082784339599708160/img/V5rVYf2MRFj7leao.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082784625345073210.mp4)
 
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082474702979956990.mp4)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082784625345073210.mp4)**
 
-**作者:** [トレジャーハンター・リオナ｜Riona’s Relic Log](https://x.com/aimotion_lab) | **ソース:** [Link](https://x.com/aimotion_lab/status/2082474702979956990) | **公開日:** 2026年7月29日
+**作者:** [yachimat - AI Short Anime](https://x.com/yachimat_manga) | **ソース:** [Link](https://x.com/yachimat_manga/status/2082784625345073210) | **公開日:** 2026年7月30日
+
+`Story` `Talk` `3D Animation` `Realistic World` `Tutorial`
+
+---
+
+### Specify the camera format and operator POV in the prompt (e.g., DV 16mm…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+カメラフォーマットとオペレーターのPOVをprompt内で指定し（例: DV 16mm handheld tape camcorder POV）、自然な手ブレ、傾いたフレーミング、遅れたフォーカス、不器用なズーム、そして「camcorder never visible」といった操作上のアーティファクトも含めて、見た目を固定します。
+
+テープ時代の映像特性（soft blurry tape look、かすかな tape noise、bloomしたライト、ちらつく auto-exposure、抑えめのコントラスト、リアルな肌感）を加えることで、説得力のある camcorder aesthetic を実現します。
+
+被写体は、詳細な身体的特徴と衣装の記述（年齢、髪型、肌の状態、体格、服装、アクセサリー）で定義し、ショット間でキャラクターの一貫性を保ちます。
+
+主要な環境小物と照明（特定の gym machines + mirror wall + soft overhead lighting）を列挙して、シーンの連続性を安定させます。
+
+編集構成とタイミングを明確に指定してテンポをコントロールします（exactly 8 fast cuts、total duration exactly 15 seconds）。
+```
+
+#### 💡 使い方のコツ
+
+Specify the camera format and operator POV in the prompt (e.g., DV 16mm handheld tape camcorder POV) and include handling artifacts like natural hand shake, crooked framing, delayed focus, clumsy zooms, and “camcorder never visible” to lock the look.
+
+Add tape-era image characteristics (soft blurry tape look, faint tape noise, bloomed lights, flickering auto-exposure, muted contrast, realistic skin) to achieve a convincing camcorder aesthetic.
+
+Define the subject with detailed physical and wardrobe descriptors (age, hairstyle, skin condition, build, clothing, accessories) to keep character consistency across shots.
+
+List key environment props and lighting (specific gym machines + mirror wall + soft overhead lighting) to stabilize scene continuity.
+
+Control pacing by explicitly specifying edit structure and timing (exactly 8 fast cuts, total duration exactly 15 seconds).
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082790884165431296/img/cRSuG_pxS64Vv6ha.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082790953404989946.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082790953404989946.mp4)**
+
+**作者:** [Anissa](https://x.com/SimplyAnnisa) | **ソース:** [Link](https://x.com/SimplyAnnisa/status/2082790953404989946) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `POV` `Tutorial`
+
+---
+
+### Create and reuse a single “character spec sheet” message…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+作成した「キャラクター仕様書」メッセージ（顔／体型／服装／スタイルの詳細）を1つ用意し、新しいシーンのプロンプトごとにそれを貼り付けることで、アップロードをまたいでも同じ体型と顔を維持できます。
+
+アニメーション化する前に、Seedream 5 Pro を使って、同じ部屋の中で一貫した正面向きのベースアバターを生成します。
+
+リップシンクには、Seedance 1.5 Pro を音声付きで実行し、部屋の音や環境音を保ったまま、スクリプトを口元に同期させます。
+
+リップシンクは、正面向きのポーズ、ニュートラル〜やや控えめな表情、顔や肩の輪郭がきれいに出るシンプルな背景の、クリーンなベース画像から始めます。
+
+リップシンク用のスクリプトは、短く、はっきり発音しやすい文にし、自然な間を入れて書きます。特定の単語の同期がうまくいかない場合は、クリップ全体を再生成するより、その行を簡潔にするほうがよいです。
+
+反復作業の間は同じチャット／スレッド内に留まり、モデルがキャラクターの文脈と一貫性を保持できるようにします。
+
+Seedance 2.0 は、1つのプロンプトから複数ショットのシーケンスを作るのに使い、Seedance 2.0 Mini は、本番品質に進む前の高速なドラフトレンダリングに使います。
+
+用途に応じてモデルを選びます。シーンの構造と一貫性には Seedream 5 Pro、大量のバリエーションには Seedream 5 Lite、音声と映像が同期したトーキングアバターには Seedance 1.5 Pro を使います。
+
+同じキャラクターから、プラットフォームごとのアスペクト比（正方形／縦長／横長）を、アバターを再説明せずに生成し、出力間でアイデンティティの一貫性を保ちます。
+
+Composio の連携を接続して、完成したカットを Telegram、TikTok、Reels に自動で直接配信し、公開作業を自動化します。
+
+--- 引用ツイート ---
+https://t.co/sgDl2xBLQs
+
+--- 関連記事: MiraでAIアバターを作成する方法：完全ガイド + 自動化  ---
+## はじめに：AIアバターの台頭
+
+X、TikTok、Instagram をしばらく見ていれば、気づかないうちにすでに1つは目にしているはずです。カメラに向かって話し、継続的に投稿し、しっかりとした人格を持っているのに、実在しない顔。フィルターでも、撮影された俳優でもありません。完全にAI生成されたアバターであり、その数は多くの人が思っているよりずっと多いのです。
+これはもうニッチな実験ではありません。ブランドは、毎回タレントを起用する代わりに、プロモーションコンテンツの顔としてAIアバターを使っています。クリエイターは、カメラを一切手に取らずにUGC風の動画を量産しています。中には、1つの持続的なアバターだけで運営され、投稿し、返信し、他のクリエイターと同じようにオーディエンスを築いているアカウントもあります。ただし、そのアバターは睡眠も、リングライトも、髪型の調子がいい日も必要としません。
+これが急速に広まった理由の一つは、単純です。以前は本当に難しかったからです。キャラクターの見た目を一貫させ、自然に動かし、実際にスクリプトを話させるには、デザイナー、アニメーター、そして多くの人が持っていない予算が必要でした。そのギャップは、ほぼ埋まりました。今では、必要なのは明確なアイデアと適切なツールだけです。そして、そのツールはますますチャットウィンドウそのものになっています。
+この流れが起きている場所の一つが Mira です。Mira は Telegram の中に存在するAIエージェントで、友人にメッセージを送るように話しかけるだけです。アバターの生成、アニメーション化、音声やスクリプトとの同期、その後の自動運用まで行えます。
+このガイドでは、Mira を作業環境として使い、最初の静止画像から完全に自動化された動画ペルソナまで、その全工程を解説します。
+ 
+
+## 実際に知っておくべき3つのアバター形式
+
+ツールを開く前に、実際に必要な形式を知っておく価値があります。多くの人は、いきなり一番かっこいい選択肢、たいていはトーキング動画アバターに飛びつきますが、実際にやりたいことに合っていないために失敗します。まず目的に合わせて形式を選びましょう。
+- 静止アバター – 生成画像そのものですが、よく作り込まれたものです。インフルエンサーは、意図のあるプロフィール写真として、また投稿やグラフィック全体で繰り返し使う顔として活用します。ブランドは、プレスキット、ピッチデック、コンテンツ全体に散りばめるビジュアルに使います。プロジェクトは、他の要素がまだ整っていない段階で、まず顔を持つために使います。手間は最小、効果は最大。まだビジュアルアイデンティティがないなら、ここから始めるべきです。
+- アニメーションマスコット – 動きと実際の個性を持ち、登場するたびに一貫性を保つキャラクターです。インフルエンサーは、カメラに映らずに認識しやすい顔を持たせるために、コンテンツ全体でこれを使います。ブランドは、ストーリーテリング、オンボーディング、日常投稿に組み込みます。特にWeb3では、マスコットそのものがプロジェクトであり、プロフィールページだけでなく、プロジェクトが現れるあらゆる場所に登場します。
+- リップシンク付き動画アバター – スクリプトや音声に同期した、完全に話すアニメーションペルソナです。インフルエンサーは、各チャネルでトーキングヘッド系コンテンツを大量に作るために使います。ブランドは、毎回タレントを手配する代わりに、広告や日常コンテンツの一貫した「スポークスパーソン」として使います。プロジェクトは、誰かが話しているように感じられる更新や告知を届けるために使います。最も難しい形式ですが、定期的に発信するなら最も伸びしろの大きい形式でもあります。
+それぞれの形式には、独自の制作プロセス、プロンプトの書き方、そして最適なモデルがあります。次にそれを見ていきます。
+ 
+
+## AIアバター生成を支えるモデルと、Mira がそれらをどう使うか
+
+始めたばかりの人には誰も教えてくれないことがあります。アバター作成における「最良」のモデルは1つではない、ということです。写実的なポートレートを完璧に仕上げるモデルが、トーキング動画に向いているとは限りませんし、優れた画像モデルが自然な顔の動きを自動で理解するわけでもありません。賢いやり方は、お気に入りを1つ選ぶことではなく、工程ごとに適切なモデルを使うことです。
+写真向けには、Mira は目的に応じていくつかの有力な選択肢を提供します。
+ 
+- GPT Image 2 – テキストが重要なときに選ぶモデルです。きれいなタイ
+```
+
+#### 💡 使い方のコツ
+
+Create and reuse a single “character spec sheet” message (face/body/wardrobe/style details) and paste it into every new scene prompt to keep the same body and face across uploads.
+
+Use Seedream 5 Pro to generate a consistent, front-facing base avatar in the same room before animating.
+
+For lip-sync, run Seedance 1.5 Pro with audio so the script syncs to the mouth while preserving room/ambient audio.
+
+Start lip-sync from a clean base image: front-facing pose, neutral-to-mild expression, and a simple background with clean edges around face/shoulders.
+
+Write lip-sync scripts as short, clearly enunciated sentences with natural pauses; if a word syncs poorly, simplify that line instead of regenerating the whole clip.
+
+Stay in the same chat/thread while iterating so the model retains character context and consistency across refinements.
+
+Use Seedance 2.0 for multi-shot sequences from one prompt; use Seedance 2.0 Mini for faster draft renders before committing to full quality.
+
+Choose models by task: Seedream 5 Pro for structure/consistency in scenes, Seedream 5 Lite for high-volume variations, and Seedance 1.5 Pro specifically for synced audio+video talking avatars.
+
+Generate platform-specific aspect ratios (square/vertical/widescreen) from the same character without redescribing the avatar to keep identity consistent across outputs.
+
+Automate publishing by connecting Composio integrations to push finished cuts directly to Telegram, TikTok, and Reels on autopilot.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082799820486365184/img/rJGOHWfqCoeMIhOU.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082800044508389497.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082800044508389497.mp4)**
+
+**作者:** [Fokki](https://x.com/0x_fokki) | **ソース:** [Link](https://x.com/0x_fokki/status/2082800044508389497) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Influencer` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### 使用Seedance 2.0时在分镜提示里加入【参考锁定】并指定参考图（如“参考图1”）来锁定角色外观一致性（例如为“老板娘#1”绑定参考图ID…
+
+#### 📝 プロンプト
+
+```
+When using Seedance 2.0, add [Reference Lock] to the storyboard prompt and specify a reference image (e.g., “Reference Image 1”) to lock in character appearance consistency (for example, bind reference image ID hf_20260730_044943_833909d3-0181-4d86-b4ad-8fdd91945fbd to “Boss Lady #1”).
+
+--- THREAD CONTINUATION ---
+[Thread 1] The focus is on the vibe 👅
+
+[Thread 2] Outtakes and bloopers; this is a validation version made with mini https://t.co/QMuK7hUI9e
+---
+```
+
+#### 💡 使い方のコツ
+
+使用Seedance 2.0时在分镜提示里加入【参考锁定】并指定参考图（如“参考图1”）来锁定角色外观一致性（例如为“老板娘#1”绑定参考图ID hf_20260730_044943_833909d3-0181-4d86-b4ad-8fdd91945fbd）。
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082803010367787008/img/zSLK4ZLsdLQUf7tF.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082804507839193581.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082804507839193581.mp4)**
+
+**作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2082804507839193581) | **公開日:** 2026年7月30日
 
 `Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
-### Upload a base image and instruct the agent to use it as a reference, then…
+### Use Dreamina Seedance 2.0’s multi-reference feature by supplying up to 12…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 プロンプト
 
 ```
-ベース画像をアップロードし、それを参照として使うようエージェントに指示したうえで、その画像から3×3のストーリーボードを作成するよう prompt して、ショットの構成を計画します。  
-ストーリーボードの prompt は、欲しいショットを正確に得られるよう、必要なだけ詳細にしてください。また、実際の prompt の前にあるメインキーワードは削除してください。  
-生成されたストーリーボードをアップロードし、Seedance 2.0 4K を使ってシーケンスを生成するようエージェントに依頼すると、ストーリーボードが自動的に shot-by-shot の cinematic sequence に変換されます。  
-各ショットの表示時間を制御し、テンポや流れを調整するために、Seedance prompt には正確なタイムスタンプを含めてください。
-
---- THREAD CONTINUATION ---
-[Thread 1] Step 1: Claude を Higgsfield MCP に接続します。
-
-Step 2: GPT Image 2 を使ってベース画像を作成します。
-
-Step 3: ベース画像をエージェントにアップロードし、その画像を参照として使うよう指示します。次に、次のような prompt を使います:
-
-"この画像を使って 3×3 の storyboard を作成してください。"
-
-欲しいショットを正確に得るために、prompt は必要なだけ詳細にできます。ただし、実際の prompt の前にあるメインキーワードは削除するのを忘れないでください。
-
-Step 4: 生成された storyboard を再びエージェントにアップロードし、Seedance 2.0 4K を使ってシーケンスを生成するよう依頼します。モデルは storyboard を自動的に shot by shot の cinematic sequence に変換します。
-
-最良の結果を得るには、prompt に正確なタイムスタンプを含めて、各ショットがどれくらい表示されるか、またテンポがどのように流れるべきかをモデルが理解できるようにしてください。
-```
-
-#### 💡 使い方のコツ
-
-Upload a base image and instruct the agent to use it as a reference, then prompt it to create a 3×3 storyboard from that image to plan your shots.  
-Make the storyboard prompt as detailed as needed to get the exact shots you want, and remove the main keyword at the top before the actual prompt.  
-Upload the generated storyboard and ask the agent to generate the sequence using Seedance 2.0 4K to automatically convert the storyboard into a shot-by-shot cinematic sequence.  
-Include exact timestamps in your Seedance prompt to control how long each shot appears and to set the pacing/flow.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082490323675348992/img/neG_Ny0P53DoOekg.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082491384490229875.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082491384490229875.mp4)**
-
-**作者:** [DStudioproject](https://x.com/D_studioproject) | **ソース:** [Link](https://x.com/D_studioproject/status/2082491384490229875) | **公開日:** 2026年7月29日
-
-`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Creative Asset` `Tutorial`
-
----
-
-### Upload a base image to your agent and instruct it to use the image as a…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-ベース画像をエージェントにアップロードし、その画像を参照として使うよう指示したうえで、その画像から3×3のストーリーボードを作成してショットの構成を計画するよう prompt してください。
-
-ストーリーボード用の prompt は、希望する各ショットを正確に指定できるよう、できるだけ詳細にしてください。また、実際の prompt の前にあるメインキーワードは削除してください。
-
-生成されたストーリーボードを再度エージェントにアップロードし、Seedance 2.0 4K を使ってシーケンスを生成するよう依頼してください。これにより、ストーリーボードがショットごとの cinematic なシーケンスに変換されます。
-
-Seedance の prompt には、各ショットの表示時間を制御し、テンポや流れを調整するために、正確なタイムスタンプを含めてください。
-```
-
-#### 💡 使い方のコツ
-
-Upload a base image to your agent and instruct it to use the image as a reference, then prompt it to create a 3×3 storyboard from that image to plan your shots.
-
-Make the storyboard prompt highly detailed to specify the exact shots you want, and remove the main keyword at the top before the actual prompt.
-
-Upload the generated storyboard back into the agent and ask it to generate the sequence using Seedance 2.0 4K so it converts the storyboard into a shot-by-shot cinematic sequence.
-
-Include exact timestamps in your Seedance prompt to control how long each shot appears and to set pacing/flow.
-
-**作者:** [DStudioproject](https://x.com/D_studioproject) | **ソース:** [Link](https://x.com/D_studioproject/status/2082491388030341330) | **公開日:** 2026年7月29日
-
-`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Creative Asset` `Tutorial`
-
----
-
-### Find an existing UGC video in the same style you want and use it as the…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-同じスタイルの既存のUGC動画を見つけて、それをSeedance/Omni生成のインスピレーション参照として使ってください。  
-Claude Codeを使ってHiggsfield CLIに接続し、参照動画に対して内蔵の動画アナライザーを実行して、スタイル/構成の手がかりを抽出してから、Seedance/Omniで再現します。  
-Seedance/Omniで参照を再現する際は、promptに詳細な製品コンテキストを含めてください（コンテキストが多いほど、より正確なUGC出力になります）。  
-最終的なUGC動画は4〜8秒のクリップを複数つなげて構成し、各クリップは開始フレーム画像と固有のpromptを使って個別に生成します。  
-TikTokのUGCをスクリーンショットし、そのスクリーンショットをNano Banana Proに送って人物の見た目を変更し、クリップ用の新しい開始フレーム画像を生成して、開始フレームを作成します。  
-各クリップには次のpromptテンプレートを使ってください: extend this video and make her say this (make sure she is very expressive and enthusiastic when she says it): {script} {additional conditions}.  
-使えるテイクを得るために、各セグメントで数回生成を回すことを想定し、その中から最良の出力を選んでください。  
-すべてのセグメントを生成したら、CapCutでそれらを編集して、完成したUGC動画を作成します。  
-さらにリアルさを出すには、実際のソフトウェア/アプリのクリップを編集に挿入して、AI UGCを実際の製品映像と一体化させてください。
+Dreamina Seedance 2.0のマルチリファレンス機能を活用し、1回の生成で最大12件の参照（製品画像、動画、音声、テキスト）を入力することで、キャンペーン制作においてモデルにより包括的なクリエイティブ指示を与えられます。
 
 --- 引用ツイート ---
-higgsfieldのgemini omni flashを使えば、かなりリアルなAI UGCを作れます...
+マーケターにとって、最高のAI動画プランは、必ずしも「無料」を大きく打ち出したものとは限りません。
 
-この動画を作るための私のワークフローはこんな感じです:
+大切なのは、すべてを24時間以内に急いで仕上げるのではなく、テストし、修正し、納品できることです。
 
-動画全体は4〜8秒のクリップで構成されていて、各クリップは開始フレーム画像と異なるpromptから始まります
+Dreaminaでは、初回の月額メンバーシップ購入後、新規ユーザーにDreamina Seedance 2.0へのアクセスを $0.083/秒 で提供しています。
 
-開始フレームは、tiktokでUGCコンテンツを見つけて、そのスクリーンショットをnano banana proに送り、人物の見た目を変えて、いくつかの開始フレームを生成させることで作れます
+1日無料のオファーは注目を集めます。
 
-promptの構造は次のとおりです:
-
-"extend this video and make her say this (make sure she is very expressive and enthusiastic when she says it):
-
-{ここに彼女に言わせたい内容を入れる}
-
-{ここに追加条件を入れる}"
-
-各セグメントごとに、たぶん数回生成する必要があります
-
-すべてのセグメントを集めたら、capcutでまとめて完成品にできます
+長期的に半額なら、制作する余裕が生まれます。🧵
+---
 ```
 
 #### 💡 使い方のコツ
 
-Find an existing UGC video in the same style you want and use it as the inspiration reference for your Seedance/Omni generation.  
-Use Claude Code to connect to the Higgsfield CLI and run the built-in video analyzer on the reference video to extract style/structure cues before recreating it with Seedance/Omni.  
-When recreating the reference with Seedance/Omni, include detailed product context in the prompt (more context → more accurate UGC output).  
-Build the final UGC video as multiple 4–8 second clips; generate each clip separately using a starting frame image plus a unique prompt.  
-Create starting frames by screenshotting TikTok UGC, sending the screenshot to Nano Banana Pro, changing the person’s appearance, and generating new starting frame images for your clips.  
-Use this prompt template per clip: extend this video and make her say this (make sure she is very expressive and enthusiastic when she says it): {script} {additional conditions}.  
-Expect to run a few generations per segment to get usable takes, then pick the best outputs.  
-After generating all segments, compile them in CapCut to produce the finished UGC video.  
-For extra realism, insert clips of your actual software/app into the edit to make the AI UGC cohesive with real product footage.
+Use Dreamina Seedance 2.0’s multi-reference feature by supplying up to 12 references (product images, videos, audio, and text) in a single generation to give the model more complete creative direction for campaign production.
 
-**作者:** [EP](https://x.com/eptwts) | **ソース:** [Link](https://x.com/eptwts/status/2082492302417601017) | **公開日:** 2026年7月29日
+**作者:** [Nawi](https://x.com/Aria_Nawi) | **ソース:** [Link](https://x.com/Aria_Nawi/status/2082811178250653815) | **公開日:** 2026年7月30日
 
 `Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
-### Create structured character sheets (expressions, poses, costume variants) with…
+### Use already-validated Meta static ads as inputs and animate them into Seedance…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 プロンプト
 
 ```
-GPT Image 2 を使って、表情・ポーズ・衣装バリエーションを含む構造化されたキャラクターシートを作成し、それを Seedance 2.0 のプレイブックとして活用することで、各フレームを通してキャラクターの意図を一貫して読み取れるようにします。  
-Seedance でアニメーション化する前に、キャラクターシート上の各表情を特定のカメラアングルに対応付け、ショットの意図と連続性をガイドします。  
-キャラクターデザインには Midjourney、構造化されたキャラクターシートには GPT Image 2、最終的な動画のアニメーション化には Seedance 2.0（例: astorie_ai 上）というパイプラインを使用します。
+すでに検証済みのMeta静止画広告を入力として使用し、それらをSeedance動画へアニメーション化することで、クリエイティブの多様性を迅速に高め、Meta Advantage+の動画要件を満たします  
+ワークフロー：Metaの静止画から開始 → 2つのコンセプトを生成（1つはシンプルなアニメーション、もう1つはよりクリエイティブなもの） →  पसंदしたコンセプトを承認 → Seedanceで動画にアニメーション化（目標：約3分で一連の作業を完了）
 ```
 
 #### 💡 使い方のコツ
 
-Create structured character sheets (expressions, poses, costume variants) with GPT Image 2 and use them as the playbook for Seedance 2.0 so it can read character intent consistently across frames.  
-Map each expression on the character sheet to specific camera angles before animating in Seedance to guide shot intent and continuity.  
-Use a pipeline of Midjourney for character design → GPT Image 2 for structured character sheets → Seedance 2.0 (e.g., on astorie_ai) to animate the final video.
+Use already-validated Meta static ads as inputs and animate them into Seedance videos to quickly increase creative diversity and meet Meta Advantage+ video requirements  
+Workflow: start with a Meta static → generate two concepts (one simple animation + one more creative) → approve the preferred concept → animate into video with Seedance (target ~3 minutes end-to-end)
 
-[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2082498154599985152/pu/img/LBMl9UFignQtGalv.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082498187772760421.mp4)
+[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2082813628026142720/pu/img/1xVWutKPT_H37JwI.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082813645466046561.mp4)
 
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082498187772760421.mp4)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082813645466046561.mp4)**
 
-**作者:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **ソース:** [Link](https://x.com/Genflickmovies/status/2082498187772760421) | **公開日:** 2026年7月29日
+**作者:** [Stijn Feijen](https://x.com/spwfeijen) | **ソース:** [Link](https://x.com/spwfeijen/status/2082813645466046561) | **公開日:** 2026年7月30日
 
-`Portrait & Fashion` `Portrait` `Photoreal` `Realistic World` `Creative Asset` `Tutorial`
+`Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
 
 ---
 
-### Have Claude analyze a reference for the paper-cut/stop-motion look, then have…
+### CapCutの動画スタジオで、Seedream 5.0で生成した画像1枚を元に動画化する
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+#### 📝 プロンプト
+
+```
+CapCutの動画スタジオで、Seedream 5.0で生成した画像1枚を元に動画化する  
+同じ入力画像でSeedance 2.0 MiniとSeedance 2.0を左右に並べて生成し、出力差を比較する
+```
+
+#### 💡 使い方のコツ
+
+CapCutの動画スタジオで、Seedream 5.0で生成した画像1枚を元に動画化する  
+同じ入力画像でSeedance 2.0 MiniとSeedance 2.0を左右に並べて生成し、出力差を比較する
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082819594167984128/img/cEQxEKWHvtWVqV29.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082820320315208041.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082820320315208041.mp4)**
+
+**作者:** [ジュニ＠Multi AI Creator](https://x.com/jAlpha_create) | **ソース:** [Link](https://x.com/jAlpha_create/status/2082820320315208041) | **公開日:** 2026年7月30日
+
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial` `Model Showcase`
+
+---
+
+### Write the core idea and synopsis first, then create character sheets before…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 プロンプト
 
 ```
-Claude に参照画像を分析させて、ペーパーカット／ストップモーション風の見た目を把握させたうえで、触感のあるペーパーカットスタイルに明確に一致する Seedream 5 Pro の image prompts を書かせ、その後でレイヤー構成の紙のシーンを生成します。  
-Seedream 5 Pro でレイヤー化されたペーパーカットのシーン素材を生成し（キャラクター／前景／背景ごとにレイヤーを分ける）、Seedance 2 がそれらのレイヤーをテーブル上の実物の切り抜きのようにアニメーションできるようにします。  
-単一の平面的な画像ではなく、レイヤー化された紙素材を Seedance 2 でアニメーション化して、説得力のあるストップモーションの紙の動きを実現します。
+まず核となるアイデアとあらすじを書き、その後、Seedance 2で動画を生成する前にキャラクターシートを作成します。  
+Seedance 2での生成に進む前に、書いたシーンをストーリーボードに変換します。  
+RunwayMLのSeedance 2を使って、ストーリーボードをマルチショット動画に変換します。  
+動画編集アプリを使って、Seedanceで生成したクリップを1本の最終トレーラー動画にまとめます。  
 
---- 引用ツイート ---
-https://t.co/hmpJtXuXCq
+--- スレッドの続き ---  
+[Thread 1] @runwayml まずは核となるアイデアとあらすじを書き、その後キャラクターシートを作成します https://t.co/EJ40291FEh
 
---- 関連記事: ループ、動的ワークフロー、ルーチンを使って Fable 5 で自己改善エージェントシステムを 14 ステップで構築する ---
-多くの人は Claude Fable 5 を、より大きなコンテキストウィンドウを持つ Sonnet 4.6 のように使っています。プロンプトを投げる。5分は動く。タブを閉じる。  
-10人中9人のユーザーは、実行のたびに次の実行が賢くなり、状態ファイルが蓄積し、スキルが磨かれていくような、複利的に成長するエージェントシステムを一度も動かしたことがありません。  
-Fable 5 は数日間動かすために作られました。あなたは数分しか使っていない。これは、Fable 5 が想定していた自己改善システムを構築するための 14 ステップのロードマップです。  
-> 新鮮な AI alpha を得るには Substack をフォローしてください: movez.substack.com  
-Claude Fable 5 は 2026年6月9日にリリースされました。公開利用可能な初の Mythos クラスモデルであり、Anthropic が Opus の一段上に置いた階層です。 
- 
-これは、Anthropic のエンジニアリング投稿、チームの公開実験、そして 2026年6月時点のリリース文書で検証された、Fable 5 が想定していた自己改善システムを構築するための 14 ステップのロードマップです。  
-3つの階層: Fable 5 が実際に何を解放するのか、複利を生む3つのプリミティブ（ループ、動的ワークフロー、ルーチン）、そしてそれをシステムへと変える自己改善レイヤー。 
- 
-14 ステップ。3つの階層。プロンプトするのはやめて、複利的に成長するシステムを作り始めましょう。
- 
+[Thread 2] @runwayml 次のステップは、書いたシーンをストーリーボードに変換することです。 https://t.co/uZgeQuffsI
 
-PART 1 · Fable 5 が実際に何を解放するのか
+[Thread 3] @runwayml ストーリーボードを、seedance 2を使ってマルチショット動画に変換します https://t.co/sOtvtbuQjB
 
-## 01. Fable 5 は Mythos クラスのモデルです。数日単位の自律実行が目玉です。
-
-Claude Fable 5 は 2026年6月9日に、Anthropic が Opus の一段上に導入した階層である初の公開利用可能な Mythos クラスモデルとしてリリースされました。 
- 
-Mythos Preview は 4月に Project Glasswing を通じて、重要インフラの一部パートナー向けに提供されました。Fable 5 は Anthropic が一般公開に安全と判断したバージョンで、高リスク領域の要求を拒否する安全分類器が組み込まれています。  
-分類器を持たない Mythos 5 は、引き続き Glasswing 限定です。
-Anthropic のリリース文書によると、Fable 5 が従来の Claude モデルでは持続できなかったことは次のとおりです。
-- 数日単位の自律セッション。Claude Code や Claude Managed Agents (CMA) のようなエージェントハーネス内で動かすと、Fable 5 は数日間作業できます。段階をまたいで計画し、サブエージェントに委任し、自分の作業を検証します。
-- 組み込みの自己検証。自分の作業を確認するために自分でテストを書きます。vision を使って出力を目標と照合します。学びを一般ルールへと抽出します。自分の仮定をテストします。
-- 最も野心的なコード作業。大規模移行、複雑な実装、数日にわたる自律コーディングセッション。Anthropic が前面に出している主なユースケースは「大規模プロジェクトを引き渡し、完了した成果物をレビューする」ことです。
-- 多段階の知識労働。深いリサーチと分析を、レビュー可能な成果物へとまとめる — しかも最小限の監督で。
-価格設定もこの階層に対応しています: 入力トークン100万あたり $10、出力トークン100万あたり $50、さらに prompt caching に対する既存の入力トークン90%割引あり。 
-Claude API、AWS、Amazon Bedrock、Vertex AI、Microsoft Foundry、そして従量課金型の Enterprise プランで利用可能です。サブスクリプションモデルではありません。大量利用にはそれ相応の請求が発生します。
- 
-
-
-## 02. 自己改善は自己学習ではありません。
-
-「self-improving agent system」という言い回しは、しばしば雑に使われます。実際に存在するものと、誇張されているものはまったく別物であり、何かを作る前にその差を理解する価値があります。
- 
-- 自己学習（self-learning）— エージェントが学習内容に基づいて自分の重みを更新すること。Fable 5 はこれを行いません。公開利用可能なモデルで、本番環境でこれを行うものはありません。 
-
-Recursive self-improvement (RSI) は、Anthropic 自身が 2026年5月に警告した長期的な方向性であり、今日出荷されている能力ではありません。
-- 自己改善（self-improving）— エージェントの周囲にあるシステムが複利的に成長すること。各セッションが学びをメモリに書き込みます。エッジケースが追加されるにつれてスキルが磨かれます。 
-
-状態ファイルには検証済みの事実が蓄積されます。eval ループが prompt と rubric を洗練します。モデル自体は同じでも、実行される環境がより鋭くなっていきます。
-この意味での自己改善は、あなたが構築するシステムの性質です。Fable 5 には、生の能力 — 長いコンテキスト、サブエージェント委任、vision による自己チェック、数日単位の持久力 — があり、それによって環境フィードバックループが、実行のたびに実際に複利的に成長するものへと変わります。 
-> Anthropic のエンジニアリングチームは、これを率直に述べています:
-“Rather than directly prompting and steering Fable 5, it’s often better to design loops that let the model self-correct in response to environment feedback (e.g., /goal or Outcomes) and manage its own context (e.g., via memory).”
- 
-
-
-## 03. 複利スタック: 4つのレイヤー、1つのフィードバックループ。
-
-この記事の冒頭にある Figure 1 は、アーキテクチャ全体を1枚の図で示しています。下から上へ読んでください — それがシステムの構築順であり、レバレッジが複利的に積み上がる順序です。
-- レイヤー1 · プリミティブ。Fable 5 本体、サブエージェント、worktree、エージェントが使うツール群。まだシステムに包まれていない生の能力です
+[Thread 4] @runwayml そしてもちろん、動画編集アプリを使って、動画クリップを1本の最終動画にまとめます。
 ```
 
 #### 💡 使い方のコツ
 
-Have Claude analyze a reference for the paper-cut/stop-motion look, then have it write Seedream 5 Pro image prompts that explicitly match the tactile paper-cut style before generating your layered paper scenes.  
-Generate layered paper-cut scene assets in Seedream 5 Pro (separate layers per character/foreground/background) so Seedance 2 can animate the layers like real cut-outs on a table.  
-Animate the layered paper assets in Seedance 2 (instead of a single flat image) to get believable stop-motion paper movement.
+Write the core idea and synopsis first, then create character sheets before generating video with Seedance 2.  
+Convert written scenes into storyboards before moving to Seedance 2 generation.  
+Convert storyboards into multi-shot videos using Seedance 2 in RunwayML.  
+Use a video editing app to regroup the Seedance-generated clips into one final trailer video.
 
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082501427893612546/img/uE2MPAcyxa8-oVBg.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082501856446595396.mp4)
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082817927334531072/img/aFTpsLCcXlDbhSyS.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082821337811157010.mp4)
 
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082501856446595396.mp4)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082821337811157010.mp4)**
 
-**作者:** [Kitsune Tails](https://x.com/kitsune_xbt) | **ソース:** [Link](https://x.com/kitsune_xbt/status/2082501856446595396) | **公開日:** 2026年7月29日
+**作者:** [AI4Everyday](https://x.com/ai4everyday) | **ソース:** [Link](https://x.com/ai4everyday/status/2082821337811157010) | **公開日:** 2026年7月30日
 
-`Scenery & Spectacle` `Worldbuilding` `Hand-drawn` `Fantasy` `Creative Asset` `Tutorial`
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
 
 ---
 
-### Use the Midjourney style reference parameter --sref 4241355530 to generate…
+### Upload a blockout/reference image to Nano Banana 2 and prompt it to render the…
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 プロンプト
 
 ```
-Midjourneyのスタイル参照パラメータ --sref 4241355530 を使用して、Seedance 2.0 の子ども向けストーリーアニメーション用に、現代的な絵本風イラスト（ラフなスケッチライン、絵画的な筆致、柔らかな自然光、抑えたカラーパレット）を生成します。
+ブロックアウト／参照画像を Nano Banana 2 にアップロードし、特定の映画スタイル（例：ドラえもん映画）で同じ構図をレンダリングするようプロンプトします。その際、参照画像とアスペクト比を完全に同じに保つよう明示的に指示してください。
 
---- 引用ツイート ---
-この Midjourney のスタイル参照は、現代的な絵本イラストの魅力を見事に捉えています。
+Nano Banana 2 のプロンプトでは、シネマティックなライティング、フィルムライクな質感、控えめなフィルムグレイン、豊かなディテールを指定し、参照の世界観／雰囲気に合わせながら、より映画的な見た目になるよう促します。
 
---sref 4241355530
+GPT を使って、ベースのブロックアウトプロンプトを新しいコンセプトにリミックスします（まず GPT にアイデアを伝え、その書き換え済みプロンプトを Nano Banana 2 にコピーします）。
 
-ラフなスケッチライン、絵画的な筆致、表情豊かなキャラクター、柔らかな自然光、そして抑えたカラーパレットが組み合わさり、温かみがあり、感情豊かで、自然に cinematic な印象の画像を生み出します。
+Seedance 2 の image-to-video では、生成した画像をアップロードし、デフォルトの動きでよければ motion prompt を追加せず、そのまま自然にアニメーションさせます。
 
-子ども向けの本、アニメーション映画、ビジュアルストーリーテリングに最適です。
----
-```
-
-#### 💡 使い方のコツ
-
-Use the Midjourney style reference parameter --sref 4241355530 to generate contemporary storybook-style illustrations (loose sketch lines, painterly brushstrokes, soft natural lighting, restrained color palette) for children’s story animations in Seedance 2.0.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082504404452741120/img/8jwecfuOO0ruSFmJ.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082504466599702754.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082504466599702754.mp4)**
-
-**作者:** [OscarAI](https://x.com/Artedeingenio) | **ソース:** [Link](https://x.com/Artedeingenio/status/2082504466599702754) | **公開日:** 2026年7月29日
-
-`Story` `Heartwarming` `Hand-drawn` `Realistic World` `Tutorial`
-
----
-
-### Use contrasting aspect ratios to separate narrative layers (e.g., dream…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-対照的なアスペクト比を使って物語のレイヤーを分ける（例：夢のシーンは4:3、現代のシーンは16:9）。そして衝突の瞬間には意図的にアスペクト比を「崩し」、corruption/glitch を示唆する。
-
-Seedance の shot には、1点対称、無機質なフレーミング、「標本のように撮られた object shot」といった Kubrick 風の構図指示を prompt し、無菌的で中央寄りのビジュアル文法を実現する。
-
-HAL/2001 風のエンディングを作るには、object が徐々に減速して parked stop に至る “slowdown/spin-down” motion を prompt する。
-
-物語の連続性を強化するために、映像内に焼き込みの date（例：キャラクターの誕生日）を入れ、生成クリップ全体で繰り返し現れる visual detail として使う。
-```
-
-#### 💡 使い方のコツ
-
-Use contrasting aspect ratios to separate narrative layers (e.g., dream sequences in 4:3 and present-day scenes in 16:9), then intentionally “break” the aspect ratio during collision moments to signal corruption/glitch.
-
-Prompt Seedance shots with Kubrick-style composition cues like one-point symmetry, clinical framing, and “object shot like a specimen” to achieve a sterile, centered visual grammar.
-
-Create a HAL/2001-style ending by prompting a “slowdown/spin-down” motion where the object gradually decelerates and comes to a parked stop.
-
-Reinforce story continuity by adding an in-footage burned-in date (e.g., a character’s birthday) as a recurring visual detail across generated clips.
-
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082506834502369280/img/OjFEMBKGnRgW4knF.jpg)](https://video.twimg.com/amplify_video/2082506834502369280/vid/avc1/1920x1080/anTA406wrDgsEWnR.mp4)
-
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2082506834502369280/vid/avc1/1920x1080/anTA406wrDgsEWnR.mp4)**
-
-**作者:** [Trash Robot](https://x.com/TrashRobotMusic) | **ソース:** [Link](https://x.com/TrashRobotMusic/status/2082507040136548418) | **公開日:** 2026年7月29日
-
-`Story` `Talk` `Photoreal` `Sci-Fi` `Tutorial` `VFX`
-
----
-
-### Use Seedance 2.0 with a detailed style prompt like 3D claymation-style…
-
-#### 📝 プロンプト
-
-```
-Seedance 2.0 を使って、3D claymation-style animation と cinematic lighting のような詳細な style prompt を指定し、見た目の雰囲気をコントロールします。  
-衣装の色、アクセサリー、髪型など、キャラクターの具体的なディテールを明確に指定して、アイデンティティの一貫性を固定します。  
-歩く、止まる、掘る、植える、土をならす、スマートフォンを取り出す、ピースサイン、ウィンク、自撮りといった一連の動作をステップごとに詳しく記述して、アニメーションのビートを制御します。  
-シンプルな背景（simple muted green background）を設定して、キャラクターに視線を集め、シーンの複雑さを抑えます。
-
---- QUOTED TWEET ---
-ハーランドはゴールを決めることしか知らない？ いやいや、今ではリーキまで植えてる！ 😂
-
-こちらは、めちゃくちゃ面白くて愛らしい Seedance 2.0 prompt：
-Create a 3D claymation-style animation of a cute caricature of Erling Haaland wearing Norway's red number 9 football kit, white shorts, red socks, and red boots, with his signature blonde ponytail, walking across a simple muted green background while carrying a giant leek on his shoulder and a bucket of harvested leeks. He stops at a dirt mound, digs a deep hole with a hand trowel, plants the giant leek firmly into the soil, pats it down, then takes out his smartphone, flashes a peace sign with a playful wink, and captures a celebratory selfie. Smooth, expressive character animation with whimsical, humorous, cinematic lighting.
-
-いちばん面白い「農夫ハーランド」を作るのは誰？ バーチャル賞品が待っています  
-#Seedance #Haaland #Claymation #AIVideo #FunnyPrompt
-```
-
-#### 💡 使い方のコツ
-
-Use Seedance 2.0 with a detailed style prompt like 3D claymation-style animation plus cinematic lighting to steer the visual look.  
-Specify exact character details (clothing colors, accessories, hairstyle) to lock in identity consistency.  
-Describe the full action sequence step-by-step (walks, stops, digs, plants, pats soil, takes out smartphone, peace sign, wink, selfie) to control the animation beats.  
-Set a simple background (simple muted green background) to keep focus on the character and reduce scene complexity.
-
-**作者:** [Tbros6868](https://x.com/tbros6868) | **ソース:** [Link](https://x.com/tbros6868/status/2082507090736881996) | **公開日:** 2026年7月29日
-
-`Portrait & Fashion` `Influencer` `3D Animation` `Realistic World` `Tutorial`
-
----
-
-### Use a single reference image as input to create cinematic “frozen action shot”…
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 プロンプト
-
-```
-Seedanceで、1枚の参照画像を入力として、映画的な「フローズンアクションショット」動画を作成します。  
-Seedance内蔵のLLMを使って、被写体／アクションを明示的に静止させたまま、ダイナミックなカメラワークを加える最適化されたpromptを生成します。
+Seedance 2 で動きを細かく制御したい場合は、画像を GPT にアップロードし、Seedance 2 を使っていることと、希望するカメラ／シーンの動きを説明してください。すると GPT が、そのモデルに合わせた motion prompt を生成用に作成してくれます。
 
 --- THREAD CONTINUATION ---
-[Thread 1] https://t.co/SAGMzRwFIP
+[Thread 1] 1. 画像を作成する
+
+ブロックアウト画像を Nano Banana 2 にアップロードし、次のプロンプトを使用します。
+
+"Render the reference blockout as a scene from a [Doraemon] movie. Ensure that all environmental elements closely match the worldbuilding, setting, atmosphere, and visual style of the films. Recreate the distinctive cinematic look and mood of a [Doraemon] movie, characters shown from the front. Use cinematic lighting, a film-like visual texture, subtle film grain, and rich details. Keep the aspect ratio exactly the same as the reference image."
+
+（ブロックアウト画像と上記プロンプトを GPT にアップロードし、たとえば「このブロックアウトプロンプトに面白いポケモンのコンセプトを追加して。Snorlax が開口部に挟まっていて、体の半分だけ बाहरに出ている。抜け出せず、最終的には挟まったまま眠ってしまう」といった形でアイデアを伝えることもできます。）
+
+その後、GPT から新しいプロンプトをコピーして Nano Banana 2 で使用します。
+
+2. 動画を生成する
+
+画像を Seedance 2 / Midjourney、またはその他の image-to-video モデルにアップロードします。
+
+プロンプトなしで自然にアニメーションさせることもできます。
+
+あるいは、画像を GPT にアップロードし、使用している動画モデルと、シーンをどのように動かしたいかを伝えます。すると GPT が、そのモデルにより適したプロンプトの作成を手伝ってくれます。
+```
+
+#### 💡 使い方のコツ
+
+Upload a blockout/reference image to Nano Banana 2 and prompt it to render the same composition in a specific film style (e.g., Doraemon movie), explicitly instructing it to keep the aspect ratio exactly the same as the reference image.
+
+In the Nano Banana 2 prompt, specify cinematic lighting, film-like texture, subtle film grain, and rich details to push a cinematic look while matching the reference worldbuilding/atmosphere.
+
+Use GPT to remix your base blockout prompt into new concepts (tell GPT your idea, then copy its rewritten prompt into Nano Banana 2).
+
+For Seedance 2 image-to-video, upload the generated image and let it animate naturally without adding a motion prompt if you want default movement.
+
+If you need controlled motion in Seedance 2, upload the image to GPT, tell it you’re using Seedance 2 and describe the desired camera/scene movement, then use GPT’s model-tailored motion prompt for generation.
+
+[![動画プレビュー](https://pbs.twimg.com/media/HOesmrFb0AA7O3T.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082823179496779830.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082823179496779830.mp4)**
+
+**作者:** [Macaroni](https://x.com/CRxMacaroni) | **ソース:** [Link](https://x.com/CRxMacaroni/status/2082823179496779830) | **公開日:** 2026年7月30日
+
+`Scenery & Spectacle` `Worldbuilding` `Anime 2D` `Fantasy` `Tutorial`
+
+---
+
+### Lock the shot structure (camera angle, timing, character notes, action beats)…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+Claudeでショット構成（カメラアングル、タイミング、キャラクターノート、アクションビート）を固めてからSeedance 2.0に送ることで、無駄な再レンダリングを避ける。  
+複数のビートで構成されるシーケンスは、1本の長く曖昧なpromptではなく、時間コード付きのビート（例：0〜5秒、5〜10秒、10〜15秒）に分解し、各ビートごとに具体的なカメラ移動とアクションを指定する。  
+Seedance向けのpromptは、レンダーモデルに必要な要素だけ（camera、subject、motion、lighting）を残し、余計な描写語を削って圧縮する。  
+複数クリップにわたってキャラクターの一貫性を保つには、キャラクターリファレンスを一度だけ定義し（顔、衣装、シルエット）、以降のpromptでは詳細を繰り返さず名前で参照する。  
+毎週、レンダー回数とトークン消費を追跡して、finished clipあたりのコスト監査を行い、再レンダリングを最も引き起こすショットタイプを特定する。  
+finished clipあたりのコスト（renderあたりのコストではない）を追跡し、繰り返し使えるフォーマットを継続する価値があるか判断する。  
+品質やエンゲージメントの向上が伴わないままレンダーコストだけが上がるショットタイプはやめる。
+
+--- 引用ツイート ---
+https://t.co/CflCFxLCOm
+
+--- 関連記事：CLAUDE + SEEDANCE 2.0の構成で、クリップを5ドル未満でレンダリングしつつ、同じショットにスタジオは6桁請求している ---
+問題はこうだ。  
+多くの人はAI動画を同じように扱っている。巨大なpromptをそのままレンダーエンジンに投げ込み、構成もショットプランもなく、結果が崩れたらゼロから再生成する。トークン請求は膨らみ、出力は不安定なまま、「cinematic AI video」は再現可能なプロセスではなくスロットマシンになってしまう。  
+この構成はそれをひっくり返す。Claudeがショット構成を担当し、camera angles、timing、character notes、action beatsを整理してから、Seedance 2.0に1トークンも触れる。レンダーはショットが実際にロックされた後にだけ走る。  
+以下が全体の内訳だ。
+
+ 
+PART 1 - 出発点
+初期クリップ：ショット構成なし、promptはSeedanceに直接書き込み、狙ったcamera moveを追って1クリップあたり3〜4回の再レンダリング。finished clipあたりのコスト：予測不能、時には15ドル超。出力：不安定、再現可能なフォーマットなし  
+修正点は「promptを減らす」ことではなかった。レンダー前にショットをロックし、再レンダリングを減らし、品質を維持することだった。
+
+ 
+PART 2 - 構成パス（レンダー効率向けに設計）
+
+Seedanceに触れる前にショットをロックする：
+このシーンを、camera angle、timing、character notes、action beatsを含む1つのSeedance promptに構成する。1回でロックし、再レンダーなし。  
+複数ビートのシーケンスは時間コード化する：
+この15秒のシーケンスを、0〜5秒、5〜10秒、10〜15秒のタイムドビートに分解する。各ビートごとにcamera moveとactionを指定し、冗長ではなく密度を重視する。  
+可読性ではなくレンダーモデル向けに圧縮する：
+このショット説明を、Seedanceが実際に必要とする語だけ—camera、subject、motion、lighting—に削る。それ以外はすべて落とす。  
+1つの指示で複数クリップにわたるキャラクターの一貫性を固定する：
+これがキャラクターリファレンスだ。以降のすべてのpromptで、顔、衣装、シルエットを固定したままにする。詳細は繰り返さず、名前で参照する。  
+毎週のクリップ単価監査：
+今週のレンダー回数とトークン消費はこれだ。finished clipあたりのコストを算出し、どのショットタイプが最も再レンダーを起こしているかをフラグする。
+
+ 
+PART 3 - 出力がどう変わったか
+
+屋上での戦闘シーケンス、騎兵突撃、オープニングクレジット、プロダクト風のエフェクトショット——これらはすべて同じ2段階のスタックで構築された。  
+ショットをロックしたことで再レンダリングが減り、1ドルあたりのfinished clip数が増え、週ごとに出せるクリップ数も増えた。
+
+5つのライフハック
+- ショット構成は、Seedanceに届く前に必ずロックする。再レンダリングのコストは、事前設計より高い。  
+- 複数ビートのシーケンスはすべて時間コード化する。曖昧な単発promptこそが余計なレンダーを食う。  
+- promptの読みやすさではなく、レンダーエンジン向けに圧縮する。余計な語はトークンだけでなくレンダー時間も浪費する。  
+- cost-per-finished-clipを追跡し、cost-per-renderでは追わない。その数値こそ、そのフォーマットを繰り返す価値があるかを予測する。  
+- 品質やエンゲージメントの向上が伴わないままレンダーコストがじわじわ上がるショットタイプは切る。  
+
+正直な推移。  
+初期クリップ：トークン消費もレンダーコストも予測不能で、出力は少なく不安定。構成パスが定着してからは、再レンダリングが減り、1クリップあたりのコストは5ドル未満に下がり、出力は再現可能になった。  
+差を生むのは才能ではない。ショットがレンダーされる前に構成されているかどうかだ。
+```
+
+#### 💡 使い方のコツ
+
+Lock the shot structure (camera angle, timing, character notes, action beats) with Claude before sending anything to Seedance 2.0 to avoid costly re-renders.  
+Break multi-beat sequences into time-coded beats (e.g., 0–5s, 5–10s, 10–15s) with a specific camera move and action per beat instead of one long vague prompt.  
+Compress prompts for Seedance by keeping only what the render model needs (camera, subject, motion, lighting) and removing extra descriptive words.  
+Maintain character consistency across multiple clips by defining a character reference once (face, wardrobe, silhouette) and referring to the character by name in subsequent prompts instead of restating details.  
+Run a weekly cost-per-finished-clip audit by tracking render count and token spend, then flag shot types that trigger the most re-renders.  
+Track cost per finished clip (not cost per render) to decide whether a repeatable format is worth continuing.  
+Stop using shot types where render cost rises without a matching increase in quality or engagement.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082833587808632832/img/YyoTeruI_c2weGsv.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082833685028491461.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082833685028491461.mp4)**
+
+**作者:** [Andy🤖](https://x.com/andy_neon_) | **ソース:** [Link](https://x.com/andy_neon_/status/2082833685028491461) | **公開日:** 2026年7月30日
+
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Use Seedance 2.0 for video generation in CapCut and pair it with GPT Image 2 to…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+CapCutでの動画生成にはSeedance 2.0を使用し、GPT Image 2と組み合わせることで、アニメーションストーリービデオを作成する際にシーンをまたいで一貫したキャラクターを維持できます。
+
+--- スレッドの続き ---
+[Thread 1] https://t.co/qAhKlzjy0d
 ---
 ```
 
 #### 💡 使い方のコツ
 
-Use a single reference image as input to create cinematic “frozen action shot” videos in Seedance.  
-Use Seedance’s built-in LLM to generate an optimized prompt that adds dynamic camera movement while explicitly keeping the subject/action frozen.
+Use Seedance 2.0 for video generation in CapCut and pair it with GPT Image 2 to maintain consistent characters across scenes when creating animated story videos.
 
-[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082514431578435584/img/R_Q7ifuoJELFXzwO.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082514464671453353.mp4)
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082836300046962689/img/E-mrPaJ6xH_UaRRW.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082839187426865514.mp4)
 
-📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082514464671453353.mp4)**
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082839187426865514.mp4)**
 
-**作者:** [ComfyUI](https://x.com/ComfyUI) | **ソース:** [Link](https://x.com/ComfyUI/status/2082514464671453353) | **公開日:** 2026年7月29日
+**作者:** [LAPTOP LIFESTYLE BLOGGER](https://x.com/MonetizationDon) | **ソース:** [Link](https://x.com/MonetizationDon/status/2082839187426865514) | **公開日:** 2026年7月30日
 
-`Action` `Chase` `Photoreal` `Realistic World` `Tutorial`
+`Story` `Talk` `3D Animation` `Realistic World` `Tutorial`
 
 ---
 
-*... その他 2335 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
+### Codexで画像生成→プロンプト構築→Seedance投入→ElevenLabsで音声生成→DaVinciで動画編集までを一括自動化するワークフローを組む
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+#### 📝 プロンプト
+
+```
+Codexで画像生成→プロンプト構築→Seedance投入→ElevenLabsで音声生成→DaVinciで動画編集までを一括自動化するワークフローを組む
+```
+
+#### 💡 使い方のコツ
+
+Codexで画像生成→プロンプト構築→Seedance投入→ElevenLabsで音声生成→DaVinciで動画編集までを一括自動化するワークフローを組む
+
+[![動画プレビュー](https://pbs.twimg.com/ext_tw_video_thumb/2082839382739066881/pu/img/esDD4GkyQ37H8bgE.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082839554839720285.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082839554839720285.mp4)**
+
+**作者:** [EVO / AI movie lab](https://x.com/k_evo_k) | **ソース:** [Link](https://x.com/k_evo_k/status/2082839554839720285) | **公開日:** 2026年7月30日
+
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Shoot a clean motion-reference clip in a controlled studio (plain backdrop +…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+Seedance 2.0でより正確にパフォーマンスを転送するには、見つけた映像を使うのではなく、統制されたスタジオ（無地の背景 + トラッキングマーカー）でクリーンなモーションリファレンスクリップを撮影してください。
+
+ターゲットキャラクターのアイデンティティ／アートスタイルは別途固定します（例：ストップモーション人形の質感、プロポーション、ライティング）。これにより、元の演者に合わせることなく、まったく異なるスタイル間でもパフォーマンスを差し替えられます。
+
+ダンサーのクリップはモーションリファレンスとしてのみ使用し、スタジオ背景や演者の実際の見た目が生成結果に影響しないようにします。
+
+リファレンス撮影とは独立してターゲット環境を構築します（世界観がスタジオに似ている必要はなく、統一感のある見た目であれば十分です）。
+
+非人間的／様式化されたキャラクターへモーションを転送する際は、表面的な見た目の一致よりも、リファレンス演技のタイミングと重さの一致を優先します。
+
+GPT Image 2で単一の「visual seed」キャラクター画像を作成し、Seedanceのリファレンス画像（image-to-video / reference-to-video）として常にアップロードして、各ショット間で顔と衣装の一貫性を保ちます。
+
+各シーン用にGPT Image 2で静止画の「start frame」を生成し、その後、アニメーション化する前にSeedanceへそのシーンのリファレンスフレームとしてアップロードします。
+
+Seedanceでは image-to-video / reference-to-video モードを選び、キャラクターのリファレンス画像 + シーンの start frame をアップロードします。必要に応じて、最大3本の動画リファレンス（カメラ移動用）と最大3つの音声ファイル（プラットフォーム依存）を追加できます。
+
+Seedance Motion Prompt では、見た目ではなくアクション／カメラ／テンポを記述し、dolly zoom / push-in / pull-out、Dutch angle、bullet time、one-take continuous shot などの技術トークンを含めます。
+
+最良の結果を得るには、ショット長を1ショットあたり4〜15秒に設定し、品質と速度のバランスが最も良い1080p/30fpsを使用します（ネイティブ4Kは、契約プランで対応している場合のみ使用してください）。
+
+参照音声トラック（最大3ファイル）をアップロードして、Seedanceが生成する音や音楽のリズムを誘導し、シーンに合わせて長さとムードを指定します。
+
+Seedanceの Refine/Edit（local edit）ツールを使えば、動画全体を再生成せずに、特定の細部（例：あるフレームの髪色）だけを修正できます。
+
+最終シーケンスを1本の連続した動画のように見せるために、すべてのショットで同じキャラクターのリファレンス画像を維持したまま、複数のSeedanceショットをつなぎ合わせます。
+
+公開先のプラットフォームに応じて、ターゲットのアスペクト比（16:9、9:16、1:1、4:3）で書き出します。
+
+Seedanceへのアクセス元プラットフォームが実在人物の写真アップロードをブロックする場合は、イラスト／アニメ／完全AI生成の顔をリファレンスとして使用し、実在の顔を前提にワークフローを組む前にプラットフォームの規約を確認してください。
+
+--- QUOTED TWEET ---
+https://t.co/VBHbienv47
+
+--- LINKED ARTICLE: THE COMPLETE 2026 GUIDE: ChatGPT Image 2.0 (GPT Image 2) + Seedance 2.0 — Making Video From Scratch ---
+## 登録からシネマティック動画まで — 初心者向け完全ガイド
+
+
+## ChatGPT Image 2.0が絵コンテを作成し、Seedance 2.0が動画を生成する
+
+人工知能は、クリエイターがビジュアルコンテンツを制作する方法を完全に変えました。かつては制作チーム全体が必要だった作業も、今では適切なツールとワークフローがあれば一人で実現できます。  
+このガイドでは、アカウント作成や適切なプランの選び方から、効果的なpromptの書き方、一貫したキャラクター設計、ChatGPT Image 2.0でのシネマティックなフレーム生成、そしてSeedance 2.0でそれらを動画に変える方法まで、全工程を解説します。
+ 
+
+## 必要なもの
+
+1. ChatGPT Plus/Pro/Teamのサブスクリプション（GPT Image 2のThinking mode用）または gpt-image-2 へのAPIアクセス。
+1. Seedance 2.0へのアクセス — ByteDance純正アプリ（Dreamina、Jimeng、CapCut）を通じて無料の日次クレジットで利用するか、サードパーティプラットフォーム（fal.ai、Higgsfield）を通じて有料APIアクセスを使う方法があります（動画1秒あたり約$0.08〜0.10）。
+1. キャラクターとシーンの明確な説明 — これ一つで最終動画の品質が決まります。  
+重要：Seedance 2.0へのアクセスを提供する一部のプラットフォームでは、実在人物の写真（自撮り、ポートレート、有名人）をアップロードできず、イラスト、アニメキャラクター、または完全AI生成の顔のみが受け付けられます。実在の顔を参照にしてワークフロー全体を組む前に、選んだプラットフォームのルールを確認してください。
+
+## ステップ1. GPT Image 2でキャラクターを作成する
+
+これがあなたの「visual seed」です。動画のすべてのフレームで、顔、衣装、スタイルの一貫性を保つためのリファレンス画像です。  
+キャラクタープロンプト（GPT Image 2 / Thinking mode を有効にしたChatGPTに貼り付けてください）：
+ 
+ 
+ヒント：同じキャラクターで複数の動画を作る予定なら、この画像を保存し、毎回テキストでキャラクターを再説明する代わりに、Seedanceで必ずリファレンス（image-to-video / reference image）としてアップロードしてください。これが、シーンをまたいで顔と衣装を一貫させる本当の秘訣です。
+
+## ステップ2. 各シーンのリファレンスフレームを生成する
+
+動画の各シーンごとに、まずGPT Image 2で静止画を作成します。これが、後でSeedanceが命を吹き込む「start frame」です。  
+プロンプト例（シーンごとに1つ）：
+ 
+ 
+ 
+ 
+ 
+ 
+（[REFERENCE CHARACTER] はステップ1で作成したキャラクターの説明に置き換えてください。あるいは、ChatGPT上で直接作業している場合は、生成したキャラクター写真を各プロンプトにリファレンスとして添付し、シーン間で顔が「ドリフト」しないようにしてください。）
+
+## ステップ3. フレームをSeedance 2.0にアップロードする
+
+1. Seedance 2.0のインターフェースを開きます（Dreamina / CapCut / fal.ai / Higgsfield — どこでもレイアウトはほぼ同じです）。
+1. image-to-video または reference-to-video モードを選択します。
+1. リファレンスとしてアップロードするもの：ステップ1のキャラクターリファレンス画像、ステップ2の必要なシーンのstart frame、必要に応じて最大3本の動画リファレンス（例：希望するカメラ移動の例）と最大3つの音声ファイル。
+
+ 
+
+## ステップ4. Motion Promptを書く
+
+ここでは見た目ではなく、アクション、カメラ、テンポを記述します。シネマティックな仕上がりにするため、技術トークンを使いましょう。  
+例：
+Camera
+```
+
+#### 💡 使い方のコツ
+
+Shoot a clean motion-reference clip in a controlled studio (plain backdrop + tracking markers) instead of using found footage to get more precise performance transfer in Seedance 2.0.
+
+Lock the target character’s identity/art style separately (e.g., stop-motion doll textures, proportions, lighting) so you can performance-swap across radically different styles without matching the source performer.
+
+Use the dancer clip as motion reference only, and prevent the studio background or the performer’s real appearance from influencing the generation.
+
+Build the target environment independently from the reference shoot (the world doesn’t need to resemble the studio; it just needs a consistent look).
+
+Prioritize matching timing and weight from the reference performance over surface likeness when transferring motion to non-human/stylized characters.
+
+Create a single “visual seed” character image in GPT Image 2 and always upload it as the Seedance reference image (image-to-video/reference-to-video) to keep face/outfit consistent across shots.
+
+Generate a still “start frame” for each scene in GPT Image 2, then upload it to Seedance as the scene’s reference frame before animating.
+
+In Seedance, choose image-to-video/reference-to-video mode and upload: the character reference image + the scene start frame; optionally add up to 3 video references (for camera move) and up to 3 audio files (platform-dependent).
+
+Write the Seedance Motion Prompt to describe action/camera/pacing (not appearance) and include technical tokens like dolly zoom/push-in/pull-out, Dutch angle, bullet time, and one-take continuous shot.
+
+Set shot length to 4–15 seconds per shot for best results, and use 1080p/30fps as the quality/speed sweet spot (use native 4K only if your tier supports it).
+
+Upload a reference audio track (up to 3 files) to steer Seedance’s generated sound/music rhythm, and specify duration + mood to match the scene.
+
+Use Seedance’s Refine/Edit (local edit) tool to fix a specific detail (e.g., hair color in one frame) without regenerating the entire video.
+
+Stitch multiple Seedance shots together while keeping the same character reference image across all shots to make the final sequence feel like one continuous video.
+
+Export in the target aspect ratio (16:9, 9:16, 1:1, 4:3) based on the platform you’re publishing to.
+
+If your Seedance access platform blocks real-person photo uploads, use illustrations/anime/fully AI-generated faces as references and confirm platform rules before building a workflow around real-face references.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082710136515125248/img/q3v6kREgS6CPyig6.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082846176080982255.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082846176080982255.mp4)**
+
+**作者:** [Primee32](https://x.com/Primee32) | **ソース:** [Link](https://x.com/Primee32/status/2082846176080982255) | **公開日:** 2026年7月30日
+
+`Music & Dance` `Dance` `Photoreal` `Realistic World` `Tutorial` `VFX` `Creative Asset`
+
+---
+
+### Upload 1–3 product photos and your brand details, then use Seedance 2 to…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+1〜3枚の商品写真とブランド情報をアップロードし、Seedance 2を使って、実績のあるTikTok Shopクリエイター動画のフック／構成／テンポを再現しながら、あなたの商品をフィーチャーした新しい広告バージョンを生成します。
+```
+
+#### 💡 使い方のコツ
+
+Upload 1–3 product photos and your brand details, then use Seedance 2 to generate a new ad version by recreating a proven TikTok Shop creator video’s hook/structure/pacing with your product featured.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082850790654570496/img/2ZtybEEJp0ID8hHn.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082850813010186503.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082850813010186503.mp4)**
+
+**作者:** [Harsh Hada](https://x.com/MasculineM7) | **ソース:** [Link](https://x.com/MasculineM7/status/2082850813010186503) | **公開日:** 2026年7月30日
+
+`Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Use a fixed “style string” (style bible) and append it to every Seedance…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+固定の「style string」（style bible）を使い、それをすべての Seedance プロンプトに追加する。シーンごとにスタイルを自由に変えないこと。そうしないと visual drift が起きる。  
+各キャラクターについて character reference sheet を一度作成し、以後の Seedance の全シーンで再利用する。デザインが合うまで prompt を書き直すのではなく、再生成（re-roll）する。  
+ベースの character design prompt にある OUTFIT BLOCK は、そのまま一字一句変えずに character reference sheet prompt にコピーする。言い換えたり、単語を変えたりしない。ショット間の drift を防ぐため。  
+繰り返し登場する環境には location reference sheet を作成し、シーン間で再利用して、エピソード全体を同じ世界観に保つ。  
+Seedance 2 の lip-sync では、各キャラクターの voice を音声トラック付きの空の video file として用意し（MP3 ではない）、生成時にその voice refs を添付する。  
+各セリフ行には、@ + そのキャラクターの voice reference を付ける。そうすることで、複数キャラクターでも1回の生成内で声を一貫させられる。  
+Seedance では、character sheets + location sheet + voice refs を添付してシーンを生成し、各生成の設定は 15 seconds、16:9、1080p にする。  
+テンポは 15秒の生成あたり約6ショット（1ショット2〜3秒）で設計し、action ↔ reaction を交互にしつつ、wide → medium → close-up のローテーションを行う。  
+各ショットで focal length を 24mm / 35mm / 50mm / 85mm と切り替え、単なる静止した1カットではなく、編集された映像のように見せる。  
+Seedance のフルプロンプトは 1,500文字未満に収める（Seedance の制限）。必要なら wardrobe の説明は圧縮する。  
+15秒の multi-shot 生成で voice consistency が崩れる場合は、single-shot 生成に切り替えて、編集でシーンを組み立てる。  
+長いシーンは、複数の 15秒 Seedance 生成をつなげて作る。
+
+--- QUOTED TWEET ---
+https://t.co/YnNYpYRh6g
+
+--- LINKED ARTICLE: 24時間365日稼働する AI アニメーション工場の作り方 ---
+先月、私は4時間だけ AI アニメーションスタジオを監督した。  
+そのあとの716時間は、スタジオが自走していた。  
+収益は $12,345。  
+ツールは6つ。  
+工場は回る。私は寝る。成果物は出る。  
+ここでは、その正確なシステムを紹介する。すべての prompt、すべての手順、すべての template まで。
+
+## まず：なぜアニメーションはアルゴリズムに強いのか
+
+ 
+バズは運ではない。スキルだ。  
+そして、その95%は自動化できる再現可能な科学に従っている。  
+X のアルゴリズムは、投稿を一度に全員へは表示しない。  
+まず小さなサンプルに対してテストする。  
+見るのは3つの指標だ。  
+→ Scroll stop — 視覚的にスクロールを止められるか  
+→ Watch-through — 最後まで見てもらえるか  
+→ Comments — 何かコメントしたくなるか  
+この3つをすべて通過すると、投稿はより大きな層へ押し出される。  
+さらに通過すれば、もっと大きな層へ。  
+こうしてバズは生まれる。  
+アニメーションは、この3つすべてに最初から強い。  
+シーン中のカートゥーンキャラクターは、テキストよりも速くスクロールを止める。  
+動きは静止画より長く注意を引きつける。  
+キャラクターは感情を生み、その感情がコメントを生む。  
+つまり、コンテンツの種類はもう決まっている。  
+問題は、それを十分な速さで作れるかどうかだ。  
+答えは YES。  
+しかも、それを回す工場の運用コストは月 $124 だ。
+
+ 
+## 工場が生み出すもの
+
+4種類のコンテンツ。すべて自動化。すべて異なる購買層に刺さる。  
+Animated story series → 6〜10分のエピソード、オリジナルキャラクター、AI voice、オリジナル score → YouTube AdSense + Patreon  
+Brand explainer animations → 60〜90秒の製品動画 → 1本 $350〜800 の直接案件  
+Motion comic series → イラストパネルを動画化、ナレーション付き、cinematic → ライセンス収益 + Patreon subscribers  
+Children's story channels → 5分の bedtime stories、やわらかいアニメーション、落ち着いた voice、ambient music → YouTube と Spotify で高い RPM  
+1本の pipeline で、この4つすべてを作れる。
+
+ 
+## ツールスタック
+
+ 
+重要なのは、Higgsfield Supercomputer が自社プラットフォーム内で Claude を MCP として動かしていることだ。  
+Claude を別で開く必要はない。  
+やりたいことを説明するだけでいい。agent が Claude を選び、Seedream を選び、Seedance を選ぶ。  
+あなたは1つのタブにいるだけでいい。あとは agent がやってくれる。
+
+ 
+## 4ブロックの prompt 構成
+
+このシステムのすべての prompt は、同じ構造を持つ。  
+4つの block。3つは永遠に固定。1つだけ shot ごとに変わる。
+ 
+以下は、anime series の実例だ。
+ 
+ 
+なぜこれが機能するのか：  
+3つの block が、常に一致していなければならない要素をすべて固定する。  
+1つの block だけが image ごとに変わる。  
+1エピソードで40ショットを生成しても、  
+キャラクター、世界観、visual style はすべてのショットで完全に同一のままだ。  
+それが、単なる「かっこいい画像の集合」ではなく、本物の番組のように見える理由だ。
+
+ 
+## Phase 0 — Style Bible（最初にこれをやる）
+
+1つの visual style を定義して固定する。  
+style string を書く。これは今後すべての prompt に追加する再利用可能な1文だ。  
+例：
+ 
+出力が安定するまで test images を生成する。  
+最終的な style string と、最良の reference images を保存する。  
+その string を今後すべての prompt に入れる。  
+シーンごとに即興で変えないこと。  
+style を freestyle した瞬間に drift が始まる。
+
+ 
+## Phase 1 — Character creation（1回作って、永久に使う）
+
+キャラクターごとに character sheet を1枚作る。1回だけ作成し、以後すべてのシーンで参照する。  
+その sheet は、そのキャラクターが登場するたびに video model が照合する基準になる。  
+テンプレートは2つ。順番どおりに両方使う。どちらも省略しない。  
+Template A — Base Character Design（最初に実行して、デザインを固定する）：
+ 
+ 
+同じ prompt で、デザインがしっくりくるまで再生成する。  
+prompt は書き直さない。re-roll する。  
+満足したら Template B に進む。  
+Template B — Character Reference Sheet（承認済みデザインから、2番目に実行する）：
+ 
+ 
+すべてを一貫させるためのルール：  
+OUTFIT BLOCK は Template A に1回だけ書く。  
+それを Template B に一字一句そのまま貼り付ける。  
+言い換えない。要約しない。  
+1語でも変われば、40ショットにわたって visual drift が起きる。  
+傷、アクセサリー、ロゴなど、恒久的に維持したい要素はすべて、ここで sheet prompt に書き込む。
+```
+
+#### 💡 使い方のコツ
+
+Use a fixed “style string” (style bible) and append it to every Seedance prompt; never freestyle the style per scene to avoid visual drift.  
+Create a character reference sheet for each character once and reuse it in every Seedance scene; regenerate (re-roll) until the design is right instead of rewriting the prompt.  
+Copy the OUTFIT BLOCK verbatim from the base character design prompt into the character reference sheet prompt; do not paraphrase or change words to prevent drift across shots.  
+Create location reference sheets for recurring environments and reuse them across scenes so episodes stay in the same world.  
+For Seedance 2 lip-sync, provide each character voice as a blank video file with the audio track (not an MP3) and attach those voice refs during generation.  
+Tag each dialogue line with @ + the character’s voice reference so multiple characters keep consistent voices within a single generation.  
+Generate scenes in Seedance by attaching character sheets + location sheet + voice refs, then use settings 15 seconds, 16:9, 1080p for each generation.  
+Plan pacing as ~6 shots per 15-second generation (2–3 seconds per shot) and alternate action ↔ reaction with wide → medium → close-up rotation.  
+Rotate focal lengths per shot (24mm / 35mm / 50mm / 85mm) to make the output feel edited rather than a single static shot.  
+Keep the full Seedance prompt under 1,500 characters (Seedance limit); compress wardrobe descriptors if needed.  
+If voice consistency drifts in a 15-second multi-shot generation, switch to single-shot generations and assemble the scene in editing.  
+Chain multiple 15-second Seedance generations to build longer scenes.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082859748433502208/img/8h9X7M9ZDdIVH3mL.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082859985621372963.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082859985621372963.mp4)**
+
+**作者:** [Akira](https://x.com/awp_Akira) | **ソース:** [Link](https://x.com/awp_Akira/status/2082859985621372963) | **公開日:** 2026年7月30日
+
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
+
+---
+
+### Test with cheap video models first, then recreate the winning ads in Seedance…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+まずは安価な動画モデルでテストし、その後、勝ち筋の広告を Seedance で再現して、より高品質に仕上げる（その分コストは高くなることを स्वीकारする）。
+
+--- スレッドの続き ---
+[スレッド 1] Graphed .com - マーケティング向け AI エージェントをデプロイ
+
+Graphed CLI を使って、広告運用、コールドアウトリーチ、SEO を実行するエージェントをデプロイ
+
+データパイプライン、データウェアハウス、そしてエージェントをホストするクラウドサーバー
+
+仮想社員でビジネスを成長させる
+
+詳細はこちら https://t.co/mL5ZLkAgFP
+
+[スレッド 2] Graphed .com - マーケティング向け AI エージェントをデプロイ
+
+フルスタックのエンジニアが、5営業日でマーケティングエージェントを実装
+
+人員を増やさずにビジネスを成長させる
+
+ディスカバリーコールを予約する
+
+https://t.co/8s2nibqHoo
+```
+
+#### 💡 使い方のコツ
+
+Test with cheap video models first, then recreate the winning ads in Seedance for higher quality (accepting higher cost).
+
+**作者:** [Cody Schneider](https://x.com/codyschneider) | **ソース:** [Link](https://x.com/codyschneider/status/2082873860316103166) | **公開日:** 2026年7月30日
+
+`Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Generate as 10 seconds, 9:16 vertical, ultra realistic live action (Seedance…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+10秒、9:16の縦型、超リアルな実写（Seedance 2.0最適化）として生成し、バイラルなショート動画フォーマットにする。  
+アップロードされた参照画像は、アイデンティティ（顔、髪、肌の色、体型）を厳密に保持するためだけに使用し、アイデンティティの一貫性を最優先に設定する。  
+Seedanceには、参照画像の服装、ポーズ、背景を決してコピーしないよう明示的に指示し、毎回オリジナルのクチュールと新しい世界を生成させる。  
+Seedanceに対して「reference image rule」を追加し、顔メッシュ、顔のグリッド、ランドマークポイント、ARマーカー、ワイヤーフレーム、顔スキャンのオーバーレイ、編集ガイド、ウォーターマークを除去／無視して、クリーンで自然な顔を生成するよう指示する。  
+最初の1秒は強いフックとして設計し、ルーレットが何に着地するのかへの即時の好奇心を生み出す。  
+スマートフォンPOVを使い、速いバイラルなテンポと自然な手持ち感のリアリズムを保つ。1ショットにつき主となるカメラ移動は1つに絞る（push-in、tracking、whip pan、macro）。  
+トランジションはオブジェクト主導のマッチカットにし（リボン／帽子／花／バッグ／パール／ルーレットホイールが画面を埋める）、dissolve／crossfadeは禁止する。  
+タイムライン構成は、0〜1秒でルーレットを紹介し、ホイールが画面いっぱいになるショットへスピンさせる。2〜7.5秒で衣装を段階的に構築し（fabric → stitching → embroidery → accessories）、その間に環境も変化させる。9〜10秒でホイールが画面いっぱいになるショットで終え、シームレスな無限ループを作る。  
+ルーレットが世界／衣装／雰囲気／カラーパレット／小道具／ライティングを変える、ひとつの完全な「fashion dimension」を選ぶようにして多様性を強制し、1エピソード内で同じ結果を繰り返さない。  
+fabric gravity、hair inertia、natural accessory motion、wind affecting materials などのリアルな物理挙動を指示し、「浮いている」ような見え方を減らす。  
+negative prompt には以下を含める：reference clothing copy, reference pose copy, reference background copy, identity drift, face replacement, face mesh, facial grid, wireframe, AR tracking, plastic skin, wax skin, CGI, 3D render, anime, cartoon, duplicate person, extra limbs, extra fingers, bad anatomy, ghosting, temporal flicker, camera jitter, floating clothes, low quality, watermark, logo, subtitle, text.
+
+--- THREAD CONTINUATION ---
+[Thread 1] # PAPERWIZ × ALPHA
+# FASHION ROULETTE DIMENSION
+## Mystery Summer Couture
+### Seedance 2.0 Optimized
+### 10 Seconds │ 9:16 Vertical │ Ultra Realistic Live Action
+
+---
+
+# CORE CONCEPT
+
+ALPHAは魔法のFashion Rouletteを所有している。
+
+ルーレットが選ぶのは服ではない。
+
+まったく新しいファッション次元を選ぶ。
+
+スピンするたびに現実が変化する。
+
+PAPERWIZのアイデンティティは決して変わらない。
+
+変わるのは世界とクチュールだけ。
+
+観客は次に何が現れるのか分からない。
+
+毎回のエピソードが驚きに満ちている。
+
+---
+
+# HOOK
+
+最初の1秒で、即座に好奇心を生み出すこと。
+
+視聴者は瞬時にこう思うべきだ：
+
+「ルーレットは何に止まるんだろう？」
+
+---
+
+# MASTER PRIORITY
+
+最優先事項
+
+- アップロードされた参照画像のアイデンティティを完全に保持する。
+- 顔のアイデンティティを決して変えない。
+- 参照画像の服装を決してコピーしない。
+- 参照画像のポーズを決してコピーしない。
+- 参照画像の背景を決してコピーしない。
+- オリジナルのクチュールのみを生成する。
+- アイデンティティの一貫性はすべてに優先する。
+
+---
+
+# REFERENCE IMAGE RULE
+
+アップロードされた参照画像は以下のためだけに使用する：
+
+- 顔
+- 髪
+- 肌の色
+- 体型
+
+以下は無視し、除去する：
+
+- Face mesh
+- Facial grid
+- Landmark points
+- AR markers
+- Wireframe
+- Face scan overlay
+- Editing guides
+- Watermarks
+
+完璧にクリーンで自然な人間の顔を生成する。
+
+---
+
+# CHARACTERS
+
+## PAPERWIZ
+
+超リアルな人間。
+
+エレガント。
+
+自信に満ちている。
+
+自然な表情が豊か。
+
+すべてのショットで同じ顔。
+
+---
+
+## ALPHA
+
+リアルなふわふわのアルパカ1匹。
+
+かわいい。
+
+元気いっぱい。
+
+いたずら好き。
+
+Fashion Roulette Master。
+
+毎回、ALPHAがルーレットを回すところから始まる。
+
+---
+
+# ROULETTE RULE
+
+ルーレットはひとつの次元全体を選ぶ。
+
+各結果で変化するもの：
+
+- World
+- Outfit
+- Atmosphere
+- Color palette
+- Props
+- Lighting
+
+各結果は一目で識別できる必要がある。
+
+1エピソード内で同じ結果を2回繰り返さない。
+
+---
+
+# POSSIBLE ROULETTE RESULTS
+
+Marine
+
+Preppy
+
+Balletcore
+
+Fairy
+
+Luxury Resort
+
+Street Fashion
+
+Cyber Fashion
+
+Princess
+
+Festival
+
+Vintage
+
+Royal
+
+Mystery
+
+Ultimate Couture
+
+---
+
+# CAMERA
+
+Smartphone POV.
+
+Fast viral pacing.
+
+Push In.
+
+Tracking.
+
+Whip Pan.
+
+Macro.
+
+Natural handheld realism.
+
+1ショットにつき主となるカメラ移動は1つ。
+
+---
+
+# TRANSITIONS
+
+すべてのトランジションはオブジェクト主導。
+
+ファッション小物が画面を埋める。
+
+例：
+
+Ribbon
+
+↓
+
+Hat
+
+↓
+
+Flower
+
+↓
+
+Luxury Bag
+
+↓
+
+Pearl Necklace
+
+↓
+
+Roulette Wheel
+
+クリーンなマッチカットのみ。
+
+dissolveは禁止。
+
+crossfadeは禁止。
+
+---
+
+# TIMELINE
+
+## 0.0–1.0
+
+ALPHAがフレーム内に飛び込む。
+
+巨大で発光するFashion Rouletteが現れる。
+
+ALPHAが劇的にそれを回す。
+
+カメラが回転するホイールへ勢いよく寄る。
+
+ホイールが画面いっぱいになる。
+
+---
+
+## 1.0–2.0
+
+ルーレットの回転がゆっくりになる。
+
+結果がほぼ見えそうになる。
+
+PAPERWIZが不安そうに見つめる。
+
+ALPHAは興奮する。
+
+ポインターが止まる。
+
+現実が爆発的に変化する。
+
+---
+
+## 2.0–7.5
+
+選ばれたファッション世界が現れる。
+
+現実が変貌する。
+
+衣装が物理的に構築される。
+
+Fabric が現れる。
+
+↓
+
+Stitching が現れる。
+
+↓
+
+Embroidery が形成される。
+
+↓
+
+Accessories が組み上がる。
+
+↓
+
+完成したクチュール。
+
+環境も同時に変化する。
+
+選ばれたファッション世界がPAPERWIZを包み込む。
+
+ALPHAが誇らしげに結果を披露する。
+
+---
+
+## 7.5–9.0
+
+ルーレットが自動的に再び回り始める。
+
+複数のファッション世界が高速で点滅する。
+
+Marine.
+
+↓
+
+Princess.
+
+↓
+
+Cyber.
+
+↓
+
+Luxury.
+
+↓
+
+Fairy.
+
+↓
+
+???
+
+↓
+
+Ultimate Couture.
+
+ホイールの輝きがさらに強くなる。
+
+---
+
+## 9.0–10.0
+
+Ultimate Couture が選ばれる。
+
+それまでのファッション要素がすべてひとつのオリジナル傑作に融合する。
+
+PAPERWIZが微笑む。
+
+ALPHAが喜ぶ。
+
+ルーレットがカメラに向かって直接回転する。
+
+回転するホイールが画面を埋める。
+
+ホイールがシームレス
+```
+
+#### 💡 使い方のコツ
+
+Generate as 10 seconds, 9:16 vertical, ultra realistic live action (Seedance 2.0 optimized) for a viral shorts format.  
+Use an uploaded reference image strictly to preserve identity (face, hair, skin tone, body proportions) and set identity consistency as the highest priority.  
+Explicitly instruct Seedance to never copy clothing, pose, or background from the reference image; generate original couture and a new world each spin.  
+Add a “reference image rule” telling Seedance to remove/ignore face mesh, facial grids, landmark points, AR markers, wireframes, face scan overlays, editing guides, and watermarks to produce a clean natural face.  
+Design the first 1 second as a strong hook (immediate curiosity about what the roulette lands on).  
+Use smartphone POV with fast viral pacing and natural handheld realism; keep one dominant camera move per shot (push-in, tracking, whip pan, macro).  
+Make transitions object-driven match cuts (ribbon/hat/flower/bag/pearls/roulette wheel filling the frame) and forbid dissolves/crossfades.  
+Structure the timeline: 0–1s introduce/spin roulette into a wheel-fills-frame shot; 2–7.5s build the outfit step-by-step (fabric → stitching → embroidery → accessories) while the environment transforms; 9–10s end on a wheel-fills-frame shot to create a seamless infinite loop.  
+Force variety by having the roulette select an entire “fashion dimension” that changes world/outfit/atmosphere/color palette/props/lighting, and never repeat the same result within an episode.  
+Prompt realistic physics (fabric gravity, hair inertia, natural accessory motion, wind affecting materials) to reduce “floaty” looks.  
+Use a negative prompt including: reference clothing copy, reference pose copy, reference background copy, identity drift, face replacement, face mesh, facial grid, wireframe, AR tracking, plastic skin, wax skin, CGI, 3D render, anime, cartoon, duplicate person, extra limbs, extra fingers, bad anatomy, ghosting, temporal flicker, camera jitter, floating clothes, low quality, watermark, logo, subtitle, text.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082876076423041024/img/zoiD7Z8rLKp2I-6W.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082876101601398839.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082876101601398839.mp4)**
+
+**作者:** [paperwiz](https://x.com/paperwiz_) | **ソース:** [Link](https://x.com/paperwiz_/status/2082876101601398839) | **公開日:** 2026年7月30日
+
+`Portrait & Fashion` `Fashion` `Photoreal` `Realistic World` `POV` `Transformation` `Tutorial`
+
+---
+
+### In Magnific, first generate a single reference image to lock in the video’s…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+Magnificでは、まず動画全体のスタイルと雰囲気を固定するために、アニメーション化する前に1枚の参照画像を生成します。  
+MagnificのNano Banana Pro（スタイル用のprompt付き）を使って、見た目を定義する参照画像を作成します。  
+アニメーションは、animation modelとしてSeedance 2.0を選び、その参照画像をinputとして使用して行います。  
+まずはシンプルなSeedance promptでアニメーションを始めてトーンを決め、その後、ダイナミズムを最大化するために複数のSeedance 2.0 rapid-cut promptsへ切り替えます。  
+追加のショットでは、前に生成した画像を参照として再利用し、カット間の一貫性を保ちます。  
+フルバンドのショットを作るには、生成された動画から各バンドメンバーの静止フレームを切り出し、それらのstillを参照として使って新しいフルバンドの画像／ショットを構成します。
+
+--- THREAD CONTINUATION ---
+[Thread 1] @magnific に入ったら、最初にやるのは動画全体のスタイルと雰囲気を固定する画像を生成することです。
+
+私は Nano Banana Pro と、スクリーンショットにあるpromptを使いました。
+
+さあ、アニメーション化しましょう！ https://t.co/1pUEzideqD
+
+[Thread 2] 参照画像を使い、animation modelとして Seedance 2.0 を選択し、最初のスクリーンショットのようなシンプルなpromptを書きます。まずはトーンを決める！
+
+その後は一気に攻めます…最大限のダイナミズムを出すために、rapid cutsをひたすら連発。2枚目のスクリーンショットです。 https://t.co/YGmmupHMb6
+
+[Thread 3] そして最後に、いくつかのバンドショットを作ります。
+
+まず前の画像を参照として使い、その後、動画そのものからバンドメンバーの静止画を切り出して、フルバンドの1枚を作成します。
+
+以上です！ https://t.co/SygrXnzT1K
+```
+
+#### 💡 使い方のコツ
+
+In Magnific, first generate a single reference image to lock in the video’s overall style and atmosphere before animating.  
+Use Nano Banana Pro in Magnific (with your style prompt) to create the reference image that defines the look.  
+Animate by selecting Seedance 2.0 as the animation model and using the reference image as the input.  
+Start the animation with a simple Seedance prompt to establish the tone, then switch to multiple Seedance 2.0 rapid-cut prompts to maximize dynamism.  
+For additional shots, reuse the previous generated image as the reference to maintain continuity across cuts.  
+Create full-band shots by grabbing still frames of individual band members from the generated video and using those stills as references to compose a new full-band image/shot.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082872841968488448/img/P04oeK4fVFhbC-rO.jpg)](https://video.twimg.com/amplify_video/2082872841968488448/vid/avc1/1920x1080/wW4bcBlO0q8zEJNg.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2082872841968488448/vid/avc1/1920x1080/wW4bcBlO0q8zEJNg.mp4)**
+
+**作者:** [TechHalla](https://x.com/techhalla) | **ソース:** [Link](https://x.com/techhalla/status/2082877911732793714) | **公開日:** 2026年7月30日
+
+`Music & Dance` `MV` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Save a repeatable Seedance workflow as a Luma Skill by prompting Luma to save…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+---
+再現可能な Seedance ワークフローを Luma Skill として保存するには、Luma に現在のワークフローを skill として保存するよう指示し、その後、新しいアセットで再実行して結果の一貫性を保ちます。
+
+複数の Luma Skill を連鎖させるには、1つの Luma Skill から別の Skill を呼び出して、手作業で各ステップを作り直すのではなく、複数段階の Seedance パイプライン（skill chains/trees）を構築します。
+
+「locked spine」型のストーリーワークフローを作るには、まず物語を 3〜5 個の不変のビートに絞り込み、その後、ビートの spine を固定したまま、aesthetics/genre/sound/subplots だけを変えて Seedance のバリエーションを生成し、連続性を保ちます。
+
+複数のルックを低コストで試すには、まず静止画として audition し、その後 Seedance で ONE の aesthetic に高 fidelity で確定します。そして、そのルックを物語全体で locked にしておくことで、後からの変更が continuity を壊さずに “ride the spine” できるようにします。
+
+複数の Skills を 1 つの “kit” にまとめるには、メインの Skill の中に他の Skills を参照として保存します（ネストされた Skills が使えない場合の workaround）。これにより、Seedance ワークフロー全体を 1 つのパッケージ化された Skill として実行できます。
+
+会話シーンでは、voice cast を固定し、ビートを短く保ち、reference audio で bias をかけてキャラクターの声の一貫性を維持しながら、native audio 付きの短い performed beats を生成します。
+
+車両・船・メカの構造的な continuity を保つには、クリーンな technical blueprint を生成し、それを continuity anchor reference として使います（必要に応じて 3D-geometry check で gating します）。
+
+Seedance/image models では AI 生成のタイトルを避けます（特に CJK）。文字は deterministic にレンダリング（code-based）し、Reve/layers はテキスト周辺の装飾的な styling にのみ使います。
+
+--- QUOTED TWEET ---
+Luma Skill は、あなたの最高の結果を再現可能なワークフローに変えます。1回作れば、どんなアセットにも適用でき、毎回同じ品質に পৌঁ達できます。スケールしても、クラフトの一貫性は保たれます。
+
+Luma Skills を試す: https://t.co/pIzGpswNFd https://t.co/0ZAyAdhwLc
+---
+```
+
+#### 💡 使い方のコツ
+
+Save a repeatable Seedance workflow as a Luma Skill by prompting Luma to save the current workflow as a skill, then rerun it on new assets to keep results consistent.
+
+Chain Skills by having one Luma Skill invoke another to build a multi-step Seedance pipeline (skill chains/trees) instead of rebuilding steps manually.
+
+Create a “locked spine” story workflow: reduce your story to 3–5 immutable beats first, then generate Seedance variations by changing only aesthetics/genre/sound/subplots while keeping the beat spine fixed for continuity.
+
+Audition multiple looks cheaply as stills first, then commit to ONE aesthetic at high fidelity in Seedance and keep that look locked for the full story so later changes “ride the spine” without breaking continuity.
+
+Nest multiple Skills into one “kit” by saving the other Skills as references inside a main Skill (workaround for non-nested Skills) so the whole Seedance workflow runs as a single packaged Skill.
+
+For dialogue scenes, generate short performed beats with native audio by locking a voice cast, keeping beats short, and biasing with reference audio to maintain consistent character voices.
+
+Maintain structural continuity for vehicles/ships/mecha by generating a clean technical blueprint and using it as a continuity anchor reference (optionally gating with a 3D-geometry check).
+
+Avoid AI-generated titles in Seedance/image models (especially CJK); render lettering deterministically (code-based), and use Reve/layers only for ornamental styling around the text.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082904239672832000/img/68L7pUhc7eGhVJ3w.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082905482600354073.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082905482600354073.mp4)**
+
+**作者:** [Stone Kaiju ᯅ ⚡ ³³º¹](https://x.com/stonekaiju) | **ソース:** [Link](https://x.com/stonekaiju/status/2082905482600354073) | **公開日:** 2026年7月30日
+
+`Story` `Talk` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Switching from Seedance 2.0 to another model mid-project can cause character…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+Seedance 2.0 から別のモデルにプロジェクト途中で切り替えると、キャラクターの一貫性が崩れたり、その他のアーティファクトが発生したりすることがあります。そのため、UGC広告全体でキャラクターの一貫性を保ちたい場合は、すべてのクリップで同じモデルを使い続けてください。
+
+--- 引用ツイート ---
+@higgsfield で seedance 2.0 を使って、初めての UGC 広告を作った。
+
+どっちのほうがよりリアルに見える？ https://t.co/dIXs9cj0ha
+---
+```
+
+#### 💡 使い方のコツ
+
+Switching from Seedance 2.0 to another model mid-project can cause character inconsistency and other artifacts, so keep the same model for all clips if you need consistent characters across a UGC ad.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082912076020801539/img/PI9Vk7vNs5LpPBpZ.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082912300592206173.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082912300592206173.mp4)**
+
+**作者:** [Posh](https://x.com/Poshthehussla) | **ソース:** [Link](https://x.com/Poshthehussla/status/2082912300592206173) | **公開日:** 2026年7月30日
+
+`Product Ad` `Tech` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Use OpenArt’s SmartShot to generate a full UGC ad shot plan from a single…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+OpenArtのSmartShotを使えば、1文のpromptからUGC広告のフルショットプランを生成し、そのプランに基づいてSeedance 2.0で各ショットをレンダリングできます。  
+GPT Image 2が制作／ショットプラン（camera angles + storyboard）を作成し、Seedance 2.0がそのプランをもとに動画を生成する、2モデルのワークフローを実行します。  
+フレームを生成する前に、SmartShotのショットプラン（character、environment、storyboard、lighting）をプレビューし、まずプランを反復調整します。  
+AIインフルエンサーの参照画像と商品画像をアップロードして、一貫性のあるインフルエンサーを用いた、完全にブランド化されたUGC広告を作成します。
+```
+
+#### 💡 使い方のコツ
+
+Use OpenArt’s SmartShot to generate a full UGC ad shot plan from a single sentence prompt, then render the planned shots with Seedance 2.0.  
+Run a two-model workflow where GPT Image 2 creates the production/shot plan (camera angles + storyboard) and Seedance 2.0 renders the video from that plan.  
+Preview the SmartShot shot plan (character, environment, storyboard, lighting) before generating any frames, and iterate the plan first.  
+Upload an AI influencer reference plus a product image to produce a fully branded UGC ad with a consistent influencer.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2079309480198615040/img/RoBS_t3rRYpzZGKh.jpg)](https://video.twimg.com/amplify_video/2079309480198615040/vid/avc1/1920x1080/-orQFTgu_eKZcqQL.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://video.twimg.com/amplify_video/2079309480198615040/vid/avc1/1920x1080/-orQFTgu_eKZcqQL.mp4)**
+
+**作者:** [Mavern](https://x.com/Mavernxbt) | **ソース:** [Link](https://x.com/Mavernxbt/status/2082918149775650862) | **公開日:** 2026年7月30日
+
+`Product Ad` `Beauty` `Photoreal` `Realistic World` `Tutorial`
+
+---
+
+### Lock the new character’s identity first by generating/using a clear reference…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+新しいキャラクターのアイデンティティは、Seedance 2.0でダンススワップ生成を行う前に、体格・顔・衣装を固定できる明確な参考写真を生成／使用して、まずロックしてください。  
+元の映像は振り付けとロケーションの参照としてのみ使い、Seedance がすべてのステップ、腕の動き、タイミングのビートを正確にコピーするようにします。  
+ロケーションは完全に同一（同じスタジアム／フィールド／ライティング）に保ち、変わる変数を差し替えたパフォーマーだけにします。  
+「優雅に見せる」ことよりもフレーム単位で正確なタイミングを優先し、差し替えたパフォーマーを元のルーティンにぴったり貼り付けます。  
+年齢や体型が大きく異なるような高コントラストの差し替えをあえて使い、あなたの一貫性維持の方法が本当に機能するかをテストします。  
+GPT Image 2.0 で、1枚のペアキャラクター・リファレンスシート（ターンアラウンド、表情／アクションポーズ、ニュートラル背景上での正確な色値）を作成し、それを Seedance 2.0 の一貫性アンカーとして使って、キャラクターのドリフトを防ぎます。  
+キャラクターシートを参照にして、GPT Image 2.0 で 4x4（16フレーム）のストーリーボード・グリッドとしてシーケンス全体を生成し、その後各フレームを抽出して、Seedance 2.0 でショットごとの参照画像として使います。  
+subject だけの文ではなく、6ブロック構成の prompt（subject, action, lighting, camera, style, mood）を使って、Seedance の推測を減らし、ショットの一貫性を高めます。  
+各フレームに対応する参照画像を与えながら、フレームごとに 1 つの JSON prompt object を実行し、Seedance 2.0 でストーリーボードの各フレームを 1 つずつアニメーション化して、camera／shot パラメータを明示し、ドリフトを減らします。  
+最初の Seedance 2.0 の生成は下書きとして扱い、参照フレームと比較して、ドリフトしたショットだけを再生成し、シーケンス全体を最初からやり直さないようにします。  
+編集では、最終シーケンスを組み立てる前に、生成アーティファクトを取り除くため、各生成クリップの冒頭と末尾を 0.3〜0.5 秒カットします。
+
+--- QUOTED TWEET ---
+https://t.co/yXvV0hNXXm
+
+--- LINKED ARTICLE: GPT IMAGE 2.0 + SEEDANCE 2.0: THE ONLY WORKFLOW WHERE YOUR CHARACTER NEVER DRIFTS  ---
+GPT Image 2.0 がキャラクターを作り、Seedance 2.0 がそれに命を吹き込みます。  
+多くのクリエイターはこれらを別々の工程として扱い、画像を生成してから、動画モデルがそれを維持してくれることを願っています。そこでドリフトが起こります。飛行中に角を失うドラゴン、カットの間で色が変わるライダーのジャケット、毎回の新しいショットで違って見える顔。  
+このガイドは、そうしたことが起きないように、両方のツールを一緒に使うための完全なシステムです。1枚のキャラクター・リファレンスシートの作成から、完全なストーリーボード・グリッド、そしてドリフトゼロの完成した cinematic シーケンスまでをカバーします。  
+以下はすべて、1つの実例を中心に構成されています。霧のかかった峡谷を飛ぶライダーと黒いドラゴン、滝の落下、そして森への着地——最初のフレームから最後のフレームまで、同じ2人のキャラクターが固定されたまま進みます。  
+ 
+
+Seedance 2.0 vs Kling 3.0 vs Runway Gen-4 vs WAN 2.7
+ 
+ 
+
+どちらのツールも有料プランで使えますが、このワークフローを回すのに最も高額なプランは必要ありません。ここでは、各プランで何が解放されるのかを正確に示します。使わない容量にお金を払わなくて済むようにするためです。  
+ 
+Seedance 2.0 の料金体系は少し異なります。月額の上限ではなく、生成ごとにクレジットを消費します。5秒のクリップ1本は解像度にもよりますが、おおよそ 50〜80 クレジットかかるため、月間のクレジット残高が、実際に何本の完成ショットを作れるかを決めます。ログインできる回数ではありません。  
+ 
+💡 推奨の入門構成: ChatGPT Plus（$20/月）+ Dreamina Standard（$13/月）。合計 $33/月で、このガイドのフルワークフローを回すのに十分です。複数のキャラクターシートと、月ごとの完全なストーリーボード・グリッドも含められます。  
+このワークフローが自分のスタイルに合うか試しているだけなら、無料プランでも 1 枚のキャラクターシートを作成し、いくつかのテストクリップを生成するには十分です。その後で有料プランに移行できます。  
+ 
+
+prompt とは、AI に与える指示のことです。prompt の質が結果の質を直接左右します。これは、1枚の参照画像を生成する場合でも、完全な cinematic ショットを作る場合でも同じです。  
+弱い prompt が失敗する理由はたいてい同じです。被写体だけを説明して終わってしまい、lighting、camera、mood をモデルの推測に完全に任せてしまうからです。解決策は、文ではなくブロックで考えることです。6つのカテゴリを組み合わせれば、偶然に任せる余地がなくなります。  
+ 
+同じアイデアにこの構造を適用するとどうなるかを見てみましょう。1回は subject だけ、もう1回は6ブロックすべてを埋めた場合です。  
+
+❌ 弱い prompt: A dragon flying with a rider on its back.  
+✅ 強い prompt: A massive black dragon with amber eyes and hooked wing tips, banking hard through a waterfall drop at golden hour, mist and spray catching the light. A rider in leather flight gear leans low against the wind. Wide tracking shot, camera panning right to follow the motion. Cinematic photorealistic style, 8K, epic and weightless mood.  
+ 
+ 
+ 
+
+ストーリーボードの1フレーム目を作る前に、まずキャラクターを固定する必要があります。これは多くのクリエイターが飛ばしてしまう工程です。1枚のヒーローショットを作って先に進み、その後のプロジェクト全体でドリフトと戦い続けることになります。  
+解決策は、Seedance 2.0 がライダーとドラゴンの両方を一貫して保つために必要な要素をすべて収めた、1枚のキャラクターシートです。ターンアラウンド、表情、アクションポーズ、正確な色値——それらをすべて1枚にまとめ、GPT Image 2.0 で一度だけ生成します。  
+
+視覚的なストーリーテリング・プロジェクト用の、ペアのキャラクター・リファレンスシートを作成してください。  
+Characters:  
+1. Rider — an adult woman, athletic build, dark hair in a tight braid, angular leather flight gear with metal buckles, amber eyes, confident stance  
+2. Dragon — a large black-scaled dragon, ridged spine running down the back, broad membranous wings with hooked wingtips, elongated
+```
+
+#### 💡 使い方のコツ
+
+Lock the new character’s identity first by generating/using a clear reference photo that fixes build, face, and outfit before doing any dance-swap generations in Seedance 2.0.  
+Use the source footage only as choreography and location reference so Seedance copies every step, arm movement, and beat of timing exactly.  
+Keep the location identical (same stadium/field/lighting) so the only variable changing is the performer you swapped in.  
+Prioritize frame-accurate timing over “making it look graceful” to keep the swapped performer glued to the original routine.  
+Lean into high-contrast swaps (very different age/body type) to stress-test whether your consistency method actually holds.  
+Build a single paired character reference sheet in GPT Image 2.0 (turnarounds, expressions/action poses, exact color values on a neutral background) and use it as the consistency anchor for Seedance 2.0 to prevent character drift.  
+Generate the entire sequence as a 4x4 (16-frame) storyboard grid in GPT Image 2.0 using the character sheet as reference, then extract each frame and use each as the per-shot reference image in Seedance 2.0.  
+Use a 6-block prompt structure (subject, action, lighting, camera, style, mood) instead of a subject-only sentence to reduce Seedance guessing and improve shot consistency.  
+Animate one storyboard frame at a time in Seedance 2.0 by running one JSON prompt object per frame while feeding the matching reference image to make camera/shot parameters explicit and reduce drift.  
+Treat the first Seedance 2.0 generation as a draft; compare it to the reference frame and regenerate only the drifting shot instead of restarting the whole sequence.  
+In editing, trim 0.3–0.5 seconds off the start and end of each generated clip to remove common generation artifacts before assembling the final sequence.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082915586183479296/img/5voXmdP3wWacsONw.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082928215962841134.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082928215962841134.mp4)**
+
+**作者:** [Nexlow](https://x.com/NexlowX) | **ソース:** [Link](https://x.com/NexlowX/status/2082928215962841134) | **公開日:** 2026年7月30日
+
+`Music & Dance` `Dance` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
+
+---
+
+### Build the timing of key story beats (character actions, camera beats, and…
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+#### 📝 プロンプト
+
+```
+生成を押す前に、計画の中で重要なストーリービート（キャラクターの動き、カメラのビート、環境イベント）のタイミングを組み立てておけば、Seedance 2.0 がシーケンスを正確に実行できます。
+
+アニメーションを始める前に、GPT Image 2.0 を使って、1枚のペアキャラクター・リファレンスシート（ターンアラウンド、表情／アクションポーズ、固定された正確な色値）を生成し、Seedance 2.0 でのキャラクターのブレを防ぎます。
+
+GPT Image 2.0 で、キャラクターシートを参照にした 4x4（16フレーム）の番号付きストーリーボードグリッドを生成し、各フレームを個別の参照画像として切り出して、Seedance 2.0 のショットごとの一貫した生成を支えます。
+
+被写体だけを説明するのではなく、6つのブロック（subject、lighting、camera、mood、style、motion details）に分けてプロンプトを作ることで、Seedance の推測を減らし、ショット品質を向上させます。
+
+各ストーリーボードフレームを 1 つずつ Seedance 2.0 でアニメーション化し、対応する参照画像とショットごとの JSON プロンプトを渡すことで、カメラ挙動とモーションパラメータを明示し、ブレを最小限に抑えます。
+
+最初の Seedance 2.0 の生成は下書きとして扱い、参照フレームと比較して、全体をやり直すのではなく、ブレたショットだけを再生成します。
+
+クレジットはクリップの長さと解像度で見積もります。5秒の Seedance 2.0 クリップは、解像度にもよりますが、おおよそ 50〜80 クレジットです。
+
+編集では、生成クリップの最初と最後の 0.3〜0.5 秒をカットして、最もよく出る生成アーティファクトを取り除きます。
+
+Seedance クリップをシーケンスとして組み立てる際は、エネルギーを出すためにハードカットを使い、クロスディゾルブは本当にシーンが切り替わる場合（例：峡谷 → 滝 → 森）だけに限定します。
+
+生成後にプラットフォーム解像度へアップスケールしますが、ブレの修正はアップスケーリングに頼らず、問題のあるショットを再生成して行います。
+
+--- QUOTED TWEET ---
+https://t.co/yXvV0hNXXm
+
+--- LINKED ARTICLE: GPT IMAGE 2.0 + SEEDANCE 2.0: THE ONLY WORKFLOW WHERE YOUR CHARACTER NEVER DRIFTS  ---
+GPT Image 2.0 がキャラクターを作り、Seedance 2.0 がそれに命を吹き込みます。
+多くのクリエイターは、画像を生成してから動画モデルがそれを維持してくれることを期待する、という2段階を別々に扱っています。そこでブレが起きます。飛行中に角が消えるドラゴン、カットごとに色が変わるライダーのジャケット、ショットごとに別人のように見える顔——そうした問題です。
+このガイドは、そうならないように両方のツールを一緒に使うための完全なシステムです。1枚のキャラクター・リファレンスシートの作成から、完全なストーリーボードグリッド、そしてブレゼロの完成済みシネマティックシーケンスまでを網羅します。
+以下はすべて、1つの実例を中心に構成されています。霧のかかった峡谷、滝の落下、森への着地を飛び抜ける、ライダーと彼女の黒いドラゴン——最初のフレームから最後のフレームまで、同じ2人のキャラクターが固定されたままです。
+ 
+
+Seedance 2.0 vs Kling 3.0 vs Runway Gen-4 vs WAN 2.7
+ 
+ 
+
+どちらのツールも有料プランで使えますが、このワークフローを回すのに最も高額なプランは必要ありません。ここでは、各プランで何が解放されるのかを正確に示します。使わない容量にお金を払わないためです。
+ 
+Seedance 2.0 の料金体系は少し異なります。月額の上限ではなく、生成ごとにクレジットを消費します。5秒のクリップ1本は解像度にもよりますが、おおよそ 50〜80 クレジットかかるため、月間のクレジット残高が、実際に何本の完成ショットを作れるかを決めます。ログイン回数ではありません。
+ 
+💡 おすすめの入門構成：ChatGPT Plus（月額 $20）+ Dreamina Standard（月額 $13）。合計 $33/月で、このガイドの完全なワークフローを回せます。複数のキャラクターシートと、月ごとのフルストーリーボードグリッドも含めて十分です。
+このワークフローが自分のスタイルに合うか試している段階なら、どちらの無料プランでも、1枚のキャラクターシートを作成し、いくつかのテストクリップを生成してから有料プランに移行できます。
+ 
+
+プロンプトとは、AI に与える指示のことです。プロンプトの質が、そのまま結果の質を左右します。これは、1枚の参照画像を生成する場合でも、完全なシネマティックショットを作る場合でも同じです。
+弱いプロンプトが失敗する理由はたいてい同じです。被写体だけを説明して終わってしまい、ライティング、カメラ、ムードをすべてモデルの推測に任せているからです。解決策は、文ではなくブロックで考えることです。6つのカテゴリに分ければ、偶然に任せる部分がなくなります。
+ 
+同じアイデアにこの構造を適用するとどうなるか、見てみましょう。被写体だけの場合と、6つのブロックをすべて埋めた場合です。
+
+❌ 弱いプロンプト: A dragon flying with a rider on its back.
+✅ 強いプロンプト: A massive black dragon with amber eyes and hooked wing tips, banking hard through a waterfall drop at golden hour, mist and spray catching the light. A rider in leather flight gear leans low against the wind. Wide tracking shot, camera panning right to follow the motion. Cinematic photorealistic style, 8K, epic and weightless mood.
+ 
+ 
+ 
+
+ストーリーボードの1フレーム目を作る前に、まずキャラクターを固定する必要があります。多くのクリエイターが飛ばしてしまう工程です。ヒーローショットを1枚作って先へ進み、その後のプロジェクト全体でブレと戦うことになります。
+解決策は、Seedance 2.0 がライダーとドラゴンの一貫性を保つために必要な要素をすべて含んだ、1枚のキャラクターシートです。ターンアラウンド、表情、アクションポーズ、正確な色値——それらをすべて1枚にまとめ、GPT Image 2.0 で一度だけ生成します。
+
+視覚的なストーリーテリング・プロジェクトのために、ペアのキャラクター・リファレンスシートを作成してください。
+Characters:
+1. Rider — an adult woman, athletic build, dark hair in a tight braid, angular leather flight gear with metal buckles, amber eyes, confident stance
+2. Dragon — a large black-scaled dragon, ridged spine running down the back, broad membranous wings with hooked wingtips, elongated narrow snout, glowing amber eyes
+
+Neutral dark background で生成:
+1. Rider turnaround — front view, side profile (90 degrees), back view
+2. Dragon turnaround — front view, side profile, back view
+3. Rider expression set — focused takeoff, windswept dive, calm glide, triumphant landing
+4.
+```
+
+#### 💡 使い方のコツ
+
+Build the timing of key story beats (character actions, camera beats, and environmental events) in your plan before you hit generate so Seedance 2.0 can execute the sequence precisely.
+
+Use GPT Image 2.0 to generate a single paired character reference sheet (turnarounds, expressions/action poses, and locked exact color values) before animating to prevent character drift in Seedance 2.0.
+
+Generate a 4x4 (16-frame) numbered storyboard grid in GPT Image 2.0 using the character sheet as reference, then extract each frame as an individual reference image to drive consistent shot-by-shot Seedance 2.0 generations.
+
+Prompt in six blocks (subject, lighting, camera, mood, style, and motion details) instead of only describing the subject to reduce Seedance guessing and improve shot quality.
+
+Animate one storyboard frame at a time in Seedance 2.0 by feeding the matching reference image plus a per-shot JSON prompt so camera behavior and motion parameters are explicit and drift is minimized.
+
+Treat the first Seedance 2.0 generation as a draft; compare it to the reference frame and regenerate only the drifting shot instead of restarting the whole sequence.
+
+Budget credits by clip length and resolution: a 5-second Seedance 2.0 clip costs roughly 50–80 credits depending on resolution.
+
+In editing, trim the first and last 0.3–0.5 seconds of each generated clip to remove the most common generation artifacts.
+
+Use hard cuts for energy and reserve cross dissolves only for genuine scene shifts (e.g., canyon → waterfall → forest) when assembling Seedance clips into a sequence.
+
+Upscale for platform resolution after generation, but fix drift by regenerating the offending shot rather than relying on upscaling.
+
+[![動画プレビュー](https://pbs.twimg.com/amplify_video_thumb/2082713016995377152/img/qvO6IuGDCOeNlF9K.jpg)](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082933500689433087.mp4)
+
+📥 *画像をクリックして動画を再生* | **[🎬 動画を見る →](https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082933500689433087.mp4)**
+
+**作者:** [Primee32](https://x.com/Primee32) | **ソース:** [Link](https://x.com/Primee32/status/2082933500689433087) | **公開日:** 2026年7月30日
+
+`Scenery & Spectacle` `Worldbuilding` `Photoreal` `Realistic World` `Tutorial` `Creative Asset`
+
+---
+
+*... その他 2366 件のヒント。 [ギャラリーですべて表示](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)*
 
 ---
 
@@ -6992,4 +7244,4 @@ Use Seedance’s built-in LLM to generate an optimized prompt that adds dynamic 
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-31T02:54:53.135Z
+🤖 この README は自動生成されています。最終更新： 2026-07-31T03:57:28.671Z
