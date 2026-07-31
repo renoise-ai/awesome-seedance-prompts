@@ -1,0 +1,42 @@
+{
+  "id": "2082839554839720285",
+  "title": "Codexで画像生成→プロンプト構築→Seedance投入→ElevenLabsで音声生成→DaVinciで動画編集までを一括自動化するワークフローを組む",
+  "content": "Codexで画像生成→プロンプト構築→Seedance投入→ElevenLabsで音声生成→DaVinciで動画編集までを一括自動化するワークフローを組む",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2082839382739066881/pu/img/esDD4GkyQ37H8bgE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082839554839720285.mp4",
+  "sourceLink": "https://x.com/k_evo_k/status/2082839554839720285",
+  "sourcePublishedAt": "2026-07-30",
+  "author": {
+    "name": "EVO / AI movie lab",
+    "link": "https://x.com/k_evo_k"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Codexで画像生成→プロンプト構築→Seedance投入→ElevenLabsで音声生成→DaVinciで動画編集までを一括自動化するワークフローを組む",
+  "translations": {
+    "en": {
+      "content": "Build a workflow that fully automates the process from image generation in Codex → prompt construction → input into Seedance → voice generation in ElevenLabs → video editing in DaVinci."
+    },
+    "es": {
+      "content": "Configurar un flujo de trabajo que automatice de forma integral todo el proceso: generación de imágenes con Codex → construcción de prompts → envío a Seedance → generación de voz con ElevenLabs → edición de video en DaVinci."
+    },
+    "fr": {
+      "content": "Mettre en place un workflow qui automatise d’un seul tenant la génération d’images avec Codex → la construction du prompt → l’envoi à Seedance → la génération de voix avec ElevenLabs → jusqu’au montage vidéo dans DaVinci."
+    },
+    "ko": {
+      "content": "Codex로 이미지 생성 → prompt 구성 → Seedance 투입 → ElevenLabs로 음성 생성 → DaVinci에서 영상 편집까지를 한 번에 자동화하는 워크플로를 구성한다"
+    },
+    "pt": {
+      "content": "Montar um workflow que automatize de ponta a ponta a geração de imagens no Codex → construção de prompt → envio para o Seedance → geração de voz no ElevenLabs → edição de vídeo no DaVinci."
+    },
+    "zh": {
+      "content": "构建一个工作流，将从 Codex 生成图片 → 构建 prompt → 投入 Seedance → 用 ElevenLabs 生成音频 → 在 DaVinci 中进行视频编辑 的整个流程一键自动化"
+    }
+  }
+}

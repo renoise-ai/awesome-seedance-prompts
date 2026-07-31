@@ -1,0 +1,41 @@
+{
+  "id": "2082717084044169367",
+  "title": "Use @[character ref] as the only character and visual style reference to keep…",
+  "content": "Use @[character ref] as the only character and visual style reference to keep identity/style consistent in Seedance 2.0.  \nStart your Seedance prompt with an action and end with an action to maintain continuous motion.  \nAdd explicit negative constraints (e.g., No sword, no slow motion, no static posing, no static enemies) to prevent unwanted elements and keep full action throughout.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aimikoda/status/2082717084044169367",
+  "sourcePublishedAt": "2026-07-30",
+  "author": {
+    "name": "Kōda",
+    "link": "https://x.com/aimikoda"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use @[character ref] as the only character and visual style reference to keep identity/style consistent in Seedance 2.0.  \nStart your Seedance prompt with an action and end with an action to maintain continuous motion.  \nAdd explicit negative constraints (e.g., No sword, no slow motion, no static posing, no static enemies) to prevent unwanted elements and keep full action throughout.",
+  "translations": {
+    "es": {
+      "content": "Usa @[character ref] como la única referencia de personaje y estilo visual para mantener la identidad/estilo consistentes en Seedance 2.0.  \nComienza tu prompt de Seedance con una acción y termínalo con una acción para mantener el movimiento continuo.  \nAñade restricciones negativas explícitas (p. ej., No sword, no slow motion, no static posing, no static enemies) para evitar elementos no deseados y mantener la acción completa durante todo el tiempo."
+    },
+    "fr": {
+      "content": "Utilisez @[character ref] comme seule référence de personnage et de style visuel afin de conserver une identité et un style cohérents dans Seedance 2.0.  \nCommencez votre prompt Seedance par une action et terminez-le par une action afin de maintenir un mouvement continu.  \nAjoutez des contraintes négatives explicites (par ex. No sword, no slow motion, no static posing, no static enemies) pour éviter les éléments indésirables et conserver une action continue tout au long de la scène."
+    },
+    "ja": {
+      "content": "Seedance 2.0 でアイデンティティ／スタイルの一貫性を保つために、@[character ref] を唯一のキャラクターおよびビジュアルスタイルの参照として使用してください。  \nSeedance の prompt は、連続した動きを維持するために、アクションで始めてアクションで終えるようにしてください。  \n不要な要素を防ぎ、全編を通してアクションを維持するために、明示的な negative constraints（例: No sword, no slow motion, no static posing, no static enemies）を追加してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 정체성과 스타일의 일관성을 유지하려면 @[character ref]를 유일한 캐릭터 및 비주얼 스타일 레퍼런스로 사용하세요.  \n연속적인 움직임을 유지하기 위해 Seedance prompt는 동작으로 시작하고 동작으로 끝나도록 하세요.  \n원치 않는 요소를 방지하고 전체 장면에 걸쳐 역동적인 액션을 유지하려면 명시적인 negative constraints(예: No sword, no slow motion, no static posing, no static enemies)를 추가하세요."
+    },
+    "pt": {
+      "content": "Use @[character ref] como a única referência de personagem e estilo visual para manter a identidade/estilo consistentes no Seedance 2.0.  \nComece seu prompt do Seedance com uma ação e termine com uma ação para manter o movimento contínuo.  \nAdicione restrições negativas explícitas (por exemplo, No sword, no slow motion, no static posing, no static enemies) para evitar elementos indesejados e manter a ação completa ao longo de todo o tempo."
+    },
+    "zh": {
+      "content": "使用 @[character ref] 作为唯一的角色和视觉风格参考，以在 Seedance 2.0 中保持身份/风格一致。  \n让你的 Seedance prompt 以一个动作开头，并以一个动作结尾，以保持连续运动。  \n添加明确的负向约束（例如：No sword, no slow motion, no static posing, no static enemies），以防止不需要的元素，并在整个过程中保持完整的动作感。"
+    }
+  }
+}

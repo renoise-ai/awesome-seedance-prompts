@@ -1,0 +1,43 @@
+{
+  "id": "2082790953404989946",
+  "title": "Specify the camera format and operator POV in the prompt (e.g., DV 16mm…",
+  "content": "Specify the camera format and operator POV in the prompt (e.g., DV 16mm handheld tape camcorder POV) and include handling artifacts like natural hand shake, crooked framing, delayed focus, clumsy zooms, and “camcorder never visible” to lock the look.\n\nAdd tape-era image characteristics (soft blurry tape look, faint tape noise, bloomed lights, flickering auto-exposure, muted contrast, realistic skin) to achieve a convincing camcorder aesthetic.\n\nDefine the subject with detailed physical and wardrobe descriptors (age, hairstyle, skin condition, build, clothing, accessories) to keep character consistency across shots.\n\nList key environment props and lighting (specific gym machines + mirror wall + soft overhead lighting) to stabilize scene continuity.\n\nControl pacing by explicitly specifying edit structure and timing (exactly 8 fast cuts, total duration exactly 15 seconds).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082790884165431296/img/cRSuG_pxS64Vv6ha.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082790953404989946.mp4",
+  "sourceLink": "https://x.com/SimplyAnnisa/status/2082790953404989946",
+  "sourcePublishedAt": "2026-07-30",
+  "author": {
+    "name": "Anissa",
+    "link": "https://x.com/SimplyAnnisa"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Specify the camera format and operator POV in the prompt (e.g., DV 16mm handheld tape camcorder POV) and include handling artifacts like natural hand shake, crooked framing, delayed focus, clumsy zooms, and “camcorder never visible” to lock the look.\n\nAdd tape-era image characteristics (soft blurry tape look, faint tape noise, bloomed lights, flickering auto-exposure, muted contrast, realistic skin) to achieve a convincing camcorder aesthetic.\n\nDefine the subject with detailed physical and wardrobe descriptors (age, hairstyle, skin condition, build, clothing, accessories) to keep character consistency across shots.\n\nList key environment props and lighting (specific gym machines + mirror wall + soft overhead lighting) to stabilize scene continuity.\n\nControl pacing by explicitly specifying edit structure and timing (exactly 8 fast cuts, total duration exactly 15 seconds).",
+  "translations": {
+    "es": {
+      "content": "Especifica el formato de cámara y el POV del operador en el prompt (por ejemplo, DV 16mm handheld tape camcorder POV) e incluye artefactos de manejo como natural hand shake, crooked framing, delayed focus, clumsy zooms y “camcorder never visible” para fijar el look.\n\nAñade características de imagen de la era del tape (soft blurry tape look, faint tape noise, bloomed lights, flickering auto-exposure, muted contrast, realistic skin) para lograr una estética de camcorder convincente.\n\nDefine al sujeto con descriptores físicos y de vestuario detallados (edad, peinado, estado de la piel, complexión, ropa, accesorios) para mantener la consistencia del personaje entre planos.\n\nEnumera los props clave del entorno y la iluminación (specific gym machines + mirror wall + soft overhead lighting) para estabilizar la continuidad de la escena.\n\nControla el ritmo especificando de forma explícita la estructura de edición y el timing (exactly 8 fast cuts, total duration exactly 15 seconds)."
+    },
+    "fr": {
+      "content": "Spécifiez le format de caméra et le POV de l’opérateur dans le prompt (par ex. DV 16mm handheld tape camcorder POV) et incluez des artefacts de prise en main comme un léger tremblement naturel, un cadrage de travers, une mise au point retardée, des zooms maladroits et « camcorder never visible » pour verrouiller le rendu.\n\nAjoutez des caractéristiques d’image de l’ère des cassettes (soft blurry tape look, faint tape noise, bloomed lights, flickering auto-exposure, muted contrast, realistic skin) afin d’obtenir une esthétique camcorder convaincante.\n\nDéfinissez le sujet avec des descripteurs physiques et vestimentaires détaillés (âge, coiffure, état de la peau, morphologie, vêtements, accessoires) pour maintenir la cohérence du personnage d’un plan à l’autre.\n\nListez les principaux éléments du décor et de l’éclairage (specific gym machines + mirror wall + soft overhead lighting) pour stabiliser la continuité de la scène.\n\nContrôlez le rythme en spécifiant explicitement la structure du montage et le timing (exactly 8 fast cuts, total duration exactly 15 seconds)."
+    },
+    "ja": {
+      "content": "カメラフォーマットとオペレーターのPOVをprompt内で指定し（例: DV 16mm handheld tape camcorder POV）、自然な手ブレ、傾いたフレーミング、遅れたフォーカス、不器用なズーム、そして「camcorder never visible」といった操作上のアーティファクトも含めて、見た目を固定します。\n\nテープ時代の映像特性（soft blurry tape look、かすかな tape noise、bloomしたライト、ちらつく auto-exposure、抑えめのコントラスト、リアルな肌感）を加えることで、説得力のある camcorder aesthetic を実現します。\n\n被写体は、詳細な身体的特徴と衣装の記述（年齢、髪型、肌の状態、体格、服装、アクセサリー）で定義し、ショット間でキャラクターの一貫性を保ちます。\n\n主要な環境小物と照明（特定の gym machines + mirror wall + soft overhead lighting）を列挙して、シーンの連続性を安定させます。\n\n編集構成とタイミングを明確に指定してテンポをコントロールします（exactly 8 fast cuts、total duration exactly 15 seconds）。"
+    },
+    "ko": {
+      "content": "프롬프트에 카메라 포맷과 촬영자 POV를 명시하고(예: DV 16mm handheld tape camcorder POV), 자연스러운 손떨림, 삐뚤어진 구도, 늦게 잡히는 초점, 어설픈 줌, “camcorder never visible” 같은 핸들링 아티팩트도 포함해 룩을 고정하세요.\n\n테이프 시대의 이미지 특성(soft blurry tape look, faint tape noise, bloomed lights, flickering auto-exposure, muted contrast, realistic skin)을 추가해 설득력 있는 camcorder aesthetic를 구현하세요.\n\n피사체는 나이, 헤어스타일, 피부 상태, 체형, 의상, 액세서리 등 세부적인 신체 및 의상 묘사로 정의해 샷 간 캐릭터 일관성을 유지하세요.\n\n핵심 환경 소품과 조명(특정 gym machines + mirror wall + soft overhead lighting)을 나열해 장면의 연속성을 안정적으로 유지하세요.\n\n편집 구조와 타이밍을 명시적으로 지정해 페이싱을 제어하세요(정확히 8 fast cuts, total duration exactly 15 seconds)."
+    },
+    "pt": {
+      "content": "Especifique o formato da câmera e o POV do operador no prompt (por exemplo, DV 16mm handheld tape camcorder POV) e inclua artefatos de manuseio como tremor natural da mão, enquadramento torto, foco atrasado, zooms desajeitados e “camcorder never visible” para travar o visual.\n\nAdicione características de imagem da era das fitas (soft blurry tape look, faint tape noise, bloomed lights, flickering auto-exposure, muted contrast, realistic skin) para obter uma estética de camcorder convincente.\n\nDefina o sujeito com descritores físicos e de figurino detalhados (idade, penteado, condição da pele, porte físico, roupas, acessórios) para manter a consistência do personagem entre os planos.\n\nListe props-chave do ambiente e da iluminação (specific gym machines + mirror wall + soft overhead lighting) para estabilizar a continuidade da cena.\n\nControle o ritmo especificando explicitamente a estrutura da edição e o timing (exactly 8 fast cuts, total duration exactly 15 seconds)."
+    },
+    "zh": {
+      "content": "在提示词中明确指定相机格式和操作者视角（例如：DV 16mm handheld tape camcorder POV），并加入自然手持抖动、歪斜构图、对焦延迟、笨拙变焦，以及“camcorder never visible”等处理特征，以锁定整体风格。\n\n加入磁带时代的画面特征（soft blurry tape look、faint tape noise、bloomed lights、flickering auto-exposure、muted contrast、realistic skin），以营造可信的 camcorder 美学。\n\n用详细的外貌和服装描述来定义主体（年龄、发型、皮肤状态、体型、服装、配饰），以保持不同镜头间角色一致性。\n\n列出关键环境道具和光线设置（specific gym machines + mirror wall + soft overhead lighting），以稳定场景连续性。\n\n通过明确指定剪辑结构和时长来控制节奏（exactly 8 fast cuts，total duration exactly 15 seconds）。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2082820320315208041",
+  "title": "CapCutの動画スタジオで、Seedream 5.0で生成した画像1枚を元に動画化する",
+  "content": "CapCutの動画スタジオで、Seedream 5.0で生成した画像1枚を元に動画化する  \n同じ入力画像でSeedance 2.0 MiniとSeedance 2.0を左右に並べて生成し、出力差を比較する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082819594167984128/img/cEQxEKWHvtWVqV29.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082820320315208041.mp4",
+  "sourceLink": "https://x.com/jAlpha_create/status/2082820320315208041",
+  "sourcePublishedAt": "2026-07-30",
+  "author": {
+    "name": "ジュニ＠Multi AI Creator",
+    "link": "https://x.com/jAlpha_create"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "CapCutの動画スタジオで、Seedream 5.0で生成した画像1枚を元に動画化する  \n同じ入力画像でSeedance 2.0 MiniとSeedance 2.0を左右に並べて生成し、出力差を比較する",
+  "translations": {
+    "en": {
+      "content": "Create a video in CapCut’s video studio based on a single image generated with Seedream 5.0  \nGenerate the same input image side by side with Seedance 2.0 Mini and Seedance 2.0, and compare the differences in the outputs"
+    },
+    "es": {
+      "content": "En el estudio de video de CapCut, convertir en video una sola imagen generada con Seedream 5.0  \nGenerar con la misma imagen de entrada, colocando Seedance 2.0 Mini y Seedance 2.0 lado a lado, y comparar las diferencias de salida"
+    },
+    "fr": {
+      "content": "Dans le studio vidéo de CapCut, transformer en vidéo une seule image générée avec Seedream 5.0  \nGénérer côte à côte, à partir de la même image d’entrée, avec Seedance 2.0 Mini et Seedance 2.0, puis comparer les différences de rendu"
+    },
+    "ko": {
+      "content": "CapCut의 영상 스튜디오에서 Seedream 5.0으로 생성한 이미지 1장을 바탕으로 영상화하기  \n같은 입력 이미지를 사용해 Seedance 2.0 Mini와 Seedance 2.0을 좌우로 나란히 생성하고, 출력 차이를 비교하기"
+    },
+    "pt": {
+      "content": "No estúdio de vídeo do CapCut, transformar em vídeo uma única imagem gerada com o Seedream 5.0  \nGerar com a mesma imagem de entrada, colocando lado a lado o Seedance 2.0 Mini e o Seedance 2.0, para comparar as diferenças de saída"
+    },
+    "zh": {
+      "content": "在 CapCut 的视频工作室中，基于一张由 Seedream 5.0 生成的图片制作视频  \n使用相同的输入图片，左右并排生成 Seedance 2.0 Mini 和 Seedance 2.0，并比较输出差异"
+    }
+  }
+}

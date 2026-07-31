@@ -1,0 +1,42 @@
+{
+  "id": "2082918149775650862",
+  "title": "Use OpenArt’s SmartShot to generate a full UGC ad shot plan from a single…",
+  "content": "Use OpenArt’s SmartShot to generate a full UGC ad shot plan from a single sentence prompt, then render the planned shots with Seedance 2.0.  \nRun a two-model workflow where GPT Image 2 creates the production/shot plan (camera angles + storyboard) and Seedance 2.0 renders the video from that plan.  \nPreview the SmartShot shot plan (character, environment, storyboard, lighting) before generating any frames, and iterate the plan first.  \nUpload an AI influencer reference plus a product image to produce a fully branded UGC ad with a consistent influencer.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079309480198615040/img/RoBS_t3rRYpzZGKh.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2079309480198615040/vid/avc1/1920x1080/-orQFTgu_eKZcqQL.mp4",
+  "sourceLink": "https://x.com/Mavernxbt/status/2082918149775650862",
+  "sourcePublishedAt": "2026-07-30",
+  "author": {
+    "name": "Mavern",
+    "link": "https://x.com/Mavernxbt"
+  },
+  "tags": [
+    "Product Ad",
+    "Beauty",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use OpenArt’s SmartShot to generate a full UGC ad shot plan from a single sentence prompt, then render the planned shots with Seedance 2.0.  \nRun a two-model workflow where GPT Image 2 creates the production/shot plan (camera angles + storyboard) and Seedance 2.0 renders the video from that plan.  \nPreview the SmartShot shot plan (character, environment, storyboard, lighting) before generating any frames, and iterate the plan first.  \nUpload an AI influencer reference plus a product image to produce a fully branded UGC ad with a consistent influencer.",
+  "translations": {
+    "es": {
+      "content": "Usa SmartShot de OpenArt para generar un plan completo de tomas para un anuncio UGC a partir de un solo prompt en una frase, y luego renderiza las tomas planificadas con Seedance 2.0.  \nEjecuta un flujo de trabajo de dos modelos en el que GPT Image 2 crea el plan de producción/tomas (ángulos de cámara + storyboard) y Seedance 2.0 renderiza el video a partir de ese plan.  \nPrevisualiza el plan de tomas de SmartShot (personaje, entorno, storyboard, iluminación) antes de generar cualquier frame, e itera primero sobre el plan.  \nSube una referencia de un influencer de IA junto con una imagen del producto para producir un anuncio UGC completamente branded con un influencer consistente."
+    },
+    "fr": {
+      "content": "Utilisez SmartShot d’OpenArt pour générer un plan de tournage complet pour une publicité UGC à partir d’un simple prompt d’une phrase, puis rendez les plans prévus avec Seedance 2.0.  \nExécutez un workflow à deux modèles où GPT Image 2 crée le plan de production/de tournage (angles de caméra + storyboard) et Seedance 2.0 rend la vidéo à partir de ce plan.  \nPrévisualisez le plan de tournage SmartShot (personnage, environnement, storyboard, éclairage) avant de générer la moindre frame, puis itérez d’abord sur le plan.  \nTéléchargez une référence d’influenceur IA ainsi qu’une image du produit pour produire une publicité UGC entièrement brandée avec un influenceur cohérent."
+    },
+    "ja": {
+      "content": "OpenArtのSmartShotを使えば、1文のpromptからUGC広告のフルショットプランを生成し、そのプランに基づいてSeedance 2.0で各ショットをレンダリングできます。  \nGPT Image 2が制作／ショットプラン（camera angles + storyboard）を作成し、Seedance 2.0がそのプランをもとに動画を生成する、2モデルのワークフローを実行します。  \nフレームを生成する前に、SmartShotのショットプラン（character、environment、storyboard、lighting）をプレビューし、まずプランを反復調整します。  \nAIインフルエンサーの参照画像と商品画像をアップロードして、一貫性のあるインフルエンサーを用いた、完全にブランド化されたUGC広告を作成します。"
+    },
+    "ko": {
+      "content": "OpenArt의 SmartShot을 사용해 한 문장의 prompt만으로 전체 UGC 광고 샷 플랜을 생성한 다음, 계획된 샷을 Seedance 2.0으로 렌더링하세요.  \nGPT Image 2가 제작/샷 플랜(카메라 앵글 + 스토리보드)을 만들고, Seedance 2.0이 그 플랜을 바탕으로 영상을 렌더링하는 두 모델 워크플로를 실행하세요.  \n어떤 프레임도 생성하기 전에 SmartShot 샷 플랜(캐릭터, 환경, 스토리보드, 조명)을 미리 확인하고, 먼저 플랜을 반복 수정하세요.  \nAI 인플루언서 레퍼런스와 제품 이미지를 업로드해, 일관된 인플루언서를 활용한 완전한 브랜딩 UGC 광고를 제작하세요."
+    },
+    "pt": {
+      "content": "Use o SmartShot da OpenArt para gerar um plano completo de cenas para um anúncio UGC a partir de um único prompt em uma frase, e depois renderize as cenas planejadas com o Seedance 2.0.  \nExecute um workflow com dois modelos em que o GPT Image 2 cria o plano de produção/cenas (ângulos de câmera + storyboard) e o Seedance 2.0 renderiza o vídeo a partir desse plano.  \nVisualize o plano de cenas do SmartShot (personagem, ambiente, storyboard, iluminação) antes de gerar qualquer frame e refine o plano primeiro.  \nEnvie uma referência de influenciador de IA junto com a imagem de um produto para produzir um anúncio UGC totalmente com a marca, com um influenciador consistente."
+    },
+    "zh": {
+      "content": "使用 OpenArt 的 SmartShot，只需一个句子 prompt 就能生成完整的 UGC 广告分镜计划，然后再用 Seedance 2.0 将规划好的镜头渲染出来。  \n运行一个双模型工作流：由 GPT Image 2 创建制作/分镜计划（camera angles + storyboard），再由 Seedance 2.0 根据该计划生成视频。  \n在生成任何画面之前，先预览 SmartShot 的分镜计划（character、environment、storyboard、lighting），并先对计划进行迭代优化。  \n上传一张 AI influencer 参考图和一张产品图片，即可生成一个完整品牌化、且 influencer 形象一致的 UGC 广告。"
+    }
+  }
+}
