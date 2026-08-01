@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **5049** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **2396** |
-| 🔄 最終更新 | **2026-07-31** |
+| 🔄 最終更新 | **2026-08-01** |
 
 ---
 
@@ -7244,4 +7244,4 @@ Upscale for platform resolution after generation, but fix drift by regenerating 
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-31T21:06:38.354Z
+🤖 この README は自動生成されています。最終更新： 2026-08-01T02:54:08.310Z
