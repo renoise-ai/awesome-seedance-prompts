@@ -1,0 +1,43 @@
+{
+  "id": "2083582829993300164",
+  "title": "Convert your source video into a depth video first, then use that depth video…",
+  "content": "Convert your source video into a depth video first, then use that depth video as the motion driver in Seedance 2.0 to get more natural motion transfer than using Kling Motion Control directly.\n\nUse depth videos to strip original character/scene details (reducing copyright/sensitive-content risk) while preserving motion, timing, and spatial structure for Seedance 2.0 regeneration.\n\nSeparate motion extraction from visual generation: extract motion via a depth video, then regenerate the clip in Seedance 2.0 with any reference character to keep choreography/timing while changing character/scene/lighting.\n\nUse an online depth-video converter (no local setup) to turn a regular video (e.g., a dance clip) into a depth video, then feed it into Seedance 2.0 with a reference character to recreate the movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083581476466196480/img/u8mun3i_lJS-NjK8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083582829993300164.mp4",
+  "sourceLink": "https://x.com/underwoodxie96/status/2083582829993300164",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "underwood",
+    "link": "https://x.com/underwoodxie96"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Convert your source video into a depth video first, then use that depth video as the motion driver in Seedance 2.0 to get more natural motion transfer than using Kling Motion Control directly.\n\nUse depth videos to strip original character/scene details (reducing copyright/sensitive-content risk) while preserving motion, timing, and spatial structure for Seedance 2.0 regeneration.\n\nSeparate motion extraction from visual generation: extract motion via a depth video, then regenerate the clip in Seedance 2.0 with any reference character to keep choreography/timing while changing character/scene/lighting.\n\nUse an online depth-video converter (no local setup) to turn a regular video (e.g., a dance clip) into a depth video, then feed it into Seedance 2.0 with a reference character to recreate the movement.",
+  "translations": {
+    "es": {
+      "content": "Convierte primero tu video de origen en un video de profundidad, y luego usa ese video de profundidad como motor de movimiento en Seedance 2.0 para obtener una transferencia de movimiento más natural que usando directamente Kling Motion Control.\n\nUsa videos de profundidad para eliminar los detalles originales del personaje/escena (reduciendo el riesgo de copyright/contenido sensible) mientras preservas el movimiento, el timing y la estructura espacial para la regeneración en Seedance 2.0.\n\nSepara la extracción de movimiento de la generación visual: extrae el movimiento mediante un video de profundidad y luego regenera el clip en Seedance 2.0 con cualquier personaje de referencia para conservar la coreografía/el timing mientras cambias el personaje/escena/iluminación.\n\nUsa un convertidor de video a profundidad en línea (sin configuración local) para transformar un video normal (por ejemplo, un clip de baile) en un video de profundidad, y luego introdúcelo en Seedance 2.0 con un personaje de referencia para recrear el movimiento.\n\n--- TUIT CITADO ---\n¡Estos videos de transformación de vestuario son divertidísimos! ¿Cuál es tu look favorito?\n\nFlujo de trabajo completo, incluidos los prompts de imagen y video: https://t.co/VctM6h95Kq https://t.co/5LIaxMX6Qw\n---"
+    },
+    "fr": {
+      "content": "Convertissez d’abord votre vidéo source en vidéo de profondeur, puis utilisez cette vidéo de profondeur comme moteur de mouvement dans Seedance 2.0 afin d’obtenir un transfert de mouvement plus naturel qu’avec Kling Motion Control directement.\n\nUtilisez des vidéos de profondeur pour supprimer les détails originaux du personnage/de la scène (réduisant le risque lié au copyright/aux contenus sensibles) tout en préservant le mouvement, le timing et la structure spatiale pour la régénération dans Seedance 2.0.\n\nSéparez l’extraction du mouvement de la génération visuelle : extrayez le mouvement via une vidéo de profondeur, puis régénérez le clip dans Seedance 2.0 avec n’importe quel personnage de référence afin de conserver la chorégraphie/le timing tout en modifiant le personnage/la scène/l’éclairage.\n\nUtilisez un convertisseur de vidéo en profondeur en ligne (sans configuration locale) pour transformer une vidéo classique (par ex. un clip de danse) en vidéo de profondeur, puis injectez-la dans Seedance 2.0 avec un personnage de référence pour recréer le mouvement.\n\n--- TWEET CITÉ ---\nCes vidéos de transformation de tenue sont tellement amusantes ! Quel look préférez-vous ?\n\nWorkflow complet, incluant les prompts pour l’image et la vidéo : https://t.co/VctM6h95Kq https://t.co/5LIaxMX6Qw\n---"
+    },
+    "ja": {
+      "content": "まずソース動画を depth video に変換し、その depth video を Seedance 2.0 の motion driver として使うことで、Kling Motion Control を直接使うよりも、より自然な motion transfer を実現できます。\n\ndepth video を使うことで、元のキャラクター／シーンのディテールを取り除きつつ（著作権・センシティブコンテンツのリスクを低減）、Seedance 2.0 の再生成に必要な motion、timing、空間構造は保持できます。\n\nmotion extraction と visual generation を分離します。depth video で motion を抽出し、その後 Seedance 2.0 で任意の reference character を使ってクリップを再生成することで、choreography／timing を維持しながら、キャラクター／シーン／lighting を変更できます。\n\nオンラインの depth-video converter（ローカル環境のセットアップ不要）を使って、通常の動画（例：ダンスクリップ）を depth video に変換し、それを reference character とともに Seedance 2.0 に入力して動きを再現します。\n\n--- QUOTED TWEET ---\nこの outfit transformation videos は本当に楽しい！どの look が一番好きですか？\n\n画像と動画の両方の prompt を含む完全な workflow: https://t.co/VctM6h95Kq https://t.co/5LIaxMX6Qw\n---"
+    },
+    "ko": {
+      "content": "소스 비디오를 먼저 depth video로 변환한 다음, 그 depth video를 Seedance 2.0의 motion driver로 사용하면 Kling Motion Control을 직접 사용하는 것보다 더 자연스러운 motion transfer를 얻을 수 있습니다.\n\ndepth video를 사용하면 원본 캐릭터/장면의 디테일을 제거하면서도(저작권/민감 콘텐츠 위험을 줄이면서) Seedance 2.0 재생성을 위한 motion, timing, spatial structure는 유지할 수 있습니다.\n\nmotion extraction과 visual generation을 분리하세요: depth video를 통해 motion을 추출한 다음, Seedance 2.0에서 어떤 reference character로든 클립을 재생성하여 choreography/timing은 유지하면서 character/scene/lighting은 변경할 수 있습니다.\n\n온라인 depth-video converter(로컬 설정 불필요)를 사용해 일반 비디오(예: 댄스 클립)를 depth video로 변환한 뒤, 이를 reference character와 함께 Seedance 2.0에 입력하여 움직임을 재현하세요.\n\n--- QUOTED TWEET ---\n이 outfit transformation video들은 정말 재미있어요! 어떤 룩이 가장 마음에 드시나요?\n\n이미지와 비디오 prompt를 모두 포함한 전체 workflow: https://t.co/VctM6h95Kq https://t.co/5LIaxMX6Qw\n---"
+    },
+    "pt": {
+      "content": "Converta primeiro seu vídeo de origem em um vídeo de profundidade e, depois, use esse vídeo de profundidade como driver de movimento no Seedance 2.0 para obter uma transferência de movimento mais natural do que usando o Kling Motion Control diretamente.\n\nUse vídeos de profundidade para remover os detalhes originais do personagem/cena (reduzindo o risco de copyright/conteúdo sensível) enquanto preserva o movimento, o timing e a estrutura espacial para a regeneração no Seedance 2.0.\n\nSepare a extração de movimento da geração visual: extraia o movimento por meio de um vídeo de profundidade e, depois, regenere o clipe no Seedance 2.0 com qualquer personagem de referência para manter a coreografia/o timing enquanto altera personagem/cena/iluminação.\n\nUse um conversor online de vídeo em profundidade (sem configuração local) para transformar um vídeo comum (por exemplo, um clipe de dança) em um vídeo de profundidade e, em seguida, alimentá-lo no Seedance 2.0 com um personagem de referência para recriar o movimento.\n\n--- TWEET CITADO ---\nEsses vídeos de transformação de roupa são tão divertidos! Qual look é o seu favorito?\n\nFluxo de trabalho completo, incluindo prompts de imagem e vídeo: https://t.co/VctM6h95Kq https://t.co/5LIaxMX6Qw\n---"
+    },
+    "zh": {
+      "content": "先将你的源视频转换为深度视频，然后在 Seedance 2.0 中将该深度视频作为 motion driver 使用，这样比直接使用 Kling Motion Control 能获得更自然的动作迁移。\n\n使用深度视频来剥离原始角色/场景细节（降低版权/敏感内容风险），同时保留动作、时序和空间结构，以便 Seedance 2.0 进行重建。\n\n将动作提取与视觉生成分离：通过深度视频提取动作，然后在 Seedance 2.0 中使用任意参考角色重新生成片段，以保留编舞/时序，同时更换角色/场景/光照。\n\n使用在线深度视频转换器（无需本地安装）将普通视频（例如舞蹈片段）转换为深度视频，然后将其与参考角色一起输入 Seedance 2.0，以重现动作。\n\n--- 引用推文 ---\n这些服装变换视频太有趣了！你最喜欢哪一套造型？\n\n完整工作流程，包括图片和视频 prompts：https://t.co/VctM6h95Kq https://t.co/5LIaxMX6Qw\n---"
+    }
+  }
+}

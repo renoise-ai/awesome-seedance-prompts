@@ -1,0 +1,43 @@
+{
+  "id": "2083994491862577262",
+  "title": "Generate the song first in OpenArt or ElevenLabs (up to 3 minutes) before…",
+  "content": "Generate the song first in OpenArt or ElevenLabs (up to 3 minutes) before moving to video generation.  \nIn OpenArt, switch to Text-to-Video and select Seedance 2.0 to get the best lip sync for singing videos.  \nAvoid using your own character reference for singing lip sync right now; it breaks generation.  \nUse Bite Plus library characters as the workaround until OpenArt lifts the character-reference restriction.  \nTag both the character and the audio directly in the prompt using the @ symbol to link them for lip sync.  \nAfter generation, replace the background of any section using the VFX tool.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079313830698446848/img/iMgs9YTNuFQD4-WH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083994491862577262.mp4",
+  "sourceLink": "https://x.com/Mavernxbt/status/2083994491862577262",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Mavern",
+    "link": "https://x.com/Mavernxbt"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Generate the song first in OpenArt or ElevenLabs (up to 3 minutes) before moving to video generation.  \nIn OpenArt, switch to Text-to-Video and select Seedance 2.0 to get the best lip sync for singing videos.  \nAvoid using your own character reference for singing lip sync right now; it breaks generation.  \nUse Bite Plus library characters as the workaround until OpenArt lifts the character-reference restriction.  \nTag both the character and the audio directly in the prompt using the @ symbol to link them for lip sync.  \nAfter generation, replace the background of any section using the VFX tool.",
+  "translations": {
+    "es": {
+      "content": "Genera primero la canción en OpenArt o ElevenLabs (hasta 3 minutos) antes de pasar a la generación de video.  \nEn OpenArt, cambia a Text-to-Video y selecciona Seedance 2.0 para obtener la mejor sincronización labial en videos de canto.  \nPor ahora, evita usar tu propia referencia de personaje para la sincronización labial al cantar; eso rompe la generación.  \nUsa los personajes de la biblioteca Bite Plus como solución temporal hasta que OpenArt levante la restricción de referencia de personaje.  \nEtiqueta tanto al personaje como al audio directamente en el prompt usando el símbolo @ para vincularlos para la sincronización labial.  \nDespués de la generación, reemplaza el fondo de cualquier sección usando la herramienta VFX."
+    },
+    "fr": {
+      "content": "Générez d’abord la chanson dans OpenArt ou ElevenLabs (jusqu’à 3 minutes) avant de passer à la génération vidéo.  \nDans OpenArt, passez en Text-to-Video et sélectionnez Seedance 2.0 pour obtenir la meilleure synchronisation labiale pour les vidéos de chant.  \nÉvitez pour le moment d’utiliser votre propre référence de personnage pour la synchronisation labiale du chant ; cela casse la génération.  \nUtilisez les personnages de la bibliothèque Bite Plus comme solution de contournement jusqu’à ce qu’OpenArt lève la restriction sur les références de personnages.  \nIdentifiez à la fois le personnage et l’audio directement dans le prompt à l’aide du symbole @ pour les lier en vue de la synchronisation labiale.  \nAprès la génération, remplacez l’arrière-plan de n’importe quelle section à l’aide de l’outil VFX."
+    },
+    "ja": {
+      "content": "動画生成に進む前に、まず OpenArt または ElevenLabs で曲を生成してください（最大3分）。  \nOpenArt では、Text-to-Video に切り替えて Seedance 2.0 を選ぶと、歌唱動画で最適な lip sync が得られます。  \n現時点では、歌唱の lip sync に自分のキャラクター参照を使うのは避けてください。生成が失敗します。  \nOpenArt がキャラクター参照の制限を解除するまでは、代替手段として Bite Plus ライブラリのキャラクターを使用してください。  \nlip sync のために、プロンプト内で @ 記号を使ってキャラクターと音声の両方を直接タグ付けし、紐づけてください。  \n生成後は、VFX ツールを使って任意のセクションの背景を差し替えてください。"
+    },
+    "ko": {
+      "content": "비디오 생성을 진행하기 전에 먼저 OpenArt 또는 ElevenLabs에서 노래를 생성하세요(최대 3분).  \nOpenArt에서는 Text-to-Video로 전환한 뒤 Seedance 2.0을 선택하면 노래 영상에서 가장 좋은 립싱크를 얻을 수 있습니다.  \n현재는 노래 립싱크에 자신의 캐릭터 레퍼런스를 사용하지 마세요. 생성이 실패할 수 있습니다.  \nOpenArt에서 캐릭터 레퍼런스 제한을 해제할 때까지는 Bite Plus 라이브러리 캐릭터를 우회 방법으로 사용하세요.  \n립싱크를 위해 프롬프트에서 @ 기호를 사용해 캐릭터와 오디오를 직접 태그하여 서로 연결하세요.  \n생성 후에는 VFX 도구를 사용해 원하는 구간의 배경을 교체하세요."
+    },
+    "pt": {
+      "content": "Gere a música primeiro no OpenArt ou ElevenLabs (até 3 minutos) antes de passar para a geração de vídeo.  \nNo OpenArt, mude para Text-to-Video e selecione Seedance 2.0 para obter a melhor sincronização labial em vídeos de canto.  \nEvite usar sua própria referência de personagem para lip sync de canto por enquanto; isso quebra a geração.  \nUse os personagens da biblioteca Bite Plus como alternativa até que o OpenArt remova a restrição de referência de personagem.  \nMarque tanto o personagem quanto o áudio diretamente no prompt usando o símbolo @ para vinculá-los para lip sync.  \nApós a geração, substitua o fundo de qualquer seção usando a ferramenta VFX."
+    },
+    "zh": {
+      "content": "先在 OpenArt 或 ElevenLabs 中生成歌曲（最长 3 分钟），然后再进行视频生成。  \n在 OpenArt 中，切换到 Text-to-Video 并选择 Seedance 2.0，以获得唱歌视频最佳的 lip sync。  \n目前请避免在唱歌 lip sync 中使用你自己的角色参考；这会导致生成失败。  \n可先使用 Bite Plus 库中的角色作为替代方案，直到 OpenArt 解除角色参考限制。  \n在 prompt 中直接使用 @ 符号同时标记角色和音频，将它们关联起来以实现 lip sync。  \n生成后，可使用 VFX 工具替换任意片段的背景。"
+    }
+  }
+}

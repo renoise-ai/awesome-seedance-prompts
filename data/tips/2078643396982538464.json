@@ -1,0 +1,42 @@
+{
+  "id": "2078643396982538464",
+  "title": "キャラシートを動画リファレンスとしてSeedance2に参照させてキャラクターの一貫性を出す",
+  "content": "キャラシートを動画リファレンスとしてSeedance2に参照させてキャラクターの一貫性を出す  \nキャラリファレンス動画＋小物リファレンス画像＋背景リファレンス画像＋プロンプトの組み合わせだけでセルシェーディング風3Dアニメ調の動画を生成する  \nBlenderで作った3Dプリビズ動画を参照しているように見せたい場合でも、実際はキャラリファレンス動画と小物・背景のリファレンス画像で代用して構成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078640348067397632/img/6kFzNgSRkndIQTER.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078643396982538464.mp4",
+  "sourceLink": "https://x.com/wtry1102/status/2078643396982538464",
+  "sourcePublishedAt": "2026-07-19",
+  "author": {
+    "name": "WTR",
+    "link": "https://x.com/wtry1102"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラシートを動画リファレンスとしてSeedance2に参照させてキャラクターの一貫性を出す  \nキャラリファレンス動画＋小物リファレンス画像＋背景リファレンス画像＋プロンプトの組み合わせだけでセルシェーディング風3Dアニメ調の動画を生成する  \nBlenderで作った3Dプリビズ動画を参照しているように見せたい場合でも、実際はキャラリファレンス動画と小物・背景のリファレンス画像で代用して構成する",
+  "translations": {
+    "en": {
+      "content": "Use a character sheet as a video reference in Seedance2 to maintain character consistency.  \nGenerate cel-shaded 3D anime-style videos using only a combination of a character reference video, prop reference images, background reference images, and a prompt.  \nEven if you want it to look like it is referencing a 3D previs video made in Blender, in practice you can substitute that with a character reference video plus prop and background reference images to build the composition."
+    },
+    "es": {
+      "content": "Hacer que Seedance2 consulte una hoja de personaje como referencia de video para lograr consistencia en el personaje  \nGenerar un video con estilo de animación 3D tipo cel shading solo con la combinación de un video de referencia del personaje + imágenes de referencia de accesorios + imágenes de referencia del fondo + el prompt  \nIncluso si quieres que parezca que está tomando como referencia un video de previsualización 3D hecho en Blender, en realidad se compone sustituyéndolo por un video de referencia del personaje y por imágenes de referencia de los accesorios y del fondo"
+    },
+    "fr": {
+      "content": "Faire en sorte que Seedance2 prenne une character sheet comme référence vidéo afin d’assurer la cohérence du personnage  \nGénérer une vidéo au style d’animation 3D en cel shading uniquement en combinant une vidéo de référence du personnage + des images de référence des accessoires + des images de référence du décor + un prompt  \nMême si l’on veut donner l’impression de s’appuyer sur une vidéo de prévisualisation 3D réalisée dans Blender, on peut en réalité la remplacer par une vidéo de référence du personnage et des images de référence des accessoires et du décor pour construire la scène"
+    },
+    "ko": {
+      "content": "캐릭터 시트를 영상 레퍼런스로 Seedance2에 참조시켜 캐릭터의 일관성을 확보한다  \n캐릭터 레퍼런스 영상 + 소품 레퍼런스 이미지 + 배경 레퍼런스 이미지 + 프롬프트의 조합만으로 셀 셰이딩풍 3D 애니메이션 스타일의 영상을 생성한다  \nBlender로 만든 3D 프리비즈 영상을 참조하는 것처럼 보이게 하고 싶을 때도, 실제로는 캐릭터 레퍼런스 영상과 소품·배경 레퍼런스 이미지로 대체해 구성한다"
+    },
+    "pt": {
+      "content": "Usar a character sheet como referência em vídeo no Seedance2 para manter a consistência do personagem  \nGerar vídeos em estilo de animação 3D com cel shading apenas com a combinação de vídeo de referência do personagem + imagens de referência de acessórios + imagens de referência de fundo + prompt  \nMesmo quando quiser fazer parecer que está usando um vídeo de previs de 3D criado no Blender como referência, na prática, a composição é feita substituindo isso por um vídeo de referência do personagem e imagens de referência de acessórios e de fundo"
+    },
+    "zh": {
+      "content": "将角色设定图作为视频参考让 Seedance2 进行参照，以实现角色的一致性  \n仅通过“角色参考视频 + 道具参考图片 + 背景参考图片 + prompt”的组合，就能生成具有赛璐璐着色风格的 3D 动画感视频  \n即使想表现得像是在参考用 Blender 制作的 3D 预演视频，实际上也可以用角色参考视频以及道具、背景的参考图片来替代并完成构成"
+    }
+  }
+}

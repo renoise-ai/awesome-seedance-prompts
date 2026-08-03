@@ -1,0 +1,43 @@
+{
+  "id": "2083816931962798519",
+  "title": "用一张角色图片作为输入，再配一段提示词，就能用 Seedance 2.0 生成换装卡点/换装跳舞视频，无需真人反复拍摄或后期剪辑",
+  "content": "用一张角色图片作为输入，再配一段提示词，就能用 Seedance 2.0 生成换装卡点/换装跳舞视频，无需真人反复拍摄或后期剪辑",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083813083664068608/img/W-82On-cZGqFaGHH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083816931962798519.mp4",
+  "sourceLink": "https://x.com/Chengzilhy/status/2083816931962798519",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "小宇Chengzi",
+    "link": "https://x.com/Chengzilhy"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "用一张角色图片作为输入，再配一段提示词，就能用 Seedance 2.0 生成换装卡点/换装跳舞视频，无需真人反复拍摄或后期剪辑",
+  "translations": {
+    "en": {
+      "content": "Using a single character image as input, along with a prompt, you can use Seedance 2.0 to generate outfit-change beat-sync or outfit-change dance videos—no need for repeated live-action filming or post-production editing."
+    },
+    "es": {
+      "content": "Usa una imagen de un personaje como entrada y añade un prompt, y podrás generar con Seedance 2.0 videos de cambio de vestuario al ritmo de la música / de baile con cambio de vestuario, sin necesidad de grabar repetidamente con una persona real ni de hacer edición en posproducción."
+    },
+    "fr": {
+      "content": "En utilisant une image de personnage comme entrée, puis en ajoutant un prompt, vous pouvez générer avec Seedance 2.0 des vidéos de changement de tenue synchronisé sur le beat / de danse avec changement de tenue, sans avoir besoin de filmer une vraie personne à répétition ni de faire du montage en post-production."
+    },
+    "ja": {
+      "content": "A single character image as input, plus a prompt, is all you need to use Seedance 2.0 to generate outfit-change beat-synced / outfit-change dance videos—no need for repeated live-action filming or post-production editing."
+    },
+    "ko": {
+      "content": "캐릭터 이미지 한 장을 입력으로 넣고, 프롬프트를 한 줄 더하면 Seedance 2.0으로 의상 교체 비트 싱크/댄스 전환 영상을 생성할 수 있어, 실제 인물을 반복 촬영하거나 후반 편집할 필요가 없습니다."
+    },
+    "pt": {
+      "content": "Usando uma imagem de personagem como entrada, junto com um prompt, você já consegue gerar com o Seedance 2.0 vídeos de troca de roupa no beat da música / dança com troca de figurino, sem precisar filmar uma pessoa real repetidas vezes nem fazer edição na pós-produção."
+    }
+  }
+}

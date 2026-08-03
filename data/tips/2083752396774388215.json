@@ -1,0 +1,42 @@
+{
+  "id": "2083752396774388215",
+  "title": "Generate camera flight clips by feeding isometric stills into Seedance (via…",
+  "content": "Generate camera flight clips by feeding isometric stills into Seedance (via Monid) to create a no-cut “camera flying through a 3D world” sequence  \nBuild connector clips by using the exact boundary frames of neighboring scenes as inputs so transitions align pixel-for-pixel with no visible seams  \nRender the final output natively in 9:16 portrait for mobile instead of cropping a desktop render",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083639932644433920/img/vUUuRJhm50-_aCkj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083752396774388215.mp4",
+  "sourceLink": "https://x.com/neil_xbt/status/2083752396774388215",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "NeilXbt",
+    "link": "https://x.com/neil_xbt"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Generate camera flight clips by feeding isometric stills into Seedance (via Monid) to create a no-cut “camera flying through a 3D world” sequence  \nBuild connector clips by using the exact boundary frames of neighboring scenes as inputs so transitions align pixel-for-pixel with no visible seams  \nRender the final output natively in 9:16 portrait for mobile instead of cropping a desktop render",
+  "translations": {
+    "es": {
+      "content": "Genera clips de vuelo de cámara alimentando stills isométricos en Seedance (a través de Monid) para crear una secuencia sin cortes de “camera flying through a 3D world”  \nConstruye clips de conexión usando los fotogramas exactos de borde de las escenas vecinas como inputs, de modo que las transiciones se alineen píxel a píxel sin costuras visibles  \nRenderiza el resultado final de forma nativa en formato vertical 9:16 para móvil, en lugar de recortar un render de escritorio"
+    },
+    "fr": {
+      "content": "Générez des clips de caméra en mouvement en alimentant Seedance (via Monid) avec des images fixes isométriques afin de créer une séquence sans coupe de type « caméra traversant un monde 3D »  \nCréez des clips de liaison en utilisant comme entrées les frames de bord exactes des scènes voisines, afin que les transitions s’alignent pixel par pixel, sans aucune couture visible  \nRendez la sortie finale nativement en format portrait 9:16 pour mobile, au lieu de recadrer un rendu desktop"
+    },
+    "ja": {
+      "content": "Seedance（Monid 経由）にアイソメトリックな静止画を入力して、カットなしの「3Dワールドをカメラが飛び抜けていく」シーケンスを生成し、カメラフライトクリップを作成する  \n隣接するシーンの境界フレームをそのまま入力として使い、遷移がピクセル単位で一致して目に見える継ぎ目のないコネクタークリップを構築する  \nデスクトップ向けレンダリングを後からクロップするのではなく、最終出力はモバイル向けの 9:16 縦長でネイティブにレンダリングする"
+    },
+    "ko": {
+      "content": "Seedance( Monid를 통해)에 아이소메트릭 스틸 이미지를 입력해 컷 없이 “3D 세계를 카메라가 날아다니는” 시퀀스를 생성하여 카메라 플라이트 클립을 만듭니다  \n인접한 장면의 정확한 경계 프레임을 입력으로 사용해 커넥터 클립을 구성하면, 전환이 픽셀 단위로 정확히 맞아 보이는 이음새 없는 연결이 가능합니다  \n데스크톱 렌더를 잘라 쓰는 대신, 최종 결과물은 모바일에 맞게 9:16 세로 비율로 네이티브 렌더링합니다"
+    },
+    "pt": {
+      "content": "Gere clipes de voo de câmera alimentando stills isométricos no Seedance (via Monid) para criar uma sequência sem cortes de “câmera voando por um mundo 3D”  \nCrie clipes de conexão usando os frames exatos de borda das cenas vizinhas como entrada, para que as transições se alinhem pixel a pixel, sem emendas visíveis  \nRenderize a saída final nativamente em 9:16 vertical para mobile, em vez de recortar uma renderização de desktop"
+    },
+    "zh": {
+      "content": "通过将等距静帧输入 Seedance（通过 Monid），生成无剪辑的“镜头穿行于 3D 世界中”序列的 camera flight clips  \n通过使用相邻场景的精确边界帧作为输入来构建 connector clips，使转场在像素级对齐，且没有可见接缝  \n最终输出直接以 9:16 竖屏原生渲染，适配移动端，而不是裁切桌面端渲染结果"
+    }
+  }
+}

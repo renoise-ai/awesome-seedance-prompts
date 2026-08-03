@@ -1,0 +1,41 @@
+{
+  "id": "2083714128989008270",
+  "title": "Codexにキャラ画像と歌詞を渡して、各歌詞付きの画像をまとめて生成する",
+  "content": "Codexにキャラ画像と歌詞を渡して、各歌詞付きの画像をまとめて生成する  \n曲のmp3を15秒ごとに分割する  \nH3で「歌詞付き画像」と「15秒に分割したmp3」をリファレンスとして渡してMV用動画を生成する  \nH3は画像内の文字やレイヤー情報も認識しやすいので、歌詞テキストを画像に入れておく",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/k_matsumaru/status/2083714128989008270",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "松丸 彗吾(keigo matsumaru)",
+    "link": "https://x.com/k_matsumaru"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Codexにキャラ画像と歌詞を渡して、各歌詞付きの画像をまとめて生成する  \n曲のmp3を15秒ごとに分割する  \nH3で「歌詞付き画像」と「15秒に分割したmp3」をリファレンスとして渡してMV用動画を生成する  \nH3は画像内の文字やレイヤー情報も認識しやすいので、歌詞テキストを画像に入れておく",
+  "translations": {
+    "en": {
+      "content": "Pass the character image and lyrics to Codex and generate all the lyric-captioned images at once.  \nSplit the song’s MP3 into 15-second segments.  \nUse H3 to generate the MV video by providing the “lyric images” and the “MP3 split into 15-second clips” as references.  \nSince H3 also seems to recognize text and layer information in images well, it’s a good idea to include the lyric text directly in the image.\n\n--- QUOTED TWEET ---\nHuh? Making an MV with #MiniMaxH3 might be insanely fun ☺️\n\nH3 also seems to have a good ear, but it also appears to recognize text in images and things like layers really well.\n\nHow to make it:\n1. Pass the character image and lyrics to Codex and generate all the lyric-captioned images at once.\n2. Split the song’s MP3 into 15-second segments.\n3. Use H3 to generate by referencing the images and MP3 files.\n\nI’ll add an image in the replies, so please feel free to use it as a reference if you’d like ☺️\n\n@Hailuo_AI"
+    },
+    "es": {
+      "content": "Pasar a Codex la imagen del personaje y la letra, y generar de una vez todas las imágenes con cada fragmento de la letra  \nDividir el mp3 de la canción en segmentos de 15 segundos  \nCon H3, pasar como referencia las “imágenes con letra” y el “mp3 dividido en 15 segundos” para generar el video del MV  \nComo H3 también reconoce fácilmente el texto dentro de las imágenes y la información de capas, conviene incluir el texto de la letra en la imagen\n\n--- TWEET CITADO ---\n¿Eh? #MiniMaxH3 quizá sea increíblemente divertido para hacer MV ☺️\n\nParece que H3 también tiene buen oído, pero además da la impresión de que reconoce muy bien el texto en las imágenes y cosas como las capas.\n\nCómo hacerlo\n① Pasar a Codex la imagen del personaje y la letra, y generar de una vez todas las imágenes con cada fragmento de la letra\n② Dividir el mp3 de la canción en segmentos de 15 segundos\n③ Hacer que H3 use las imágenes y el archivo mp3 como referencia para generar\n\nDejaré una imagen de ejemplo en las respuestas, así que, si quieren, pueden usarla como referencia ☺️\n\n@Hailuo_AI"
+    },
+    "fr": {
+      "content": "Codex reçoit l’image du personnage et les paroles, puis génère en une seule fois des images avec chaque extrait de paroles  \nLe mp3 du morceau est découpé toutes les 15 secondes  \nAvec H3, on fournit en référence les « images avec paroles » et le « mp3 découpé en segments de 15 secondes » pour générer la vidéo du MV  \nComme H3 reconnaît aussi facilement le texte dans les images et les informations de calques, on ajoute le texte des paroles directement dans l’image\n\n--- QUOTED TWEET ---\nHein ? Faire un MV avec #MiniMaxH3, ça a l’air incroyablement amusant ☺️\n\nH3 semble aussi avoir une bonne oreille, mais il reconnaît apparemment très bien le texte dans les images et même les sortes de calques.\n\nMéthode\n① Donner à Codex l’image du personnage et les paroles pour générer d’un coup toutes les images avec les paroles\n② Découper le mp3 du morceau en segments de 15 secondes\n③ Faire générer avec H3 en lui fournissant les images et les fichiers mp3 comme références\n\nJe mettrai une idée visuelle dans les réponses, alors n’hésitez pas à vous en servir comme référence si vous voulez ☺️\n\n@Hailuo_AI"
+    },
+    "ko": {
+      "content": "Codex에 캐릭터 이미지와 가사를 넘겨서, 각 가사가 들어간 이미지를 한 번에 생성한다  \n곡의 mp3를 15초 단위로 분할한다  \nH3에 “가사가 들어간 이미지”와 “15초로 분할한 mp3”를 레퍼런스로 넘겨 MV용 영상을 생성한다  \nH3는 이미지 안의 문자나 레이어 정보도 잘 인식하므로, 가사 텍스트를 이미지에 넣어두면 된다\n\n--- QUOTED TWEET ---\n어? #MiniMaxH3로 MV 만드는 거 엄청 재밌을지도 몰라☺️\n\nH3는 귀도 좋은 것 같지만, 이미지의 문자나 레이어 같은 것도 확실히 인식해 주는 것 같네요.\n\n만드는 방법\n① Codex에 캐릭터 이미지와 가사를 넘겨 각 가사가 들어간 이미지를 한 번에 생성\n② 곡의 mp3를 15초마다 분할\n③ H3에서 이미지와 mp3 파일을 레퍼런스로 설정해 생성\n\n답글에 이미지 예시도 달아둘 테니, 괜찮으시면 참고해 보세요☺️\n\n@Hailuo_AI"
+    },
+    "pt": {
+      "content": "Passar a imagem do personagem e a letra para o Codex e gerar de uma vez todas as imagens com cada trecho da letra  \nDividir o mp3 da música em partes de 15 segundos  \nNo H3, passar como referência as “imagens com letra” e o “mp3 dividido em 15 segundos” para gerar o vídeo do MV  \nComo o H3 também reconhece com facilidade o texto dentro das imagens e informações de camadas, colocar o texto da letra na imagem\n\n--- TWEET CITADO ---\nHã? Talvez seja incrivelmente divertido fazer MV com o #MiniMaxH3☺️\n\nParece que o H3 também tem um bom ouvido, mas também reconhece muito bem o texto nas imagens e coisas como camadas.\n\nComo fazer\n① Passar a imagem do personagem e a letra para o Codex e gerar de uma vez todas as imagens com cada trecho da letra\n② Dividir o mp3 da música em partes de 15 segundos\n③ No H3, usar as imagens e os arquivos mp3 como referência para gerar\n\nVou deixar uma imagem de exemplo nos replies, então, se quiser, sinta-se à vontade para usar como referência☺️\n\n@Hailuo_AI"
+    },
+    "zh": {
+      "content": "将角色图片和歌词交给 Codex，一次性生成每句歌词对应的图片  \n把歌曲的 mp3 按每 15 秒切分  \n在 H3 中将“带歌词的图片”和“按 15 秒切分的 mp3”作为参考输入，生成用于 MV 的视频  \nH3 似乎也很容易识别图片中的文字和图层信息，所以可以把歌词文本直接放进图片里\n\n--- QUOTED TWEET ---\n咦？用 #MiniMaxH3 做 MV 说不定会超级有趣☺️\n\nH3 好像不仅听觉很强，似乎也能很好地识别图片里的文字和类似图层的信息呢。\n\n制作方法\n① 把角色图片和歌词交给 Codex，一口气生成每句歌词对应的图片\n② 将歌曲的 mp3 按每 15 秒切分\n③ 在 H3 中把图片和 mp3 文件作为参考进行生成\n\n我会在回复区附上示意图，感兴趣的话可以参考一下☺️\n\n@Hailuo_AI"
+    }
+  }
+}

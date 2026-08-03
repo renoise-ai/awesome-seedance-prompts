@@ -1,0 +1,41 @@
+{
+  "id": "2083228224503635973",
+  "title": "Create a character sheet first using GPT image generation, then use that…",
+  "content": "Create a character sheet first using GPT image generation, then use that character sheet as the reference image to generate the video clip in Seedance 2.0.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/sayobonito/status/2083228224503635973",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "sayobonita",
+    "link": "https://x.com/sayobonito"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a character sheet first using GPT image generation, then use that character sheet as the reference image to generate the video clip in Seedance 2.0.",
+  "translations": {
+    "es": {
+      "content": "Crea primero una hoja de personaje usando la generación de imágenes de GPT; luego usa esa hoja de personaje como imagen de referencia para generar el clip de video en Seedance 2.0."
+    },
+    "fr": {
+      "content": "Créez d’abord une character sheet à l’aide de la génération d’images GPT, puis utilisez cette character sheet comme image de référence pour générer le clip vidéo dans Seedance 2.0."
+    },
+    "ja": {
+      "content": "まず GPT の画像生成を使ってキャラクターシートを作成し、そのキャラクターシートを参照画像として使用して、Seedance 2.0 で動画クリップを生成します。"
+    },
+    "ko": {
+      "content": "먼저 GPT 이미지 생성을 사용해 캐릭터 시트를 만든 다음, 그 캐릭터 시트를 참조 이미지로 사용해 Seedance 2.0에서 비디오 클립을 생성하세요."
+    },
+    "pt": {
+      "content": "Crie primeiro uma character sheet usando a geração de imagens do GPT; depois use essa character sheet como imagem de referência para gerar o clipe de vídeo no Seedance 2.0."
+    },
+    "zh": {
+      "content": "先使用 GPT 图像生成创建一张角色设定表，然后将这张角色设定表作为参考图像，在 Seedance 2.0 中生成视频片段。"
+    }
+  }
+}

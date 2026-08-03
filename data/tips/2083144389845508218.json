@@ -1,0 +1,41 @@
+{
+  "id": "2083144389845508218",
+  "title": "Use one prompt plus two character reference images to create a short…",
+  "content": "Use one prompt plus two character reference images to create a short tribute-style video.\nGenerate in native 2K output to improve detail and motion quality.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083140471149453312/img/N-Uoz-NEXXsgBu1i.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083144389845508218.mp4",
+  "sourceLink": "https://x.com/0xbisc/status/2083144389845508218",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "Latte",
+    "link": "https://x.com/0xbisc"
+  },
+  "tags": [
+    "Story",
+    "Heartwarming",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "Use one prompt plus two character reference images to create a short tribute-style video.\nGenerate in native 2K output to improve detail and motion quality.",
+  "translations": {
+    "es": {
+      "content": "Usa un solo prompt más dos imágenes de referencia de personajes para crear un video corto de estilo homenaje.  \nGenera en salida nativa 2K para mejorar el detalle y la calidad del movimiento."
+    },
+    "fr": {
+      "content": "Utilisez un seul prompt plus deux images de référence de personnage pour créer une courte vidéo de type hommage.  \nGénérez en sortie native 2K afin d’améliorer le niveau de détail et la qualité du mouvement."
+    },
+    "ja": {
+      "content": "1つのpromptと2枚のキャラクター参照画像を使って、短いトリビュート風の動画を作成します。  \nディテールとモーション品質を向上させるため、ネイティブ2K出力で生成してください。"
+    },
+    "ko": {
+      "content": "하나의 prompt와 두 장의 캐릭터 reference image를 사용해 짧은 헌정 스타일의 비디오를 만드세요.  \n디테일과 모션 품질을 향상시키기 위해 native 2K output으로 생성하세요."
+    },
+    "pt": {
+      "content": "Use um prompt mais duas imagens de referência de personagem para criar um vídeo curto em estilo de homenagem.\nGere em saída nativa 2K para melhorar os detalhes e a qualidade do movimento."
+    },
+    "zh": {
+      "content": "使用一个 prompt 加上两张角色参考图，制作一段简短的致敬风格视频。  \n以原生 2K 输出生成，以提升细节和运动质量。"
+    }
+  }
+}

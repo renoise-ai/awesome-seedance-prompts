@@ -1,0 +1,42 @@
+{
+  "id": "2083497124121964815",
+  "title": "Use a URL-in/video-out workflow by pulling product data directly from your…",
+  "content": "Use a URL-in/video-out workflow by pulling product data directly from your store URL to auto-generate Seedance ads.\n\nUse per-shot model selection (Seedance 2.0 vs Kling 3.0 vs Veo 3.1 vs Sora 2) instead of a single model for the whole video.\n\nGenerate ads as multi-shot sequences with music and sound design included to avoid a manual editing pass.\n\nCreate A/B variant batches and export to multiple platforms in one run, staging outputs for review in a single conversation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083496864326852608/img/yG3SkiKrHIcUjILo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083497124121964815.mp4",
+  "sourceLink": "https://x.com/notEgoyard/status/2083497124121964815",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "YARD",
+    "link": "https://x.com/notEgoyard"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a URL-in/video-out workflow by pulling product data directly from your store URL to auto-generate Seedance ads.\n\nUse per-shot model selection (Seedance 2.0 vs Kling 3.0 vs Veo 3.1 vs Sora 2) instead of a single model for the whole video.\n\nGenerate ads as multi-shot sequences with music and sound design included to avoid a manual editing pass.\n\nCreate A/B variant batches and export to multiple platforms in one run, staging outputs for review in a single conversation.",
+  "translations": {
+    "es": {
+      "content": "Usa un flujo de trabajo URL-in/video-out extrayendo datos del producto directamente desde la URL de tu tienda para generar automáticamente anuncios de Seedance.\n\nUsa selección de modelo por toma (Seedance 2.0 vs Kling 3.0 vs Veo 3.1 vs Sora 2) en lugar de un solo modelo para todo el video.\n\nGenera anuncios como secuencias de varias tomas con música y diseño de sonido incluidos para evitar una edición manual posterior.\n\nCrea lotes de variantes A/B y exporta a múltiples plataformas en una sola ejecución, dejando los resultados preparados para revisión en una sola conversación."
+    },
+    "fr": {
+      "content": "Utilisez un workflow URL-in/video-out en extrayant directement les données produit depuis l’URL de votre boutique pour auto-générer des publicités Seedance.\n\nUtilisez la sélection de modèle par plan (Seedance 2.0 vs Kling 3.0 vs Veo 3.1 vs Sora 2) au lieu d’un seul modèle pour toute la vidéo.\n\nGénérez des publicités sous forme de séquences multi-plans avec musique et sound design inclus, afin d’éviter une étape de montage manuelle.\n\nCréez des lots de variantes A/B et exportez vers plusieurs plateformes en une seule exécution, en préparant les rendus pour validation dans une seule conversation."
+    },
+    "ja": {
+      "content": "---\nストアのURLから商品データを直接取得して自動生成することで、URL-in/video-outのワークフローを活用し、Seedance広告を作成します。\n\n動画全体で単一のモデルを使うのではなく、ショットごとにモデルを選択できます（Seedance 2.0、Kling 3.0、Veo 3.1、Sora 2）。\n\n音楽とサウンドデザインを含めたマルチショットのシーケンスとして広告を生成し、手動の編集工程を不要にします。\n\nA/Bバリアントのバッチを作成し、1回の実行で複数のプラットフォームへエクスポート。出力はレビュー用にステージングされ、1つの会話内で確認できます。\n---"
+    },
+    "ko": {
+      "content": "스토어 URL에서 제품 데이터를 직접 불러와 URL-in/video-out 워크플로우를 사용해 Seedance 광고를 자동 생성하세요.\n\n영상 전체에 하나의 모델만 사용하는 대신, 샷별로 모델을 선택하세요(Seedance 2.0 vs Kling 3.0 vs Veo 3.1 vs Sora 2).\n\n수동 편집 과정을 거치지 않도록, 음악과 사운드 디자인이 포함된 멀티샷 시퀀스로 광고를 생성하세요.\n\nA/B 변형 배치를 만들고 한 번의 실행으로 여러 플랫폼에 내보내며, 단일 대화에서 검토할 수 있도록 결과물을 스테이징하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho URL-in/video-out, puxando os dados do produto diretamente da URL da sua loja para gerar automaticamente anúncios do Seedance.\n\nUse seleção de modelo por tomada (Seedance 2.0 vs Kling 3.0 vs Veo 3.1 vs Sora 2) em vez de um único modelo para o vídeo inteiro.\n\nGere anúncios como sequências multi-shot com música e sound design incluídos para evitar uma etapa manual de edição.\n\nCrie lotes de variantes A/B e exporte para várias plataformas em uma única execução, organizando os resultados para revisão em uma única conversa."
+    },
+    "zh": {
+      "content": "通过 URL-in/video-out 工作流，直接从你的店铺 URL 拉取商品数据，自动生成 Seedance 广告。\n\n按镜头选择模型（Seedance 2.0 vs Kling 3.0 vs Veo 3.1 vs Sora 2），而不是整段视频只用单一模型。\n\n将广告生成为包含音乐和声音设计的多镜头序列，避免后续手动剪辑。\n\n创建 A/B 变体批次，并在一次运行中导出到多个平台，将输出分阶段供审核，全部在一次对话中完成。"
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "content": "In Magnific, first generate a single reference image to lock in the video’s overall style and atmosphere before animating.  \nUse Nano Banana Pro in Magnific (with your style prompt) to create the reference image that defines the look.  \nAnimate by selecting Seedance 2.0 as the animation model and using the reference image as the input.  \nStart the animation with a simple Seedance prompt to establish the tone, then switch to multiple Seedance 2.0 rapid-cut prompts to maximize dynamism.  \nFor additional shots, reuse the previous generated image as the reference to maintain continuity across cuts.  \nCreate full-band shots by grabbing still frames of individual band members from the generated video and using those stills as references to compose a new full-band image/shot.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082872841968488448/img/P04oeK4fVFhbC-rO.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2082872841968488448/vid/avc1/1920x1080/wW4bcBlO0q8zEJNg.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082877911732793714.mp4",
   "sourceLink": "https://x.com/techhalla/status/2082877911732793714",
   "sourcePublishedAt": "2026-07-30",
   "author": {

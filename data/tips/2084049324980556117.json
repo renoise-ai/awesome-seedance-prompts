@@ -1,0 +1,41 @@
+{
+  "id": "2084049324980556117",
+  "title": "For longer dialog scenes, create the audio first and then animate images to…",
+  "content": "For longer dialog scenes, create the audio first and then animate images to match the dialog (audio-first workflow)  \nUse additional models alongside Seedance (e.g., MiniMax H3 and Kling 3) to cover shots when other tools are unreliable or blocked by filters",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ChrisGwinnLA/status/2084049324980556117",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Christopher Gwinn | Grindhouse Glitch",
+    "link": "https://x.com/ChrisGwinnLA"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "For longer dialog scenes, create the audio first and then animate images to match the dialog (audio-first workflow)  \nUse additional models alongside Seedance (e.g., MiniMax H3 and Kling 3) to cover shots when other tools are unreliable or blocked by filters",
+  "translations": {
+    "es": {
+      "content": "Para escenas de diálogo más largas, crea primero el audio y luego anima las imágenes para que coincidan con el diálogo (flujo de trabajo audio-first)  \nUsa modelos adicionales junto con Seedance (por ejemplo, MiniMax H3 y Kling 3) para cubrir planos cuando otras herramientas no sean fiables o estén bloqueadas por filtros"
+    },
+    "fr": {
+      "content": "Pour les scènes de dialogue plus longues, créez d’abord l’audio, puis animez les images pour qu’elles correspondent au dialogue (workflow audio-first)  \nUtilisez des modèles supplémentaires en parallèle de Seedance (par exemple, MiniMax H3 et Kling 3) pour couvrir les plans lorsque d’autres outils sont peu fiables ou bloqués par des filtres"
+    },
+    "ja": {
+      "content": "長めの対話シーンでは、まず音声を作成し、その後で対話に合わせて画像をアニメーション化します（audio-first workflow）  \nSeedance と併用して追加のモデル（例：MiniMax H3 や Kling 3）を使い、他のツールが不安定だったりフィルターで制限されたりする場合のショットを補完します"
+    },
+    "ko": {
+      "content": "긴 대화 장면의 경우, 먼저 오디오를 만든 다음 그 대화에 맞춰 이미지를 애니메이션화하세요(audio-first workflow)  \n다른 도구가 불안정하거나 필터에 의해 차단될 때는 Seedance와 함께 추가 모델(예: MiniMax H3, Kling 3)을 사용해 샷을 보완하세요"
+    },
+    "pt": {
+      "content": "Para cenas de diálogo mais longas, crie primeiro o áudio e depois anime as imagens para corresponder ao diálogo (fluxo de trabalho audio-first)  \nUse modelos adicionais junto com o Seedance (por exemplo, MiniMax H3 e Kling 3) para cobrir tomadas quando outras ferramentas forem pouco confiáveis ou bloqueadas por filtros"
+    },
+    "zh": {
+      "content": "对于较长的对话场景，先创建音频，再让图像动画与对话匹配（先音频后画面的工作流）  \n在使用 Seedance 的同时搭配其他模型（例如 MiniMax H3 和 Kling 3），以在其他工具不稳定或被过滤器拦截时补足镜头"
+    }
+  }
+}

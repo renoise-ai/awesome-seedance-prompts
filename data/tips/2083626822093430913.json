@@ -1,0 +1,42 @@
+{
+  "id": "2083626822093430913",
+  "title": "Use GPT Image 2 to generate the character images, then use Seedance 2.0 to…",
+  "content": "Use GPT Image 2 to generate the character images, then use Seedance 2.0 to rebuild/animate them into UGC-style video ads.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083626801444896768/img/jA-VOdkhBEY135Vr.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083626822093430913.mp4",
+  "sourceLink": "https://x.com/babeclipping/status/2083626822093430913",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "babe",
+    "link": "https://x.com/babeclipping"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image 2 to generate the character images, then use Seedance 2.0 to rebuild/animate them into UGC-style video ads.",
+  "translations": {
+    "es": {
+      "content": "Usa GPT Image 2 para generar las imágenes de los personajes y luego usa Seedance 2.0 para reconstruirlos/animarlos en anuncios de video estilo UGC."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer les images des personnages, puis utilisez Seedance 2.0 pour les reconstruire/les animer en publicités vidéo au style UGC."
+    },
+    "ja": {
+      "content": "GPT Image 2 を使ってキャラクター画像を生成し、その後 Seedance 2.0 を使って、それらを UGC スタイルの動画広告として再構築・アニメーション化します。"
+    },
+    "ko": {
+      "content": "GPT Image 2를 사용해 캐릭터 이미지를 생성한 다음, Seedance 2.0을 사용해 이를 UGC 스타일의 영상 광고로 재구성/애니메이션화하세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar as imagens dos personagens e, em seguida, use o Seedance 2.0 para reconstruí-los/animá-los em anúncios em vídeo no estilo UGC."
+    },
+    "zh": {
+      "content": "使用 GPT Image 2 生成角色图像，然后使用 Seedance 2.0 将它们重建/动画化为 UGC 风格的视频广告。"
+    }
+  }
+}

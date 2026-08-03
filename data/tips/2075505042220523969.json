@@ -1,0 +1,42 @@
+{
+  "id": "2075505042220523969",
+  "title": "キャラクター素材とシナリオをCodex 5.6 Solに渡して低コストの紙芝居プロトタイプを作り、構成確認後にそのプロトタイプ構成を元にSeedance2へ変換…",
+  "content": "キャラクター素材とシナリオをCodex 5.6 Solに渡して低コストの紙芝居プロトタイプを作り、構成確認後にそのプロトタイプ構成を元にSeedance2へ変換するワークフローで制作する  \nCodex 5.6 Solは「間（ポーズ）」など時間指定を解釈しやすいので、過剰に入れていた間の指定はSeedance2変換前に適正量へ修正してテンポの間延びを防ぐ",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075503979342209024/img/xVNUkuU6f9vsiKb8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075505042220523969.mp4",
+  "sourceLink": "https://x.com/nbykos/status/2075505042220523969",
+  "sourcePublishedAt": "2026-07-10",
+  "author": {
+    "name": "NOBU",
+    "link": "https://x.com/nbykos"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラクター素材とシナリオをCodex 5.6 Solに渡して低コストの紙芝居プロトタイプを作り、構成確認後にそのプロトタイプ構成を元にSeedance2へ変換するワークフローで制作する  \nCodex 5.6 Solは「間（ポーズ）」など時間指定を解釈しやすいので、過剰に入れていた間の指定はSeedance2変換前に適正量へ修正してテンポの間延びを防ぐ",
+  "translations": {
+    "en": {
+      "content": "Create a low-cost paper-theater prototype by passing the character assets and scenario to Codex 5.6 Sol, then, after confirming the structure, convert that prototype structure into Seedance2 for production.\n\nCodex 5.6 Sol seems to interpret time-based instructions such as “pauses” more easily, so any pause instructions that were previously overused should be adjusted to an appropriate amount before converting to Seedance2, to prevent the pacing from dragging.\n\n--- THREAD CONTINUATION ---\n[Thread 1] I feel like 5.6 Sol has a sense of time.\nThe babysitting scene drags on quite a bit, but that’s the result of Sol correctly interpreting the pause instructions.\nUntil now, things hadn’t gone as specified, so I had been giving slightly excessive instructions. I think the scene ended up dragging because I had it generated without revising those instructions."
+    },
+    "es": {
+      "content": "Pasar los materiales de los personajes y el guion a Codex 5.6 Sol para crear un prototipo tipo kamishibai de bajo costo, y luego, tras verificar la estructura, convertir ese prototipo a Seedance2 para producirlo mediante ese flujo de trabajo.  \nComo Codex 5.6 Sol interpreta con facilidad las indicaciones temporales, como los “pausas” (pauses), conviene ajustar antes de la conversión a Seedance2 cualquier especificación de pausas que se haya incluido en exceso, para evitar que el ritmo se alargue demasiado.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Tengo la sensación de que 5.6 Sol sí tiene una noción del tiempo.  \nLa escena de “quedarse cuidando la casa” se alarga muchísimo, pero eso es el resultado de que Sol interpretó correctamente la indicación de pausa.  \nHasta ahora, como no se seguía exactamente lo indicado, tendíamos a especificar las pausas de forma algo excesiva. Creo que, al hacerla sin corregir esa indicación, terminó alargándose demasiado.\n---"
+    },
+    "fr": {
+      "content": "Transmettre les éléments de personnage et le scénario à Codex 5.6 Sol pour créer un prototype low-cost en style kamishibai, puis, après vérification de la structure, convertir ce prototype en Seedance2 pour la production.\n\nCodex 5.6 Sol interprète facilement les indications temporelles comme les « pauses », donc les indications de pause qui avaient été ajoutées de manière excessive sont corrigées à une quantité appropriée avant la conversion vers Seedance2 afin d’éviter que le rythme ne s’étire.\n\n--- THREAD CONTINUATION ---\n[Thread 1] J’ai l’impression que 5.6 Sol a une notion du temps.\nLa scène de la garde à la maison est extrêmement étirée, mais c’est le résultat du fait que Sol a correctement interprété les indications de pause.\nJusqu’à présent, comme les choses ne se déroulaient pas comme spécifié, j’avais tendance à surspécifier un peu. Je pense que le fait de l’avoir fait produire sans corriger ces indications a entraîné cet étirement du rythme.\n---"
+    },
+    "ko": {
+      "content": "캐릭터 소재와 시나리오를 Codex 5.6 Sol에 넘겨 저비용의 그림책식 프로토타입을 만들고, 구성 확인 후 그 프로토타입 구성을 바탕으로 Seedance2로 변환하는 워크플로로 제작한다  \nCodex 5.6 Sol은 「간(포즈)」 같은 시간 지정도 비교적 잘 해석하므로, 과도하게 넣어두었던 간의 지정은 Seedance2 변환 전에 적정량으로 수정해 템포가 늘어지는 것을 방지한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 5.6 Sol에는 시간의 개념이 있는 것 같다.\n집을 지키는 장면은 엄청 늘어지는데, 이는 간의 지정이 들어가 있는 것을 Sol이 제대로 해석한 결과다.\n지금까지는 지정한 대로 잘 되지 않았기 때문에, 다소 과하게 지정해 두곤 했다. 그 지정을 수정하지 않은 채로 만들게 한 결과, 늘어지게 된 것이라고 생각한다.\n---"
+    },
+    "pt": {
+      "content": "Passar o material dos personagens e o cenário para o Codex 5.6 Sol para criar um protótipo barato em estilo de papelaria, e depois, após confirmar a estrutura, converter esse protótipo para o Seedance2 com base na composição resultante.\n\nComo o Codex 5.6 Sol interpreta com facilidade especificações de tempo, como “pausa” (pause), as indicações de pausa que estavam excessivas devem ser ajustadas para uma quantidade adequada antes da conversão para o Seedance2, evitando que o ritmo fique arrastado.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Tenho a impressão de que o 5.6 Sol tem noção de tempo.\nA cena de ficar de guarda ficou excessivamente arrastada, mas isso foi o resultado de o Sol interpretar corretamente a indicação de pausa.\nAté agora, como não seguia as instruções exatamente como especificado, eu vinha fazendo as indicações um pouco mais exageradas. Acho que, ao deixar isso sem corrigir e mandar gerar, o resultado acabou ficando arrastado.\n---"
+    },
+    "zh": {
+      "content": "将角色素材和 сценарий 交给 Codex 5.6 Sol，先制作一个低成本的纸芝居原型，在确认构成后，再基于该原型结构转换到 Seedance2 的工作流进行制作。  \nCodex 5.6 Sol 对“间隔（pause）”等时间指定更容易理解，因此在转换到 Seedance2 之前，应将原本过度加入的间隔指定调整到合适的量，以避免节奏拖沓。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 我感觉 5.6 Sol 里有“时间”的概念。  \n留守番的场景拖得特别长，但这是因为它正确解读了加入的间隔指定后产生的结果。  \n以前因为无法按指定执行，所以我会稍微偏多地加入这类指定。结果在没有修正这些指定的情况下直接让它生成，才导致了节奏拖沓。"
+    }
+  }
+}
