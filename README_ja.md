@@ -8231,4 +8231,4 @@ Use MiniMax H3 open weights via the ComfyUI nodes to reduce per-generation cost 
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-08-04T14:15:07.569Z
+🤖 この README は自動生成されています。最終更新： 2026-08-04T17:49:51.097Z
