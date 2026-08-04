@@ -4,7 +4,7 @@
   "content": "Use OpenArt’s SmartShot to generate a full UGC ad shot plan from a single sentence prompt, then render the planned shots with Seedance 2.0.  \nRun a two-model workflow where GPT Image 2 creates the production/shot plan (camera angles + storyboard) and Seedance 2.0 renders the video from that plan.  \nPreview the SmartShot shot plan (character, environment, storyboard, lighting) before generating any frames, and iterate the plan first.  \nUpload an AI influencer reference plus a product image to produce a fully branded UGC ad with a consistent influencer.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079309480198615040/img/RoBS_t3rRYpzZGKh.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2079309480198615040/vid/avc1/1920x1080/-orQFTgu_eKZcqQL.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082918149775650862.mp4",
   "sourceLink": "https://x.com/Mavernxbt/status/2082918149775650862",
   "sourcePublishedAt": "2026-07-30",
   "author": {

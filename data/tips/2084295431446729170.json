@@ -1,0 +1,42 @@
+{
+  "id": "2084295431446729170",
+  "title": "用MiniMax H3 的 INT8 量化版本在 ComfyUI 本地生成视频片段以降低 Seedance 等闭源视频模型 API 成本（示例硬件：RTX…",
+  "content": "用MiniMax H3 的 INT8 量化版本在 ComfyUI 本地生成视频片段以降低 Seedance 等闭源视频模型 API 成本（示例硬件：RTX 5070 Ti + 32GB 内存，约 170s 出片）  \n先写一段剧情并在脑海中参考经典科幻电影的镜头语言（镜头如何表达情绪），再把这些镜头与情绪表达细节描述给 ChatGPT 5.6 让其生成/优化提示词",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084295418717065218/img/Co5qF7pqBGCImS7r.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084295431446729170.mp4",
+  "sourceLink": "https://x.com/UPedrolli46470/status/2084295431446729170",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Jewelry Bonney's Nika",
+    "link": "https://x.com/UPedrolli46470"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "用MiniMax H3 的 INT8 量化版本在 ComfyUI 本地生成视频片段以降低 Seedance 等闭源视频模型 API 成本（示例硬件：RTX 5070 Ti + 32GB 内存，约 170s 出片）  \n先写一段剧情并在脑海中参考经典科幻电影的镜头语言（镜头如何表达情绪），再把这些镜头与情绪表达细节描述给 ChatGPT 5.6 让其生成/优化提示词",
+  "translations": {
+    "en": {
+      "content": "Use the INT8 quantized version of MiniMax H3 in ComfyUI to generate video clips locally, reducing API costs for closed-source video models like Seedance (example hardware: RTX 5070 Ti + 32GB RAM, about 170 seconds to render a clip).  \nFirst, write a short story and mentally reference the cinematography of classic sci-fi films (how shots convey emotion), then describe these shots and emotional details to ChatGPT 5.6 so it can generate/optimize the prompt."
+    },
+    "es": {
+      "content": "Genera clips de video localmente en ComfyUI con la versión cuantizada INT8 de MiniMax H3 para reducir los costos de API de modelos de video cerrados como Seedance (hardware de ejemplo: RTX 5070 Ti + 32 GB de memoria, unos 170 s por clip).  \nPrimero escribe una breve trama y, en tu mente, toma como referencia el lenguaje visual de las películas clásicas de ciencia ficción (cómo el encuadre expresa la emoción); luego describe estos planos y los detalles de la expresión emocional a ChatGPT 5.6 para que genere/optimice los prompts."
+    },
+    "fr": {
+      "content": "Générez localement des clips vidéo dans ComfyUI avec la version quantifiée INT8 de MiniMax H3 afin de réduire les coûts des API de modèles vidéo fermés comme Seedance (matériel d’exemple : RTX 5070 Ti + 32 Go de mémoire, environ 170 s pour obtenir une vidéo).  \nCommencez par écrire une courte intrigue, puis inspirez-vous mentalement du langage visuel des films de science-fiction classiques (comment les plans expriment les émotions), avant de décrire ces plans et les détails d’expression émotionnelle à ChatGPT 5.6 afin qu’il génère/optimise les prompts."
+    },
+    "ja": {
+      "content": "MiniMax H3 の INT8 量子化版を使って、ComfyUI 上でローカルに動画クリップを生成し、Seedance などのクローズドソース動画モデルの API コストを抑える（例のハードウェア：RTX 5070 Ti + 32GB メモリ、約170秒で書き出し）  \nまずストーリーを1段落書き、頭の中でクラシックなSF映画のショット言語（ショットがどのように感情を表現するか）を参照し、そのうえで、こうしたショットや感情表現のディテールを ChatGPT 5.6 に伝えて、prompt の生成／最適化を行わせる"
+    },
+    "ko": {
+      "content": "MiniMax H3의 INT8 양자화 버전을 사용해 ComfyUI에서 로컬로 비디오 클립을 생성하여 Seedance 같은 폐쇄형 비디오 모델 API 비용을 줄이기  \n(예시 하드웨어: RTX 5070 Ti + 32GB 메모리, 약 170초에 결과물 생성)\n\n먼저 짧은 스토리를 쓰고, 머릿속에서 클래식 SF 영화의 카메라 언어를 참고한다(샷이 감정을 어떻게 표현하는지). 그런 다음 이러한 샷과 감정 표현의 세부 사항을 ChatGPT 5.6에 설명해 prompt를 생성/최적화하게 한다"
+    },
+    "pt": {
+      "content": "Use a versão quantizada INT8 do MiniMax H3 no ComfyUI para gerar localmente clipes de vídeo e reduzir os custos de API de modelos de vídeo fechados como o Seedance (hardware de exemplo: RTX 5070 Ti + 32 GB de memória, cerca de 170 s para renderizar um vídeo).  \nPrimeiro, escreva uma breve trama e, em seguida, tenha em mente a linguagem de câmera de filmes clássicos de ficção científica (como os enquadramentos expressam emoção); depois, descreva esses enquadramentos e os detalhes da expressão emocional para o ChatGPT 5.6, para que ele gere/otimize os prompts."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2084221889614946503",
+  "title": "Use a Nano Banana Pro → Seedance 2.0 pipeline to generate a full 15-second…",
+  "content": "Use a Nano Banana Pro → Seedance 2.0 pipeline to generate a full 15-second “street interview” clip in ~60 seconds at about $0.50 per interview.\n\nIn Seedance 2.0, structure the output as a 15-second “stopped on the street” Q&A: AI interviewer asks one question and the AI subject answers, aiming for an organic, real-looking street setting.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084221857859858432/img/ZRlasGhTq7jNOFM0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084221889614946503.mp4",
+  "sourceLink": "https://x.com/xaiofm/status/2084221889614946503",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "xaiofm",
+    "link": "https://x.com/xaiofm"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a Nano Banana Pro → Seedance 2.0 pipeline to generate a full 15-second “street interview” clip in ~60 seconds at about $0.50 per interview.\n\nIn Seedance 2.0, structure the output as a 15-second “stopped on the street” Q&A: AI interviewer asks one question and the AI subject answers, aiming for an organic, real-looking street setting.",
+  "translations": {
+    "es": {
+      "content": "Usa un pipeline Nano Banana Pro → Seedance 2.0 para generar un clip completo de “street interview” de 15 segundos en ~60 segundos por unos $0.50 por entrevista.\n\nEn Seedance 2.0, estructura el resultado como un Q&A de 15 segundos “detenido en la calle”: el entrevistador de IA hace una pregunta y el sujeto de IA responde, buscando un entorno callejero orgánico y realista."
+    },
+    "fr": {
+      "content": "Utilisez un pipeline Nano Banana Pro → Seedance 2.0 pour générer un clip complet de 15 secondes de type « street interview » en environ 60 secondes, pour environ 0,50 $ par interview.\n\nDans Seedance 2.0, structurez le résultat comme un Q&R de 15 secondes « arrêté dans la rue » : l’intervieweur IA pose une question et le sujet IA y répond, en visant un décor de rue organique et réaliste."
+    },
+    "ja": {
+      "content": "Nano Banana Pro → Seedance 2.0 のパイプラインを使って、1回のインタビューあたり約 $0.50、約60秒で、15秒の「street interview」クリップ全体を生成します。\n\nSeedance 2.0 では、出力を15秒の「stopped on the street」Q&Aとして構成します。AI interviewer が1つ質問し、AI subject がそれに答える形で、自然で本物らしい street setting を目指します。"
+    },
+    "ko": {
+      "content": "Nano Banana Pro → Seedance 2.0 파이프라인을 사용해, 인터뷰당 약 $0.50의 비용으로 약 60초 만에 전체 15초 분량의 “street interview” 클립을 생성하세요.\n\nSeedance 2.0에서는 출력을 15초짜리 “stopped on the street” Q&A 형식으로 구성하세요: AI 인터뷰어가 질문 하나를 하고, AI 피사체가 답변하며, 자연스럽고 실제 같은 거리 환경을 목표로 합니다."
+    },
+    "zh": {
+      "content": "使用 Nano Banana Pro → Seedance 2.0 流程，在大约 60 秒内、每次采访成本约 0.50 美元，生成一段完整的 15 秒“街头采访”视频片段。\n\n在 Seedance 2.0 中，将输出结构设定为 15 秒的“街头拦访”问答：AI 采访者提出一个问题，AI 受访者作答，目标是呈现出自然、真实感强的街头场景。"
+    }
+  }
+}

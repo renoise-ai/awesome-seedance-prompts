@@ -1,0 +1,42 @@
+{
+  "id": "2084387277254644162",
+  "title": "Use a Blender blockout as your starting scene and run it through Seedance 2.0…",
+  "content": "Use a Blender blockout as your starting scene and run it through Seedance 2.0 to generate video from the layout.\n\nUse MiniMax H3 open weights via the ComfyUI nodes to reduce per-generation cost and enable more experimentation/iteration.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084387243192713216/img/fqx-7tvkXUMHrqLm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084387277254644162.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2084387277254644162",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a Blender blockout as your starting scene and run it through Seedance 2.0 to generate video from the layout.\n\nUse MiniMax H3 open weights via the ComfyUI nodes to reduce per-generation cost and enable more experimentation/iteration.",
+  "translations": {
+    "es": {
+      "content": "Usa un blockout de Blender como escena de partida y pásalo por Seedance 2.0 para generar video a partir del layout.\n\nUsa los open weights de MiniMax H3 a través de los nodos de ComfyUI para reducir el costo por generación y permitir más experimentación e iteración.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/tK3kgSnQ2y\n---"
+    },
+    "fr": {
+      "content": "Utilisez un blockout Blender comme scène de départ et passez-le dans Seedance 2.0 pour générer une vidéo à partir du layout.\n\nUtilisez les poids ouverts MiniMax H3 via les nœuds ComfyUI afin de réduire le coût par génération et de permettre davantage d’expérimentation et d’itérations.\n\n--- SUITE DU FIL ---\n[Thread 1] https://t.co/tK3kgSnQ2y\n---"
+    },
+    "ja": {
+      "content": "Blenderのブロックアウトを出発点のシーンとして使い、Seedance 2.0に通してレイアウトから動画を生成します。\n\nComfyUIノード経由でMiniMax H3のオープンウェイトを使うことで、生成ごとのコストを抑え、より多くの試行錯誤や反復を可能にします。\n\n--- スレッドの続き ---\n[Thread 1] https://t.co/tK3kgSnQ2y\n---"
+    },
+    "ko": {
+      "content": "Blender 블록아웃을 시작 장면으로 사용하고, 이를 Seedance 2.0에 넣어 레이아웃을 바탕으로 비디오를 생성하세요.\n\nMiniMax H3 오픈 웨이트를 ComfyUI 노드를 통해 사용하면 생성당 비용을 줄이고 더 많은 실험과 반복 작업을 할 수 있습니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/tK3kgSnQ2y\n---"
+    },
+    "pt": {
+      "content": "Use um blockout do Blender como cena inicial e passe-o pelo Seedance 2.0 para gerar vídeo a partir do layout.\n\nUse os open weights do MiniMax H3 via os nós do ComfyUI para reduzir o custo por geração e permitir mais experimentação/iterações.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/tK3kgSnQ2y\n---"
+    },
+    "zh": {
+      "content": "以 Blender 的 blockout 作为起始场景，并通过 Seedance 2.0 将布局生成视频。\n\n通过 ComfyUI 节点使用 MiniMax H3 开源权重，以降低每次生成的成本，并支持更多实验与迭代。\n\n--- 线程续篇 ---\n[Thread 1] https://t.co/tK3kgSnQ2y\n---"
+    }
+  }
+}

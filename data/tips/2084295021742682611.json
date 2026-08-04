@@ -1,0 +1,41 @@
+{
+  "id": "2084295021742682611",
+  "title": "Structure Seedance prompts with explicit timecoded beats (e.g., [0:00-0:02]…",
+  "content": "Structure Seedance prompts with explicit timecoded beats (e.g., [0:00-0:02], [0:02-0:04]) and describe the exact action, camera framing, and SFX for each segment to control pacing and shot changes.\n\nAdd hard constraints in a CRITICAL section (e.g., “Ball never touches the ground once,” “no long empty air time,” “realistic spin/arc/physics”) to force continuous, physically consistent motion.\n\nSpecify “start state” instructions like “Already mid air juggling from frame one” to prevent the model from adding setup time before the main action.\n\nDirect camera work per beat by listing shot types and angles (close-up contacts, wide full body, side profile, low angle, overhead) to guide composition and coverage.\n\nInclude an AUDIO block that defines music genre, when it starts (“from frame one”), continuity (“never stopping”), edit rhythm (“every cut synced to the beat”), and per-action Foley (“crisp ball contact sound on every touch,” different sounds by body part) to steer sound design.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TechieBySA/status/2084295021742682611",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "TechieSA",
+    "link": "https://x.com/TechieBySA"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Structure Seedance prompts with explicit timecoded beats (e.g., [0:00-0:02], [0:02-0:04]) and describe the exact action, camera framing, and SFX for each segment to control pacing and shot changes.\n\nAdd hard constraints in a CRITICAL section (e.g., “Ball never touches the ground once,” “no long empty air time,” “realistic spin/arc/physics”) to force continuous, physically consistent motion.\n\nSpecify “start state” instructions like “Already mid air juggling from frame one” to prevent the model from adding setup time before the main action.\n\nDirect camera work per beat by listing shot types and angles (close-up contacts, wide full body, side profile, low angle, overhead) to guide composition and coverage.\n\nInclude an AUDIO block that defines music genre, when it starts (“from frame one”), continuity (“never stopping”), edit rhythm (“every cut synced to the beat”), and per-action Foley (“crisp ball contact sound on every touch,” different sounds by body part) to steer sound design.",
+  "translations": {
+    "es": {
+      "content": "Estructura los prompts de Seedance con beats explícitos marcados por tiempo (por ejemplo, [0:00-0:02], [0:02-0:04]) y describe la acción exacta, el encuadre de cámara y los SFX de cada segmento para controlar el ritmo y los cambios de plano.\n\nAñade restricciones estrictas en una sección CRITICAL (por ejemplo, “Ball never touches the ground once,” “no long empty air time,” “realistic spin/arc/physics”) para forzar un movimiento continuo y físicamente consistente.\n\nEspecifica instrucciones de “start state” como “Already mid air juggling from frame one” para evitar que el modelo añada tiempo de preparación antes de la acción principal.\n\nDirige el trabajo de cámara por beat enumerando tipos de plano y ángulos (close-up contacts, wide full body, side profile, low angle, overhead) para guiar la composición y la cobertura.\n\nIncluye un bloque AUDIO que defina el género musical, cuándo empieza (“from frame one”), la continuidad (“never stopping”), el ritmo de edición (“every cut synced to the beat”) y el Foley por acción (“crisp ball contact sound on every touch,” different sounds by body part) para orientar el diseño sonoro."
+    },
+    "fr": {
+      "content": "Structurez les prompts Seedance avec des beats explicitement horodatés (par ex. [0:00-0:02], [0:02-0:04]) et décrivez l’action exacte, le cadrage caméra et les SFX pour chaque segment afin de contrôler le rythme et les changements de plan.\n\nAjoutez des contraintes strictes dans une section CRITICAL (par ex. « Ball never touches the ground once », « no long empty air time », « realistic spin/arc/physics ») pour imposer un mouvement continu et physiquement cohérent.\n\nPrécisez des instructions de « start state » comme « Already mid air juggling from frame one » pour empêcher le modèle d’ajouter du temps de mise en place avant l’action principale.\n\nDirigez le travail caméra par beat en listant les types de plans et les angles (close-up contacts, wide full body, side profile, low angle, overhead) pour guider la composition et la couverture.\n\nIncluez un bloc AUDIO qui définit le genre musical, le moment où il commence (« from frame one »), la continuité (« never stopping »), le rythme du montage (« every cut synced to the beat »), et le Foley par action (« crisp ball contact sound on every touch », différents sons selon la partie du corps) afin d’orienter le sound design."
+    },
+    "ja": {
+      "content": "Seedance の prompt は、明示的なタイムコード付きのビート（例: [0:00-0:02]、[0:02-0:04]）で構成し、各セグメントごとに正確なアクション、カメラのフレーミング、SFX を記述して、テンポとショットの切り替えをコントロールします。\n\nCRITICAL セクションにはハード制約を追加し（例: “Ball never touches the ground once,” “no long empty air time,” “realistic spin/arc/physics”）、連続的で物理的に一貫した動きを強制します。\n\n“start state” の指示として “Already mid air juggling from frame one” のような文を指定し、メインアクションの前にモデルが準備時間を入れないようにします。\n\n各ビートごとにショットタイプとアングル（close-up contacts, wide full body, side profile, low angle, overhead）を列挙して、構図と画作りを導くことで、カメラワークを直接指定します。\n\nAUDIO ブロックを含め、音楽ジャンル、開始タイミング（“from frame one”）、継続性（“never stopping”）、編集リズム（“every cut synced to the beat”）、およびアクションごとの Foley（“crisp ball contact sound on every touch,” body part ごとに異なる音）を定義して、サウンドデザインを誘導します。"
+    },
+    "ko": {
+      "content": "Seedance prompts는 명시적인 타임코드 비트([0:00-0:02], [0:02-0:04] 등)로 구성하고, 각 구간마다 정확한 동작, 카메라 프레이밍, SFX를 설명해 페이싱과 샷 전환을 제어하세요.\n\nCRITICAL 섹션에는 강한 제약 조건을 추가하세요(예: “Ball never touches the ground once”, “no long empty air time”, “realistic spin/arc/physics”) — 이를 통해 동작이 끊기지 않고 물리적으로 일관되게 이어지도록 강제할 수 있습니다.\n\n“start state” 지시사항도 명시하세요. 예: “Already mid air juggling from frame one”처럼 적어 모델이 메인 액션 전에 준비 동작 시간을 추가하지 않도록 합니다.\n\n각 비트마다 샷 타입과 앵글을 나열해 카메라 워크를 직접 지정하세요(클로즈업 접촉 장면, 와이드 전신 샷, 측면 프로필, 로우 앵글, 오버헤드 등). 이를 통해 구도와 커버리지를 유도할 수 있습니다.\n\nAUDIO 블록에는 음악 장르, 시작 시점(“from frame one”), 연속성(“never stopping”), 편집 리듬(“every cut synced to the beat”), 그리고 액션별 Foley(“crisp ball contact sound on every touch”, 신체 부위별로 다른 소리)를 정의해 사운드 디자인을 유도하세요."
+    },
+    "pt": {
+      "content": "Estruture prompts do Seedance com beats explícitos com marcação de tempo (por exemplo, [0:00-0:02], [0:02-0:04]) e descreva a ação exata, o enquadramento da câmera e os SFX de cada segmento para controlar o ritmo e as mudanças de plano.\n\nAdicione restrições rígidas em uma seção CRITICAL (por exemplo, “Ball never touches the ground once,” “no long empty air time,” “realistic spin/arc/physics”) para forçar um movimento contínuo e fisicamente consistente.\n\nEspecifique instruções de “start state” como “Already mid air juggling from frame one” para impedir que o modelo adicione tempo de preparação antes da ação principal.\n\nDirecione o trabalho de câmera por beat listando tipos de plano e ângulos (close-up contacts, wide full body, side profile, low angle, overhead) para orientar a composição e a cobertura.\n\nInclua um bloco AUDIO que defina o gênero musical, quando ele começa (“from frame one”), a continuidade (“never stopping”), o ritmo da edição (“every cut synced to the beat”) e o Foley por ação (“crisp ball contact sound on every touch,” different sounds by body part) para orientar o design de som."
+    },
+    "zh": {
+      "content": "使用带有明确时间码节拍的结构来编写 Seedance prompts（例如，[0:00-0:02]、[0:02-0:04]），并为每个片段描述精确的动作、镜头构图和 SFX，以控制节奏和镜头切换。\n\n在 CRITICAL 部分加入硬性约束（例如，“Ball never touches the ground once,” “no long empty air time,” “realistic spin/arc/physics”），以强制实现连续、物理一致的运动。\n\n指定“start state”指令，例如“Already mid air juggling from frame one”，以防止模型在主要动作开始前加入准备时间。\n\n通过按节拍列出镜头类型和角度来直接指导 camera work（特写接触、全身远景、侧面轮廓、低角度、俯拍），以引导构图和画面覆盖。\n\n包含一个 AUDIO 块，定义音乐类型、开始时间（“from frame one”）、连续性（“never stopping”）、剪辑节奏（“every cut synced to the beat”），以及每个动作对应的 Foley（“crisp ball contact sound on every touch,” 不同身体部位对应不同声音），以指导 sound design。"
+    }
+  }
+}

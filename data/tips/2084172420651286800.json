@@ -1,0 +1,41 @@
+{
+  "id": "2084172420651286800",
+  "title": "Use Higgsfield MCP to connect Claude to Seedance 2.0 (and other models) by…",
+  "content": "Use Higgsfield MCP to connect Claude to Seedance 2.0 (and other models) by running: claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp  \nGenerate UGC-style talking-head videos in Seedance 2.0 with native audio-video sync by using its dual-branch diffusion mode that generates audio and video simultaneously  \nUse Soul ID in Seedance 2.0 to keep the same character identity consistent across multiple video variants  \nConvert high-performing static creatives into “video” assets by adding subtle camera movement, depth parallax, and ambient motion to trigger video classification for higher organic reach  \nGenerate creatives in batches (instead of one-by-one) to be ~40% faster and let Claude maintain context across the entire batch",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/zackpaid/status/2084172420651286800",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "zack",
+    "link": "https://x.com/zackpaid"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Higgsfield MCP to connect Claude to Seedance 2.0 (and other models) by running: claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp  \nGenerate UGC-style talking-head videos in Seedance 2.0 with native audio-video sync by using its dual-branch diffusion mode that generates audio and video simultaneously  \nUse Soul ID in Seedance 2.0 to keep the same character identity consistent across multiple video variants  \nConvert high-performing static creatives into “video” assets by adding subtle camera movement, depth parallax, and ambient motion to trigger video classification for higher organic reach  \nGenerate creatives in batches (instead of one-by-one) to be ~40% faster and let Claude maintain context across the entire batch",
+  "translations": {
+    "es": {
+      "content": "Usa Higgsfield MCP para conectar Claude a Seedance 2.0 (y otros modelos) ejecutando: claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp  \nGenera videos de estilo UGC con talking head en Seedance 2.0 con sincronización nativa de audio y video usando su modo de difusión de doble rama, que genera audio y video simultáneamente  \nUsa Soul ID en Seedance 2.0 para mantener la misma identidad del personaje consistente a lo largo de múltiples variantes de video  \nConvierte creatividades estáticas de alto rendimiento en assets de “video” añadiendo un movimiento sutil de cámara, paralaje de profundidad y movimiento ambiental para activar la clasificación como video y lograr un mayor alcance orgánico  \nGenera creatividades por lotes (en lugar de una por una) para ser ~40% más rápido y permitir que Claude mantenga el contexto durante todo el lote"
+    },
+    "fr": {
+      "content": "Utilisez Higgsfield MCP pour connecter Claude à Seedance 2.0 (et à d’autres modèles) en exécutant : claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp  \nGénérez des vidéos de type UGC en talking-head dans Seedance 2.0 avec une synchronisation native audio-vidéo grâce à son mode de diffusion à double branche, qui génère l’audio et la vidéo simultanément  \nUtilisez Soul ID dans Seedance 2.0 pour conserver la même identité de personnage de manière cohérente à travers plusieurs variantes vidéo  \nTransformez des créations statiques performantes en assets « vidéo » en ajoutant un léger mouvement de caméra, une parallaxe de profondeur et un mouvement ambiant afin de déclencher la classification vidéo pour une portée organique plus élevée  \nGénérez des créations par lots (au lieu de les produire une par une) pour être environ 40 % plus rapide et permettre à Claude de conserver le contexte sur l’ensemble du lot"
+    },
+    "ja": {
+      "content": "Higgsfield MCP を使って Claude を Seedance 2.0（および他のモデル）に接続するには、次を実行します: claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp  \nSeedance 2.0 のデュアルブランチ拡散モードを使って、音声と映像を同時に生成し、ネイティブな音声・映像同期を備えた UGC スタイルのトーキングヘッド動画を生成します  \nSeedance 2.0 の Soul ID を使って、複数の video バリエーションにわたって同じキャラクターのアイデンティティを一貫して維持します  \n高パフォーマンスの静止画クリエイティブに、さりげないカメラ移動、奥行きのパララックス、環境モーションを加えて「video」アセットに変換し、video 分類を促してオーガニックリーチを高めます  \nクリエイティブを 1 件ずつではなくバッチで生成することで、約 40% 高速化し、Claude がバッチ全体を通してコンテキストを維持できるようにします"
+    },
+    "ko": {
+      "content": "Higgsfield MCP를 사용해 Claude를 Seedance 2.0(및 다른 모델들)과 연결하려면 다음을 실행하세요: claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp  \nSeedance 2.0의 dual-branch diffusion 모드를 사용해 오디오와 비디오를 동시에 생성함으로써, native audio-video sync가 적용된 UGC 스타일 talking-head 비디오를 생성하세요  \nSeedance 2.0의 Soul ID를 사용해 여러 비디오 변형 전반에서 동일한 캐릭터 아이덴티티를 일관되게 유지하세요  \n미세한 camera movement, depth parallax, ambient motion을 추가해 정적인 고성과 크리에이티브를 “video” 에셋으로 전환하고, video classification을 유도해 더 높은 organic reach를 얻으세요  \n크리에이티브를 하나씩이 아니라 batch로 생성해 약 40% 더 빠르게 처리하고, Claude가 전체 batch에 걸쳐 context를 유지하도록 하세요"
+    },
+    "pt": {
+      "content": "Use o Higgsfield MCP para conectar o Claude ao Seedance 2.0 (e a outros modelos) executando: claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp  \nGere vídeos de talking head em estilo UGC no Seedance 2.0 com sincronização nativa de áudio e vídeo usando seu modo de difusão de dupla ramificação, que gera áudio e vídeo simultaneamente  \nUse o Soul ID no Seedance 2.0 para manter a mesma identidade de personagem consistente em várias variações de vídeo  \nConverta criativos estáticos de alto desempenho em assets de “vídeo” adicionando movimento sutil de câmera, parallax de profundidade e movimento ambiente para acionar a classificação como vídeo e obter maior alcance orgânico  \nGere criativos em lotes (em vez de um por um) para ser ~40% mais rápido e permitir que o Claude mantenha o contexto ao longo de todo o lote"
+    },
+    "zh": {
+      "content": "使用 Higgsfield MCP 通过以下命令将 Claude 连接到 Seedance 2.0（以及其他模型）：claude mcp add --transport http --scope user higgsfield https://mcp.higgsfield.ai/mcp  \n在 Seedance 2.0 中利用其双分支扩散模式生成 UGC 风格的口播视频，实现原生音画同步；该模式可同时生成音频和视频  \n在 Seedance 2.0 中使用 Soul ID，确保同一角色身份在多个视频变体中保持一致  \n通过添加细微的镜头运动、景深视差和环境动态，将高表现的静态创意转化为“视频”素材，以触发视频分类，从而获得更高的自然触达  \n批量生成创意素材（而不是逐个生成），可实现约 40% 的速度提升，并让 Claude 在整个批次中保持上下文一致"
+    }
+  }
+}

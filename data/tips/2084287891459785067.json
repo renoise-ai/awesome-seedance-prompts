@@ -1,0 +1,42 @@
+{
+  "id": "2084287891459785067",
+  "title": "Start with an existing mascot/character reference and animate from that…",
+  "content": "Start with an existing mascot/character reference and animate from that reference to keep the design consistent  \nUse Fixed camera, seamless single shot and explicitly say No camera movement to prevent camera drift  \nDescribe a loop by having the character return to the exact original starting pose to create a perfect loop  \nAdd micro-animation directives (gentle body bounce, blinking, slight head movement, follow-through, soft squash-and-stretch) to get a polished playful mascot feel  \nInclude preservation constraints (preserve character design, props, framing, background, proportions, flat vector artwork) to maintain style consistency  \nAdd negative constraints (no morphing, extra limbs, object changes, text, or scene changes) to reduce common generation artifacts",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/adrianabelarde_/status/2084287891459785067",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "adrian (adi)",
+    "link": "https://x.com/adrianabelarde_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Start with an existing mascot/character reference and animate from that reference to keep the design consistent  \nUse Fixed camera, seamless single shot and explicitly say No camera movement to prevent camera drift  \nDescribe a loop by having the character return to the exact original starting pose to create a perfect loop  \nAdd micro-animation directives (gentle body bounce, blinking, slight head movement, follow-through, soft squash-and-stretch) to get a polished playful mascot feel  \nInclude preservation constraints (preserve character design, props, framing, background, proportions, flat vector artwork) to maintain style consistency  \nAdd negative constraints (no morphing, extra limbs, object changes, text, or scene changes) to reduce common generation artifacts",
+  "translations": {
+    "es": {
+      "content": "Comienza con una referencia existente del mascota/personaje y anima a partir de esa referencia para mantener el diseño consistente  \nUsa Fixed camera, seamless single shot y di explícitamente No camera movement para evitar el drift de la cámara  \nDescribe un loop haciendo que el personaje vuelva exactamente a la pose inicial original para crear un loop perfecto  \nAñade directrices de microanimación (suave rebote del cuerpo, parpadeo, ligero movimiento de cabeza, follow-through, soft squash-and-stretch) para lograr una sensación de mascota pulida y juguetona  \nIncluye restricciones de preservación (preserve character design, props, framing, background, proportions, flat vector artwork) para mantener la coherencia del estilo  \nAñade restricciones negativas (no morphing, extra limbs, object changes, text, or scene changes) para reducir los artefactos comunes de generación"
+    },
+    "fr": {
+      "content": "Commencez avec une référence de mascotte/personnage existante et animez à partir de cette référence afin de conserver la cohérence du design  \nUtilisez une caméra fixe, un plan unique fluide et précisez explicitement No camera movement pour éviter toute dérive de la caméra  \nDécrivez une boucle en faisant revenir le personnage exactement à la pose de départ originale afin de créer une boucle parfaite  \nAjoutez des directives de micro-animation (léger rebond du corps, clignement des yeux, léger mouvement de la tête, follow-through, léger squash-and-stretch) pour obtenir une mascotte soignée et ludique  \nIncluez des contraintes de préservation (preserve character design, props, framing, background, proportions, flat vector artwork) afin de maintenir la cohérence du style  \nAjoutez des contraintes négatives (no morphing, extra limbs, object changes, text, or scene changes) pour réduire les artefacts de génération courants"
+    },
+    "ja": {
+      "content": "既存のマスコット／キャラクターの参照画像から始め、その参照を基にアニメーション化して、デザインの一貫性を保つ  \nFixed camera、seamless single shot を使用し、さらに No camera movement と明記して、camera drift を防ぐ  \nキャラクターが最初の正確な開始ポーズに戻るようにループを記述し、完璧なループを作る  \nmicro-animation の指示（gentle body bounce、blinking、slight head movement、follow-through、soft squash-and-stretch）を加えて、洗練された遊び心のあるマスコットらしさを出す  \npreservation constraints（character design、props、framing、background、proportions、flat vector artwork を保持）を含めて、スタイルの一貫性を維持する  \nnegative constraints（no morphing、extra limbs、object changes、text、scene changes）を加えて、よくある生成アーティファクトを減らす"
+    },
+    "ko": {
+      "content": "기존 마스코트/캐릭터 레퍼런스에서 시작해, 그 레퍼런스를 바탕으로 애니메이션을 적용하여 디자인 일관성을 유지하세요  \nFixed camera, seamless single shot를 사용하고, 카메라 드리프트를 방지하기 위해 No camera movement라고 명시적으로 적으세요  \n캐릭터가 정확히 원래의 시작 포즈로 돌아오도록 루프를 설명해 완벽한 루프를 만드세요  \n미세한 애니메이션 지시사항(부드러운 바디 바운스, 눈 깜빡임, 약간의 머리 움직임, follow-through, 부드러운 squash-and-stretch)을 추가해 세련되고 장난기 있는 마스코트 느낌을 구현하세요  \n스타일 일관성을 유지하기 위해 보존 제약 조건(character design, props, framing, background, proportions, flat vector artwork 보존)을 포함하세요  \n일반적인 생성 아티팩트를 줄이기 위해 부정 제약 조건(no morphing, extra limbs, object changes, text, or scene changes)을 추가하세요"
+    },
+    "pt": {
+      "content": "Comece com uma referência existente de mascote/personagem e anime a partir dessa referência para manter o design consistente  \nUse Fixed camera, seamless single shot e diga explicitamente No camera movement para evitar camera drift  \nDescreva um loop fazendo com que o personagem retorne exatamente à pose inicial original para criar um loop perfeito  \nAdicione diretrizes de microanimação (leve balanço do corpo, piscar, leve movimento da cabeça, follow-through, soft squash-and-stretch) para obter uma sensação refinada e divertida de mascote  \nInclua restrições de preservação (preserve character design, props, framing, background, proportions, flat vector artwork) para manter a consistência do estilo  \nAdicione restrições negativas (no morphing, extra limbs, object changes, text, or scene changes) para reduzir artefatos comuns de geração"
+    },
+    "zh": {
+      "content": "从现有的吉祥物/角色参考开始，并基于该参考进行动画制作，以保持设计一致性  \n使用 Fixed camera、seamless single shot，并明确写明 No camera movement，以防止镜头漂移  \n通过让角色回到完全相同的初始起始姿势来描述循环，从而创建完美循环  \n加入微动画指令（轻微身体起伏、眨眼、轻微头部移动、动作延续、柔和的挤压与拉伸），以获得精致、俏皮的吉祥物感觉  \n加入保留约束（preserve character design, props, framing, background, proportions, flat vector artwork），以保持风格一致性  \n加入负面约束（no morphing, extra limbs, object changes, text, or scene changes），以减少常见的生成瑕疵"
+    }
+  }
+}

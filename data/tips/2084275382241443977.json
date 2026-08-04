@@ -1,0 +1,43 @@
+{
+  "id": "2084275382241443977",
+  "title": "Convert your source video into a grid storyboard first, then use that…",
+  "content": "Convert your source video into a grid storyboard first, then use that storyboard as the driving reference for Seedance generation to improve results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084275089776754689/img/CoPRljZJtK87ZuBk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084275382241443977.mp4",
+  "sourceLink": "https://x.com/rainisto/status/2084275382241443977",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Roope Rainisto",
+    "link": "https://x.com/rainisto"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Convert your source video into a grid storyboard first, then use that storyboard as the driving reference for Seedance generation to improve results.",
+  "translations": {
+    "es": {
+      "content": "Convierte primero tu video de origen en un storyboard en cuadrícula, y luego usa ese storyboard como referencia principal para la generación en Seedance para mejorar los resultados."
+    },
+    "fr": {
+      "content": "Convertissez d’abord votre vidéo source en storyboard en grille, puis utilisez ce storyboard comme référence principale pour la génération Seedance afin d’améliorer les résultats."
+    },
+    "ja": {
+      "content": "まず元の動画をグリッド形式のストーリーボードに変換し、そのストーリーボードをSeedance生成の基準となる参照として使用することで、結果を向上させます。"
+    },
+    "ko": {
+      "content": "소스 비디오를 먼저 그리드 스토리보드로 변환한 다음, 그 스토리보드를 Seedance 생성의 핵심 레퍼런스로 사용하면 결과를 개선할 수 있습니다."
+    },
+    "pt": {
+      "content": "Converta seu vídeo de origem em um storyboard em grade primeiro e, em seguida, use esse storyboard como referência principal para a geração no Seedance, a fim de melhorar os resultados."
+    },
+    "zh": {
+      "content": "先将你的源视频转换为网格分镜脚本，然后将该分镜脚本作为 Seedance 生成的驱动参考，以提升效果。"
+    }
+  }
+}

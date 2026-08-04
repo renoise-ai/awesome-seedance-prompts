@@ -1,0 +1,42 @@
+{
+  "id": "2084240845205860715",
+  "title": "Pollo AIのGPT Image 2で元画像（例：ウォータースライダーのスタート地点にいる女性）を生成してから動画化に使う",
+  "content": "Pollo AIのGPT Image 2で元画像（例：ウォータースライダーのスタート地点にいる女性）を生成してから動画化に使う  \n生成した元画像を開始フレームに設定してSeedance 2.0で動画生成する  \nSeedance 2.0のプロンプトに動作指示（例：スライダーを滑走する）と結末指定（例：最後は夢オチ）を入れて15秒動画にする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084240827363233792/img/7atJ1dN6O8k2Unw9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084240845205860715.mp4",
+  "sourceLink": "https://x.com/AizawaAisePhoto/status/2084240845205860715",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "藍沢あいせ Aise｜妄想写真家",
+    "link": "https://x.com/AizawaAisePhoto"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Pollo AIのGPT Image 2で元画像（例：ウォータースライダーのスタート地点にいる女性）を生成してから動画化に使う  \n生成した元画像を開始フレームに設定してSeedance 2.0で動画生成する  \nSeedance 2.0のプロンプトに動作指示（例：スライダーを滑走する）と結末指定（例：最後は夢オチ）を入れて15秒動画にする",
+  "translations": {
+    "en": {
+      "content": "Generate the source image in Pollo AI using GPT Image 2 (for example, a woman at the starting point of a water slide), then use it for video creation.  \nSet the generated source image as the starting frame and generate the video with Seedance 2.0.  \nIn the Seedance 2.0 prompt, include an action instruction (for example, sliding down the slide) and an ending specification (for example, it ends as a dream) to create a 15-second video.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/sFenAEESJx\n---"
+    },
+    "es": {
+      "content": "Genera una imagen original con GPT Image 2 de Pollo AI (por ejemplo, una mujer en el punto de partida de un tobogán acuático) y luego úsala para convertirla en video.  \nConfigura la imagen generada como fotograma inicial y crea el video con Seedance 2.0.  \nIncluye en el prompt de Seedance 2.0 instrucciones de acción (por ejemplo, deslizarse por el tobogán) y una indicación del desenlace (por ejemplo, que al final sea un sueño) para crear un video de 15 segundos.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/sFenAEESJx\n---"
+    },
+    "fr": {
+      "content": "Utiliser GPT Image 2 de Pollo AI pour générer l’image source (par exemple, une femme au point de départ d’un toboggan aquatique), puis l’utiliser pour créer une vidéo  \nDéfinir l’image source générée comme image de départ et générer la vidéo avec Seedance 2.0  \nDans le prompt de Seedance 2.0, ajouter des instructions d’action (par exemple, glisser sur le toboggan) et une indication de fin (par exemple, la fin révèle que tout n’était qu’un rêve) pour obtenir une vidéo de 15 secondes\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] https://t.co/sFenAEESJx\n---"
+    },
+    "ko": {
+      "content": "Pollo AI의 GPT Image 2로 원본 이미지(예: 워터슬라이드 출발 지점에 있는 여성)를 생성한 뒤, 이를 영상화에 사용한다  \n생성한 원본 이미지를 시작 프레임으로 설정하고 Seedance 2.0으로 영상 생성한다  \nSeedance 2.0의 prompt에 동작 지시(예: 슬라이드를 미끄러져 내려간다)와 결말 지정(예: 마지막은 꿈이었다는 설정)을 넣어 15초 영상으로 만든다\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/sFenAEESJx\n---"
+    },
+    "pt": {
+      "content": "Gerar a imagem original com o GPT Image 2 do Pollo AI (por exemplo, uma mulher no ponto de partida de um toboágua) e depois usá-la para transformar em vídeo  \nDefinir a imagem original gerada como quadro inicial e gerar o vídeo com o Seedance 2.0  \nIncluir na prompt do Seedance 2.0 instruções de ação (por exemplo, deslizar pelo toboágua) e a indicação do desfecho (por exemplo, no final, revelar que era um sonho) para criar um vídeo de 15 segundos\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/sFenAEESJx\n---"
+    },
+    "zh": {
+      "content": "先用 Pollo AI 的 GPT Image 2 生成原始图像（例如：站在水滑梯起点的女性），再将其用于视频化  \n将生成的原始图像设为起始帧，并使用 Seedance 2.0 生成视频  \n在 Seedance 2.0 的 prompt 中加入动作指令（例如：滑下滑梯）和结局设定（例如：最后是梦境结尾），生成 15 秒视频\n\n--- 线程续篇 ---\n[Thread 1] https://t.co/sFenAEESJx\n---"
+    }
+  }
+}

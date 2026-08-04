@@ -1,0 +1,42 @@
+{
+  "id": "2084163423018066172",
+  "title": "日本語の会話（音声/台詞）をそのまま使っても問題なく動作する前提で制作する",
+  "content": "日本語の会話（音声/台詞）をそのまま使っても問題なく動作する前提で制作する  \n日本語プロンプトで指示して生成できるので英語に翻訳せず日本語で具体的に書く  \nガチャ任せにせず、動き・演技・画面要素（例：テロップ）まで指示を作り込んでプロンプト精度を上げる  \nテロップを出したい場合はプロンプト内でテロップ表示を明示して生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084163390633848832/img/YScYwlAcQFjRHw6o.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084163423018066172.mp4",
+  "sourceLink": "https://x.com/inyinyarnyang/status/2084163423018066172",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "やんやん◆AIあそび",
+    "link": "https://x.com/inyinyarnyang"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "日本語の会話（音声/台詞）をそのまま使っても問題なく動作する前提で制作する  \n日本語プロンプトで指示して生成できるので英語に翻訳せず日本語で具体的に書く  \nガチャ任せにせず、動き・演技・画面要素（例：テロップ）まで指示を作り込んでプロンプト精度を上げる  \nテロップを出したい場合はプロンプト内でテロップ表示を明示して生成する",
+  "translations": {
+    "en": {
+      "content": "Assume the production will work properly even if Japanese dialogue (audio/lines) is used as-is.  \nSince it can be generated with Japanese prompts, write the instructions specifically in Japanese rather than translating them into English.  \nDon’t leave it up to chance—refine the prompt by specifying movement, acting, and on-screen elements (e.g., captions/subtitles) to improve prompt accuracy.  \nIf you want captions/subtitles to appear, explicitly state in the prompt that they should be displayed."
+    },
+    "es": {
+      "content": "Se debe producir asumiendo que funcionará correctamente incluso si se usa conversación en japonés (audio/diálogo) tal cual.  \nComo se puede generar dando instrucciones en un prompt en japonés, escríbelo de forma concreta en japonés sin traducirlo al inglés.  \nEn lugar de dejarlo al azar, incorpora instrucciones sobre el movimiento, la actuación y los elementos de la pantalla (por ejemplo, los subtítulos superpuestos) para aumentar la precisión del prompt.  \nSi quieres mostrar subtítulos superpuestos, indícalo explícitamente en el prompt para que se generen."
+    },
+    "fr": {
+      "content": "Produire en partant du principe que le japonais parlé dans les dialogues (audio/répliques) peut être utilisé tel quel sans problème.  \nComme la génération peut être guidée par des prompts en japonais, rédigez-les de manière concrète en japonais, sans les traduire en anglais.  \nAu lieu de tout laisser au hasard, améliorez la précision du prompt en détaillant les mouvements, le jeu d’acteur et les éléments à l’écran (par exemple, les sous-titres incrustés).  \nSi vous souhaitez afficher des sous-titres incrustés, indiquez explicitement leur affichage dans le prompt lors de la génération."
+    },
+    "ko": {
+      "content": "일본어 대화(음성/대사)를 그대로 사용해도 문제없이 작동한다는 전제로 제작한다  \n일본어 prompt로 지시해 생성할 수 있으므로 영어로 번역하지 말고 일본어로 구체적으로 작성한다  \n가챠에 맡기지 말고, 움직임·연기·화면 요소(예: 테로프)까지 지시를 세밀하게 구성해 prompt 정확도를 높인다  \n테로프를 넣고 싶다면 prompt 안에서 테로프 표시를 명시해 생성한다"
+    },
+    "pt": {
+      "content": "Produzir assumindo que funciona normalmente mesmo usando diálogos em japonês (áudio/falas) 그대로  \nComo é possível gerar com instruções em prompt japonês, escreva de forma específica em japonês, sem traduzir para o inglês  \nEm vez de deixar por conta da sorte, elabore bem as instruções sobre movimento, atuação e elementos da tela (por exemplo: telop) para aumentar a precisão do prompt  \nSe quiser exibir telop, especifique isso claramente no prompt para gerar com a exibição do telop"
+    },
+    "zh": {
+      "content": "以日语对话（音频/台词）可以直接使用且能正常运作为前提进行制作  \n由于可以用日语 prompt 进行指示并生成，因此不要翻译成英语，而是用日语具体写明  \n不要把结果交给随机性，而是把动作、表演、画面元素（例如字幕）等指示都写细，提高 prompt 的准确度  \n如果想显示字幕，请在 prompt 中明确写出“显示字幕”，再进行生成"
+    }
+  }
+}

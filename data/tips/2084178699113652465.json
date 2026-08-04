@@ -1,0 +1,42 @@
+{
+  "id": "2084178699113652465",
+  "title": "Pollo AIのSeedance 2.0で人物画像1枚を入力にして、撮影なしで横浜観光Vlog風動画を生成する",
+  "content": "Pollo AIのSeedance 2.0で人物画像1枚を入力にして、撮影なしで横浜観光Vlog風動画を生成する  \n4K出力対応のSeedance 2.0を使い、旅行Vlog風の高解像度動画として書き出す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084177621731168256/img/43FdMi53EGDtg6OF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084178699113652465.mp4",
+  "sourceLink": "https://x.com/PolloAIJP/status/2084178699113652465",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Pollo AI 日本公式",
+    "link": "https://x.com/PolloAIJP"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Pollo AIのSeedance 2.0で人物画像1枚を入力にして、撮影なしで横浜観光Vlog風動画を生成する  \n4K出力対応のSeedance 2.0を使い、旅行Vlog風の高解像度動画として書き出す",
+  "translations": {
+    "en": {
+      "content": "Generate a Yokohama sightseeing vlog-style video without filming, using a single portrait image as input in Pollo AI’s Seedance 2.0  \nUse Seedance 2.0 with 4K output support to export it as a high-resolution travel vlog-style video"
+    },
+    "es": {
+      "content": "Genera un video estilo vlog turístico de Yokohama sin necesidad de grabación, usando una sola imagen de una persona como entrada en Seedance 2.0 de Pollo AI  \nUsa Seedance 2.0 con salida 4K para exportarlo como un video de alta resolución con estilo de travel vlog"
+    },
+    "fr": {
+      "content": "Utiliser une seule image de personnage comme entrée dans Seedance 2.0 de Pollo AI pour générer une vidéo de type vlog touristique à Yokohama, sans tournage  \nUtiliser Seedance 2.0, compatible avec une sortie 4K, pour exporter la vidéo en haute résolution au style vlog de voyage"
+    },
+    "ko": {
+      "content": "Pollo AI의 Seedance 2.0에서 인물 이미지 1장을 입력으로 사용해, 촬영 없이 요코하마 관광 Vlog 스타일 영상을 생성하기  \n4K 출력에 대응하는 Seedance 2.0을 사용해, 여행 Vlog 스타일의 고해상도 영상으로 내보내기"
+    },
+    "pt": {
+      "content": "Usando uma única imagem de uma pessoa como entrada no Seedance 2.0 do Pollo AI para gerar, sem filmagem, um vídeo no estilo vlog de turismo em Yokohama  \nUsando o Seedance 2.0 com suporte a saída em 4K, exporte como um vídeo de alta resolução no estilo de vlog de viagem"
+    },
+    "zh": {
+      "content": "使用 Pollo AI 的 Seedance 2.0，仅输入一张人物图片，无需拍摄即可生成横滨观光 Vlog 风格视频  \n使用支持 4K 输出的 Seedance 2.0，将其导出为旅行 Vlog 风格的高分辨率视频"
+    }
+  }
+}

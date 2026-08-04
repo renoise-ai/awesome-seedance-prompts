@@ -1,0 +1,43 @@
+{
+  "id": "2084252806555345161",
+  "title": "Use a green-screen reference video in Seedance 2.0 to maintain the same sniper…",
+  "content": "Use a green-screen reference video in Seedance 2.0 to maintain the same sniper rifle scope view across multiple scenes  \nAppend Replace the green background with the final video to the end of your main prompt when using a green-screen reference video",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084252663059750912/img/IlGLtgOta5eFQAQK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084252806555345161.mp4",
+  "sourceLink": "https://x.com/manushak17/status/2084252806555345161",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Manu",
+    "link": "https://x.com/manushak17"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV"
+  ],
+  "tips": "Use a green-screen reference video in Seedance 2.0 to maintain the same sniper rifle scope view across multiple scenes  \nAppend Replace the green background with the final video to the end of your main prompt when using a green-screen reference video",
+  "translations": {
+    "es": {
+      "content": "Usa un video de referencia con pantalla verde en Seedance 2.0 para mantener la misma vista a través de la mira del rifle de francotirador en múltiples escenas  \nAppend Replace the green background with the final video to the end of your main prompt when using a green-screen reference video"
+    },
+    "fr": {
+      "content": "Utilisez une vidéo de référence sur fond vert dans Seedance 2.0 pour conserver la même vue à travers la lunette du fusil de sniper sur plusieurs scènes  \nAjoutez « Replace the green background with the final video » à la fin de votre prompt principal lorsque vous utilisez une vidéo de référence sur fond vert"
+    },
+    "ja": {
+      "content": "Seedance 2.0 でグリーンスクリーンの参照動画を使用し、複数のシーンにわたって同じスナイパーライフルのスコープ視点を維持する  \nグリーンスクリーンの参照動画を使用する場合は、メインプロンプトの末尾に「Replace the green background with the final video」を追加してください"
+    },
+    "ko": {
+      "content": "Seedance 2.0에서 그린스크린 레퍼런스 비디오를 사용해 여러 장면에서 동일한 저격소총 스코프 시점을 유지하세요  \n그린스크린 레퍼런스 비디오를 사용할 때는 메인 프롬프트의 끝에 “Append Replace the green background with the final video”를 추가하세요"
+    },
+    "pt": {
+      "content": "Use um vídeo de referência com green screen no Seedance 2.0 para manter a mesma visão pela mira do rifle de sniper em várias cenas  \nAppend Replace the green background with the final video to the end of your main prompt when using a green-screen reference video"
+    },
+    "zh": {
+      "content": "在 Seedance 2.0 中使用绿幕参考视频，以在多个场景中保持相同的狙击步枪瞄准镜视角  \n在使用绿幕参考视频时，将“Replace the green background with the final video”附加到主 prompt 的末尾"
+    }
+  }
+}

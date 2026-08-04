@@ -1,0 +1,43 @@
+{
+  "id": "2084214057138323567",
+  "title": "Treat each shot as a game cinematic by specifying exact camera positions and…",
+  "content": "Treat each shot as a game cinematic by specifying exact camera positions and shot framing in your Seedance 2.0 prompt.  \nDefine specific lighting for each act/scene (e.g., different lighting setups per beat) in Seedance 2.0 to control mood and continuity.  \nUse a consistent, distinctive character visual (e.g., magenta hair, paint-splattered jacket) across shots to carry the story with minimal action.  \nDrive the trailer’s feel primarily through movement and color cues in the prompt rather than complex plot actions.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084212811559997440/img/-VzGIN8fLg4YWGaX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084214057138323567.mp4",
+  "sourceLink": "https://x.com/wlgns5388/status/2084214057138323567",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "이춘삼(2spring3)",
+    "link": "https://x.com/wlgns5388"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Game UI"
+  ],
+  "tips": "Treat each shot as a game cinematic by specifying exact camera positions and shot framing in your Seedance 2.0 prompt.  \nDefine specific lighting for each act/scene (e.g., different lighting setups per beat) in Seedance 2.0 to control mood and continuity.  \nUse a consistent, distinctive character visual (e.g., magenta hair, paint-splattered jacket) across shots to carry the story with minimal action.  \nDrive the trailer’s feel primarily through movement and color cues in the prompt rather than complex plot actions.",
+  "translations": {
+    "es": {
+      "content": "Trata cada plano como una cinemática de videojuego especificando posiciones exactas de cámara y encuadre en tu prompt de Seedance 2.0.  \nDefine una iluminación específica para cada acto/escena (por ejemplo, distintos esquemas de iluminación por beat) en Seedance 2.0 para controlar el ambiente y la continuidad.  \nUsa una apariencia visual del personaje consistente y distintiva (por ejemplo, cabello magenta, chaqueta salpicada de pintura) a lo largo de los planos para contar la historia con una acción mínima.  \nImpulsa la sensación del tráiler principalmente mediante el movimiento y las pistas de color en el prompt, en lugar de acciones complejas de la trama."
+    },
+    "fr": {
+      "content": "Traitez chaque plan comme une cinématique de jeu en précisant des positions de caméra exactes et le cadrage dans votre prompt Seedance 2.0.  \nDéfinissez un éclairage spécifique pour chaque acte/scène (par exemple, des configurations lumineuses différentes selon chaque temps fort) dans Seedance 2.0 afin de contrôler l’ambiance et la continuité.  \nUtilisez un visuel de personnage cohérent et distinctif (par exemple, des cheveux magenta, une veste éclaboussée de peinture) d’un plan à l’autre pour faire avancer l’histoire avec un minimum d’action.  \nDonnez au trailer son ressenti principalement à travers le mouvement et les indications de couleur dans le prompt, plutôt qu’à travers des actions narratives complexes."
+    },
+    "ja": {
+      "content": "各ショットをゲームのシネマティックとして扱い、Seedance 2.0 の prompt で正確なカメラ位置とショットのフレーミングを指定します。  \n各 act/scene ごとに具体的な lighting を定義し（例：beat ごとに異なる lighting setup）、ムードと連続性をコントロールします。  \n一貫性のある特徴的なキャラクターのビジュアル（例：マゼンタの髪、ペンキの飛び散ったジャケット）をショット全体で維持し、最小限のアクションでストーリーを伝えます。  \n複雑なプロットの動きよりも、prompt 内の movement と color cues を中心にして、トレーラーの雰囲気を作り出します。"
+    },
+    "ko": {
+      "content": "각 샷을 게임 시네마틱처럼 다루고, Seedance 2.0 프롬프트에서 정확한 카메라 위치와 샷 구도를 지정하세요.  \nSeedance 2.0에서 각 막/장면마다 구체적인 조명(예: 비트마다 다른 조명 세팅)을 정의해 분위기와 연속성을 제어하세요.  \n샷 전반에 걸쳐 일관되고 독특한 캐릭터 비주얼(예: 마젠타색 머리, 페인트가 튄 재킷)을 유지해, 최소한의 액션으로도 스토리가 이어지게 하세요.  \n복잡한 플롯 액션보다는 프롬프트의 움직임과 색상 신호를 중심으로 트레일러의 분위기를 이끌어가세요."
+    },
+    "pt": {
+      "content": "Trate cada tomada como uma cinematic de jogo, especificando posições exatas de câmera e enquadramento da cena no seu prompt do Seedance 2.0.  \nDefina uma iluminação específica para cada ato/cena (por exemplo, diferentes configurações de luz para cada beat) no Seedance 2.0 para controlar o clima e a continuidade.  \nUse um visual de personagem consistente e marcante (por exemplo, cabelo magenta, jaqueta salpicada de tinta) entre as tomadas para conduzir a história com o mínimo de ação.  \nDê o tom do trailer principalmente por meio de movimento e pistas de cor no prompt, em vez de ações complexas da trama."
+    },
+    "zh": {
+      "content": "在你的 Seedance 2.0 prompt 中，通过指定精确的 camera position 和 shot framing，把每个镜头都当作游戏 cinematic 来处理。  \n在 Seedance 2.0 中为每一幕/每个场景定义具体的 lighting（例如，每个 beat 使用不同的 lighting setup），以控制情绪和连贯性。  \n在不同镜头中保持一致且鲜明的角色视觉特征（例如，洋红色头发、溅满颜料的夹克），用最少的动作推动故事。  \n在 prompt 中主要通过 movement 和 color cues 来营造 trailer 的整体感觉，而不是依赖复杂的剧情动作。"
+    }
+  }
+}
