@@ -7600,4 +7600,4 @@ Iterate by reviewing the generated motion, refining the storyboard, and regenera
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-08-05T14:11:08.202Z
+🤖 この README は自動生成されています。最終更新： 2026-08-05T17:39:21.663Z
