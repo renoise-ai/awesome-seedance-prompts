@@ -1,0 +1,42 @@
+{
+  "id": "2084641775004889458",
+  "title": "Use Blender-blocked scenes as a reference and run the same reference + prompt…",
+  "content": "Use Blender-blocked scenes as a reference and run the same reference + prompt through Seedance-2.0 to evaluate how closely it adheres to your intended framing and composition.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084641283361144832/img/YE-P8Pj83K80VOan.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084641775004889458.mp4",
+  "sourceLink": "https://x.com/stevibe/status/2084641775004889458",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "stevibe",
+    "link": "https://x.com/stevibe"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Blender-blocked scenes as a reference and run the same reference + prompt through Seedance-2.0 to evaluate how closely it adheres to your intended framing and composition.",
+  "translations": {
+    "es": {
+      "content": "Usa escenas bloqueadas en Blender como referencia y ejecuta la misma referencia + prompt a través de Seedance-2.0 para evaluar qué tan fielmente se ajusta al encuadre y la composición que tenías en mente."
+    },
+    "fr": {
+      "content": "Utilisez des scènes bloquées dans Blender comme référence et exécutez la même référence + prompt dans Seedance-2.0 afin d’évaluer dans quelle mesure il respecte le cadrage et la composition que vous aviez prévus."
+    },
+    "ja": {
+      "content": "Blenderでブロックアウトしたシーンを参照として使用し、同じ reference + prompt を Seedance-2.0 に通して、意図した framing と composition にどれだけ忠実に従っているかを評価します。"
+    },
+    "ko": {
+      "content": "Blender에서 블로킹된 장면을 참고로 사용하고, 동일한 reference + prompt를 Seedance-2.0에 적용해 원하는 framing과 composition을 얼마나 정확하게 따르는지 평가하세요."
+    },
+    "pt": {
+      "content": "Use cenas bloqueadas no Blender como referência e execute a mesma referência + prompt no Seedance-2.0 para avaliar o quão de perto ele segue o enquadramento e a composição pretendidos."
+    },
+    "zh": {
+      "content": "使用 Blender 预先搭建的场景作为参考，并将相同的 reference + prompt 输入 Seedance-2.0，以评估其对你预期的 framing 和 composition 的贴合程度。"
+    }
+  }
+}

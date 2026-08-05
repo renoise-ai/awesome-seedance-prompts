@@ -1,0 +1,42 @@
+{
+  "id": "2084649171512942858",
+  "title": "Combine camera tracking movements and character blocking into a single prompt…",
+  "content": "Combine camera tracking movements and character blocking into a single prompt (instead of separate passes) to reduce generation cost while keeping a cinematic feel.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084648879866155008/img/e0_IAYf-EGeHzKcG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084649171512942858.mp4",
+  "sourceLink": "https://x.com/DejiBigBag/status/2084649171512942858",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "chukwuDEJI | Motion + Ai",
+    "link": "https://x.com/DejiBigBag"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Combine camera tracking movements and character blocking into a single prompt (instead of separate passes) to reduce generation cost while keeping a cinematic feel.",
+  "translations": {
+    "es": {
+      "content": "Combina los movimientos de seguimiento de cámara y el blocking de los personajes en un solo prompt (en lugar de pasadas separadas) para reducir el costo de generación sin perder una sensación cinematográfica.\n\n--- TWEET CITADO ---\nMe siento un poco triste ahora, porque desearía que esto se hubiera lanzado antes de que terminara mi película.\n\nProbé el mismo prompt de mi película que seednace rechazó más de 10 veces antes de que me rindiera, en @Hailuo_AI con su MiniMax H3, y finalmente funcionó, y además fue más barato.\n\nMe alegra que por fin haya llegado, y esta será una herramienta que usaré con más frecuencia a partir de ahora.\n\n#MiniMaxH3\n---"
+    },
+    "fr": {
+      "content": "Combinez les mouvements de tracking de caméra et le blocking des personnages dans un seul prompt (au lieu de passes séparées) afin de réduire les coûts de génération tout en conservant une ambiance cinématographique.\n\n--- TWEET CITÉ ---\nJe me sens un peu triste en ce moment, parce que j’aurais aimé que ça sorte plus tôt, avant que je termine mon film.\n\nJ’ai essayé le même prompt de mon film que Seedance a rejeté plus de 10 fois avant que j’abandonne, sur @Hailuo_AI avec leur MiniMax H3, et ça a enfin fonctionné, en plus c’était moins cher.\n\nContent que ça soit enfin arrivé, et ce sera désormais un outil que j’utiliserai plus fréquemment.\n\n#MiniMaxH3\n---"
+    },
+    "ja": {
+      "content": "カメラのトラッキング移動とキャラクターのブロッキングを、別々のパスではなく1つのプロンプトにまとめることで、シネマティックな雰囲気を保ちながら生成コストを抑える。\n\n--- 引用ツイート ---\n今ちょっと悲しい気分です。というのも、映画を完成させる前にこれがもっと早くリリースされていたらよかったのに、と思ってしまうからです。\n\n自分の映画で使った同じプロンプトを、seednaceでは10回以上拒否されて諦めたのですが、@Hailuo_AI の MiniMax H3 で試したら、ついにうまくいきました。しかも、こちらのほうが安かったです。\n\nでも、ようやく出てきてくれてよかったですし、これからはもっと頻繁に使うツールのひとつになりそうです。\n\n#MiniMaxH3\n---"
+    },
+    "ko": {
+      "content": "카메라 트래킹 움직임과 캐릭터 블로킹을 하나의 프롬프트로 결합하세요(별도의 패스가 아니라) — 생성 비용을 줄이면서도 cinematic한 느낌은 유지할 수 있습니다.\n\n--- 인용된 트윗 ---\n지금은 조금 아쉽네요. 제 영화가 끝나기 전에 이게 더 일찍 출시됐으면 좋았을 텐데요.\n\n제 영화에서 사용했던 같은 프롬프트를 seednace에서 10번 넘게 거절당해 결국 포기했었는데, @Hailuo_AI의 MiniMax H3에서 시도해 보니 드디어 작동했고, 비용도 더 저렴했습니다.\n\n그래도 결국 나오게 되어 다행이고, 이제 이건 제가 더 자주 사용하게 될 도구 중 하나가 될 것 같습니다.\n\n#MiniMaxH3\n---"
+    },
+    "pt": {
+      "content": "Combine movimentos de tracking de câmera e blocking de personagens em um único prompt (em vez de passes separados) para reduzir o custo de geração, mantendo uma sensação cinematográfica.\n\n--- TWEET CITADO ---\nEstou meio triste no momento, porque agora estou desejando que isso tivesse sido lançado antes de eu terminar meu filme.\n\nTentei o mesmo prompt do meu filme que o Seedance rejeitou mais de 10 vezes antes de eu desistir, no @Hailuo_AI com o MiniMax H3 deles, e finalmente funcionou, além de ter sido mais barato.\n\nFico feliz que finalmente tenha chegado, e essa será uma ferramenta que vou usar com mais frequência agora.\n\n#MiniMaxH3\n---"
+    },
+    "zh": {
+      "content": "将镜头跟踪运动和角色调度合并到一个提示词中（而不是分开多次处理），以降低生成成本，同时保持电影感。\n\n--- 引用的推文 ---\n我现在有点难过，因为我真希望它能更早上线，这样我就能在完成电影之前用上它了。\n\n我把我电影里同样的 prompt 拿去试了，之前 seednace 拒绝了 10 多次，我都放弃了；后来我在 @Hailuo_AI 上用他们的 MiniMax H3 试了一下，结果终于成功了，而且还更便宜。\n\n不过很高兴它终于来了，这会是我以后会更频繁使用的一个工具。\n\n#MiniMaxH3"
+    }
+  }
+}

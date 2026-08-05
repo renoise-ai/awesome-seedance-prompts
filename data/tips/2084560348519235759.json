@@ -1,0 +1,42 @@
+{
+  "id": "2084560348519235759",
+  "title": "Use Seedance’s multimodal reference input to keep a single consistent asset…",
+  "content": "Use Seedance’s multimodal reference input to keep a single consistent asset across shots and reduce the number of regenerations, especially for narrative projects.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084560261617471488/img/P3vEwo_52RBAYXSk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084560348519235759.mp4",
+  "sourceLink": "https://x.com/atulkumarzz/status/2084560348519235759",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "Atul Kumar",
+    "link": "https://x.com/atulkumarzz"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance’s multimodal reference input to keep a single consistent asset across shots and reduce the number of regenerations, especially for narrative projects.",
+  "translations": {
+    "es": {
+      "content": "Usa la entrada de referencia multimodal de Seedance para mantener un único asset consistente a lo largo de las tomas y reducir el número de regeneraciones, especialmente en proyectos narrativos."
+    },
+    "fr": {
+      "content": "Utilisez l’entrée de référence multimodale de Seedance pour conserver un seul asset cohérent d’un plan à l’autre et réduire le nombre de régénérations, en particulier pour les projets narratifs."
+    },
+    "ja": {
+      "content": "Seedanceのマルチモーダル参照入力を使うことで、ショットをまたいで単一の一貫したアセットを維持し、特にナラティブ系のプロジェクトでは再生成の回数を減らせます。"
+    },
+    "ko": {
+      "content": "Seedance의 멀티모달 reference input을 사용하면 여러 샷에 걸쳐 하나의 일관된 asset을 유지하고, 특히 내러티브 프로젝트에서 재생성 횟수를 줄일 수 있습니다."
+    },
+    "pt": {
+      "content": "Use a entrada de referência multimodal do Seedance para manter um único asset consistente entre os takes e reduzir o número de regenerações, especialmente em projetos narrativos."
+    },
+    "zh": {
+      "content": "使用 Seedance 的多模态参考输入，在不同镜头中保持同一个资产的一致性，并减少重新生成的次数，尤其适用于叙事类项目。"
+    }
+  }
+}

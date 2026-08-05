@@ -34,6 +34,9 @@
     },
     "zh": {
       "content": "使用 Nano Banana Pro → Seedance 2.0 流程，在大约 60 秒内、每次采访成本约 0.50 美元，生成一段完整的 15 秒“街头采访”视频片段。\n\n在 Seedance 2.0 中，将输出结构设定为 15 秒的“街头拦访”问答：AI 采访者提出一个问题，AI 受访者作答，目标是呈现出自然、真实感强的街头场景。"
+    },
+    "pt": {
+      "content": "Use um pipeline Nano Banana Pro → Seedance 2.0 para gerar um clipe completo de “street interview” de 15 segundos em cerca de 60 segundos, por aproximadamente US$ 0,50 por entrevista.\n\nNo Seedance 2.0, estruture a saída como um Q&A de 15 segundos “parado na rua”: o entrevistador de IA faz uma pergunta e o sujeito de IA responde, buscando um cenário de rua orgânico e com aparência real."
     }
   }
 }
