@@ -1,0 +1,42 @@
+{
+  "id": "2085122150491701596",
+  "title": "After Effectsでシェイプアニメーションを作り、そのAE動画を参照動画としてMinimax H3に入力し、キャラ画像も参照＋プロンプトで生成する",
+  "content": "After Effectsでシェイプアニメーションを作り、そのAE動画を参照動画としてMinimax H3に入力し、キャラ画像も参照＋プロンプトで生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085118781412818944/img/SYHKVah_4JO9fhvO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085122150491701596.mp4",
+  "sourceLink": "https://x.com/seiiiiiiiiiiru/status/2085122150491701596",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "SEIIIRU😈動画生成AIを使う映像クリエイター",
+    "link": "https://x.com/seiiiiiiiiiiru"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "After Effectsでシェイプアニメーションを作り、そのAE動画を参照動画としてMinimax H3に入力し、キャラ画像も参照＋プロンプトで生成する",
+  "translations": {
+    "en": {
+      "content": "Create a shape animation in After Effects, then feed that AE video into Minimax H3 as a reference video, and generate the character image using both a reference and a prompt."
+    },
+    "es": {
+      "content": "Crear una animación de formas en After Effects, usar ese video de AE como video de referencia en Minimax H3, y generar también la imagen del personaje mediante referencia + prompt."
+    },
+    "fr": {
+      "content": "Créer une animation de formes dans After Effects, puis utiliser cette vidéo AE comme vidéo de référence dans Minimax H3, et générer également l’image du personnage à partir d’une référence + d’un prompt."
+    },
+    "ko": {
+      "content": "After Effects에서 셰이프 애니메이션을 만들고, 그 AE 영상을 참조 영상으로 Minimax H3에 입력한 뒤, 캐릭터 이미지도 참조 + 프롬프트로 생성한다"
+    },
+    "pt": {
+      "content": "Criar uma animação de shape no After Effects e usar o vídeo em AE como vídeo de referência no Minimax H3, gerando também a imagem do personagem com referência + prompt."
+    },
+    "zh": {
+      "content": "在 After Effects 中制作 shape animation，并将该 AE 视频作为参考视频输入到 Minimax H3，同时通过参考图像 + prompt 生成角色图像。"
+    }
+  }
+}

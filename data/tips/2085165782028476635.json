@@ -1,0 +1,42 @@
+{
+  "id": "2085165782028476635",
+  "title": "Avoid over-micromanaging fight prompts; instead, describe key beats/constraints…",
+  "content": "Avoid over-micromanaging fight prompts; instead, describe key beats/constraints and leave room for Seedance to fill in choreography creatively.  \nIterate with tests to find the balance between specificity (what must happen) and open-ended direction (how it happens) for better results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085164229242576896/img/zChNb3xgRaSyD9kj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085165782028476635.mp4",
+  "sourceLink": "https://x.com/Dani__oros/status/2085165782028476635",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Danioros",
+    "link": "https://x.com/Dani__oros"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Avoid over-micromanaging fight prompts; instead, describe key beats/constraints and leave room for Seedance to fill in choreography creatively.  \nIterate with tests to find the balance between specificity (what must happen) and open-ended direction (how it happens) for better results.",
+  "translations": {
+    "es": {
+      "content": "Evita microgestionar en exceso los prompts de combate; en su lugar, describe los momentos clave y las restricciones, y deja espacio para que Seedance complete la coreografía de forma creativa.  \nItera con pruebas para encontrar el equilibrio entre la especificidad (lo que debe ocurrir) y una dirección abierta (cómo ocurre) para obtener mejores resultados."
+    },
+    "fr": {
+      "content": "Évitez de microgérer excessivement les prompts de combat ; décrivez plutôt les temps forts et les contraintes clés, et laissez à Seedance la liberté de créer la chorégraphie.  \nItérez avec des tests pour trouver le bon équilibre entre la précision (ce qui doit se produire) et une direction ouverte (la manière dont cela se produit) afin d’obtenir de meilleurs résultats."
+    },
+    "ja": {
+      "content": "戦闘のpromptを細かく指示しすぎないようにしましょう。代わりに、重要なビートや制約だけを記述し、振り付けはSeedanceが創造的に補完できる余地を残します。  \nテストを重ねて、「何が起こるべきか」という具体性と、「それがどう起こるか」という自由度のバランスを見つけることで、より良い結果が得られます。"
+    },
+    "ko": {
+      "content": "전투 prompt를 지나치게 세세하게 지시하지 마세요. 대신 핵심 비트와 제약 조건만 설명하고, 나머지 안무는 Seedance가 창의적으로 채워 넣을 수 있도록 여지를 남겨두세요.  \n테스트를 반복하면서 구체성(반드시 일어나야 하는 것)과 열린 방향성(그것이 어떻게 일어나는지) 사이의 균형을 찾아야 더 좋은 결과를 얻을 수 있습니다."
+    },
+    "pt": {
+      "content": "Evite microgerenciar demais os prompts de luta; em vez disso, descreva os principais beats/restrições e deixe espaço para o Seedance preencher a coreografia de forma criativa.  \nItere com testes para encontrar o equilíbrio entre especificidade (o que deve acontecer) e direção aberta (como isso acontece) para obter melhores resultados."
+    },
+    "zh": {
+      "content": "避免对战斗 prompt 进行过度微观管理；相反，应描述关键节奏/约束，并留出空间让 Seedance 创造性地补全编排。  \n通过测试不断迭代，找到具体性（必须发生什么）与开放式引导（如何发生）之间的平衡，以获得更好的结果。"
+    }
+  }
+}

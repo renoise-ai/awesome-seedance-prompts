@@ -1,0 +1,42 @@
+{
+  "id": "2084963684682797123",
+  "title": "Use the same prompt and the same set of reference images when comparing Grok vs…",
+  "content": "Use the same prompt and the same set of reference images when comparing Grok vs Seedance 2.0 mini to isolate model differences.  \nFor a 15-second multi-shot character-in-room video, provide three reference images: an upper-body face reference, a 3-view character turnaround, and a full-room environment reference.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084962628003336192/img/w3pmlBGi95OB5_MP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084963684682797123.mp4",
+  "sourceLink": "https://x.com/kaerimichinotzk/status/2084963684682797123",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "かえりみちのつづき",
+    "link": "https://x.com/kaerimichinotzk"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the same prompt and the same set of reference images when comparing Grok vs Seedance 2.0 mini to isolate model differences.  \nFor a 15-second multi-shot character-in-room video, provide three reference images: an upper-body face reference, a 3-view character turnaround, and a full-room environment reference.",
+  "translations": {
+    "en": {
+      "content": "Use the same prompt and the same set of reference images when comparing Grok vs. Seedance 2.0 mini to isolate model differences.  \nFor a 15-second multi-shot character-in-room video, provide three reference images: an upper-body face reference, a 3-view character turnaround, and a full-room environment reference.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here is the room reference: https://t.co/eeIvH6BRpA\n---"
+    },
+    "es": {
+      "content": "Usa el mismo prompt y el mismo conjunto de imágenes de referencia al comparar Grok vs Seedance 2.0 mini para aislar las diferencias entre modelos.  \nPara un video de 15 segundos con múltiples tomas de un personaje en una habitación, proporciona tres imágenes de referencia: una referencia del rostro y la parte superior del cuerpo, un turnaround del personaje en 3 vistas y una referencia del entorno de la habitación completa.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Esta es la referencia de la habitación https://t.co/eeIvH6BRpA\n---"
+    },
+    "fr": {
+      "content": "Utilisez le même prompt et le même ensemble d’images de référence lorsque vous comparez Grok et Seedance 2.0 mini afin d’isoler les différences entre les modèles.  \nPour une vidéo multi-plans de 15 secondes mettant en scène un personnage dans une pièce, fournissez trois images de référence : une référence du visage et du haut du corps, une rotation du personnage en 3 vues, et une référence de l’environnement complet de la pièce.\n\n--- CONTINUATION DU FIL ---\n[Fil 1] Voici la référence de la pièce https://t.co/eeIvH6BRpA\n---"
+    },
+    "ko": {
+      "content": "Grok와 Seedance 2.0 mini를 비교할 때는 모델 차이를 분리해 보기 위해 동일한 prompt와 동일한 reference image 세트를 사용하세요.  \n15초짜리 멀티샷 캐릭터-인-룸 비디오의 경우, 세 장의 reference image를 제공하세요: 상반신 얼굴 reference, 3-view 캐릭터 턴어라운드, 그리고 전체 방 환경 reference.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 방의 reference입니다 https://t.co/eeIvH6BRpA\n---"
+    },
+    "pt": {
+      "content": "Use o mesmo prompt e o mesmo conjunto de imagens de referência ao comparar Grok vs Seedance 2.0 mini para isolar as diferenças entre os modelos.  \nPara um vídeo de 15 segundos com múltiplos planos de um personagem em um cômodo, forneça três imagens de referência: uma referência do rosto e parte superior do corpo, uma rotação do personagem em 3 vistas e uma referência do ambiente completo do cômodo.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Aqui está a referência do cômodo https://t.co/eeIvH6BRpA\n---"
+    },
+    "zh": {
+      "content": "在比较 Grok 和 Seedance 2.0 mini 时，请使用相同的 prompt 和相同的一组参考图像，以便将模型差异单独区分出来。  \n对于一个 15 秒的多镜头“人物在房间内”视频，请提供三张参考图：上半身面部参考图、角色三视图转身图，以及完整房间环境参考图。\n\n--- 线程续篇 ---\n[Thread 1] 这是房间的参考图 https://t.co/eeIvH6BRpA\n---"
+    }
+  }
+}

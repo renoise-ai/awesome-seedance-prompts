@@ -1,0 +1,42 @@
+{
+  "id": "2084995479465582857",
+  "title": "Use Seedance to generate 30-second continuous UGC ad videos in a single run by…",
+  "content": "Use Seedance to generate 30-second continuous UGC ad videos in a single run by supplying up to 50 reference assets (images, video, audio) in one generation.  \nStructure your Seedance prompt as: global scene + style, character description, timestamped storyboard (e.g., 0–5s, 5–10s, 10–15s), camera movement, and negative prompts.  \nWrite a timestamped storyboard that specifies exactly what happens every few seconds instead of using vague prompts.  \nInclude explicit camera movement instructions in the prompt to control motion across the continuous 30-second video.  \nAdd negative prompts to reduce unwanted artifacts or elements in the generated UGC ad video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2084995412797116416/pu/img/_wWMtMRXsZOEqj1Z.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084995479465582857.mp4",
+  "sourceLink": "https://x.com/FynCas/status/2084995479465582857",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "Cas.Fyn",
+    "link": "https://x.com/FynCas"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance to generate 30-second continuous UGC ad videos in a single run by supplying up to 50 reference assets (images, video, audio) in one generation.  \nStructure your Seedance prompt as: global scene + style, character description, timestamped storyboard (e.g., 0–5s, 5–10s, 10–15s), camera movement, and negative prompts.  \nWrite a timestamped storyboard that specifies exactly what happens every few seconds instead of using vague prompts.  \nInclude explicit camera movement instructions in the prompt to control motion across the continuous 30-second video.  \nAdd negative prompts to reduce unwanted artifacts or elements in the generated UGC ad video.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance para generar videos publicitarios UGC continuos de 30 segundos en una sola ejecución, proporcionando hasta 50 recursos de referencia (imágenes, video, audio) en una sola generación.  \nEstructura tu prompt de Seedance como: escena global + estilo, descripción del personaje, storyboard con marcas de tiempo (por ejemplo, 0–5 s, 5–10 s, 10–15 s), movimiento de cámara y negative prompts.  \nEscribe un storyboard con marcas de tiempo que especifique exactamente qué sucede cada pocos segundos, en lugar de usar prompts vagos.  \nIncluye instrucciones explícitas de movimiento de cámara en el prompt para controlar el movimiento a lo largo del video continuo de 30 segundos.  \nAñade negative prompts para reducir artefactos o elementos no deseados en el video publicitario UGC generado.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] RT + comenta “UGC” y te enviaré por DM el playbook  \n(Es necesario seguir la cuenta)\n---"
+    },
+    "fr": {
+      "content": "Utilisez Seedance pour générer en une seule fois des vidéos publicitaires UGC continues de 30 secondes en fournissant jusqu’à 50 assets de référence (images, vidéo, audio) dans une seule génération.  \nStructurez votre prompt Seedance comme suit : scène globale + style, description du personnage, storyboard horodaté (par ex. 0–5 s, 5–10 s, 10–15 s), mouvement de caméra et negative prompts.  \nRédigez un storyboard horodaté qui précise exactement ce qui se passe toutes les quelques secondes, au lieu d’utiliser des prompts vagues.  \nIncluez des instructions explicites de mouvement de caméra dans le prompt afin de contrôler le mouvement sur l’ensemble de la vidéo continue de 30 secondes.  \nAjoutez des negative prompts pour réduire les artefacts ou éléments indésirables dans la vidéo publicitaire UGC générée.\n\n--- SUITE DU THREAD ---\n[Thread 1] RT + commentez « UGC » et je vous enverrai le playbook en DM  \n(Doit être abonné)\n---"
+    },
+    "ja": {
+      "content": "Seedance を使って、最大 50 個の参照アセット（画像、動画、音声）を 1 回の生成にまとめて指定することで、30 秒の連続した UGC 広告動画を一括生成できます。  \nSeedance の prompt は、グローバルなシーン + スタイル、キャラクターの説明、タイムスタンプ付きの storyboard（例: 0–5s、5–10s、10–15s）、camera movement、negative prompts という構成にします。  \n曖昧な prompt ではなく、数秒ごとに何が起こるかを正確に指定したタイムスタンプ付き storyboard を書きます。  \n連続する 30 秒の動画全体で動きを制御するために、prompt には明確な camera movement の指示を含めます。  \n生成された UGC 広告動画内の不要なアーティファクトや要素を減らすために、negative prompts を追加します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] RT + comment “UGC” and I’ll DM the playbook \n（フォロー必須）\n---"
+    },
+    "ko": {
+      "content": "Seedance를 사용하면 한 번의 생성으로 최대 50개의 레퍼런스 에셋(이미지, 비디오, 오디오)을 입력해 30초짜리 연속 UGC 광고 영상을 단일 실행으로 생성할 수 있습니다.  \nSeedance prompt는 다음과 같이 구성하세요: 전반적인 장면 + 스타일, 캐릭터 설명, 타임스탬프가 포함된 스토리보드(예: 0–5초, 5–10초, 10–15초), 카메라 움직임, 그리고 negative prompts.  \n모호한 prompt 대신, 몇 초마다 정확히 어떤 일이 일어나는지 명시하는 타임스탬프형 스토리보드를 작성하세요.  \n연속적인 30초 영상 전반의 움직임을 제어할 수 있도록 prompt에 구체적인 카메라 움직임 지시를 포함하세요.  \n생성된 UGC 광고 영상에서 원치 않는 아티팩트나 요소를 줄이기 위해 negative prompts를 추가하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] RT + comment “UGC” and I’ll DM the playbook \n(팔로우해야 함)\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance para gerar vídeos publicitários UGC contínuos de 30 segundos em uma única execução, fornecendo até 50 assets de referência (imagens, vídeo, áudio) em uma única geração.  \nEstruture seu prompt do Seedance como: cena global + estilo, descrição do personagem, storyboard com marcação de tempo (por exemplo, 0–5s, 5–10s, 10–15s), movimento de câmera e negative prompts.  \nEscreva um storyboard com marcação de tempo que especifique exatamente o que acontece a cada poucos segundos, em vez de usar prompts vagos.  \nInclua instruções explícitas de movimento de câmera no prompt para controlar o movimento ao longo do vídeo contínuo de 30 segundos.  \nAdicione negative prompts para reduzir artefatos ou elementos indesejados no vídeo publicitário UGC gerado.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] RT + comente “UGC” e eu te envio o playbook por DM  \n(É preciso estar seguindo)\n---"
+    },
+    "zh": {
+      "content": "使用 Seedance 通过一次生成即可制作 30 秒连续的 UGC 广告视频，并且在一次生成中最多可提供 50 个参考素材（图片、视频、音频）。  \n将你的 Seedance prompt 结构化为：全局场景 + 风格、角色描述、带时间戳的分镜脚本（例如 0–5s、5–10s、10–15s）、镜头运动，以及 negative prompts。  \n编写带时间戳的分镜脚本，明确说明每几秒具体发生什么，而不是使用模糊的提示。  \n在 prompt 中加入明确的镜头运动指令，以控制整个连续 30 秒视频中的运动。  \n添加 negative prompts，以减少生成的 UGC 广告视频中不需要的瑕疵或元素。\n\n--- 线程续接 ---\n[Thread 1] 转发 + 评论 “UGC”，我就私信你这份 playbook  \n（必须已关注）"
+    }
+  }
+}
