@@ -1,0 +1,43 @@
+{
+  "id": "2085280774727831847",
+  "title": "Sketch the desired one-take drone camera path directly onto a photo and use…",
+  "content": "Sketch the desired one-take drone camera path directly onto a photo and use Seedance 2.0 to generate a video that follows that exact flight path.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085271416430383104/img/26eiMtRcZHXqD8Tb.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2085271416430383104/vid/avc1/3840x2160/M1iiq84JoSFYCLJR.mp4",
+  "sourceLink": "https://x.com/lovart_ai/status/2085280774727831847",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "LovartAI",
+    "link": "https://x.com/lovart_ai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Sketch the desired one-take drone camera path directly onto a photo and use Seedance 2.0 to generate a video that follows that exact flight path.",
+  "translations": {
+    "es": {
+      "content": "Dibuja directamente sobre una foto la trayectoria deseada de la cámara drone en una sola toma y usa Seedance 2.0 para generar un video que siga exactamente esa ruta de vuelo."
+    },
+    "fr": {
+      "content": "Esquissez directement sur une photo le trajet souhaité de la caméra drone en prise unique, puis utilisez Seedance 2.0 pour générer une vidéo qui suit exactement cette trajectoire de vol."
+    },
+    "ja": {
+      "content": "写真の上に、希望するワンテイクのドローンカメラの軌道を直接スケッチし、Seedance 2.0 を使って、その正確な飛行経路に沿った動画を生成します。"
+    },
+    "ko": {
+      "content": "원하는 원테이크 드론 카메라 경로를 사진 위에 직접 스케치한 다음, Seedance 2.0을 사용해 그 정확한 비행 경로를 따라가는 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Esboce o caminho desejado da câmera drone em plano-sequência diretamente sobre uma foto e use o Seedance 2.0 para gerar um vídeo que siga exatamente essa trajetória de voo."
+    },
+    "zh": {
+      "content": "直接在照片上勾画出你想要的一镜到底无人机镜头路径，并使用 Seedance 2.0 生成一段严格按照该飞行路径运行的视频。"
+    }
+  }
+}

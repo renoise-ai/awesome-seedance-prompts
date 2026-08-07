@@ -1,0 +1,41 @@
+{
+  "id": "2085342013906366500",
+  "title": "Always reference an actor image plus a prompt in Seedance 2.0 to keep character…",
+  "content": "Always reference an actor image plus a prompt in Seedance 2.0 to keep character consistency.  \nAdd a reference video when you want Seedance 2.0 to copy a specific visual hook from an existing clip.  \nCreate a reusable Seedance workflow template where you only swap in a new script each time.  \nAvoid repeating instructions in your prompts; keep them focused on the details that actually matter.  \nExperiment frequently with different prompt variations and reference inputs to find what works best.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/andrewxroas/status/2085342013906366500",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Andrew",
+    "link": "https://x.com/andrewxroas"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Always reference an actor image plus a prompt in Seedance 2.0 to keep character consistency.  \nAdd a reference video when you want Seedance 2.0 to copy a specific visual hook from an existing clip.  \nCreate a reusable Seedance workflow template where you only swap in a new script each time.  \nAvoid repeating instructions in your prompts; keep them focused on the details that actually matter.  \nExperiment frequently with different prompt variations and reference inputs to find what works best.",
+  "translations": {
+    "es": {
+      "content": "Siempre referencia una imagen del actor junto con un prompt en Seedance 2.0 para mantener la consistencia del personaje.  \nAñade un video de referencia cuando quieras que Seedance 2.0 copie un gancho visual específico de un clip existente.  \nCrea una plantilla de workflow reutilizable en Seedance en la que solo sustituyas el guion por uno nuevo cada vez.  \nEvita repetir instrucciones en tus prompts; mantenlos centrados en los detalles que realmente importan.  \nExperimenta con frecuencia con distintas variaciones de prompt y entradas de referencia para descubrir qué funciona mejor."
+    },
+    "fr": {
+      "content": "Référez-vous toujours à une image d’acteur ainsi qu’à un prompt dans Seedance 2.0 pour conserver la cohérence du personnage.  \nAjoutez une vidéo de référence lorsque vous souhaitez que Seedance 2.0 reproduise un élément visuel précis d’un clip existant.  \nCréez un modèle de workflow Seedance réutilisable dans lequel vous ne remplacez qu’un nouveau script à chaque fois.  \nÉvitez de répéter des instructions dans vos prompts ; concentrez-les sur les détails qui comptent vraiment.  \nExpérimentez fréquemment avec différentes variantes de prompt et différents inputs de référence afin de trouver ce qui fonctionne le mieux."
+    },
+    "ja": {
+      "content": "Seedance 2.0でキャラクターの一貫性を保つには、必ず俳優画像とプロンプトを併用してください。  \nSeedance 2.0に既存クリップの特定のビジュアルなフックを再現させたい場合は、参照動画を追加してください。  \n毎回新しいスクリプトだけを差し替えて使える、再利用可能なSeedanceワークフローテンプレートを作成してください。  \nプロンプト内で同じ指示を繰り返さず、実際に重要な詳細に絞ってください。  \n何が最も効果的かを見つけるために、さまざまなプロンプトのバリエーションや参照入力を頻繁に試してください。"
+    },
+    "ko": {
+      "content": "항상 캐릭터 일관성을 유지하려면 Seedance 2.0에서 배우 이미지와 프롬프트를 함께 참조하세요.  \nSeedance 2.0이 기존 클립의 특정 시각적 훅을 그대로 따라 하길 원할 때는 참조 비디오를 추가하세요.  \n매번 새 스크립트만 바꿔 넣을 수 있는 재사용 가능한 Seedance 워크플로 템플릿을 만드세요.  \n프롬프트에서 지시를 반복하지 말고, 실제로 중요한 세부사항에만 집중하세요.  \n무엇이 가장 잘 작동하는지 찾기 위해 다양한 프롬프트 변형과 참조 입력을 자주 실험해 보세요."
+    },
+    "pt": {
+      "content": "Sempre use uma imagem de referência do ator junto com um prompt no Seedance 2.0 para manter a consistência do personagem.  \nAdicione um vídeo de referência quando quiser que o Seedance 2.0 copie um gancho visual específico de um clipe existente.  \nCrie um modelo de workflow reutilizável no Seedance em que você só substitui o script por um novo a cada vez.  \nEvite repetir instruções nos seus prompts; mantenha o foco nos detalhes que realmente importam.  \nExperimente com frequência diferentes variações de prompt e inputs de referência para descobrir o que funciona melhor."
+    },
+    "zh": {
+      "content": "始终在 Seedance 2.0 中同时参考演员图像和 prompt，以保持角色一致性。  \n当你希望 Seedance 2.0 从现有片段中复制某个特定的视觉亮点时，添加参考视频。  \n创建一个可复用的 Seedance 工作流模板，每次只需替换新的脚本即可。  \n避免在 prompt 中重复指令；保持内容聚焦于真正重要的细节。  \n经常尝试不同的 prompt 变体和参考输入，找出最有效的方法。"
+    }
+  }
+}

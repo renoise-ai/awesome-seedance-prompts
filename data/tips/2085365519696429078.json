@@ -1,0 +1,42 @@
+{
+  "id": "2085365519696429078",
+  "title": "Anchor character and environment aesthetics (Char/Env) first with GPT Image 2…",
+  "content": "Anchor character and environment aesthetics (Char/Env) first with GPT Image 2, then use Seedance 2.0 to generate the video and audio from that anchored look  \nFor consistent cinematic visuals in Seedance 2.0, specify strict f/1.4 anamorphic lens physics in the prompt  \nLock a triadic color palette in your Seedance prompt to maintain color consistency across multiple shots",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085365328838791168/img/Epgb01KpK6oSnw8e.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085365519696429078.mp4",
+  "sourceLink": "https://x.com/FikkkFX/status/2085365519696429078",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Fikkkfx",
+    "link": "https://x.com/FikkkFX"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Anchor character and environment aesthetics (Char/Env) first with GPT Image 2, then use Seedance 2.0 to generate the video and audio from that anchored look  \nFor consistent cinematic visuals in Seedance 2.0, specify strict f/1.4 anamorphic lens physics in the prompt  \nLock a triadic color palette in your Seedance prompt to maintain color consistency across multiple shots",
+  "translations": {
+    "es": {
+      "content": "Ancla primero la estética del personaje y del entorno (Char/Env) con GPT Image 2, y luego usa Seedance 2.0 para generar el video y el audio a partir de ese look anclado  \nPara lograr visuales cinematográficos consistentes en Seedance 2.0, especifica en el prompt una física estricta de lente anamórfica f/1.4  \nBloquea una paleta de colores triádica en tu prompt de Seedance para mantener la consistencia cromática entre múltiples tomas"
+    },
+    "fr": {
+      "content": "Ancrez d’abord l’esthétique du personnage et de l’environnement (Char/Env) avec GPT Image 2, puis utilisez Seedance 2.0 pour générer la vidéo et l’audio à partir de cet aspect ancré  \nPour obtenir des visuels cinématographiques cohérents dans Seedance 2.0, spécifiez dans le prompt une physique stricte d’objectif anamorphique f/1.4  \nVerrouillez une palette de couleurs triadique dans votre prompt Seedance afin de maintenir la cohérence des couleurs sur plusieurs plans"
+    },
+    "ja": {
+      "content": "まず GPT Image 2 でキャラクターと環境の美学（Char/Env）を固定し、その後 Seedance 2.0 を使って、その固定されたルックから動画と音声を生成する  \nSeedance 2.0 で一貫した cinematic なビジュアルを得るには、プロンプト内で厳密な f/1.4 の anamorphic レンズの物理特性を指定する  \n複数ショットにわたって色の一貫性を保つため、Seedance のプロンプトで triadic color palette を固定する"
+    },
+    "ko": {
+      "content": "먼저 GPT Image 2로 앵커 캐릭터와 환경의 미학(Char/Env)을 고정한 다음, 그 고정된 룩을 바탕으로 Seedance 2.0을 사용해 비디오와 오디오를 생성하세요.  \nSeedance 2.0에서 일관된 cinematic 비주얼을 유지하려면, prompt에 엄격한 f/1.4 anamorphic lens physics를 명시하세요.  \n여러 샷에 걸쳐 색상 일관성을 유지하려면 Seedance prompt에서 triadic color palette를 고정하세요."
+    },
+    "pt": {
+      "content": "Ancore primeiro a estética do personagem e do ambiente (Char/Env) com o GPT Image 2, depois use o Seedance 2.0 para gerar o vídeo e o áudio a partir desse visual ancorado  \nPara visuais cinematográficos consistentes no Seedance 2.0, especifique no prompt uma física rigorosa de lente anamórfica f/1.4  \nTrave uma paleta de cores triádica no seu prompt do Seedance para manter a consistência de cores em múltiplos takes"
+    },
+    "zh": {
+      "content": "先用 GPT Image 2 锚定角色和环境美学（Char/Env），然后使用 Seedance 2.0 基于该锚定外观生成视频和音频  \n为了在 Seedance 2.0 中获得一致的 cinematic 视觉效果，请在 prompt 中明确指定严格的 f/1.4 anamorphic lens 物理特性  \n在 Seedance prompt 中锁定三分色调色板，以在多个镜头之间保持色彩一致性"
+    }
+  }
+}

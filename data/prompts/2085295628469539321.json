@@ -1,0 +1,40 @@
+{
+  "id": "2085295628469539321",
+  "title": "Have the person in reference image 1 perform the same dance moves as in the…",
+  "content": "Have the person in reference image 1 perform the same dance moves as in the reference video, while preserving the background of the reference image.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085295000620044288/img/Wv3wSa-fkv2Lwa9o.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085295628469539321.mp4",
+  "sourceLink": "https://x.com/underwoodxie96/status/2085295628469539321",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "underwood",
+    "link": "https://x.com/underwoodxie96"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Haz que la persona de la imagen de referencia 1 realice los mismos movimientos de baile que en el video de referencia, preservando al mismo tiempo el fondo de la imagen de referencia.\n\n--- TUIT CITADO ---\nprompt：https://t.co/KuBCV2mymB https://t.co/y0yQfAzIB1\n---"
+    },
+    "fr": {
+      "content": "Faites exécuter à la personne de l’image de référence 1 les mêmes mouvements de danse que dans la vidéo de référence, tout en préservant l’arrière-plan de l’image de référence.\n\n--- TWEET CITÉ ---\nprompt：https://t.co/KuBCV2mymB https://t.co/y0yQfAzIB1\n---"
+    },
+    "ja": {
+      "content": "参照画像1の人物に、参照動画と同じダンスの動きをさせつつ、参照画像の背景は保持してください。\n\n--- 引用ツイート ---\nprompt：https://t.co/KuBCV2mymB https://t.co/y0yQfAzIB1\n---"
+    },
+    "ko": {
+      "content": "참조 이미지 1의 인물이 참조 영상과 동일한 춤 동작을 하도록 하되, 참조 이미지의 배경은 그대로 유지하세요.\n\n--- 인용된 트윗 ---\nprompt：https://t.co/KuBCV2mymB https://t.co/y0yQfAzIB1\n---"
+    },
+    "pt": {
+      "content": "Faça com que a pessoa na imagem de referência 1 execute os mesmos movimentos de dança do vídeo de referência, preservando o fundo da imagem de referência.\n\n--- TWEET CITADO ---\nprompt：https://t.co/KuBCV2mymB https://t.co/y0yQfAzIB1\n---"
+    },
+    "zh": {
+      "content": "让参考图 1 中的人物做出与参考视频中相同的舞蹈动作，同时保留参考图像的背景。\n\n--- 引用推文 ---\nprompt：https://t.co/KuBCV2mymB https://t.co/y0yQfAzIB1\n---"
+    }
+  }
+}

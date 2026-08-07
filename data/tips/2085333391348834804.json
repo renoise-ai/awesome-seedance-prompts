@@ -1,0 +1,42 @@
+{
+  "id": "2085333391348834804",
+  "title": "Seedanceで背景を適当に設定してカメラを動かすと、背景の角度変化を自動でいい感じに演出してくれるので、背景＋カメラ動作を指定して任せる",
+  "content": "Seedanceで背景を適当に設定してカメラを動かすと、背景の角度変化を自動でいい感じに演出してくれるので、背景＋カメラ動作を指定して任せる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085332634117472256/img/6uJaabAeM88Ay4kc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085333391348834804.mp4",
+  "sourceLink": "https://x.com/Null_and_One/status/2085333391348834804",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Null and One",
+    "link": "https://x.com/Null_and_One"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedanceで背景を適当に設定してカメラを動かすと、背景の角度変化を自動でいい感じに演出してくれるので、背景＋カメラ動作を指定して任せる",
+  "translations": {
+    "en": {
+      "content": "When you set the background loosely in Seedance and move the camera, it automatically handles the background angle changes in a nice way, so you can just specify the background and camera movement and let it do the rest."
+    },
+    "es": {
+      "content": "Cuando configuras un fondo de forma aproximada en Seedance y mueves la cámara, ajusta automáticamente de manera muy natural los cambios de ángulo del fondo, así que basta con especificar el fondo y el movimiento de cámara y dejarlo en manos del sistema."
+    },
+    "fr": {
+      "content": "Avec Seedance, si vous définissez un arrière-plan de manière approximative et faites bouger la caméra, il met automatiquement en scène de façon naturelle les changements d’angle du décor. Il suffit donc de spécifier l’arrière-plan et le mouvement de caméra, puis de le laisser faire."
+    },
+    "ko": {
+      "content": "Seedance에서 배경을 적당히 설정하고 카메라를 움직이면, 배경의 각도 변화를 자동으로 자연스럽게 연출해 주기 때문에 배경과 카메라 동작을 지정해 맡기면 된다."
+    },
+    "pt": {
+      "content": "Ao definir um fundo de forma mais livre no Seedance e mover a câmera, ele automaticamente cria uma boa transição nas mudanças de ângulo do fundo, então basta especificar o fundo + o movimento da câmera e deixar por conta dele."
+    },
+    "zh": {
+      "content": "在 Seedance 中随意设置背景并移动摄像机时，它会自动把背景角度的变化演绎得很自然，所以只要指定背景 + 摄像机动作，然后交给它处理即可"
+    }
+  }
+}

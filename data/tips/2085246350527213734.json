@@ -1,0 +1,43 @@
+{
+  "id": "2085246350527213734",
+  "title": "Plan the entire FPV drone path shot-by-shot (fully choreograph the sequence)…",
+  "content": "Plan the entire FPV drone path shot-by-shot (fully choreograph the sequence) before generating in Seedance, then generate the one-take camera move to play out cinematically.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085245926789279744/img/c5mxKpJzaIs5UvNG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085246350527213734.mp4",
+  "sourceLink": "https://x.com/kakarPathan_/status/2085246350527213734",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Sidra",
+    "link": "https://x.com/kakarPathan_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Plan the entire FPV drone path shot-by-shot (fully choreograph the sequence) before generating in Seedance, then generate the one-take camera move to play out cinematically.",
+  "translations": {
+    "es": {
+      "content": "Planifica toda la trayectoria del dron FPV plano por plano (coreografía completa de la secuencia) antes de generar en Seedance, y luego genera el movimiento de cámara en una sola toma para que se desarrolle de forma cinematográfica."
+    },
+    "fr": {
+      "content": "Planifiez l’intégralité du trajet du drone FPV plan par plan (chorégraphiez entièrement la séquence) avant de générer dans Seedance, puis générez le mouvement de caméra en une seule prise pour un rendu cinématographique."
+    },
+    "ja": {
+      "content": "Seedanceで生成する前に、FPVドローンの全ルートをショットごとに綿密に設計し、シーケンス全体を完全に振り付けてから、ワンテイクのカメラ移動を生成して cinematic に演出する。"
+    },
+    "ko": {
+      "content": "Seedance에서 생성하기 전에 FPV 드론 경로를 샷 단위로 전체 플래닝하고(시퀀스를 완전히 안무하듯 구성한 뒤), 그다음 원테이크 카메라 무브를 생성해 cinematic하게 연출하세요."
+    },
+    "pt": {
+      "content": "Planeje todo o percurso do drone FPV, tomada por tomada (coreografe totalmente a sequência) antes de gerar no Seedance; depois, gere o movimento de câmera em plano-sequência para ser executado de forma cinematográfica."
+    },
+    "zh": {
+      "content": "在 Seedance 中生成之前，先逐镜头规划整个 FPV 无人机路径（完整编排整个序列），然后生成一镜到底的镜头运动，以电影感方式呈现。"
+    }
+  }
+}

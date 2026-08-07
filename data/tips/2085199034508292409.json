@@ -1,0 +1,42 @@
+{
+  "id": "2085199034508292409",
+  "title": "MiniMax H3はプロンプト忠実度が高いので、ストーリーボードが不鮮明／破綻しているとそのまま参照して崩れやすくなるため、生成前にストーリーボードの精度を上…",
+  "content": "MiniMax H3はプロンプト忠実度が高いので、ストーリーボードが不鮮明／破綻しているとそのまま参照して崩れやすくなるため、生成前にストーリーボードの精度を上げてから使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085195928131284992/img/2sqSGDkeV4tmmloc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085199034508292409.mp4",
+  "sourceLink": "https://x.com/tokyo_Valentine/status/2085199034508292409",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "とすくん",
+    "link": "https://x.com/tokyo_Valentine"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "MiniMax H3はプロンプト忠実度が高いので、ストーリーボードが不鮮明／破綻しているとそのまま参照して崩れやすくなるため、生成前にストーリーボードの精度を上げてから使う",
+  "translations": {
+    "en": {
+      "content": "MiniMax H3 has high prompt fidelity, so if the storyboard is blurry or broken, it tends to reference it as-is and can fall apart. For that reason, it’s better to improve the storyboard’s accuracy before generating.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here is the MiniMax H3 version\n\nMiniMax H3 is the most faithful to the prompt, but\nwhen the storyboard is not clear, it can end up referencing a broken storyboard as-is, so I felt that storyboard accuracy is also required.\n\nMade with\n@Hailuo_AI #minimaxH3 https://t.co/Yc3OU8sz2B\n---"
+    },
+    "es": {
+      "content": "MiniMax H3 tiene una alta fidelidad al prompt, así que, si el storyboard está borroso o roto, tiende a referenciarlo tal cual y a desmoronarse; por eso conviene mejorar la precisión del storyboard antes de generar.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí está la versión de MiniMax H3\n\nMiniMax H3 es el que más fielmente sigue el prompt, pero\nsi el storyboard no está claro, etc.,\nhay casos en los que toma como referencia un storyboard roto tal cual, así que pensé que también se requiere precisión en el storyboard.\n\nHecho con\n@Hailuo_AI #minimaxH3 https://t.co/Yc3OU8sz2B"
+    },
+    "fr": {
+      "content": "MiniMax H3 a une grande fidélité au prompt, donc si le storyboard est flou ou incohérent, il risque de le reprendre tel quel et de se désorganiser ; il vaut donc mieux améliorer la précision du storyboard avant la génération, puis l’utiliser.\n\n--- CONTINUATION DU THREAD ---\n[Thread 1] Voici la version MiniMax H3\n\nMiniMax H3 est très fidèle au prompt, mais\nlorsque le storyboard n’est pas clair, etc.,\nil peut arriver qu’il se réfère tel quel à un storyboard incohérent, donc j’ai pensé qu’il fallait aussi une grande précision du storyboard.\n\nMade with\n@Hailuo_AI #minimaxH3 https://t.co/Yc3OU8sz2B\n---"
+    },
+    "ko": {
+      "content": "MiniMax H3는 prompt 충실도가 높기 때문에, 스토리보드가 불명확하거나 깨져 있으면 그 상태를 그대로 참조해 결과가 무너질 수 있으므로, 생성 전에 스토리보드의 정확도를 높인 뒤 사용하는 것이 좋다\n\n--- THREAD CONTINUATION ---\n[Thread 1] MiniMax H3 버전은 여기\n\nprompt에 충실한 것은 MiniMax H3지만\n스토리보드가 선명하지 않은 경우 등\n깨진 스토리보드를 그대로 참조해 버리는 부분이 있어서 스토리보드의 정확도도 필요하다고 느꼈습니다.\n\nMade with\n@Hailuo_AI #minimaxH3 https://t.co/Yc3OU8sz2B\n---"
+    },
+    "pt": {
+      "content": "MiniMax H3 tem alta fidelidade ao prompt, então, se o storyboard estiver pouco nítido ou com falhas, ele tende a referenciá-lo 그대로 e pode desandar; por isso, é melhor aumentar a precisão do storyboard antes de gerar.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] A versão MiniMax H3 está aqui\n\nO MiniMax H3 é o mais fiel ao prompt, mas\nquando o storyboard não está claro, por exemplo,\nele pode acabar referenciando um storyboard com falhas 그대로, então achei que também é necessário ter um storyboard preciso.\n\nFeito com\n@Hailuo_AI #minimaxH3 https://t.co/Yc3OU8sz2B"
+    },
+    "zh": {
+      "content": "MiniMax H3 对 prompt 的忠实度很高，因此如果 storyboard 不够清晰或已经出现破绽，它也会直接照着参考，容易导致画面崩坏，所以在生成前最好先提高 storyboard 的准确度，再使用。\n\n--- THREAD CONTINUATION ---\n[Thread 1] MiniMax H3 版本在这里\n\n在对 prompt 的忠实度方面，MiniMax H3 确实很强，  \n但如果 storyboard 不够清晰，  \n它有时会直接参考那些已经破绽的 storyboard，所以我觉得对 storyboard 的精度也有要求。\n\nMade with\n@Hailuo_AI #minimaxH3 https://t.co/Yc3OU8sz2B\n---"
+    }
+  }
+}

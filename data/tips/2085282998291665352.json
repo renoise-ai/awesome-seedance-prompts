@@ -1,0 +1,41 @@
+{
+  "id": "2085282998291665352",
+  "title": "Structure a Seedance 2.0 prompt as a timecoded shot list (e.g., 0–3s, 3–6s…",
+  "content": "Structure a Seedance 2.0 prompt as a timecoded shot list (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) describing action and camera direction for each segment to control pacing and continuity in a 15-second sequence.\n\nSpecify concrete camera moves and framing in the prompt (e.g., follow from behind → move around to reveal expression, extreme close-ups, slow circular movements, smooth 360° orbit, crane up to panoramic, fade to white) to guide Seedance’s cinematography.\n\nAdd animation/visual technique keywords like expressive facial animation, flowing hair simulation, painterly lighting, and seamless cinematic camera movement to push higher-quality character performance and motion.\n\nInclude a dedicated sound design block (music + SFX cues like solo piano, soft strings, wind, birdsong, water ripples, crescendo, sustained violin note) to define the intended audio mood and timing alongside the visuals.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2085282998291665352",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Structure a Seedance 2.0 prompt as a timecoded shot list (e.g., 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) describing action and camera direction for each segment to control pacing and continuity in a 15-second sequence.\n\nSpecify concrete camera moves and framing in the prompt (e.g., follow from behind → move around to reveal expression, extreme close-ups, slow circular movements, smooth 360° orbit, crane up to panoramic, fade to white) to guide Seedance’s cinematography.\n\nAdd animation/visual technique keywords like expressive facial animation, flowing hair simulation, painterly lighting, and seamless cinematic camera movement to push higher-quality character performance and motion.\n\nInclude a dedicated sound design block (music + SFX cues like solo piano, soft strings, wind, birdsong, water ripples, crescendo, sustained violin note) to define the intended audio mood and timing alongside the visuals.",
+  "translations": {
+    "es": {
+      "content": "Estructura un prompt de Seedance 2.0 como una lista de planos con marcas de tiempo (por ejemplo, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s) que describa la acción y la dirección de cámara para cada segmento, con el fin de controlar el ritmo y la continuidad en una secuencia de 15 segundos.\n\nEspecifica movimientos de cámara concretos y el encuadre en el prompt (por ejemplo, follow from behind → move around to reveal expression, extreme close-ups, slow circular movements, smooth 360° orbit, crane up to panoramic, fade to white) para guiar la cinematografía de Seedance.\n\nAñade palabras clave de técnicas de animación/visual como expressive facial animation, flowing hair simulation, painterly lighting y seamless cinematic camera movement para impulsar una interpretación de personaje y un movimiento de mayor calidad.\n\nIncluye un bloque dedicado de diseño sonoro (música + indicaciones de SFX como solo piano, soft strings, wind, birdsong, water ripples, crescendo, sustained violin note) para definir la intención del ambiente sonoro y su sincronización junto con las imágenes."
+    },
+    "fr": {
+      "content": "Structurez un prompt Seedance 2.0 sous forme de liste de plans horodatés (par ex. 0–3 s, 3–6 s, 6–9 s, 9–12 s, 12–15 s) décrivant l’action et la direction de caméra pour chaque segment afin de contrôler le rythme et la continuité sur une séquence de 15 secondes.\n\nPrécisez dans le prompt des mouvements de caméra et des cadrages concrets (par ex. follow from behind → move around to reveal expression, extreme close-ups, slow circular movements, smooth 360° orbit, crane up to panoramic, fade to white) afin de guider la cinématographie de Seedance.\n\nAjoutez des mots-clés de technique d’animation/visuel comme expressive facial animation, flowing hair simulation, painterly lighting et seamless cinematic camera movement pour obtenir une performance des personnages et un mouvement de meilleure qualité.\n\nIncluez un bloc dédié au sound design (musique + indications SFX comme solo piano, soft strings, wind, birdsong, water ripples, crescendo, sustained violin note) afin de définir l’ambiance audio et le timing souhaités en parallèle des visuels."
+    },
+    "ja": {
+      "content": "Seedance 2.0 の prompt は、時間指定付きのショットリストとして構成します（例：0–3秒、3–6秒、6–9秒、9–12秒、12–15秒）。各セグメントごとにアクションとカメラの指示を記述し、15秒のシーケンス全体のテンポと連続性をコントロールします。\n\nprompt には、具体的なカメラワークとフレーミングを明記します（例：後方から追従 → 回り込んで表情を見せる、extreme close-up、ゆっくりした円運動、滑らかな 360° orbit、crane up して panoramic に、fade to white など）。これにより、Seedance の cinematography を意図どおりに誘導できます。\n\nexpressive facial animation、flowing hair simulation、painterly lighting、seamless cinematic camera movement などのアニメーション／ビジュアル技法のキーワードを加えることで、キャラクターの演技や動きの品質をさらに高めます。\n\n音楽と SFX のキュー（solo piano、soft strings、wind、birdsong、water ripples、crescendo、sustained violin note など）を含む専用の sound design ブロックを追加し、映像とあわせて意図した音のムードとタイミングを定義します。"
+    },
+    "ko": {
+      "content": "Seedance 2.0 prompt를 시간 코드가 있는 shot list 형식으로 구성하세요(예: 0–3초, 3–6초, 6–9초, 9–12초, 12–15초). 각 구간의 action과 camera direction을 묘사해 15초 시퀀스의 pacing과 continuity를 제어합니다.\n\nprompt 안에는 구체적인 camera move와 framing을 명시하세요(예: 뒤에서 따라가기 → 돌아서 표정을 드러내기, extreme close-up, 느린 원형 이동, 부드러운 360° orbit, crane up으로 panoramic 전환, fade to white). 이를 통해 Seedance의 cinematography를 유도합니다.\n\nexpressive facial animation, flowing hair simulation, painterly lighting, seamless cinematic camera movement 같은 animation/visual technique 키워드를 추가해 캐릭터의 performance와 motion을 더 높은 퀄리티로 끌어올리세요.\n\n전용 sound design 블록도 포함하세요(music + SFX cues: solo piano, soft strings, wind, birdsong, water ripples, crescendo, sustained violin note 등). 이를 통해 visuals와 함께 의도한 audio mood와 timing을 정의합니다."
+    },
+    "pt": {
+      "content": "Estruture um prompt do Seedance 2.0 como uma shot list com timecodes (por exemplo, 0–3s, 3–6s, 6–9s, 9–12s, 12–15s), descrevendo a ação e a direção de câmera para cada segmento, a fim de controlar o ritmo e a continuidade em uma sequência de 15 segundos.\n\nEspecifique movimentos de câmera e enquadramentos concretos no prompt (por exemplo, follow from behind → move around to reveal expression, extreme close-ups, slow circular movements, smooth 360° orbit, crane up to panoramic, fade to white) para orientar a cinematografia do Seedance.\n\nAdicione palavras-chave de técnica de animação/visual como expressive facial animation, flowing hair simulation, painterly lighting e seamless cinematic camera movement para impulsionar uma performance de personagem e um movimento de maior qualidade.\n\nInclua um bloco dedicado de sound design (música + cues de SFX como solo piano, soft strings, wind, birdsong, water ripples, crescendo, sustained violin note) para definir o clima sonoro pretendido e o timing em conjunto com os visuais."
+    },
+    "zh": {
+      "content": "将 Seedance 2.0 prompt 结构化为带时间码的 shot list（例如 0–3s、3–6s、6–9s、9–12s、12–15s），为每个片段描述动作和镜头方向，以控制 15 秒序列中的节奏与连贯性。\n\n在 prompt 中明确指定具体的 camera moves 和 framing（例如，从背后跟随 → 绕到前方揭示表情、极近景、缓慢环绕运动、平滑的 360° orbit、升降机位拉升至全景、fade to white），以引导 Seedance 的 cinematography。\n\n加入动画/视觉技术关键词，如 expressive facial animation、flowing hair simulation、painterly lighting 和 seamless cinematic camera movement，以提升角色表演和运动的质量。\n\n加入一个专门的 sound design block（music + SFX cues，例如 solo piano、soft strings、wind、birdsong、water ripples、crescendo、sustained violin note），以便与视觉内容一起定义预期的音频氛围和时间安排。"
+    }
+  }
+}

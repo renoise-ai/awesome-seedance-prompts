@@ -1,0 +1,42 @@
+{
+  "id": "2085197030989902027",
+  "title": "具体的で分かりやすいプロンプトを書く（曖昧な表現を避け、内容を具体化する）",
+  "content": "具体的で分かりやすいプロンプトを書く（曖昧な表現を避け、内容を具体化する）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085197018889396224/img/cahkMGXyWG_dESnG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085197030989902027.mp4",
+  "sourceLink": "https://x.com/Manabu20104321/status/2085197030989902027",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Manabu",
+    "link": "https://x.com/Manabu20104321"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "具体的で分かりやすいプロンプトを書く（曖昧な表現を避け、内容を具体化する）",
+  "translations": {
+    "en": {
+      "content": "Write a specific and clear prompt (avoid vague expressions and make the content more concrete)"
+    },
+    "es": {
+      "content": "Escribe un prompt específico y fácil de entender (evita expresiones ambiguas y concreta el contenido)"
+    },
+    "fr": {
+      "content": "Rédigez un prompt concret et facile à comprendre (évitez les expressions ambiguës et précisez le contenu)"
+    },
+    "ko": {
+      "content": "구체적이고 이해하기 쉬운 prompt를 작성하기 (모호한 표현을 피하고, 내용을 구체화하기)"
+    },
+    "pt": {
+      "content": "Escreva prompts específicos e fáceis de entender (evite expressões ambíguas e torne o conteúdo mais concreto)"
+    },
+    "zh": {
+      "content": "写出具体且易懂的 prompt（避免模糊表达，使内容具体化）"
+    }
+  }
+}

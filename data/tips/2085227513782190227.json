@@ -1,0 +1,45 @@
+{
+  "id": "2085227513782190227",
+  "title": "用同一张参考图和同一套脚本在不同模型上跑“子弹时间”对比测试，重点观察主体飞行轨迹、物理连续性和剪辑匹配度来评估效果",
+  "content": "用同一张参考图和同一套脚本在不同模型上跑“子弹时间”对比测试，重点观察主体飞行轨迹、物理连续性和剪辑匹配度来评估效果\n在九宫格时空穿梭的参考里替换主体（如把黑猩猩换成古代女子）来测试模型对参考主体替换与镜头衔接的控制能力",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085227299750969344/img/VlHHZXT7ug3fRyIL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085227513782190227.mp4",
+  "sourceLink": "https://x.com/joshesye/status/2085227513782190227",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "行者AI视频",
+    "link": "https://x.com/joshesye"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "VFX",
+    "Slow-Mo",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "用同一张参考图和同一套脚本在不同模型上跑“子弹时间”对比测试，重点观察主体飞行轨迹、物理连续性和剪辑匹配度来评估效果\n在九宫格时空穿梭的参考里替换主体（如把黑猩猩换成古代女子）来测试模型对参考主体替换与镜头衔接的控制能力",
+  "translations": {
+    "en": {
+      "content": "Run “bullet time” comparison tests across different models using the same reference image and the same script, focusing on the subject’s flight trajectory, physical continuity, and editing match to evaluate performance.\n\nIn the nine-grid time-space travel reference, replace the subject (for example, swapping the chimpanzee for an ancient woman) to test the model’s ability to control reference subject replacement and shot continuity."
+    },
+    "es": {
+      "content": "Usa la misma imagen de referencia y el mismo conjunto de scripts en distintos modelos para ejecutar una prueba comparativa de “bullet time”, observando especialmente la trayectoria de vuelo del sujeto, la continuidad física y la precisión del montaje para evaluar el resultado.\n\nEn la referencia de viaje espacio-temporal en una cuadrícula de nueve cuadros, sustituye al sujeto (por ejemplo, cambiar un chimpancé por una mujer de la antigüedad) para probar la capacidad del modelo para controlar la sustitución del sujeto de referencia y la continuidad entre planos."
+    },
+    "fr": {
+      "content": "Utiliser la même image de référence et le même script sur différents modèles pour réaliser un test comparatif de « bullet time », en observant principalement la trajectoire de vol du sujet, la continuité physique et la cohérence du montage afin d’évaluer les résultats.\n\nDans la référence de voyage spatio-temporel en grille 3x3, remplacer le sujet (par exemple, remplacer le chimpanzé par une femme de l’Antiquité) afin de tester la capacité du modèle à contrôler le remplacement du sujet de référence et la continuité des plans."
+    },
+    "ja": {
+      "content": "Use the same reference image and the same script across different models to run a “bullet time” comparison test, focusing on the subject’s flight trajectory, physical continuity, and edit matching to evaluate performance.\n\nIn the nine-grid time-space travel reference, replace the subject (for example, swapping the chimpanzee with an ancient woman) to test the model’s control over reference subject replacement and shot continuity."
+    },
+    "ko": {
+      "content": "같은 참고 이미지와 같은 스크립트를 사용해 서로 다른 모델에서 “bullet time” 비교 테스트를 진행하고, 주체의 비행 궤적, 물리적 연속성, 편집 매칭도를 중점적으로 관찰해 효과를 평가한다.  \n9칸 시공간 이동 참고 예시에서 주체를 교체해(예: 침팬지를 고대 여성으로 바꾸기) 모델이 참고 주체 교체와 샷 연결을 얼마나 잘 제어하는지 테스트한다."
+    },
+    "pt": {
+      "content": "Usar a mesma imagem de referência e o mesmo conjunto de scripts em diferentes modelos para executar um teste comparativo de “bullet time”, observando principalmente a trajetória de voo do sujeito, a continuidade física e a compatibilidade da edição para avaliar o resultado.\n\nNa referência de viagem no tempo em grade 3x3, substituir o sujeito (por exemplo, trocar o chimpanzé por uma mulher da antiguidade) para testar a capacidade do modelo de controlar a substituição do sujeito de referência e a continuidade entre os planos."
+    }
+  }
+}
