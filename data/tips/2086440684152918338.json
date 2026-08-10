@@ -1,0 +1,42 @@
+{
+  "id": "2086440684152918338",
+  "title": "在 director skill 中启用新增的 Cinematic Drama（剧情影像）模式来生成短剧风格视频",
+  "content": "在 director skill 中启用新增的 Cinematic Drama（剧情影像）模式来生成短剧风格视频  \n用 Codex/Claude Code/Pi 等 Agent 自动化完成短剧生产流程：人物设定→场景设定→音色→分镜→视频生成，实现一天约 10–20 条产出",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086440159990665216/img/G0pLl7hWfJuLIvMq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086440684152918338.mp4",
+  "sourceLink": "https://x.com/s1dashu/status/2086440684152918338",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "sida",
+    "link": "https://x.com/s1dashu"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "在 director skill 中启用新增的 Cinematic Drama（剧情影像）模式来生成短剧风格视频  \n用 Codex/Claude Code/Pi 等 Agent 自动化完成短剧生产流程：人物设定→场景设定→音色→分镜→视频生成，实现一天约 10–20 条产出",
+  "translations": {
+    "en": {
+      "content": "Enable the newly added Cinematic Drama mode in director skill to generate short-drama-style videos.  \nUse agents such as Codex, Claude Code, and Pi to automate the short-drama production workflow: character setup → scene setup → voice tone → storyboarding → video generation, achieving an output of about 10–20 pieces per day."
+    },
+    "es": {
+      "content": "Habilita el nuevo modo Cinematic Drama (剧情影像) en director skill para generar videos con estilo de drama corto  \nUsa agentes como Codex/Claude Code/Pi para automatizar todo el flujo de producción de dramas cortos: diseño de personajes → diseño de escenas → timbre de voz → storyboard → generación de video, logrando una producción de aproximadamente 10–20 piezas al día"
+    },
+    "fr": {
+      "content": "Dans le skill director, activez le nouveau mode Cinematic Drama (drama visuel) pour générer des vidéos au style de mini-séries  \nUtilisez des agents comme Codex/Claude Code/Pi pour automatiser l’ensemble du processus de production de mini-séries : conception des personnages → conception des scènes → timbre vocal → découpage en plans → génération vidéo, afin d’atteindre une production d’environ 10 à 20 contenus par jour"
+    },
+    "ja": {
+      "content": "director skill で新たに追加された Cinematic Drama（剧情影像）モードを有効にして、ショートドラマ風の動画を生成する  \nCodex / Claude Code / Pi などの Agent を使ってショートドラマの制作フローを自動化：人物設定 → シーン設定 → 音色 → 絵コンテ → 動画生成、これにより 1 日あたり約 10〜20 本の出力を実現"
+    },
+    "ko": {
+      "content": "director skill에서 새로 추가된 Cinematic Drama(드라마 영상) 모드를 활성화해 숏드라마 스타일의 영상을 생성  \nCodex/Claude Code/Pi 등의 Agent를 활용해 숏드라마 제작 프로세스를 자동화: 인물 설정→장면 설정→음색→스토리보드→영상 생성까지, 하루 약 10~20건의 산출 실현"
+    },
+    "pt": {
+      "content": "Ative o novo modo Cinematic Drama (剧情影像) no director skill para gerar vídeos no estilo de minisséries dramáticas  \nUse agentes como Codex/Claude Code/Pi para automatizar todo o fluxo de produção de minisséries: definição de personagens → definição de cenários → timbre de voz → storyboard → geração de vídeo, alcançando cerca de 10–20 entregas por dia"
+    }
+  }
+}

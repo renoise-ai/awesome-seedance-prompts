@@ -1,0 +1,42 @@
+{
+  "id": "2086092818917851273",
+  "title": "Break a viral video into a scene-by-scene description using Gemini before…",
+  "content": "Break a viral video into a scene-by-scene description using Gemini before generating anything  \nFeed the scene breakdown into ChatGPT along with your AI influencer model’s reference image to generate scene prompts  \nConvert the full video plan into an 8-frame storyboard before running Seedance 2.0  \nRefine lighting and character consistency until every storyboard frame matches your model before generating video  \nUse Seedance 2.0 to transform the storyboard into a cinematic AI video  \nCombine the storyboard, per-scene prompts, and reference images into a single Seedance generation pipeline  \nCreate a unique AI voice in ElevenLabs that matches your character and sync it into each generated video  \nRepeat the same storyboard-to-Seedance pipeline across different niches, styles, or content formats",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079464240138616832/img/WfBl1Rd-SUbjVHLa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086092818917851273.mp4",
+  "sourceLink": "https://x.com/Mavernxbt/status/2086092818917851273",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "Mavern",
+    "link": "https://x.com/Mavernxbt"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Break a viral video into a scene-by-scene description using Gemini before generating anything  \nFeed the scene breakdown into ChatGPT along with your AI influencer model’s reference image to generate scene prompts  \nConvert the full video plan into an 8-frame storyboard before running Seedance 2.0  \nRefine lighting and character consistency until every storyboard frame matches your model before generating video  \nUse Seedance 2.0 to transform the storyboard into a cinematic AI video  \nCombine the storyboard, per-scene prompts, and reference images into a single Seedance generation pipeline  \nCreate a unique AI voice in ElevenLabs that matches your character and sync it into each generated video  \nRepeat the same storyboard-to-Seedance pipeline across different niches, styles, or content formats",
+  "translations": {
+    "es": {
+      "content": "Desglosa un video viral en una descripción escena por escena usando Gemini antes de generar nada  \nIntroduce el desglose de escenas en ChatGPT junto con la imagen de referencia de tu modelo influencer de IA para generar prompts de escena  \nConvierte el plan completo del video en un storyboard de 8 fotogramas antes de ejecutar Seedance 2.0  \nPerfecciona la iluminación y la coherencia del personaje hasta que cada fotograma del storyboard coincida con tu modelo antes de generar el video  \nUsa Seedance 2.0 para transformar el storyboard en un video cinematográfico de IA  \nCombina el storyboard, los prompts por escena y las imágenes de referencia en un único pipeline de generación de Seedance  \nCrea una voz de IA única en ElevenLabs que coincida con tu personaje y sincronízala en cada video generado  \nRepite el mismo pipeline de storyboard a Seedance en distintos nichos, estilos o formatos de contenido"
+    },
+    "fr": {
+      "content": "Décomposez une vidéo virale en une description scène par scène à l’aide de Gemini avant de générer quoi que ce soit  \nTransmettez le découpage des scènes à ChatGPT, avec l’image de référence de votre modèle d’influenceur IA, pour générer les prompts de scène  \nConvertissez le plan vidéo complet en un storyboard de 8 frames avant de lancer Seedance 2.0  \nAffinez l’éclairage et la cohérence du personnage jusqu’à ce que chaque frame du storyboard corresponde à votre modèle avant de générer la vidéo  \nUtilisez Seedance 2.0 pour transformer le storyboard en une vidéo IA cinématique  \nCombinez le storyboard, les prompts par scène et les images de référence dans un seul pipeline de génération Seedance  \nCréez une voix IA unique dans ElevenLabs qui corresponde à votre personnage et synchronisez-la dans chaque vidéo générée  \nRépétez le même pipeline du storyboard à Seedance dans différents niches, styles ou formats de contenu"
+    },
+    "ja": {
+      "content": "バイラル動画を、何かを生成する前に Gemini を使ってシーンごとの説明に分解する  \nシーン分解を、AIインフルエンサーモデルの参照画像と一緒に ChatGPT に入力して、各シーンの prompt を生成する  \nSeedance 2.0 を実行する前に、動画全体のプランを 8 フレームの storyboard に変換する  \n各 storyboard フレームがモデルと一致するまで、ライティングとキャラクターの一貫性を調整する  \nSeedance 2.0 を使って storyboard を cinematic な AI video に変換する  \nstoryboard、各シーンの prompt、参照画像を 1 つの Seedance generation pipeline にまとめる  \nElevenLabs でキャラクターに合った独自の AI voice を作成し、生成した各動画に同期させる  \n同じ storyboard から Seedance への pipeline を、異なる niche、style、または content format にわたって繰り返し使う"
+    },
+    "ko": {
+      "content": "바이럴 영상을 생성하기 전에 Gemini를 사용해 장면별 설명으로 분해하기  \n장면 분해 내용을 AI 인플루언서 모델의 레퍼런스 이미지와 함께 ChatGPT에 입력해 scene prompts 생성하기  \n전체 영상 기획을 Seedance 2.0을 실행하기 전에 8프레임 스토리보드로 변환하기  \n생성 전에 모든 스토리보드 프레임이 모델과 일치할 때까지 조명과 캐릭터 일관성을 다듬기  \nSeedance 2.0을 사용해 스토리보드를 cinematic AI video로 변환하기  \n스토리보드, 장면별 prompts, 레퍼런스 이미지를 하나의 Seedance 생성 파이프라인으로 결합하기  \n캐릭터에 맞는 고유한 AI voice를 ElevenLabs에서 만들고, 이를 각 생성 영상에 싱크하기  \n같은 storyboard-to-Seedance 파이프라인을 다양한 니치, 스타일, 또는 콘텐츠 형식에 반복 적용하기"
+    },
+    "pt": {
+      "content": "Quebre um vídeo viral em uma descrição cena a cena usando o Gemini antes de gerar qualquer coisa  \nAlimente o detalhamento das cenas no ChatGPT junto com a imagem de referência do seu modelo de influencer de IA para gerar prompts de cena  \nConverta o plano completo do vídeo em um storyboard de 8 quadros antes de executar o Seedance 2.0  \nAjuste a iluminação e a consistência do personagem até que cada quadro do storyboard corresponda ao seu modelo antes de gerar o vídeo  \nUse o Seedance 2.0 para transformar o storyboard em um vídeo cinematográfico de IA  \nCombine o storyboard, os prompts por cena e as imagens de referência em um único pipeline de geração no Seedance  \nCrie uma voz de IA exclusiva no ElevenLabs que combine com seu personagem e sincronize-a em cada vídeo gerado  \nRepita o mesmo pipeline de storyboard para Seedance em diferentes nichos, estilos ou formatos de conteúdo"
+    },
+    "zh": {
+      "content": "在生成任何内容之前，先使用 Gemini 将爆款视频拆解为逐场景描述  \n将场景拆解结果连同你的 AI 网红模型参考图一起输入 ChatGPT，生成各场景 prompt  \n在运行 Seedance 2.0 之前，将完整视频方案转换为 8 帧 storyboard  \n持续优化光照和角色一致性，直到每一帧 storyboard 都与模型一致，再生成视频  \n使用 Seedance 2.0 将 storyboard 转化为 cinematic AI 视频  \n将 storyboard、逐场景 prompts 和参考图整合到一个统一的 Seedance 生成流程中  \n在 ElevenLabs 中创建一个与角色匹配的独特 AI 声音，并将其同步到每个生成的视频中  \n在不同细分领域、风格或内容形式中重复同样的 storyboard-to-Seedance 流程"
+    }
+  }
+}

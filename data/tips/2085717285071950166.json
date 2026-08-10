@@ -1,0 +1,42 @@
+{
+  "id": "2085717285071950166",
+  "title": "Convert the target video into a depth video, then use that depth video as…",
+  "content": "Convert the target video into a depth video, then use that depth video as Seedance’s video reference to replicate the original motion, camera movement, and pacing.\n\nUse an Image-to-Prompt tool on the original character to extract key visual details and apply them when preparing your replacement character description.\n\nIn Seedance, upload the replacement character as an image reference while using the depth video as the video reference to recreate the viral video with only one character image.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085716594974756865/img/kfX5nG_RAp1xa6BQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085717285071950166.mp4",
+  "sourceLink": "https://x.com/underwoodxie96/status/2085717285071950166",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "underwood",
+    "link": "https://x.com/underwoodxie96"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Convert the target video into a depth video, then use that depth video as Seedance’s video reference to replicate the original motion, camera movement, and pacing.\n\nUse an Image-to-Prompt tool on the original character to extract key visual details and apply them when preparing your replacement character description.\n\nIn Seedance, upload the replacement character as an image reference while using the depth video as the video reference to recreate the viral video with only one character image.",
+  "translations": {
+    "es": {
+      "content": "Convierte el video de destino en un video de profundidad y luego usa ese video de profundidad como referencia de video de Seedance para replicar el movimiento original, el movimiento de cámara y el ritmo.\n\nUsa una herramienta de Image-to-Prompt sobre el personaje original para extraer los detalles visuales clave y aplícalos al preparar la descripción de tu personaje de reemplazo.\n\nEn Seedance, sube el personaje de reemplazo como referencia de imagen mientras usas el video de profundidad como referencia de video para recrear el video viral con solo una imagen de personaje."
+    },
+    "fr": {
+      "content": "Convertissez la vidéo cible en une vidéo de profondeur, puis utilisez cette vidéo de profondeur comme référence vidéo de Seedance afin de reproduire le mouvement original, les mouvements de caméra et le rythme.\n\nUtilisez un outil Image-to-Prompt sur le personnage original pour extraire les détails visuels clés et appliquez-les lors de la préparation de la description du personnage de remplacement.\n\nDans Seedance, importez le personnage de remplacement comme référence d’image tout en utilisant la vidéo de profondeur comme référence vidéo afin de recréer la vidéo virale avec une seule image de personnage."
+    },
+    "ja": {
+      "content": "対象の動画をdepth videoに変換し、そのdepth videoをSeedanceのvideo referenceとして使用して、元の動き、カメラワーク、テンポを再現します。\n\n元のキャラクターに対してImage-to-Promptツールを使い、主要なビジュアル要素を抽出し、それを置き換えキャラクターの説明を作成する際に反映させます。\n\nSeedanceでは、置き換えキャラクターをimage referenceとしてアップロードし、depth videoをvideo referenceとして使用することで、キャラクター画像1枚だけでバイラル動画を再現します。"
+    },
+    "ko": {
+      "content": "대상 비디오를 depth video로 변환한 다음, 그 depth video를 Seedance의 video reference로 사용해 원본의 motion, camera movement, pacing을 그대로 재현합니다.\n\nImage-to-Prompt 도구를 원본 캐릭터에 사용해 핵심 시각적 디테일을 추출하고, 이를 replacement character 설명을 준비할 때 반영합니다.\n\nSeedance에서는 replacement character를 image reference로 업로드하고, depth video를 video reference로 사용해 단 하나의 캐릭터 이미지로 바이럴 비디오를 재현합니다."
+    },
+    "pt": {
+      "content": "Converta o vídeo de destino em um vídeo de profundidade e, em seguida, use esse vídeo de profundidade como referência de vídeo do Seedance para replicar o movimento original, o movimento de câmera e o ritmo.\n\nUse uma ferramenta de Image-to-Prompt no personagem original para extrair os principais detalhes visuais e aplique-os ao preparar a descrição do personagem substituto.\n\nNo Seedance, faça o upload do personagem substituto como uma referência de imagem enquanto usa o vídeo de profundidade como referência de vídeo para recriar o vídeo viral com apenas uma imagem de personagem."
+    },
+    "zh": {
+      "content": "将目标视频转换为深度视频，然后将该深度视频作为 Seedance 的视频参考，以复现原始的运动、镜头运动和节奏。\n\n使用 Image-to-Prompt 工具对原始角色进行分析，提取关键视觉细节，并在准备替换角色描述时加以应用。\n\n在 Seedance 中，上传替换角色作为图像参考，同时使用深度视频作为视频参考，即可仅凭一张角色图像重现这条爆款视频。"
+    }
+  }
+}

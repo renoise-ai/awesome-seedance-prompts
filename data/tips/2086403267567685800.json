@@ -1,0 +1,42 @@
+{
+  "id": "2086403267567685800",
+  "title": "Lock your shot list before running any Seedance generations to keep the…",
+  "content": "Lock your shot list before running any Seedance generations to keep the sequence consistent across angles and cuts  \nSet up a single, fixed environment/lighting configuration and reuse it across every clip to maintain one consistent lighting look  \nCreate robust character builds that hold up across front, back, and profile views to prevent identity drift  \nRun a dedicated generation pass focused on keeping the product identical shot-to-shot (especially to preserve readable garment text/logos)",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086402724594335744/img/ueleU1Bk3Kx94r2m.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086403267567685800.mp4",
+  "sourceLink": "https://x.com/OzairAkhtar5/status/2086403267567685800",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Ozair Akhtar",
+    "link": "https://x.com/OzairAkhtar5"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Lock your shot list before running any Seedance generations to keep the sequence consistent across angles and cuts  \nSet up a single, fixed environment/lighting configuration and reuse it across every clip to maintain one consistent lighting look  \nCreate robust character builds that hold up across front, back, and profile views to prevent identity drift  \nRun a dedicated generation pass focused on keeping the product identical shot-to-shot (especially to preserve readable garment text/logos)",
+  "translations": {
+    "es": {
+      "content": "Bloquea tu shot list antes de ejecutar cualquier generación de Seedance para mantener la secuencia consistente entre ángulos y cortes  \nConfigura un único entorno/iluminación fijo y reutilízalo en cada clip para mantener un look de iluminación coherente  \nCrea personajes sólidos que se mantengan consistentes en vistas frontales, traseras y de perfil para evitar el identity drift  \nEjecuta una pasada de generación dedicada a mantener el producto idéntico de toma a toma (especialmente para preservar texto/logos legibles en las prendas)"
+    },
+    "fr": {
+      "content": "Verrouillez votre shot list avant de lancer toute génération Seedance afin de conserver une séquence cohérente entre les angles et les cuts  \nMettez en place une configuration unique et fixe de l’environnement/de l’éclairage, puis réutilisez-la pour chaque clip afin de maintenir un rendu lumineux homogène  \nCréez des personnages robustes qui tiennent la route en vue de face, de dos et de profil afin d’éviter toute dérive d’identité  \nLancez un passage de génération dédié, centré sur le fait de garder le produit identique d’un plan à l’autre (en particulier pour préserver la lisibilité du texte/des logos sur les vêtements)"
+    },
+    "ja": {
+      "content": "Seedance の生成を実行する前にショットリストを確定し、アングルやカットをまたいでもシーケンスの一貫性を保つ  \n単一の固定された環境／ライティング設定を用意し、すべてのクリップで再利用して、照明の見た目を一貫させる  \n正面・背面・横顔の各ビューでも崩れない堅牢なキャラクタービルドを作成し、アイデンティティのドリフトを防ぐ  \n商品をショットごとに同一に保つことに特化した専用の生成パスを実行する（特に、衣服のテキストやロゴを読みやすく維持するため）"
+    },
+    "ko": {
+      "content": "Seedance 생성을 실행하기 전에 shot list를 확정해, 각도와 컷이 바뀌어도 시퀀스가 일관되게 유지되도록 하세요  \n하나의 고정된 환경/조명 설정을 구성하고 모든 클립에 재사용해, 일관된 lighting look을 유지하세요  \n정면, 후면, 측면 뷰에서도 안정적으로 유지되는 강력한 character build를 만들어 identity drift를 방지하세요  \n제품이 shot-to-shot으로 동일하게 유지되도록 하는 전용 generation pass를 실행하세요(특히 읽을 수 있는 의류 텍스트/로고를 보존하는 데 중요합니다)"
+    },
+    "pt": {
+      "content": "Trave sua lista de planos antes de iniciar qualquer geração no Seedance para manter a sequência consistente entre ângulos e cortes  \nDefina uma única configuração fixa de ambiente/iluminação e reutilize-a em todos os clipes para manter um visual de iluminação consistente  \nCrie personagens robustos que se mantenham fiéis em vistas frontal, traseira e de perfil para evitar desvio de identidade  \nExecute uma passagem de geração dedicada focada em manter o produto idêntico de um plano para o outro (especialmente para preservar textos/logotipos legíveis nas roupas)"
+    },
+    "zh": {
+      "content": "在运行任何 Seedance 生成之前，先锁定你的 shot list，以确保不同角度和剪辑之间的序列保持一致  \n设置一个单一、固定的环境/灯光配置，并在每个 clip 中重复使用，以保持统一一致的 lighting 风格  \n创建足够稳健的角色设定，使其在正面、背面和侧面视图中都能保持一致，防止 identity drift  \n进行一次专门的生成流程，重点确保产品在每个 shot 中都完全一致（尤其是为了保留可读的服装文字/Logo）"
+    }
+  }
+}

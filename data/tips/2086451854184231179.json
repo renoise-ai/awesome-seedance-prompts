@@ -1,0 +1,43 @@
+{
+  "id": "2086451854184231179",
+  "title": "約1分の自分の声を録音してHiggsfield AIで声をクローンする",
+  "content": "約1分の自分の声を録音してHiggsfield AIで声をクローンする  \nクローンした自分の声でテキストから音声を生成する  \n喋らせたいイラストを用意し、Seedance 2.0で生成した音声に合わせてリップシンクさせる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086451737364467713/img/QdRdNZyooMUXpgwN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086451854184231179.mp4",
+  "sourceLink": "https://x.com/kimarukundayo/status/2086451854184231179",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "きまる君🫡🇯🇵",
+    "link": "https://x.com/kimarukundayo"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "約1分の自分の声を録音してHiggsfield AIで声をクローンする  \nクローンした自分の声でテキストから音声を生成する  \n喋らせたいイラストを用意し、Seedance 2.0で生成した音声に合わせてリップシンクさせる",
+  "translations": {
+    "en": {
+      "content": "Record about one minute of your own voice and clone it with Higgsfield AI  \nGenerate speech from text using your cloned voice  \nPrepare an illustration you want to make speak, and lip-sync it to the audio generated with Seedance 2.0"
+    },
+    "es": {
+      "content": "Graba aproximadamente 1 minuto de tu propia voz y clónala con Higgsfield AI  \nGenera audio a partir de texto con tu voz clonada  \nPrepara una ilustración a la que quieras hacer hablar y sincroniza los labios con el audio generado en Seedance 2.0"
+    },
+    "fr": {
+      "content": "Enregistrez environ 1 minute de votre propre voix pour la cloner avec Higgsfield AI.  \nGénérez un audio à partir d’un texte avec votre voix clonée.  \nPréparez une illustration que vous souhaitez faire parler, puis synchronisez les lèvres avec l’audio généré dans Seedance 2.0."
+    },
+    "ko": {
+      "content": "약 1분 분량의 자신의 목소리를 녹음해 Higgsfield AI로 음성을 클로닝한다  \n클로닝한 자신의 목소리로 텍스트를 음성으로 변환한다  \n말하게 하고 싶은 일러스트를 준비한 뒤, Seedance 2.0으로 생성한 음성에 맞춰 립싱크시킨다"
+    },
+    "pt": {
+      "content": "Grave cerca de 1 minuto da sua própria voz e clone-a com o Higgsfield AI  \nGere áudio a partir de texto com a sua voz clonada  \nPrepare a ilustração que você quer fazer falar e sincronize os lábios com o áudio gerado no Seedance 2.0"
+    },
+    "zh": {
+      "content": "录制约 1 分钟的自己的声音，并使用 Higgsfield AI 克隆你的声音  \n用克隆后的自己的声音将文本转换为语音  \n准备想要开口说话的插画，并使用 Seedance 2.0 生成的音频进行口型同步"
+    }
+  }
+}
