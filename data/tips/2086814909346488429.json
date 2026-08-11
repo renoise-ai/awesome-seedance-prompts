@@ -1,0 +1,42 @@
+{
+  "id": "2086814909346488429",
+  "title": "Feed your product into Claude + MakeUGC to have it analyze the product and…",
+  "content": "Feed your product into Claude + MakeUGC to have it analyze the product and generate two video concepts (one simple animation and one more creative concept).  \nApprove the generated concepts you like in MakeUGC before production.  \nUse Seedream v5.0 Pro + Seedance 2.0 to generate the final animated ad in a chosen style (e.g., brick-style animation, classic studio cartoon, claymation, sitcom-style, hyper-realistic).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2086814891508137984/pu/img/C0NyyC_3w60dX8Ov.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086814909346488429.mp4",
+  "sourceLink": "https://x.com/spwfeijen/status/2086814909346488429",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Stijn Feijen",
+    "link": "https://x.com/spwfeijen"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Feed your product into Claude + MakeUGC to have it analyze the product and generate two video concepts (one simple animation and one more creative concept).  \nApprove the generated concepts you like in MakeUGC before production.  \nUse Seedream v5.0 Pro + Seedance 2.0 to generate the final animated ad in a chosen style (e.g., brick-style animation, classic studio cartoon, claymation, sitcom-style, hyper-realistic).",
+  "translations": {
+    "es": {
+      "content": "Introduce tu producto en Claude + MakeUGC para que lo analice y genere dos conceptos de video (una animación simple y otro concepto más creativo).  \nAprueba en MakeUGC los conceptos generados que te gusten antes de la producción.  \nUsa Seedream v5.0 Pro + Seedance 2.0 para generar el anuncio animado final en un estilo elegido (por ejemplo, animación estilo brick, cartoon clásico de estudio, claymation, estilo sitcom, hiperrealista)."
+    },
+    "fr": {
+      "content": "Alimentez votre produit dans Claude + MakeUGC afin qu’il l’analyse et génère deux concepts vidéo (une animation simple et un concept plus créatif).  \nApprouvez dans MakeUGC les concepts générés que vous aimez avant la production.  \nUtilisez Seedream v5.0 Pro + Seedance 2.0 pour générer la publicité animée finale dans le style de votre choix (par exemple : animation en style briques, cartoon de studio classique, claymation, style sitcom, hyper-réaliste)."
+    },
+    "ja": {
+      "content": "Claude + MakeUGC に商品を入力すると、商品を分析して 2 つの動画コンセプト（1 つはシンプルなアニメーション、もう 1 つはよりクリエイティブなコンセプト）を生成できます。  \nMakeUGC で気に入った生成コンセプトを承認してから制作に進めます。  \nSeedream v5.0 Pro + Seedance 2.0 を使って、選択したスタイル（例: brick-style animation、classic studio cartoon、claymation、sitcom-style、hyper-realistic）で最終的なアニメーション広告を生成します。"
+    },
+    "ko": {
+      "content": "제품을 Claude + MakeUGC에 입력하면, 제품을 분석하고 두 가지 video concept(하나는 단순한 애니메이션, 다른 하나는 더 창의적인 콘셉트)을 생성합니다.  \n생성된 콘셉트 중 마음에 드는 것은 제작 전에 MakeUGC에서 승인하세요.  \nSeedream v5.0 Pro + Seedance 2.0을 사용해 선택한 스타일(예: brick-style animation, classic studio cartoon, claymation, sitcom-style, hyper-realistic)로 최종 animated ad를 생성하세요."
+    },
+    "pt": {
+      "content": "Alimente seu produto no Claude + MakeUGC para que ele analise o produto e gere dois conceitos de vídeo (uma animação simples e um conceito mais criativo).  \nAprove os conceitos gerados de que você gostar no MakeUGC antes da produção.  \nUse Seedream v5.0 Pro + Seedance 2.0 para gerar o anúncio animado final em um estilo escolhido (por exemplo, animação em estilo de blocos, desenho animado clássico de estúdio, claymation, estilo sitcom, hiper-realista)."
+    },
+    "zh": {
+      "content": "将你的产品输入 Claude + MakeUGC，让它分析产品并生成两个视频概念（一个简单动画，另一个更具创意的概念）。  \n在制作前，先在 MakeUGC 中批准你喜欢的生成概念。  \n使用 Seedream v5.0 Pro + Seedance 2.0 按所选风格生成最终的动画广告（例如：brick-style animation、classic studio cartoon、claymation、sitcom-style、hyper-realistic）。"
+    }
+  }
+}

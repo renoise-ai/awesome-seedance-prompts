@@ -1,0 +1,42 @@
+{
+  "id": "2086871751271567722",
+  "title": "In your Seedance prompt, explicitly instruct the voice with say in X language…",
+  "content": "In your Seedance prompt, explicitly instruct the voice with say in X language to force the target language.  \nIn your Seedance prompt, include a strict line like say: [translated script], DO NOT USE ENGLISH/DO NOT CHANGE LANGUAGE TO ENGLISH to prevent it switching back to English.  \nWrite the translated script in ALL CAPS in your Seedance prompt to improve language adherence.  \nIf Seedance still won’t speak the correct language, tweak a few words in the translated script and regenerate.  \nIf Seedance keeps failing on language, start a new project in Flow and try again.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086871010574237696/img/MzZeaQuLmMfuBcg8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086871751271567722.mp4",
+  "sourceLink": "https://x.com/maxxmalist/status/2086871751271567722",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "MAX",
+    "link": "https://x.com/maxxmalist"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "In your Seedance prompt, explicitly instruct the voice with say in X language to force the target language.  \nIn your Seedance prompt, include a strict line like say: [translated script], DO NOT USE ENGLISH/DO NOT CHANGE LANGUAGE TO ENGLISH to prevent it switching back to English.  \nWrite the translated script in ALL CAPS in your Seedance prompt to improve language adherence.  \nIf Seedance still won’t speak the correct language, tweak a few words in the translated script and regenerate.  \nIf Seedance keeps failing on language, start a new project in Flow and try again.",
+  "translations": {
+    "es": {
+      "content": "En tu prompt de Seedance, indica explícitamente a la voz con say in X language para forzar el idioma objetivo.  \nEn tu prompt de Seedance, incluye una línea estricta como say: [translated script], DO NOT USE ENGLISH/DO NOT CHANGE LANGUAGE TO ENGLISH para evitar que vuelva al inglés.  \nEscribe el guion traducido en MAYÚSCULAS en tu prompt de Seedance para mejorar la adherencia al idioma.  \nSi Seedance aún no habla el idioma correcto, ajusta unas pocas palabras del guion traducido y vuelve a generar.  \nSi Seedance sigue fallando con el idioma, empieza un nuevo proyecto en Flow e inténtalo de nuevo.\n\n--- TUIT CITADO ---\nAhora puedes crear anuncios con IA en cualquier idioma y que suenen 100% nativos \n\n500 millones de personas hablan español y todas tienen los mismos deseos que los estadounidenses. Simplemente toma tus anuncios ganadores o conceptos orgánicos que funcionaron en EE. UU.\n\ny hazlos para personas que hablan español https://t.co/7fqNlJsBHO\n---"
+    },
+    "fr": {
+      "content": "Dans votre prompt Seedance, indiquez explicitement à la voix de dire en X langue afin de forcer la langue cible.  \nDans votre prompt Seedance, incluez une ligne stricte comme say: [script traduit], DO NOT USE ENGLISH/DO NOT CHANGE LANGUAGE TO ENGLISH pour éviter qu’il ne repasse à l’anglais.  \nÉcrivez le script traduit EN MAJUSCULES dans votre prompt Seedance pour améliorer le respect de la langue.  \nSi Seedance ne parle toujours pas la bonne langue, modifiez quelques mots dans le script traduit et régénérez.  \nSi Seedance continue d’échouer sur la langue, démarrez un nouveau projet dans Flow et réessayez.\n\n--- TWEET CITÉ ---\nVous pouvez désormais créer des publicités IA dans n’importe quelle langue et le résultat sonne 100 % natif\n\n500 millions de personnes parlent espagnol et elles ont toutes les mêmes désirs que les Américains. Prenez simplement vos publicités gagnantes ou vos concepts organiques qui ont fonctionné aux États-Unis\n\net adaptez-les pour les personnes qui parlent espagnol https://t.co/7fqNlJsBHO\n---"
+    },
+    "ja": {
+      "content": "Seedance の prompt では、`say in X language` と明示的に指示して、対象言語を強制してください。  \nSeedance の prompt には、`say: [translated script], DO NOT USE ENGLISH/DO NOT CHANGE LANGUAGE TO ENGLISH` のような厳格な行を入れて、英語に戻ってしまうのを防いでください。  \n翻訳したスクリプトは、Seedance の prompt 内で ALL CAPS で書くと、言語の遵守が向上します。  \nそれでも Seedance が正しい言語で話さない場合は、翻訳スクリプトのいくつかの単語を調整して再生成してください。  \n言語面で Seedance が失敗し続ける場合は、Flow で新しいプロジェクトを開始して、もう一度試してください。  \n\n--- 引用ツイート ---  \n今では、あらゆる言語で AI 広告を作成でき、しかも 100% ネイティブに聞こえます。  \n\n5億人がスペイン語を話しており、彼らもアメリカ人と同じ欲求を持っています。米国で成果の出た勝ち広告やオーガニックのコンセプトをそのまま使ってください。  \n\nそして、それをスペイン語話者向けに作り直すのです https://t.co/7fqNlJsBHO"
+    },
+    "ko": {
+      "content": "Seedance prompt에서 voice에 대해 say in X language라고 명시적으로 지시하여 대상 언어를 강제하세요.  \nSeedance prompt에 say: [번역된 스크립트], DO NOT USE ENGLISH/DO NOT CHANGE LANGUAGE TO ENGLISH 같은 엄격한 문구를 포함해 영어로 다시 전환되는 것을 방지하세요.  \nSeedance prompt에서 번역된 스크립트를 ALL CAPS로 작성하면 언어 준수율을 높일 수 있습니다.  \nSeedance가 여전히 올바른 언어로 말하지 않으면, 번역된 스크립트의 몇몇 단어를 수정한 뒤 다시 생성하세요.  \nSeedance가 계속 언어에서 실패하면, Flow에서 새 프로젝트를 시작해 다시 시도하세요.\n\n--- 인용된 트윗 ---\n이제 어떤 언어로든 AI 광고를 만들 수 있고, 100% 원어민처럼 들리게 할 수 있습니다.\n\n5억 명이 스페인어를 사용하며, 그들 모두는 미국인과 같은 욕구를 가지고 있습니다. 미국에서 성과가 좋았던 승자 광고나 오가닉 콘셉트를 그대로 가져와\n\n스페인어를 사용하는 사람들을 위해 만들어 보세요 https://t.co/7fqNlJsBHO\n---"
+    },
+    "pt": {
+      "content": "No seu prompt do Seedance, instrua explicitamente a voz com say in X language para forçar o idioma de destino.  \nNo seu prompt do Seedance, inclua uma linha rígida como say: [translated script], DO NOT USE ENGLISH/DO NOT CHANGE LANGUAGE TO ENGLISH para evitar que ele volte para o inglês.  \nEscreva o script traduzido em CAIXA ALTA no seu prompt do Seedance para melhorar a aderência ao idioma.  \nSe o Seedance ainda não falar o idioma correto, ajuste algumas palavras no script traduzido e gere novamente.  \nSe o Seedance continuar falhando no idioma, inicie um novo projeto no Flow e tente novamente.\n\n--- TWEET CITADO ---\nAgora você pode criar anúncios com IA em qualquer idioma e fazer com que soem 100% nativos\n\n500 milhões de pessoas falam espanhol e todas elas têm os mesmos desejos que os americanos. Basta pegar seus anúncios vencedores ou conceitos orgânicos que funcionaram nos EUA\n\ne adaptá-los para pessoas que falam espanhol https://t.co/7fqNlJsBHO\n---"
+    },
+    "zh": {
+      "content": "在你的 Seedance prompt 中，明确用 say in X language 来指示语音，以强制使用目标语言。  \n在你的 Seedance prompt 中，加入一行严格的指令，例如 say: [translated script], DO NOT USE ENGLISH/DO NOT CHANGE LANGUAGE TO ENGLISH，以防它切回英语。  \n在你的 Seedance prompt 中，把翻译后的脚本全部用大写字母（ALL CAPS）写出来，以提高语言遵循度。  \n如果 Seedance 仍然不会说正确的语言，就稍微调整翻译脚本中的几个词，然后重新生成。  \n如果 Seedance 在语言方面一直失败，就在 Flow 中新建一个项目，再试一次。\n\n--- 引用推文 ---\n你现在可以用任何语言制作 AI 广告，而且听起来 100% 母语化。\n\n有 5 亿人说西班牙语，而他们和美国人有着同样的需求。只需拿你在美国跑出来的爆款广告或自然流量概念\n\n然后把它们做给说西班牙语的人看 https://t.co/7fqNlJsBHO\n---"
+    }
+  }
+}

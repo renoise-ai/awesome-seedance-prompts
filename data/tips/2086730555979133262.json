@@ -1,0 +1,41 @@
+{
+  "id": "2086730555979133262",
+  "title": "Use Opus 5’s 1M-token context window by pasting all relevant business/ad…",
+  "content": "Use Opus 5’s 1M-token context window by pasting all relevant business/ad context (product descriptions, reviews, competitor URLs, winning copy, search terms report, brand guidelines) into a Claude Project upfront to improve downstream output quality.  \nGenerate Seedance-ready video prompts by connecting Higgsfield MCP in Claude Connectors (paste mcp.higgsfield.ai), then have Opus 5 produce a 9-shot ad script and output a Seedance 2.0 animation prompt for each shot.  \nCreate a video workflow where GPT Images 2.0 generates per-shot frames first, then Seedance 2.0 animates those frames into the final video.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/lifemaximised/status/2086730555979133262",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Max | Google Ads",
+    "link": "https://x.com/lifemaximised"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Opus 5’s 1M-token context window by pasting all relevant business/ad context (product descriptions, reviews, competitor URLs, winning copy, search terms report, brand guidelines) into a Claude Project upfront to improve downstream output quality.  \nGenerate Seedance-ready video prompts by connecting Higgsfield MCP in Claude Connectors (paste mcp.higgsfield.ai), then have Opus 5 produce a 9-shot ad script and output a Seedance 2.0 animation prompt for each shot.  \nCreate a video workflow where GPT Images 2.0 generates per-shot frames first, then Seedance 2.0 animates those frames into the final video.",
+  "translations": {
+    "es": {
+      "content": "Utiliza la ventana de contexto de 1M tokens de Opus 5 pegando de antemano en un Claude Project todo el contexto relevante de negocio/anuncios (descripciones de producto, reseñas, URLs de la competencia, copy ganador, informe de términos de búsqueda, directrices de marca) para mejorar la calidad del resultado posterior.  \nGenera prompts de video listos para Seedance conectando Higgsfield MCP en Claude Connectors (pega mcp.higgsfield.ai), y luego haz que Opus 5 produzca un guion publicitario de 9 planos y genere un prompt de animación de Seedance 2.0 para cada plano.  \nCrea un flujo de trabajo de video en el que GPT Images 2.0 genere primero los frames de cada plano y luego Seedance 2.0 anime esos frames para crear el video final."
+    },
+    "fr": {
+      "content": "Utilisez la fenêtre de contexte de 1M de tokens d’Opus 5 en collant au préalable tout le contexte business/publicitaire pertinent (descriptions de produits, avis, URLs des concurrents, copy gagnante, rapport des termes de recherche, guidelines de marque) dans un Claude Project afin d’améliorer la qualité des résultats en aval.  \nGénérez des prompts vidéo prêts pour Seedance en connectant Higgsfield MCP dans Claude Connectors (collez mcp.higgsfield.ai), puis demandez à Opus 5 de produire un script publicitaire en 9 plans et de générer un prompt d’animation Seedance 2.0 pour chaque plan.  \nCréez un workflow vidéo où GPT Images 2.0 génère d’abord les frames de chaque plan, puis Seedance 2.0 anime ces frames pour produire la vidéo finale."
+    },
+    "ja": {
+      "content": "Opus 5の100万トークンのコンテキストウィンドウを活用するには、製品説明、レビュー、競合URL、成果の出たコピー、検索語句レポート、ブランドガイドラインなど、関連するビジネス／広告コンテキストをすべて事前にClaude Projectへ貼り付けておくことで、後続の出力品質を向上させます。  \nClaude ConnectorsでHiggsfield MCPを接続し（mcp.higgsfield.aiを貼り付け）、Seedance対応の動画promptを生成します。そのうえで、Opus 5に9ショットの広告スクリプトを作成させ、各ショットごとにSeedance 2.0のアニメーションpromptを出力させます。  \nまずGPT Images 2.0でショットごとのフレームを生成し、その後Seedance 2.0でそれらのフレームを最終動画へアニメーション化する動画ワークフローを作成します。"
+    },
+    "ko": {
+      "content": "Opus 5의 100만 토큰 컨텍스트 윈도우를 활용하려면, 관련된 모든 비즈니스/광고 컨텍스트(제품 설명, 리뷰, 경쟁사 URL, 성과가 좋았던 카피, 검색어 리포트, 브랜드 가이드라인)를 Claude Project에 미리 붙여 넣어 다운스트림 출력 품질을 향상시키세요.  \nClaude Connectors에서 Higgsfield MCP를 연결하고(mcp.higgsfield.ai를 붙여 넣기), Seedance에 바로 사용할 수 있는 video prompt를 생성하세요. 그런 다음 Opus 5가 9개의 샷으로 구성된 광고 스크립트를 만들고, 각 샷마다 Seedance 2.0 animation prompt를 출력하도록 하세요.  \n먼저 GPT Images 2.0이 샷별 프레임을 생성하고, 그다음 Seedance 2.0이 그 프레임들을 최종 비디오로 애니메이션화하는 video workflow를 만드세요."
+    },
+    "pt": {
+      "content": "Use a janela de contexto de 1M de tokens do Opus 5 colando todo o contexto relevante de negócio/anúncio (descrições de produto, avaliações, URLs de concorrentes, copy vencedora, relatório de termos de busca, diretrizes da marca) em um Claude Project antecipadamente para melhorar a qualidade do output downstream.  \nGere prompts de vídeo prontos para o Seedance conectando o Higgsfield MCP em Claude Connectors (cole mcp.higgsfield.ai), depois faça o Opus 5 produzir um roteiro de anúncio com 9 cenas e gerar um prompt de animação do Seedance 2.0 para cada cena.  \nCrie um fluxo de trabalho de vídeo em que o GPT Images 2.0 gera primeiro os frames de cada cena e, em seguida, o Seedance 2.0 anima esses frames no vídeo final."
+    },
+    "zh": {
+      "content": "通过将所有相关的商业/广告上下文（产品描述、评论、竞品 URL、获胜文案、搜索词报告、品牌指南）一次性粘贴到 Claude Project 中，利用 Opus 5 的 1M token 上下文窗口，以提升后续输出质量。  \n通过在 Claude Connectors 中连接 Higgsfield MCP（粘贴 mcp.higgsfield.ai），生成可直接用于 Seedance 的视频 prompts，然后让 Opus 5 产出一个 9 镜头广告脚本，并为每个镜头输出一个 Seedance 2.0 动画 prompt。  \n创建一个视频工作流：先由 GPT Images 2.0 生成每个镜头的画面帧，再由 Seedance 2.0 将这些画面帧动画化，生成最终视频。"
+    }
+  }
+}

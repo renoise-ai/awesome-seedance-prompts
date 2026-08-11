@@ -1,0 +1,45 @@
+{
+  "id": "2086863632801927285",
+  "title": "Videoda kullanılacak elementleri listeleyen bir PDF hazırlayıp bunu senaryo ve…",
+  "content": "Videoda kullanılacak elementleri listeleyen bir PDF hazırlayıp bunu senaryo ve kurgu oluşturması için Claude’a vererek daha başarılı bir plan/prompt seti çıkar.  \nSeedance’te sadece tek bir görsel üretip onu hareketlendirme yaklaşımına güvenme; önce sahne/element planını (senaryo-kurgu) oluşturup buna göre üretim yap.",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086863612426002432/img/jGmSeygBOV0YKW-g.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086863632801927285.mp4",
+  "sourceLink": "https://x.com/nefiten/status/2086863632801927285",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Nefiten",
+    "link": "https://x.com/nefiten"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Videoda kullanılacak elementleri listeleyen bir PDF hazırlayıp bunu senaryo ve kurgu oluşturması için Claude’a vererek daha başarılı bir plan/prompt seti çıkar.  \nSeedance’te sadece tek bir görsel üretip onu hareketlendirme yaklaşımına güvenme; önce sahne/element planını (senaryo-kurgu) oluşturup buna göre üretim yap.",
+  "translations": {
+    "en": {
+      "content": "Prepare a PDF listing the elements to be used in the video and give it to Claude to create the script and edit plan, so you can produce a more successful plan/prompt set.  \nDon’t rely only on the approach of generating a single image in Seedance and animating it; first create the scene/element plan (script/editing), then produce accordingly."
+    },
+    "es": {
+      "content": "Prepara un PDF que enumere los elementos que se usarán en el video y dáselo a Claude para que genere el guion y la edición; así obtendrás un plan/conjunto de prompts más eficaz.  \nNo confíes en el enfoque de Seedance de generar solo una imagen y animarla; primero crea el plan de escenas y elementos (guion-edición) y luego produce en función de eso."
+    },
+    "fr": {
+      "content": "Prépare un PDF listant les éléments à utiliser dans la vidéo, puis donne-le à Claude pour qu’il élabore le scénario et le montage, afin d’obtenir un plan / set de prompts plus efficace.  \nNe te fie pas uniquement à l’approche consistant à générer une seule image dans Seedance puis à l’animer ; commence d’abord par établir le plan de la scène et des éléments (scénario / montage), puis produis en conséquence."
+    },
+    "ja": {
+      "content": "動画で使用する要素を一覧にしたPDFを作成し、それをシナリオと編集の作成のためにClaudeに渡すことで、より成功率の高いプラン／プロンプトセットを作成できます。  \nSeedanceでは、1枚の画像を生成してそれを動かすだけのアプローチに頼らず、まずシーン／要素のプラン（シナリオ・編集）を作成し、それに基づいて制作を進めてください。"
+    },
+    "ko": {
+      "content": "비디오에 사용할 요소들을 정리한 PDF를 만들어 이를 시나리오와 편집 구성을 생성하도록 Claude에 전달하면, 더 성공적인 플랜/프롬프트 세트를 만들 수 있다.  \nSeedance에서 단일 이미지만 생성해 그것을 움직이는 방식에만 의존하지 말고, 먼저 장면/요소 플랜(시나리오·편집)을 만든 뒤 그에 맞춰 제작하라."
+    },
+    "pt": {
+      "content": "Prepare um PDF listando os elementos que serão usados no vídeo e entregue isso ao Claude para criar o roteiro e a edição, a fim de obter um conjunto de plano/prompt mais eficaz.  \nNão confie apenas na abordagem de gerar uma única imagem no Seedance e animá-la; primeiro crie o plano de cena/elementos (roteiro e edição) e, com base nisso, faça a produção."
+    },
+    "zh": {
+      "content": "准备一份列出视频中将使用元素的 PDF，然后把它交给 Claude，用于生成脚本和剪辑，这样可以产出更成功的计划/prompt 集。  \n不要只依赖 Seedance 中“先生成一张图片再让它动起来”的做法；应先制定场景/元素方案（脚本-剪辑），再据此进行生成。"
+    }
+  }
+}

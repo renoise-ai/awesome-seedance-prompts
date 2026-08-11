@@ -1,0 +1,42 @@
+{
+  "id": "2086809110960296395",
+  "title": "If Seedance doesn’t produce the expected motion from a simple prompt, add a…",
+  "content": "If Seedance doesn’t produce the expected motion from a simple prompt, add a second prompt that explicitly specifies the camera movement/path (e.g., “fly over the waterfalls and the river”).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/hedo_ist/status/2086809110960296395",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "hedoήist",
+    "link": "https://x.com/hedo_ist"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "FPV & Aerial"
+  ],
+  "tips": "If Seedance doesn’t produce the expected motion from a simple prompt, add a second prompt that explicitly specifies the camera movement/path (e.g., “fly over the waterfalls and the river”).",
+  "translations": {
+    "es": {
+      "content": "Si Seedance no produce el movimiento esperado a partir de un prompt simple, añade un segundo prompt que especifique explícitamente el movimiento o la trayectoria de la cámara (por ejemplo, “fly over the waterfalls and the river”)."
+    },
+    "fr": {
+      "content": "Si Seedance ne produit pas le mouvement attendu à partir d’un prompt simple, ajoutez un deuxième prompt qui précise explicitement le mouvement/le trajet de la caméra (par exemple : « fly over the waterfalls and the river »)."
+    },
+    "ja": {
+      "content": "Seedance がシンプルな prompt から期待どおりの motion を生成しない場合は、カメラの動きや軌道を明示的に指定する 2 つ目の prompt を追加してください（例: “fly over the waterfalls and the river”）。"
+    },
+    "ko": {
+      "content": "Seedance가 간단한 prompt로 기대한 motion을 만들어내지 못한다면, 카메라의 움직임/경로를 명시적으로 지정하는 두 번째 prompt를 추가하세요(예: “폭포와 강 위를 날아가라”)."
+    },
+    "pt": {
+      "content": "Se o Seedance não produzir o movimento esperado a partir de um prompt simples, adicione um segundo prompt que especifique explicitamente o movimento/caminho da câmera (por exemplo, “fly over the waterfalls and the river”)."
+    },
+    "zh": {
+      "content": "如果 Seedance 没有从简单的 prompt 中生成预期的运动效果，可以再添加一个第二个 prompt，明确指定镜头运动/路径（例如：“fly over the waterfalls and the river”）。"
+    }
+  }
+}

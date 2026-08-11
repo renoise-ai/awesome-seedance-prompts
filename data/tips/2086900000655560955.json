@@ -1,0 +1,43 @@
+{
+  "id": "2086900000655560955",
+  "title": "Lock packaging and label constraints once in Fuzzbucket to maintain the same…",
+  "content": "Lock packaging and label constraints once in Fuzzbucket to maintain the same bottle/brand consistency across multiple scenes.  \nRoute each shot to the AI video model that best handles that shot type instead of using one model for all scenes.  \nUse Seedance 2.0 specifically for macro water-drop shots.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086899816492085248/img/um_10hlgvVJYAMCx.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086900000655560955.mp4",
+  "sourceLink": "https://x.com/FuzzbucketAI/status/2086900000655560955",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Fuzzbucket",
+    "link": "https://x.com/FuzzbucketAI"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Macro"
+  ],
+  "tips": "Lock packaging and label constraints once in Fuzzbucket to maintain the same bottle/brand consistency across multiple scenes.  \nRoute each shot to the AI video model that best handles that shot type instead of using one model for all scenes.  \nUse Seedance 2.0 specifically for macro water-drop shots.",
+  "translations": {
+    "es": {
+      "content": "Bloquea las restricciones de packaging y etiquetado una vez en Fuzzbucket para mantener la misma consistencia de botella/marca en múltiples escenas.  \nDirige cada toma al modelo de video de IA que mejor maneje ese tipo de toma, en lugar de usar un solo modelo para todas las escenas.  \nUsa Seedance 2.0 específicamente para tomas macro de gotas de agua."
+    },
+    "fr": {
+      "content": "Verrouillez une fois pour toutes les contraintes d’emballage et d’étiquetage dans Fuzzbucket afin de conserver la même cohérence de bouteille/de marque sur plusieurs scènes.  \nAcheminez chaque plan vers le modèle vidéo IA qui gère le mieux ce type de plan, au lieu d’utiliser un seul modèle pour toutes les scènes.  \nUtilisez Seedance 2.0 spécifiquement pour les plans macro de gouttes d’eau."
+    },
+    "ja": {
+      "content": "Fuzzbucketでパッケージとラベルの制約を一度固定し、複数のシーンにわたって同じボトル／ブランドの一貫性を維持します。  \n各ショットは、すべてのシーンで1つのモデルを使うのではなく、そのショットタイプを最も適切に処理できるAI動画モデルに振り分けます。  \nマクロの水滴ショットには、特にSeedance 2.0を使用します。"
+    },
+    "ko": {
+      "content": "Fuzzbucket에서 패키징과 라벨 제약을 한 번 잠가 두면, 여러 장면에 걸쳐 동일한 병/브랜드 일관성을 유지할 수 있습니다.  \n각 샷 유형을 모든 장면에 하나의 모델을 쓰는 대신, 해당 샷을 가장 잘 처리하는 AI 비디오 모델로 라우팅하세요.  \n매크로 물방울 샷에는 특히 Seedance 2.0을 사용하세요."
+    },
+    "pt": {
+      "content": "Bloqueie as restrições de embalagem e rótulo uma vez no Fuzzbucket para manter a mesma consistência de garrafa/marca em várias cenas.  \nDirecione cada tomada para o modelo de vídeo de IA que melhor lida com aquele tipo de tomada, em vez de usar um único modelo para todas as cenas.  \nUse o Seedance 2.0 especificamente para tomadas macro de gotas d’água."
+    },
+    "zh": {
+      "content": "在 Fuzzbucket 中一次性锁定包装和标签约束，以便在多个场景中保持相同的瓶身/品牌一致性。  \n将每个镜头路由到最适合该镜头类型的 AI 视频模型，而不是所有场景都使用同一个模型。  \n微距水滴镜头请专门使用 Seedance 2.0。"
+    }
+  }
+}
