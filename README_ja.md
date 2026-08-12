@@ -6544,4 +6544,4 @@ Gate paid Seedance generation behind an approved brief (hook, problem, reveal, d
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-08-12T09:12:39.148Z
+🤖 この README は自動生成されています。最終更新： 2026-08-12T13:11:20.743Z
