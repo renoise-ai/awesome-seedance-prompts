@@ -1,0 +1,43 @@
+{
+  "id": "2087276113672475117",
+  "title": "Generate a depth map from your reference video using Depth Anything (via fal)…",
+  "content": "Generate a depth map from your reference video using Depth Anything (via fal) and use the depth map as the motion reference in Seedance Omni alongside your character and environment references to recreate specific body movements.  \nIn Seedance Omni, you can use the depth map alone as the motion reference (you don’t need to upload the original reference video).  \nPrefer depth-map motion transfer for body movement recreation, but use another method for facial performance since depth maps don’t capture subtle facial motion well.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087274899660492800/img/NmznMUAnZ79TXqpV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087276113672475117.mp4",
+  "sourceLink": "https://x.com/CuriousRefuge/status/2087276113672475117",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "Curious Refuge",
+    "link": "https://x.com/CuriousRefuge"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Generate a depth map from your reference video using Depth Anything (via fal) and use the depth map as the motion reference in Seedance Omni alongside your character and environment references to recreate specific body movements.  \nIn Seedance Omni, you can use the depth map alone as the motion reference (you don’t need to upload the original reference video).  \nPrefer depth-map motion transfer for body movement recreation, but use another method for facial performance since depth maps don’t capture subtle facial motion well.",
+  "translations": {
+    "es": {
+      "content": "Genera un mapa de profundidad a partir de tu video de referencia usando Depth Anything (a través de fal) y utiliza el mapa de profundidad como referencia de movimiento en Seedance Omni, junto con tus referencias de personaje y entorno, para recrear movimientos corporales específicos.  \nEn Seedance Omni, puedes usar solo el mapa de profundidad como referencia de movimiento (no necesitas subir el video de referencia original).  \nPrefiere la transferencia de movimiento mediante mapa de profundidad para recrear movimientos corporales, pero usa otro método para la interpretación facial, ya que los mapas de profundidad no capturan bien el movimiento sutil del rostro."
+    },
+    "fr": {
+      "content": "Générez une carte de profondeur à partir de votre vidéo de référence à l’aide de Depth Anything (via fal), puis utilisez cette carte de profondeur comme référence de mouvement dans Seedance Omni, en complément de vos références de personnage et d’environnement, afin de recréer des mouvements corporels spécifiques.  \nDans Seedance Omni, vous pouvez utiliser la carte de profondeur seule comme référence de mouvement (vous n’avez pas besoin de téléverser la vidéo de référence originale).  \nPrivilégiez le transfert de mouvement par carte de profondeur pour recréer les mouvements du corps, mais utilisez une autre méthode pour la performance faciale, car les cartes de profondeur ne capturent pas bien les subtils mouvements du visage."
+    },
+    "ja": {
+      "content": "参照動画から Depth Anything（fal 経由）を使って depth map を生成し、その depth map を Seedance Omni でキャラクターおよび環境の参照とあわせて motion reference として使用することで、特定の身体の動きを再現できます。  \nSeedance Omni では、depth map だけを motion reference として使用できます（元の参照動画をアップロードする必要はありません）。  \n身体の動きの再現には depth map による motion transfer を優先し、顔の演技については別の方法を使ってください。depth map では微細な表情の動きまで十分に捉えられないためです。"
+    },
+    "ko": {
+      "content": "참조 비디오에서 Depth Anything(fal을 통해)을 사용해 depth map을 생성한 다음, 그 depth map을 Seedance Omni에서 캐릭터 및 환경 참조와 함께 motion reference로 사용하여 특정 신체 움직임을 재현하세요.  \nSeedance Omni에서는 depth map만 motion reference로 사용할 수 있습니다(원본 참조 비디오를 업로드할 필요는 없습니다).  \n신체 움직임 재현에는 depth-map 기반 motion transfer를 우선 사용하되, depth map은 미세한 얼굴 움직임을 잘 포착하지 못하므로 facial performance에는 다른 방법을 사용하세요."
+    },
+    "pt": {
+      "content": "Gere um mapa de profundidade a partir do seu vídeo de referência usando o Depth Anything (via fal) e use o mapa de profundidade como referência de movimento no Seedance Omni, junto com suas referências de personagem e ambiente, para recriar movimentos corporais específicos.  \nNo Seedance Omni, você pode usar apenas o mapa de profundidade como referência de movimento (não é necessário enviar o vídeo de referência original).  \nPrefira a transferência de movimento por mapa de profundidade para recriação de movimentos corporais, mas use outro método para a performance facial, já que mapas de profundidade não capturam bem movimentos faciais sutis."
+    },
+    "zh": {
+      "content": "使用 Depth Anything（通过 fal）从你的参考视频生成深度图，并将该深度图作为 Seedance Omni 中的运动参考，配合你的角色和环境参考，重现特定的身体动作。  \n在 Seedance Omni 中，你也可以仅使用深度图作为运动参考（无需上传原始参考视频）。  \n身体动作重现建议优先使用深度图运动迁移，但面部表演应使用其他方法，因为深度图无法很好地捕捉细微的面部运动。"
+    }
+  }
+}

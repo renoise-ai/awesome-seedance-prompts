@@ -4,7 +4,7 @@
   "content": "Build a character sheet (not just a single portrait) and reference that same sheet in every Seedance shot prompt to keep the face/identity consistent across cuts.  \nWrite the full environment/location description once and paste the exact same text into every subsequent shot prompt (don’t rewrite or shorten it) to prevent the world/lighting from resetting.  \nIf you’re using reference footage to drive motion, convert it to a depth map first and feed that into Seedance so the model focuses on movement instead of faces/clothes/background.  \nPlan the entire multi-shot sequence before generating (as a storyboard or one prompt with ordered beats) and generate as one continuous sequence instead of separate shot-by-shot generations to reduce drift.  \nDefine camera rules (lens/framing/color grade/lighting style) once and repeat the exact same camera-style wording in every shot prompt to keep the sequence feeling like one consistent camera.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086051133177348097/img/ToiFbri92GV36B1t.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2086051133177348097/vid/avc1/1920x1080/mH2yUsdPt4LgYlJn.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086051337322586205.mp4",
   "sourceLink": "https://x.com/Primee32/status/2086051337322586205",
   "sourcePublishedAt": "2026-08-08",
   "author": {

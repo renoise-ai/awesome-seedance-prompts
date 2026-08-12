@@ -1,0 +1,42 @@
+{
+  "id": "2087196315482788195",
+  "title": "Create a Playbook that encodes your creative preferences (tone/feel) and use it…",
+  "content": "Create a Playbook that encodes your creative preferences (tone/feel) and use it as persistent context before giving Seedance 2.0 a brief so the workflow can iterate without restarting prompts.\n\nUse an iterative “direct-and-regenerate” loop with Seedance 2.0: review generated shots, give targeted change notes, and regenerate only the visuals that need improvement instead of starting over.\n\nBuild a shot-by-shot production plan first, then generate each planned shot in Seedance 2.0 to keep the video consistent and aligned with the script.\n\nUse GPT Image 2 to create images for the production, then generate the corresponding video shots with Seedance 2.0, and add voiceover with ElevenLabs within a single end-to-end workflow.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087196280066101248/img/M1sobUT7pqb4RnOe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087196315482788195.mp4",
+  "sourceLink": "https://x.com/Naiknelofar788/status/2087196315482788195",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "simeon-sanai",
+    "link": "https://x.com/Naiknelofar788"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a Playbook that encodes your creative preferences (tone/feel) and use it as persistent context before giving Seedance 2.0 a brief so the workflow can iterate without restarting prompts.\n\nUse an iterative “direct-and-regenerate” loop with Seedance 2.0: review generated shots, give targeted change notes, and regenerate only the visuals that need improvement instead of starting over.\n\nBuild a shot-by-shot production plan first, then generate each planned shot in Seedance 2.0 to keep the video consistent and aligned with the script.\n\nUse GPT Image 2 to create images for the production, then generate the corresponding video shots with Seedance 2.0, and add voiceover with ElevenLabs within a single end-to-end workflow.",
+  "translations": {
+    "es": {
+      "content": "Crea un Playbook que codifique tus preferencias creativas (tono/sensación) y úsalo como contexto persistente antes de darle un brief a Seedance 2.0, para que el flujo de trabajo pueda iterar sin reiniciar los prompts.\n\nUsa un bucle iterativo de “dirigir y regenerar” con Seedance 2.0: revisa los planos generados, da notas de cambio específicas y regenera solo los elementos visuales que necesiten mejora, en lugar de empezar desde cero.\n\nPrimero, construye un plan de producción plano por plano; luego genera cada plano planificado en Seedance 2.0 para mantener el video coherente y alineado con el guion.\n\nUsa GPT Image 2 para crear imágenes para la producción, luego genera los planos de video correspondientes con Seedance 2.0 y añade la voz en off con ElevenLabs dentro de un único flujo de trabajo de principio a fin.\n\n--- TUIT CITADO ---\nDía 12 de 12 Días de Agent Two.\n\nMeses de trabajo de ingenieros y cineastas, todo conduciendo hasta aquí. La misma plataforma que usan las empresas Fortune 500, las agencias globales y los estudios de cine ahora está en tus manos.\n\nEstos 12 días nunca se trataron de lo que construimos. Se tratan de lo que harás con ello. https://t.co/jutiixwIqv\n---"
+    },
+    "fr": {
+      "content": "Créez un Playbook qui encode vos préférences créatives (ton/sensation) et utilisez-le comme contexte persistant avant de donner un brief à Seedance 2.0, afin que le workflow puisse itérer sans redémarrer les prompts.\n\nUtilisez une boucle itérative de type « direct-and-regenerate » avec Seedance 2.0 : passez en revue les plans générés, donnez des notes de modification ciblées, puis régénérez uniquement les visuels qui doivent être améliorés au lieu de tout recommencer.\n\nÉlaborez d’abord un plan de production plan par plan, puis générez chaque plan prévu dans Seedance 2.0 pour garder la vidéo cohérente et alignée avec le script.\n\nUtilisez GPT Image 2 pour créer les images de la production, puis générez les plans vidéo correspondants avec Seedance 2.0, et ajoutez la voix off avec ElevenLabs dans un seul workflow de bout en bout.\n\n--- TWEET CITÉ ---\nJour 12 des 12 Days of Agent Two.\n\nDes mois de travail par des ingénieurs et des cinéastes, tous menant jusqu’ici. La même plateforme utilisée par les entreprises du Fortune 500, les agences mondiales et les studios de cinéma est désormais entre vos mains.\n\nCes 12 jours n’ont jamais porté sur ce que nous avons construit. Ils portent sur ce que vous allez créer avec. https://t.co/jutiixwIqv\n---"
+    },
+    "ja": {
+      "content": "あなたのクリエイティブな好み（トーン／雰囲気）をエンコードしたPlaybookを作成し、Seedance 2.0にブリーフを出す前の永続的なコンテキストとして使うことで、プロンプトを最初からやり直さずにワークフローを反復できるようにします。\n\nSeedance 2.0では、反復的な「direct-and-regenerate」ループを使います。生成されたショットをレビューし、的を絞った修正メモを与え、改善が必要なビジュアルだけを再生成して、最初からやり直さないようにします。\n\nまずショットごとの制作プランを作成し、その後、Seedance 2.0で各計画済みショットを生成して、動画の一貫性を保ち、脚本と整合させます。\n\nGPT Image 2を使って制作用の画像を作成し、その後、対応する動画ショットをSeedance 2.0で生成し、さらにElevenLabsでナレーションを追加することで、単一のエンドツーエンドのワークフローにまとめます。\n\n--- 引用ツイート ---\nAgent Twoの12日間、12日目。\n\nエンジニアと映画制作者による何か月もの仕事が、すべてここにつながりました。Fortune 500企業、グローバルエージェンシー、映画スタジオが使っているのと同じプラットフォームが、今やあなたの手の中にあります。\n\nこの12日間は、私たちが何を作ったかのためではありませんでした。あなたがそれを使って何を作るかのためにあったのです。 https://t.co/jutiixwIqv"
+    },
+    "ko": {
+      "content": "창의적 선호도(톤/분위기)를 인코딩한 Playbook을 만들고, Seedance 2.0에 brief를 주기 전에 이를 지속적인 컨텍스트로 사용하면 프롬프트를 다시 시작하지 않고도 워크플로를 반복적으로 개선할 수 있습니다.\n\nSeedance 2.0과 함께 반복적인 “direct-and-regenerate” 루프를 사용하세요. 생성된 shot을 검토하고, 구체적인 수정 노트를 전달한 뒤, 처음부터 다시 시작하는 대신 개선이 필요한 비주얼만 재생성합니다.\n\n먼저 shot-by-shot 제작 계획을 세운 다음, Seedance 2.0에서 각 계획된 shot을 생성해 영상의 일관성을 유지하고 스크립트와의 정합성을 맞추세요.\n\nGPT Image 2로 제작용 이미지를 만든 다음, Seedance 2.0으로 해당하는 video shot을 생성하고, ElevenLabs로 voiceover를 추가해 하나의 end-to-end 워크플로로 완성하세요.\n\n--- QUOTED TWEET ---\nAgent Two의 12일 중 12일차.\n\n엔지니어와 영화 제작자들이 수개월간 작업해 온 모든 것이 마침내 여기까지 왔습니다. Fortune 500 기업, 글로벌 에이전시, 영화 스튜디오가 사용하는 바로 그 플랫폼이 이제 여러분의 손에 들어왔습니다.\n\n이 12일은 우리가 무엇을 만들었는지에 대한 이야기가 아니었습니다. 여러분이 그것으로 무엇을 만들게 될지에 대한 이야기였습니다. https://t.co/jutiixwIqv\n---"
+    },
+    "pt": {
+      "content": "Crie um Playbook que codifique suas preferências criativas (tom/sensação) e use-o como contexto persistente antes de passar um briefing para o Seedance 2.0, para que o workflow possa iterar sem reiniciar os prompts.\n\nUse um loop iterativo de “direcionar e regenerar” com o Seedance 2.0: revise os shots gerados, dê notas de ცვლილação direcionadas e regenere apenas os visuais que precisam de melhoria, em vez de começar do zero.\n\nMonte primeiro um plano de produção shot a shot e, depois, gere cada shot planejado no Seedance 2.0 para manter o vídeo consistente e alinhado ao roteiro.\n\nUse o GPT Image 2 para criar imagens para a produção, depois gere os shots de vídeo correspondentes com o Seedance 2.0 e adicione a narração com o ElevenLabs dentro de um único workflow end-to-end.\n\n--- TWEET CITADO ---\nDia 12 dos 12 Dias do Agent Two.\n\nMeses de trabalho de engenheiros e cineastas, tudo levando até aqui. A mesma plataforma usada por empresas da Fortune 500, agências globais e estúdios de cinema agora está em suas mãos.\n\nEsses 12 dias nunca foram sobre o que construímos. Eles são sobre o que você vai criar com isso. https://t.co/jutiixwIqv\n---"
+    },
+    "zh": {
+      "content": "创建一个 Playbook，用于编码你的创意偏好（语气/氛围），并在向 Seedance 2.0 提供 brief 之前将其作为持久上下文使用，这样工作流就可以在不重新开始 prompts 的情况下持续迭代。\n\n使用 Seedance 2.0 的迭代式“direct-and-regenerate”循环：审查生成的镜头，给出有针对性的修改说明，只重新生成需要改进的视觉部分，而不是从头再来。\n\n先制定逐镜头的制作计划，然后在 Seedance 2.0 中生成每个计划好的镜头，以保持视频的一致性并与脚本保持对齐。\n\n使用 GPT Image 2 为制作创建图像，然后用 Seedance 2.0 生成对应的视频镜头，并在一个端到端工作流中使用 ElevenLabs 添加配音。\n\n--- QUOTED TWEET ---\nAgent Two 的 12 天活动第 12 天。\n\n工程师和电影制作人历经数月的努力，最终都汇聚于此。如今，Fortune 500 公司、全球代理机构和电影制片厂所使用的同一平台，已经掌握在你手中。\n\n这 12 天从来都不是关于我们构建了什么，而是关于你将用它创造什么。 https://t.co/jutiixwIqv\n---"
+    }
+  }
+}
