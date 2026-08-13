@@ -1,0 +1,42 @@
+{
+  "id": "2087573697389625581",
+  "title": "Composite your subject into a real-location photo in Grok, then use that…",
+  "content": "Composite your subject into a real-location photo in Grok, then use that composite as Seedance’s background reference to keep the room fixed while generating only the crowd/foreground elements.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/media/HPiNDyybkAA7zkn.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087573697389625581.mp4",
+  "sourceLink": "https://x.com/DrDreams/status/2087573697389625581",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Dr. Dreams",
+    "link": "https://x.com/DrDreams"
+  },
+  "tags": [
+    "Sports",
+    "Crowd & Fans",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Composite your subject into a real-location photo in Grok, then use that composite as Seedance’s background reference to keep the room fixed while generating only the crowd/foreground elements.",
+  "translations": {
+    "es": {
+      "content": "Compón tu sujeto en una foto de una ubicación real en Grok, y luego usa ese compuesto como referencia de fondo de Seedance para mantener la habitación fija mientras generas solo los elementos de la multitud/primer plano."
+    },
+    "fr": {
+      "content": "Composez votre sujet dans une photo prise en lieu réel dans Grok, puis utilisez ce composite comme référence d’arrière-plan pour Seedance afin de conserver la pièce fixe tout en générant uniquement la foule et les éléments du premier plan."
+    },
+    "ja": {
+      "content": "Grokで被写体を実在のロケーション写真に合成し、その合成画像をSeedanceの背景参照として使うことで、部屋を固定したまま、群衆／前景要素だけを生成できます。"
+    },
+    "ko": {
+      "content": "Grok에서 피사체를 실제 장소 사진에 합성한 다음, 그 합성 이미지를 Seedance의 배경 레퍼런스로 사용해 방은 고정한 채 군중/전경 요소만 생성하세요."
+    },
+    "pt": {
+      "content": "Componha seu sujeito em uma foto de localização real no Grok e, em seguida, use essa composição como referência de fundo do Seedance para manter o ambiente fixo enquanto gera apenas os elementos da multidão/do primeiro plano."
+    },
+    "zh": {
+      "content": "在 Grok 中将你的主体合成到一张真实场景照片里，然后把这个合成图作为 Seedance 的背景参考，这样在生成时就能保持房间不变，只生成人群/前景元素。"
+    }
+  }
+}
