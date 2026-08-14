@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **5556** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **2624** |
-| 🔄 最終更新 | **2026-08-13** |
+| 🔄 最終更新 | **2026-08-14** |
 
 ---
 
@@ -6673,4 +6673,4 @@ Use Higgsfield’s open-sourced Seedance project prompts/assets as templates by 
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-08-13T20:43:58.349Z
+🤖 この README は自動生成されています。最終更新： 2026-08-14T02:02:11.752Z
