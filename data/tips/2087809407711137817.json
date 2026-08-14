@@ -1,0 +1,43 @@
+{
+  "id": "2087809407711137817",
+  "title": "用 Seedance 2.0 复刻抖音 CD 转场：上传自己的照片，然后输入提示词“风格：2秒真实生活感手机实拍”生成视频",
+  "content": "用 Seedance 2.0 复刻抖音 CD 转场：上传自己的照片，然后输入提示词“风格：2秒真实生活感手机实拍”生成视频",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087809337112580096/img/s6_GFOinI4nmsadf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087809407711137817.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2087809407711137817",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "用 Seedance 2.0 复刻抖音 CD 转场：上传自己的照片，然后输入提示词“风格：2秒真实生活感手机实拍”生成视频",
+  "translations": {
+    "en": {
+      "content": "Recreate Douyin’s CD transition with Seedance 2.0: upload your own photo, then enter the prompt “Style: 2 seconds of realistic, everyday smartphone footage” to generate a video"
+    },
+    "es": {
+      "content": "Recrea el transition de CD de Douyin con Seedance 2.0: sube tu propia foto y luego introduce el prompt “Estilo: 2 segundos de sensación realista de vida cotidiana, grabado con un móvil” para generar el video."
+    },
+    "fr": {
+      "content": "Recréez le transition CD de Douyin avec Seedance 2.0 : téléversez votre propre photo, puis saisissez le prompt « style : 2 secondes, rendu réaliste de vie quotidienne filmé au smartphone » pour générer la vidéo."
+    },
+    "ja": {
+      "content": "Seedance 2.0 で抖音のCDトランジションを再現：自分の写真をアップロードし、プロンプト「スタイル：2秒のリアルな生活感のあるスマホ実写」と入力して動画を生成する"
+    },
+    "ko": {
+      "content": "Seedance 2.0으로 Douyin CD 전환 효과를 재현하기: 자신의 사진을 업로드한 다음, 프롬프트에 “스타일: 2초짜리 현실감 있는 일상 휴대폰 실사”를 입력해 영상을 생성하세요"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 para recriar a transição de CD do Douyin: envie sua própria foto e, em seguida, insira o prompt “estilo: 2 segundos de sensação realista de vida cotidiana, filmado com celular” para gerar o vídeo"
+    }
+  }
+}

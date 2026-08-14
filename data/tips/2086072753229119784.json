@@ -4,7 +4,7 @@
   "content": "Use Higgsfield MCP to generate new Seedance 2.0 video variants directly from a structured creative brief (angle shift + hook/visual/pacing changes) derived from Meta Ads fatigue signals, then push the variants back into Meta to reset the fatigue curve.\n\nCreate a Claude “skill” that expands a one-line Seedance clip idea into a 15–25 line, paste-ready prompt with explicit timing (e.g., a 2-second hook), camera moves (dolly/orbit/whip pan/rack focus), and lighting/mood presets in the syntax Seedance expects.\n\nRun a live preview loop (npm run studio) to iterate on Seedance-generated clip prompts before spending credits on final renders/exports.\n\nStart by building one end-to-end pipeline that automatically goes from brief → Seedance 2.0 generation → rendered MP4 with no manual assembly steps; add templates/agents only after this loop works.",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086071754577911808/img/br-wPepuIRp0G8Z2.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2086071754577911808/vid/avc1/1920x1080/9_PQikhY-V7-0Af9.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086072753229119784.mp4",
   "sourceLink": "https://x.com/notEgoyard/status/2086072753229119784",
   "sourcePublishedAt": "2026-08-08",
   "author": {

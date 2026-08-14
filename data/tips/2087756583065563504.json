@@ -1,0 +1,42 @@
+{
+  "id": "2087756583065563504",
+  "title": "設定資料→Claude Codeでコンテ（絵コンテ）→キャラクターシートを使って30秒クリップを生成→生成した30秒クリップを繋いで一本にするワークフローで制作…",
+  "content": "設定資料→Claude Codeでコンテ（絵コンテ）→キャラクターシートを使って30秒クリップを生成→生成した30秒クリップを繋いで一本にするワークフローで制作する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087754233143861248/img/39TWLFeFU3kRxDxV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087756583065563504.mp4",
+  "sourceLink": "https://x.com/doerstokyo342/status/2087756583065563504",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "こば@AIBridge Lab",
+    "link": "https://x.com/doerstokyo342"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "設定資料→Claude Codeでコンテ（絵コンテ）→キャラクターシートを使って30秒クリップを生成→生成した30秒クリップを繋いで一本にするワークフローで制作する",
+  "translations": {
+    "en": {
+      "content": "Produce it using a workflow of: setting materials → creating a storyboard with Claude Code → generating 30-second clips using character sheets → stitching the generated 30-second clips together into a single piece."
+    },
+    "es": {
+      "content": "Crear siguiendo este flujo de trabajo: materiales de configuración → storyboard con Claude Code → generar clips de 30 segundos usando hojas de personaje → unir los clips de 30 segundos generados para convertirlos en una sola pieza."
+    },
+    "fr": {
+      "content": "Créer selon le workflow suivant : données de référence → storyboard (絵コンテ) dans Claude Code → génération d’un clip de 30 secondes à l’aide d’une character sheet → assemblage des clips de 30 secondes générés pour en faire une seule vidéo."
+    },
+    "ko": {
+      "content": "설정 자료 → Claude Code로 콘티(스토리보드) 작성 → 캐릭터 시트를 사용해 30초 클립을 생성 → 생성한 30초 클립들을 이어서 하나로 만드는 워크플로로 제작한다"
+    },
+    "pt": {
+      "content": "Fluxo de trabalho: usar os materiais de configuração → criar o storyboard com o Claude Code → gerar clipes de 30 segundos usando a character sheet → unir os clipes de 30 segundos gerados em um único vídeo."
+    },
+    "zh": {
+      "content": "制作流程为：设定资料 → 用 Claude Code 制作分镜（絵コンテ）→ 使用角色设定表生成 30 秒片段 → 将生成的 30 秒片段拼接成一支完整作品"
+    }
+  }
+}

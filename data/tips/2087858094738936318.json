@@ -1,0 +1,43 @@
+{
+  "id": "2087858094738936318",
+  "title": "Build reference images of the object at each evolution stage (e.g., stone →…",
+  "content": "Build reference images of the object at each evolution stage (e.g., stone → spear → bullet → missile → energy core) in Nano Banana or Midjourney before generating the video in Seedance.  \nLock the object’s position in the frame so it doesn’t shift throughout the Seedance clip.  \nUse Seedance to continuously morph the object’s shape and material between stages in a single shot with no cuts.  \nColor grade each stage to match lighting and color of its era-specific background (field, city, sky, space).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087857903780683777/img/coIOXGNEugi6A1mF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087858094738936318.mp4",
+  "sourceLink": "https://x.com/voyzlab/status/2087858094738936318",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Voyz",
+    "link": "https://x.com/voyzlab"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Transformation",
+    "Tutorial"
+  ],
+  "tips": "Build reference images of the object at each evolution stage (e.g., stone → spear → bullet → missile → energy core) in Nano Banana or Midjourney before generating the video in Seedance.  \nLock the object’s position in the frame so it doesn’t shift throughout the Seedance clip.  \nUse Seedance to continuously morph the object’s shape and material between stages in a single shot with no cuts.  \nColor grade each stage to match lighting and color of its era-specific background (field, city, sky, space).",
+  "translations": {
+    "es": {
+      "content": "Crea imágenes de referencia del objeto en cada etapa de evolución (por ejemplo, piedra → lanza → bala → misil → núcleo de energía) en Nano Banana o Midjourney antes de generar el video en Seedance.  \nBloquea la posición del objeto en el encuadre para que no se desplace durante todo el clip de Seedance.  \nUsa Seedance para transformar de forma continua la forma y el material del objeto entre etapas en una sola toma, sin cortes.  \nAjusta el color de cada etapa para que coincida con la iluminación y la paleta de colores del fondo correspondiente a su época (campo, ciudad, cielo, espacio)."
+    },
+    "fr": {
+      "content": "Créez des images de référence de l’objet à chaque étape de son évolution (par ex. pierre → lance → balle → missile → noyau d’énergie) dans Nano Banana ou Midjourney avant de générer la vidéo dans Seedance.  \nVerrouillez la position de l’objet dans le cadre afin qu’il ne se déplace pas tout au long du clip Seedance.  \nUtilisez Seedance pour faire évoluer en continu la forme et la matière de l’objet entre les différentes étapes, en une seule prise et sans coupe.  \nAppliquez un étalonnage colorimétrique à chaque étape pour l’harmoniser avec l’éclairage et les couleurs de l’arrière-plan propre à son époque (champ, ville, ciel, espace)."
+    },
+    "ja": {
+      "content": "Seedanceで動画を生成する前に、Nano BananaまたはMidjourneyで、各進化段階ごとのオブジェクトの参照画像を作成します（例：stone → spear → bullet → missile → energy core）。  \nSeedanceのクリップ全体を通してオブジェクトの位置がずれないよう、フレーム内で固定します。  \nSeedanceを使って、カットなしの1ショットの中で、段階ごとにオブジェクトの形状と素材が連続的に変化するよう morph させます。  \n各段階の color grade は、その時代に対応する背景（field、city、sky、space）の照明や色味に合わせます。"
+    },
+    "ko": {
+      "content": "Seedance에서 비디오를 생성하기 전에 Nano Banana 또는 Midjourney에서 각 진화 단계(예: stone → spear → bullet → missile → energy core)에 해당하는 오브젝트의 reference image를 만드세요.  \nSeedance 클립 전체에서 오브젝트가 움직이지 않도록 프레임 내 위치를 고정하세요.  \nSeedance를 사용해 컷 없이 하나의 샷 안에서 오브젝트의 형태와 재질이 단계별로 연속적으로 morph되도록 하세요.  \n각 단계의 color grade는 해당 시대적 배경(필드, 도시, 하늘, 우주)의 조명과 색감에 맞추세요."
+    },
+    "pt": {
+      "content": "Crie imagens de referência do objeto em cada estágio de evolução (por exemplo, pedra → lança → bala → míssil → núcleo de energia) no Nano Banana ou no Midjourney antes de gerar o vídeo no Seedance.  \nTrave a posição do objeto no quadro para que ele não se desloque ao longo do clipe no Seedance.  \nUse o Seedance para transformar continuamente a forma e o material do objeto entre os estágios em um único take, sem cortes.  \nFaça o color grading de cada estágio para combinar a iluminação e as cores do fundo específico de sua época (campo, cidade, céu, espaço)."
+    },
+    "zh": {
+      "content": "在使用 Seedance 生成视频之前，先在 Nano Banana 或 Midjourney 中为物体的每个进化阶段创建参考图像（例如：石头 → 长矛 → 子弹 → 导弹 → 能量核心）。  \n将物体在画面中的位置固定住，确保它在整个 Seedance 片段中不会移动。  \n使用 Seedance 在单个镜头中、无剪切地连续变形物体的形状和材质，使其在各个阶段之间平滑过渡。  \n为每个阶段进行调色，使其与对应时代背景的光线和色彩相匹配（田野、城市、天空、太空）。"
+    }
+  }
+}
