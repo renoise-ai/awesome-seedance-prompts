@@ -5370,4 +5370,4 @@ Create scalable ad variations by prompting Opus 5 to produce, for each script, 2
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 模型](https://renoise.ai/zh-CN/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-08-15T12:38:39.036Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-08-15T16:25:08.837Z
