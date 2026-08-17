@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **5593** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **2632** |
-| 🔄 最終更新 | **2026-08-16** |
+| 🔄 最終更新 | **2026-08-17** |
 
 ---
 
@@ -6725,4 +6725,4 @@ Create scalable ad variations by prompting Opus 5 to produce, for each script, 2
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-08-16T20:23:07.581Z
+🤖 この README は自動生成されています。最終更新： 2026-08-17T01:19:36.319Z
