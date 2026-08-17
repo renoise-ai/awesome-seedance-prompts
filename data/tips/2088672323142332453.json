@@ -1,0 +1,41 @@
+{
+  "id": "2088672323142332453",
+  "title": "Structure your Seedance prompt with a fixed duration and timestamped beat list…",
+  "content": "Structure your Seedance prompt with a fixed duration and timestamped beat list (e.g., 15 seconds with 0:01–0:03, 0:03–0:05, etc.) to control shot-by-shot action and pacing.  \nUse an uploaded character sheet as a strict visual reference to lock character identity and outfit consistency across the entire clip.  \nSpecify camera framing per beat (e.g., close on rear wheel, overhead wide shot, low-angle front shot, extreme close-ups) to steer camera distance and composition.  \nDefine audio behavior explicitly from frame one (continuous engine roar, constant mud impacts, throttle bursts synced to accelerations, never fading) to keep sound consistent and synchronized to action.  \nAdd negative style constraints (e.g., not cartoon, not Disney, not Pixar) alongside target style keywords (cinematic cel-shaded 3D anime, Unreal Engine quality, film grain) to reduce unwanted stylistic drift.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TechieBySA/status/2088672323142332453",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "TechieSA",
+    "link": "https://x.com/TechieBySA"
+  },
+  "tags": [
+    "Auto",
+    "Racing",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Structure your Seedance prompt with a fixed duration and timestamped beat list (e.g., 15 seconds with 0:01–0:03, 0:03–0:05, etc.) to control shot-by-shot action and pacing.  \nUse an uploaded character sheet as a strict visual reference to lock character identity and outfit consistency across the entire clip.  \nSpecify camera framing per beat (e.g., close on rear wheel, overhead wide shot, low-angle front shot, extreme close-ups) to steer camera distance and composition.  \nDefine audio behavior explicitly from frame one (continuous engine roar, constant mud impacts, throttle bursts synced to accelerations, never fading) to keep sound consistent and synchronized to action.  \nAdd negative style constraints (e.g., not cartoon, not Disney, not Pixar) alongside target style keywords (cinematic cel-shaded 3D anime, Unreal Engine quality, film grain) to reduce unwanted stylistic drift.",
+  "translations": {
+    "es": {
+      "content": "Estructura tu prompt de Seedance con una duración fija y una lista de beats con marcas de tiempo (por ejemplo, 15 segundos con 0:01–0:03, 0:03–0:05, etc.) para controlar la acción y el ritmo plano por plano.  \nUsa una character sheet subida como referencia visual estricta para fijar la identidad del personaje y la coherencia del vestuario durante todo el clip.  \nEspecifica el encuadre de cámara para cada beat (por ejemplo, close on rear wheel, overhead wide shot, low-angle front shot, extreme close-ups) para guiar la distancia de cámara y la composición.  \nDefine el comportamiento del audio de forma explícita desde el primer frame (continuous engine roar, constant mud impacts, throttle bursts synced to accelerations, never fading) para mantener el sonido consistente y sincronizado con la acción.  \nAñade restricciones de estilo negativas (por ejemplo, not cartoon, not Disney, not Pixar) junto con palabras clave del estilo objetivo (cinematic cel-shaded 3D anime, Unreal Engine quality, film grain) para reducir la deriva estilística no deseada."
+    },
+    "fr": {
+      "content": "Structurez votre prompt Seedance avec une durée fixe et une liste de beats horodatés (par exemple, 15 secondes avec 0:01–0:03, 0:03–0:05, etc.) afin de contrôler l’action et le rythme plan par plan.  \nUtilisez une character sheet importée comme référence visuelle stricte pour verrouiller l’identité du personnage et la cohérence de la tenue sur l’ensemble du clip.  \nPrécisez le cadrage caméra pour chaque beat (par exemple, gros plan sur la roue arrière, plan large en plongée, plan frontal en contre-plongée, très gros plans) afin d’orienter la distance de caméra et la composition.  \nDéfinissez explicitement le comportement audio dès la première image (grondement continu du moteur, impacts constants de boue, accélérations de l’accélérateur synchronisées avec les montées en vitesse, sans jamais s’estomper) pour maintenir un son cohérent et synchronisé avec l’action.  \nAjoutez des contraintes de style négatives (par exemple, not cartoon, not Disney, not Pixar) en parallèle de mots-clés de style cibles (cinematic cel-shaded 3D anime, Unreal Engine quality, film grain) afin de réduire les dérives stylistiques indésirables."
+    },
+    "ja": {
+      "content": "Seedanceのpromptは、固定の尺とタイムスタンプ付きのビートリスト（例：15秒で0:01–0:03、0:03–0:05 など）を使って構成し、ショットごとのアクションとテンポをコントロールします。  \nアップロードしたキャラクターシートを厳密なビジュアル参照として使用し、クリップ全体を通してキャラクターのアイデンティティと衣装の一貫性を固定します。  \n各ビートごとにカメラのフレーミングを指定し（例：後輪のクローズアップ、俯瞰のワイドショット、ローアングルの正面ショット、極端なクローズアップ）、カメラ距離と構図を意図どおりに誘導します。  \nフレーム1から音の挙動を明確に定義し（連続するエンジン音、一定の泥はね、加速に同期したスロットルの吹かし、決してフェードアウトしない）、サウンドを一貫させてアクションと同期させます。  \nターゲットのスタイルキーワード（cinematic cel-shaded 3D anime、Unreal Engine quality、film grain）に加えて、否定的なスタイル制約（例：not cartoon, not Disney, not Pixar）を追加し、望ましくないスタイルのブレを抑えます。"
+    },
+    "ko": {
+      "content": "---\nSeedance prompt는 고정된 duration과 timestamp가 포함된 beat list로 구성하세요(예: 15초, 0:01–0:03, 0:03–0:05 등). 이렇게 하면 shot-by-shot action과 pacing을 제어할 수 있습니다.  \n업로드한 character sheet를 엄격한 visual reference로 사용해, 전체 clip에서 character identity와 outfit consistency를 고정하세요.  \n각 beat마다 camera framing을 구체적으로 지정하세요(예: rear wheel close-up, overhead wide shot, low-angle front shot, extreme close-up 등). 이렇게 하면 camera distance와 composition을 원하는 대로 유도할 수 있습니다.  \nframe one부터 audio behavior를 명확하게 정의하세요(continuous engine roar, constant mud impacts, accelerations에 맞춘 throttle bursts, never fading). 이렇게 해야 sound가 action과 일관되게 유지되고 sync됩니다.  \n원하지 않는 스타일 drift를 줄이기 위해 target style keywords(cinematic cel-shaded 3D anime, Unreal Engine quality, film grain)와 함께 negative style constraints(예: not cartoon, not Disney, not Pixar)를 추가하세요.\n---"
+    },
+    "pt": {
+      "content": "Estruture seu prompt do Seedance com uma duração fixa e uma lista de beats com timestamps (por exemplo, 15 segundos com 0:01–0:03, 0:03–0:05 etc.) para controlar a ação e o ritmo cena a cena.  \nUse uma character sheet enviada como referência visual rigorosa para travar a identidade do personagem e a consistência do figurino ao longo de todo o clipe.  \nEspecifique o enquadramento da câmera por beat (por exemplo, close na roda traseira, plano geral de cima, plano frontal em ângulo baixo, closes extremos) para orientar a distância da câmera e a composição.  \nDefina o comportamento do áudio explicitamente desde o primeiro frame (ronco contínuo do motor, impactos constantes de lama, bursts de aceleração sincronizados com as acelerações, sem nunca desaparecer) para manter o som consistente e sincronizado com a ação.  \nAdicione restrições negativas de estilo (por exemplo, não cartoon, não Disney, não Pixar) junto com palavras-chave de estilo-alvo (3D anime com cel shading cinematográfico, qualidade Unreal Engine, film grain) para reduzir desvios estilísticos indesejados."
+    },
+    "zh": {
+      "content": "将你的 Seedance prompt 结构化为固定时长，并使用带时间戳的节拍列表（例如 15 秒，分为 0:01–0:03、0:03–0:05 等），以控制逐镜头动作和节奏。  \n使用上传的角色设定图作为严格的视觉参考，锁定整个片段中角色身份和服装的一致性。  \n按每个节拍明确指定镜头构图（例如：后轮特写、俯视广角、低角度正面镜头、极近特写），以引导镜头距离和画面构图。  \n从第一帧开始明确规定音频行为（持续的引擎轰鸣、持续的泥浆撞击声、与加速同步的油门爆发声、绝不淡出），以保持声音一致并与动作同步。  \n在目标风格关键词（cinematic cel-shaded 3D anime、Unreal Engine quality、film grain）旁加入负面风格约束（例如：not cartoon、not Disney、not Pixar），以减少不希望出现的风格偏移。"
+    }
+  }
+}

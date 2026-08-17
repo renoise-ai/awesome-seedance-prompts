@@ -1,0 +1,42 @@
+{
+  "id": "2088417752046612795",
+  "title": "seedanceで生成した複数クリップを繋げて無音動画を作り、それをPika Soundtrackに入力してテキスト指示だけで動画全体の音声（サウンドトラック）…",
+  "content": "seedanceで生成した複数クリップを繋げて無音動画を作り、それをPika Soundtrackに入力してテキスト指示だけで動画全体の音声（サウンドトラック）を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088414960049385472/img/qs0kovmJjr7nqMuk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088417752046612795.mp4",
+  "sourceLink": "https://x.com/seiiiiiiiiiiru/status/2088417752046612795",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "SEIIIRUðŸ˜ˆå‹•ç”»ç”Ÿæˆ�AIã‚’ä½¿ã�†æ˜ åƒ�ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼",
+    "link": "https://x.com/seiiiiiiiiiiru"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "seedanceで生成した複数クリップを繋げて無音動画を作り、それをPika Soundtrackに入力してテキスト指示だけで動画全体の音声（サウンドトラック）を生成する",
+  "translations": {
+    "en": {
+      "content": "Create a silent video by stitching together multiple clips generated with Seedance, then feed it into Pika Soundtrack to generate the audio for the entire video (the soundtrack) using text instructions only.\n\n--- QUOTED TWEET ---\nSound on! Today, we’re introducing Pika Audio models: 4 frontier foundation models that cover the full spectrum of generative sound. And we’ve made them less expensive than every audio model on the market—up to 20x times cheaper.*\n\n*There is literally no disclaimer https://t.co/DTNQoefN9l\n\n--- THREAD CONTINUATION ---\n[Thread 1] For more details on the Pika Audio Models, please check out [Pika API Club] 👇\nhttps://t.co/VTQzZke6P4\n---"
+    },
+    "es": {
+      "content": "crear un video sin sonido uniendo varios clips generados con seedance, e introducirlo en Pika Soundtrack para generar, solo con instrucciones de texto, el audio completo del video (la banda sonora)\n\n--- TWEET CITADO ---\n¡Con sonido! Hoy presentamos los modelos de audio de Pika: 4 modelos fundacionales de vanguardia que cubren todo el espectro del sonido generativo. Y los hemos hecho más económicos que cualquier otro modelo de audio del mercado: hasta 20 veces más baratos.*\n\n*Literalmente no hay ninguna aclaración https://t.co/DTNQoefN9l\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Los detalles de los modelos de audio de Pika pueden consultarse en 【Pika API Club】👇\nhttps://t.co/VTQzZke6P4\n---"
+    },
+    "fr": {
+      "content": "Créer une vidéo muette en reliant plusieurs clips générés avec Seedance, puis l’importer dans Pika Soundtrack afin de générer, à partir de simples instructions textuelles, la bande-son complète de la vidéo.\n\n--- TWEET CITÉ ---\nSound on! Today, we’re introducing Pika Audio models: 4 frontier foundation models that cover the full spectrum of generative sound. And we’ve made them less expensive than every audio model on the market—up to 20x times cheaper.*\n\n*There is literally no disclaimer https://t.co/DTNQoefN9l\n\n--- SUITE DU THREAD ---\n[Thread 1] Pour plus de détails sur les Pika Audio Models, consultez 【Pika API Club】👇\nhttps://t.co/VTQzZke6P4\n---"
+    },
+    "ko": {
+      "content": "seedance로 생성한 여러 클립을 이어 붙여 무음 영상을 만든 뒤, 이를 Pika Soundtrack에 입력해 텍스트 지시만으로 영상 전체의 오디오(사운드트랙)를 생성한다\n\n--- QUOTED TWEET ---\nSound on! 오늘, 우리는 Pika Audio models를 소개합니다: 생성형 사운드의 전체 스펙트럼을 아우르는 4개의 frontier foundation models. 그리고 우리는 이를 시장의 어떤 오디오 모델보다도 더 저렴하게 만들었습니다—최대 20배 더 저렴합니다.*\n\n*There is literally no disclaimer https://t.co/DTNQoefN9l\n\n--- THREAD CONTINUATION ---\n[Thread 1] Pika Audio Models의 자세한 내용은 【Pika API Club】에서 확인하세요👇\nhttps://t.co/VTQzZke6P4\n---"
+    },
+    "pt": {
+      "content": "criar um vídeo sem áudio conectando vários clipes gerados no Seedance e, em seguida, inseri-lo no Pika Soundtrack para gerar o áudio de todo o vídeo (trilha sonora) apenas com instruções em texto\n\n--- TWEET CITADO ---\nSound on! Today, we’re introducing Pika Audio models: 4 frontier foundation models that cover the full spectrum of generative sound. And we’ve made them less expensive than every audio model on the market—up to 20x times cheaper.*\n\n*There is literally no disclaimer https://t.co/DTNQoefN9l\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Confira os detalhes dos Pika Audio Models no 【Pika API Club】👇\nhttps://t.co/VTQzZke6P4\n---"
+    },
+    "zh": {
+      "content": "将 seedance 生成的多个 clip 拼接起来制作无声视频，然后将其输入 Pika Soundtrack，仅通过文本指令为整段视频生成音频（soundtrack）\n\n--- QUOTED TWEET ---\n听好了！今天，我们推出 Pika Audio models：4 个前沿 foundation models，覆盖生成式声音的完整光谱。而且我们把它们定价得比市面上所有音频模型都更便宜——最高可便宜 20 倍。*\n\n*这真的没有任何免责声明 https://t.co/DTNQoefN9l\n\n--- THREAD CONTINUATION ---\n[Thread 1] Pika Audio Models 的详细信息请在【Pika API Club】查看👇\nhttps://t.co/VTQzZke6P4\n---"
+    }
+  }
+}

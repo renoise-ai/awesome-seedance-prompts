@@ -1,0 +1,43 @@
+{
+  "id": "2088462112993767579",
+  "title": "Use Seedance 2.0 mini with a single photo of your pet as the reference image to…",
+  "content": "Use Seedance 2.0 mini with a single photo of your pet as the reference image to generate a “cute pet with exaggerated expressions/overacting” video.",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088460568403587072/img/4HLypBYh3rsF82C2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088462112993767579.mp4",
+  "sourceLink": "https://x.com/TanLuAI/status/2088462112993767579",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "探路AI",
+    "link": "https://x.com/TanLuAI"
+  },
+  "tags": [
+    "Animals",
+    "Pets",
+    "Photoreal",
+    "Realistic World",
+    "Transformation",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.0 mini with a single photo of your pet as the reference image to generate a “cute pet with exaggerated expressions/overacting” video.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.0 mini with a single photo of your pet as the reference image to generate a “cute pet with exaggerated expressions/overacting” video."
+    },
+    "es": {
+      "content": "Usa Seedance 2.0 mini con una sola foto de tu mascota como imagen de referencia para generar un video de “mascota adorable con expresiones exageradas/sobreactuación”."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.0 mini avec une seule photo de votre animal comme image de référence pour générer une vidéo de « cute pet with exaggerated expressions/overacting »."
+    },
+    "ja": {
+      "content": "Seedance 2.0 mini を使い、ペットの写真1枚を参照画像として、「誇張された表情／オーバーアクティングをするかわいいペット」の動画を生成します。"
+    },
+    "ko": {
+      "content": "반려동물의 사진 한 장을 reference image로 사용해, “과장된 표정/오버액팅을 하는 귀여운 반려동물” 영상을 생성하려면 Seedance 2.0 mini를 사용하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.0 mini com uma única foto do seu pet como imagem de referência para gerar um vídeo de “pet fofo com expressões exageradas/overacting”."
+    }
+  }
+}

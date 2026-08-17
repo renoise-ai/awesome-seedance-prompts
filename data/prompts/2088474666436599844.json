@@ -1,0 +1,40 @@
+{
+  "id": "2088474666436599844",
+  "title": "BASKETBALL",
+  "content": "BASKETBALL",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088474593849929728/img/4ITkXYR8PcKolVT8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088474666436599844.mp4",
+  "sourceLink": "https://x.com/vert_ink/status/2088474666436599844",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "VERT",
+    "link": "https://x.com/vert_ink"
+  },
+  "tags": [
+    "Sports",
+    "Basketball",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "---\nBALONCESTO\n---"
+    },
+    "fr": {
+      "content": "BASKETBALL"
+    },
+    "ja": {
+      "content": "バスケットボール"
+    },
+    "ko": {
+      "content": "농구"
+    },
+    "pt": {
+      "content": "BASQUETE"
+    },
+    "zh": {
+      "content": "篮球"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2088266183284056339",
+  "title": "参照画像なし（テキストのみ）で日本の題材（例：青森ねぶた祭りダンス）を生成して、Seedanceが文化要素をどれだけ理解しているかを検証する",
+  "content": "参照画像なし（テキストのみ）で日本の題材（例：青森ねぶた祭りダンス）を生成して、Seedanceが文化要素をどれだけ理解しているかを検証する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088265832652840960/img/lW6b69nB_s2p19I4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088266183284056339.mp4",
+  "sourceLink": "https://x.com/ai_lifehack55/status/2088266183284056339",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "AIライフハック",
+    "link": "https://x.com/ai_lifehack55"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "参照画像なし（テキストのみ）で日本の題材（例：青森ねぶた祭りダンス）を生成して、Seedanceが文化要素をどれだけ理解しているかを検証する",
+  "translations": {
+    "en": {
+      "content": "Generate a Japanese-themed scene without a reference image (text only), such as the Aomori Nebuta Festival dance, to test how well Seedance understands cultural elements.\n\n--- QUOTED TWEET ---\nSuperGrok Imagine Can you dance Nebuta? https://t.co/R9WipjvVSm\n---"
+    },
+    "es": {
+      "content": "Generar un tema japonés (por ejemplo, la danza del Festival Nebuta de Aomori) sin imagen de referencia (solo texto) para comprobar hasta qué punto Seedance comprende los elementos culturales\n\n--- TWEET CITADO ---\nSuperGrok Imagine ねぶた踊れる？ https://t.co/R9WipjvVSm\n---"
+    },
+    "fr": {
+      "content": "Générer un sujet japonais sans image de référence (texte uniquement) — par exemple, une danse du festival Nebuta d’Aomori — afin de vérifier dans quelle mesure Seedance comprend les éléments culturels.\n\n--- TWEET CITÉ ---\nSuperGrok Imagine ねぶた踊れる？ https://t.co/R9WipjvVSm\n---"
+    },
+    "ko": {
+      "content": "참조 이미지 없이(텍스트만으로) 일본 소재(예: 아오모리 네부타 마츠리 댄스)를 생성해, Seedance가 문화적 요소를 얼마나 이해하는지 검증한다\n\n--- 인용 트윗 ---\nSuperGrok Imagine ねぶた踊れる？ https://t.co/R9WipjvVSm\n---"
+    },
+    "pt": {
+      "content": "Gerar um tema japonês sem imagem de referência (apenas texto) — por exemplo, uma dança do Festival Nebuta de Aomori — para verificar até que ponto o Seedance compreende elementos culturais\n\n--- TWEET CITADO ---\nSuperGrok Imagine ねぶた踊れる？ https://t.co/R9WipjvVSm\n---"
+    },
+    "zh": {
+      "content": "在没有参考图像（仅文本）的情况下生成日本题材（例如青森睡魔祭舞蹈），以检验 Seedance 对文化元素的理解程度\n\n--- QUOTED TWEET ---\nSuperGrok Imagine 会跳睡魔舞吗？ https://t.co/R9WipjvVSm\n---"
+    }
+  }
+}

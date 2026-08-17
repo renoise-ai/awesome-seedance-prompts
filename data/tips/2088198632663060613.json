@@ -1,0 +1,42 @@
+{
+  "id": "2088198632663060613",
+  "title": "Provide specific dialogue lines in your prompt to avoid models like MMH3…",
+  "content": "Provide specific dialogue lines in your prompt to avoid models like MMH3 generating gibberish speech.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088198583983943680/img/OD09ltSlkqOrtGmT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088198632663060613.mp4",
+  "sourceLink": "https://x.com/_GAi92/status/2088198632663060613",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "_GAi",
+    "link": "https://x.com/_GAi92"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Provide specific dialogue lines in your prompt to avoid models like MMH3 generating gibberish speech.",
+  "translations": {
+    "es": {
+      "content": "Proporciona líneas de diálogo específicas en tu prompt para evitar que modelos como MMH3 generen un discurso incoherente.\n\n--- TUIT CITADO ---\n¿De verdad esto era lo mejor que la IA podía inventar en cuanto a chistes? Qué triste, al menos escríbelos tú mismo a ese ritmo... 🫩\n---"
+    },
+    "fr": {
+      "content": "Fournissez des répliques précises dans votre prompt afin d’éviter que des modèles comme MMH3 ne génèrent un discours incohérent.\n\n--- TWEET CITÉ ---\nC’était vraiment la meilleure blague que l’IA pouvait trouver ? C’est juste triste, à ce stade autant les écrire soi-même... 🫩\n---"
+    },
+    "ja": {
+      "content": "promptには具体的なセリフを入れて、MMH3のようなモデルが意味不明な発話を生成しないようにしましょう。\n\n--- 引用ツイート ---\nこれがAIの考えつく最高のジョークだったの？ それはちょっと悲しいね。そのレベルなら、せめて自分で書けばいいのに…… 🫩\n---"
+    },
+    "ko": {
+      "content": "프롬프트에 구체적인 대사 라인을 넣어 MMH3 같은 모델이 알아들을 수 없는 말소리를 생성하지 않도록 하세요.\n\n--- 인용된 트윗 ---\nAI가 생각해낸 농담이 정말 이게 최선이었나요? 너무 안타깝네요. 그 정도면 차라리 직접 쓰는 게 낫겠어요... 🫩\n---"
+    },
+    "pt": {
+      "content": "Forneça falas específicas no seu prompt para evitar que modelos como o MMH3 gerem fala sem sentido.\n\n--- TWEET CITADO ---\nIsso foi realmente o melhor que a IA conseguiu inventar em termos de piadas? Que triste, nesse ritmo, pelo menos escreva você mesmo... 🫩\n---"
+    },
+    "zh": {
+      "content": "在你的 prompt 中提供具体的对白台词，以避免像 MMH3 这样的模型生成胡言乱语式的语音。\n\n--- 引用推文 ---\nAI 真就只能想出这种最好笑的梗吗？这也太可悲了，照这个水平，至少还是自己写吧…… 🫩\n---"
+    }
+  }
+}
