@@ -1,0 +1,42 @@
+{
+  "id": "2089246987031810503",
+  "title": "Use a screenplay-to-Blender pre-vis workflow (auto-generate a rough Blender…",
+  "content": "Use a screenplay-to-Blender pre-vis workflow (auto-generate a rough Blender animation on a timeline) to lock in shots, camera angles, cuts, and lens choices before running Seedance.  \nBuild your pre-vis in Blender’s timeline so you can precisely control each cut and camera move, then use it as the blocking/reference for Seedance to reduce the number of generations (save cost).  \nWhen using a blocking/reference video with Seedance, tune the freedom/strength so it improves the rough blocking without re-interpreting the intended shot choreography.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089246912687837184/img/HIymQZvTBJL9IYhE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089246987031810503.mp4",
+  "sourceLink": "https://x.com/rainisto/status/2089246987031810503",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "Roope Rainisto",
+    "link": "https://x.com/rainisto"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a screenplay-to-Blender pre-vis workflow (auto-generate a rough Blender animation on a timeline) to lock in shots, camera angles, cuts, and lens choices before running Seedance.  \nBuild your pre-vis in Blender’s timeline so you can precisely control each cut and camera move, then use it as the blocking/reference for Seedance to reduce the number of generations (save cost).  \nWhen using a blocking/reference video with Seedance, tune the freedom/strength so it improves the rough blocking without re-interpreting the intended shot choreography.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un flujo de trabajo de previsualización de guion a Blender (auto-genera una animación aproximada en Blender sobre una línea de tiempo) para fijar los planos, ángulos de cámara, cortes y elecciones de lente antes de ejecutar Seedance.  \nConstruye tu pre-vis en la línea de tiempo de Blender para poder controlar con precisión cada corte y movimiento de cámara, y luego úsala como blocking/referencia para Seedance y así reducir el número de generaciones (ahorrar costes).  \nAl usar un video de blocking/referencia con Seedance, ajusta la libertad/fuerza para que mejore el blocking aproximado sin reinterpretar la coreografía del plano prevista."
+    },
+    "fr": {
+      "content": "Utilisez un workflow de prévisualisation de type screenplay-to-Blender (générer automatiquement une animation Blender sommaire sur une timeline) pour verrouiller les plans, les angles de caméra, les cuts et les choix d’objectifs avant de lancer Seedance.  \nConstruisez votre pré-vis dans la timeline de Blender afin de contrôler précisément chaque cut et chaque mouvement de caméra, puis utilisez-la comme blocking/référence pour Seedance afin de réduire le nombre de générations (et donc les coûts).  \nLorsque vous utilisez une vidéo de blocking/référence avec Seedance, ajustez le niveau de liberté/force pour qu’elle améliore le blocking approximatif sans réinterpréter la chorégraphie de plan souhaitée."
+    },
+    "ja": {
+      "content": "---\nSeedance を実行する前に、screenplay-to-Blender の pre-vis ワークフロー（タイムライン上でラフな Blender アニメーションを自動生成する）を使って、ショット、カメラアングル、カット、レンズの選択を固めておきます。  \nBlender のタイムライン上で pre-vis を作成すれば、各カットやカメラ移動を正確にコントロールでき、それを Seedance の blocking/reference として使うことで生成回数を減らし、コストを抑えられます。  \nSeedance で blocking/reference video を使う場合は、自由度/強度を調整して、意図したショットの振り付けを再解釈させるのではなく、ラフな blocking を改善する方向に寄せます。\n---"
+    },
+    "ko": {
+      "content": "---\nSeedance를 실행하기 전에 샷, 카메라 앵글, 컷, 렌즈 선택을 확정할 수 있도록, screenplay-to-Blender pre-vis 워크플로우(타임라인에서 대략적인 Blender 애니메이션을 자동 생성)를 사용하세요.  \nBlender의 타임라인에서 pre-vis를 구축하면 각 컷과 카메라 무브를 정밀하게 제어할 수 있고, 이를 Seedance의 blocking/reference로 활용해 생성 횟수를 줄일 수 있습니다(비용 절감).  \nSeedance에서 blocking/reference 비디오를 사용할 때는 freedom/strength를 조정해, 의도한 샷 choreography를 다시 해석하지 않으면서 러프한 blocking을 개선하도록 하세요.\n---"
+    },
+    "pt": {
+      "content": "Use um workflow de pre-vis de screenplay para Blender (gerar automaticamente uma animação bruta no Blender em uma timeline) para definir os planos, ângulos de câmera, cortes e escolhas de lente antes de rodar o Seedance.  \nCrie sua pre-vis na timeline do Blender para poder controlar com precisão cada corte e movimento de câmera, e depois use-a como blocking/referência para o Seedance, reduzindo o número de gerações (e economizando custo).  \nAo usar um vídeo de blocking/referência com o Seedance, ajuste o nível de liberdade/força para que ele aprimore o blocking bruto sem reinterpretar a coreografia pretendida do plano."
+    },
+    "zh": {
+      "content": "使用 screenplay-to-Blender pre-vis 工作流（在时间轴上自动生成一个粗略的 Blender 动画）来在运行 Seedance 之前先锁定镜头、机位角度、剪辑点和镜头焦段选择。  \n在 Blender 的时间轴中构建你的 pre-vis，这样你就能精确控制每个剪辑和镜头运动，然后将其作为 Seedance 的 blocking/reference，以减少生成次数（节省成本）。  \n当使用 blocking/reference 视频配合 Seedance 时，调整 freedom/strength，使其在改进粗略 blocking 的同时，不会重新解读原本设定的镜头调度。"
+    }
+  }
+}

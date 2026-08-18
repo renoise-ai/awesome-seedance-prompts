@@ -1,0 +1,42 @@
+{
+  "id": "2089296187178488013",
+  "title": "物音がする→人物が止まる→振り返る→扉を見せる→最後に扉が動く、の順にイベントをプロンプトで明示して「答え（原因）」を最後まで見せない演出にする",
+  "content": "物音がする→人物が止まる→振り返る→扉を見せる→最後に扉が動く、の順にイベントをプロンプトで明示して「答え（原因）」を最後まで見せない演出にする  \n音がした瞬間にカメラが原因（答え）を映さないよう、最初は人物の反応だけを描写し原因の描写は後半に遅らせる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089296163778502656/img/804pKjpa7h1y8hF5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089296187178488013.mp4",
+  "sourceLink": "https://x.com/hiromi_sound/status/2089296187178488013",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "HIROMI🌸",
+    "link": "https://x.com/hiromi_sound"
+  },
+  "tags": [
+    "Horror",
+    "Eerie",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "物音がする→人物が止まる→振り返る→扉を見せる→最後に扉が動く、の順にイベントをプロンプトで明示して「答え（原因）」を最後まで見せない演出にする  \n音がした瞬間にカメラが原因（答え）を映さないよう、最初は人物の反応だけを描写し原因の描写は後半に遅らせる",
+  "translations": {
+    "en": {
+      "content": "Explicitly specify the sequence of events in the prompt as: a sound is heard → the person stops → they turn around → the door is shown → the door moves at the end, creating a setup that does not reveal the “answer” (the cause) until the very end.  \nTo prevent the camera from showing the cause (the answer) the moment the sound occurs, first describe only the person’s reaction, and delay the description of the cause until later in the prompt."
+    },
+    "es": {
+      "content": "Indicar explícitamente en el prompt la secuencia de eventos en este orden: se oye un ruido → la persona se detiene → se gira → se muestra la puerta → al final, la puerta se mueve, para crear una puesta en escena que no revele la “respuesta (causa)” hasta el final.  \nEn el momento en que se oye el sonido, evitar que la cámara muestre la causa (la respuesta); al principio, describir solo la reacción de la persona y retrasar la descripción de la causa hasta la segunda mitad."
+    },
+    "fr": {
+      "content": "Indiquer explicitement dans le prompt la séquence des événements — un bruit se fait entendre → le personnage s’arrête → il se retourne → la porte est montrée → enfin, la porte bouge — afin de créer une mise en scène qui ne révèle pas la « réponse » (la cause) avant la fin.  \nAu moment où le bruit se produit, veiller à ce que la caméra ne montre pas la cause (la réponse) ; au début, décrire uniquement la réaction du personnage, puis retarder la description de la cause jusqu’à la seconde moitié."
+    },
+    "ko": {
+      "content": "소리가 난다 → 인물이 멈춘다 → 뒤돌아본다 → 문을 보여준다 → 마지막에 문이 움직인다, 순서로 이벤트를 prompt에 명시해 ‘답(원인)’을 끝까지 보여주지 않는 연출로 한다  \n소리가 난 순간에 카메라가 원인(답)을 비추지 않도록, 처음에는 인물의 반응만 묘사하고 원인의 묘사는 후반으로 늦춘다"
+    },
+    "pt": {
+      "content": "Indicar explicitamente no prompt a sequência de eventos — som é ouvido → a pessoa para → ela se vira → a porta é mostrada → por fim, a porta se move — para criar uma encenação que não revela a “resposta” (a causa) até o final.  \nNo momento em que o som acontece, evitar que a câmera mostre a causa (a resposta); primeiro, descrever apenas a reação da pessoa e deixar a descrição da causa para mais tarde, na segunda metade."
+    },
+    "zh": {
+      "content": "通过在 prompt 中明确按“有动静 → 人物停下 → 回头 → 展示门 → 最后门开始移动”的顺序来安排事件，营造一种直到最后都不揭示“答案（原因）”的表现手法。  \n在声音出现的瞬间，避免 camera 直接拍到原因（答案）；一开始只描写人物的反应，并将原因的描写延后到后半段。"
+    }
+  }
+}

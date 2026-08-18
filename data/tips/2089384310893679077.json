@@ -1,0 +1,42 @@
+{
+  "id": "2089384310893679077",
+  "title": "If only one scene in a multi-scene Seedance 2 generation works, extract that…",
+  "content": "If only one scene in a multi-scene Seedance 2 generation works, extract that clip and use it as a reference in a new generation to continue from that scene or cut from it and prompt the next action around it.  \nWhen a generation is perfect except for a specific visual detail, screenshot the first frame, edit/fix the detail in an image editor (e.g., Nano Banana Pro), then use the corrected image as the starting frame for a new Seedance generation.  \nReuse audio from discarded Seedance generations (especially environmental SFX) by extracting it and layering it onto your final edit.  \nIf a discarded generation has the best dialogue/vocal delivery, sync that audio onto better visuals using a lip-sync tool (e.g., SyncLabs) to combine the best voice with the best video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089383247750762496/img/xr13QW1mHytivTIr.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089384310893679077.mp4",
+  "sourceLink": "https://x.com/second_bassoon/status/2089384310893679077",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "Monique Pryce",
+    "link": "https://x.com/second_bassoon"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "If only one scene in a multi-scene Seedance 2 generation works, extract that clip and use it as a reference in a new generation to continue from that scene or cut from it and prompt the next action around it.  \nWhen a generation is perfect except for a specific visual detail, screenshot the first frame, edit/fix the detail in an image editor (e.g., Nano Banana Pro), then use the corrected image as the starting frame for a new Seedance generation.  \nReuse audio from discarded Seedance generations (especially environmental SFX) by extracting it and layering it onto your final edit.  \nIf a discarded generation has the best dialogue/vocal delivery, sync that audio onto better visuals using a lip-sync tool (e.g., SyncLabs) to combine the best voice with the best video.",
+  "translations": {
+    "es": {
+      "content": "Si solo una escena en una generación multi-escena de Seedance 2 funciona, extrae ese clip y úsalo como referencia en una nueva generación para continuar desde esa escena o recórtalo y prompt la siguiente acción a su alrededor.  \nCuando una generación es perfecta salvo por un detalle visual específico, haz una captura del primer frame, edita/corrige el detalle en un editor de imágenes (p. ej., Nano Banana Pro) y luego usa la imagen corregida como frame inicial para una nueva generación de Seedance.  \nReutiliza el audio de generaciones descartadas de Seedance (especialmente los SFX ambientales) extrayéndolo y superponiéndolo en tu edición final.  \nSi una generación descartada tiene el mejor diálogo o interpretación vocal, sincroniza ese audio con mejores visuales usando una herramienta de lip-sync (p. ej., SyncLabs) para combinar la mejor voz con el mejor video."
+    },
+    "fr": {
+      "content": "Si une seule scène d’une génération Seedance 2 multi-scènes fonctionne, extrayez ce clip et utilisez-le comme référence dans une nouvelle génération pour continuer à partir de cette scène, ou coupez à partir de celle-ci et prompt la prochaine action autour d’elle.  \nLorsqu’une génération est parfaite à l’exception d’un détail visuel précis, faites une capture d’écran de la première frame, modifiez/corrigez ce détail dans un éditeur d’images (par ex. Nano Banana Pro), puis utilisez l’image corrigée comme frame de départ pour une nouvelle génération Seedance.  \nRéutilisez l’audio des générations Seedance rejetées (en particulier les SFX environnementaux) en l’extrayant et en le superposant à votre montage final.  \nSi une génération rejetée contient le meilleur dialogue / la meilleure interprétation vocale, synchronisez cet audio sur de meilleures images à l’aide d’un outil de lip-sync (par ex. SyncLabs) afin de combiner la meilleure voix avec la meilleure vidéo."
+    },
+    "ja": {
+      "content": "複数シーンのSeedance 2生成で1つのシーンだけがうまくいった場合は、そのクリップを抽出し、新しい生成でそのシーンの続きとして参照に使うか、そこからカットして次のアクションをプロンプトします。  \n生成結果が特定の視覚的ディテールを除いて完璧な場合は、最初のフレームをスクリーンショットし、画像編集ソフト（例: Nano Banana Pro）でそのディテールを修正してから、修正済みの画像を新しいSeedance生成の開始フレームとして使用します。  \n破棄したSeedance生成の音声（特に環境音のSFX）は、抽出して最終編集に重ねることで再利用します。  \n破棄した生成のダイアログ／ボーカルの演技が最も良い場合は、リップシンクツール（例: SyncLabs）を使ってその音声をより良い映像に同期させ、最良の声と最良の映像を組み合わせます。"
+    },
+    "ko": {
+      "content": "멀티씬 Seedance 2 생성에서 단 하나의 씬만 잘 작동했다면, 그 클립을 추출해 새 생성에서 해당 씬을 이어가거나 그 장면에서 컷한 뒤 다음 동작을 프롬프트로 지시해 보세요.  \n생성이 특정 시각적 디테일만 빼고 완벽하다면, 첫 프레임을 스크린샷으로 저장한 뒤 이미지 편집기(예: Nano Banana Pro)에서 그 디테일을 수정/보정하고, 수정된 이미지를 새 Seedance 생성의 시작 프레임으로 사용하세요.  \n버려진 Seedance 생성물에서 오디오를 추출해(특히 환경 SFX) 최종 편집본에 레이어링하여 재사용하세요.  \n버려진 생성물의 대사/보컬 전달이 가장 좋다면, lip-sync 도구(예: SyncLabs)를 사용해 그 오디오를 더 나은 비주얼에 싱크하여 최고의 목소리와 최고의 영상을 결합하세요."
+    },
+    "pt": {
+      "content": "Se apenas uma cena em uma geração multi-cena do Seedance 2 funcionar, extraia esse clipe e use-o como referência em uma nova geração para continuar a partir dessa cena ou faça um corte a partir dela e descreva a próxima ação ao redor dela.  \nQuando uma geração estiver perfeita, exceto por um detalhe visual específico, faça uma captura de tela do primeiro frame, edite/corrija o detalhe em um editor de imagens (por exemplo, Nano Banana Pro) e, em seguida, use a imagem corrigida como frame inicial para uma nova geração no Seedance.  \nReaproveite o áudio de gerações descartadas do Seedance (especialmente SFX ambientais), extraindo-o e sobrepondo-o à sua edição final.  \nSe uma geração descartada tiver a melhor entrega de diálogo/voz, sincronize esse áudio com visuais melhores usando uma ferramenta de lip-sync (por exemplo, SyncLabs) para combinar a melhor voz com o melhor vídeo."
+    },
+    "zh": {
+      "content": "如果多场景 Seedance 2 生成中只有一个场景可用，就把那段片段提取出来，作为新一轮生成的参考，继续从那个场景往下生成，或者从那里剪切，并围绕它提示下一步动作。  \n当某次生成几乎完美，只是某个视觉细节有问题时，截取第一帧，在图像编辑器中编辑/修正该细节（例如 Nano Banana Pro），然后把修正后的图像作为新 Seedance 生成的起始帧。  \n可以重复利用被弃用的 Seedance 生成中的音频（尤其是环境音效 SFX）：先提取出来，再叠加到最终剪辑中。  \n如果某个被弃用的生成里对白/配音表现最好，可以用 lip-sync 工具（例如 SyncLabs）把那段音频同步到更好的画面上，把最好的声音和最好的视频结合起来。"
+    }
+  }
+}
