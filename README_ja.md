@@ -8399,4 +8399,4 @@ In Seedance 2.0 (e.g., Seedance inside InVideo), upload the storyboard and promp
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-08-18T08:37:41.725Z
+🤖 この README は自動生成されています。最終更新： 2026-08-18T12:49:05.020Z
