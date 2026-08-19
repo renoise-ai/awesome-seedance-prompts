@@ -1,0 +1,42 @@
+{
+  "id": "2089641337284935956",
+  "title": "Use two separate Seedance generations for different locations (e.g., kitchen…",
+  "content": "Use two separate Seedance generations for different locations (e.g., kitchen and cafe) and cut them together in edit to build a longer ad.  \nCreate and use reference sheets to keep characters/props consistent across shots.  \nLock geometry to maintain stable scene layout and object positions between shots.  \nPlan shot-by-shot timing in advance and generate each shot to that exact duration for easier editing.  \nAim for real physics in your direction (motion/interaction) rather than relying on random prompt variation.  \nSkip music and rely on sound design to carry the final piece.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089641206892376064/img/SWrro3sS3aObEVW3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089641337284935956.mp4",
+  "sourceLink": "https://x.com/vgtpro/status/2089641337284935956",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "Vas Gutnik",
+    "link": "https://x.com/vgtpro"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use two separate Seedance generations for different locations (e.g., kitchen and cafe) and cut them together in edit to build a longer ad.  \nCreate and use reference sheets to keep characters/props consistent across shots.  \nLock geometry to maintain stable scene layout and object positions between shots.  \nPlan shot-by-shot timing in advance and generate each shot to that exact duration for easier editing.  \nAim for real physics in your direction (motion/interaction) rather than relying on random prompt variation.  \nSkip music and rely on sound design to carry the final piece.",
+  "translations": {
+    "es": {
+      "content": "Usa dos generaciones separadas de Seedance para diferentes ubicaciones (por ejemplo, cocina y cafetería) y luego edítalas juntas para construir un anuncio más largo.  \nCrea y utiliza hojas de referencia para mantener la coherencia de personajes y objetos entre planos.  \nBloquea la geometría para mantener estable la disposición de la escena y las posiciones de los objetos entre planos.  \nPlanifica con antelación el timing plano por plano y genera cada plano con esa duración exacta para facilitar la edición.  \nApunta a una física real en la dirección (movimiento/interacción) en lugar de depender de variaciones aleatorias del prompt.  \nOmite la música y apóyate en el diseño de sonido para sostener la pieza final."
+    },
+    "fr": {
+      "content": "Utilisez deux générations Seedance distinctes pour des lieux différents (par exemple, une cuisine et un café), puis assemblez-les au montage pour créer une publicité plus longue.  \nCréez et utilisez des feuilles de référence afin de conserver la cohérence des personnages et des accessoires d’un plan à l’autre.  \nVerrouillez la géométrie pour maintenir une disposition de scène stable et des positions d’objets cohérentes entre les plans.  \nPlanifiez à l’avance le timing plan par plan et générez chaque plan exactement à cette durée pour faciliter le montage.  \nVisez une physique réaliste dans votre direction (mouvement/interactions) plutôt que de vous appuyer sur des variations aléatoires du prompt.  \nÉvitez la musique et misez sur le sound design pour porter la pièce finale."
+    },
+    "ja": {
+      "content": "異なるロケーション（例：キッチンとカフェ）ごとに、2つの別々のSeedance生成を使い、編集でつなぎ合わせて長尺の広告を作る。  \nキャラクターや小物の一貫性をショット間で保つために、リファレンスシートを作成して使用する。  \nジオメトリを固定して、ショット間で安定したシーン構成とオブジェクトの位置を維持する。  \n事前にショットごとのタイミングを計画し、各ショットをその正確な尺で生成して、編集をしやすくする。  \nランダムなpromptの変化に頼るのではなく、演出（動き／インタラクション）では実際の物理法則を意識する。  \n音楽は使わず、サウンドデザインで作品全体を支える。"
+    },
+    "ko": {
+      "content": "서로 다른 장소(예: 주방과 카페)를 위해 두 개의 별도 Seedance 생성본을 사용하고, 편집 단계에서 이를 이어 붙여 더 긴 광고를 만드세요.  \n캐릭터/소품의 일관성을 유지하기 위해 레퍼런스 시트를 만들어 활용하세요.  \n샷 간 안정적인 장면 구성과 오브젝트 위치를 유지하려면 geometry를 고정하세요.  \n사전에 샷별 타이밍을 계획하고, 편집을 쉽게 할 수 있도록 각 샷을 정확히 그 길이에 맞춰 생성하세요.  \n무작위 prompt 변형에 의존하기보다, 연출(모션/상호작용)에서는 실제 물리 법칙을 반영하는 것을 목표로 하세요.  \n음악은 생략하고, 사운드 디자인이 최종 결과물을 이끌도록 하세요."
+    },
+    "pt": {
+      "content": "Use duas gerações separadas do Seedance para diferentes locações (por exemplo, cozinha e café) e una tudo na edição para criar um anúncio mais longo.  \nCrie e use reference sheets para manter personagens/props consistentes entre os takes.  \nTrave a geometria para manter o layout da cena e as posições dos objetos estáveis entre os takes.  \nPlaneje com antecedência o timing shot a shot e gere cada take com a duração exata para facilitar a edição.  \nBusque física real na direção (movimento/interação), em vez de depender de variações aleatórias no prompt.  \nEvite música e conte com o sound design para conduzir a peça final."
+    },
+    "zh": {
+      "content": "针对不同场景（例如厨房和咖啡馆）分别使用两次独立的 Seedance 生成，然后在剪辑中将它们拼接起来，制作更长的广告。  \n创建并使用参考表，确保角色/道具在不同镜头之间保持一致。  \n锁定几何结构，以保持场景布局和物体位置在镜头之间稳定。  \n提前规划逐镜头的时长，并让每个镜头生成到精确的时长，便于后期剪辑。  \n在导演思路中优先追求真实物理效果（运动/交互），而不是依赖随机的 prompt 变化。  \n跳过音乐，依靠 sound design 来支撑最终成片。"
+    }
+  }
+}

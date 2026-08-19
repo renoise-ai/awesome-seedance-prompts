@@ -1,0 +1,42 @@
+{
+  "id": "2089624347388633438",
+  "title": "캐릭터 시트를 만들 때 얼굴을 여러 각도로 준비하기보다 정면 얼굴 이미지 1장만 Seedance에 넣어 얼굴 특징을 학습시키고 필요한 각도는…",
+  "content": "캐릭터 시트를 만들 때 얼굴을 여러 각도로 준비하기보다 정면 얼굴 이미지 1장만 Seedance에 넣어 얼굴 특징을 학습시키고 필요한 각도는 모델이 생성하게 하라",
+  "language": "ko",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089624074381377536/img/IBMD9H284NP8hruN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089624347388633438.mp4",
+  "sourceLink": "https://x.com/EEJ_OOXO/status/2089624347388633438",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "OOXO",
+    "link": "https://x.com/EEJ_OOXO"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "캐릭터 시트를 만들 때 얼굴을 여러 각도로 준비하기보다 정면 얼굴 이미지 1장만 Seedance에 넣어 얼굴 특징을 학습시키고 필요한 각도는 모델이 생성하게 하라",
+  "translations": {
+    "en": {
+      "content": "When creating a character sheet, instead of preparing the face from multiple angles, input just one front-facing face image into Seedance to let it learn the facial features, and have the model generate the needed angles."
+    },
+    "es": {
+      "content": "Al crear una hoja de personaje, en lugar de preparar el rostro desde varios ángulos, introduce en Seedance solo una imagen frontal del rostro para que aprenda sus rasgos faciales y deje que el modelo genere los ángulos necesarios."
+    },
+    "fr": {
+      "content": "Lors de la création d’une character sheet, plutôt que de préparer le visage sous plusieurs angles, insérez une seule image de face dans Seedance pour lui faire apprendre les traits du visage, puis laissez le modèle générer les angles nécessaires."
+    },
+    "ja": {
+      "content": "キャラクターシートを作る際は、顔を複数の角度で用意するよりも、正面顔の画像を1枚だけSeedanceに入れて顔の特徴を学習させ、必要な角度はモデルに生成させるようにしよう。"
+    },
+    "pt": {
+      "content": "Ao criar uma character sheet, em vez de preparar o rosto em vários ângulos, insira apenas uma imagem frontal do rosto no Seedance para que ele aprenda as características faciais e deixe que o modelo gere os ângulos necessários."
+    },
+    "zh": {
+      "content": "在制作角色设定图时，与其从多个角度准备脸部，不如只将一张正面脸部图像输入 Seedance，让它学习面部特征，并由模型生成所需角度。"
+    }
+  }
+}

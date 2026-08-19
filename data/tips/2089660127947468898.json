@@ -1,0 +1,42 @@
+{
+  "id": "2089660127947468898",
+  "title": "Engineer a single long-form “mini-movie” prompt (story beats + camera…",
+  "content": "Engineer a single long-form “mini-movie” prompt (story beats + camera directions + emotional arc) and run it as one continuous generation in Seedance 2.0 to avoid multi-generation stitching and editing.\n\nUse Claude Code to iteratively build and refine your Seedance prompt so the main character stays consistent (“locked”) and the narrative setting/logic remains coherent across the full generation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089660072414875648/img/DKj8qGRlqAu-VJKb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089660127947468898.mp4",
+  "sourceLink": "https://x.com/itsharmanjot/status/2089660127947468898",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "Harman",
+    "link": "https://x.com/itsharmanjot"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Engineer a single long-form “mini-movie” prompt (story beats + camera directions + emotional arc) and run it as one continuous generation in Seedance 2.0 to avoid multi-generation stitching and editing.\n\nUse Claude Code to iteratively build and refine your Seedance prompt so the main character stays consistent (“locked”) and the narrative setting/logic remains coherent across the full generation.",
+  "translations": {
+    "es": {
+      "content": "Diseña un único prompt de “mini-película” de formato largo (beats de la historia + indicaciones de cámara + arco emocional) y ejecútalo como una sola generación continua en Seedance 2.0 para evitar el ensamblado y la edición de múltiples generaciones.\n\nUsa Claude Code para construir y refinar iterativamente tu prompt de Seedance, de modo que el personaje principal se mantenga consistente (“locked”) y el entorno narrativo/la lógica permanezcan coherentes a lo largo de toda la generación."
+    },
+    "fr": {
+      "content": "Élaborez un seul prompt de « mini-film » au format long (beats narratifs + indications de caméra + arc émotionnel) et exécutez-le comme une génération continue dans Seedance 2.0 afin d’éviter l’assemblage et le montage de plusieurs générations.\n\nUtilisez Claude Code pour construire et affiner itérativement votre prompt Seedance, afin que le personnage principal reste cohérent (« locked ») et que le décor/la logique narrative demeurent cohérents sur l’ensemble de la génération."
+    },
+    "ja": {
+      "content": "単一の長尺「ミニムービー」prompt（ストーリービート + カメラ指示 + 感情の起伏）を設計し、Seedance 2.0 で1回の連続生成として実行することで、複数回の生成をつなぎ合わせたり編集したりする手間を避けます。\n\nClaude Code を使って Seedance prompt を反復的に構築・洗練し、主人公の一貫性が保たれ（“locked” され）、物語の舞台設定やロジックが全体の生成を通して整合的に維持されるようにします。"
+    },
+    "ko": {
+      "content": "단일 장편 “미니무비” prompt(스토리 비트 + 카메라 지시 + 감정적 아크)를 설계하고, 이를 Seedance 2.0에서 하나의 연속된 generation으로 실행해 멀티 generation stitching과 편집을 피하세요.\n\nClaude Code를 사용해 Seedance prompt를 반복적으로 구축하고 다듬어, 주인공이 일관되게 유지(“locked”)되고 서사적 설정/논리가 전체 generation 동안 일관성을 유지하도록 하세요."
+    },
+    "pt": {
+      "content": "Elabore um único prompt de “mini-movie” em formato longo (batidas da história + direções de câmera + arco emocional) e execute-o como uma única geração contínua no Seedance 2.0 para evitar emendas e edições entre múltiplas gerações.\n\nUse o Claude Code para construir e refinar iterativamente seu prompt do Seedance, de modo que o personagem principal permaneça consistente (“locked”) e o cenário/lógica narrativa se mantenham coerentes ao longo de toda a geração."
+    },
+    "zh": {
+      "content": "设计一个单一的长篇“mini-movie” prompt（故事节拍 + 镜头指令 + 情绪弧线），并在 Seedance 2.0 中将其作为一次连续生成来运行，以避免多次生成后的拼接和剪辑。\n\n使用 Claude Code 迭代地构建并优化你的 Seedance prompt，确保主角保持一致（“locked”），并让叙事设定/逻辑在整个生成过程中保持连贯。"
+    }
+  }
+}

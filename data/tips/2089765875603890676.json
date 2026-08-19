@@ -1,0 +1,42 @@
+{
+  "id": "2089765875603890676",
+  "title": "Reuse the exact same prompt and input images when recreating a Seedance 2 scene…",
+  "content": "Reuse the exact same prompt and input images when recreating a Seedance 2 scene to isolate the impact of other changes.\n\nAttach a short snippet of the character’s voice as an audio reference to generate new versions with voice cloning.\n\nCreate two variants from the same setup—one that sticks closely to the original dialog and one with altered lines—to compare how dialog changes affect the result.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089765486091534336/img/-Lgyp7a__UYKSU_2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089765875603890676.mp4",
+  "sourceLink": "https://x.com/ChrisGwinnLA/status/2089765875603890676",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "Christopher Gwinn | Grindhouse Glitch",
+    "link": "https://x.com/ChrisGwinnLA"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Reuse the exact same prompt and input images when recreating a Seedance 2 scene to isolate the impact of other changes.\n\nAttach a short snippet of the character’s voice as an audio reference to generate new versions with voice cloning.\n\nCreate two variants from the same setup—one that sticks closely to the original dialog and one with altered lines—to compare how dialog changes affect the result.",
+  "translations": {
+    "es": {
+      "content": "Reutiliza exactamente el mismo prompt y las mismas imágenes de entrada al recrear una escena de Seedance 2 para aislar el impacto de otros cambios.\n\nAdjunta un breve fragmento de la voz del personaje como referencia de audio para generar nuevas versiones con clonación de voz.\n\nCrea dos variantes a partir de la misma configuración: una que se mantenga muy fiel al diálogo original y otra con líneas modificadas, para comparar cómo los cambios en el diálogo afectan el resultado."
+    },
+    "fr": {
+      "content": "Réutilisez exactement le même prompt et les mêmes images d’entrée lors de la recréation d’une scène Seedance 2 afin d’isoler l’impact des autres modifications.\n\nJoignez un court extrait de la voix du personnage comme référence audio pour générer de nouvelles versions avec clonage vocal.\n\nCréez deux variantes à partir de la même configuration — l’une qui reste très proche du dialogue original et l’autre avec des répliques modifiées — afin de comparer l’effet des changements de dialogue sur le résultat."
+    },
+    "ja": {
+      "content": "---\nSeedance 2 のシーンを再現する際は、他の変更の影響を切り分けるために、まったく同じ prompt と入力画像を再利用してください。\n\nキャラクターの声の短いサンプルを audio reference として添付すると、voice cloning を使って新しいバージョンを生成できます。\n\n同じセットアップから 2 つのバリエーションを作成します。1 つは元の dialog にできるだけ忠実なもの、もう 1 つはセリフを変更したものにして、dialog の変更が結果にどう影響するかを比較します。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2 장면을 다시 만들 때는 정확히 동일한 prompt와 입력 이미지를 재사용해 다른 변화의 영향을 분리하세요.\n\n캐릭터 목소리의 짧은 음성 클립을 audio reference로 첨부하면 voice cloning을 사용해 새로운 버전을 생성할 수 있습니다.\n\n같은 설정에서 두 가지 variant를 만들어 보세요. 하나는 원본 dialog에 최대한 가깝게 유지하고, 다른 하나는 대사를 수정해 dialog 변화가 결과에 어떤 영향을 주는지 비교합니다."
+    },
+    "pt": {
+      "content": "Reutilize exatamente o mesmo prompt e as mesmas imagens de entrada ao recriar uma cena do Seedance 2 para isolar o impacto de outras mudanças.\n\nAnexe um breve trecho da voz do personagem como referência de áudio para gerar novas versões com clonagem de voz.\n\nCrie duas variantes a partir da mesma configuração — uma que siga de perto o diálogo original e outra com falas alteradas — para comparar como as mudanças no diálogo afetam o resultado."
+    },
+    "zh": {
+      "content": "在重现 Seedance 2 场景时，复用完全相同的 prompt 和输入图像，以便单独观察其他改动带来的影响。\n\n附上一小段角色声音作为音频参考，即可通过 voice cloning 生成带有新版本声音的内容。\n\n基于同一套设置创建两个变体——一个尽量贴近原始 dialog，另一个修改台词——用来比较 dialog 变化如何影响最终结果。"
+    }
+  }
+}

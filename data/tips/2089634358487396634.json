@@ -1,0 +1,43 @@
+{
+  "id": "2089634358487396634",
+  "title": "Prompt a full vertical descent by chaining explicit shot/motion beats in order…",
+  "content": "Prompt a full vertical descent by chaining explicit shot/motion beats in order (overhead shaft → skate-level tracking → hairpin slide → trench launch → street stop) to guide continuous camera movement while keeping character/clothing/props consistent.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089629628092514304/img/xwlws2UGmNf-j96E.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089634358487396634.mp4",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2089634358487396634",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Prompt a full vertical descent by chaining explicit shot/motion beats in order (overhead shaft → skate-level tracking → hairpin slide → trench launch → street stop) to guide continuous camera movement while keeping character/clothing/props consistent.",
+  "translations": {
+    "es": {
+      "content": "Redacta un descenso vertical completo encadenando de forma secuencial y explícita los beats de plano/movimiento (eje cenital → seguimiento a nivel de los patines → derrape en horquilla → lanzamiento por el tramo estrecho → parada en la calle) para guiar un movimiento de cámara continuo, manteniendo la coherencia del personaje, la ropa y los accesorios."
+    },
+    "fr": {
+      "content": "Orchestrez une descente verticale complète en enchaînant des beats de plan/mouvement explicites dans l’ordre (puits en plongée → travelling au niveau des patins → glissade en épingle à cheveux → lancement dans le trench → arrêt dans la rue) afin de guider un mouvement de caméra continu tout en conservant la cohérence du personnage, des vêtements et des accessoires."
+    },
+    "ja": {
+      "content": "明確なショット／モーションのビートを順番に連結して、完全な縦方向の下降をプロンプトします（真上からのシャフト → スケート目線のトラッキング → ヘアピンのスライド → トレンチへのランチ → ストリートでの停止）。これにより、キャラクター／衣装／小道具の一貫性を保ちながら、連続したカメラ移動を誘導します。"
+    },
+    "ko": {
+      "content": "명시적인 샷/모션 비트를 순서대로 연결해 전체 세로 하강을 프롬프트하세요(오버헤드 샤프트 → 스케이트 레벨 트래킹 → 헤어핀 슬라이드 → 트렌치 런치 → 스트리트 스톱). 이를 통해 캐릭터/의상/소품의 일관성을 유지하면서 연속적인 카메라 움직임을 유도합니다."
+    },
+    "pt": {
+      "content": "Oriente uma descida vertical completa encadeando, em ordem, beats explícitos de plano/movimento (poço em vista superior → tracking ao nível do skate → slide em curva fechada → lançamento no trench → parada na rua) para guiar o movimento contínuo da câmera, mantendo consistência de personagem/roupa/props."
+    },
+    "zh": {
+      "content": "通过按顺序串联明确的镜头/运动节拍来提示完整的垂直下坠（俯视竖井 → 齐轮滑行跟拍 → 发卡弯侧滑 → 沟槽起跳 → 街面停驻），以引导连续的 camera movement，同时保持角色/服装/道具的一致性。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2089805294507331778",
+  "title": "Use Seedance with an agent/co-director workflow to lock character identities…",
+  "content": "Use Seedance with an agent/co-director workflow to lock character identities (faces) consistently across clips before generating scenes  \nMap the story into discrete scenes (e.g., five scenes) and generate each scene as separate Seedance clips  \nIterate/regenerate each Seedance clip repeatedly until the performance/beat matches the target moment (e.g., the final “bloody kiss”)",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089785312310431744/img/eFJHUFmNRJUCJjoz.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089805294507331778.mp4",
+  "sourceLink": "https://x.com/ToshiArte/status/2089805294507331778",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "Toshi",
+    "link": "https://x.com/ToshiArte"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance with an agent/co-director workflow to lock character identities (faces) consistently across clips before generating scenes  \nMap the story into discrete scenes (e.g., five scenes) and generate each scene as separate Seedance clips  \nIterate/regenerate each Seedance clip repeatedly until the performance/beat matches the target moment (e.g., the final “bloody kiss”)",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance con un flujo de trabajo de agente/co-director para fijar de forma consistente las identidades de los personajes (rostros) en todos los clips antes de generar las escenas  \nDivide la historia en escenas discretas (por ejemplo, cinco escenas) y genera cada escena como clips de Seedance separados  \nItera/regenera cada clip de Seedance repetidamente hasta que la interpretación/el ritmo coincida con el momento objetivo (por ejemplo, el “bloody kiss” final)"
+    },
+    "fr": {
+      "content": "Utilisez Seedance avec un workflow agent/co-réalisateur pour verrouiller de manière cohérente l’identité des personnages (visages) d’un clip à l’autre avant de générer les scènes  \nDécoupez l’histoire en scènes distinctes (par exemple, cinq scènes) et générez chaque scène sous forme de clips Seedance séparés  \nItérez/régénérez chaque clip Seedance à plusieurs reprises jusqu’à ce que la performance/le beat corresponde au moment cible (par exemple, le « bloody kiss » final)"
+    },
+    "ja": {
+      "content": "Seedanceをエージェント／共同監督ワークフローで使用し、シーンを生成する前に、クリップ全体でキャラクターのアイデンティティ（顔）を一貫して固定する  \nストーリーを個別のシーン（例：5シーン）に分割し、各シーンを別々のSeedanceクリップとして生成する  \n各Seedanceクリップを、演技／ビートが目標の瞬間（例：最後の「bloody kiss」）に一致するまで、繰り返し反復・再生成する"
+    },
+    "ko": {
+      "content": "Seedance를 에이전트/공동 감독(agent/co-director) 워크플로와 함께 사용해, 장면을 생성하기 전에 클립 전반에서 캐릭터의 정체성(얼굴)을 일관되게 고정한다  \n스토리를 개별 장면(예: 5개 장면)으로 나누고, 각 장면을 별도의 Seedance 클립으로 생성한다  \n각 Seedance 클립을 목표 순간(예: 마지막 “bloody kiss”)의 연기/비트와 맞을 때까지 반복적으로 수정·재생성한다"
+    },
+    "pt": {
+      "content": "Use o Seedance com um fluxo de trabalho de agente/co-diretor para manter as identidades dos personagens (rostos) consistentes entre os clipes antes de gerar as cenas  \nDivida a história em cenas discretas (por exemplo, cinco cenas) e gere cada cena como clipes separados no Seedance  \nItere/regere cada clipe do Seedance repetidamente até que a performance/beat corresponda ao momento desejado (por exemplo, o “beijo ensanguentado” final)"
+    },
+    "zh": {
+      "content": "在生成场景之前，使用 Seedance 搭配 agent/co-director 工作流，先在各个片段中稳定锁定角色身份（面孔）的一致性  \n将故事拆分为独立的场景（例如五个场景），并将每个场景分别生成独立的 Seedance 片段  \n反复迭代/重新生成每个 Seedance 片段，直到表演/节奏与目标时刻一致（例如最后的“bloody kiss”）"
+    }
+  }
+}
