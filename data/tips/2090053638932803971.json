@@ -1,0 +1,43 @@
+{
+  "id": "2090053638932803971",
+  "title": "街中の巨大ロボのシーンを作るときは、シーン用画像＋参照用の詳細なロボ画像の2枚を入力してデザインを固定する",
+  "content": "街中の巨大ロボのシーンを作るときは、シーン用画像＋参照用の詳細なロボ画像の2枚を入力してデザインを固定する  \n効果音指定を入れて、映像に合わせたサウンド演出も同時にコントロールする  \n5秒・768p設定で生成してクレジット消費を抑える（例：60クレジット）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090052606316134400/img/iGEum53mlditVhJx.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090053638932803971.mp4",
+  "sourceLink": "https://x.com/aglaiaolifone/status/2090053638932803971",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "ã�‚ã��ã‚‰å®¶",
+    "link": "https://x.com/aglaiaolifone"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "街中の巨大ロボのシーンを作るときは、シーン用画像＋参照用の詳細なロボ画像の2枚を入力してデザインを固定する  \n効果音指定を入れて、映像に合わせたサウンド演出も同時にコントロールする  \n5秒・768p設定で生成してクレジット消費を抑える（例：60クレジット）",
+  "translations": {
+    "en": {
+      "content": "When creating a scene with a giant robot in the city, input two images: one for the scene and one detailed reference image of the robot to lock in the design.  \nInclude sound effect instructions to control the sound design in sync with the visuals as well.  \nGenerate at 5 seconds and 768p to keep credit usage low (e.g., 60 credits)."
+    },
+    "es": {
+      "content": "Al crear una escena de un robot gigante en plena ciudad, introduce dos imágenes: una imagen para la escena y una imagen detallada del robot como referencia, para fijar el diseño.  \nIncluye especificaciones de efectos de sonido para controlar también, al mismo tiempo, la ambientación sonora en sincronía con el video.  \nGenera en configuración de 5 segundos y 768p para reducir el consumo de créditos (por ejemplo: 60 créditos)."
+    },
+    "fr": {
+      "content": "Lorsque vous créez une scène de robot géant en pleine ville, utilisez deux images en entrée : une image pour la scène et une image détaillée du robot comme référence, afin de figer le design.  \nAjoutez des indications d’effets sonores pour contrôler en même temps la mise en scène sonore en fonction de la vidéo.  \nGénérez en 5 secondes en 768p pour limiter la consommation de crédits (ex. : 60 crédits)."
+    },
+    "ko": {
+      "content": "도심 속 거대 로봇 장면을 만들 때는, 장면용 이미지와 참조용 상세 로봇 이미지 2장을 입력해 디자인을 고정한다  \n효과음 지정을 넣어, 영상에 맞춘 사운드 연출도 동시에 제어한다  \n5초·768p 설정으로 생성해 크레딧 소모를 줄인다(예: 60크레딧)"
+    },
+    "pt": {
+      "content": "Ao criar uma cena com um robô gigante no meio da cidade, insira duas imagens: uma da cena e outra com uma imagem detalhada do robô para referência, a fim de fixar o design.  \nInclua especificações de efeitos sonoros para controlar também, ao mesmo tempo, a ambientação sonora sincronizada com o vídeo.  \nGere em configuração de 5 segundos e 768p para reduzir o consumo de créditos (ex.: 60 créditos)"
+    },
+    "zh": {
+      "content": "When creating a scene with a giant robot in the city, input two images: one for the scene and one detailed robot reference image to lock in the design.  \nInclude sound effect instructions to control the sound design in sync with the video at the same time.  \nGenerate at 5 seconds and 768p to keep credit usage low (e.g., 60 credits)."
+    }
+  }
+}

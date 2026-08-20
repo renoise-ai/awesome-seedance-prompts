@@ -1,0 +1,42 @@
+{
+  "id": "2090088290506707100",
+  "title": "左右非対称デザインの被写体はリファレンス再現が崩れやすい可能性があるため、左右対称寄りのデザインにするか別の制御手段を併用する",
+  "content": "左右非対称デザインの被写体はリファレンス再現が崩れやすい可能性があるため、左右対称寄りのデザインにするか別の制御手段を併用する  \nリファレンス精度が高い場合は、minimaxでキャラの3面図（正面・側面・背面）を生成してリファレンス素材として用意する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090087052230725632/img/jrPP_CY09WT-QKvh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090088290506707100.mp4",
+  "sourceLink": "https://x.com/11t_/status/2090088290506707100",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "11t",
+    "link": "https://x.com/11t_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "左右非対称デザインの被写体はリファレンス再現が崩れやすい可能性があるため、左右対称寄りのデザインにするか別の制御手段を併用する  \nリファレンス精度が高い場合は、minimaxでキャラの3面図（正面・側面・背面）を生成してリファレンス素材として用意する",
+  "translations": {
+    "en": {
+      "content": "Subjects with asymmetrical left-right designs may be prone to reference reproduction breaking down, so it’s better to make the design more symmetrical or combine it with another control method.  \nIf the reference accuracy is high, you might generate a character’s three-view turnaround (front, side, back) with minimax and prepare it as reference material.\n\n--- THREAD CONTINUATION ---\n[Thread 1] So cute\nSince the reference accuracy is high,\nI’m thinking it might be okay to generate a three-view turnaround with minimax... https://t.co/tRBqiaVvBg\n---"
+    },
+    "es": {
+      "content": "Dado que los sujetos con diseño asimétrico izquierda-derecha pueden hacer que la reproducción de la referencia se desestabilice, conviene optar por un diseño más simétrico o combinarlo con otros métodos de control.  \nSi la precisión de la referencia es alta, puede ser buena idea generar con minimax una vista de tres ángulos del personaje (frontal, lateral y trasera) y prepararla como material de referencia.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Qué mona es Coco\nComo la precisión de la referencia es alta,\npensé que quizá también valdría la pena sacar una vista de tres ángulos con minimax... https://t.co/tRBqiaVvBg\n---"
+    },
+    "fr": {
+      "content": "Les sujets au design asymétrique gauche-droite peuvent voir leur reproduction par référence se dégrader plus facilement ; il est donc préférable d’opter pour un design plus symétrique ou de combiner avec d’autres moyens de contrôle.  \nSi la précision de la référence est élevée, on peut aussi générer avec minimax une vue à trois angles du personnage (face, profil, dos) et la préparer comme matériau de référence.\n\n--- SUITE DU THREAD ---\n[Thread 1] C’est trop mignon\nComme la précision de la référence est élevée,\nje me dis qu’on pourrait peut-être aussi sortir une vue à trois angles avec minimax… https://t.co/tRBqiaVvBg\n---"
+    },
+    "ko": {
+      "content": "좌우 비대칭 디자인의 피사체는 레퍼런스 재현이 무너질 가능성이 있으므로, 좌우 대칭에 가까운 디자인으로 하거나 다른 제어 수단을 병행한다  \n레퍼런스 정확도가 높다면, minimax에서 캐릭터의 3면도(정면·측면·후면)를 생성해 레퍼런스 소재로 준비해도 좋다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 너무 귀엽다\n레퍼런스의 정확도가 높아서\nminimax로 3면도를 뽑아도 괜찮겠네・・・라고 생각했다 https://t.co/tRBqiaVvBg\n---"
+    },
+    "pt": {
+      "content": "Como sujeitos com design assimétrico à esquerda e à direita podem ter a reprodução da referência comprometida, é melhor adotar um design mais simétrico ou combinar com outros meios de controle.  \nQuando a precisão da referência for alta, você pode gerar no minimax uma folha de três vistas do personagem (frente, lateral e costas) e prepará-la como material de referência.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Ela é fofa demais\nComo a precisão da referência é alta,\ntalvez valha a pena gerar uma folha de três vistas no minimax... pensei https://t.co/tRBqiaVvBg\n---"
+    },
+    "zh": {
+      "content": "由于左右非对称设计的主体在参考图复现时更容易出现偏差，建议改为更偏左右对称的设计，或配合其他控制手段一起使用。  \n如果参考图精度很高，也可以用 minimax 生成角色的三视图（正面、侧面、背面）作为参考素材。\n\n--- 线程续篇 ---\n[Thread 1] 这也太可爱了吧\n因为参考图的精度很高，\n也许可以用 minimax 出个三视图……我当时就是这么想的 https://t.co/tRBqiaVvBg\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2090002408483221778",
+  "title": "Create product images with a Product Mockup tool (e.g., fashn_ai + Nano…",
+  "content": "Create product images with a Product Mockup tool (e.g., fashn_ai + Nano Banana), animate them using Seedance 1.5 Pro Image-to-Video, then assemble the clips in an editor by adding background music and text overlay before exporting.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090001810245484544/img/_hxReP0zQ2PMgHkq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090002408483221778.mp4",
+  "sourceLink": "https://x.com/ifourth/status/2090002408483221778",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "ifourth",
+    "link": "https://x.com/ifourth"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create product images with a Product Mockup tool (e.g., fashn_ai + Nano Banana), animate them using Seedance 1.5 Pro Image-to-Video, then assemble the clips in an editor by adding background music and text overlay before exporting.",
+  "translations": {
+    "es": {
+      "content": "Crea imágenes de producto con una herramienta de mockups de producto (p. ej., fashn_ai + Nano Banana), anímalas usando Seedance 1.5 Pro Image-to-Video y luego ensambla los clips en un editor añadiendo música de fondo y superposición de texto antes de exportar."
+    },
+    "fr": {
+      "content": "Créez des images de produits avec un outil de Product Mockup (par ex. fashn_ai + Nano Banana), animez-les avec Seedance 1.5 Pro Image-to-Video, puis assemblez les clips dans un éditeur en ajoutant une musique de fond et un texte en surimpression avant d’exporter."
+    },
+    "ja": {
+      "content": "Product Mockupツール（例: fashn_ai + Nano Banana）で商品画像を作成し、Seedance 1.5 Pro Image-to-Videoでアニメーション化します。その後、エディターでクリップを組み立て、BGMとテキストオーバーレイを追加してから書き出します。"
+    },
+    "ko": {
+      "content": "Product Mockup 도구(예: fashn_ai + Nano Banana)로 제품 이미지를 만든 다음, Seedance 1.5 Pro Image-to-Video를 사용해 애니메이션을 적용하고, 편집기에서 배경 음악과 텍스트 오버레이를 추가해 클립을 구성한 뒤 내보내세요."
+    },
+    "pt": {
+      "content": "Crie imagens de produto com uma ferramenta de Product Mockup (por exemplo, fashn_ai + Nano Banana), anime-as usando o Seedance 1.5 Pro Image-to-Video e, em seguida, monte os clipes em um editor adicionando música de fundo e sobreposição de texto antes de exportar."
+    },
+    "zh": {
+      "content": "使用 Product Mockup 工具（例如 fashn_ai + Nano Banana）创建产品图片，然后使用 Seedance 1.5 Pro Image-to-Video 将其动画化，接着在编辑器中将这些片段拼接起来，添加背景音乐和文字叠加，最后导出。"
+    }
+  }
+}
