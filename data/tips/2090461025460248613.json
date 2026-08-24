@@ -1,0 +1,42 @@
+{
+  "id": "2090461025460248613",
+  "title": "キャラクターリファレンスシートと衣装（例：水着）画像からローカルでキャラ画像を生成し、その画像をSeedanceに入力して動画生成する",
+  "content": "キャラクターリファレンスシートと衣装（例：水着）画像からローカルでキャラ画像を生成し、その画像をSeedanceに入力して動画生成する  \n動きの制御にdepth参照（深度）を使う  \n音声からリップシンクさせたい場合は、音声を用意してプロンプトに「音声からリップシンクする」旨を明記する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2090460903758340096/pu/img/QmZhuoEKuleTXogN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090461025460248613.mp4",
+  "sourceLink": "https://x.com/k_evo_k/status/2090461025460248613",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "EVO / AI movie lab",
+    "link": "https://x.com/k_evo_k"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラクターリファレンスシートと衣装（例：水着）画像からローカルでキャラ画像を生成し、その画像をSeedanceに入力して動画生成する  \n動きの制御にdepth参照（深度）を使う  \n音声からリップシンクさせたい場合は、音声を用意してプロンプトに「音声からリップシンクする」旨を明記する",
+  "translations": {
+    "en": {
+      "content": "Generate character images locally from a character reference sheet and outfit images (e.g., swimwear), then input those images into Seedance to generate a video.  \nUse depth references for motion control.  \nIf you want lip sync from audio, prepare the audio and clearly state in the prompt that lip sync should be performed from the audio."
+    },
+    "es": {
+      "content": "Generar localmente imágenes de personajes a partir de una character reference sheet y de imágenes de vestuario (por ejemplo, traje de baño), e introducir esas imágenes en Seedance para generar video.  \nUsar una referencia de depth (profundidad) para controlar el movimiento.  \nSi quieres hacer lip sync a partir de audio, prepara el audio y especifica claramente en el prompt que debe “hacer lip sync a partir del audio”."
+    },
+    "fr": {
+      "content": "Générer localement une image de personnage à partir d’une character reference sheet et d’images de costume (par exemple : maillot de bain), puis entrer cette image dans Seedance pour générer une vidéo.  \nUtiliser une référence de depth (profondeur) pour contrôler les mouvements.  \nSi vous souhaitez faire du lip sync à partir d’un fichier audio, préparez l’audio et indiquez clairement dans le prompt qu’il faut « faire le lip sync à partir de l’audio »."
+    },
+    "ko": {
+      "content": "캐릭터 레퍼런스 시트와 의상(예: 수영복) 이미지를 바탕으로 로컬에서 캐릭터 이미지를 생성한 뒤, 그 이미지를 Seedance에 입력해 동영상을 생성한다  \n동작 제어에는 depth 참조(깊이)를 사용한다  \n음성으로 립싱크를 시키고 싶다면 음성을 준비한 뒤, prompt에 “음성에서 립싱크한다”는 취지를 명시한다"
+    },
+    "pt": {
+      "content": "Gerar localmente imagens de personagens a partir de uma character reference sheet e de imagens de roupas (por exemplo, traje de banho), e então inserir essas imagens no Seedance para gerar vídeos  \nUsar referência de depth (profundidade) para controlar o movimento  \nSe quiser fazer lip sync a partir de áudio, prepare o áudio e deixe explícito no prompt que deve “fazer lip sync a partir do áudio”"
+    },
+    "zh": {
+      "content": "从角色参考表和服装（例如：泳装）图片在本地生成角色图像，然后将该图像输入 Seedance 进行视频生成  \n使用 depth 参考（深度）来控制动作  \n如果想根据音频进行 lip sync，需要准备音频，并在 prompt 中明确写明“从音频进行 lip sync”"
+    }
+  }
+}

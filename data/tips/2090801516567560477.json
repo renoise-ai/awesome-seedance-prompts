@@ -1,0 +1,42 @@
+{
+  "id": "2090801516567560477",
+  "title": "Use a meta-prompt to generate new Seedance-ready prompts by asking GPT to…",
+  "content": "Use a meta-prompt to generate new Seedance-ready prompts by asking GPT to rewrite both the GPT Image Prompt and the Seedance Prompt for a new anime short film idea while changing characters, emotional object, setting, story beats, atmosphere, and ending but keeping the cinematic storyboard structure and Seedance-ready format.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090801486989291520/img/rKB50v5wlemb-6gQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090801516567560477.mp4",
+  "sourceLink": "https://x.com/HeyAbhishek/status/2090801516567560477",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Abhishek",
+    "link": "https://x.com/HeyAbhishek"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Use a meta-prompt to generate new Seedance-ready prompts by asking GPT to rewrite both the GPT Image Prompt and the Seedance Prompt for a new anime short film idea while changing characters, emotional object, setting, story beats, atmosphere, and ending but keeping the cinematic storyboard structure and Seedance-ready format.",
+  "translations": {
+    "es": {
+      "content": "Usa un meta-prompt para generar nuevos prompts listos para Seedance pidiéndole a GPT que reescriba tanto el GPT Image Prompt como el Seedance Prompt para una nueva idea de cortometraje anime, cambiando los personajes, el objeto emocional, el escenario, los beats de la historia, la atmósfera y el final, pero manteniendo la estructura cinematográfica del storyboard y el formato listo para Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un méta-prompt pour générer de nouveaux prompts prêts pour Seedance en demandant à GPT de réécrire à la fois le GPT Image Prompt et le Seedance Prompt pour une nouvelle idée de court-métrage d’anime, tout en modifiant les personnages, l’objet émotionnel, le décor, les temps forts de l’histoire, l’atmosphère et la fin, mais en conservant la structure de storyboard cinématographique et le format prêt pour Seedance."
+    },
+    "ja": {
+      "content": "GPTに、GPT Image Prompt と Seedance Prompt の両方を新しいアニメ短編映画のアイデア向けに書き換えさせることで、meta-prompt を使って新しい Seedance 対応 prompt を生成します。その際、キャラクター、感情の対象、舞台、ストーリーの展開、雰囲気、結末は変更しつつ、cinematic な storyboard 構成と Seedance 対応のフォーマットは維持します。"
+    },
+    "ko": {
+      "content": "새로운 애니메이션 단편 영화 아이디어에 맞춰 GPT가 GPT Image Prompt와 Seedance Prompt를 모두 다시 작성하도록 요청하는 메타 프롬프트를 사용하세요. 이때 캐릭터, 감정적 오브젝트, 배경, 스토리 전개, 분위기, 결말은 바꾸되, cinematic storyboard 구조와 Seedance-ready 형식은 유지합니다."
+    },
+    "pt": {
+      "content": "Use um meta-prompt para gerar novos prompts prontos para Seedance, pedindo ao GPT que reescreva tanto o GPT Image Prompt quanto o Seedance Prompt para uma nova ideia de curta-metragem anime, alterando personagens, objeto emocional, cenário, beats da história, atmosfera e desfecho, mas mantendo a estrutura cinematográfica de storyboard e o formato pronto para Seedance."
+    },
+    "zh": {
+      "content": "使用一个 meta-prompt，通过让 GPT 重写 GPT Image Prompt 和 Seedance Prompt，为一个新的动漫短片创意生成可直接用于 Seedance 的新 prompts，同时更换角色、情感物件、场景、故事节拍、氛围和结局，但保留 cinematic storyboard 结构和 Seedance-ready 格式。"
+    }
+  }
+}

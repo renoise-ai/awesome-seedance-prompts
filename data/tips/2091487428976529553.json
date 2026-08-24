@@ -1,0 +1,41 @@
+{
+  "id": "2091487428976529553",
+  "title": "Use uploaded character sheets as strict visual references for each character to…",
+  "content": "Use uploaded character sheets as strict visual references for each character to lock identity consistency across the clip.  \nSpecify exact duration (e.g., 15 seconds) and break the prompt into timestamped beats (0:00–0:01, 0:01–0:03, etc.) to control shot-by-shot action.  \nCall out explicit camera framing and angles per beat (wide shot, close-up, side profile, low angle, overhead) to guide composition and editing rhythm.  \nDefine audio behavior precisely (music starts at frame one, never stops, strikes synced to beat, crowd roar building, impact sounds on every hit) to drive sound design and timing.  \nAdd style/render keywords (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, film grain, heavy shadows) to steer the visual look.  \nUse negative style constraints (not cartoon, not Disney, not Pixar) to avoid unwanted aesthetics.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TechieBySA/status/2091487428976529553",
+  "sourcePublishedAt": "2026-08-23",
+  "author": {
+    "name": "TechieSA",
+    "link": "https://x.com/TechieBySA"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use uploaded character sheets as strict visual references for each character to lock identity consistency across the clip.  \nSpecify exact duration (e.g., 15 seconds) and break the prompt into timestamped beats (0:00–0:01, 0:01–0:03, etc.) to control shot-by-shot action.  \nCall out explicit camera framing and angles per beat (wide shot, close-up, side profile, low angle, overhead) to guide composition and editing rhythm.  \nDefine audio behavior precisely (music starts at frame one, never stops, strikes synced to beat, crowd roar building, impact sounds on every hit) to drive sound design and timing.  \nAdd style/render keywords (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, film grain, heavy shadows) to steer the visual look.  \nUse negative style constraints (not cartoon, not Disney, not Pixar) to avoid unwanted aesthetics.",
+  "translations": {
+    "es": {
+      "content": "Usa las hojas de personaje subidas como referencias visuales estrictas para cada personaje, a fin de fijar la coherencia de identidad a lo largo del clip.  \nEspecifica una duración exacta (por ejemplo, 15 segundos) y divide el prompt en beats con marca de tiempo (0:00–0:01, 0:01–0:03, etc.) para controlar la acción plano por plano.  \nIndica de forma explícita el encuadre y los ángulos de cámara por beat (wide shot, close-up, side profile, low angle, overhead) para guiar la composición y el ritmo de edición.  \nDefine con precisión el comportamiento del audio (la música empieza en el primer frame, nunca se detiene, los golpes van sincronizados con el beat, el rugido de la multitud va creciendo, sonidos de impacto en cada golpe) para dirigir el diseño sonoro y el timing.  \nAñade palabras clave de estilo/renderizado (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, film grain, heavy shadows) para orientar el aspecto visual.  \nUsa restricciones de estilo negativas (not cartoon, not Disney, not Pixar) para evitar estéticas no deseadas."
+    },
+    "fr": {
+      "content": "Utilisez les character sheets téléversées comme références visuelles strictes pour chaque personnage afin de verrouiller la cohérence de l’identité tout au long du clip.  \nPrécisez une durée exacte (par exemple, 15 secondes) et découpez le prompt en beats horodatés (0:00–0:01, 0:01–0:03, etc.) pour contrôler l’action plan par plan.  \nIndiquez explicitement le cadrage et les angles de caméra pour chaque beat (plan large, gros plan, profil, contre-plongée, vue de dessus) afin de guider la composition et le rythme du montage.  \nDéfinissez précisément le comportement audio (la musique démarre à la première frame, ne s’arrête jamais, les impacts sont synchronisés au beat, le rugissement de la foule monte, des sons d’impact à chaque coup) pour piloter le sound design et le timing.  \nAjoutez des mots-clés de style/rendu (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, qualité Unreal Engine, grain de film, ombres marquées) pour orienter l’apparence visuelle.  \nUtilisez des contraintes de style négatives (pas cartoon, pas Disney, pas Pixar) pour éviter les esthétiques indésirables."
+    },
+    "ja": {
+      "content": "アップロードしたキャラクターシートを、各キャラクターの厳密なビジュアル参照として使用し、クリップ全体でアイデンティティの一貫性を固定します。  \n正確な尺（例：15秒）を指定し、promptをタイムスタンプ付きのビート（0:00–0:01、0:01–0:03 など）に分割して、ショットごとの動きを制御します。  \n各ビートごとに、明確なカメラのフレーミングとアングル（wide shot、close-up、side profile、low angle、overhead）を指定して、構図と編集リズムを誘導します。  \n音の挙動を正確に定義します（music starts at frame one, never stops, strikes synced to beat, crowd roar building, impact sounds on every hit）ことで、サウンドデザインとタイミングをコントロールします。  \nスタイル／レンダー用のキーワード（cinematic cel-shaded 3D anime、semi-realistic CGI、hand-painted textures、Unreal Engine quality、film grain、heavy shadows）を追加して、ビジュアルの方向性を調整します。  \n不要な美学を避けるために、negative style constraints（not cartoon, not Disney, not Pixar）を使用します。"
+    },
+    "ko": {
+      "content": "업로드한 캐릭터 시트를 각 캐릭터의 엄격한 비주얼 레퍼런스로 사용해, 클립 전체에서 아이덴티티 일관성을 고정하세요.  \n정확한 길이(예: 15초)를 명시하고, 프롬프트를 타임스탬프가 표시된 비트(0:00–0:01, 0:01–0:03 등)로 나누어 샷별 액션을 제어하세요.  \n각 비트마다 명확한 카메라 프레이밍과 앵글(wide shot, close-up, side profile, low angle, overhead)을 지정해 구도와 편집 리듬을 유도하세요.  \n오디오 동작을 정확하게 정의하세요(음악은 첫 프레임에서 시작해 절대 멈추지 않음, 타격음은 비트에 맞춰 동기화, 군중의 함성은 점점 커짐, 모든 히트마다 임팩트 사운드) — 사운드 디자인과 타이밍을 이끌기 위해서입니다.  \n스타일/렌더 키워드(cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, film grain, heavy shadows)를 추가해 비주얼 톤을 조정하세요.  \n원치 않는 미학을 피하기 위해 부정 스타일 제약(not cartoon, not Disney, not Pixar)을 사용하세요."
+    },
+    "pt": {
+      "content": "Use as fichas de personagem enviadas como referências visuais rigorosas para cada personagem, a fim de travar a consistência da identidade ao longo do clipe.  \nEspecifique a duração exata (por exemplo, 15 segundos) e divida o prompt em beats com marcação de tempo (0:00–0:01, 0:01–0:03, etc.) para controlar a ação cena a cena.  \nIndique explicitamente o enquadramento e os ângulos de câmera por beat (wide shot, close-up, side profile, low angle, overhead) para orientar a composição e o ritmo de edição.  \nDefina o comportamento do áudio com precisão (a música começa no primeiro frame, nunca para, golpes sincronizados com a batida, rugido da multidão crescendo, sons de impacto em cada golpe) para conduzir o sound design e o timing.  \nAdicione palavras-chave de estilo/renderização (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, film grain, heavy shadows) para direcionar o visual.  \nUse restrições negativas de estilo (not cartoon, not Disney, not Pixar) para evitar estéticas indesejadas."
+    },
+    "zh": {
+      "content": "使用上传的角色设定图作为每个角色的严格视觉参考，以在整个片段中锁定身份一致性。  \n指定精确时长（例如 15 秒），并将 prompt 拆分为带时间戳的节拍（0:00–0:01、0:01–0:03 等），以控制逐镜头动作。  \n在每个节拍中明确标注镜头构图和角度（wide shot、close-up、side profile、low angle、overhead），以引导构图和剪辑节奏。  \n精确定义音频行为（音乐从第一帧开始，永不停止，打击点与节拍同步，观众欢呼声逐渐增强，每次击打都有冲击音效），以驱动声音设计和时间控制。  \n添加风格/渲染关键词（cinematic cel-shaded 3D anime、semi-realistic CGI、hand-painted textures、Unreal Engine quality、film grain、heavy shadows），以引导视觉风格。  \n使用负向风格约束（not cartoon, not Disney, not Pixar）来避免不想要的美学效果。"
+    }
+  }
+}

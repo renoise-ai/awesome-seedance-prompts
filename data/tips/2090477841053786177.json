@@ -1,0 +1,44 @@
+{
+  "id": "2090477841053786177",
+  "title": "Seedance’te karakter tutarlılığı için karakterin yüzü, vücut yapısı ve farklı…",
+  "content": "Seedance’te karakter tutarlılığı için karakterin yüzü, vücut yapısı ve farklı açılardan görünümlerini içeren sağlam bir karakter referans sayfası oluşturup bunu model girdisi olarak kullanın  \nChatGPT’ye karakter fotoğrafınızı verip Seedance karakter referans skill çalıştır komutunu yazarak karakter referans sayfasını otomatik hazırlatın",
+  "language": "tr",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ozansihay/status/2090477841053786177",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "Ozan Sihay",
+    "link": "https://x.com/ozansihay"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance’te karakter tutarlılığı için karakterin yüzü, vücut yapısı ve farklı açılardan görünümlerini içeren sağlam bir karakter referans sayfası oluşturup bunu model girdisi olarak kullanın  \nChatGPT’ye karakter fotoğrafınızı verip Seedance karakter referans skill çalıştır komutunu yazarak karakter referans sayfasını otomatik hazırlatın",
+  "translations": {
+    "en": {
+      "content": "For character consistency in Seedance, create a solid character reference sheet that includes the character’s face, body structure, and views from different angles, and use it as model input.  \nGive ChatGPT your character photo and have it automatically prepare the character reference sheet by typing the command to run the Seedance character reference skill."
+    },
+    "es": {
+      "content": "En Seedance, para lograr consistencia de personaje, cree una sólida hoja de referencia del personaje que incluya su rostro, complexión y vistas desde distintos ángulos, y úsela como entrada del modelo.  \nDé a ChatGPT la foto de su personaje y, escribiendo el comando **Seedance character reference skill çalıştır**, haga que prepare automáticamente la hoja de referencia del personaje."
+    },
+    "fr": {
+      "content": "Pour assurer la cohérence du personnage dans Seedance, créez une solide character reference sheet comprenant le visage du personnage, sa morphologie et des vues sous différents angles, puis utilisez-la comme input du modèle.  \nDonnez votre photo de personnage à ChatGPT et, en écrivant la commande « Seedance karakter referans skill çalıştır », faites préparer automatiquement la character reference sheet."
+    },
+    "ja": {
+      "content": "Seedanceでキャラクターの一貫性を保つには、キャラクターの顔、体型、さまざまな角度からの見え方を含む、しっかりしたキャラクターリファレンスシートを作成し、それをモデル入力として使用してください。  \nChatGPTにキャラクターの写真を渡し、「Seedance character reference skill çalıştır」コマンドを入力して、キャラクターリファレンスシートを自動で作成させてください。"
+    },
+    "ko": {
+      "content": "Seedance에서 캐릭터 일관성을 위해 캐릭터의 얼굴, 체형, 다양한 각도에서의 모습을 포함한 탄탄한 캐릭터 레퍼런스 시트를 만들고 이를 모델 입력으로 사용하세요  \nChatGPT에 캐릭터 사진을 제공한 뒤 Seedance character reference skill 실행 명령을 입력하면 캐릭터 레퍼런스 시트를 자동으로 준비할 수 있습니다"
+    },
+    "pt": {
+      "content": "Para garantir a consistência do personagem no Seedance, crie uma sólida folha de referência do personagem com o rosto, a estrutura corporal e vistas de diferentes ângulos, e use isso como entrada do modelo.  \nEnvie a foto do seu personagem ao ChatGPT e escreva o comando para executar a skill de referência de personagem do Seedance, para preparar automaticamente a folha de referência do personagem."
+    },
+    "zh": {
+      "content": "在 Seedance 中，为了保持角色一致性，请创建一份扎实的角色参考页，包含角色的脸部、体型以及不同角度的外观，并将其作为模型输入使用  \n将你的角色照片提供给 ChatGPT，并输入“Seedance karakter referans skill çalıştır”命令，即可自动生成角色参考页"
+    }
+  }
+}

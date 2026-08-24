@@ -1,0 +1,41 @@
+{
+  "id": "2090613861758255240",
+  "title": "用豆包来撰写 Seedance 的分镜头 prompt（对比多个模型后豆包效果最好用）",
+  "content": "用豆包来撰写 Seedance 的分镜头 prompt（对比多个模型后豆包效果最好用）",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/0xLaughing/status/2090613861758255240",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Laughing🪁 📍Bali Coinfest",
+    "link": "https://x.com/0xLaughing"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用豆包来撰写 Seedance 的分镜头 prompt（对比多个模型后豆包效果最好用）",
+  "translations": {
+    "en": {
+      "content": "Using Doubao to write Seedance shot-by-shot prompts (after comparing multiple models, Doubao gave the best results)"
+    },
+    "es": {
+      "content": "Usa Doubao para redactar el prompt de storyboard de Seedance (tras comparar varios modelos, Doubao ofrece los mejores resultados)."
+    },
+    "fr": {
+      "content": "Utiliser Doubao pour rédiger les prompts de storyboard de Seedance (après comparaison de plusieurs modèles, Doubao donne les meilleurs résultats)"
+    },
+    "ja": {
+      "content": "豆包を使って Seedance のショットごとの prompt を作成する（複数のモデルを比較した結果、豆包が最も使いやすく、効果も良かった）"
+    },
+    "ko": {
+      "content": "두바오를 사용해 Seedance의 샷별 prompt를 작성하기 (여러 모델을 비교해 본 결과, 두바오가 가장 쓰기 좋았음)\n---"
+    },
+    "pt": {
+      "content": "Usando o Doubao para escrever prompts de storyboard do Seedance (comparando vários modelos, o Doubao foi o mais eficaz)"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2090721823457706024",
+  "title": "Use Claude Code to research the product and write the UGC ad script before…",
+  "content": "Use Claude Code to research the product and write the UGC ad script before generating video in Seedance  \nGenerate the video by pairing GPT Image 2 with Seedance (use GPT Image 2 for visuals and Seedance for video generation)  \nAutomate post-production by sending the Seedance output to HyperFrames to add captions, cuts, zooms, SFX, and music",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090721368392568832/img/qnrCKhw5B8ilL0ph.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090721823457706024.mp4",
+  "sourceLink": "https://x.com/OzairAkhtar5/status/2090721823457706024",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Ozair Akhtar",
+    "link": "https://x.com/OzairAkhtar5"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Claude Code to research the product and write the UGC ad script before generating video in Seedance  \nGenerate the video by pairing GPT Image 2 with Seedance (use GPT Image 2 for visuals and Seedance for video generation)  \nAutomate post-production by sending the Seedance output to HyperFrames to add captions, cuts, zooms, SFX, and music",
+  "translations": {
+    "es": {
+      "content": "Usa Claude Code para investigar el producto y escribir el guion del anuncio UGC antes de generar el video en Seedance  \nGenera el video combinando GPT Image 2 con Seedance (usa GPT Image 2 para los visuales y Seedance para la generación de video)  \nAutomatiza la posproducción enviando el resultado de Seedance a HyperFrames para añadir subtítulos, cortes, zooms, SFX y música"
+    },
+    "fr": {
+      "content": "Utilisez Claude Code pour rechercher le produit et rédiger le script publicitaire UGC avant de générer la vidéo dans Seedance  \nGénérez la vidéo en associant GPT Image 2 à Seedance (utilisez GPT Image 2 pour les visuels et Seedance pour la génération vidéo)  \nAutomatisez la post-production en envoyant la sortie de Seedance à HyperFrames pour ajouter des sous-titres, des coupes, des zooms, des SFX et de la musique"
+    },
+    "ja": {
+      "content": "---\nSeedanceで動画を生成する前に、Claude Codeを使って製品をリサーチし、UGC広告スクリプトを作成する  \nGPT Image 2とSeedanceを組み合わせて動画を生成する（ビジュアルにはGPT Image 2を使用し、動画生成にはSeedanceを使用）  \nSeedanceの出力をHyperFramesに送信して、キャプション、カット、ズーム、SFX、音楽を追加し、ポストプロダクションを自動化する\n---"
+    },
+    "ko": {
+      "content": "Seedance에서 영상을 생성하기 전에 Claude Code를 사용해 제품을 리서치하고 UGC 광고 스크립트를 작성하세요  \nGPT Image 2와 Seedance를 함께 사용해 영상을 생성하세요(GPT Image 2는 비주얼에, Seedance는 영상 생성에 사용)  \nSeedance 출력물을 HyperFrames로 보내 캡션, 컷 편집, 줌, SFX, 음악을 추가해 후반 작업을 자동화하세요"
+    },
+    "pt": {
+      "content": "Use o Claude Code para pesquisar o produto e escrever o script do anúncio UGC antes de gerar o vídeo no Seedance  \nGere o vídeo combinando o GPT Image 2 com o Seedance (use o GPT Image 2 para os visuais e o Seedance para a geração de vídeo)  \nAutomatize a pós-produção enviando a saída do Seedance para o HyperFrames para adicionar legendas, cortes, zooms, SFX e música"
+    },
+    "zh": {
+      "content": "使用 Claude Code 研究产品，并在使用 Seedance 生成视频之前先撰写 UGC 广告脚本  \n将 GPT Image 2 与 Seedance 搭配使用来生成视频（用 GPT Image 2 负责视觉素材，用 Seedance 负责视频生成）  \n通过将 Seedance 的输出发送到 HyperFrames 来自动化后期制作，添加字幕、剪辑、缩放、音效和音乐"
+    }
+  }
+}

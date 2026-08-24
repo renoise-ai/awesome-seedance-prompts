@@ -1,0 +1,45 @@
+{
+  "id": "2091145639274918032",
+  "title": "Weź zdjęcie referencyjne, narysuj na nim linię przelotu kamery (1 = start, 2 =…",
+  "content": "Weź zdjęcie referencyjne, narysuj na nim linię przelotu kamery (1 = start, 2 = meta) i użyj go jako klatki startowej w Seedance, aby kamera poleciała po wyznaczonej trasie.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091145434718760960/img/W2IR0CH_fVU0tzTa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091145639274918032.mp4",
+  "sourceLink": "https://x.com/M_Dobrodziej/status/2091145639274918032",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "Maciej Dobrodziej",
+    "link": "https://x.com/M_Dobrodziej"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Weź zdjęcie referencyjne, narysuj na nim linię przelotu kamery (1 = start, 2 = meta) i użyj go jako klatki startowej w Seedance, aby kamera poleciała po wyznaczonej trasie.",
+  "translations": {
+    "en": {
+      "content": "Take a reference image, draw the camera flight path on it (1 = start, 2 = finish), and use it as the starting frame in Seedance so the camera flies along the designated route.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt: https://t.co/223FwoBKxD \n\nRule: take an image, draw the flight path on it (1 = start, 2 = finish), and upload it as the starting frame. The line disappears in half a second, and the camera flies along the route.\n---"
+    },
+    "es": {
+      "content": "Toma una imagen de referencia, dibuja sobre ella la línea de recorrido de la cámara (1 = inicio, 2 = meta) y úsala como fotograma inicial en Seedance para que la cámara vuele por la trayectoria marcada.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] Prompt: https://t.co/223FwoBKxD \n\nRegla: tomas la imagen, dibujas sobre ella la línea de recorrido (1 = inicio, 2 = meta) y la subes como fotograma inicial. La línea desaparece en medio segundo, la cámara sigue la ruta.\n---"
+    },
+    "fr": {
+      "content": "Prends une image de référence, trace dessus une ligne de trajectoire de la caméra (1 = départ, 2 = arrivée) et utilise-la comme image de départ dans Seedance, afin que la caméra suive le trajet défini.\n\n--- SUITE DU THREAD ---\n[Thread 1] Prompt: https://t.co/223FwoBKxD \n\nPrincipe : tu prends une image, tu y traces une ligne de trajectoire (1 = départ, 2 = arrivée) et tu la téléverses comme image de départ. La ligne disparaît en une demi-seconde, et la caméra suit la trajectoire.\n---"
+    },
+    "ja": {
+      "content": "参照画像を用意し、その上にカメラの飛行ルートの線（1 = スタート、2 = ゴール）を描き、Seedance の開始フレームとして使うと、カメラが指定した経路に沿って飛んでいきます。\n\n--- スレッドの続き ---\n[Thread 1] Prompt: https://t.co/223FwoBKxD \n\nルール：画像を用意し、その上に飛行ルートの線（1 = スタート、2 = ゴール）を描いて開始フレームとしてアップロードする。線は0.5秒で消え、カメラはそのルートに沿って進む。\n---"
+    },
+    "ko": {
+      "content": "참조 이미지를 가져와 그 위에 카메라 비행 경로를 그린 다음(1 = 시작, 2 = 도착), Seedance에서 시작 프레임으로 사용하면 카메라가 지정한 경로를 따라 이동합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt: https://t.co/223FwoBKxD \n\n원칙: 이미지를 가져와 그 위에 비행 경로를 그린 뒤(1 = 시작, 2 = 도착) 시작 프레임으로 업로드합니다. 선은 0.5초 만에 사라지고, 카메라는 그 경로를 따라 이동합니다.\n---"
+    },
+    "pt": {
+      "content": "Pegue uma imagem de referência, desenhe nela a linha de trajetória da câmera (1 = início, 2 = fim) e use-a como quadro inicial no Seedance, para que a câmera voe pela rota definida.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Prompt: https://t.co/223FwoBKxD \n\nRegra: você pega uma imagem, desenha nela a linha de trajetória (1 = início, 2 = fim) e a envia como quadro inicial. A linha desaparece em meio segundo, e a câmera segue pela rota.\n---"
+    },
+    "zh": {
+      "content": "拿一张参考图片，在上面画出镜头飞行路线（1 = 起点，2 = 终点），并将其作为 Seedance 的起始帧，这样镜头就会沿着指定路径飞行。\n\n--- 线程续接 ---\n[Thread 1] Prompt: https://t.co/223FwoBKxD \n\n规则：你先拿一张图片，在上面画出飞行路线（1 = 起点，2 = 终点），然后把它作为起始帧上传。线条会在半秒内消失，镜头会沿着这条路径移动。\n---"
+    }
+  }
+}
