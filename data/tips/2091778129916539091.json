@@ -1,0 +1,42 @@
+{
+  "id": "2091778129916539091",
+  "title": "Generate a 3D video in Seedance Studio, then reuse that output as a reference…",
+  "content": "Generate a 3D video in Seedance Studio, then reuse that output as a reference template to create variations by changing prompt elements like location, crowd, and fighters while keeping the same motion/composition.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091778038203822080/img/AFskleVhLAGyW5V9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091778129916539091.mp4",
+  "sourceLink": "https://x.com/Michael73320774/status/2091778129916539091",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "Mike McLaughlin",
+    "link": "https://x.com/Michael73320774"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a 3D video in Seedance Studio, then reuse that output as a reference template to create variations by changing prompt elements like location, crowd, and fighters while keeping the same motion/composition.",
+  "translations": {
+    "es": {
+      "content": "Genera un video 3D en Seedance Studio y luego reutiliza ese resultado como plantilla de referencia para crear variaciones cambiando elementos del prompt como la ubicación, la multitud y los luchadores, manteniendo la misma motion/composition."
+    },
+    "fr": {
+      "content": "Générez une vidéo 3D dans Seedance Studio, puis réutilisez ce résultat comme modèle de référence pour créer des variantes en modifiant des éléments du prompt comme le lieu, la foule et les combattants, tout en conservant le même mouvement et la même composition."
+    },
+    "ja": {
+      "content": "Seedance Studioで3D動画を生成し、その出力を参照テンプレートとして再利用して、場所、群衆、ファイターなどのprompt要素を変更しながら、同じモーションと構図を保ったままバリエーションを作成します。"
+    },
+    "ko": {
+      "content": "Seedance Studio에서 3D 비디오를 생성한 다음, 그 결과물을 레퍼런스 템플릿으로 재사용하여 location, crowd, fighters 같은 prompt 요소를 변경하면서도 동일한 motion/composition을 유지한 채 다양한 버전을 만들어 보세요."
+    },
+    "pt": {
+      "content": "Gere um vídeo 3D no Seedance Studio e, em seguida, reutilize esse resultado como um template de referência para criar variações, alterando elementos do prompt como localização, multidão e lutadores, enquanto mantém a mesma motion/composição."
+    },
+    "zh": {
+      "content": "在 Seedance Studio 中生成一个 3D 视频，然后将该输出重新用作参考模板，通过更改地点、人群和战斗者等 prompt 元素来创建变体，同时保持相同的运动和构图。"
+    }
+  }
+}

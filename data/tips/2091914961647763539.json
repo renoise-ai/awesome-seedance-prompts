@@ -1,0 +1,42 @@
+{
+  "id": "2091914961647763539",
+  "title": "Have Claude write every Seedance prompt in order and map a reference chain…",
+  "content": "Have Claude write every Seedance prompt in order and map a reference chain clip-to-clip so the same stranger stays the same person across multiple clips  \nGenerate the character first using 3 casting prompts before spending credits on full clip generation  \nFeed the last frame of each generated clip back into Seedance as the reference input for the next clip to maintain continuity  \nStructure each segment into three timed beats plus a sound block that explicitly specifies both voices to guide pacing and audio generation  \nBan staged-looking keywords in Seedance prompts (e.g., cinematic, bokeh, gimbal) to make street-interview ads feel more authentic  \nGenerate speech, lipsync, and ambience inside Seedance to avoid a separate voiceover step",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091914616045547520/img/QzzCIhoYe_IhtuUk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091914961647763539.mp4",
+  "sourceLink": "https://x.com/mikefutia/status/2091914961647763539",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "Mike Futia",
+    "link": "https://x.com/mikefutia"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Have Claude write every Seedance prompt in order and map a reference chain clip-to-clip so the same stranger stays the same person across multiple clips  \nGenerate the character first using 3 casting prompts before spending credits on full clip generation  \nFeed the last frame of each generated clip back into Seedance as the reference input for the next clip to maintain continuity  \nStructure each segment into three timed beats plus a sound block that explicitly specifies both voices to guide pacing and audio generation  \nBan staged-looking keywords in Seedance prompts (e.g., cinematic, bokeh, gimbal) to make street-interview ads feel more authentic  \nGenerate speech, lipsync, and ambience inside Seedance to avoid a separate voiceover step",
+  "translations": {
+    "es": {
+      "content": "Haz que Claude escriba cada prompt de Seedance en orden y mapea una cadena de referencia clip a clip para que el mismo desconocido siga siendo la misma persona a lo largo de varios clips  \nGenera primero al personaje usando 3 prompts de casting antes de gastar créditos en la generación completa del clip  \nVuelve a introducir el último fotograma de cada clip generado en Seedance como entrada de referencia para el siguiente clip para mantener la continuidad  \nEstructura cada segmento en tres beats temporizados más un bloque de sonido que especifique explícitamente ambas voces para guiar el ritmo y la generación de audio  \nProhíbe palabras clave que den un aspecto escenificado en los prompts de Seedance (p. ej., cinematic, bokeh, gimbal) para que los anuncios de entrevistas callejeras se sientan más auténticos  \nGenera el habla, la sincronización labial y el ambiente dentro de Seedance para evitar un paso separado de locución"
+    },
+    "fr": {
+      "content": "Demandez à Claude d’écrire chaque prompt Seedance dans l’ordre et de créer une chaîne de référence clip par clip afin que le même inconnu reste la même personne d’un clip à l’autre  \nGénérez d’abord le personnage à l’aide de 3 prompts de casting avant de dépenser des crédits pour la génération complète du clip  \nRéinjectez la dernière image de chaque clip généré dans Seedance comme entrée de référence pour le clip suivant afin de maintenir la continuité  \nStructurez chaque segment en trois temps forts, plus un bloc sonore qui précise explicitement les deux voix afin de guider le rythme et la génération audio  \nInterdisez les mots-clés qui donnent un aspect mis en scène dans les prompts Seedance (par ex. cinematic, bokeh, gimbal) pour rendre les publicités façon interview de rue plus authentiques  \nGénérez la parole, le lipsync et l’ambiance directement dans Seedance afin d’éviter une étape séparée de voiceover"
+    },
+    "ja": {
+      "content": "Claude に各 Seedance prompt を順番に書かせ、clip-to-clip で reference chain を構築して、複数の clip をまたいでも同じ見知らぬ人物が同一人物として保たれるようにする  \n本番の full clip generation に credits を使う前に、3 つの casting prompts でまずキャラクターを生成する  \n生成した各 clip の最後のフレームを次の clip の reference input として Seedance に再投入し、continuity を維持する  \n各セグメントを、3 つの timed beats と、両方の voice を明示的に指定する sound block で構成し、pacing と audio generation をガイドする  \nSeedance prompts では、演出っぽく見える keyword（例: cinematic, bokeh, gimbal）を禁止して、street-interview 広告をより authentic に見せる  \nspeech、lipsync、ambience を Seedance 内で生成し、別途 voiceover の工程を不要にする"
+    },
+    "ko": {
+      "content": "Claude가 모든 Seedance prompt를 순서대로 작성하게 하고, clip-to-clip으로 reference chain을 매핑해 여러 clip에 걸쳐 같은 낯선 사람이 계속 같은 인물로 유지되도록 하라  \n전체 clip 생성에 credits를 쓰기 전에 casting prompt 3개로 먼저 캐릭터를 생성하라  \n생성된 각 clip의 마지막 frame을 다음 clip의 reference input으로 Seedance에 다시 넣어 continuity를 유지하라  \n각 segment를 3개의 timed beat와, pacing과 audio generation을 안내하기 위해 두 voice를 모두 명시하는 sound block으로 구성하라  \nSeedance prompt에서 staged-looking keyword(예: cinematic, bokeh, gimbal)를 금지해 street-interview 광고가 더 authentic하게 느껴지도록 하라  \n별도의 voiceover 단계를 피하기 위해 speech, lipsync, ambience를 Seedance 안에서 생성하라"
+    },
+    "pt": {
+      "content": "Peça ao Claude para escrever cada prompt do Seedance em ordem e mapear uma cadeia de referência de clipe para clipe, para que o mesmo desconhecido continue sendo a mesma pessoa ao longo de vários clipes  \nGere o personagem primeiro usando 3 prompts de casting antes de gastar créditos na geração completa do clipe  \nAlimente o último frame de cada clipe gerado de volta ao Seedance como entrada de referência para o próximo clipe, a fim de manter a continuidade  \nEstruture cada segmento em três beats cronometrados, além de um bloco de som que especifique explicitamente ambas as vozes para orientar o ritmo e a geração de áudio  \nProíba palavras-chave com aparência encenada nos prompts do Seedance (por exemplo, cinematic, bokeh, gimbal) para fazer com que anúncios em estilo entrevista de rua pareçam mais autênticos  \nGere fala, lipsync e ambiência dentro do Seedance para evitar uma etapa separada de voiceover"
+    },
+    "zh": {
+      "content": "让 Claude 按顺序编写每一条 Seedance prompt，并建立一个逐段衔接的 reference chain，做到 clip-to-clip 关联，这样同一个陌生人在多个 clip 中始终保持为同一个人  \n先用 3 条 casting prompts 生成角色，再花 credits 进行完整的 clip 生成  \n将每个已生成 clip 的最后一帧回传到 Seedance，作为下一个 clip 的 reference input，以保持连续性  \n把每个片段结构化为三个有时间节奏的 beats，再加一个 sound block，明确指定两种声音，以引导节奏和音频生成  \n在 Seedance prompts 中禁用带有“摆拍感”的关键词（例如 cinematic、bokeh、gimbal），让街访广告看起来更真实  \n直接在 Seedance 中生成 speech、lipsync 和 ambience，避免单独进行配音步骤"
+    }
+  }
+}
