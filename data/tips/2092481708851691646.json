@@ -1,0 +1,42 @@
+{
+  "id": "2092481708851691646",
+  "title": "用 Seedance 做“照片学舞”：人物只提供 1 张参考图，动作用一段真人舞蹈视频作动作参考",
+  "content": "用 Seedance 做“照片学舞”：人物只提供 1 张参考图，动作用一段真人舞蹈视频作动作参考  \n生成时把场景提示改为古代皇宫寝殿，同时在提示中要求服装保持与参考人物一致不变",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092480204468113408/img/6pkKYWesGVnIOiPn.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092481708851691646.mp4",
+  "sourceLink": "https://x.com/rochestor_mu/status/2092481708851691646",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "rochestor",
+    "link": "https://x.com/rochestor_mu"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Historical",
+    "Tutorial"
+  ],
+  "tips": "用 Seedance 做“照片学舞”：人物只提供 1 张参考图，动作用一段真人舞蹈视频作动作参考  \n生成时把场景提示改为古代皇宫寝殿，同时在提示中要求服装保持与参考人物一致不变",
+  "translations": {
+    "en": {
+      "content": "Using Seedance to make a “photo learn to dance” effect: the character is provided with only 1 reference image, and the motion is based on a real human dance video as the movement reference.  \nWhen generating, change the scene prompt to an ancient imperial palace bedroom, and in the prompt require that the clothing remain exactly the same as the reference character’s outfit, unchanged."
+    },
+    "es": {
+      "content": "Usa Seedance para hacer “que una foto aprenda a bailar”: para el personaje, solo proporciona 1 imagen de referencia, y para el movimiento usa un video de baile real como referencia de acción.  \nAl generar, cambia la indicación de escena a un dormitorio de palacio imperial antiguo, y en el prompt pide además que la vestimenta se mantenga igual que la del personaje de referencia, sin cambios."
+    },
+    "fr": {
+      "content": "Avec Seedance, faites « danser une photo » : pour le personnage, fournissez seulement 1 image de référence, et utilisez une vidéo de danse réelle comme référence de mouvement.  \nLors de la génération, remplacez l’indication de scène par une chambre impériale d’un palais ancien, tout en demandant dans le prompt que les vêtements restent identiques à ceux du personnage de référence, sans changement."
+    },
+    "ja": {
+      "content": "Use Seedance to make a “photo dance”: provide only one reference image of the person, and use a real dance video as the motion reference.  \nWhen generating, change the scene prompt to an ancient imperial palace bedroom, and in the prompt require that the clothing remain exactly the same as the reference person’s outfit."
+    },
+    "ko": {
+      "content": "Seedance로 “사진이 춤추게 하기”를 구현: 인물은 참고용 사진 1장만 제공하고, 동작은 실제 사람의 춤 영상 한 편을 동작 참고로 사용  \n생성 시 장면 프롬프트를 고대 황궁의 침전으로 바꾸고, 프롬프트에서 의상은 참고 인물과 동일하게 유지되도록 요구"
+    },
+    "pt": {
+      "content": "Use o Seedance para fazer “a foto dançar”: forneça apenas 1 imagem de referência da pessoa, e use um vídeo de dança real como referência de movimento.  \nNa geração, altere o prompt de cenário para um quarto imperial de um palácio antigo e, no prompt, peça que a roupa permaneça igual à da pessoa de referência, sem alterações."
+    }
+  }
+}
