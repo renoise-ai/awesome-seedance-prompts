@@ -1,0 +1,41 @@
+{
+  "id": "2093674371948879936",
+  "title": "Start Seedance 2 projects by finding a reference image, then generate your own…",
+  "content": "Start Seedance 2 projects by finding a reference image, then generate your own custom image from it that includes all the exact conditions you want in the final video.  \nUse Claude by giving it your custom image and describing the scene/action you want, then have Claude convert that into a detailed Seedance 2 video prompt.  \nGenerate the Seedance 2 video using only the Claude-written prompt (do not include the image reference in the Seedance generation step).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/pranav_ae/status/2093674371948879936",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "Pranav",
+    "link": "https://x.com/pranav_ae"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start Seedance 2 projects by finding a reference image, then generate your own custom image from it that includes all the exact conditions you want in the final video.  \nUse Claude by giving it your custom image and describing the scene/action you want, then have Claude convert that into a detailed Seedance 2 video prompt.  \nGenerate the Seedance 2 video using only the Claude-written prompt (do not include the image reference in the Seedance generation step).",
+  "translations": {
+    "es": {
+      "content": "Comienza proyectos de Seedance 2 encontrando una imagen de referencia y luego genera a partir de ella tu propia imagen personalizada, que incluya todas las condiciones exactas que quieres en el video final.  \nUsa Claude dándole tu imagen personalizada y describiendo la escena/acción que quieres; luego haz que Claude convierta eso en un prompt de video detallado para Seedance 2.  \nGenera el video de Seedance 2 usando solo el prompt escrito por Claude (no incluyas la imagen de referencia en el paso de generación de Seedance)."
+    },
+    "fr": {
+      "content": "Commencez vos projets Seedance 2 en trouvant une image de référence, puis générez à partir d’elle votre propre image personnalisée qui inclut toutes les conditions exactes que vous souhaitez dans la vidéo finale.  \nUtilisez Claude en lui fournissant votre image personnalisée et en décrivant la scène/l’action que vous souhaitez, puis demandez à Claude de transformer cela en un prompt vidéo Seedance 2 détaillé.  \nGénérez la vidéo Seedance 2 en utilisant uniquement le prompt rédigé par Claude (n’incluez pas l’image de référence dans l’étape de génération Seedance)."
+    },
+    "ja": {
+      "content": "まず参考画像を見つけて Seedance 2 のプロジェクトを始め、そこから最終動画に必要な条件をすべて正確に含んだ、自分専用のカスタム画像を生成します。  \nそのカスタム画像を Claude に渡し、希望するシーンやアクションを説明すると、Claude がそれを詳細な Seedance 2 の video prompt に変換してくれます。  \nSeedance 2 の動画は、Claude が書いた prompt のみを使って生成します（Seedance の生成ステップには画像の reference を含めないでください）。"
+    },
+    "ko": {
+      "content": "Seedance 2 프로젝트는 참고 이미지를 찾는 것부터 시작한 다음, 최종 영상에 원하는 모든 정확한 조건을 담은 맞춤 이미지를 직접 생성하세요.  \nClaude에 맞춤 이미지를 제공하고 원하는 장면/동작을 설명한 뒤, Claude가 이를 상세한 Seedance 2 비디오 프롬프트로 변환하게 하세요.  \n그다음 Claude가 작성한 프롬프트만 사용해 Seedance 2 비디오를 생성하세요(Seedance 생성 단계에는 이미지 참조를 포함하지 마세요)."
+    },
+    "pt": {
+      "content": "Comece projetos no Seedance 2 encontrando uma imagem de referência e, em seguida, gere a sua própria imagem personalizada a partir dela, incluindo todas as condições exatas que você quer no vídeo final.  \nUse o Claude fornecendo a ele sua imagem personalizada e descrevendo a cena/ação que você deseja; depois, peça para o Claude converter isso em um prompt de vídeo detalhado para o Seedance 2.  \nGere o vídeo no Seedance 2 usando apenas o prompt escrito pelo Claude (não inclua a imagem de referência na etapa de geração do Seedance)."
+    },
+    "zh": {
+      "content": "通过先找到一张参考图来启动 Seedance 2 项目，然后基于它生成你自己的自定义图片，并在其中包含你希望最终视频具备的所有精确条件。  \n将你的自定义图片提供给 Claude，并描述你想要的场景/动作，然后让 Claude 把它转换成一段详细的 Seedance 2 视频提示词。  \n仅使用 Claude 撰写的提示词来生成 Seedance 2 视频（在 Seedance 生成步骤中不要包含图片参考）。"
+    }
+  }
+}

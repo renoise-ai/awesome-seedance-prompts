@@ -1,0 +1,41 @@
+{
+  "id": "2093142956471619606",
+  "title": "使用该免费仓库里拆解好的 Seedance 2.0 镜头/运镜/分镜/节奏模板，直接套用模板生成视频，减少自己试错摸索提示词",
+  "content": "使用该免费仓库里拆解好的 Seedance 2.0 镜头/运镜/分镜/节奏模板，直接套用模板生成视频，减少自己试错摸索提示词  \n从仓库中选择现成的运镜设置（camera movement presets）应用到 Seedance 2.0 提示词/配置里，以获得更稳定的运镜效果",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/huoshan007/status/2093142956471619606",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "火山哥🕊️",
+    "link": "https://x.com/huoshan007"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "使用该免费仓库里拆解好的 Seedance 2.0 镜头/运镜/分镜/节奏模板，直接套用模板生成视频，减少自己试错摸索提示词  \n从仓库中选择现成的运镜设置（camera movement presets）应用到 Seedance 2.0 提示词/配置里，以获得更稳定的运镜效果",
+  "translations": {
+    "en": {
+      "content": "Use the pre-broken-down Seedance 2.0 shot / camera movement / storyboard / pacing templates in this free repository, and apply the templates directly to generate videos, reducing the need to trial-and-error your way through prompt writing.  \nSelect ready-made camera movement presets from the repository and apply them to Seedance 2.0 prompts/configurations to achieve more stable camera movement effects."
+    },
+    "es": {
+      "content": "Utiliza las plantillas de Seedance 2.0 ya desglosadas de planos, movimientos de cámara, storyboard y ritmo que hay en este repositorio gratuito, y aplícalas directamente para generar videos, reduciendo así la necesidad de probar y ajustar prompts por tu cuenta.  \nSelecciona del repositorio los ajustes de movimiento de cámara ya preparados (camera movement presets) y aplícalos en los prompts/configuración de Seedance 2.0 para obtener efectos de movimiento de cámara más estables."
+    },
+    "fr": {
+      "content": "Utilisez directement les templates de Seedance 2.0 déjà découpés dans ce dépôt gratuit — plans, mouvements de caméra, découpage et rythme — pour générer des vidéos, afin de réduire les essais et erreurs lors de la formulation des prompts.  \nChoisissez dans le dépôt des réglages de mouvement de caméra prêts à l’emploi (camera movement presets) et appliquez-les aux prompts/configurations Seedance 2.0 pour obtenir des effets de mouvement de caméra plus stables."
+    },
+    "ja": {
+      "content": "---\nUse the pre-broken-down Seedance 2.0 shot / camera movement / storyboard / pacing templates from this free repository, and apply the templates directly to generate videos, reducing the need to trial-and-error your way through prompt crafting.  \nSelect ready-made camera movement presets from the repository and apply them to Seedance 2.0 prompts/configurations to achieve more stable camera movement effects.\n---"
+    },
+    "ko": {
+      "content": "이 무료 저장소에 정리된 Seedance 2.0의 샷/카메라 무빙/스토리보드/리듬 템플릿을 활용해, 템플릿을 그대로 적용하여 영상을 생성하면 직접 시행착오를 거치며 prompt를 다듬는 과정을 줄일 수 있습니다.  \n저장소에서 이미 준비된 camera movement presets를 선택해 Seedance 2.0의 prompt/설정에 적용하면, 더 안정적인 카메라 무빙 효과를 얻을 수 있습니다."
+    },
+    "pt": {
+      "content": "Use os templates de câmera/movimento de câmera/decupagem/ritmo do Seedance 2.0 já organizados neste repositório gratuito para gerar vídeos diretamente com base neles, reduzindo a necessidade de testar e ajustar prompts por conta própria.  \nEscolha no repositório as configurações de movimento de câmera prontas (camera movement presets) e aplique-as aos prompts/configurações do Seedance 2.0 para obter efeitos de movimento de câmera mais estáveis."
+    }
+  }
+}

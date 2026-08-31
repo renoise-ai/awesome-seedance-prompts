@@ -1,0 +1,43 @@
+{
+  "id": "2093577371005923589",
+  "title": "手持ちカメラ感を出したいときは、カメラ動作をzoomではなくpushes in / steps backのように物理移動としてプロンプトに書く",
+  "content": "手持ちカメラ感を出したいときは、カメラ動作をzoomではなくpushes in / steps backのように物理移動としてプロンプトに書く  \n手ブレの質感を指定したいときは、operator breath、walking sway、micro-settlingをプロンプトに入れる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093577252357451776/img/S-BX90HisE9GQ2rx.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093577371005923589.mp4",
+  "sourceLink": "https://x.com/LapisAi27677/status/2093577371005923589",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "Lapis",
+    "link": "https://x.com/LapisAi27677"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV"
+  ],
+  "tips": "手持ちカメラ感を出したいときは、カメラ動作をzoomではなくpushes in / steps backのように物理移動としてプロンプトに書く  \n手ブレの質感を指定したいときは、operator breath、walking sway、micro-settlingをプロンプトに入れる",
+  "translations": {
+    "en": {
+      "content": "If you want to create a handheld camera feel, describe the camera movement in the prompt as physical motion, such as pushes in / steps back, rather than zoom.  \nIf you want to specify the texture of camera shake, include operator breath, walking sway, and micro-settling in the prompt."
+    },
+    "es": {
+      "content": "Cuando quieras dar una sensación de cámara en mano, escribe en el prompt el movimiento de cámara como un desplazamiento físico, por ejemplo pushes in / steps back, en lugar de zoom.  \nCuando quieras especificar la textura del temblor de cámara, incluye en el prompt operator breath, walking sway y micro-settling."
+    },
+    "fr": {
+      "content": "Lorsque vous voulez donner une sensation de caméra à l’épaule, décrivez le mouvement de caméra dans le prompt comme un déplacement physique, par exemple pushes in / steps back, plutôt que comme un zoom.  \nSi vous voulez préciser la texture du tremblement de la caméra, ajoutez dans le prompt operator breath, walking sway, micro-settling."
+    },
+    "ko": {
+      "content": "핸드헬드 카메라 느낌을 내고 싶을 때는, 카메라 동작을 zoom이 아니라 pushes in / steps back처럼 물리적 이동으로 prompt에 적는다.  \n손떨림의 질감을 지정하고 싶을 때는 operator breath, walking sway, micro-settling을 prompt에 넣는다."
+    },
+    "pt": {
+      "content": "Quando quiser dar uma sensação de câmera na mão, descreva o movimento da câmera no prompt como deslocamento físico, como pushes in / steps back, em vez de zoom.  \nQuando quiser especificar a textura da tremida da câmera, inclua operator breath, walking sway e micro-settling no prompt."
+    },
+    "zh": {
+      "content": "想要营造手持摄影机的感觉时，不要把镜头运动写成 zoom，而要在 prompt 里写成物理移动，比如 pushes in / steps back  \n想要指定画面抖动的质感时，可以在 prompt 里加入 operator breath、walking sway、micro-settling"
+    }
+  }
+}

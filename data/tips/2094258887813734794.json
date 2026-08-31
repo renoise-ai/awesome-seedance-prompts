@@ -1,0 +1,42 @@
+{
+  "id": "2094258887813734794",
+  "title": "Use TopView’s smartphone app to generate a Seedance video from photos you took…",
+  "content": "Use TopView’s smartphone app to generate a Seedance video from photos you took at a real location, and prompt Seedance with the atmosphere/impression you felt there to reconstruct it as moving footage.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094252186935173120/img/daR-2gWYiWeiPhcr.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094258887813734794.mp4",
+  "sourceLink": "https://x.com/glitter_11924/status/2094258887813734794",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "津軽",
+    "link": "https://x.com/glitter_11924"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use TopView’s smartphone app to generate a Seedance video from photos you took at a real location, and prompt Seedance with the atmosphere/impression you felt there to reconstruct it as moving footage.",
+  "translations": {
+    "en": {
+      "content": "Use TopView’s smartphone app to generate a Seedance video from photos you took at a real location, and prompt Seedance with the atmosphere/impression you felt there to reconstruct it as moving footage."
+    },
+    "es": {
+      "content": "Usa la app para smartphone de TopView para generar un video de Seedance a partir de fotos que tomaste en una ubicación real, y dale a Seedance un prompt con la atmósfera o impresión que sentiste allí para reconstruirla como metraje en movimiento."
+    },
+    "fr": {
+      "content": "Utilisez l’application smartphone de TopView pour générer une vidéo Seedance à partir de photos prises dans un lieu réel, puis donnez à Seedance un prompt décrivant l’atmosphère / l’impression que vous y avez ressentie afin de la reconstruire sous forme de séquence animée."
+    },
+    "ko": {
+      "content": "실제 장소에서 촬영한 사진을 바탕으로 TopView의 스마트폰 앱을 사용해 Seedance 영상을 생성하고, 그곳에서 느꼈던 분위기/인상을 Seedance에 prompt로 입력해 움직이는 영상으로 재구성하세요."
+    },
+    "pt": {
+      "content": "Use o aplicativo para smartphone da TopView para gerar um vídeo Seedance a partir de fotos que você tirou em um local real e forneça ao Seedance, como prompt, a atmosfera/impressão que você sentiu lá para reconstruí-lo como imagens em movimento."
+    },
+    "zh": {
+      "content": "使用 TopView 的智能手机应用，将你在真实地点拍摄的照片生成一段 Seedance 视频，并用你当时感受到的氛围/印象来提示 Seedance，将其重建为动态影像。"
+    }
+  }
+}

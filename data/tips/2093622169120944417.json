@@ -1,0 +1,42 @@
+{
+  "id": "2093622169120944417",
+  "title": "Use ChatGPT to generate 2 images, then feed those images into Seedance to build…",
+  "content": "Use ChatGPT to generate 2 images, then feed those images into Seedance to build an AI action video in five separate pieces.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093618667112042496/img/aUrdyO-cmaA_lBxw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093622169120944417.mp4",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2093622169120944417",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use ChatGPT to generate 2 images, then feed those images into Seedance to build an AI action video in five separate pieces.",
+  "translations": {
+    "es": {
+      "content": "Usa ChatGPT para generar 2 imágenes y luego introdúcelas en Seedance para crear un video de acción con IA en cinco partes separadas."
+    },
+    "fr": {
+      "content": "Utilisez ChatGPT pour générer 2 images, puis importez ces images dans Seedance afin de créer une vidéo d’action IA en cinq parties distinctes."
+    },
+    "ja": {
+      "content": "ChatGPTを使って2枚の画像を生成し、その画像をSeedanceに入力して、5つの別々のパートでAIアクション動画を作成します。"
+    },
+    "ko": {
+      "content": "ChatGPT를 사용해 이미지 2장을 생성한 다음, 그 이미지들을 Seedance에 입력해 AI 액션 비디오를 5개의 개별 파트로 제작하세요."
+    },
+    "pt": {
+      "content": "Use o ChatGPT para gerar 2 imagens e, em seguida, envie essas imagens para o Seedance para criar um vídeo de ação com IA em cinco partes separadas."
+    },
+    "zh": {
+      "content": "使用 ChatGPT 生成 2 张图片，然后将这些图片输入 Seedance，分成五个独立片段来制作一段 AI 动作视频。"
+    }
+  }
+}

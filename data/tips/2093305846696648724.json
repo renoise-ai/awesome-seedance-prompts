@@ -1,0 +1,42 @@
+{
+  "id": "2093305846696648724",
+  "title": "文字なしのモーショングラフィックはSeedance 2.0 miniを使う（miniで十分な品質が出る）",
+  "content": "文字なしのモーショングラフィックはSeedance 2.0 miniを使う（miniで十分な品質が出る）  \nブレイクダンスのフレアやウィンドミルなど複雑な動きはSeedance 2.0を使う（miniだと厳しい）  \nシンプルな動きの動画はSeedance 2.0 miniで生成する（軽いモーションならminiでも対応できる）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093289685732974592/img/b53z76LYdY7eg7gH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093305846696648724.mp4",
+  "sourceLink": "https://x.com/yudotanaka/status/2093305846696648724",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "田中勇道 | AI画像・動画生成",
+    "link": "https://x.com/yudotanaka"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "文字なしのモーショングラフィックはSeedance 2.0 miniを使う（miniで十分な品質が出る）  \nブレイクダンスのフレアやウィンドミルなど複雑な動きはSeedance 2.0を使う（miniだと厳しい）  \nシンプルな動きの動画はSeedance 2.0 miniで生成する（軽いモーションならminiでも対応できる）",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.0 mini for motion graphics without text (mini delivers sufficient quality).  \nUse Seedance 2.0 for complex movements like breakdance flares and windmills (mini struggles with these).  \nGenerate videos with simple motion using Seedance 2.0 mini (mini can handle light motion)."
+    },
+    "es": {
+      "content": "Los motion graphics sin texto se crean con Seedance 2.0 mini (mini ofrece una calidad suficiente).  \nPara movimientos complejos como flare o windmill de breakdance, se usa Seedance 2.0 (mini se queda corto).  \nLos videos con movimientos simples se generan con Seedance 2.0 mini (si el motion es ligero, mini también puede manejarlo)."
+    },
+    "fr": {
+      "content": "Les motion graphics sans texte utilisent Seedance 2.0 mini (la qualité obtenue avec mini est suffisante)  \nPour les mouvements complexes comme les flare ou les windmills en breakdance, utilisez Seedance 2.0 (mini a du mal à les gérer)  \nLes vidéos avec des mouvements simples sont générées avec Seedance 2.0 mini (pour des motions légers, mini peut aussi convenir)"
+    },
+    "ko": {
+      "content": "문자 없는 모션 그래픽은 Seedance 2.0 mini를 사용한다( mini만으로도 충분한 품질이 나온다 )  \n브레이크댄스의 플레어, 윈드밀 같은 복잡한 동작은 Seedance 2.0을 사용한다( mini로는 다소 어렵다 )  \n단순한 움직임의 영상은 Seedance 2.0 mini로 생성한다( 가벼운 모션이라면 mini로도 대응 가능하다 )"
+    },
+    "pt": {
+      "content": "Use Seedance 2.0 mini para motion graphics sem texto (a qualidade do mini já é suficiente)  \nUse Seedance 2.0 para movimentos complexos, como flare e windmill de breakdance (no mini, fica difícil)  \nGere vídeos com movimentos simples usando Seedance 2.0 mini (para motion leve, o mini também dá conta)"
+    },
+    "zh": {
+      "content": "无文字的 motion graphic 使用 Seedance 2.0 mini（mini 就能达到足够的质量）  \n像 breakdance 的 flare、windmill 这类复杂动作使用 Seedance 2.0（mini 会比较吃力）  \n简单动作的视频用 Seedance 2.0 mini 生成（如果是轻量 motion，mini 也能应对）"
+    }
+  }
+}

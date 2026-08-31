@@ -1,0 +1,43 @@
+{
+  "id": "2093611245073293462",
+  "title": "Midjourney V8.2のedit modelで1枚の写真を水彩イラスト風に編集してから、その画像をSeedanceに入れて動画化する",
+  "content": "Midjourney V8.2のedit modelで1枚の写真を水彩イラスト風に編集してから、その画像をSeedanceに入れて動画化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093607915915812864/img/W1iyaT-56YcxEyGk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093611245073293462.mp4",
+  "sourceLink": "https://x.com/genel_ai/status/2093611245073293462",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "GENEL | リアルなAI動画制作",
+    "link": "https://x.com/genel_ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Hand-drawn",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Midjourney V8.2のedit modelで1枚の写真を水彩イラスト風に編集してから、その画像をSeedanceに入れて動画化する",
+  "translations": {
+    "en": {
+      "content": "Edit a single photo into a watercolor-style illustration using Midjourney V8.2’s edit model, then feed that image into Seedance to turn it into a video.\n\n--- QUOTED TWEET ---\nWe’re gonna start testing our first V8.2 edit model today. This model supports editing with instructions, generating images with other images (up to 4 references), brush-based inpainting, and outpainting. It also works with personalization, moodboards, and srefs. Have fun! https://t.co/FWXZpTKuYv\n---"
+    },
+    "es": {
+      "content": "Editar una sola foto con un estilo de ilustración en acuarela usando el modelo de edición de Midjourney V8.2 y luego introducir esa imagen en Seedance para convertirla en video\n\n--- TWEET CITADO ---\nHoy vamos a empezar a probar nuestro primer modelo de edición V8.2. Este modelo admite edición mediante instrucciones, generación de imágenes con otras imágenes (hasta 4 referencias), inpainting basado en pincel y outpainting. También funciona con personalización, moodboards y srefs. ¡Diviértanse! https://t.co/FWXZpTKuYv\n---"
+    },
+    "fr": {
+      "content": "Modifier une photo en style illustration aquarelle avec le modèle d’édition Midjourney V8.2, puis importer cette image dans Seedance pour la transformer en vidéo\n\n--- TWEET CITÉ ---\nNous allons commencer aujourd’hui les tests de notre premier modèle d’édition V8.2. Ce modèle prend en charge l’édition avec instructions, la génération d’images à partir d’autres images (jusqu’à 4 références), l’inpainting au pinceau et l’outpainting. Il fonctionne également avec la personnalisation, les moodboards et les srefs. Amusez-vous bien ! https://t.co/FWXZpTKuYv\n---"
+    },
+    "ko": {
+      "content": "Midjourney V8.2의 edit model로 한 장의 사진을 수채화 일러스트풍으로 편집한 다음, 그 이미지를 Seedance에 넣어 영상으로 만든다\n\n--- QUOTED TWEET ---\n오늘부터 저희의 첫 번째 V8.2 edit model 테스트를 시작합니다. 이 모델은 instructions를 통한 편집, 다른 이미지와 함께 이미지를 생성하는 기능(최대 4개의 reference), brush-based inpainting, outpainting을 지원합니다. 또한 personalization, moodboards, srefs와도 함께 작동합니다. 즐겁게 사용해 주세요! https://t.co/FWXZpTKuYv\n---"
+    },
+    "pt": {
+      "content": "Editar uma única foto em estilo de ilustração em aquarela com o modelo de edição do Midjourney V8.2 e, depois, inserir essa imagem no Seedance para transformá-la em vídeo\n\n--- TWEET CITADO ---\nHoje vamos começar a testar nosso primeiro modelo de edição V8.2. Este modelo oferece suporte à edição com instruções, geração de imagens com outras imagens (até 4 referências), inpainting baseado em pincel e outpainting. Ele também funciona com personalização, moodboards e srefs. Divirtam-se! https://t.co/FWXZpTKuYv\n---"
+    },
+    "zh": {
+      "content": "先用 Midjourney V8.2 的 edit model 把一张照片编辑成水彩插画风，然后把那张图放进 Seedance 里做成视频\n\n--- QUOTED TWEET ---\n我们今天要开始测试我们的第一个 V8.2 edit model。这个模型支持基于指令的编辑、使用其他图片生成图像（最多 4 张参考图）、基于画笔的 inpainting，以及 outpainting。它还支持 personalization、moodboards 和 srefs。玩得开心！https://t.co/FWXZpTKuYv\n---"
+    }
+  }
+}

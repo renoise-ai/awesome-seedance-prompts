@@ -1,0 +1,43 @@
+{
+  "id": "2094048491282522368",
+  "title": "Create a locked character reference sheet in Midjourney 8.2, then use it as the…",
+  "content": "Create a locked character reference sheet in Midjourney 8.2, then use it as the consistent character reference for your Seedance shots.  \nUse Seedance 2.0 Fast to animate multiple 15-second scenes quickly for fast iteration (e.g., two 15s scenes to build a 30s sequence).  \nRun a workflow of locked reference sheet -> fast iterative Seedance renders -> upscale the final output with Topaz Starlight on Higgsfield to 2048x1152.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2094048420000309248/pu/img/W3CiiPWFJa-KETYe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094048491282522368.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2094048491282522368",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Create a locked character reference sheet in Midjourney 8.2, then use it as the consistent character reference for your Seedance shots.  \nUse Seedance 2.0 Fast to animate multiple 15-second scenes quickly for fast iteration (e.g., two 15s scenes to build a 30s sequence).  \nRun a workflow of locked reference sheet -> fast iterative Seedance renders -> upscale the final output with Topaz Starlight on Higgsfield to 2048x1152.",
+  "translations": {
+    "es": {
+      "content": "Crea una hoja de referencia de personaje bloqueada en Midjourney 8.2, y luego úsala como referencia consistente del personaje para tus tomas de Seedance.  \nUsa Seedance 2.0 Fast para animar rápidamente múltiples escenas de 15 segundos para una iteración ágil (por ejemplo, dos escenas de 15 s para construir una secuencia de 30 s).  \nEjecuta un flujo de trabajo de hoja de referencia bloqueada -> renders iterativos rápidos en Seedance -> upscale del resultado final con Topaz Starlight en Higgsfield a 2048x1152."
+    },
+    "fr": {
+      "content": "Créez une fiche de référence de personnage verrouillée dans Midjourney 8.2, puis utilisez-la comme référence de personnage cohérente pour vos plans Seedance.  \nUtilisez Seedance 2.0 Fast pour animer rapidement plusieurs scènes de 15 secondes afin d’itérer vite (par exemple, deux scènes de 15 s pour construire une séquence de 30 s).  \nExécutez un workflow allant de la fiche de référence verrouillée -> rendus Seedance rapides et itératifs -> upscale de la sortie finale avec Topaz Starlight sur Higgsfield en 2048x1152."
+    },
+    "ja": {
+      "content": "Midjourney 8.2で固定されたキャラクター・リファレンスシートを作成し、それをSeedanceのショット全体で一貫したキャラクター参照として使用します。  \nSeedance 2.0 Fastを使って複数の15秒シーンを素早くアニメーション化し、高速な反復制作を行います（例：15秒のシーンを2本作って30秒のシーケンスを構築）。  \n固定リファレンスシート → Seedanceの高速反復レンダリング → Higgsfield上のTopaz Starlightで最終出力を2048x1152にアップスケール、というワークフローを実行します。"
+    },
+    "ko": {
+      "content": "Midjourney 8.2에서 고정된 캐릭터 레퍼런스 시트를 만든 다음, 이를 Seedance 샷의 일관된 캐릭터 레퍼런스로 사용하세요.  \nSeedance 2.0 Fast를 사용해 여러 개의 15초 장면을 빠르게 애니메이션하여 신속한 반복 작업을 진행하세요(예: 15초 장면 2개로 30초 시퀀스 구성).  \n고정 레퍼런스 시트 -> 빠른 반복 Seedance 렌더링 -> Higgsfield의 Topaz Starlight로 최종 결과물을 2048x1152로 업스케일하는 워크플로를 실행하세요."
+    },
+    "pt": {
+      "content": "Crie uma ficha de referência de personagem travada no Midjourney 8.2 e depois use-a como referência consistente de personagem para seus shots no Seedance.  \nUse o Seedance 2.0 Fast para animar rapidamente várias cenas de 15 segundos para iteração ágil (por exemplo, duas cenas de 15s para construir uma sequência de 30s).  \nExecute um workflow de ficha de referência travada -> renders iterativos rápidos no Seedance -> faça o upscale da saída final com o Topaz Starlight no Higgsfield para 2048x1152."
+    },
+    "zh": {
+      "content": "在 Midjourney 8.2 中创建一张锁定角色参考表，然后将其作为 Seedance 镜头的统一角色参考。  \n使用 Seedance 2.0 Fast 快速为多个 15 秒场景制作动画，以便快速迭代（例如，用两个 15 秒场景拼接成一个 30 秒序列）。  \n执行一个工作流：锁定参考表 -> 快速迭代的 Seedance 渲染 -> 使用 Higgsfield 上的 Topaz Starlight 将最终输出放大到 2048x1152。"
+    }
+  }
+}

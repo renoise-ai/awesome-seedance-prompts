@@ -1,0 +1,42 @@
+{
+  "id": "2093264027853984102",
+  "title": "Create a reference sheet in Midjourney 8.2 and use it as the visual guide for…",
+  "content": "Create a reference sheet in Midjourney 8.2 and use it as the visual guide for Seedance generation to keep character/style consistent across shots.  \nAnimate in Seedance 2.0 Fast by generating multiple short clips (e.g., 2×15s scenes) instead of one long scene.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093263715944505344/img/TDVc8401QIvqzM5x.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093264027853984102.mp4",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2093264027853984102",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a reference sheet in Midjourney 8.2 and use it as the visual guide for Seedance generation to keep character/style consistent across shots.  \nAnimate in Seedance 2.0 Fast by generating multiple short clips (e.g., 2×15s scenes) instead of one long scene.",
+  "translations": {
+    "es": {
+      "content": "Crea una hoja de referencia en Midjourney 8.2 y úsala como guía visual para la generación en Seedance, para mantener la coherencia del personaje/estilo entre tomas.  \nAnima en Seedance 2.0 Fast generando varios clips cortos (p. ej., 2 escenas de 15 s) en lugar de una sola escena larga."
+    },
+    "fr": {
+      "content": "Créez une feuille de référence dans Midjourney 8.2 et utilisez-la comme guide visuel pour la génération dans Seedance afin de conserver la cohérence du personnage et du style d’un plan à l’autre.  \nAnimez dans Seedance 2.0 Fast en générant plusieurs courts clips (par exemple, 2 scènes de 15 s) plutôt qu’une seule longue scène."
+    },
+    "ja": {
+      "content": "Midjourney 8.2でリファレンスシートを作成し、それをSeedance生成のビジュアルガイドとして使用して、ショット間でキャラクター／スタイルの一貫性を保ちます。  \nSeedance 2.0 Fastでは、1本の長いシーンではなく、複数の短いクリップ（例：15秒のシーンを2本）を生成してアニメーション化します。"
+    },
+    "ko": {
+      "content": "Midjourney 8.2에서 레퍼런스 시트를 만들고, 이를 Seedance 생성의 비주얼 가이드로 사용해 샷 전반에서 캐릭터/스타일의 일관성을 유지하세요.  \nSeedance 2.0 Fast에서는 하나의 긴 장면 대신 여러 개의 짧은 클립(예: 2×15초 장면)을 생성해 애니메이션하세요."
+    },
+    "pt": {
+      "content": "Crie uma folha de referência no Midjourney 8.2 e use-a como guia visual para a geração no Seedance, para manter a consistência de personagem/estilo entre os takes.  \nAnime no Seedance 2.0 Fast gerando vários clipes curtos (por exemplo, 2 cenas de 15s) em vez de uma única cena longa."
+    },
+    "zh": {
+      "content": "在 Midjourney 8.2 中创建一张参考图，并将其作为 Seedance 生成的视觉指南，以保持角色/风格在不同镜头中的一致性。  \n在 Seedance 2.0 Fast 中，通过生成多个短片段（例如 2 段 15 秒的场景）来进行动画制作，而不是生成一个长场景。"
+    }
+  }
+}

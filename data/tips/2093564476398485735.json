@@ -1,0 +1,43 @@
+{
+  "id": "2093564476398485735",
+  "title": "Structure Seedance 2 prompts with explicit timecodes and multiple cuts (e.g…",
+  "content": "Structure Seedance 2 prompts with explicit timecodes and multiple cuts (e.g., 0–10s with CUT 1/2/3) to control pacing and shot progression.  \nUse reference images per element (WORLD @[Image], CHARACTER @[Image], ENEMIES @[Image]) to lock in environment, protagonist, and secondary character designs.  \nSpecify a deliberate perspective transition (e.g., third-person cinematic to hard cut first-person POV) to force a POV change mid-clip.  \nAdd camera direction like handheld/shaky/high-adrenaline to influence motion style and energy.  \nInclude strong negative constraints (NOT stylized/flat 2D/anime/cartoon outlines/cheap game-asset look) to push photorealistic output.  \nCall out live-action lens traits (subtle film grain, color-graded like live-action sci-fi, physically accurate shadows) to steer toward a cinematic VFX look.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/itsPixieVerse/status/2093564476398485735",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "PixieVerse",
+    "link": "https://x.com/itsPixieVerse"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial",
+    "VFX",
+    "POV"
+  ],
+  "tips": "Structure Seedance 2 prompts with explicit timecodes and multiple cuts (e.g., 0–10s with CUT 1/2/3) to control pacing and shot progression.  \nUse reference images per element (WORLD @[Image], CHARACTER @[Image], ENEMIES @[Image]) to lock in environment, protagonist, and secondary character designs.  \nSpecify a deliberate perspective transition (e.g., third-person cinematic to hard cut first-person POV) to force a POV change mid-clip.  \nAdd camera direction like handheld/shaky/high-adrenaline to influence motion style and energy.  \nInclude strong negative constraints (NOT stylized/flat 2D/anime/cartoon outlines/cheap game-asset look) to push photorealistic output.  \nCall out live-action lens traits (subtle film grain, color-graded like live-action sci-fi, physically accurate shadows) to steer toward a cinematic VFX look.",
+  "translations": {
+    "es": {
+      "content": "Estructura los prompts de Seedance 2 con timecodes explícitos y múltiples cortes (por ejemplo, 0–10s con CUT 1/2/3) para controlar el ritmo y la progresión de los planos.  \nUsa imágenes de referencia por elemento (WORLD @[Image], CHARACTER @[Image], ENEMIES @[Image]) para fijar el entorno, el protagonista y los diseños de los personajes secundarios.  \nEspecifica una transición de perspectiva deliberada (por ejemplo, de tercera persona cinematográfica a un hard cut en POV de primera persona) para forzar un cambio de punto de vista a mitad del clip.  \nAñade dirección de cámara como handheld/shaky/high-adrenaline para influir en el estilo de movimiento y la energía.  \nIncluye restricciones negativas contundentes (NOT stylized/flat 2D/anime/cartoon outlines/cheap game-asset look) para empujar la salida hacia un resultado fotorrealista.  \nMenciona rasgos de lente de live-action (sutil film grain, color grading como sci-fi de live-action, sombras físicamente precisas) para orientar hacia un look cinematográfico de VFX."
+    },
+    "fr": {
+      "content": "Structurez les prompts Seedance 2 avec des timecodes explicites et plusieurs cuts (par ex. 0–10s avec CUT 1/2/3) pour contrôler le rythme et la progression des plans.  \nUtilisez des images de référence par élément (WORLD @[Image], CHARACTER @[Image], ENEMIES @[Image]) pour verrouiller l’environnement, le protagoniste et les designs des personnages secondaires.  \nPrécisez une transition de perspective délibérée (par ex. third-person cinematic vers hard cut first-person POV) pour imposer un changement de POV en cours de clip.  \nAjoutez des indications de caméra comme handheld/shaky/high-adrenaline pour influencer le style de mouvement et l’énergie.  \nIncluez de fortes contraintes négatives (NOT stylized/flat 2D/anime/cartoon outlines/cheap game-asset look) pour orienter le rendu vers un output photoréaliste.  \nMettez en avant des caractéristiques de lentille live-action (subtle film grain, color-graded like live-action sci-fi, physically accurate shadows) pour orienter vers un rendu VFX cinématographique."
+    },
+    "ja": {
+      "content": "Seedance 2 の prompt は、明示的なタイムコードと複数のカット（例: 0–10s に CUT 1/2/3）を使って構成し、テンポとショットの進行をコントロールします。  \n要素ごとに参照画像を使う（WORLD @[Image], CHARACTER @[Image], ENEMIES @[Image]）ことで、環境、主人公、サブキャラクターのデザインを固定します。  \n意図的な視点の切り替え（例: third-person cinematic から hard cut で first-person POV へ）を指定して、クリップの途中で POV を変化させます。  \nhandheld/shaky/high-adrenaline のような camera direction を追加して、動きのスタイルとエネルギーに影響を与えます。  \n強い negative constraints（NOT stylized/flat 2D/anime/cartoon outlines/cheap game-asset look）を入れて、フォトリアルな出力に寄せます。  \nsubtle film grain、color-graded like live-action sci-fi、physically accurate shadows などの live-action のレンズ特性を明記して、cinematic な VFX ルックへ誘導します。"
+    },
+    "ko": {
+      "content": "Seedance 2 프롬프트는 명시적인 타임코드와 여러 컷(예: 0–10초, CUT 1/2/3)을 사용해 구성하여 페이싱과 샷 진행을 제어하세요.  \n요소별 레퍼런스 이미지를 사용해(WORLD @[Image], CHARACTER @[Image], ENEMIES @[Image]) 환경, 주인공, 보조 캐릭터 디자인을 고정하세요.  \n의도적인 시점 전환(예: 3인칭 시네마틱에서 하드 컷으로 1인칭 POV 전환)을 명시해 클립 중간에 POV가 바뀌도록 강제하세요.  \nhandheld/shaky/high-adrenaline 같은 카메라 지시를 추가해 모션 스타일과 에너지를 조절하세요.  \n강한 네거티브 제약(NOT stylized/flat 2D/anime/cartoon outlines/cheap game-asset look)을 포함해 포토리얼리스틱한 결과를 유도하세요.  \nsubtle film grain, color-graded like live-action sci-fi, physically accurate shadows 같은 실사 렌즈 특성을 언급해 시네마틱 VFX 룩으로 방향을 잡으세요."
+    },
+    "pt": {
+      "content": "Estruture prompts do Seedance 2 com timecodes explícitos e múltiplos cortes (por exemplo, 0–10s com CUT 1/2/3) para controlar o ritmo e a progressão dos planos.  \nUse imagens de referência por elemento (WORLD @[Image], CHARACTER @[Image], ENEMIES @[Image]) para fixar o ambiente, o protagonista e os designs dos personagens secundários.  \nEspecifique uma transição de perspectiva deliberada (por exemplo, cinematic em terceira pessoa para hard cut em POV de primeira pessoa) para forçar uma mudança de POV no meio do clipe.  \nAdicione direção de câmera como handheld/shaky/high-adrenaline para influenciar o estilo de movimento e a energia.  \nInclua restrições negativas fortes (NOT stylized/flat 2D/anime/cartoon outlines/cheap game-asset look) para direcionar a saída para um resultado fotorrealista.  \nMencione características de lente de live-action (subtle film grain, color-graded like live-action sci-fi, physically accurate shadows) para orientar para um visual cinematográfico de VFX."
+    },
+    "zh": {
+      "content": "使用带有明确时间码和多个切镜的 Seedance 2 prompts（例如，0–10s，包含 CUT 1/2/3），以控制节奏和镜头推进。  \n为每个元素使用参考图（WORLD @[Image], CHARACTER @[Image], ENEMIES @[Image]），以锁定环境、主角和次要角色的设计。  \n指定一个刻意的视角转换（例如，从第三人称 cinematic 硬切到第一人称 POV），以强制在片段中途发生 POV 变化。  \n加入 camera direction，如 handheld/shaky/high-adrenaline，以影响运动风格和能量感。  \n加入强烈的 negative constraints（NOT stylized/flat 2D/anime/cartoon outlines/cheap game-asset look），以推动输出更偏向 photorealistic。  \n明确 live-action 镜头特征（轻微 film grain、色彩分级像 live-action sci-fi、物理准确的阴影），以引导其呈现 cinematic VFX 风格。"
+    }
+  }
+}
