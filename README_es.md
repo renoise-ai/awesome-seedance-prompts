@@ -65,7 +65,7 @@ Colección curada de prompts de generación de video para el Seedance 2.0 de Byt
 | 📝 Total de Prompts | **5928** |
 | ⭐ Destacados | **0** |
 | 💡 Consejos & Tutoriales | **2770** |
-| 🔄 Última Actualización | **2026-09-01** |
+| 🔄 Última Actualización | **2026-09-02** |
 
 ---
 
@@ -6808,4 +6808,4 @@ Gracias a todos los creadores que compartieron sus prompts con la comunidad.
 
 **🌐 [🎬 Ver en la Galería Web](https://renoise.ai/es/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [modelo Seedance 2.0](https://renoise.ai/es/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 Enviar un Prompt** • **⭐ Dar Star**
 
-🤖 Este README se genera automáticamente. Última actualización: 2026-09-01T22:26:23.146Z
+🤖 Este README se genera automáticamente. Última actualización: 2026-09-02T03:23:07.445Z
