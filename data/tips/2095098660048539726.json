@@ -1,0 +1,42 @@
+{
+  "id": "2095098660048539726",
+  "title": "Use Higgsfield + Seedance with a single product image as input to generate a…",
+  "content": "Use Higgsfield + Seedance with a single product image as input to generate a vertical UGC-style talking-head product ad with native audio while keeping product details consistent.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094931506225713152/img/mC0eFG-Oz32-v0do.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095098660048539726.mp4",
+  "sourceLink": "https://x.com/AhsanJaveriya/status/2095098660048539726",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "Javeriya Ahsan",
+    "link": "https://x.com/AhsanJaveriya"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Higgsfield + Seedance with a single product image as input to generate a vertical UGC-style talking-head product ad with native audio while keeping product details consistent.",
+  "translations": {
+    "es": {
+      "content": "Usa Higgsfield + Seedance con una sola imagen del producto como entrada para generar un anuncio vertical de estilo UGC con talking head y audio nativo, manteniendo consistentes los detalles del producto."
+    },
+    "fr": {
+      "content": "Utilisez Higgsfield + Seedance avec une seule image du produit en entrée pour générer une publicité produit verticale de type UGC, en format talking-head, avec audio natif, tout en conservant la cohérence des détails du produit."
+    },
+    "ja": {
+      "content": "Higgsfield + Seedance を使い、1枚の製品画像を入力として、製品のディテールを一貫して保ちながら、ネイティブ音声付きの縦型UGCスタイルのトーキングヘッド製品広告を生成します。"
+    },
+    "ko": {
+      "content": "Higgsfield + Seedance를 사용해 단일 제품 이미지를 입력으로 넣고, 제품 디테일의 일관성을 유지하면서 네이티브 오디오가 포함된 세로형 UGC 스타일의 토킹헤드 제품 광고를 생성하세요."
+    },
+    "pt": {
+      "content": "Use Higgsfield + Seedance com uma única imagem do produto como entrada para gerar um anúncio vertical de produto em estilo UGC, com talking-head e áudio nativo, mantendo os detalhes do produto consistentes."
+    },
+    "zh": {
+      "content": "使用 Higgsfield + Seedance，以单张产品图片作为输入，生成竖屏 UGC 风格的口播产品广告，并配备原生音频，同时保持产品细节一致。"
+    }
+  }
+}

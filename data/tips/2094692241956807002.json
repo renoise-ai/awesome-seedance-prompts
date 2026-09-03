@@ -1,0 +1,42 @@
+{
+  "id": "2094692241956807002",
+  "title": "絵コンテとプロンプトで構図やカメラワークを具体的に指定して生成をコントロールする",
+  "content": "絵コンテとプロンプトで構図やカメラワークを具体的に指定して生成をコントロールする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094691980865667072/img/sjBKIe7M_QA9BCVc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094692241956807002.mp4",
+  "sourceLink": "https://x.com/taryo_writer623/status/2094692241956807002",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "リョータ＠AIアニメ作家/YouTube運用🌿",
+    "link": "https://x.com/taryo_writer623"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "絵コンテとプロンプトで構図やカメラワークを具体的に指定して生成をコントロールする",
+  "translations": {
+    "en": {
+      "content": "Control generation by specifying composition and camera work in detail through storyboards and prompts."
+    },
+    "es": {
+      "content": "Controla la generación especificando de forma concreta la composición y el movimiento de cámara mediante el storyboard y el prompt."
+    },
+    "fr": {
+      "content": "Contrôler la génération en spécifiant précisément la composition et les mouvements de caméra à l’aide du storyboard et du prompt."
+    },
+    "ko": {
+      "content": "스토리보드와 prompt로 구도와 카메라 워크를 구체적으로 지정해 생성을 제어한다"
+    },
+    "pt": {
+      "content": "Controlar a geração especificando de forma concreta a composição e os movimentos de câmera por meio de storyboard e prompt"
+    },
+    "zh": {
+      "content": "通过分镜和 prompt 具体指定构图与镜头运镜，以控制生成结果"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2094717581756133424",
+  "title": "Specify aspect ratio explicitly (e.g., 16:9) in your Seedance prompt to control…",
+  "content": "Specify aspect ratio explicitly (e.g., 16:9) in your Seedance prompt to control framing.  \nDescribe the video as a sequence of rapid close-up macro shots and state shot duration (e.g., each shot lasts under one second) to enforce fast-paced montage editing.  \nList each action beat in order (pour flour → knead → flatten butter → fold/laminate → cut triangles → roll croissants → egg wash → bake → tear open) to guide Seedance through a step-by-step short film progression.  \nAdd lighting and color palette constraints (warm golden kitchen light, warm golden and cream tones throughout) to keep consistent mood across shots.  \nUse style keywords like hyper-detailed anime illustration and Ghibli food aesthetic to lock the visual style.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/0xemotions_/status/2094717581756133424",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "𝚎𝚖𝚘𝚝𝚒𝚘𝚗𝚜 ❦",
+    "link": "https://x.com/0xemotions_"
+  },
+  "tags": [
+    "Food",
+    "Cooking",
+    "Anime 2D",
+    "Realistic World",
+    "Macro",
+    "Tutorial"
+  ],
+  "tips": "Specify aspect ratio explicitly (e.g., 16:9) in your Seedance prompt to control framing.  \nDescribe the video as a sequence of rapid close-up macro shots and state shot duration (e.g., each shot lasts under one second) to enforce fast-paced montage editing.  \nList each action beat in order (pour flour → knead → flatten butter → fold/laminate → cut triangles → roll croissants → egg wash → bake → tear open) to guide Seedance through a step-by-step short film progression.  \nAdd lighting and color palette constraints (warm golden kitchen light, warm golden and cream tones throughout) to keep consistent mood across shots.  \nUse style keywords like hyper-detailed anime illustration and Ghibli food aesthetic to lock the visual style.",
+  "translations": {
+    "es": {
+      "content": "Especifica explícitamente la relación de aspecto (por ejemplo, 16:9) en tu prompt de Seedance para controlar el encuadre.  \nDescribe el video como una secuencia de rápidos planos macro en primerísimo plano e indica la duración de cada toma (por ejemplo, cada toma dura menos de un segundo) para imponer una edición de montaje de ritmo acelerado.  \nEnumera cada acción en orden (verter harina → amasar → aplanar mantequilla → doblar/laminar → cortar triángulos → enrollar croissants → pincelar con huevo → hornear → abrir con las manos) para guiar a Seedance a través de una progresión paso a paso tipo cortometraje.  \nAñade restricciones de iluminación y paleta de color (luz cálida dorada de cocina, tonos cálidos dorados y crema en todo momento) para mantener un estado de ánimo coherente entre las tomas.  \nUsa palabras clave de estilo como ilustración anime hiper detallada y estética gastronómica de Ghibli para fijar el estilo visual."
+    },
+    "fr": {
+      "content": "Spécifiez explicitement le ratio d’aspect (par ex. 16:9) dans votre prompt Seedance afin de contrôler le cadrage.  \nDécrivez la vidéo comme une séquence de plans macro rapprochés rapides et indiquez la durée de chaque plan (par ex. chaque plan dure moins d’une seconde) afin d’imposer un montage rythmé et rapide.  \nListez chaque étape d’action dans l’ordre (verser la farine → pétrir → aplatir le beurre → plier/laminer → découper des triangles → rouler les croissants → badigeonner à l’œuf → cuire → ouvrir en déchirant) pour guider Seedance à travers une progression de court-métrage étape par étape.  \nAjoutez des contraintes d’éclairage et de palette de couleurs (lumière chaude dorée de cuisine, tons chauds dorés et crème tout au long) pour conserver une ambiance cohérente d’un plan à l’autre.  \nUtilisez des mots-clés de style comme hyper-detailed anime illustration et Ghibli food aesthetic pour verrouiller le style visuel."
+    },
+    "ja": {
+      "content": "---\nSeedanceのpromptでは、アスペクト比を明示的に指定してください（例: 16:9）。これにより、フレーミングをコントロールできます。  \n動画は、素早いクローズアップのマクロショットの連続として記述し、各ショットの尺も明記してください（例: 各ショットは1秒未満）。これにより、テンポの速いモンタージュ編集を強制できます。  \n各アクションビートを順番に列挙してください（小麦粉を入れる → こねる → バターを平らにする → 折りたたむ／ラミネートする → 三角形に切る → クロワッサンを巻く → 卵液を塗る → 焼く → ちぎって開く）。これにより、Seedanceがステップごとの短編映画の流れを追いやすくなります。  \n照明とカラーパレットの制約も追加してください（暖かい黄金色のキッチンライト、全体を通して暖かいゴールドとクリームのトーン）。これにより、ショット間で一貫したムードを保てます。  \nhyper-detailed anime illustration や Ghibli food aesthetic のようなスタイルキーワードを使って、ビジュアルスタイルを固定してください。\n---"
+    },
+    "ko": {
+      "content": "Seedance prompt에서 화면 구성을 제어할 수 있도록 종횡비를 명시적으로 지정하세요(예: 16:9).  \n비디오를 빠르게 이어지는 클로즈업 매크로 샷들의 연속으로 설명하고, 각 샷의 길이를 명시하세요(예: 각 샷은 1초 미만) — 이렇게 하면 빠른 몽타주 편집이 강제됩니다.  \n각 액션 비트를 순서대로 나열하세요(pour flour → knead → flatten butter → fold/laminate → cut triangles → roll croissants → egg wash → bake → tear open). 이렇게 하면 Seedance가 단계별 숏필름 진행을 따라가도록 유도할 수 있습니다.  \n샷 전반에 걸쳐 일관된 분위기를 유지하기 위해 조명과 색상 팔레트 제약을 추가하세요(warm golden kitchen light, warm golden and cream tones throughout).  \nhyper-detailed anime illustration, Ghibli food aesthetic 같은 스타일 키워드를 사용해 시각적 스타일을 고정하세요."
+    },
+    "pt": {
+      "content": "Especifique a proporção da imagem explicitamente (por exemplo, 16:9) no seu prompt do Seedance para controlar o enquadramento.  \nDescreva o vídeo como uma sequência de rápidas tomadas macro em close-up e informe a duração de cada plano (por exemplo, cada plano dura menos de um segundo) para impor uma edição em montagem acelerada.  \nListe cada etapa da ação em ordem (pour flour → knead → flatten butter → fold/laminate → cut triangles → roll croissants → egg wash → bake → tear open) para orientar o Seedance por uma progressão de curta-metragem passo a passo.  \nAdicione restrições de iluminação e paleta de cores (warm golden kitchen light, warm golden and cream tones throughout) para manter um clima consistente entre os planos.  \nUse palavras-chave de estilo como hyper-detailed anime illustration e Ghibli food aesthetic para fixar o estilo visual."
+    },
+    "zh": {
+      "content": "在你的 Seedance prompt 中明确指定画幅比例（例如 16:9），以控制构图。  \n将视频描述为一系列快速的特写微距镜头，并注明每个镜头的时长（例如，每个镜头都少于一秒），以强化快节奏的蒙太奇剪辑。  \n按顺序列出每个动作节拍（倒入面粉 → 揉面 → 压平黄油 → 折叠/叠层 → 切成三角形 → 卷起可颂 → 刷蛋液 → 烘烤 → 撕开），引导 Seedance 按照分步骤的短片流程推进。  \n添加光线和色彩调性约束（温暖的金色厨房光线，整体保持温暖的金色与奶油色调），以确保各个镜头之间的情绪一致。  \n使用 hyper-detailed anime illustration 和 Ghibli food aesthetic 等风格关键词来锁定视觉风格。"
+    }
+  }
+}

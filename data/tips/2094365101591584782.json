@@ -1,0 +1,42 @@
+{
+  "id": "2094365101591584782",
+  "title": "Chain four 15-second Seedance scenes to create a continuous 60-second short.",
+  "content": "Chain four 15-second Seedance scenes to create a continuous 60-second short.  \nSet the output format to 16:9 landscape for widescreen composition.  \nUse a photoreal style prompt and specify four distinct terrains while instructing Seedance to keep one continuous piece of motion across scenes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094363368047927296/img/KVum_UBzG0vtXy_m.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094365101591584782.mp4",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2094365101591584782",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Chain four 15-second Seedance scenes to create a continuous 60-second short.  \nSet the output format to 16:9 landscape for widescreen composition.  \nUse a photoreal style prompt and specify four distinct terrains while instructing Seedance to keep one continuous piece of motion across scenes.",
+  "translations": {
+    "es": {
+      "content": "Encadena cuatro escenas de Seedance de 15 segundos para crear un corto continuo de 60 segundos.  \nConfigura el formato de salida en 16:9 horizontal para una composición panorámica.  \nUsa un prompt de estilo fotorrealista y especifica cuatro terrenos distintos, indicando a Seedance que mantenga una única pieza continua de movimiento a lo largo de las escenas."
+    },
+    "fr": {
+      "content": "Enchaînez quatre scènes Seedance de 15 secondes pour créer un court métrage continu de 60 secondes.  \nRéglez le format de sortie sur 16:9 en paysage pour une composition grand écran.  \nUtilisez un prompt de style photoréaliste et spécifiez quatre terrains distincts, tout en indiquant à Seedance de conserver un seul mouvement continu d’une scène à l’autre."
+    },
+    "ja": {
+      "content": "4つの15秒のSeedanceシーンをつなげて、連続した60秒のショートを作成します。  \n出力形式は16:9の横長に設定し、ワイドスクリーン構図にします。  \nphotoreal style promptを使用し、4つの異なる地形を指定しつつ、シーン全体を通して1つの連続した動きが途切れないようSeedanceに指示します。"
+    },
+    "ko": {
+      "content": "4개의 15초 Seedance 장면을 연결해 하나의 연속된 60초 숏폼을 만드세요.  \n출력 형식을 16:9 가로 비율로 설정해 와이드스크린 구성을 사용하세요.  \nphotoreal 스타일 prompt를 사용하고, 서로 다른 4개의 지형을 지정하되 Seedance가 장면 전체에 걸쳐 하나의 연속된 동작 흐름을 유지하도록 지시하세요."
+    },
+    "pt": {
+      "content": "Encadeie quatro cenas de 15 segundos do Seedance para criar um curta contínuo de 60 segundos.  \nDefina o formato de saída como 16:9 em paisagem para uma composição widescreen.  \nUse um prompt em estilo photoreal e especifique quatro terrenos distintos, instruindo o Seedance a manter uma única peça contínua de movimento entre as cenas."
+    },
+    "zh": {
+      "content": "将四个 15 秒的 Seedance 场景串联起来，制作一个连续的 60 秒短片。  \n将输出格式设置为 16:9 横屏，以获得宽银幕构图。  \n使用 photoreal 风格的 prompt，并指定四种不同的地形，同时指示 Seedance 在各场景之间保持一段连续的运动。"
+    }
+  }
+}

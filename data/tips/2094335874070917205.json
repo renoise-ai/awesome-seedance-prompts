@@ -1,0 +1,42 @@
+{
+  "id": "2094335874070917205",
+  "title": "Use an LLM during planning to flesh out your initial concept into a detailed…",
+  "content": "Use an LLM during planning to flesh out your initial concept into a detailed story, then feed that full story into Seedance/Flova to improve generation quality.  \nClearly convey your initial concept (with specific story details) in the prompt to get better results and reduce the need for revisions.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094326810855325696/img/zhz7G5EMZ04Pt-zs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094335874070917205.mp4",
+  "sourceLink": "https://x.com/opener_ai/status/2094335874070917205",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Jin.B",
+    "link": "https://x.com/opener_ai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an LLM during planning to flesh out your initial concept into a detailed story, then feed that full story into Seedance/Flova to improve generation quality.  \nClearly convey your initial concept (with specific story details) in the prompt to get better results and reduce the need for revisions.",
+  "translations": {
+    "es": {
+      "content": "Utiliza un LLM durante la fase de planificación para desarrollar tu concepto inicial hasta convertirlo en una historia detallada, y luego introduce esa historia completa en Seedance/Flova para mejorar la calidad de la generación.  \nTransmite con claridad tu concepto inicial (con detalles específicos de la historia) en el prompt para obtener mejores resultados y reducir la necesidad de revisiones."
+    },
+    "fr": {
+      "content": "Utilisez un LLM pendant la phase de planification pour développer votre concept initial en une histoire détaillée, puis transmettez cette histoire complète à Seedance/Flova afin d’améliorer la qualité de génération.  \nExprimez clairement votre concept initial (avec des détails narratifs précis) dans le prompt pour obtenir de meilleurs résultats et réduire le besoin de révisions."
+    },
+    "ja": {
+      "content": "企画段階ではLLMを使って、最初のコンセプトを詳細なストーリーへと具体化し、その完成したストーリーをSeedance/Flovaに入力して生成品質を向上させます。  \n初期コンセプトを、具体的なストーリーの詳細とともにpromptで明確に伝えることで、より良い結果を得られ、修正の手間も減らせます。"
+    },
+    "ko": {
+      "content": "계획 단계에서 LLM을 활용해 초기 콘셉트를 구체적인 스토리로 확장한 다음, 그 전체 스토리를 Seedance/Flova에 입력해 생성 품질을 높이세요.  \n프롬프트에 초기 콘셉트와 구체적인 스토리 디테일을 명확하게 전달하면 더 나은 결과를 얻고 수정 작업도 줄일 수 있습니다."
+    },
+    "pt": {
+      "content": "Use um LLM durante o planejamento para desenvolver seu conceito inicial em uma história detalhada e, em seguida, insira essa história completa no Seedance/Flova para melhorar a qualidade da geração.  \nTransmita claramente seu conceito inicial (com detalhes específicos da história) no prompt para obter melhores resultados e reduzir a necessidade de revisões."
+    },
+    "zh": {
+      "content": "在规划阶段使用 LLM，将你的初始概念扩展为一个详细的故事，然后把完整故事输入 Seedance/Flova，以提升生成质量。  \n在 prompt 中清晰传达你的初始概念（包含具体的故事细节），以获得更好的结果并减少修改需求。"
+    }
+  }
+}

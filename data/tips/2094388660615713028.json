@@ -1,0 +1,42 @@
+{
+  "id": "2094388660615713028",
+  "title": "做抖音起号爆款AIGC短视频时优先用视频生成模型的首帧生成（I2V）模式，而不是做长期稳定动画剧集的工作流（Seedance 系列与 minimax-h3…",
+  "content": "做抖音起号爆款AIGC短视频时优先用视频生成模型的首帧生成（I2V）模式，而不是做长期稳定动画剧集的工作流（Seedance 系列与 minimax-h3 均适用）",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094388543917600768/img/zueiMRjW3X9uuKU4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094388660615713028.mp4",
+  "sourceLink": "https://x.com/Pluvio9yte/status/2094388660615713028",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "雪踏乌云",
+    "link": "https://x.com/Pluvio9yte"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "做抖音起号爆款AIGC短视频时优先用视频生成模型的首帧生成（I2V）模式，而不是做长期稳定动画剧集的工作流（Seedance 系列与 minimax-h3 均适用）",
+  "translations": {
+    "en": {
+      "content": "When creating viral AIGC short videos for Douyin account growth, prioritize the first-frame generation (I2V) mode of video generation models rather than the workflow used for long-term, consistently stable animated series (applicable to both the Seedance series and minimax-h3)."
+    },
+    "es": {
+      "content": "Al crear videos cortos AIGC virales para lanzar una cuenta en Douyin, prioriza el modo de generación de primer fotograma (I2V) de los modelos de generación de video, en lugar del workflow para producir series animadas estables a largo plazo (aplicable tanto a la serie Seedance como a minimax-h3)."
+    },
+    "fr": {
+      "content": "Pour créer des vidéos AIGC virales pour lancer un compte Douyin, privilégiez d’abord le mode de génération de la première image en vidéo (I2V) du modèle de génération vidéo, plutôt que le workflow destiné à produire des séries d’animation stables sur le long terme (valable pour les séries Seedance et minimax-h3)"
+    },
+    "ja": {
+      "content": "Douyinでアカウント立ち上げ時のバズるAIGC短尺動画を作るなら、長期的に安定したアニメシリーズ向けのワークフローではなく、まずは動画生成モデルの首帧生成（I2V）モードを優先して使うべきです（Seedanceシリーズおよびminimax-h3の両方に適用可能）"
+    },
+    "ko": {
+      "content": "Douyin에서 계정을 시작할 때 터지는 AIGC 숏폼 영상을 만들 때는, 장기적으로 안정적인 애니메이션 시리즈용 워크플로우보다 비디오 생성 모델의 첫 프레임 생성(I2V) 모드를 우선 사용하는 것이 좋습니다. (Seedance 시리즈와 minimax-h3 모두에 적용 가능)"
+    },
+    "pt": {
+      "content": "Ao criar vídeos curtos AIGC virais para iniciar uma conta no Douyin, dê prioridade ao modo de geração do primeiro frame do modelo de geração de vídeo (I2V), em vez do workflow voltado para séries de animação de longa duração e estabilidade (aplicável tanto à série Seedance quanto ao minimax-h3)."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2095072886923132960",
+  "title": "Use reference figures as inputs, blend them into your scene, then iteratively…",
+  "content": "Use reference figures as inputs, blend them into your scene, then iteratively refine the mood (e.g., quiet, rainy, haunting) directly in the workspace scene-by-scene instead of relying on a single prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095072827460485120/img/W2D9BIIbeuQ8tDWl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095072886923132960.mp4",
+  "sourceLink": "https://x.com/Chaemate_/status/2095072886923132960",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "Mira Sterling",
+    "link": "https://x.com/Chaemate_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use reference figures as inputs, blend them into your scene, then iteratively refine the mood (e.g., quiet, rainy, haunting) directly in the workspace scene-by-scene instead of relying on a single prompt.",
+  "translations": {
+    "es": {
+      "content": "Usa figuras de referencia como entradas, intégralas en tu escena y luego refina iterativamente el ambiente (por ejemplo, tranquilo, lluvioso, inquietante) directamente en el espacio de trabajo, escena por escena, en lugar de depender de un único prompt."
+    },
+    "fr": {
+      "content": "Utilisez des figures de référence comme entrées, intégrez-les à votre scène, puis affinez itérativement l’ambiance (par exemple : calme, pluvieuse, envoûtante) directement dans l’espace de travail, scène par scène, au lieu de vous appuyer sur un seul prompt."
+    },
+    "ja": {
+      "content": "参照用の人物を入力として使用し、それらをシーンに自然に溶け込ませたうえで、単一の prompt に頼るのではなく、ワークスペース上でシーンごとにムード（例：静か、雨、不気味）を反復的に調整していきます。"
+    },
+    "ko": {
+      "content": "참조 인물을 입력으로 사용해 장면에 자연스럽게 녹여 넣은 다음, 단일 prompt에 의존하지 말고 작업 공간에서 장면별로 분위기(예: 고요한, 비 오는, 섬뜩한)를 반복적으로 다듬어 보세요."
+    },
+    "pt": {
+      "content": "Use figuras de referência como inputs, integre-as à sua cena e, em seguida, refine iterativamente o clima (por exemplo, quieto, chuvoso, assombroso) diretamente no workspace, cena por cena, em vez de depender de um único prompt."
+    },
+    "zh": {
+      "content": "将参考人物作为输入，将其融入你的场景中，然后在工作区内按场景逐步迭代优化氛围（例如：安静、雨天、诡异），而不是依赖单一的 prompt。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2095222008850043018",
+  "title": "Hook up the Seedance API to Grok Bot (with the Whop connector providing product…",
+  "content": "Hook up the Seedance API to Grok Bot (with the Whop connector providing product context) so Grok can generate Seedance ad creatives en masse programmatically.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/eptwts/status/2095222008850043018",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "EP",
+    "link": "https://x.com/eptwts"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Hook up the Seedance API to Grok Bot (with the Whop connector providing product context) so Grok can generate Seedance ad creatives en masse programmatically.",
+  "translations": {
+    "es": {
+      "content": "Conecta la API de Seedance a Grok Bot (con el conector de Whop proporcionando contexto del producto) para que Grok pueda generar creatividades publicitarias de Seedance en masa de forma programática.\n\n--- TUIT CITADO ---\nWhop ahora es un conector nativo en @cursor_ai y Grok @bot\n\nCrea tu sitio web, LLC o negocio completo con Cursor.\n\nCrea flujos de trabajo personalizados y compañeros de equipo con IA con Grok Bot y gestiona tu negocio de forma programática. https://t.co/b39XuK7jsx\n---"
+    },
+    "fr": {
+      "content": "Connectez l’API Seedance à Grok Bot (avec le connecteur Whop fournissant le contexte produit) afin que Grok puisse générer en masse, de manière programmatique, des créations publicitaires Seedance.\n\n--- TWEET CITÉ ---\nWhop est désormais un connecteur natif dans @cursor_ai et Grok @bot\n\nCréez votre site web, votre LLC ou l’intégralité de votre entreprise avec Cursor.\n\nCréez des workflows personnalisés et des coéquipiers IA avec Grok Bot et gérez votre entreprise de manière programmatique. https://t.co/b39XuK7jsx\n---"
+    },
+    "ja": {
+      "content": "Whop コネクタが商品コンテキストを提供する形で、Seedance API を Grok Bot に接続し、Grok が Seedance の広告クリエイティブをプログラムで一括生成できるようにする。\n\n--- 引用ツイート ---\nWhop は現在、@cursor_ai と Grok @bot のネイティブコネクタです。\n\nCursor で、あなたのウェブサイト、LLC、あるいはビジネス全体を作成しましょう。\n\nGrok Bot でカスタムワークフローや AI チームメイトを構築し、ビジネスをプログラムで運営できます。 https://t.co/b39XuK7jsx\n---"
+    },
+    "ko": {
+      "content": "Whop 커넥터가 제품 컨텍스트를 제공하도록 하여 Seedance API를 Grok Bot에 연결하면, Grok가 Seedance 광고 크리에이티브를 대량으로 프로그래밍 방식으로 생성할 수 있습니다.\n\n--- 인용된 트윗 ---\nWhop은 이제 @cursor_ai와 Grok @bot의 네이티브 커넥터입니다.\n\nCursor로 웹사이트, LLC, 또는 비즈니스 전체를 만들어 보세요.\n\nGrok Bot으로 맞춤형 워크플로와 AI 팀원을 구축하고, 비즈니스를 프로그래밍 방식으로 운영하세요. https://t.co/b39XuK7jsx\n---"
+    },
+    "pt": {
+      "content": "Conecte a API do Seedance ao Grok Bot (com o conector da Whop fornecendo contexto do produto) para que o Grok possa gerar criativos de anúncios do Seedance em massa, de forma programática.\n\n--- TWEET CITADO ---\nA Whop agora é um conector nativo no @cursor_ai e no Grok @bot\n\nCrie seu site, LLC ou negócio inteiro com o Cursor.\n\nCrie fluxos de trabalho personalizados e colegas de equipe de IA com o Grok Bot e gerencie seu negócio de forma programática. https://t.co/b39XuK7jsx\n---"
+    },
+    "zh": {
+      "content": "将 Seedance API 接入 Grok Bot（由 Whop 连接器提供产品上下文），这样 Grok 就能以编程方式批量生成 Seedance 广告创意。\n\n--- 引用推文 ---\nWhop 现在已成为 @cursor_ai 和 Grok @bot 的原生连接器\n\n使用 Cursor 创建你的网站、LLC，或整个业务。\n\n借助 Grok Bot 构建自定义工作流和 AI 团队成员，并以编程方式运营你的业务。 https://t.co/b39XuK7jsx\n---"
+    }
+  }
+}
