@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **5928** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **2770** |
-| 🔄 最終更新 | **2026-09-02** |
+| 🔄 最終更新 | **2026-09-03** |
 
 ---
 
@@ -6302,4 +6302,4 @@ Design each cut so it ends in the exact pose the next cut starts from to prevent
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-09-02T22:25:45.075Z
+🤖 この README は自動生成されています。最終更新： 2026-09-03T03:24:22.517Z
