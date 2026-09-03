@@ -6934,4 +6934,4 @@ Use style constraints and negatives (cinematic cel-shaded 3D anime, semi-realist
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-09-03T15:57:35.318Z
+🤖 この README は自動生成されています。最終更新： 2026-09-03T19:13:59.818Z
