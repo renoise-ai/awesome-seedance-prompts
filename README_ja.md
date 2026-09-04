@@ -65,7 +65,7 @@ Seedance 2.0 の厳選ビデオ生成プロンプト集
 | 📝 プロンプト総数 | **5964** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **2800** |
-| 🔄 最終更新 | **2026-09-03** |
+| 🔄 最終更新 | **2026-09-04** |
 
 ---
 
@@ -6934,4 +6934,4 @@ Use style constraints and negatives (cinematic cel-shaded 3D anime, semi-realist
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **🎬 [Seedance 2.0 モデル](https://renoise.ai/ja/features/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-09-03T22:21:50.461Z
+🤖 この README は自動生成されています。最終更新： 2026-09-04T03:22:32.855Z
